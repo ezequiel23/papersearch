@@ -1,0 +1,1233 @@
+~
+
+II.
+
+_
+
+O. ,
+
+I
+
+~
+
+TECHNICAL NOTES.
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+---No. 16 .
+
+EXeERIENGE WITH GEARED PROPELLER DRIVES· ~ji? '
+
+7
+
+•
+
+iii
+
+AVIATION ENGINES.
+By
+K. Kutzbach.
+
+.
+l.
+.
+
+Translated from
+Technische Berichte Vol. 111.- Sac. 3 •
+by
+
+Starr Truscott; Aeronautic Engineer.
+Buraau of Construction - - - --
+
+coPY
+
+I
+
+I
+
+I
+I
+I
+
+'\
+
+NATIONAL ADVISORY COMMI1:TEE FOR AERONAt1rICS.
+
+TECHNICAL NOTE NO. 16.
+
+EXPERIENCE WITH GEARED PROPELLER DRIVES FOR AVIATION ENGINES. *
+By
+
+K. Kutzbaeh.
+
+Translated from Technische Baricbte, Vol. III, Sec. 3,
+by Starr Truscott, Aeronautic Engi~er,
+Bureau of Construction & Repair, U. S. N.
+
+SUMMARY.
+
+1.
+
+The Development of the Gear Wheals.
+(a) R")oo "..ng stre sse s .
+(b) C omp~assive stresses.
+(c)
+(d)
+
+HS8,tiIJg.
+
+Pl'ecision of manufact\U'e.
+
+II.
+III.
+
+,
+
+General .Arraogament of the Gearing.
+
+Vibration in the Shaft Transmission.
+
+I.
+
+THE DEVELOPMENT OF TEE GEAR WHEELS.
+
+Banding stresses .
+
+(a)
+
+The greatest stress in the gear tooth is determill8d by the value
+
+Pmg
+
+of b.t
+If on& assumes - as is common with straight cut s~
+gears, - that tbe greatest tooth pressure (peripheral pressure) enco,\ultered, rm~. is dj.stributed uniformly over the whole width b,
+but i S cart'~eri only by the outer corner of one tooth, then for gear
+wheels with teetb of tbe common involute form
+Kb
+
+rv
+
+14.
+
+Pmax
+b.t
+
+expanSion of a report sent in as an introduction to a discu~sion
+on experience with geared prop&11er drives beld o~ ~ lOt 1918,
+
+• (An
+
+at CharlottenbUrg.)
+
+•
+
+- 2 From the power N dalivered by the engine to the gear thGr a can be
+determined of course only the mean value Pu • in which Pu
+7S.N ~
+b.t
+Vu
+and this value has be~n computed for the various captured engines
+which ware stUdied. Table I. Pmax can under certain circumstances
+be considerably great er than Pur either bacausD of acceleration
+pressures resulti~ from incorrect pitch or form of teeth, or because of irregular delivary of power from the engine, or finally
+because of reinforced vibration n .;ar a resonance period of the shaft;
+conseq,UBntly, no statemimts can be m
+ade as to the actual magnitudes
+of Pmax ' AccordintSly. in Tab le I. thera are considered only the
+mean tooth pressures (peripheral pressures) P U1 compu'ced from the
+engine powers.
+
+=
+
+••
+
+From Table I it can be concluded that with good 5teel one can
+at once aSSune Pu
+200, although this valu~ according to formula (1)
+
+bt
+
+=
+
+=
+
+reprcs0nts a stress Kb
+2800 kg/cmZ• With somewhat more accurate
+pitching the load is carried by mora than the one tooth, because of
+the deformation of the loaded tooth. Th~ theoretical stress in the
+teeth would be less still if the root and tip of tho tooth were not
+made so high, as, for instance. in the Napier gaar (in which to be
+sur a the overlap~ing in m ~ shing is reducod), or if the root wer 8 made
+spocially thick (as, for instance, by the Maag, Friedrichshafen).
+This becomeS espeoially true with the use of oblique teeth (as in
+the Hispano-Suiza), to which class belong herring bone gears and aroshaped gears, since in these the tooth pressure is distributed uniformaly on an oblique line running from the root to the tip of the
+tooth. The stressos ar~ worse, however, if the teeth bear unevenly
+as a result, for instance, of warping in hardening, untrue keying or
+poor forming. Too small a radius of tha root is a more common defect,
+and on account of the scoring action is vary dangerous. All these
+circumstances must be considered in determining the bending stress
+or the value of Pu
+
+-or
+
+It was det0rmined that chroma nickel steel waS the mat~rial
+used in most of the gear wheels of the captured engincs~ The gaars
+arc hardaned (case hardaned) as a rule but are not all ground.
+(b)
+
+~ressive stresses.
+
+In general, tooth failurds rarJly app~ar in the captured engines
+and in those inst~~c~s where they have been found they might have occurred in landing. However t sufficient bending strength can be easily obtained even with strai5ht cut gears.
+The compres81ve strength, which mi~ht be called the pearin~
+strdngth, se.3ms mor~ important; that is, the s'Ul'fac(3 pressure of the
+opposing curva~ tooth faces must never exceed the elastic limit if
+no perm&'.l~nt deformation and consequ.:mtly no wear of thd teeth is to
+occur. Thd comprcls8iv~ stre~th also has a direct cff~ct on the
+preservation of the lubricating film betwa en the teeth, for the greatar
+
+--~~---~-,- ------------------------------
+
+- 3 -
+
+the s~f8Ce pressure and the smaller the relative velocity of sliding
+Vg of the te~th the more difficult to keep the oil betw~en the teeth#
+The relative sliding speed of straight tootbad gears is zero at the
+pitch or rolling circlo. wbare pure rolliDg of the teeth on one another OCCllrS. At this point the oil is easily squeezed out; metallic contact between the sv.rfaces of the teeth occurs and.. if the elastic limit is excoeded. distortion or wear is unavoidable.
+In order to compare the bearing strength of stra.ight cut gears
+with tho results of oxperience with baarings one can compute tho rela.tive tooth curvature of the teeth at the rolling circle. For involute teeth the radii of curvature of the t eeth at the rollIng circle
+are the d..istances a 1 and 92 between the central point C and the
+tangent points G1 and GZ of the taogents to the base circle s (sea
+Fig, 1). The relative curvature of the teeth accordingly expresses
+the curvature of a roller lyi.l')g on a plane and whose diawetor Or
+is given by the equation:-
+
+=
+
+1
+
++
+
+1
+
+rZ cosa:::'
+
+The + Sign applie s if the centers ar ~ on opposite sides of the axis
+(external or spur gears with involuto system) the - sign if they are
+on the Same side (int ernal gears). The values of Pmax the n are a
+b .Ii
+.
+measure of the "bearing strength. 11 The values of the roller diameters
+Or for the captur ed angine gears are given in Table I and since Pma,x
+is unknown the values of Pu
+are given.
+
+b.
+
+Or
+
+From experience with the ge ars it is concluded that if all the
+gears are of hardoned steel
+Pu
+b.
+
+and that if
+
+Pu
+b.
+
+Or
+
+Or
+
+= 100
+
+shoulQ be suitable
+
+<
+
+::: 30 the gears need not be hardened.
+
+It is espec-
+
+<
+
+ially notable what favorable roller diameters are obtained with internal gears, with which hardening is as a rule unnecessar~. Por
+roller cearings where hardened rolls run bet~~en hardened rings
+
+~ ::: ZOO and more is permissible for low peripheral speeds.
+b.
+
+Or
+
+Where
+
+the roll s bear directly on the unhardened shaft 10 to 20 should be
+substituted .
+With oblique toothed gears the contact shifts with great speed
+from side to side (with Herringbone and arced tooth gears from the center out and inversely, respectively) as a result of whiCh the lubricating film is squeezed out with more difficulty. .A small angle to
+the teeth is of advantage in this connection.
+
+- - - ------ -------
+
+------------~----- ---
+
+--
+
+As to tooth forms, involute teeth are found in all the captured
+engines. which have the great advantage of being accurat~ly formed
+and independent of cent er distances, although ' the Cycloidal type would
+have bet tar fitting teeth and. conseCiuantl y small er valu2s of P u
+b;
+
+(c)
+
+Or
+
+Heat ing.
+
+W
+hen comparing gears b8si~es the benuing and crushing stre sses
+their tendency to heat is important. The det~r;r. ining facto rs here
+are the heat generated - depondent on fi -P'V - and the surfaces of
+the gear wheels which absorb and carry away t;~e neat. In t.his only
+the width and diamet er of the gears ar e of importance ~uite irAspendently of the pitch. Vgl the momantary sliding velocity of the teeth
+is given by
+
++ UV ) ~ e (nl : nZ)
+z
+9,6
+
+in which e i s the dist ance f r om the cantral point C (Fig . 2) at
+which the teeth touch anQ the + sign applies for extdrnal (spur) gears
+and the - sign for internal. The distance e vari e s from 0 to
+maxim\lIll valUe S whic h are dependent on the pitch t. The mean value
+of Vg is consequently ~ependent on t and the respective revolutions
+01 and n2 of the gears. Accordingly, the e~pression
+
+b.d
+
+b
+
+can be taken as a measure of the heating of the gear9.
+(NOTE: If several gear s, (say i) work with on8, as for instance
+in the Rolle Royce drive, where i equals successively 3, 1, and 3,
+then this equation becomes
+
+w = i,
+The
+
+valu~ s
+
+...
+
+~ .. (nl - n2)
+b
+z
+
+are to be computed for all four gears in this manner.
+
+In Table I this value is giv en for the srnal1 2r gears of each
+drive, since thase give the higher valUeS. and frem experience wi th
+the gears it can be assumed that w ~ 30,000 should be suitable.
+The larger w is the most conveni ent mot hod of cooling the gears. that is. the carrying off of the neat into me tal parts and cooling
+the~e with air, - must be aSSisted by the 1 0SS certain method of oil
+cooling. The smaller w tho l ess nded it be feared that the gears
+will run hot if the lubrication is t emporarily i~terrupted. The RollsRoyce g6 ~ r (Nos. 11 to 13, Table 1) has the smallest vslua of w.
+This is lubricateu, liKe the bearings, from the shaft and partially by
+oil from '.."ithout, but tho oil thrown oft flows b;.ck into the "dry"
+crankcase. In the Wolseley Hisf ano-Suiza gear (No . 10) a var y heavy
+J lubrica tion is proviued by a special oil pump which squirts the
+oil into the point where the teeth mesh through a slit in a pipe.
+
+- 5 -
+
+..
+
+The gears should. not be lubrica.ted so hea.vily that the oil
+haats up as the result of a sort of churning. rus ma.y occur either
+because the walls of the case are too close to the g&ars or because
+the oil is caught between the faces of wide gears and forced out
+sidewise with great force. In either case unnecessary friction is
+:produced w;.th heating and thinning of the oil aDd a corresponding
+loss of powe~. The more the dissipation of tbe beat generated can
+be left to the metal parts and the air the better for the gear
+drive and Us effiCiency".
+(d)
+
+Erecicion of Manufacture.
+
+The peripb8ral speed Vu is & quantity- frequently used in comparing gear. wheels. It becomes more ioopo~tant the mo~e defects there
+are in the transmission ratio due to inacc\l.'ra.cies in pitch or tooth
+forms. Inaccuracies in the teeth can be very plainly recognized
+with the Ba'~rer gear testing machine. By courtesy of the Zalmradfab...
+rik FrieQ~iehshafen (Friedrichsha!sn gea~ factory) several diagrams
+from this machine are reproduced in Figs. 3 to 7.
+(The Saurer gear testing machine tests gear wheels of any ratio.
+Two accurately circ111aJ~ pulleys, which are connected by a steel belt,
+provide an exact tre.l.lsnti.ssion wi thout play or backlash wi th which
+the actual transmisGj.on of the gear wheels is compared.. If the toothing is iree from ina,(:cUl"acies the pointer of the ma.cbim draws a circle or, if the p~.leys have not the preCise ~atio of the gears, a
+spiral. The rad i .e",l \~ai:'iations f170m the spiral correspond to tangentia.l va~iations of the center distancas magnified 200 times, and
+therefo~e show the angular error.)
+
+The diagrams bl:'5.ng out in a. striking Il18.llIl!)r the defects of the
+transmission which mey be Caused either by inacc~ate setting of the
+gear wheels in manufc.ct'Ul'& or erection, or by inacclll'a.cles ~.n the dividing plate or gear cutting machine. but espeCially by shrinking
+when hardening. Besides these there occur in the gear drive itself
+e!'rors due to bending of the shafts or shifting of the unequally
+heated g~ wheels. Defects in the transrrdssion ratio Cause movements back and forth of the teeth. the blows fram which are divided
+between both gea,l."s in proportion to the f::ictional and. inertia resiStance. Bestdes these there also OCC'llr reCiprocal displacements of
+the gea1' ceniars as a. !'esul t either of play in the bearings or springing of the shatts. An error of .01 IUD . at the periphery would cor" respond to a. cen";er displacement four times as great or 0.04 rom. If
+;
+the mass of ona gear is very great compal'ed to that of the other it
+will run on 'UllllOI1ll1y and the sme~ler will ~aka all the variations.
+This applies for instance to propeller shafts whose revolving masses
+far eXceed those of the crankshaft.
+
+The magnitude of the acceleration press,~es which arise in this
+case, can be oomprehended if one considers the time in which tho motion takes plaC'.e. All the motions can be eonsic£red as portions ot
+harmQnic vibrations and thus made more oonvenient for computation as
+t~ computation of the aecele~ation pressureo Ior these is very simple.
+
+I
+I
+
+L
+
+- 6 ASSUD8, for 1nsta.n.ee , tbat • t<>oth IIiCTOnxfr;t, .j.s pari! 'Of a. harmonic vibratiou whose period is ihe l/itn part_Qf a revolution,
+The whole vibra.tion then bas a pariod of T ::: ~ sec . and tb.&
+ul·1
+2 in which IDrl
+g1'.'9atast acceleration pressure is P :: tDrl .. 8.1 . W1
+is the mess rigidly attached to the teeth of gear I r eferred to the
+rolling circle, 8.1 (in meters) is the radius of the vibration ~r tb&
+distance by which gear I departed from mean positi on, and.
+
+=
+
+n1. i
+
+9.6
+Expressing &1
+
+ls the angular volocity of the hannonic vibration.
+in mn.
+~. i
+:::
+P ::: InrI
+
+!
+
+,2
+
+( 9,6)
+
+nri)
+(
+
+~
+
+If now for example) G 1 = 5 kg •• al ;::: 0.05
+r
+
+mill . )
+
+n
+
+2
+
+9.6
+
+=:
+
+1800 r .p .. m.,
+
++
++
+z == 20. then - P == - 400 kg ..
+
+Consequently, coarse inaccuracies of tooth form or pitch can excite forces of considerable importance which are superposed on the
+forces transmitted from the engine. If in the preceding example the
+mean peripheral pressure is only occasionally P u
+400 kg ••
+cbang~s in direction of pressure OC<:tlr in the teeth and the gears
+will be dashed to and fro. For this reason small gears and high peripheral pressures are genara.l1y clesira.ble. As for the rest it is easily seen. what relation the acceleration pressures bave to GrOat nandi,
+The pract ica.l method for reducing these added pressures is indlcat1')d.
+however, aince n and 1 can ge:oerall~ be, changed le ss easily
+
+<
+
+0
+
+1. Reduce the referred weight Gr of both gears or at least of
+one. The masses revolving with the gear teeth i>hould 00 kept as
+small as possible, either by lightening the gears or by separating
+the teeth or the wheel from the other shaft by a flexible mounting.
+It will be axplained later to what extent the flexible mounting may
+work unfavorably.
+
+z.
+
+Reduce the inaccuracies a.. As far as they arise frem the
+pitcbing er the tools they ar ~ smaller, the smaller the diameter and
+the finer the pitch (or Modulus). :But with fine pitches i is ea.sily increased. On the other hand, the balancing effect of the lubricating oil becomes greater. the smaller a is, which is favorable to
+fine pitches (compare the Rolls-Ro~ce gear). The beat means, however, is to increase the requirements as to accura.cy of toothing and
+a.ssembly by a.Ccurate rneasurement ..,of defects and a reduction of the
+magni tude of the allowable defecta. If, £ or instance, in the example
+given above, the inaccuracy instead of being .05 mIn. ~s on11 .005 mn. which can easily be obtained by grinding - then ! P
+40 kg. which
+is quite permissible for the gears in question.
+
+=-
+
+-----------------------------------
+
+---~------------~------ - -----' --~~~~-~~~~
+
+- 7 The diagrams of too Saurer gear testing machine show that tbe
+accuracy of the tranSIllission ratio can be carried very far by grinding.
+Accordingly, the gears should either be milled or shaped with the
+greatest accuracy and used unhardened with correspondingly reduced
+stresses or hardened ~ro'UIld. In ei ther case all gears should be
+tested in ords~ that defects ~ be discovered in time.
+The clearance {play} betv.een the teeth may be as large as desired
+if. or as long as, no chazJge in direction of pressure occurs. If.
+for instance, with a mean pf>ripooral pre ssure of 400 kg. Puma,x
++
+
+=
+
+800 kg., and we never have umin ~ 0, the teeth remain always in
+contact. However, changes in direction of pressure occur practically,
+with great irJregularityof torque - for instance, with engir.es with a
+small number of cylinders or low revolutions, 1) - with very inaccurate toothing. but espeCially at pe riods of "critical vibration" which
+will be discussed later. It is satisfactory in any case if the teeth
+have a little play. which should be reduced only to avoid too much
+noise when idling ;.\lld in the region of' resonance.
+
+The g6a.rs of tha
+
+Hispano-Suiza engines are assembled with a noticeable clearance so
+that after they bave warmed up a sufficient oil clearance will relllaln.
+1) Four 4-cycle cylinders (at 1800 ) cause reversals in direction of pressure before the fly wbael for all speeds of revolution,
+and consequently, in the gear wheels without fly whaels. SiX cylinders have this effect only at a low torque or with very heavy moving
+masses. Consequently, a 6-cylinder airplane ongine can causa reversals either at low r.p.m. near idling speeds or at very high r.p.m.
+(witb heavy pistons and high piston speeds). With 5, 7. 8 and ~ore
+cylinders with crank angles equally spaced. the piston masses have
+no effect on uniformity and reversals can OCC1ll' near idling speeds
+only for a smaller ~umber of cyliDders. Naturally, the region of reversals is largely dependent upon the compression ratio, which affects
+the negative work.
+The reason the mass effects play a part only iD four and si%
+cylinder engines lies in the peripheral forces excited in the crank
+circle by the mass effects.
+Pu:: [
+(Pm ' s ina:) i n which
+rociprocating p~rts . Now Pm = r' tnr ,
+
+Hence Pu
+
+=
+
+r
+
+W
+
+2
+
+L
+
+m . (
+
+r
+
+p.
+•
+
+ZiJ 2
+
+cos 2 a -
+
+r
+
+are th e mass pres sure s of the
+(cos
+
+a: + A
+
+A .I
+
+si n
+
+cos 2 ct) .
+
+ex +
+
+~
+
+. '[
+
+Sin 3 ex ) For 4-cylinde r e ngi ne s
+cos 2 a
+:: 2 and for
+6-cylincier
+sin 3 a: :: 3. For all other equi-angular crank ssttings the r e spective summatioDs = 0, consequently the peripheral
+forces excited by the masses are Pu
+O.
+
+E
+
+=
+
+- a ..
+11. GENERAL ARRANGEMENT OF THE GtAR-
+
+In the construction of the gear drives for a.irpla.Da engines the
+three principal rules of mecb.a.nical engineering apply with special
+force:-
+
+I. All load carrying parts - gearing and housings - must be
+joiwd together in the m
+ost direct manner to obtain strength and
+
+rigidity.
+II. Where a. variation in distances bet~en centers is unavoidable as a result of wear, or no exact assemb~y is possible. suitable
+provision must be made for adjustments.
+III. Where a movement in the gears or housing is "UnaToidablo or
+cushioning or yielding effect is necessary, sliding or elastic
+joints must be introduced in such a manner that the effect of the
+movement or yielding can be accurately determined or computed.
+
+For air propeller drives single or double reduction gear drives
+can be used. The single reduction gears can be either spur gaar~, or
+internal gears, and as a rule work out Simpler, lighter and cbaaper
+than the double reduction drives, Consequently, they are the most
+Common (Figs. 8 to 11). Practical experience with these gears and
+inspection of the teeth of their wbeels shows tbat heavy wear takes
+.
+place in all single reduction gears except the Hispano-Suiza (Fig. 11).
+in which the teeth generally bear splendidly. 'I'he worst bearing is
+in the teeth of those gears in which the driving pinion is fitted
+with a bearing on only 000 side of the wheel.
+Single reduction gears with internal gearing have not been captured as yet. However, Birkigt, designer for the Hispano-Suiza Works,
+has had such a gear pa-tonted in England. (Fig. 12).. A notable feature
+is tho attacbment of the int ernal gear housing to the crank case by
+an eccentric centering flange which makes it possible to accurately
+fix the pla¥. Against the great advantages of the internal gear must
+be balanced the diffic~tl in arranging satisfactory bearings on both
+Sides of the wbeels. However, satisfactory solutions of this p~oblem
+are not impossible .
+Double reduction gears with two different pairs of wheels are
+principally used wbere tb& pO\\"6r must be delivered in the same axial
+line as the crank sbaft. Their construction leads to ~ and varied
+solutions, since both pairs of wheels ~y be fitted with internal or
+external too thing and in addition ~ one of the three shafts may be
+fixed while the other two drive and are driven. In this manner alone
+l~ solutions are found which are asssnbled diagrammatically, and for
+a transmission ratio of 1 ; 2, in Fig. 13. The solutions are arranged
+in the horizontal rows A, BS t and Ek according to the motion of the
+intermediate sbaft_
+
+Intermediate shaft fixed in housing.
+"
+I, revolving with propeller.
+_ _ _ _ _~~.....-..~~~___,~~~~'~~
+t
+\I
+n
+"crank shaft .
+
+- 9 -
+
+(Rows:as aDd l\. illustrate the plane-tary gears.)
+In addition, the
+vertical rows 1 to 4 era arranged according to the direction of rota.tion of the shafts. As will be understood all the solutions are
+not of the same value for actual construction since in different arrangements the provision of bearings on both sides of the gears makes
+more or less difficulty) the space occupied may be very great and the
+revolutions of the intermediate shaft may be very high.
+For a better comparison the graphical computation has been add9d
+in Fig. 13 for each case. According to the wqll kDown ~thod the
+r.p~m. of the crank shaft (nk) and of the propeller (n ) have been
+s
+laid off in magnitude and direction (relative to the fix9d heusing G)
+at the point G of tb& intermediate shaft Z) (Pig. 14). If tha.spider
+R is fixed to the housing its r.p.m. is zero and its origin coincide~
+with G. But, if it revolves itself, With r.p.m. ~ or n
+thenR
+is applisd at the axtremity of nk or ne (see Fig. 15). fbe r.p~.
+n.~ of the intermediate gears relative to the spider R is assuwed
+as to magni tude and direction as convenient. If now the extreml ty of
+n z is joined to those of D.k and ns the intersections on the spider
+indicate the tangent points of the rolling Circles.
+In addition the double reduction gear can be constructad with
+spur gears or bsvel gears.
+The much simpler forms in which both pairs of wheels have on&
+wbeel in common form a speCial case, (see Figs. 16 to 19). The form
+of Fig. 16 is developed from that of form 41 of Fig. 13. the fonn of
+Fig. 17, from A4 • and of Fig. 18 from ~sZ' It will be observed with
+
+this last that the transmission ratio is limited (to about 1 : 1.5).
+With the form of Fig. 19 a ratio of only 1 : 2 is possible.
+
+The Rolls-Royce planetary gear is the bast known (~igs. 21 to 23).
+In ~ details it is directly representative of the type. It is
+represented by the form Bs2 of Fig. 13. The gear a revolves with
+the revolutions + Uk of the crank sllaf't, gears b and c with the
+relative revolutions +, llz in the spider i, which is more plainly
+shown in Fig. 23, and wnich in turn revolves with the reVolutions ns
+of the propeller while gear d is held against revolving in the
+hOUSing.
+The advantage of the double reduction g~ar over the much Simpler
+Single reduction gear lies in the perfectly axial transmission of the
+power, from which the best condition of loading of the housing - pure
+torsion - is obtained. If the power is transmitted through 2, 3 or 4
+intermediate gears at equal angles springing of the gear shafts from
+unequal peripheral forces or inaccurate tooth forms does not occ~.
+Certain arrangements aleo make it possible to use heavy revolving
+masses. for instance t those of the intermediate shafts or the larger
+wheels with internal toothing, for the impro~ement of the uniformity
+of transmission and to avoid reva.xsals of tooth pressures. The principal advantage, however, conSists in the fact that on acCO'lIlt of the
+lOad being divided between 2 to 4 int9~ediate gears the tooth pressures per unit of tooth face are very low. Consequently. small pitches
+
+- 10 ...
+
+and small gears can be 'USed wbich in turn have smaller construction .
+defects, since the defe cts resulting from inaccurate dividing wbeels
+increase with increasing radius. The disadvantage of the double reduction gear is that it is relatively hea.vy and. costly and. makes
+great demands on the accuracy or exact adjustment ot the intermediate shafts if all tba gears are to work eq-ually. Finally t the solid
+and secure assembly of the gear make necessary a series of connections which do away with the theoretical simplicity of the type.
+In accordance with the first law of light ma.ch inery construction -
+
+that all load carrying parts are to be joined together as rigidly
+and unvaryinglyas possible - it is best to fit only ball bearings
+in the gear case. Then the possibilities of wear and of changing
+eenter distances med not be considered, especially if the gears can
+be fitted in place with the proper clearance. (Note: Sunbeam fits
+even the crank shaft gear in plain bearings.)
+
+The crank shafts of most of the engines fitted with gears ran in
+plain beariDgs which might wear. This wa.s especially the casG with
+eng.)nas baving Six-throw crankshafts. If a bearing ran hot, probably
+the centerline of the cra.nkshaft after the engine had been overhauled
+had another position than originally. unless special meane to prevent
+it ware provided. Consequently in tba Renault, Peugeot, Napier and
+similar eDginas ball bearings were used for the crankshaft and in this
+maDner the difficulties resulting from possible chaoge of center distances were avoided. In the Hispano-Suiza engiIlS only the first
+crankshaft bearing - which also takes too gear pressure - is a ball
+bearing. At each overhaul the slightly worn plain bearings must be
+replaced by new ones truly centered..
+If i t is net desired. to go to these measures it is 09cessary to
+fit a.. joint either in the fixed part, for instance, between crankca.se
+and gear case, (Fig. 24) or in the transmission between cranltshaf''i:
+and gear (Fig&. 25 and 27), which will either adjust itself automatically while running or can be adjusted in assembly. I f such a joint
+adjusts itself automatically, as must be the case when i t is fitted
+be tween crankshaft and gear, it also equalizes the expansions dm to
+h&a.ting of the crankcaso and. gear case and makes the assemblY' of gear
+ancl engine easier. Generally two shafts - or two housings - which
+are to remain al~s parallel can be cozmectad. by a sliding cross
+linkage K (Fig. 25), a sort of sliding joint S, (Fig. 24), or a
+floating shaft W, (Fig. 26).
+
+The method of the slidiIlg cross linkage has been used in the
+Rolls-Royce gear - however, in a fixed housing - in a notable manner.
+The link (Fig. 22) and e of Fig. 2 1, lies between the outer engine
+housing ani the intermediate gear wheel, d, which is beld ill the
+housing. Consequently this can adjust itself and. always remain concentric with the crankshaft. The whole set of pla.netary gears also
+always remains concentric with the crankshaft - which m;q shift in the
+caSing - but not with the casing. The joint betwsen the fiXed gear
+wheel and the housing is accordingly adjustable transver sely in a.rq
+direction and adjusts itself correctly while the forward bearing g
+and h must be adjusted on e ach overhaul of the angina bY' the adJusting screws, £ ~
+
+.~
+
+- 11 ...
+In principle this cross link could just a.8 well be placed between
+crankshaft and gear. In that case, however, the whole gear would
+have to be carried in rigid bearings in tho case, The preceding arrangement saves a bearing and has the advantage that the cross link
+does not rotate and consequently can be easily kept in oil. .Besides
+it does not have to transmit the varying torque of the crankshaft.
+In addition the mass of the internal gear which is directly attached
+to the crankshaft helps the smoothness of running.
+For the rest the problem of making the joint in the housing adjustablo is best solved either by fitting the gear housing with a
+flange which is not concentric OIl the engine housing and which after
+every ovethaul can be adjusted and secured. anaw. or h;Y makiDg the
+bearings adjustable (Fig. Z7). This new arrangement or the RollsRoyce gear is known only from pa.tent drawings. In it the upper gear
+can be adjusted. by eccentrically set ball bearing cages! C and d.
+and the lower gear can ba adjusted on the engine shaft by means of
+adjusting screws. The joint between crankshaft and gear wheel a, is
+a universal one, which is very cunvenient for assembly..
+A gear made by the Friedrichshafen gear factory (ZahDraderfabrik
+Friedrichslla.t'en) illustra.tes a. method by which the crank shaft can
+be separated from the rigid gear set, (Fig. as). At the same time
+it accompli$hes the attachment of large rota.ting masses to the
+crankshaft. so as to avoid reversals of pressure. and the separation
+of the irregularities of the crankshaft from the gear. The utility
+of this type of const.ruction depends prinCipally on the sui tabili ty
+of the tyPe of COUpUDg used.
+When long shafts are used between engioe and propeller it is
+best to fit the joints which have been proven by use in automobiles.
+Spring or elastic joints have the advantage that they need no
+They must. however, be absolutely so perfect that their
+elastic distortion compared to t·he angular motion allowed is either
+extremely small or accurately doterminate so that their influence on the
+vibration freg.ueney of the shaft can be determiIlBd by experiment or
+computed. Otherwise they may cause grea.t danger to the security of
+the gear and engine as a result of the possibility of resonance vibrations.
+l~brication.
+
+I II. PRIMARY VIBRATIONS IN THE SHAFT TRANSMISSION.
+The primary vibration frequency of a freely vibrating crankshaft,
+resulting from .some passing impulse, is determined partly by the masses
+involved - that is the propeller, the pistons, cranks, counter-weights
+and gears - and. partly by the springiIlg of the shafts and gears. In
+the usual German 6-cylinder engines, with moderatelr heavy air propellers. whose moment of gyration lies between 2Q and 60 kg/m2 the freely
+vibrating shaft has a freq~ncy of about 6000 vibrations per minute;
+in 4-cylinder engines more, and in the single crank radia.l or revolving about 20,000. Indeed freely vibra.ting six-throw shafts make a
+
+- 12
+
+-yo
+
+greater number of vibrations than the x~& given, because with
+tbe masses distributed on the cranks they can vibrate in two or more
+nodes instea.d of om. However, these higher frequanciea need never
+be practical17 considered.
+Various methods can be used xor the computation of the vibration
+frequency; for instance that of G8mbel or that of Kutzbach. (Por the
+former. see "Zeitschrift des Vereines deutscher Ingenieure n 1912, for
+the latter. the sama - 1917.) They can be measured in operation by
+the use of the Geiger(3) Torsiograph made by Lebman and Michaelis of
+Hsroburg - which requires a degree of practice in its application - or
+with the engine stopped. For this a series of light blows at regular
+intervals is applied to the c·r aokshaft. The Vibrations thereby excited
+in the shaft incre!\se markedly when t~ frequency of tha blows coincides with the frequency of primary vibration of the shaft. (When
+gears are used contact under pressure must be maintaiDad by suitable
+springs between propeller and crankshaft.) Tbe primary vibrat ion frequency of the crankshaft is of great importance, since in operation
+a resonant effect from the POWSlr impulses of the engine itself absolutely must be avoided. In a 6-cylinder four-cycle engine or a 3cylinder two-cycle engine there occur regular impulses with frequencies of tbe thrsefold, Sixfold, ninefold, etc. revolutions, of which
+the first are the strongest. In an B-cylindar four-cycle eDgiDe or a
+4-cylindsr two-cycla engine the impulses occur at 2, 4, 6, etc. multiples of the revolutions. Consequently. for a 6-cylinder engiDe whose
+crankshaft haa a vibrationfrequancy of 6000 per minute the most ~­
+gerous speed of revolutions is 6000 ~ 3 or 2000 r.p.m. The next most
+dangerous is at 6000 :- 6 ::; 1000 r.p.m. etc. It is important that the
+revolu.tions ordinarily used shall lie as far as possible from the region of resonance.
+If the diagrams of the individual cylinders are not equal, that
+is. if, for instance, in an engine with two carburetors, one-balf the
+engine is regularly delivering more po..wr than the other. then not
+only are the three and".sixfold revolution freCluencies. impulse frequencies but also the ~'-~ and one-balf · and ninefold revol\\tion frequencies. Thus 6000 : 4-1iZ = 1444 r.p.m. may be dange~oU5. It is
+therefore always advisable to keep the priwary vibration frequency of
+the crankshaft of 6-cylinder enginas above 6000.
+
+Different builders use elastic couplings between the air propeller
+Gasses and the gear masses to improve the uniform t7 of rotation and
+protect the gears from torsion. Eut by that the elasticity increases
+and the vibration frequancy decreases markedly. In a 6-cylinder engine
+for instance it would be extraordinarily dangero~ if the vibration
+freClusncy dropped to 3 x 1400 ; 4200 on account of the use of such a
+coupling. The shaft revolviDg at 1400 r.p.m. would break. SOODer or
+la tar. Likewi se the gear would have no end'Ul"anea.
+IX it is c1&sired or is Illicessary to use such a coupling it must
+either be made so ~i6lding that the vibration frequency will always
+remain high enollgh or it must be made so yieldiIlg that the prin)ary vibration frequency will DOt be reached at any ordinary speed and if poas1 bla not at idl1ng speed. lD any case such coupliIlgs should be care-
+
+(3) See Z.V.d.E.
+
+1917.
+
+TABLE I.
+
+GEARS FROM CAPTURED ENGINES.
+
+·
+p'
+Pu · p . p u . p u" . O:r '' .
+u'
+.
+11'
+• _.
+. __
+: k!:..
+Engines
+: b : b , t ~ b
+:
+. -b 'u
+Remarks
+Z2;d2 em;
+.
+.
+2 :n f n ! em
+em
+kg/em2:
+:HP
+;m/sk
+kg :kg/:kg/em
+1 2
+__~__________~__~____~__~__~~__~________~____~__~:~c~m~I:~____~:~z.l~:____~____~~_______
+
+:Ne
+
+nk
+TIs
+
+No;
+
+: tmm;::in . 1\ :
+
+zl:dl em : b
+
+1: Renaul t (Air- :
+: 1~50: 16: 80 :
+:cooled)8 Cy1: 70: 25: 32:11:)0:
+
+"\1
+
+r:
+
+15·7::
+6.9
+5 . IT
+. :Rcnault(Air-:
+:1650: ~:9?,5:
+: 17.28
+:
+2:cooled)8 Cy1: 85: 825: 3 : 187 :3. 4 ::5-1/2. 71 : 8 .1
+:Renault(Air-:
+
+760~254~ 162
+
+~ 39 300 ~ 1. 36 ;
+
+187
+
+790: 232: 134-
+
+: 33800: 1 . 63 :
+
+14-2
+
+:1650: !5.:93.7S:
+:
+I.
+4 ·5 : 19.64: 8,2 : 0 5.2 6(1.:
+'-61/4 /T.
+.12
+0.1)'1'
+825: 30:187.5:
+'- ,.
+.
+.
+.
+
+~44250:1,63:.
+.
+
+164-
+
+3
+
+3:cooled )12Cy1: 130 :
+
+. Renaul t (de :
+: 6 : It : :
+It
+I,
+: : :
+4'Dion- Bouton):130:l£2Q: 2'1'; ~ :5.2: 1'1',1'1' : 7 1 8 ;1260:242: 171
+:12 Cyl.
+: 825: 40: 180 ~
+~=4-1/2.1i.
+
+.
+,
+
+.
+.
+
+.
+.
+
+:30000:1,55:
+
+156
+
+:Engl . Daim~ :100: 2000 : 18: 90 :3.3: 15.7
+5.1er 8 Cyl.
+,
+:lOOO: 36: 180'
+·=5. IT
+
+9.5
+
+800;24-2: 154
+
+:40250 .
+:1.55:
+.
+
+156
+
+6 ',:!in J. Daim'" ;150:2000 ; 18:114.3:4 0: 19.95
+:ler 12 Cy1.:
+:1000 : 36:228.6:'
+:=1/4-.11
+
+12
+
+940~235: 118
+
+: 39200) . 96 :
+
+:Ratio
+:1 : 2
+
+120
+
+:RAF-Napier
+7: 12 Cy1.
+
+:
+:1800: 24: 122:
+: 15.97
+:250: 900: ij:8: 244 :3.95:=5-1/12
+
+I
+
+.
+
+•
+
+.
+
+;4660D;2.05;
+
+182
+
+: 16.75 :11,75: 1 280:214:127.5 :34000:1.65:
+'-5-1/3 -rr.
+•
+•.
+•
+•
+•
+
+130
+
+:11.5 ;1630;413; 251
+
+,1\
+I
+
+8:HispanoSuiza
+
+:200: 2000 : 21: 112 : : 6
+:1500: 28:149:3;
+
+• _
+
+_
+
+( t
+
+•
+
+•
+
+• •
+
+,
+
+•
+
+_
+
+.,,
+
+TABLE I.
+
+.
+
+.
+
+No, :
+
+:Ne
+Engines
+
+.
+
+GEARS FROM CAPTURED EN
+GINES (Contd.)
+
+nk :Zl :d1 em: b
+ns : z2 :d2 em:
+
+:HP
+
+Vu
+
+: tmm=m .11
+..
+...'t1 1
+
+. .,
+.
+
+;tn/sk
+
+cr.')
+
+p' P
+1.1
+
+P -
+
+- p
+
+.
+
+s. : k- Pu ; Remarks
+~t.- ~ '~ ur: ---c .
+.
+
+u
+'-
+
+u:
+
+:
+
+.
+
+·b
+
+u_ :
+
+'. b·
+
+·
+
+0 r,
+.
+'b..
+
+~ kgj ~
+2 ~ n1±n2 :
+:
+2
+kg : cm:kg/cm :--zy-' em ;kg/cm
+
+12. 57
+: =4 . '11
+
+10.0:1 492:2 49: 198
+
+:33500:1.55:
+:
+::
+
+160
+
+:fhspano14')
+:2000:22: 140:
+: 12.57
+10:Suiza(WolsJ.ey)200:118b:59 : 236 :4 ·5 :=4 . -rr
+
+:14.65:1025:228: 181
+
+~20750~2.26:
+
+100
+
+: 23 0 0:
+:
+: 2500:~;
+:154-00: 0 . 38:
+:20000:
+
+27
+104
+
+9:Hispano-Suiza200:2000:2&t:
+:
+:
+:1171:1+1:
+
+96
+Ibl+
+
+6:
+
+:
+:
+:120: 240:
+:17 00 :1+5: 90 :2.4
+:
+11: Ro11s- Royc e :200:1002: 21: 5 2 . 5 :
+: 39:~7.5 : 4 ·5
+
+·
+
+:
+6 .23
+::::2 . TI:
+: 7~ g 5
+:
+:~2-1/2.1T:
+
+.
+
+:::
+:..l..9.Q: :J.l: IS5
+;1200: 91: lIb
+
+: Oblique
+: teeth
+:
+
+:
+:Lar ge
+:~ear an
+
+---------------------------~----------------------------------------------------:lnternal
+
+:
+:12q;~ :2.5
+:160o:!f5:95.2:
+_ -1." ,11
+12;Ro11s-Royce :260:102~: ,o :~ :4.5 { 7. 12
+f
+:
+: ~:95.2 :
+
+:
+
+: ..
+:120: 254 :
+:
+:
+:1650:T5":95.2 :2.5
+13:Rol1s-Royce :300 : 990: 27:~:4
+:
+: 1+8:101 . 6: ·5
+
+:
+:
+: .
+:~:122: 184
+:1375: 1 0 3: 155
+
+: 2920:
+: :ge a r,
+: 26oo:~: -.2l. :nuTflber of
+: ~~ OO: O . 98: 1 0 5 :t~cth on
+:17600:
+:each gear
+:divisib1e
+: : : : : 3760::
+:by 3.
+I" 1\.
+:102S:UL: 206 ! 335 0 : 3. 9 :
+,s:
+= 12:'
+:1710:127: 19 tr : 13000 :o:-§Ir: 135
+:22000:
+

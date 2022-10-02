@@ -1,0 +1,1818 @@
+REPORT
+
+NO.
+
+40.
+
+THE FERROSILICON PROCESS FOR TEE CWNERATiON OF HYDROGEN.
+PART
+
+I.-GBNWURON OF HYDROmN FROMFBBIUMILXCCN SODIUM HYDSOmIS.
+~
+By E. R. Wesvar, W. hf.
+Bsrry, and B. L. Bohnson.
+CkBOMATB ON ~
+GBNIUUTION HYDItOQ~NEWM
+or
+PART 11.—’I%E EmEoT OP m PBmmNoE OF SODIUM
+FESBOEILIOON
+ANDSODIUM
+HYDEOXmK By E. E. Wsaver and B. D. Gordon.
+BYTEZE Us= or l?EMKISIHOON. y B. D. Gordon.
+B
+PART 111.—!I% USIIor Lnm INmm G~NIEEATION
+OBHYDROXIDE
+
+PART I.
+GENERATION OF HYDROGEN FROM FERROSILICON AND SODIUM HYDROXIDE,
+By E. R.
+
+WEAVXR, W.
+
+M. BERRY,
+
+A. PURPOSE AND SCOPE
+
+and V. L. BoENmN.
+
+OF THIS PAPER.
+
+This report was prepared at the Bureau of Standmds for the National Advisory Oommittee for Aeronautk.
+The generation of hydrogen by the reaction between ferrosilico~ sodium hydroxide, and
+water hss been extensively empIoyed in recent years for filling military and namd balloons.
+The method is undershod to have been used much more generally abroad than by the Am&can
+forces.
+The ferrosilicon method is mpecially adapted for use in the field because of the relatively
+smsll size and low cost of the generator reipired to produce hydrogen .at a rapid rate, the small
+operating force required, and the fact that no power is used except the small amount required
+Th~e advantages make it possible to quickly
+to operate the stirring and pumping msdinery.
+generate sufficient hydrogen to fill a balloon with a gemxator which can be transported on a
+motor truck.
+The fact that none of the materials used are by themselves combustible, tha$ they do not
+give off hydrogan until mixed, and that they me essily and safely transported and handled,
+makes the method espechdly safe and valuable for use aboard ship. The Iow cost of the generating plant also makes the method of value for shore stations where the demand for hydrogen
+is very irregdar and the cast of an electrolytic or other plant capable of meeting the maximum
+demand would be excessive.
+In order tQ determine the best conditions for the operation of hydrogen generatma using
+this method, a large number of labora.$ory axperimenta have been made with various grad~ of
+ferrosilicon under many conditions. This report includes the results of these experiments, and
+some additional thermochemical data from which the effect of any.variation in generator operation may be Wimated by calculation, illustrative problems showing the application of the data,
+a discussion of all the conditions of operation from R theoretical standpoint, and a set of tentative directions for the purchsse of ferrosilicon and the operation of the generator, all conclusions
+beii bssed upon calculation and laboratory experiment.
+B. GENEIML DESCRIPTION
+
+OF BXPERIMBNTS.
+
+1. Mattwialsu.wz2.+%
+lo-pound samples and one bard of ferrosilicon obtsined from the
+Electro Metallurgical Cc., two K)-pound samplea of lump ferrosilicon of high silicon content
+obtained from the Carborundum Cm, and two very fbmly ground samples of unknown origin
+sent in for test were used in the experiments. The five sampks from the Electro Metallurgical
+Co. had evidently been crushed to pass a screen of about 16 mashes per inch When screened
+each sample gave approximately the following proportions of the variou9 siz~:
+10pacsntfailsd
+topama2&mee.h mrssn.
+!20per cent @s
+!20-meA, but kdlsd to pasa a SO-mdL
+10percsnt passed a 30-mesh, but MM to pass a 40-gweb.
+IOpercentpassed a40-meeh, but failsdtopszsa O&n&
+M per csnt paiwls f3&mmh,but failed to pm an 8&nesh.
+M per csnt pased an 80-meab, but failed to pam a UlO+nA.
+20&r cent paemd a 10&me9b.
+
+429
+
+.
+
+.—
+
+—
+
+ANNUAL
+BEPORT NATIOHAL
+ADVISOBY
+00MMITTEE
+FOB AERONAUTIC%
+
+430
+
+The silicon present in one or more portiona of each material was determined by the usual
+gravimetric method for silicon in ferrosilicon with the following results, each of which is the
+average of two or more fairly Conuordmt determinations:
+
+I
+
+Ikr#e
+
+Fhancm.
+
+M
+CO
+1 Elmtrtro otdhn&!lc31 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2 .....
+8 . . . ..do . . . . .." . . . . . . . . . .." . . . . . . . . . . .."". ". . .." . . . . . . .." . . . . ..".. ". . . . . . .." . . .." . . . . . .." . . . . . . . .." . . .."." ..""...
+. . . . ".."" . . . . . .
+... ....
+. . ... . .. . .. . .. . .. .. . .. .. . ...
+4 . . . ..do... . . --.... . . . . . . .""------. . . . . . . . . . . . . . . ""-" . -.-"". . --"-- . . . . . ..--". . ."-".... . . --.---. . . ""-... . -"-. . ""." . ---. . --"-.. . -.--.. . . -"...- . .
+.--"" ------" . . . . . . . . . .
+6 .....
+...
+. . . . . . "..-. . . . .-"---" . . . . . . . "."-" . . .
+. . . "..-.. . . . "..."
+.."". . . . . .".-" -"--" . . .
+6 . . . . .%-----". . . . .."" . -.."". . . . . . . ".-.". . . . . . . . . "."... . """... . . . . . . . ".-- . . . . . . . . . """." . . . . . . . . . . . .."- . . . . . .."-.. . . . . . . . ".-... . . . . . .
+.:
+
+---... -... "".. --"----- ."". -"". "."... ----" ---" -"-. "-".. "--.. -.. "-""" -". """-.. "--.. ""--" "".""
+..............................................................................................
+.........................................................................................................
+s utiom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10.....do
+........................................................................)................................
+:~:+sK...
+
+MA
+
+E
+~
+z
+
+100
+M
+100
+IN
+
+Bmon.
+Pm Ixnt.
+84.0
+2!
+n. b
+85.6
+sa7
+
+E;
+H
+!JL4
+
+The fact that the tie material of sample 6 shows a lower silicon content than the 20-30mesh material may be explained by the assumption that it consists in part of slag which, being
+more brittle than the alloy, would be more easily powdered. This assumption is borne out
+by the low yield of hydrogen from this and every other tie sample from the sifted materials.
+2. Ma!?wds of Gxperhns?lt.—The experiments from which the more important conclusions
+were drawn were of two kinds, those made to determine the total yield of hydrogen and those
+made to detetie
+rate of evolution of hydrogen.
+The apparatus shown in figure 1 was used to detemn.inetotal hydrogen yiald. A weighed
+sample, about 2 grams, of the material to be tested was introduced intu A and covered with
+water. The flask was then evacuated md the water boiled vigorously to expel air. A considerable excess of sodium hydroxide solution was then slowly introduced. After violent
+reaction ceased the solution was boiled for one hour or longer. The gas evolved was then
+g
+measured in bottle C by determining the amount of water displaced. The total yield of hydrogen
+was found to be independent of the concentration and amount of sodium hydroxide solution
+used, provided there was premnt at least the amount indicated as required by the equation
+2NaOH +Si -1-QO =N@iO,
+
++213J
+
+It was also found that for the grades of material containing more than 75 per cent silicon the
+amount of hydrogen evolved after the first hour waa negligible.
+The more importaut experiments upon the rate of reaction were made in the following
+manner: The body of a spherical 3-liter flask was immemed in a watar bath through which
+steam could be forcad to control the temperature. The flask was connected through a watercooled condenser and a shallow watar seal to a gas meter. The solution to be tested was
+introduced and brought to the desired temperature, usually 100° C!. A weighed amount of
+ferrosilicon was thau added through a large-stemmed funnel and the opening through which
+the funnel was inserted quickly closed. As soon as the metar began to move, a stop watch
+was started and the meter reading recorded at intervalb, usual!y of one minute. Mar the
+run the yield was plotted against time. Figure 2 is a charactaristio curve showing the resuke
+obtained in one such test. In most cases comparative rates only were wanted. The average
+rate between the tit and second or first and thhd minuta was usually taken for comparison.
+t
+This particular interval was chosen, first,o avoid so far as possible errore of judgment as to
+the time of starting, and, secund, to obtain remha very near the starting time, before large
+changes could occur in the temperature or in the amount of ferrosilicon unacted upon. Variations from these genend methods of experiment will be noted h cxmnedion with a discussion
+of the data obtained.
+C EXPERIMENTAL
+AND COMPILED
+DATA
+L Rdution of omnpoeith off-icon
+to tatd lydrogen yidd.-Figure
+8 shows the total
+yidd of hydrogen from each of the 11 samples of fmrosiIicon for which the analye~ are given
+above. The determinations were made as demribed under “Methods of experiment, ” except
+
+FEF@osILIcoNPRomss
+
+roB
+
+THR CmmBATI OH OF HYDROGEI!T.
+
+481
+
+..—
+FxG.L-Apyratns furthe
+Warmh8tim
+d
+
+total
+hydrqcn
+
+.
+
+@d.
+
+..-.
+—’-.—
+
+.
+
+482
+
+ANNUAL IMPORT NATIONAL ADVISORY CQMMITTEE
+
+FOR ARRONAUI’IOS.
+
+that the materials below 76 per cent, which did not react vigorously at any time, were boiled
+ptiod of an hour and a half instiad of for “one hour a.ftm vigorous reaction
+for the uniform
+It will be noted that with materials of less than about 75 per cent silicon content
+awed.’)
+the gas yield decreases much mom rapidly than the percentage of silicon. The steep portion
+of the curve may in reality occur at a higher permtage than this, since the 79 per ~t material
+was probably made up of a mixture of 85-90 per cent ferrosilicon with more or lass hert
+material. The use of material containing not leas than 75 per cent of silicon seems ncccssary;
+and, in fact, a higher percentage may be of matarial advantage.
+The reaction is very rapid at first and gradually S1OWSown, but continues for many hours.
+d
+The end of the re~tion is therefore indefinite, but the amount of hydrogen evolved titer th
+tit 15 minuk h only a smail fraction of the tital. In addition to tie silicon, some of the
+
+iron and probably all of the aluminum present in-the alloy go into solution with the evolution
+of hydrogen. Since some of the hydrogen is produced from materials other than silicon and
+some of the silicon present may be in the form of silica (SiOJ or metallic silicates, which do
+not react with water to produce hydrogen, it is not surprising to find that the silicon contant
+of a sample of fmrosilicon is not an exact measum of the hydrogen which will be given off
+under operating conditions,
+By screening out a uniform sample of coarse material, grinding part of the sample completely to a tie powder, and determining yield of hydrogen in both portions, it was found that
+the total yield is independent of the finenms of the sample.
+2. Ralution of cmpodicrn ~fmdlimn
+to rate of reaction.-F~e
+4 shows the relation of
+the percentage of silicon in the ferrosilicon to the initial rata at which hydrogen is evolved.
+The experiments were made in the msmer descriied under “Method of experimaut”; thwsmne
+weight of 20-30-xnesh materials of different composition was introduced into an excess of 20
+per cent sodium hydroxide solution maintained at 100° C. and the rates were compared over
+the interval between the first and third minutm aftar the reaction began.
+
+l?EEROS~CON
+
+PBOf3ESS
+
+FOB ‘l!HE C+ENERATI N or
+O
+
+EYDEm.El!T.
+
+433
+
+The important facts established by these mqxmimautsare (1) that the rate of reaction falls
+off very rapidly when the percentage of silioon is decreased below 70 or 75 per W@ and (2) that
+the rate of reaotion is lower for nearly pure silicon than for material containing about 90 per
+m?lt of ailioon.
+The slow rate of reaotion of nearly pure silicon is probably due to the presenoe of the
+giaphitic form whioh is much 1sss readily attacked by chemiod reagents than the amorphous
+form. The amorphous form of silioon is probably the chief constituent of the lower grade
+msterials.
+3. E~ect of$neness $ fwrodiwn
+upon m% of reactin.-lhperimeni%
+upon the relative
+rate of reaction of fermsilioon of difl’erent degrew of fbnesses and of the smne composition
+were cmried out in the same manner a9 the other rate cqerimenta, using an =wxw of 20 per
+oent solution at a tanperature of 100° C. Figure 5 shows two typicsl curves representing the
+
+reaction of 20-30-mesh ferrosilioon containing 88.3 per mnt of silicon and hhe same material
+after grinding to pass a 100-mesh sieve. It should be observed that the total yield is the
+s-e from the two samples, but the rates are difhrent.
+A comparative test of matmial of a uniform size and material containing large and small
+partiolss as it canes from the oruaher was also &wired. Such a mmpsrison could not be made
+directly because of the very great d&renoe in oornposition, and thertiore in hydrogen yield
+between the ooarse and the fine powder in eaoh of the samples; an indireot mmparison is shown
+in iigure 6, however. In it (a) is an experimental curve showing the course of the reaction
+of the ferrosilicon taken direotly from the barrel of ferrosihon whioh had an average silicon
+content of about 70 per cent. An effort was made to have this sample represent the average
+fineness of the material in the bmral. Curve (b) is an experimental ourve showing the reaction
+of that portion of the f errosilioon from the barrel which passed a 20-Iuesh sieve, but not a
+30-mtwhsieve (sample No. 1, p. 4). It had been shown by =periment (of. fig. 5) that material
+of the same composition givm the same total yieId whatever the finen-.
+The tdal yield
+obtained in th=e expwimcmts from the material of mixed sims is 0.95 Mar per gram; that from
+~OSO-S. Doe.S07, ?~~
+t
+t
+
+--.
+“
+
+. .
+
+434
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+HIEROSILIQON
+
+PEOOESS FOR THE Glmlmwro?!T
+
+OF EYDROQEN.
+
+435
+
+20-30-mash mattial 1.1 liters per gram. ibsuming the rata of reaction proportional to the
+composition (a relation indicatd by fig. 4 as being approximately true for ferrosilicon of this
+composition and one which should be exactly true if the finer material is low in sikan because
+of the presence of inert particks) curve C was plotted with ordinatm obtained by multiply@
+the ordina~ of curve (A.) by I.1/o.w
+tive c therefore repr~~ts approximately the rati of
+reaction of 84 per cent material crushed to the average of fineness of the material in the barrii.
+of fmmiUcon.-Figure
+7 reprtwnte the
+4. Decmzee in mte of rewticm m“th .diuudion
+relation between the rate of evolution of gas and the amount of ferrosilicon remaking
+undissolved throughout the reaction. Since it is possible to determine the stage of the reaction only by observing the volume of g~ produced, ~ dab are given in terms of rate of
+yi~d.
+TIw SLWLU CMESJ, repr~~ting
+tie Obswed data for a
+reaction and pretic)us hydrog~
+single typical case, fa~ on the straight line within the limit of error of observation, ~d show
+that the rate of Wduticm is at d ties directly propcmticma]~ the ~cmnt of ferrosdicon
+
+—
+
+----
+
+.
+
+remaining unattached. Ccrr~ponding data w=e plotted for matarial of several degrees of
+fineness and for a titure of all fienxsm OCCurring tie -bed
+in
+matti~, ~d tie same relation was found ta hold.
+‘l%is rdation is important, since it enables us, after once detaining
+the initial rate of
+reaction and the total yield for a given sample of f errosilimn, tQ ~tiate
+with considerable
+awmracy the rate of reaction after my given amount of hydrogen has been evolved. Or, in
+other words, knowing this relation it is po~ible to predict tie speed of reaction at any stage
+of the evolution of gas.
+soluticm to rde of Texwtion.-By s series
+5. Relation of conwntmtbn
+of twxikum hydroti
+of t.estasimiIar to the rate ~erimenti
+previody
+descriied~ but in each of which the same
+amount of ferrosficcn of the same composition and fbneas was added to a large excess of
+sodium hydroxide dissolved in a differant amount of watar, the approximate efbct of concentration of alkali upon the rate of evolution was detied.
+The curve labeled “pure
+NaOH” m 5gure 8 reprwmk the relative ratm of evolution at the beginning of the runs
+
+436
+
+ANNUAL REPORT NATIONAL AJNISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+In order to investigate the rate of reactiomwith the solutions remai@
+after some ferrosilicon has already reacted, a series of experiments were made with solutions in which various
+amounts of sodium hydroxide and ferrosilicon were ,allowed to completely react in a weighed
+flask in a steam bath. The solutions were then brought to auy desired concentration by weighing the flasks and adding lmown weights of water. The flasks were &m connected to the
+meter through the condenser and heated with steam until no more bubbles of gas were expdled
+from the flask. A weighed amount of fresh ferrosilicon was then introduced and the initial
+rate of evolution of hydrogan determined as in previous experiments. Xn every case concentrated solutions showed more rapid rates of evolutiam than more dilute ones up to the concentration at which the solutions appeared noticeably gummy. Above that concentration the
+rate of evolution rapidly fell off. The second curve in figure 8, labeled ‘‘ 2gSl: 3gNaOH, ”
+shows the approximate eilect of dilution upon solutions containing two parts by weight of
+dissolved silicon ta three parts of sodium hydroxide originally present.
+
+6. Relation of amount of alkali to rate ofreaction.—
+silicon may be represented by the equation
+2NaOH+ Si+ ~0
+
+The
+
+production of hydrogen from ferro-
+
+= Ns#iO, + 2Q
+
+(1)
+
+According to this equation the weight of alkali required to react with ferrosilicon would
+be approximately 2.8 tinm the weight of silicon contained. Equation (1) probably reprmm~
+the reaotion taking place at the beginning. of a run. .Eowey.er, soti~
+f$licate in solution
+.
+hydrolyzes, giving sodium hydroxide and hydrat~ s~cic acid as indicated by the equation
+Na@iO,+ (X+ l)QO =2NaOH+SiQ.~0
+
+(2)
+
+If we combine equations (1) and (2) we get the equaticm
+Si+ (X+2)%O=Si0,.X
+
+H,O +211Z
+
+(3)
+
+FEREOSILICON
+
+PROCESS FOB TEE
+
+GENERATION
+
+OF EYDEOGEN.
+
+.
+
+.-
+
+—
+
+$
+
+‘x
+
+438
+
+ANNUAL REPORT
+
+NATIONAL
+
+ADVISORY COMMITTEE
+
+FOE AERONAUTICS.
+
+Although the compounds sptiified may not be the only onw formed they are typical of
+the course of the reaction. The ultimate xeaction may therefore be regarded aa one betwmn
+silicon and water in which the alkali acts as a catalysk This viewpoint is important, since it
+explains the obswved production of hydrogen in excess of the amount which could be obtained
+from a given weight of sodium hydroxide according to equation (1) and shows that the reIative
+amounta of alkali and ferrosilicon to be used in practice should be determined by the rate of
+evolution of the gas and the relative cost of femosilicon and alkali rather than by computing the
+equivalent proportions corresponding to a definite chemical equation.
+It is evident that the rate of reaction at.the beginning of a run should depend only upon the
+concentration of the sodhmdydroxide solution, and not at all upon the amount present, provided of course there is enough to wet all the solid surface. The question to be answered by
+expmiment is, how does this initial rate falI off as the alkali becomes exhausted. The experiments described in the preceding section, in which definite weights of sodium hydroxide and
+ferrosilicon were allowed to completely react and the rate of evolution of gas from a fresh sample
+of ferrosilicon was then determined, gave nxmlts showing also the efbct upon the rate of reaction
+of partially exhausting the sodium hydroxide. The results o~tained when using a 20 per cent
+sodium hydroxide solution are shown in figure 9. The relative decrease in the rate of evolution
+with the exhaustion of the sodium hydroxide was of the same order of magnitude for otlmr
+concentrations up to the point at which the solutions became very viecoua
+7. i?JTed of hnperuture upon Me of reaction.-The
+re9ults of experiments upon the effect
+of tampemture upon the relative rahs of reaction are shown in figure 10. These experiments
+were mado by dropping a single grade and fieness of ferrosilicon into a ver} large excess of
+20 per cent sodium hydroxide solution and observing the time required to produce a given volume
+of gas, the tmuperature being kept constaut to within one or two tenths of a degree during the
+“ “
+interval. This was considered abetter method than determmmg the yield over a definite interval
+of time on acoount of the great difference in rataa in these experiment.
+If the latter method
+had been used, the interval for comparison would have had to be either so long that the rate for
+the higher temperatures would have fallen off through the exhaustion of the material or so short
+that the volumes evolved at the lower temperatures could not have been measured with sufficient accuracy.
+8, Thermal propert% of godium hydroxide 8ohhorz$.-&aphs
+11, 12, 13, and 14 givel in
+convenient form, data regarding the heat of solution, sptic
+heat, boiling point, am-i vapor
+pressure of sodium hydroxide solutions of various strengths. All the data are taken from the
+“ Landolt-136rnsteinPhysikalisch Chemische Tabellen” with the exception of the vapor pressure
+curves of figure 12. These are computed from the data used for @ure 11 and the vapor pressure
+of water on the assumption that the ratio of the vapor pmsure of the solution to that of pure
+water is independent of the temperature.
+D. THE FIELDGENERATOR.
+1, Description of generator. —The ferrosiIicon method is used almost exclusively for the
+generation of hydrogau for fling bdoons in the field, on board ship, or at smalI naval shore
+stations.
+The plant required for the production of hydrogen consists of three principal pmte-(1)
+the solution tank in which the sodium hydroxide is dissolved, (2) the generator proper in which
+the reaction takes place, and (3) the washer or condenser in which the evolved gas is washed
+with water and cooled before being stored or being put into the balloon. The parts aro so
+arranged that liquid can be run into the generator from the solution tank by gravity. The
+generator is usuaHy provided with an adjustable feed mechanism which placee the ferrosilicon
+feed under the immediate control of the operator, A cold-water spray for diluting the contents
+of the generator and regulating its temperature is sIso provided.
+The operation of the generator is as foIIows: A predetermined charge of sodium hydroxide
+and water are stirred together in the solution tank until solution is complete. A part or all
+of the solution is then run into the generator and ferrosiIicon added at such a rate as will beat
+
+439
+
+I
+
+440
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVTSORY COMMIT’rE E FOR AERONAUTICS.
+
+FEF.ROS~CON
+
+PROCESS I?OB THE GENERATION
+
+441
+
+OF HYDROGEN.
+
+control the evohtion of the gas. The heat of solution of sodium hydroxide is suf6cient to
+stari the reaction with ferrosilioon. The heat of this reaction increams the temperature rapidly,
+a krge amount of water is evaporated, and it soon becomes necessary to both 0001 and dilute
+the contante of the generator. This is done by means of the water spray mentioned in the
+preoeding paragraph. Care must ba taken throughout the reaction that the contents of the
+generator do not foam over and that the hydrogen does not pass through the washer at too
+rapid a rate and so oarry sodium hydroxide spray ud water inta the babon.
+At the best the cost of materials makes the ferroailicon method expensive in comparison
+with sevad other methods of generating hydrogen. The method has, however, several great
+advantages; a very rapid rate of hydrogen production can be mound from a oor.nparativtdy
+small and inexpensive plant with very IittIe labor and ordy eufliciant power ta operate the
+water pumps and stirr~~ maohinery. The advantages and limitations of the method, therefore,
+make it suitabIe onIy for portable phmts and small stationary units where the cost of a Iarger
+
+:
+
+I
+i
+
+I
+
+I
+
+I
+
+I /
+1-
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+1
+
+1
+
+.
+.. ..
+
+t
+1
+
+but more eftlcient pknt is not just.illed. The following seotions dealing with the practical application of theory sad laboratory experiment are written with special reference to portable
+generators of about the maximum size which can be oonvenientIy transported on a motor truok.
+For the purpose of the folIowing discussion a hypothetical case is assumed in whioh a generator
+having a diameter of 6 feet 6 inches and a height of 6 feet is chosen. It is also assumed that
+the generator sides and bottom are of ~-inch sheet iron.
+wface @generator. —The losses of heat from the surface of the generator
+2. Heat Zossfiom
+are of considerable, but not primary, importance in determining the thermal conditions existing
+during the reaction. One of the most commonly accepted equations for loss of heat by convection from cylindrical surfaces is that of L. V. K.ing.l This equation, for the case of the small
+temperature differences existing between the ganeratir and the surrounding air, reduw to the
+following equation, representing the 10ss of heat from a qylinder exposed to air currents perpendicular to its w&.
+w-1.4 xl@4;(&–fJfi
+1W mm. my.Soo.BrfWl), p. S?’wm,
+(
+sl~
+
+---
+
+.-NIL
+
+442
+
+ANNUAL REPORT NATIONAL ADVISORY COM.MMTEE FOR AERONAUTICS.
+
+Here w is the power loss in watts per centimeter of Iength of the oylinder, r is the radius of
+of the cy~der ~d of the surro~~~g
+the cylinder in centimeters, tl and & are the krnperatw
+air, respectively, and v is the sir velocity in centimeters per second.
+This equation was derived from theoretical considerations, using mnstanti defarmined by
+experiment upon electrically heated wires, and is known not to apply exactly to cylinders of
+large size.
+From this equation the heat loss per second from the vertical surface of the generator in a
+wind blowing 50 miles per hour, the temperature of the generator being 1200 F. above that-of
+the air, would be 32,000 calorim per second. From experiments in the MassachuaetteInstitute
+of Technology, discussed by J. C, Hunsaker,l the heat loss from an airplane radiator, with the
+same wind velocity and temperature difhrence, is found to be 0.86 B. t. u. per square foot per
+second. At this rate the loss from the generator under the assumed conditions would be 26,700
+calories per second. Considering the great dif%.rence in the conditions of experiment, the
+agreement is satisfactory for our purpose, and King’s equation may be used to give a probable
+maximu~ figure for the heat loss from the generator. The radiation from the same surface
+under the same conditions probably does not exceed 100 calories per second, the exach amount
+depending upon the condition of the surfaoe, but being negligible in any case.
+The curve in figure 15 was drawn from King’s equation ta represent the heat 1099from 126
+square feet of generator surface (approximately the mea of the generator sides) at various wind
+velocitie9 for a temperature difference of 100°. C. The heat loss for zero wind velooity was
+taken from the figure in Kent’s Mechanical Engineer’s Handbook for the heat loss per square
+foot of surface from steam and hot-water radiators.
+3. Rest capacity of generator. —The heat oapacit~of the generator was cs.loulated from the
+weight of iron in the sides and bottom of the tank and the specifio heat of iron. The weight-of
+metal wss computad to be about 56o kilograms and its heat capacity equal to that of about
+66 kilograms of water.
+E. APPLICATION EXPERIMENTAL
+OF
+RESULTS GENERATOR
+TO
+OPERATION.
+The application of the data given in Part C of this report to the problems of generator
+operation can probably be best shown by one or more exampkw. In the followbg problems a
+complicated set of conditions is chowm for ilhstrative purposes only; it is not the intention to
+recommend that the operating conditions assumed here be followed in practice.
+1. Typicul generator problem No. I.—Assume the following weather conditions b prevail:
+fitimpmtw
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..~“c.
+Watimpply hm~~e
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Is”c.
+B~k
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..- 740 mm, of mercury.
+Whdnl&ty
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . lo~w~ho~.
+
+The charge is to consist of 800 pounds of ferrosibm of the composition of the barreled
+material used in the experiments shown in figure 6 crushed to pass a 16-mmh sieve.
+Generation is started with a 30 per cent sodium hydroxide solution made from 640 pounds
+of sodium hydroxide dissolved in 1,493 pounds of water. In order to heat the solution more
+quickly to the desired temperature of reaction, only half the solution and 75 pounda of ferrosilicon are introduced into the generator at the start. When the temperature reaches 90° C.
+the ferrosiIicon feed is started at the uniform rate of 16 pounda per minuta and continued until
+the charge has all been added. As soon as the ferrosilicon feed is started, the remainder of the
+solution is run inta. the gmerator at such a rate as to keep the temperature constant. When
+all the solution has been added, water ia run in until the solution contains about 20 per cent of
+sodium hydroxide. The water spray is then stopped and no further effort made ta control
+the generation until the charge is exhausted.
+640 pOUIldS aOH=640X0.454=290 @.
+N
+1,493 pounds water=l,493X0.464= 677 kg.
+Total weight of m1uticm=$290+677=967 @.
+1 Aarisl
+
+..—
+
+AmW-,
+
+~ 2%
+1916.
+
+FERROSLLKXXK FROOES9 FOR THFJ GENERMTON OF EYDROGEN.
+
+443
+
+The solution contains 290/677 =42.8 parte of sodium hydroxide per hundred of water.
+From figure 13 we find the heat of solution of sodium hydroxide m a solution of this strength
+to be 232 calories per gram, which is equal to the same number of MIogramwaloriee per kilogram. The total heat of solution available is therefore
+290 X 232 E 67300 ~OgTsZU-CdOrieS.
+Of this amount 2x677=1,354
+ldogram-ixdories is required to raise the temperature of the
+water to the air temperature, 20°. The specific heat of the solution is found to be 0.85
+(fig. 14). The total heat capacity of the solution is therefore equivalent to
+0.85 x967 =822 kg. of water.
+Assume that the heat capacity of the mixing tank is about three-fourths that bf the generator
+or equivalent to about 50 kilogrsms of water. If there were no heat lost h the surroundings,
+the temperature would rim
+67300 – 1354
+= 75° approximakly.
+50 + 822
+Amume that the average temperature of the solution during mixing is half as much above
+the surroundings and that solution is complete in 20 minutes. The surface 10SSSS
+from the
+mixing tank will approximate those from the generator for the same temperature conditions.
+The surface loss for a temperature difference of 100° in a 10-mile wind is about 20 k@ramcaIories per second (fig. 15). The total low during the intemd is about
+0.375 x20x 20x 60= 9000 kilo=gram-caloriw.
+When introduced into the generator the temperature of the solution is therefore
+67300 – 10354_650
+872
+above that of the surrounding air. The heat capacity of the generator was comput~d to be
+equaI to that of about 66 kilograms of water and the heat capacity of the 75 pounds (equal to
+34.1 kiIograms) of ferrosiIicon is equal to about 5 kiIograms of water.
+One-half of the solution has a heat capacity equal to that of 411 kilograms of water. When
+this amount is run into the generator, and the ferrosilicon added, the initial temperature is
+therefore about
+411 X65=55 ~.
+411+71
+above that of the air or 75.8° C.
+The rate of hydrogen evolution from the ferrosilicon used, in 20 per cent sodium hydroxide
+solution at 100° C., was found to be 0.35 cubic meters per kilo=mamper minute when the gas is
+measured dry at 0° C?.and 760 millimeters pr~
+(@ 6). At 75.8° the rate of reaction is 29.5
+per cent as fast as at 100° (fig. 10); for brevity the “temperate
+factor” is 0.295.
+In 30 per cent solution the rate is about 113 per cent of the rata in 20 per cent solution
+(fig. 8); the “concentration factor” is 1.13. The rate of evolution from the 34.1 kiIograme of
+ferrosilicon initially presentt is therefore 0.35 x34.1 xO.295 x 1.13 =3.98 cubic meters per minute. One gram molecule of silicon when diesolved in sodium hydroxide solution produces 44.8
+liters of hydrogen with the evolution of 49 kilogram-dories.
+The totaI heat of reaction during
+the tit minute is therefore
+3980 X 49
+=4360 kdOgr~+dOti=.
+44.8
+The boiIing point of 30 per cent sodium hydroxide solution is 115.3° C. (fig. 11). The vapor
+pressure of water at 115.3° C. is 1,280 millimeters; that of the solution is, of course, 760 millimete.m. The vapor pressure of water at 75.8° C. is 299 millimeters. Then ti vapor pressure
+of the solution at 75.8° C. is about
+299 X 760
+-178 millimeters.
+1280
+.
+
+444
+
+ANNUAL
+
+REPORT! NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+The barometric pressure is 740 millimeters. Consequently the gas leaving the generator is
+made up of water vapor and hydrogen in the proportion by volume
+178: 740–178.
+
+o
+
+There is therefore
+178x3.98”
+~740_ ~78) x 22 d kilogram moleqdes, or
+.
+178x3.98x18
+–—–——-=
+(740– 178) X 22.4
+
+1.0 kilogram of water in the escaping gas.
+
+The heat qf vaporization of pure water is 636 ldogram-caloriw per kilogram. From figure 14 it is apparent. that the heat of vaporization of water from a 30 pm cent sodium hydroxide solution is less than 0.2 ‘Idlogram-calo-ties greater than from pure water. The total heat of
+vaporization involved is therefore about 54o kilogram-calories,
+The heat 10SS
+from tho surface af the generator is about(75,8 –20) x 0.21 x 60 = 700 kilogramcalories. The total heat lost by evaporation, convection, and radiation is therefore about 1,240
+kilogram+alorica compared with the 4,360 kilogram-calories produced by the reaction, leaving
+3,120 kilogram~alories available to raise the temperature of the generator and its contents.
+The temperature increase i9 therefore
+. ..3120
+.
+411+71–
+
+= 6.5° approximately.
+
+At the beginning of the second minute the temperature is therefore
+75.8 +6.5 =82.3°.
+The new temperature factor is found to be 0.43. The concentration of the scdution hm not
+changed materially; consequently the concentration factor remains the same. There is no
+longer 34.1 kilograms,of ferrosilicon present, however. Figure 6 shows that the total hydrogen
+yield from ferrosilicon of this quality is about 0.95 liter per gram or 0.95 cubic meter pm kilogram. The 34.1 ldograma have already produced 3,98 cubic metem out of a possible 34.1x
+0.95. The. rate of reaction is therefore only
+398
+100–34.1 x 0.95 -87.7 per Cmt
+as fsat M the original rate (fig. 7). The number 0.877 reprawnts the ratio of the surface now
+preeent to the original surface and is called the “surface factor.”
+The rate of reaction is also affected by the fact that some of the sodium hydroxide has
+bmn used to form sodium silicate. From the vohune of hydrogen produced per kilogram of
+sodium hvdroxide.,
+.
+
+the “sodium hydroxide factor”. is found to be 0,99 (f&. 9].
+The rate of reaction at the begiming of the second minute is therefore 0.35 x 34.1 x 0.43 x
+1.13 X0.877 X0,99 =4.80 cubk “meters per minute, ” ““
+The calculation of heat of reaction, heat losses, etc., for the second minute are made in
+the same way as for the tit minute, and the whole computation ie repeated for as many intervaIs as necessary during the run. In order to obtain i “complete solution of the problem it is
+necessary to take account at all times of tha temperature, previous yiaId of hydrogen, amount
+of sodium hydroxide present, amount of ferrosilicon pr~ent, and the amount of water present;
+in order to obtain three &urea it is also necessary to determine for each interval the concentration of the solution, the vapor pressure of the solution, the water evaporated, the watar
+added, the heat produced by the reaction, the heat lost by evaporation, radiation, and convection, the heat capacity of the generator and its contents, the ‘~surface factor,” the “concentration factor, ” the ‘f sodium hydroxide factor,” and the ‘~temperature f~tir.)’
+
+FEILROSILICON PEOmSS
+
+FOR THE GEN’EBATION
+
+OF EYDBOQEI!T.
+
+445
+
+The vohune of gas evolved, found by the solution of the probkrn in the mauner indicated,
+is the vohnue which the gas would occupy at 0° C. and 760 millimeter if alI water vapor wwe
+removed. The vokme of gas leaving the g~tir
+and the volume leaving the condenser at
+any temp~ature may, of coume, be calculated in the usual rammer for correcting gas volume.
+By multiplying the amount of ferroailicon which has been added to the generator by the
+“surface fact.m” we may also determine the amount of unattached ferrosilicon in the gtmerator
+at any time.
+All of the above quantities have been computed, for the caae assumed for l-minute
+intervals up ta 31 minutm and for 5-minut-e intervals thereafter. The s@dtsuoua
+values
+Starting with a rdatnwly Iarge emount
+of the more important variables are shown in figure 16.
+of ferrosilicon and a small amount of solution in the generator, @e temperature rises very
+rapidly to 900, the rate of gas evrdution increasing by more than 50 per cant. Fresh solution
+is introduced to keep the temperature constant, snd the rate fal.le off as the fermsihn is used
+up. k soon as the ferrosilicon feed is started, the rate of evolution begins to pick up.
+Conditions then remain practically static ~til all the solution is introduced and water
+h= to be used for cooling. This immediately dilutes the scdutio% making the rate of reaction
+consequently accundatee gradualIy,
+per gram of matfz%d progrwsimly slow=. F-con
+the decrease in reaction from one cause An@
+-ctly
+balanc@ the increase from the other.
+The more cEIutesolution hss a greater vapor pressure and the total volume of hydrog= and
+stesm leaving the generator increases considerably in consequence.
+When the solution has bem diluted h a mncm~tion
+of 20 per cent, the addition of water
+is stopped. The temperature immediately b@
+to incr-e,
+tie rate of readion also inereaw,
+and ferrdicon
+is consumed more rapidly ti~ it is added. me tiperature
+continues to
+rise until the vapor presure ia so high that the heat of vaporization of the water evaporated,
+tigetherwith the heat loss from the surface of the gmratir, balanc= the heat of reaction. The
+excess of fermsficon is qtic~y used Up ~d tie mte of m~uption
+of silimn once more falls ta
+approximately the rate of addition. If the rate of reaction per gram of ferrosilicon were constant the total rate of reaction would quickly become exactly equal to the rgte of addition offerrosilicon. There is, however, a contiuua~ ~h~ge ~ tie ~te of r~ction per gcaus~ by *O
+factors-(~) the exhaustion of the sOdim hytifide
+t-m
+to d~r=e
+tie rate d
+(2) the
+gradual concentration of the solution a9 water is evaporated. Since the thermal equilibrium
+requires a constant vapor prme,
+the temperature must rise m tie Solution btwomes more
+concentrated, aud this factor tends to cause a considerable increase of the rate of reaction per
+gram. The temperature increase is not quite dcient
+to counterbdazme the first affect and
+ferrosilicon again accumulates while the rate of evolution falls off slightly. When the ferrosilicon is dl added, it is quickly dausted
+~d & e~lution of gm drops to a very low rate.
+Eight minutes after the addition of f-silicon
+StipS,-O~y half a percent of the 363 kilograms
+introduced inta the gegerator remain unacted upon.
+Z. Qmerator prolbn No. %.—Figure 17 reprw~ti tie rate of evolution (curve a) and total
+yieId (curve h) from the same amount of ferrosilicon and the same amount of sodium hydroxide,
+under the same weather con~tiom w =sued
+~ pmblm 1 but with different conditions of
+operation. It is here assumed that enou@ watm is added to tie alkali in the mixing tank
+ta make a 20 per cent solution, aIl of which is w into the generator at the start. The ferrosilicon feed is then started at tie ufiorm ~te of 15 po~da per minute. No water is added
+during the run. Under thes~ conditions ne~y 15 m~utw me requird to raise the temperature
+to a point at which the reaction goes on vigorously. By this time a large mount of ferrosilicon
+has accmmdated and”the rate of reaction becomes exc&ve.
+ho additional curv~ reprw~e
+tie mte d~ti
+tie biti~ stages of generation with
+difkrent methods of operation are shown. Curve c represents the result of operating under the
+same conditions * hose rep~~ted
+by G -cept fiat O~Y on~fourti of tie Solution is run
+into the generator at the start. Curve d represmti the resdt of starting &e run with 150
+~uuds of ferrosiIicon end one-quarter of the solution in the genwatar; no more fermsilicon
+ig added up b the point shown.
+
+—.
+
+—.
+
+.-
+
+.
+
+—.
+
+.—
+
+m~--—--io
+
+“s
+.g
+
+s
+
+i!
+3
+‘6
+
+.-—--
+
+s
+
+‘M” --%%247;
+
+fqurors
+
+FE.EBOSILICON PBOOESS FOB TEE
+
+GENERATION
+
+OF EYDROGEN.
+
+447
+
+3. Accuracy and eign@ance of calcddiona regardinggenemtoropmation.Thenumber ofvariable.satering into such computations as those gi-ren above is so great and the data uspc in some
+cases so unsatisfactory that the results cannot be regsrded as possessing a high degree of absolute
+accuracy. This is particularly true in the case of the calculations concerning temperature
+changes in the generator. Thus in problem 1 the time required to raise the temperature of the
+generakm to 90° C. is computed to be about three minutes. It would not be at all surprising
+if the time required in practice were found to he two minutts or five minutes. The data are
+hardly 1s.ss seful on that account, however, since they enable one to compute with a considerable
+u
+degree of accuracy the relative effect of the more important possible variations in generatcr
+operation and indicate with certainty the direction and order of magnitude of almost any change
+in the conditions or methods of generation.
+In the first example given it is readdy apparmt that the low rate of evolution betmwn the
+fourth and twelfth minutes could have been Iar@y avoided by allowing the temperature to
+
+.-
+
+*
+
+.
+
+increxe furtier before adding water, and that the peak rate at about 20 minutes would have
+been avoided by the same procedure. This peak could also have been avoided by graduaIly
+decreming the amount of cooling watar instead of cutting off the supply suddenly.
+F. CONCLUSIONS
+FROMTEEOBETICAL
+GENERATOR
+WNS.
+In spite of the many conditions affecting the rate of reaction of a given amount of ferro silicon, the rate of gas evolution during the the major part of the generator run is primariIy
+a function of the rate of feed of ferrosilicon. Whatever the conditions of ttxnperature and
+concentration of solution, provided they are reasonably cunstant, and what-ever the composition
+and fkness of the ferrosilicon, if the ferrosilicon fed is r@ar
+the material will accumulate
+in the generator until the amount of reacting surface is such that the rate of solution will closely
+approximate the rate of addition. Whether the rate of solution is greater or less than the rate
+of addition of material depends upon whether conditions are changing to make the rate of
+reaction per unit weight of fmosilicon more or I- rapid. In choosing conditions it is necessary
+
+448
+
+KNNUAL REPORT
+
+NNLTONAL ADVISORY CKWXITT EE FOR AERONAUTICS.
+
+to determine: (1) That equi.Iibriumwill be quickly reached without generating gas at anexcessivo
+rate; (2) that there will be no sudden variations of generator .conditiom, particularly of temperature, which wilI greatly disturb the established equilibrium; and (3) that the material in
+the generatar after the ferrmilieon is all added may be quickly and completely exhausted.
+&at requirement of successful operation iB
+1. Temperature control during generabn.-!i%e
+that the temperature of the generator be quickly raised at the beginning of the run to the point
+at which equilibrium is to be. established, and that this be done without accumulating a huge
+WU@us of ferroeilicon in the generatar. The ideal condition is of course to adjust conditions
+so that when the temperature reaches the desired point the amount of farrmilicon in the generator will be just sufficient to produce hydrogen at the average rate for the run.
+If the generator temperature is to be increased to the desired point only by the heat of
+solution of sodium hydroxide and the heat of reaction with ferrosilicon it will probdly be best
+to start with as concentrated a solution as can ba quickly prepared and to use only a part of
+the solution with a comparatively large amount of fprrosilioon until the temperature reaches.
+that at which it is desired to establish equilibrium. Thaferroailicodeed may then be started
+and more solution and water added as required ‘Io keep the temperature at the de,~d point.
+The temperature chosen for equilibrium shouId be determined by the following eonwderations:
+(a) It is desirable to have the rate of reaction per unit weight of ferrosilicon as rapid as
+possible at the end of the run in order to avoid waste of time and material.
+(5) The rate of reaction per unit weight of ferroailicon at the end of the run can be
+made a maximum for a solution of givcm conmntration by permitting the temperature to rise
+until thermaI equilibrium is established between the heat of reaction on the one hand and the
+heat of vaporization and other heat losses on the other.
+(c) The rate of reaction per gram is increased by increasing the concentration of tho solution, but the allowable change in this direction is slaidy limited by the faot that concentrated
+solutions containing much dissolved silicomhwmne very viscous. It is probable that to utilize
+the materials economimlly the solution at the end of the reaction should never contain more
+than 33 parts of sodiumhydroxide per 100 parte of water (a 25 per cent solution). !l%entyfive parte of sodium hydroxide per hundred of water (i. e., a 20 per cent solution) would be a
+safer limit.
+(d) The temperature must be kept from changing rapidly at any time after equi~ibriumis
+established. This is most readily accomplished by keeping it nearly uniform, and in order to
+fultil the other requirements this working temperature must be slightly below the temperature
+at the end of the run.
+The use of some aluminum powder will permit a much more rapid heating of the generator
+than can be accomplished by the use of fmosilicon alone, especially when at fairly low temperature; and this preliminary use of aluminum will probably make it much easier to avoid
+excessive ratee of reaction after the operating temperature is reached. In case aluminum is
+used, it will be far more economical and probably as satisfactory in every way to start with a
+fraotion of the solution than to heat it all up at onoe. It will also be an advantage to introduce
+a considerable amount of ferroailicon at the very start in order to secure a greater proportion
+of the necesmry amount of heat from this material as the temperature rises. It is apparent
+from fi~re 16 that only two or three minutes are required to heat up the generator from 75° C.
+with ferrosilicon alone. Consequently it seems unnecwsary to use more aluminum than is
+required to produce this tarnperature.
+From data supplied by the Aluminum Co. of America it appears that about 1 gram of grtied
+aluminum will raise the temperature of 1 gallon (3.8 kilograms) of solution 1° C.
+A satisfactory result could probably be obtained by noting the temperature of the generator
+at the start and introducing 1 kilogrammf aluminum-per 100 gallons (or 380 kilograms) of solution for every 10° below 75° C. together with the amount of ferrosilicon which would be introduced if the temperature were already 75°. The mnount of this initial charge will be discussed in the seaond smtion following.
+
+mnmosmrco~ PROCESSOE
+F
+
+THE QENEBA!rrolr
+
+a?
+
+EYImOmN.
+
+449
+
+2. C7ioiceof equilihium temperature. —Figure 18 shows tie temperature at which the heat
+of vaporization of the water carried away from solutiom of various concentrations will be equal
+tio the heat of reaction. These exe the maximum temperatures beyond whioh the generator
+temperature could not rise.if there were no heat 10FSM
+other than through evaporation. On a
+still, hot day these temperatures will be approached closely if no cooling water k used. k
+very odd weather, and especially when a string wind is blowing, the maximum temperature
+obtainable wiIl be several degrees lower.
+The temperature of the generatir should be allowed to rise at the beginning of the run to
+within 2° or 3° of the maximum temperature powl%le for the solution of the concentration
+desired at the end of the run. The temperature shouId be kept at this point by means of the
+water spray until the amount of watar required is very small. The water should then be turned
+off entirely and the kmperature allowed to rise gradually, as it will do. If this point is reached
+before the run is half over end the discharged sludge is very viscous, a lower operating tanperature should be chosen for the next rum If water cooling is required UPto the w
+end of tie
+run, a higher operating temperature should be maintain~.
+“
+-
+
+already
+pointed out, the titi~ ~qe
+of ferrosihcon
+3. Initial ciiurge of femosilicon.-A.s
+should be such that when the generator t-p=afie
+reaches the ti~ed
+eqtilrhun
+value
+the rata of reaotion will be the desired average rate for the run. In the case assumed in probIem I about 12 kilograms of ferrosilicon, containing about 70 per cent sficon, was cmsumed in
+raising the temperature of the generator from 75° to 90°. The temperature shouId have been
+raised to about 95° to avoid the irregularity in rate which resulted km tco low a temperature.
+The amount of silicon required to incresse the temperature of 100 gallons of scdution to the operating temperature is tierefore about
+12x0.70 x20x3.8
+= 10.5 ldogrlm.
+15X4.11
+
+h
+weight of ferrosilicon reqti
+is found by ~tib
+10.5 by the par cent of siIicon contained. The generators in most common use are designed to deliver 12,000 cubic feet per hour,
+equal to 5.7 culic meters per minute. In addition to the amount consumed in raising the
+167080-S.Doe.807,~29
+
+.
+
+—
+
+450
+
+ANNUAL R%5.PORT
+NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR
+
+AERONAUTICS.
+
+temperature, there should be enough materhd to produce hydrogen at the rata of 5.7 cubic
+meters per minute under operating conditions. ‘Fhys for the 70 per cent ferrosilicon used
+in problem 1 the initial charge should consist of about
+10.5,
+5.7
+-32 kilograms.
+O= ‘ 0,35 xO.83 X 1.13
+The numbers 0..35, 0.83, and 1.13 occurring in the denominator of the second fraction
+are the initial rate of reaction in 20 per cent solution at 100°, the temperature factor, and the
+concentration factor, respectively.
+If 88 per cent ferrosilicon ground to pass a 100-mesh sieve (&. 6) were to be used, the
+initial charge should be about
+10.5,
+5.7
+o= ‘ 0.72X0.83X1.13
+
+-22 kiIogrsms.
+
+If 32 ldograms of this material were used, the rate of evolution when the working temperature
+was reached would be about double the desired rate.
+of ferro8ili.con.—If the best conditions of temperature control
+4. (707nposition and 5WW8
+and generator operation indicated above are adhered to, the relative advantage of using ferrosilicon having difhrent ratea of reaction because of. dif%rences in composition or fimxmss is
+easily detmnined. If the temperature is fairly high, it is only necessary to add, at the start,
+the amount of material determined in accordance with the principlca discussed in the hst
+section. The temperature will then quickly rise to the desired value, the time wasted with
+the more slowly reacting material being practically negligible. If the temperature is very low,
+however, it can not be quickly raised with a slowly reacting material except by introducing
+so large am amount that the rate of reaction becomes excessive when the generator once gets
+hot. In some cases it might be impossible to produce sufMent reaction with low grade material
+to balanm surface heat 10SWS;it would then be impossible to operata the generator at all.
+If, however, aluminum is used, as recommended above, there ia little advantage, so far as the
+initial stages of generation are concerned, in using a high grade or tiely powdered material.
+When onca the reaction is proceeding at the desired rata, and the temperature and rate of
+addition of ferrosilicon are kept constant, it is obvious that generation will proceed at the same
+rate for any material until all the ferrosilicon has been fed into the generator. The amount
+of ferrosilicon present is then inversely proportional to the rate of reaction per gram of material,
+and at whatmer time the run is stopped the amount of material wasted in the two cases is in
+this same ratio. The amount wasted at the end of the reaction is not large if a remonable time
+is allowed for the reaction to cease. . The material assumed for problem 1 was about as slow
+acting as there will probably be occasion to use; the amount unattached where the addition
+of material ceased was about 10 per cent; five minuk later it was about 2 per cent, and in an,
+other five minutes it had fallen to half of 1 per cent. It is clear, therefore, that even coarse,
+lowW~e
+ma~~
+d~ not ~d~y
+prolong he p~od for reasonably complete reaction.
+19 shows the total yield of hydrogen computad
+5. Amount of 80d~U7)Z l@droxi&-Figure
+from the experimental data shown in figure 9, for the same amount of 88 per cent ferrosilicon
+added at the same constant rate to four different amounts of 20 per cent sodium hydroxide
+solution during a period of one hour, the temperature and concentration being assumed constant
+during b interval. The hydrogen yield during 60 minutes under these conditions is plotted
+against amount of alkali in figure 20.
+From the data of these curves were computed the total weight and the WaI cost of the
+ferrcdicon and sodium hydroxide (assumed to be 12.5 and 6 wnta per pound, respectively) to
+produce 1 cubic meter of gas.
+‘l’he results are given in figure 21, from which it appears that the greatest economy will
+be obtained by using about seven-tenths as much sodium hydroxide as ferroailicon of this corQposition, or about eight-tanths as much sodium hydroxide as silicon present in the material.
+
+l?EBROS~OOH
+
+I?BOOESS FOB TEE
+
+QENEBATION
+
+OF ~ROCWJ.
+
+451
+
+.
+
+452
+
+ANNUAL REPORT ITATIONAL ADVISORY COMMITTEE FOR AEEON’AUTICS.
+
+mOS~OON
+
+I?BOCIESSFOB TEE
+
+QIHTEEATIOI’T OF ~BOQEN.
+
+45s
+
+There is, however, but little waste in using equal weights of ferrdicon and sodium hydroxide,
+and such a practice wouId decrease the danger of obtaining very viscous SOIutionsat the end
+of the run. On the other hand, it costs more to produce a given volume of hydrogen when tio
+Iittle sodium hydroxide is used only becawe ferrogilicon remains unacted upon at the end of
+the run. It has aheady been pointed out that the amount of material wssted decreases very
+rapidly when generation is permitted to proceed for a short time after the material is added;
+hence when hsete is not an importsnt object greater economy could no doubt be secured by
+using a still smaller proportion of alkali than 7 parta to 10.
+G. ~~G
+
+OUTTEE G~TOR.
+
+The hydrogen first caning from the generator is, of course, contaminated with the air in
+the generatm at the beginning of the run. Since it is undesirable to run this air into the bslloon,
+the gas first produced should be allowed to eecape into the atmosphere. The volume of hydrogen
+
+.
+
+/ncmase
+
+0P te*pewa*
+
+u *.
+
+whioh must be wseted before the desired purity is reached depends upon the vohune of gas
+space ta be swept out and is constant for a given generator and a given initial charge of solution.
+Since a deflnita amount of heat is produced when a definite mass of hydrogren is evolved,
+the easiest and most raliable way of determbbg when the desired volume of hydrogen has
+been Iiberated is to observe the rise of temperature of the scdution.
+In the following discussion of the temperature increase corraspondii~ h various degrees of
+purity of hydrogen at the outlet of the generator it is assumed that the gases within the generatir
+are uniformly mixed. This is a safe wwmption, sinm the hydrogan is liberated uniformly, or
+nearly so, over the bottom of the generator and any settling of the air at the bottom without
+mixing is inconceivable. OR the other hand, it is to be expected that the hydrogen will to a
+ootiderable exknt displace the sir without mixing. If there were no mixing at all, the volume
+of hydrogen required to sweep the sir out completely would, of course, be equal to the vohrme
+of the gas space.
+
+454
+
+ANNUAL REPORT NATIONAL
+
+ADVISORY COMMITT EE FOR AERONAUTICS.
+
+Aswning uniform mixing of the gas withindhe generator at all times, it may be shown
+that the ratio R of the volume of hydrogen evolved to the volume of the gas space into
+which it is liberated is given by the equation
+1
+MOg.~’
+.—.
+100
+where a is the percentage of hydrogen in the generator.
+From this equation and the thermochemical data already given it is possib~e to compute
+the rise of temperature of the generator and its contenfi when under any given set of conditions
+before a gas of a given purity is obtainod.
+In mak.bg the computation for the cawx shown in figures 22 and 23 the following assumptions were made:
+1. That there is perfect mixing of the gases tithin the generator.
+Z. That all the heat produced by the reaction goee to heat the solution or to evaporate
+water from the solution.
+3. That the molecular volume of water vapor is equal to that of a perfect gas at the same
+temperature and pressure.
+4. That normal barometric pressure (760 millimeters of mercury) exists.
+5. That the effect of concentrating the solution through evaporation during the reaction.
+is inappreciable.
+The first two assumptions are on the side of safety and they will more than overbalance
+any probable errore in the opposite direction from an abnormally high barometric pressure or
+other cause. The hydrogen after a giwm temperat~ increase will therefore always be somowhat purer than is indicated by the figurw 22 and 23.
+Figure 22 shows the increase of temperature from aminitial temperature of 76°, corresponding to the production of hydrogen of 65, 80} and 99 per cent purity for all ratios of volume of
+gas space to volume of solution up to 60. The curve for 66 per cent was constructed becaum
+this is about the lowest percentage of hydrogen which will not explode if ignited. It is common
+baUoon practice to reject hydrogen of less than 80 per taut purity because of its low Iiiting power.
+This is therefore the purity which it is desirable b reach before allowing the gas to enter the
+balloon. The curve for 99 per cent purity is given as a matter of interest,
+Figure 23 shows, for several ratios of gas space to vohune of solution, the temperature
+increase necessary to produw hydrogen of 80 per ceRt purity when starting the generation at
+any temperature. Under the conditions recommen&d for operating the generators now in
+use, the space to be swept out is about 15 times the volume of the solution in the generator at
+the beginning of the run.
+If a more dilute solution than 30 per cent is umd, or if the barometric pressure is lower, a
+somewhat purer gas will be obtained for a given temperature increase than that indicated in
+the figures because of the coolii effect of increased evaporation.
+
+1
+
+APPENDIX.
+SUGGESTIONS NDTENTATIVE
+A
+OPERATING
+DIRECTIONS.
+
+.
+
+The following suggestions end operating directions are intended to summarize in a concise
+form the practical applications of the foregoing theory. From the nature and cumpkity of
+the probkm it is not to be expected that the esact details specified will be the best in every
+caae, but it is hoped that the principles klready developed will enabIe the opemtora to quickly
+determine from field experience the points at which these directions are at fault and to make
+the necwsary modifications at once. Follow@
+the specih directions are comments upon
+possible modifications
+1. Purchuxe of nuztwi.d-(a)
+Ferrosilico~ if purchased on the basis of content of silicun,
+should contain not kss than 75 per cent of that element. If purchased on the basis of
+yield of gas, it should evolve not 1- than 1.1 Iiters of dry hydrogen per gram measured at
+0° C. and 760 miimeters prwure.
+(6) The choice of ferrosilicon containing more than 80 per at of silicon should be governed
+by total cost per unit volume of hydrogen obtainable.
+(c) The ferrosilicon should be ground at least fine enough to paas a 16-mesh sieve. It is
+some advantage to have it finer than this, but the advantage probably would not justify an
+increased cost of more than 5-10 per cent for grinding.
+(d) Sodium hydroxide should be purchased on the basis of cont&t of sodium hydroxide
+allowing nothing for sodium carbonate, which is of no vedue.
+2. Computation of generator cikwgm.-For each lot of material purchased the following
+points shouId be determined once for en, either by test or by camput-ation, using the data given
+in this report with such modMcations as experience may prove desirable:
+(a) Determine the total gas yield per unit weight of ferrosilicon.
+(h) Determine the initial rate of reaction per unit weight of ferrdicon, for the conditions
+under which equilibrium is to be established in the generator.
+(c) Compute the total gmerator charge to be used for a single run, from the volume of gas
+desired and the total yield obtainable from the material.
+(d) Compute the rate of ferrosilicon feed, from the total yield per unit weight of material
+and the capacity of the washer<ooler system (or the danger of foaming if that proves to be the
+limiting factor), on the assumption that the rate of consumption of material will e@aI the
+rate of feed.
+(e) Compute tie initial charge, in the manner dwcribed in section E-3 of this report.
+The weight of sodium hydroxide used
+(N Compute the charge of sodium hydroxide.
+should be about 80 per cent of the weight of silicon in the ferrosilicon charge. Probably a good
+rule would be to use whole packages if potible, always using a weight of sodium hydroxide
+between 80 per cent and 100 per cent of the weight of dicom
+(g) Compute the amount of water required to make a 30 per cent solution with the sodium
+hydroxide charge specifie&
+(h) From the data of figure !22, compute for the operating conditions to be used the temperature rise corresponding to a purity of hydrogen of 80 per cent.
+3. Operating directiong.— (a) Introduce inti the mixing tank the amount of water specified
+(~), start the sthr@ machinery, and add the amount of sodium hydroxide specfied @f).
+(h) Fill the ferrosilicon hopper, but do not start the feed.
+(c) When soh.dion of the alkali is complete, run 100 gallons (or 380 liters) of the scdufion
+into the generator. Read the temperature. If the solution is very cold, and especially if there
+is reason for haste, add at one time 1 kilogram (or 2.5 pounds) of grained aluminum for every
+10 degrees below 75° C., and the specified initial charge of ferrosilicon (2e).
+455
+
+-—
+
+456
+
+AKWUAL REPORT NMZONAL ADVISORY COMMITTEE FOE AEEUNA~CS.
+
+(d) Let hydrogen run to waste until the temperature has risen the predetermined amount
+(2h), then pass into the storage tank or the balloon.
+(e) Wati
+tie temperature of the generator carefully. When it reaches “95°, start the
+silicon feed at the specified rate (!M] and start to run in additional solution from the mixing
+tank and, if necessary, cooling water as fast as required tmkcep the temperature constant at
+95°. Introduce the solution as rapidly as possible without lowering the temperatum; but.
+introduce wat.arbefore the addition of all the solution only if itis necessary to keep the temperature fram rising.
+(f) Put more ferrosilicon in the hopper before the material fit introduced is all e.xhaustcd,
+Continue to do .SOuntiI the specified charge (2c) is aUintroduced.
+(g) men tie amo@ of COO- water required to keep the temperature constant becomes
+very small (it wilI never become zero), stop it sntirely. If the temperature then rises more
+rapidl~than one or two-tenths of a degree per minute, begin cooling again.
+(h) Record my indications of irregulm evolution of gas or low yield. Note and record the
+condition of the sludge when discharged, whether it appeam sticky or doughlike or whether
+the grains of matarial appear distinct and easily separable.
+4. (lwnmenh upon directions given.-la. It is iecommmded that, folIowing the French
+practice, the quality of ferrosilicon be specified on the basis of hydrogm yield. There are two
+reasons for this: (1) The hydrogen yield is much more easily and quicldy determined than the
+percentage of siIicdn; and (2) the hydrogen “field is the property of immediate value, and it
+may not always be proportional to the silicon content as determined by amdysis. For cxample,
+a mixture of sand and f errosilicon containing 91 per cent of silicon element, so proportioned
+that the free and combined siIicon forms 86 per cent of the mixture, will yield only 92 per cent
+as much hydrogen as ferrosilicon of uniform composition containing 85 per cent of siIicon element. Yet both sampl- would show the same percentage of silicon if analyzed by the usual
+methods, On the othar hand, some hydrogen is formed from aluminum and perhaps otlmr
+impurities in the ferrosilicon.
+The following method of determining yieId of hydrogen is recommended: The apparatus
+required is shown in figure 1, in wb.kh A is a 500 cc. flask of pyrex glass sficitmtly heavy to
+stand evacuation. This flask is connected as shown to the bottle Bin which the evolved gas is
+collected and the bottle C in which it&volnme is determined by measuring with the graduated
+cylinder D the volume of water displaced. The stopper of A carries a dropping funnel E, and a
+connection ta a source of reduced pressure and to the mercury manometor F’. Provision is
+made for connecting bottle Q to a source of pressure or of suction, or for opening it to tho atmosphere at wilI.
+A 2-gram sample of the ferrosilicon is weighed into the flask A, 100 cc. of water is added,
+the flask is opened to the vacuum line, and tho mntenta boilod until all the air has bmn oxpollod
+by water vapor. The vacuum is then shut off, 100 “cc. of 40 per cent sodium hydroxide solution is placed in the dropping funnel, and the alkali is let into A drop by drop until the evolution of hydrogen begins. As soon as the pressure in A approaches atmospheric, as shown by
+the mercury manometer, the stopcock into B is opened and the evolved gaa passes into B, displacing the watw into G, which is open to the air. The addition of the aIkali to A is now
+continued carefully, the temperature being kept near the boiling point at all times. When alI
+the alkali has been added and the reaction S1OWdown, tha heat is incroascd and the solution
+aUowed to boil for one hour. A is then filled with water through the dropping fmmol, the gas
+is run into C, and the amount of water displaced from C measured. When all the gas has
+been forced into C, it is brought to atmospheric pressure by raising the measuring vesscI until
+the water stands at the same level as in C, the end of the delivery tube being kept under water
+at all times. The temperature of the displaced water is determined and the vohune of the gas
+correctad to standard conditions of temperature and pressure.
+Ic. If the ferrosihn is to be used under conditions of known cold and windy and variable
+weather, particularly at a high altitude, it will probably ba best to have the matarial tily
+ground in order to permit easier temperature control at tha beginning of the run. If foaming
+
+q
+
+OK OF EYDnmm.
+457
+FEEROSILICOl!T PROOESSFOIk TEE fXENEEA.TI
+&
+causes troubIe, but little difficulty is experienced in gstting up to the desired operating temperature, it may prove desirable to use a coarse mafarial.
+.
+If the generator is to be used to 511a balloon of giwm size without the aid of a nurse
+balloon or relief holder, an integral number of charges should be used to 511the balloon, the
+weight of each charge being computed from the total yield per unit weight of ferrosilicon. If
+the generator is to be operated to keep up a supply in a holder, the amount of a charge should
+be as large as the mpacity of the generator wiIl allow, using an integral number of packages
+of materials. A considerable saving both of time and material can be gained by increasing the
+charge and correspondingly increa-~ the time required b exhaust it. If the reduced amount
+of solution recommended in this report is used, it may be possible ta very materially increase
+the charge in this way.
+.
+2d. The permissl%le rate of ferrosilicun feed for a generator and condenser of a given size
+and form shouId be determined once for alL Ihdess thera is trouble from foaming, the maximum permissible rata is that above which the outlet gas shows a temperature appreciably
+higher than that of the condauser water or contains sodium hydroxide spray.
+2e. Some sort of device for determining the rate of evolution of gas is very desirable. A
+Venturi meter of the type used on the French machines is sufficimtiy accurate. If such a meter
+is attached, it is easy to determine whdher the amount of initial charge is correct. When the
+temperature of the generator reaches the operating temperature, the feed is startid at the full
+rate. If the rate of evolution of gas then decreases during the next few minut.wiwhile the temperature is kept constant, the initial charge was too large. If, on the other hand, the rate of
+evolution increases when the feed is started, the initial charge may advantageously be increased.
+Zf. When speed is of primary importance in the generation, there will be some advantaga
+in increwiing the amount of sodium hydroxide used. When, however, time is of Little importance, economy can be gained by keeping the amount of sodium hydro.fide at the minimum
+&ure given. The amount of sodium hydroxide should probably never be much lower than
+thii. If a pressure record of the rate of evolution is kept, it wiUgive some indication of whether
+enough alkali is being used or not. H there is a rather sharp diminution in rate near the end
+of the run, with a constant or rising tarnperature, it is a pretty good indication tiat more sodium
+hydroxide would save time and perhaps money.
+2g. If an excessive amount of time is required to get the sodium hydroxide into solution,
+and particularly if the temperature in the mixing tank passes through a maximum before solution is complete, the solution is being made too concentmted. If the alkali goes inta solution
+promptly and there is difficulty in starting generation when the solution is run into the generator, the solution may advantageously be made more concentrated.
+A 30 per cent solution is chosen rather arbitrarily as representing about the strongest
+solution which can be made up rapidly. At any rate, there is but little advantage from any
+standpoint in making a solution much stronger than this. When working at a high altitude,
+there is some admmtage in having the solution somewhat more Concentrate at all times during
+the run than where working at a low aItitude, because the vapor pressure, and consequently
+the heat lows and the equilibrium temperature, are then nearer normal.
+3c. The amount of schtion introduced inta the generator at the start is here chosen arbitrarily. It maybe found preferable, in praotice, to use more or k
+than this amount, and it
+may be found advantages
+h change the amount for difkmt weather conditions. When
+starting with a cold solution it should always be possible to economize upon the amount of
+aluminum necessary by reducing (within reasonable limits) the mnount of solution used at the
+start, but it is probable that a very great reduction would remdt in considerable loss of time.
+3e. The exact operating temperature, here somewhat arbitrarily chosen, must be fixed by
+experience. It can not be made as high as wes formerly used without allowing the solutions ta
+become very concentrated toward the end of the run, and this cxmdition does not permit economy
+in the use of sodium hydroxide. The amount of sodium hydroxide to be used should be chosen
+without regard b this factor.
+
+-r%-
+
+..—
+—
+.-.. —
+-—
+-:----
+
+.-
+
+—.
+
+—
+—.
+..
+
+458
+
+E
+kNKIJAL EEl?OItT NATIOMAL ADVISORY 00 MMX’J?I E FOR A.RRONAUTIOS.
+
+If it is then found necessary to add a considerable amount of water until the very end of
+the run in order to keep the temperature down, the operating temperature chosen is too low. If
+the amount of water required is very small early in the run and the discharged sludge ia very
+viscous, the operating temperature is too high. Some difference in choice of operating temperature should probably be made for diflerent weather conditions. Tlmse changes will have
+to be determined by experience. In general, it may be said that a high wind velocity has a
+greater ehct than a low temperature or a low barometer.
+It is of no great consequence whether cooling water and fresh solution are introduced
+together or not provided the solution is all introduced before the rate begins to falI off apprciciably because of the exhaustion of the sodium hydroxide.
+If there is any foaming over at any time during the run or if the gas leaves the washer at a
+temperature appreciably higher than that of the inlet water, the rate of feed of ferrosilicon is too
+high. The temperature of the outlet gas should be carefully watched. If it shows a sudden increase while the ferrosilicon feed is maintained at the usual rate, the fault is in the washer and
+should be remedied as soon as possible. In the meantime the rata of feed of ferrosilicon should
+be decreased enough to allow the gas to pass out well cookd, especidy if the gas is being run
+If the gas is passing inti a relief holder, thorough cooling is less essential.
+directly into a ba~on.
+3g, It may be preferable to specify the time at which the caohg water is to be shut off.
+This should be 10 or 15 minutes bsfore the ferrosilicon is all fed into the generator in order (1)
+to aI1owthe generator temperature to rise m much as possible, (2) to offset the fiect of diminishing concentration of sodium hydroxide, and (3) to prevent waste of material at the end of the
+run,
+3h. A permanent record of aUgenerator runs and all indications of unsatisfactory operation
+should be of considerable value, at least until the method of operation is thoroughly standardized. The record will be particular~y valuable if it can be accompanied by a record of the
+generatrn pressure.
+
+REPORT No. 40.
+PARTII.
+THE EFFECT OF THE PRESENCE OF SODIUM CARBONATE ON THE GENERATION
+OF HYDROGEN FROM FERROSILICON AND SODIUM HYDROXIDE.
+By
+
+‘
+
+E. R. ~llAnB
+
+aud B. D. GOIUWK.
+
+lntrod@ion.-The
+purpose of the experiment.alwork descrihd in this report was ta detel”
+mine the allowable limit for sodium csrbonate in sodium hydroxide that is to be used for the
+generation of hydrogen by the ferrosilicon method and the possible value of sodium carbonate
+for this purpose.
+d.fhhod of study.%olutiona containing @own amounta of sodium hydroxide and sodium
+carbonate were prepared. The solution to be investigated was transferred to a large flask
+connected through a water-cooled condenser to a gee meter. The flask was heated to constant
+temperature in a stenm jacket and 25 grams of ferroailicon were then added and the rate of
+hydrogen evolution and the total yield of hydrogen determined. The presence or absence of
+CO, in the evolved hydrogen was d@mined
+by bubbling this gas through a little barium
+hydroxide solution bafore it entered the meter.
+In each of the experiments a 20 per cent sodium hydroxide solution, an equivalent solution
+of sodium carbonate, or a mixture of the two was used. ‘I’he use of sohtions of equivalent
+strength in all experiments was intended to make the redta more directly comparable. Since
+sodium carbonate is more sfrongly hydrolyzed in a dilute than in a concentrated solution, it
+is apparent that (1) the carbon dioxide would be produced from a dilute solution if it is produced
+at all and (2) that sodium carbonate would prove of greater value, relative to an equivalent
+amount of sodium hydroxide, in a dilute solution than in a concentrated one. An equivalent
+strength of 20 per cent of sodium hydroxide was chosen for tie experimenta~because this concentration is about as low as it is practicable to use in the hydrogen generator. The ferrosilicon used in the several experiments was of the same composition and finen~, and d.1 conditions of generation except the composition and smount of solution were made identical in
+alI the experiments.
+—The results of reprwmtative experiments are given in the form
+&8?Jlf8
+Of I?sp&7w?&s.
+of curves. Figure 1 shows a typical curve reprwenting the evolution of hydrogen from ferrosilicon in a solution of pure sodium carbonate. The very much greater hydrolysis of sodium
+silicati than of sodium carbonate probably accounta for the pecuhr shape of the curve.
+F~es
+2 and 3 represent the results of a smiw of experiment in each of which an excess
+of solution containing sodium hydroxide and sodium carbonate equivalent to 20 per cent of
+sodium hydroxide was allowed to react with the same amount of ferrosilicon. For comparative
+purposee another series of experiments was made with solutions containing the same amount
+of water and sodium hydroxide as the compondiug solution in the first series, but no sodium
+carbonate. It w5Ube seen that the presence of sodium carbonate equivalent to es much as
+three times the sodium hydroxide present hss wry little effect either on the rate of evolution
+or the total amount of gae evolved in 30 minutes. It can be readily seen that sodium carbonate
+has even 1- effect upon the total production of gas from a field generator, because the rate of
+evolution during most of the time is a function of the rate of ferrosilicon feed only.
+469
+
+. ..—
+s
+
+460
+
+KNNUU
+
+REPORT
+
+NATIONAL
+ADVISORY OMMITTEEOB
+C
+F
+
+AE.RONAUTK33.
+
+The composition of the solutions
+Figure 4 shows the rawlts of several typical experiment.
+in the experiments represented by curves A and C ware the same, but the amount of solution
+umd -with 25 grams of ferrosilicon was greater than should bG used in practice in A and less
+than should be used in practice in C. C?urvesB and 11represent, respectively, t.h evolution
+of hydrogen from the same amount of solution containing the same amount of sodium hydroxide
+as curves A and C, but no sodium carbonate. It is obvious that in experiments A and C the
+sodium carbonate, equivalent to 25 per cent of the total alkali preeent, has but little value.
+Curve E represents hydrogen evolution from a solution in which the sodium carbonate is equivalent to 75 per cent of the total alkali, and the total sodium hydroxide equivalent is about
+that found to be most favorable to economy in genarator operation. Under these conditions,
+if under any, sodium carbonate should prove of value. A comparison with a solution containing
+the same amount of sodium hydroxide but no carbonate, represented by curve F, shows that
+the carbonate has but little value even under these circumstances.
+Conclusion.-The reaction of sodium caxbonata in aolution with ferrosilicon probably
+depends entirely upon its hydrol@s which takes pIace according to the folIowing equation:
+N~CO, +~0
+
+-NaIKQ
+
++ NaOH
+
+This reaction takes place to the extent of about 3 per c&t in a 20 per cent solution. In
+the presence of sodium hydroxide or of any considerable quantity of sodium silicate which is
+much more strongly hydrolyzed than the carbonate, it is apparent from the law of masg action
+that the above reaction will be reversed and the sodium carbonate will have little or no value.
+SOfar as its reaction with ferrosilicon is concerned, sodium carbonate, occurring in sodium
+hydroxide as an impurity, is an inert material and has no value whatever.
+Since no carbon dioxide is formed from the reaction -with fermsilicon at any concentration
+of akdi in which we are interested, the presence of sodium carbonate is not hrmful in any way.
+Recomm.mdatbn.-We
+rscommend that sodium hydroxide for hydrogen generation be
+purchased on the basis of actual sodium hydroxide contained and that no allowance be made
+for carbonate. If this is done, there is no apparent reason why the amount of carbonata should
+be limited, except by the cost of transporting uselsss material.
+
+461
+
+-AafouaF*.
+of
+AWaPiPe
+
+A4rM
+
+~oad
+
+k.= COS Uda
+
+d
+
+462
+
+Ml!JU+ REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+REPORT
+
+~Oo
+
+40.
+
+PART ILL
+THE USE OF LIME IN THE GENERATION OF HYDROGEN BY THE USE OF
+FERROSILICON.
+By B. D. GO~OK.
+
+L
+
+PURPOSE
+ANDSCOPEOF INVWHGATION.
+
+In the generation of hydrogen by the use of ferrosikm and sodium hydroxide the silicon
+goes into solution as an alkali silicate, and hydrogen is produced from the water which enters
+into the reactions involved. Any other strong slkdi used in place of sodium hydroxide wilI
+produce a simiIar reaction.
+This paper describes an attempt to develop a method of using lime to replace some or dl of
+the sodium hydroxide. Such a substitution would be desirable for the folIowing reasons:
+“
+I. tie is the cheapest of alkalis, usually costing onIy a small fraction of the cost of sodium
+hydroxide.
+2. Lime is obtainable ahnost anywhere; it is produced in so many Iocditia that high
+transportation costs may usually be avoided; and it is much easier, on acconnt of the relatively
+inexpensive apparatus involved, to expand the production of lime to meet an unusuaI demand.
+Sodium hydrofie
+is one of the important chemicals of which there is always a more or kss
+serious shortage in w= time.
+% %diu.m silicate, the end product of the reaction invcdved in the production of hydrogen,
+is quite soluble and is strongly dissociated by water. It is very injurious to both animal and
+vegetable life and may become a serious nuisance in the neighborhood of the generator if not
+properIy disposed of. Calcium siJicate, on the other hand, is an insoluble minersl which has no
+dfUl#NOUS
+pmp~tiSS Of S.llykind.
+4. The physicaI and chemical properties of lime render it much easier to tmnsport and
+handle than sodium hydroxide.
+The three following possible methods of using lime were considered:
+1. To dettie
+whether it is practicable to substitute lime for sodium hydroxide directly
+in the production of hydrogm
+2. To determine wheti
+it is feasible to recover sodium hydroxide from the sludge remaining after the generation of hydrogen from ferrosihn
+and sodium hydroxide.
+3. To determine the practicability of using a mixture of lime and sodium carbonate instead
+of sodium hydroxide.
+2. THE DIEECl?USEOF ~flI
+
+IN TEll GENERATOR
+
+Sodium hydroxide and ferrosilicon react according to the following equation:
+2NaOH+Si+~0
+
+=Na#iO, +2&
+
+Similarly we might expect cakium hydroxide (slaked Iime) to react according ta
+equation:
++2Q.
+Ca(OH),+Si+QO-CaSiO,
+
+the
+
+following
+
+When, however, a calcium hydroxide solution containing some of the undissolved solid
+(milk of lime) was heated with ferrodicon in a steam jacket for half an hour no appreciable
+quantity of hydrogen WSSprodumd. This result is eaeily expkined when it is remembered
+469
+
+—
+
+ANNUAL REPORT NATIONAL ADVISORY OOMMITTEE FOB AERONAUTICS.
+
+1
+I
+
+ITT
+
+FERBOS~OON
+
+PROOESS FOE THX GENERATION OF HYDROGEN.
+
+465
+
+that the rate of reaction between ferrosilicon and sodium hydroxide is too slow to be of practical
+value when less than a IO per cent solution of tie alkali is used and that a saturated solution of
+lime at 100° contains onIy about 0.12 per cent of the solid.
+Lime can not, therefore, be used directly as a substitute for sodium hydroxide in the
+process.
+3. RECOVZXY SODIUMHYDROXIDE
+OF
+FROBIGENERATOR
+SLUDGIL
+
+——
+
+Calcium silicate is 1ssssoluble than calcium hydroxide. We wotid therefore expect to be
+able to recover sodium hydroxide from the sodium-silicat~ sludge with the formation of the
+insoluble calcium silicate according to the following reaction:
+N@liO, + Ca(OH), = CaSiO, + 2NaOH.
+The eHective runount of sodium hydroxide which can be recovered in this way was
+determined in the following manner:
+A weighed amount, 25 grams, of ferrcsilicon was permitted to react with a 20 per cent
+sodium-hydroxide solution in the proportions and under the conditions used in a hydrogen
+generator. When the reaction was completa, the water lost by evaporation wee replaced, a
+.mfEcientquantity of lime to react with alI the sodium silicate was added; the temperature of the
+reaction fiask was brc~oht back to the temperature at the begiming of the fit reaetion, aud
+25 grams of ferrosiIicon was again added. Figure 1 represents the evolution of hydrogen for.
+a period of 30 minutes under the two conditions. Figure 2 represents similar data for a 10 per
+cent solution. It will be seen that in each case only about half as much hydrogen is obtained
+in half an hour from the recovered sludge as from the original solution, and that the falling off in
+the rate at the beginning of the reaction is even more serious.
+It is obvious that much less sodium hydroxide is present in solution after precipitation than
+was present in the original solution. This may be due to the absorption of the hydroxide by
+the colloidal silica and calcium dicatea which form a jellylike mass.
+TO obtain further evidence on this point, a sudium silicate sludge formed under generator
+conditions was precipitated with an excess of milk of lime, filtered with the aid of suctio~ and
+the filtrate titrated ta determine the amount of sodium hydroxide recovered. The precipitate
+was then boiled for four hours wiih water and again filtered and the filtrate titrated. By the
+first titration 38.9 per cent of the original alkali waa recovered, end 13.3 per cent additional
+was obtained by the fit digestion and washing. OnIy negligible amounts were obtsined by
+subsequent WSShiIlg. It thus appears that about 50 per cent of the sodium hydroxide, or
+sodium silicate unacted upon, is permanently included in the precipitate. It requires very
+careful treatment to recover evtzn50 per cent of the original alkali.
+The precipitate of cakium silicate is so voluminous that practically no separation of precipitate and solution occum on standing, and in order ta recover the alkali cmnrnerciaUyit would
+be necessary to use a filter press. If sludge were produced at one place regularly in large quantities, it would unquestionably be economical to recover as much sodium hydroxide as possible
+by the installation and use of a Nter press. The ferrcsilicon method for the production of hydrcgen is practically never used under such conditions, however; its principal advantages are
+portability combined with oapatity for rapid and irregular production. Where the demand for
+hydrogen would justify the installation of a sodium hydroxide recov~ plant, a more economical
+method of generation would undoubtedly be used.
+4.
+
+.
+
+PIZODU~IONOF SODIUMHYDROXIDE THE GENEEATOIt EOM SODIUMCARBONATE
+IN
+F
+AND
+LIME.
+
+Another possibility which suggested itself was that of using lime and sodium mbonate
+in the generator to obtain sodium hydroxide which in turn w-W react with ferrosilkm and
+produce hydrogen. The advantages ta be expected from this method if successful were of
+the same character but of smaller magnitude than replacement of sodium hydroxide by lime.
+Experiments in this connection were made by introducing into a solution of sodium carbonate an amount of lime sufficient not only to react completely with the sodium carbonate
+1670S0-S.Dec.907,6~80
+
+.— ..—
+
+466
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+firstlaca, but rdec to precipitate calcium silicate and reconvert tie sodium silicata afbr
+p
+the reaction to sodium hydroxide. The reactions expected were S8follows:
+
+in the
+
+CaO +QO ==
+Ca(OH),
+Na@,+Ca(OH),
+=2NROH+WJ0,
+zNaoH+ SI+&O ==
+Na&iO, +21L
+Na#iO,+ Ca(OH), =2NaOH+ CaSiO,
+The curves of tlgure 3 show the res-ultaobtained with solutions contain@ the equivalent
+of 20 per cent of sodium hydroxide. The effect of reducing the ratio of alkali to ferrdicon is
+v~marked
+and is mu& greatm than when pure sodium hydroxide is used. Under one oonD,
+the
+hydrogen yield during 30 minutes was only about one-third
+dition, represent.,ed curve
+by
+that obtained from an equivalent solution of sodium hydroxide under the same conditions, and
+the maximum yield obtainable even when a large excess of alkali was used (curve A) was only
+89 per cent of the yieId from sodium hydroxide solutions in large excass.
+
+t4G8f.
+
+wiaaoazapsc
+
+tflt+
+
+i8a~
+
+rtme Othutesj
+me.
+
+&
+
+Figure 4 shows the reaulta obtained by the use of “solutions equivalent to 12.5 per cent
+sodium hydroxide solutions. It is noteworthy that se much hydrogen was obtained from a 12.5
+per cent as from a 20 per cent solution when the ferrosihcon and alkali were used in the same
+ratio, and that the addition of a large excws of lime is a positive detriment. Both these
+facts are probablydue to the viscosity of the solutions, the inclusion of sodium hydroxide in
+the precipitates, or the coating of the ferrmilicon with precipitates which prevent the access
+of the solution.
+The experiments reprwented in figure 5 were made to determine the most favorable
+concentration of solution using a given ratio of alkali to ferrosilicon. It is clear that a 12,5
+per cent solution (curve A.) gives a better result than a 10 per cent solution (curve B) and a
+very much better result than a 20 per cent solution (curve Q.
+
+FERROSILICON PROCESS FOR T~
+
+GENEEMTON
+
+Ok HYDROGEN.
+
+.
+
+.
+
+468
+
+ANNUAL REPOET NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+M3110~AUTIW.
+
+5. SUMMARY
+AND CONCLUS1ON%
+The following cunclueions maybe reached from the above experiment
+1. That lime can not be used alone to replace sodium hydroxide in the generation of
+hydrogen from fmrosilicon and water.
+2. That it is impracticable to recover sodium hydroxide from the generator sludge by the
+use of lime because the necsasary equipment would dsstroy the advantages of portabfity and
+capacity for large and irreguhr production.
+3. That it is possible but impracticable to substitute sodium carbonate and lime for sodium
+hydroxide in the generation of hydrogen.
+

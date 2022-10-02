@@ -1,0 +1,954 @@
+REPORT No. 87
+
+EFFECTS OF NATURE
+RADIATOR
+
+OF COOLING SURFACE ON
+I?EIU?ORMANCE
+BY
+
+s.R. PARSONS and R. v.
+Bureau of Standards
+
+—
+-
+
+—.
+149
+
+.
+
+.
+
+REPORT
+EFFECTS
+
+OF NATURE OF COOLING
+By S. R.
+
+PARSONS
+Fhreau
+
+NO.
+
+87.
+
+SURFACE ON RADIATOR
+
+I?ERFORMAXCIL
+
+and R. V. KLEINSCHWDT,
+of standards.
+FWSL?MR
+
+This report describes an investigation
+of effects of nature of cool~c surface on radiator
+performance, conducted for the hTational Ad-risory Committee for Aeromwtics at the Bureau
+of Standards.
+Cooling surfaces
+
+in Tadiakm
+
+diotdd
+
+be ?:ept clean.
+
+of oil and dust on the surface w-ill have a -iery harmfu~ effect on the
+An accumulation
+performance of the radiator.
+The following remarks apply only to conditions in -which the cooling surfaces are reasonably
+cIean:
+1. Heat transfer from an ordinarily smooth surface may be increased 17 per cent. for a
+giren air flom} by gi~ing the surface a high polish; or it may be decreased 10 per cent .or more by
+smokimg the surface; but
+2. Surfaces likely to be obtained in radiators, if fairly clean, -w-illnot differ in smoothness
+enough to gi-re appreciable dii7erence i-u heat, transfer} with a given flex of air through the core.
+:3. Heat transfer from a radiator maybe considerably decreased if the surfaces are not kept
+reasonabIF clean.
+-I. Heat transfer from a radi~tor (at a given airpkne speed) may be slightly increased if
+special attention is given to smoothness of surface, on account of a small increase in air ffow
+through the core.
+5. Heat traosfer is practically unaffected by a light coating of clean oil on a smooth surface.
+6. Pressure graclient is practically independent
+of the rough=
+of the surface o-rer a
+considerable range.
+7. Pressure gradient is practically unaffected by a light coatingg of clean oiI on a smooth
+surface.
+S. Head resistance of a radiator may be s~ightly decreased by polishing the surfaces (8 per
+cent. obser~ed in one case).
+9. FIOW of air through the core of a radiator may be somevhat hcreased by polishing the
+surfaces (5 per cent obser~ed in one case).
+10. Figgre of merit of a radiator may be somewhat increased by polishing the surfaces
+(6 to 10 per cent obsem-ed in one case).
+II. ln general, the performance of a radiator may be improved by polishing the surfaces;
+but. if they are fairly smooth and clea ~, a comiderable polish is requiredto produce much change
+in the properties of the radiator, and there is a question -whether or not such a method for
+improvement be practicable.
+Since the performance of an aircraft radiator depends upon its capacit~for transfer of heat
+from cooling surfaces to mom
+air, and upon resistance offered to the passage of the air stream}
+it foI1ows that the nature of the COOI% stiaces is a factor ~orthj- of consideration in connection
+For direct cooling surface, i. e., for surface b~cked by
+with the properties of the radiator.
+tie-wing
+water, the effect on heat transfer of the composition of the metal need not be considered. except as one metal is capable of ta~tik~ a better swface than another, because almost
+151
+
+-
+
+152
+
+ANNUAL REPORT N.ATIOhTAL
+ADVISORS COYI~IITTEE l?CiR
+AERONAUTICS.
+,
+
+any metal will conduct heat through the thin walls of the water tubes as rapidly as it can be
+transferred from the surface of ihe tubes to the air. The composition and the thickness of
+the metal are of some importance in the case of surface not backed by flowing water, but it
+wilI not be considered here, as this report wilI cieaI only with the mechanical condition of the
+surface.
+lt wilI be shown that the degree of roughness or smoothness of the surface is capable of
+causing important effects on rate of heat transfer and on head resist ante, but that in actuaI
+radiatom having fairI~ clean surfaces, the clifferences between vw-ious degrees of smoothness
+me not sufficient-to gme the effects on rzdiator properties that might be obtained if it were
+practicable to have the surfaces highly polished.
+If, ‘how-ever, the cooling surfaces become
+coated with oil and dust, the decrease in rate of heat transfer may be \-cry great.
+The experimental work on which this report is based consisted of the following measurements, which are described in detail below:
+1. Heat transfer from a single tube, with different conditions of surface.
+11. Heat transfer from t~vo radiators, each with rough and somewhat smoothed surfaces,
+111. Pressure drop in a single tube with different conditions of sur[ace.
+N. Pressure drop in two radiators of similar constructio~~, but one with rough, and the
+.
+other with somewhat smoothed, surfaces.
+V. Head resistance of one radiator section, before anrl after the surfaces had been
+somewhat smoothed.
+VI. Mass flow of air through the core of one racliator section, before and after the
+surfaces had been somewhat smoothed.
+I. EFFECT OF SURFACE ON HEAT TRAIWFE-R FROI$I A SINGLE TUBE.
+
+The tube used was of brass, 41.5 cm. (16.3 inches) long, with tin inside diameter of 7.8 mm,
+Eight thermocouples were
+(0.31 inch), and with walls approximately
+1 mm. (0.04 inch) thick.
+soldered into shallow slots on the outside of Lhe tube, it points 2, 7, 12, and 17 cm. from the
+ends, and heat was supplied electrically from a coiI of No. 32 copper wire -wound closely the
+The tube was wrapped in
+entire length of the tube, tind carefully insulated with baked shellac.
+hair felt with a corrugated p~pcr co-wring to within 1 cm. of each end; and the ends were wrapped
+with several Iayers of friction tape and inserted tightIy into two wooden boxes or chambers in
+which the properties of the air could be measured m it entered find left the tube.
+These ckarnbers were 7.6 cm. (3 inches) square ancI 15.2 cm. (6 inches) long, ant] each was divided into
+of the inlet chamber
+three compartments
+by screens. The air entering the first compartment
+passed through a series of screens of coarse mesh wire rmcl finally through a thin sc.reeu of hair
+It tlien
+pnssec] tIHWU@
+felt into the second compartment, where its temperature was measured,
+another screen into a third compartment: into whic~ the end of the tube projected about I mm.
+(0.04 inch).
+This compartment”was comected to one side of tl verticaI oil gauge used to measure
+the pressure drop through the tube.
+On lea~ing the tub-e, the air passed through the first cwmpa,rtment of the exit chamber, which was connected to the other side of the oil gauge, and then
+through a screen of wire and a layer of hair fdt into the thermometer section, and finally through
+another screen into the last compartment
+which was connected to the inlet of the fan. The
+exit chamber was very carefuIIy lagged with 2.5 cm. of cork on the outside and 0.5 cm. of hair
+felt on the inside to prevent the turbulent air from striking the wooden walls dircctJy.
+The mass of air flowing through the tube was computed from the heat input to the coil,
+the rise in temperature of the air and the specific heat of the air—that is, l)y using the tube
+itself as a Thomas meter—with the exception that pressure chop through the tube -was used for
+some of the runs after it had been calibrated ngainsi the tube zs a Thomas meter,
+The pressure
+drop method was used in some of the e~rlier runs when mercury thermometers were used to
+measure the temperature
+rise, but was abandoned when thermocouples
+were usecl for this
+The thermocouples were reacl on a “ py-ro-vo]ter,” and the heat input LOthe coil
+measurement.
+was obtained from readings of a voltmeter and an ammeter.
+Care was taken to obtain steady temperature conditions before beginning any set of readings.
+
+‘
+
+EFFECTS
+
+OF L’ATURE
+
+OF COOILTG
+
+SURFACE
+
+Oh” RADIATOR
+
+PERFORMANCE.
+
+153
+
+.-
+
+Five conditions of surface rere used, tiz:
+1. Orighl
+surface (as the tube was drawn).
+2. Surface polished (considerable time and effort were expended in getting a high degree
+of polish).
+3. Polished surface lightly oiled.
+4. Polished surface lightIy smoked.
+5. Surface roughened with tine sandpaper.
+The results me shown in Plot 1 and in the following tabIe, which shows heat transfer in
+-watts per degree centigrade of di.flerence between the m;an temperature
+of the tube and the
+temperature of the entering air, and per cent of increase or decrease of heat @ansfer over that
+for the original surface:
+Heat transfer.
+per
+[In watts “C-f
+Air flow
+gm.pec.
+1
+
+2
+3
+
+or@l&
+
+1
+:
+
+oiled.
+
+PoIished.
+I
+
+I
+
+Smoked.
+
+1
+,,
+
+~
+
+Rough.
+
+0.3W+3. ,
+%Z
+780+3.
+77*
+i
+
+o.%
+
+~
+
+~,::-”’-+:-
+
+~-
+
+‘:’-”:-
+
+~
+
+.,
+
+1
+
+i“
+
+1
+
+“%::;%
+
+1:14 +-3.670
+
+The table shows the following points:
+1. The highly polished surface dissipated about 17 per “cent more heat (at the higher speeds)
+than one fairIy rough.
+2. The smoked surface dissipated about 10 per cent less heat than the fairly rough one.
+3. Oiling the polished surface had -wry little effect on its heat transfer.
+4. The roughened surface was not much di~ereut in its heat transfer from the originaI
+surface.
+Speed T%-oi@ Tube-m@.7
+Meon
+3
+
+o
+
+RO
+
+I
+.Lz#
+
+.(?2
+~
+*
+
+t
+
+/30
+
+~1~[1
+I
+[
+
+/ v
+
+ECTWSL4%7ACF
+c2V/%.547_
+7iWJWFfi
+fm oSk+gle&.
+Z
+f
+I
+/
+
+5
+%
+\ .&o
+$
+
+I
+
+,
++
+$
+$,m
+.$
+.?
+Q
+yw
+
+~
+
+‘
+
+(/#J
+~g
+
+4
+LW2
+
+/32 i
+
+I
+
+I
+
+/
+2
+3
+Ab-F/Owiia-vu#7 -g+sec.
+T&e
+
+4
+
+The considerable difference h heat tramfer between the fatily rough and the highly polished
+surfaces may be accounted for by the f~ct that roughnss allows a blanket of more or Iess stagnant
+
+.
+
+154
+
+.41?NUAL REPORT
+
+NATIONAL
+
+ADVISORY
+
+COM311TTEi? FOR AERONAUTICS.
+
+air to cling to the surface, and thereby to some extent prevents
+is required for the most rapid transfer of heat.
+
+the scouring of the surface Lhat
+
+II. EFFECT OF SURFACE ON HEAT TRANSFER FROM A RADIATOR.
+
+The usual test of heat transfer in terms of air flow was made on two radiator sections 4 and
+5 inches (10.2 and 12.7 cm. ) deep, and with +-inch and +&inch (0.64 cm. and 0.S7 cm. ) circular
+cells, respectively, each before a,ncl after the cooling surfaces had been somewhat smoothed.
+The original surfaces were considerably rougher than those of many well-made radiators, and
+the smoothed surfaces were somewhat-better
+than those usually found in radiators, but did not
+even approximate to the high poIish obtained in tke single tube mentioned above. The curves,
+shown in Plot 3, indicate no difference in heat transfer greater than the limit of experimental
+error, and it appears that although it is possible to increase the heat transfer considerably by
+giving the surf~ces a high polish, it is nevertheless true that any surface likely to be obtained
+in commercial production will not have a sufIlcientIy high polish to take drantage
+of this fact.
+#
+
+&prox/mu/ef.e;OA/?
+Speedj~/hc
+25
+
+/#
+
+50
+
+oAfm&7RGYD/ss/f47FD
+//
+
+by/?od/bfOrs
+
+g
+~
+
++,40
+k
+,2 —
+<
+k
+t30.
+b
+$
+
+(w
+c-9
+
+crcu..or e[(s.
+c
+o ,zbe.s
+rouqfl
+xL - somewhof
+smoofhed
+I
+
+.!i
+.?
+?D
+&
+
+& Y
+A 1
+
+)$’
+
+d
+
+c-~ 4“de@. Y4c{rcuhrcc//s.
+E &bes rough
+
+/
+
+?
+h
+/@
+
+t
+
+a. - somewhof
+smoofhed
+\
+
+!/
+P:f 3.
+
+,1
+
+~
+
+.1
+
+2
+8
+/%ssf/owo?A;r-/bs./s;ff/sec.
+
+W. EFFECT OF SURF.AC~ OhTPRESSURE GRADIENT IN A SINGLE TUBE.
+
+A brass tube 105 cm. (41.3 inches) in Iength and with an inside diameter of 0.95 cm. (!! inch)
+for the measurement t of pressure drop with different conditions of surface.. Small
+holes were clrilled in the tube at 10-cm. intervaIs beginning 5 cm: from etich en(i! and tubes wero
+Since it-was necessary to remove
+attached to read static pressure at e~ch of these 11 positions.
+the burr from the inside of the tube after the holes were drilIed, the original surface was not
+used, find the first measurements were made with the tube polished, though not to the same
+degree as that obtained in the tube used for heat transfer.
+The air flow was metisured by means of a smalI Thomas meter made for that purpose,
+The meter was made with considerable care, and while ifmws not calibrated, because of the
+lack of con-renient appm-atus, it was without doubt good for comparative purposes at least.
+Pressure graclient.s were obtained by plotting the pressures read at the 11 static holes
+per
+against their respective positions> and were cxpresserl in grams_ pcr square centimeter
+centimeter length of ttibe. The observations On the smoo thed and oiIed surfaces were very consistent, but when the tube was smoked or roughened the obser-rations were Iess consistcn t,
+openings.
+probably because of effects of the smoking and the roughening on the stxitic-pressure
+The errors due to irregularities, however, do not exceed 2 per cent. Corrections for the Mcc t
+of changing density of the air ranged around 1 per cent and were omitted.
+was used
+
+EFFECTS
+
+OF A’ATURE
+
+OF COOLIllG SURFACE
+
+OAT RADIATOR
+
+PERFORMANCE.
+
+155
+
+The pressure grdieritfor
+a gi~en surface is YerF nearly proportimal to the square of the
+air flow, and for purposes of comparison a constant “1” was computed for the equation
+P= ?;31’
+where P = pressure gradient in gm. per sq. cm. per cm., and
+M= air ffo-win grn. per sec.
+The mean ~aIue of this constant for ewh surface is tabuIated beIow-, together with the per cent
+These differences are within the range
+of difference from the cons~anb of the smoothed surface.
+of experimental error, with the possible exception of the smoked sm.-face, -which would probably
+have shown a greater difference if the tube had been more thorougldy smoked.
+The length
+and small diameter of the tube made the roughening of the surface somewhxt incon~enient,
+and the pressure drop woukl without doubt have been considerab~y increased if the surface
+had been made considerably more rough, as is indicated by the results {described beIow) of
+the work on a tube in a radiator.
+These constants ma~ be interpreted to mean that no noticeable difference in pressure drop is to be expected between different surfaces that vary “between
+The corresponding ~alues of pressure gradient and ah flOW
+fairly wide limits of smoothness.
+
+I
+
+%faee.
+
+I
+I
+1
+I
+;
+
+Ik
+1
+
+Smoothed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..~
+Smwthed andoib? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..L
+d..
+SmwthedudsmokM
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..~
+RoughenM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..k
+
+IV. EFFECT OF SL~FACE ON PRE-SS~E
+
+,.
+
+~Different+
+
+c
+U-M59 !__..._
+–1.9
++2. .5
+;%
+–a 6
+
+GRADIENT IN A TUBE OF A R.WIATOR.
+
+Two radiators were used, each 4 inches (10.2 cm-) cIeep, and with +-inch (0.64 cm.) circular
+cells. The first, with tubes somewhat polished, was one of those mentioned under “Heat
+The second had very rough tubes, similar to those of the first before
+transfer from a radiator.”
+they had been smoothed.
+The radiator was placed in the S by 8 inch (20.3 cm. ) wind tunnel used for measurement of
+heat transfer, and pressure was “measured b~- means of a steel tube 0.04 inch (1 mm.) in outside
+This
+diameter and 20 inches (51 cm. ) long, with a static-pressure
+opening near the center.
+static-pressure
+e.sploring tube was passed tb-rough an air tube near the center of the radiatorl
+
+‘
+
+.
+
+156
+
+ANhTUAL REPORT
+
+NATTONAL
+
+ADVISORY COMMITTEE
+
+FOR AER03TAUTICS.
+
+and moved forward or backward to obtain the pressure at different positions.
+It W-M SUpported by two pieces of piano wire, which were attached to the ends, stretched over crossbars
+set in the tunneI 2 or 3 feet in front of and behind the racliatorj and carried outsicle of tho tunnel,
+to facilitate moving the tube forward ancl backward.
+One side of an i~clined water gage was
+connected to the rear end of the exploring tube, and the other was connected to a piezometer
+ring in front of the radiator.
+It was found by trial that consistent results could be obtained
+if only ordinary care -was used in centering the exploring tube inside of the air tube of the radiator.
+Pressure drop between the piezometer ring and the exploring tube was expressed in pounds
+per square foot; and the air flow, in pounds per second per square foot of fron tal area of radiator
+core, Previous work in a wind tunneI under partial vacuum has shown thut the pressure drop
+between piezometer rings before and behincl the radiator is inversely proportional
+to the air
+density at the front ring (for a given air ffOW), and this relation was used to correct for variations
+in density during the time of the observations.
+Curves for two rates of air flow are shown in Plot 4, and the following table shows the -values
+of the pressure gradients inside the radiator tube, both in pounck per square foot per inchj and
+in grams per square centimeter per centimeter, together with the per cent by which the gradient
+in the “rough tube exceeds that in the smooth tube. The per cent of cfifference indicated is
+somewhat too high, because the two radiators were not quite identical, the one with rough
+tubes having a free area about 3 per cent less, and a heacl resist~nce about 7.5 per cent higher,
+than the other had before its tubes were smoothed.
+I
+
+1
+
+Pressure gradient,
+
+PPr0xi: .4
+mate free Air
+
+air speed,
+mi./hr.
+
+flow,
+
+gm./sq. cm. per cm,
+
+82
+88
+99
+
+1
+
+lb+q. ft. per inch.
+
+per cent.
+
+p::’!:.ck.
+G9
+smoothed.
+
+0,
+
+~ ~c,=,e,
+
+r.-
+
+0:;:;
+.641
+
+6.54
+7.
+w
+
+?.so
+1
+
+G1O
+rough.
+
+11
+
+1
+
+!
+
+1G9
+L c-lo
+smoothed. ~ rough.
+
+o.%5
+.364
+.827
+I
+
+t
+
+2.34
+
+3.05
+
+2.67
+
+3.46
+
+t
+
+30
+30
+
+[
+
+29
+
+4.31
+
+3.34
+
+111
+
+;
+
+I
+
+I
+
+I
+
+I
+
+i
+
+,-,,,,.,,
+x.C-9,+>ku/orce#/4“&e,5.
+Y
+II
+1
+
+L-
+
+Y
+Yeep.
+. .C-/Q4>ficu[0rcelk,4
+
+I
+I
+
+44
+
+Rod!bfor
+‘o
+P/o,f4.
+
+2
+
+6
+
+4
+Dk%~e
+
+8
+/0
+o/OngTui7.--7e/iixhes.
+
+[Z
+
+/4
+
+V. EFFECT OF SURFACE ON HEAD RESISTANCE OF A RADIATOR.
+
+The racliator C–8, 5 inches (12.7 cm.) deep, with ~-inch (0.87 cm.) circular cells, was
+also tested for head resistance with the two conditions of surface described under ‘(Heat transfer
+from a radiator,” viz, very rough, and somewhat smoothed.
+The difference in head resistance
+
+El?
+FJZICTS
+OF NATURQ
+
+OF COOLING
+
+SURFACE
+
+ON
+
+RADIATOR
+
+PERFORMANCE.
+
+157
+
+observed-about
+6 per cent—is not as West as shouM be shown, because of the fact that the
+section used inchded attached water boxes, ZnCI the effect of the water boxes is pm+alJy to
+mask an,v effect of changes in bhe core. .1 good estimate of the change in head resistance may
+be made by comparing the ah flOW ~~-ith l’10t 1 of Tec~ical
+~ep~r~ 63, Part 1, which show-s
+~ ~eIlerai relation betlreen head resistance ancI air fiOWfor radiators titb straight air passages.
+The “ mass flow factors” corres~onciing to the smoothed ancl rough surfaces were respectively
+().[AY?oand 0.0790, and the cur-re shows that the corresponding
+“ head resistance constants j>
+tire u.uu153 an{l 0.00165, ~rhic~~gi~e~ a dfierence of S Per cent> and is probably correct within
+I per cent. The oixerved values of l:ead resistance are shown in PIot 5.
+
+“}’I. EFFECT OF SURFACE ON AIR FLOW TKROlJG13 A RADIATOR.
+
+.is imPIied above, the radiator C–S Was tested not only for head resistance but for mass
+flow of air through the core, in terms of’ free air speed.
+The increase in ati flow ~th the
+smoothed surface was 5 per cent, and is indicated in PIot 6.
+
+158
+
+ANATUALI
+RIZPORT
+NATIONALADVISORY
+COMTIITTJ3E
+
+FOR
+
+AEROA’A7jTI(jS.
+
+EFFECT OF SURF.4CE ON FIGURE OF MERIT.
+
+The tests made on the section C-8, 5 inches (12.7 cm.) deep with ~-inch (0.87 cm.)
+The
+circular cells, permit a computation of figure of merit with the two conditions-of surface.
+figure of merit is the ratio of the rate at which the radiator dissipates heat (expressed in horsepower) under specified conditions of temperature and water flow, to the horsepower akorbwl
+by the radiator because of its head resistance and weight.
+The following results apply to- the
+radiator when in such a position on the airplane that the flow of air through and around the
+The per cents of cliffe~ace are based on
+radiator is not affected by other parts of the pIane.
+the values with the tubes smoothecl.
+
+-.
+
+EFFECT ON RADI.4TOR PERFORMANCE OF OIL AND DUST ON THE COOLING SURFACES.
+
+The tests described above have deaIt main~y with the degree of smoothness of the cooling
+surfaces, and so far as they go, they seem to indicate that in actuaI radiators the diflerenccs
+between conditions of surface encountered will usually not be great enough to show any very
+But the results of these tests shouId be
+great difference in the properties of the rtidiators.
+interpreted with a IittIc caution, for they CIO
+not include the comlition of surface caused by a
+The “ oiled” surfaces
+coating of oil and dust, such as sometimes occurs in actual radiators.
+mentioned above were first polished, and then lighi’ly coated with clean oil, rmd such a surface
+is evidently not representative of the of the heavy coat of oil and dust that sometimes accurnuIates. The smoked surface used with the single tube for heat transfer probabIy gives the nearest
+Even tl~uugh the tube was
+aDproa& in the tests, to the condition of surface with oil and dust.
+h&hly poIished before being smokecl, the lightIy smoked surface mused an insulating blanket
+of smoke particles and nearly stagnant air that was sufficient to reduce the heat transfer to 10
+per cent less than that with an ordinary surface; and a coating of oil filled with clust mtiy be
+expected to cause an insulating blanket that will reduce the heat, trausfer e-ren more. In fact.,
+it is well known that even in automobiles such a surface interferes with the performance of the
+radiator.
+CONCLUSIONS.
+An accumulation of oil and dust WI the
+Cooliny su(ftices in racliator~ should be kept cban.
+of the radiutor.
+The following
+surface will have a very harmful effect on the performance
+
+remarks aDply only to conditions in which the surface, is reasonably clean.
+The iaek of any quantitative
+measure of the condition of the surf~ce complicates the
+problem of correlating the various resuIts, but in PIot 7 an attempt, is made to show the relations
+between the different quantities, by indicating the per cent of difference betweeu ~aiues of
+fleat transfer, pressure drop, etc., corresponding to cliffment conditions of surface.
+The hew]
+and the tail of each arrow indicate the conditions of surface considered, and the arrow points
+For example, the arrow under
+away from the quantity on which the percentage is based.
+‘[ head resistance”
+
+indicates
+
+that in passing from the smoothed
+
+to-the very rough surface} heafl
+
+was increased by 8 per cent of its value with the smoothed
+The results of the tests may be summarized as follows:
+
+resistance
+
+surftice.
+
+1. The degrees of s-moothness usually found in .rwdiators (not-including
+the surface coate(l
+with oil and dust) are entirely within the range of the degrees of smoothness covered I)y most
+of the tests, so that with a. few exceptions the per cents of difference shown in the diagram and
+in the tables are greater than what would usually be obtained by comparison of different
+radiators as they come from the manufacturers.
+
+EFFECTS
+
+OF A’ATURE
+
+OF COOLING
+
+SURFACE
+
+ON RADIATOR< PEREOR.MANCE.
+
+159
+
+2. Heat transfer from an ordinariI-y smooth surface may be increased 17 per cent for a given
+air fiow by giving the surface a high polish; or it may be decreased 10 per cent or more by
+smoking the surface; but
+3. Surfaces likely to be obtained in radiators, if fairly clean, will not differ in smoothness
+enough to give appreciable difference in heat transfer, with a given flow of air through the core.
+~. Heat transfer from a radiator m~y be considerably decreased if the surfaces are not kept
+reasonably clean.
+
+I
+
+II
+I
+
+I
+
+I
+
+,
+I
+
+1
+
+,
+
+!
+
+k
+
+,
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+.Gwm@e:-Hdreasfonce
+v/IZ+ffyrouqh swfocejk 8 Z greo.f.erfhan
+v
+withsmoofhed
+.5z.7zZoce.
+P/of z
+Nofe:-2%.5cha.fcppkes om~yfo .sudoces ffmfure .ea500c@y decm.
+
+5. 13eat transfer from a radiator (at a given airplane speed) m~y be s~ightiy increased if
+special attention is given to smoothness of surface, on account of a small increase in air flow
+through the core.
+6. Heat transfer is practically unaffected by a ~~ht coating of clean oil on a smooth surface.
+7. Pressure gyadient is practically independent of the roughness of surface over a considerable range.
+8. Pressure gradient is pmctically
+unaffected
+b-y a light coating of clean oiI on a smooth
+surface.
+9. Head resistance of a radiator may be somewhat ti_~s.e_d by polishing the surfaces
+(8 per cent observed in one case).
+10. Flow of air through the core of a radiator may be somewhat increased by polishing
+the surfaces (5 per cent observed in one case).
+11. Fi=gure of merit of a radiator may be somewhat increased by polishing the surfaces
+(6 to 10 per cent observed in one case).
+12. b general, the performance of a radiator may be improved b-y polishing the surfaces;
+but if they me fairly smooth and clean, a considerable
+polish is required to produce much
+change in the properties of the radiator, and there is a question -whether or not such a method
+for improvement is practicable.
+54.3SW21—11
+
+>
+,
+

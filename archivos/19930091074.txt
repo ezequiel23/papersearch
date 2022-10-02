@@ -1,0 +1,9182 @@
+REPORT
+
+EFFECT
+
+OF
+
+No. 45
+
+COMPRESSION
+
+TEMPERATURE,
+
+RATIO,
+
+AND HUMIDITY
+
+PRESSURE,
+ON POWER
+
+V
+
+NATIONAL
+
+ADVISORY
+
+FOR
+
+PREPR[NT
+
+COMMITTEE
+
+AERONAUTICS
+
+FROM FOURTH ANNUAL REPORT
+
+V
+
+WASHINGTON
+GOVERNMENT
+
+PRINTING
+1919
+
+OFFICE
+
+By Transfer
+,Nav_ Dept,
+
+REPORT
+EFFECT
+
+OF COMPRESSION
+TURE,
+Part
+
+Part
+
+No. 45
+
+RATIO,
+
+AND HUMIDITY
+
+PRESSURE,
+
+TEMPERA-
+
+ON POWER
+
+I.--VARIATION
+OF HORSEPOWER
+WITH ALTITUDE
+AND COMPRESSION RATIO
+By H. C. DICKINSON, W. S. JAMES AND G. V. ANDERSON
+H.--VALUE
+OF SUPERCHARGING
+By H. C.DICKINSON AND G. V. ANDERSON
+
+Part IH.--VARIATION
+OF HORSEPOWER
+WITH
+TEMPERATURE
+By H. C, DICKINSON. W. S. JAMES AND G. V. ANDERSON
+Part IV.--INFLUENCE
+OF WATER INJECTION
+ON ENGINE PERFORMANCE
+By V. W. I_RINKERHOEF
+
+Preceding blank
+page
+
+REPORT
+
+No. 45.
+
+PART
+
+VARIATION
+
+OF
+
+HORSEPOWER
+
+WITH
+
+L
+
+ALTITUDE
+
+AND
+
+COMPRESSION
+
+RATIO.'
+
+By It. ('. DWKrN'SOX,W. S. JAMEs amt G. V. AN'tmaso.','.
+
+RfiSUME.
+Among
+many
+,,thor
+factor_
+which
+affect the horsepower
+uf an airphme
+_ttmospheric
+pressure,
+and consequently
+the ahitude
+at which
+the engine
+the compression
+ratio,
+or cylinder
+volm_w divided
+by clearance
+volume.
+The te_ls upon
+which
+thi_ report
+is ba_,ed were selected
+from a large
+math_, during
+with altitude
+reached:
+
+the intercomparison
+st three
+different
+
+of various
+eo:npre_sion
+
+gasolines
+ralio:_
+
+engine
+are the
+is working,
+and
+number
+
+of
+
+runs
+
+to determine
+the variation
+of ho_,epower
+and the following
+conclusions
+have been
+
+(1) The total power of the engine decrease_
+rapidly
+with increase
+in altitude, being only 71
+per cent of the power on the g'round at 10,00(} feet, 49 per cenl at 20,000
+feet, and 32.5 per
+cant, at 30,000 feet.
+(2) The gain in power due to increase
+in compression
+does not bear a constant
+relation
+to
+the total power of the engine at different
+altitudes,
+being greater
+at high than at low altitudes.
+The curves
+on plot S illustrate
+this variation
+in ti0_'sepdWe,,
+for the three
+compressions
+considered
+at different
+altitudes.
+VARIATION
+The following
+lal)oratory,
+at the
+In this laboratory
+
+OF HORSEPOWER
+
+WITH
+
+ALTITUDE
+
+AND COMPRESSION
+
+RATIO.
+
+report
+is based upon the results
+of a series of tests conducted
+at the altitude
+Bureau
+of __Standards :for the Nathmal
+Advisory
+Committo,
+f,r Aeronaut
+its.
+the engine under
+test is installed
+in a concrete
+chamber
+from which the air
+
+may be partially
+exhausted
+l)y means of a blower,
+thus reducing
+the baronletric
+pressure
+within
+the chamber
+to a point correspondillg
+to the pressure
+at any desired
+altitude.
+At the same
+time, by passing
+the air, as il entcr,s the chamber,
+over a series of .refrigerating
+coils amt heating
+grids,
+the temperature
+may t)e regulaled
+during the tests.
+The power of the engine is absorbed
+by an electric
+dynamometer
+placed
+outsid_
+the cha,nber
+aml connected
+to the engine through
+a
+tIexible (ouphng.
+Measurements
+,)f power are made, by weighing
+ttte torque
+on the dynamometel" fiehl at measured
+engine
+apee(ts.
+A _;omphqe
+des_'ription
+of this apparatus
+an,t methods
+of
+observation
+is contained
+in Report
+No. ,t,t.
+A stock IIispano-guiza,
+S-cylinder
+engine, rqted at 150 h¢,r,_epower,
+and built 1)y the WrightMaNin
+Aircraft
+(?orporation,
+New Brunswick,
+N. J., was used in making
+these experiment_.
+This engine is furnished
+with three sets i_f pistons,
+designated
+as "low."
+"high,"
+and "extra
+high"
+
+compression,
+
+ilte
+
+relies
+
+of compression,
+
+that
+
+is cylinder
+" ii:iearance
+
+volume,
+vo[u_le
+
+being
+
+approximately
+
+4.7, 5.3, and 6.2, respectively.
+All .f the test._ were run on a single grade (,f gas(dine
+designated
+as "X,"
+with a Chtudel
+carl)ureter
+_;liich Was adjiisted
+i).i' hand in each case to give
+the least, fuel consumption
+con,..i,d,:,d
+with maximum
+power.
+All the results
+are based upon
+an engine
+speed ot" 1,500 revolution,_
+pcr minute.
+In the earlier
+tests the h_)rsepower_
+were
+corrected
+to 0 ° C., while in the later ones they were correcled
+to standard
+temperatures
+for
+given barometric
+pressures,
+as wili be descril)ed
+in a subsequent
+paragTal)h.
+! This
+
+[[el,ar{
+
+w:_,s
+
+oo,
+
+lfid-ntially
+
+circnla{_'d
+
+during
+
+_he
+
+_;:_lr
+
+as
+
+II0vv:t!{
+
+li{' S[_:tMard':
+
+3._r_
+
+l '.}._11i(. Power
+
+PI_T_ts
+
+I/e[_ort
+
+Xo.
+
+7.
+
+5
+
+Preceding blank
+page
+
+ANNI'AI,
+
+REPOP_T
+
+NAT[0_N-AL
+
+AD\rI,qORY
+
+COMMITTEE
+
+FOR
+
+AERONAITTICS.
+
+Tables I, II, and IH give tile results
+of a number
+of tests, using tit1, three different
+sets of
+pistons,
+the horsepowers
+deduced
+from these tests having
+been corrected
+to 0 ° C.
+The data
+contained
+in these tables are plotted
+on curve sheet 1.
+As it is desirable
+to obtain
+the relation_
+existing
+between
+barometric
+pressure
+and homepower
+developed
+under
+the actuaI
+conditions
+of flight,
+tim observed
+horsepower
+n.u_t be corrected
+from the temperature
+during
+the test to the mean
+temperature
+encountered
+in actual
+flight
+at. the given
+barometric
+pressure.
+To obtain
+this relation
+between
+temperature
+and
+barometric
+pressure,
+use was made
+of the information
+contained
+in Aeronautic
+Instruments
+Circular
+No.
+3, issued
+by the Bureau
+of Standards,
+resulting
+in the tmnperature-altitude
+curves
+marked
+"B"
+on plots 2 and :_. The curve
+on plot 2 is in metric
+and tl_at on plot 3 in
+English
+unit.,;.
+To correct
+a given horsepower,
+IIPo. at a given barometric
+pressure
+from 0 ° to some t_nnperature
+t at the same barometric
+pressure
+we may make use of the following
+relation:
+IiPo = HPt
+
+× Fo
+
+(1)
+
+In which
+In which
+
+IIPo=Ih)rsepower
+at 0 ° C., at the given barometic
+pressure.
+IIPt=Ilorsepower
+at temperature
+t d(_grees
+centigrade
+at the given
+barometric
+pressure.
+In which
+Fo =Correction
+factor
+to reduce
+ho_.-sepower fi'om t degTees to 0 ° C.
+Values of 17o for any given temperature
+t may be obtained
+from curve B, or its equation,
+both
+of which
+are given on plot 4, which is a mean curve
+of correction
+factors
+obtained
+from
+the
+results
+of a number
+of tes!s perfom_:ed
+at the altitude
+laboratory
+with two different
+carburetors
+and at various
+altitudes.
+We
+follows:
+
+may
+
+obtain
+
+an
+
+expression
+
+for
+
+IlPt
+
+in terms
+
+of HPo
+
+by
+
+lransposing
+
+equation
+
+1
+HPt =-_o P or IIPt = HPo x _o
+in which
+
+1
+To is a factor
+
+to correct
+
+from
+
+0 ° C., to the
+
+given
+
+(1), as
+
+(2)
+
+temperature
+
+t.
+
+In the tests performed
+in tim altitude
+laboratory
+the runs were conducted
+at four barmlmtri(.
+pressures,
+which were adopted
+as standards
+for comparing
+the results
+of different
+tests and also
+to facilitate
+computations.
+In the later tests, series 99 to lll,
+carried
+out with the high compression
+pistons,
+the horsepowers
+were corrected
+to the mean
+temperatures
+corresponding
+to
+the observed
+barometric
+pressures,
+consequently
+it was necessary
+to establish
+a set of standard
+temperatures
+corresponding
+to the different
+standard
+barometric
+pressures.
+The mean values
+of these four "standard"
+temperatures
+obta{ned
+from curve
+on plot 2, together
+with
+the
+corresponding
+approximate
+altitudes,
+are as follows:
+"Barometric
+pressure
+in
+centhneters
+of
+mercury.
+
+62.
+49.
+37.
+25.
+
+To/I/Dercltllres
+in aegrees
+centigrade.
+
+I
+8
+6
+6
+
+Approximate
+altitude
+in
+feet.
+
+10.1
+--0.1
+--15.1
+--36.6
+
+5, 500.
+11,5¢9o
+19,200
+29, 600
+
+Vnlues of horsepower
+for the three
+compression
+ratios
+were obtained
+from curve on plot. 1
+at the standard
+barometric
+pressures
+_tnd tabulated
+in Table IV.
+These were eorrected
+from
+0 ° C. _o the standard
+temperatures
+by use of actuation
+(2), giving
+the v)llues of horsepower
+corrected
+to standard
+temperatures
+for the three earlier series, as tabulated
+in the last column
+of Table IV.
+The
+
+runs
+
+in series
+
+values
+of speed and
+averaged
+and plotted
+
+99 to
+
+111 were
+
+made
+
+at
+
+various
+
+speeds.
+
+horsepower
+at the different
+altitudes
+on sheet 5 and the values of horsepower
+
+Table
+
+V gives
+
+the
+
+observed
+
+for this series.
+These
+data
+are
+at 1,500 revolutions
+per minute
+
+EFFECT
+
+OF
+
+C05[PRESSION
+
+ItATIO_
+
+]_RESNITIlI,;_
+
+TEN:rPERATUtlE_
+
+AND
+
+JTUMIDITY
+
+01Z
+
+I'_0WEII.
+
+7
+
+-+--
+
+t
+........
+
+I
+T-"c.oi:+_]
+
+i
+
+--i--
+
+_-
+
+....
+x___'i
+uo.'p_.,+'o
+
+9
+
+• g ._. _._
+_. _ _
+_...<_..<
+.._
+
+_._
+
+i_t l
+i
+
+....
+
++ I,
+:, _
+
+-',""
+tM 7 ......
+
+-4
+
+_..,
+
++
+
+--!
+
+:
+
+-I!,_
+
+!
+i
+
+.......
+--V-_
+
+ili_ ........ __,__L__
+L
+.....
+
+L__L__L__J
+.... _____
+1 .....
+"I,_ "_lO0.Cl_o
+_
+p
+
+"_u_ D o 0
+
+o¢ p_J_o./4o3 _/./2" _D_./_AI_
+
+_+<
+._
+
+.._
+
+S
+
+ANN_AL
+
+REPORT
+
+NATIO.'_'AL
+
+ADXTSORY
+
+(IO_f_IITTI,]E
+
+FO_
+
+_..__
+!_._
+
+_
+"_
+
+AERONAUTICS.
+
+-_-...........
+
+,t.__ __,_
+
+_i
+
+----_ ............
+
+---_
+
+.... t_, __k .........
+....
+g .__I
+....
+.I
+.......
+•
+
+'_"_ : _ _
+
+_._
+
+'_I!ii--<'
+
+,
+
+-
+
+I
+
+a
+
+_ _._
+
+o
+
+I
+
+I
+
+I
+
+_
+
+....
+
+•d_uo 3 q_./llOy_l _"dou03 q_//l_/,r,pu_
+l
+T
+
+7_
+
+_,___
+
+----
+
+"_',, _,_ _._
+
+I_
+
+_
+!_8
+_
+
+_I
+
+I
+
+_
+
+•
+
+_ _.....
+
+Mo ?i_ .21/jo
+#u,_._
+-,',_e'
+""
+
+EFFECT
+
+taken
+
+OF
+
+from
+
+CO_IPRESSI0:bT
+
+the
+
+RATIO_
+
+resulting
+
+curves
+
+PRESSUREt
+
+are
+
+TE_¢[PERATURE,
+
+tabulated
+
+and
+
+averaged
+
+AND
+
+HIrSHDITY
+
+in Table
+
+O.N_
+
+VI
+
+with
+
+9
+
+POWER.
+
+series
+
+67
+
+to
+
+79, both series being
+on the high compression
+ratio
+5.3.
+The averaged
+data
+are plotted
+on
+plot 6, together
+with the corresponding
+data for the
+other
+two compressions
+(4.7 and 6.2)
+obtained
+from the last column
+of Table IV, giving
+curves
+of horsepower
+at 1,500 revolutions
+per minute,
+corrected
+to standard
+temperatures
+versus
+barometric
+pressure
+for the
+three
+compressions.
+From
+these
+curves
+the ratios
+of the different
+horsepowers
+horsepower
+at sea level for the high (5.3) compression
+were
+plotted
+on plot 7 against
+altitudes
+in feet corresponding
+to the
+The altitudes
+were computed
+from the formula:
+
+for each compression
+to the
+computed.
+These
+ratios
+were
+different
+barometric
+pressures.
+
+76
+h = 62,900
+
+log, o
+
+obtained
+from the Smithsonian
+Meteorological
+Tables
+for 1907, page 100, in which h is the
+altitude
+in feet and p is the atmospheric
+pressure
+in centimeters
+of mercury.
+The curves
+on plot 8 illustrate
+the variation
+in horsepower
+with compression
+ratio at different
+altitudes.
+The horsepower
+developed
+with the 5.3 or "high"
+compression
+ratio
+at the
+different
+altitudes
+was taken as 100 per cent and the other two compression
+ratios were plotted
+as percentages
+of this curve.
+As will be seen upon
+examination,
+the gain in horsepower
+due
+to "extra-high"
+over "high"
+compression
+increases
+to nearly
+5.8 per cent at 30,000
+"low"
+compression,
+while only 3.3 per cent
+feet.
+It is evident,
+at low altitudes.
+It
+
+should
+
+therefore,
+
+be pointed
+
+that
+out
+
+the
+
+that
+
+amounts
+to but 2.8 per cent at 5,000 feet, while it
+feet.
+Likewise
+the decrease
+in horsepower
+due to
+at 5,000 feet, amounts
+to about 7.3 per cent at 30,000
+
+value
+any
+
+of high
+
+comparison
+
+compression
+of absolute
+
+is more
+
+apparent
+
+horsepowers
+
+at high
+
+for
+
+the
+
+than
+
+different
+
+compression
+ratios may be misleading
+as the engine
+conditions,
+such as fit of piston
+and rings,
+condition
+of valves,
+etc., were not the same in each case.
+However,
+the manner
+in which the
+horsepower
+varies
+with barometric
+pressure
+in each case may be taken
+as characteristic
+for
+the given combination
+of engine,
+carburetor,
+and fuel with a given compression
+ratio.
+In conclusion,
+it may be stated
+that
+practically
+all the tests conducted
+in the altitude
+laboratory
+show nearly
+the same relation
+between
+horsepower
+and altitude.
+An), given set
+of conditions
+which affect the operation
+of the engine
+may
+be held approximately
+constant
+during
+one test and the variation
+of horsepower
+with altitude
+determined
+for these conditions.
+Only a small amount
+of this information
+which
+it is based
+were chosen
+particularly
+compression
+ratios.
+TABLE
+
+I.--Average
+
+horsepowers
+
+Test
+
+_4 .................
+
+and
+
+No.
+
+barometric
+pressures
+corrected
+to 0 °
+
+Bi_rrOsm
+esurte! (
+
+]
+
+60. 8
+
+IIorsepower.
+
+135.6
+134. 8
+133.1
+131. 8
+
+::::::::::::::::::::::::::: .... .... iZ'b"
+A_er_e ....... 1
+6----_--.1
+142906--19--2
+
+has
+
+Barometric
+pressure.
+
+48.0
+48. 5
+48. 5
+48. 0
+48. 3
+48.0
+
+been collected
+in this report,
+as the tests upon
+to show the
+power-altitude
+relation
+at different
+
+for
+tests
+on X
+C. and
+1,500
+R.
+
+Homepower,
+
+fueL--Low
+P.
+M.
+
+compression
+
+ratio=4.7;
+
+i
+Barometric
+
+Barometrk
+pressure.
+
+............
+35.4
+35. 7
+35. 4
+35.4
+35. 4
+
+71. $
+7O. 0
+70. 9
+72.1
+70, 1
+
+27.
+27.
+27.
+27.
+27.
+
+7
+7
+7
+8
+7
+
+51. 4
+52.7
+52. 7
+54.0
+51. 0
+
+71.0
+
+1_. 0
+104.6
+102.4
+102. 7
+103.0
+101.0
+
+Horsepower.
+
+27. 7
+
+52.4
+
+48. 2
+103. 3
+
+I]
+
+35. 5
+
+• [ pre_sllre.
+
+Horsepower.
+
+horsepowers
+
+I0
+
+TABLe.
+
+ANNUAL
+
+II.--Average
+
+REPOIIT
+
+horsepowers
+
+,=RrATiONAL
+
+and
+
+ADVI.SOR¥
+
+barometric
+
+pressures
+
+corrected
+
+Teat
+
+Barometric
+pressure,
+
+No.
+
+67 .................
+68 .................
+69 .................
+
+III.--Average
+
+horsepowers
+
+Test
+
+and
+
+81 ......
+
+{
+i
+
+pressures
+cmTected
+
+Avera,e
+......
+'1
+TABLE
+
+IV.--
+
+t
+
+of
+
+62. I
+49.8
+
+data
+
+10. l
+-- 0.1
+
+Horse-
+
+--15.1
+
+25. 6
+
+--36,
+
+{
+
+80.5
+
+25.7
+
+80.5
+
+79._
+
+24.9
+
+25.7 I
+
+50.3
+
+80.5
+80.6
+80.4
+g0.7
+79.8
+
+25.7
+25.7
+25.7
+25.7
+25.6
+
+5112
+48.8
+50.6
+52.2
+50.3
+
+{
+[
+
+fuel.--Extra
+
+R.
+
+P.
+
+high
+
+Barometric
+pressure.
+
+I
+[
+
+Horsepower.
+
+compression
+
+Horsepower.
+
+_t
+
+_5.7
+aS. 4
+85. 5
+_5,4
+S2.
+
+I
+
+537
+
+I
+]
+l
+I
+
+25:7
+
+[
+
+53:7
+
+:.
+_
+
+37,6
+37, 6
+37. 6
+37.6
+37. 6
+
+257
+
+114.4
+t15,9
+116.7
+1t2.9
+
+,1
+
+113.9
+
+37.5
+
+{
+
+84.1
+
+25.7
+
+40.7
+
+i
+
+I15.2
+
+37.6
+
+{
+
+84. 8
+
+horsepowers
+
+Factor
+to
+correct
+from
+0 ° C. to
+standard
+temperature_
+1
+
+fi'om
+
+tIorsepower
+
+0°
+
+C,
+
+0,981
+,
+
+1.000
+
+1. 029
+
+• 931
+
+l. 074
+
+to
+
+from curves
+-- HPo.
+
+Compression,
+
+_ ¢_3io)
+t"
+
+1. 019
+
+25,7
+
+{ Ratio_low
+= 4:7
+liatio--hlgh
+=5.3
+I Ratio--extrahigh=
+6.2
+Ratio--low
+= 4.7
+]2atio---high
+=5.3
+Ratio--extra
+high= 6,2
+R atio--low
+= 4.7
+Ratio--high
+-- 5.3
+Rat io--cxtra
+high= 6:2
+Ratio-_low
+= 4.7
+R ath_-htgh
+-- 5.3
+R atio--extra
+high= 6.2
+
+starMard
+
+on sheet
+
+{ HorseI ]3ower S
+II,500R.P.
+
+136.0
+140. 4
+145. 3
+10B. 9
+110.8
+115.2
+76. 9
+80. 3
+8t. 4
+46.9
+50. 3
+53. 5
+
+I
+
+52.5
+53.0
+
+hvnperatures.
+
+1
+
+norse-
+
+I
+
+powers
+corrected to i
+standard
+i
+tempera!
+tures and
+
+133.5
+137.7
+142. 5
+106.9
+I I0. 8
+115.2
+79. 1
+_2. O
+86.8
+50.4
+54.0
+57.5
+
+,
+
+I
+
+M.
+
+t_arometrie
+pressure,
+
+]
+
+49.4 {
+
+5.6I
+
+X
+
+,
+
+5_.o .I
+
+117,6
+
+reducing
+
+i
+
+51.3
+
+{
+
+i
+
+• 972
+
+0
+
+{
+
+power.
+
+49.6
+
+Correction
+factor from
+curveB
+on
+sheet 3
+=(Fo)t.
+
+1.000
+
+Horse-
+
+_,
+
+13S. (
+9
+
+for
+
+on
+1,500
+
+I
+
+pressure,
+
+.power.
+
+i
+37.6
+
+Barometric
+
+49.7
+49.7
+50,0
+49. 7
+
+Average
+
+Barometriel
+temperapressure
+{ turefrom
+in Cms, of
+curve
+on
+Hg.
+i
+sheet 2,
+0°C.
+
+tests
+and
+
+horsepowers
+
+49.7
+
+t-- o -
+
+Tabh"
+
+power,
+
+H
+
+Ir
+{
+
+60. 5
+
+for
+O°C.
+
+pressure.
+
+:1::: 11 1::.:: ..... L..... { ..... '......
+{
+
+to
+
+Barometric!
+
+5.
+
+_...... •
+
+ratio=5.3;
+
+37. 6
+
+power
+
+, ...........
+
+84.
+85.
+86 ..........
+
+norse-
+
+pressure.
+
+110. 8
+
+Horse*
+
+pressure.
+
+Barometric
+
+49. 8
+
+barometric
+
+Barometric
+
+compression
+
+M.
+
+140. 4
+
+{
+
+}
+
+__o.
+
+Horsepower.
+
+AERONAUTICS.
+
+fueL--High
+P.
+
+37.7
+37,7
+37, 2
+37, 6
+37. 8
+37, 6
+37. 7
+37. 6
+37. 7
+
+horsepowers
+
+. ,,
+
+1
+
+X
+R.
+
+lll..t
+Ill. 2
+112.8
+112. 1
+110.2
+109. 1
+115.0
+106.5
+108. 5
+
+_
+
+TABLE
+
+on
+
+t42.i
+141.1
+laS.0
+135.
+142.
+o
+13s.7
+
+[
+
+62.1
+
+tests
+
+and1,500
+
+FOR
+
+49.9
+49. 9
+49. 6
+49. S
+50.I
+48. 8
+50.1
+49.8
+49.9
+
+14,1.0
+140. 4
+141.5
+
+7o
+.................
+L 62 o
+74.................
+62.2
+75.................
+52.3
+77.................
+62.0
+7s
+.................
+61.
+o
+79
+................. {
+} 62,o
+.......
+
+for
+C.
+
+Barometric
+pressure,
+
+Itorsepower.
+
+62. 2
+62. 1
+61.9
+
+Average
+
+to 0 °
+
+COS_[IVIITTEE
+
+(
+
+ratio=6.2;
+
+EFFECT
+OFC03[PRESSr0N PRESSIYRE_
+RATI0_
+TEq_iPERATURE
+3ANDHUI_[IDITY
+ONP0_VER.11
+TAm,V.--Observed
+n
+horsepowers,
+
+rcvolulions
+
+per
+
+minute,
+
+horsepowers
+
+to
+
+Approximate
+
+Test
+
+Barometric
+pressure.
+
+Speed.
+
+Horsepower.
+
+1,310
+1,325
+1,300
+1,375
+1_365
+1,305
+1,315
+
+119.7
+126.1
+I14.2
+124.0
+122.8
+118.9
+116.3
+
+altitude=
+
+1,504
+1,515
+1,518
+1,525
+1,536
+1,480
+1,485
+
+99 ...........
+100 ............
+101 ............
+105 ............
+106 ............
+110 ............
+111 ............
+Average..
+
+62.0
+
+for
+
+5,500
+
+•
+
+i
+
+137.2
+
+I
+
+t40.; i
+
+I
+
+{
+] 158.3
+[ 162.7
+I 154.0
+_ 158.0
+_ 153.4
+[ 159.2
+I 157.0
+
+1,710
+1_715
+1,715
+1,725
+1,763
+1,695
+1,700
+
+1_9.9 l
+
+fuel.--Serics
+
+99
+
+to
+
+Ill;
+
+feet•
+
+Horsepower.
+
+Speed.
+
+141.9
+147.1
+i35. 0
+141.7
+140. 4
+
+X
+
+1,923
+1,935
+1,920
+1,965
+I j 925
+1,890
+1,910
+
+168. 7
+173.4
+165.1
+173.2
+165.8
+171.4
+171.0
+
+]
+
+1,924
+
+....
+2,110
+2.140
+')..
+155
+2.140
+_. 140
+2.120
+2.1,56
+
+169. 8
+
+I
+
+1,7t81157.51
+
+altitude=il,500
+
+Horsepower,
+
+Speed.
+
+2,137
+
+t
+
+i
+I
+
+174.2
+181.0
+177.1
+170. 3
+174.2
+182. 0
+181.1
+
+I
+
+feet.
+
+............ ,..5
+.91.o
+z
+.!7.4o,1.5:1.o,
+
+100 ............
+
+I
+
+49.8
+
+............
+.............
+............
+............
+
+/
+_
+
+49.9
+50.2
+49.8
+49.8
+
+II1 ............
+
+[
+
+49.95
+
+1,315
+1,315
+
+96.5
+93.9
+
+1._x}
+1.505
+
+1,340
+
+95.8
+
+,
+
+1,370
+1,327
+
+96.8
+101.2
+
+L515
+1,o40
+1540
+
+1:_
+
+1111.0
+
+1,305
+
+Average1--49
+91,
+
+92.9
+
+326 t 9621,517
+
+[
+!
+
+99 ............
+100 ............
+101 ............
+
+I
+
+1 37.6
+137.5
+] 37.8
+
+............
+............
+............
+............
+
+I
+
+I
+I
+
+37.7
+37.5
+37.55
+37.6
+
+Average.._
+
+I
+I
+
+|
+
+1
+1
+|
+
+1,300
+1,310
+1,310
+1j355
+1,360
+1,289
+1,310
+1,319
+
+I
+
+]
+]
+I
+
+1,725
+1,730
+1,715
+
+126.7
+118.7
+12,t.0
+
+]
+[
+I
+
+1,930
+1,925
+1,910
+
+111.2
+1i9.8
+
+]
+!
+
+1,750
+1,710
+
+120.7
+130.2
+
+|
+I
+
+I
+
+1,737
+
+126.9
+
+I 13_q.6
+[ 127.9
+1134.0
+
+[
+[
+I
+
+2,115
+2,107
+2,135
+
+I 143.0
+l 133.2
+1140.5
+
+1,945
+
+1130.5
+
+1,915
+1,927
+
+_ 13_.7
+I"
+
+]
+
+2,150
+
+1135.0
+
+|
+
+2,2'120130 144.8
+][
+
+2,123
+11445140,1
+
+altitude=
+
+19,200
+
+feet.
+
+7121 1,_ I 8461 1,715
+
+_
+
+]
+j
+i
+
+113.0
+109.9
+1i0:8
+
+1112S I 1,726124.0 I 1,923]" 134.513_ql
+
+Approximate
+
+105
+106
+II0
+111
+
+pressures
+
+temperatures•
+
+IH
+
+Approximate
+
+' 101
+105
+106
+110
+
+barometric
+
+standard
+
+Speed.
+
+62. 0
+61.9
+62.1
+62. 3
+62.1
+61.9
+61.9
+
+No.
+
+and
+
+corrected
+
+71.7
+
+r
+
+1,500
+
+[
+
+83.3
+
+69.4 I 1,ao
+
+I
+
+8Lo I
+
+71.4
+72.8
+74.0
+
+|
+I
+I
+I
+
+1,528
+1,5t5
+1,513
+
+[
+r
+
+g2.3
+82.6
+88:3
+
+I
+I
+[
+I
+
+1720
+1:725
+1,725
+1,745
+1 718
+
+95.0
+
+71.1
+
+I
+
+1;487
+
+I
+
+82.8
+
+/1:717
+
+71.7
+
+l_--l_
+altitude=
+
+[
+
+90.6
+91.7
+96.7
+
+1_923
+1,925
+1896
+
+I
+,
+
+93.2
+
+29,600
+
+99.5
+95. 6
+
+2,135
+
+I07.0
+
+2.14o
+z 14o
+2.](x}
+
+t, 910
+1,9-10
+1'9201
+
+98. 6
+99.4
+101.9
+t 9.__.___.1 1
+
+"_. i'•_5
+2.120
+
+105.4
+102. 5
+105.7
+105. 2
+98.5
+103.3
+
+1,919
+
+]
+
+2,123
+
+103.9
+
+95"2
+!
+
+94.2
+88.9
+
+F1:724-
+
+Approximate
+
+1,920
+
+I
+
+feet.
+
+9...........41
+. 713177 plIl
+56173o
+
+100
+101
+105
+106
+i10
+
+............
+............
+............
+............
+............
+
+[
+]
+[
+t
+[
+
+25.5
+26.0
+25.9
+25.7
+25.7
+
+I
+
+1,330
+
+| 1,314
+I ],31o
+I 1,370
+I
+
+1,290
+
+48.4
+45.1
+47.3
+47.6
+48.2
+
+I
+I
+
+1,505
+
+[
+
+1,512
+/
+! 1,505 I
+I 1,_o I
+I
+
+1,510
+
+I
+
+55.8
+52.9
+
+1,725
+1,707
+
+55.8
+
+1,705
+
+]
+I
+!
+
+54.4
+57.2
+
+1,735
+1,723
+
+i
+
+59.1
+
+47.911,5191
+
+i
+
+1,930
+1 924
+1:914
+1885
+1'900
+
+I
+
+64.4
+62.4
+6.5. 9
+60.8
+64.8
+
+I
+I
+I
+
+i
+
+2.105
+2.12(1
+.....
+.....
+2osn
+"_.120
+
+64.1
+63.1
+68. 8
+60.6
+63.2
+
+644 2,112
+t
+
+of data for averaging horsepowers for high compression from series 67 to 79 and
+powers corrected to standard temperatures and 1,500 R. P. M.
+
+A = averages
+
+from
+
+"
+
+Table
+
+IV.
+
+Barometric
+
+•
+
+pressure,
+
+B= average
+
+from
+
+l=forset
+
+Tables
+
+V.
+
+Barometric
+
+C_ averages
+
+[torse-
+
+62.1 I
+49.8 [
+37. 6 /
+
+137.
+llO
+62
+
+l
+
+25. 6 I
+
+54.
+
+65•3
+
+to
+
+k and
+
+Average
+serlesfrom
+
+of
+
+7 tests,
+
+l/
+
+99 to 111.]1
+
+pressure-
+
+I
+
+62.0
+49.9
+
+t
+
+g'78
+
+I
+
+)ower.
+Average
+111.0140'0!i
+'
+sertes
+55.82"83
+
+111; horse-
+
+B.
+
+Barometric
+pressure,
+
+J
+
+If
+}]
+i]
+
+720
+
+99
+
+from
+
+power.
+
+I
+of 9 tests,
+from 67 to 79..
+
+I
+I
+I
+
+_.o 1:_;I-__i
+
+Average-.l--Z_
+11,318
+
+Average
+series
+
+I
+
+1,710J 1;937
+6
+169.9
+
+111 I 9571,310 11,505
+............ !
+!
+TABLE VI.--Table
+
+I
+
+61.8
+&%3
+61.4
+59.6
+63.6
+
+of 16 tests
+!1
+' I
+from 67 to 79 _
+
+andOgtol11
+
+.......
+
+[/
+
+Horset
+
+1
+
+power.
+
+62.05 I
+_v._o
+_ _ j
+
+138,9
+110.9
+
+_:_]
+
+54.827_6
+
+REPORT
+
+No. 45.
+
+PART
+
+VALUE
+By
+
+II.
+
+OF SUPERCHARGING.
+
+H. C. DICKTNS0N
+
+AND
+
+G,
+
+V.
+
+1
+
+ANDERSON.
+
+RgSUM_.
+
+A test was carried
+out at the altitude
+laboratory
+of the Bureau
+of Standards
+to investigate the results
+obtained
+by increasing
+the carburetor
+air inlet pressure
+above the exhaust
+back
+pressure
+of an airplane
+engine,
+and to evaluate
+the effect of this upon the horsepower
+output.
+In practice,
+supercharging
+may be accomplished
+by means of a blower driven from the engine
+by gearing,
+or connected
+to an exhaust
+turbine.
+The results
+of this test show
+supercharging,
+and indicate
+that
+is required
+to drive the blower.
+
+what gain
+a net gain
+
+Curves showing
+this increase
+pressures
+are given on plots
+
+in power:
+I and 2.
+
+back
+
+VALUE
+
+OF
+
+in horsepower
+in horsepower
+for (lifferent
+
+may reasonably
+will result even
+(:arburetor
+
+inlet
+
+be expected
+if considerable
+pressures
+
+and
+
+through
+power
+exhaust
+
+SUPERCHARGING.
+
+The following
+report
+is based upon a test made in the altitude
+laboratory
+of the Bureau
+of
+Stan.dards
+to determine
+the effect produced
+upon the horsepower
+output
+of an airplane
+engine
+by the introduction
+of air to the carburetor
+at a higher
+pressure
+than the exhaust
+or back pressure.
+_;uch a condition
+is easily produce(l
+in this laboratory,
+as the engine under test is inclosed
+in a chamber
+in which the air pressure
+may be controlled,
+independently
+of that on the carburetor inlet, by means of suitable
+pipes and valves leading
+to a suction
+blower.
+A more complete
+description
+of this method
+of controlling
+the
+barometric
+pressure
+is given in Technical
+Report
+No. 44.
+A stock
+150-1iorsepower
+Hispano-Suiza
+engine,
+built by the Wright-Martin
+Aircraft
+Corporation,
+New Brunswick,
+N. J., having
+a compression
+ratio of 5.3 to 1, was used in making
+the
+test.
+The Claudel
+carburetor,
+with which the engine is equipped,
+was adjusted
+in each case to
+give minimum
+fuel consumptiou
+consistent
+with maximum
+power.
+Two runs were made with approximately
+a constant
+pressure
+on the carburetor,'and
+with
+varying
+exhaust
+back pressures
+in each case.
+The first run was made with the valve on the
+intake
+wide open, so that the highest
+pressure
+Could be obtained
+at the carburetor.
+The pressure within
+the chamber,
+which is the same as ttie exhaust
+back pressure,
+was adjusted,
+and
+readings
+taken at values of approximately
+62, 50, 38, and 34 cm. Hg.
+The data obtained
+are
+tabulated
+in Table I, and the results
+are plotted
+as curve A on plot 1.
+In the second run, the valve on the intake was partially
+closed, so that the pressure
+on the
+carburetor
+was the equivalent
+of 20 cm. Hg below
+the prevailing
+atnospheric
+pressure,
+and
+readings
+taken
+at approximately
+the same points
+as before.
+The results
+of this run are given
+in the second half of Table I and are plotted
+as curve B on plot 1.
+In the first run the pressure
+of the intake
+air was not constant
+throughout,
+varying
+from
+72.67 to 70.22 cm. Hg, so that
+it was necessary
+to correct
+the results
+to some constant,
+pressure.
+The correction
+was made to a pressure
+of 70 cm. Hg by interpolation,
+which is based on
+LThis Report was confidentially
+
+circulated
+
+during
+
+Preceding blank
+page
+
+the war as Bureau
+
+_ofStandards
+
+Aeronautic
+
+Power Plan.t_ Report
+
+No 9.
+
+14
+
+ANNU,_,
+
+IIEPORT
+
+NATIONAL
+
+the assumption
+that the increment,
+tional to the increment
+of pressure
+
+ADVISORY
+
+C0513IITTEE
+
+FOR
+
+AERONAUTICS,
+
+of horsepower
+developed
+at. a given back pressure
+is proporof the carburetor
+air.
+This correction
+gave curve C on plot
+
+1.
+
+All horsepowers
+were corrected
+t(_ 1,500 revolutions
+per minute
+and 0 ° C.
+This temperature
+corre('t.ion
+was made in ac_eordance
+with the results
+of a series of tes{s
+performed
+at this laboratory
+to determine
+t!m variation
+of ltorsepower
+with lemperature,
+and
+more complete
+inh)rmation
+on this subject,
+may be obt'dned
+from Part III of this report.
+In order
+to determine
+the engine
+performance
+under
+different
+conditions
+of carburetor
+pressure
+and 55
+
+and exhaust
+ba(,k pressure,
+a family
+of curves
+at. carburetor
+era. Hg were 0lot.ted
+against
+=ttie exlidust
+ba('k pressures.
+
+the
+
+two experimental
+As it is desirable
+(lit.ions as a function
+
+pressures
+of 76, 70, 65, 60,
+These were derived,
+from
+
+curves
+by interpolation
+based on the assumption
+as mentioned
+above.
+for tile purpose
+of design to know the engine oulput
+under different
+conof the maximum
+output
+on the ground,
+the ratio of horsepower
+taken from
+
+the above mentioned
+curves
+to the horsepower
+at, a carburetor
+and exhaust
+pressure
+of 76 cm.
+Itg, taken
+from curve
+D, is computed
+and plotted
+on plot 2.
+These curves
+give the engine
+performance
+under the different
+conditions
+on the basis of a constant
+temperature
+of air at. the
+carburetor.
+To compute
+the horsepower
+that would be developed
+by an engine equipped
+with a superckarging
+device under a given set of conditions
+of dtitu(te,
+carburetor
+air pressure,
+and exhaust
+back pressure,
+knowing
+the engine performance
+on t,he ground,
+we may make use of the above
+mentioned
+curves
+in connection
+with the following
+relations:
+IIP=
+
+IIP_ × R × (F_)t
+
+(1)
+
+in which HP=itorscpower
+developed
+with supercharging
+apparatus
+at. the given altitude,
+and
+IIP_=the
+observed
+horsepower
+on the _ound
+at the observed
+carburetor
+air temperature
+of
+t_, and R=horsepower
+ratio at the given conditions
+of exhaust,
+and carburetor
+pressures
+produced by the supercharging
+device at the given altitude
+(obtained
+from curves
+on plot 2) and
+(F2)t=temperature
+correction
+factor
+to correct
+from observed
+temperature
+on the ground,
+ta, to t.emperature
+at the carburetor,
+t2, under
+the given conditions.
+The use of any form of superehar_ng
+device
+involves
+a compression
+of the air from the
+prevailing
+atmospheric
+the carburetor.
+This
+
+pressure
+at the given altitude
+to some higher
+pressure,
+before
+results
+in a heating
+of the air above the prevailing
+temperalure
+
+ehlering
+of the
+
+atmosphere,
+and a consequent,
+reduction
+of the available
+output
+of the engine.
+(For average
+temperatures
+of atmosphere
+at various
+altitudes
+see curve
+B on plot 5).
+The temper'mire
+resulting
+from such a compression
+may be computed
+by use of the equation:
+/p
+
+xn-_
+
+in which
+T_ = temperature
+at carburetor
+after compression
+of the atfnosphere
+before compression
+tabs.);
+P., =pressurc
+Pt-atmospheric
+pressure
+at the given
+altitude
+(pressure
+pression
+exponent,
+(1.41 for an adiat)atic
+compression).
+As the air enters
+th(_ carburoter
+at the temperature
+
+(absolute)
+and/'1=the
+at the carburetor
+after
+before
+compression);
+t.., aft_,r
+
+compression
+
+temperature
+compression;
+and n=com(corresponding
+
+to the absolute
+temperature
+T: of e(tuatioa
+2), is in most cases different
+from the observed
+temperature
+on the ground,
+t_, the temperature
+correction
+factor
+(_')_ nmst be included
+in equ'_tion
+1 to give the correct output
+that would be developed
+at the existing
+air temperature
+at carburetor
+under
+the given
+conditions.
+(See Part III of this report.)
+To facilitate
+computations,
+plots 3 and 4 were eonst.ruct,(_d
+for obtaining
+the temperature
+after
+compression
+ta, according
+to equation
+2, and the temper_xt,ure
+correction
+factor
+(F=)_
+respectively.
+In using the chart for compression
+temperatures,
+it. is unnecessary
+to determine
+the temperature of the altitude,
+as this is a function
+of the altitude
+barometric
+pressure,
+and is incorporated
+in the chart.
+Tense this chart, locate carburetor
+pressure
+on the horizontal
+scale at the bottom,
+trace vertically
+upward
+to the line of barometric
+pressure
+corresponding
+to the given
+altitude,
+
+EFFECT
+
+OF
+
+COMPRESSIO_
+
+_ RATIO_
+
+PRESSURE_
+
+TEMPERATURE,
+
+AIffD
+
+I
+I
+
+100
+
+II
+
+i°
+70
+
+I
+
+ttU_[IDITY
+
+O2q
+
+POWER.
+
+15
+
+16
+
+ANNITAL
+
+REPORT
+
+NATIONAL
+
+AD_'I,_0RY
+
+C0._I._[TTTEE
+
+FOR
+
+AERONAUTICS.
+
+" I
+-_
+
+--1-
+
+--,_
+\J\_
+
+J
+
+vl\
+
+-.
+
+\
+......
+
+N":.X--
+
+x.,,
+
+\
+....
+_
+
+\\ .....
+
+_.,,_ .
+
+_- ol,
+
+r_
+
+_.
+
+I
+
+j
+
+..I
+/
+
+\
+
+/
+/
+
+\
+
+-%
+
+!
+
+"2'2".
+
+_x._
+
+2_2i
+
+u!
+
+EFFECT
+
+OF
+
+COMPRESSION
+
+RATIO,
+
+PRESSURE_
+
+TEMPERATUREj
+
+A_D
+
+HUM:IDITY
+
+ON
+
+PO_,VER.
+
+17
+
+then horizontally
+to tile curve of the desired compression
+exponent.
+Fronl there trace vertically
+upward
+or downward
+to the line corresponding
+to the b,_tromctric
+pressure
+of the altitude,
+aqd horizontally
+to the right
+to th('_ scale of temperatures.
+This gives the temperatm'e
+after
+compression
+in degrees centigrade.
+The temperature
+correction
+factor
+(Fz) _ may be ot)tailwd
+from plot 4.
+To use this chart,
+locate
+the observed
+temperature
+on the ground,
+t_, on the hertz(total
+sc_dc otl the bottom
+and
+trace vcrtically
+upward
+to the line corresponding
+to the compression
+temperature
+as obtained
+from chart on plot 3.
+From there trace horizontally
+to the scale of correction
+factors.
+An example
+may serve to illustrate
+the use (if the curves and charts.
+Assume
+that an eilgine
+capable
+of developing
+400 horsepower
+on the ground
+at a temperature
+of 10 ° C. (50 ° F.) is to
+be equipped
+with an exhaust
+pressure
+turhine
+blower, which at a barometric
+pressure
+of 35 era.
+IIg (corresponding
+to 21,100
+feet altittldc
+and at -21 ° C.) (see curves
+A and B on plot 5)
+exerts a back pressure
+on the engine of 35 cm. tlg and increases
+the carburctcr
+pressure
+by 30
+cm. Itg.
+Then we have for the exhaust
+pressure
+on the engine at the given altitude,
+35 + 35 = 70
+cm. Hg, and for carburcter
+pressure,
+35+30=65
+era. Hg.
+From the curves
+on plot
+2, we
+obtain
+a horsepower
+ratio
+of 0.836.
+To obtain
+the temperature
+after compression,
+we may
+assmne an adiabatic
+compression
+with an exponent
+of 1.41, and from the ('h'u't ou plot 3 obtain
+a temperature
+after compression
+()f 30 _ C.
+From the (:hart on phlt 4 we ol)tail_ the temperature correction
+factor
+to correct
+from 10 ° C. to 30 ° C.-0.963.
+Sut)stituting
+these v'dues
+in
+equation
+1, wc obtain
+for the horsepower
+at 21,100 feet with exllaust
+pressure
+turbine
+blower
+supercharging
+equipment:
+400 x 0.836 × 0.963 = 322 HP.
+If a geared blower were used, then in obtaining
+the horsepower
+ratio the barometric
+pressure
+at the given altitude
+would be used
+as the back pressure
+on the engine;
+and from the available
+output
+computed
+on this basis, the power necessary
+to drive the blower would be deducted.
+If it is desired
+to include,
+as a further
+refinement
+in the above computations,
+a correction
+to the observed
+horsepower
+on the ground,
+lIP, for barometric
+pressure,
+the output
+as computed
+by equation
+1 may be multit)licd
+by a pressure
+correction
+factor
+el)tattled
+from curve E
+on plot 2, as foUows:
+Locate
+the intersection
+of curve E with the curve of carburct(_r
+pressure
+corresponding
+to
+the observed
+barometric
+pressure
+on the ground,
+trace horizontally
+t() the left and read horsepower ratio.
+The barometric
+pressm'e
+correction
+factor is 1 diviltcd
+by this horsepower
+ratio.
+An illustration
+will selwe to make clcar the use of this col"root ion fa(,tor.
+Assume
+that iu the
+above example,
+of 74 cm. Hg.
+tion
+
+factor
+
+the observed
+horsepower
+(400) was obtained
+at an observed
+baronwtric
+pressure
+From the curve E we obtain,
+tly t]lc mettmd
+descrit)cd
+allove, a pressure
+corrcc1
+of ._9_ (see plot 2) = 1.03.
+Allillyi_g
+thi_ t() the horsepower
+obtained
+we get:
+322 × 1.03 = 332 HP.
+TABLE
+
+..........Pressuret exhaust
+a
+
+por/
+
+Pressureatearburetoriotake(cms.
+Itorsepowereorrecteclto0°C
+Pounds
+
+of gasolene
+
+(cms.
+
+I.--
+
+T(_blc
+
+of
+
+data
+
+on
+
+tcsl
+
+of Hg) ........................
+
+i
+
+61.9
+
+of Hg) ....................
+,andl,500re,'olutionspermimie_]
+
+]
+
+72.67
+170 2
+
+10,?
+
+per horsepower
+
+per hour
+
+....
+
+o__ ltu_
+
+49.7
+
+5.e,4
+
+i
+I
+
+(8"cct
+
+37.5
+
+71.42
+t71 3
+593
+
+]
+]
+
+of
+
+s___percharg,b_y.
+
+i! 33.9
+..............
+
+7L12
+173 4
+573 j
+
+1
+
+70.22
+171 ,q
+5qo
+
+33.1
+
+[
+I
+
+55.22
+132.9
+
+37.7
+
+567
+
+I
+[
+
+I
+
+55.22
+129 6
+
+50.0
+
+!
+
+55.22
+125 4
+
+545 !
+
+62.1
+
+.554
+
+&5.22
+122.0
+.559
+
+18
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+CO._[_,[ITTEE
+
+FOR
+
+AERONAUTICS,
+
+REPORT
+
+No.
+
+45.
+
+PART III.
+
+VARIATION
+
+OF
+
+HORSEPOWER
+
+WITIi
+
+TEMPERATUREJ
+
+By tI. C. DICKINSON,"W. S. JA._IES,qlld G. V. _NDER.qON.
+
+R_SUMI_.
+In connection
+with tests of airplane
+en_nes
+made in the altitude
+laborato_
+_ of the Bureau
+of Standards
+it has become
+necessary
+to reduce
+horsepower
+at. a given
+temperature
+to arbitrary standard
+temperatures
+in order to permit
+comparison
+of different
+tests.
+As the result
+of a number
+of experiments
+made with two Hispano-Suiza
+engines
+and three
+(tifferent
+makcs of carburetors,
+a correction
+factor has been determined,
+which may be expressed
+by Fin the following
+equation:
+lIP=
+F
+
+where
+IIPo is the
+corrected
+to t °F.
+
+observed
+
+F× IIPo
+920+to
+oF.
+529+to
+°C.
+= _-_-0--_-iOF. or F= 529 + t oc.
+
+horsepower
+
+at
+
+the
+
+temperature
+
+to °F.
+
+and
+
+HP
+
+is the
+
+horsepower
+
+This correction
+factor
+has been found
+to be somewhat
+variable
+with engine and carburetor
+conditions,
+but the above expression
+is believed
+to be approximalely
+correct
+for the type of
+engine under consideration
+and for temperatures
+between
+-20 ° and 50 ° C. (-4 ° and 122 ° F.).
+Curves showing
+graphically
+the value of the correction
+factor
+are shown on plots 4 and 5,
+and charts for correcting
+for bottl temperature
+and barometric
+pressure
+are given
+on plots
+10
+and ll, the former
+being in metric
+and the latter in English
+units.
+VARIATION OF HORSEPOWER
+
+WITH
+
+TEMPERATURE.
+
+The horsepower
+of an internal-combustion
+engine
+varies with the temperature
+of the air
+admitted
+to the cm'buretor.
+In order to reduce
+the horsepower
+at any observed
+temperature
+to horsepower
+at a chosen
+standard
+temperature,
+if. has ordinarily
+been assumed
+that
+the
+horsepower
+varies inversely
+as the absolute
+temperature
+of the carbureior
+air, other conditions
+being held constant.
+In the testing
+of airplane
+engines
+at the altitude
+laboratory
+of the Bureau
+of Standards
+the horscpower
+at the observed
+carburetor
+air temperaiure
+has been reduced
+1o arbitrary
+standard
+temperatures
+in order to furnish
+a common
+basis for Comparing
+the results
+of different
+tests.
+The te_ts used to determine
+the approximate
+variation
+of horsepower
+with temperature
+were all made on two ttispano-Suiza
+engines built by the Wright-Martin
+Aircraft
+Corporation,
+New Brunswick,
+N.J.
+The first engine, used i_ the majority
+of the runs, was of 150 horsepower,
+known
+as type A, while the remaining
+runs were made witlt the 180-hol_cpower,
+type E.
+Three
+different
+carburetoi_
+were used, tests Nos. 79, 80, and 104 having
+been made on
+the 150-homcpower
+engine with the Claudcl
+carburetor,
+test No. 103 on the same engine with
+the Tice carburetor,
+and tests Nos. 116, 117, and 119 on the 180-horsepower
+engine with the
+Stromberg
+carburetor.
+ThisReport was confidentiallycirculatedduring the war as Bureau of standards Aeronautic P(_werPlants Report No. 8.
+19
+
+20
+
+ANNUAL
+
+The
+
+tests
+
+REPORT
+
+cover
+
+_ATIONAL
+
+a wide
+
+range
+
+ADVISORY
+
+of altitudes
+
+CO_[3_ITTEE
+
+from
+
+2,000
+
+FOR
+
+to 30,000
+
+AERONAUTICS.
+
+feet,
+
+and
+
+for every
+
+change
+
+in barometric
+pressure
+the Claudel
+and Stromberg
+carburetors
+were adjusted
+by hand to give
+maximum
+power,
+but the Tice carburetor
+was an experimental
+one, designed
+for inherent
+altitude
+control,
+and was therefol_
+not adjusted
+by |[land.
+As the Tice carburetor
+differs
+radically
+from the others
+used ill the tests, the agreement
+of the results
+in all cases indicates
+that the cart)urctor
+dcsign may not greatly
+affc('t the magnitudc
+of the temperature
+correction
+factor.
+Tables
+I to VI contain
+the observed
+and computed
+data used in obtaining
+the correction
+factors.
+To obtain
+
+an expression
+
+temperature
+and
+the same pressure,
+
+for the
+
+correction
+
+pressure
+to horsepower
+we have
+
+at
+
+factor
+the
+
+to reduce
+
+arhitrarily
+
+horsepower
+
+chosen
+
+at a given
+
+temperature
+
+observed
+
+of 0 ° C.,
+
+liPo = HP t X Fo
+in which
+
+IIPo = horsepower
+
+at arbitrarily
+
+chosen
+
+IlPt
+
+at observed
+
+temperature
+
+= ho_epower
+
+Fo = correci
+From
+
+It
+
+ion factor
+
+to reduce
+
+(1)
+
+_
+
+is evident
+
+from
+
+equation
+
+2 that
+
+the
+
+(1)
+
+temperature
+
+to arbitrary
+
+and
+
+of 0 ° C.
+
+t °C.
+temperalure
+
+of 0 ° C.
+
+tlPo
+
+correction
+
+factors
+
+al
+
+the
+
+difl'erent
+
+temperatures
+
+for
+
+any Wen
+run depend
+upon an accurate
+determination
+of horsepower
+at the arbitrarily
+chosen
+temperature
+of 0 ° C.
+For this reason
+the holsepowers
+computed
+from the observed
+data were
+plotted
+against
+carburetor
+air temperatures
+and smooth
+curves
+drawn
+through as many
+of the
+points
+as possible,
+as _hown
+on plots 1 and 2.
+Tests at the same altitude
+have been grouped
+together
+and an average
+curve
+drawn
+for each group.
+From
+these curves
+the average
+horsepowers were obtained
+at 0 ° C. and the other observed
+temperatures
+of the given run, and from
+the values
+of horsepower
+thus secured
+the con'cction
+factors
+Fo were deternlit:cd
+by the use
+of equation
+
+HORSEFOWEBTeSPH@
+_5
+
+r,ra_ No
+re _ f Na
+
+aO
+
+TCt4PERATMRE
+_ 6ox.
+X Gas
+Adlbs
+
+103_
+
+Cloudel
+
+_os
+
++ _
+
+factors,
+
+I?ELATIOIV5
+
+_orbure_or
+
+- Cla_'del
+_'_'d- E_
+
+- /SSGoa
+
+104 "- H
+
+These
+
+Mo_d
+
+I
+
+Carbure_r
+-Mon#
+Pro Hty /_ Cotr_
+:6 2 : t )
+_
+
+"C loude
+
+COr bur
+
+e for.
+
+/nher_t
+
+I Corbut_:or-
+
+I
+]
+
+_red
+
+1.
+
+I..
+p_tP¢o /
+
+72,'.
+
+#NO.80,"
+
+2.
+
+[___1
+Corbu_ero:
+
+i]
+
+i_L___J
+
+A/_" Tempe,'o#ut"e
+
+. I
+_
+
+I
+
+|)lotted
+
+against
+
+tcmpr, rature,
+
+are given
+
+oh plot
+
+3.
+
+EFFECT
+
+OF
+
+CO]_[PRESSION
+
+RATIO_
+
+PRESSURE_
+
+TE_IPERATURE_
+
+A_D
+
+ttUI_IIDITY
+
+O1'7
+
+POWER.
+
+2l
+
+E
+
+I.
+I
+_.,
+
+_
+
+_H_-_
+................
+
+_._
+
+.........
+
+:=
+__
+
+-5_
+
+......
+
+s_
+
+,
+
+. $'Jo/)oj
+
+--e.q
+
+uo_/_aJ_o)
+
+"_
+
+_._,
+_!._._
+
+\
+1,,
+
+\
+
+\
+
+|
+
+22
+
+ANNUAL
+
+REPORT
+
+_TATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+AERONAUTICS.
+
+1
+•
+
+t_
+_I _,
+
+\i
+
+/
+
+EFFECT
+
+OF
+
+COR_PRESSIO.A
+
+r RATI0_
+
+PRESSURE_
+
+TE_vIPERATU_E_
+
+Values
+of the correction
+factors
+obtained
+tudes)
+were averaged
+and plotted,
+giving the
+may be represented
+by the equation:
+
+t is the observed
+temperature
+2 and 3, we obtain,
+
+of the
+
+HUIV[IDITY
+
+ON
+
+POWER.
+
+from these average
+curves
+(at the different
+mean
+correction
+curve
+on plot
+4.
+This
+
+Fo=529+
+5
+in which
+equations
+
+AI_D
+
+23
+
+alticurve
+
+6- t ....
+
+carburetor
+
+(3)
+air in degrees
+
+centigrade.
+
+Combining
+
+HP o_ 529 + t
+HPt
+529 + 0
+which
+
+may
+
+then
+
+be written
+
+in a generalized
+
+form
+
+tIP,
+HPt2
+or
+
+Hpt,
+
+= 529 +t_
+529 +t,
+
+(4)
+
+substituting
+
+t, °C for 0°C and
+
+t_ for t, as follows:
+
+529 + t_ °C.
+529+t,
+°C.
+°C.
+°C. x
+
+(5)
+
+HPt2 = FX
+
+HPt2
+
+(6)
+
+where
+lIP a is the horsepower
+t_ °C., is to be reduced
+F may therefore
+
+at temperature
+t, °C., to whicll
+and F is the reduction
+factor.
+be written.
+F=
+
+529 + observed
+529 + correction
+
+HPt_
+
+temperature
+temperat,ure
+
+the horsepower
+
+at the
+
+temperature
+
+in °C.
+in °C.
+
+(7)
+
+In order to correct
+horsepower
+at a given observed
+barometric
+pressure
+and temperature
+to
+horsepower
+at the actual
+temperature
+corresponding
+to the altitude
+of the given
+barometric
+pressure,
+it is necessary
+to know the mean actual
+temperatures
+existing
+at the various
+altitudes.
+To obtain this relation
+the information
+contained
+in Aeronautic
+Instruments
+Circular
+No. 3,
+issued by the Bureau
+of Standards,
+was used, resulting
+in the altitude-temperature
+curves
+on
+plots 8 and 9.
+As it is necessary
+for the purpose
+of comparison
+to Correct an observed
+horsepower
+for both
+temperature
+and barometric
+pressure
+it is desirable
+to obtain
+an expression
+for a correction
+factor which shall include
+both corrections.
+The results
+of numerous
+tests in the altitude
+laboratory
+indicate
+that
+for the ordinary
+slight differences
+in barometric
+pressure
+met with from day to day, the assumption
+that
+the
+brake horsepower
+varies directly
+as the barometric
+pressure
+is sufficiently
+accurate.
+The true
+variation
+of horsepower
+with altitude
+is, however,
+fully covered
+in Part I of this report:
+Upon
+the assumption
+that
+the horsepower
+developed
+varies
+directly
+as the barometric
+pressure
+we have:
+HP1
+P,
+or,
+
+HP,
+HP,
+
+= Horsepower
+
+HP,
+
+where,
+
+=_
+
+× HPa = 171 HP,
+
+= Observed
+
+(9)
+
+deveIoped
+horsepower
+
+F, =_---_', the barometric
+
+at correction
+developed
+
+pressure
+
+pressure
+
+at observed
+
+correction
+
+P,
+pressure
+
+Pv
+
+factor.
+m
+
+From
+
+equation
+
+(9) we get:
+F_
+
+Correction
+
+barometric
+
+pressure
+
+(10)
+
+24
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COM_ITTEE
+
+FOR
+
+AERONAUTICS.
+
+Combining
+the temperature
+and pressure
+corrections
+from equations
+(7) and
+an expression
+for a factor
+FI, to correct
+horsepower
+from observed
+temperature,
+to standard
+or correction
+temperat.ure
+and pressure,
+as follows:
+
+(10) we obtain
+and pressure
+
+529 +Obs
+temp.
+0C
+Correct
+bare. pressure
+1_ ........ +Correct : ....temp. _- X Obs. barB. pressure.
+.....
+529
+C
+Plot
+
+10 is constructed
+
+for
+
+obtaining
+
+this
+
+combined
+
+correction
+
+(11)
+factor
+
+and
+
+is based
+
+on
+
+equation
+(11).
+To use this chart
+proceed
+as follows:
+Trace vertically
+upwards
+from observed
+carburetor
+air temperature
+to line of correction
+temperature,
+then horizontally
+to observed
+Barometric
+pressure.
+From
+there
+trace in dh'ection
+of radiating
+lines to correction
+pressure,
+then horizontally
+to the line of correction
+factors.
+ZlZ
+Hg
+
+/gZ <_
+
+g
+
++;I'
+J4
+
+of Corbure_or
+
+Plot
+
+11 is constructed
+
+in a similar
+
+manner
+
+for
+
+Air
+
+obtaining
+
+the
+
+combined
+
+correction
+
+factor
+
+in
+
+terms
+
+of temperature
+in degrees
+Fahrenheit
+and pressure
+in inches of mercury.
+In using these charts it should be borne in mind that the majority
+of the tests upon which
+this report
+is based were made on only onc engine and between
+temperatures
+of approximately
+-20 ° and 15 ° C. (-4 ° and 59 ° F.), respectively.
+However,
+the three later tests with the 180
+horsepower
+engine were made between
+temperatures
+of -15 ° and 50 ° C. (5 ° and 122 ° F.), and
+the results,
+as given in Tables V and V[ and on plot 6, check very closely the average
+of the
+earlier
+runs.
+This is illustrated
+by the curves
+on plot 7, where
+the average
+curve
+as drawn
+on plot 5, is prolonged
+to include
+these
+It therefore
+appears
+safe to assume
+F
+
+which
+
+has
+
+bee_
+
+derived
+
+higher
+temperatures.
+that this relation,
+
+expressed
+
+by
+
+the
+
+simple
+
+equation:
+
+529+t_
+°C.
+920+t_
+OF.
+= 529 4- t_ oC. or 920 + t_ °F.'
+
+from
+
+tests
+
+different
+carburetors,
+gives apparently
+the experimental
+temperature
+range
+
+at
+
+various
+
+altitudes
+
+on
+
+two
+
+engines
+
+equipped
+
+accurate
+results for the type of engines
+of -20 ° to 50 ° C. (-4 ° to 122 °F.).
+
+with
+
+considered
+
+three
+within
+
+EFFE('T
+
+OF
+
+(!OMPTIE_S_fON
+
+_AT]O_
+
+PP,
+
+F,,qgUP,
+
+E_
+
+TE.%IPI_'P,
+
+ATY'TIY,_
+
+AND
+
+]-T_['-X[IDITY
+
+ON
+
+Z>OWI:,R.
+
+25
+
+•_.JolaoJ uo/¢pa.Jdo)
+
+Oa
+
+t,.
+
+h
+
+_'_
+
+"I-,.
+
+26
+
+ANNUAL
+
+TABLE
+
+REPORT
+
+I,
+
+TEST
+
+NATIO_*AL
+
+NO.
+
+79.-..X
+
+gas,
+
+Dyuamometer
+scale
+corrected
+
+Temperatore of
+Altitude,
+
+i earbm'etor
+air.
+
+for
+
+1
+
+earbaretor,
+
+hand
+
+Back pressure
+correct iOll.
+
+adju_ted,
+
+AER0=VAVTICS.
+
+high
+
+i 11yl i klriqOTO
+! clef scale
+correcicd
+f)r bflance
+
+I
+IIelghcms.
+
+:
+
+H_0
+
+ScMe
+
+_
+
+and
+
+J eorreclion,
+
+compression
+
+P,mnd,_.
+
+(5.3:11.
+
+[Iorsepower
+I
+at 1_500
+i revohl(iorls
+I per minute
+at observed
+temppra!tires,
+
+"
+Re_ (tl[lIIO[IS
+per
+nlimlt e.
+
+t)nek
+
+pressure.
+
+_I
+
+P_m rid+,
+
+i
+!
+
++ 7.0
+--17.5
+
+152.5
+21K0
+"_7. 5
+
+--19.0
+49.0
+
+...............
+,
+...............'
+....
+'
+...............
+"
+..............
+,
+
+:
+i
+
+I[,
+
+103.0
+162. 5
+9s.o
+
+"
+'
+
+5,1")0
+
+-19.o
++ 3.3
+
+i
+•
+
+.
+
+TABI,_Z
+
+FOP,
+
+j
+
+--
+
+i
+
+11,500
+
+,
+I
+
+(70MM1TTEE
+
+° C.
+
+19, I00
+i
+
+l
+I
+_
+,--i
+!
+
+!
+Fi_t.
+39, 000
+
+Claudel
+
+i
+
+hahmee
+
+t"
+I
+
+ADVISORY
+
+--0.3
+
+271.0
+263.5
+
+"'I ..............
+....
+
+--18.2
+
+TEST
+
+No
+
+80.
+
+-X
+
+gas,
+
+: ...........
+
+¢'lad&I
+
+I
+
+carburetor,
+
+1,490
+1,490
+t,500
+!,490
+1,510
+I, 490
+
+162
+152.5
+218.0
+207. 5
+271.0
+
+i
+L........ 263.5
+
+hand
+
+:
+"_
+
+adfltstcd,
+
+5t.5
+19.0
+_1,3
+76.3
+1(_3.0
+103.8
+
+'I
+
+t35.5
+131.8
+
+o'tra
+
+D3 llII In o_/]e:erscale
+
+i
+i
+
+1,550
+1,550
+
+98. 0
+
+h;yh
+
+Rex'
+
+compression
+
+(6.2:11.
+
+Temperalure o1
+carbta'etor
+air
+
+_.11ilmlo.
+
+O vllarllOlll•
+eter
+scale
+corrected
+for
+l)alatlep
+
+l]ack
+pressllre
+correct 1oll _
+...........
+lIeight
+In
+I Cms. O[
+•
+l_xO.
+
+corrected
+for balarlce
+ao,l hack
+pressnre,
+
+Scale
+correction.
+
+l*C.
+-19.0
++6.2
+-5.5
+0
+-1S.O
+-2.6
+420. S
+0
+-15.8
+0
++16.2
+
+Fee/.
+11,600
+
+19,200
+
+29, 750
+
+TABLE
+
+III,
+
+TESV
+
+NO.
+
+p_.,lt lids.
+249.5
+242.0
+245.5
+238. 3
+182.4
+178.5
+170.0
+177.0
+1t4.5
+111.0
+107.6
+
+103.--Tice
+
+inherent
+
+o _ ! re', ohll io:19
+_1t 1,500
+.
+per minule
+
+per
+]Tdllate.
+
+]
+I
+
+......
+
+II[
+
+O]IForvccI
+
+temperature_.
+
+[
+[
+
+241.9
+245.3
+249.4
+238.1
+182.5
+t78.6
+170.1
+177.2
+115. t
+
++0.6
+_0.6
+
+carburetor,
+
+I
+
+Pqii.,M_.
+
+ipa-:: rJ
+ds.
+-0. I
+- 0.1
+-0.2
+--O. 2
+LO. 1
+-_0.1
++0.1
++0.2
++0.6
+
+-- 2.7
+-- 2.15
+- 4.2
+4, 3
++ 1.45
+- 3.3
++ 3.0
++ 5.2
+v15.5
++-14.7
++14.7
+
+Horsepower
+lut
+
+i
+
+1
+
+[
+
+1,500
+t,5_
+
+i
+i
+
+[
+
+108.2
+111.6
+
+adjustment,
+
+1,406
+1,516
+1,49t
+1,674
+1,48_
+1,526
+1/t96
+1,524
+t,520
+
+I55
+
+gas,
+
+high
+
+124.7
+12I.D
+122.7
+119.1
+91.3
+_9.:t
+85.1
+88.6
+57.6
+54. I
+55. g
+
+compression
+
+0.3.'0,
+
+Temperature of
+c_trborctor
+air.
+
+Altit u(le.
+
+Back pressure
+correction.
+
+Dynamometer
+scale
+corrected
+for
+balance.
+
+........
+
+Dynan:
+offteter scale
+corrected
+
+I.........
+
+Height
+Cms.
+
+in
+of
+
+]
+
+1Rcvolut lens
+per
+minute.
+
+for balance
+and back
+pressure.
+
+Scale
+correction.
+
+Horsepower
+at 1,500
+revolutions
+per minute
+at obser _:e_l
+temperai
+tures.
+
+I
+
+.t
+Feet.
+5,300
+
+*6".
+--10.9
+--0.8
++13.6
+--11.2
+49.6
+--0.7
+-ll.6
++l.O
++14, 7
+
+11,400
+
+19,250
+
+-+,
+
+23,170
+t
+
+TABLE
+
+IV,
+
+Pounds.
+278.5
+273.5
+271.5
+221.5
+219.2
+220.5
+166. 5
+161.5
+157. 5
+136.5
+132.5
+129.5
+
+Poun&.
+i
+
+-- 2.5
+-- 2.0
+
+I
+
+--11.0
+--1.0
+
+I
+I
+
+--0.1
+--0.1
+
+°
+
+A1 i
+
++3.0
++ 2.5
+
++O. 1
+
+i
+
+--0.6
++0.2
++0.1
+-0. 7
+
+--15.5
++ 4.0
++ 3.0
+--19.0
+
+i
+
+Puund_..
+278.4
+273.4
+27t.4
+221.1
+219.2
+220,5
+166.6
+161.6
+156.9
+
+1_ 505
+1,518
+1,530
+1,503
+t_49B
+1,508
+1,508
+l,_3
+1,500
+
+t_6.7
+132. 6
+128.8
+
+1,510
+1,488
+1,4K3
+
+139, 2
+136.7
+135.7
+1t0.6
+109.6
+110. 3
+83.3
+80.8
+78.5
+68.4
+66. 3
+64.4
+
++16.6
+
+TEST
+
+NO.
+
+104.--Hgas,
+
+Claudd
+
+carburetor,
+
+hand
+
+adjusted,
+
+high
+
+compression
+
+(5.3:1).
+
+Horsepower
+
+Altit.ude.
+
+Temperature of
+carburetor
+air.
+
+Dynamometer
+scale
+- corrected
+for
+balance.
+
+Dyllamometer scale
+corrected
+
+correction.
+
+HeightBackin
+Cms. of
+H.eO.
+
+,ressure
+_, Scale
+Correction.
+
+l
+,
+
+for balance
+and hack
+pressure.
+
+'
+
+Rc',oltltions
+per
+lninllfe.
+
+at 1,500
+re_ olutions
+per minute
+at observed
+temperatures.
+
+i
+Feet.
+5,4_
+
+° C.
+--15.8
+--9.9
+--5.0
+--0.1
++6.2
+
+Pounds.
+296.5
+293.5
+287.5
+272.0
+285. 5
+
+0
+--33.0
+--32.0
+--34.0
+--20. O
+-- 7.5
+
+--1.3
+--1.2
+--1.3
+-0. 8
+--0.3
+
+,.
+
+!
+i
+t
+I
+
+I
+
+Pounds.
+295.3
+292.2
+286.2
+271.2
+285,2
+
+1,520
+1,525
+1,515
+1_507
+1,530
+
+147.6
+146.1
+143,1
+135.6
+142.6
+
+i
+
+i
+I
+i
+
+i
+i
+1
+
+EFFECT COMPRESSION
+OF
+TABLE
+
+¥,
+
+TESTS
+
+berg carbureb)r,
+X gas,
+altitude
+
+Te _lpcrature
+of carburc
+tot
+air.
+
+Nos.
+
+R,_kTIO_
+
+1 16
+
+AN D 1 17.
+
+hand
+adjusted,
+2,050feet.
+
+Dynamo:ueter
+s_a]e tea.dins%
+
+hlyh
+
+PRESSUP_
+
+-Two-inch
+compression
+
+C.
+5.0
+0.2
+5.2
+9. t
+FI5.3
+20.1
++40.2
+t 50.0
+4 15. I
+d I0.0
++ 34, 5
+q 30.0
++25.0
++20. I
++14.9
+
+PourzqS.
+32&0
+.226.3
+229.0
+326. 0
+323.13
+321.0
+212.2
+303. 5
+307. 0
+309.0
+3O8.2
+310. s
+314.0
+317.0
+31_.0
+
+TABLE
+
+(5.3:1),
+
+AND
+
+VI,
+
+buretor,
+15.3:l),
+
+Horsepower
+at I _00
+rove ]:tions
+per minute
+at
+observed
+temperatures.
+
+Revoh[tions
+per mtmlte,
+
+P
+°
+-+
++
+
+,groin.-
+
+TE_IPgRATURE_
+
+I
+I
+1, gO0
+1,800
+1,793
+1,799
+1, .g00
+I_ 795
+1, 79S
+1,806
+1,803
+1,800
+l, 810
+1,803
+1, 8CO
+1,813
+1,82_
+
+'.
+
+196. g
+195. g
+197.4
+195,6
+193. g
+192.6
+lg7.3
+182.(
+t84.2
+"185.-I
+lg4.9
+l,g6. 5
+tS_. 4
+190/2
+190.8
+
+TEST
+harm
+altitude
+
+ItUg[H)ITY
+
+NO.
+
+] 19.--7"wo-b_ch
+
+adjusted,
+1,950
+
+ON
+
+X
+
+.eT,
+as,
+
+POWER.
+
+Slromberg'carhbjh
+
+compression
+
+fl._ I.
+
+I
+
+I
+
+! Temperature
+! of carburetor
+air.
+t
+I
+
+J
+! Dynamomeier
+some readings.
+
+F
+
+° C.
+--15.5
+-- 9.9
+1,5
+0.7
++ 6. l
++10. 9
++17. 3
++21.7
++26.0
++32. 5
++38,6
++42. 0
++47.5
++52. g
++52.4
+
+PQ_lnds.
+3.27.3
+336.7
+335.3
+332.0
+329.0
+326.0
+321.0
+321.0
+318.0
+315._
+310.0
+3o8.5
+303.0
+302.5
+802. 5
+
+_-7
+
+Horsepower
+at l,S00
+revolutions
+per minute
+observed
+tc:,aperatures.
+
+Revolul:ions
+per minute.
+
+I,_10
+1,gO0
+1,gO6
+1,795
+1,797
+I,g15
+t,gt5
+I_820
+1,815
+
+I
+
+202.4
+292.0
+2_1.2
+199.2
+197.4
+195.6
+19t. 4
+i92.5
+190. g
+
+1,795
+l,SO0
+1,805
+1_800
+1,795
+1,797
+
+!
+l
+,
+'
+i
+
+189.0
+I35.
+1_6.02
+183.0
+lgi.5
+I_1.5
+
+I
+
+"
+
+at
+
+REPORT
+PART
+
+INFLUENCE
+
+No. 45.
+IV.
+
+OF WATER INJECTION
+By
+
+ON ENGINE
+
+PERFORMANCE2
+
+V. W. _BRINKEIqHOFF.
+
+R_SUM]_.
+
+A short investigation
+has been conducted
+at the Bureau of Standards
+to determine
+the
+effect of water injected into the intake manifold of an internal combustion
+engine.
+This investigation
+was carried out. on two different engines, truck and automobile, but the results in
+general are such as to apply also to airplane engines.
+The first series of tests was conducted
+to determine whether the use of water injected into
+the intake manifold has any effect on the horsepower
+output and fuel economy;
+the second
+series to determine
+the effect, upon the carbon deposit on the cylinder walls and piston heads.
+The data obtained indicate that in an engine of good design there is no appreciable
+gain in
+power or fuel economy due to the injection of water, but in a badly carbonized
+or a poorly
+designed engine, where hot spots due to improper cooling are present, a slight increase in power
+may result.
+If enough water be used, it will remove a small portion of the carbon but will
+cause at the same time a considerable
+reduction in the operating efficiency of the engine.
+The maximum amount of water used in these tests was limited to that which did not
+materially
+interfere
+with the normal
+operation
+or power output of the engine and the results do not indicate
+the value of much larger quantities
+of water as injected under special
+conditions solely as a carbon removing agent.
+INFLUENCE
+
+OF
+
+WATER
+
+INJECTION
+
+ON
+
+ENGINE
+
+PERFORMANCE.
+
+The object of this investigation
+has been to determine from dynamometer
+tests the effect
+of the injection of water into the intake manifold of an engine on the power output, fuel economy,
+carbonization,
+and general engine performance.
+It has been claimed by advocates
+of water
+injection into the intake manifold that the use of water in this way results in--(1) Increase of power.
+(2) Decrease in fuel consumption.
+(3) Decrease in carbon deposit on pistons, valves, and combustion
+chambers.
+The tests made at the Bureau of Standards,
+covering a period of some seven weeks, have
+been run primarily
+to meet the needs of the Inventions'
+Board of the War College, and the
+scope of this investigation
+was determined
+by a conference between members of the Inventions'
+Board and the st'lff of the Bureau of Standards.
+While no attempt has been made at an exhaustive study of the problem it. is thought that the data from these tests will answer in a
+general way the question of t.he effect of water injection upon engine performance_ _ Although
+the engines used were of the type employed in motor trucks and automobiles,
+the results are of
+such character as to apply in general to airplane engines.
+For use in these experiments
+the Inventions'
+Board provided, one of the War Department's
+standardized
+truck engines, class B. This engine was connected
+to a Sprague
+Electric Co.
+125-horsepower
+dynamometer,
+and provisions made for all auxiliary
+apparatus
+necessary
+to
+obtain the data recorded below.
+This engine is a 4-cylinder conventional
+design with a bore
+of 4.75 inches and stroke of 6 inches, giving a total piston displacement
+of 425 cubic inches.
+The intake manifold is of the "hot. spot" type.
+The clearance volume was found to average
+37 per cent of the swept volume, giving the very low compression ratio of 3.7.
+The average compression
+pressure as determined
+by an O'Kill indicator was found to be
+47.75 pounds per square inch at 100 revolutions
+per minute with jacket water at 55 ° C.
+This Report
+
+was confidentially
+
+circulated
+
+during
+
+the wur as Bureau
+
+of Slandard< Aeronantic
+
+Power ]'laots
+
+Report
+
+No, 34.
+29
+
+Preceding blank
+page
+
+3O
+
+A,_,'NUAL
+
+REPORT
+
+_ATIONAL
+
+ADV]SORY
+
+CO_f_fITTEE
+
+FOR
+
+AERON'AUTICS.
+
+The test data given on the accompanying
+log sheets were obtained
+as follows:
+The engine was first, warmed
+up to operating
+temperature
+and the carburetor
+adjusted
+to
+give maximum
+power
+at maximum
+speed and then power'runs
+made, using ordinary
+gasoline,
+with spark set. for maximllm
+power, all data being taken over a period of five minutes
+and averaged.
+Vv'ater was then admitted
+to the i_take
+manifold
+at a point about
+1.75 inches above
+carburetor
+throttle
+and the same data taken with the same spark settings,
+followed
+t)y another
+run with water, but with the spark advanced
+for maximum
+power.
+These runs were made over a
+speed range of from 400 to 1,200 revolutions
+per minute at in tervals of 200 revolutions
+per minute.
+The amount
+of water used dltring any run was determiD.ed
+by reading
+the difference
+in height of
+the water,
+at the beginning
+and end of the run, in a graduate
+cylinder
+of 1,000 co. capacity
+and
+observing
+time elapsed
+b_- means
+of a stop watch:
+The amount
+of water used was controlled
+by means
+of a glass stop cock in the line between
+the graduate
+cylb)der
+and the intake
+maJ_ifold.
+The preliminary
+and test runs No. 2 and No. 3 were made with q Zenith
+L6 carburetor
+fitted with 25 ram. choke, 1.15 ram. main jet, and 1.25 mm. compensator
+jet.
+Varying
+amounts
+of water were used throughout
+these runs.
+Itl test No. 4 a Stromberg
+M3 carburetor
+with 13-_inch choke and No. 52 (0.0635 inch) bleeder
+was substituted
+to permit
+of varying
+the gas air
+mixture
+r'_tio for each speed.
+This adjustmel_t
+was to give the lowest
+fuel consumption
+consistent
+with maximum
+power and to ot)t_dn ,q single setting
+with a rich mixture.
+Tests No. 5 and No. 6 are part throttle
+runs of constant
+torque
+and power
+in each case,
+simulating
+thc following
+road conditions:
+Ro,_d resistance,
+50 pounds
+per ton; truck
+speed,
+10
+miles per hour;
+gross weight,
+10 tons; diameter
+of wheels, 40 inches;
+gear ratio,
+9.5 :I.
+Iu test run No. 3 a metal plate withan
+asbestos
+gasket wasinserted
+between intake and exhaust
+manifold
+in order to ascertain
+any difference
+in operation
+due to a h)wer temperature
+of mixture.
+Commercial
+gas, fulfi!]ing Ul_ited States General Supply Committee
+Specifications
+for 1918, and
+Aeroplane
+B oil, a product
+of the Atlantic
+Rcfining
+Co., were used i1_all runs.
+Particular
+care h,:s
+been given throughout
+the tests to keep external
+conditions
+the same in so far as possible.
+To determine
+the influence
+of water
+injection
+upon
+the removal
+of carbon
+in an engine,
+a
+Rutenber
+6-cylinder,
+3 by 5 il_.eh engine was mounted
+upon a test stand
+and fitted with fan
+brake for providing
+a. load.
+A thermo-syphon
+system
+of cooling was used and provision
+made
+for determination
+of oil al_d water temperatures,
+revolutions
+per minute,
+oil, water,
+and gasolb'_e
+consumption.
+This e_ne
+was rur_ for several
+days with a very rich mixture
+setting,
+spark
+retarded,
+cooling
+water
+temperature
+as low as possibh;,
+and oil occasionally
+introduced
+into
+cylinders
+until
+the valves,
+piston
+heads,
+and combustion
+chambers
+were well covered
+with
+carbon.
+The engine was thelt run for .q period of six hours at wide-open
+throttle,
+with water
+injected
+into the i'ltake
+manifold,
+with outlet
+water at a constant
+temperature
+and as high as
+possible.
+At the end of this run the cylinder
+head was removed
+for inspection,
+l:t was found
+On this inspection
+that the water ha'd not made any appreciable
+effect upon the carbon
+deposit..
+This run was followed
+by others
+in which the amom_t ()f water ir_jectcd
+into the mal_ifold
+and
+the temperatures
+of the jacket inlet water were varied.
+The only data taken on these tests have been the rate of water i_jection,
+number
+of hours,
+and maximum
+temp=erature
+of outlet water.
+The total ._mount
+of water used was 27.5 gallons
+for a total of 23.75 hours and a temperature
+of outlet water from a minimum
+of 55 ° to a maximum of 90 ° C.
+The water
+rate varied
+from 2.4 pints
+per hour
+to 7.05 pints per hour, this
+maximum
+rate causing
+some reduction
+in the engine power.
+The following
+conclusions
+have been reached
+as a result
+of this investigation:
+(1) The injection
+of water varyi'ag
+in amotmt
+from 0.03 pound
+per brake
+horsepower
+tlo
+0.44 pound per brake horsepower
+per ho_u. does not produce
+any appreciable
+effect upon power,
+fuel economy,
+or operation
+in general.
+(2) Injection
+of water
+exceediJlg
+0.44 pound
+per brake horsepower
+per hour is accompanied
+by an appreciable
+decrease
+in power,
+fuel economy,
+and smoothness
+of operation.
+(3) It is quite probable
+that with an engine badly carbonized
+so that preignitio_l
+occurs, or
+with an engine of poor design, manifesting
+this in form of hot spots due to lack of proper cooling
+of _'alves, piston,
+or head of combustion
+chamber,
+the use of water will result in increased
+power.
+(,t) With
+a Rutenber
+6-cylinder
+;_ by 5 i_ch engine operating
+at a high-jacket
+water
+temperature
+the injection
+of water in amou,_tn between
+2 and 8 pounds per hour produced
+a softening
+and a slig|lt reduction
+of carbon,
+the reduction
+in the amount
+of carbon
+deposit,
+not exceeding
+
+EFFECT
+
+OF
+
+COS[PRESSION
+
+RATIO,
+
+PRESSITRE_
+
+TE_[PERATURE_
+
+AND
+
+HUM-IDITY
+
+O2__
+
+31
+
+POWER.
+
+25 per cent.
+This was most noticeable
+on piston
+heads and valves.
+At the same time, when
+using water
+at the maximum
+rate
+there was considerable
+reduction
+in the power of the engine.
+This deposit
+of carbon varies
+considerably
+in character,
+according
+as composed
+of (1) that due
+to.a very rich mixture,
+(2) that (|tie to an excess in use of lubricating
+oil, and (3) the above,
+with the addition
+of fine dust or dirt taken in through
+the carbureting
+system.
+Of these three
+types of carbon
+deposit
+the first is by far the most difficult
+to remove,
+and, in fact, it is found
+that water injection
+has little effect upon t_his kind of carbon.
+Preliminary
+
+Spark
+
+test,
+
+Class
+
+B engine,
+
+Ze_itlt
+
+L6
+
+carburetor.
+Jacket
+temp.,
+
+Tach
+
+"r'
+
+Brake
+
+SOOJC
+he_%lri, IE
+
+horse-
+
+Ratio
+
+Carh.
+air
+
+to gas.
+
+' _i_r th.h.p.,
+ater,73
+
+power.
+
+water
+°C.
+
+temp..
+ol_,,'
+
+Otl
+pressure
+rear
+ma|n
+bear.
+[ h. _er
+sq. In.
+
+Oil
+_llmp.
+crop.,
+oc.
+
+i per hr.
+water
+2:21..
+2. 35..
+2, 48..
+2. 59+.
+3.17..
+3.25..
+3.36..
+3.50 3. 58..
+I. 10..
+4.21..
+
+410
+414
+412
+620
+629
+622
+_19
+_25
+_26
+1,032
+Ii 0"29
+
+0
+O
+_. _
+8. 84
+8.8t
+I I. 30
+12. 42
+12. 42
+17. 10
+13.._0
+13.80
+
+1,7.8..
+4.36..
+447
+.
+,1, 55..
+
+_.
+
+ll'_:ter
+i
+I
+
+Tinle.
+
+Bait.
+
+..........
+......
+_....
+..........
+..........
+..........
+..........
+..........
+..........
+...........
+..........
+...........
+..........
+..........
+...........
+...........
+
+Test
+
+n_t#nb_w
+
+.....
+
+,7,
+
+Spark
+vance,
+--_
+
+Time.
+
+9. _
+9.._
+11.5
+i_.E
+1,_.(_
+22. ,_
+
+-
+
+!
+!
+
+24 S0 i
+_1 50 'k
+
+73.0
+
+i
+
+10.70
+
+33_i
+gl._i
+,t,t.._
+42..
+44.70
+
+14.02
+
+,}70
+
+test
+
+rlxn
+
+B..Xt.
+E.P.,
+lb. per
+sq. in.
+
+Brakl
+horse.
+power
+
+4_
+,111
+,tt6
+621
+616
+620
+
+24 0
+2 5
+21 5
+30 0
+3_ 0
+3C_0
+
+i
+'
+:
+*
+I
+
+_30
+1,032
+1,030
+1,034
+1,256
+1,244
+
+36.0
+
+i
+
+1,25o
+
+B
+
+16. 1
+16.5
+25, 4
+21. t
+25.0
+34. 3
+33.3
+34. I
+40.
+41.2
+41.7
+4.l. 25
+44.3
+,t,t. 3
+
+e_qine,
+
+ad-
+
+nu_nber
+
+I
+
+L6
+
+2l. S !
+30.4
+.'29.0 [
+29 0
+34.6
+3g. 6
+38.6
+
+O
+0. 129
+.129
+.17_
+
+I
+
+.1151
+
+Taeh_"
+rca(_-
+
+ii_i
+
+•
+
+i_ i
+
+501
+B engine,
+
+I
+]
+]
+I
+
+15.0
+22.0
+22.0
+28.5
+275
+
+121
+618
+622
+622
+832
+
+16.7
+25 2
+2'! 9
+25 2
+34.7
+
+73.9
+75 g
+74 5
+75 6
+77.7
+
+I
+_
+I
+
+I
+
+I
+
+27 5
+30.0
+31.0
+31 0
+36.0
+36.0
+_3.0
+
+834
+832
+1,040
+I_046
+1,034
+1,254
+1,246
+
+31. 9
+34.7
+41.7
+42.3
+,11 _q
+43.5
+43.6
+
+7_. 0
+77.7
+74. g
+75.2
+75 2
+61._
+65,3
+
+36.0
+
+1,25O
+
+43. 7
+
+65. 1 i
+
+he first
+injected
+power.
+
+I
+',
+;
+!i
+i
+
+I-I. I0
+19.10
+19.20
+10 80
+24.30
+25. _q0[
+2.5.60
+2t. 70
+25.00
+25.30
+32.00
+31._
+31.10
+
+rlm in each group
+1111o !he ll)ixtllre_
+
+i
+'
+I
+'_
+'
+I
+
+O. 1O
+. I6
+.16
+.22
+22
+.22
+43
+43
+
+10
+10
+10
+11
+il
+
+{
+i
+_
+I
+',
+
+68
+.6_
+.68
+9,_
+.98
+
+55f
+
+'
+
+[
+C rb.
+i
+a'
+lr
+I_ t(,mp.,
+
+"
+
+[
+!
+
+62.0
+
+34.0
+
+45, 0
+43.0
+47.0
+47. g
+4_. 0
+49.0
+49.0
+49.0
+46.5
+49.5
+49.0
+50.0
+
+[
+[
+[
+[
+I
+
+61. O
+62.0
+62.0
+61.5
+62. 0
+64.0
+62.5
+62.0
+63.0
+63.0
+62.0
+62.0
+
+34.0
+3-t.0
+35.0
+36.5
+36. 0
+36.0
+3,q.0
+36.5
+36.5
+37.0
+30.0
+38.5
+
+61. (}
+61.0
+
+3g. 5
+38.0
+
+!'--_-'
+
+togas,
+
+g
+
+Oil
+sump.
+temp.
+aC. _
+
+4_.0
+49.9
+49.0
+50.5
+50.5
+
+i hilet.
+
+Outlet.
+
+0!
+:_ t o. 470 i
+
+:t_!
+
+61
+
+6. 13
+o
+
+. g,5
+.77
+
+.435
+o
+
+46
+4s
+
+61
+62
+
+3.93
+
+1
+0
+I tO ]
+4 24
+
+79 i
+,70
+74
+74 ]
+
+.1
+
+:50'
+
+" o '
+
+4, [
+4_
+_ 49
+,18
+
+62
+62
+62
+6q
+
+322
+]
+,1 48
+O]
+492
+4:82 ',
+
+59 ]
+61
+2741
+73 i
+'71 ]
+
+, !29
+177
+" -0
+1o4
+:155
+
+I
+
+49 I
+49 [
+7_',
+50
+50
+
+62
+62
+62
+6o
+62
+
+I
+
+I
+
+I
+
+Oil
+pressllre,
+rear
+main
+bear._
+b. pe
+_q. m
+
+CD.O
+63.6
+66.0
+69.0
+70. 5
+72. 5
+75.5
+
+5,0
+5.0
+5.0
+7.5
+7+5
+7.5
+9.2
+_.0
+7,5
+9.75
+9.0
+S. 5
+1]. 5.
+11.0
+19. 0
+
+irtlake
+
+57:5
+
+jacket,
+
+I
+
+9!
+
+_2 l
+
+bettt,'cen
+
+inserted
+
+I temp', °c"
+Ratio
+water
+
+27
+
+i
+
+(asbestos-li_ted)
+
+i
+
+eerier.'
+
+7
+7
+7
+9
+9
+S
+I0
+9
+
+4._
+
+lO _,
+
+.95 "
+
+carburetor.
+
+°C.
+
+O
+
+.575
+.563i
+
+Water,
+i .Gas,
+i
+li, per i _7"tPer t
+
+z5
+
+42
+45
+45
+_46
+48 I
+49
+5O [
+54
+59
+62
+64 I
+66 I
+70 ]
+
+25
+25
+25
+
+g]
+
+50. 5
+50.5
+
+,75
+.77
+
+el
+73:
+_
+
+t
+
+o [ 45.5
+O. t,_
+.4291
+0
+,365
+.572
+0
+,147
+.167
+0
+,396
+=_379
+0
+
+l)lt_te
+
+L6
+jacket
+
+I temp.
+[
+I....
+
+Water
+
+I
+
+62
+62
+62
+62
+62
+62
+
+23
+
+Zenith
+
+.7_
+._
+.76
+._q0
+.76
+.72
+.76
+.71
+.75
+.72
+.7,_
+._3
+
+mx'tal
+made,fold,
+
+13295 6.15
+
+.I121 1£3
+
+NOTE.
+In the aboee
+table
+second
+run was made with waler
+the spark
+adjusted
+for maximum
+
+[
+
+45 I
+,t0 [
+47 t
+47 I,
+47 I
+•18 I
+18 !
+
+i;l at
+
+7
+
+5.2'7
+
+19. 05 I
+19._
+]
+
+hr.
+
+0ntlct
+
+o_
+°'11 _14_'621
+
+0
+
+I
+
+132
+o
+
+2.34
+2.41
+2.50
+301
+3.08
+3.17
+
+.73
+.66
+
+i
+
+Class
+
+6, 03
+5.96
+o
+11.92
+10.03
+0
+11.3S
+ll.3g
+0
+11.381
+il.47
+0
+
+earburetor,
+
+] B :d
+_
+i trek. _, E" P '
+,, "
+Gas,
+i horseI lb] her i lh. per
+
+1.32 --777 .o
+i
+,
+!
+
+O
+3.75
+
+o I o._
+12. 58
+13. 88
+19. 28
+19. 52
+19.10
+24. _5
+25. 5O
+21. 45
+30. 45
+29. 30
+30. 30
+_.90
+,33.15
+3,1.10
+
+_fag.r.'_g_,, °wer"
+P
+i sq._u, he,
+
+12.4
+19.2
+19.2
+2t.S
+24.8
+
+._2
+.s4
+.S,t
+
+i
+
+2,
+
+"
+
+1.50
+2,00
+2,0g
+2.16
+2.26
+
+o _'
+2._ol
+2.50
+
+........
+
+I
+t
+.
+Gas,
+V/atcr
+[..
+I Batio
+1b per ' -m _ per
+water
+hr
+l>. n:p. ] to gas.
+
+h. per
+hr.
+
+75. 0
+73.0
+74.0
+76. 3
+74.0
+75. 2
+77. 5
+75.7
+7R. 2
+71.0
+74. 5
+75. 0
+65. R
+66. 5
+66.2
+
+Ze_tith
+
+!
+
+<2
+
+Ne._g. 't
+.00
+2. ,_L_ .......
+
+-'9.40'
+_o. 5o'
+22,00 '
+33.00'
+
+75.3i
+73s
+67,4
+65.2
+
+1
+i
+i
+
+i_i.]ectio_i
+
+22.oi _
+22.0 !
+
+Class
+
+I
+
+3.3(}3"25 40. S
+
+75.5
+73.3
+
+r.p.m.
+
+degrees
+,
+
+.att.
+
+1.41
+
+71.6',i5:_'!
+6o.6' 9.4oi
+69.6 '
+9.50
+
+69.9
+C_.3
+
+Inlet.
+
+__t ,_..t...__._
+0
+0,81
+
+Water
+
+,fag.
+
+4. 1
+4.1
+9. 7
+12. ,t
+12..I
+, 1,q. 0
+] 1_.4
+i 1_.4
+19.3
+i 1_.0
+15.0
+i 23. 5
+: 33.2
+33. 2
+36.6
+
+'
+
+40.
+40.
+
+Tach.
+readIng,
+
+i
+i
+
+1.05
+1.14
+1.24
+1.34
+1.44
+1,52
+2.01
+2.10
+2.I_
+2.29
+2.37
+2.,t6
+2.55
+3.04
+3.t2
+
+Spark
+adv311ge_
+de_eos.
+
+i'
+
+69.9
+
+i -[
+
+15.38
+15. 54
+15.13
+23.87
+23,15
+23.23
+32.80 1
+32.451
+
+112.5
+110.0
+115.5
+112.0
+112.0
+121.5
+118.0
+123.0
+117.5
+llg. 75
+121.25
+10_.50
+105.00
+10_.90
+
+l 026
+1,1' 27238
+2
+1,2.I0
+
+24: g_
+
+iI__
+"
+12.40
+
+Pressllre
+drop
+int aki_
+manifold,
+lb. ]per
+sq. in.
+
+Oil
+Iresarb.
+_ir t
+mp.,
+°C,
+
+Oil,
+Sllmp.
+temp.,
+°C.
+
+36.5
+38. 0
+38. O
+38. 0
+39.0
+
+59
+59
+57
+57
+57
+
+,39.
+38. O
+0
+38. O
+38.0
+38. 0
+38. O
+38. O
+40. 0
+40. O
+40.0
+
+58
+59
+60
+61
+63
+66
+68
+70
+74
+76
+
+ilre,
+_ear
+gain
+ear.,
+] i. OCl
++_ t. tn.
+_
+i
+!
+i
+
+5
+5
+5
+8
+8
+
+Scale
+beam,
+iotmds.
+
+0.13
+.13
+,13
+• 25
+• 25
+.25
+• 38
+.3_
+.38
+.74
+.7,t
+• 7,t
+.95
+.95
+
+120. ,50
+117. 70
+119. 35
+122. _5
+I19. C0
+121. {)9
+124.60
+121.75
+125. 75
+118. ,_5
+119. 75
+120,80
+106, 75
+107. CO
+106. 5O
+
+and
+
+Pres-
+
+I
+
+It
+,
+
+"Pres sllre
+drop
+intake
+manifold,
+lbs. per
+sq, m.
+
+csqla_xst
+
+I
+
+sure, I Scale
+drop
+intake
+l
+man}] beam,
+fold,
+)ounds.
+lb. Der
+sq.m.
+.13
+,13
+.i3
+,22
+.22
+.22
+.43
+.43
+.43
+.68
+.68
+.68 _
+1.02 I
+1.02 !
+1.02 i
+
+121.50
+11_.5o
+119.00
+122. O0
+120. O0
+121.75
+1P.5. OO
+125..50
+125.00
+12,5.50
+121.00
+121. OO
+104.00
+105.00
+104.75
+
+I
+
+" 0'
+
+]
+
+,5 +
+0
+[
+176 t
+165
+
+!
+:
+
+4,_
+
+6_
+
+of three
+rims was made x_.'iih gesolinc
+o1"] 3" and
+nsl13g lhe silmc spark 8elliI_g as on the first rltD.
+
+I
+i
+
+180
+9 I
+9
+10
+I0
+10
+12
+11
+lI
+
+Sl)i,rk set ft;r n a._ln;i]m
+t_cxx'er.
+TI:o third xv0s n:ade
+v+ith water
+
+Tile
+arid
+
+32
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+CO_IS[ITTEE
+
+:FOR
+
+AERONAUTICS.
+
+Test number 4, Class B _ngine, Stromberg M8 carburetor.
+
+1_ o+l+.+,t,.t,o
+
+3rake
+lOtS C_
+lower.
+
+E: P.:
+b. per
+
+,ya.%
+l°i, per
+
+;% in,
+
+t)yacer,
+l°i, per
+
+"'"
+
+]
+
+lb. per I lb. per
+I b. h.p.b.h.p,
+
+_"_
+
+per
+
+hr.
+
+Scale
+I
+beam
+1
+poundsA
+' Inlet.
+
+1 water
+to
+
+per hr.
+
+Oil
+
+°C.
+
+;arb.
+air
+
+421
+417
+419
+620
+622
+i
+615
+]
+828
+I
+&30
+I
+826
+I 1,634
+l L 042
+_ 1,038
+I 1,246
+1,238
+
+1,18
+
+iill!iiii
+ii! ii
+ii
+
+1,232
+
+I
+J
+
+622
+_2
+1,036
+
+'o
+
+:_
+
+121.6
+125.1
+124.6_
+124.4
+12,_ 3
+12_,0]
+127.8
+119.4
+110.8
+119 A
+156.9
+107 0
+106.01
+
+" _i _ " o
+
+_.5i4450 3.57 101 .0811 .0_
+_.8, 4!.30 3.52 ._ ._8] •fi,_
+WITIt
+
+3.11
+3.27
+3.39
+
+1 ]
+
+I_0:3i 47.(1
+46.5
+
+56:51 42:_o
+
+25.70
+35,4(]
+41.50
+
+77,2
+79,5
+74.9
+
+CARBURETOR
+
+21.50
+29,70
+39.30
+
+!
+
+SETTING
+
+2.6,1
+3.02
+3.33
+
+I
+
+.
+
+I 1,2,.i 86 074; 500 370
+4
+3
+
+_OTE.--hl
+the first part of the
+power.
+The second
+run was made
+with water
+and the _park adjusted
+
+above
+table
+wilh
+water
+for ma_mum
+Test
+
+MAXI_I('M
+
+124,1
+127.6
+12(].2
+
+run in each group
+into Ihe mixture,
+
+5,
+
+Class
+
+B
+
+engine,
+
+reading,
+r.p.m.
+
+1rake
+lorse,ower.
+
+sq.
+
+In,
+
+! hr
+
+hr.
+
+409
+405
+411
+642
+650
+662
+834
+_32
+784
+1_562
+1,038
+1, fi34
+1_ 230
+1_ 176
+1 224
+
+!
+:
+I
+
+!
+
+6.81
+6.75
+6. Y5
+19, 7(]
+10.82
+11. (15
+13.90
+13. gR
+13.0S
+17.70
+17,3(]
+17.25
+20.50
+19.00
+20.40
+
+31.10
+
+0
+
+IO.O
+5.16
+4.94
+
+I 122o
+I
+
+:
+'_
+
+o
+3.21
+3.19
+
+lfl.9
+
+I/ i2°o
+115.o
+
+0
+7.54
+7, 72
+
+_ 15,o
+
+II
++I
+
+21,0
+18.0
+1_,.0
+
+3.210
+3.17
+0
+,% 55
+s, 05
+
+]l i8.o
+!1 15.0
+(
+
+l
+
+Taeh.
+
+Time'
+
+2.28
+2, 37
+2, 45
+2.56
+3.03
+3.11
+3.18
+3.28
+3.35 '
+3.45
+3.52
+
+r
+
+Brake
+
+1
+
++"
+g_
+
+i !horseower
+
+B.M.
+E _
+
+" Gas,
++
+
+number
+
+'
+
+,764
+.720
+fi
+.296
+
+.57
+.55
+
+I O_
+
+2_°
+
+•20
+
+I. 08
+115
+1 I9
+1+04
+I+04
+•S76
++765
+•8_1
+
+• 543
+.591
+0
+.1,_5
+.Ig-t
+0
+. t30
+. .124
+
+.50
+.51
+
+6,
+
+50,0
+
+" ".
+
+! _
+, o
+
+,17
+.17
+
+884
+1,03,t
+L008
+1,242
+1,198
+
+63.3]
+41,5
+415
+31 " 1
+31+1
+24.9
+24+0
+20.8
+
+I
+
+105_
+
+2106
+
+20_[ 41.25
+37.001
+
+37.00
+37.00
+
+8.0 [
+10 0 ;
+t0.0 !
+
+.56
+1.00
+1.50
+
+2t.00
+26.00
+31.00
+
+Gas,
+_,Val mr, Ratio
+lb per
+lb. per _ water
+b.h.p.b.h.p,
+to
+per hr.
+per hr,
+gas.
+
+20.8
+
+17 05
+
+7 72
+
+S.O ]
+8.0
+
+62.5
+
+14.60 _"
+! 21. I0
+! 21 40
+_ 24 " 10
+] 23+80
+i 24.50
+24.40
+27.20
+
+7:80
+
+t
+
+25.10
+
+5. 47
+0
+8.30
+0
+6 70
+8.40
+
+1.48
+
+.370
+
+i.62
+1.62
+
+,565 t
+0
+
+"34O8
+
+I. 81
+1.78
+1.97
+
+.49 i
+
+,274
+
+1. _J i
+
+.638
+
+.338
+
+1.48
+
+1._I
+
+i
+
+.25
+
+!
+
+0
+
+©
+
+33.00_ 37.00
+37.00
+1
+37.00
+
+.
+.,
+27,_v_
+
+s.o t
+
+Spark
+
+advance
+
+__
+
+in____. ___
+_
+5.8
+5.6
+
+5.86!
+
+15.00
+15.00
+31.00
+26. O0
+26, 00
+36.00
+
+5.1
+
+21.00
+
+5.5
+5.6
+5.6
+5.3
+
+10.0
+ll.0
+
+5.1
+4.5
+
+1o.5I
+
+I
+I
+
+10.0
+10.0
+11.0
+10.6
+
+4.5
+5,2
+4.8
+4.8
+
+16.00
+16.00
+3_.00
+27.00
+27. flO
+36.6_
+
+l
+I
+
+4.9
+
+t
+
+62.5
+63.0
+
+M3
+
+--_
+
+only and
+first run.
+
+spark
+The
+
+set for maximum
+third
+was made
+
+power.
+with waler
+
+The
+and
+
+carburetor•
+
+.....
+I
+
+II0
+38.5
+38.5
+-t0,0
+40.0
+40.5
+40.5
+52.0
+52.0
+53.0
+54.0
+
+35.00
+35.00
+
+_re
+[
+degrees.
+drop
+[
+intake
+manifold.,
+Mag.
+per
+Batt.
+
+10.0
+IO.(] I
+10.0 I
+II,O I
+
+63.0
+
+Stromberg
+
+100.00
+100.00
+100, 00
+66.66
+66.66
+50.00
+5(*. 00
+40,00
+40.00
+33.33
+33.33
+
+31.00
+
+3o.251
+39.25 I
+
+i
+! Pres-
+
+Oil
+
+520 62, 5
+63o
+
+Scale
+beam
+pomlds
+
+27.50(
+
+t 30.251 32.00
+
+120 2 ,j 33.00
+i
+
+Oil
+Car.
+air
+
+Oil
+_mp,
+
+Pres-
+
+i prcssure
+rear
+
+sure
+drop
+intake-
+
+! main
+I manibear.,
+fold.,
+lb. per I lb. per
+
+ten_p.,
+i Omk4,
+
+' sq.
+
+13.701
+14.25
+14 45
+"
+14,_* " ]
+1,1.70
+t3._)
+I
+13.45
+13. Y41
+13.30
+
+2.06
+
+!
+
+pres-I
+sure
+,
+rear
+[
+main
+[
+be,_r.,
+lb. perllb,
+
+of three runs was made
+with gasoline
+u_ing thc same spark
+setting
+a_ on the
+
+engine,
+
+17:
+20.00
+
+_a_otino
+only and spark set for manlmum
+_s on ihe fir:4 run.
+The third
+was made
+
+55.0
+54.0
+51.0
+57.0
+59.0
+59.0
+
+52+ fi
+52.fi
+
+i
+I
+
+10.0
+
+52, o
+
+I
+
+11:00
+13.75
+
+100:'.
+10.5
+
+51:_ 6t.5
+_3+o
+
+i
+
+ag.
+
+1
+
+1.00v
+1.00
+1,56I
+1.56 I
+
+3901
+
+utlet,
+
+51.0
+
+.22
+. 20
+
+B
+
+M'
+
+i0.0]
+9.5 ]
+100.
+l0 fi '.
+
+_ 52 0
+i 56.0
+61.0
+
+water
+
+51.0
+
+.29
+
+1 .,ol -! t7.251
+o
+o
+62 3 _
+
+:31
+,31
+
+10,5
+
+('lass
+
+]
+_Jmtt.
+
+carburetor.
+
+,t2.0
+41,0
+39.5
+46,0
+,17.0
+47.0
+
+hflet,
+
+t3 40
+412
+6t3
+651
+892
+
+37.fi
+38.0
+39.0
+
+i
+!
+
+in__ I sq.
+
+1.33
+1.31
+1.12
+1.01
+
+[
+
+t
+
+10.0 t .58 I 92.00 " 26.00
+i
+9.0 ._ I 22.50 [ 26.00
+I 56 !
+S.5 _
+24.75 I
+27.00
+10.o : l:00) 27.501 al.OO
+
+sq.
+
+--OI
+
+_
+I
+P
+',
+
+S:0
+7.5
+
+advance,
+
+degrees.
+_____
+
+SPEED.
+
+Jacket
+water
+[emp,,
+°C.
+
+%Vater,
+
+"_" t_'"
+t_" _,_I i lb, hrpeJ
+" sq. m
+
+62,5
+03,5
+(i3.0
+
+EACIt
+
+i per hr.__ .... g_,
+
+rtm in each group
+int*) the mixture
+
+Test
+
+ll. 9
+41.5
+43.5
+45.5
+47.5
+49.5
+51,5
+55.0
+57.5
+61.0
+(')4.5
+66, 5
+7N. 5
+73.5
+75.5
+
+)01In(Is.;
+
+1.47
+
+18.0
+
+NOTE.--In
+the above
+table the first
+second
+run was made with water
+injected
+the spark
+adjusted
+for maximum
+power.
+
+AT
+
+M8
+
+alet,
+per hr.
+
+10.26
+10.34
+10.45
+I0.50
+11,04
+11,12
+II,20
+"11..'27
+ii.36
+11.45
+11.55
+12. ['_3
+12. t3
+12.21
+12.28
+
+47.0
+_ 5(].0
+' _).0
+
+Jacket
+
+N
+
+Time.
+
+POWER
+
+Stromberg
+
+I
+(:as,
+iWater,]
+Rath
+lb. per
+lb. per I wate:
+b. h. p. i b. h.p.I
+to
+
+B M
+[Water,
+. .
+Gast
+EP,_ .
+'
+,j _. _]b. per I lb. per
+
+33_6 I
+34.0 [
+31.5 "
+34.5
+35.0
+3t.0
+35.0
+36.0"
+35.5
+36.0
+36. fl
+37. fl
+36.5
+37.0
+
+of three runs was made wiih
+u_ing the same
+spark
+setting
+
+I
+I Tach.
+
+4@0
+48,5
+48.5
+I .t9.0
+! 49.0
+49.5
+] 50.0
+_ 50.0
+I 5{),0
+' 3N.O
+i 51.0
+51.0
+510
+
+I
+
+,123
+.102
+.I1(]
+
+'
+
+62.5
+62.5
+62.0
+62.0
+62.0
+63.0
+c_o
+63.0
+63.0
+63.0
+62.5
+62,0
+fi2.0
+62.0
+62.0
+
+/
+i
+
+0 9+ 10, 1081,
+1
+5°°
+
+the first
+injccted
+power.
+
+number
+
+FOR
+
+.1025
+.0g5
+.0R0
+
+:
+
+Spark
+[
+
+s+in 1
+Is+i°
+
+I°0
+
+16.90
+16.70
+17.00
+25.90
+25.
+25.60
+_5.40
+35.40
+35.20
+41,20
+41.60
+41.50
+44.40
+44.20
+43.40
+
+sure
+i drop
+_ intake
+mantfold.,
+!lb. per
+
+ii+
++
+
+atlet
+
+g_.
+
+i
+11.11
+11.20
+11.29
+11.40
+1I. 49
+11.57
+12.06
+12.15
+12.23
+12.35
+12.44
+12.52
+1,63
+1.12
+
+] 011
+_ amp,
+
+_mp.,I '
+
+Pres-
+
+pressure
+rear
+main
+bear.,'
+lb. per
+
+_J
+
+Tach.
+readIng,
+r. p• m.
+
+Time.
+
+water
+
+temp.,
+
+_
+
+Iacket
+
+_.5
+51.5
+_.5
+51.0
+505
+4915
+49.5
+61.5
+01.0
+61.0
+61.0
+
+20.5
+20,0
+20+0
+20.0
+2ft. 0
+20.0
+20.0
+20.0
+20.0
+21.0
+21,0
+
+36, 5
+3_. 5
+40.0
+40.0
+40,0
+40.0
+40.5
+42.0
+43, 5
+45.5
+4_.5
+
+in,
+5.0
+5.0
+5.01
+5.0
+5.0
+5.0
+5.0
+6.0
+6.0
+7.0[
+7.0[
+
+Spark
+
+advance,
+
+degrees.
+-I
+I
+
+B
+
+t"
+a t.
+
+I
+[
+I
+[
+I
+I
+
+19.2
+19,2
+33•0
+41.3
+41.3
+,11,3
+41.3
+41.3
+41.3
+41.3
+,11.3
+
+Ma
+g.
+
+sq.m.
+
+I
+]
+[
+I
+[
+[
+
+2,7
+2,7
+2.7
+3.6
+3.6
+3.6
+3.5
+3.4
+3.4
+3.4I
+3.5
+
+I
+!
+
+15,0
+15.0
+2_,0
+36.fi
+36.0
+36.0
+36.(]
+36,0
+36.0
+36.0
+36.0
+

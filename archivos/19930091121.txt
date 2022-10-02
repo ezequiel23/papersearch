@@ -1,0 +1,647 @@
++..
+
+~
+%’
+
+. ...’...
+.
+.
+
+.. ..~
+. .
+
+-.
+
+,< .-..:,
+.,.
+,
+.:.
+.J1
+!“#F’+,
+..
+
+REPORT No: 59 .
+
+.
+
+GENERAL ~ALYSIS
+
+OF AIRPLANE RADIATOR
+‘.
+PROBLEMS “.
+
+.
+q
+
+.
+
+v“
+
+NATIONAL ADVISORY .CONIMITTEE
+I?OR AERONAUTICS
+
+-
+
+,
+
+.,.
+
+. ‘
+
+.
+
+PIWPIMNT FE031 FIFTQ ANNUL REPORT
+
+-
+
+..
+
+i etur}kd IO
+
+%%
+
+h: iik of theLw-yg!ey
+Memorial Aeron3@icai
+
+.
+
+Laboratory
+
+“ WkNiTNGTON
+GOVERNMENT PRINTING OFFICE
+1919.
+
+.
+
+.
+
+.
+
+. .
+
+.
+
+.
+- 3/s3
+3
+
+.
+
+REPORT Noo 59
+
+\
+
+GENERAL ANALYSIS OF AIRPLANE RADIATOR
+PROBLEMS
+
+.
+
+~
+
+v
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+.
+
+PREPRINT FROM FIl?l’H ANNUALREPORT
+
+v’
+
+.
+.
+
+WASHINGTGN
+
+GOVERNMENT PRINTING
+191s
+
+OFFICE
+
+-...—
+
+,
+
+.
+
+.. .
+
+q
+
+REPORT No. 59
+.
+.
+
+GENERAL ANALYSIS OF AIRPJ-ANE RADIATOR PROBLEMS
+By H. C. DICKINSON, W. S. JAMES and, R. V. KLEINSCHMIDT.
+
+-
+
+3
+
+.
+
+.—
+
+.
+
+REPORT NO. 59.
+GENERAL ANALYSIS OF AIRPLANE RADIATOR PROBLEMS.
+-.
+
+By H. 0. DICKINSON, W. S. JAMES and R. V. KLEINSOHMIDT.
+
+The objects of this report are (1) to present the analysis of the problem on which the experimental work conducted at the Bureau of Standards is based, (2) to explain the technical terms
+used in the work, and (3) to show the relations between the various parts of the work which
+are dealt with in detail in other reports.
+The function of a radiator is to dissipate heat, but while doing so, it will “have cert~
+adverse effects on the plane on -which it is mounted.
+First, it will add to the weight; second,
+the conditions for obtaining the best transfer of heat from the metal surface to the air require
+that the air shall flow rapidIy past the surface, and this condition causes head resistance:
+t bird, certain positions of mounting on the plane seriously obstruct the tievr of the pilot or
+observer.
+A fourth factor of special importance in military airplanes is vulnerability
+and
+liability to injury, either from accident or from enemy bullets.
+The last two factors, not
+being capable of measurement, have not been considered in this investigation.
+
+—.
+
+—
+
+—
+
+—
+
+STATEMENT OF THE PROBLEM.
+The problem of chxign therefore becomes one of determining the type of structure, and
+the location on the plane, that shall give the radiator the cooling capacity required for the
+engine with which it is to be used, and at the same time shall result in a minimum ad-wrse
+The adveree effects due to weight and head rmistance will be represented
+effect on the plane.
+by the power absorbed in lifting and sustaining the weight and in overcoming the head resistance, and the fundamental
+criterion for an airplane radiator will be that its absorption of
+power shall be low, when it is of such size as to dissipate the required amount of heat.
+It is necessary to state with som’e care what is meant by “power absorbed chargeable to
+If it were possible to build and operate a plane without any radiator (or other
+the radiator.”
+construction
+to perform its function), a certain amount of power would be required ta dri~e
+But the addition of the radiator may necessitate
+the plane through the air at a given speed.
+alterations in structure (such as the substitution
+of a flat-nose radiator for a stream-line nose
+or the enlargement of the fuselage iii order to accommodate the radiator required), which will
+make the resistance of the plane greater than in the former case; and the radiator itself will
+add ta the weight of the plane and will offer resistance to passage through the air. The difference between the power required to drive the plane as equipped with the radiator and that
+required to drive it at the same speed when designed without a radiator is the power absorbed
+It includes power absorbed due to (1) weight of the radiator;
+chargeable to the radiator.
+(2) pr=sure difkrence producing flow of air through the radiator (i. e., the head resistance of
+the core); (3) any increase in the resistance of the fuselage or other parts of the plane caused
+by changes in the condition of air flow around the parts, or by changes in the structure necessitated by the radiator;” (4) pre+isure necessary to produce water flow through the radiator.
+Items (2) and ~(3) together constitute the head resistance chargeable to the radiator, as distinguished from the head rwistance of the core. In the case of a nose radiator there is not only a
+change in the condition of air flow due to the air which passes into the fuselage and out through
+the 10UTCFSS, also a change in form of the fuselage, due to the flat (and sometimes enlarged)
+but
+nose required to accommodate the radiator,
+5
+144564-19---2
+
+,
+
+-.
+—
+
+.
+
+-.
+
+—
+
+,.
+
+.
+
+6
+
+ANNUAL
+
+RJJPORTNATIONAL
+
+ADVISORY COMMITTEE
+
+E(JR AERONAUTICS.
+
+.
+
+—-. .
+
+..
+
+TKREE METHODS OF ATTACK.
+
+b
+
+There are three ways in which the problem maybe attacked, namely:
+I. A study of comple@ radiatnrs on planes.
+‘ --2. A study of types of radiator core and the. metF{@ of ge&ralizing results to obtain the
+properties of complete radiators.
+-.
+plates. 3. A study of the properties of s@ie tubes; c~,-or
+The first of these has been the basis of cuband-try
+methods of detwmining whether a
+radiator will cool or not, but it has not been possible @consider the ad~erse eflect on the plane
+by this method, except roughly.
+Weight is the only factor that can easily be measured, and
+it is found that in determining g the power absorbed, weight may be of but small importance in
+AJ#ough it might be possible ta ~ork o~t a method whereby
+comparison with head resistance.
+complete data could be obtained from teeb in fligh~he
+expense and dMculty of making the
+necessary large number of tests on planes & so great tb at a simpler method has been chosen,
+which will allow a large number of types of core to b-e‘testi-d under wi&ly varying” concIiiio&of use.
+The ‘study of types of core has therefore been sslected as the bwis of the experimental
+work, to be supplemented by such work on complete radiators in planes SE”
+may be required to
+veMfy the conclusions reached, md fwn&h needed da~~ -on thg eflect of locat ion on perfom”ance.
+It has also been found advisable f@h~r to simplify certain portions of ‘the work by studi& on
+single tubes and plates.
+The object of a laboratory study of types of core& to deterinine:
+1. The structual
+charactmtics
+.of the core whia deteqqipe \@perhrwwQ
+~ mY .Pf&
+titular case, and the effect of these characteristics on pmformance.
+2. The properties, or behavior, of the core when subjected twwmious conditions of use.
+3. The conditions under which the core will operate when it is a portion of a radiator in”
+any particular location on a plane.
+..
+
+—.
+
+-. .—
+
+.—
+‘- ““” “–
+___ ..~..
+.
+----
+
+STRUCTURALCHARACTERISTICS A CORE.
+OF
+
+.
+
+.
+
+The characteristic
+of a core which determine it.+ behavior under given conditions of use
+have been taken to b.e:
+1. Form and dimensions of air and wa& passag&.
+2. Depth of the core (measured in the direction Qf.the air flow).
+3. Kind and thickness of metal.
+--4. The portion of the frontal area which is open to allow “the passa~e of air though the..core, called ‘{frw area of the air tub~.”
+5. Extent and nature of cooling surface.
+~
+As an example of the way in which these factors tiuence
+&e performance of the core, the
+As the depth of a core is .igcreased thg effectiveness of the cooling
+following may be noted.
+surface decreases owing to the rise in the temperature of the air as it passss through the air
+tubes, and the consequent dewease in temperature diilerence between the surface and the air.
+At the same time the amount of air that will flow t~ough a tube decreases as the depth increases,
+ten&ng further to reduce the cooling per unit surface,
+On the other hand, the total. amo~nt of
+cooling surface per unit of frontal area is increased, and at a much smaller cost in head resistance
+than would be the case if the frontal area were incrme.ed.
+Many of the effects of Structural
+characteristics
+are governed by well-established
+laws so that a mathematical
+thecwy can be
+developed to predict their magnitude.
+
+. ...-. . ..
+-—
+. .. .. . ,.
+.-, ..
+
+.
+
+,,= _ ~_
+
+.
+
+~-= ““:’
+. .. ..__
+
+.
+._.
+
+.._
+
+PROPERTIES EXPRESSING THE BEEAVIOR OF A CORE.
+The properties of a core which ex~ress its perfo~ance
+are the following:
+1. Energy dwvipated (heat transfer or cooling capacity) .--Since heat ‘may be expressed in
+It has been
+units of work, the rate of dissipation of heat may be exmwssed in unite of power.
+expressed iQ horsepower per square foot of frontal area, at any given air speed, for the con-
+
+.-
+
+GENEFWC ANALYSIS
+
+OF AIRPLANE
+
+RADIATOR PROBLEMS.
+
+‘7
+
+ditions of turbulent water flow and a temperature diilerence of 100° F. between the water and
+air, as detied below.
+2. ‘iVeigMof the core, and of the water contained, are important
+properties, being directly
+involved in the computation of horsepower absorbed.
+3. I&d resistance qfthe core, the force required to push it through the air, must be distinguished from head resistance chargeable to the radiator (defined above), which is the part of
+the over-all resistance of the pkme caused by the radiator and any rnodiiications of structure
+that the radiator may make riecessary.
+4. Mzssjfow constant. —It is found for all ordinary types of core that, when supported in a
+free air stream, the amount of air that passEs through the core is proportional
+to the free air
+speed (at constant density), and therefore is proportional
+to the mass of air that would pass
+through the area occupied by the core if the core were removed.
+The fractional part of “tie air
+approaching the core, which actually passes thro~~ its air tubes, has been called the mass flow
+constant of the core. It is an important property, since the heat transfer and the head resistance
+are both closely related to it.
+5. The powm akorbed by a core maybe computed from the he&d resistance and the weight
+as follows:
+(a) If the total weight and the total available power (at the propeller) are known for the
+plane, the power absorbed by the weight of the core can be found approximately,
+and to this
+must be added the power required to overcome the head resistance, the latter being obtained
+directly from the head resistance and the speed of the plane.
+(b) If the lift-drift ratio of the plane is known, it is simpler to divide the weight by this
+ratio, and thus reduce it to equivalent head resistance; i. e., drag on the wings and structure
+required to carry the weight, rind to add this to the head resistance before multiplying by the
+plane speed to obtain the power absorbed.
+In either case, it should be borne in mind that the power so computed is not necessarily
+equal to the power chargeable to the ra~iator, but is subject to the same limitations as the head
+This method, which is intended to give a basis for compar&on
+resistance, as noted above,
+The British have shown by a very careful analysis
+between cores, gives only an approximation.
+the effect on a plane of small additions of w~ht
+and resistance, and it is shown that their
+relative importance vmies greatly, according as” top speed or rate of climb is given greater
+weight.
+This, of course,’ is due i% the charige in lift-drift ratio under various conditions.
+6. Figure of mqml.—In order to obtain a quantity by means of which the performance of
+various cores can easily be compared, it is necessary” to consider both the .mergy d~ipated
+and the power absorbed.
+The rate at which a radiator dissipates heat per unit power absorbed
+is a measure of the suitability of the radiator for airplane use so far as these two factors are
+concerned.
+This quantity has beeri called the figure of merit.
+The figure of merit will be the
+criterion for a radiator in any position, provided the power absorbed is the total power absorbed
+chargeable to the radiator as defined above.
+Unfortunately
+it is necessary to Iimit the d&nitions of head resistance of a core and power absorbed by a core to very specific conditions of
+use which can be accurately reproduced in the laboratory, so that it is only when the air flow
+around the radiator is not obstructed by other parts of the plane that the figure of merit of a
+core is of value in determining the figure of merit of a radiator.
+
+‘
+..—
+
+—
+.-
+
+.
+
+—.
+
+.—
+
+. . .
+
+CONDITIONS OF USE.
+The conditions of use -which affect the performance of the radiator, have been chosen not
+only to give the most accurate description of the factors which really determine the properties,
+hut also to allow of easy comparison with the conditions found in flight. They are the following:
+1. The mass jikw of air through the core. This is defined as the mass of air that flows
+per second through the air tubes of a section of core of one square foot frontal area. This use
+of the term “mass flow” is identical with the common use of the term in the works of Osborne
+Reynolds and others, if the radiator is regarded as a structure through which air flows, and no
+account is taken of the fact that- tie flowis made up of a flow through a number of small tubes.
+
+q
+
+‘
+
+‘
+
+“.
+.-
+
+-.
+---
+
+8
+
+ANNUAL REPORT
+
+NATIONAL
+
+ADVISORY CKMMITTEE
+
+FOR AERONAUTICS.
+
+A careful distinction is made between the velocity of the air approaching the radiator
+(free air speed) and the mass flow through the core. It is the latter quantity that determines
+the effect of air velocity on heat transfer.
+It should be noted that the flow of air through the
+core depends upon many factors beeides the free air speed,
+2. Temperature dij’erence. between air and water.
+Strictly speaking, the heat transfer
+is determined by the mean over the entire core, of the bmperature
+dMerence between the air
+and the water, at each small element of cooIing surface.
+It can be shown, however, that for a
+given radiator under constant conditions of air flow and water flow, except that the air and
+water temperatures vary, the heat transfer is very nearly proportional
+to the difference b~—
+tween the mean temperature
+of the water and the temperature
+of the entering air, The
+w-ater temperature depends, however, on the total length of the mre, as well as upon the rate
+of flow through the core, so that it is much simpler to use the mean water temperature.
+The logarithmic mean should theoretically be used, but M the arithmetic mean differs from
+it very slightly under ordinary conditions of use it has been employed to m~e labor.
+The
+temperature difference under which a core -works is given, then, as the difference. between
+the temperature of the entering air and the mean of the temperatures
+of the entering and
+leating water.
+3. .ilir denm%y.—Results have been reduced to a “standard”
+air density of (1.0760 pounds
+per cubic foot (0.00127)1 grams per cc; approximately
+density of dry air at 20° C., 78° F.).
+4. F70w of watir may be expressed in two ways, in quantity units, and in linear vekity
+through the tubes, The quantity of w-ater flowing affects the hop in tempemture of the water
+in passing throu@ the radiator, while the linear velocity determines to some cnxtent. the rate of
+heat transfer.
+5. The vleclumical condition oj the air and w&r in the tubes of the core is of considerable
+If there is turbulent flow, the heat transfer will
+importance in determining g its performance.
+be by convection and can be much more rapid than in the case of streamline flow. On the
+other hand it is necessary to impart considerable energy to a fluid in order to produce turbulence, and this means an increased absorption of power by the radiator.
+
+—
+_— .-—
+
+—
+
+GEIWERALIZATION OF THE PROPERTIES OF A CORE TO OBTAIN THOSE OF A COMPLETE
+RADIATOR.
+
+In considering the relations between the conditions under which a section of core operates
+when in a complete radiator, and the test conditions used in the laboratory, there are seen to be
+two general. chsses of locations in which a radiator mgy be placed on a plane.
+When the air
+flow around and through the radiator is not tiected by the surrounding portions of the plane,
+the radiator is mid to be in an unobstructed petition.. In this case there is no reciprocal ~ect
+of the radiator on the other parts of the plane, and the properties of a radiator in such a position
+may be computed from the results of laboratory tests..
+When the air flow through the radiator is affected by other parts of the plane, it is said
+Such a radiator has a marked effect on the properties of surto b.e in an obtructedpoeitiion.
+rounding portions of the plane, and the eff_ectachargeable to it a:re got yelate~ @ a simple manne~_
+ta the properties of its core.
+In order to obtain the properties of a radiator when in place from the properties of th~
+core as determined by ~aboratory tasts, it is necessary to know (1) the conditions of Use of each
+part of the core, i. e., air flow, water flow, and temperatures;
+(2) the eilect of headers, piping,
+etc.; and (3) the reciprocal effect of the radiator (especially the air flow through it) on other
+parts of the plane.
+AIR FIJOW THROUGH THE RADIATOR.
+
+The mass flow of. air through a radiator in an unobstructed
+position may be obtained
+directly from the mass flow constant of the core, the free air speed to which the core is subjected, and the air density.
+The free-air speed will usually be the plane speed, augmented by
+any effect of the propeller-slip stream,
+J?or $ radiator in tm obstructed pcmition, the mass
+
+—
+
+QENERAL ANALYSIS
+
+OF AIRPL&NE
+
+RADIATOR PROBLJMLS.
+
+flow of air can not easily he computed.
+It is hoped to make measurements
+in obstructed positions in a series of tests k flight.
+TEMPERATURE
+
+9
+.-
+
+of this mass flow
+
+DIFFEEENOE .
+
+& noted above, the temperature
+d.iilerence selected for expressing the energy dissipated
+was so chosen that the results can be applied at once to a radiator of any size by using the mean
+temperature of the water.
+The latter may be found from the entering temperature, the amount
+of heat to be dissipated., and the water flow. It is therefore possible to regard an entire radiator
+‘as having a mean temperature,
+and as the air entering all parts of the radiator will commonly
+have the same temperature,
+the mean temperature
+cMerence for the radiator is easily found.
+FLOW
+
+OF TVAT131L.
+
+The linear velocity of the water in the tubes+ determines the turbulent condition of the flow
+and should be kept above a certain value for each type of core. The total quantity of water
+flowing per unit time determine
+the temperature drop in the water, and tihua affects the temperature difference,
+ENERGY DISSIPATED.
+.
+The laboratory testi of a core will give the energy dissipated under “standard”
+conditions
+for a unit frontal area of core, and for any mass flow. If the mass flow is known, the total heat
+dissipabd will be found from the test resulti-and
+the frontal area of the core. Conversely, if
+the heat to be dissipated is known, the required frontal area of core can be determined.
+The
+amount of heat to be dissipabd is a subject that will bear some study under actual flight conditions.
+In particular,
+the effect of the air that passes through a nose radiator, in cooling
+directly the walls of the engine jackets, should be deta.rrnined, for it is an effec! with -which the
+radiator (or the position) should be credited.
+
+.-
+
+-
+
+.
+
+HEAD RESISTANCE.
+
+The head resistance of a radiator placed in an unobstructed
+position may be obtaiied
+to the frontal area, but includes
+directly from that of the core. It is roughly proportional
+For an obstructed position, if the mass flow of air is
+the effect wf headers and connections.
+known, the head resistance # tlw.core will be the same as that given in an unobstructed position
+when at such a speed as gives the same mass flow. But this value represents only that part
+of the total resistance chargeable to the radiator which is due to the pressure diilerenca on its
+two faces. The resistance which other parta of the plane offer to the air which has passed
+Also, if the front of tbe fuselage has @ be
+through the radiator may be very considerable.
+enlarged in order to accommodate a large nose radiator, this may cause a very great increase
+in the resistance of the fuselage, all of which is chargeable to the radiator. “The reeietance of
+obstructed radiators requires special study.
+POWER
+
+ABSORBED.
+
+The power absorbed by an unobstructed radiator may be obtained from that of the core
+as given, by a laboratory test with corrections for headers and co~ectiom.
+Sticej ho~everj it .
+depends upon the lift-drift ratio of the plane (it has been computed for a ratio of 5.4), a
+special computation using the actual lift-drift ratio of the plane will give a better value.
+The values given with the results of tests are intended chiefly for comparative purposw.
+In obstructed positiona the power absorbed must be specially determined.
+FIGURE
+
+OF MERIT.
+
+The figure of merit of a radiator in an unobstructed position will for comparative purposes
+be equal to that of the core. For obstructed positions it must be specially computed. It will
+always be less than that of the same radiator in an unobstructed position with the same mass
+flow of air..
+WASHINGTON
+
+:
+
+00vEUXX~XT
+
+PBINTING OFFICE : lu19
+
+.. ..
+

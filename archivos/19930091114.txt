@@ -1,0 +1,622 @@
+. .
+,.. ..
+.
+3.-
+
+?
+
+-.
+------...: :,
+.:. .-
+
+..
+
+:----
+
+.:-. ? :-
+
+.
+
+-..
+
+<
+.
+
+,,. .
+
+,..
+
+f
+
+... .-.., ,,
+
+~.
+—-L,..
+
+===-%
+. . ... ..-
+
+REPORT No. 52
+
+TEMPERATURES IN SPARK PLUGS HAVING STEEL
+AND BRASS SHELLS
+
+v
+m
+
+NATION.iLADVISOItY COMMITTEE’
+FOR AERONAUTICS
+
+.,
+
+PREP~NT
+
+FROM FIFTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT
+
+PRINTING
+
+OFFICE
+
+1919
+
+.
+
+.
+
+.
+
+—.—
+
+11111111111111 “---- + ‘=’
+Bmfi[llllllllllllllll
+‘“‘-‘--:
+=
+31176014165394
+——
+
+REPORT No. 52
+
+TEMPERATURES IN SPARK PLUGS HAVING
+AND BRASS SHELLS
+
+.
+
+b
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINTF ROM
+
+GOVERNMENT
+
+FIFTH ANNUAL REPORT
+
+PRINTING
+
+OFFICE
+
+1919
+
+.
+
+,
+
+.
+
+..
+
+:-.
+
+..
+
+.
+
+,.
+
+*
+
+REPORT No. 52
+
+.
+
+TEMPERATURES IN SPARK PLUGS HAVING STEEL
+AND BRASS SHELLS
+BY
+
+C. S. CRAGOE
+
+14290&19
+
+3
+
+REPORT
+
+q
+
+52.
+
+NO.
+
+TEMPERATURES IN SPARK PLUGS HAVING STEEL AND BRASS SHEL,L!iL1
+By C. S.~R~GOE.
+
+R&WM&
+
+‘
+
+This investigation was conducted at the Bureau of Standards for the National Advisory
+Committee for Aeronautics.
+Brass has often been assumed superior to steel for spark plug shells because of its greater
+heat conductivity. The measurements described, ip this report prove the contrary, showing
+that the interior of a spark plug having, a brass shell is from 50° to 150° C. (90° to 270° F.)
+hotter than that of a similar steel plug. Consistent results were obtained in both an aviation
+and a ~ruck engine, and under conditions which eliminated all other sources of difference
+between the plugs. It is to be concluded that steel is to be preferred to brass for spark plug
+shells.
+INTRODU@iON.
+
+The measurements described below were undertaken to compare the temperatures attained
+in various portions of spark plugs having brass and steel shells. The plugs used were of the
+Rajah type. The porcelains were especially rnaclewith a hollow central (electrode) space of
+approximately 2 mm. (0.08 inch) diameter and sealeclat the lower end. The temperature gradient along this central axis of the porcelain was raeasuredwith a movable copper constantan
+thermocouple. A brass tube about 2 cm. (0.8 inch)’in diameter and 15 cm. (6 inches) in length
+was ?ttached to the upper part of the shell of each plug to protect the thermocouple and to
+support it in any desired position.
+MEASUREMENTS
+
+WITH PLU.GS IN HALL-SCOTT MOTOR.
+
+Two plugs with brass and two with steel shells were placed in the re=gular
+spark plug holes
+on the exhaust side of a four-cylinder Hall-Scott rno}or, type A-5a, running at a speed of about
+1,500 revolutions per minute, and delivering about 110 horsepower to an airplane propeller.
+A separate run was made for each plug and the temperatures measured after sufficient time
+had elapsed (about a half “hour) for the temperature to become constant. The temperature of
+the discharge water from the cylinders was about 70° C. (158° F.) in each case. The following
+table contains the results of the measuremerits. The first columg gives the position of the
+thermocouple from the bottom of the porcelain. This was limited by the depth of the central
+space.
+TABLE 1.,
+Ternbtmes
+Position.
+.
+Cm.
+
+k:
+2..5
+a o
+a. 5
+4.0
+
+~ aylfnder I.
+
+hmhes.
+0.59
+.79
+.98
+L 18
+1.88
+1.67
+
+Brees A.
+——
+‘-”%J
+
+Steel A.
+
+.“..ZJ:
+
+‘C. hr avfation engfne.
+
+In oylrnder II.
+BrassA. Steel
+—
+—
+.-g.”.
+
+-“””~.”
+
+In cyliider I.
+.
+
+.
+435
+395
+350
+305
+265
+210
+
+155330
+180
+285
+130
+155
+120 -t
+215
+126
+.
+T
+-.
+1 Thie Report wee conddeutially ofroukted dnring the war as BUNW of Standarde Aeronautic
+310
+255
+204
+
+Steel B.
+
+Brass B.
+.
+
+325
+290
+260
+225
+195
+160
+
+power
+Plrmts
+
+Report
+
+NO. Is.
+
+5
+
+6
+
+ANNUAL
+
+REPORT NATIONAL ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+These values are shown in plot 1.
+The gas leakage on the above plugs was measured at 225 pounds pressure and 150° C. with
+the folIowing results:
+
+I
+
+I
+
+I
+
+Brnss.
+
+.
+
+steel.
+
+I
+
+I
+
+O.olffi. parseo . . . . . . . . . . . . . . . . . . . . . . 0.0500. par Sao.
+o.aeco. parseo . . . . . . . . . . . . . . . . . . . . . . 0.4500. per sec.
+
+k;;:::::;::::::::
+
+The pitch diameters of the threads (in inches) were measured by choos~~ the two central
+threads and taking diameters at right angles.
+
+I
+
+Brass.
+
+I
+
+I
+
+A.
+
+B.
+
+:
+
+I
+
+steeI.
+
+I
+I
+
+A.
+
+I
+
+B.
+
+I
+
+‘MEASUREMENTS IN A TRUCK MOTOR.
+
+Similar measuremgmtswere made in a Waukesha truck motor with special cylinder heads
+which gave a maximum compression of about 115 pounds per square inch. This motor was
+connected with a dynamometer and loaded down with the throttle wicle open to run tit m“speed
+of 1,000 revolutions per minute. There was no fan or radiator conneckd but the discharge
+water was thermostated at a temperature of 63° C. (145° l?.). Each plug was placccl separately in the second cyhder ad inthesame spark plug ~okj which was specially drilled nnd
+tapped in a position origina~lyused for a priming cup. The bottom of the plugs lacked rhout
+2.5 cm. (1 inch) of bem flush with the bide cylkder wall. The temperature grnclicnts along
+the central axis of the porcelains were measured as before. An additional thermocouple was
+placed about 2 V.
+(0.08 inch) withrn the metal of the ~h~ of each plug and level with the
+copper gasket below the shoulder of the porcelain.
+TABLE
+
+I
+
+Posftion (from bottom
+of porcelafrl).
+Cm.
+
+h.
+
+2.0
+2.6
+8.0
+3.6
+4.0
+
+0.76
+.9s
+1.18
+1.38
+1.67
+
+Tl%mcouple
+
+ix%elL.
+
+I
+
+IL
+
+I
+
+Temperatures W. fn trusk errglne.
+
+Brass A
+—
+
+Steel C. Brass C. Stwl D. Brass .4.
+—
+—
+—
+—
+
+g
+
+f68
+133
+
+147
+w
+lm
+
+%’
+
+YA
+
+%!
+113
+
+246
+173
+149
+125
+126
+121
+135
+
+173
+141
+125
+114
+103
+:%
+
+230
+171
+149
+f13
+
+Stsel c.
+
+1
+153
+136
+120
+116
+103
+
+. ...?...
+
+. . ...!....
+
+These values are shown in plot 2.
+The gas leakage was careftiy measured at 220 pounds pressure and 155° C. and pIugs
+purposely chosen having wide variations.
+Brass.
+
+steel.
+
+& . . . . . . . . . 0,009cc. par sec.
+. . . . . . . . . . . 1.5 cc. per see.
+
+o . . . . . . . . . . . . g??mw.yy=’s
+D ...........
+.
+.
+
+The pitch diameters of the threads in iuches were:
+
+I
+
+I
+
+Brass.
+
+Mean =7
+
+I
+
+c.
+
+c.
+
+0: o#3#
+
+0.0692
+. 66M
+.0674
+.0670
+
+o:=
+
+x
+
+x
+
+A.
+
+0.6630
+.6682
+.t1372
+.C875
+
+Steaf.
+
+.0876
+.0078
+=
+
+D.
+
+.0059
+.6661
+
+.
+
+HALF-SECTIONOFSPARKPLUG
+
+HALF-SECTIONOF SPMKPLUG
+
+.
+
+AVIATION ENGINE
+1- Cylinder Bruss A
+2.
+
+Steel
+
+A
+
+8ross A
+::
+s
+
+..
+
+6.
+
+Steel
+Bruss
+
+steel
+
+A
+B
+B
+
+#,
+
+Steel
+%raSS
+.Wee!
+
+,,
+,,
+
+D
+A
+C
+
+\
+\
+v
+<6
+
+/00
+t-
+
+L
+
+0
+
+Plot No. I
+
+4
++“
+Position
+
+of 777ermocou@e.
+
+5
+l%
+
+5
+
+4
+
+cm
+in.
+
+/3$g”
+PlofA!!2.
+
+Posifion
+
+of Thermocouple.
+
+.,,
+
+,
+
+.31f37
+
+cm.
+.
+fn-
+
+.
+
+8
+
+ANNUAL
+
+REPORT NATIONAL ADVISORY COMlC137TEEFOR AERONAUTICS.
+CONCLUSIONS.
+
+The measurements indicate that the temperatures of the brass shells are considerably
+higher than the steel in each case. Mao, the temperatures in the center of the porcelain are
+higher in the case of brass shells. This dift’erence can not be attributed to difference in gas
+Iealmge, since pIugs of the same materiaI differing quite widely in leakage gave practicality
+identicaJ resuks. Also, the thread dimensions were so neady the same that the difference in
+temperature can not be due to difference in the contact between the plug and the jncket, and
+is apparently due to the difference in the materia~ of the shell. Thk effect is apparently due
+to the greater thermal conductivity of brass (0.22 c. g. s. units) as compared with steel K).11
+c. g. s. units). The heat received from the hot gases in the cylinder by the inner end of the
+brtiss plug is more readily conducted longitudinally to the upper part of the shell, which is
+thus maintained at a relatively higher “temperature in spite of the Ioss of heat from the upper
+portions of the shell and insulator by radiation and convection. Since the contact between
+the porcelain and the plug is above the plane of the engine water jacket, the porcelain is less
+efleotively cooled in the case of the brass plug where the upper part of the metal is hotter,
+and consequently shows a higher temperature throughout its length.
+
+o
+

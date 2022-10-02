@@ -1,0 +1,182 @@
+TECHNICAL NOTES.
+
+.
+
+NATIONAL ADVISORY COMMITTEE lKElAE.ROYAUTICS.
+.
+
+No. 23.
+
+HORIZONTAL BT.DYMCY IN WIND !T-S
+
+A. F. Zahn,
+Bureau of Constriictiun Re~ir,
+&
+.
+
+Nowmber, 1920.
+
+.
+
+U. S. l’?.
+
+NATIONAL ADVISORY COMMI!l!TEE AERONAUTICS.
+FOR
+
+TECHNICAL NOTE N(L 23.
+HORIZONTAL BUOYANCY II?WIND TUNNELS.
+By
+A. F. Zahm
+Bureau of Construction& Repair, LLS.N.
+
+The following report on ‘!orizontal Buoyancy in Wind Tunnelsm was
+H
+submitted to the National Advis@ry Comzittee for Aeronautics by Dr, A.
+F. Zahm, Member, Ccamittee on Aerodynamics.
+Distinction of relative flow. - F&cm the earnest etudy of hydromeohanics it has been assmed that the reaction between a stagn~t
+fluid and a body moving through it is the seineas for the fluid passing the fixed body with the same relative motiom
+So many experiments
+however seemed to disprove the assumption that at one time scme prcminent investigators questioned its validity. For exanple, Dubuat and
+~OhO’min found experimentally mat a ‘platifixed in a str~
+of water
+has about thirty per cant more resist~ce than when moving through still
+water at the sane speed. This Phenomenon was called Wubuatts Paradoxn.
+But when dw pr~aution is tw~
+to m~e the relative motion the seine
+in both cases, as was dons with an apparatus developed by JGUkOVSki
+and Kouznetzoff, the assumption is completely vindicated. The reader
+may find a description of this apparatus in Jotikovski~s
+Aerodymaique,
+Chapter 11.
+But suoh equivalence of relative motion can not alwaYs be realized.
+When for example,. body moves through an extended hmogeueous still
+a
+fluid the relative velocity of all distant parts of the fluid is uniform,
+and the undisturbed horizontal pressure gradient is zero; but when the
+fluid moves past the body usually all the distant parts have not the
+same velocity, usually ther,e
+is srxneturbulence, and the pressme gradient is not zero. And if the gradient is not zero there is a horizontal buoyancy to be applied as a correction to make the observed resistance equal that for the still fluid.
+Stat%c pressure ~adient. - Inuntagering wind tunnels, for instance,
+th8re is amaterial fa31 of static pressure down stream withiu the walled
+working portion. If the tunnel is well designed and unobstructed, th=
+down-strean pressure gradient is cons-t
+for any one wind speed, and
+varies naarly as the sqyare of thb wind VelocZty. If the tunnel is ~tly obstructed with apparatus, the gradient may, at aq fixed speed, very
+in amount from point to point along stream.
+
+-2-
+
+Point pressure and rmessure drag. - In general the pressural drag
+the Surface integral of the horizontal ccmponent p= of the point press~e W
+Now this latter may be written II= PI + ~-: +13, where PI is the
+constant barometric pressure at the reference section A of the ~el,
+say where the nose of the model is to “be,and before insertion of the
+mCdel; I?2iS the pressure drop down stream frcm A due to the statiC
+gradient in the unobstructed tunnel; p3 is the kinetic pressure, or
+departure frcm pl, due to the presenoe of tb model ~ the stre~It
+is assumed that the tunnel is”too large for ~terial wall effect.
+on & tind tunnel model, apart from the frictional drag, @qW18
+
+Obviously the drag due to the constant baraetric pressure p is
+zero. The drag due tO p3 would be ZeZO for africtionles8 fluid,%ut
+for ZMbtWd fluids is a chief element of re~ist~ce, especially for
+bodies of blunt form. Its discussion is irrelevant to the present
+treatment. The tiag due to 22 may here be formulated for various conditions.
+Camutation of horizontal buoyancy. - The ccmponent of horizontal
+buoyanoy at any element of the model’s surface is 1 P2d ~, in ~hi~ 1
+is the direction cosine, referred to the tunnel axis, of the normal to
+the surface elemeat d S. To find the surfsoe integral of this ccmpcnent analytically one must know the equation to S; also to the ~essure
+dropp2, in terms of the distance along stre=. Themeth~
+of integrating is too familiar to require treatment here.
+III wind
+mel
+practiioe S.tip
+~e US~lly given gra~hioa.lly,
+ad
+may require graphi@
+integration tozfind the drag due to pressure drop.
+For example, 9 may be a surface of revolution, suoh as a balloon hull;
+or a cylinder, such.as a uniform stream-line strut. The static pres~e
+%radient may be given by a curved diagram, i= whichp2 is plotted
+against the do~ SWeUI dis~c~ fr~ them~~~s
+nose; or, aS a p~ticularly interesting case, the gradient may be mnstant.
+These spec-l
+i81 e%sm~le$ will be briefly treated in turn.
+
+The pressure-drop dr~
+along stream ia
+
+on a s~face
+
+of revolution ~th
+
+its axis
+
+where P2 is the pressure drop at radius r, and the integral extends
+over the whole surface. The integral is found graphically as the area
+of the curve obtained by plotting p against r 2, both of which are
+assunecito be given for various dis%antes along stream. This method
+was given in Report No. 107 of the British Advisory Cwamittee for
+.
+AeronautiCS.
+The pressure-drop drag on a cylinder held transverse to the stream,
+and having a plane of symmetry parallel thereto, is, per unit length,
+R=2/p2.
+
+d o, ---------
+
+,
+
+-------
+
+(2)
+
+-3?
+
+.
+
+r is the smi-th~okness at any point along strea, and the
+integral extends fmm front tp rear. The solution is fmxld graphically
+as the area of the curve of ~ plotted against r.
+where
+
+If the press=e gradient is a constant, d~dx=a,
+sure-drop drag on a body of whatever shape is
+R ba
+
+r, --------
+
+-----------
+
+the pres(3)
+
+where v is the voluue of t’he
+body.
+TMs foxmula is the ssme as that
+fOr the vertiti buoyenoy of a body imnersed in a Iiqtid, and has
+been known from time iumctncmial.
+BEethodsof ccmputation in Qraotioal use. - Formula (3) has been
+used in the reports frcm the Aero@nsmioal Laboratory., %shington
+Navy Yard, sinoe July, 1919, when it was first shown by accurate
+measurement that the pressure gradient i6 constant along the working
+PO@tion of the 8S x 8~ tunnel freed of obstructions. In scum of the
+earlierreports gra~ic~
+integration had been employed because rneasxmements, too hwried ~
+ins-i ~ently &ecked, had indicated a
+slightly variable pressure gradient. This mistake in measuring the
+gradient entailed an error of the order of one or two per Oent in
+finding the total drag on the models tested.
+A detailed aoeount of the calibration of the 81 x 8t tunnel, for
+pressure gr~~en~, LS given in tti laboratorys Report No.148.
+For streamline bodies of c~siderable bthe pressure-drop eorrection is a good percentage of the whole resistance. Xf, therefore,
+the tunnel must have a mat~ia
+press~e ~tii~t,
+it is fortunate
+when this is so nearly constant that formula (3) can be used to canpute the pressure-L-op
+ccrredion.
+The value of
+a need be determined but once for a given tunnel, and the value of v for a model
+of eny shape can easily be found by imnersion in wa~er.
+
+I
+

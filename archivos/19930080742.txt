@@ -1,0 +1,1916 @@
+1;
+
+‘-
+
+. ‘--
+
+-.—
+
+-,
+;
+
+. ..
+
+,
+
+1
+
+k“
+
+.-
+
+=Q-L”
+.-
+
+.-
+
+—
+
+..”
+.
+
+..- .
+
+.oa5-mE
+
+ADvIElti
+I?ATIOHAL
+
+.
+
+OBSEKVAT
+IONS ON
+
+HETHOD OF DETERMININGTHE VELOCITY
+OF AIRSHIPS:
+By
+nOf.
+
+Vito
+
+volt==
+
+q
+
+:“,
+.,
+$“,
+.“
+
+I
+,i.
+<<
+
+,
+.
+
+::1.
+*
+.-
+
+‘!. ;~~~,
+
+,.
+
+.
+.
+.+.. . ,. *.4 ~.
+,..
+
+4
+
+:..
+
+., m,, .
+“ .
+
+., , -&-—
+.-
+
+,,.
+‘“w
+
+TO
+
+T>m’?f
+
+M rcr’lrrlnrj 1)
+1
+
+Itro files d’ iho ‘Langley
+lhmorial krQWM1.@! ...
+‘,
+,..
+,,
+Laboratory
+“
+., , . ...
+June, 39ai..
+. -.
+.
+
+,“
+.
+..
+.-. .
+-G. -.
+.’”:::.
+..’:q” “
+,.L -.,.
+.,1“..
+::
+..,
+..
+.
+?i.~’.
+~.+
+.
+“.
+,. ‘J?&‘ --- J - - -:”
+-,
+,,
+:>
+“*”
+.L.. .., ‘L-.”
+, ,.-–
+‘
+1
+- ,— .
+
+t
+..
+
+.
+
+..&.&
+
+&:
+
+.
+
+.
+
+---
+
+..
+.
+:,..
+,,
+.,
+,..
+%-,
+‘,,
+,.
+.
+‘~’
+——
+
+.
+
+.——-.. .——.
+
+--
+
+.—
+
+,.;----
+
+7:
+
+,--
+
+—-7-.
+
+OBSERVATIONS ON THE.METHOD OF’DETERMINING THE VELOC~TY
+,.
+
+...
+
+.==
+
+OF’
+JIHMMIPS.*
+
+,If v i~~e, velocity of ..the ...airships,. v the velocity of
+.
+. , .&&!&.
+
+the wind, the resultant VI will ‘~”ehe effective velocity ‘at
+t
+wh~oh the maohine covers the distance.
+
+‘“i
+
+The angle Wi
+
+= Y
+
+will be the.angle of drift, and the an-
+
+\f:j gle”Viv = a the angle of the wind with the direction of route.
+!{
+,+
+We then have:
+.’
+
+V1 = v
+k =x
+From these fomulas
+
+v
+
+Cosy
+
++
+
+v
+
+u
+
+Cos
+
+.QzUL
+sin a
+
+we obtain:
+
+= k sin a
+------.-.-------k2 sins a
+Qos ‘y =J3-
+
+sin y
+
+------
+
+Cos a
+
+=J/l-~
+
+~-.---
+
+sm2
+
+a
+
+-------
+
+Suppose that the distance da is covered in the time dt, we ‘
+shall.”have:
+ds
+v (20sy +V
+
+dt=~=
+
+=
+
+= (v Cos Y -vcosa)ds=
+V2 COS2 Y - V2 COS2
+cos a
+
+a
+
+=( VCOSY-VCOSOCLS=
+vcos~)cis
+V2 (1 - k~)
+V2 (C082 y - k= COS2 U)
+~>...
+,,,
++..__.. . . .
+..
+
+(v
+
+Cos
+
+1’ -
+
+=
+
+Cos v -kcos
+V(I - k2)
+
+ad~
+
+* Translated from “Rasseggna
+?JarittimaAeronautic
+No. 12j-Decemberj 1920..
+.r.
+.
+.;,
+.!,
+,!,
+.,,,
+#“’ .,-, ,::.
+
+—-.
+Illustrate”
+
+Y’
+
+2-
+
+and therefore, in the time t the distanoe covered, s, will be
+-. ,,-.. ,,
+
+..
+
+,.
+
+,.-...-
+
+t
+
+-=
+
+J
+
+C*6 v -kcosad~
+V (l-_ kz)y..
+
+,,
+...,.,..
+
+Supposing ”the wind to be constant in magnitude and direc:: tion
+“’
+!,,h
+
+the foregoing formula becomes:
+
+~:j
+
+1
+
+=—
+
+COS
+
+v(l-k2)
+If we take the axis
+
+‘/
+
+-
+
+1
+
+ds - j COS ff ds’
+A
+
+x parallel to the direction of the
+
+wind and proje ot the line of flight AB along
+
+x
+
+in A’Bf =
+
+X,
+
+we shall have:
+x=
+
+f cos a ds
+
+therefore
+t-
+
+...
+
+a.
+V(l-k2)
+
+<
+
+J
+
+C*S ‘y (3.s kx-j
+-
+
+If the route covezed is in a closed circuit, that isj A
+coincides with B and A1 with B1j :/eshall have
+
+x = O
+
+and the
+
+result will be:
+t =
+
+1
+““
+V (1 - k=)
+
+jcosyds=-
+
+1
+V (1 -
+
+-----.......--JJl /
+- k2 COS2 a M
+k2)
+
+.
+
+The av;?age speed”at which ’’”’the
+maohinecovers the distance
+will be:
+
+assuming that
+
+-
+
+---------------ad~
+0 =Joosyd8=~~l-k2~s2
+..
+. =.4
+... .- . —.-.
+. ----- :- .,
+-----, s --’- “------””””-It follows that the ratio between the mean velocity at
+covered and the ve,locityproper of the m?.”
+
+We will now show that this ratio is always less than 1 ‘Then
+the velocity of the mind is less than the velpcity proper of
+In point of fact;
+--------
+
+the machine, that is, k e 1.
+
+u
+
+- ?&
+
+fdl
+-------------
+
+-
+
+=JL.-k2
+
+.f
+J
+
+But:
+-----
+
+---
+
+- - - -- ..- -- - -----...-
+
+J1’-k’cos2’u
+
+~l-k’<~l-
+
+. . . . . .
+
+-------
+
+k’cos’
+
+a-=1
+
+~ therefore
+------------
+
+f.jl
+
+----------
+
+-
+
+and
+------
+
+c1
+
+/
+
+‘,&&.,-
+
+-------
+
+‘2
+~
+
+v
+
+.,
+.:
+
+L
+
+.... --
+
+‘,
+. ..”.,
+
+:,:.@y
+“,
+
+=s2<1
+
+a
+
+J1-k2di3
+
+------
+
+----
+
+COS2
+
+------
+
+k2
+
+-
+
+COS2
+
+U
+
+ds
+
+ds
+
+ds
+
+.
+
+-4~
+IF, THEN, ti MEASURE THE MEAN VELOCITY ALCN?G.4NY0L05ED
+
+==- CIR~ XT mA-m~R,
+~~~
+
+-WE SHALL ALWAYS.. IN. .vEiJc)C!ITY THAN
+-OBTA A
+LEsa
+
+THE VELOCITY PROPER Ol?
+THE AIRSH~P ALTHOUGH THE WIND MAY SOMETIMES’ FAVORABLE,SOMETIMESOPPOSEIJ SOMETIMESBE BLOWING.
+BE
+OR
+SIDEWAYS TO THE DIRECTION OF MOVEMENT. :
+Let us examine some particular cases:
+Suppose first that the circuit covezed,is a polygon
+A13c
+
+DE=s,82s3s4s5.
+Denote the values of CL along the sides by
+
+al,
+
+U4 , U5, and the values of the Angle of Drift by
+Y4 > Y6
+
+fy3 >
+
+?=
+
+q
+
+a2j
+
+Y1 ,
+
+a3~
+T2,
+
+We shall have:
+
+‘l- W) =.
+S
+zoosY1q
+
+~Sx
+
+(1 - k?)s
+-------- --,------ -J1-k2coa2~1
+
+Suppoee the polygon to two superposed sides AB and BA, we shall
+have:
+
+w = f<v
+that is, assume AB = L and denote by t’ and t“ the times in
+whioh the distanoesAB ~d
+
+2L
+
+~m—
+
+BA are covered.
+—<v
+
+t!+tll=.
+
+L
+
+l+ll
+(tat)
+
+,
+
+Thus’,-’”’zwe
+divide’’the
+distan&’’L ’by the mean v~ue” of the
+times in which L is covezed either in the di%eot sense or in the
+
+oppositedirection,we shall always find a velocity less than
+the Velocity pxoper of the airship unless the wind is zero~
+
+.,
+,,
+.’,
+. ..
+
+‘:*
+
+-“5THE ANGLES OF’DRIFT FOR ROTH 7,1NESOF FLIGHT, DIRECT J?Nd
+.=-,
+,
+IfiTHE CON~E~R~””
+DIfitiTIQfi-;
+”
+*ILL 61 tiQUAL.
+Denoting”them by
+~’
+t’
+
+= v
+
+00s
+
+y
+
++Trcos
+
+?’, We s~als
+
+cf-
+
+~ave:
+“L =
+
+“;11
+
+v Cos y
+
+.
+
+v cos
+
+a
+
+which means that the mean velocity of flight along both lines,
+direct and inverse, is equal to the veloeity proper of the airship multiplied by the cosine of the angle of drift.
+IN MEASURING THE VELOCITY PROPER OF AN AIl?SHIP HEN A CROSS
+W
+WIND IS BLOWING,WHICH IS USUALLY THE CASE, IT X3 ADVISABLE TO
+MEASURE THE ANGLE OF DRIFT BOTH FOR THE DIRECT AND INVERSE LINE
+OF FLIGHT.
+
+THERE SHOULD NOT BE MUCH DIFFEREITCE
+BETWEEN THESE
+
+TWO ANGLES, WE TAKE THE AVEM&Z OF THESE ANGLES AND IT 1S ADVISABLE TO INTRODUCE A CORRECTION DUE TO DRIFT BY DIVIUING THE
+
+MEAN OF THE TWO VELOCITIESOF THE TWO LINES OF FLIGHT BY THE
+COSINE OF THE ANGLE OF’DRIFT.
+Fox this correction to be of value, the distance
+
+covered
+
+mu6t be pr~cti”%lly rectilinear and the angle of drift must ,“
+be ., ,.,, thus .,,.,.,
+,-.
+,..
+.
+,..,,
+,?
+..
+.
+,,,. oonstant, ...4 showing th,atthe wind is constant.
+We can also obtain the velocity and direction of the mind
+from the velocity of the two lines of flight, direct and inverse,
+.
+
+and f~om the angle of drift.
+In fact, from the equations:
+
+$,
+
+$,
+
+=Vcosy+vco6a
+
+=Vcos?
+
+it follows that
+v=
+
+*($+:!)
+
+‘=.03:..(3-$3
+
+therefore
+
+CM Y
+
+=
+- tin
+
+t’
+
+JT:--aE?x-k2
+
+from which we deduce
+--.__+_____-
+
+-----
+
+.
+
+r
+
+LL
+
+__ ——
+-----
+
+----------
+
+r
+I
+
+J
+
+&
+
+-~
+
+2
+
+---1
+[3
+t’
+
+L+&
+t’
+
+tn
+
+-.
+
+!-
+
+and therefore
+--.
+
+-.--e
+
+v =V
+
+tn
+
+J
+
+/
+
+______
+
+-+
+
+____
+
+_____
+
+___
+
+XJ2
+
+sinzy
+
++
+
+cosay~’,-~ ~,. =
+L*L
+*tt
+t’
+
+:.
+
+=
+
+1
+
+&
+t
+
+2 Cos Y
+
+-7.
+
++.IJ
+
+/
+
+------------s*n2 y
+
+~ II
+
+~-
+
+-------- ------- ~a
+---t‘
+
+Cosa y
+
++
+
+&
+
+]~
+
+[
+
+~
+
+1
+
+;11
+
+.++,,
+I
+
+_l
+
+[.
+
+whioh means that
+---------------------
+
+-.
+v .*
+
+J’p ‘
+-q
+
+-------------
+
+---
+
+q’
+
+‘=2 ‘
+
+~, +
+
+\
+
+We %hen have
+
+r
+=
+
+.&
+-.
+
+sin .+
+7-/=-----”----”---6------+
+
+sin a s siriy =
+k
+
+-t
+
+“_--k!.Lid
+““”
+Y
+
+Suppose that the distance covered forms a
+R.
+
+circle
+
+of radius
+
+I,asuoh a case we shall have:
+------
+
+-------
+
+----
+
+&k2=o~2(y
+
+(j%,~
+
+&pR/2nJ/
+o
+
+=
+
+R
+
+J2m
+0
+
+1
+
+-k?cos%
+
+------------------
+
+71
+
+-
+
+da=
+
+k2 COS2 a
+
+_-----
+
+-----.
+
+l-k2cos2u
+
+-----
+
+da=
+
+-1
+
+4-
+
+J
+Now:
+/
+
+d
+
+. -..---,--
+
+-------
+
+da.
+‘=4~(e~..
+=*”f2n”------- +-- 1iptica;!
+-----0
+
+___
+
+/“
+Jl
+
+co6 ef=j d
+
+‘2T1
+f
+
+0
+
+a
+------ ----------- “1”
+
+/
+
+- k2
+
+J1
+
+Tr/2
+
+0
+
+COf32 e
+
+sin2
+
+- k2 8i112U
+
+integra:
+of 1st
+grade)
+
+da
+
+a
+=-------------------- (ellip- = 4 E
+tiCal inte/
+gral of 2nd
+k2 sin2 a
+Jl
+grade)
+
+therefore
+
+e =4 R(K-k2E)
+and
+t
+
+=4 R(K-k2E)
+V (1 - k2)
+
+whence
+,V=
+
+4R, (K- k2E)
+t (3 - k’”)
+
+Suppose that the airship flies suaeessively along the tmo
+routes
+
+MlN3,
+
+Mall= and that the velocity of the wind is such
+
+that it is represented by v,.
+
+The axis of the airship is repre- -
+
+sente’dby V? when sailing ovez the fizst route and by Vn when
+sailing over the second route.
+
+1..-
+
+=. ——
+
+—
+
+**?
+
+will .be equivalent to eaoh othef, while
+
+The two vectors v
+
+airs-nipwIII ham
+
+different directions~ but will have the same
+
+modulus V if the absolute veZocity of the airship V is maintained at the .same magnitude during the fZight over the two routes.
+We will take the geographioal direction $ N (Sout~-North)
+and will represent the’angles as follows:
+(MiN, ) , (Sx) =
+
+(i!d&J
+
+(3L
+
+q
+
+(m)
+
+= e=
+
+“(SIN) *2
+=
+
+V1 . (SN) = :Xl
+
+V2
+
+v,
+
+V.(sll)=p
+
+(SN)
+
+= p
+
+q
+
+Lastly, we denote by V..and Vz the effective speed.at mhich
+the airship covers the two routes; by yk and y~ ttle~~Q angles
+of drift; by al and’Ua the angles formed by the wind with each
+of the two zoute~, and by
+
+0 the angle formed by the t’woroutes.
+
+We have:
+
+(1)
+(2)
+
+7’2= e2 - x
+
+2
+
+al
+
+= p
+
+up
+
+=
+
+.
+
+-
+
+p
+
+9 = e2-e
+
+.
+
+el
+
+.“ (a)
+
+- e
+L
+
+(a’)
+
+=al’,-u’
+2
+
+(!3)
+
+VL = v
+
+Cos
+
+yl
+
+V2 = v
+
+cos
+
+Ye +
+
+. ..
+
++
+
+—
+
+v Cos a%
+v
+
+cos
+
+,,~
+
+a2
+
+J
+
+).
+
+(!5)
+“
+
+——
+
+.
+
+.,,.
+
+., --.=,..
+
+-—
+.,--
+
+. .
+
+..
+
+-1o-
+
+Frorn (4)
+
+we obtain:
+(b)
+
+there~ore (5) becomes:
+i,
+:
+
+VI = V(cos YI + sin Vl ootan
+(5’)
+
+V2 =
+Wt
+
+V(cos.
+
+‘Y= +- sin
+
+Y2 Cotan
+
+frOm (4) we have also:
+
+from which it follows that:
+
+(c)
+
+cotan al =
+L
+
+sin WY
+Cos e-_——____—._
+sin VI1
+
+1
+sin e
+
+(c’)
+
+-“ 11
+
+-
+
+and substituting in (5’)
+M,
+
+.
+
+.
+
+.
+
+>.7.
+
+----
+
+VI =V
+
+...
+
+. .
+
+,,,
+
+-
+
+Cos
+
+Yl + sin
+
+.. .
+
+.
+
+1
+
+7’2
+
+[
+
+2V sin
+=
+
+O+ Y1-Y
+2
+[
+
+fj+’Y+Y2
+2
+[
+
+Cos
+‘1
+
+C08
+
+‘Ya+ sin
+
+(
+
+sin
+
+Y2
+
+[
+
+=
+
+.4.
+
+V(cos T 6in 0 -
+
+cos
+
+Y%
+
+sin
+
+V2=V
+
+1
+
+‘Y2
+-i
+
+e
+
+sin
+
+?’2 + sin
+
+~1 )
+
+=
+
+sin 9
+
+“V(sin[e
+=-’-.
+
+,- ‘Y21+ sin yz)
+
+=
+
+sin 0
+
+sin 0
+From formulas (6} and (7) we obtain:
+
+L--
+
+.-
+
+—.— -.
+
+—
+
+1;
+,~
+.
+
+r.
+.
+
+IL
+
+VG
+..
+.
+
+VI sin 9.
+q.+..”.7,
+- Ya
+2sliz
+
+—— -- —
+—-—
+
+.—. —.-
+
+. . e..+v
+..
+Gos
+2
+
+=
++ y ., ..:,,.
+
+..
+
+(8)
+
+Now,
+
+from (l), (2), ad
+
+(3)” follows that: ;
+it
+xl xl + $2-X
+e -x
+2
+
+e -?-1
+
+Y’=
+2
+
+e-e-e
+72
+
+1
+
+1
+
++
+
+x1
+
+-i-
+
+1
+
+2
+
+=
+
+-X2
+
+62+ X“2
+
+=
+
+X2 -201
+
+therefore (8) becomes:
+,,
+
+W.p--+-q
+
+.0s p,
+
+..__._
+
+-.
+
+..,.,,, ,.–
+,
+
+.#-
+
+.,..’-
+
+- y]
+
+.—
+
+I
+
+“’13-
+
+-
+
+(A)
+
+Thus, wishing to obtain the absolute velocity of the airship
+by knowing the speed at which the two routes are covered, we have
+only to determine the geographical direction of the routes whid
+we locate from the map, and the angles of the routes as given by
+the
+
+compass, after correcting tor the variation (the algebraical
+
+sum of the local magnetic declination and the deviation).
+The determination of the constmcy of the wind along the two
+mutes
+
+is
+
+given
+
+by equalizing tbe two values of V
+
+given by the
+
+second and third terms of (A).
+We can alm
+
+obtain the directi,m and magnitude of the wind,
+
+since from formulas (c) ~d
+as
+
+(ct) we can have the angles ~
+
+and
+
+and therefore from (a) and (at) we shall have p in two ways.
+Then by applying fmnula
+
+(b) we obtain the veloaity v of the
+
+w:ind in two ways also.
+These various ways of determining the values of v and P maY
+also serve for determining the constanoy of the wind on the two
+mutes.
+
+I
+
+PRJv XI,ALEXAMPLE.
+G
+DETERMINATION OF THE VELOCITY OF THE AIRSHIP M,6.
+We give here two examples of the determination of the speed
+of the airship M,6 made
+
+on
+
+board along a straight I.ineof known
+
+length, traversed in both directions, along the railway line
+Signs-l?lorence
+between the two localities ltSarGignalf ltCasteland
+Paolil~(length 6.925 d~)
+The measurements made and the results obtained are summarized
+in the four following tables which contain:
+The first, all the elements concerning the measurements and
+the resultin~ values of the velocity observed in the firs% determination.
+The second, all the data required for computing the angle of
+drift presented by the route of the airship with respect to the
+orientation of the track while the measurements were being taken.
+The third and fourth tables give similar data concerning the
+second determination.
+,,
+
+These latter data’~erve for passing from the observed valw$
+of the velocity to ‘thetfie v&lue~ the effect of the wind being
+.,..
+,,
+.,.
+,.
+eliminated in “eachcase. The data referring to the computation
+of the angle of drift were deduced from the compass readings
+,..
+
+while the measure”ments”were
+beiti$t“aken2corrections
+fox
+
+deviations
+
+due to local
+
+magnetic
+
+being made
+
+conditions.
+
+From the results obtained in the two ascensions, we may
+chxie
+
+that
+
+mn-
+
+the airship M.6 had a mean velocity of 69.2 with the
+
+regime of the engines maintained constant during the experiments
+
+here recorded.
+——
+
+-u5-
+
+FIRST DETERMINATIIOI?
+
+q
+
+m. : m/xn
+:
+
+*
+.
+
+:pi6~.,:@gle’”of:
+““Time
+:route by:
+:
+.
+:CXnngass
+:
+.
+
+:Speed:Mean
+: per :speed
+:houz :
+
+: km. :
+
+Temper-: Route
+tude :sure-:ature. :,,,,.,.
+.
+.
+..
+. _.,.,---- .
+.
+..- w,..
+=-. ...
+Alti-:l?res-:
+
+:
+
+q
+
+
+210 : 740 : 27.2° :C. Paoli-:6.925: 100°
+q
+
+
+.
+
+:Sard@na :
+
+q
+
+
+‘t . 2750
+:
+.
+
+~:2Q : 741 : 27.5° :Sard@na-:
+2
+*
+:C. Paoli :
+.,
+q
+
+q
+
+: km.
+
+: 4m146496: 86*8:
+*
+
+..
+
+q
+
+q
+
+q
+
+q
+
+km.
+
+—.
+
+“68.60
+: 8m16*4& : 50+3:
+.“
+.
+.
+q
+
+q
+
+q
+
+ANGLE OF DRIFT
+followed,:Angle of: Actual :Orientation:Angleof:Mean sn#-e
+:route by:angle of: of route : drift : of drift.
+j
+:GOmp8SS : routeA :
+
+Ro@J
+
+q
+q
+
+C. Paoli-Stuxiigna: 1000
+
+84°
+
+:
+
+Sardigna-O. Paoli ~ 275°
+
+790
+
+; 269°
+
+~
+
+:
+
+v’=
+
+259°
+
+:
+.
+
+; 10°
+
+q
+
+50
+
+q
+
+:
+
+q
+
+q
+
+;
+
+70 30’
+
+68 60
+= 69.19 km.
+Cos 70301
+q
+
+SECOND DETERMINATION
+Alti- :Pres-:Ternper-:Route
+tude ;sure :ature :
+.
+.
+.,
+.
+.
+q
+
+“El
+
+:
+
+320 :
+.
+q
+
+885
+
+:
+
+m/m
+
+q
+
+
+
+
+
+
+
+q
+
+
+
+
+.,,
+
+.
+.
+
+“:Dist.:~g~.e Qf: Time
+;
+:route by:
+.’
+:oompass :
+.
+;
+
+km.
+
+: C.Piio13=:6.
+925
+: Sardigna:
+15.2° :Sardigna-: [’
+:C. Paoli :
+
+
+
+
+q
+
+
+*
+.
+.
+
+:3peed:Mean
+: per :Speed.
+: hour:
+:
+
+km. :
+
+km.
+
+:68.68:
+.
+‘69.15
+:69.62:’’’’”
+: 265° ,,;,5m$8.ls
+.
+.
+.
+.
+.
+
+
+950
+
+: 6m3.3s
+
+q
+
+
+q
+
+q
+
+~,-.
+
+w-s?
+
+—
+
+-z——
+
+--
+
+-16”
+ANGLE OF DRIFT.
+Route followed :Angle of: A@ud. :Or:&&tit.#:
+:routeby:angle of:
+
+:oompass : ruute”:
+C.
+
+Paoli-
+
+95°
+
+:
+
+$.ardigna
+:
+Sardigna~
+Gg Pa03i
+
+v=
+
+:
+,
+
+80°
+
+q
+
+: 265°
+:
+
+: 263°
+:
+
+.
+
+:
+.
+
+:
+
+2590
+
+q
+
+=g~{~
+. Me= drifi
+of
+.
+
+.
+.
+
+q
+
+790
+
+q
+q
+
+An$:@-t:f:
+
+:
+,
+
+10
+
+:
+b
+
+4°
+
+----..
+.
+
+:
+.
+s
+:
+.
+.
+
+q
+
+2° 1/2
+q
+
+69,16
+C06’20 30~ = 6g’a2
+
+.,
+i
+
+,
+
+.
+
+,,/
+ii.,
+

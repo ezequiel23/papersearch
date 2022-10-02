@@ -1,0 +1,567 @@
+.
+
+*.
+
+REPORT No. 78
+
+.
+
+. ..
+
+..*
+
+.
+
+. .
+\
+
+THE LIMITING VELOCITY IN FALLING
+.
+I FROM A GREAT HEIGHT
+.V
+
+.
+
+.
+
+NATIONAL ADVISORY COMNU’J7.EE
+FOR AERONAUTICS
+
+‘.
+
+,-..
+,.
+. ...
+
+>
+
+..’
+
+r
+
+.
+
+“
+i
+
+. .
+
+.
+
+.,
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+.
+
+... --
+
+3
+.
+
+WAOEING1’ON
+GOVERNMENT
+
+PBINTINGOFFICE
+1919
+
+.._
+
+>——
+,..-
+
+.& #/#
+. . .. -
+
+,
+
+.
+
+REPORT
+
+NO.
+
+78
+,
+
+THE LIMITING VELOCITY IN FALLING
+FROM A GREAT HEIGHT
+v
+
+NATTONALADVISORY COMhWITIE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+v
+
+WASHINGTON
+QOVEBNMENT PB-C?
+Ins
+
+OPPXOE
+
+.,
+
+------q
+
+.
+
+.
+
+.
+
+..
+
+. .. .-...----- ..-. .— -.--..—
+-
+
+.
+
+..
+
+,..
+
+. .
+
+-
+
+.
+
+,,.-—_ ——
+
+.-
+
+4
+
+.
+
+.
+
+—
+
+.—
+.——
+
+REPORT No. 78
+THE LIMITING VELOCITY IN FALLING FROM
+A GREAT HEIGHT.
+BY EDWIN
+
+WILSON
+
+. .
+—
+M444-!13
+
+.
+
+3
+
+,
+
+- REPORT No. 78.
+THE LIMITING VELOCITY IN FALLING FROM A GREAT HEIGHT.
+By EDWRJ BrD&k
+
+WON.
+
+1. The fundamental characteristic of the vertioal. motion under gravity in a resisting
+medium ia the approach to a fial or limiting velocity U, whether the initial downward velocity
+is km or greater thag U. “The equations of motion are easily set up and integrated when tie
+density of the medium is constit ‘and the r~tance
+vmies as the square of the velocity.
+A fact not so much stressed k the slowness”of the approach to the limiting velocity U.
+For example the simple relation v’= 2gh, which ~gkw@ ~together the resistance of @e a@nmphere, shows that the height “hof release from -t must be about 10,000 feet before the object
+will attain a velocity of as much aS 800 ft./see. even withmt the opposition of the air reaistarye;__
+and when allowanoe is made for that r~ist~ce the height must h greater. If, therefore,
+terminal velooitiea of 900 or more feet per second, such ss me CUStomarywith airpltie bombs,
+are under consideration, it k ody h-the C=e of f~ from a Wqat height (upward of 10,000
+feet) that the terminal velocity can be ~y-@here nearly approached.
+‘Here, however, another d.iftictity enters. The resistance of the air varies with the density
+of the medium wd tti ~aria~on sho~d Dot be =~ed
+a Priofi ~ be negligible iR the C= of .
+fall from heights of upward of 2 mikk. In the standard table of densities at diflerent levek~
+the ratio P/po of the density at ~titude h to that at the emth has become about 0.74 at lQ,000
+feet, 0.62 at 16,000, and 0.44 at 25,000. The q~tion thus arises as to whether the changing
+resistance of the air may be taken iUtOaccout i.usome satisfactorily simple way for the discmssion of vertiwd fall.
+It is the purpose of this report to give that simple tieatient of the problem which I have
+ti the past offered to my C@EEJ at tie ~assachusetts ~s~tu~
+Of TOC~OIOgY; there are
+___
+or siIupIIx, but I have seen none.
+undoubtedly other solutions, perhaps equ~y ~@
+.
+2. The equation of motion is
+~g.
+
+–
+
+~9+%
+
+—
+
+.-
+
+.-.
+““
+
+.
+
+.—
+
+-.
+—
+
+L ----
+
+$b
+;
+
+..-
+
+Wei%h-f
+if W be the M
+v the velocity upwind, and @V2be the resisting force in pounds. With the
+--du 2cgp
+substitution u=@ the eqution redu~ ~ ~ ~u=- % :nd is l~em, but with a vafible
+coefficient p. The general solu@on may be indicated in the form
+Ue - %j-@ = -2+?
+
+- WI-
+
+.
+.
+
+dh+-c
+
+In order to perform the htW@on
+it is n~=~
+(tiSSS graphical methods are used) to
+time ti
+have = expression for P as .a f~ction of h that ~ s~~~nt]Y a~~ate ~d at tie_
+such form as to make integrable the two exprwsions
+
+~me work wilI be saved if the fit express~n w ikelf be represented by an empirical equa-tion directly without hati
+fit to d~~e
+-P~d b
+kt~ah
+that result.
+5
+
+_
+
+___
+.
+
+KNNUKREPOIM! ~0~~
+~
+
+6
+
+AINISORY CO~E
+
+—
+
+FOR kERONAiJTI(3S.
+
+3. Physically ~pdh is the amount of air b@ween the earth and the height ii in a oolumn
+This. amount can fortunately be read off immediately from a table of
+
+of unit cross seotio~.
+
+barometric pressures pat difTerentlevels-in fact jil’!l?l is simply pO pl, the drop in pressurein
+k
+–
+o
+pounds per square foot.
+If F (h) is the amount of air in inches of mercury, the following table givw the vaIue of F
+from h= O to h= 24,(S00feet,
+/=,
+
+~ -&
+.. ....“.,
+
+,* ... ,. ,
+,.
+,-‘-1,r
+
+._>
+
+R:
+
+4,0Q0 . .
+4.07
+
+““
+
+8,000.
+7.68 “
+
+q
+
+12,000
+10.85
+
+16,000
+“13.62
+
+20,000 ““
+16.02.
+
+24,000
+1s.09
+
+Now, ‘as the exponential of ‘F (multiplied by a oon&a@quwt3e
+integrated, it is adviaable
+to have a logarithmic expresion to. give the empirical relation between h and F, Try:
+F(h) = b log , (1+(dt).
+This holds for h= o and has two disposable ccmstants a and b. A least-squares solution could
+be. made to determine the best values for a. and b; but a sufficiently good redt may be had
+by passing tha curve through or near two sets of valu=. in the table:
+Fl:l?,
+
+F,=b log (l+a h,), F,=blog (l+ahJ:
+=log(l+a hi): log (1 +a hx),l.+a 1.,= (l+a
+
+—
+
+h.J~Il~s
+
+Let ~ =8,000. Then F, =7.68. IA F, =21?, = 15.36. Then hl is just under 20,000 and
+may --be taken as ~ = 19,000 by interpolation. Hence1+ 19,000 d =11 +8000 a)’=1 +16,000 a+64,0i30,000 d
+
+and
+a =3/64,000.
+
+Whence &= 24;1.
+
+Thus
+F(h) =24.1 log, (1 +3h/64,000) =55.5 log,, (1 +372/04,000).
+The values determined by this function F are
+h=o
+
+F= O
+
+4,000
+4.06
+
+8,000
+7.68
+
+12,000
+10.8
+
+16;odo
+13.5
+
+20,000
+15.9
+
+24,000
+18.1
+
+“.;” “-
+
+These check with the given values to less than 1 per cent, and therefore seem quits good
+enough.
+4. The empirical formula just obtained’ must be transformed over to stitable unit.kfor
+insertion in the integral of t.itii erential equation. Let U be the terminal or Iimiting velocity
+M
+of the projectile in air of the density POat the earth’s surface. Than
+
+If the units be the pound and foa~
+
+s
+
+‘pdh=+
+
+X 62.5X ~(h)=
+
+1706 log, (1+ 3h/64,000).
+
+o
+
+Taking g-22.17
+
+~d p,= .07608, the result is
+$Jpdh=
+
+-’”g(’+ao)”
+
+With an error of less than 1 per cent this maybe written as”
+.
+
+3f@’’(%%(l+-)*
+
+‘
+
+.
+
+. ...=
+-.
+.
+
+.n.
+
+THE LIMITING VELOOITY IN FAILHW3 FROM A CXLEATHEIGHT.
+
+7,
+
+An error of 1 per cent seems quite withii the range of accuracy possible in such work as this,
+where the variation of atmospheric conditions from the so-walled standard table may at any
+. particular time be considerable.
+
+..
+
+The integral is therefore
+
+4’+&o)-(%)’=-’’f+&
+oBo(%)%)’
+“y
+where the orily parameter remaining @ the terminal velocity 17in air of standard density.
+If in particular a particle starts from rest at the altitude H,
+
+“‘
+
+(’+&o)-c%)’=’’r(’+&)-(%)’fi.
+.. .
+
+The integral may bq evaluated readiiy, as the integrand is a simple negath-e power, but leads
+to a complicated literal formula.
+A simple case wotid be where ~= 1,200: Then
+
+.
+
+“=24+F%co)w’0~
+::K
+[1
+)
+
+q
+
+This ia the only case in which a logarithm enters; the others are algebraic, e. g.; if ??= 600;
+d ‘2{1
+
+‘
+
+.
+
+-----.*-
+
+-v%%[(l+&J’-(’+F%J’l
+
++ 64,000
+
+5. The formulaa thm obttied shotid not be applied to calculate velocities which are large
+compared with that of sound. It is generally admitted that the simple square law of resistance
+doea not hold for velocities much in excess of 800 ft./see. Just how well the law holds below
+that figure may still be co~idered do~btf~; but two recent authorities 03. VaUier, Balistique
+Exterieure, Encyclopedia des Sc.ienctis~fathematiques, tome IV, vol. 6, fast-. 1, p. 15, GauthisrViIlarS, Paris, 1913; and J- Prescott London, PM. ~ag., ser. 6, VOLXX, p. 332, Oct. 1917)
+seem to feel tolerably certain of the l~w for compact she~-iike bodi~ UP to 800 f tJsec.
+It W~.
+seen-at the start that irr~pective of air r~istance~ such a v~ocity ~otid not be obtained from
+re9t in a fall of 10,000 feet. If lJ= 1,200, the velocity of 800 ft.lsec. w-illbe reached at the earth’s
+surface only when the fall is thro~h some 15,000 feet. (Whether high v610citieamight not be
+attained at intermediate levels is a quastion that shouId not be overlooked.)
+6. It is often stated, as is indeed ob~us, that a body falling in a inedium of incretig
+density such M the air may remh a ma~m~
+velocity and be subwuentiy retarded before
+striking the earth. The terminal velocity toward which the body strives is of course greater at
+highw levels. The question of reactig a ma.fimu velocity is therefore a question of balance
+between the height Of f~ ~d ~he nat~~ r~istRnce Of the bodY re~a~v~ tO i~ ~ekht.
+A
+body of high te~al
+~elocitY (~ standard ~) rn~t f~ from a very great height in order to
+attain a maximum greater than the speed ~th w~ch it re~ch~ the earth) whwe~ a body of low
+terminal velocity need not fall so fm.
+The maximum velocity of a ‘body fdhg from rest k obtained by differentiating
+
+v’=2
+
+(
+
+3~
+~%)’
+H.
+3~
+1 +64, 000
+1’64,000
+)
+S(k
+
+The derivative of an integral with r~p~t
+
+to fihglower tit
+
+-(y)’&
+
+.-—.
+—---~.. .
+.—
+—
+.“-.
+
+.-. -.
+
+,--
+
+— .-
+
+_
+
+,4.
+
+.
+
+)
+
+is the negative of the integ~and.
+
+-._.
+
+—-”
+
+4
+
+8
+
+ANNUAL
+
+REPORT lTAmONW
+
+ADVISORY CC)M3dlTTEEFOR AERONAUTICS.
+
+Hence for the maximum of W,or of&
+1-
+
+/ will\.$+1
+
+“
+)L (’+*)-(:;l$;$;*)-(%
+
+-1+(%9(’+*‘%)’-’
+
+For a given H this equation will determine th~ level h where the maximum velocity is attained.
+If in particular this maximum should be at h =0, the altitude H of fall must be
+. .
+#:”o[(J@),+),-l_,]
+
+For example, if U= 600, H= 12,500. The maximum velocity will be reached before shiking
+the earth only if H> 12,500. If U= 1,200, the bracket has the vahm e-l= 1.73, and tbo.maximum value will not be attained unless the drop is from over 35,000 feet-levcds to which the
+empirical formulas used do not remain valid.
+In any case of resisted fall in which a masimum of velocity is attained the value of that
+maximum velocity mti-be the value of the terminal velocity at that level, because the body
+has been gaining velocity in the rarer. air above and will be losing velocity in the donscw air
+below.
+If, therefare, the velocity at L= O is below the terrninal velocity U, it may safely be
+a!muned that the value for h = O has not been exceeded; but if the value for h-O is Iarger
+than U, there has been a still larger velocity at some point of the path. The caution parenthetically suggested at the end of the last article can therefore ba obs~ved easily.
+MASSACHUSETTS- IMIITmE”
+
+OF TECHNOLOGY,
+
+0
+
+September 6, 1919.
+

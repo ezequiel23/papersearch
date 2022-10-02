@@ -1,0 +1,517 @@
+REPORT No. 9.
+
+“
+
+NOMENCLATURE FOR AERONAUTICS.
+
+I& The NATIOK&L ADVISOEY COMMI!I!TEE
+FOB AEBONAUlK3.
+
+29
+
+,
+
+‘1
+
+REPORT No. 9.
+NOMENCLATURE FOR AERONAUTICS.
+By The NATIOZVM
+ADmEOEY
+ComcrrrEEEWE
+bEONAWITOS.
+
+INTRODUCTION.
+
+For the information of those interested in aeronautics the following nomenclature has been prepared as a guidq with a view to eliminating the duplication of terms, the erroneous use of terms, and
+the principaI terms
+confuson of tand with a view ta deflni
+which have come into use in the development Y aeronautics. b the
+o
+preparation of this nomenclature ordy those terms have bean dehed
+whmh are new and peculiar to this subjeck
+AERONAUTICAL
+
+NOBIENCLATURE.
+
+ASEOFOIL: thin wing-like structure, flat or curved, d “ ed to obA
+T
+tain reaction upon its surfaces from the air throug which it
+moves
+&m.oPLANE seeaixplam
+:
+bRON:
+A movable auxiliary surface used for the control of rding
+motion-i. e., rotation about the fore and aft axis.
+&Eowrr: An form of craft designed for the navigation of the sir—
+kit+ kite-bako~
+airplanes> { sIIoons, dirigibles, helicopt~
+ormthopters, gliders, etc.
+AtSrLANE:A form of aircraft heavier thm air which has wing surfaces for sustentation, with stabilizing surfaces, rudders for steering, and power pknt for propulsion thrmigh the air. This term
+is commonly used in a more restricted sense to refer to airphiries
+fitted with hm~
+gear suited to ?peration from the lard
+If
+. .
+~&e$&%
+~=s~~e~’~~
+from the WWterthe ~em
+PdicT.-A
+@pe of airplane with L e propeller or propeks in
+.
+rear of the wings.
+Z’ractor.-A @e of airplane with the propeller or propellers in
+front of the wings.
+~:
+Am matrument designed to measure the velo+ty
+Am-srw
+of an aircraft with reference to the am through which it is mo
+Y
+kamnrrm: b instrument mounted on an aircraft to continuous ~
+indicate its height above the surface of the earth.
+kmmmrm:
+h instrument for measurin the velocity of the wind
+or air currents with refertmce to the eart% or some fixed body.
+S1
+
+82
+
+AERONAUTICS.
+
+Arwmz:
+Of attack.-’l%e an Ie between the direction of the relative wind
+and the chord o F an aerofoil, or the fore and aft axis of a
+body.
+@WcaL-The
+angle of attack at which the lift is a mmhmun.
+Uo?ing.-The
+angle the<fli ht ath makes with the horizontal
+when flying in st.~ am un%% Q@hgnce of gravity alone.
+gr.t
+&cm
+Mmo: The ratio of spread to chord of an aerofoiL
+AVMTOR:The operator or pilot of heavier-than-air craft. This term
+may be applied equall
+Ams OF M .AIRCRAFI’
+: $LF2~?GL~Z~;E;”E;~~centroidal and mutually rectan ula~.
+The principal longitudina f ans in the ~hne of symmetry, usually parallel to the axis of the propeller, E called the fore and aft
+ams (or longitudinal axis) ; the axis perpendicular to this in the
+plane of symmetr is called the.vertical axis; and the third. axis,
+%
+perpendicular to t e other two, M called the athwartshlp ams (or
+transverse or lateraI axis). In mathematical discussions the first
+of these axes is called the X a@ the second the Z a~ and the
+third the Y axis.
+B-m:
+A smaU balloon within the interior of a balloon or
+dirigible for the purpose of controlling the ascent or descent, and
+for. maintaining ressure on the outer envelope to prevent deformatiurr. The %1 lonet is ke t inflated with air at the required
+pressure, under the control o? a blower and valvea.
+BWON:
+A form of aircraft comprising a gas bag and a car,
+whose sustentation depends on the buoyancy of the contained gas,
+which is lighter than air.
+Ca@ive.-A
+balhcm restrained from free flight by” means of a
+cable attaching it to the earth.
+Kite.—An elongated form of captive ballfitted with “tail
+appenda~es to keep it headet! into the wind, and deriving increased M dua to its axis bem inclined to the wind.
+BANK: To incline an ai lane lateral!/y—i. e., to rotate it about the
+Y
+fore and aft axk Rig t bank is to incline the airplane with the
+right wing down.
+BANKING R-IJDDEX: ee AiIeron.
+S
+BAROQIiiPH: k
+instrument used to record variations in barometric
+prwmuw. In aeronautics the charts on which the records aro made
+are prepared to indicate altitudes directly instead of barometric
+B~=&A
+form of of” airplane ~ “~l&h the m& supporting surface is divided into two parts, one above th~ other.
+WDY OF AN AIIp.ANE: -A structure, usudy inclosed, which contains
+in a stream-hue h~us~~ the power plant, fueI, pawengem, etc.
+Carui: A flyin attitude m winch the angle of attacks is greater than
+normal; tail %
+own; down by the stenr-taiI 10W.
+Cm=:
+!L’he convexity or mse of a curve of an aerofoil from iti
+Chord, usually expressed as the ratio of the maximum departure
+of the curve from the chord as a fraction thereof. ‘{To Camber”
+refers to the to surface of an aerofoil, and ‘r Bottom 8 amber” to
+7!~ the mean of these two.
+the bottom sur1’
+ace; u M= C-r
+
+88
+
+AEROITAUT!KM
+CAPACCTY:
+Zi@n@—The
+
+maximum ff-@ng bad of an airc&.
+Camyzng.-Exc~”
+of the Ming capacity over the dead load of
+an aircraft, which latter includes structure, power plant and
+essential acmssories.
+CnRmG CAPAcrrr: See Ca &ci@.
+(JKW:
+The point in whit % a set of effects is assumed to be accunmlated producing the same effect as if aIl were concdrated at
+this Oint.
+0~ 6uoyanoy.-The center of gravity of the fluid displaced by
+the floating body.
+0~ rew.we o an aero@U.-The pokt on the chord of an element
+0f an aero1oiI, prolonged if necessary, through which at any
+instsnt the line of action of the resultant air force p~
+Of preeaure of a body.-The point on the axis of a bod ~ plonged if necessary, through which at any instant the L e of
+action of the resultant air force passes.
+CHORD
+:
+Of an aerofd aecth.—A right line
+ent to the under curve
+of the aerofoil section at the front Y rear.
+an
+LengtL-The
+1
+of the chord is the kngth of the aerofoil
+section projecte on the chqrd, extended if necessary.
+T
+to the means provided for opC!oNmt?m: A eneral term appl
+-I
+era
+the 5 evices used to contro speed, direction of fight, and
+attitu e of an aircraft.
+?
+*CAL
+mcmlz: see As@% CriticaI.
+
+“c-m:-h of“R-L’ mwdh ‘v
+upper vnng
+a biplane ‘e re
+
+erence to
+‘-e?h~;
+
+?;:?:W%
+
+OF A F%OPELUIR: A layout of the area of a propeller
+Made designed to represent the total mea of the drivin face, in
+which the elements of area are developed as if unfolde c? onto the
+plane of the &awing (necessarily an a proximatioq on d@nite
+aesumptio~ as no true dedopment of J’ e helix can be made).
+Drmm~ ~ LY AISPUNE: The angle included at the intemection of
+ary surfaces containin the chords of the right and left
+the ima
+5
+win
+rcontigued to the hme o symmetry M necessary). This
+ang F is measured in a. p? ane perpendicukm to that inte~tion.
+e
+The dihedral of the upper vrLhgmay and frequently d= differ
+from that of the lower wing in a biplane.
+D~GIB=: A form of balloon, the oute~ envelope of which is of elongated fo~
+provided with a propeIImg eyst~ car, rudders, and
+stabiIizinq surfaces.
+Nontigad.-A diri@Me whose form is maintained by the pressure of the oontamed gas a&sted by the car-suspension system.
+Rigid.-A
+dirigible whose form is maintained by a rigid etructure contained within the envelope.
+&rniri@d.-A
+dirigible who% for-m is main@ned by means of
+its attachment to an extemor gmder constriction containing
+the car.
+DISK AREA OF A PROPELJJXZ: he total mea of the disk swept by the
+T
+propeUer tips
+DmrxG F&mDIIE: devator.
+See
+72S05°+. Dec.659,Gi 2
+3
+DEV%%EII mm
+
+84
+
+AERONAUTICS.
+
+Dorn: A general term a plied to the material used in treating the
+cloth surface of air-p 1? members tm increase strength produce
+ane
+tautness,and act as a ~er to maintain air-tightn-;
+usua\ly of the
+cellulose typa
+DM~: The total resistance to motion through the air of an air crafti, e., the sum of the drift and head resistance.
+Dmm: The component of the resultant wind pressure on an aerofoil
+or wing surface parallel to the air stream attacking the surface.
+ELXVATOR: A hinged surface for controlling the lcmgitudinal attitude of an air craf&i. e., its rotation about the athwartship
+E;%&, mm OR mm HAND:The disthtion between a right-hand
+‘ and a left-hand engine depends on the rotation of the output shaft,
+whether this shaft rotates “in the samg direction as the ~ank or
+not. A ri ht-hand engine is one in which, when viewed from the
+%
+output sha , looking toward the output end, the shaft is seen to
+rotak cbckwise.
+E~NG
+EDGE: he foraost
+T
+art of an aerofoiL
+~Ns: Small phmss on air cra! t to promote stabili@; for example,
+vertical hi] iins, horizontal td fins, skid fi~ etc.
+ElmGmr
+PATH:The path of the center of gravity of an air craft with
+reference to the air.
+lhOAT: That portion of the landing gear of an air craft which provides buo ancy when it is resting on the surface of the water.
+l?-mmucm: i! ee bod .
+G=: The distance i etween the projections on the vertical axis of-the
+entering edges of an upper and 1ower wing of a biplane.
+G=E: To fly without power.
+Grmnm: A form of air craft SimiIar to .an airplane, but without any
+power plant.
+When utilized in variable winds it makes use of the soaring
+principles of flight and is sometimes called a soaring machine.
+G~ING AN-:
+See bgle, Gliding.
+GW: A rope, chain, wir~ or rod-attached to an object to guide or
+steady it, such w
+ys to wing, tail, or hmling gear.
+HEAD
+iUWSTANCiS:
+Tr e total remtance to motion throu h the air of
+aIl parts of an air craft not a part of the main li F
+ting surface.
+Sometimes termed “ araeite remetanc~”
+IImzcormR: A form o f air craft whose m port in the air is derived
+from the vertical thrust of large prope 1’
+lers.
+Iknmoumm:
+An instrument for measuring the angle made by any
+axis of an aircraft with the horizontal
+The40.tal effective area of an aircraft which acts
+Kmm PLANE -A:
+to prevent skidding or side slipping.
+Krm: A form o&aircraft without other ro~llin
+means than the
+towline pull, whose support is derived ! rom the $ orce of the wind
+moving past its surface,
+Krm9muocm: See Balloon, kits
+LANDING
+GEAR: The undei structure of r& aircraft designed to carry
+the load when resting on, or running on, the surface of the land
+or wat8r.
+hma~
+STABILZTY: Stability, lateraL
+See
+LsmxmG-:
+See Entering edge.
+
+AEEONAUTICM.
+
+35
+
+LEEWAY:The anguhm deviation from a course over the earth, due
+to cross currents of Wind.
+b:
+The component of the force due to the air rcssure of an
+mrofo~ resolved perpendicular to the flight pa t% in a mrtical
+phum
+Imrc BRAorNG see stay.
+:
+Immi-G c&mmY: See .Cap@~, Iifting.
+LOADFULL: See Capady, hftmg.
+kmeme (or usefd).-%w
+Capacity, omrying.
+&%!%%YN!:z$2ft
+member of the framing of an airplane body, or of the floats, usually continuous across a number of
+points of support.
+STAZQJTY:
+h&YINAL
+See Stabili@.
+omrna: Th? point of intfm+ion of a verticaI *e through the
+Ixnter of
+“G ‘f small angle from
+a ~~ati~$$lxa
+it is tipp r through a‘e ‘lwd *’ad”by Its posdxon o
+and the inclined line which was vertical through .th~ center of
+gravi~ of the body when in equilibrium There
+a difermt metacenter for each type of displacement 7 the %**’
+o m oatmg
+body.
+MONOPLANX: form of airplane whose main su porting surfice
+A
+is disposed as ~ single wing on each side of the bc I y.
+Mcmcm: See En
+a
+~ACEILE: See IF
+cii’.
+ml’uRMl mmurirm: See Stabili .
+NosE Dmn: A dangerously skp %escent, head+n.
+Oaiommi:
+A form of aircraft deriving its support snd pro@hug forca tim ila ping Win&
+PrroTTD-sE: Atubewit E an=dopen
+uaretothefiuid stream, used
+as a detector of an impaot resure. % ore usually associated with
+a concentric tube surroun L“ g i~ havin
+rforaticms normwd to
+the axis for indicating static. resmre. w e velocity of the fluid
+can be determined from the d erence between the impact pressure
+and the static ressure. This instrument is often wed to determine
+the wlocim of amaircraft through the air.
+—
+l?Rol?Emm:area of a propdler.
+Devekped area of.-See 13evdo
+D&k area o .-See Disk area.oP a propeller.
+Right-ha d .-One in which the helix is right handed.
+Pus=:
+See Airplane.
+PYLON: A marker of a coursa
+:
+)&liI OF A I?EOEELLER The air &ream delivered by the propelkm
+RIs : ses wing.
+RIGm
+
+(OR m)
+
+HMD:
+
+.%@w+.See
+En “ &
+Pm=pt?2zkr.43ee1? o~eller, right-hand.
+Rmro DIIUmmiE: See Dir@ble, rigid.
+RUDDER: hinged or pivoted surfa~ usuaUy more or less flat or
+A
+skresm I&@ used for the purpose of controlling the attitude of an
+aircraft about its vertical axis when in motion.
+s EAPLANE: A particular form of aicphme in which the landing gear
+ia suited to operation from the water.
+
+86
+
+AEF&ONAUmCS.
+
+SIDE
+~~:
+
+sliding toward the center of a turn. It is due to excwsive amount of bank for the turn being mad% and is the opposite
+Of skid”
+.
+SrCmDINQ: “ding sideways in flight away from the center of the
+YS
+turn. It is usuall caused by insufficient banking in a turn, and is
+the o mite of sii e slippin .
+Sms : % ng wooden or metaf runners designed to prevent nosing of
+a land machine when lanolin or to prevent drop ing into holes
+or ditches in rough ground. /? enerally designed to !’unction should
+the wheels coIlapse or fail to act..
+Srm?: This term a plies to propeller act@n and is the difference between the actua? velocity of ad~ance of an aircraft and the speed
+oakmlatad from the known pitch of the propqller and its number
+of revolutions
+SOMUNQ
+MACHINE: ee GIider.
+S
+SmgAD: The maximum distance laterally from tip to tip of an airphme win .
+5 he quality-of an aircraft in flight which causw it to
+STAB~r:
+uilibri~m wh~ meeting a disturbance.
+return to a condition of
+% ynamical stabilhq .“)
+(This is sometimescalled”
+DirectionuZ.-Stability vvith reference to the vertical axis.
+lAnwn.t.-Stabili~
+of an aircxaft due tu the disposition and
+arrangement of Its fied parts.
+Lztera+?.-st-ability with refererm to the longitudinal (or fore
+and aft) axis,
+L
+itudznal.--stability
+with reference to the lateral (or
+Y wart&i ) axis.
+at
+&?~
+: See 1?ins.
+Me&mi&?.-Any
+automatic device designed to secure stability
+in flight.
+STAGGER:
+The amount of advance of the ent+ng edge of the upper
+wing of a biplane over that of the. lower; It is considered powtive
+when the upper surf ace is forward.
+STALLZN~: term describing the con&tiori of an ai Iane which
+A
+from an cause has lost the relative speed necessaryT or steerageway an2 controL
+STATOSOOPE:An instrument to detect the existence of a smaU rate of
+ascent or descent, princi ally used in ballooning.
+used as a tie iece to hold parts
+STAY: A wire, rope, or $ e hh
+together, or to contribute stiffness; for exampi’e, the stays of the
+wing and body trussing.
+STEP: A break m the form of the bottom of a floak
+SWAM-LINE
+I+OW: A term in h dromechanics t~ describe the condilnon of continuous flow of a J uid, as distingmshed from eddying
+flow where discontinuity takea place.
+STEEAM-IZNE s-:
+A shape intended to avoid eddying or discontinuity and to preserve stream-line flow, thus keeping resistance to
+progre9s at a minimum.
+STRUT:A com ression member of a truss frame; for ins@me, the
+vertical me.m m of the wing tu
+L
+of a biplane.
+Swmr BAOK: The horizontal angle between the Iateral (athwartship) axis of an airplane and the entering edge of the main planes
+
+,
+
+AEEONAU~CS.
+
+37
+
+!Ihn: The rear portion of sn aircraft, to which are usudy attached
+rudders, elevators, and h.
+TUL FINS:The vertical and horizontal surfaces attached to the taiI,
+used for stabilizing .
+T-T
+DEDU~ON:% ue to the influence of the propeller% there is
+a reduction of pressure under the stern of the vesd which ap ~oiably reduces the total propdaive effect of the propekr.
+?hls
+reduction is termed” Thrust deduction.”
+TaAccoR:
+
+See
+
+“
+
+hum
+
+T
+%
+e rearmostportion of a& aerofoiL
+h~G
+y~orm
+of airplane whose main supporting surfaces me
+divided into three art% superposed.
+TRUSS:The framing % which the wing loads are transmitted to the
+y
+body; com rises struts, stays, and spars
+vkLo3m’rml: L e Air-speed meter and anemometi.
+~PIQd:
+S~ ~~dedive.
+W-~&:
+Due to &e influence of skin frictio~ edd “ g, etc., a
+~eesd in moving forward produces a certain forwar P movement
+of the fluid surrounding it. The effwt of this is to reduce the
+efkctive resistance of the hti, and this effect, due to the forward
+movement of4he wake, is termed the u wake @n.n
+In addition to this effectthe forward movement of this body of”
+fluid reduces the actual advance of the propelIer through the surrounding medium thereby reducing the propeller horsepower.
+WARP: To change t~e form of the wing by twisting it, usuall by
+changing the inclination of the rear spar relative to the L nt
+‘N%Y5”: The main supporting surfaces of an +@sne.
+~~a~ADmG:
+The weight carMed per umt area of supporting
+WHC+ ~: A fore and aft member of the wing structure used to
+support the covering and to give the wing section its f orm
+Wnw m=: An athwdship member of the vving structure resisting
+tension and com rwsion.
+YAW: To swing o f? the course about the vertical ax@ owing to gusts
+or Iack of directional stability.
+A.@
+o~.—The temporary mq@ar deviation of the fore and aft
+axis from the course.
+
+—
+.
+

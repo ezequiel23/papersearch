@@ -1,0 +1,1070 @@
+REPORT No. 94
+
+THE EFFICIENCY OF SMALL BEARINGS IN
+INSTRUMENTS OF THE TYPE
+USED IN AIRCRAFT
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+WA.SHINGTON
+GOVERNMENT PRINTING OFFICE
+1920
+
+co
+
+I E£
+
+REPORT No. 94
+THE EFFICIENCY OF SMALL BEARINGS IN INSTRUMENTS
+OF THE TYPE USED IN AIRCRAFT
+By F. H. NORTON
+Aerodynamical Laboratory, National Advisory Committee for
+Aeronautics, Langley Field, Va.
+
+186356-20-1
+
+1
+
+REPORT NO. 94.
+THE EFFICIENCY OF SMALL BEARINGS IN INSTRUMENTS OF THE TYPE USED IN
+AIRCRAFT.
+By F. H.
+
+NORTON,
+
+Aerodynamical Laboratory, • . A. C. A., Langley Field, Va.
+
+SUMMARY.
+
+This inve tigation was undertaken by F. H . .r orton, physici t at the research laboratory of
+the National Advisor y Committee for Aeron au tics, L angley Field, Va., to upplement tLe
+r ather meager data available on the construction and mechanical properties of small bearing
+and pivots suitable for use in aeronauLical in truments . The tatic and running friction, for
+thrust and r adial loads, was determin d for se eral conical pivots and for plain cylinch-ical
+journal and ball bearincr. Also the tatic rocking friction wa measured for several conical
+and ball bearing under a heavy load, especially to determine their suitability for u e in an
+N. P. L. typ e wind tunnel balance. It i found that for a given small load the conical pivots
+give less friction than any other type, and their wearing qualities, when hardened, are. excellent.
+When the load xceeds about 1,000 gms., ball bearings give les friction than pivots, and, of
+COUl e,
+tand shocks and wear better. Very mall ball bearings are unsatisfactory becau e
+the proportional accuracy of the balls and race i not as high as in the larger size. For
+rocking pivots under heavy loads it wa found that a ball and ocket bearing was superior to
+a pivot resting in a ocket. Vibration greatly reduces the tatic friction of a pivot.
+RU NING CONICAL PIVOTS.
+
+The pivots oil be t if mounted on the r evolving part, and on very mall pivot it i be t
+to cut a small groove abovo the point for an oil stop, a on the balance staffs of watches. Tool
+steel, such as used for making taps and reamers, is most uitable for pivots. The pivot aro
+
+rig. 4.
+
+~
+rig.S.
+
+turned to size, hardened, and drawn very slightl y. The point of the pivot can now be polished on a r evolving lap, as hown in ficrur e 1. Fino emery is u od first, and then rouge, tLo
+hal'dne s of the lap determining the radius of the point. A metal lap will give a mall radius
+and a cloth lap a large one, but it is u ually nece al'y to examine the point under a micro cope
+and get the radius correct by hand lapping. It is not possible to grind a saLi factory pi at
+on a cylindl'ical grinder with an abr asive wheel, a the size of the grit, in even a fine wheel,
+appl'o ache the diameter of the pivot at the point, and a ver y irregular surface i obtained,
+even though it may look smooth to the unaided eye. As only the extreme point of the pivot
+bears, thi portion mu t be polished carefully; the surface on the remainder of the pivot is
+of little importance.
+3
+
+4
+
+REPORT NATIONAL ADVI SORY COM UTTEE FOR AERONAUTICS.
+
+The sockets may be made by turning, turning and lapping, countersinking a small hole,
+or by punching, the las t being by far the rna t satisfactory meLhod. It i neces ary to make a
+punch of the correct angle and radiu of point in the arne manner as the pi-vat, and it hould
+be hardened and polished with the arne care . It i.' convenient to hold thi punch in a guide
+over the center of the hlank ocket, as hown in figure 2 . It i very important that the punch
+he truck only one hlow, ,,-hich gi,e a socket a highly polished a the punch. If more than
+one hlow is struck, the polish is 10 t. The ocket is now hardened to the sam degree a the
+pivot. It is important that the radiu at thc bottom of the socket be equal to that on the
+end of the pivot (fig. 3), for if it is larger Lhe piYot will slid around (fig. 4), and if it is maller
+(fig . 5) the friction i consider ably increa cd. Before assembly both pivot and ocket must he
+car efully cleaned to remo,e any chips or grit, and \\ hen together should he oiled with a ligh t
+oil, uch as watch oil, more for protection than for luhrication .
+The running fric.tion was cl termined hy mounting a flywheel on the pivot .to he te ted,
+as shown in figure 6. The wheel ,,-a driven so that its speed was alway the same at the start
+and then allo\\-ed to ome to re t by it o\\-n friction, the time being taken, thus giving t.he relative running friction. The weighL of the mo,inO' part was 160 gms . and their moment of
+inertia 425 cm. 2 , 0 that the radiu of gyra tion was l.63 cm. In order to obtain some idea
+of the actual ,alue of th running friction, one scI, of pivot was te ted ,nth the air friction
+eliminated in the following manner: .A. hollow hra 's case wa {i.tted around the wheel and
+helted, so that it could be driven at any peed. A small lit in the rim of the ca e allowed
+the wheel to be started by the frietion of a smaIl rubher di k mounted on a motor. Thi slit
+also allowed a black spot on the rim of the \\ heel to he ohserv 1. Th wheel was fU' t driven
+by the motor to a given peed, and the ca e was r volyed in the ame direction and speed a
+the wheel. It was po ihle to keep the b ox within a few revolutions a minute of the wheel at
+high speed by the strobo copic effect of the lit in the hox and the pot on the wheel. At
+very low speeds it \va m ore diffi ult to keep the speeds equal, hut the air friction is almost
+n egligible at this time.
+As the only friction i pivot friction and the moment of inertia and iniLial speed of the
+wheel are known, the runninO' friction may he found.
+sing the ame \\-heel and pivot without
+the ca CJ we have the same initial kinetic cnergy and pivot fliction, hut also air fliction, \\'hich
+van e. a the quare of the rotational speed.
+If
+T = average frictional moment of hc pivot,
+and
+A = average frictional m oment of the ail',
+K. E. = ~ Iw2 = ~ Twi + ~Awt
+When A = 0, i, the time to come to rest, is known for one case, and knowing 1, the moment
+of inertia of the wheel and w, its initial velocity, T, can he solved for. Now, ubstiLuting this
+value of T in the equation and calling t the Lime to come to rest in the open ail' with the same
+pivot, we can olve for A, the value of which i independent of the nature of the bearings
+used. A uming that the friction is proportional to the time required to come to rest, it is
+p ossible by sub tituting in the equation, this time for an}' pivot, to obtain the approximate
+running friction for that pivot. The result obtained in this way can only be an approximation,
+a it involves the a sumption that the frictional moment varies with velocity in accordance
+with the same law for all piVOL , and also that the air frictional moment varies in the same
+manner. If it be a sluned, for example, tbat the running friction varies with speed less rapidly
+than do e the air friction (as is generally the case) the eIrect of the air friction will be less than
+that computed when the pivot friction is smaller than in thc case used as a basis for the
+computations, and larger when the pivot friction excceds Lhat value.
+The value of A was computed in one ca e !tnd found to be 0.203 gm. cm. C::ince this moment
+acting alone would bring the wheel to r est in 13 minutes, and since the best pivot ran for over
+20 minutes in free air it i e'(Tidcnt that, as predicted in the preceding paragraph, the computed
+air friction is too high t be used in correcting the I' sults with exceptionally good pivots.
+Tests were made with the shaft horizontal, and also with the shaft vertical, and the lower
+pivot acting as a step bearing.
+
+FIG.6
+
+I
+
+J
+FIG. 7.
+
+FI G. 13.
+
+5
+
+EFFICIENCY OF SMALL BEARINGS I N INSTRUMENTS USED IN AIRCRAFT.
+
+The static friction was determined by placing a graduated beam on the pivot axle and
+sliding a rider of lmown weight out from the center until th axle started to revolve. This
+point was fo und on each side of the axle and the mean of the two r eadings taken as the moment
+arm. I t was found that the static friction varied for difI'erent positions of the axle, presumably
+because of minute irregularities in the pivots and so\.kets, so sever al readings were taken and
+averaged. The static friction was also determined for the shaft alone. The apparatus for
+doing this is shown in figure 7.
+In the following table are given the propert ies of the coni cal pivots tested:
+CONI CAL PIVOTS.
+Time to come to
+rest from 3,000
+r. p.m.
+Pivot.
+
+Starting moment.
+
+Socket.
+
+Centering.
+Vertical. IIorizon- 160 gms.
+tal.
+weight.
+
+Remarks.
+
+Wear.
+
+25 gms.
+weight.
+
+-----em . gm.
+
+60', fair ~oli~h, hard- iSO, RunChed, 0.001ened, .001-inch rAinc radius.
+dius.
+Do ......... ... ... go', punched, 0.001inch radiu<.
+Do ............... 120°, punched, 0.001inch .. adiu,.
+60°, rather rough sort 90°, punched, 0.001steel, 0.002-inch rainch radi us.
+diu".
+Do ............... 90°, turned, O.OO5-inch
+diameter flat ,pot at
+bottom.
+Do ............. .. go', turned, O.013-inch
+hole in cenl er.
+Do ............ . .. Coradi socket from
+planimeter I
+
+60', high ly polished,
+bardened, 0.0005inch raclius.
+
+47
+
+2?
+
+l! 45
+
+em. gm.
+
+0. 170
+
+0.023
+
+Very good ... 1.............. ... .
+
+00
+
+.151
+
+.Oll
+
+Good ........ /••.. ...... .. .... . .
+
+22
+
+.132
+
+.011
+
+Poor ........ ... ............. . .
+
+10 37
+
+7 12
+
+. 280
+
+.066
+
+Oood ....... . ................. .
+
+21
+
+12
+
+.292
+
+.033
+
+Very poor .
+
+12
+
+9
+
+22
+
+2 50
+
+4 10
+
+55
+
+6 50
+
+20 30
+
+15 15
+
+90°,
+
+O.OOI-inch hole.
+go', punched, hardened, high polish.
+
+..... :~~.1 .....:13~.
+.080
+
+I
+
+..!, ........... ..~.
+
+Very good. .. 0 rooye worn on
+spind le.
+Good .. . ..... Groovp
+
+WOfD
+
+on
+
+Coradl spindle.
+
+Pi'Cot hroke during te, t.
+
+.008 ..... do .. . .................... . Poli<hed on revolving lap; no
+wear ;
+
+sta tic
+
+friction inaccu-
+
+60', highl y poli<hed
+soft steel, 0.0005inch radius.
+
+go', punched, soft steel,
+higb polish.
+
+rate.
+00 ....... . ............ Poor. ... . . _...... ............ . Wore badly .
+
+00
+
+Res ults are for two pivots, one on each side of wheel.
+
+In figure are plotted curves h owing the effect of the ocket ana-Ie on the friction. A 75°
+socket gi,es the best centerina-, and the 120° the lea t friction, but a a general thing a 90°
+ockets
+socket will be fo und most ati factory and is almost alway u ed in instrument.
+SlATie AND ITUNM'NG FITICT
+ION
+
+ror a pair- 0,60 'hordened SIeel Pivots in a Sleel
+
+0'
+
+0'
+
+0'
+
+Socket
+varying Angle. Hadius
+e nd
+Pivot and Socket obout.OOl"wilh ,air-Polish.
+
+lEO'
+
+~_+--I--+-~~I
+
+S
+!'<
+
+~
+
+~ 115 ' .\:"I:i
+
+b,110'
+~ 105'
+.1; 100'
+...
+
+<:: "
+;g%I---.J
+
+01:)
+
+~ Cl
+
+.!Q
+
+.II)'J
+l; lIj
+
+~&
+. ~~
+
+,~ ~~: ~
+~
+85'
+
+\J
+
+{
+
+75'
+
+I
+
+I
+
+\.. --t--H-+-I
+O'ti
+"
+~O ' - q. ~"I:i
+1:: 0-
+
+II) 0
+.l;'J
+
+~ ~I--I-- ~ ~
+
+-
+
+\t: ~-I-- &~--
+
+-:=
+
+0%:;::<::)
+
+~.s.1I).,j~f2
+
+l~'t: ~~t.LJ 195~
+Ii:.
+~
+Vl'<:
+
+'1
+
+~
+
+~
+
+!::' -...:
+
+!\~ ~f17~/'-r-
+
+}
+
+t 8D'--\~
+
+\~{J ~C'q
+I-""
+
+~"'I-+--+--+--+
+
+70·~+-+-4-4-~~-+-+~~--1--~t-4
+
+o
+
+I
+
+4
+6
+8
+~
+R
+M
+77mein ",inu/es to CQn1e to re:;t ffO/77 3000 r.p.rn.
+.000
+.100
+.cOO
+.300
+Fi9.8.
+Starling Torque In gm. cenf.
+
+E
+
+186356-20 -2
+
+6
+
+REPORT
+
+ATJONAL ADVISORY COMMITTEE FOR AERONAUTICS .
+
+with hole in Lhe bottom gi, e good centering but ha,e con iderable friction . An en.larged
+section of this tn)e of soch-et, which i u ed on some planimeter and imilal' in trument , is
+shown in fio-ure 9.
+As hown in the pr eceding table, two similar ets of rivots and soel et were tested, one
+hardened and the other oft. The hard piYot an I soc: 'et howed no sign of wear, while the
+soft one wore so badly they rattled around loosely in tbe sochets and gave more than twice
+the friction or the bardened ones. Pivots were tried with and without oil and showed no
+appreciable difference in either tatic or running friction.
+The radius at the point of the pivot can be made as small a 0.0005 inch when it i de ired
+to r edu ce the friction to a minimum, giving a starting torque of only 0.0005 gm. cm . per gm.
+of weiaht. A pivot of this sharpne s can not be u cd for loads much greater than FO gms.,
+and it is advi able for continuous running to make the radiu twice a large a this. If the
+pivots and soc;, ets are hardened and highly poli hed they mal e excellent bearings for light
+load and give less friction than any other typ .
+METHODS OF HOLDING A D ADJ STING PIVOTS AND
+
+OCKETS.
+
+Soc~. ets must be capable of a fine adjustment and when adju ted be solicUy supported.
+Se ,- eral atis'a tory methods of doing thi arc illu trated below. In figure 19 i shown the
+method u ed by Coradi. This i an excellent arrang-cment, as th soel. et is not rotated while
+
+rig. 17.
+
+N9· 20.
+
+rig.22.
+
+ri9.21.
+
+being adjusted and can he firmly clam,o e I in . lace. It tal.e up con iderable srace, howe,er,
+and can not be used in some locations e or this l' a, on. Another method is hown in fir ure
+20 that is q uite ati "actOl".\' and im 1e to constru ct.
+screw and lock nu Lj sometimes used
+(fig. 21) hut is not suited to fine arlju tment. Fir ure 22 shows th!:' method or loe -in(~ the
+balance soc' °
+ets in c1oc!, s by mean or fl ell )f cd " ring washer. This method gi\es only a
+small adjustment and rather insecure loc' in'J;.
+RUN
+
+n G CYLI DRICAL BEARINGS.
+
+The cylindrical piyot were turned a smoothly a r-ossib1e on a lig-ht lathe and were giy n
+a fair polish with crocus cloth, hut were not hardened. The so !.ets were drilled with an
+ordinary twi ~ L elrill and were not Ja~ eel out. The pi';ots were an ea7 fit in the ocl'ets, but
+no 100 eness cou.ld be fel t when they were oiled. The friction did not, howeyer, seem to be
+altered b.v any reasonable amount 0" )00 eness. The tatic and runniIl<?: friction was determined in the ame way a he'"ore l hut the 1 earin': Kere run in WI til the friction wa con tanto
+
+7
+
+EFFICIENCY OF SMALL BEARINGS IN INSTRU;\1ENTS USED IN AIRCRAFT.
+
+All bearinc;s were oiled with pOl'poi e-jaw oil.
+table:
+
+The re ults obtained are I'i\ en in the following
+
+CYLINDRICAL BEARINGS.
+T ime to I Sta rting momeni- I
+come to
+Pivot.
+
+r~t' Jt;gm
+
+Socket .
+
+r. p. m.,
+
+1~~\~
+
+- - - - - - - - - - - - - - - 1 - - - - - 1 zenial.
+
+gros.
+weight.
+
+1 160
+
+I
+
+25 gros.
+weight.
+
+I
+
+1_ _ _ _ _ _ _
+
+Mean
+
+Wear.
+
+R emarks.
+
+running
+
+fricLion .
+
+1 - - - - - - - - - --1
+-
+
+_
+
+gm . cm.
+
+h
+h
+h
+h
+h
+h
+
+inch long, average diameier 0.0964 inch. . .. Brass.....
+0
+0.60
+one ....... .
+2.9
+4.70
+inch long, a\'erage diamet er 0.0520 inch ........ do. . ....
+1
+.24 .... . do ...... .
+1. 27
+1. 92
+inch long, average diameter 0.0335 inch ....... do. .....
+2
+.27 .. . . . do . .. ... .
+.85
+. 89
+inch long, average diameier 0.0215 inch ...... . do. . .. ..
+4
+.53
+.37
+.34
+inch long, average <liameier 0.0157 inch ... . ... do......
+4
+. 50
+:i~ I ·C·~~~i~erabie:
+inch long, average diamcier 0.0124 inch ....... do... .. .
+4
+. 03 .... . do .......
+. 34 Pivot broke fourth nm .
+. 39
+;. inch long, average diameter 0.0520inch .... Stee!......
+I
+-;. inch long, s\'erage diameter 0.0124 inth ...... . do .. ....
+'1 35 ....... . .. . ........... . .. ........ . . . ..... .. . . Ph'ot broke third run.
+::r inch long, average diameter 0.0215 inch . ... Brass .. ... . ..... . .. .
+.08 ..... .. . .. .. .... ............. .... .. Vibrating under same
+conditions as in air·
+plane.
+-;. inch long, average diameier 0.0964 inch ....... do ................ [
+Do.
+. 21 ........ .. 1....................... ..
+
+I.
+
+Results are for two bearings, one on each side of wheel.
+
+Ii'UNM'NG FRICTION
+OF
+
+CYL INMICAL 8CAtl'INGS
+Sleel sla// , f'airpol/sh
+s
+In drilled brass Sockets.
+A llbe arings '/64 'lon 9
+Axis horizonla!.
+./00
+
+~
+'6. 080
+-!;
+
+.~
+
+~. 060
+.~
+
+~
+
+'6. 0 80
+
+\
+
+l:
+
+,
+1
+
+~
+
+.~.020
+c'S
+
+.........
+
+r--
+
+-
+
+"o
+
+.~.020
+c'S
+
+2
+
+3
+
+4.
+
+il
+
+5
+
+r'90 l l.
+
+/
+
+.
+
+l /.
+J ./'
+
+/ ,60 q
+
+y
+
+, /
+
+./
+
+./
+
+V.
+STARTING FRICTION
+OF
+I-CYLINDRICAL 8eARINGS.
+Steel staf'f's,f'olrpoNs;' I-In drtlled brass Sockels. I-A ll bearings 'I64-/ong.
+
+V
+
+.000
+.00
+
+Po.
+
+/
+
+/ ' rflS
+
+Ii
+~ . 04.0
+
+steel Socke l
+I
+
+-
+
+.~
+
+\ WI. on b earings
+160gms . - Steel"",
+-Soclret. \
+
+....
+o
+
+0-
+
+~ . 060
+
+1
+\
+
+,...-/""'-
+
+0-
+
+~
+.~
+
+\
+
+.
+/' '000'
+
+fg
+
+r- ,-- --:;
+
+'Ii
+
+~ . 04.0
+
+rig. 10.
+
+j~.
+
+./00
+
+iii
+
+2.00
+3.00
+4.00
+1.00
+Slarling Tor q u e ,n gm. cenl: lOr pair of' Bearings
+
+5.00
+
+Tiinein mlnl.lles to come roresT
+
+f'rom .3000 r: p . ".,. Two b e ann9s .
+
+A cunT of bearing diameter against running time i plotted in fiaur 10. The friction
+e
+decreased rapidly \\ith the diameter, until about 0.035 inch is reached, then the slore of the
+curve becomes much Ie s do '.-n to a diameter of 0.020 inch. At this point the curye turn
+down sharply, 0 that no decrease in friction is obtained by reducing the diameter further.
+It is probable that the oil film breaks clom at thi point, as e,idenced by the rapid car below
+thi diameter . For diameter~ in exce of this cri tical ,alue the CUITC i a1~l'roximately a rectangular hyperbola, indicating that the frictional moment i directly pro) lortional to the diameter, and, therefore, that the frictional force acting at tho periphery dopenc!s only on the magnitude of the total load and not on the inten ity of pre SUl'e. It i e"j( ent that a small bearing
+should not carry ov~r 500 pounds per square inch of projected ar ea and 300 round ,\ ould be
+safer. '.Gvo ize of sockeL \\~ere tried of SLOel but the ame result \' a obtained.
+In figure 11 the static friction is plotted against bearing diameter for t,,-o loads. The
+values arc rather irregular becau e of inequalHie ' in the bearing uriace , but it is e,ident that
+the CUl'ves are nearly traight lines starting a t tho orio'in and al 0 that the ratio of the lope of
+the two lines i the arne as the ratio of the t,>,o ,\ eights . I t may bo concluded that the ta tic
+friction increases a the weight on tho boaring and a the bearing diameter, but i independent
+of the bearing length. The static friction of any mall bearing (bra or steel, ll1bricated) i
+given by the formula following .
+
+8
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+T = ]{ D L,
+"'her e
+T = the star ting torque in gm. em.,
+L = loacl in gms .,
+K = 0.23 when D i in inche ,
+K =0.009 1 when D i in mm.,
+D = diameter of bearing.
+I n order to deter;mine the effect of lubrication two ize of bearing were run with and withou t oil. It wa impossible to deteet any differ en e between oiled and dry bearing by the
+tar ting tor que, bu t th e oiled bearings had abou t half as much r unning friction a the dry ones.
+I t is probable that the h eavily loaded shaft cut through the oil film when it is at re t, so that
+the same condition of tar ting torque pre\'ail wh ether oil is pre ent or not.
+The values of " mean running friction " gi\en in the table were computed with due allo,\-ance for air friction in the manner already d cribecl. It will be noted that the mean lubricated
+running frietion wa only very li ttle less than the tatic friction, and ihe mean dry running
+frictlon was therefore di tinctly greater than the tatic.
+ince runnul friction at Ipw speeds is
+alway les th an static friction, thi xcess must be. attributable to \ariation of running friction with speed. I t m ay b e cau eel by heating, expan ion, and partial seizure of the haft,
+with a re ultant gr at increa e in friction when running at high peeds.
+A the bearings of airplane instrument are u cd under condition of vibration uch condition were simulated by placing th e ter,ting apparatu on a 2-hor epovver ele iric moior frame
+and running the motor lightly ou t of balance at 1, 00 r. p. lU . In the case of a -.l'I inch (]jameter bearing the static fri ction wa r educed to Ie than one-(,\\ entieLh of it teady value by
+vibration. The tarting friction of a maIler pivot, 0.0215 ineh in friction, i \'ery marked,
+especially ,yith larg bearings, and hould be taken into accoun t \\ hen de igning instruments
+for the e cond ition . The gain, howe\,er, i not quite as great a might at fir t appear, for the
+pivot mu t be made larger to tand the train of yibraLing conditions. Advantage i tak n
+of thi mean of reducing fricLion in some ensi tiye wirele relay wher a clock tap the frame
+of the in tru ment at shor t intervals.
+I n orelor to givo a botter id a of tho sizo of bearing te ted, the following table give the diameter u ed in clock and wat ches :
+T ype of staff.
+
+Diameter.
+
+Inch.
+Alarm clock e,cape and second hand . . ...... .. ....
+0.021
+Alarm clock wheel up to minute hand.. ..........
+.030
+Alarm clock mam spring...... .. ................ .
+.050
+'Watch e,cape and econd hand .................... 0.010-.013
+Watch balance wheel, not jeweled .. ......... ..••..
+. 007
+Watch escape, jeweled........................ ....
+.007
+Watch balance wheel, jeweled.......... ....... ..•.
+.004
+
+The cylindrical bearings have much more friction than conical pivots, bu t need not be
+h ardened and do not require the delicate adju tment necessary with the piYot
+RUNNIN G BALL BEARINGS.
+
+Th"ee small ball bearings were te ted for tatic and running friction. The first two were
+stock radial be3.ring , and tho third was a cone bearing made with irinch ball , a hown in
+figure 12. The de cription of the bearings and their friction is given in the following table:
+Static frictionBearing.
+160 gms.
+
+60 gms.
+
+Time to come to
+rest from 3,000
+r. p. m.
+
+Remarks.
+
+rro{~lon- I Vertical.
+
+-----------------------------------1----------------------1-----------------------1
+Hi ~h-grarle bearin~: i inch out,ide <liameter, ... inch inside
+diameter, , i-inch ball,; no retainer.
+Cheap prc ~~erJ rar i: h\- inch out"ide diametp.f J hinch inside
+(Liametcf, 15 ".r inch balle;; no retainer.
+Cone and cup bearlng: i. inch outside diameter, i inch illside diameter 1 lO,,'a-·inch balls; no ret.ainer.
+
+Friction is for a pair of bearings. All runs with dry bearings.
+
+0.75
+
+1 20
+
+2.25
+
+23
+
+.27
+
+15
+
+Ran smooth ly.
+Races rough .
+3 30
+
+The balls were notclosely enough of the
+same size, and djd not fUll smooth ly.
+Very <limcult to assemble.
+
+EFFICIE.l.JCY OF SMALL BEARINGS IN INSTRUMENTS
+
+SED IN AIRCRAFT.
+
+9
+
+Tho fir t bearing was the most sati factory and ha about tho same. friction as a "irinch
+di:1motor cylindrical bearing and, of cour e, will carry onormously OToator loads. It is evidont
+that mall ball boarings can not be made at pro ent with onough accuracy to compete with pivots,
+undor light loads (10 8 than 1,000 gm .). Howover, for continuou running, and where it is nOC08ary to pa s tho axle through the bearing, ball bearings can be usod to advantage. Tho static
+and ··unning Liction is considerably incroa cd by oil, but as this inCl oa 0 is independent of the
+load, oiling make little dilIerence on a heavily loaded bearing.
+ROCKING PIVOTS.
+
+The apparatu u cd to measure the tatic friction is shown in figure 13. It is simply a
+pendulum with horizonLal arms to carry the ridors. 'rho. 'weights are so placod that the center
+of gravity 01" the moving parL i ' at tho pivot point, and one of tho riders i pulled out until the
+pendulum tarts to movc. TillS is done for each ridor in turn, and the mean reading i taken
+as the moment arm. In order {o bc suro that the pivot is unstrainccl at the beginning of the test,
+the end of ono of thc arm. i held and the pendulum rocked slightly in a plane at right angles
+to tIle plane in which the Lest i carriod ouL. As it was rather cliIftcult t,o adjust the center of
+gravit.~- exactly at, t,he pivot point, the moment arm for the sharper pivots could not be accurately
+dC'tcrmineu, and tho value given may be in error as much as 50 pOl' cent. In the first te t the
+ockets \yere sharp at the bottom and had an angle of 120°, and the pivot were 90° with various
+radii at th point. . In figure 14 i plottcd thc starting torque in gm. cm., against diameter
+of the point. vYith thc lightcr load tho Lorq liC increase uniformly with thc diameter of the
+point and th curve pas ·e through the origin . A the loael i increased the cw-yes still start
+for the origin at largc diameters, but as the diameters are decrea cd the curves fall below the
+straight line. due probably to flattening of the point after the unit load excecd a certain value .
+.07
+
+L
+
+V
+
+V
+
+V
+
+/
+
+v,b·
+10°"- ~II0°
+,0
+
+ihrt
+
+7 b()
+
+/
+
+/
+
+/
+
+I
+
+/ 1100
+./ 9°1
+
+~ '/
+
+d·
+
+V
+/'
+
+V
+
+./
+
+S TATIC TRleTION
+OF
+
+l-
+
+SINGLE .90· PIVOT I-IN
+
+d
+
+II V
+
+./
+
+120· SOCKET
+?tvot & Socket
+hardened.
+
+?'
+
+I--
+
+I-
+
+j:, ' /
+
+100
+
+300
+S tarling Torque
+
+in
+
+500
+
+700
+
+SOO
+
+9/77, cenl:
+
+Pivots that were loaded above tIll value howed wear and di tortion. It eem evident that
+with a 1~0° sockot and 90° pivot that the greatest permi sible load will be given by:
+L=3.000 d
+d is the diameter in inches of the pi,'ot point
+where
+L = total load in pounds.
+and
+The fri tion of the e arne pivot when re ting on a flat plate, in Lead of on a . oeket, is
+about halved, but of course would tand very littc tangential load. In all ca e when the loading "v-as hio-h tho point left an indentation on the plate. One pivot and ocket was inclined 15°
+in order to introduce a tangential component similar to that found in wind tunnel balances.
+Tho friction wa the same as when thc load line pa cd through thc pivot axis.
+
+10
+
+REPORT NATIO NAL ADVISORY
+
+OMMITTEE FOR AERONAUTICS.
+
+~\.s the same Bocket was u cd for aU sizes of pivot: the rounded pivot.s rested in the socket
+as shown in figure 1.1, bearing on an annu lar area. If a socket h.a d been u ed in each case to
+
+fit the pivot point the bearing would be as shown in figure 16, obtaining more area without
+increa ing t,he diameter, thu carrying more load with the arne friction, but with some danger
+of imperfect centering.
+RO CKING BALL BEARING.
+
+A hemi phericaJ socket with a I-inch radius w turned out, hardened, ann Japped nOvm
+as
+,,-i th a steel hall as a Jap to a good poli h. A ring of -inch halls hrld in a retainer was placed
+in the ocket, and on the f? a ~ -inch tee l ball resten. A section of the bearing i shown in figure
+STATIC FRICTION
+
+or
+
+BALL BEARING
+,PIVOT.
+
+vi 90
+~
+
+I
+
+.~
+"-
+
+/
+
+o
+
+~60
+
+~
+~
+
+I
+
+I
+30
+
+o
+;:;9./8.
+
+1
+1
+10
+
+20
+
+30
+
+Starling Torqu~,
+(9m. cent. )
+
+This h earing wa. teste ~l in the same Wa)7 as the pivots, and with all loads hadles. friction
+than the sharp e t. pivot, while it is evident that it co uld support ruany times the load (fig. 18).
+The mall balls howed. no tendency to crawl out of the ocket, and. the centering wa very
+goo d. This type of bearinO' erms to be better than a pivot for wind tunnel balances.
+17.
+
+o
+

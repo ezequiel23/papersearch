@@ -1,0 +1,1825 @@
+rI
+
+TECHNICAL NOTES
+
+NAT:LONAL ADVISORY
+
+CO:j:~v1I~"IE~
+
+FOR AER02-J.t\UTICS.
+
+c
+No . 62
+
+TEF: PROBLEM OF FUEL FOR AV l l\T ~clr ENG FE 2-,
+Lec t ure gi ve:'i by Profe Sso)~ Kutzba,c~1, of D:ce s¢- en ,
+Soi.en:if i c Col labora::or of the J\dlerst.of Ae:conautical
+Lab 0 r at 0 ry .
+
+by Paris Gffics ,
+
+~.~,T .
+S . J ar~'ies ,
+re a.u of S-" 2"ndard.s .
+
+~diiej b)i
+_
+
+"--
+
+_ _'U.
+-
+
+N.~ . C.A .
+
+..
+JUljT, 1921.
+
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+TECHNICAL NOTE NO. 62.
+THE PROBLEM OF FUEL FOR AVIATION ENGHJES.
+
+*
+
+The speaker be gan by mentioning the physical propert i es
+which may be dema..'1ded of fuels for aviat ion use and the means
+that may be adopted by the engine maDufacturers to properly
+meet the demands necessitated by the use of such fuel.
+In the ch oice of a fuel the fOllowing factors must be considered:
+
+(1) its composition;
+
+(2) the quantity available;
+
+(3) t he pr ice per heat unit; CL.Yld (4) the p o ssibility of kee pi:1g
+stocks in ae ri al p orts both at home a:r:d abroad.
+
+It is also im-
+
+portcmt to kno'vv if the change from one fuel to another will neces s it a te any se rious mod ification of the engine .
+present univers a l scarC ity of
+
+g asoline~
+
+'f. ith the
+
+the d ay will certainly
+
+coma -N118n heav ier fue l will have to be considered.
+The s torir.g of fuel in the airplane and supplying it to the
+engine are other poir.ts to be considered .
+
+Gaseous fuel , which
+
+woul d have to be taken on boardl in large gas bags or in airtight cylinders, cannot be cons idere d as the primary fuel on ac.count of the space occupied by and the weight of such containers .
+
+At best it might be carri ed in liquid form in heat-proof
+
+cont a ine rs.
+
+Solid fuels Yvhich might be pulverized or are in
+
+the form of powder (explo s ive material) cannot be considered, al th oug h liquefiab le or solub le Iuels such a s napthaline or par-
+
+*
+
+Le cture giv en by Professor Kut zbacTI, of Dr esden, Scient ific
+Collabora~or of the Adl ershof Aeronautical Laboratory.
+
+- 2 -
+
+affin ffiigh t be used.
+
+Liquid fue l s of high calorific value per
+
+u:1i t of we i ght are best adapted. to the purpose.
+
+Such fuels are
+
+the sa.turat ed and unsaturat ed hydrocarbons rini ch not only have a
+hj_gh calorific value
+
+pe~: l:.Tli.J~
+
+weight but which may b e easil y sup-
+
+plied the engine in a very fl'llid state .
+that
+
+airpla..~e
+
+Con side ring the fact
+
+eng i nes must be capab le of ope rat ion near the
+
+ground in t he intense heat o f sumn:er and also at high altitudes
+in the severe ccld. of winter, the question of fue l supply is not
+of the simplest b e cause many fuels lese their
+tremely low temperatures .
+,~
+
+fl~i di ty
+
+at ex-
+
+Special measures must t herefore be
+
+taken s o that at least the portion immediately req;t;,ired. for the
+elY"i ne may be
+
+}~ept
+
+i~
+
+a,
+
+ver"
+
+fluid st a te eithe:r: by heat ing with
+
+hot wat e r, hot oil or electric a l ene rgy.
+One of the most important pOints tc be taken into considerat ion is that of e:'lsuring tLe safety of the f-,J,el from i gniti on
+i~
+
+c ase of leaks in or injury to the t anks
+
+such as may occur in forced l andings.
+
+w~d
+
+corillecting pipes
+
+This bri.ng G out a p roper-
+
+ty dema..nded of thc fuel by the manufaoturers of airpla).1f: engines,
+naJne ly the poss ibility of qui ckly a.."1d. eas il:,' sup:;Jlying to th e
+engine a good co mbus tible :f1ixture without the necess ity for preparing such a
+
+~ i x~ure
+
+at a t emperature o r pressure othe r than
+
+that of the free air a"G t he altitude a.t v.rhich t he engine is op erat i ng.
+
+An ideal fuel woul d be of such a 11atu re that it does
+
+not evaporate
+
+in stantffi~eously
+
+in
+
+f~ee
+
+air or at least does not
+
+form a mix.tu i'e that ignit es easily _, but
+
+V
+d1
+
+ich Ca,.1"J. be -:" ixed and
+
+gas ified satisfactorily in -elle c arbure-col' a...
+1"J.d will f orm a suff ic-
+
+-
+
+3 -
+
+iently inflammable mixture in the engine cylinder.
+These conditions have not yet been fulfilled.
+
+Apart from
+
+insuring the safety of all the fue l pipes by double tubes and
+double jackets, they might be met satisfactorily in two ways.
+In th e first of these use could be made of an
+
+eY~losive
+
+fuel
+
+that evaporates easily, such as gasoline or benzol, supplied in
+such a manner that there is no possibility of delivering fuel
+to the engine in excess of its instant requirements.
+
+For this
+
+purpose the fuel in the trulk would have to be c ondense d to such
+an extent or kep t at such a low temperature that it resembles
+an ointment in fluidity and wi 11 not flow out of a leaky tal'lk or
+it might be absorbed by some special substance to prevent its
+escape.
+
+In the second way, fuels could be used that do not read7 .
+
+ily gasify , i. e ., fuels with high boiling points and flash points.
+The carburetor would be so designed or the intake air and fuel
+would be brought to such a condition in the
+
+mfu~ifold
+
+or in the
+
+cylinder that mixing and i gni ti on would be sat isfac-tory.
+
+The im-
+
+portant question of the utilization of fuels of lower inflammability and
+
+conse q~en tly
+
+of highe r boiling point
+
+~~d
+
+lower cost
+
+would thus depend on the engine.
+The preparat ion of the fuel mixture in the carburetor was
+then dis cussed .
+
+The carburetor functions primarily as an e jector
+
+pump as sho\m in Fig. 1.
+
+The following equation (1) expresses
+
+its metering relations
+
+- -_.__
+._--
+
+l
+
+/ Da
+
+Pa
+
+Df
+
+Pf
+
+·
+V
+
+- 4 Wf
+
+and.. Wa
+
+signi fy the weight of the fuel and. of the air
+
+re spo cti-ve:ly and sh auld. prefe : :ab ly -oe used as :L cle arly def ined
+rat i o, usually in airplane e ngines one g i ving a slight e xcess of
+air or of fuel;
+D.",
+.1..
+
+Af
+
+and
+
+.J~he
+
+Aa
+
+cross sect ional areas of flow;
+
+the de::1si.t i es of fue l a::lCt air c:.t
+
+3-nc_ Da
+ano.
+
+-p
+
+mixing p oint;
+
+t he p re ssure o.ropG at the nozz les in millime -
+
+-a
+
+ters of Hater.
+
+'~ ~e
+
+The ::lir v;Jl oci ti es a re
+
+in this equ8,t ion in the vclue
+
+Da
+
+onl~Y"
+
+ind.i rectly s t a t e d
+
+VJ1
+1ich falls very slowly with
+
+inc reasing val ues of r.p.ro.
+
+In
+
+ch w~g in g
+
+from one f u e l
+
+to
+
+~~other)
+
+the fuel nozzle
+
+mu st be so a l t o reci tha t the new fuel r equir eme n t
+s h all be proport ional to the
+
+s~u a. re
+
+Wi
+
+Af
+
+of a ir
+
+root of t he den s ity
+
+Df .
+
+The ::Ci:1t io of t he two areas would therefore b e g ive n by equation
+A .., !I
+A~'
+J.
+
+when
+
+....;:
+
+'f r-
+
+t
+\
+
+or
+
+VI f. II
+·
+
+rep r e sen t s the weignt o f compl e t e l y burn t
+
+fuel in chemically c ombinin g propo rtions with un i t we ight of air.
+We further see by ec,;_uation (1)' t h at the mixtu re ratio
+change s w::" tt chctDge in 2 i tude of fli ght as
+,.1-:
+the a ltitude inc r eases, "JVh ile
+of li Quid f uel .
+
+D~
+
+I
+
+Da
+
+d iminishes as
+
+re mains unchanged i n the c ase
+wi th in-
+
+woulo. t he r e for e dec r e ase as
+
+c reas ed a ltitude, aIld the engine Tl'loul d theref ore c onsume more
+a:ld more fue l unless prevent ive measures were taken.
+e nce of t
+
+empel'(~"t-t.He
+
+i s 1 ike·.7 i s 8 9xpre sS8 d in
+
+Da
+
+The influ-
+
+so that the
+
+mi xture woul d be richer in -7an.l we ather; that is> with rec.uced
+,
+air density.
+
+I
+
+•
+
+- 5 It is especially imI-,o rt c.i!1t th at any ) o ss i OiJ.ity of separat i on of the fuel and a ir, e ither in the manif old or cylinder,
+should be prevent e d.
+
+There are two fundmnental ways of doing
+
+this:
+1.
+8,..Yld
+
+By the fin est pos s ible a tomizati on , ':v:1atever the load
+
+eng ine spe e d may be .
+
+This has b een p rov ed by experience to
+
+be accomplished by high air velocitie s and low fu e l
+
+-viscosities. ~:
+
+Atomization wit h s l ow eng i n e s peed may ofte n b e found. d "i. ffi cult.
+2.
+
+J3y vap oriz a -: ion of th e wh ol e or the main pal't
+
+of the
+
+fuel , so that there i s no 1 0ngel' a.ny p ossibi lity of its separati on from the air .
+The r e if: n c obj e ct t o b e
+
+g a ine d~
+
+however , by the vaporiza-
+
+tion of the fue l bef o r e tile fu e l no z2 1e ex cept i n the c ase of
+l i quids having a ve ry low bo iling point, such as lLru.efied illumi n dting gas , me "'3h a n e , e tc .
+
+The boil i;:g
+
+'po~ nt
+
+of the o Tdinary
+
+en g.ine fuels is too hig h a t a t :i10sphe ric pre s sur e .
+Fig . 2 g ives di s ti ll ati on curv es of
+variou s sourc es .
+far higher
+
+th a~'
+
+~u r e
+
+( Se e F ig. 2.)
+
+a nd mi x ed f ue l s from
+
+At atmosphe ric: pre s sure the boiling po int is
+a tmosp h e ric a ir temperatures .
+
+When light
+
+ga~o-
+
+line j.s u se d., prov isi on ;nu s t b e made for adeQuate c o oling at
+"-
+
+high ctltitude s , a [jJt i:vauld oth3 r \l ise <.'utt aL: boiling p oin t on account of tile low air p res sure ,
+~
+
+~hu s
+
+derW1G ing the formation of
+
+the mi x..t ure an..i c ausi: g t he en g i ne t o s top wo r k ing . * *
+For :i. iq1.J.id :fue l the vaporiz a t ion t t.e r e f or e "oe st t2kes place
+
+'
+
+aft e r l e avin g tile fu e l
+
+* See Note I .
+See Not e I I .
+
+,~~,
+
+noz ~ l e
+
+-"Jhe n it i s surrounded. o y the air
+v
+
+- 6 -
+
+for combustion whi ch mus"!; also supply the heat for evap oration.
+As aoout 12 1/2 m.
+
+(441 cu . ft.)
+
+3
+
+of air combine
+
+*
+
+with 1 kg.
+
+(2.2 Ibs.) of gasoline or petroleum , the volume of the gasbline
+vapor is only about J.,/50, a.."1d that of petroleum only 1/200 that
+of the air, so the part ial pl'essure of the fuel. vapor is therefore only 1/200 of the atmospheric p3~essure,; ar.ci the pro cess of
+evaporation takes place r:1ore easily t han wi th o"L.:.t
+
+such l oyV' par-
+
+tial pressures of fuel vapor.
+The qUar1tity of
+
+fuel passed through the n ozzl e there-
+
+li~uid
+
+fore evaporates ext reme ly rapidly in the ai r in cOl'lseq.uence of
+its low
+
+pa~tial
+
+pressure, - the boiling poin t being considerably
+
+lower thar1 with a t mospheric pre SSl.1T8 - and continues 1l:.l.til the
+saturation point of the air is
+saturated
+
+~f t er
+
+reac~ed .
+
+The air is more or less
+
+the evaporation of the fuel, depending on the
+
+boiling point s of the fu e l, its vapor volume a.YJ.Q th e tempe r ature
+of t:-:..e ai::.'.
+
+The cu-,- ves i
+
+1
+
+Fig . 3 show t h a t
+
+~i th
+
+ne:x:ane air is
+
+saturat ed at -18 c ·.-"rhe n there is the q'l}
+.a.n-city of hexane (the prin d'ipal com:ponent of g asolin e 'i<-\? neceSS 3.ry ior good combus,t ion , so
+that 'Ji hen the a. ir is cool e G. ab out 30° 0 oy e vaporatior..., ;::..ir of
+about +15 0 0 suffices to bring about com~) lete vaporization .
+
+***
+
+The j.ntake air at +15 0 C is at first entirely free from fue l; it
+then evaporat es rapidly, cooling ro1d increasing the fuel cont ent
+of the air at the sarr1e t iu1e .
+tion aL'loun t s to 85
+
+~) er
+
+bust ion 11as evaporated .
+* See No t e III.
+** See Not e V.
+*** See Note IV.
+
+At -15 0 C its percentage of satura-
+
+cent v
+vher.. the entire fuel needed fo r oor,:-
+
+-
+
+? -
+
+Simi l ar value s f.:.:r: e g:c en in FitS. 4: and in Table 1 faT hexa..716 ,
+bensol, e t hylal cohol, ciecane (a QOmp0nent pa,r t of petroleum) and
+napht hal ine , t
+sure are
+
+1
+a ~ so
+
+:'18
+
+appro:dmate bo i ling point s at at mosphe r ic pres-
+
+'
+glven .
+
+:r ABLE
+,
+
+Boiling
+poin t.
+
+Fuel
+
+Eexane
+Benzol
+Et hyl Alc ohol
+De c cu'J.e
+Nap ht haline
+
+70°0
+80 0
+78 0
+1 60 0
+220 0
+
+T
+..i. .
+
+. - - - -- -- - - - - - Saturat ion
+Drop in t emp - Tempera~ure
+of the Elj.r
+t emperat ure: erat ure due
+for c.cmp~e t ~
+of the fue l to evaporation .
+mix.ture.
+'ITllpcri zzat ion
+higher than
+-- lsGe
+50
+
+-
+
++22°
+-.,.1-42 0
+°2.
++;;;, :0
+
+':u.., G
+
+"" v
+
+1 50 0
+
+C
+
+, SOG
+
+3tJ~)'"
+
+110 0
+
+1 35 0
+
+35 °
+40 c
+
+1 35 '-'
+
+SOO
+f"I
+
+------------------------~-------------------------. ------
+
+IL t he case of a:cohol , th e cooling of the air is redarkab l y g 1'e at) ch i e f l y be cause of t he small arr-olLYlt of ai r in the
+combustib l e mi xtu r e, and -t he high l aten t heat of
+
+vapo ri 2'~ ati on
+
+wh ich mu st b e s upp l ied. by that small Q
+uar:ti t y of a ir .
+
+O
+nly f u e l
+
+mi :xtt ures rITit h a t emperat ure s u f:C:l. ci ently hig her than the satura t ion temperat u r e can be el1t irely vapo:rized i n t he sh ort time
+available and thu s ;:,e inGlIJ:'ed aga inst. a:'ly separat i on of fue l and
+B,ir .
+
+Below the saturation temperature , part of the fue l
+'
+
+i s al -
+
+\\ays. in the forru of .J..og or s mall drople t s , and the lar ge r the
+dr op s the g reat er i s the possib i lity of the separat ion of the
+fue l.
+If , however , al: the walls of the pipes
+ti on
+
+ch am~er
+
+~~d
+
+of the combus -
+
+be mai n t a i ned a t temperatures above that of satura-
+
+- 8 -
+
+t.ior:. by the aid of the natur e.. l he at of
+of cool ir:.g '.7ater
+
+OJ:'
+
+~.:;he
+
+ma0hine , of the heat
+
+of ene erha:..ls · , -:he ris:: cf the separat ion
+.I
+
+of t he mi xture is sensibly dir.:iuished . ':'
+There !:u e t -vo
+.
+pointG ) e ithe::: or
+
+!l;et~1.od.s
+-~o th
+
+of.' using fu e l s
+
+'i'Vi tl:
+
+high boiling
+
+of which may be app lied separately or
+
+simul taneou sly : first , by atorniz inb the liquid as finely as possible at all loads ; ac""1d s econd , by iT'lCrec.s1. ng the temperature of
+t he fue l mixture and -,1a:::'1s above the saturati on temperature of
+the fuel -ai r mixture .
+Th i s in,-,reasG in the ter.:pera"ture of the ::' ix:ture and walls
+
+i s difficult 1[:he:1 s t art ing t;le engine c ol d. as it requ ires time
+t o obtain
+
+f roru sone source and
+
+_l:3G' t
+....
+
+transf 3r'
+
+it t o the mixtu re.
+
+The mQst conven i eJ. t i-le t h od i s t o s t art \1it h i\:_ 1 of a low boi1 e
+i ng point arid
+
+l'1X.l l..~ntil
+
+the desired. ter,lpera-\iures are att a ined -
+
+There i c o:"'1e grea"u cii8ao.vantage to be c onsi dered in th e in c rease
+in tempe1 atul'e of the
+1
+
+!~1ixtu re ,
+
+nar::ely , the g reat diffe r e n c e jon
+
+the h eat supplied ty the engine at
+
+c~if£e rent
+
+In the c as e
+
+10aJ.8.
+
+of tr. .Q a iri::.l.::.ne e:1gi ne ~ \"lhioh is a :mo3t a l-iJay s fully loaded ) til is
+d.isadv ant age i s for t unately o f
+
+~1. 0
+
+great import ance. **
+
+The f i rst c onsequ ence of the :ncreased temperature of "::he
+raix:'Gure and walls is a reduct ion iE v olumetric- eff ici ency,
+
+Ev
+
+and lil:evvis8 of tl.. e rneaY:!. erie ct i ve pre s sure of t he 8Tlg ine , dt18
+
+to the deCY3aSed dens ity of the air.
+
+The
+
+follow ~ng
+
+equat i on
+
+gives tt e ?rBan pr()SS1J.re:
+==
+
+~~2 7 . E~
+- --- -- . H .
+
+_ (3)
+
+v
+
+l O·]t)O
+
+ind: cate 3
+Se e Note VIII
+S~ ·~ l\ ote IX
+J
+
+~__~__~~~v~~~~_____
+
+*
+
+***
+
+See
+
+rJ ot "
+
+t~l.8
+
+the r mal eff ic i ency , and
+
+x
+
+L -_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+____
+
+H t he heat-
+
+- 9 ing value of a uni t v olume of the mix.ture.
+
+If t he a ir be ade-
+
+q,uately heat ed s o t hat the mi:x.ture eDters the ey1 inder at its saturati on temperature, a..'1 alcohol mixt1:..re would Lav e to be 47° warmer than one of gasoline sinc e the s aturation t eYl:peratur e of the
+form e r is +22 ° 0 whil e that
+
+of the latter is
+
+-
+
+v
+v
+5 /" .
+
+Thi s increase
+
+i n mirture temperatur e would rerult i n a 1 0 pel:' c ent loss: of air
+weig h t at full th rot ·~le.
+g ive a gre ater loss.
+ox..y gen , of
+
+A naphtha: 5n e- a~_r mi~rtu re at 92
+
+0
+
+would
+
+I n both cases " re is a los s of intake
+.;he
+
+ru1d consequently of
+
+po~er .
+
+The highe r the satu r-
+
+ation t emperature of the mix.ture as fo.r gas -oil and heavy tar
+oils , the highe r the p oint to whic h the pre liminary heating must
+be carried.
+It w
+ould obviously be a g ood p l ru1 t o trill1sfe r t he pro c ess
+of mixing to t he combustion chamber itself, in order to heat
+the wa,ll s of t h e comoustion charnber and also the fresh air supply
+iIi the shortest possible t iffie.
+
+the reje ct ion of th e
+as an atomizing and
+p r essed. air
+
+s i m~ l e
+~ix.ing
+
+atomiz~r
+
+Thi s would, however, necessitate
+
+yet marvel ously e ff e ct ive air ejector
+device ,
+
+a llC.
+
+its replacemert by a
+
+C:On1-
+
+Or even by the simple spray ing of th e r e-
+
+qui r e d amount of fue l by me ans of a spe ci al pu mp .
+
+The les s ef-
+
+fe et ive the atomizat i on, the long er wi 11 b e the time require&
+f or v aporizat ion) and a s. vapo riz a t ion must be fin is hed before ignition be g ins, the unfavorable atomization m
+ust be compensated.
+for by gre a tly in creas ing the t empe rat ure of t i.18 a ir.
+This is pal'ticul a rly e vident in th e c as e o f engines i gn ited
+by incandescence, the air into which t he fue l is injecte d being
+
+- 10 heo.t ed to an unusually high temperature through the red -hot, or
+at leas t extremely
+
+hot~
+
+uncooled. w.alls.
+
+to utiliz e all kinds of fuel with a high
+
+It is certainly possible
+boili~g
+
+point in these
+
+engines , but t he:Le is a gr e at disadv a."ltage in the unfavorable
+c y linder eff ici ency and i n the afte r-burn ing of the fuel, whi ch
+is too s lovvly vaporized and poorly mix.ed .
+
+For these reasons, the
+
+solution offered ccumo t be consider-.:: j sat :....::,fa-.i.'cory.
+The l ecture r went on tc say t h at he had personally tested
+the possibility of
+
+uti1i ~ing
+
+fu e l with a high bOiling-point by
+
+mean s of i n jection into the combustion ch ambe r tli th compressed
+ai r atomiz e rs, and t hat suc h inj e ction c.ould be made a t any moment des ired .
+
+The resu lt s showed t he operation of the engine to
+
+b e least reliable
+
+wh~:m
+
+inject ion Vias compl e t ed j u s t be fore the
+
+ignition, a lthough t he a ir in the engine was then at the highest
+tempe r at ure .
+took place
+
+The operat ion was s at isfactory on l y when i n ject ion
+
+~h i le
+
+air was be ing t aken in , in which cas e the pro-
+
+longed period. of ca r buret ion
+
+~"ld
+
+tainly caused favorable eff ects .
+
+the stronger ai r currents cer(IIl the case of t wo-stroke
+
+engines, inje ct ion can take p l ace only d.uring the p rocess of scavenging or c ompress ion .)
+
+The c ompressed air can be used for atom-
+
+ization or the air c an be supplied at a higher v e l oc.ity, by
+Bellem 2.nd Bregeras! pro cess ) * ' . by us i ng a v e ry much r educed
+pre ssU.re in t he combusti on chamber during a portion of t he intake
+stroke.
+
+By these methods there a r e st il l var ious p o ss ibilities
+
+of rende ring f u e ls \;rith a hi 9: h boiling pOin t -J.ti1iz ab1e wi thout
+* See Bucm1er's Note s on the Ben~ol question ; F ig. 39 i n th e
+If Automobile
+Rundschau" 1913 , and Heller's Pe troleum Driving Force
+in Au tomObi l es , Z. d. V. d. lng. 1 919, p.778 .
+
+------~---
+
+-
+
+-
+
+-
+
+11 -
+
+t he g re at disadvan t age of a marked rise in tem:ge r ature outside
+the combustion chamber itself.
+The increase in the temperature of the mi :Arture dur ing the
+i::ltake stroke entails another disadvan t age besides the reduc-tiOll of volumetric.
+
+ei~: iciency ~
+
+narflely, that of very considerably
+
+increasing the a.verage temperature d'u.r ing the \ ,J-. ole cycle> part icul arl y the temperature during con:lJress:, cn.
+.
+
+'ihis is a v ery
+
+great disadv ant age as it increases the risk of pTemature i gnition
+in t he
+
+ill i .2i..t ure
+
+.
+
+Viith regard to prema.ture igni tion i tself , t oo little is
+knOYVD about it at present to en ab l e us to give a clear and unbiased judgment a s to its cause.
+
+The re sul ts t hat have been ob-
+
+ta.ined pre sent many facts tending to gene ral enlightenment> and
+the eng ine itself
+
+sho~s
+
+most readily how i t is affected by fuels
+
+ar1d t empe rature .
+The influence of t he i nitial t empe r a ture of the minure on
+t he
+
+rr.ax:iml~m
+
+te mpe ratures at the oonc:"usion of compressi on is
+
+shown in Fig. 5.
+
+I f the
+
+ccr~pression ra~ io
+
+is
+
+1: 5,
+
+the crom-
+
+preosion tempe r a tu re am01mts to ab out 300° 0, 500°0 or even 700°0
+with i ni tial t emperatur es of OOC, 100° C, or 200°C .
+
+SUPP osing
+
+the limit of admissible compress ion temper atur es to b e about 400 0 0,
+t he compre ss i on r at io r{,ust be re duced in p roporti on to the increase in the initial tempe rature.
+
+Experie nce has shovffi
+
+J
+
+howev e r,
+
+that tot ally differen t degrees of c OTiJpress ion a re necessary in
+one ru1d the
+
+S~lie
+
+engine for different fue l
+
+m i~ ures)
+
+that the
+
+I
+
+snape of t he combustion chambe r, the tempe ratures of the badly
+
+'---_ _ _ _ _ _ _ _ _ _ ____________J
+
+I
+
+I
+
+I
+
+I
+
+I
+
+- 12 cooled parts , such as the pi.ston , the exhaust valves and the
+spark plug, and the freedom of the top of the
+deposit have marked effects .
+risk of premature
+
+In
+
+conGlusi on ~
+
+i g~ ition dec~e a ses
+
+~ ~ ston
+
+from carbon
+
+we may say that the
+
+as the weight of charge is
+
+reduced, although the compression ratio whi ch 0.etermines the temperature at i gni tion and the
+
+corLposi~.:
+
+ion of the mi:m;ure are not
+
+thereby altered.
+Tests so planned that liquid fuel was bT ,)·.l3;ht into contact
+with air in an ele ctric
+
+furnace '~
+
+in \:7h ich the 'cemperature could
+
+easily be regu.lated ·."Jere carried o'J.t a t the ALlgsburg Nu rem
+burg
+ivlaclline Fabrik by Dr . Holm at request of the lecturer .
+
+In Fig. 5
+
+the spontaneous ignition temperatures found by means of this somevvhat crude method are gi ven.
+
+They enable us to draw compari-
+
+sons and form conclusions n ith regard to the action of the fuels
+in engines .
+
+They confirm exper:i.ence vT
+hich shows that engines'
+
+with ben:,wl and a lcohol are generally far les s inclined to premature ignition than rrith
+They sh ow also
+
+~:1at
+
+gas~oline .
+
+pet roleum
+
+03.110.
+
+gas -oil, for 'Ihich the
+
+temperature must be raised when they are utilized in the carburetor , possess particularly low
+
+spontanea~s
+
+combustion tempe r a -
+
+tures, so that there are two reas ons for using a low compression
+- ·.ratio with these fuels .
+As'-;the thermal efficiency decreases with r eduction of the
+\
+
+compression
+
+ratio~
+
+petroleum
+
+~nd
+
+gas-oil appear to be most un -
+
+suitable ' for use with a c arburetor, arld tar oil very well suited.
+
+* Se e Dr. Holm r s art i cle in the
+(Journal of Applied· Chemistry,
+
+It
+
+II Ze it schr ift f.
+angew. Chemie 1I i
+1913, p.273 .)
+
+r--------------------------- ----------------------------------------------------------
+
+- 13 Another difficulty arises through the fact that not only the principal fuel, but also the lubri cat ing oil used may turn the scale
+in causing spontaneous i gn ition.
+
+Hopkinson* made a remarkable
+
+test wi th an engine usi!.1g ordiD.ary gas, in which he tried. to
+bring about prema.ture ignition with the aid of a red-hot plug,
+the temperature of whi ch he measured wi th th e rmo-element s..
+
+It
+
+was not until the temperature of the plug was 600 0 to 700 0 that
+premature ignition took place.
+
+If a drop of lubricating oil fell
+
+on the plug or on the exhaust valve~ a temperature of 400 0 sufficed for spontaneous ignition.
+
+The difficult qp.estion as to
+
+what part is played by lubricating oil in spontaneous ignition,
+reminding one of spontaneous igni tion in air c ompresso rs, here
+plainly cr cps up again .
+An esserrtial pr ovision for th e safe operation of engines
+with prepaTed fue l mix.tures i g nited in the engine by means of a
+special ignition pin is that the cor.1pression temperature should
+remain far. lower than that of spontan eous ignit ion under all conditions.
+
+By s e lecting suitab le fuel and suitable lubricating
+
+oil, it is certain that seve ral important economical advant ages
+might be at tained .
+
+The first step necessary would be the sys-
+
+tematic i nvestigation of the properties ment ioned, name ly , the
+boiling points, saturation and spontaneou~ ignition temperatures
+of fue ls considered us able , and the effec t of these characteristics on the perfo rma nce of the fue l in the engine.
+If, as in the c a se of gas oil and pet roleum, the spontan-
+
+*
+
+See Proceedings of the Institu tion of Civ il Engi nee rs, 1909.
+
+- 14 -
+
+eous ignition tempeTature is s o
+
+10·.\T
+
+that the engine can probably
+
+not be oper at e o. economically on account of the low compression
+ratio ~
+
+all that r e~ains is t o und e rtake the mix.ture of the fuel
+
+and a ir immediate l y b e fo r e i gn i t ion~ allow.ing the miJrture to burn
+1 ike the flame of a g as burner in the air, as was done by Oechelhaus e r in the c a se of ordinary g as en g ines.
+pr oc e s s to pe tr oleum and gas- o j.}.
+
+Diesel applied the
+
+In t h is way all risk of ad-
+
+vanced i gnition is avoide d , and it b e comes pos s ibl e to increase
+th e deg r e e of compression as desired) and ther eby the thermal
+efficiency.
+
+Th e se combustion engine s, as the lecturer termed
+
+them, in contTad icJ on to i gn ition e ngine s f iyed. b y n:eans of an
+ci
+e lectric spark ) ve r e so de sign ed that the fin e ly a tomized incoming fue l mee t s with fresh ai r of a tem
+perature far highe r tha.l1
+its spontaneous combustion t e1l1p erature an d i s , therefore, v ery
+rapidly v aporize d ana burne d.
+
+The t e st o.ata g ive~ by Holm in
+
+Fig . 5 exp lain s tne f a ct that to in sure spont a neous i gnition of
+t a r oil, t he f re s h a ':" l' m
+ust "'o e ho t te r t han is need ed for gas oil.
+The ccmbust io:,:~. 8:::1gine, how6v e r , [J.as t:"le pe cuI iari tJ" that it is
+impossible for the e ntire weight of fresh air t o be used' in the
+combusti on in tl-...e s hort t 'me aV8 ilab16 .
+J
+
+It must, therefore , work
+
+with an e x ces s of air, and consequ ently y
+v:..th low e r r:1 ean e ffe ctive
+pres sure .
+
+Thi s is occ a s ioned b y poor atomizat ion (in ~n g ines j.g-
+
+nitcu by incandes cence it is u sually p a rticularly b a d), by the
+incomp l e te utili z at ~.on of the a ir, and by the i ncre3.s e d ratio of
+piston velocity to
+
+i gE it i or~
+
+v e 10city .
+
+The l e cture r the n alluded b rief l y t ·] the importance of the
+
+- 15 Ciuestirn of ignition veloGJ:ity, which plays
+
+8.:"l
+
+important part in
+
+the case. of high speed engines in particular, and illh ioh is as yet
+insufficiently undr;;rstood..
+
+The well-knov'lrl rese a rches made at
+
+Dre s den, by::Jagel , :;eU:-:1a:rm a..YlC Nus s elt , in b"J.rning cold mixtures
+_
+i n a bO:JO should
+b le.
+
+~oe
+
+extended to as many different fue ls as possi-
+
+Fig . 6 shows the ignition velocities of various fuel mix -
+
+tu:::oe s , set dO";iTl in ter:i1s of the calorific. values of the fuel cont ained in the cub io Eete:L of t 1:e mixture, on the basis of Nagel
+~~d Neum~!n ' s
+
+measurements.
+
+The values are , like Holm's measure-
+
+ments , ::l ost in s t!'uotive as comparative values.
+
+The ignition ve -
+
+lOQi ty of the ho t 1:'l h:ture in t he engine it se lf is far higher.
+The se- calle d l imits of tlie ignition of (Efferent I ll.e ls (according
+to Eitner) are also g iveh in Fig . 6.
+
+They accord fai rly well v ith
+
+the ignition limits obt a ined in the bo:nb .
+of
+
+~ixture
+
+The calorific values
+
+ratics giving rise to the g reatest development of heat
+
+in t he e ngine and to
+are imp o :rt ant _
+
+t~e
+
+ma&.im
+urLl value for the formation of CO 2
+
+Tni b th e rn:al vo.lue varies fror.j 780 to 900 g r am
+
+calori es per cub i c me t er (45 tv 59 B.t. u . per cubic inch), aCcording 'to
+the fuel;
+
+t~e
+
+h e ating value and the mnount of air required b y
+
+it i s a decisive factor in det e rm i ning the highest pos-
+
+8ib:e ~8an effective p res~ure ( see equation 3) and conse~uently
+of the l!1ai[im"Jm poweI' of an eng ine -;lith 'che fuel i n q').lest ion .
+As the ratio of a i:- to fuel increases , the ignition velocity
+first increases slowly , then , in the case of some few fuels, eS
+fo :;:: :in s t ance, or ci inb.J:" · gas, it increase s rapidly.; j.n other cases,
+especially wit .. gauoline and benZOl , it f a lls slowly .
+
+For the en-
+
+- 16 -
+
+gine, however, the ignition velocity must not be too low, lest
+cUter-burning and delaying ex.plosion take place; nor mus,t it be
+too high, lest the rapid combustion give rise to too violent
+
+ex~
+
+I
+
+plo si ons .
+higher.
+
+With i n c re a s rr.g pi ston velocities, it m
+ust, or may be
+The limits of the ignition velocity tJ.tilized in the en-
+
+gine are about 1.5 to 2.5 m/sec.
+
+(5 to 8 ft. per sec.) and there-
+
+fore at these i gnition velocities, the thermal value of the mix'"
+ture would be highest with g a soline, and lowest with hydrogen.
+This also explains why the highe s t mean e ffect ive pressure ever
+attained, between 9 and 10 kg/ cm 2 ,
+
+(128 to 1 42' lb s . per sq. in.)
+
+was to be found in the gaso line eng ine.
+This opens up another p rofitable f ield of study - that of
+the i gnition velocities of gas oline and all other economic:cilly
+utilizable fuels over a wide range of temperatures from thosa encountered. at the b eginn ing of compression t o the temperatures
+at the end of compression.
+
+Nu sse lt b e lieves the effect of initial
+
+temperature is ve 1'y g reat.
+The lecture r fin ally conside red the question of weight of
+the av iat ion eng ine which must always be more important than the
+fuel problem.
+G
+N
+E~uation
+
+=
+
+(Pm ax: •
+\ Pm
+
+d
+s )
+Vm ,
+
++ A
+
+4 expres ses the en g ine weight per horsepower when the
+
+engine is considered as
+
+~
+n
+
+inte g r ation of mechanical energy from
+
+several units, and as a transmitter of energy from the several
+combustion chamb ers through the p iston , connecting rod linkages
+
+- 17 to the shaft, and thence to the propeller, on '!vnich the forces
+act at different points.
+
+The povler
+
+upon (1) the mean value
+
+ary parts of the ene rgy cond~ it.
+
+pis~ons
+
+-oetween the mowing and station -
+
+Vm
+
+and (2) the relative velocity
+
+l:lains c onstant
+
+of the eng ine depends
+
+N
+
+of the fo rces applied to the
+
+D rJ
+J..
+
+p
+
+The product
+
+Pm ' Vm
+
+=N
+
+re-
+
+(apart from losses due to f2'iction) in all the
+
+cross sections of the energy conduit.
+
+The structural material
+
+G
+
+used, and consequently , the weight
+
+i3, on the other hand, es-
+
+sent iaJ ly deterr.lined in every secti on of the energy conduit by
+(1) the maxiruu::n for ces
+
+(2) the admitted G tr~in
+
+Pmax '
+
+of the working material .
+
+(3) the specific gravity
+
+supplement for the fuel conduits,
+
+t~'le
+
+and
+
+s
+A
+
+is a
+
+valve gear, and otheJ! a c'-
+
+cesso r ies.
+The principal detel"minati ons for the value
+lowing :
+
+are the f ol-
+
+(1) the absolut e length (1) of the energy conduit;
+
+(2) the pe r missible value
+
+s
+
+of the structural n a te rial;
+
+t h e pe rrr:i ssible max.i mm value s for
+The vah:e of
+
+Pm ax:
+
+case of the cyliDder
+P max
+
+Vr.l'
+
+~~d
+
+(3)
+
+(4) the value
+
+for the p ist on, valve ge a r and the cylinde r
+
+Pm
+
+is eq.ua.l to the value of
+
+sure
+
+GIN
+
+an~
+
+ProQ)c .
+for
+Pm
+
+t~le
+
+pi st on , the
+
+entire engine, and in the
+
+r ~tio
+
+of the
+
+m~mum
+
+pres-
+
+to t he n;ea.i.1. pressure due to inertia of the masses
+
+must be taken into acccunt.
+fl'om equation (4).
+
+Sl10uld
+
+The following deductiqn may be d rawn
+Fn:
+
+be less th an no rmal, j.n c'onse-
+
+q}!ence of a low cyltnde r charge or tile 1:eating of the intake mixtture to
+
+2.,
+
+high tem~)era"Gure,
+
+so that the ra.t io
+
+Pmax
+p:!)
+
+P max
+
+wil l be lm-ver in prop ortion,
+
+remains unchanged.
+
+The eng i ne with re-
+
+- 18 -
+
+duceci. volurlietric efficienL:Y w'ill not of necessity oe heavier as
+Pma.xr
+-pm
+
+it can be built considerably Itght er because t 11e quotien t
+alone is decisive.
+
+W
+hen 't he compression ratio is low, this quo-
+
+tient is generally lOi"fer ,
+
+ED
+
+that air-cooled rotary engines turn
+
+out very we1 l v-vith regard to th ei r H. P . load, in spite of their
+unfavorable volumetric: efficiency and. their low comp ress ion
+
+ra·'~ ~.c .
+
+(T hi s is certainly also due to the short length of the energy
+c ondui t
+
+A.)
+
+"111 and to the lightne sra of the acce ssorie s
+
+Th is
+
+::..'elat::'on shows that aviation e:1.gines can be perfectly well built
+wi th low we ights per H. P. vihe:l using prepared fuel
+
+~!lix:.tureG,
+
+in
+
+sp it e of the f a ct tl1a t t :i1 ey t ake in hot air or have ex tremely
+.
+hot wal ls in order to obt a in adeq,uate vapo r ization, or they work
+vlith low pressure£> dur ing the suction s troke i n order to obtain
+adeq'.late at omizD.t ion .
+The combust ion type of engine the refol'e sh vuld not be chosen
+fo r aviation, o r lig ht automobile engine
+fuels of hj.gh
+
+boili ~l g
+
+point.
+
+de signe d for the use of
+
+The latter will always be more dif-
+
+ficult to Gonstruct on acccunt of its high value of
+
+out ta..1c ing the heavy accessorie s into con sideration).
+tion engine
+
+m auld
+
+(withThe avia-
+
+rather oe select ed fr om the ignition e'llgine
+
+class with the bes.t poss ible atomizat ion and comp arat ive ly low
+compression ratio.
+
+With this end in view, a sy stematic invest i-
+
+gation ShOL1..1d be rr.ade of all the imr:>o r tant chara ct e ristics of
+fuels, so
+
+~hat
+
+the heavy - oil a vi a tion
+
+the unusual reco rci iJalues \7hich
+
+ig ~lition
+
+n0 7;:i i s ti~ guish
+
+eng i ne may attain
+the best light-
+
+oil i gnition engines from al l other combustion engines , namely:
+
+-
+
+-
+
+-
+
+-
+
+- -
+
+-
+
+- 19 -
+
+Gasol ine consurdp t ion
+
+180 to 190 g rar:: s , 0 . 4.0 -0 . 42
+Ibs . per H. P . h r.
+
+Mea.D use f ul pressure
+LO ad per H. P"
+
+9 to 10 kg/ cmz , 128 to 1 42
+Ibs. per sq . in .
+
+Only 0 . 8 to 1 . 5 kg ., 1. 8 to
+3 . 3 1bs . per H. P .
+
+- 20 NOTE 1.
+
+The surfac e tension of th e fue l is probably of mu ch greater
+imp ortance tha.."Y1 its viscosity in affecting atom iz a tion.
+NOTE II
+
+This is not t rue should the temperature of the ga soline decre ase as the air t empe rature de cr eases wi th increasing alt itude.
+It i s p robably true 7 should the temperature of the gasoline in
+tanks and fuel l i nes remain t he same in flight as on the ground.
+NOTE III.
+This assumes no heating of the carburetor or man ifold.
+NOTE IV.
+Co oling of the en ti re weight of a ir necessary for one pound
+of hexane 30°C would supply about 1 93 B.t . u .; whe reas, only about
+1 43 B.t.u. a r e re~uired .
+NOTE V.
+
+It is very doubtful that hexane is t he prin ci pal comp onen t
+of any of the pTesent commercial gesOJines , eXc8p t J.)oss ibly, aviation gasolines .
+NOTE VI .
+If the value s g iven are for the chemical combining mi~ture
+ratio of 15.2 to 1, the manifold p r essure assume d is 731 mm. of
+me rcury . Should the menifold pre ssure be assumed as760 mm . of
+me rcu ry 7 the :'oix..tu re rat i o will be 1 5 . 7 to 1.
+NOTE VI I .
+
+The mix,tur e ra-G1 0 8 f or the sat urat ion values of the f u els;
+given i n Figur e 4 , as computed from p ubllshed dat a, a r e as g iven
+b e low:
+
+- 21 Minure Rat io
+
+M
+anifold Pressure
+mm. of Mercury.
+
+12.5
+
+785
+
+15.7
+
+760
+
+15.0*
+
+738
+
+8.8
+
+760
+
+9 .0 *
+
+Decane C10 !:k2
+
+760
+
+12 . 9*
+
+Naphthaline C l oHs
+
+774
+
+15.0
+
+760
+
+13.2 *
+
+669
+
+15~7
+
+760
+
+15.2 *
+
+730
+
+* Chemical combining ratios.
+NOTE VIII
+
+V
+iere a ll temp eratures ment ioned higher th an the saturat ion
+temperature of the f uel at the p re ssures ex-ist L.'1g, .QQ condensation or sepeoration could take pla ce.
+NOTE IX·.
+
+This is not altogether true, as the engine may be idled at
+time s which precede demands for reliable englne ope ration) such
+as when coming out of a long dive and rising irem the ground
+after an unsuccessful attempt to l and .
+NOTE X.
+
+W
+hen H is 2 in kilogram calorie s pe r cubic meter and Pm in
+kilograms per cm the con stant of proportionality is
+427
+10,000
+when H is in B. t.u. per cubic inch and P
+in pounds per square
+inch th$ constant of proportionality is,
+7~8 x 12.
+

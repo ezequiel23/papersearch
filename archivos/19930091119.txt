@@ -1,0 +1,1559 @@
+——
+
+.
+.
+, ,; .*.. “=..:-.
+-= :“..: .=_-=__
+;
+~.-___...”.
+------ .... . . “““ . \; :.“ --”~~--.:.. .: . & .“ . -:
+.
+.
+:-:’ =.;:::=::,-::::::
+‘-”*- -L“------- ..--.+
+.*>,:-.
+m-.
+.=—. -----. .. -- -+.,+ .-s
+“’””-”’”
+-----”---
+
+\ 3 1176013484978
+
+.
+
+.
+..,.
+
+.
+
+.
+
+... >.
+
+,;
+
+~=.=” .
+
+.. . ’:; ”.-u
+.,>
+
+. . .. . .., :,,.
+7 .;,.
+
+.d
+~
+,.
+
+,-”
+
+REJ?ORT.NO:57
+
+““.
+
+j
+
+.—
+
+..
+
+. .
+
+!.-.
+
+.
+
+.,, .
+
+.
+
+..,’
+
+THE SUBSIDIhiY
+
+GAP AS .,. MEANS FOR iMPltOVING
+A
+.- ~IGtimION .. ~ .,.-.
+.
+..
+. . . ..
+..
+
+.-
+
+. .
+
+,.
+v“.
+
+”
+..
+
+.
+.
+
+.
+
+NATIONW ADVISORY COIWMITTEE
+FOR AERONAUTICS
+‘
+
+.
+
+:‘
+
+~
+
+.
+-.:
+
+.
+
+.“
+. .
+.
+
+.“
+
+‘,
+
+. .
+
+.. .
+. “.-
+
+..
+
+-.
+p=-
+
+-,
+
+FEOM FIETH &Nuk
+.“
+
+~~BT
+
+-.
+
+F!
+Lk.cxx2>j
+--..
+
+to:
+
+To.!N ttimed
+
+‘;.!”~; file;
+
+d’ itm
+Lallglcy
+
+-
+
+-Ti%:morial
+Aeroxzukal.
+~jijorotof~
+
+..”
+
+.’
+
+“’
+
+‘-
+
+.
+..’
+.
+
+.
+
+WASEINGION
+GovEBNMEhPIUNTINC3
+T
+OE’FICE
+1920.-
+
+.-
+
+.,-
+
+.
+.,.
+
+.
+
+...
+
+—
+--.-
+
+t
+
+.A-
+
+‘.
+
+REPORT No. 57
+
+THE SUBSIDIARY GAP As A MEANS FOR IMPROVING
+IGNITION
+
+v
+
+NATIONAL ADVISORY COMNIITTEE
+FOR AERONAUTICS
+
+PREPRLNT FROM FIFTH ANNUALREPORT
+
+.
+
+v
+
+WASHDJWQN
+GOVERNMENT
+PBmTIIwOmcm
+1920
+
+.
+
+.
+
+.
+
+..- .-8
+
+.
+
+..
+
+REPORT No. 57
+THE SUBSIDIARY GAP AS A MEANS FOR IMPROVING
+IGNITION
+BY
+
+w. s. GORTON
+
+1-20
+
+3
+
+--- -
+
+——
+
+..
+
+REPORT No. 57.
+——
+
+THE SUBSIDIARY
+
+GAP AS A MEANS FOR IMPROVING
+
+IGNITION.l
+
+By ‘W.S. GOETON.
+
+I@mm.
+‘J%S report WMJ p~epared at the Bureau of Standards
+for the National Advisory Committee for Aeronautics,
+Additional or subsidiary gaps have frequently been used in jump-spark ignition systems,
+‘in order to cause the rwumption of sparking in fouled spark plugs. The series gap, to which
+the greater part of t~ report is devoted, is a subsidiary gap in the connection between the
+high tension terminal of the plug and that of the magneto or coiL A brief account is given.
+of the use of this gap Up to the pm-sent time and also of the statements concerning it which have
+gained some currency, most of which are shown to be erroneous.
+The simple theory of the action
+of the series gap is discussed and a detailed account given of the effect upon the sparking ability
+of the plug produce_~ by changes in the values of the electrical resistance of the fouling and of
+the capacities in ,pa@lel with the plug and with the magneto or coil. Experiments
+confirm
+The points of difference between the conditions as
+the main features of the simple theory.
+postulated in the simple theory and the conditions actually existing are enumerated and their
+bearing upon the design and operation of the series gap discussed.
+The ensuing section is
+devoted to a discussion of the des~ of series gaps.
+It is concluded that the series gap may be used as, a remedy for a considerable part of
+the trouble due to the fouling of plugs which is met with in practice, shce it has been found
+possible by the use of a series gap on an average ignition system to spaqk a plug havhqg a
+fouling resistance of only 4,000 ohms.
+~RODUCTION.
+The spark plugs used on internal combustion engines employing the jump-spark system
+of ignition are subject to many ilk. At present the chief of these is the fouling of the plugs
+with carbon and oil, which are deposited on the surface of the insulation forming a conducting
+path between the electrodes of the plug. The resistance of this path frequently falls so low
+that sparks will no longer pass between the electrodes.
+It has been found that, under these
+conditions, modifications of the ignition system iRVOIVing the use of an additional spark gap,
+or gaps, will cause sparks to pass again between the electrodes.
+Such spark gaps ax% called
+subsidiary gaps and the use of them will be discussed in this report.
+Some of the ignition systems employing subsidiary gaps have been of designs radically
+diflerent from those ordinarily used. In the majority of cases, however, the use of a subsidiary
+gap has ~vol~ed merely the iqsertion of a gap _.jn the connect~on between the high-tmsion
+terminal of the magneto or coil and that of the spark plug. Such a subsidiary gap is called a
+&erim gap, ~d itiswith tfisgap ss opposed to the other varieties of subsidiary gaps that this.
+report principally deals.
+The series gap ha: been made in many fo~
+and employed in numerous ways. A large
+number of claims, frequently of an extravagant ‘character, have been made-in its f aver, while
+there have also been objections raised against the use of such devices.
+The purpose of this report is ti make av~able, iU a form convenient for reference, the more
+important informaticm concertig
+series gaps, ~d tO state what may reasonably ‘be expected
+w
+circulated~
+LThieReport eeoonfIdentfaW
+
+thew
+
+~ BIUWUd
+
+StandamS
+Aeronautic
+Power an@ ReportNo. 81.
+N
+5
+
+-.
+.—
+...-
+
+.
+.. ...—
+
+.-
+
+.
+
+.—
+.-
+
+——
+
+.
+
+_—
+-. —
+
+.:—
+.-—. —
+-.——
+.—
+.-
+
+-—
+
+6
+
+AIW’?U&L
+R3PORT
+
+N~TIO.NAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+AERONAUTICS.
+
+of them, in order to avoid either undue optimism or-. pessimism concerning “their usefulness.
+To these ends the preymt report comprises:
+(A) A statem=d of the past and present stataaf “the art.”
+(B) A summary of our present knowledge of the action of series gaps.
+(C) Design of the series gap.
+‘(D) An estimate of tha degree of utility which may reasonably be expected of series
+gflps.
+
+..—
+,’
+
+—.
+
+(A) PAST AND PRESENT STATE OF THE ART.
+In the automobile field racing drivers ha~e long-used the series gap for improving the
+ignition of their cars. In its original form it consisted simply of a block of wood fastened to:.
+the spark plug. To this block was attached the high Jension lead in such fashion that there
+was a srnalI gap between the end of the wtie and the terminal on the insulated electrode of the
+spark plug.
+Recently variou~ .ccnnmercial fofis of the series gap, usually interided for. attachment to
+Those of &exican
+manufacture
+that have come to
+standard spark plugs, have appeared.
+the attention of this .b.ureau are as follows: (a) Master, (b) Speco, (c) Superspark, (d) V7alden
+TVorce9ter,
+The Master and Superspark devices may very well be described togethor as they are similar
+In each device the series gap is inclosed in a steel container which is intended
+in construction.
+The spark takes place between steel points, one of which is integral with the
+to be air-tight.
+steel housing.
+The Speco device consists of a spark gap, the electrixles of which ar;”of “&ickel alloy, which
+is open to the air. It is surrounded, however, by a Davy copper gauze to prevent the spark
+from igniting any gasoline vapor which may be preaenj~.
+The Walden Worcester series gap is made integral with the spark plug of the same n~~e.
+The electrodes are of nickel alloy and one of them is themntral
+wire of the spark plug, the cmter
+end of which is flush with the surface of the porcelain insulation.
+The gap is open to the air.
+The French, in their aviation engines, have used a icmn of tha series gap called by them tha
+“ Carbolyseur. ” It consists of a grip, at the central point of the distributor, the length of which
+can be varied at will by the pilot in order to secure the lest running of his engine. No detailed
+description of the “ Carbolyseui-” is available at the present writing.
+Several systems of ignition involving high frequency electrical oscillations have been devised.
+The Lodge system is the best known of these systems amlwill be described briefly. It consists
+simply of one or two condensers which me charged by the magneto or coil, and which &charge
+across a subsidiary gRp, called by the inventor the ‘ipriinary gap, ” The spark plug is included
+in the discharge circuit of the condensers and a spark takes place between the electrodes.
+The
+circumstances governing the passage of the spark are identical with those described later in tho
+discussion of the action of the series gap.
+“—
+Many advantages have.been claimed for the series gap andaome objections have been urged
+against it. The forme~ are more numerous than the latter arid some of them are so extreme in
+character that it was c.oneidered worth while to. tabulate all of the claimed advantizges and
+objections that have come to the attention of the bureau.
+.
+(a) Advantages claimed:
+1. Ability to fire any plug no matter how badly d~aged.
+.2. Increased power, speed, and economy.
+3. Fatter, hotter spark.
+4, Negligible energy lost in series gap.
+5. Increases speed of propagation of expbsion.
+6. Visible spark gives means of finding trouble.
+7. Leaner mixture may be used.
+8. Reduces “amperage”;
+no burning out of breq~er points.
+9, Increased ener=~ available for iggit~on.
+
+.. ..... . ..
+.—.
+
+..
+
+—
+
+—
+.
+
+.— .
+.—
+
+.—-
+
+W-
+
+.—A
+
+—
+
+STJ3SIDIAEY
+
+GAP AS .A MEANS
+
+FOR IMl?ROVING
+
+IGNITION.
+
+(7)) Objections urged:
+1. Hard on insulation of iguition system.
+2. Causes large drain of current.
+3. Causes difficulty in starting.
+The experimental and other evidence on the questions above enumerated
+discussed.
+(U) ADVAX1’AGES LAIMED.
+C
+
+7
+
+-.—
+
+will now be
+
+(1) Claim No. 1 is obviously
+
+not true.
+It is, of course, unquestioned that plugs can sometimes be fired by means of a series gap when they can not be fired without it, but the ability of
+the series gap to fire a fouled or otherwise damaged plug depends entirely upon the value of the
+low value
+resistance shunting the plug gap. If this shunting resistmce reaches a sticiently
+it may become impossible to fie the plug. For the average spark plug and ma&ieto this limiting
+value of resiatanc~ is of the order of magnitude of several thousand ohms. Fording with a
+resistance of this order of ma=~itude is of not infrequent occurrence.
+(2) The use of a series gap may result in increased power, speed, and economy, as claimed,
+but, as far as our present knowledge goes, only indirectly.
+The increase in magnitude of the
+quantities named results solely from the fact that the use of the series gap may cause to be
+tied charges of the explosive mixture which otherwise would be discharged from the engine
+w@itid.
+The claim of increased power, speed and economy ss frequently made iS that the
+use of the series gap will bring about the result mentioned even though every charge was being
+tied by the engine without the use of the gap. This claim has been invwtigated experimentally
+at the Bureau of Standards and found to be unjusttied.
+Experiments were made on both a
+truck and an aviation engine in which a commercial form of the series gap ,WSSattached to
+each plug. A switch at each plug was provided, whereby the series gap could be short circuited
+at will. It was found that the running of the engine, and the consumption of gasoline, was
+entirely unailected by the presence or absence of tho series gaps through the wide range of
+mixtures, loads, and spark advance used. Experiments to determine whether the character of
+the spark discharge in the engine cylinder adlected the running of the engine were also made.
+A condenser was connected through a s-witch to the terminals of a spark plug on one of the cylin. ders of an automobile engine. The condenser could be connected to or disconnected from the
+plug at will, thus modifying the character of the spark discharge in the engine cylinder markedly.
+No difference in the running of the engine could be detected whether the condenser was dis-”
+connected from the plug or coirnected to it. Additional experiments on this point, the resdts
+of which have come to tk attention of tti b~eau, jwtify the conclusion that the chmacter of
+the igniting discharge has no effect whatever on the running of the engine so long as the spark
+ignitea the explosive mixture.
+(3) The claim that the use of a series gap results in a “fatter,” hotter spark is ?f mmor
+importance, as it has by no me~
+been sho~ that ficrem~g the ‘tfatnws” Of a sPmk mCrem~
+Some experiments were made at this bureau with a plug arti.iicidly fouled
+its igniting power.
+and a series gap, which showed that whenever the spark passed its appearance was the same,
+whether there was a series gap present or not, or “whether the plug was clean or fouled.
+The
+tempqature
+of the spark is a very indefite
+tfig
+~d little cm now be =serted as to the
+The heat generated by the passage of the spark, however, can
+magnitudd of that quantity.
+Investigations
+at the Bureau of Standards have shown that this lasteasily be measured.
+mentioned quantity is in general reduced by the presence of the series gap. TVhether or not
+this reduction in the total energy content of the spark involves a decrease in the igniting power
+of the spark is not now known.
+(4) The ratio of the amounts of energy spent in the plug gap and series gap is equal to the
+ratio of the sustaining voltagss of the respective gaps. The sustaining voltage of the series
+gap is of the same order of magnitude as that cd the plug gap. Consequently the amount of
+energy lost in the series gap is not negligible.
+A
+(5) The experimental evidence obtained up to the present time shows that the character
+of the spark has no eflect on the speed of propagation of the explosion.
+& mentioned above,
+experiments on an eng@e showed that the ‘presence of neitlier the series-gap nor a condenser”
+
+——
+
+.—
+
+..—
+---.—
+.==
+
+-.-
+
+—
+-.
+--
+
+—
+
+-.
+_—-.
+-- ---.—
+
+-.
+
+—
+
+.—
+
+.-
+
+8
+
+.
+
+ANNUAL REPORTNATIONALADVISORY
+
+C!OmCk5Z12TEE
+FOR AERONAUTICS.
+
+made the least difference in the power developed or speed attained.
+Cotiequently
+the etiect,
+if any, of the presence of the series gap upon the speed of propagation of the explosion is too
+small b affect the power developed.
+(6) It has been asserted by the proponents of the series gap that this device is in effecta“window in the cylinder” and that the pwsage of a spark in the series gap indicates infallibly
+the passage of a spark between the electrodes of the plug. This is not the caee. Not infrequently plugs are so badly fouled that the breakdown of the series gap fails to fie them. Moreover, the passage of a spark across the series gap does mot indicate thereby a healthy condition
+of the ignition system unless the series. gap is set for a breakdown voltage equal to or greater
+than that of the plug.
+(7) The use of a leaner mixture when the series gap is employed is due not to the series gap
+itself but to the fact that upon installing such devices :a readjustment
+of the carburetor is generally made.
+Many owners of motor cars run with too rich a mixture, and-a readjustment
+of
+the carburetor in accordance with the instructions of the manufacturer of the series gap results
+in a leaner mixtme.
+(8) Readings taken with a direct-current
+ammetei..in series with a clean plug ha-re shown
+that the presence of a series gap reduces the current as indic?ted by the instrument. _.The
+oscillograph, however, shows that the presence of the series gap has no effect other than to
+decrease the duration of the discharge between the electrodes of the plug. This is due to
+the higher sustaining voltage .of. the combination of plug and series gaps which causes the
+current in them to stop sooner than it otherwise would, The presence of ‘the series gap does
+not affect the value of the current while it is flowing. Consequently it is readily seen that
+the indication of a direct-current
+ammeter in the circuit will bo decreased by the presence of
+a series gap. This fact is probably the basis for the claim that the series gap reduces. the
+“ amperage.”
+Concerning the &fect of the presence of series gaps upon the.life. of the breaker points” little
+can now be said. The value of the current flowing through the breaker before the points open
+is probably in most cases not affected by the presence of the series gap. V7hen it is affected,
+the effect is to increase the value of this current.
+This is due w the fact, mentioned in the
+previous paragraph, that when the series gap is used the current in the secondary of the mabmeto
+or coil dies out more rapidly than when no series gap is present.
+Consequently there is lM ‘
+chance of interference between the last part of one discharge and the beginning of the next,
+with a resulting decrease in the value of the primary current when the breaker opens. The
+In the case of the coil operated from a
+previous sentence is applicable only to the magneto.
+battery, interferencwrarely
+if ever takes place.
+The above discussion applies to the case of a gap iri-series.with a clean plug, If the gap is in
+series with a fouled plug, the comparison has to be made between }he action of the fouled plug
+alone and the fouled plug in conjunction with the series gap. Osc.illograms have been taken
+which show that the current in the primary at break, if no series gap is present, is in general
+If t,her@ any difference between the two cases ,
+the same whether the plug is .cle~n gr fouled.
+it is that the primary current is greater when the plug is fouled.
+It was seen in the preceding
+paragraphs that the addition of a series gap increases the voltage acrow ‘the bre+rer points’
+and may sometimes increase the primary current at break.
+Consequently it would be expected
+that there would be a decrease. in the life of the breaker points upon the addition of a series
+evid.mce on this point, however, is lacking
+gap in circuit -with aflouled plug. Experimental
+at present.
+(9) The USe of a serks gap may increase the armmnt of energy available for iggition only
+in the sense that-it may cause a spark tu pass between the electrodes of a plug when without
+it the spark would not pass. If the spark is going to pass at all, it will pass in such a short
+time after the opening of the breaker that a negligible. -amount of energy is lost in that time in
+the fouling.
+During the passage of the spark ite resistance is small compared with that of the
+fouling, and consequently the fouling has little effect on the further course of the discharge.
+If the spark does not pass, the energy that wwdd ~~he.rwise.be expended in the spark is dissi~ate~
+in the fouling.
+
+-.
+-.
+
+—
+
+—
+—.
+-.
+
+.
+.- —.
+.
+..—
+
+,
+
+SUBSIDIARY
+@)
+
+GAY AS A MEANS
+
+OBJEc’1’10IW
+AGAINST.
+
+FOR IMPROVING
+
+9
+
+IGNITION.
+
+THE USE OF SERIES
+
+CIAPS,
+
+(1) The series gap in an ignition system can not be set for a breakdown voltage less than
+that of the plug if the device is to be of any use. Consequently, the breakdown voltage of the
+c ombinat ion of series and plug gaps will, in general, be greater than that of the plug gap alone.
+This state of affairs is not considered to be necessarily detrimental,
+as the insulation of the
+magneto or coil is supposed to be able to stand, for lo~u periods of time, a potential equal to
+the hreakclom potential of the safety gap. There is a pos;ibilit-y however, that the continued
+application of this higher potential may, in the end, weaken the insulation.
+Experimental
+evidence on this point is IacIdng at the present time.
+(2) Experimental
+evidence on the claim that the use of a series gap causes a large “ drain
+of current” has already been presented under section (a) 8 above.
+It was.shcmn there that the
+series gap has but lit tle effect on the currents in the various circuits.
+(3) There is some evidence to show that the presence in an ignition system of a series gap,
+at least one of fixed length, may cause dificulty in starting the er@ne.
+A case vms reported
+to this bureau in which a series gap of variable length was used on a truck engine. After the”
+engine had run for a minute or SO, it would continue to run satisf ac.torily over a tide range of
+set tings of the series gap, from zero up to a nmximum length; but, in starting, the series gap
+hnd to be entirely closed in order to get the engine to fire. In this case the plugs could not have
+been very dirty.
+In experiments carried out at this bureau on a similar engine with mtiflcially fouled plugg,
+it was found that the series gap had to be opened wide in order to start but had to be closed
+The interpret ation of the phenomena just
+somewhat afterwards in order to fire steadily.
+described is not certain; but there can be no doubt that, in some cases, the presence of a series
+gap in the circuit is detrimental in, ~t.arting. The conclusion is that series gaps should be made
+so that their length can be adjusted easily at any time during the running of the en@e.
+
+.-
+
+.
+>
+
+.—
+
+-
+
+—.
+
+-—
+...—
+
+.-
+
+J --
+
+.-
+
+7.-.
+
+.
+
+.-
+
+(B) OUR PRESENT KNOWLEDGE OF THE ACZION OF SERIES GAPS.
+SIMPLE
+
+THEORY
+
+OF THE ACTION OF THE SERIES GAP, AND RESULTS
+.
+
+OF EXPERIMENTS
+
+MADE TO
+
+.- .-—
+
+TEST THE THEORY.
+
+NorE.-Reference
+may be made to Report No. 58, Part I, for a more detailed dkrmion
+tion of a maggeto or coil.
+
+of the cycle of ‘opera-
+
+of .a magneto or coil can be
+The outline of what takes place during the cycle of operations
+given in a few words and will be summarized in the following “paragraphs.
+The first of the perlo& into -which the cycle of operations can he divided is that j& before
+the opening of the breaker when the current in the primary is increasing due to the action of
+the electromotive force of the battery in the case of a coil, or that due to rotation in the case
+of a magneto.
+The second of the perioda is that in -which the voltage builds up after the opening of the
+breaker.
+Before the breaker opens current is flowing in the coil. Vi_hen the breaker opens the
+circuit this current decreases rapidly, in so doing charging the condenser and inducing an
+If the gap did not break down, this would go on until all the energy
+E. M. F. in the secondary.
+was electrostatic in form; but in general the gap breaks down before this stage is reached.
+Any
+arcing at the break lessens the rate of change of current, and so lessens the maximum voltage
+attained during this period.
+‘
+When the discharge first begins to flow between the electrodes in the plug, it probably
+consists of a condenser discharge; that is, the capacity of the high t%nsion tiding
+discharges
+thro~mh the plug gap and the course of the discharge is much too fast for the ordinary oscilloThis state, however, lasts only for a very short time, and then the discharge
+graph to record.
+becomes a steady arc with approximately
+constant sustaining voltage.
+The ef?ect of ~apacity
+in parallel with the plug, in particular the capacity of the leads and any apparatus connected
+to them, k to decrease the rate of rise of the E. M. F. and also the ma.simum value attained
+by it, If there are any dielectric losses in the insulating materials of the s~tem, the same effect,
+that is, decreased rate of rise of the E. M. F. and smaller value of maximum voltage, will be
+t)roduced.
+
+.—
+
+--
+
+.—
+
+.
+—.
+
+——
+
+.—z
+
+10
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+.
+*,
+
+FOR AERONAUTICS.
+
+The phenomenon described in the preceding paragraph applies to the case where the insulation resistance of the plug is high, If the plug is fo~uled, the insulation rwistanca is greatly
+decremed and the cycle of operatims
+is mmewhat chfferent.
+The dlect of this re&%nce
+shunting ~he plug gap is to decrease. the value of the maximum voltage by diverting to the
+fouling energy which would otherwise go to charging the capacity in par~lel with the plug,
+Another way of interpreting
+the phenomenon is that the fouling diverts to itself current that
+would otherwise charge the capacity in parallel with the plug and incnmse the voltage.. The
+potential difference across the plug at any time must necessarily equal the ohmic drop in the
+fouling and can not be 1sss than the breakdown vohge of the plug if the plug is to iire the
+charge,
+The problem then is to increase by suitable. means the ohmic c&op of the fouling.
+The simplest means to secure the increased ohmic drop in the fouling is to insert an adIf this be done, the equivalent simple circuits are as
+ditional gap in the high tension circuit.
+shown in figure 1. The plug gap and the series gap are labeled as such in the figure.
+B represents both the foiding and its resistance, while the three condensers shown in the figure
+
+Plug
+
+75A?aqnefo
+~
+
+or Coil.
+
+SeriesGqo.
+f?
+
+I
+
++l-J--+Cp
+
+Cm
+=
+=
+
+“ Ground.
+FIQ. .
+1
+remesent the distribution
+of capacitv. between the different p~ts of the apparatus.
+Let J%
+.
+.
+and E8 represent the breakdown potentials of plug and series gaps, respect~vely, and em the
+voltage furnished by ma=meto .or coil at time t. T& mode of operation of the apparatus,
+neglecting
+the s~f-induction
+of the circuits and various other circumstances which need not be
+mentioned in detail here, is as follows:
+The voltage furnished by magneto or coil, em @yases
+after the opening of the breaker.
+During the increase, Cm is charged to potential em,-~ is likewise C,, if B is small, say not
+greater than 100,000 ohms. ‘iThen em reaches E,, the series gap breaks down and a cukrent
+flows to charge OP. C, discharges at the same time but this discharge has only a slight eflec.t.
+The potential to which OP is raised by the discharge just mentioned is approximately
+
+cmx Et
+‘“-cm +cp”””-
+
+.-.
+
+.-
+
+--
+
+(1)
+
+If eP is lex than EP, the plug can not fire. In any event a finite interval of time must elapse
+before the plug gap can break down during which tiqq the potential of L?P decreasing due to
+is
+current- flowing in R. If R is small, the plug gap may not break down at all, even though
+
+-.
+
+.
+
+SUBSIDIARY
+
+GAP AS A MEANS
+
+FOR IMPROVING
+
+IGNITION.
+
+11
+
+eP is greater than E.P, The effect of varying the different constants of the circuit is easily seen
+m follows:
+A decrease in R obviously decreases the ability of the system to ilre the plug due to the
+‘ increased amount of charge -which flows through the resistance and decreases the potential of
+(7P. To offset such an eftect an increase in ep is required.
+& can be readily seen by reference to equation (1), this can be brought about by an increase in Cm or -E,, or both.
+An inIf R is large (of the order of 100 megohms) the condenser
+crease in R causes the reverse ellect.
+(7P is virtually insulated instead of being short circuited by R. Under these conditions, the
+voltage across OP and C.., before any spark passes, are respectively
+
+c,
+
+c8+cpe*=e~
+
+---
+
+-
+
+(2)
+
+&p ‘m=‘8
+
+-—
+
+(3)
+
+and
+
+Each of these voltages is smaller than e~, Consequently, if a plug is clean, the applied
+voltage em required to spark the combination of plug and serias gaps may be larger than if the
+plug is fouled, provided the resistance of the fouling is not too low.
+It is seen from equation (1) that an increase in CP causw a decrease in ep; consequently,
+it is in general advrmtageous to keep the capacity in parallel with the plug as small as possible.
+The one exception to this statement is for the case when the plug is clean. Under these conditions, it is seen from expression (3) that the voltage across the series gap increases with CP,
+and therefore that the series gap will discharge more easily, the larger is C’P. & increase m
+CP, however, makes the plug gap harder to fire, consequently CP can not be increased beyond
+a certain limit without causing the plug to stop Iiring.
+The capacity ti parallel with the series gap has little e&ton
+the operation of the system.
+During the discharge the presence of this capacity increases the current through the series gap.
+This increase in current causes an increase in the ionization in the series gap and consequently
+a alight decrease in the resistance of the series gap. If the plug is fouIed, the capacity C, is in
+parallel with C. when the condensem are being charged and hence decreas~ slightly the maximum voltage furnished by the ma=meto or coil.
+The eflect of increasing Cm is seen from-equation
+(1) to increase the voltage applied to the
+Consequently from this standpoint
+a large value of
+plug when the series gap breaks down,
+Howe-mr, increasing Cm decreases the maximum value of. the potential furCm is beneficial.
+nished by the magneto, and so if Cm is increased too much the m&neto will no longer be able
+to spark the plug gip.
+Various experiments, made to test the above outlined theory of the action of the series gap,
+have como to the attention of this bureau. Some were made on plugs fouled by use in an engine
+Other .sxperiments, instead of being
+and somo on clean plugs shunted by a water resistance.
+carried out on a spark plug, were carried out on a gap consisting of a wire goi& through a hole
+in a plate.
+In all three cases, the subsidiary gap was a ball gap. The value of the shunting
+resistance. in the last case vvas 10,000 ohms. The results of ~~ experiments CO*
+the main
+features of the theory; that is, the change in the sparking ablhty of the system due to changes
+in the capacity and resist ante of the various parts follows the requirements of the theory, with
+the exception of some anomalies which were ascribed to the oscillatory character of the discharge of the series gap. Evidence was also found that the actual fouling has a much lower
+resistance at high voltages than it has at low voltages, as though the conduction at high potentials -were in the nature of arcs passing from particle to particle of the fouling.
+One of the most
+important conclusions reached was that the length of the series gap necessary to fire a fouled
+plug is extremely variable, and consequently any series gap used on an engine should be capable
+of easy adjustment
+while the engine is running.
+The experimental evidence obtained at the Bureau of Standards, -which need not be given
+in detail here, also confims all the main features of the theory.
+One point worthy of note is
+that it was found poss~ble to he a plug in an engine when the resistance of the fouling, as
+measured by a megger, was as low as 4,OOO ohms.
+.
+
+->
+
+.-
+
+.-
+
+.—
+
+—:..
+
+—
+
+Is
+
+ANNUAL
+
+DIFFERENCE
+
+BETWEEN
+
+REPORT
+
+NATIONALADVISORY
+COMMITTEEFOR AERONAUTICS.
+
+THEORY
+
+AND ACTUAL
+
+CONIXTICJNS IN THE- “OPER-ATION OF SERIES
+
+.-—
+
+GAPS.
+
+In discussions of the action of the series gap many conditions am frequently postulated
+for simplicity, either.direct[y or by implication, which do not correspond to actual facts.
+These
+points of difference between the simple theory and actual conditions wiU be treated in detail in
+the following paragraphs as they must be considered in dealing with tho question of series gaps.
+The first point f& discussion is the question of the potential given by a magneto or coil.
+It-is generally asserted that this potential is seldom or never the same from one cycle of operations to the next.
+This statement has frequently clme to the atten~ion of this bureau.
+A
+justification given for this statement is that when a maegneto or coil is sparking a gap, the
+maximum voltage as read by a crest voltmeter (a static voltmeter in series with a kenotron)
+is always varying; md also that at certain times @system
+is able to spark a longer gap
+than it is at others.
+These facts, however, could be just as well, or rather better, accounted
+for by a -m.riation in the breakdown voltage of the gap instead of in the potential furnished by
+to test this point were made at the Bureau .of Standards.
+the magneto or coil. Experiments
+A magneto driven by belt from a motor was connected directly to a crest ~olt.meter, no
+spark gap except the safety spark gap of the magneto being in fhe circuit.
+At first it was run
+at approximately
+300 revolutions per minute, the speed of the magneto at any instant being
+rather variable.
+The safety gap did not dkcharge at al}. The voltage as read by the crest
+voltmeter was constant to within 1 per cent. The speed was then increased.
+As a consequence
+it was necessary to connect a condenser to the terminals of the magneto in order to prevent
+The voltage was even more constant than at the “lower
+the safety gap from discharging.
+speeds; and, in fact, up to. the highest speed employed in the experiment (1,600” revolutions
+per minute) the higher the speed the more constant the reading of the crest voltmeter.
+Conditione at’ speeda greater than 300 revolutions per minute, where a condenser had to be connected to the terminals of the maaneto, are not quite comparable with conditions existing
+when the magneto is firing a gap; but at 300 revolutions per minute where no condenser was
+used they are directly comparable with the conditions of actual use. The experiment was tried
+of measuring the voltage with a crest voltmeter w.h~n the magneto was firing a gap at 300
+The reading of the voltmeter was extremely variable.
+These facts
+revolutions per minute.
+show conclusively that any variation in the power of a magneto-to spark a gap is due to variability in the gap rather than in the magneto,
+The next point to be considered is the variability of sparking potential of the series gap
+that any
+It is a welI-established fact
+due to one or more of the qauses now to be discussed.
+change in the surface of the electrodes of a spark gap in general changes the sparking
+potential.
+In particular the long-continued
+passage of a discharge corrodes the surface, furnishing numerous points from which the discharge can pass, and increases the distance between
+the electrodes.
+These two varieties
+of change in surface conditions have opposite effects.
+The roughening of the surface .malies the spark pass at a smaUer value of the potential, and
+the increase in distance makes the spark pass at a higher potential.
+The total effect is probably first a slight decrease and then an increase in the sparking potential.
+The temperature
+of the electrodes aiso has an effect on the breakdown voltage.
+If the
+electrodes. are hot, the temperature of the gas between the electrodes is increased, and consequently the breakdown voltage of the gap is decreased if the gap is in communication
+with
+If the gap is hermetically iealed, a variation in the temperature
+of the
+the atmosphere.
+A further effect of an increase in the temperature
+gas has no effect on the breakdown voltage.
+of the electrodes is to change the nature of the surface films upon them.
+In general, an”increase
+m temperature
+tends to dissipgfe the_ surface films, yhich have such a marked cdlact, usually
+inhibitory, on the passage of n discharge between the electrodes.
+The medium in which the electrodes of the series gap are immersed is subject in general
+to ohanges in nature, pressure, and -temperature.
+The only case in which a change in nature
+is to be. expBcLed is when the gap is tightly incloscd.
+under these conditions the passage of
+a discharge causes chemical changes in the air, which have some ef?ect, probably small, on the
+The changes in breakdown voltage due to changes in temperature
+and
+breakdown voltage.
+
+.
+
+–
+
+.
+
+__
+
+.._
+
+-.
+
+-1-
+
+,-
+
+---
+
+SUBSIDIARY
+
+GAT AS
+
+A MEANS FOR
+
+IM2FtOVING
+
+IGNITION.
+
+18
+
+pressure obey well-lmown laws, namely, the breakdown voItage is approximately
+Proportional to the density and is ordy tiected
+by temperature
+rind pressure as they affect density.
+The breakdown voltage of a series gap maybe affected by the “hardness”
+of the gap, A
+gap is said to be hard when it has a higher breakdown voltage for rapidly varying potentials
+than it has for slowly varying potentials.
+Hardness is of two I&k.
+If the electrodes are
+pointed, the gap is hard, due to its own form.
+For a rapidly varying potential, that is, one that
+rises quickly to a maximum and then decreases to approximately
+zero in a very short time (in
+other words, such a wave of potential as a magneto gives), the potential across a gap with pointed
+electrodes frequently rises to as much as twice or thre~ ‘times the normal breakdown voltage
+without a spark passing.
+Obviously, then, pointed electrodes are not suitable for use either
+for plug or series gaps.
+For electrodes that are not pointed, that is, ones not having a radius of curvature small compared with their distance apart, hardness of the kind above describegl does not e.tit.
+Electrodes of this kind maybe subject to a hardness due to some condition of the surface such that
+the breakdown voltage for a rapidly varying potential is somewhat larger than that for a slowly
+varying potential but rarely more than 1.5 times as great.
+The condition of the surface v@ich ,
+produces such hardness is not well understood.
+It is known, however, that films of oil are capable of producing it. Consequently, in designing gaps, allowance has to be ruade for times
+when the breakdown voltage is abnormally large.
+The effects of previous discharges across a gap are to modify the hardness, as described in
+the immediately preceding paragraph, and to cause a greater number of ions than normal to be
+present in the gap. The hardness of the gap is as likely to be increased as it is to be decreased.
+The presence of an abnormrilly large number of ions in the gap has no effect upon the breakdown voltage of the gap but does cause the discharge to pass more promptly than it otherwise
+would.
+Change in dimensions due to temperature changw may occur in the series gap. The principal danger is not due to isotropic expansion but to warpirg owing to a strained condition of
+the structure of the gap.
+Series gaps have not been used extensively enough to permit the accumulation of any data
+se to the importance in practice, relative or absolute, of the different eilects named above.
+The plug gap is affected by all the conditions that have just been enumerated.
+The
+different circumstances in the engine cylinder, however, modify the relative importance of these
+.
+conditiom.
+The plug gap is subject to much more corrosion than is the series gap on account of the
+much higher temperatures
+prevailing in the engine cylinder, which are so high that surface
+films are probably prevented from forming.
+Variation in the proportions
+of the mkture probably has little effect on the breakdown
+voltage.
+Variation in the compression has considerable effect, the breakdown voltage being
+proportional to the density of the charge at the moment of firing.
+The presence of oil in the gap generally incieases the breakdown voltage because the discharge is obliged to follow a much longer path thro~mh the gas than if the oiI were not present.
+It is possible, if there is not much oil in the gap, that the breakdown voltage maybe decreased
+because it is well lmown that spark will pass over considerably greater distances along &e
+surface of insulators than they w-ill directly through the gaps. It is generally thought, however, that this condition is seldom realized.
+The presence of carbon on the electrodes decreases
+the breakdown voltage.
+Not infrequently the carbon forms a bridge from one electrode to the .
+other and effectually short circuits the plug.
+The higher temperatures prevailing in the engine cylinder render any change ~ the dimensions of the gap, due to temperature,
+more important than is the case in the sernes gap; but
+with a proper design of plug, this effect is not to be feared.
+In view of the high temperatures
+existing in the engine cylinder, it is thought that plug
+gaps never exhibit the phenomenon
+of hardness.
+This opinion is particularly
+important for
+the problem of the series gap because when the serim gap breaks down the voltage on the plug
+gap increases at a rate thousanda or millions of times greater than the rate at which potential
+
+--
+
+.—
+———
+-
+
+,..—
+
+. . ——
+.- - .—
+.----—.
+—
+.. —
+
+—-.
+
+.—
+
+.-
+
+-.
+
+.
+
+.—
+.—
+
+.—
+
+—
+
+14
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+CQMMZTTEE
+
+FOE. ~RONAUTI@.
+
+.
+
+is ap~lied to the series gap. Any hardness found in the plug gap will probably cause much
+greater variations in the breakdown ~oltage of the plug than will the same amount of hardness
+in the breakdown voltage of the series gap.
+A further point of difference between the simple theory of the action of the series gap nnd
+actual conditions with a fouled plug is found in the fact that the resist anc o of the fouling decreases
+The evidence.~on this point has betm already given. It
+as the E; M. F. applied to it increases.
+is easily seen that fiis characteristic
+of th.o fouling requires a larger increase in the breakdown
+voltage of the series gap for a given increase in breal@o~m volf+ge of the spark plug gap than
+if the resist ante of the fouling were constant.
+It-was seen that-an improvement in the action of the series gap could be secured by putting
+a condenser of suitable capacity in parallel with the source of E. M. F. This condenser should
+have as small dielectric 10SSOS possible, as the maximum E. M. F. of the magneto or coil is
+as
+decreased .by an amount which depends directly upon the magnitude of the losses.
+In discussions con&rning the action of the sm~gap,
+it is prmtica~y always Msumed that
+the passage of a djscharge bet?veen the tem.igrds .o[ ]he plug will always tie the charge, and
+consequently, that the problem is solved when the ylug can be made to pass a spark at the
+Th~t thiu+w.unption
+is not always true, is shown by
+proper time in every cycle of the engine.
+the circumstances reported to this bureau and rneptitined above, that a cei%ain engine would not
+start with the series gap in circuit but wouId run with the gap in circuit after being started.
+Some experiments at the Bureau of Standards made, it is true, with a smaller gap than is usuaT
+in plugs (O.1.5 to 0.30 g:)
+gave the fouowfig r~yl~:
+A gap was inserted in series with
+a clean plug in one of the cylinders of a four-cylinder engine.
+When the length of the series gap
+b the l~th
+of the seiies gap increased tthe misshig
+was zero the cylinder would miss steadily.
+became less, and at a certain value of the gap the engine fired perfectly.
+As the length of the
+serias gap was still further increamd, the cylinder fired perfectly for a short range.
+As the gap
+was increased still furtber, however, missing began a@n, and for a Aill further increase inlength
+the series gap would pass
+the cylinder missed all the time. At all times during the eq@m@
+a discharge at the proper instant of each cycle. When the cylinder was fhing perfectly, obviously a discharge must have been passirg between t@_@ectroil_~ of the plug. When the length
+of the series gap w% increased and a discharge still kept pa=yng ,in .!!, the plug in thg_engke
+cylinder must have given a spark for each discharge .of the seri~ gap. This fact ShOWSthat a
+spark between the terminals of a plug does not necessarily fire the charge in the engine cylinder,
+even though there is no change h the composition Q! density of the charge.
+It is not lmown
+whether any phenomena similar to those just described take place for spark-plug gaps of the
+dimensions generally used (0.50 mm.), but it will be well in any discussion of the action of series
+gaps ta bear in mind the possib%ty of their occurrence.
+(C) THE DESIGN OF THE SERIES GAP.-FORM AND
+GENW”
+
+DESIGN.
+
+AND MATERIAL
+
+—
+.- =-.
+
+-
+
+—...-.
+—.
+-..
+—
+
+,,
+—
+
+—.
+
+...
+
+--,
+.
+
+.-
+
+..
+—
+
+..=4
+
+—.
+
+MAT.ERM.MJ F ELECTRODES.
+O
+..
+
+The following requirements. must. be satisfi@ by a series gap .U it is to be of practical use.
+Its breakdown voltage must be reasonably constant and weater than that of the plug; it must
+be able b spark the plug for the lowest value of fouling resistance likely to be met within practice; and it must be reliable in @ion and of reasonably long life. In the following paragraphs
+will be pointed out the way in which the above requirements affect the design of the gap.
+FORM
+
+..
+
+.—
+
+OF ELECTRODES.
+
+The fist quastion to be decided is that of the fgrm and material of the elect~odes, as these
+are by far the most important factors in determining.t~e breakdown voltage of the gap. In this
+connection it has been suggested that-a multiple gap could be used insteacl of a single gap.
+There is at present practically no evidence that a multiple gap would offer any advantages over
+a single gap. As to the shape of the electrodes, it ~~:= seen above that pointed electrodes are
+entirely unsuited for use either in the seriw gap or h the plug gap, and that in order tQ avoid
+hardness the radius of cmvature of the e.lectrQdes should not.,be. smtll compared with the dis-
+
+..
+
+SUBSIDIARY
+
+GIKP AS A MEANS
+
+FOR IMPROVING
+
+IGNITION.
+
+15
+
+tance between electrodes,
+As long as this condition is satisfied the precise shape of the
+electrodes seems to make no dMerence.
+The requirements
+that the material of the electrodes should satisfy are as follows: The
+, breakdown voltage should be constant; the material should have good mechanical properties,
+high thermal conductivity to prevent heating, and should corrode but little in order that the
+gap should have a long life. Nickel alloy wir?+of the sort used in spark plugs would seem to
+satisfy these requirements best at the present tune.
+INSULATION
+
+..
+_.
+
+._
+
+___ _
+
+:.
+—
+
+OF GAP.
+
+The insulating material supporting the electrodes of the series gap should have, fit
+and
+This is absolutely necessary because any leakage
+foremost, a very high in.wdation resistance.
+between the electrodes of the gap is fatal to the gap’s fuctioti.
+This material should be
+able to stand heat without impairing its insulatkg
+properties, if the gap is integral with the
+plug; and if the gap is tightly inclosed should be able to withstand corrosion by the nitric acid
+which is formed from the air by the passage of the spark.
+HOUSING
+
+..
+— .- —
+
+OF THE GAP.
+
+The series gap may be either in communication,
+more or less direct, -with the atmosphere,
+or maybe tightly inclosed, even hermetically sealed. If the gap is open to the atmosphere, there
+is little opportunity for corrosion by the discharge, and the consequent probable impairment
+of the insulating propertiw of the housing. However, there is a certain tie risk if any considerable amount of gasoline vapor should be in the vicinity of the gap. Teds at the Bureau of
+Standards have shown that this fire risk may be eliminated by the use of a Davy gauze inclosing
+the gap. A further point to be considered in connection with a gap open to the atmosphere,
+when used on an aviation en@e, is that at high altitudm the breakdo~
+Potenti@ Of t-he gap
+However, the density of the charge in the engine cylinder is correspondingly
+is decreased.
+decreaeed, and the result is to preserve unchanged the ratio of the breakdo~
+voltage of the
+series gap to that of the plug gap. II the gap is hermetically sealed, the products of discharge
+can not escape, and there is a chance that the insulation resistance of the housing may be
+decreased.
+Noi%ing is lmown at present about the amount of the products of discharge and
+their effect upon the insulation resistance of the houam.
+A tightly indosed gap gives rise to
+no fire risk and has a constant breakdown voltage irrespective of altitude.
+As the breakdown
+voltage of the plug in the engine cylinder decreases with increase in altitude, it is seen that a
+tightly inclosed gap offers great advantages in the matter of firing fouled plugs at high altitudes.
+The adjustment
+of the length of a tightly inclosed gap, however, demands some attention.
+The present state of our lmowledge of the subject points to the necessity of the piIot being able
+to adjust conveniently and at any time the length of the series gap. To satisfy this rec@rement in a tightly inclosed gap is not impossible, but evidently complicat=
+the design and
+manufacture of the gap considerably.
+LOCATION
+
+—
+
+.-
+
+.,-—
+
+.
+
+‘“
+
+..—_~=
+
+,. -
+
+—
+
+OF TH13 GAP.
+
+The series gap has been placed in several locations: Integral with the ‘plug; at the plug,
+but not integral with it; and at the center of the diatributir,
+Tke
+various positions have
+If the gap is integral with the plug, it is in the best position
+their advantage
+and disadvantages.
+electrically, became the capacity of the leads is direc~y ~ P~Wel with the ma~e~.
+HOWever, if the gap is integral with the plug, it can not be adjusted while the engine is running
+without the addition of an undesirable amount of mechanism.
+Also the series gap in this place
+will get hot, and its breakdown voltage will be subject to considerable variations.
+If the gap
+is at the plug but not integral with it, it is still in the best place electrically, will not get so hot,
+and will not be so subject to variations in its breakdown voltage.
+It can not be adjusted, howrunning without ad~tional
+mechanism.
+If the gap is at the distribever, while the engine is
+utor, it is not in such a good place dectrnm~y for fig
+a fotied PIW. The capacity of the leads
+to the PI% is in thk case. dicectiy b para~~ *th the PIW and co~equen~y
+has a detrimental
+
+.__~
+.-
+
+—
+
+ff
+
+16
+
+AIWUAL REPORTNATIONALADVISORY
+
+COMMITTEE
+
+FOR AERONAUTICS.
+
+effect on the ability of the series gap to fire the plug. There is only one case in which this position of the capacity may be advantageouii.
+It was previously shown. that for a cleau plug it
+is partially advantageous to have the capacity in parallel with the plug. A further advantage
+of having the gap at the distributor is that its length can be adjusted easily while the engine
+is running.
+As was seen from the data given above, -g gap of fixed length does not seem. to be
+at all suited for the function of firing a fouled plug, and consequently, in order to be of any
+considerable amount of use, the gap should be capable of adjustment while the engine is running.
+It is possible, however, that one adjustable gap at the center of the distributor
+which serves
+all the plugs may not be a good arrangement, for some of the plugs may be clean and some may
+be fouled, the clean plugs requiring a different length of gap for their effective fing thm the
+fouled plugs. This suggests the possibility of having_g gap in series with the lead to each plug
+and close ta the distributor.
+This would call for a separate adjustment of the length of each
+gap. Whether the additional amount of apparatus thus required and the additional amounti
+of attention required from the pilot (in the case of an airplane engine) would be justified by
+the results obtained is a matter for practical test.
+
+=
+—.
+
+_._. ..:..
+—.- -.
+
+—.
+
+@ DEGREE OF UTILITY TO BE EXPEC1’ED OF SERIES GAPS.
+
+-.
+
+As a result of the evidence given above, it maybe concluded that the modification of jumpspark ignition systems by the addition of a properly designed and operated gap in series wi@
+each plug may remady effectively a considerable part of the trouble due to cases of fouling met
+in practice.
+At present the limits of the method are not known; that is, one can not say definitel y just what is the lowwt fouling resistance which can be handled by a series gap on a given
+ignition system and, conversely, whether a given ignition syst~
+can or can not, by the use of
+a suitable series gap, be made to spark a plug with given fouling re+tqgce..
+The possibilities
+of the device, however, are well shown by the fact, mentioned before m this report, that-it was
+found possible in one case by using a series gap on an average ignition system (magneto) to
+spark a plug having the extremely low value of fouling resistance of 4,OOOohms. The only
+other positive conclusion that can be stated now is that the length of the series gap should be
+capable of easy adjustment by the operator of the engine at any given time.
+In addition to work done in ~he laboratory and on a few engines, the installation of a large
+number of gaps in. practice and a careful record of. their performance is neceesmy before the
+question of the practical utility of the series gap can be considered as entirely settled... This
+practical test can be. carried out at any time and independently
+of laboratory work, and its
+results wouId be of the greatdrvalue.
+
+.
+
+o
+
+‘
+
+—-.
+—
+
+-—
+.
+—,
+
+—,
+

@@ -1,0 +1,7155 @@
+flU: C
+
+c
+
+SE FILE
+COpy
+
+REPORT No. 119
+
+THE PRESSURE DISTRIBUTION OVER THE HORIZONTAL
+TAIL SURFACES OF AN AIRPLANE-II
+
+THIS DOCUMENT ON LOAN FROM T ~ FILE~ (\
+
+NATIONAL ADVISORY COMM 1'~
+FOR AERONAUTICS L
+
+VISORY COM ITTEE FOIt A£R
+
+Ie!
+
+R
+UTiCAl LABORATORY
+LANGLEY FIELD. HAMPTON. VI RGINIA
+
+RFTllPN TO THE"
+
+tlnVE" "'O"'P~"''''.
+
+REQUESTS FOR PUB UCATIO S SHOULD BE AD RES EO
+AS FOLLOWS:
+
+NATIONAL ADVISORY CoMMITTEE fOR
+1512 H STRE.H. N. W.
+WASHINGTON 25. D. C.
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1921
+
+REPORT No. 119
+THE PRESSURE DISTRIBUTION OVER THE HORIZONTAL
+TAIL SURFACES OF AN AIRPLANE-II
+By F. H. NORTON and D. L. BACON
+Langley Memorial Aeronautical Laboratory
+Langley Field, Va.
+
+59752-21-1
+
+1
+
+ADDITIONAL COPIES
+OF TillS PUBLICATION MAY BE PROCURED FROM
+TIIE SUPERINTENDENT OF DOCUMENTS
+GOVERNMENT PRINTING OFFICE
+WASHINGTON, D. C.
+AT
+
+10 CENTS PER COPY
+
+REPORT No. 119.
+THE PRESSURE DISTRIBUTION OVER THE HORIZONTAL TAIL
+SURFACES OF AN AIRPLANE-II.
+By
+
+F. H.
+
+NORTON
+
+and D. L.
+
+BACON.
+
+SUMMARY.
+
+This investigation was undertaken by the aerodynamic staff of the National Advisory
+Committee for Aeronautics at Langley Field in order to determine whether the results obtained
+upon model tail surfaces can be used to accurately predict loads upon the full-sized tail; and
+also to find the distribution of load when large elevator angles are used, as the loads from such
+angles can not be obtained readily in free flight. The method consisted in using a metal
+horizontal tail surface inside of which small air passages, connecting with a series of holes in
+the surface, led the pressure off from the tail in rubber tubes. In this way the pressure at
+each of these holes was measured by a manometer at several angles of attack and several
+elevator settings. The results show that the model tests give a loading which is equivalent
+to the loading under similar conditions in the full-sized airplane and that the manner of distribution is quite similar in the two cases when there is no slip stream.
+INTRODUCTION.
+
+The only work which has previously been done on the pressure distribution on model
+tail surfaces is given in the first two references below, the remaining references applying only
+to the forces on model tails. The scope of the present investigation compriHes the determination of the distribution of the pressure over two separate tail planes, models of the tail planes
+used in National Advisory Committee for Aeronautics Report No. 11. The tail planes were
+tested on a fifteenth scale model of the J 4H, and runs were made at various angles of attack
+and elevator angles to cover all conditions that might occur in flight.
+References:
+"The Distribution of Pressure Over a Tail Plane." Bulletin of the Airplane Engineering Division, December, 1919.
+"Experiments on the Effect of Altering the Position of the Hinges of the Elevators for the B.E.2C Aeroplane."
+British Advisory R. & M. TO. 254.
+"Pressure Distribution Over the Tail Plane of B2C. Part I," R. & M. No. 66l.
+"Flossendruckmessungen ." Technische Beriehte, vol. 1, '0.6, October, 1917.
+"Systematishe Versuche an Leitwerkmodellen." Technische Bel'ichte, vol. 1, 1\0. 5, August, 1917.
+APPARATUS AND METHODS.
+
+A model was constructed in the u ual manner with aluminum wings and wooden fuselage,
+the scale being one-fifteenth in order to make the size of the tail plane sufficient to allow large
+air passages. This model was supported in the center of the tunnel on a spindle from the
+N. P. L. balance so that it could be easily rotated to any angle of attack. As the forces on the
+model were considerable, the upper wing tip was firmly supported by three wires running to
+the side of the tunnel, but still allowing free rotation.
+The tail planes, figures 1 and 2, were made of brass by Mr. Carl Selig, instrument maker
+at the Massachusetts Institute of Technology. The sections were one-fifteenth that given for
+the tail surfaces in Part I within 0.003 inch. Figure 3 shows their method of construction,
+which consisted of soldering together two plates which had already been grooved for the air
+passages. In order to prevent this solder from closing up the air passages aluminum wires
+were placed in them during the soldering. This soldering was so well done that there was
+3
+
+4
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+no leakage between the adjacent passages in any case. In order to save time it was desired to
+take a number of readings simultaneously, so that a separate connection was made to each air
+passage by means of fine rubber tubes about 1 millimeter in diameter leading to the multiple
+manometer as shown in figure 4.
+The multiple manometer used for reading the pressures in this investigation is shown in
+figure 5 and consists simply of a reservoir of large area which is adjustable vertically, and a
+series of inclined tubes each having its corresponding scale. The two outside tubes are connected back to the reservoir so that they will read at all times the level in it, thus giving a
+pair of zero readings with which to compare the various heads.
+When ready to make a test all of the holes in the tail plane were covered by strips of tissue
+paper which had been coated with paraffin. These strips of paper were applied over each row
+of holes with a hot iron, making a very smooth and tight joint without danger of plugging the
+air passages, a trouble that was encountered in previous tests. The whole system was then
+tested out for tightness by applying a small pressure tb the reservoir in the gauge, and if this
+pressure was held it was proof that there were no leaks. After this test the strip of paper was
+removed from a single row of holes and the tunnel was run at a steady speed of 40 miles per
+hour. The pressures on the tail were compared with the static pressure in the tunnel by connecting a static head, which was placed near the model in the tunnel, to the reservoir of the
+manometer.
+Sofi brass pin.
+
+-:J
+
+Pressure holes,
+N 9 65 Or;/I.
+1
+
+u&//!M!/dil\Wu'~~~
+riq.3.
+
+or
+
+M£TItOO
+CONSTRUCTING
+TAIL 5URr CCs.
+A
+
+The readings of pressure obtained were converted into vertical inches of water, and the
+plotting of the results carried out in exactly the same way as for Part I, excepting that the scale in
+this case was somewhat increased because the pressures read were considerably smaller than those
+obtained on the full-sized tail plane. It was not thought worth while to determine the position
+of the center of pressure on the model tail plane, as it was easier to find the moment about the
+center of gravity of the machine mechanically than it was to find it by the integrated pressures.
+PRECISION OF RESULTS.
+
+The heads of water as computed may be considered precise to 0.005 of an inch and the areas
+measured with a precision of 0.01 of a square inch, which is the same as for the full-flight tests.
+These model tests, however, do not have the errors which were inevitable in the full-flight tests
+due to varying atmospheric conditions, so that the evenness of the results from the model tests
+may be considered quite superior to those obtained in free flight, and this is evident by the
+smoothness and regularity of the load curves.
+SCOPE OF THE TESTS.
+
+Two horizontal tail surfaces were used in this investigation, being one-fifteenth scale models
+of those used in Part 1. Each tail was tested at the following angles of attack of the tail plane
+of the airplane:-2°, 4°,10°,16°,20°. At each angle of attack the elevator was placed at -15°,
+- 5°, 0°, + 5°, + 15°, +25°, all in respect to the tail plane. It should be noted that in this report
+a positive elevator angle is taken when the trailing edge is pulled up. In order to determine
+the effect on the model of closing the crack between the elevator and tail plane the pressure distribution was taken along one row of holes. In the same way the effect of giving the tail plane a
+more positive angle of 2° was determined.
+DISCUSSION OF RESULTS.
+
+In figures 6 to 65 are shown the distribution of pressure over the two tail planes under various
+conditions of angle of attack and elevator setting. The most prominent characteristic evident
+on the JN4H tail is the region of marked down load at the outer leading edge for small angles of
+
+FIG. l .- MODEL OF JN4H TAIL SURFACE.
+
+FIG. 2.-MODEL OF SPECIAL TAIL SURFACE.
+
+FIG. 4.-PRESSURE DISTRIBUTION
+MODEL SET UP IN THE TUNNEL.
+
+FIG.
+
+5.-MULTIPLE MANOMETER FOR MEASURING
+PRESSURES ON THE TAIL .
+
+HORIZONTAL TAIL SURFA.CES OF A.N AIRPLANE-II.
+
+5
+
+attack and especially when the elevator is pulled up, a region of down load at the outer edge
+of the elevator due to the positive rake of that member. On the other hand, when the elevator
+is pulled down there is a sharp up load at the outer edge of the whole tail plane. In contrast to
+this, the special tail plane does not show a very high loading at the outer tip and the general
+distribution is more even along the span.
+Turning now to figures 66 to 77, which show the load on the tail in cubic inches of water
+along the chord, it is seen that there are two distinct regions of high load, the first region being
+at the leading edge and the second just behind the hinge. It will be seen that the region at the
+leading edge varies mainly with the angle of attack while the region on the elevator varies
+mainly with the elevator setting, although each one is slightly affected by the other. The region
+of high loading on the elevator is much more concentrated and pronounced on the special tail
+plane than it is on the other.
+By making the assumption that an airplane will retain its velocity for an instant after
+pulling up the elevator sharply, we may compute the loads that will arise on the full-scale tail
+plane in accelerated flight. For example, from figure 81 the load on the model tail at 0° attack
+and 0° elevator is 1 cubic inch. As this corresponds to 100 miles per hour full scale, the load on
+the tail will be 51 po~ds, or about 1 pound per square foot, which checks very well with the value
+actually obtained in full1iight of 0.97 pound. If the elevator is pulled up to 25° while the same
+speed is maintained the load, from the model curves, is increased nine times or to 459 pounds,
+which gives a loading of 9 pounds per square foot. The load encountered here is not large, even
+for the severity of the conditions, and it is interesting to compare it with the load factor of 5.5
+for the wings as determined under identical conditions.!
+A run was made on the JN4H horizontal tail surface with the crack between the elevator and
+tail plane closed up with wax, and another run was made on the same tail surface with the tail
+plane angle changed by 2°. As these changes, however, made no appreciable effect upon the
+distribution of pressure it was not thought worth while to include the curves of the results.
+STABILIZING AND CONTROLLING PROPERTIES OF THE TAIL SURFACES.
+
+In figures 78 and 79 there are plotted the loads on the tail plane of the two tail surfaces for
+various angles of attack and for various elevator settings. An evident fact is that the force on
+the special tail plane when the elevator is set at + 5 ° crosses the curve for zero elevator at high
+angles and the force with the elevator down - 5° is also very close to the force when the elevator
+is at zero. This all confirms what has been found in full flight, that the controlling effect of
+this tail surface is very poor. This is probably due to the fact that the tail is so thick and the
+elevator so small that a small movement of the elevator does not influence the flow passing over
+the forward tail plane surfaces. This leads to the conclusion that a tail should not be made of
+such a thick section, although more tests should be made before this statement can be considered
+conclusive.
+In figure 80 there is plotted the force on the elevator alone for various angles of attack and
+elevator settings. It is evident that the force on the special tail surface varies slightly with
+the angle of attack; the force, however, seems to be almost exactly proportional to the angle of
+the elevator. On the JN4H tail, however, the force changes quite markedly with the angle of
+attack and changes even more than for the special tail when the elevator angle is changed.
+In figures 81 and 82 there are plotted the curves for the total load on the tail surface, which
+is simply the summation of the previous curves. It will be noted that the slope of the curves
+for the special tail is considerably greater than for the JN4H tail, the former giving, as would be
+expected from its greater aspect ratio, about 13 per cent greater force than the other for a given
+change in angle of attack. A change in angle of attack of the whole surface of 1° has about the
+same effect on the total loading as a change of 11° of the elevator.
+In figure 83 there are plotted the pitching moments of the complete airplane for each tail
+plane and also for the wing cell, and the wing cell plus the fuselage and landing gear. All of
+these moments were taken about a center of gravity position which was 38 per cent back on the
+'Accelerations in Flight. N. A. C. A. Report .No. 99.
+
+6
+
+REPORT NATIONAL ADVISORY COMMlTTEE FOR AERONAUTICS .
+
+mean chord, which is about the standard position for the full-sized airplane. It will be seen
+that the moment curves for the wing cell alone are unstable up to about 16°, beyond which
+they are stable, which is typical of a biplane of this type. The curve of moments for the wing
+cell with the fuselage and chassis attached lies remarkably close to that of the wing cell alone,
+showing that these members h ave an inappreciable effect on the total moment of the airplane.
+Turning to the moment curves for the complete airplane it at first seems rather surpri ing that
+they all show a region of instability at angles lower than 4° . If it is remembered, however,
+that the models were tested under conditions of locked controls, it will be seen that the stability
+is almost identical with the full-flight t ests . This brings up the question of why an airlpane is
+more table with free than with locked controls under certain conditions. This does not seem
+reasonable, as in the latter case the effective tail area is much greater. A possible explanation
+is that the weight of the elevator itself changes the configuration of the tail-plane section. At
+any r ate, all wind-tunnel models should be tested with both free and locked elevators, the free
+elevators having a weight proportional to the full-scale ones.
+It was found by the British ~ in model and free-flight tests on elevators that the efficiency
+of the latter was greatly increased by the use of a negative rake. The reason for this, which
+was not clear at that time, is shown by a study of the pressure distribution on the two tails.
+The JN4H tail (positive rake) shows a very high loading along its outer edge due to its action
+as a leading edge. The other tail, however, with a negative r ake shows that this load is transferred to the tail plaine, so for a given controlling effect there is much less load on the movable
+portion.
+COMPARISON OF FULL-FLIGHT TESTS WITH MODEL TESTS.
+
+The principal reason for conducting these model tests was to determine whether the loads on
+the full-sized tail plane could be accurately predicted from the results obtained on the model.
+Unfortunately, however, there are few cases where a direct comparison may be made. First,
+because of the slip stream on the full-siz ed airplane, and, second, because the elevator angle
+is not known to better than 1° at high speeds, and perhaps not better than 3° at the very low
+speeds on the full-siz ed airplane. In figures 84 and 85 there are plotted for comparison the
+model and full-flight tests to equivalent scales; that is, the model tests have been multiplied
+by the ratio of the speeds squared. These conditions were chosen because there was no slip
+stream in the free-flight case. A careful examination of these figures will show that the agreement between the two cases is quite disappointing. While the tendencies of the curves are
+the same in a great many cases it is quite evident that the assymetry of the full-flight tests
+even when there is no appreciable slip stream is quite large. The lack of agreement of the
+pressures on the elevator may be due to the fact that the elevator setting was not exactly the
+same in both cases.
+Probably a better comparison can be had between the model and full scale by comparing
+the total load, as has been done for the two tail planes in figure 86. The full-scale results were
+taken when there was no slip stream. The corresponding curves show a fairly good agreement
+except at low speeds with the J N4H tail, where the elevator was turned to a large angle. The
+discrepancies that do occur can readily be accounted for by the lack of agreement between the
+elevator setting in corresponding cases. As the normal movement of the elevator in flight
+is only a few degrees, an error of one degree will greatly affect the loading.
+CONCLUSIONS.
+
+Within the error of comparison, the model tests will give the tail load experienced on the
+full-siz ed airplane in steady flight and wi thout slip stream. The stability of the model compares closely with that of the full-sized airplane if care is taken to make the conditions identical.
+The results emphasize the desirability of using a tail surface of high aspect ratio, of not too thick
+a section, and with negatively raked tips. If the comparison is assumed to hold good between
+model and full size for accelerated flight, the tail load on a J N4H with standard tail would
+amount to 9 pounds per square foot when suddenly pulling out of a 100 mile per hour clive.
+'British Advisory Committee. R. & M. 409, T. 825, T.1l15.
+
+7
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE- I I.
+
+JtV4HTAlL.
+
+l4IL PLAN£' of -2°angle of aflack
+ELEVATOR-/S"(down)m respect to tal/p/ane
+---------------------- -------- - -- --- ---- - ---
+
+Hodel·
+
+40 MPH.
+Tunnel.
+
+f'---------'----+-------------?-~=- 1.30
+
+:::====~~====~::::==~~==::::~"~t:'7\\A~ 0.00
+\
+
+A=+066k---~~~------~~------------~------------~~------~~~--~ A=+0'66
+\
+
+,
+,
+,
+A=+074'
+,
+,
+
+\
+\
+
+\
+A=+074
+\
+
+\
+
+A=+1.I2,~
+
+F
+r-
+
+~\A=+//2
+
+----~---c----~---------------------~
+---\
+
+--------------------------- -
+
+--~
+
+'--------------------------=s---
+
+A=~'?'/7 ~
+
+A=+I04~
+
+c=:-
+
+k+068
+'.r--A=+033\
+
+~//
+
+r--
+
+\
+
+\
+
+I
+
+~/
+
+-----------------------------\
+
+\
+
+\
+
+~
+
+\\~
+\
+
+~'
+"",,,,,//
+
+........ -______________
+
+.25
+
+-"
+
+Inches
+
+~ A=+1.04
+
+\~
+
+.75
+
+::1A=+0.68
+~/
+
+\~
+
+~A=+ 033
+
+'"....
+
+.oofwofer:
+
+, '
+/
+
+- - __________ _ __ _ _ --,,/
+
+l4IL PLAN£' of +4 °angle ofo/Iock
+EL£VATOR - 15° (down) In respecf fo lollp lane
+
+JN4H7l11L.
+Hode/.
+
+A=+'?' /7
+
+~'
+
+~
+
+".50
+
+\'...
+
+Fig. 6.
+
+I
+
+I
+
+40 MPH
+Tunnel.
+
+A=.,.Q37A~;'~-:-~;-;-;;;;-:-:-:-:-:-:;-~
+~
+-;-;-;-;; ;- - -t- ;- -; ;- -~ -:- :- -:;: -;;;-;;- ~ -~ ~,~=+0.3:7
+- -;- ;; ;- ; -;- ~ -~ :- = -:;: ; ;- -: -~';;'
+/
+
+A=+0 8S~~~----~~__-===============~============-I
+
+I
+
+\
+
+__~~------~ \ Ac+085
+'
+\
+
+f------------------------------t------------------------------~ .
+
+I
+
+I
+I
+
+I
+
+I
+
+- ---- ---- ----------//
+
+\
+\
+
+.75
+
+I
+
+Fig. 7
+
+\
+
+I
+
+A= +O'05~~~----------~
+
+/
+
+\
+
+I
+
+.so
+
+I
+
+.Z5
+
+Inches
+
+.0 of wafer.
+
+A=+ I . 18
+
+8
+
+REP ORT N ATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+JN4t1TAIL .
+Hode/.
+
+TAIL PLANt: 0;'" I D° angle of attock.
+eLt:Ii4TOR - 15 ° (down) m respect to t allplane .
+
+4 0 MPH
+Tunn e l.
+
+- -- - - - --- ------- - -----
+
+,,
+
+I
+
+,
+
+I
+I
+I
+
+I
+/
+I
+
+.75
+
+A~+ I . 12 r--:=-------------~I
+
+~/
+
+A=+054\C
+,
+
+'~-------------~-~A= . I 12
+
+.so
+
+I
+
+''''',
+Fig. 8.
+
+,,
+
+.Z5
+
+" '~
+----------------------~\ I '
+~~~--------------f 'A=.O 5 4
+,
+
+JN4f1 TAIL
+Hodel .
+
+In c hes
+
+I
+
+'"
+
+//
+
+....--- -- - - - -- -- - - - - ..:--- ",
+
+.0 at w afer:
+
+//
+
+- -- - -- -- - -- -- - -
+
+TAIL ?LANeo t + 16 0 angl e of a flock .
+eLeVATOR - 15°(downj m r e spe c t to fat!p lane .
+
+4 0 fv1.p.H.
+Tunnel.
+
+A-+244
+r-~~~--------------------------t-------------------------~~~~.\
+
+A-+258
+
+\
+
+\
+
+A~+2!74
+
+A=+1.7S
+
+,
+
+I
+
+I
+
+75
+
+A = + 1.26,I---1'--- ---=-<:;;;:: - - -- - -- -4, '
+\
+
+A=+ I \\--------------~'
+O.!!
+
+,'"
+Fig . 9.
+
+/ /
+
+'-- -- -------- - - - -- ;/
+
+"
+
+,
+
+.50
+.ZS
+
+Inches
+
+o of wafer
+
+?---------------::::;;>"..-<:::..- ----'lrl A-+ 1.26
+\
+
+I
+
+\
+
+~
+
+'
+
+______________________--:IA=+091
+
+,
+
+I
+
+"
+
+',-------- ------ - - _.--
+
+/"/
+
+9
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE-II.
+
+40nPH
+
+TAIL PLAN£of+2DOonqleoTof/ock.
+£L £VATDR - 15 (down) in re spect to tot!plone.
+
+JN4ItTAiL.
+Hode/.
+
+Tunnel.
+
+0
+
+----------------------
+
+----- ---- - - - - - - -
+
+- ---
+
+A=~232
+
+A=+'?85
+
+A=+.3.44
+
+,
+
+,
+
+\
+
+1
+
+A=+.?2S
+
+1
+1
+
+,
+
+A=+ 1.67'-,f-----~.......=_------__4/
+\
+\
+
+1
+
+\
+
+"
+
+\~________~~=-~~---------4,
+
+' .... ,
+
+Fig.lO
+
+.50
+
+.zs
+
+;/
+
+-------------------
+
+JN4liTAIL
+Hodel
+
+A=+c.2S
+
+.75
+
+1
+
+,
+
+A=+ 1.08 \ : , - - - - - - - - - - - - - - - - - ' Y
+"
+
+,
+
+,/'
+
+Inches
+
+/
+/
+~/
+
+,-----------------
+
+.0 ofwaf~r.
+
+TAIL PLAN£ of -ZOonqle ofollock.
+£L£VATDR -SO(down)m respect 10 loJiplone .
+----------------------
+
+I
+I
+
+IOM.P.H
+Tunnel.
+
+-- ..... ,
+
+,
+\
+
+I
+
+\
+
+A=+OI8k'--~~============::==::==========+=::::::::==::==============~~---~"A.+O/9
+I
+
+\
+\
+
+:
+
+(------- --------------------------- ,------------ --- ---------------,
+r-------------------------------, -- -----------------------------!
+I
+
+I
+
+,~
+
+,
+I
+
+I
+
+,
+
+\
+
+~I
+
+"
+
+\
+
+/
+
+75
+
+59752-21-2
+
+\
+
+\
+
+,'.so
+
+"
+
+' ........ _________________ --.......
+
+\
+\
+
+~\A •• QI7
+
+'.,.....-
+
+I
+
+'")'
+
+~\
+
+\
+
+")'
+
+f
+A-+OIC'I-------
+
+A-'O/4\
+
+\
+
+-----...........,1A~+a40
+
+\
+
+/
+
+A6.0/7:..........-
+
+Fig. I I .
+
+\
+
+'1'1 '?
+,
+,
+
+A-+040f,,..........----
+
+1
+,25
+Inches
+
+.0 of
+
+"
+wof~r.
+
+\
+
+'(
+
+1 ·-f-+Qlc
+I
+
+'r"
+
+. /A·+QI4
+
+"....
+
+//
+.......... _______________ - , , /
+
+10
+
+REPORT NATIONAL ADVISORY CO MMITTEE F OR AERONAUTICS.
+
+JN4H7:4IL
+
+40 MPH.
+
+TAIL PLANe of +4°an gl e of all a ck.
+eLeVATOR - SO (downjm re spe c t f a IOJ/p /one .
+
+Hodel.
+
+Tunnel .
+
+A=-a~' C--- --- ;------- - -l----- - -- -;----- -- - --7"A = -O.65'
+
+A=~o.32,/----=:;Z
+A =+ 071
+
+SC:::>
+
+-;
+
+/~
+
+I
+
+,
+,
+
+"\A~+032
+
+~A=-071
+\
+
+\
+
+,
+
+I
+
+I
+
+I
+
+,
+
+Ac-o.63,
+
+A=-063
+\
+
+,
+
+I
+
+I
+
+\
+
+I
+
+I
+
+A=+O.sO
+,
+,
+
+A·-O.SO
+
+I
+I
+I
+
+I
+
+:::::::================ = ====~~-:=~ ~~~~~~~~~~-::::::::::::::::::-~~;
+I
+
+~/
+
+A=+082 (
+.
+
+:
+
+/
+
+I
+
+12
+
+\
+
+"
+
+,,,
+
+.
+
+/
+
+\
+
+\
+
+/
+
+\
+
+~A-+o.36
+
+'r
+
+.50
+
+.... 1
+/
+
+~A-+Q49
+
+\
+
+75
+
+-!
+
+~
+
+------'i
+
+'?
+
+,/
+
+Y
+
+A=+020'r
+r '
+
+\
+
+\
+
+I
+
+I
+
+"9·
+
+~A-+082
+
+\
+
+~'
+
+"
+
+~
+
+\C
+
+"
+
+A='049~
+.
+
+\
+
+I
+
+,.,..---
+
+A=-o.36
+
+1
+
+\
+
+I
+
+. . . .... .... - _ ____ ____ __ ___-- -"
+
+I n ches
+
+~'A-O.20
+
+' oF
+
+\.25
+
+\, ,
+
+.0 af wafer:
+
+/
+
+/
+
+/
+
+..... , - - ________ _ ___ _ - ..... "
+
+JN4H TAIL.
+
+TAIL PLANe 0 1'" 10 °angle oro/lock.
+
+Hodel .
+
+eLeW/TOR -SO(dow;"ljm r especfto tOI/p/ane .
+
+40 MPH
+Tunnel.
+
+A =· I60'~--------------------------_1--------------------------~~
+
+f----------=--=.= ========. =. -:. =. =. -:. =.-:..-:..-:..---=;-; t~ =.-=----------------------.:~~::.:~~ - - - - I
+
+I
+
+A~+ I .I? I
+
+'
+
+I
+
+I
+,I
+
+I
+
+'
+
+I"
+
+\,
+I.
+
+I
+
+L
+------=============:: : "",/
+
+A-+QS4,
+
+A=+023
+
+Fig.l3.
+
+.7S
+
+I
+
+C"'"'
+~
+
+1
+
+,
+
+,
+\
+
+'.,........--:
+
+.50
+
+=-----t/
+
+',-----------------, ~
+
+'<,---------------------------------;1'--\\
+:
+
+.Z5
+
+,/
+Inches
+
+.0 of w ater.
+
+\
+
+,
+
+'~~~==============~~~
+
+"".... ....
+
+----------------
+
+11
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE-II.
+
+JN4t1TAIL
+
+JAIL PLAN£ of + 16°angle ofattock.
+£L£VATOR -SO(down)tn respect to tallplane .
+
+Model.
+
+/;
+
+~~-------------'-------
+
+401'1.P.H
+Tunnel.
+
+---------------------, l'\
+
+~,\A = .364
+
+AH3.64/l. -A#+i?56
+
+~
+
+~= #C'56
+
+---- ('f,.e n
+
+A"2'rf\~
+A= ~ I. 79
+A "" I . 72
+
+r
+
+/
+
+"
+
+I
+
+"
+
+A =+/
+A
+
+/_~
+
+J
+
+"---
+
+,,\
+
+"'"
+
+f
+
+//
+
+"'0
+0.vc
+
+'--
+
+Inche.5
+
+\
+
+,--'
+
+A=# 156
+
+\
+
+./
+
+A=+070
+
+\,~===========---J'A =+04S
+,
+"
+"
+
+of water
+
+Ac# I 02.
+
+I
+
+/
+
+' -- -- ------------~'
+
+WL PLAN£ 01+20· angle ofoHock.
+alYATOR -SD(downjinrespecflo tailplane .
+
+Model.
+
+A=+4.5/
+
+\ \....
+
+o
+
+1
+"
+
+c===========--=- -:;;~
+~
+
+75
+
+. 2~
+
+Fig. /4.
+
+-=-~ -=--=--)
+
+/r~\\
+\ u:.._ _ _ _ _ _ __ _ _ _ _ _--: ~
+/
+
+,
+
+/
+
+--=-
+
+A=+1,72
+
+~
+
+50
+
+'-........
+,'
+A~'04S'~l--============~1
+JN4f1TAIL
+
+.--/"
+
+- -..=
+
+""1 """-
+
+=# " ~Ir
+
+h
+
+I
+
+~-=- =- -=- -=- -=-- -- ---- ----------~?F\~/ -----------A=+IS6 !
+
+\ Ac# 1 79
+
+/
+
+40 MP.H
+Wnne/.
+
+,------------------------A-+327
+
+A=+ 2.04
+\
+\
+\
+\
+
+\
+
+=:~~==~~-~-~-~- -=-~~~l -\~~-=--=-==~-~-~-~-=--~-~~-~~ -~~--=-~= :=====:=======\
+~
+- - -~ - - -=
+~-~~--~=--------
+
+___~.,
+/
+
+I
+
+,
+
+I
+
+;4=+/,4.3
+
+,
+
+\
+
+A=+1.87
+\
+
+/
+
+\
+
+\
+
+~::::::",-""",=~===-------~/
+.
+
+,
+
+\'r - - -- - - -:::::::=====-""'--11 A =+ 1.4 )
+\
+
+I
+
+.75
+
+I
+
+~~~==~~==~~~------~.,
+
+Ao+082 ,
+
+~/
+
+so
+
+~
+
+AS+1.I4\C
+
+\·..,,£'-----::;:::====~==:::~=\"1/,' A~.I. /4
+
+.2S
+
+,,'~
+
+\'.....
+FI9·15.
+
+\
+
+'-------------------,,'
+
+Inche.s
+
+.Oofwofer
+
+\\~
+.-
+
+" ..... _-----------------_ ... '
+
+,
+/
+
+A-·082
+
+12
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+JN4HT,4IL.
+Hodel.
+
+TAIL PLANt: o f -2 angle of olfock.
+L"Lt:£14TOR O"t'n respect t o toilplane .
+0
+
+--------------------/ /~
+
+rig. 16.
+
+-- - -------- - - --
+
+---- ---- -------~----', ........
+
+.0 of ' afer.
+w
+
+40MPIi.
+Tunnel.
+
+13
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE-II.
+
+7II1L PL AN£ a f + 10 angle of oflock.
+£L£v.-4 rOR OO/n r espect to toilplane .
+0
+
+.JAl4HWL .
+Hode/.
+
+--- _. _- ----- - /
+
+A~+ 1.28
+
+-- -
+
+-- - -
+
+- - -
+
+-
+
+--
+
+-
+
+- -- -
+
+JAl4HTAIL .
+
+- ----------- .....
+
+40M.PH
+Tunnel,
+
+=.-:.-:. -= -::.-= -= ~ == ==- -= == ===-= =-_-___-. -= ~J-,-==.-.......-.-:.::.':.':==-=--::...-...-...._._-_.::.-.. .
+I
+
+/
+
+\\
+
+~------------------------~.
+I
+
+I
+
+~------------------------_,A
+.
+
+"
+
+,
+
+'\
+
+I
+
+t----------------~I
+I
+
+~-==========~--.
+
+:
+
+.so
+
+AO~024~~~~
+, ~~::::::::==============~~"
+,I
+
+.. ...
+
+,
+
+.75
+
+I
+
+-- •. _--- - _._._--_ •.• '
+
+~----------------~A = -068
+
+I
+
+I
+
+"...
+
+-
+
+'
+
+7:4/L PLAN£of+16·angle ofoflock .
+EL£VATOR OO/n respect fo toilplane,
+
+. =-.:
+
+Fi9/.9·
+
+- - -- -
+
+Tunnel.
+
+, - - - - - - - - - - -- - - -- --I- - - -------------\A-+1.28
+i
+
+MDdel.
+
+.
+
+-- -
+
+40 MPH.
+
+25
+
+/
+
+Inche:s
+
+\
+
+\.<""'====~::::========---':
+\
+
+~/A ... +Oc4
+
+\ ('""""""""""
+
+~
+
+.............. _- -- -- ---- - - - --_ .. .... ...
+,
+
+./
+
+14
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+TAIL PLANE at.,.'?Ooong/e oFolfock
+
+JN4HTAIL
+
+,<fexlel.
+
+40MP.H
+Tunnel.
+
+EL EVA TOR at O Di respecffo toilplane.
+n
+
+------ ---_ ...
+
+_-
+
+----- - -----
+
+,,
+,
+
+I
+I
+
+,,
+
+I
+
+I
+I
+
+_______
+
+,· ~
+,'-------------::=====~)A =+ /.0./
+
+\ .,~""===::::::=---------1~A: -0.65 .
+..
+\'<"'r====::::::========:"y~A: -0.39
+,.'~J
+
+7$
+
+.50
+.25
+
+"
+
+Inche.s
+
+JN4HlA/L.
+Model.
+
+... . .
+
+,..
+
+o ofwoler
+
+... ... _------- - --- -------
+
+~
+
+1lI1L PLANE at - 2 D
+ongle of"offock.
+
+F
+
+40 MPH
+
+5 D } in respect to t a ilplane.
+(up
+------------------------ - ------------- - ----- -- ...
+ELEVATOR
+
+."
+
+Tunne/.
+
++
+
+"
+
+~-----------~----------~' ~= -275
+
+,
+
+'f-~------~~----------------+_--------------~~~----~~,A.-/.47
+
+~
+
+I
+
+:::-------------~-- --":.-- ~ ===--::_-== ~":. :.;- ;== == --.: ----.---:.:.: --.---== =:: ====- -:=:
+I
+
+I
+
+I
+
+A- - /.67/-----________________________~
+
+,
+
+,
+
+,
+
+'...,...-------------------------------tA: - 1.67
+\
+
+I
+
+I
+
+A·-a9/~'~------~~--------------~~
+I
+
+A= -055
+
+,
+
+,
+
+I
+
+tt';:;;jr-=======:::::::===-j
+,'
+
+.75
+
+I
+
+.so
+
+I
+
+,
+fig..?/
+
+-~- - - - - ---- - ---- - '
+
+I
+
+,
+
+I
+
+",
+''-==:;::::::::::===~~ A- -OSS
+,
+
+25
+
+,
+"
+
+I
+
+··,~~--------------~~~------~;A = -0'91
+
+Inches
+
+.0 orwaf~r.
+
+.. _--- -----------_ ... -'
+
+,
+
+15
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE-II.
+
+JN4H JAIL.
+
+r--- -
+
+TAIL PLANE 01 + 4°on9le orollock
+ELEVATOR + 5°(
+up) In respecf fo fall plane.
+
+Model
+
+A'-:;f~-
+
+-----~ --------
+
+aty
+I
+
+Tunnel
+
+~- m-2::;:~60a"
+
+,
+
+'
+
+I
+
+'
+
+-'A-·a.ta
+
+A ..
+
+Hf~tT
+
+::Jc-
+
+af5
+
+f
+
+\
+
+I
+
+\
+
+. ,,
+
+A--O.?4C;::::::,
+
+40 M.PH
+
+,
+
+- - - J A.-O.?4
+\
+
+,
+. ,; -=----=---------:. -:. :::. -:.:::. -=-:::::::::::: -:.::---..:--:.:- ':-,7-1- ~~ -=-.:---------:.:::::: -:.:.:. -:.:..-:.:-:. :.:.-----.:-:. :.:. -=--=-\
+.
+
+A:-1.17'
+
+\
+
+,
+
+'
+
+A:-/./7
+
+,
+
+,,
+
+I
+
+f~--~~----------------------~--~ '
+
+:~a:: rl:~: ,:,~_~ _:-_:-=_~_~-_=-=_~_~_~-_=-=_~_~_~_~.:-~_-~ ,~/~,:,-,'7/
+JN4HTAIL
+Model.
+
+,
+
+/
+
+II.
+
+hOM'
+
+'\
+
+\
+
+~,-\--~----------------------~~-+;
+
+_: -=,=,~,
+
+Lw.,.:"'.'t-,-,-,-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_..
+
+1AIL PLANE al+/Ooon9/e orallad,.
+ELEVATOR'" 5°(up) m respect fo loi/p/ane.
+
+40 M.PH.
+Tunnel.
+
+A_'f~-_ uu-lu -m-~'fn
+A ••a 9 6 -
+
+-
+
+Aa~t
+..
+
+-,A··0.96
+
+I
+
+AH05~,'
+
+',A: +0.52
+
+~
+
+y-.......
+
+.
+
+,
+
+i
+
+A:·020,
+I
+
+f.:--.:.:.: = =::::.:::::: ::::-:.:. -:. -:. -:.-:.:: =:. =:. =.:.:.: .:--;
+
+,'-
+
+I
+
+~/
+I
+
+,
+
+A.-O'I6......
+. /~
+/
+
+.
+
+A.-QOlk
+
+"
+
+I
+
+•
+
+\
+
+~
+•
+
+I
+
+\
+
+,
+
+~A=-Q/6
+
+\
+
+\
+
+.7 $ "
+.~
+
+I
+
+'...... ', _______________ -, ,//
+
+A =-a70
+
+-~,
+
+"
+
+,
+
+, "
+
+A=",o.07\\
+
+7
+
+\
+
+"
+
+:
+
+- , A : #0.20
+
+<' =.:.: ----------:.:.:.:.--:.:.::::::.-:.---------------:. -:. -=-::.:.::. ~
+
+e · " ".
+
+A.- 070
+
+"'9. 2 .3.
+
+~..a92
+
+I
+
+/'
+
+\
+
+~A.-aOI
+
+\
+
+I
+
+..2 5 "
+'''_'''eo .oOrWoer
+~ I
+",,"
+~
+
+" ., _______________ -
+
+/A=.,.a07
+'
+
+16
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+JIV4H7AIL .
+
+TAIL PLANE of '16°onqle of oflock.
+
+Hode/.
+
+ELElt4TOR
+
+~ SO(up)
+
+In
+
+40 M.PH
+Tunn~/,
+
+respecflo tal/plane .
+
+Az;oG,l----~::::::::::::::::::::::::::::::~::::::::::::::::::======::::::----~ A.+O'6/
+
+,
+,
+
+,
+
+~--------------------------- - ---------- -----------------------~-- j
+r- --------- -- --- ---------- --- ---~
+
+r---------------------- - ----- - -~
+
+of"'..c
+
+A' -a I
+
+-----
+
+A.~O./~---------------.,'/
+I
+
+t.'
+
+'
+
+•
+,
+
+... ....... _--------------_ ...
+
+"
+
+,
+
+I
+
+,
+
+"
+
+I ..._ _
+,
+
+.so
+
+,::::=============__/,'
+",""'
+
+I
+
+,
+
+.."",=====~:::=~==-~ AHO.!;:
+.
+
+,I
+
+'(""
+
+.25
+
+Inc h es
+
+~\,
+
+\ '. .------------------d"""' .• alo
+.
+'---',A
+
+.75
+
+Aa ""0./ 7\'-~::
+,
+
+F/g.24.
+
+-------
+
+'
+
+I
+AHo.I2~
+I
+
+,
+
+\,,;,_ _= _ _=:::::======-::;;;;,:./1~ A. -alo
+'
+
+1:
+
+,
+
+)'A " 0.17
+
+,,
+...... _____ _ ___ .. ______ ,41'
+
+.0 of wafer.'
+
+JN4H7AIL.
+
+TAIL ?LAIV£ ot'20° angle ofollock.
+
+Model.
+
+ELEY:4TOR + S O(up) in respect to tot!plone.
+
+40 MPH.
+Tunnel,
+
+A=·/.45 ,~~--------------------------------~------------------------------~~
+
+A·~~~-----------------------------------1------------------------------------~,A=.a99
+
+<='~,:::::::: -------.:.:= ==:: ==:.:
+,
+
+tt==:--:::::::::::=====----.l,,'a.?4\{.(====::::=======--..I;,'
+.•
+,
+. .... _- -----.----- _._-'
+
+.15
+
+)/f •• a28
+
+A-
+
+Fig.RS.
+
+so
+
+/
+
+\. .--=======----:::::::
+:...--::-:-~~::::--!l
+
+.Z5
+
+Inch/!s
+
+A • • 0.41
+
+,
+
+~A=+o.41
+,
+
+\t"
+
+I
+
+':-2:J
+
+\
+
+I
+
+'.-_-============~)'A= '0.24
+,
+
+\
+
+/
+
+.0 of'woler
+
+A=' 0.28
+
+'~ - -------- -- -----'
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE-
+
+JN4H TAIL ..
+
+17
+
+II.
+
+7AIL PLANE of - 2°ongle of01lock.
+ELEVATOR+ISO(up) in respect to lai/plane
+
+Hade!.
+
+40HPH
+Tunnel.
+
+A --cS/r-~--------------------------+--------------------------+~A·-c.6/
+
+,,
+,
+
+I
+
+I
+
+A' - 1.32J-1----\-------------------------I-------------------------j'----h A- -/..3c
+.
+
+r-----------------------------~------------------------------~----~'A ·- /92
+
+----------------------7
+
+~- - --------------- - ----
+
+I
+
+,
+
+A--.3.93'
+
+• 14--3.93
+
+.
+
+,
+
+•
+
+I
+
+~------.:.....-------------------h\ A =-229
+
+A·-c29H-------------------------~H
+
+,
+I
+
+~
+
+A ~-l.c81ti----_=2:::::::;~~==--=:::::~
+
+A· -
+
+.SO
+
+O'45r~l--:_C~~::===~;,"'/7'·
+
+A =-0.45
+
+,,
+,
+
+.Z!l
+
+"
+
+JN4HTAIL .
+Hodel.
+
+40 M.PH
+
+TAIL PLANE of +4'angle of aHock.
+ELfVATOR+ /5 ° (upj/n respect fo fai/plane .
+/';-'-~----------------------- ----------------------- ................
+
+lUnnlfl!.•
+
+~----------------------------+_--------------------------__j,~~-Z l!
+
+,
+
+~--~__------------------------_r------------------------~~---j',A.-a83
+\
+
+\
+
+r-~~==::==::::::::::::::~:±~~~~~~====::~~~~--1\ Am-OS2
+\
+\
+\
+
+A--o.63f=,:.-
+
+:::::}.A--063
+
+!~
+
+A--
+
+~\
+
+1
+
+'.?fCoo-----::::""':"o~,,:::::-"',t,_='''''"':_''-_'o,::_,',:-","o;:J;,\
+:
+
+,/
+
+14--351'
+
+U,
+
+\\
+
+I
+
+14--.3..51
+
+,
+
+.75
+
+.50
+
+,
+
+A--0.2a
+
+Ft9·27
+
+- - ---- - ---- - ----- --- --'
+
+59752-21- 3
+
+/
+
+/
+
+.Z5
+
+Inch..~ [.0 ufwoier.
+
+'"",,,======::::::::~r;P!1 A--OEO
+... ' .........
+
+_... _- ---- ------ -
+
+-- -
+
+-- -_....
+
+18
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+JN4H 7?l1L.
+
+lA/L PLANE of+IOOang/e of allack.
+ELEVATOR .,.15°(up) in respect to fallplane.
+
+Node/.
+
+A"~U
+
+--U ----U[ mU_
+----U
+
+Ao056~
+
+A= -1.5t?i-1'i - - - - - - -- --
+
+Tunnel.
+
+m
+--
+
+m
+
+-
+
+-
+
+I
+
+40 M.PH
+-
+
+~.a51
+,A.-o.SS
+
+,
+
+•
+
+- -----:;>!/
+
+~--------------------------~A=-I.5C
+.75
+
+,
+A- -a 10 ~=±-C;.="",,,,~----==~,-,;
+
+Fig.c8.
+
+W4H7?1IL
+Hodel.
+
+.50
+
+\
+\
+
+I
+
+.Z5
+
+Inches
+
+,,
+
+A=-aIO
+
+.o orwoft!r.
+
+7lI1L PLANf: 0 1· 16 Dangle of offock.
+£LEI/,4TOR 115°(up)lnrespectto tai/plane
+
+40f1.PH
+Tunnel
+
+----------------------------
+
+--------------~ .---------------------------------------------~-------
+
+HORIZONTAL TAlL :sU RFACES OF AN AIRPLANE-
+
+19
+
+II.
+
+TAIL PLANE ot ~ 20·ongle oro/lock.
+ELEVATOR· ISO(upJ/n respect /0 tot/plone .
+
+JN4H TAIL .
+Hodel.
+
+-
+
+40 M.P.H.
+runnel.
+
+-------- -- -- - - ~
+
+A. 'a85~----~======::==::============~======::::::==========~----~
+I
+
+A= '028
+
+i
+
+IA·~O '?8
+
+f<::------ === --- ===-----===-----" ==== --=" ~,
+
+===- ================== == ==/
+-=
+
+A - -I.E.?
+
+7
+
+,:~
+
+'
+
+\-..
+
+~'
+
+A - -0.40r----I
+
+~A :-/' 22
+
+'\
+
+\~
+
+I
+
+,
+
+,
+
+.75
+
+~~, A =-040
+\
+
+-
+
+,
+
+\
+
+A <-O'/7!-
+
+\
+
+\
+
+I
+
+I
+A : -aoj~_=~~
+
+____________________
+
+.so
+
+,
+~ '
+
+.Z5
+
+Incl'1(!$
+
+/0g30.
+
+JN4H TAIL.
+Hocl~1.
+
+- --- -
+
+--
+
+,oOTw ater
+
+:A ·-OI7
+\
+
+I
+
+'~----------------------~=--, :A.-0 03
+\
+~
+,
+~ - ---------------'
+
+TAIL PLANE at - cOon91e ofoltock.
+£L EVATOR ~ 2S {up} i n re sped to tvilpione.
+-- - - - - - - - - - - - - - - - - - - - - - - - - - - - ... -
+
+40HP.H
+Tunn~1.
+
+0
+
+A.-4$6~----------------------------+_---------------------------'~'~A . -4~
+/
+,
+
+,
+
+/
+
+A--3.79,
+
+,A--9.79
+
+I
+
+A.-E~5~/~--~--------------------------_+----------------------------~~r;A.-E35
+
+,
+I
+
+//
+
+A ' -I.! I
+
+F'9.31.
+
+t/
+
+Inch~s
+
+,
+
+I
+
+75
+
+A' -E~5
+
+so
+.r5
+() o;wol er.
+
+A - -I I I
+
+20
+
+REPORT NATIONAL ADV ISORY COMMITTEE FOR AERONAUTICS.
+
+?AIL PL ANE o f .,. 4·0r19Ieofollock.
+
+..IIV4H TAIL.
+Hodel.
+
+4 0 M.PH.
+
+n EVATOR +'?5'(up) in respect to toilplon e .
+
+wnnel.
+
+------------------
+
+- - - ----- ------ ---- -
+
+\
+
+r-~L---------~~~~------------~--------------~~~~--------'~'Az - 159
+
+I
+
+A z -235r~--f_------------~------------+_------------------------~\_--f;
+'
+
+.: ----.:: .::--------------------- -,~-=-"-.,..., - ----. .----7 _;~-~----------- - ----- . . . -+~
+- -'"-'
+,
+
+,
+
+,
+
+~~~~--------------------------__i'
+
+<
+I
+
+I
+
+.
+
+'r---------------------------~~~_,
+,,
+
+,
+
+I
+
+.75
+
+\
+
+.---------------------+H A- -R.OS
+
+A- -R.09H+----------------------~~
+
+.5D
+
+.25
+.0 o;wo/~r.
+
+Inches
+
+Ftg.3'?
+
+JN4H lAIL.
+
+T
+-
+
+TAIL PLANE o tt I O·or1gle or olfoclf
+
+Model.
+
+-
+
+40 M.PH
+Tunnel
+
+EL EVATOR .,.,?5 ·(up) Ir7 respecllo lotiplone
+
+A.a~~<- --~-
+
+--m
+
+---
+
+A' 000,'
+
+m
+
+-
+
+-
+
+-
+
+~--:--o"
+\A = 0.00
+
+I
+
+\
+
+\
+
+A' -O.D9,""""=.....-=--===== ======\:========--====;;;:;;;;:
+_::::;;)"A.-O.09
+
+,
+\
+
+I
+
+A=-057
+
+~
+
+~~-------------------r-----------------------
+
+I
+
+-:~-:-::-=-:.-::-::'"=",,;:..;o..;;:...~ -.::.::.::.::.::.::
+__
+
+===;
+
+,,f
+
+"
+
+, '!
+Fig. 3.3.
+
+,
+
+)~' -1.63
+
+I
+
+A·-055
+
+,A~-057
+
+\
+
+.A~-1.6~~
+L
+
+\.
+
+\ ~--::;::::;::s:=~~-~~
+,
+
+..-_ ':. ':.:. ':. -_ -:. -:. -::--:~_;;..::;~-=--;;;...;:;.,;;.~~_'"::-:_:-<.:_ =,
+_
+J \
+
+75
+
+SD
+
+r-,
+------~--------------------------\
+
+'r--------------------------------i-i
+
+HORIZONTAL TAIL SURFACES OF AN
+
+JN4Hl?1IL .
+
+A-+067
+
+t
+
+~\A-+0.67
+
+A--G07P-I
+
+I
+
+"
+A--082 - ,I " ' - ,
+
+.
+1
+
+,
+,
+
+~==----------..::===== ==== =------.:----:-------------'::::.:.-----------:.:.i
+
+I
+,
+
+I
+
+A~-3.70'
+
+.L1,A--ao,
+,
+
+,
+,
+
+:,7 -'\, .
+\
+
+,
+
+A--c2~t'r_--------------------------·--_i
+
+,/
+
+/
+
+\
+
+,
+
+.. _---- -- - --- - -- --- -- - - _.- .. .. .-
+
+I
+I
+
+\
+
+\
+
+"
+
+' A--3.70
+
+,
+,
+
+'..------------------------------+;' A~ -c.29
+1S
+
+-\:===;;~:::::::::::::::===~~;:r.--'
+
+/<= -0.37
+
+.so
+
+,,
+
+A~-0.37
+
+.2 5
+
+Inches
+
+.O ofwo fer
+
+''-., ......... _--- -- - - - - - -
+
+---- -- - - -
+
+40 M.PH.
+Tunnel.
+
+?AIL PLANEof+20·on g/eorol lock.
+ELEVATOR +25 "fupJin respect to tal/plane.
+
+JN4H TAIL.
+Ho<I"l.
+
+Aa-082
+
+-;::--:---:..-:.: ====: :.::= =--= ==: ------------::: =====:..:.::.:::;
+
+,
+
+,
+
+,
+
+H
+'
+
+Tun,.,.,l.
+
+I
+
+I
+
+A - - 1.2 I
+
+40np.H.
+
+?AIL PLAN£: 0 1 + I S·ongle or oTlock.
+EL£:VATOR +2S'(up) in respect to toilplane.
+
+Hod<!/.
+
+,
+
+21
+
+A1RPLA~E-II.
+
+- -- -- -- - -- --- -- -- -- - ----- - ---~-~~----~~
+-
+
+"?,<::===============jt==========::::==,,-"-I\
+
+r
+
+A .. 03.
+
+,
+
+~
+
+I
+
+A= -O..37
+
+,
+
+;--.:_-.:: ------------------- -- :: =:::.:.= ==:. =:;
+I
+
+I
+
+A ' . OH
+
+'
+
+../""'\
+
+,
+
+I
+
+I
+
+---==
+
+1
+
+..............
+
+A· , 1.77
+
+=:;:;;/ ~.. A=-03 7
+
+,
+•
+r -:::: =-------:.. :. -:.:. :====----------':, :. :.-:.:. = =::..;
+\
+
+'
+
+l
+
+..
+
+,
+
+A : - 1 4!!
+
+A=-/.4!!
+75
+
+A=-OBO
+
+so
+A = - 027
+
+,,
+
+.25
+In clJ~s
+
+0
+
+or weIer
+
+22
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+!AIL ,PLANt: at - c ·angle ofaHack.
+ELEVATOR - 15°(down) /n respecf fa fallplone .
+
+SPt:CIAL TAIL .
+Model
+
+40 MPH
+Tunnel.
+
+A=~~-;C;[;::'
+~---------~-:::::----------------~---------------~------------~~:6:J,
+I
+
+•
+
+'
+
+I
+
+'
+
+A= +a~~CL~
+
+,
+
+A=+a~8
+
+,
+
+------------------------------------~_r-f------------------------------------------~~' A"+/18
+
+~~----------------------------------------~r' ·+5.48
+,A
+
+~-:======~~--------------------====~~--~,A=+c40
+,
+·~------------------------------------~A=~l.lo
+
+\,c:,
+
+/
+
+·~~
+-----------------------------~_4~=~SI
+o of'wate.r:~....... _____________________________ -' /
+
+.15
+
+Fig. 36.
+
+40 MPH
+
+SPECIAL 1/JIL.
+
+Tunnill.
+
+Model.
+
+SPt:CIAL 7:4IL.
+Mod"l.
+
+TAIL f"LANt: 01 ,IO·ongle ofaHock. ..
+ELt:VATOIf -15·(down;tn respecfto fot/plane.
+
+40 MPtf
+Tunn e /. ,
+
+I
+.
+
+A·+Q98H---~~~----------------------------4r~
+
+----- ---------- ------------- ------- ----------- ----------------- ------------------
+
+·~-f---------------------------------~~~~--~A = .o~
+
+A.+3./4\~,~~-------=~~----~============~~--~--Y
+,
+
+·~~
+
+,
+
+/
+
+~---=::::================::::::::====~~
+,A.+168
+
+A-.168~~~====::====::==========::::::::~--_;'
+
+'..r
+
+,4>+0.84'"
+
+Fi"q. 38.
+
+~/
+
+',- _______________ .. _________________ ,
+
+,/
+
+Inches
+
+__-=~========~----~~----~~A=+JI4
+.
+
+.25
+
+\~
+'\.'
+'~A'+084
+,,
+''
+
+.D 01'" ...voler.
+
+' ..... - ____ _______________ _____ ___ ----,,;,;
+
+HORIZONTAL TAIL SU RFACES OF AN AIRPLAKE-
+
+23
+
+II.
+
+40 M.P.H
+
+1/!ILPLANE of+ l{i °ongle ofattock.
+ELEVATOR - 15 ° (dowr.)/n resp ect to tollplane.
+
+SOt"C!4L 1/UL
+Af" c'~/.
+
+TUn nel.
+
+06r~··-------------------------- ---------------------------~~...o,
+
+A
+.••
+
+r, :
+
+'~f1
+
+NJ - - - - - - - - - - - - - -- - - - l - - - - - - - - - -- - - - - - ----"
+·;I",
+
+-(-'4,]5
+
+r-
+
+: :::::::,...
+
+A.r3J8 V~
+
+~
+
+A' • 2!J 7
+
+,
+
+....-::::...-.
+
+I I
+
+""'"'"
+
+_____
+
+~-- ~-~1--~:'----'---':':::: :' :'
+
+T=---
+
+A "c.9;
+
+I '
+
+"
+
+,4 . ... 1.67
+
+'- /
+
+A' ''; .OI ' ", _
+.,
+.. ______________ ____________ - - __ - ... ",-"
+
+-------
+
+Inches
+
+.0
+
+"
+
+'I
+
+.50
+
+H o d e l.
+
+~:
+,Ao+1.67
+
+........ _____ - ___________ ---- - .. - - - -- --_ .... -""
+
+TAIL ' PLANE ot +130 °onq/e of oHock.
+ELEVA TOR - 15° (down) in respect to -toilplant!.
+
+SPECIAL TAIL .
+
+'
+
+1I-+i?9J
+
+",,'
+
+" ...
+
+or wafer.
+
+A-+283
+
+\~O·+I.OI
+
+\, / " '
+
+.2 5
+
+Ft"q ..39.
+
+"
+..--.:
+
+:.-:::::::::.:.::. ::.:.-:.:.:.:..-.----.------.::::=:.:: A. +5.76
+
+' I,
+
+.75
+
+~ J)J
+
+"
+
+_____
+
+. '. 1
+
+1/
+
+Av ,e.!J7
+
+,
+
+I
+
+'-' --::::::::. :.------.-.-.-.:: :: ::.:.:.-------------.:':'----:.-:..----:. -:.:. -:.
+
+A- · S 76
+
+~.
+7I'\A ~';J. :J8
+
+,,
+,
+
+/
+
+,/
+
+,4.,c.8'] I/--.
+
+1~-+ 4..JS
+
+40 MPH
+Tunnel.
+
+r/~---------------------------- _________________________ __~,,/'
+A - +7SI r\
+11 =+4..96
+
+~~':...'-'==-"""""'====~---___if_----~====---==-"~'~ I' ,4 - + 7.51
+V'
+'V
+A =+4..96
+
+~ \V
+
+\ /"-,40'.]4C/
+,4· ... 3.16
+
+""'"
+
+_
+
+~
+
+~
+
+,,
+,
+~
+
+-
+
+:::::~=::.:------:.:.::.::::::::.:------:.-:.::~ --p;;;::::::::::::::--:.:--:.: :::::::-::...--~:::-V ,j
+\
+
+,4--.1. 16
+
+,- ;,
+
+1'1=+525
+,4",)1,]'
+
+/
+
+'
+
+-..........
+
+A-+Z.OI"j
+
+\
+
+A.+-/.2;"[
+,
+
+~/
+
+' ...... - ___ _ ___________________________ ...... ;'
+
+/
+
+.75\
+
+..........-
+
+.so \ /
+
+,zs
+\/
+/
+,
+Inche.s
+
+.0 cr woler " .... - ______ __ ______ _____ ________ _ ___ ; , '
+
+,,4>+5.25
+,4-.3.1.1
+
+\~o#i!.O/
+\~O"/.Cl
+/
+
+24
+
+REPORT NATIOKAL ADllSORY COMMITTEE F OR AERONAUTI C .
+
+5Pt:CIAL
+
+TA/L.
+
+/'1odel.
+
+A=-c.8!J
+
+A--I OO
+
+A ~ ~c.53,
+
+TAIL PLANt: of - 2 Dongle oro H aelt-.
+t:LEVATOR-SO(down) in respeeflo tol/plone.
+
+,//~--- - - ---------- - ---- --- - ------ - - - -
+
+-t-----------------
+
+,/
+
+A " O!J;'~
+
+!
+
+~,'
+
+\
+
+'
+
+I
+\
+
+.so
+
+\
+AZ+o./ O\\,
+
+I
+
+.ZS
+
+"
+
+Ao~c5:J
+
+~.~a91
+
+-..............
+
+'
+
+,
+
+--=----,/
+
+' ...... ________________________________ .... ""
+
+\ A--IOO
+
+.7S\~
+
+A ; I' O.J8\\
+
+rig 4/.
+-
+
+\
+
+------------- --- ----~'", A--t?89
+
+1.\
+
+I
+\
+
+40 M .P.ff.
+7iJnnt11.
+
+I
+
+,--r--=
+
+\
+
+...
+
+Inches.o ol'waler......... ___________________________ ____ -,JI"
+
+/A~~a.J8
+
+'
+~,'A" "'O./O
+
+25
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE-II.
+
+SPECIAL TAIL.
+
+TAIL PLANE a/ ..16°onqle ofalfack
+ELEVATOR -50 (down) in respect fa toilplane.
+
+l'1oefel.
+
+40 M P. /:f.
+.Tunnel.
+
+~--------------------------- --- ------------------------------~
+A"5S~
+,
+~="556
+AH .J.67
+
+,
+
+~:
+
+A-.261 I ~
+rf.t'
+,4 - "1.95
+
+A~".J.67
+
+'h
+
+L
+---
+
+,'\.
+
+A"
+
+eSI
+
+\h
+
+./i,
+
+/1 =+1.95
+
+~
+
+V
+
+"¥~~==============================:::::)~--J,,~. +O'J6
+
+25
+
+o a/ water ' .. --- ___ ___ __ _____ ______________ - , "
+
+SPECIAL !;tIL
+MOclel.
+
+miL PLANE o l-rcOOonqle of oHock
+ELE!/A TOR -5 ° (down) i n respect to toil plane.
+
+.
+
+----
+
+AI ~
+".--------------------- ------------------ ---------------------------------------_,~
+A-'6.64
+
+'
+
+f"\
+
+A2+2..36
+
+X
+
+" '-....
+
+/
+
+I '
+
+K.
+
+___
+
+A,,·4.36
+
+2 .
+I
+
+n A-,.,1I1
+
+\..l..
+
+___
+
+A=+z..36
+
+1~'------------------------~~~~~,,~
+~------------------------------~JA.+ !. 68
+
+A
+
+. 0+1. 68 I
+A~
+
+II
+
+A-+6.64
+f"\
+
+...........,
+
+'ry..L
+
+A-+~36
+
+~~llr
+A.~.
+
+,
+
+" ......
+
+'.3.82
+
+r--~?:~==_=""""'=;;.:;.;="'-. .-"_,"" __ ___.___~=\; ~/==3_=---'-::.:;-~-.:. :-:;:-=--" '-...-;;;;--;:,,;;.;;-.;;.-;;.:-:..;-~---==:_:._.::=-_==-<:~\ ~ ~e"
+A
+
+~ ..
+
+A~+!.9d\t_~~-----=~~==================::~-; ,' .7;\~
+~
+A- +I. )1 _ _ _
+I,
+A-+0.47
+Fig. 45.
+
+l
+
+~,/
+
+----============ ,"
+-----
+
+~ '__
+
+-=--.....
+______ _.. __ ______ • _ ___ __ ___ _. -- / Inches
+
+.50
+
+I.1!.5
+
+'"
+
+~~.+!.~c
+
+\/
+
+'
+
+__
+
+.o or w(7fer~ '-- ____________________________ .-'" /
+
+,A-.. !./I
+
+,
+
+, 'A-.,.a47
+
+26
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+SPECIAL TAIL
+Model.
+/"~ -------
+
+lAILPLAN£ 01 -2°angle ofaTlack.
+ELEVATOR 0°117 resped fo fail plane .
+
+I
+
+A=-/./~i ~
+
+'>:O--
+
+/1
+
+A
+
+a7
+
+Tunnel.
+
+- - - --------- ----- -----:1--------- ----- --------- ----"
+
+A~-3.47
+
+oo
+
+40 1'1.? Ii.
+t -3.45
+
+_
+
+..,.-
+
+~ }~s-!.Ie
+
+,r-
+
+--
+
+a 73
+
+A~:t~===::_~======~==::_-_~~~-_~ -_-_-_: :, 1;,= = =-_-_-_-_~~~~=_-_-=======~==ll~~~::17
+_:
+
+A--07D
+
+I
+
+-
+
+_
+
+I
+
+A--QI8
+
+\
+
+~IA·-Q7D
+
+_
+
+,A=-o.I8
+
+.75
+\
+
+7
+
+A~ - Qa8 \",\
+
+/
+
+\
+
+.50
+
+I
+
+A·-O'090....
+,
+
+F"ig.4S.
+
+\
+
+-'
+
+'--______________________ . _~"
+
+,(A--Q08
+
+\,
+
+I
+
+,
+
+.25
+
+"
+
+/)'A--QD8
+
+\
+' ,
+
+';'ches
+
+.oofwoler.
+
+' - ___________ ____ __________ -"
+
+/1'
+
+40 MPH.
+
+SPECIAL TAIL .
+
+Tunne l.
+
+-- - ---- - - - - ------- - -----------........... ,
+~~~~==~==~-----------------------+----------------------~====~~--~~',A.+270
+
+,
+
+A~+21I"jr~~==::::::::::========~==~::::====i:::::::::~======~====::::::::::==:;~~
+,
+A~·+ /.46,
+
+I.
+
+A:.::ot _ _ _ mnn _
+uu
+
+AD+a37~
+\
+
+-
+
+_00
+
+- -- -
+
+n
+
+___ n
+
+-
+
+____ 00
+
+------
+
+In--n ___
+
+-)'
+
+-
+
+7'
+
+A-+D24 (
+\
+
+I'<{ -
+
+I
+
+,I
+
+,
+
+" --- _____________________________ - -
+
+m ~::7a
+_____
+
+-------
+
+~A.+a37
+~
+
+.50
+
+I
+
+/A-+o.IS
+
+'--
+
+.zs
+lriches·
+
+.
+o
+
+I
+
+'F'!A-.+024
+I
+
+\
+
+,/
+., -'
+
+__________
+
+,
+
+J
+
+A=+o.04\
+
+m_ m
+
+- - - -- -- ---
+
+\
+
+.75
+
+I
+
+A=+QI6\
+Fi'g.48.
+
+,A-+ 1.46
+
+,
+
+'\
+
+'..... -- _________________________
+
+o~woler:
+
+-~
+
+~/
+
+1'#+0.0.4
+
+27
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE-II.
+
+SPeCIAL MIL.
+
+40 M.PH.
+
+lAIL ?LAN£ of+/S·ong/e olollock.
+eLeVATOR O· in respect to fall plane,
+
+Model.
+
+Tunnel.
+
+I
+I
+
+A=+ l.eS'r ---------------------------------------------t--------------------------------------------4A= 'le6
+~
+I
+
+A;:;;;.FU
+
+-
+
+,
+
+-
+
+- ' ' ' ' ' ' ' '
+
+:
+
+/
+
+\r---
+
+~'
+
+\
+
+A=rOJ c'f\..
+
+,/
+
+\
+
+I
+
+' ......... __________________ ________ __ __ --.;'
+
+SPCCIAL MIL.
+
+r
+/-
+
+~I
+
+\
+\
+
+- ,'A=+OJ3
+
+, 2S
+
+'<"""'--===================L)~_J/~='OIi?
+.;,,/
+
+\ ...
+
+,
+.0
+
+or water. "-
+
+____________________________ --
+
+40 M.PH
+
+7i!/LPLAN£ ot'cOOang/e olattock.
+eLeVATOR O·inrespecffofo/lp/one
+
+l"1ode/.
+
+{ ,
+
+Inches
+
+I
+
+,so....---
+
+I
+
+/
+
+\
+
+.Ft'g.49
+
+I~~:~;:
+
+:::=:=:-:-:-=:=:=:=:--:--:""-:""-:--:-=-:-:-=--=-=--=--=--=-=-=-=-===:-=i=:1-:;:;='l1::
+
+-
+
+,
+
+AHOJ3~
+
+\
+
+':;1' '~'f:-\3~
+
+I
+
+-
+
+Tunnel.
+
+-
+
+_------------------------------ --- --- --------------------- ----- ----------- ,
+
+~
+
+I'
+
+A.'621r7~~~--------------+----------------7"~~A.+6.el
+~
+A'+4.18(\
+
+I
+
+A.''''/-. ,~
+A=+i?,08
+
+,'~______
+
+'
+
+Vl A .r418
+
+/).-.A .•290
+
+~
+
+'. A-+i!.08
+\
+
+,
+
+28
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+SPECIAL TAIL.
+
+40MP.H.
+
+TAILf'LANEaf -c"anglt?ofaffock.
+ELEVATOR +5°(up) in r-espect to foilplane.
+
+M odel.
+
+Tunnttl.
+
+A- -.3. 73, /-",--- - - - - -- - - -- - -- ----- - -------------".--- -- - - - -------- ---- - ------ ---- - --~ ", A --03. 7.3
+1
+
+A-- 1.71
+
+'"V:::
+'.
+
+_
+
+,
+
+"
+
+_
+
+A· -E.i!1
+
+~
+
+("
+
+\
+
+"
+
+_\
+~
+
+0.""
+
+A
+
+,U \ --
+
+!
+
+I
+
+1.$4
+
+A--1.0.3
+\
+
+" U.I
+
+4 --0.62 1
+
+\
+
+J
+\"-
+
+_
+
+A--/.O.3
+A·-0.70
+
+\
+
+i
+
+1
+
+;
+
+t-=~:::::=====:=::~:~-:::::::::=====:::-~~,~:~~-:===::::::::::~-::::=========::~= ~
+I '--'
+/ .\.
+
+A%-a64 \t--
+
+- -- - - - - - --::;;;;o---
+
+""""'=::;;;;..,.f
+
+.75 ,
+
+.~
+A--C7.3\.
+~~::~~::~~::::::~~~~~~;;~::::~I
+~'
+A· - o./4~
+. ,~
+/ ,'
+Fi9.51.
+"- - ___________ ___________ ________ -'
+Inches
+
+J
+
+\
+
+.50
+
+~A%-o.J7
+
+'-
+
+~A--o.IA
+
+'.-==~
+
+.25
+
+.o
+
+~ /
+
+~
+
+or water; ' - _____ _______ ___ _______ ____ __ , /
+
+40 MP.H
+
+TAIL PLANE of + 4' angle oraffack
+ELEVATOR + 5'~p) inrespecffo tailplane.
+
+__
+
+Model.
+
+A --i?.i!I
+
+JA" -o.04
+
+-.....;
+
+'\~~::::~;;; ;;~~~~~==::~::::~::~~
+~
+
+I
+
+SPECIAL TAIL.
+
+dV
+
+\ \ Ao-0'62
+
+Tunnel.
+
+A·~~:td-mH_HHHm mmr "-H-- --H'H----H-~'~~7:"
+A - -aO~'
+
+,. ao~:;:
+"
+
+I'
+
+--==-
+
+--==-
+
+:
+
+\ A=-a04
+
+::J..-..o
+",
+'.
+
+,
+I
+'
+Ahl?l:v: _________________________________
+~A=-OI5
+r- - -------------- - -------- - ---------~ ,------------ - --------------~~~~
+n
+
+A' - 2 1 5 '
+
+A.-a70~
+
+A.-a2~
+\
+
+=-=-
+
+A--OO l't('
+
+~
+
+:=?:::?
+
+Fig.52 .
+
+__
+
+_______________
+
+I A=-t?15
+
+.50
+
+j A.-0.70
+
+~
+
+...............
+
+~A%-aEO
+
+\
+
+I
+
+.0
+
+L::)'A=-007
+
+'............
+
+,
+
+/
+
+oTwoter. - - - _____ - - ____________ , --
+
+40 MP.H.
+Tunne l.
+
+L---------------------------- --------------------- ----~
+
+Az+24/
+
+~:A#+ /.90
+
+i
+
+A-'I.90'; - - I
+
+,
+
+~ A-+1.E7
+
+A-+/.E7 ; - - I
+
+J
+
+_
+
+TAIL PLANE 01+ IOOongle oroll ock.
+ELEVATOR +ISO(up),in respe cf to fO/'lplone .
+
+Model.
+
+A- ..a86
+
+____
+
+\
+
+.2 5
+
+Inches
+
+A~'241
+
+__
+
+I. \ : .
+
+.75
+
+I
+
+---="') 1
+
+SPECIAL TAIL .
+
+_
+
+\
+
+~
+
+t-
+
+•
+
+A-+a86
+
+,
+
+I
+
+'
+
+\
+
+C======_-_~====_~~~-_~~===========_====_= =,1--==~====_-===: =====_ ======__===== ==~lA--a48
+___
+-J
+
+A--a<8
+
+A*-I.tJ.3' "
+
+A--a4S~
+\
+\
+
+:4 73\.--
+
+=-=
+
+1
+
+A~'O'/2'~
+
+'-,
+
+A--003 ' "
+
+Fig.53 .
+
+',- ______ ___ _____ ______ ___ ____ .-'"
+
+,"
+
+"
+
+/
+In chS3
+
+\
+
+.50
+
+.23
+
+\
+
+Am- /.83
+
+~0iA--a45
+I
+
+I
+
+~ A-+QI2
+
+\
+\
+
+'<
+
+~
+
+~-tA--aO.J
+
+.0 ofW'ofer ' ..... - _____ __ - _______ - _______ -",""
+
+/
+
+29
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE-II.
+
+SPECIAL TAIL
+Model.
+
+40 MPH.
+
+TAIL ?LANE 01+ 16°on91e ofa/lock
+£LEVATOR r5°(up)in respect to tOilplone.
+
+Tunnel.
+
+A-"'1.60
+
+A-+1.60
+
+A-"'105/~-----------------------------------------t------------------------------------------4,A-+IOS
+
+,
+
+, ____________________________________ _
+L
+I
+
+\
+
+r------------------------------ - - - - - - -----, 1.\-------- --- -------------------------------l A--089
+
+7: .7.5~
+
+A-__O(J.9 \~
+..f--a04~""""-:::
+
+-
+
+\
+A-"'004\-
+
+/
+
+•
+
+I
+
+"
+
+A-"'004'0
+/
+"",, ___________________________ _ ............ inche"
+Fi9.54
+
+SP£CIAL TAIL .
+Model.
+
+----=-
+
+\
+
+\
+
+.050
+
+;;:;;;.z;,IA--a~
+I
+
+__
+
+""'"
+\
+
+.,
+
+. 25
+
+I
+
+A-+004
+
+I
+
+\,
+
+--CyA=+O.04
+.... ....
+
+.oofwoler. ' - ... --t.- - - - - - - - - - - - - - - - - - - - - - - -.... '
+
+TAIL PLANE al+cO·angle ofalfock.
+£LEVATOR +5· (up) In re3pectto tallplane.
+
+40 M.PH
+li..Jnnel
+
+A-+129,r------------------------------------------+------------------------------------------~.\A=+123
+I
+
+\
+
+A;:~:~6~========-=-----------------=--=-=====--:? ':~--------------=----------=---------------=--=-~~;.=:~~:
+A
+
+\
+
+H
+
+02S'F
+
+"
+
+"
+
+'.L
+r--========-___ --:______ -.
+
+AuO /I ~
+
+Fig 55.
+
+" ..... - __________________________ ,"
+
+\
+
+25
+
+Incht!.5
+
+I
+
+'/A -+02S
+
+50'
+
+\
+
+'<'
+
+~/A2 +0 II
+
+-----;-
+
+0 ofwote: ..... ...... __ - - - - - - - - - - - - - - - - - - - - - - - , , /
+
+30
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+SPECIAL TAIL .
+
+40 MPH
+
+TAIL PLANE of -2°ongle ofolfock.
+ELEVATOR + ISO(up) in respect fa foilplane.
+/'-------------- -- ------- ------- ~----------- ------------- ------,
+
+Hodel.
+
+,,
+
+A· -5.95
+
+Tunnel .
+
+~ A=-595
+
+/
+
+\
+\
+
+A--2..32'
+
+2
+
+-20.2/(
+
+---
+
+/\~
+
+A - -I.89
+
+,,
+
+A=-2.D 7
+I
+
+A=-4.93
+
+'-
+
+~-1
+
+A-- 1.33
+A~-o.8.9
+
+-,
+
+~\
+
+Fig.56.
+
+-
+
+/.\
+
+zJ
+--:z ':~
+
+1
+~
+
+A=-t?34
+
+r<=-a
+
+.50
+
+~ /nches
+
+~~------
+
+~\
+
+t
+
+\ A ~ -1.89
+
+..
+
+\
+
+,
+
+\
+
+----------~:'t--
+
+A--2.D7
+\
+
+!
+A=-4.93
+
+'\
+
+A~-2.34'
+
+'\
+
+_
+
+-
+
+'~
+
+.Z5
+
+A=-2 0.2
+
+.0 o/wafer.' .......... - - - -
+
+A=-1.33
+
+I
+
+-::::::
+
+SPECIAL TAIL
+
+A=-o.89
+
+-~~
+-=
+
+40 MPH.
+
+Hodel.
+
+Tunnel.
+
+rd-------------=======t=====-----------ld-l
+.,..------~'"""'~~~--~---------- -
+
+--- - - --- ;;:======------::.::::::::-::::-==---------------- - --
+
+1~5 \~
+
+----;}
+
+SPECIAL TAIL
+
+Au I
+
+4~/
+
+40 MPH.
+Tunn ld.
+
+,~-------------f-----------~,
+_
+
+I'
+
+_
+
+A= ' ID:/~
+
+:'
+
+\A·.o.35
+
+I
+
+.......
+
+A.-o.8':~
+A-- 4!J1
+
+\\A=+ 1.42
+
+~<-'IDI
+
+A--O.JS/
+
+A- -0.16/"
+
+;:~;~~
+
+-iiJA~::::
+
+..
+
+TAIL PLANE 0/+ 1000ngie ofoJlock
+ELEVATOR ~ ISO(up) In respect to tallplane
+
+Model
+
+i
+,
+
+~~::::::=;,.",~~ m~ ~.§0
+____
+
+A -- I.45
+
+\,A--aI6
+
+t
+
+____
+
+\
+
+~\A-- o.81
+
+..............:
+
+:== === = ===:----.:.=== =====:= =
+=.=
+:------------------,:---=.:---- ~ =-~-=.-: -= =:::..-=.. -==-----=----=.":.:=..-=.---=--------.::... ::.:-::..-=..~-:=-==-=-= =-=.==-~
+I
+
+A=-2.D2
+
+I. \
+
+I
+
+.25
+____ _ ____ ______ .....
+
+./
+
+Inches
+
+.
+
+A--4.91
+A--2.02
+
+\
+
+,
+
+.0 ol.woler. ........ --- _____________ _
+
+31
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE-II.
+
+40MPH
+
+!AIL PLANE ot .. 16 °ongle ofoffock
+ELEVATOR .. ISO(up)m respect to fot/plone .
+
+SPECIAL MIL.
+Hodel.
+
+Tunnel .
+
+'~--------------------------------------~------------------------------------~ _ A~+153
+
+A-+068
+
+\ A-+068
+
+A --007~ ---=:::::::::::
+.
+
+I
+
+f
+
+A=-391
+
+i== ======
+
+=-
+
+~
+
+t
+
+::====------=-----=----------=---:..-.::=::::.::::i
+
+::::=::::::--
+
+A--;57~=
+
+A=-067~ ~
+
+d
+
+SPECIAL !AIL
+Hodel.
+
+L-~~~- =-------- =
+
+A-' 118
+
+-=
+
+=- ..
+~-/
+
+A=-007
+\.
+,
+
+~./'J
+
+~:: ::---------~----=- -=-:::::::: -=--:..-------=------:.-----::.-:..------":::::::: =~
+
+'
+
+A=-025\~
+.........
+.............'
+,
+~
+/
+',- _____ ____________________ -,,' Inches
+
+Fig. 59.
+
+-
+
+,A\--=-
+
+J
+
+~ A.-m
+
+50 ~
+
+25
+
+\
+
+,
+
+..........;::::
+
+A--3SI
+
+_
+
+---- ......
+
+~ A--067
+
+~
+
+~-·/A=-025
+
+a of water ' ..... - __________ ______________ -
+
+!AIL PLANE of+cOOongle ofoffock "
+ELEVATOR + 15° (up) m respect fo fat! plone.
+
+__________________ ------------------ ----------_
+
+/
+
+./
+
+40 MPH
+Tunnel .
+
+32
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+SPECIAL TAIL.
+
+TAIL PLANE at -2°ongle ofoflock.
+
+Model.
+
+40M.PH.
+Tunnel.
+
+ELEVATOR +25° (up) i n respecf fo tol!plane .
+~----- -- -------------------------
+
+-----------------------------"
+
+Aa-757~/-'----------------------------------_+----------------------------------__\~A=-757
+I
+
+Aa-.3.0S
+
+\
+
+I
+
+A--305
+
+,
+
+I
+
+,
+
+Aa-284r/+4------------------------------------~------------------------------------t1I;\A--2~
+,
+I
+
+I
+
+\
+
+I
+
+\
+
+A--292tt--~~~~~~~==========~~======~~======~====~~======~~=-~-=~-- ~A·~282
+
+~
+
+'--3"/ (
+
+l \,--".
+
+/""
+
+-';j:.:_-_-_-_-_-:::_ __=__=_-:..-:..-=--:..-=--::-::-::====== -:: ~ ~ ~\~-:..-=----.:===::=::.::.::.=====-:..-:..::.::.=::======1===
+_=_-_-:::
+J
+
+1_ _
+
+Aa-585
+
+I
+
+~
+
+J
+
+A- -376
+
+-1-- 248
+A=- /.56
+
+) ))
+
+"9" ~
+
+- ;/
+
+SPECIAL TAIL .
+
+A--2M
+
+AC-/'7~1
+A-
+
+-1.6~1
+
+A--J.99
+I
+
+I
+
+\ "
+
+A--3.75
+\
+
+.25
+
+s,~.",• . , -
+
+40 M.PH.
+
+-
+
+-
+
+'-/
+
+..,....- ~
+
+A--57/
+
+A--/.38
+rig. 62.
+
+A--/ 7
+
+4
+
+\ A-- / 68
+
+' , - " \ A- - /.99
+\
+\
+
+!l- U
+
+A--342
+
+f'
+
+I
+
+4'
+
+A--217
+
+A~ -264
+
+,,
+
+"-J )\
+
+I'
+......,
+
+I
+
+Tunnel.
+
+\
+
+~
+
+A-- /.56
+
+~
+
+m d ..
+
+//----------------------------- ------------------------------ "' "',
+
+/
+
+A--248
+
+'
+
+_,.I)
+
+__
+
+TAILPLANEof +4°ongle ofoffock.
+ELEVATOR +2S0(up) In respect to tallplane .
+
+I
+
+A--5.85
+
+\
+
+\~
+
+.SO
+
+/i11
+
+\
+
+Model.
+
+_
+
+.75
+
+-
+
+--
+
+-
+
+=--
+
+/
+
+Model.
+
+-
+
+=
+
+~ Inches
+
+-
+
+~
+
+'\
+
+\
+
+~ :~
+
+\\,
+
+SPECIAL TAIL
+
+r
+
+/I
+
+\
+
+~
+'-===-'
+
+~
+
+.25
+
+~
+
+o ofwote.
+
+'---
+
+'"
+
+\
+
+A--264
+\
+\
+I
+
+1
+
+,
+
+A--571
+
+Aa-342
+
+I
+
+-
+
+-....J}
+
+~
+
+40 MPH.
+Tunnel
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE-
+
+SPECIAL TAIL .
+Hodel.
+
+TAIL PLANE 01+ /6°ongle ofoifdef<.
+eLeVATOR +25°(up) In respect fo fallplone.
+
+~------------------------------
+
+/
+
+SPECIAL 7;4/L.
+Hodel.
+
+II.
+
+33
+
+40 MP H
+Tunnel.
+
+-----------------------------
+
+7llIL PLANE ol+cO Oongle oroHoek
+eLeVATOR +cSO(up) in respect fo tOllplone.
+
+40M.PH
+Tunnel.
+
+34
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+EL£VATO/?- 5°(Down),
+40 MP H
+
+ELEVATOR - 15°(Down),
+in respec t to
+toil plane
+
+3
+
+40 MPH.
+
+in respect to
+toil plane.
+
+Tunnel.
+
+1'1
+
+2
+
+Tunnel.
+
+2 00
+
+~.-.
+
+---
+
+-~/OO
+
++/
+\;
+
+~
+
+~
+
+o~--.L----------------+r--------------~
+
+~
+
+~
+
+-/
+
+Tal/plane
+I clevator - I S°
+Angleot Cu.m.of D,rect,on Cr.nn.o f DInI'd/on
+
+-I
+
+aftock
+
+water
+
+- 2°
+.. 4°
+
+D.74
+
+-1-10°
++16°
+
+fig·56.
+
++20.°
+
+aloe/ion
+
+VV'Oler
+
+Up
+
+5 .44
+
+6.53
+
+I
+
+lOi/plane.
+Cleva/or-5 0 •
+Anq/eor CU./'n.OT Dlreclior"' CU. ln. or Oireclion
+ot/ock. waler: ofoclion. wafer: oraelion.
+- 2°
+.81
+Down.
+.38
+Up.
++ 4°
+. 72
+Up.
+.69
++ 10°
+2.58
+"
+1.04
+
+of oction
+
+1.6e
+c .G6
+2.25
+2 .57
+
+3. 16
+
+Up
+
+296
+3.9 7
+
+F'9· 6 7.
+
+ELEVATO/?: O:
+
+40 MPH.
+
+in respec I to
+toil p lane.
+
++ '16°
++20°
+
+5.0/
+
+.,
+
+1.42
+'1.95
+
+£LEVATO/?+ 5° (Up),
+in respect to
+
+JN4H T,4IL
+
+Tunn el.
+
+4.16
+
+40 MPH.
+Tunnel
+
+ta!/p/ane .
+
++1
+l;
+
+~
+
+~
+
+",'--.!'-!: _--------o!--:~~======~ --== =-~~~
+-= -- -=--
+
+.S
+
+-2°
+
+,,'--- :'4-0---/
+
+_/
+
+-I
+
++
+
+/6°
+
++20°
+
+3.53
+4.50
+
+(J.89
+/ .27
+
+Eleva/or r5~
+
+lOllplane.
+
+I
+
+Tal/plane.
+Clevator~O°
+Angle of Cu.ln o f D,recflon Cu.in.or Dlreef/on
+afiock. water. ofaction. wafer of action.
+- 2°
+1.40
+Down.
+0.3/
+Down.
++- 4 °
+0 .02
+Up
+0. 13
+Up.'
++ 10°
+c.GO
+0.52
+
+A;Jttgco; C~7ec;{
+-
+
+F/q.69.
+
+2°
+
++- 4 0
++/0. 0
++ 16 0
++20 0
+
+2. 17
+0 .48
+
+/.21
+2.62
+3.49
+
+~:~~Zg~. C::'~1ea: ~r~~X~':z
+Down.
+
+Up.
+
+1.23
+0. 79
+
+Down.
+
+0..09
+0 .50
+
+UP.
+
+0.4/
+
+35
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE-II.
+
+40 MPH
+
+EL£VATOR+c5°(Up),
+Inrespect to
+toil plone.
+
+40 M.p. H.
+
+ELEVATOR-r/5°(Up).
+in respect to
+toil plane.
+
+Tunnel.
+
+Tunnel
+
+t.:
+
+~
+
+~
+
+0
+
+~
+
+-I
+
+ti-
+
+\I)
+
+-/
+
+I
+
+2
+2
+
+'-
+
+I
+,
+
+I
+,
+I
+,
+
+/
+
+I
+
+3
+
+I
+
+I
+
+'.'"
+
+3
+4
+4
+
+I
+
+Toilplane
+
+Cleva/or + 15~
+
+An9/eof Cu.ln.of Olrec/ton CU.ln.of ~irection
+
+ar/ock.
+- 2°
+-r 4°
+-r10°
++16°
+~2Do
+
+l/"g.70.
+
+INoter.
+4.29
+2.16
+D. 13
+141
+2.38
+
+ofaction. wafer.
+Down.
+2.93
+237
+1.95
+Up.
+1.13
+0.67
+
+Toilplane
+Anqle of Cu in of Dlredion
+attock. waler. oraclion.
+- 2°
+6.12
+Down
++ 4°
+3.87
+.,. 10°
+1.55
++ 16°
+0.2.3
+Up
+"'"20°
+1.00
+
+ofaction.
+Do wn.
+
+Fig. 71.
+ELEVATO/f-15°(0i7), 40 MP.H
+in respect to
+Tunnel.
+toil plone.
+
+Oevalor+E5°
+Cu m.of DIrection
+water.
+
+orocl/on.
+
+464
+4.20
+3.61
+2 .8 1
+F.99
+
+Down
+
+SPCL. lAIL. ELEVATOR - SO(Oh), 40 MP. H
+Hodel.
+
+in respect to
+/oil plane.
+
+6
+
+6
+
+Tunnel.
+
+5
+
+4
+
+\
+
+3
+
+\
+
+2
+
+2
++/
+
+A-
+
++/
+
+,/
+
+~
+
+'0
+
+s
+
+"
+
+,,"
+
+,---
+
+0
+
+!,'
+
+<:
+
+---'"
+
+~
+
++4·
+
+~
+
+/
+
+~O
+
+'
+
+~ o~'--------~--------------~t-------------~
+
+~
+ti-
+
+,
+
+....
+
+/
+
+.. t
+
+II)
+
+-I
+
+!;
+ti-
+
+"J
+
+I
+
+Toilplane
+
+~R:;co; C~~~eO: ~F;~~~~ C~~/eo; ~r;~t~r;,
+- 2°
+-r 4°
++10°
++ 16°
+Fig.72 +20°
+
+0.69
+2.54
+
+5.37
+6 .62
+163
+
+Up
+
+Tot/plane. .
+
+Clevotor- 15°
+1.98
+2.32
+
+2.72
+2.36
+2.66
+
+Up
+
+2
+
+I
+
+Cleva/or. - S~
+
+Angleo! Cu. In. of Olrectlon Cu/nof Dlreellon
+
+atlock
+
+- 2°
++ 4°
++ 10·
++ 16°
+Fig.73 +20°
+
+waler
+1.47
+0.46
+3.22
+495
+5.94
+
+aloe/ion. waler:
+Down.
+0 .7 1
+Up.
+0.93
+1.08
+1.23
+149
+
+oroclion.
+Up.
+
+36
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+elEVATOR"5°fUp}, 40 MPIi.
+ELEVATOR
+
+O~
+
+in respect to
+toil plane.
+
+40MP.1i.
+
+in respect 10
+
+Tunnel.
+
+'
+
+Tunnel.
+
+foil plane.
+
+-/
+-/
+
+2
+
+I
+
+h ilplane
+
+Elevator
+
+O~
+
+Anq/eof CU.In.OI' DlreC/lon Cuin.or Oireelion
+attock. wofer. oracl/on waler. ofocfion
+
+3
+
++
+
+2°
+4°
+
++ 10°
++16°
+FIg.74 f-20°
+
+1.82
+0.04
+2.5 6
+4 .48
+5.53
+
+Down.
+Up
+
+2. /5
+0.05
+
+Oown.
+
+0. /6
+
+Up;
+
+0.46
+0.75
+
+I
+
+hilplane.
+
+{]evalor .. 5~
+
+A;#;;/j{ C:;~1eC:: ~~~~Xg~. C~~/ea: ~'f~c:t,~r;,.
+- .2°
+.. 4°
+10°
+
+or
+
+"/6°
+Fi9. 75,+cO °
+
+2.98
+.50
+2.43
+4 .80
+6.09
+
+Down.
+up.
+
+.76
+.74
+.49
+./6
+. /9
+
+Down.
+
+up.
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE-
+
+37
+
+II.
+
+a£VATOR"'25°(Up). 40 M.P.H.
+,nrespect to
+tot! plane.
+
+SPCL ., 7:4IL. EL£//ATOR+/5°(Up), 40 MP.H.
+Hodel.
+
+in respect to
+toil plane.
+
+Tunnel.
+
+TUnnel.
+
+2
+
+-./
+
+\:
+
+~
+
+~
+
+....
+
+"
+
+0
+
+.~
+
+-I
+
+l)-
+
+V)
+-/
+
+/
+
+\
+\
+
+,..,'
+
+/---:!:..
+
+/
+~
+
+2°
+
+2
+3 3
+4
+4
+
+5
+5
+TOt/plane .
+r £Ievolor+IS ".
+~7/:co; C~~7eo; ':;~~~tb~ C~:;;ec:{ ~'Z~t':-,
+
+6
+
+- 2°
+
+4.95
+
++ 4°
++ 10°
++ 16°
+6q.76. +20°
+
+2.24
+
+1./6
+2.S2
+.3. 71
+
+Down.
+Up.
+
+209
+1.78
+1.67
+1.27
+.93
+
+6
+
+r
+
+TOt/plane.
+
+Down
+
+Devalor+25~
+
+Angle O{ Cu In 0; Olredion Cu in of Oirection
+oHock.
+
+7
+
+wafer
+
+- 2°
+
+6.63
+3.92
+
++ 4°
++ fO°
+
+Down.
+
+16°
+
+1.02
+2.45
+
+2.86
+2.62
+2.51
+
+1.44
+
+Fig.77. +20°
+
++
+
+oroel/an. '" wole~
+
+Up.
+
+1.89
+1.38
+
+oloelion
+
+Down.
+
+38
+
+REPORT NATIONAL .ADVISORY COMMITTEE FOR AERONAUTICS.
++8
+
++6
+
+.1--
+
+I
+
+LOAD ON JN4H lJIIL PLANE
+l Model 'l'IS scale
+40MP.H.
+
+~
+~
+
++7 ~
+
+"'"t'...... ~ "'t-----
+
+,'"
+"
+"
+
+...
+""So
+
+I"--.:
+
+x ......,~
+
+~
+" '"~ ~ '" ~ ~
+~
+i"-......
+~~~
+~
+
+""-
+
+""- r--......
+
+~"-
+
+.........,
+
+V...o
+
+~
+
+0"
+
+~~o..., r....
+
+~~
+'\ So
+
+.fI-oo
+
+1'00
+
+...........,~ "-~
+'/
+So ~
+
+............ I-...
+
+...........,
+
+-8
+
+~ .......... ~
+............. ~
+...........,
+
+0
+
+0
+
+r........
+0
+
+-1-20 0
+
+-6
+
+1
+
++1
+
++S"(uP)
+Eleva tor: 0 0
+
+-
+
+1'"
+
+-- -
+
+--<
+
+--r>--
+
+-
+
+i'--
+
+c1eVOJ1
+
+~ r-:-:-;
+
+- SYd0-;vn)
+1
+5",
+
+-3
+-20 0
+Fig. 8D
+
+"
+
+....................
+
+---- - ----
+
+or~ O" on9Ie.
+
+"-
+
+"
+
+"-
+
+'~
+
+r--....
+
+...........
+
+- r-
+
+.......
+
+'" '"
+"" ""
+"" '" ""~ "I"" "
+'"
+""
+"" '" "" '" "" '"
+'~K
+OON
+I"-.
+
+I--...
+i--.)...
+
+~
+
+~
+
+~o~J
+o~
+
+~
+
+""-
+
+~
+
+'''-J
+
+L._~
+
+""-
+
+i'-
+
+r--...
+JN4H loti sU'irace
+I
+I
+I
+I
+~2° +4 " +60 +8" +10" +/2" +14° +16 0+18"+20.
+Angle o f attack
+
+'-'
+h
+
+,
+
+-8
+
+-.9
+
+FIg
+
+-2 0
+
+8!.
+
+0
+
+0
+
+0
+
+"6 0 "'8°
+
+~ /OO
+
+'""""
+"'
+"-....
+
+...........
+
+-10
+
+"......
+
+r",
+
+..............
+
+"'"
+
+- --
+
+""-
+
+r......
+
+"-
+
+"-....
+
+~
+
+~
+
+I'-......
+
++ 5" (uP)
+
+r--
+
+""-
+
+'" ",,- '" '"
+
+J
+
++15
+
+I
+
+'"
+
+~ i'....
+
+I
+
+LOAD ON JN4H TAIL SURFACE ~
+i-M odel 0 5 scale.
+40 MP. H
+
+I TOT,4L
+
+"~
+
+--
+
+Spec/allotisurrace
+
+-N-r-j
+r-- r-- T
+-
+
+-=;;::::
+
+~
+
+l-
+
+1-
+
+- IS"
+,
+
+-
+
+--
+
+l-
+
+I
+
+r--
+
+-
+
+-......
+
+OQq1e . t-.1 I
+SO(down)
+
+I
+I
+
+-I
+
+---
+
+~-
+
+~
+
+..........
+
+Angle orollock .
+
+'"
+
+r
+
+L s!
+
+"- "'~~ ~ ~ ......,
+'So
+"~ "-.., ~ ~
+~
+~ :--.....
+~
+
+FIg 7.9.
+
+[COMPARISON OF FORCES ON ELEVATOR!
+scal e 4DMP.H.
+1 Models
+l eS"
+
+""I'....
+
+..........
+
+OO~O~O~O~O~O~O~O~O~ O ~O
+
++9
+
++3
+
+~
+
+-7
+
++/1
+
+0s
+
+~o
+~~
+~
+
+~
+
+-s
+
+L
+
+I
+
+-
+
+I~
+
+""
+
+-8
+
+' 16 0 -1 /8
+
+'"
+
+~
+
+...........,
+
+I-
+
+'" ~ "- ~ "'" ""-I'--.. ~
+""
+~
+~
+
+~
+
+"'" "- "-
+
++10
+
+1
+
+'"
+
+..........
+
+0" ""'2° "'4° -1-6 ° .;.8° +/0 ~ /c Q -11
+4
+Angle orolloek
+
+Fig 78
+
+0 ,>
+
+...... j'-....
+
+'-..,
+
+-6
+
+""
+
+~
+
+I
+
+"'"
+
+~~; "-
+
+............
+
+"" "
+
+-s
+
+~
+
+"" ''" ''\
+" .'" " "
+~~
+i"~
+
+"",,-
+
+'",
+
+"~
+
+"'"
+
+""- '-
+
+~~
+
+T
+
+[ LOAO ON SPECIAL TAIL PLANt:
+[ Nadel '/,S s c ale.
+40 M P. H
+
+i'-..
+
+..............
+
+~
+
+""
+'"
+..........
+
+~
+
+..,./2 0 .,. /4 0 -1"/6 0 +/8 0
+
+lingle oraftoel< .
+
+'-..,
+
+""-
+
+'"
+
+39
+
+HORIZONTAL TAIL SURFACES OF AN AIRPLANE- I I .
+
++10
+
+"" ""
+
+j TOTAL LOAD ON SPECIAL TAIL SURFACE ~
+
+I
+
+'\
+
+~
+
+'"
+
+""~
+
+"-
+
+......
+
+i'..
+
+I'\.
+
+"
+
+I"\..
+
+.""
+
+-l:! .. 4000
+
+r-....
+
+rig. 82.
+
++2
+
+~'40
+
+g+3000
+
+o
+
+:;
+()
+-a
+
+.....,.,
+
+"- r-<\l'o
+
+~
+
+~
+
+""
+
+~
+
+..........
+
+/
+
+~ -2000
+
+V
+
+-5000
+
+-8000
+
+ANO
+
+~
+
+jiV
+
+~V
+
+)tI
+
+~
+
+~oo I I
+~'
+s"j
+
+"---
+
+'/lV
+i
+
+\\
+
+/
+
+,I,
+
+e Gi,9,!. ~
+
+aftpE-
+
+FUfJP-
+
+:/' < G-oJ.,/
+Air
+
+~
+
+~S' r-.
+
+• 0
+
+I
+
+-
+
+-5·
+
+-
+
+I
+
+~\
+
+r--. ~
+0
+
+-r--
+
+r--i- 1--
+
+'\
+
+'-0 1\
+.......
+-::;
+
+~
+
+-
+
+1--- 1- -
+
+f--
+
+.......
+
+I"-.....
+
+-
+
+-
+
+60
+70
+speed in H . Pt-!
+
+-80
+
+\'
+
+'\
+
+" ~,
+
+,\
+
+1\\
+
+" \\\
+
+..........
+
+r\
+
+\
+
+JiV4H 1011
+SPECIALH - - - cell alone.
+.. plus fuseloge. _
+
+0" -1'2° "4°
+
+-2°
+
+Fig.8:J.
+
+FULL SCALE AIRPLANt:
+
+rig 86.
+
+--, \,.
+
+-7000
+
+~
+
+so
+
+#
+
+,\
+
+~~ ~ ~~
+V
+
+-ISO
+
+~ng
+
+COMPARISON Or MOOEL
+
+4S
+
+I-~.;-
+
+r- r-:f~w'7)
+
+1--
+
+/
+
+..
+
+6° "'8" "'/0" ..../2 0 .,./4 0 _/6 0 ""/8 0 "'20 0
+An91e of ottock.
+
+-
+
+'\
+
++ /5 0
+
+£Ievofor 0'191". O.
+
+V
+
+-6000
+
+....
+
+...... ........
+
+V
+
+-
+
+~~
+
+--
+
+-4000
+
+""
+
+-
+
+"'...... , "'.'
+\
+
+/"
+
+-3000
+
+~
+
+~ "..
+/
+
+/"
+
+~
+
+........
+
+""-
+
+0
+
+~ -1000
+
+"'.~
+---0-
+
+,,- A.
+
+/~
+V
+
+~+ 1000
+
+..........
+
+~ "'o~o'"
+
+V
+
+~ '2000
+
+~
+
+-10
+
+0
+
+.......
+
++f'rUPi
+
+-S
+
+......
+
+~
+
+. . .
+
+.... 25·
+
+- I-
+
+--~#
+I-- ~
+.-"~
+
+:'::::'
+
+i'..
+
+~
+
+,./
+
+&.
+S;+5000
+
+............
+
+-2
+
+...-
+
+§+6000
+
+~
+
+:--..........
+-9
+
+1--
+
+~
+
+"l
+
+~ I-"~~
+
+'" "
+
+-II
+
+---- .... --
+
+5+7000
+
+~
+
+&
+
+.......
+
+J
+
+"SOOO
+
+~
+
+'"
+"
+~"~~
+"" ~"'o-o~'" "" '" '" '"
+"' . .
+""
+~
+
+I~
+
+.~
+
+"'2S;;---'
+
+-1-9000
+
+'\,
+
+orAliI'f'LANEj
+
+"c. G" CoefficIent =.38
+.
+
+-1-10000
+
+"- I'\.
+
+"'" ""
+
+I'\.
+
+jf'ITCh'lNG MOMENT
+
+'-12000
+
+40 M. P. H.
+
+--11000
+
+"" ~ ~
+
+bK
+"'"
+
+Model 0s scale.
+
+~6° .,.8° -f/O° -1/2 0 .,/4 0 "'/6 0
+Angle orattock
+
++/80
+
+\
+
+..,..20 0
+
+40
+
+REPORT NATIONAL .ADVISORY COMMITTEE FOR AERONAUTICS.
+
+JN4H llIlL SURFACE
+
+CASE I
+
+600 fU'. M.
+
+- - - - - - - - 45 M P Ii Fr=.e fli9hf fest - - - - - - - - TAIL PLANE of +IOOangle aralfock. ELEVATOR+5°(up)in respect fa foilplone .
+••••.•••.......•. .•.•..........•• 40 M. P H )lll/nd funnel fest •••••....•..•............. .....•••
+
+.....
+
+•••• •••• •• • •• • ••• ..•• ••••••••...... ........ . . . ....... 1........ .
+
+t:::::::::• :::::::t=::. ~
+
+,/
+
+i
+
+\
+
+~~~~~~~~~~~~~~~~~~-::::::-~~~~~7i~~~~===:-~~~===================~
+
+r--.... . . . . . . . .
+
+'
+
+1
+
+~
+
+~
+
+\
+
+~
+
+..
+'0
+
+,I
+
+\~
+
+\..........
+
+,t;;;;:s;:;;;;;;..~/
+
+~ ~~
+
+....\
+. . . . =. . . . . . ~\
+.
+----...........
+
+L..-...j
+
+B
+
+=. / " '~
+... .'
+.50~
+1
+
+I
+
+_
+
+\~....................... /1'/
+
+·
+Ig. 84.
+Fi
+
+\\\~
+
+~
+
+\
+
+/
+
+\\\~~J
+
+.25
+
+............ _____ __ __ ___ ___ -""/
+
+Inches
+
+.0 of wafer
+
+' , ___ ___ __________ -,""
+
+SPECIAL TAIL SURfACE
+CASE IT 600 RPM
+- - - - - - - - 5 0 MP.Ii. Free fli9htlest. - - - - - - - TIIIL PLANE at +IOOanqle afattock ELEVATOR 0° In respect to tot!plane
+..................................... 40MP.H Wtndtunneltes t ....................................
+............... . .... ... . ... ....
+
+........................................
+.... .....
+
+- --- -- - - --- -
+
+l
+
+-::::::;;;;~;-;-
+
+.-;-..
+
+.................... .....""c.:.: ............................. .... ... . ................................... ........... .
+"'_ .. ..
+
+..........
+
+~
+
+I
+
+ftT ......... ... ......~
+
+i......
+
+..................................
+\\
+
+. .. ...... ~
+.... .. ..... .................
+
+£ .. .HH ......... HH.~=:: ...
+
+,~
+
+lI
+
+..............
+
+. -:::.-: .-:..-:..-:.-:.-:.:.-.;::: - - - --- ------------- --_
+
+7. :-.::::~:::::-
+
+n
+
+~ '.H .......HH
+. :.H.. ~...
+
+••
+
+~
+
+. ~:.:;
+.
+~r>.i
+
+--===---~.-----~....--:::::
+
+~
+
+_____ _ _________________________________________________ _ ______________________
+
+.
+
+.. .
+
+\
+
+~
+
+r~\~:.=~~~~=~ ~:~:~:~.~~:~:~:~:~:~ ~.7.~.~~.~:-::J:=7' I::(~~~~:~~ ~.~.~~:~~
+~.~
+........ ' •. .
+
+...
+
+-~
+
+\~~ •• ••••• •• ••• . -:;:;;.:...~/'
+
+Fig.8S.
+
+' .... - ______________ ~ ____ ____ ~
+
+.50
+
+.25
+
+Inc hes
+
+o
+
+~
+
+\.A&.: .................=-"' ............... _ ......
+\~
+
+I
+
+\~~::: ...... ...... ::::.:::;,.~~<::==::::yl
+
+.0 ofwofer.' .... - _________________________ -~/
+

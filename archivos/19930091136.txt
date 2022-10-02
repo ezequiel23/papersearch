@@ -1,0 +1,3557 @@
+,.
+
+..
+
+. ... ..
+
+--i==...,
+
+L>— --
+
+A&’-p-~’-
+
+‘
+
+*,
+
+<..-.””
+
+REPORT
+
+~Oc
+
+‘Z3%==f
+
+‘
+
+q
+
+.
+
+.
+
+----
+
+75
+
+THE AERODYNAMIC PROPERTIESOl?
+THICK AEROFOILSSUITABLEFOR INTERNAL BRACING
+.
+.
+..
+
+.
+
+-
+
+V””
+
+NATIONM” ADVISORY COMMITWE
+. . FOR AERONAmCS
+.-
+
+.
+.
+PEEPRINT FROM FIFTH ANNUAL I@?ORT
+
+..
+*
+.-,
+?,
+.,,
+
+,. ..
+..
+
+..
+
+.
+
+TOtAJl@i:ci to., .
+th~ftia”’”of La@ey
+hit
+MenlorjdtACtOIIjItjiiC-d
+
+““,
+
+. .
+.
+,.
+
+WASHINGTON
+(lo~
+
+lmmTING
+ltx
+
+..
+
+.
+Omm!
+
+REPORT
+
+~Oo
+
+75
+
+THE AERODYNAMIC PROPERTIESOF THICK AEROFOILSSUITABLEFOR INTERNAL BRACING
+v
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+q
+
+PIUIPRINT
+
+FROM
+
+FIFTH
+
+ANNUAL
+
+REPORT
+
+F
+
+,
+WASHINGTON
+GOVERNMENT
+
+PRIN’HNQ
+1920
+
+OFFICE
+
+.
+
+..
+
+REPORT No. 75
+THE AERODYNAMIC PROPERTIESOF THICK AEROFOILS
+SUITABLEFOR INTERNAL BRACING
+BY
+
+F. H. NORTON
+Aerodynamical Laboratory, h’ational Advisory Committee for Aeronautics,
+Langley Field, Va.
+._
+
+. .. —-—.
+3
+
+.
+
+..- ..
+
+”--—--—
+
+.
+.
+
+REPORT
+
+NO.
+
+75.
+
+THE AERODYNAMIC PROPERTHIS 03? THICK AEROFOHS SUITABLE FOR INTERNAL
+BRACLNG.
+By
+
+F. H. NOETON.
+
+INTRODUC1’ION.
+
+The object of this investigation is the determination of the claracterietics of various
+types of wi&a having suflioient-depth to entirely inclose the wing bracing, and also to provide.
+data for the further design of such sections. This type of -wing is of interest-first, because
+it eliminates the resistance of the interplane bracing, a por~ion of the airplane that sometimes
+absorbs onequartm of the total power required to fly; second, because it simpli&s the construction and assembly of the wing structure, and, third, because these wings may be made to give J
+a very high maximum Mt. At the present time, thick internality braced sections are used
+with considerable success on several German machines, notably the Fokker and Junker
+biplanes. This type of wing was not original with the .Germans, ho~ever, for an btoinette
+monoplane waa built and flown in France about 1910, which vvas entirely braced from inside
+the wing section. This wing was flat bottomed and had a maximum h/c ratio of one-sixth.
+It was intended to investigate the following subjects:
+1. IMect of changing the upper-and lower camber of thick aerofoils of uniform section,
+2. Effect of thickening the center and thinning the tips of a thin aerofoil.
+3. Effect of adding a conver lower surface to a tapered section.
+4. Ejfect of changing the mean thickness with constant center and tip sections.
+5. Effect of varying the chord along the span.
+6. EfFect of varying the thickness and chord in a more complex m~er.
+The last subject is not yet completed and till be treated later.
+All th~ sections in this test-unless otherwise stated are square ended 3 by 18 inch models,
+tested with an end spindIe at 30 M P. H. and are comparable with the tests of the U. S. A.
+sections. Lc and Dc are in pounds per square foot and M. P.II. units, and the center of pressure
+is given in fractions of the chord from the leading edge. The results have a.precision of about
+1 per cent.
+THICK
+
+CONSTANT
+
+SECTION
+
+WUNGS.
+
+The Durand 13 section gave such an unusually high maximum lift that some slight changes
+were made in the upper camber to determine its best form and height. The surfac~ were
+made of wax, scraped to size as descrl%ed in report No. 74. & some of these sections -were
+tested by students and the ordinates were not as accurately produced as in the later sections,
+the results of the runs are not plotted here. (See the bulletin of the Wperimental Department
+Airplane Engineering Division, December, 1918.)” They are suf6cient1y precise, however, to
+warrant general conclusions. Except for the higher and more stable maximum lift, these
+sections gave results that me in agreement with the N. P. L tests on varying the upper and
+lower camber.
+On thick sections the maximum ordinate must be kept closely to one-third of the chord
+from the leading edge. Mow@ it farther back gives a flatter, but lower burble point, while
+moving it forward gives a lower and very unstable lift curve. With the maximum ordinate
+5
+
+6
+
+ANNUAL
+
+REPORT NATIONAL ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+one-third of the chord from the leading edge and a sectiomimilar to the Durand 13, the highest
+maximum lift is reached when the greatesti thickness is. about-0.477 inch on a 3-inch chord.
+Beyond this height, the lift curve is uns@Me and decreases with increase in camber. A section
+was tried with a thin trailing edge, but there was no improvement and the lift curve had a very
+bad break in it. The Durand 13 seotion was also tested with a Con@ntin type of leading cdgo.
+The lift increased rapidly to about 10°, then slowly to about 30”. The maximum Lc and the
+n@mum
+L/D were not improved, however, with this change. It seemE evident that tho
+best upper camber has a mminmm height of about 0.477 inch on a 3-inch chord, om+third of the
+way from the leading edge, giving a maximum Lc of about 0,00400 and a maximum L/D of 13.
+
+.m
+.aw
+
+b
+
+,
+
+-1
+
+-HI
+
+.A7Lfi5
+.Lzv4
+.’
+.cw2-
+
+)
+
+.aw
+
+.cw8
+
+j
+m
+
+.mZt$
+12 .oa4
+
+a..
+
+/0
+
+9 LW8
+Am
+
+/6
+
+(
+
+‘
+
+t
+
+\
+
+/zJJ
+/
+
+I
+
+/
+
+Lc
+
+“““H-tt-t
+Zm
+
+---L
+
+1//
+
+G
+
+law?
+
+.iw/
+
+00
+
+0
+
+-mz
+‘8”
+Abf L
+
+‘6°
+
+‘4°
+
+%?”
+
+O“ 2“
+4*
+6“
+And.. of&on#fn
+. . .=.-----------
+
+8°
+fl”
+wind.
+
+L?” /4-
+
+&
+
+/&o ~0
+
+The lower surface has less effectmn the aerofoil than the upper. As this surface is mado
+more convex the lift and the drag decrease until a minimum drag is reached when the section
+is symmetrical. The minimum drag also moves .to lowm angles as the 10
+wer surface is made
+more convex. The maximum L/D is not-affected by small changes in the lower surface, but
+the L/D at low angles is improved by a small conv~~marnber. .One section with a concave
+lower surface was interesting, in that it showed a positive, but unstable, lift at –400 incidence.
+Its maximum value for L“ was 0.004M. Several other irregular lower surfaces were tried, but
+showed no great improvement over the flat lower surface.
+
+AERODYNAMIC
+
+PROPERTIES OF THICK AEROFOII.SL
+
+7
+
+The best flat bottomed section (used as the mashr section, Fig. 3) seems to be No. 16, which
+has an 7L/cratio of 0.158, a maximum h of (0.00392), and a maximum L/D of (13.1). The
+Iift, drag, and L/D for this section are pIotted on PIot 1 and the C. P. movemmt on PIot 2.
+To illustrate the decrease in wing area allowed by using this wing section, we may take as an
+examp~e a high-powered machine weighing 4,000 po~ds and having a wing area CR. A. F. 15
+section) of 450 square feet, a. loading of about 9 pounds per square foot. TO have the same
+landing speed an area of 300 square feet would be sufficient with the No. 16 section.
+These wings of deep constant section are satisfactory in respect to spar room and maxium lift, but ~he L~ is about 20 per cent Iower than for the wings used at present.
+
+“
+
+‘
+
+MASTRR SECTION
+3.YMode/ Stat
+
+Ce#Ih- &ct&
+
+br ‘%?.wd “46
+
+FLWBE 9.
+
+THE
+
+EFFECT
+
+OF THICKENING
+
+THE
+
+CENTER
+
+OF A THIN
+
+WING.
+
+The object of this testis b determine the effecti of thickening the center of the span, and
+thinning the tips, of a standard type of section. AU sections through these wings, perpendicular
+to the leading edge, are similar to a master section, a modified Durand 13 @g. 3). All ortiates
+were obtained by reducing from the co~ponding
+ordinate of the master section b the same
+proportion as the maximum ordinate is reduced by a smooth cur-re from the cmter to the tip
+of the wing. This curve is nearly parabohc with its vertex at the center of the span. All
+sections were made flat bottomed for ease in cutting. There are two series, No. 40-No. 43,
+where the section at the tip has a chord in depth ratio 13, and the center of the span is thickened
+successively, and No.44-No. 4(I where the tip has z chord to depth ratio of 25 and the center
+is successively thickened in the same way except ‘jhat the deqpest section k ofit~d beca~
+of ita obvious unsuitability as shown by A70.43. The center of the pressure travel was not
+plotted for sections h’o. 4&No. 46 because i.t wa I thought that nothing of interest would be
+shown. The models were constructed of maple, 3 by 18 inches “and were within 0.005 inch
+of the ordinrites given in the following tables. Lc and Dc (Rots 4 and 5) and “L/D (Hots 6 and
+
+.
+
+8
+
+ANNUAL
+
+REPORT NATIONAL ADVLSORY COMMITTEE
+
+FOR AERONAUTKJS.
+
+7) are plotted against angle of incide-nce for each case. Where the curve was discontinued, a
+sharp break was made, as a fairer representation than a smooth curve. On Plot 8 the L/D
+is also plotted agakt
+
+-.
+—.
+
+~~
+
+. ss giving most readily the comparative merits of the various
+sections, A fast machine must fly at 2 to 3 times iteminimum speed so that a high Bpecd
+wing must have a high L/D at. gme-fourth b oue-niuih of the maximum Lc. The center of
+3
+pressure travel for sectiom No. 40-No. 43 is plotted in the usual manner (Hot 9). I?ii
+
+I
+
+!
+--CD
+
+.
+
+#w.m2k&
+
+-.(WZ
+
+P/of 4.
+
+1/1
+
+I
+
+I
+
+I
+
+I
+
+I
+
+1
+
+I
+I
+
+Angle of chodh
+
+wihd.
+
+shows the master section and Figure 10 shows the front profile of the wings. Although drawn
+to scale, they are not intended as accurate representations of the wings, but simply to show
+the relative shape of he sections.
+The following facts are evident from the curves:
+Lijt.-&I the wing is thickened in the center, the lift curve shifts to the left and tho maximum lift increases until h/c in the center of about 0.158 is reached, after which the flow is unstable
+and the maximum rapidly decreases. !l%inning the tips shifts the lift curve toward the right,
+
+-.
+-.
+
+AEEOIWNAZZIC PROPERTIES OF THICK AEEOFOILS.
+
+“42
+
+,..
+
+I
+q
+42
+
+I
+
+1
+
+q I
+4
+
+1
+
+40
+
+I
+
+r
+
+1
+
+“46
+
+1
+
+r
+“45
+
+I
+
+[
+
+44
+
+1
+
+I
+
+MAXIMUM 6ECZIOV
+Full
+
+SIX*
+
+-
+
+NORMAL ?V CHORD
+Cho?xi
+
+mcxrm 10
+
+- Y’
+
+.
+
+10
+
+ANNUAL
+
+REPORT NATIONAL ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+lowers and ffathne the maximum, except where the wing is already thin, in which case the
+maximum is unchanged. Sections No. 42 and No, 45. show quits a high maximum, 0.00378
+and 0.0!)345 as compm%d with 0.00258 for the constant ~cticm wing (No. 40). Sections hTo.42
+and No.. 43 show a break in the air flow that-is common in many thick sections. At certain
+angks of incidence there may be two or even more types of flow. This condition is somewhat
+analogous to a supematurated solution, as a given type of flow can be carried beyond its normal
+point of breaking if the angle of incid~ce is changed @owly and carefuuy, but if jarred or left
+1 for a considerable time will revert to its stable value. This instability is lwsened and in some
+cases disappears with an increase in velocity to 40 M. P. H. This instability of flow is also
+associated with aspect ratio, for even the R. A. F. 6 shows a break in the liftrcurve at very low
+aapect ratios.
+m
+/
+
+M.%
+
+) ‘-l
+
+.0X2
+
+\
+
+mm
+.rXz4
+m
+
+:
+I
+I
+i
+
+y
+M
+
+.aw I
+.!XP2
+
+L. d
+
+q
+} 50
+
+azo
+4V18
+
+Lc
+
+1Y
+
+0/’6
+
+/
+/’
+
+ml+
+i{
+
+.W12
+
+2
+I
+I
+
+swlo.(XM
+
+/
+r
+
+.axlf
+&
+.AW
+
+A ~
+
+.m
+
+A
+
+.mM
+
+m7
+.am
+
+if
+
+..CW6
+
+.azM
+
+.Wz
+. ml
+
+0
+
+‘6”
+
+P/of IL
+
+‘f”
+
+‘i?”
+
+O“
+
+2“
+
+4“
+
+6-
+
+6“
+
+Angle of ch-dfo
+
+47-
+
+R“
+
+M.
+
+16-
+
+18*
+
+zoo
+
+o
+
+wkw!
+
+Drag,—The minimum drag decreases with the thickness of the center section, reaching
+the rather low value of 0.0048 for No, 44. The thinner sections, however, show a pronounced
+increase in drag at high angles, 140 to 20°, in fact, exceeding the drag of the thicker wings.
+Thinning the tips decmasea the drag at all angles.
+L/D.—The L/I) increases at all anglm as the wing is thinned down. With reference to
+Ploh=- the thickest wing, No. 43, gives a comparatively poor performance, ‘while the thinnest,
+No. 44, is shown to be most excellent in this respect; the other sections falling between them.
+The max. L/D ranges from 13 to 18.2, increasing progrewively as the wing is thinned.
+Center oj premwe. —The center of pressure travel becom~ 1sss, and the C. P. is slightly
+farther to the rear w the thickness is increased. TIM travel on No. 40”lies 28 per-cent from
+the leading edge at 12° and 51 per tiegt at 0° while on .No. 43 jt moves, between the same angles,
+from 35 to 47 per cent.
+
+\
+AERODYNAMIC
+
+11
+
+PROPERTIES OF THIOK AEROFOJLS.
+
+This test shows that a thin fk+bottimed wing (No. 40) maybe thickened in the center
+until an’h/c ratio of 0.158 is reached @To. 42), with an increase in maximum lift of 50 per cent
+and a decrease in the maximum L/D of 18 per cent. and in the L/D at one-ninth maximum Lc
+of
+
+30
+
+If at the same time the tip is thinned to an Ii/c ratio of ~ @’o. 46) the maximum
+
+per cent.
+
+lift is increased 32 per cent the maximum L/D is reduced 12 per cent and the L/D at one-ninth
+maximum Lc is reduced 18 per cent as compared with h70. 40. The thickness can not be
+
+40
+/7
+/ (
+
+/6
+
+\
+
+/
+
+[S
+
+\
+
+/4
+/3
+/2
+..
+
+‘~
+
+F
+
+/0
+
+I
+!
+1
+I
+
+9
+
+I
+
+L
+
+5-
+
+I
+I
+
+/
+
+I
+
+I
+
+I
+
+-8”
+Piof
+
+‘6”
+
+-4”
+
+6.
+
+I
+-2”
+
+I
+(?”
+
+!
+2°
+
+Angle
+
+I
+I
+I
+I
+4“
+6°
+&a
+/0°
+of chordi’o
+wind
+
+.
+
+!
+\.
+
+\
+
+\
+
+I
+/2”
+
+I
+M“
+
+d
+
+I
+)6”
+
+‘
+
+I
+18”
+
+1
+20
+
+increased beyond this, for the maximum Lo ancl L/D fall off rapidly. If a flat+bottom section
+(No. 40) be thinned at the tips to an h/c ratio “of one-twenty%fth (No. 44) the maximum lift is
+unchanged but the maximum L/D is.increased 6 per cent and the L/D and on-ninth mafinm
+Lc is increased 20 per cent. The wing is, of course, of no use for interred bracing, but is included
+in this report to complete the series.
+There is no particular reason why these sections shodd be compared to Xo. 44, as this was
+simply a reduction of the matter section to the thiclmws of an average wing. It happens to
+have a fairly good”LP and a rather low maximum lift. For a more genersl comparison, section
+
+-. .—
+
+12
+
+ANNUAL
+
+REPORT NATIONAL ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+No. 46, the most practical section fm internal bracing, can be compared with a high lift section,
+U. S. A. 2. Section No. 46 hss a 7 per cent increase immaximum Mttand a 3 per cent decream
+in maximum L/D over the U. S. A. 2, and the LID at%ntminth maximum Lc is 30 per cent
+higher on section No. 45.
+
+/9
+*
+
+/8
+/7
+
+4.5
+
+/6
+46
+/.5
+
+\
+
+\
+
+/4
+
+.
+
+\
+\
+
+/3
+~
+
+/2
+
+\
+
+/
+
+\
+
+//
+i
+
+/0
+
+\ \
+L’
+Lg
+1A
+
+‘8
+
+//
+
+7
+
+1
+I
+
+,
+\
+
+H
+
+6
+
+\
+/
+
+5
+
+/
+\
+
+4
+
+\
+
+\
+/
+
+I
+
+J
+.
+I
+
+z
+/
+
+,
+
+/
+
+/
+
+i
+
+/
+
+/
+
+o
+
+1
+~
+/
+-60
+
+1’
+-GO
+
+/?!0+ z
+THE EFFEOT
+
+OF
+
+‘
+-20
+
+O*
+
+2*
+
++“
+
+6“
+
+8“
+
+Angle of chordti
+ADDING A CONVEX LOWER
+
+/0’
+
+/2°
+
+/4°
+
+/6°
+
+/8°
+
+B*
+
+who!
+
+SURFACE TO A THICK TAPERED WING.
+
+As the limit of thickness is reached with a flatibottomed section when L/c equals 0.158,
+it is intended to determine the effect of adding a convex lower surface to wings hTo,46 and No.
+51, so that the h/c ratio yin be incressed to one+fth at the center (Fig. 16). These sections,
+hTo. 50 and No, 53, have. the lower surface reduced in the same manner as the upper surface
+is reduced in going from the center to the tips. The spar room is increased 25 per cent and the
+
+A.ERODYNAMIO PROPEBTI=
+
+OF THICK AEROFO=.
+
+.
+
+.
+
+o
+
+Ft’ot8.
+
+144374-2-
+
+Le
+#Lcfvux.
+
+14
+
+ANNUAL
+
+REPORT NATYONAL ADVISORY C70~IIl!TEEI?ORAERONAUTICS.
+
+general performance of the section is improved by this addition, making this one of the few
+changes that are both structurally and aerodynamically bticial,
+Adding a convex lower surface of this type gives me follow@g results:
+Lift.-The maximum Lc is reduced 3 to 6 “per cent. The lift “is reduced at alI angles, but
+at 0° to 4° is quite high, giving a decided hump to the-curve at $& po~,
+This charact@stic “
+
+.
+.
+
+MM%UUM J..C?WV
+
+NO.&+fAL TO cWO.W
+
+FULL51ZE
+
+C.WV?D-3”
+
+FIGUBE16.
+
+was noticed when a convex lower surface was added to the Durarid 13. Section No. 50 gave an
+unstable burble point at 30 hf. P, H., but at 40 M. P. H. gave a very flat maximum with the
+same value of Lc. (Plots 11 and 12.)
+Aa32
+.&w
+
+.ai?o
+}
+
+&a
+.Ln?4
+
+/
+
+a?.?
+d.z?o.LvId
+
+m/6
+
+.4C1
+
+I
+
+I
+
+I
+
+1#
+
+.&w
+Lwz
+
+*“7
+
+.a?frl
+
+%1
+
+I
+
+I
+
+&
+
+Dr~.—The~rag is lowered at all angles except near the burble point,. and the position of
+the minimum is moved to more negative angles. The
+@nimum
+is lowe~~d ab~ut 20 per cen~
+and has a flatter curvature (P1OIX and 12).
+11
+
+AERODYNUIC
+
+16
+
+PROPERTIES OF TFiICK AEROFOIIS.
+
+L/D.—The maximum L/D is reduced 1 or 2 per cent, but the L/I) at onequarter maximum
+Lc is increased 10 per cent, and that at ons%inth maximum LO 35 per cent (Hots 13 and 14).
+The center of pressure travel for No. 50 is plotted in Hot 15,
+Center of pressure traveZ.—
+and shows no difference from the travel on thin sections.
+.
+R
+17
+53
+51
+f6
+
+5.?. \
+~
+
+16
+
+A
+[
+e
+i,
+
+[5
+
+#
+
+~
+
+I.f
+
+h,
+
+1.?
+
+t
+
+12
+\
+
+\\
+
+I
+L8
+
+.
+
+/
+
+\
+
+6
+
+4
+
+J
+
+5
+
+// I
+II* ‘
+
+7
+
+I
+
+\
+
+J
+
+t
+.
+
+ill
+
+6
+i
+
+II
+
+4
+
+w
+
+$d
+1
+[
+;
+
+v
+
+N
+
+9
+
+/
+
+f77
+
+11/
+
+10 .
+
+J
+
+9
+
+w
+
+/1
+
+\
+
+I
+
+Iv
+
+/![
+
+13
+
+/
+
+1/
+
+iw
+
+#
+
+/
+
+1.?
+
+W
+
+5
+#
+
+//
+
+2
+
+s
+
+//
+
+I
+
+#
+
+2
+
+//
+/
+I
+
+o
+
+i
+1
+
+I
+
+I
+
+i
+u
+
+.
+.6.
+
++.
+
+PWIJ.
+
+#
+
+&
+
+Z*
+
+4.
+
+d.
+
+&*
+
+Angle of U30dto
+,
+
+10-
+
+~.
+
+Me
+
+/6-
+
+Mb m-
+
+.I.Z.3.4.:=.6.7.
+
+mfj#.
+
+n-z%!
+
+L9
+
+LO
+
+Gziax.
+
+Both of these sections are excellent from eve~ po int of view. They allow room for ample
+spars (lO-inch depth on a 5-foot chord), have a high maximum I+ a maximum L/D only slightiy
+lower-than the average for thin wings, yet have an
+L/I) at low vahms of Lc that is only exceeded by a
+few thin seotions, Section No. 50 giva the higher
+maximum lift and the greater room for spars, but
+No. 53 gives the higher efficiency.
+
+$
+%
+:
+[
+
+THE EFFECT
+
+OF VARYING
+SERIES OF WTNGS ~H
+SECTIONS.
+
+TEE MEAN TEUCKNESS IN A
+CONSTANT TIP AND CENTER
+
+The object of this series was the determination of
+the effects due to thinning the wing more or 1sss
+rapidly from the center to the tips. Front profiles
+of these sections (Nos. 46, 51, 52) are shown on
+figure 17.
+The following facts are evident from this ted:
+
+Lijl.-The lift is everywhere decreased as the section& thinned and all the sections ~how a
+flat burble point. The lift do= not decrease as rapidly as the thickness, for the lift is approaching the limiting value of a flat,plate. (P1ot-18.)
+
+16
+
+ANNUAL
+
+REPORT NATIONAL ADVLWEY
+
+COMMITTEE
+
+FOR AERONAUTICS.
+
+Dr~.-The
+drag at low angles decreases with the thickness, but less rapidly as the wing
+lmcomes thinner, It is interesting to notice thal above 12° the thicker wing has the least
+drag. (Plot 18.)
+
+.. . . .
+
+‘i51
+
+t
+
+1
+
+. .
+
+.
+“52
+
+I
+
+1
+
+At4xhnuht
+Sfcmff , No2%4f.4L CHORD
+m
+Full
+
+Jze.
+
+Chord* ~”
+
+RGWBE17
+
+L/D.—The maximum L@ increases as the wing is thinned, reaching 17.4 for No. 62. At
+low angles the efficiency is inc~~ased in the same way. At high angles, howev~r, the thicker
+win@ ara the more d%cient. (Plots 19 and 20.)
+
+ConcZuaiam.-The results obhined from this series show &at-these winga have properties
+in general in close agreement with those of a uniform mean section. The more strongly tapered
+ones show, however, an evidently greater efficiency at low angles than the mean uniform section
+would indic~te.
+
+--
+
+AERODYN.KMIO I?ROZ’ER’J5ES TEUCD3 AEROFOILS.
+OF
+
+17
+
+WINGS WITH VARYING CHORD.
+
+The wind tunnel investigations of wing+ that have a chord which varies alo~u the span is
+a rather difiicult problem, because of the great alteration in the properties of similar aerofoils,
+when the chord is changed. It seems evident, at least with thick sections, that the chord can
+not be reduced ta less than 2 inches at 30 M. P. H. without introducing a break in the air flow
+that materially reduces the va3ue of the maximpm Lift. For instance, awing with a 2-inch chord
+at the tip and a 3-inch mean chord, gives a unifornily better performance than a similar constant
+section wing, but if the tip is reduced to 12 inches, with the smne mean chord, the performance
+is markedly inferior to, the constant section wing. Again, section No. 49 (Plots 21,22, 23),
+having a 24-inch span and a 1~-inch chord at the tip, gave a maximum Lo 0.00360, but when
+
+. ...
+
+.
+
+A7f.?o.
+
+“
+
+&
+
+Lc#bx.
+
+Pib/.?L
+
+A.7gleafdomfh bvhd
+
+3 inches were cut off of each tip, leaving an H&inchspan and a .?t-inoh chord at the tip (Fig- 24),
+the maximum Lo was increased to 0.”00413. This do= not prove, however, that on a full+a
+machine, where the LV is large, a small chord at the tip is a disadvantage.
+For this same reason it seems probable that win&tunnel tests on wings with rakid and
+rounded tips, although showing a eonaiderahle advantage over a square tip, do not show as
+comparatively great an improvement as actually occnrs on the full-sized machine. In order
+to investigate this matter folly, a series tif similar se.ctione should be tested with the greatest
+possible range in LV.
+This subject of varying the chord was taken up not so much with the hope of improving the
+aerodpamic properties of the wing, but because of the structural advruitagg pcssessed by
+this type of wing. When the chord is diminished at the tip and increased at the center, not only
+is the spar depth increased at the center, but the center of lift of the wing iabrought closer to the
+
+‘
+
+-.
+
+-.
+
+18
+
+ANNUAL
+
+REPORT NATIONAL ADVISORY 00~ITTEE
+
+FOR AERONAUTIC%
+
+body, thus decreasing the bending moment in the spare. If the wing is tapered sufficiently, the
+spars can be brought together at the tips as in the German Ago, simplifying and increasing the
+rigidity of the drag truss.
+..
+?8
+
+I
+
+!
+
+FIGUEE24.
+
+In comparing sections 16 and 48. (Plots 21,22, 23) it is seen that the section with a varying
+chord has 5 per cent higher maximum lift and substantially the same L/D atmll points. When
+
+</of23.
+
+&
+L. /vcw.
+
+,—
+
+the L/D is plotted against *it
+
+is evident that the constant section wing is inferior in
+.
+e&iency at every point. There was time for only a very limited study of this subject, but
+the results show enough promise to deserve further investigation.
+
+Aerodynamic
+
+19
+
+PROPERTIES OF TEUCK AEROFOIIS.
+
+suluNL4RY.
+It is a rather difEcult matter to co”mpare the properties of the different sections tested
+because of the munber of variables present. It was thought that a comparison could be best
+made by plotting the mean thiclmess of the wing agaigsfi the Lo, Dc, and L@ for various sngles
+of incidence, and agtit
+I@ for various values of Lc. Instead of using the actual thic:knof the wing the ratio of the span to the mean thickness is used, and will be tinned thiclmess
+ratio. In this report the term will be applied only when the aspect ratio is eix. Another
+characteristic of the wing is the ratio of the mean thickness of the wing to the maximum tbicknesi, or amount of taper. Tlmse characteristics for a number of the wings are tabulated below:
+
+.
+.k
+
+. .
+
+40... .............................................................l
+4L. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+g . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . .. . . . ..
+. .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+44 . . . . . . . . . . . . . . . . . . . .. . . .. .. .. .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4s. . . ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+..
+&“ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .- . . . . . . . . . . . . . . . . -----. . . .. . . . . . . . . . . . . . . .. .. . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . .. . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . ..-- —---- . . . . . . . . . . . . . . . . . . . . .
+m......
+16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .
+
+f
+Meaq
+oral.
+
+rh~lhe.?s
+
+tdxi-il
+
+WiuS No.
+
+O.zaa
+
+Max.
+
+cxd.
+
+7&8
+
+l.om
+
+87.8
+94.3
+
+ml!
+
+H
+
+.814
+.aw
+.4s
+.m
+.2)-I
+.W
+..2W
+.246
+.477
+
+%
+.m
+A&
+
+57.8
+46,1
+
+.W1
+.ai’
+
+H
+m. 6
+
+I
+.,
+
+1.Wo
+
+..-
+
+Secfk7.7 __
+
+xl
+
+Hof /?5
+
+i%fckness
+
+Loo//h.
+
+90
+
+P&tZ6.
+
+.—
+
+so
+
+Secfim
+7-*-
+
+w
+ROfiQ.
+
+#
+
+On plots 25 to 28 the properties of these wings are plotted, against thiclmeea ratio. It was
+not expeoted that the points would lie on a smooth curve, but it was hoped that there would
+be enough regularity to determine a mean line, from which the deviation of the points omdd
+be studied.
+
+20
+
+ANNUAL
+
+REPORT NATIONAL ADVISORY (7QWMll?TEEFOR AF~ONAUTICS.
+
+It is seen from plot 25 that the lift coefficientdemeases with an increasOof t.hickncsaratio,
+and of course will approach the values for a flat plate. As the thickness ratio is decreased below
+50 the b at low angles begins to increase rapidly, but at high angles increases lws rapidly and
+at the highest lift has reached a maximum at about 37. It is interesting to notice that wings
+Nos. 43 and 16, having practically the same mean thickne~, lie closely together up to 6°,
+after which the flow breaks on the former and its lift values at high angles are very low. All
+the other points lie closely to the mean curves and show nothing of interest.
+On plot 26 it is seen that the drag at low angles increases as the thickness ratio decreases,
+but at 10° the drag is a minimum when the thickness ratio is 80, and at 14° when it is 50. At
+low angles the drag is quite regular, but at high angles the points do not lie on a smooth curve.
+As would be expected, wing No. 43 has abmnmmlly high values of drag above 6°, l.mt below
+this agrees weIl with No. 16. Wing No. 52, and to a lewer extent No. 51, show an unusually
+low drag a%dl
+angles and a large drag at high angles. From the table above it will be noticed
+that these Fwo wings have the greatest taper of any.
+a
+19
+
+a
+
+.i%?cfA37
+
+AL.
+
+Thickness
+
+I
+
+1
+
+!
+
+la I
+
+A’ofzz
+
+“
+I
+
+1
+
+I
+
+Rota.
+
+1 1. I
+
+I
+I
+
+&
+
+I
+
+f
+
+r
+
+f
+
+1
+
+I
+
+I
+
+I
+
+I
+
+i
+
+I
+I
+
+I
+
+I
+
+1
+
+I
+
+I
+
+J@cl%on
+
+7hhwrness
+
+I 1
+
+I
+
+F
+/?0%.
+
+The points on plot 27 aro naturally less regular @gn on the others, but it is evident that
+the efficiency increases with the thickneea ratio between 20 and 8°, but at lower and
+higher angle; itnoccurs at a lower thiclmess ratio. The efficiency is’ I&her with the thicker
+wings at 0° onIy because this angle is farther from the angle of zero lift on the thick wings and
+not because these wings are more efficient at high speeds. At high angles, however, wings with
+athickness ratio of about 50 are the most efficient.
+This is shown more clearly on plot 28 where the ef%ciency is plotted against thickness
+ratio for various values of Lc. For low values of Lc the eficiency increasessteadily with the
+thickness ratio, but at Lc” of 0.0014 the efficiency reaches a maximum, which moves to lower
+values of thicknew ratio as the Lc incieascs. Again Nos. 52 and 51 show an abnormally high
+efficiency at low and medium values of Lo. Ilo. 16 Ehows a Slightly higher L/l) at all angles
+than No. 43.
+
+AERODYNAMIC
+
+21
+
+PROPERTIES OF TEICK AEROFOIIS.
+
+It may be concluded from these curves that the areodynamic properties of a series of
+similar wings depend in a regular way on the mean thickness, no matter what the taper. It
+seems possible then to predict the properties of any varying section wing with fair accuracy
+froni a study of similar constant section wings. It is impossible, however, to exceed at any
+point of the wing an h/c ratio of 0.159 without exceeding the critical value. Therefore, in order
+to obtain the highest maximum lift, the wing should be of constant section. Wings that have a
+considerable degree of taper appear to have better high-speed properties than uniform section
+wings. This improvement is not very large but is weIl outside the experimental error.
+In order to show clearly the relative properties of the various sections tested and their
+reIation to the usual types of wings, their more important characteristic are tabulated below,
+together with a few rep&entative-tk
+sections:
+.
+.
+Sectbn
+No.
+
+r
+
+40... . . . . . . . .
+41. . . . . . . . . . .
+. .........
+& . . . . . .._.
+a... . . . . . . . .
+45. . . . . .. . ...16 . . . . . . . ...
+50. . . . . . . . . . .
+51.. . . . . . . . . .
+62. . . . . . . . . . .
+~:::::::::::
+. --------- .
+R. A. F.6...
+R. A. F. 15..
+U.& A.2...
+
+U.8...L
+I...
+
+W=
+
+aid-
+
+mum
+
+m.
+
+r
+
+0.00269
+. Lm16
+.C3378
+.IM226
+.Co2ix
+.03297
+.M1345
+. L-9J32s
+:%%%
+:%&
+
+.W
+.00289
+.CE)%22
+.(W78
+
+i7.2
+M. 9
+14.1
+
+13.0
+
+18.2
+16.4
+H. 2
+14.9
+16.2
+17.9
+152
+18.3
+13.2
+M. 6
+15.8
+16.7
+16.7
+
+1..
+
+at
+
+nasinmm
+
+-,
+
+hunf-
+
+m.
+
+DC
+
+o:a&..
+
+o.oom66
+. mi2
+.om96
+. Cmlal
+.WxMs
+.CHmiu
+. oms3
+. CmlM.
+.fJlm7
+maw
+.m?
+. mm
+.mllo8
+.KKu6S
+.C)W2
+.m
+. W-6
+
+.C31i6
+.Cm?7
+Jm26
+. mu
+. mm
+. lm65
+. m6S
+. 0m4
+. IM146
+.00200
+. al186
+.m.29
+. oom
+.00162
+.00130
+
+U077
+. ml
+.159
+.077
+.118
+.169
+.21-M
+.159
+.m
+:%1
+.M9
+.Oes
+. b7
+.W
+.057
+
+section
+Iike LNO. 6
+1
+In comparison with the uemd types of Iin sections a t%ick uniform
+-.
+shows the follofi
+differences:
+1. Thick secti&s may give 50 per cent higher maximum lift.
+2. Thick sections are more likely to give an unstable flow at large angles of incidence.
+3. On thick sections the angle of no lift occurs at lower angles of incidence and the burble
+point at higher angles, thus extending the anguIar flying range.
+4. Thick sections have a flatter drag curve; that is, the minimum drag is higher, but
+Dc rises less rapidly on either side of the minimum.
+5. The L/D curve for thick sections’ is flatter than for thin sections, rising to a low~er
+madmum, but holding a value close to its mmximum at high and low angles of incidence.
+6. The center of pressure travel of thick sections is further to the rear and of less extent
+.—
+than on thin sections.
+7. Thick sections are more eficient at high angles of incidence.
+The best tapered sections give lower maximum L/D than the thin sections, but the elliciency
+at all other points is as good.
+By tapering the wing both in plan form and thickness it should be possible to construct a
+wing which has an h/c ratio in the center (mean chord) of 0.270 and aerod~amic properties
+comparing quite favorably with the thin ;ections used now. This thickness would make
+possible the use of 14-inch spars on a 5-foot mean chord. A tapered wing has the advantage
+of ha-ring the greater part of the lift on the portion of the wing close to the body, due both to
+the greater area and to higher lift sections at this part of the wing, thus decreasing the
+bending moment in the spars.
+
+—
+.-
+
+22
+
+ANNuti REPORT NATION&
+
+oWORY,
+
+:COMMITTEE FOR AERONAUTICS.
+
+To illustrate the value of thick wings on a machine, the performance is plotted for a 400
+H. P. 3,600-pound biplane, using first a R. A. F. 6~ction with the iisual tiing bracing, second,
+section 53 with the same bracing, and third, 53 without external bracing. No corrcc~iuns
+were added to the data from wind tunnel tests, as Qnly comparative results were required.
+—
+,.
+hang
+
+(~~m~”(~;f
+
+PUW4ti
+
+9.1p%:”
+
+9:11%
+
+fwt
+
+(L&M.
+
+... ._ -.. —
+
+Ro. 68}
+ti pour%
+%Iare tit. S.SPomti srmrc feet
+o.iba
+adn.
+
+(Jrly;l:
+“
+
+2... . . . . .. . . . . . . . . . . . . . . . . .
+o. . . .. . . . . . . . . . . . . . . . . . . . . . .
+2..- . . .. . . . . . . . . . . . . . . . . . ..
+4. . .. . . . . . . . . . . . . . . . . . . . . . . .
+8. . . . . . . . . . . . . . . . . . . . . . . . . . .
+12. . . . . . . . . . . . . . . . . . . . . . . ..16. . . . . . . . . . . . . . . .. . . . . . . . . .
+1
+
+I
+
+“230”
+l%
+Q2
+79
+In
+.547
+a!
+
+..
+
+,
+
+..
+
+.
+
+...
+
+------ —.=-
+
+From the IL P. curves plotted below (Plot 29), ass ,ming a curve of available H. P,, the
+following summary is obtained:
+,
+
+I
+
+1
+
+kd p IAIL
+R. A. F.6 . . . . . . . . . . . . . . . 122M. P. H . . . . . . . . . . . IMH. P . . . . . . . . . . . . . . . 1,470
+No.53 .. . . . . . . . . . . . . . . . . 126M. P. H . . . . . . . . . . . 06H. P . . . . . . . . . . . . . . . MmfietW~m.
+No. s3. . . . . . . . . . . . . . . . . . 140M.P. H . . . . . . . ..- MH. P . . . . . . . . . . . . . . . l,7501eetWrmln.
+
+I
+
+I
+
+I
+
+I
+
+—
+
+I
+
+._ ...
+
+Compared with the R. A. F. 6, No. 53 section under the same conditiom of. structur~~
+resistance gives the same power to climb and increases the mtmimum speed 4 hi. P. H. VTltLout interplane bracing this section increases. the climb about. .20 per cent and the mwrirnum
+.speed from 122 to 14QM. P, H.
+—..
+It seems evident from these tesb cm modds that wings may be designed with ample room
+for cantilever spree and have at the same time aerodynamic properties comparing favorably
+with the thin sections used now.
+This subject of varying section wings k-so large that ~tiy a beginning h&”“been made in
+this report, for there is an almost infinite number d. -rafi.ablw to study. The results, however,
+show enough promise to warrant further research with W&S b Wfich th~ Chord and thickno=
+are varied in a more complex manner. The thick tapered wings should also bo @ted on fullsized machines.
+
+..
+
+. . ..
+
+.._
+
+.
+
+.
+
+..
+.*
+
+28
+
+fi..--_.-._..
+... .1 1
+AERODYNAMIC
+
+PBOPEBTIES OF THICK AEBOFOJIEL
+
+Ordinnfufor o.40.
+N
+
+I
+
+Chord stntion.
+,.
+
+0.044
+
+. . . . .. ... . .. . . ... . ... .. . . .. . ... . .
+
+m . . . . . . . . ..--...
+
+-... -.
+
+—-–. —....
+
+. . . ..-.
+80. ..- . . . . . ..-- . — --------a . . . . . ..-. --.- . . . . ..- . . . .. . -------56. . . . . . . . . . . . . . . . . . . . . . ----------@)... . . . . . . ..-.. -_.. . . . . . . . . . . . . . . . . . .
+70. . . . . . . . . ..-. — . . . . . . . . . . . . . .. —.g: . . . . . . . . .. —-_-.
+_..-. ..-. ----. . . . . . ..-. .--—. . . . . . . . . . . . . . . . .
+Ire . . . . . . . . . . . --------------------
+
+Thelowersurfoce fspboondordfnates
+
+chord
+
+—
+.
+
+I
+
+Stution.
+
+lm . . . . . . . . . ..-.. .-... -... _.-...
+-..
+140 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+lKL . . . .._. -_-- . . ..-_ . . .._ . . . . ---Iso. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+:!’%
+
+.163
+. lal
+.Im
+-w
+.21u
+-m
+.228
+.280
+
+g:::::::::::::z::z::::z:r—-::z
+. . . . . -. —.--... . . . . . . . . . . . . . . .
+m . . . . . . . . . . . . . . -------------------am. . . .._. .-.-.
+.- . . . . ..-_. ._.._.
+3@). . . . . . . . . .._. .._--_.
+.__ . . . . ..-
+
+gkensrethedktsmeos
+
+ofthcuppersurfsce
+
+abmethisfnfnrhcs.
+
+Ordinatea for .No. 41.
+
+Chord station.
+
+““”1Dfstsnce from center of epsn fn inches.
+o
+
+m . . . . . . . . . . .. . . . . . ..-.. .—-. — ---------- . . .
+a 070
+.145
+lo . . . . . . . ..-. ---_.
+. . . . .. . . . . . . . . . . . . . . . . . . . .
+.Z32
+%3..-.. . . . . . . ..— .-. .-. -.- —-. —.—— - —do. . . . . . . . . . . .._. _.___
+..-_. _._-___—. ?246
+.X8
+$.... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+..
+. . . . . . . . . . . —. ----- . . . . . . . . . . . . . . . ..- .—
+.Xll
+.818
+w.-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7g . . . . . . .._.. _.-._
+-... _.._.
+-... -_ . . . ...M8
+.848
+. . . . . . . . . . . ..- —-— ------- . . . . . . . . . . . . . . . . . . .
+w . . . . ..--. -... --.. --.. -..--. - . . . . . . . . ..-——---:8Q
+lm . . . . . . . . . .._ —_
+— . . ..__.
+.._-.
+_...UJ . . . . . . . . ..- . . . . ..--.
+.--.
+-.- . . . . . . . ----- .8m
+. . . . . . . . . . . ..- . . . . . . . . .
+.846
+. . . . . . . . ..-.
+loo. . . . . . . . . . . . . ..-.
+___.
+............. ......
+. 81S
+.292
+%::::::::::::::::::1
+::::::::::::::::::
+:E
+m .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.W
+240 . . . . ..-. ._._ -_.
+.
+. . . . . . . . . . . .. . . . . . . . . . . .
+.144
+me . . . . . . . . .. —__.
+_____ —_...._-_
+.m
+2m. . . . . . . . . . ..- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+803 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+-WI
+
+Thfelowsr surfaoo IS Rlsne sndordfnstw
+
+8
+
+5
+
+o. m7
+
+0:g
+
+.140
+.1%
+.28s
+.270
+.2a2
+:%
+:%
+.848
+.889
+.822
+.809
+.222
+.255
+.219
+.181
+.140
+.697
+.049
+
+.Is5
+
+6.657
+.lls
+.105
+
+g
+
+:E
+.245
+
+%
+.316
+.319
+.8M
+.819
+.310
+.291
+..M7
+
+:3
+
+:x
+
+:%
+. 1s2
+.118
+.ml
+.041
+
+.132
+.091
+.0!5
+
+:s
+.285
+:%
+.2M
+
+.. . .... .
+
+9
+
+7
+
+0. M4
+.m4
+.182
+- lm
+.1s1
+.120
+:%
+.223
+.226
+220
+:%
+
+—
+
+.2?7
+.Mo
+.170
+.147
+:%
+-035
+.Cm2
+
+glwn sra the dk,tsncesof the upporaurfemabovethh ininohes.
+
+0rdinate8for 43,
+i%,
+I
+-
+
+Chord ststion.
+
+L--
+
+a
+0. .. -.-—...
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . ------
+
+%::::::::::::::
+-:::
+-:::::::
+WI
+40::::::: -:::::1:::::::::::::1-::::::::
+
+-:::---1
+
+;:::::::::--::=”l::::::::::::::::---?
+
+.---.-.-.—______ —----------..... 1
+....
+al...-.-..-...........--------------------------W
+...-.--..--.—.. .-......-- ..-...—.—----100
+..................------------...................
+m . . . . . . . . . . . . . . ..-. -_. —.---_
+-—--.
+-—..A
+140 . . . . ..- . . . . . . . ..-----... -.._.. -._.. -_. --.-..!
+.
+Im . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . . . . . . ..i
+%.::: H::::::::
+_::::::::::::::::::::::::::~
+2m. . . . . . . ..-_ . . . .._.. _.--.
+--...
+_. ..._-_.-!
+240 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+--------- . . . . . . . . . . .-. :
+2m. . . . . . . . . .-.-- .—-—
+2s0. . . . . . .
+------—-—-------------”--”---”----. . . . . . . . . . .
+.........
+3m. . ..-. ..-. ---- . .. --—----
+
+0.095
+.lm
+.%2
+.882
+.m
+..406
+
+0.001
+.lm
+.3ed
+. im
+
+5
+
+u
+7
+
+0.cm
+
+.142
+
+:i!l
+.!m
+
+. .-. .—
+
+.>-
+
+9
+0.014
+.M4
+. laa
+.160
+. MI
+. 19s
+.207
+.316
+
+:%
+.142
+
+:%
+.170
+.147
+.lm
+.m4
+
+:%
+
+.084
+
+:%
+
+:%
+
+/.
+
+a.-
+
+:%’
+
+. ma
+
+:%
+.4M
+.4M
+.442
+.4b2
+.457
+.462
+.48Q
+.412
+.m7
+.388
+.292
+.242
+;g
+
+..._
+>___ . . +-
+
+:%
+:$
+.4n
+
+.472
+.4ss
+.480
+
+{g
+
+.827
+
+.237
+.344
+.848
+.844
+.884
+.918
+.%l
+.257
+
+. ..-..
+..
+
+:E
+.293
+.Z?8
+.m
+
+1
+!
+
+Ths lower surfsce fs Plsne ond ordfnates s’ken sre the Ofetencesof the upper mrface fib~e tide Lninches.
+-.
+
+.. .
+.+. .-..:
+
+.“~.
+
+24
+
+ANNUAL
+
+;
+.
+
+REPORT NATIONti “ADVISOfi“C”OM?vf-tiTEE Al? ONAUTICS.
+FOR
+R
+orainate8 for L%. #.
++...-.=.
+
+—.
+
+Dtetance from center of span In Inches.
+
+1
+.’
+.—
+
+m.... .... ... . ... .. . .... .. ...- ..... ..... . ... . .. ..J
++
+w.:..
+
+0.118
+:g
+
+.417
+40. . . . . . . . . . . ..-..:::::::2:::::::::::-:::::;
+.::.47.2
+‘50 . . . . . . . . . . . . . . —--_.
+—.._
+. . . . . .. . . . . . . . . . ..511
+60. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .-=-m
+m. . . . . . . . . . . . . . . . . . . . . . . ..-z . . . . .. . . . . . . . . . . . . . . . -= .666
+80. . . . . . . . . . . . . ..- . . ..-- . . ...>-.. -- . . . . ...=>....
+.:.::%
+O&.:..:.: ___ . . . . . . . . . . . . . . .. . . . . . .. --.--—. ..
+.
+. . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . .
+w . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . = ;~
+la . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...
+~~-- . . . . . . . . . . . . . . . . . . . . . . . --------------. . . . . . . .:...641
+MO.. . . . . . . . . . ..-----.
+.
+. . . . . . . . . .. . . . . . . . . ..
+. . ,405
+m . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . .
+.444
+....... ............
+222.. . . . . . . . . . . .—. .—. . . .
+. a84
+240 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+.~7
+.
+230 . . . . . . . . ...-. . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . . . -.
+m . . . ..> . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . . . . .
+X4
+a~ . . . . . . . . . . . . . .._ . . . .._..---..+
+. . . . . ..L . . ---- ---~
+
+Thelowersurfaw
+
+Isplrmeondordhiates
+
+givanarethodfstarxee
+
+:=
+
+.448
+.485
+.614
+.680
+.s62
+.5M
+q
+
+:%
+.480
+.485
+:$
+
+. d47
+.614
+.472
+.422
+
+g
+. 1(UI
+.C&o
+
+.401
+
+..
+..
+
+.50s
+. WI
+:%
+.377
+. a=
+
+.XU
+.2%
+.144
+.072
+
+—oftheuppersurface
+
+Wovetbfelninchce.
+
+CMinate8,foitN
+o.#.
+.. _>. .. .. ... . ..
+Dktmeehmcdwofs,mh~es.
+j
+Chord
+
+.. .
+
+7
+
+ye.::........_._._
+....
+........................ :0.044
+. .. ..... .. .... .. .. ... .... . ... . .... .. ..... . .... .
+.094
+m........-. -....- .....-.-- ....... —-—..... .Ia2
+k
+do: . . . . . . . .._ . . . . . . . . . . . . ...* ..-...,.<..
+. .
+
+. . .
+
+. . . . . .
+
+. . . . . .
+
+. .
+
+. .
+
+.
+
+.
+
+”..-..-..
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+...4..-.
+
+.
+
+.
+
+=
+.
+
+.
+
+.
+
+.
+
+.
+
+.+
+
+60 . .... .. ... ... .... .. ... . . ..a........i... ....... .,. .I96
+..
+.
+.
+
+..%
+
+m................................................. -. .X77
+70. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . .
+-7216
+. .ma
+& . . . . . . . . .._-a__________
+...................... ........................... - .aa
+lM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .-.*.W2
+po............................................ ... ..:%
+................................................ ..
+-;.Z17
+
+lm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ml.. . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+0.042
+
+0:f18J
+
+o.ml
+
+:!%
+
+.lm
+-172
+.180
+.100
+.m4
+.2U
+.246
+.248
+. ale
+.ZM
+.lm
+. Im
+.161
+.lau
+
+. m7
+
+.112
+.136
+.164
+.167
+.176
+. M4
+; ;~
+
+:%
+:s
+.147
+. 1s8
+. KS
+.162
+. led
+; ;6#
+
+. Im
+.184
+. laa
+.170
+.162
+.146
+.lm
+
+.147
+.186
+
+E::::::::::::::. . . . . . . . z:::::::::::::::::::-::
+z:::::: Jab. . . ...>..... -.147
+Mo. . . . . . . . . . . . . . . . .
+. . ..-..
+.
+,122
+- :%
+
+20) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . =(W4
+m... . .. . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . —, . . . . .
+.06s
+.
+. . . . . . . . . . . . .. . . . . . .. ~-....
+. : Ala
+8oo. . . -------, -.
+
+:-#
+
+::
+. a37
+.040
+.Oza
+
+:;
+
+Ordinata.for No. 4
+
+I
+t=
+m. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+lo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . . .
+m . . . . . . . . ..- . . . ..-..-.._---__-–
+. .._ . . ..-._.
+ao. . . . . . . . . ..-_ . . . ..- . . . . . . . . ..- . . . ..- . . . . . ..<..c.
+40. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+60. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . ..-.
+.
+20. -. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+70 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+m . . . . . . . . . . . . . ..-..- . . . . . . . . ...-..----.-.-..~.l
+90. . . . . .. . . . . . . . . . .. . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . .
+.
+100 . . . . . . . . . . . . . . ..-.--....
+. . ..-..-..s..-..--=..
+EO. . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+140 . . . . . . . . . . . . . . . . . . .. . . . —..
+.
+. . . . . . . . .. . . .
+lm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+lm . . . . . . . ---------------------------------------2m. . . . . . . . . . . . . . . . .._ . . .._..A— . . . . ..-_._-._
+m . . . . . . . . . . . . . . . . . ..-- . . . . ..-< . . . . . . . . . . . . . . . . . . .
+240 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .
+.
+W . . . . . . . . . . . . . . . ..-- . . . ..--——--..—k-.
+2%0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+SCO. . . . . . . . . . . . .._ . . . . ---------------------.
+
+9
+0.024
+.049
+.069
+IO&
+.102
+.1(M.
+: F7
+.110
+. Im
+.119
+. m’
+. lfx
+.OW
+.02a
+.Oii
+.Ol?a
+.ot9
+.Wt
+.017
+
+-—
+
+--
+
+“T~
+
+..
+.. .. ; .-.
+-I&
+_ ,.= .;,. ..-=
+
+DIet&ice from canter of epantn tnehes.
+
+Chord St8tiOU.
+
+‘rheIowersurface feplaneandordinates
+
+..
+
+-
+
+statfon.
+
+0
+
+. .
+
+—-
+
+0.107
+
+o
+
+A-L
+
+9
+
+0-070 0.005 “i. 50 0.042
+0
+
+:-145
+..202
+.&46
+278
+..*1
+“.318
+*.C8M
+-,.914
+! Aw.
+!*
+...4W
+=io
+-ala
+Lava
+.=1
+~AW3
+.:1.
+.lal
+-.050
+
+g4wnerethed4stmcer
+
+.184
+. 1E9
+
+%&
+
+.Cs7
+. WI
+.148
+
+“%
+;g
+
+.293
+
+.107
+.lm
+.191
+.m
+.Wa
+.210
+,212
+.210
+.Z)i
+.191
+.175
+.UE3
+.139
+. lla
+.m
+.4M0
+.Cml
+
+::
+
+$-U
+.224
+.827
+.824
+. au
+
+;%
+..aia
+
+.295
+.270
+. 2i2
+.210
+
+,:%
+.282
+.237
+. la
+
+.174 !
+.149
+J&J 1 . J:
+.CUa
+
+.046
+
+.,
+
+.040
+
+0.024
+
+.otE
+.009
+.m.t
+.091
+.loa
+. la
+
+.m
+,117
+.119
+.Im
+.119
+.110
+. 1(LS
+.Oza
+.0s9
+.077
+.Ooa
+.049
+.w
+.017
+
+-
+
+of the upper surhce abme thle In 4nchea.
+
+,.
+
+.,.
+----- ....=--
+
+AERODYNAMIC
+
+25
+
+PROPEETlllSOF THKIK AEROFOII&
+Ordinatse for No. 4.6.
+\
+
+Dfstmcemmleenterll*
+
+o
+a
+5
+—
+—
+.
+..... o.w
+am
+0.073
+
+o................................_. _--_
+
+lo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+:%
+.8M
+.s76
+.40s
+:4?
+
+g:::::::::::::::::;
+::::::::::::
+z:::::::::::::::
+. . . . . . . . . . . .. . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . .
+.5$ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+........ ............. . ..........................
+70. . . . . . . . . . . . .. . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .
+m. . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . .
+90 . . . . . . . ..- . . . ..-.. -.- . . . . . . . . . . . ..____
+.
+.. ...
+l& . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . .. . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . -------------------...
+
+:%
+
+:%
+.42s
+.433
+.487
+.432
+
+.844
+.87s
+
+%
+.477
+.472
+
+;%:::::::::::::::::::::::::::::::::::::::::::::
+la . . . . . . . . . . . . . . . . . . .. . . . . . . . . . .. . . . . . . . . . . . . . . . .
+m . . . . . . . . . . . . . .. . . .. . . . . . . . . . . . . . . . . . . . . . . . . . .. . .
+2m. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.io . . . . .. . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . .
+.
+260 . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+
+:g
+
+%::::::::::::::::::::::::::::::::::::::::::::::
+
+.06s
+
+Thelowrmrfrbceis plsnesndrdhmtes
+
+:%
+;g
+
+:E
+.:&
+.X3
+
+.3M
+
+:%
+.U3
+.On
+
+gfmnarethedstsnces
+
+t
+
+O.cma
+. 10s
+
+9
+
+o:~
+
+:Z
+.206
+.223
+
+. ala
+:E
+.a66
+.s6s
+.347
+
+:%
+.W
+. ma
+. 10s
+:1#
+
+:5
+.254
+.2s9
+.Xa
+.259
+
+:%
+XI
+.Ws
+.m
+.2$s
+. Ifu
+.MO
+.108
+.m
+
+.119
+.lxl
+.U9
+.116
+. KS
+.OW
+.IWa
+
+:E
+. a17
+.lM
+. 16s
+
+:%
+. CM9
+.(W
+.017
+
+:%’
+.074
+.Cm
+
+No. 60.
+
+Dletence from eater ofspsn fnehes.
+In
+
+I
+
+Chord station.
+
+.150
+.au
+;Z&3
+
+7
+
+oftheuppersurfsce fbovetldefnfnck.
+
+Ordinatss of underwfew
+
+I
+
+m
+
+spsnhltnohee.
+
+Ohord etstlon.
+
+I
+
+o
+
+0. .. . . .. ... . .-. ..----- .. .. .. . .. .. .... . .. . .. .. .
+
+O.col
+.023
+
+lo . . . . . ..- . . . . . . . --------------------------------m .. . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+80. . . . . . . ..-.. -..- . . . . . . . . ..-.. -.._.
+_..-..~;...:..:-------------------------------------... .. ....... ..... ..... .....................
+60. . . . . . .._ . . . ..-._..—__
+. .. . . . . . . . . . . . . . .
+70. . . . . -------------------------------El).. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+so . . . . . . . . . . . . . . . . . . . . . . ..-. .—--- . . . . . . . . . . -----loo. . . . . . . . . . . .._. _... _______________
+M . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+140 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+lm . . . . . . . . . . . . . . . . . . . . ..-. -.-. - . . . . . -------------MO. . . . . . . . . . -----------------..................
+m . . . . . . . . . . . . . . . . ..--. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+zz3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2-to . . . . . . . . . . . . . . . ..-_. . . . . . . . . . . . . . . . . . . . . . . .
+.
+w . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . .
+280 . . . . . . . . . . . . . . . . . ..- . . . . ..-. --.. -... -......
+&lo. . . . . . . . . . . . . . . . ..--_-_
+. . . ..-.
+__.-__...
+
+:%
+. U74
+.Om
+. ml
+. KS
+.116
+:g
+.lal
+.118
+.UO
+.100
+:%
+.Wis
+;%
+.030
+
+8’
+
+0.m
+ii%
+
+.05a
+.0E4
+.079
+.C&7
+
+%J
+.loa
+.106
+. lCG
+A-&’
+.078
+.Ckx
+.(IW
+%
+.m
+
+719
+
+5
+
+0.cm
+.am
+
+O.OM
+.016
+
+o.Om
+
+.OcQ
+
+.016
+.026
+.azs
+.636
+.039
+
+.Wa
+.KU
+.Mo
+.028
+.014
+.Ooo
+
+:E
+.m
+.m
+.m
+
+:%
+.Ca9
+;%
+
+;Kj
+
+:E
+.MY1
+.aYI
+.m
+
+:%
+.047
+.04s
+. CM7
+
+:E
+. 0s1
+.CE12
+.LW9
+.075
+.W
+.W1
+.0&5
+.W
+
+:%!
+
+.(m
+.016
+.om
+.am
+
+;!
+:E
+.fm
+.030
+
+Itneupperm.rfeeessmersNo.46.
+
+Ordfnstmbelowehord
+
+Ordinota for No. 61.
+DfsteJIcEIfromcenterofspsnfn
+fnehez
+
+Ohord station.
+
+0
+
+o. .... .. .. .. .. -----------lo. ... .. .. .. .. .. .... .. .... .
+a.... . . . . . ..-. -- . . . . . ..-
+
+30. . . . . . . . . . . . . . . . . . . . . . . . . .
+40...-
+
+. . ..-.--...-.—----
+
+ea. . . . . . . . . . . . . ..-..
+M.-...--
+
+-----
+
+. . . . --------------
+
+70.. - . . . . . . -------------m . . . ..-. ..-. .------- .. --—.
+~ . . . . . . . . ----------------. ........................
+
+Ohord StStIon.
+
+I
+
+.105
+.273
+.832
+.876
+,406
+.430
+
+:4?
+.47a
+.477
+
+Stratght lfnebetwwn
+
+9
+
+Q
+
+1
+0.09s
+
+Dfstnmefmmcau
+Wotspsnfn
+fwha
+
+o:~
+
+:%
+.W
+.102.
+.103
+.113
+. U?
+.119
+.ln
+
+lam . . . . . . . . . . . . . . . . . . . . . . . . .
+14s) . . . . . . . . . . . ..-. -.-. . . . . .
+.
+Ire--------------------------
+
+z:::::::::::::::::::::~:.-:
+..... .................
+. . . . . . . . . . . . . . . . . . .. . . . . m . . . . . . . . . . . . . . ----------
+
+$%::::::::::::::::::::::::
+
+center ssotkmsndtfp.
+
+Undwsurkee flat.
+
+0.472
+.45s
+:$
+.X5
+.2s2
+:%
+.C8s
+
+0.m
+.m
+.m
+.C69
+.cw
+.077
+.cm
+.049
+.034
+.017
+
+-.
+
+26
+
+ANNUAL
+
+REPORT NATIONAL ADVISORY COMMITTEE
+
+FOB
+
+(%-dinatesfor No. 6A
+
+I
+
+Distanoe from center of span In fnches.
+
+I
+
+..
+
+Cbrd station.
+
+7
+
+6
+L
+
+o. ... ... .. .. ... .. .. . .... .. .... .. .. .. .. .. ... . ... . ...
+
+O.oaii
+
+O:g
+
+.lw
+E:::::::::::::::::::::::::::::::::::::::::::::::::
+W . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+:E
+.m
+$:::::::::::::::::::::::::::::::::::::::::::::::::
+................................................. .4W
+
+0.W4
+.049
+
+1
+
+70. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .
+80. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+90. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+lm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+lm . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . .. . . . . . . . .
+
+. lm
+
+.Ma
+.4772
+.471
+.472
+A&
+
+g
+
+.164
+.Lws
+
+The Iower sorfacafa plane and the ordfnata gfven are w
+
+.118
+.117
+.119
+.UM
+.119
+.116
+.109
+.Wa
+
+:%
+.lm
+.170
+.160
+.140
+.lal
+.100
+.07s
+.0s3
+.CQ7
+
+.334
+
+..
+
+.au
+.C?M
+.m
+. K@
+
+.161
+.170
+.178
+.lM
+.187
+
+:%
+
+&::::::::::::::::::::::::::::::::::::::::::::::
+. . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+m
+m::: --.. -"--" --"".""------------------------------Mo...:::::::::::::::::::::::::::::::::::::::::::::
+ml. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+‘&o
+3m:::::::::::::::::::::::::::::::::::::::::::::::
+
+.OeP
+
+:%
+
+.
+
+:%?
+.fEa
+.C49
+.034
+.017
+
+Wtancm above this fn Inek-w,
+
+Ordinata undmtqfaw for No. M.
+for
+
+,-
+
+-,
+cam
+
+6tatfon.
+
+DlstsmwIran cmtmofsprlnfn
+inch’ae.
+
+!6::;
+:::;:;::::::::;::;;;;;;0.Om
+m. .........................
+:%!
+90. . . . . . . . . . . . . . . . . . . . . . . . . .
+40 . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+I
+
+m..........................
+
+Ml .- . . . . . . ..- . . . . . . . . . . . . ...’
+143.. . . . . . . . . . . . . . . . . . . . . . . .
+.
+
+.0e4
+.074
+.Cml
+. ml
+
+M::::::::::::::::::::::::::
+km. . . . . . . . . . . . . . . . . . . . . . . . . .
+ml . . . . . . . . . . . . . . . . . . . . . . . . . .
+MO. . . . . . . . . . . . . . . . . . . . . . . . . .
+.%33 . . . . . . . . . . . . . . . . . . . . . . . .
+..
+m . . . . . . . .. . . . . . . . . . . . . . . . . .
+SJm. . . . . . . . . . . . . . . . . . . . . . . . .
+.
+
+E;::;:::::::::::;;:::;;::: :%
+:
+R::::::::::::::::::::::::: .&a
+103. . . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+
+Upper surfom the snme w No. 61.
+
+0
+
+-.
+
+x
+
+—,.
+
+.-—
+
+telofspanfu
+fnchfa%
+
+; Cared StMon.
+,,
+
+....
+
+!3.
+
+Dlstmmfrom C~-
+
+o
+
+9
+
+“.. 0.121
+. lla
+.Ilo
+.l!xl
+.Wi
+.078
+.W
+.040
+.Om
+.Ooo
+
+0. Om
+
+:$%
+.m
+
+,
+
+:%
+
+M
+.Ofm
+.Ooo
+
+-.
+

@@ -1,0 +1,1849 @@
+.,
+
+-.-:' -
+
+-
+
+:-. '.'
+
+':
+
+.......
+
+tret .
+
+:~ ~!>
+. f~:
+
+:.<; :
+
+I
+1
+
+. :'1
+
+DEVELOPMENT OF AIR SPEED NOZZLES
+4
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+/
+
+PREPRINT FROM FOURTH ANNUAL REPORT
+Reproduced by
+
+NATIONAL TECHNICAL
+INFORMATION SERVICE
+U 5 Department of Commerce
+
+Springfield VA 22151
+
+ADDRESSED
+
+Government Prlntlnll Office
+1919
+
+2·
+
+11
+
+4~
+
+: : : :@
+
+'"
+
+~
+
+>-
+
+NOT
+
+ICE
+
+M THE
+THIS DOC UME NT HAS BEE N REP ROD UCE D FRO
+BES T COp y FUR NISH ED US BY THE SPO NSO RING
+AGE NCY .
+
+ALT HOU GH IT IS REC OGN IZED THA T CER -
+
+TAIN POR TION S ARE ILLE GIB LE,
+
+IT IS BEIN G RE-
+
+LE
+LEA SED IN THE INTE RES 'r OF MAK ING AVA ILAB
+AS MUC H INFO RMA TION AS POS SIBL E.
+
+REPORT No. 31
+
+DEVELOPMENT OF AIR SPEED NOZZLES
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FOURTH ANNUAL REPORT
+
+Washington
+
+Government Printing Office
+1919
+
+I
+
+REPORT No. 31
+DEVELOPMENT OF AIR SPEED NOZZLES
+BY
+
+A. F. Zahm
+BUREAU OF CONSTRUCTION AND REPAlR
+NAVY DEPARTMENT
+
+Preceding page blank
+
+REPORT No. 31.
+DEVELOPMENT OF AIR SPEED NOZZLES.
+By A. F .
+
+ZAHM .
+
+CONTENTS.
+Pitot;venturi nozzle No.1:
+General features.
+Theory .
+Design data.
+Manufacture.
+Calibration for head-on velocity.
+Calibration for pitch and yaw.
+Te t for waterproofness.
+Resistance and absorbed power.
+
+Miscellaneous air-speed nozzles:
+Gooseneck nozzle No.1.
+The Foxboro pitot-venturi.
+Small-size nozzle of No.1 type.
+Small Badin single-throat venturi.
+A waterproof pi tot.
+A high-suction ventmi.
+Double-throat air-speed nozzl es.
+Badin double venturi.
+Hooded doubl e p itot-venturi .
+PREFACE.
+
+The work here outlined was done to levelop a suitable speed nozzle for the fll'St few
+thousand airplane made by the United State during the recent war in Europe, and to furni h
+a basis for more mature instruments in the future. Forty thousand of these nozzles were
+ordered by the Government, and 12,000 were made before the cessation of hos tilitie .
+The preliminary experiments were made by Me sr . L. Ofenstein and William H. Gornal ;
+the later ones by Messrs. L. H. Crook, G. J. Chaillet, and R. H. Smith; the illustrations were
+al'r.a nged by Messr . L. Thoms and S. S. Rathbun; all aeronautical a sistants in the Construct ion Department, Washington Navy Yard.
+The manuiacture and inspec tion of the first nozzles for the Government were upervised ,
+respectively, by Naval Constru ctor William McEntee, U. S. N., for the r avy, and Maj. C. E.
+Mendenhall, R. C. A . S., for th e Army. Their tests supplied some of the tables here given for
+the performance, in laboratory and field , of the final s tandard nozzles joined to adequate
+pressure gauges.
+R equirements.-To provide a suitable pre sure collector for aircraft speed meters an effort
+wa made, early in 1917, to develop a speed nozzle which should be waterproof, powerful ,
+unaffected by slight pitch and yaw, rugged and ea y to manufacture, and l.miform in structure
+and reading, so as not to r equire individual calibr ation. Existing nozzles had not all these
+properties. Some exerted feeble pre sure, others were low and costly to make, and none were
+waterpr oof. For example the nozzles shown in Figures 1 and 2. though valuable under favo r~
+able conditions, are neither waterproof nor powerful ill action.
+PITOT-VENTURI NOZZLE No.1.
+
+Oeneral jeatures.-Figures 3 and 4 give the outward appearance and structural detailR
+of nozzle No.1, made in the spring of 1917. A single casting, fixed by it flange to a strut,
+comprises two laterally-downward sloping ducts, one terminating in a mall pitot elbow, the
+other ending transversely in the till'oat of a do-able-eone venturi tube. In normal working,
+the air blows straight into the pitot mouth, generating therein fu ll impact pressure; also it
+5
+
+Preceding page blank
+
+6
+
+ANNUAL RE P ORT NATIONAL ADVISORY COMMITTEE FO R AERONAUT ICS.
+
+blows s traight through the venturi, generating in its thro at a sucti on m any times as intense as
+said impact pressure. The pressure and suction are transmitted through their r espective
+ducts to the two nipples at the strut, and thence through tubing to a differ ential pressure
+gauge on the pilot's instrument board. The gauge is so graduated as to give tlJ e true speed
+through air a t normal density .
+Theory. - The gauge of a pitot-venturi is actua ted by the differ ence of the pressures at the
+pitot mouth and the venturi throat . The first pressure increases indefini tely with the speed ;
+the second decr eases at first nearly as the square of the speed, then somewhat asymptotically
+toward zero. An adequate theory should give true mathematical expression t o those pressures.'
+For all speeds the total pressure in the pitot mouth may be written , for adiabatic compression ,
+
+p = p (1 +(-Y - 1) P VZ) 'Y:l
+O
+o
+2 l' Po
+
+(1)
+
+in which po, v, P ah the pressure, speed, and density in the unchecked stream, and
+o,
+F rom this the " full impact " pressure at any speed is
+
+p - po= poV 2/2 +
+
+l' =
+
+1.405 .
+(2)
+
+in which the terms after P VZ/2 are, to within 1 per cen t accuracy, negligible for all speeds below
+o
+155 miles an hour. T able I shows this. For the presen t experimen ts Po is taken as the air
+density a t 30" mer cury, 70 ° F., and 70 per cent humidity; i. e. , 0.07465 Ibs. cu. ft. , this being
+th e st and ard used prior to 1919. In T able I the n ew st andard density is used.
+TAB L E
+
+I.-Pressure oj air on coming to restjrom various speeds, computedjromjo7'mula.'
+Barom etric p lus im pact p ressur e in
+megadyneslsq. cm.
+
+Air speed in
+
+in meters
+per sec.
+
+0
+10
+20
+
+30
+40
+
+50
+
+60
+70
+90
+100
+200
+300
+400
+
+500
+
+Ineompre..sible
+P~ l +POVl
+2
+1. 00000o
+1. 000612
+1. 002446
+1. oo55Q.1
+1. 009784
+1. 015288
+1.02201-1
+I. 029964
+1. 039 136
+I. 049532
+1.061150
+1.244600
+1. 550350
+1. 978400
+2. 528750
+
+Imp ac t pressu r e in mm. of water.
+I me!,'adynelsq. cm.- I0206.72 mm.
+of water.
+Percentage
+dilIerence.
+
+I
+
+Adiabatic
+p= (1 +.00000176361V')""
+
+Incompressible .
+
+1. 00000o
+
+0.00
+6.25
+24.97
+56.18
+99.86
+156. O~
+224.69
+305.83
+399. 45
+505.56
+624. 14
+2,496.56
+5,617.27
+9,96.25
+15,603. 52
+
+1. 0006 12
+1. 002448
+
+1. 005514
+1. 009817
+1. 015369
+1. 02218.5
+1. 030282
+1. 039680
+1. 0SQ.l06
+1. 062486
+1. 266600
+1. 666557
+2. 367319
+3.548021
+
+Adiabatic.
+
+0.00
+6. 25
+24.99
+56. 2
+100.20
+156.87
+226.44
+309.0
+405.00
+51'1. 48
+637.7
+2, 721.11
+6,803.36
+13,955.84
+26,006. 94
+
+0.00
+0. 00
+0.08
+0.18
+0.34
+0. 53
+0.7
+1. 07
+1. 39
+I. 76
+2. 18
+9.00
+21. 11
+39.75
+66.67
+
+('Y_ l )PoV' ) 'Yi'Y- l
+'p=p, ( 1 +~
+~ (1+00000176361V')""
+p,= I m egadynelsq. em .
+po~ 00 1223 gm. /eu. em.
+'Y= l AOS
+V = meters/second.
+1 megaelyne/sq.em .= 10206. 72mm. of water.
+g=9 0.6 dynes
+t= 15° C. water temperature .
+
+A true theory of the venturi part should trea t of both the outer and inner flow along the
+tub e. For the outer flow no ma thematical expression is available, and none is here attempted ;
+for the inner flow ther e is an orthodox theory based on BernouiUi's equation and the principle
+, The pitot anel venturi tubes have al1 extensive literature. A sul!icient aceount of thcir history and orthodox "internal " theory, but not.hing
+of theu' "external " theory is gi\'en il1 r eport No.2 of tbe ationa l Advisory Com m ittee for Aeronaut ics.
+
+FIG.
+
+1 . - BRITISH
+
+STANDARD
+
+PITOT-STATIC AIR SPEED NOZZLE .
+
+-
+
+FIG. 2.- 0GILVIE
+
+\
+
+.. -..
+
+•
+
+PITOT - STATIC AIR SPEED NOZZLE .
+
+r
+
+FIG. 3.-S ANO-CAST ALUMINUM PITOT -V ENTURI NOZZLE NO. 1.
+
+)
+
+DEVELOPM E N T OF AIR SPEED NOZZLES .
+
+...
+
+<_ _
+
+.......
+
+O'.~ _
+
+.......
+
+W 4_ _ "'-"''(... .
+
+A .. ", 1!l 1"
+
+~-----------------------
+
+,i
+
+---------------------4
+
+FIG . 4.-WORK I NG PLANS FOR PITOT - VENTURI N O Z ZL E N O. 1.
+
+II
+
+F I G . 5.-S UCTIO N INCRE ASE W I TH LENGTHENING OF REAR VENTURI CONE.
+
+Re produced from
+bes t a vai la b le co p y.
+
+8
+•
+
+ANNUAL REPORT NATIONAL ADVI ORY COMMITTEE FOR AERONAUTICS.
+
+of continuity. It teaches that, for all airplane speeds for which the air com pre sion is negligible,
+the mean 'velocity through the tube varies inversely as the cross- ectional ar ea; also that the
+ehange of pressure along a stream line is proportional to the change of the velocity square.
+This theory may be valid for the flow entirely within a suitably designed tube, but indicates
+nothing a to the speed of entry or pres ure of exit of the air. It is obvious that the speed of
+entry at the front cone depends on the suction outside the base of the rear cone.
+Design data.-To employ experiment in lieu of theory, a short venturi of u ual in ide proportions, as shown from a to b in Figure 5, Was taken as a tUFting btL_c. This was lengthened
+by inserting in its rear a paper cont) which could be shortened by clipping off successive egments. The Te ulting curve given in the diagram ~bows that the suction steadily increased
+with length of cone up to an elongation of 3 inches, after which the gain was imma terial. '1 his
+3-inch extension Was adopted in the fmi hed design. Th e base of the cone wa now flared
+t.rumpetwise by adding wax and thus acquired 10 per cent greater suction. The front cone
+was not improved but rather injured by lengthening or flanging. '1'able II portrays the los
+of suction a the front cone is lengthened ; also the gain as the r eal' cone is leng thened.
+Having thus found suitable main climen ions for the tube, some attent.ion was given to
+the throat and side duct leading therefrom. A cylindrical throat all acro s the duct gt.ve
+mu ch less suction than one extending aft only half acros the duct. A large duct g!1ve slightly
+Ie suction than a small one, but had the adv~"ntage of being waterproof. This waterproofness
+is illustrated by Table III, presenting experimental data whieh ahow the pre sure required to
+burst clean water films from the ends of brass tubes of yarious size '.
+TABI,E
+
+n .-Suction in throat oJventU1i-pitot No.1 ,jor various lengths ojJront and rear cones, at 40 miles an hour.
+Len~lh
+
+SucLion
+
+of cone
+
+jn inches
+
+In inches.
+
+of water.
+
+Front cone:
+
+1. 00..... . ........
+1. 25..............
+1. 50..............
+1.75..............
+2.00..............
+
+1. 9
+1. 85
+1. 83
+1. 82
+1. 1
+
+5.00..... . ........
+5. 50 . .............
+6. 00..............
+6.50..............
+7.00.. ............
+7.50..............
+.00..............
+
+1. 69
+1.76
+
+Rear cone:
+
+.50..............
+
+9. 00..............
+9.50.. ....... ... ..
+10. 00..............
+
+TAllLE
+
+.'
+
+1.82
+
+1. 87
+1.90
+
+1.93
+1. 935
+1. 9-!
+1. 9:;
+1. 955
+1. 96
+
+IIL - Bursting pressureJor 1wter films on end oj clwn brass tubesl/3i inch thiele.
+DiameLer of tubes, in Ulcbes .
+.1
+
+.2
+
+.3
+
+.4
+
+.5
+
+--- --- - - - - BursLing pressure, inches of waLer . . ..
+
+.510
+
+.206
+
+.140
+
+.02
+
+.061
+
+On this hint tb e duct was made 7/16 inch in diameter, the large t siz' that could be n eatly
+reamed transversely into <1 half-inch throat, anrl the smallest th at would bE' waterproof and
+convenient for die ca ting or sand coring. The ducts were sloped to h ed water that might
+enter from dashing spray . Varying the throat cliameter one-thous<"ndth inch makes a perceptable change in the reading. H ence rlirt in the tlu-oat cau es error, this being greater the
+smaller the bore. A fine screw, inserted through the throat wall oppo ite the duct mouth ,
+could b e used to adjust the intensity of suction by altering Lhe flow in the throat, but tills nevice
+was found unnecessary, as the tubes could be so accurately mad e a to re!1d prac.tically all alike
+without adjustment.
+
+1'- ,<....-
+
+FIG . 5 . -DIE - CAST ALUM INUM
+
+PITOT-VENTURI NOZZLE NO . 1 .
+
+FIG. 7 .- COPPER-DEPOSITED PITOT -V ENTURI NOZZLE NO . 1 .
+
+DEVELOPMENT OF AIR SPEED NOZZLES .
+
+],ianufttcture.- For cbeapness, speed, and accuracy in making tbesc tubes, three processes
+were tried- die casting, copper depo iting, sand casting witb sub equellt reaming. Samples
+so produced and all satisfactory are shown in Figure 3,6, 7. The die castings were to be
+made of aluminum or tin alloy at the rate of four per minute with one die, all true to 1/ 1000
+inch inside, and at a remarkably low cost. But after sending a few good samples the
+manufact.urer canceled his contract, owing to the press of other work and tbe cost of perfec ting :t suitable die. The samples were die cast in two parts, telescoping toget,b er near where
+the single duct joins the venturi. The sancl-ca ·t nozzle is accurately reamed in its venturi
+part and where its duct enters the throat; at the flange end it is t9.pped for nipples, drilled for
+clamp screws, plugged at the outer end of its duct,s. The copper-deposited tube:; were accurate
+without reaming, and had the advantage of resi ting ca water better than the cast tubes,
+which, for lightness, were made of aluminnm. The copper nozzle was made in three parts
+soldered together- a cast flange, the pitot mout.h and duct, the venturi and its duct. The
+pitot and the venturi eaeb was formed by copper plating soft metal cores wbich had been cas t
+in very acc urate teel dies and could easily be melted out of their ('opper coats. '1'h e aluminum
+lJnd the copper nozzle each weighed about 12 ounces, the latter having much thinner walls.
+Smaller sizes were made suhsequently, partly for ligh tne s, partly for lessening the air resistance.
+Rut these could not be cast all in one piel:e. Hence tlle ducts were mad e of nunow-drfiwn
+tubcs joining the venturi and flange as harl been done with the earliest experimental nozzleR
+m ade during this study.
+Oalibration for nead-on velocity.-The nozzle No .1 was calibrated first in the wind t,unnel ,
+then in fin airplane flying over a measured course. In the tunnel the tube to be tested was placed
+beSId e the tandard J avy pitot in a uniform wlI1d held at various fi}{ed speeds. The diiTerential pre sur es in both nozzle were read on alcohol manometers. The true speed was a sumed
+to be given by the standard tube on application of formula (2). The differential pressure
+r eadings of the venturi-pitot were then plotted figainst the computed speed, and used to graduate the gauge of the speed meter. In the field test readings were taken of the speed-meter
+gauge, the all' conditions and Lhe time ovp-r a measured course with and against a lIght breeze.
+The gauge readings were then plotted agamst the airp1ane's speed as computed from the course
+ob ervations. The error made in ignoring the air's compressibility may be judged from Table 1.
+CalIbratIOn data for graduating the pressure gauges of air-speed meters using noz~le J.J o. 1
+are given m Table IV. It wa formed from careful tests, in the 4' by 8' tunnel, of several
+copper and everal aluminum tu be , at all speeds from 30 to 150 nliles an hour. It indicates
+that the pressure dliTerence increa es closely as the square of the speed from 30 to 130 miles an
+hour, after whicb it increase less rapidly, if the Navy standard pitot be true. The standard
+pitot-static nozzle of the United States avy differs slightly from the Britisb ·standard in size
+and sbape, bu t gives the same differen tial pressure a t all speeds from zero to more than 160
+mil es an hour.
+TABLE
+
+IV. - Calibration data/or speed nozzle No.1.
+[Air density- .07465 1bs. cu. ft .]
+DiITcrcn- Component pressures.
+
+AIr speed miles an
+
+h our by Na vy pitot.
+
+30 ..... . .... . . . ... ... .
+40 . . . . . . . . ... . .. . .....
+50 ... . . . . . ... . ... . . ...
+
+t~~r~r~. 1 - - - , - - - - - 1
+inch of
+water.
+2.72
+5.02
+7. 89
+
+(j() .. . . . ... . . ........ . .
+
+144570- 19- l\fo. 31----2
+
+11. 55
+
+70 . . . ... . . ....... . . .. .
+80. ..... ....... .. . ... .
+90 . .. . .. . . .... . ... ... .
+100.. .. . .. .. ... . .... . .
+110. . . . . ..... . .. . ... . .
+120'. . . . ......... .. ...
+130.... . ......... .. . . .
+140... . ... ... . .... ... .
+
+15.80
+20.60
+26.10
+32.25
+39. 10
+46.00
+53. 10
+60.05
+
+Pitot.
+
+Veuturi.
+
+0.43
+0. 7ll
+1.1
+L 70
+2.33
+3. 04
+3.85
+4.75
+5. 75
+6.85
+8. 07
+9.37
+
+-2.29
+- 4. 26
+-6. 7l
+- U 85
+.
+-13.47
+-17. 56
+-22.25
+-27. 50
+-33.35
+-39.15
+-45.03
+-50. 68
+
+10
+
+A~ NU AL
+
+REPOHT
+
+ATWNAL ADVISORY CO?I M ITTEE ICOR AERONA 'TICS.
+
+The reamed aluminum tubes m ad e from sand castings, and unreamed copper-deposited
+tubes , gave, in he wind-tunn el tests at 60 miles an hour, air- peed readings agreeing with the
+s tandard venturi-pi tot to a fraction of 1 k not. This is illu trated , for 20 sample of each kind
+in Table V taken from the r outine in p ection records made at the Wa. hington avy Yard to
+check the insp ection tests at the factory . The few die-ca t amples, though unreamecl, cxhibit
+a like accuracy and about the sam e values. Their calibration line pre en ted in Figure 18 is for
+tubes not yet given tructure inspection.
+'fAbLfo:
+
+V . -Inspection test readings of speed-nozzle No.1 for head-on speed in wind l1lT1ll el.
+ITrue air speed, CO kenols.]
+
+Aluminum noz1.lc
+serial number.
+
+Indi cated
+wind
+sl~~f~
+
+I
+
+Indicated l
+\\ind
+speed in
+knol,.
+
+Copper nozzle serial
+number.
+
+1--------------1-----------19(;9... . ..............
+1970..................
+W7t..................
+In72.... .... .. ........
+197:3..................
+1974...... . ... ........
+1975.. ................
+IHili. .................
+Ion...... ... . .... . . ..
+1978......... .. .......
+IOi9..................
+1980..................
+19 L.................
+19R2.......... . ... ....
+
+190:1..... . ...... ......
+W~I..................
+
+.';9.9
+,'i9.3
+59. 9
+~9.9
+
+5~.9
+
+1794 ..... , . . . . . .. .. .. .
+li95.... ..............
+179'L.................
+1731 ..... _. ....... _...
+179 . . ..•. . .....•... .
+17~9........ ..........
+1800...... ....... .....
+1801 ..... _ . . . . . . .. . . . .
+I 2....... ...... .... .
+180:).... ..............
+1. n4..................
+
+59. 2
+00.2
+59.2
+(~.7
+
+,:"'IH. O
+
+1810............ .....
+
+(:(J ..;
+
+lSI 1............ . .. ..
+1812.. ............. . .
+1 ~ 1 3.... ....... . ....
+
+lil.O
+59. i
+(il. 2
+liO. 2
+09.2
+59.7
+,,9. I
+ii(}.7
+,;9.7
+1\0.2
+fO.O
+1"0.2
+59. 2
+W. n
+SH. 2
+(,1.2
+
+...........
+
+(iO.O·;
+
+59.3
+l:O.4
+01'.9
+5(1. I
+UO.5
+59. Q
+HO.3
+1:0 3
+,i9.9
+li(l. n
+';H.9
+
+IP :) .... _.............
+198U............. . ....
+10X7.. ... .... .........
+19' ..................
+
+.ill.;J
+l:O.1
+
+)Ieon. . .. ..... ...
+
+I ~.i.................
+
+IWU.... .•........ .•..
+1 7 ....... _.........
+1 8........... . .....
+I
+
+59. 9 5
+
+(fl... ..... .... ... ..
+
+_,---
+
+~ I ean.
+
+Wb en a .nozz;le vari s more thau 1 knot from the tru e sprcd it is rejreted. unks" Trtt'st 01' a
+structuru inspevtion shows that the error can he corrected. The fact that, th e mean reading
+for m any tubes vari os less than one-tru th of a knot from the standa.rd illdioates that tho indi,idual variation ' may b e tea t error rathor than tru ctll1'al.
+Tho report of :firld lest;; manifeil t a feLil' ugrermen t b etweeJl the airplane s po d in dil,:ttf,d
+hy the s pec( i meter a nd th at computed from the m ean. p<'ed O\-rf a measured cou )'sr . Tahl Y1
+~ummitl'iz'Os the l't'sulb; of suoh a L
+est m a.liC' at McC' ok Field h~- mcmhpl'::; of (he In 'trun1l'nt
+Di\,ision of the l.;nited Sta.le::; Army . with :1 Xo. 1 nozzll' joill rd to a. Foxboro gauge, The
+rea.dings of (he gauge were corrccted fOl' h:1l'omC'l ric prcsdurc, bu t not for tC'mperatul'o or
+humidity.
+T .\BL E
+
+Vr. - Summary of airp{fme speeds as indicated by Nozzle 1 and Fo:tboro gauge, and computed from time over
+measured coursp.
+
+Date and meter.
+
+~f a~'
+
+I , No. 2(i1........ .... ..
+\I ay 5, -0 . 2GI.............
+May.;, No. 2.i\... ..........
+~I a)' ,No . 720. .. . ........
+lll ay~. :-lo. (ifiQ... ..........
+~[ay 8, ;-.10. 720.. . ..........
+
+llarnlU('ter.
+
+2!l.;;2
+29.02
+2').02
+29.01i
+2!l.03
+2!l.02
+
+(I
+
+Speed in· Same ro,- [. peed
+dir'l led reeted [or 10m hill'
+by ~all!.':p, barom- m~'l~~rrd
+m. p. h.
+etcr.
+cour~e.
+117.
+112
+Ilfi
+
+11.;'
+12:i.3
+121
+
+11~.
+
+11;'.
+
+120
+122
+I~
+
+12
+
+7
+
+11 . 1
+!l(i. '
+
+117.5
+120
+121). .)
+
+129
+
+(laZibrrttion in pitch and ya.w.--A sample of the No.1 nozzle 'was m ounte 1 on t lw side of all
+aIrplane trut. in th e 8' by 8 ' tunnel to find the changc' of inc\ ieatC'd apced cau <'d h y pitching
+and yawing. To produce this cha.nge of in('idence the strut hearing the nozzle was turned
+lightly each way ahout t.he thlOat as center. Th e lrsults arc given in Tahle VII, and how that
+the indicated sp eed ,aries from the true b y les~ tb an 1 utile an hour a the ineiden cc varies
+from 8° to - ° in pitch and from 4° to - Ro in yaw; that. i. oyer a range of 16° in piLch , 12°
+in yaw.
+
+f
+
+I
+
+I
+
+11
+
+DEYELOPME "T OF AIR SPEED NOZZLES .
+TABLE
+
+V II .-I'I1dicated speeds/or various
+
+in~idences
+
+in pitch and yaw/or copper speed nozzle No.1 in a
+70 miles an hour.
+
+windji.~ed
+
+Yaw.
+
+P iLch.
+
+I
+
+Inddcnec.
+
+40 miles 70 miles 40 miles 1 70 milcs
+per hour. PCI' hour. per hoUl'. PCI' hour.
+
+-
+
+-
+
+----·1--------- ---
+
+14· .................. .
+12· ................. ..
+l~o .
+
+....... . ••••.•.•..
+
+G· . ................. ..
+4° .. - ... .. ......... .. .
+2° ..........
+0° . ... -. - . ........... .
+0
+
+••••• 0
+
+••
+
+_
+
+-2° ........ .. _____ .. .
+.................. .
+
+_.,
+
+_0° . . ..... .... . ... _..
+
+41.4
+41.4
+
+408
+~O. (;,;
+40.5
+40.2
+40.1
+40.0
+40. 1
+40.2
+40. ('5
+
+_8° ................. .
+-10· ............... ..
+- 12· ............... ..
+
+40.
+41.15
+
+_1-1° ..... ......... _._
+
+41.0
+
+41.0
+
+71.1
+71.05
+71. 0
+70.R
+70.7
+70.2:)
+70.25
+70.0
+70.2.5
+70.3.5
+70. 50
+70.55
+;0. (j
+70.7
+70.6
+
+40.5
+40. <;
+10.7
+~O. 9
+41. 2
+
+41.0
+-10. (l
+
+40. 0
+'10.1
+~O .
+
+2
+
+40.6
+40. 9
+41. 2
+41.3
+41.4
+
+G9. :;
+
+e9.5
+('9.0
+(;9.7
+
+69.9
+70. 25
+70. 25
+70. 0
+70.05
+70.1
+70.2
+70.4
+70.6
+71. 5
+
+73.0
+
+FIG. B.-RES I STANCE AND ABSORBED POWER FOUND FOR NOZZLES NO.1. LARGE AND SMALL.
+
+at 40 and
+
+12
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERO AUTICS.
+
+T est for waterproofness.- To a cer tain whether in use the tubes would have their sid e duct
+coated wjth a water film, they were first cleaned of oil, then expo ed to a spray of hydrant
+water in the wjnd tU1lnel in an air current of 40 miles an hour. In such tests nozzle No.1
+nevel' dogged; the nozzles of other makes, wjth fine static hole, always clogged by the formation of a film over tbe apertures. Reports from sea test also aifu'm th~Lt in pr acti ce a film never
+forms over the seven-sixteenth-inch duct.
+Resisumce and absorbed power.-Tbe air resistance and horsepower absorhed are given in
+Figure 8 for nozzle No.1 and a sm aller one of similar make to be described presently. These
+m eas urements are to be extended to bigher speeds. They .indicate that tbe resistance increases
+slightiy less than as the square of th e speed; also that the large tube bas r ather m or e than
+twiee the r esiatance of the sm aller. This item is not negligible for sm all airplane of highest
+speed . At 70 miles an hOUT the mall nozzle No.1 absorbs 0.07 horsepower, the large one 0.16.
+MISCELLANEOUS AIRSPEED NOZZLES.
+
+Incidental to the work on No.1, various ot]1er forms of speed nozzle were devc1oped. These
+h an for salient features convenionce or sui tability of pln.cement, or lightness, or minimum
+air resistance, etc.
+Gooseneck nozzle No. 1.-Figures 9 and. 10 illustrate a modifien form of nozzle No. 1
+designed to protrude forward of a wing stru t so as to encounter les disturbed air, have less
+resi tanco, and still have waterproofnes and great suction power. The impact or pitot nozzle is close to the strut and joins the up-pointing pressure nipple at the top of the base
+casting which is Ia hed fast vvith cord. The venturi duct rises vertically from the venturi
+throat, then turns sharply aft some 2 feet, running horizontally through the protruding horn
+of the base ca ting to the down-pointing suction nipple. The pitot reads the same whether
+near to or far befor e the stru t . The venturi, to e cape b lanketing, must be placed with its
+b ase about 2 feet before a 2 by 6 inch strut. The diagram in Figure 10 shows how the venturi
+loses suction as its base approaches the strut nearer than 2 feet.
+The Foxboro venturi-pitot.-Some weeks after the test of the foregoing tube, the F oxboro Co.
+presented for test the gooseneck venturi portrayed in Figure 11. This nozzle has the merit
+of lightness, scant resistance, and ample suction power. It consi t of an ordinary forward
+protruding venturi whose front cone is covered with a thin tube of sligh tly larger' diameter,
+leaving between it and the underlip of the cone a crescent-shaped opening. The under cavity
+r eceives the air inipact and transmits it around the neck of the cone to the small impact pipe
+running thence to the pressure gauge. The suction pipe connects with the venturi throat in
+the usual way. Besides the pos ible film in the venturi duct, two other feature of this nozzle
+are, (1) it is blanketed by the strut; (2) a heavy spray can ea ily cau e a flooding of the duct
+of the pitot part.
+mall-size nozzle No. 1 type.- Figure 12 portrays a nozzle of about half t he linear size of the
+0 .1 , made by the 'ame manufacturer, more especially for the United States .Al'my, and intended
+to have less weight and air re istance. It was made in the latter part of 1918 under the direction
+of Maj. C. E. Mendenhall, R . C. A.
+The venturi is a reamed bronze casting; the supporting
+base is of stamped heet teel ; the remainder is of drawn tubes bent through the base and soldered therein. The ducts, though loping laterally downward, as in nozzle No.1, are not
+waterproof at all airplane speeds, because their lower ends can be clogged wjth a water film,
+not perhap when new and oily, but certainly after aging.
+By trial it was found th at a film over the venturi duct can withstand a steady re ultant
+pressure of 0.44 of an inch of water. Thi is 4 per cent of t he differential pressure reading at
+60 miles an hour, 16 per cent of the reading at 30 miles an hour. A li ke error may be caused
+by a film at the mouth of the small-bore pitot part. The two films will usually con pire, thus
+practically doubling the error due to either . When subjected to a gentle spray of water in
+the wind tunnel at 45 miles an hour this nozzle promptly gave readings false by over 10 per
+cent, due to a film in the venturi duct, and a like error due to a film over the pitot mouth. A
+
+)3-~
+
+FIG. g.- GOOSE NECK
+
+FIG.
+
+PITOT - VENTURI NOZZLE NO . 1 .
+
+11.-FOXBORO PITOT -V ENT U RI.
+
+r---
+
+I
+
+0o
+-
+
+-
+
+j
+
+FIG.
+
+12 .-
+
+FIG.
+
+SMALL - S IZE NO ZZ LE N O.1
+
+TYPE.
+
+13.-COPPER-PRODUCTS CO. NOZZLE NO .1.
+
+I
+
+___
+
+~I
+
+DEVELOPMENT OF AIR SPEED NOZZLES.
+
+13
+
+heavier spray completely filled the pitot duct and its connecting tube, a 'm ishap which in practice would cau e an indefinitely large error. No exact data are at hand to indicate how severe
+the dou ing of the pitot is over rough water or in a rainy s1.7. It must be remembered that
+the impact of a raindrop is 00 times that of the arne volume of tandard air.
+The readings of this instrument, compared with simultaneous readings of the larger nozzle
+o. 1, are given in Table VIII, and indicato that for all speeds from 60 to 130 miles an hour a
+common gauge can be made for the two nozzles that shall indicate the same speed to within
+less than 1 mile an hour. The two differential pre me columns in Table VIII were .obtained
+
+FIG. IO.-EFFECT OF STRUT IN REAR OF VENTURI TUBE.
+
+by two different experimenters in different tunnel with different measuring instruments.
+The nozzles will be te ted together in the same tunnel t.lu-ough a greater range of speed
+TA.BY,E
+
+VIII. - Di./fe;·ential pressures at various speeds in Nozzle No.1, large and small types.
+
+Wind tunnel speed,
+byslandard Navy
+Pilot, miles per
+hour.
+
+Differentia l
+pre,sure, inches .
+of water.
+
+Speed difference.
+
+I_~_-;--_ _ I --_~_ _ ,
+
+Nozzle
+No.1,
+large.
+
+Nozzle
+No.1,
+small.
+
+Per cent.
+
+Miles
+
+per
+hour.
+
+1-------1--- --------60....................
+11.55
+70....................
+15.80
+SO....................
+20.60
+90................. . ..
+26.10
+100. . .............. . ..
+32.25
+110...................
+39.10
+120...................
+46. 00
+130...................
+53.10
+140.... .......... .....
+60.05
+150 ................... ........ ..
+160 ........................... ..
+
+11. 00
+15.20
+20.05
+25. 40
+31. 45
+38.00
+46.25
+53.20
+61.90
+71.10
+SO. 60
+
+2.5
+2.0
+1. 5
+1.0
+1. 2
+1.3
+
+1. 5
+1.4
+1.2
+.9
+1. 2
+1.43
+
+-.7
+
+-.84
+
+- .1
+-1.5
+
+- .13
+-2.10
+
+-c...--
+
+14
+
+AN.r UAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Figure 13 shows a mall-size nozzle of o. 1 type made by the Copper Product Co. A
+tetrapod ca t-brass flange upports the usual copper-deposited pitot and venturi portions, the
+pitot stem being of treamline form and covering the venturi stem, which is a mall round tube.
+Both stems are soldered to the venturi neck and to the bras flang. At 60 miles an hour
+this nozzle reads the same to within a fraction of 1 mile, a the ail' tream varie in pitch and
+yaw through 10° positi e and negative.
+Small F1'ench-type single tMoa,t pitot-Vl'nt1lri .- Figure 14 shows a French pi tot-venturi
+which normally has a cylindrical tube too slightly flared in its real', and which, in the prC'sent
+tudy, wa. flared like that in nozzle No.1, to ascertain the increase of head so obtainable.
+Table IX gives the suction readings for both the original venturi part and the more Hared
+form, and indicates that the lat.tor shape is 50 pel' cent. the more effectivo. Further increase
+of flare did not improve the suction.
+TABLE
+
+lX.-Suctions in inches oj waterjor slightly flared and more flared venturi.
+Conditions of tube.
+Wind speed, miles per
+hour.
+
+I
+,
+
+Slightly
+flared.
+
+More
+flared.
+
+1 - - - - - - - - - -- - 30....................
+
+1. 97
+
+2. 1
+
+35... .. ...............
+40. . . . . . . . . . . . . . . . . . . •
+~.;..... . . ..... •...... .
+SO.............. . . ....
+55....... . ..... . ... . . .
+60....................
+65............... . ....
+
+2.70
+3. 52
+4.45
+.'i.50
+6.65
+7.95
+9.35
+
+4.01
+5.01
+6.65
+1'. 15
+10.00
+12.15
+14.25
+
+The French instrumont was composed of many parts, the stom being a folded brass shoet
+oloered t,o it. uppoJ'ting flange tlnd bolted to a lug on the ventmi, while the latter element
+wa" compo cd of four eparate parts. A similar instrument, developed in thi study, with
+iL body, . tern, and Oange cast in one piece, is !';hoi\l1 in Figure 15, and weigh!,; slightly over
+2 ouner. Its stem was int.ende'd to have a form of minimum r('sistance. Both ill truments
+have detachable front cone , aud both have "Very fine ducts, hence are noL water-proof. Their
+I'eadings approxi mate tho. c of Ilozzle No. l.
+II water-proof pitot.- For il\\·hile there ,,-a some demand, for usc on ,-ery fa t airpL1.l1C' ,
+for a speed nozzle ",ho. C' imywt mouth hould be as u ual, but who e other memh('[" hould
+give the true bn.rometric pn'ssW'e of the undi. turb('d air. To thaI. end a thin-wtLlled Y2 -inch
+cylinder, proyided wit~ the usuitl f(; -inch side duct was suh. tiLuted for the' vcntW'i part of
+speed nozzle No. 1. By coning its rear end inward or out\\-ard, the cylinder could he made to
+gi ve, in the ide du ct, either the true barometric prc sure or a ·onsioC'ru hIe exees or dC'fcc t
+thereof. This new nozzle wa , of CO\11"SO, water-proof.
+A high-suction venturi.- To furnish power for a gyroscope there has becn need for a nozzle
+giving tronger suction than is conveniently attainable with ordinary nozzle' . The 11eeo WiI '
+met by attaching a tiny single-throat ventW'i at each of two opposite tip of a small windm ill
+having hollow 'pokes joined to a hollo v haft, the venturi axe pointing in the direction of
+the relative air velocity. In a vind of 60 miles an hour the uction wa 52 incho ' of water, with
+zero volume delivery, and les a the volume delivery increased. The uction ,,-as, in fact,
+about twice that of a good double-throat flared venturi, and ahout [out" times that of it well
+flarecl single-throat one, as may be inferred from Table IX, X.
+DOUBLE-THROAT AIRSPEED
+
+OZZLE
+
+For slow-speed air-craft a nozzle more powerful than the single-throat venturi seemed
+desirable. It wa thorefore sought to render water-proof t1 double-throat vonturi of known
+design.
+Badin double ventlll'i.- Figures 16 and 17 show a Badin ventW'i of good de. ign, with and
+without flared rear, and without pitot accompaniment. Table X gives it suction readings for
+
+FIG. 14.-· SI N G L E - THROAT PIT O T - VENTURI WITH SMALL FLARE AT REAR.
+
+F IG. 15.-S I NGLE - THROAT PITOT - VEN T URI WITH
+
+LARGE FLARE. AT REAR .
+
+-l
+
+J
+
+I~-+
+
+F IG.
+
+16 .
+
+BADI N DO U B LE - THROAT VENTURI .
+
+FIG . 17.-BADIN D OU BLE -THROAT VENT U RI WITH FLARED E ND .
+
+DEVELOPMENT OF AIR SPEED NOZZLES.
+
+15 ..... 6
+
+both forms at various speeds. The flare increases the reading abo ut 20 per cent, and at 60
+miles an hour makes it 2.8 times the suction alone of nozzle 1 o. 1.
+TABLE
+
+X. - Suction of flared and unflared Badin double venturi, in inches of water.
+Air speed, miles per
+hour.
+
+Original
+B adin
+venturi.
+
+Same
+with
+rear end
+flared.
+
+20 . . . . ..... . •.. . ......
+
+1. 95
+
+2.34
+
+30 . . .. . ... . . . . •.. . . . ..
+35 .. . .... . ... .. ...... .
+40 .. . . . ... ... .. . . . ... .
+
+4.85
+6.80
+9.10
+
+5.70
+8. 75
+
+45 . ... ........... . ... .
+SO • ••• • • •• • •• •••• •••• •
+55 .•... ... . . . .... . .. . .
+
+60 .. . .. .. . .... ... .... .
+65 ... . .•.......•......
+
+70 ... . .... ... . . . ..... .
+
+11.80
+14.90
+
+18.40
+22.30
+26.60
+31.20
+
+11.30
+14. 80
+
+1 .05
+22.15
+
+26.55
+
+32.45
+36.15
+
+Hooded double-throat pitot-vent~L1'i.-To render the Badin speed nozzle waterproof, while still
+retaining much of its suction power, it was transformed into the instrument depicted in Figures
+18 and 19. In principle it now consi ts of an ordinary double-tlu'oat venturi reversed in
+uirection, its smaller end inserted in a dry-air ci tern, its larger end capped with a tee-tube
+which serves both to increase the suction and to shield the venturi from r ain.
+The wind driving into the rectangular slot of the cistern strikes a wire screen and dashplate
+de igned to remove the raindrops; thence pas es upward, then forward through the regular
+venturi ; thence into the tee pipe, where it divides right and left, finally emerging from rectangular lots at the rear thereof. The impact pre ure is collected from a nipple at the top of the
+cist ern, as shown. A tube leading from the tlu'oat of the smaller venturi collects the suction.
+The base of the instrument is provided with lugs for attachment to a pole protruding from the
+car or rigging of a dirigible.
+Figure 19 pre ent the calibration curve of this instrument for all speeds from 20 to 70 miles
+an hour; also that of the standard die-ca t nozzle No.1, for comparison. In both the resultant
+pre sure difference varie directly as the square of the velocity at speeds from 30 to 70 miles an
+hour, the highe t available in the 8' x 8' tunnel.
+Table XI presents the indicated speeds in a 40-mile wind at a).l incidences in pitch and yaw
+from 0° to 10° positive and negative. The yaw column indicates no variation in speed for
+changes of incidence from 0° to 10°; the pitch column indicates an increase of less than onefourth mile per hour as the nose of the instrument is canted up 7° and a decrease of Ie s than
+1 mile per hour as it is canted down 7°. This latter variation is doubtle s due to the blanketing of the rectangular slot of the cistern, aud might be obviated by lowering the slot.
+TABLE
+
+XL - Indicated air speed in pilch and yaw wilh hooded double venturi, wind speed in tunnel 40 mi les per hOUT.
+Anglo of ven t uri axis
+LO wind.
+
+10 ...... . .... . . . .. . .
+8 ... ...•... .. . . ... .
+6 .. .. ... .... . ... .. .
+4 .......... . .. . .. • .
+2 .... .. . . .... . ... . .
+
+-
+
+0 . . . . .. .. . .. . .. . .. .
+2 .... ... . . . . .. .. .. .
+
+-
+
+4 •• ••• • ...•••••• • ••
+6 ................ . .
+
+- 8 .... . . . • ..... . . . ..
+-10 . . .. . . .. ... . ..... .
+
+R ead·
+ings in
+pitch.
+
+R ead·
+ings in
+ya w.
+
+40. 5
+40. 3
+40.15
+40.0
+40.0
+40.0
+39. 8
+39.5
+39. 3
+39.0
+38. 8
+
+40. 0
+'10.0
+40.0
+40. 0
+40. 0
+40.0
+40.0
+40. 0
+40.0
+40.0
+40.0
+
+The tee-cap alone in a 40-mile wind was found to exert a constant suction as it pitches and
+yaws 8° either way from the head-on direction. This in a measure corroborates the re ults
+published by Drs. Finzi and Soldati, in 1902, in their pamphlet "Esperimenti Sulla Dinamica
+dei Fluidi," in which they show that the pressure di tribution over the rear surface of a cylinder
+
+16
+
+ANNUAL REPORT NATIONAL ADVISORY
+
+Ol\1MI.TTEE FOR
+
+AERO~AUTICS-
+
+held squarely acros the wind is constant. They gave no readings, however, for a cylinder held
+oblique to the wind. The present tudy indicates also that the pre SUl'e eli tribution all around
+a cylinder is practically the same when the axis is normal to the wind as when at 0° or 85°
+thereto. This fact wa; noted when using a perforated cylinder as an incidence meter in the
+tunnel to find the wind direction, a suggested by those t.wo experimenter and later tried by
+others_ Table XII gi vcs the pressure distributio;n so found.
+XII.-Air press ure distribution aro und a cylinrler placed aI'Toss a 1L orm air stream . rylinder fi re-eighths i nch
+nlf
+diameter; per/oration i n its side 1 m illimeter in diameter and 6 i nches /rom its end; oir speed 40 mi lfs an hour; air density 0.07465 pound per cubic / oot.
+
+TABLE
+
+I
+I
+
+Kinctic pressureal side hole in inches of nlcohol.
+pec ific gravity of alcohol, 0.829.
+
+Inclination of
+wind to a.xis of
+hole inside of
+c)'linder (dcgrces).
+
+Inclinati on of
+cylinder, )90'
+to wind .
+
+Inclinati on of
+cylinder. (~5'
+to wind ).
+
+Inclination
+I cylinder . . of
+to wjnd
+~80'
+
+\
+
+0
+I
+2
+4
+6
+~
+
+1. 015
+1. 015
+1. 01;;
+l. 000
+.9' . 91\.;
+.93.,
+.89.5
+
+,
+
+I
+
+I I)
+
+.. ,0
+
+12
+11
+IS
+
+. 795
+0/,,)0
+
+20
+22
+24
+26
+
+.6i 5
+.610
+. ;;25
+.4,;0
+
+lti
+
+. :liO
+. 2RO
+
+2~
+
+30
+a,l
+40
+4.=i
+50
+.if)
+
+1;0
+ti:;
+iO
+I;}
+
+'-'l
+~:)
+
+no
+J[H)
+
+110
+120
+1:\0
+110
+),;0
+HiO
+
+170
+1',0
+190
+
+I
+
+.010
+- 200
+-.435
+-.!l00
+60
+- 1.010
+- 1.1 00
+-1. 115
+- 1. 0S0
+- 1. 030
+-.9.;0
+-.92.;
+- . 900
+-.910
+-.920
+-. 93:;
+-.910
+-.960
+-,96,3
+-.975
+-.990
+- . 990
+
+1. 020
+1. 020
+l. 020
+1. 000
+. 9",
+.9d,)
+.93.>
+. 900
+
+1. OL;
+1. 020
+1. 01.1
+
+· ~ I .;
+
+.8;",0
+
+.79,)
+· j.1.;
+· liiO
+.1
+;00
+
+· , 2.;
+
+.4 1.;
+.300
+. 270
+.0:;0
+- .200
+- .43.;
+-.6HO
+.j.~
+
+-1. 010
+- 1. 100
+- 1. 120
+- 1.090
+- 1. 030
+-.960
+-.9·lO
+- . 90;;
+-.910
+-.920
+-. 93"
+- . 94:;
+-.9W
+- .9in
+-.9S0
+-.9~ 0
+
+-.990
+
+1. 000
+
+. 990
+. 9f;5
+. 9:ti
+
+.900
+. RO.;
+.7.50
+. 6.5
+.61.;
+..; 10
+. 46:;
+. 3~
+
+. 290
+. 060
+- .1 7.;
+
+-.410
+-.035
+-.82.;
+-.97.;
+- 1. 06.;
+- 1.100
+- 1 OR,
+- 1. 0:10
+-.96.";
+-.920
+-.900
+-.900
+- .910
+-. 930
+- . 9:1.,
+
+I
+
+-.9.~~
+
+- .0::>.;
+
+-.9iO
+- .965
+- . 963
+
+-
+
+A few of these instrument were manufactured and ins talled on motor balloon. Later,
+owing to the cost and difficulty of uniform manufacture, they were di card ed in favor of the
+single-throat peed nozzle o. 1 coupled with a delicate pre ure gauge.
+Oonclusion .- A the purpo c of this study was mcrely to develop a practical waterproof
+speed nozzle for immediate use, a summary of the general properties of such tube, n eel not
+be given, further than has been done incidentally in the text. Such general properties have
+been detailed many times by earlier experimenters. It um ce to noLe that the large- ize
+nozzle o. 1 i waterproof and that it gives true reading at all ordinary angles of incidence
+and at all speeds up to more than 2 mile per minute_ For very swift machines of moderate
+po\yer a nozzle of less resi tance must b e used, even though not waterproof. But with some
+attention to tructural detail it i practicable to make both tube give true speed r<"acling.
+When joined in turn to the same pres ure gauge.
+
+,
+
+FIG.
+
+lB . - HOODED DOUBLE-THROAT
+
+/1- ~
+
+PITOT - VENTURI.
+
+DEVELOPMENT OF AIR SPEED NOZZLES .
+
+17 -+
+
+((
+
+~
+
+fZ
+
+w
+
+>
+
+f-
+
+o
+fa..
+f<{
+
+o
+((
+I
+
+f;"
+w
+
+-'
+<Xl
+
+~
+
+o
+o
+
+o
+w
+o
+
+o
+
+o
+
+I
+
+((
+
+o
+
+u.
+UJ
+
+>
+((
+~
+
+U
+
+Z
+
+o
+f<{
+
+((
+
+<Xl
+
+-'
+
+<{
+
+U
+
+o
+Z
+<{
+
+Z
+<{
+
+-'
+
+a..
+
+I
+
+~
+
+ci
+
+u:
+
+WASHIXG1.'ON : GOVERN ;\lENT PR I NT ING OFFICE: 1Glg
+

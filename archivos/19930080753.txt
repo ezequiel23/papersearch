@@ -1,0 +1,557 @@
+1
+,~
+
+,.
+
+—..—--..,——
+‘
+
+L/
+
+f’*b
+:,.
+,+
+
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS*
+,,, .
+=>..,... .,..,. .
+.....
+. *.
+.
+
+y./, z
+
+CALCULATION OF WING SPARS’.
+.. ... . ,,
+
+% Y
+
+By
+Julius Ratzersdorfer.
+
+Tmn.slat ed from
+,
+1’eitschrif ftirFlugteohnik und Motorluftschiffahrt,”
+Z
+t
+April 30, 1920.
+
+~:=-_=
+
+--=+,=Tr
+
+,r.. .
+... .
+.
+.
+“
+
++?
+
+-...
+
+. . .
+
+.
+
+--
+
+-
+
+----
+
+..——+
+
+-
+
+..
+
+--Au
+gust,.
+
+1921.
+
+..
+
+.,-
+
+.
+
+4
+t“
+‘,]
+,..L
+>
+
+4
+
+.$$
+
+—-..—
+
+I Illllllllllmnlmlimllllllllllllllll
+1
+31176014399936 i
+
+.
+
+,
+
+,.-.,!.!
+
+.
+
+QLCULATION “OF?ING SPARS.*
+By
+Julius Ratzersdorfer.
+
+,.
+. .
+
+...’.’
+
+.’,
+
+,.
+
+--I
+n-the-Octobet-”15;-’1919~~~&T~~&T of-’~IZ&it”SOh~ift Fl~$&r
+
+technik und MOtorluftschiff~rt,!l M+. Mfiller-Breelau
+published,
+in connection with an emlier
+
+article” himself and previous
+by
+
+articles by Mr. Pr~ll, a sim--lified
+method
+
+f@
+
+the approxtiate
+
+determinatim of flexures and the maxcimum bav moments:for a
+one..,
+.-bay
+
+spar over an opening.
+
+In the l~Osterr.
+Flugzeitkchriftw (May-June, 1919), I gave a
+general method for calculating wing spars. The spar passes over
+as many openings ~
+
+desired (corresponaing to practical experiThe
+
+ence) bringing various longitudinal.
+stresses into play.**
+calculation has now be=
+
+simplified, so that the exact method can
+
+be carried out more quickly-and clearly
+OCL
+
+than the approximate meth-
+
+1 will demonstrate this for the special case taken up by
+
+Mr.,Pr811, and, in the October number, by Mr. M;ller-Breslau.
+The spar lies over an opening s
+axid.ly by
+
+S
+
+and is uniformly loaded transversely with
+
+unit of len@h.
+MB.
+
+(Fig. 1) and is compressed
+g
+
+per
+
+The static moments are designated by
+
+‘A ‘d
+a longitudinal stress is present in the opening,
+
+Since mly
+
+the fundamental assumption of my treatise on the direction of the
+*.
+
+Taken from “Zeitschrift fur Flugtechnik und Motorluftschif
+fahrt,llpril 30, 1920, p.lC)2.
+A
+,,.,, See furthex: .Ratzersdorfern)Berechnung
+**
+axial-und gleichf&mig
+querbelaSteter Tr&er, II
+Weitsohzift des Osterr.-Ing. - und
+Arti.-Vereines,t’1919. Full length spars, with any desired
+nudber of openings, subjeoted,to Longitudinal and transverse
+stresses. l’Eisenbaul’
+(Iron Construction~ 1919.
+
+A
+(
+
+——
+
+.
+
+.
+
+. . .
+
+.. .
+
+.. . .
+
+. . . ..-———
+
+.-.—.
+
+-.
+
+,, . ,
+
+,
+
+.,.
+
+,
+
+. , ,, ..,,,. -
+
+,,,.., -.-,,...
+
+,., .--,
+
+J,..
+
+Ik.-
+
+<
+
+.
+I .
+
+.
+-2-”’
+
+longitudinal stress on the division line of two fields is here of
+no consequence.
+. .. ...... .. ..
+
+., ---
+
+. .,
+
+1.
+
+Moments in Polaz Coordinates.
+
+We first calculate the expressions k2 = ~,
+E
+
+2andU=~.
+g-~
+
+is the modulus of elasticity” the spar material, J
+of
+
+the
+
+“K
+SU~--
+
+porting moment of the surface of the cross-section with reference
+to the horizontal weight axis, whereby this is assumed tG be a
+a
+
+principal axis. We then construct the angle
+gk ‘
+
+circle with the center o
+
+gle.
+
+From the end points
+
+ents
+
+MA and ME,
+
+(the pole) at the apex of the an-
+
+and
+
+b
+
+we constxuct the static m~m-
+
+whereby positive outward and negative inward
+
+moments are formed
+the points
+
+a
+
+[Fig. 2) and the
+
+(a a,
+
+al~ b3 and
+
+O
+
+=
+
+I!IA,
+
+bbX=
+
+and the gk?
+
+The ci~cle through
+
+MB).
+
+circ16 inclose the mcment
+
+surfaces. Each moment is here drawn radially to
+
+ag
+O. The bencii
+
+moment in the cross-section of Fig. 1 is given in the polar diagram by the line
+
+xl ~ , which, with
+
+It is evident that the maximum b~~
+
+Oa
+
+forms the =gle
+
+~ .
+
+moment lies on the diemet~r
+
+Oc
+
+q
+
+2.
+
+Fle~re.
+
+At the points of support (Fig. 3) me lay OUt the m~ents
+MA ad
+
+MB
+
+from a horizontal (for i.n~t
+ante, negative upward) and
+
+tonnect the ends of these lines by a lTlosing line.’1 From this
+c
+closing line we trensfozm t-heline of noments, obtained bY the
+polar diagram, into right-angled coordinates, so that the moment
+for the cross-section x
+q,
+1
+r,,,
+, ,
+
+,
+
+,,
+
+..
+
+. ... . ..—.——
+
+is given by
+
+m ~ m=.
+
+—.-—
+
+Then we draw the
+
+- ..- —.——..
+
+..
+
+,.
+--.
+
+,
+.,
+
+-3>,
+
+parabola
+
+~
+
+through the points
+
+A and B,
+
+so that -mmz
+
+de=
+
+,-
+
+.’
+
+notes the moment of flexmre caused,by the transverse loads for
+the llsimple
+girdertl AB
+
+at the point
+
+x-
+
+The line
+
+mzm~
+
+then
+
+,,.
+. .
+
+gives the s-fold value of the flexure in the cross-section x,
+,,
+,-.
+
+the dzawing being to the scale
+
+$ . The unit is obtained direct–
+
+.“ . .
+-t’
+.-. .:.
+
+ly from the unit of moment.
+
+:,
+,.
+
+”
+
+-..
+
+> ..
+
+(Translated from ‘)eitschrift fur Ilugtechnik und Motorluftschif
+Z
+fahrt,”April 30, 1920, ‘byNational Advisory committee for
+Aeronautics,
+)
+
+,-
+
+{’ ,
+
+L‘
+[,
+i..
+t
+i.
+,,
+
+..
+
+;.-.-,’
+. . . .
+[.’,
+
+,
+
+[,
+
+“
+
+:.,
+
+!--,
+
+;.”.
+...
+..
+
+.
+
+1,
+~.,
+~-,
+-,
+:-
+
+;,
+
+.... ;..-;
+,,- ,
+
+-..
+
+..,<.,-...
+
+.
+
+‘T”
+
+“,
+
+.
+,,
+0
+
+J
+
+i
+
+.. ‘
+
+,.
+
+z
+
+G/(2
+.------,
+
+A
+
+“,
+
+a
+
+x,
+i-’
+
+F7’.3.
+
+. .
+
+[
+
+..
+
+1
+
+i
+
+““””-
+
+IIllllllllllllllmmll[lllllnlllllllll
+31176014399936 1
+

@@ -1,0 +1,770 @@
+REPORT No. 27.
+THEORY OF AN AIRPLANE ENCOUNTERING GUSTS, IN.
+q
+
+By Er)wm Bmmm
+
+wnaoN.
+
+The folIowing is an immediate continuation of my two previous papers on & same subject which appeared in these Reports, First Year, pagm 52-75, and Third Year, pages 405-431,
+the latter being a reprint of my contribution to the Procee&gs American Philosophical Society
+(Philadelphia), vohune 56, pages 212-248. In my second paper I pointed out: (1) That the
+study of a guet of the type J& sin pt, tuned both in damping and in period to the natural
+motion of the machine, might be impori%nt; (2) that the solution for this case by Brodetsky
+treated only the particular integral without taking account of the fact that the constanta of
+integration in the complementary function n@ght be such as largely to upset any conclusion
+that such a gust produces violent motions; (3) that a new method for solving linear equations
+had been developed by Bromwich, which was suited to determine the motion for any particular
+gust, when the machine started from equilibrium, without the trouble of determkhg the
+constants of integration in the complementary function.
+I shall now apply Bromtich’s method to the calculation of the tiect of a head-on gust of
+the form u, =J@
+sin pt where n= .0654, p= .187, as in the case of the slow oscillation for
+the C!@& JN2. lkssmuch as the method depends on the use of the theory of functions of a
+complex variable, which is a mathematical subject of prime importance to any aeronautical
+engineer who would have that knowledge of fluid motion which is regarded in high quarters as
+essential, and further inasmuch as neither the theory of functions nor Bromtich’s special
+method is likely to become as fdar
+as they should be to engineers or physicists without
+detailed directions for and exampks of the application of such ways of calculating, I may be
+pardoned for the somewbt lengthy presentation of matters elementary for the pure mathematician.
+Suppose it be required to solve the equation
+(PX
+~+ 2g+
+
+(d+n?c=
+
+(1)
+
+Fe-w 00s (?l$+u)
+
+with the supposition that the damped harmonic force on the right is applied at and from the
+time t= O, and that at t= O the system is at rest in its position of equilibrium, i. e., x= O and
+dx/dt = o.
+Now trigonometric tmms are generally treated by their exponential equivalents, through
+the formulas
+@_&y
+~fv+ @
+Cos y =
+2 silly=
+2
+2{
+‘
+
+The solution of (1) may be obtained by solving the equation obtained by replacing
+cm (nt+ u) by ita value as the sum of two exponential expressions. A method generally better
+is to replace the equation by
+&z
+ax
+(2)
+Fe-@$(*)
+7ji+2u7#+ b’ +?P)Z==
+- F&~(-4W
+and take the real part of the solution since the real part of e{vis cm y.
+a3
+
+—
+
+84
+
+ANNUAL
+
+REPORT NATIONAL ADVISORY COMMITTEE
+
+FOR AERONAUTKYS.
+
+Bromwich states that the solution of (2) subject to the statid conditions is
+
+Feb
+
+q
+
+-Ck+u–k)u-k+u+in)’
+
+and where the integral must be taken around a curve in the complex k-plane sufhciently large
+He
+to include all the points, k = – u–in and A = —v+ in (double), where ~ bmom~ infite.
+furthe; points out that the value obtained for x is none other than the sum of the residues of ~e~~
+by virtue of Cauchy’s theorem.
+Now a residue maybe given a simple definition. Suppose
+
+where $(z) does not vanish when x = a, i. e,, no factor z – a may be canceled out, the fraction is
+in ib lowestterms. The function $(z) may be expanded by Taylor’s theorem about z = a as:
+~(~) =+(a) ++ ’(a)(z–a) +*’’(a)
+
+(z–a)’+
+
+. . . . .
+
+and
+
+where A{= @J(a)/i ! with +(9(a) denoting the ith derivative of @(x) taken for the value r = u.
+The coe%icient A _ which occurs over the factor z – a is called the “residue of ~(z) at z =a.”
+In c~e n=l,
+
+that is, if~(z)=~),
+
+the residue of fat a is +(a).
+
+In case n =2, that is, if j(x) =*,
+
+the residue of j at a is #’(a).
+
+As applied to the case in hand where
+
+the function for the consideration of the value x= –v – in may be written
+f(h) -
+
+FeL@(h – v–in)–’
+A+v+h
+“
+
+by substituting h = - u—in in the numerator;
+and the residue off at x = —V—in is ob~ed
+hence raidue of ~ at —v—in u FeiM&~n)t( —2in)4; and for the consideration of the value
+~= —V+~n,
+f(~) - F@eX~(A
++
+(A+u–in)’
+
+v +~n)-1
+‘
+
+and the residue of j at x = —v+ in is the value for this value of k of the derivative:
+d F&ti
+Z A+v+in=
+
+F&[(X+v+in)t@-tYl,
+(A+v+hy
+
+-.
+
+..
+
+which value is
+residue of ~(x) at —u+in - Fd4~{B)~ (2in.i– 1) (2in)-z.
+
+‘
+~,.
+
+.
+
+. .... . . _
+
+.
+
+85
+
+AIEPLKNE ENCKKJNTI?WNG GUST%
+
+Hence the solution for r in (2) is the sum of tie residues, or
+
+~e–’
+t+
+
+–F
+x-—
+
+&~+ef*(2’int–
+
+[
+
+1
+
+1) “
+
+And the solution for r in (1) is the real part of the above obt~inea by substituting for ei~,e-~fi,
+ei~ their exprwsions in terms of trigonometric functions. !17his
+gives:
+F
+x= ~
+
+-7
+
+nt sin (nt+a) -sin
+
+1
+
+u sin nt ,
+
+the result stated by Bromwich, without giving the steps in detail.
+If it had been required to solve the equation:
+~+2&+(N+n’)
+
+(la)
+
+z= Fe-”sin (n’t+ a),
+
+the only change would have been to take the imaginary part, instead of the real psrt, and
+throw out the factur i=-=.
+Thus,
+z-#
+
+e–ti & [2ht eiw– (ei@– d?]
+
+–F
+=~
+
+rk ef” [2int (00s nt+ i sin 7d)–2i sin n.tl
+
+= –4:, g-~ (WS ~+ i
+c=–4+ ~
+
+(-g~t~os
+
+,gin
+
+U)
+
+[2int cos nt -2nt sin n$-% sin nil
+
+@Sk ~t_2& sin ~ ~os ~#+2 & ~ s~ ~#)+
+
+i (2?atCos Cd n#–2nt sin wsin nt-2
+COB
+
+Sin a sin nt)
+
+n
+:1 d the solution of (3) is
+z=~z
+
+#
+
+[–ntcos
+
+(ni+a) +00s cesinnfJ.
+,
+
+For the head gust the equations to be solved are
+(D –Xu)u-xmw-
+
+(XP
+
++g)en
+
+.-zuu+(&&)w-(Zq+
+
+–Muu–
+
+~
+
+MMw+(&D’–
+
+Xuu,=
+XUJ
+
+D6uZ.U,
+
+=W
+
+M@) 6=- &J@
+
+@
+
+ain pt,
+
+~sin
+
+2%
+
+sin pt.
+
+These are replaced by equations with J&w* instead of Jt@
+for & q, ~ beoome
+(x-XJ
+C–X.q– GQ+g) r-&J/(A+n-pi)
+–Zu~+@–Zu)q–
+(Zq+ ?7)h~=ZgJ/@+n–@)
+
+‘1” @ and the equatiorr
+
+–mug– 3LT?+(7C’JP– q.h) r= MbJ/@+?l-pi).
+Next & q, r are obtained by solution and multiplied by d:. The results are as follows:
+- (.128~8– 1.16N-3.385h.917) J@
+-2~.5ha –3.885X–.917) (~+ 7J-~5 ‘
+~eu- A4– 8 .45!x$
+‘eu-tX4–
+
+– (N.557h- 2.458)JeM
+8.49U-24.5?d-3.385k–
+.$17) (A+n–pi)
+
+~eu=@4-
+
+&A9~~-
+
+– .02851XJe”
+~.5h~–&385X-
+
+.917) (k+?&-@)
+
+‘
+“
+
+The solutions for u, w, 8, respectively, are the sums of the residues of these three expressions
+‘l’he denominator factors (since n= .0654, p=. 187) inti (A+ .0654+ .lS7i) (h+ .0654 .1S7i)a (X–4.18 +2.4%)(X+4.18 –2.43;).
+It is .neoesmry to calculate the residues for each o.
+the following values of k: – 4.18 +2.43 ~ – .0654 – .187;, – .0654 + .187i. The first three correspond to single factors of the denominator and are obtained merely by discarding that faotor
+and substituting the -raluo of kin the rest of the e-xpression; the fourth requires that the double
+factor be dimaxded and that the value of x be substituted in the derivative of what remains.
+
+—
+
+86
+
+&NNUAL
+REPORT NATIONAL ADVISORY COMMITWEE FOR AERONAUTICS.
+
+The whole of the osculation need not be made.
+and down motion which is given by
+z-
+
+s
+
+The interest lies almost entirely in the up
+
+(w-116.58) dt
+
+and for which w and 8 alone need to be determined. One of the advantages of the Bromwich
+method lies precisely in this ability to calculate just those elemente needed.
+We shall begin with 0 and figure the residues of:
+-.02851 M &
+(k+ .0654 + .187i) (k+.0654-.l87~)*
+
+—
+
+(X+4.18 +2.49fl -
+
+For that at h= - 4.18-?-2.43 i calculate
+.02851 (- 4.18 +2.43i) C+la (COS g.dst
+R,==
+(–4.115+2.617i) (-4.115.+2.2430’
+
++i
+
+Sin
+
+2.43t)
+
+(4,86i)
+
+‘
+
+discarding for the moment the factor -J common to all residues. ‘l%e rules for dohg
+with imaginariesby trigonometry are helpful. We need the magnitudes and angles of the
+quantities:
+mag (-4.18 +2.43i)
+-4.834,
+log mag= 0.6843, ang= 149”.83,
+mag (-4.115 +2.617i) =4.875,
+log mag= 0.6879, ang=147’0.s4,
+mag (-4.115 +2243i) -4.792,
+log nmg= 0.6805, ang= 151°.40.
+The angle of the coe&ient in RI is -30”.51; the log mag is 6.4038. Hence
+R,==(.0002183 -.0001283 i) #.’%(cos 2.43t +i. sin 2.43t).
+Of this the imaginary part, rejecting i, is:
+A= ti.’w (.0002183 & 2.43t- .0001283 COs2.436).
+Turn nextto the residue, omitting the factor-J,
+~=
+
+at A==– 4.18 –2.43i, or
+
+.02851 (–4.18-2.43i]
+tile (cm 2.43t–i sin 2.43t).
+(_4.116–2,243~
+(–4.115-A6M)’
+(–4.861)
+
+The angle of the coefficient is 26°.65; the log mag is 6.3964.
+R,= (,00L12226 .0001117i) @’W
++
+
+(COS 2.43t
+
+Hence
+–i
+
+2.4W).
+
+Sin
+
+Of this the imaginary part, neglecting i, is:
+B= &J~(-
+
+.0002226”sill 2.43t+ .0001117 C$S
+
+2.4%).
+
+Adding A and B, the dependence of 6 on the short oscillation is
+-tl/J =d.’~(–
+
+z
+COS
+.04)00043Elill .~t -.00001.66
+
+(3)
+
+2.@).
+
+The effect is very emaU,indeed quite negligible (comparod with (4) below) as might be imagined
+from the smaUresults found for other types of gust in the two previous papers.
+The residue at h = – .0664 – .187i is
+
+%“
+
+,02851(- ,0654– .187i)rm%ms
+.187t–i sin 187t).
+(- .374i)’(4.115 +2.24 3Lj (4.115 –2,i3ii’i)
+
+mag (– .0654 - .187i) =.1981,
+ThGangle of the ooeflicient is 74°.58.
+&E~m4(cm
+
+log mag =9.2969,
+
+The log mag is 7.2377.
+
+.187t-i
+
+ang = 250°.72.
+
+Hence
+
+sin .187t)(.0004596+ ,001666i],
+
+...
+
+—
+
+AIRPLANE ENCOUNTERING
+
+87
+
+GUSTS.
+
+Of this the imaginary part is:
+a=~w’u(–
+
+.0004596 sin .187t+ .001666
+
+COS
+
+.187f).
+
+For –$/J there remains only to caloulata the residue it k = – .0654 + 187i, which is the
+hardmt of all, sinoe this factor is squared. We have to find
+
+ii
+(i+
+[
+
+.02851Ae”
+.0654+ .lS7i) (h+ 4.18 +2.43i) (X+ 4.18 –2.43i)
+
+1
+‘
+
+The derivative of a produot is often calculated most easily by taking the logarithm before
+differentiation. For:
+‘!”~-.~.or~-~(~)$*.
+The derivative of the logarithm of the bracket with respect to x is
+D=~+t–
+AsA=–
+
+1
+
+1
+
+1
+
+X+.0654 +.187i–k+418-t2.43i-k+
+
+4.18-2.43{”
+
+.0654 + .187i we have
+1
+2.243i
+-.065/+ .187i+t- .374i–4.115 +2.61’7i-4.1161
+1
+= – 1.1629–4.766i+ t+ 2.674i– .1731 + .llOli - .1832-.O999i
+= –1.985–l.992i+t
+, ang-226.010
+, log mag-.449l.
+
+D=
+
+-.—
+
+‘
+
+Then D must be multiplied by
+~=.02851(– .0654+ .187i)aW%os
+.187t+i sin .187t) .
+[.374i) (4.115 +2.617i) (4.115–2.2430
+The angle of the coticient
+
+is 15.042; the Iog m% is 6.8106.
+
+[t(.000tw33+ .0001716i) + (– .000S936–. 001583)]
+
+When mtitipfied by D we have
+
+~mu(OOS
+
+.187t+i
+
+SiIl
+
+187t).
+
+..
+
+Taking the imaginary part, we have:
+F= rwu
+
+[t (.0006233 sin .N7t+ .0001716 ~s .187t) + (-.~S936
+
+s~ J87t-.ool583
+
+~s J8701.
+
+– t9fJ= rmU[t(.000623 sin .lS7t+ .000172 00S .lS7t)
++ ( –.001353 sin .187t+ .0000s3 Cos .ls7#)].
+
+(4)
+
+On adding (7 and F the effeot on the long oscillation is
+
+The acouracy, of tours% at this point is not great. The total rwdt for 6 should give L9=0
+dO/dt O when t-O, and it does within the estimated remaining accuracy.
+=
+Although the short oscillation is of importance if the vahms of dw/dtor d$/& are desired,
+it is (es seen above and in previous papers) of vary little use in considering the variable w or o
+at least in foroed motions where tie applied force operates relatively slowly (mild or moderata
+as distinguished from sharp gusts); it is quite insignihant for the path. The above calculations could therefore be abridged somewhat by the devioe mentioned in my seoond paper of a
+partial resolution with partial frsotions:
+I
+(h+ .0654+ .lS7i) (X+4.18+2.433
+The residues to be calculated for –
+
+– .01601X+ .04263.
+.016A+.0S9
+‘(X+4.18 +2.43$ + (A+ .0654 +.187$
+
+OIJare those
+
+.02851M.016X+ .0S9)
+(~+4.18 +2.43~) 0+ .0654 - .187~) ‘d
+
+of
+.02861X(– .01601X+ .04263)
+(X+.0664+ .187{) (k+ .0654– 1$7{)’”
+
+. ..— _
+
+. ..
+
+.
+
+88
+
+ANNUAL
+
+BEPOBT NATIONAL ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+In the tit there is no residue for X= – .0654– .187i and the residue for k= – .0654 +.lS7i is
+negligible compared with that of the second expression for k= – .0654+ .lS7i (which is the easy
+one to calculate). As the residues at h= – 4.18 + 2.43i refer to the short oscillation, they
+need not-be oaloulated, and therefore the only calculations really neceesary for discussing
+the path are those for the residues of the seocmd expression. The work was carried through
+on this basis and checked with that obtained by the complete analysis above to within 2 or 3~o
+On the abbreviated plan just outlined let us calculate the result for – w/J. The rmidues
+are required for
+;
+k’(.557h+2.458) eX’(– .01601~+ .04263)
+(X+ .0654+ .187;) (X+ .0654– .187;)2
+at k= —.0654– .187i and h= – .0654 + .187i.
+
+(.04368+ .002994{] = Poa’u (00S .187t- i
+Of this the imaginary part is
+~= ~Wu(–
+
+Sh
+
+.02375
+
+The fimt is ~
+
+(– .0654-.l37i)’
+
+(2.422 -- .“ 042;)
+
+.187t) (.02375 – .01797i).
+
+Sill
+
+.187t– .01797
+
+COS
+
+.187t).
+
+The second is
+d
+#
+
+‘(.557X+2.458) &’ (- .01601A+ .04263)
+h+ .0654+ .187i
+
+A=
+1-
+
+.0664+ 187i.
+.
+
+Apply logarithmic differentiation as before, and the residue is seen to be the vah~eof the
+bracket mtitiplied by
+;+.567;!~.458+t-
+
+.01601
+1
+–.01601A + .04263‘k + .0664 + .18~z’
+
+or
+2
+.557
+1
+.01601
+T–—.=
+–3.258 –9.532i+t i- 2.6744-!-.2295
+-.0654 + .187i+2.422 - .1042; ‘i – .04368– .002994L .37&
++ .00987i – .3648 – .02506i =t– 3.391 – 6.873i
+The value of the bracket itself, apart from &, is – .006718+ .008884i.
+Hence the r~idue is
+~w(COS
+
+.187t+i
+
+Sk
+
+.187t) [t( - .006718+ .008884i) + (.08385 + .01607{)].
+
+Of this the imaginary part is
+HEUPW[t(-
+
+.006718 sin .187t+ .0160 cos .187t) + (.08385 sin .187t+ .01607 cm .187t)].
+
+Adding Q and H, the reeult for - w/J is
+–w/J_
+
+g-”c~~[t( -.00672
+
+Sill
+
+.187t+ .00888 cos ,187t) + (.0610 Sk .187t- .0019 COS .187t).
+
+The last term should, of course, check out so as to give zero when t =0, but owing to the
+omission of the terms corresponding to the short oscillation the check can not be expected to
+be exact. Moreovar the derivative should aIso vanish, but has the value + .02, This would
+correspond to a tam -w/J= ,005&l*cos 2.43L Now when treating the gust J(l – P9, whioh
+in ita initial eil’cots should not be far different from JPoo6* sin .187t, the term - w/J= p.~a~
+(.004 cos 2.4M– .003 Sh 2.43t), for which the derivative has the value -.024, was actually
+found. Suoh a faihrre to &e& as occurs in the value of –w/J here detartied oan not b-e
+regaxded as anindication of error in the calculation; and an independent calculation checks well
+with the value above given for – w/J.
+The path in spaoe is given by
+z-
+
+~(w+l16.50)d4 -J
+PWg[t( -.062 sin .187t– .029 CM .187t)+ (.096 sin .187t–
+s9
+r .
+.008 COS . 187t)]dt.
+
+..
+
+89
+
+AIRPLANE E1.WIOUNTEEING GUSTS.
+
+To integrate an expr=ion like r% cos M or r% sin M, the simpkst thing is to integrate
+.@ ==te(-”~~, which may be found in integral tabl=, and take real and imaginary parts.
+
+s e;- d &–&
+(
+itrti
+s
+@&+!-
+
+.
+
+ttrti
+
+C03 i% dt =
+
+sin ljtdt =
+
+Then
+
+4
+
+C’
+
+1
+
+(cm U+isirl
+
+t(b sin M-a Cos bt)+(hq
+(#+ &
+[
+–t(a Sin bt+b Cos bt)+(h~)
+~%+~%
+
+bt),
+
+00s bt+2d sin b
+Y
+(a’ + iv)’
+7
+sin bt–2ab 00s M
+
+~, . 1
++T...———
+.
+
+–
+.187t].
+z =JrOaU[t(.34 COS .187i – .03 sin .187t) 1.8 Sill
+
+The values for -z/J are, for t=10, 12, 14, respectively, about 1.4, 1.9, 2.0; and from then
+on the vahm decrwwe. Compare this for – z/J in the case of the periodic gust ~ = J sin .2t,
+where the corresponding values are 1.9, 2.6, 3.0. It is seen that the damped periodic gust is
+decidedly less tiectiva than the undamped gust. This is precisely what I foresaw, and indeed
+what must be admitted a priori unless ~tonishing powera of discrimination are given to the
+machine. A gust J=m~ sin .187t or J sin .2t does not difEer in general character from
+the gust of the form J(I – .rs) or J(l – .r”’t) during the first rise from zero to a maximum—the plot of the intensity is nearly a straight line until the -imum
+is approached and
+the slopes of the lines are nearly equal. The machine is by its inertia an integrating, rather
+than a differentiating device, and should give similar displacements in dl four cmes. The
+damping in the fit case ttmds merely to diminish the effect. The maximum rise in the third
+and fourth types is about – 3.5J, in the second case about – 3J (as is natural since the third and
+fourth gusts persist where the second begins to decrease after about 8 s~onds), and the damped
+gust gives –2J (as is again natural, since the maximum of that gust is only about .6J owing to the
+damping factor). The successive forced oscillations in the csse of the damped gust drop off
+wry rapidly, whereas the straight periodic gust brings a decided resonsnce into play after the
+natural motion subsidm. The conclusion is thst the constants of integration are such as to
+mask the effect of the damped gust in the first quarter period, whereas the damping makes the
+effect small at the subsequent times of maxima.
+DEPAETME.NT OF PEYSICS,
+MASSACHUSETTS INsTrruTE
+
+OF TECHNOLOGY,
+October 16,
+
+1918.
+
+—
+

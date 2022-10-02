@@ -1,0 +1,578 @@
+flL£ ~ ; :
+
+FIL E Copy
+
+NO. I-W
+
+TEC!1IJICAL
+
+I:OT~S.
+
+~\ERO:L\UTICS.
+
+NATIONAL ADV1S0RY COr..1},CTTEE FOP.
+
+CA
+.
+
+~
+
+,\
+
+o . 34
+
+THE 300 H. P . BENZ AI RCRAFT
+
+ENGJN~ .
+
+By
+Dr . A. Hel ler .
+
+Tl"~1I~81~t6d
+1I
+
+Ze i t
+
+sc~r ift
+
+fron:
+
+de s Ve re ine s Deut s c2:l.er
+
+I2'l~enieure, n
+
+By
+P~riG
+
+Offic~ , ~ . P . C . A .
+
+'-
+
+~
+
+To be { {. ed to
+.,
+lite files ot the National
+I
+
+Ja:l:.lary , 192: .
+
+AdvIsory Committee
+tor Aeronautics '
+"ashington, D. C.
+
+NATIONA L ADVISORY COMMITTEE FOR AERONAUTI CS.
+T~CHNI8AL NOT~
+
+~~ O.
+
+-.
+
+3 i..
+
+THU_JO H: P. BENZ A IRCRA l" T E)JG INE .
+
+By
+
+Dr . A. Heller.
+
+" Ze its ~hrif~
+
+T:-anslc:.ted from
+d.e s Vereines Det:tscher Ingenieure,,,-k
+by
+~a ri s
+
+Office) N. A. C.A.
+
+The follo wing des c ri p tion of the Benz la-cylinder engine
+is a final example of the extensive de v elopme nt of ai:rcr 3.ft
+i=;ngine cons"Gruct ion in tbe German Empil' e . During the l ast
+fe. v years> t h e fi:m of BENZ has evcl v e d t hi s t ype of engine
+Nhich vms first designed and conotruc"t ed tow6.rda : he er~d of
+1 914 , but. ,'ihich .vas then teulporarily oet aside f or t ~1e time
+being in favor of the s imple r six-in --line construction because
+of the urge~t need for stand6.r dizing aircraft enbiL~s.
+The l 3."G8 st 3)0 H.P. aircraft engine, wi th its 18 cylinders
+p l a ced a t ~n aLg l e of 50 0 (F i g s. 1 to d) no~ only real!z es a
+long-che rish e d conception wh ic h had bee n amply tested :rolr. a
+constructional point of vie«, bu',j has a lso receiv ed 3'lCh r e finerue::n in de ta il due to the ext;ensi"lT e wo rl~i ng exper:.ence s of
+the last few year s t ha~ it may be described as a perf dct ex ample of modern Gel'man aircre.ft engine constructior:.
+Such
+be ing t he case, a detailed de Ecript ion of 1jns d~ve lo pme nt of
+the constructional }:-oints of the engine may be justifiab l e,
+as g iven below.
+The engi!:.e has 13 cyl inders of 135 mrr.. bore and 1 50 rom .
+stroke . Eac h pai r of cylinders serv e s or-e of th a cra~k- p i~s
+of the six-"G h ro" shaft and th e engine normally p;.'oduc3s 3 JJ
+H.P. on 'che ground, at 1800 :c.p . ro . with tne carbu re~') r at f'J..ll
+thr ottl e - vvh i ch i s only p ossibl e temporarily; and und.:; r th e
+same conditions a ~ 8000 r.p.m ., the engine deve lop s 400 H. P .
+The engine is a so- calleci "a!titude" eng ine, its decrease
+of power ~ it h diminis~ing air d ensity be ing comp ~n sat e d by
+over-dimensioning the cylinders and over-comp ressing up to a
+c d rtain altitude . A normal p ropeller is dri ven by rr.eans of
+
+* Anml.::il Volume 1930
+
+I
+
+p . 35 .
+
+- 2 -
+
+a rotary reduct ion geo.r lo·. m~ec. on the crank-case, t he gear
+ratio 'oeing 29: 13. Its ·r.eigl·~ t ,vil:;hout ',' later, oil cI:3.rge, prope l::"e r boss, i g~i t i on !Ylc..bnc -:o and the engi!1e ex hau st m:::.ni f o~. .::.::: ::' 8 about 430 kg .,
+;h ich wO·.lld. be a.bo·ut 1. 4 3 kg!HP as
+r e:at::'78 to nor~al power on the ground.
+T~e construct i on of th e cylinde rs (see Figs. ~ & 8) J
+wni..ch are int e rchangeable and ar8 set comparatively de ep in
+tne c ra:lkcase in order to dim:.niah the -.;v
+idth of the engine is
+es~)ec i a2.1y charac·terized by tr.e us e of inner cylinders made of
+f.o~ged steel and screwed into a cast-iron cylinder he3.d (Figs .
+7, 9 8:: 10). 'I'o prevent tr.e pos sibl e penetra-r.ion of cooling
+wat e r into th e combustion -chamber at the screwed connection
+of these two parts, the top rin of the steel cylincier liner is
+jammed into a groove in the cylinder-he a d Nh~n scre~ed down,
+the cylinder head beinES bent slightly outwards so th3.t the top
+rim of the ste el tube is tU:::'::1ed up sufficiently for it to
+press firmly against the side of the grocve . In screNing it
+on, the cement filling of t he g roov e is squeezed out through
+minute holes bored for the purpose. Th e bushings of the spark
+plugs are 6cr e~ed ir.t o ~he up~er part of the steel sleeve , and
+the n autogeneo~sly welded to ensure perfect tautness at those
+pOi nt s. When th3 cylinde r has be'3!1 test ed at 30 times the
+working internGl p~essure , it i s fitted wit~ a water-cooling
+jac ket macie of sheet steel fro~ 1 to 2 mm . in thickness. This
+coo11ng jacket is autogen6 0uo ly welded to tne steel sleeve a s
+well as tc th3 cas~-iron cylincie r head. Experience shows that
+there is no difficu2.ty i r.. welding shee t steel to cast iron.
+J
+
+in
+
+BENZ & Co. have been c omparativ ely slo w
+adopting the
+use of steel cylinde rs in aircraft e ngine s a nd thereby ensuring
+~ conside r able sav ~ ng in the w9 ight of the engj ne.
+This may
+b e traced to the ir desire tc avoid the decreased :reliability
+en-ca il ed in wo rki ng w h ste el cyl~nd e r s when cast iron pisit
+tons were used. Even when such pistons were plentiful::'y oil ed
+and carefully mea sur ed for compression condit i ons, th ey showe d
+a tende::1cy to caus e excessive frict ion; and t his was !'ea.lly
+satisfactorily overcome only When each piston was separately
+g round into its own special cylinder: This is a process
+whi.ch would s e riou."ly hamper product ion and would r end'3r it almost impossibl e for a p iston to be changed in the course of
+flying. When a luminum alloy pistons were in-:roduc ed, BENZ &
+Co. immediat ely adopted the use of stee l cylinders.
+The cylinQers are fixed on the spe cially adapteci rooflike milled t cp side of th e crankcase, each with 4 screws
+placed as close as possible to th e axis of the cylinder. The
+cylincier fl3.:'1ges, whic h are corupara-r.ively large in size~ are
+O',illed as far a s possible I' i t h a vie Vi to eoonomiz ing in wei ght.
+The cylinder heads are so closely jammed against the ends of
+
+- 3 -
+
+t:18
+
+1Vate:!:'- jdci:\.et s::'ee've s that they can be :1lade su£'ficiantl y
+tight o:r ,mea::1s of simple rubber rings covered ~;i th sheet-steel
+washers ~SKf Schellen).
+This tightness has "':Jeer:. !'.:1aintaiLed
+even when the ruboer washers were of ra~her poor quality.
+
+The cylinciers are served by a large in~ake valve and two
+small exhaus"t valves (Figs ...... 1 & 12), ·oy whic h :Y,eans t!':l e re :'s
+no dangAr of -ehs defoI'r:latiO!l of the exhcwust val7e at iligr~ temperatur e s.
+A~l t!':le valves are operated by a camshaft located
+between the two rows 0:: cylinders by means 0: pusn rods and
+sir...gle and double rocker arms (Figs. 11 to 15) .
+These rocker
+arES ar e all '!!lcu~-ced on ball he3.rings .
+The c2rrlshaft, ivith its
+:3 bronze bear~ngs, ca:1 be drawn out with the 1aaring .vhen the
+g'..lides of the push rods are removed and tihe scre .vs of the camshaft bearing loosened .
+Double springs of very low' constructionb.J.. l1eight being
+used fo!' th e iL ta~e -J"aj-'!es and. partly SULk in tne cylinder
+heads, 't;he va_ve rocker of the intake va17e ca:1 b e brought obliquely under the cauble rocker of the exhaust valves and the
+push roas are thereby kept at the requisite distance from one
+aaother a.nd fron, the cylind.er head~ .
+'.the ent ire cons(;:'Uct ion
+of this mode of va~ve-operation, as compared with the ~ sua_
+~ethod us ing s~ec~al casing Wi th enclosed callisha~t o n top , i E
+marked by the rel~tively easy acces8ib i lity of the va~ves,
+sprin~s and rockere, and the facil i ty ,;i th .,hieh the -:a ve
+rocker bearings car. be lubricated . The ball-bea~ing of the
+valve roc ke::.· s , fil3..ed lvith lubricant only when the eng~ne is
+built or thoroughly overhauled, ~ctual~y needs ~o furtiher oiling . This tiype, "
+"lhich tNas first intr oduced in the Imper ial
+Prize EI!gine, i::1 2. 912, has so we3..l proved its wo:!""th -:;.hat the
+use of ball oearings has been adopted for tbe va~ve rockers of
+other engines with the camshaft located below.
+In operating, attention must b e given tiC' the neces s ity
+for leai,.Ting 2, plaT of about 0 . 4 ram . oet \/ee:-l the v s 17 3 stem and
+~ne vah-e rocke r :;appet r;in when 'CDe engine is -;varm, so tilat
+the valves may be thoroughly clo Dea by the time the e~gine is
+cool . Special importance :nust also be attache:i to there b e ing
+a similar amount of play for all the coll ec~ively-driven exhaust valves .
+Each OJ: the va17e ~stems is con:1f\ct ed vi th the valve spri::1g
+by a two part cone. This cone is located in 0::18 of 'Che grooves
+of the valve ste!~, and 'is held fast by the pressure of the spri~g.
+
+As thA valve ste~ heads ar e tempered, tne edges of t~e groove
+must not be hard enough to cause scrat ching.
+To pre':ent the
+valve from falling f~eely into the cylindsy i~ case of breakage
+of tile va17e sp~ingJ and )~hereby doing great damage, the corle is
+held :..~ the spring co_lar by an exyamii.ng ring . A forme:::- method
+of loca~ing the va17ee in an exte~si~n of the cylinder-head, in
+
+- 4 ...
+
+such a manner that they could not fall through , has been almost entirely abandoned on accoJnt of the difficulti es invOlved in the int e rior structure of the valve, and furthermo re,
+as it ensures so littl e security from damage; the valve-collars
+alone being often wrenched off, in which case, ~here is no
+flay t a prevent fall ing.
+The push rods are lengths of seam:ess steel piping with
+rounded wooden pegs fastened with pins at both ~nds. The force
+of the valve springs alone holds them between the valve tappets and the rocker, and they can therefore easily be taken
+out if necessary.
+The construction of the pistons (Figs. 16 to 18), w
+hich
+are made of the usual aluminum-capper-zinc a lloy cast in an
+out e r chill-mold With an inner sand-core, is ch:uacterized by
+tubular steel bushing, cast in the pistcn pir bosses . By means
+of these bearings, it is ~lso possible to give considerable
+length to the connecting rod bearing on the piston pin. The
+piston pins are open at the ends and are secured laterally by
+conical pegs w
+hich enter the eyes from belo Y'l . The drag wej.ght
+of the piston, as influenced by friction, can be compensa~ed
+within a few grammes by an oil drip ring on the lower interior
+rim of the piston. By this method, a piston of any series
+may be built into the cylinder of an engine without d:i..st'.1rbing
+the compensation of the whole. The pistons ar e fitted into th e
+cyl inders by four small hi gh-rimmed cast -iron washers. For
+aluminum pistons, much depends upon this jointing, as they require a cOr.Jparatively large amount of play when fitt;ed into
+the cylinder, on account of the great expansion of the jointing due to heat .
+The use of aluminum p istons is one of the progressive
+steps of later years both from a thermo-technical as well as
+a purely practical point of view, and they are now regarded as
+a useful factor in the technics of power-propelle~d vehicles
+of th3 future . 'r heir use is attend.ed by many pract ical advantages, espe c ially w~th regard t o econOTJY in the wear of the
+cylinders, w
+hich do not, even after many years' we ar, need to
+be reground as at present. Sho·,J.ld the pistons b e come worn,
+for instance, from insuffiCient oiling, not the cylinders but
+the pistons only Would be affected, a?1Q the latter are far
+more easily rene Ned . One of the stro~ ges t arguments against the
+general use of eng ines with welded cyl inders is thus done away
+.'Vi th.
+Fro!!! a thermo-technical vie wpoint, t;he goed hee,t -cor:.ducting properties of aluminum are an advantage on account of the
+corrlparatively low tempe ratures that al ways prevail on the upper
+side of the piston Nall, and which can be detected by the absence
+of fused oil residue. Thjs pT3v ents the s e izing of the piston
+rings ?y fusion , w
+hioh frequently cause s de rangement w
+hen castlron pIstons are used. It has been repeatedly proved that the power of an engine can be rai sed 10 H. P. ~';i th a certain number of
+
+revolutions and under other similar condit lons, by the installat ion of an alumi num pist on . lhean 3ffe cU.ve p i s ton pressur es
+of 9atm. or e ve n ITo r e can a lso oe obt a in ed on high spee d eng).nes without any hardness or jolting in running, and all the s e
+advantages are due to the good heat-conducting quality of th e
+piston. The comparativ e coolne ss of the top side of the piston
+preve nts the intake mixture from heating too rapidly, and
+t he r eby improve s the cyl indel' char ge ) while the de gr ee of compression ratio that can be attained without risk of spontaneous combustion is greater, and the highest possible mean piston pr es sur e i s attain8d later 'N
+ith aluminum pistons as compa red w
+ith cast-iron. Taken as a whole, the saving in we i ght
+by th e use of aluminum p istons app li e d to automobile engines
+rathe r than aircr aft e ngines is no more than cast-iron as the
+short pistons of the latter require the addition of ribs for
+stiffening .
+The structural formation of the master conne cting -rod
+(Figs, 1 9 to 24), is r ema rkable for the successful location of
+the jOint of the crankpin en d, which is as far as possible
+from the immediat e influe nce of the f orc es acting from the piston, and also be caus e the screws s ecuring the crankpin end are
+so precisely threade d a s to l es s en th e risk of their shearing.
+Th is does not obviate the ne e d of using studs for the conne ction on one s ide, a lthough blank b olts that could be pushed
+through ould be preferable. The bolt or pin connecting th e
+seconaary-rod to the master-rod, is se cur ely he ld in a clampbearing. Bronze beari ngs are used between the secondary con nec ti ng- rod and th e bolt and th e usual b ronze cap wh it e metal
+be aring on the crankpin for the master-rod. Th e stem s of the
+conne cting-rods are round, and are bored from the piston end
+in order to e nsure a tubu lar cross - sect j.on spe cially capable
+of r es istance to bending and inside w
+hich the oil channel leading
+to the piston-pin can eas ily be located.
+Th e engine fittings are arrange d on th e principl e that
+the comparativ ely inaccessible end at the propeller should be
+left as free as p ossibl e whe n the engin e is mounted on an airplane. On the other hand, the constructional length of the
+engine should be curtailed as much as possible in order to avoid
+any detrimental influence on the turning ability of the airplane. For the sane r eason, the carburetors, w
+hich are joined
+in coupl es each supplying 3 cylinders, and the magneto driven
+by the camshaft are located in the space between the cylinde r
+ro ws ) wh ile the spark-plugs, v th t he pumps for fuel, 0 il, and
+vi
+v
+ater are placed at the rea r end of the engine wit h in reach
+of t he p ilot's seat.
+In lubric a ti ng the eng ine , the proces s of continually add ing mall quantiti es of fresh ojl t o the eve r-circulating oil
+has been replac ed by simple rotary lubrication; th e piston
+pumps formerly used a r e no w rep lac e d by ge ar-whee l pumps, which
+
+- 6 are far more easily driven and are of simpler construction.
+fo::mer pre jud.ice agRinst simp: e rotary hi tri~ c. t j 0·"1 he 3e ~.
+on the more rapid v
+iearing of "Ghe cranks h aft o ecl.r~ng s cnrou6h
+coal and metal dust impurities in the oil, has been proved
+to oe unjustj.fied in e~}:-eTiments made wjth power. impelled vehicles, while in the case of aircraft eLgL18 s, in particular,
+the frequent rene ,val of the ent ire oil supply must be taken
+into account . As applied to gear- heeJ. pumps, its relj.ab:ility I".as at first considered doubtful, as the gea:r:·-wheels must
+be caulked at the sides in the case, and the ca1.l:i.king cannot
+be replaced later. Experience has shoNn, hO \'lev~r, tbat the
+gear-wheel pump supplies su:ficiently h:i.gh oil :t)Tess~re even
+after long usage, and that it ne7er 10s6 s its ti g htness to such
+an extent as to allow the oiJ. to flo w back into the crankcase
+out of the oil reservoir through the pump-case when the engine
+rerr.ains stationary for any l.ength of time, a nd by so doing to
+involve difficulties at star~ing.
+A safety device, s~ecially
+constructed to remedy ~hat defect, consisting of a piston kept
+open by the oil pl'essu:-e and 'Jei g hed do v by a spring, can
+ID
+therefore be dispensed with .
+'l'~e
+
+J
+
+The triple gear-vvheel .~~mp 19cated at the lowest part of
+the crankcase consists of three separate pumps (Fig. 25), one
+of which (1) drives the oil through a nozzle collector into
+the distribution piping, which is 1nstalled on the outside ':.If
+the crankcase and is therefore easily acceasible for cleaning
+purposes (Fig. 1). This method of installing the distribution
+piping is now preferred to that of locating it in the crankcase and connecting it 17i th the bearings by transverse boring J
+experience D.aving proved that cast aluminum has a strong tendency to become porous when the distribution pipe leads into
+it, and that the boring in question soon loses its tightness.
+From the prinCipal be a rings, the oil flows under pressure,
+through tubes bore~ in the crankshaft, to the crank-pin end,
+then through the tubular interior of the connecting-rod to the
+piston-pin, which is 'lOllo'IV and thus distril>utes the excess
+of oil on the inner surface of the cylinder swept by the piston.
+The regularity of the lubrication functions is checked by a
+i!lanometer at the d1stribution pip:.ng , the pressure of which
+should never be 10 w
+er than 0 . 5 at;r...
+Two more oil pumps ( II and III) dl'8.woff the oil used in
+the engine, to the front and rear ends of ~he crankcase) and
+force it back into the oil-tank. This preveLts the oil from
+col13cting at one end of the engine during t he climb or in the
+course of a nose dive, and also from oj.ling the cylinder excessively.
+A method pr09 0sed by BENZ & Co. for th e construction of
+the oil tank is sho \~n in Figs. 26 and 27.
+It s corrugated o1;.ter
+,vall forms a part of the fuselage covering and is th3re fore
+fI'
+
+- 7 -
+
+effectively cooled by the wind caused by flight. The oil first
+enters at a by means of a pa=tition wall and rea~hes the
+jacket b of the tank, where it is strongly cooled. If the
+jacket is full, or coat ed with congealed oil through intense
+cold, tne oil passes throu~h the proje cting ri~ c into the
+1nterior of tl"le tank, from which it can £2.o'<\', in turn, through
+the aperture d into the piping leading to the oil-pump.
+The ta.nk must be provided with a ventilating orifice of about
+5 cm. in width, so located that the oil cannot run out either
+in climbing or in steep gliding flight.
+A horizontal sheet-iron collective piping is attached to
+each of the oil vapor exhaust pipes (Fig. 1) in order to carry
+off the oil vapor from the crankcase. From them, the vapor
+1S carried dOWl1l1'{erds and into the oi;Jen air by means of pipes
+fitted with oil-receptacles, cut off obliquely at the open
+ends ln such d. mann.el' that the sucking 3 ffect of the wind cre ated by flight can be utilized at will .
+The fuel installation, ~ig . 88 ) , which has been constructed on lines conceived after mar..y years of practi.cal experience, consists of a pr incipal reservoir ~ with an auxiliary
+reservoir b built beside it, a fuel-pump Q worked by the
+engine, a hand-pump d \I'{ith a fuel scavenger §. and supercompression valve f in the pressure pipe of the pump; from
+valve I, the feed-pipe equipped with a manometer g is conducted into the carburetor. The principal reservo ir is filled
+with fuel from the auxiliary tank, and is likewise under
+pressure of the outside air, so that in case of damage by gunfire or similar causa, it cannot discharge its contents too
+quickly. If the contents of the principal tank have run out,
+however, a safe landing may be effected by means of the contents of the auxiliary tank, as the fuel }:umps can be fed by
+either tank. The allloun t supplied by the fuel pumps is considerably. greater than that requir ed t.y the engine. The surplus passes through supercompre ssion valve .f into a re -·
+ce iver ', from vvhich it eithe r flows back into ~he auxiliary
+tank or into the principal tank, according to the manner of
+its adjustment. This disposal of the fuel l aaves each fuel
+pump free to act independently of the other, the functioning
+of the whole be ing thus assured even fihen the engine pump
+may be out of order. The fuel is t herefore al \'Vays supplied
+to the cart/uretor under constant super-compre.ssion, in which
+respect it has .the advanta.ge over the ordinary device vvith
+auxiliary tank, in whicn the fuel pressure at the carburetor
+varies considerably in ac cordance vvi th the angle of the airplane and the inbuilding of the auxiliary tank.
+The fuel pu~p (Fig. 29) consists of un ordinary pistonpump w
+ith an al1.:mi num case a, bronze bearings band sli ':> ht1y ad~usted plston £, to which the fuel flow~ over a com-o
+bined sieve - scaven~er and vvater separator d, the bottom of
+
+- 8 -
+
+which can be unscrewed , and an intake vent ilator e bo rne
+down by its omll' ?Ye'tght. The pump is slowly driv ;:.. n by the con trol-'Rheels of the engine, Dy means of a transn,i ss ion screw.
+In its original form, as us ed on the 220 HP aircraft engine,
+it vas worked with glycerine as auxiliary fluid. Du ration
+te sts soon prove, however, that there is perfect safety in
+~orking ev en when the pis ton inducts th e fuel dir e ctly, though
+t he interior of the piston must, in such cases , be filled
+from time to time w
+ith viscous oil.
+Every time it descends, the p iston pump drives the suckedin quantity of fuel-mixture over the ventilator f, which is
+sin.ilarly loaded by its own weight, i nt c. the so -call ed supercompression ventilator (se e Fig. 30) whi ch simultane ou slY compensates the pulsations of the iuel-pu~p, somenhat as an air
+-cank . The cap -like body of the ve ntilator is inve rted over the
+free end of t he exha.ust-pipe; the caulked r im of the ventilator being he ld dO>ff!l by a spring, the tension of wh ich can be
+so regulated by rraan s of the scre w lid that the compression
+of the fuel at the carburetor amounts to a bout 0 . 2 to 0.25 .
+Any surpl us suppliea ~y t h3 fuel-pump over the amount requir ed
+to main tain t ha t p ressure a nd supply th e cor:sumption in the
+car ouretor flows down obliquely into tbe tar!k (se e Fig . 28)
+surr ounding t he supe r-compres sion valv e, ~vhi ch is conduct ed
+to the open air. Any ma rked variation in the fuel pressur e is
+d sign t hat the air contai ned in the ~i r-t ank has escaped .
+When workinG emp 'ty , i t is ne cessary only to open a n a i r-t ap in
+the intake piping for a time to enab l e the air ·-tank tv be refilled wi t h ai r.
+The carbur3tors (see Figs . 31 to 35) are w lded togethe r
+e
+in pairs and co vered wi th a vvate l'-j ac ke t; they ~clioin t he
+super-compression val ve in the same dire ction as th~ fu el pip ·ing . . In t he float chaffiber a , t he f ue l is taken at band
+scavenged t lrough a fine sieve Q and kept at a const an t
+height in the usual manner. At this height, it also be com
+es
+stationary in t he p rincipal nozzle Q (se e Fig . 34) of the
+carburetor, w
+hich is connecte d .-vltll th e floa.t tany. by the cali bra ted bor ing e of the Dot tom se r e w.
+In its st art ing p osi tion' the th rottl e valve f (see Fi~. 33) rel a ases OIly one
+auxiliary b ur e, g , of the case; a fi.ne l y bored auxili:l..rj
+nozzle h directly supplied w th fuel from the carbur e to~,
+i
+penetrat es into the b or e g and the strong as:piration t hu s engendered at the upper edge of the auxiliary nozzle ( whic h m
+ay
+ea sily be adjusted by changing the posi tion of the air v ~lv e)
+enab les t he fuel to be we ll inducted and pulv e riz e d even wr. e n
+thE; engine is 'H
+orking s lovvly. As t he p res su r e on the uppe r
+ed.ge of t.1e prinCipal nozzle Q.. augments, through t he wide ning of the throttle ope ning and increa sing engine _speed, the
+f uel bec omes so nluch t he more h i ghly o.spi r a t ed and pulv e rized
+in p roportion a nd auxil iary air ent er s t hr ough the a pe rt'.lr e
+i
+betwe en the pipe s k and 1. (F ig. 34), penetrates to the
+~ rinci pa l nozzle t hrough fine borings
+m and thereby promotes
+
+the pu!vsrization of tne f~e:
+becoming too rich in fuel.
+
+a~d
+
+prevents th e mixtur9 from
+
+The ~~t~OQ 0: carbu~etor construction atove described is
+based on tn e Fre!lch Clo,udel Carburetor ~odel and has !'.(;a.ny reco?rlmendations. It :i. s 8C1.3Y or access , and the nozzle can be
+easily ad.justed 3.110. taken out from above; its !1lai.n ai!' stream
+is perpeDdicul~r to the main nozzle, se th~t the fuel s trea~
+branches ofi at right ttnglee and pulverizes \vsll. T~e fuel
+supply .vhich collects E:..l; the bottom of the p!'incipal nozzle
+when the engine works s lowly, also makes it possible fcr 1;he
+~hrottle to open tc its full exter.t ~uddenly after a gliding
+flight until it is quics near t~e ground 1 without there being
+any risk of the engine: n IIjib-ingll before the fuel ha s time
+to flow in -vhrough t he bottom openj.ng of the principai noz~le.
+Another advantage lies i~ the fac ·c of there being no need
+fo!' the usual auxiliar:,.- 2.ir apertu!'es, controlled by the throttle valve and liffiited. jy curves, as such apertures can never
+be quite accarately adjusted, and each separate carburetor
+must therefore be adapted to the engine for which it is intended.
+
+The double spark 91ugs a.ttached to each cyl~nder for reasons of safety are indgpendently charged by two d' namos
+(Robert BOSCH Co . , Ltd., Stu~tgart\ with 13 plates of 18 pole~.
+The dynatT, os are ch'iven obl iquelY from the rear -end of the engi!le by means of ordinary spring coupling (see Fig. 3). They
+are symms~rically ranged, and cons1;ructed for anti-olockwise
+rotation and 8. ver:: simple method is obtained for adjusting
+the sparking point by means of the rods.
+The cooling Nater pump is installed at the end of the gear
+wheel intended for ~he auxiliary corr~~nd at the back of the
+engine, that is, at a spot ~vhere the e!l-..;ire contents of the
+flater-jacket and 'pj.pes can be dischargeci. .'rhe shaft of the
+pump is set in ball bearings at ~he up~er end supported by a
+special block, .-wh i::'e th;:. lower end, "te:'mina"tir..g in a b!'onze
+bearing, supports a fixed wheel secured by a pin. The pump
+has an opening in 1;te :nidcile pipe, and two outlet pipes; it
+cOllVeys the cooli:J.g wa-'\ ;er on e ac:l 3ide of the engine into a
+main pipe, and this again conveys the p rincil-'al stream directly through the adjacen-4; cyl inder he a ds, so that th.e valve
+heads are n:os-+; effectively cooled. A ;U"eaker 6.ux:'liary streaJL
+of cooling ·1Na-Ger penetre::.tes the cyli!lde!' jacket from below
+t ~'1Yougn a dis1;!'iou'.:; ion piping ~ anci a flow 0f w
+ater is thus obtained in the directio!l of the cylinder heads.
+An important part of tile engine is the redUCing gear, its
+function being that of Yeeping tne number of revolutions of
+t:J.e prOPeller ivi thin SUQh lim
+its that the propeller efficiency
+may ba good not ~ithstanding the much-desired increase in the
+rr~~ber of revolutions 0: the engine.
+The type in questio~ is
+
+- 10 the outcome of years of experiment, unsuccessful until now for
+the very reason thc...t Ivtth gear 'i Vheels} strong nearing of the
+wheels could not be prevented in the course of long working,
+even with larger wheel dimensions. As regards :,:.'eliability,
+this type may be classed with the only really durable fo~ejgn
+engine gear - that is, the Rolls Hoyce Co. 's gear _··1.t.ough it
+has tne a~Tantage ove= the latter on account of lts ~rea~ simpl:i.ci ty. 'rile gear has beell sped,ally de s:i_ ~Eed to a~tain the
+greatest .possible transIT.ission r2.t io for each rev olut iO:1 cf the
+gear Nheels , at the same time without exceedL1g the reguJ.c...t ion
+limjts for all-over dimensions and weight . T11e n'li.nl'er of revolutions of the propeller, estimated at about 900 r.p.rr. . for
+geared aircraft engine s, is therefore augmentRd to 1J 8J 1'. p. m. ,
+a speed which is also compatible with satlsfaatorf pJ'opeller
+efficiency.
+The outer part of the gear is connect ed. wH,h 'the n.e,nge
+of the crankshaft by inside gear work, and the central wheel
+is fixed.
+It is therefore provided with a lever, Mad.e t.u revolve on the gear-box and adjustable to some extent, and the
+unavoidable oscillations of the crankshaft are thus compensated.
+The four star-wheel s, all set on one star, revolve bet ween
+the se two rings of Wheel s and thus dr i ve the pr opeller, v;hich is
+attached to the st ar. The crankshaft is cast in UDB 9.iece
+wi th the s-:-.ar a'l111 runs on two strong balJ-bearings, the in~)er.
+one l-:)c2..ted c.t the e:1C1. of the crankshaf-t, the oute:r O:le in the
+gear-case. On Jlihis ahE,ft, the fixed central wbeel of the gear
+rest8 nn two baV-bearings, and it is this artifice al::me w~l ich
+eucl.bles the propeller to be d.riven by the star. Special care
+had been bestoRed on the locatj.on and setting of the star-wheels,
+JVhich attain an extremely hj,gh number of revolutions. Each of
+them l'evo17es 0:..1 two Ci.0uble baD -·bearings, which are f:i.lled li/jth
+balls and thus ;lOrk N:i.tbou;; cages, e:t·.pe:= ience havi_ng S'\:H)~ln that
+ball-cage s are not capable of wi tb.S ·i~c..,l·.di..r.1g the stress brought
+to bear upon them dUT 1?:1g fLight. The 'cea:;:-::i.ng8 are l·L1b:rj.uc.te d
+frC'm the i::1terior by 05.1 fiC'wing from the c:~'ankEhaft ca"tty.
+When mQunting, the staJ.·-wl1eols C2,n be Jaici. in a :re~ulaT Tine
+al(mg the i. :c ~' e spe0t i vR no G
+t;ued n::..sc S uy 'C1'.:':Diug the uo1J.~ G, which
+are sJj.ght:L~r eo cent rio~.lly tl'.rneo.; by thi3 reed.ns, "Gl~e pe~~ iphera.l foxces are e~Tenly dist:r.jbu·ceC'. Olel? s8vE.r!il tee·L}"l. 7he
+double beaTing bu:i.lt lnto 'Ghe fl'nnt end. 01 the "'xa:1knhaf'(i prev ent s longituC:ina}. dispj,acer.ler:.t of th 3 c·lar.,k.shaft 3.t th3 €;eax.
+By me .-:>~nG of the P~'()j 8C'~ iDiS r"exaiSunal edge, tee geal' c..;Cl.n eas i1y
+be taARn down.
+In a ne wer type of the \'al-..re, the r e6tlla.t ing lever of the
+fixed gear -iVhee 1 (wbich 1 e-\lf~? hap.g~ dovvp wa-r:uE:) , o.:o.d (me of the
+ball ba~ri'l1g5 aTe disponsed wjth by t~e di~ert ~r~ns~e: of the
+rot.atiuna,l mome'!lt of the fL·:ec. wheel co th-J fro ,].';': fldnge dncl to
+the gee.:: box th'Cough a TO t~i:Y c·)upJ. j ng ,
+The propeller is attached to an auxiliary flange by the usual hub and short bolt, and the flange is secured to the ball-end
+of the rear shaft by a key.
+
+3001-Benz/4
+
+Fig. 1.
+
+Fig. 2.
+
+Fig. 3.
+

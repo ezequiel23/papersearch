@@ -1,0 +1,1080 @@
+.
+
+.
+
+No. 3
+
+-
+
+.
+
+-.
+
+cm THE TEEORYCF THE MXWEiROMETTLR.
+
+-s
+
+.
+
+‘ by
+8
+
+.-
+
+,
+
+3. P. Warner,Chie5- Physicist,
+Aarodymmical Zdoratory, lf.A.C.A.
+La@eg Field,Va.
+
+,,
+
+‘i?asllingtm,
+1%30.
+.**
+
+. .
+
+RYTESON TfiE
+Ti3N31E!?
+u !1WE
+ACkWXERGMETER
+.
+By Edward
+
+P. Warner.
+
+The accelerometershich ha.e been proposedfor use on
+w
+by
+airplanOS
+fall into two classes. ‘&s first class,represented
+the RAE.
+
+instrument
+and the me on which the staffof the Nat50n-
+
+al AdvisoryCommi*tiee now working,has .ssi=gla deflecting
+5s
+member.
+
+This
+
+~s
+deflecting
+XQembe= p.~~cirtiz
+
+#4~r
+gla:~-- -- :n
+
+t
+the FLA.E.aooelerometer, fIat steels-pring i the AdvisoryComa
+mittee~s. The secondclass,the oziir
+representativef whick SMO%”
+o
+airplaaaaccaleromekers
+
+%s t-
+
+o=
+
+designedby Dr. Z@m, has a
+
+nmber of plungersheld uy againststopsby springsof varying
+;
+
+JiWw@h
+
+cm W
+
+springsof
+
+the
+
+same stirengt> and lmded with vary-
+
+i
+
+“’idg
+
+weights. Iicreasa
+
+aocelerat~on
+cause8tine
+sprirtgso leava
+t
+
+their stogs,one after ano*hsr,and to make mmtaot #.th a sheet
+of paper whioh moves below them with a normal clearams of only a
+i
+few thousandths am inob. The s-pr~ngsn the Z&m ins+xunent
+of
+arehelical,bu% theymight ‘be
+flat withoutc&3n@ng the operation
+of the inotrzmeat. Aa ace~lerometer tkis kizxl
+of
+has ths a&/aMtage of a very quick
+
+responsato shocksOS brief duration,but it
+
+makes a W3cogti.nuousaoord,giving indication
+r
+oxily of the values
+which
+between.
+
+the
+
+aooeleraton lay at q
+i
+
+given instaxit.
+E
+
+there
+
+are enoughspringsa closeapproximation o the mums of aooe3erat
+tion can be Se.ved, ‘k% this is essent
+%ally inferior
+ment givinga oont
+inuousrecord
+
+to an instru-
+
+directlyif any sat
+Zsfact y rem
+
+suitscan be scouredfrm suoh afi inshx.nerz$.
+
+m4$The best wq of
+
+qproachtng
+
+the theoryof the accekxcL-
+
+eter is to discussfirst the O-bvimsinherentErrorsanii
+the means
+for reducingthem to a xnbim’tm ~
+motion d
+
+t~hm
+
+to take
+
+up the
+
+eqaatiom of
+
+deducafrom them the lag in reqotiing to S&O&,
+
+dampi~ of the sensitive
+mmker, azd the possibleerrors
+
+the
+
+due ‘~
+
+of
+resonance
+with the vibrations the atrplaraengize.
+FL2t springaooelezozetersf ei%hsrthe first or the seeo
+a
+ond classare subjectto errors a-ising from acoeler=tions long
+the axis & the s@.ng superimposed tkosewhich it is intexided
+ozz
+to measureat right anglesto the axis and from angularacoeh3rations of tile
+airplane. Furthermore,
+all aocsiemmetsrsare affected azzd
+giva inaccurate
+readingsif they are not placedexactZy
+a% the centerof grEwitFof
+
+the
+
+airp~ane(assumi~ Mat
+
+i% 5s t>
+
+.
+
+acceleration the center
+of
+
+of
+
+gravitywhioh is wante~and not, for
+
+specialseason,that of some,other
+part of the machirs
+). The erthis cause, la turn,may be divide&into two groups.
+
+rors from
+
+First, if the bstmment is pl~oed in a plane passi~ throughthe
+centerof gravit~and psrpendiculsr the axis along w52ioh
+*O
+zhe
+acceleratou is %0 be aeasured,but m% &t the Sea”- of gravi%y
+i
+itselx,
+
+any e.ngukraooeleratim
+
+to a l~ar
+reoordsd
+
+of the i&pku39
+
+will mrse~ond
+
+aocelaraton of the accelerometer
+i
+spr%ngand “wili
+be
+
+as suoh. Second,M
+
+measurement any SW@aX
+
+the aocelermete:
+
+lies
+
+on the axis of
+
+veloc%tyabut either of the other axes
+
+will produoe a centeipe%d acceleration
+whioh will be recordedbF
+the instrwnent.
+Takingup these souraesof erro= in ths order in
+they WGre firstmentim%l,
+
+the
+
+which
+
+firs$ is the effectof linearac2el-
+
+erationsalong the axis of the spring. ti trsatirgthi8 it til be
+
+-4”
+
+assuned,tc start wltb, the% the defbct
+
+l.ng
+msmbor
+
+is
+
+zxmnally
+
+straight
+and that it is homogeneous ma%rial, constmt iz secin
+is
+tion, and suhnitted en unvaryinglosd. This asevmption very
+to
+d
+nearlytrue for the N.A.
+G.A. instrmmnt, a considerable istance
+from the
+that
+
+truth
+
+for the R.A-E. type, but it will be shownlater
+
+the distr5but50n
+
+of load s30ng the springhas very littleef-
+
+feet on the error due to longitudinal
+acceleration.
+In a fIat spring,2s?s be the weight-pa=
+w
+tit l.enb~k,
+
+x the dist~ce from the free em of
+emkion
+
+the
+
+spring,a& &
+
+normal to the plane of the spzingin t-s
+
+the acoel-
+
+of g (takingthe
+
+‘accelerat
+ionH as including
+the compo~nt of gravitynorma3to the
+plane of the
+
+spring,
+
+so that
+
+it
+
+corresponds the total air foroe
+to
+
+actingon the airplanea@ preheatingit from fallingwith an
+acceleration dowmwards. Then the bendhg moment due to normal
+g
+)
+aoceleratiozz
+is:
+.
+M&5$&_
+Integrat.ng
+i twice,the defleotio?a w
+at
+
+point is fcmmi to be:
+
+AS regardsthe bendingdue to longitudinal
+aooelerat
+ions
+of the spring,the moment arm of an e&nen% of masa at w
+
+poiat
+
+with rsspaotto an axis of bandingat any otherpoint ie equal to
+the
+
+differerioe”
+betweenthe normaldeflections the two points.
+at
+
+The bendingmoment is then:
+%
+
+whereq
+
+‘
+
+J : %’”(’0‘)&’
+-
+
+is the I.ongitud accalerat.on
+inal
++ (including, component
+my
+
+-5of gravit~actingalong*hat axis) 3% tsrmscf g. Subst5
+tu+ingthe
+ex~ession given abovefor y. and y,
+
+nrop~ingthe subscript,
+sinoe‘o cm hava any vahs, and iz2tegrating twicem
+
+have:
+@x4
+—-.
+435
+
+~? - 4.-/8
+6
+r
+
+Substituting for x in the expreeeions
+P
+for y= and yy, it appears
+that the iief ions of t-he
+le.ct
+ftee aJIM the springdue to aocelera-.
+of
+tions in the two Mrectlons are
+
+72k.
+
+y=
+
+70 $.p
+
+The ratio &
+
+is
+
+a oonstant
+
+for
+
+slg
+
+given
+
+inst.ment, and is equal
+
+%x
+to the staticdeflectioaof the free end of the spring. The ratio
+
+of defections is then
+
+..
+
+,
+
+twice:
+
++w.~(~+i = EI
+
+-x?
+
+42
+
+2!J
+
+\
+
+&
+
+d
+
+The deflection the free ezxi,
+at
+measuredrelativeto the base, is
+
+Proce6dingin the’s.sme
+manner as for a distributed
+load,
+
+.
+
+.,=.!? g@.!x-3?Q’k}
+24
+EI
+120
+12
+l?he
+deflection the free end, due to longitudinal
+at
+acceleration=,
+ia
+.W2G+5
+%’0 =
+
+~212
+
+2
+
+qE
+
+Then
+
+Y5
+Sn
+longitudinal
+acceleration this case
+due iio
+-.
+is thereforealxmt l% greaterthan in the ease of a uniformlyd.is’
+The errcr
+
+tributedloading. These casesare the extreme ant~theses
+
+of each
+
+other and the true ;alue of the error in either the R,LE. or the
+,
+IV.
+A.C.A. instrument
+
+will
+
+lie
+
+soaewhere
+
+betweenthe two values
+
+founl, as both these accelerometersave a tendencyto concentrate
+h
+the activemass near the free end of the springs.
+
+ql?~
+
+atiuu of thatmath{ when pul?.i~out of a dive may b as great
+ne
+as L92g.
+
+The conditions
+assumedin this prob?.emere rmiuly sew
+
+vere, and g may be tek,ea the max.inmm ,00s1 iul
+aa
+8
+ezat
+
+alcmg the
+
+springaxis to which the accalerczceter
+will be subnitted. la the
+R.A.E. aocehmmeter en aecale~
+ation of thisme~” tude would j?ro duce an error of +5,
+43$ or -4.E@ $Z the deMminat5-on ~f the noraa.1acceleration, a maximumerro;b .23g for the lay
+or
+02
+gzS% nozra
+mal aoceleraton so faz- cedG2.
+i
+
+‘kid is ccu;smerably
+greater
+
+than the sensitivity the instrument,
+of
+and shows that it is not
+safe to raly on its iniicat om to ~$ith~ 0.Ig.
+i
+n
+In the li..L
+C.A. acoelsrometer originally
+as
+cissigned
+(notyet tried out) /’ is 12.7 cm., and b o is 0.006 c+
+
+The
+
+maximumerror due to a longitudinal
+acceleration g under these
+of
+conditions
+wcnfld 0.05%,the plv.s
+be
+aad ainas errors ‘Miag~ract
+
+icallyidentioal. This is 0.90Zgfor tho meximunnormalacoeler-
+
+ation. 1$ is evidentthat in this
+
+instmme.nt, it is SatiSfacif
+
+tory in otherrespects,the errcrsdue to accelerations right
+at
+angle tc the one to be measuredwill be small enoughto be nege
+leoted with Ferfeot 3afety.
+Znstrunents
+such as the one designedby u?. Zahm, u&ing
+helicalsprings,are 02 courseq~fi.te from any errorsdue to
+ftee
+lozgitudind.
+asoelerations.
+.
+As has alreadybeen noted,the assumption a unifozm
+of
+of
+distribution weightalong the sprizgdoes not aeoordciosely
+
+@th the facts. 7- it 1% ass=ed, as an alternative,
+that all
+the weightis concentrated the free end of tho ~rirlg,the hendat
+ingmmwnt due to the normalacceleration
+is:
+
+,
+
+Pial!b
+Sims any changein defh=ticn perpetiicukr
+
+ta
+
+the plane
+
+of the Springgives rise to a changein the deflection
+due to
+ect
+forcesacting .parsllel that plans,there is a secondary eZf
+to
+Which E0difi8SF=. If, for example,~
+
+aots towardsthe free end
+
+of the spring,so that y= arid are in the ssme direction,
+yx
+~he
+inoreaseof y due to the adait ion of y= will itselfproduosa
+furtherincrease,
+and *he %ota.1 ffectof longitudinal
+~
+acoeleration will be greater
+written
+
+than &ha%gives
+
+by the f‘tist
+approximate
+ion
+
+alxwe. H the two defle
+otionsare opposed,on the other
+
+hard , the actualvalue of ~y w%U be less C=
+
+the approximate
+formula. ~se
+stituting
+
+y~,
+
+the
+
+total
+
+that given by
+
+effectscan be dlowed
+
+for by sub-
+
+def
+leot
+io~ for y= in the above eqoatioa,
+
+writing
+
+>
+
+In the glassfjbar imt~nt
+%yal AircraftEstablis&ent ~
+.05
+
+is
+
+devisedani used at the
+1.3 om. and ~ o rangesfrom
+
+to .08 om. For an acceleration g alcmg
+of
+
+qring
+—
+
+3
+&
+
+the
+
+SXis of the
+
+may
+would therefore .05. Zhe a,ccele20meter be
+be
+
+plaoexi
+with the qxis of the springcoinciding
+eitherwith the X
+a
+or the X-axisof the a5rplane. The accelerations long the Y-axis
+certainly
+never exceedg, whereasthe computation the behavof
+ior of a JM2 dur$nga loop showsVIE% the longitudinal
+*
+deceler* Fcrces in Dive and Loop: BulletinAirplaneEngineering
+Department,
+U.S.
+A., -hum, 1918.
+
+-9-
+
+Effectof .Angu.lar
+Accelerations.
+I
+The effectof angulw accderationcapmars in two ways.
+
+In the firstplaca, the spring,no matter where it may be placed,
+is affectedby the angularaccelera~ion such. Secondly, the
+as
+if
+originof oo-ordinates the springdoes not coincidswith the .
+in
+center of gravityof the airpbnc ail
+angularacceleration
+about
+thb C.G. wili give a Enear acceleratim tc the zgriw.
+The origin will be taken at the base of the springas a
+first assmption, being shiftedlater to amore convenient
+end
+logicallychosenlooation. An angularaccelerat~on ~ radians
+of
+per sec.per sec.,the base of the eprhg behg assunedto remain stationary,
+imposesupon every elementof lm@h
+
+A x a load
+
+x.lr&.w. x
+d
+t3
+
+wher~ w is the weightper unit length. The shearat a distancex
+from the base is, integrating
+from
+
+the
+
+free end of the spring
+
+the point in qyestion,
+Ga
+
+=
+
+s
+J—--T-x
+
+x.~.w.ti
+
+-
+
+- ka.w ~ J?Z4
+
+-
+
+‘—
+%
+
+)
+2
+
+and the beadingmorcent
+is
+Ma=_
+
+-ka.
+Pi~.~z~
+g
+
+-%-
+
+-
+
+X3
+
+-
+
+T
+
+Y3
+3
+
+)
+
+Integrating
+twicemore,
+
+Ya
+
+=
+
+X5
+$3=2
+(.—
++7
+gEI
+120
+
+ka.w
+
+!l!he eflection the free end is then
+d
+at
+
+&=3
+- —
+12
+
+>
+
+to
+
+-lo=-
+
+The direoterror arisingfrom a~gul,arC0~8ra%ions is
+W
+therefore
+di~ectlyproportional the lengthOY the spring,ani
+to
+the R.A-E. instrument,
+with its very short springwould seam to
+have amsrked advantxe in this particular. It is, however,evidbnt that ajudioious locationof ths originof co-grdinatas
+with
+raspecttc the C.Q. of the airpl~
+
+‘AIZ intr@u@
+
+titiaraec3l83-
+
+ations,resultingfrom angular aooelerations, hich will oounw
+terbalanoa
+the direct
+k
+
+e~fectof the aooelerated
+rotational
+motion.
+
+normalacceleratimr
+eqpired toproduoe adeflec-
+
+tioaequtvalentto that produoedbytha aqq2a.rsocslmationka
+would be of the magnitude
+
+where ~
+
+$s e~ressed in terms 03 ft. per sac. par sea.
+
+It is
+
+thent.evident
+that, if the centerof gra’’ityofthe airpl~
+in
+
+the
+
+pkrm of the s@ng
+
+&
+
+u
+
+15 of its 2engthfrom its base,
+
+there will be no deflect%onof tha
+angularaccelerations, ha tm
+t
+
+lies
+
+free
+
+end of the spring due to
+
+mannars in whioh the effeotsof
+
+suoh accelerations
+.appeesust canoelling
+j
+eaoh othar. If the waight
+is COn0&ltrat8d the tip Of the 8Ering,insteadof being uniat
+foz@v distztbuted
+a.lo~ its whole length,the free end shouldobviouslybe at the C.G. Compromising
+betweenthe two conditicxls
+it maybe saidthat, foz the accelerometersow in use, the bcmn
+tionof tha mountingshou.ld~ such that the C.G. lies from75%
+to 8* of the way out along the sprtng,
+
+~ the C.G. is ~t at the poi~t thus defirsd %isre axe_
+been pointedout, two posstblesorts
+
+as has alresdy
+
+of error. The
+
+w
+first of these is the error due to angularacceleration hen the
+C.G. lies in the exis of the spriug. 3y properlychoosingthe
+
+or-
+
+igin in the springthe directeffect of angukr accaleraton can
+i
+be eliminated,
+and the totaleffeet can ‘be
+reducedto that of a
+linearacceleration
+given (in terms of g) by
+
+the
+
+expression:
+
+whera d is the distancefrom the centerof ~r.avityf the airplane
+o
+to a pqint in
+
+s-pringnd 75~ of its lengthfrom the base.
+a
+
+the
+
+The aaal.ysis the ‘lcopproblerq~!
+of
+alreadymentioned,
+showedthat,under the conditions
+&sumed, the angularacceleration about the Y-sxishas a maximm value of 10.
+!5radiaasper sec.
+.
+
+.
+
+per sec. at the instantwhea the elevatorwas pulledup, t-hat
+it
+ESUS
+
+to 2.4 rad &ans per sm.
+
+it never
+
+per sec. in 0.3 second,
+
+and t’hat
+
+rises above 1.0 rad. per sec.per sec. after 0.9 sec.un-
+
+til the loop is completed. The aseumptiolq
+~ada b this tiyeis,
+that the elevatori’s
+pulledup instantaneouslys, of course,nuch
+i
+too severe,and it is probablethat 6.5 zad. per sec.per sec. is
+the largestacceleration pitch that an airplanewould ever
+in
+have to undergg.
+
+Experiments the rollingmoment due to ths
+on
+
+aileronssuggestthat the acceleration
+about the X-axishas a
+maximuavalue, on
+rd.
+
+per
+
+sec.
+~
+
+small
+
+and
+
+media-sized airplanes, abo-at
+of
+5
+
+per sec.
+~,
+
+~,
+
+d
+
+dz be the projections the three axes
+on
+
+of the distancefrom tha originof co-ordinates the .$pri~to
+in
+
+“
+
+W28F
+%he aenterof gravityof the &%rpl&%, it is evident%hat the m~iin
+ma error due to acceleration roll is 0.15g when ~
+
+is 1 foot,
+
+and that the similarerror arisingfrom the pitchingmotion is
+0.20g when%
+
+is Zfoot.
+
+ed valuesfor the en@ar
+
+Corrections
+c=be
+
+made, using estimat-
+
+accelerations,hich Gan be reliedwon
+w
+
+to reducethesa esrorsby abotit
+6@,
+acceleration, hus oorreoted,
+t
+m~
+
+Iaorder that the normal
+
+be accuratewi.this.05g,the
+0
+
+value of ~ Zntist 18SS than 7*O and ~ mot not ezuoedlW.
+be
+The other source:of
+error is
+
+the
+
+centripstal
+accelera-
+
+tion dm to anguiarvelocity. In the usual case,where the acceleration
+
+along the Z-axis are being measured,cantx3.?etaL
+ac-
+
+celerations
+arise whenevesthere is ~
+
+roUing or ~ltch~% mo-
+
+tioza the activemass of ths imtruent Zs above or below the
+if
+C.G. The accelerat%oa
+is, of course,
+%=
+The loop analysisshoweda
+iens per
+
+sec.?.
+ocourring0.6 eeo. ~+ter the slevator
+was pdileduy.
+
+Since the theoretical
+time for c~pleting the 10CP was about a
+thira less than actualmeasurement
+shows to be sequired,this msimum is about 5% to~ high, and the trwe maximummay ‘be
+taken as
+1.2 rad. per see. Sinoe it is reportad that an drpl~
+
+Oan bS
+
+rolled onto its badk in 3 sec. the maxirmmrollingvelocitymust
+,
+be about 1.5 rad. per see. The ~rrorwhen ~
+
+is 1 foot would thea
+
+be o.o?g. As in the case of angularaccelerations, p~oximata
+a
+corrections
+can be made, and
+
+the
+
+error reducedby at least50~.
+
+To keey the correcte&
+value of the rsrmalaocelmatim withh 0.05 g
+
+.
+
+-1303 the truth,d= must not exceed16”,
+realize,and it will usuallybe found that tbe best plaoe for
+mounting
+
+an acoals20mete2
+The dynem%c8 of
+
+a subsequent
+report.
+
+,
+
+is directZyabcwa or below the C9G.
+will be treated in
+

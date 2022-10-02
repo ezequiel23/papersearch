@@ -1,0 +1,878 @@
+-
+
+o1
+
+TECHNICAL NOTES.
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+No . B.
+
+by
+
+E. Unger and E. Schmidt.
+
+Translated from
+Techniscbe Eerichte Vol. III - Section 6.
+,.'!
+
+by
+
+Starr Truscot t I
+Aeronautic Engineer.
+Construction & Repair. U,S.N.
+
+1920.
+
+...
+
+- ~- --~----------
+
+/
+
+~
+
+r)
+
+DURALUMIN
+By E. Unger and E. Schmidt .
+Translated from Technische Berichte Vol. III - Section 6.
+The use of duralumin in the construction of aircraft makes
+an account of the properties of this material desirable especially
+with reference to its working qualities as developed
+Composition. SpecifiC GrQvity
+
+~
+
+by
+
+experience .
+
+Melting point .
+
+Dural'Umin is made in various compositions and bas, with the
+exception of small quantities of
+Al'Umimn
+
+the following composition:
+
+~purlties,
+
+95.5 to 93.2 percent
+
+Magnesiun
+Copper
+Manganese
+
+.5
+
+II
+
+3.5
+
+n
+
+5.5
+
+"
+
+.5
+
+II
+
+.8
+
+"
+
+Lead, tin and zinc which, as is well known, have an unfavor-
+
+able influence upon the pennanence of aluminum' alloys, are not found
+in duralUlllin.
+The specific gravity of duralumin varies according to composition and hardness from 2.75 to 2.84.
+
+The melting point is about
+
+6500 C.
+Duralumin is made under this name by the Durener Me tal 1war ke ,
+Duren (Rhld), and under the name of Bergmetall by Carl Berg, Eveking
+(West!. ).
+
+Working of Duralvmin
+Like other metals, dural'Umin can be rolled
+
+in~o
+
+plates and
+
+shapes and behaves in a similar manner, in that the elongation decreases as the hardness of rolling increases.
+
+Tube blanks, however,
+
+- 2 can be made only by pressing and not by the oblique rolling method.
+Fig. 1 shows the increase in tensile strength and decrease
+in elongation of a duralumin plate as its thickness is reduced by cold
+rolling from 7 mm. to 2 mm.
+
+The strength increases from 41 kg. to
+
+about 54 kg. per sq.mm. while the elongation falls from 22.7 to 2.3 percent.
+
+The curve shows that the elongation decreases very rapidly with
+
+the very first reduction in thickness.
+However, duralumin can be worked hot at a temperature of
+about 4000 C. very well.
+Tempering
+I
+
+Dutalumin can be tempered, like steel, by heating and sudden
+cooling.
+
+For this purpose plates, tubes, and shapes are heated to be-
+
+tween 4800 and 5100 and quenched, then aged; that is, the treated
+material is s~ply set aside.
+
+~he original strength characteristics
+
+are very nearly restored atter the quenching but the tensile strength
+continues to grow with the time of ageing, from 35 to 50 kgs. per
+sq.mm.
+
+The elongation does not decrease but remains at least the same
+
+and usually incre~ses slightly.
+
+In practice the greatest strength is
+
+reaChed after about 5 days of ageing.
+When heated to over 5300 C. duralumin becomes unusable.
+
+Con-
+
+sequently the treating is carried on in a bath of nitrates whose temperature can be carefully regulated and watched.
+
+During the ageing of
+
+the metal work cannot be done on it which would change the section
+as in that case the strength will not increase any more.
+
+After the
+
+completion of ageing, the material can be re-rolled in order to obtain
+smooth surfaces.
+elongation.
+
+The strength is thereby increased at the expense of
+
+- 3 -
+
+Fig. 2 shows the increase of strength o.ur ing ageing.
+
+The ten-
+
+sile strengths were determined by the Ericson test ·with 0.385 as a coef- .
+ficient.
+
+This value was obtained from the experiments described below:
+Exper1ments have Oeenmada (see Fig. 3) by ·the Durener-Metall-
+
+werke to determine the most favorab l e quench.i ng
+
+t empe~atu:re.
+
+The curve
+
+flail shows the va:iation in the strength of duralumin which had been
+aged fo·r 4 days with the variatiC?n of quenching :temperature .
+shows the strength immediately after the quenching.
+~~re
+
+Curve lib"
+
+The strengths
+
+determined in both cases by the Ericson test.
+As the material may warp in t eropering it is not good pra.c- ·
+
+tice to temper riveted parts.
+
+Such parts should be tempered before
+
+they are riveted.
+Strength Properties
+Duralurnin is delivered in various ccmposi tions which have
+different properties according to the purpose for which it is intended
+to be used.
+
+It is therefore
+
+~portant
+
+tbat the concern
+
+s,~plying
+
+the material should be informed regarding the nature of the working
+proposed.
+
+in Tabl e 1 below are assembled the strength figures of
+
+some duralumin
+
+compositi~ns
+
+made by the Durener-Metallwerke.
+
+- 4- -
+
+Symbol :Condition:Method of:Elastic :Tensile :Elonga:Preparing: limit !strength:tion in
+for
+;
+:kg/rrm2 ~ kg/rrm 2 :
+%
+CompoSition
+681b 1/3:tempered :tempered :24 to 26:38 to 40:
+only
+
+6alb 1/3: 1/2 hard:tempered
+.:.snd cold
+:rolled.
+
+Sala
+
+30
+
+20
+
+:Modulus :Sections
+:of elas-:available
+:ticity
+: kg/cUfTubes,
+about
+:500,000 :plates,
+: strip s~ t'l8.~S
+:& shapes,
+
+:40 to 42:16 to 14:500,000 :Tubes
+:plates,
+: strips, bars .
+
+:tempered :tempered :25 to 27:38 to 40:20 to 18:600,000 :Tubes,
+:plates,
+only
+; strips, bars
+:& shapes .
+: Tube s ,
+:tempered :30 to 32: 44 to 46:11 to 10:
+hard
+:plates,
+& cold
+:strips,bars
+rolled
+!& shapes.
+:tempered :tempered :26 to 28:39 to 42:18 to 15:600,000 :Tubes,
+:plates,
+only
+:strlps,bars
+:& shapes.
+
+681h
+HARD
+
+: tempered
+only
+N
+
+:tempered :32 to 34:45 to 48:11 to 10:
+:and cold
+rolled
+forged
+rivets
+:are tempered
+
+20
+
+: Tube s
+:plates,
+I strips, bars.
+
+:32 to 34:18 to 14: Shear :Finished
+: strength: rivets.
+:up to 6 .
+:mm.diam. :
+:25 kg/rrm 2
+
+The modulus of elasticity of the hard composition 6ala was
+found by the Techniachen Bochschule .Aachen to be 700,000 kgs. per sq.. em.
+
+Making allowance for the possible effect of vibration on the modulus of
+elasticity it appears better to use not more than 650,000 kgs. per
+
+s~.
+
+em. in computations.
+In j'lldging as to the suita.bility of a ma.terial for use in
+
+stressed parts not only the tensile strength but also the ductility is
+of great
+
+~portance.
+
+This can be determined by bending strips baCk-
+
+l
+
+- - - --
+
+-
+
+--- .,..---
+
+---
+
+-
+
+-----
+
+-
+
+-- -
+
+--- - - - --
+
+-
+
+- ---
+
+- - -------,
+
+- 5 ward and. forward through 1800 over a. definite ra.diUS - usually 5 to 10 n:m.the number of bends before frscture being taken as a measure.
+
+Other
+
+conclusions as to the ductility can be obtained from the Ericson test
+(see Fig. 4).
+a
+
+head.
+
+at
+
+The plate to be tested is pressed through a. ring, b, by
+
+until a tear shows on the upper surface of the sheet.
+
+The
+
+depth of the impression is then a measure of the ductility.
+In Table 2 there are compared strength values, numbers of
+bends (over 5 rom. radius and. through 1800 ) and depths of impression
+as observed on Bergmetall plates and steel piates of
+
+e~ual
+
+thicknesses.
+
+Table 2.
+Strengths. No. of ben4s. depths of imRressiQPs fQr Steel and Bergmetall.
+S tee 1
+B erg met ~ 1 1
+Tbickness:Strengtb:E1onga-:No.Bends:Depths:Strength:Elonga-:No.Bends:Depth
+of
+: kg/mm 2 :tion %:
+:of ~-: kg/mm2 :tion %:
+:of ~Plate
+:press-:
+:press: ~on mn:
+: ion rom.
+0.5
+
+36
+
+10.5
+
+76
+
+7.2
+
+1
+
+34
+
+47 ,
+
+39
+
+26
+10
+
+95
+
+2
+
+15.3
+12.0
+
+10.9
+
+45
+
+3
+
+40
+
+17.7
+
+6
+
+47
+
+5.5
+33
+10·9
+4.2
+3
+11.0
+lLO., :Fractur-: 3.4
+~tHl
+
+48
+
+14.1
+
+48
+
+4
+
+13
+
+9.7
+
+at 900
+:Fractur- : 3.0
+:ed at 60 0
+:Fractur- : 2.A
+:ed at 450
+
+.Although the strength values of the steel plates are less than
+those of the duralumin plates, nevertheless one can compare the figures
+as to number of bends and depths of impression without correction, since
+it is possible to obtain steel plata with higher strength which also
+possesses great ductility .
+The number of bends (see Fig. 5) for both metals decreases
+with increased thickness.
+
+For steel, however, they lie considerably
+
+- 6 -
+
+higher than for duralumin.
+.5
+
+lWl.
+
+in thickness.
+
+The difference is least for plates under
+
+For thicker plates of dural'umin the number of
+
+bends decreases very rapidly.
+
+0
+
+A plate 2 rom. thick breaks over a 90
+
+bend; a plate 4 rom. thick over a 450 bend.
+
+From these results dura-
+
+lUlIlin might be referred to as "cold short" for thicknesses greater than
+1 mm.
+
+This property makes it uns~itable for highly stressed parts
+
+which must at the same time withstand vibrations.
+
+This is of pr~e im-
+
+portance in connection with the bent lug plates which are ordinarily
+used in aircraft for taking wire terminals;
+
+In these lugs vibrations
+
+undoubtedly occur dux ing flight which \"lould reduce the strength of the
+dural'\llllin and might cause sudden fracture.
+Exactly how vibrations influence the modulus of elasticity
+has not yet been determined, although experiments along this line are
+already under way.
+A comparison of the depth of
+
+~pression
+
+of steel and dura-
+
+lumin shows (see Fig. 6) that for steal the depth of impression increases with the thickness of the material while for duralumin it decreases.
+
+As a result of a peculiarity of the testing machine used the
+
+greatest stress occurred at a point which was from 5 mm. to 6 mm. from
+the vertex of the depression.
+flow before cracking.
+
+In this locality the material began to
+
+It is obvious that thick plates of ductile
+
+material may be stretched more easily on the upper surfaces and consequently deeper impressions obtained than with thin plates, since for
+thick plates more material can flow before fracture occurs.
+
+A similar
+
+course of reasoning can be used to explain the decrease of depth of
+
+nn-
+
+pression with increasing thickr£ss of plate in the Case of material of
+less ductility.
+
+On the upper surface of the test pieces there occur
+
+,
+- ? wi~h '
+
+high tensile stresses at the point above mentioned, which increase
+tbe strength of the plate.
+
+As the material flows only to a s.mall de-
+
+gree, cracks very soon appear and extend into the interior.
+
+The pro-
+
+cess described can be followed on the sections of a steel plate of
+about 40 kgs. per sq.mm. strength and a duralumin plate, Fig. 8.
+
+The
+
+flow before fracture of the steel plate is plainly recognizable while
+the duralunin plate shows
+
+hardl~
+
+a sign of it.
+
+Fig. 9 is a photograph of a test sample of strong duralumin
+
+plate after fracture in whiCh the material suddenly split in all directions.
+For flanging and pressing tempered duralumin is consequently
+suitable only in the thin gauges .
+. Influence of heat and cold.
+Heat has an important influence on the strength of duralumin.
+According to the results obtained in tests by the Central Bureau
+
+~or
+
+Scientific Investigation, Neubabelsberg, when heated the strength
+decreases 10% for an increase in temperature of 1000 and about 20% for
+an increase of 1500 (see Fig. 10).
+with the increase OI
+
+temperature~
+
+The loss in strength increases
+The elongation increases on first
+
+heating to a hardly appreciable extent. while between 1500 and 2000
+it decreases.
+temperature.
+
+At 2500 the elongation becomes the same as at room
+With further heating the elongation increases with in-
+
+creaSing temperature.
+
+Consequently wherever dur.alumin is exposed to
+
+heat the possible decrease of strength must always be considered.
+As opposed to the foregoing the influence
+strength properties is less unfavorable.
+
+of cooling on the
+
+The Central Bureau for Sci-
+
+entific Investigation has made tests on this also (see Table 3).
+
+- BTabla 3 .
+Influence of Cold on the Strength of Duralumin.
+Tasting
+:Tbe bar was:
+Tensile Tests
+: Impact Te st
+Temperature: tested in :L:imit of.: UU. Str~ngth;Elongation :Work of bZeaking
+:stretch: kg/mm
+:
+% : kg/mm
+:& strain:
+20'~
+
+42.5
+
+o
+
+43.0
+
+20
+
+40
+
+'i
+
+2.6
+
+43.7
+
+21.9
+21.B
+23.1
+
+2.7
+
+44.0
+
+22.1
+
+2.7 .
+
+--~~-----------------------------------------
+
+2.6
+
+BO
+
+25.2
+
+44.4
+
+22. "7
+
+2.7
+
+190
+of
+
+: C 02 snow
+
+:Liquid Air
+
+32.3
+
+53.7
+
+2B.7
+
+2.6
+
+20
+
+Air
+
+23.0
+
+42.3
+
+23.3
+
+2.6
+
+The strength and elongation increase somewhat with the decrea se in temperature.
+
+The work
+
+r~pr ~ :l:t;.t~ci
+
+by
+
+tow
+
+blo\'l in the· impact tests is not
+
+decreased when material is affected by cold so that one
+
+c~
+
+safely as-
+
+sume that the cold encountered in flight has no unfavorable influence
+
+on duralumin.
+Experiments on the influence of weathering on
+
+th~
+
+strength
+
+of duraliJIDin, wpich have been carried on by the Durener-Metallwerke
+for 3 years, have shown that no observable decrease
+properties can be noticed (see Table 4).
+
+in the strength
+
+- 9 -
+
+Table 4.
+Effect of Weathering on the Strength of Duralunin.
+Testing
+Dec~ 1909 :
+Nov. 1910:
+Dec. 1912
+Nov. 1911
+Data.
+:StrgtR:E1ong-:Strength:E1ong-: Strength Elong-: Strength=E1ongAlloy 681a. :kg/mmG:ation :kg/mm2 :ation: kg/mm2
+kg/mm2 : at ion
+at ion
+
+%
+
+%
+
+•
+Round Bar
+
+%
+42
+
+21.1
+
+42.9
+
+18.3
+
+19.6
+
+39.3
+
+18.9
+
+40
+
+20
+
+39.1
+
+18.0
+
+39.3
+
+18
+
+42.3
+
+16.5
+
+20.1
+
+45
+
+20.1
+
+44.3
+
+19.7
+
+44.5
+
+19.8
+
+20
+
+44
+
+19.6
+
+42.5
+
+18.7
+
+43.2
+
+18.5
+
+41.7
+
+20
+
+42.2
+
+21
+
+Bar (thick): 39.1
+
+20
+
+38.7
+
+20
+
+Wire ( thick) : 48.0
+
+Wire (thin) : 46.3
+
+Bar (thin)
+
+.
+
+42.0
+
+%
+
+The Durener-Metallwerke have also carried on for about a year,
+exper~ents
+
+on the influence of the electrolytic effect from junctions
+
+of duralumin with iron or steel.
+
+These were made by riveting duralumin
+
+bars to iron plates and then placing them in artificial sea water .
+There resulted only an insignificant destruction of the iron and a reduction in weight of the bars of about .23% so that no considerations
+exist against the use of duralumin and iron junctions in aircre.ft.
+
+Dural'\1ll1n has a strength of 35 to 40 kgs. per sq.mm. and an
+elongation of 10 to 15%.
+
+ThG stretching strain limit lies very high,
+
+about 28 to 32 kgs. per Sq. meter.
+
+The modulus of elasticity is about
+
+600,000 to 700,000 kgs. per sq.cm.
+
+It is very brittle especially in
+
+thicknesses above 1 mm. ani consequently sensitive to bending to and
+fro (altarnating).
+Bent Plate Fittings, with bent lugs which must resist vibration are
+best not made out of duralumin but of sheet steel.
+
+For stressed parts
+
+- 10 which while in flight are exposed to an increase in temperature of
+more t.han 1000 C the use of duralumin is objectionable unless a correspondingly smaller strength value is used in computations.
+has no harmful influence on duralunin.
+
+Cold
+
+The joint between iron and
+
+steel and duralumin can be made without electrolytic action occurring.
+Pieces, which for better working must be heated, must be in all
+cases re-tempered after completion.
+By Starr Truscot.t,
+
+Aeronautic Engineer •
+.Bu. C. & R., U. S.N.
+

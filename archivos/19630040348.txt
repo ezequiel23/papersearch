@@ -1,0 +1,874 @@
+·
+
+,
+
+63 82282
+
+REPORT No. 98
+
+DESIGN OF WIND TUNNELS AND WIND
+TUNNEL PROPELLERS, II
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1921
+
+•
+
+{
+
+REPORT No. 98
+DESIGN OF WIND TUNNELS AND WIND ·TUNNEL
+PROPELLERS, II
+By F. H. NORTON and EDWARD P. WARNER
+Langley Memorial Aeronautical Laboratory
+National Advisory Committee for Aeronautics
+Langley Field, Va.
+
+16080-21-1
+
+REPORT No. 98.
+THE DESI GN OF WI ND TUNNELS AND WI ND T UNNEL PR OPELLERS, II.
+B.I' £i'. II. ~OIlTO'l ,me!
+
+EOWAIW
+
+P.
+
+WARNIlR,
+
+:\atioJ1<11 ,\ ch'ieol',I' Co mmitt ee
+
+1'01'
+
+Aeronau(ics.
+
+SUMMARY.
+
+This report is a C'ontillllatio ll of ~ati()llal Alh' i s()I'~' ('omrniLte(' for ~\. (,I'OIl<Wtj('H l{('por(
+No. 73 , and was undertaken at the L angley Memorial J\.('J'oIlClut ica l LHhorntor)' for th(' purpm;(,
+of upplying fur ther data to the de-;igner of willd Lunncls. Particular emphas iH waf! plllc('d
+on the study of directional variation in the wind stream, For this purpo c a rccording yawmeter, which could al 0 be used as an ail'. peed meter, was de\-c loped, and gayc vcry ati. f acto]')'
+re ults. It i regrettahle that the voltage supplied to the driving motor was not very con tant,
+due to varying loads on the line, hut as thif! motor was of a lightly loaded induetion type, tJ1('
+variation in speed was not as l nl'ge ru the varintion in yol Lage . The 'w ork was carri('d on hoth
+in a I-foot model and the 5-foot full-,.;i7,C'<1 tunne l, Hnd where\'('J' po::;;;ih\(, a comparison ,,,aR
+made between them. It was found that placing radial vancs directl)- h('foJ'c the propC'lkr
+actually inc[,eased the cfTi('ien(')' of the tunnel to a C'onsidemhle extent. Th c plaC'ing of a
+honeycomh at the mouth of the experimcntnl portion was of Ll1(' gr('ateRt aid in imprm'ing the
+flow, but, of courRe, so mewh at rellu('cd th(' dflci('l] cy. S('\-('ral typc;; of din'llR(,rH w(,r(, tri(>o
+in the return air, hut only s ligh t improye mcnL r('sult C'd in th(' s tcadilless of fl ow, thc~r no t heillg
+nearly as effective as the honeycomb.
+APPARATUS.
+
+The efficiency of the tunnel and Lhe lip of Lhe propeller were determined hy the arne
+method as de crib ed in Report No. 73 , hut to hetter record the flu ctuations in veloeit~, and
+direction a recording instrument was constructed. T his instrument, as sh own in Fig,. 1 and
+2, ('onsist. of a thin mica diaphragm whose moycment 1'otateH a very light , pindle co nta ining
+a small, ilvered m irror. L ight from an illuminatecl slit is transm itted b.y a lens Lo this mirror
+and the reflected heam is then focused on a moving photographic film , 0 that an~v movemont
+of the mica diaphragm is recorded as a continuous curve. By this methorl any small <111( l
+rapid variation in the air fl ow of the tunnel is indicftLed and re('orde(l b)' means of a Pitol- tatic
+tuhe which i. connected to the two compartments eparated by the diaphragm, and Hny
+change in direction i.' recorded in the samE' wa)' hy connecting the R
+ides of n, )"n.whead to
+the compartment' on opposite ide of the mica diaphragm. The Pitot and the co nnecting
+tube are made comp aratively large so that any rapid nuctuation in "elocity enn he immediately
+transmitted to the diaphragm without dampillO' oj' lag. Over ,50 1'e('ords were taken hut oll ly
+a fe'" typical ones are reproduced here. Numerou ' exp-erimenl on the efficien cy of tunnels
+and on speed fluctuation have previou ly been m ade in England. I , 2, 3
+EFFICIE CY AND SLIP WITH NEW PROPELLER.
+
+In order to give a more e\en flow of air in the exiL cone n new propeller wa,"! dC'sigllcd ro r tlte
+model tunnel having a larger pitch at the tip so that the ail' in thiH portion wou Id he ell'awn
+through with a relatively greater veloc,ity. In ever)' other re.' pect this propeller is ver)r simila),
+to the propeller u 'ed in the te.'t descrih ed in R eport No. 73 , which, owing to a piN'e of wood
+being dropped in the running tunnel, wn. compl etely destroyed. In Fig. 3 is shown the efTilOney of this propeller when working in a paraholi(' ('one nnd in n straight co ne. It will he
+noted that in the same way as wi th the fIrst propeller Lhe straigh L cone i co nsiderably more
+I .\n Im"estigatioll into the Steadinc(;S of Wi nd Chmmels, by 1.. B"irslOw "nel Harris Ilooth: Briti sh .\dyisory C'on!'nitlec for .\erona uti cs,
+R . & M. 67, September, 1912.
+'Experiments on Models of a "Duplex" Wind C'hannd, by 'I'. )~. Stanton "lItl J. II. Hyde.: Brit .. \. C . .\., H. & M ..;22, NO\'ember, 1917.
+a Reports on Tests of It Model of the Proposed i·foot Wind Channel at the H .. \. g., by C. O. Sandison ,m(/ W. K . Allord: Brit. A. C . •\. , n .
+& M. 574, December, 191 .
+
+3
+
+TIEPORT .r~ATIO:NAL ADVrSOTIY COi.\IMITTEE I<'OR AlmONAUTICS .
+
+4
+
+efficient at high speed than the parabolic cone. In Fig. 4 is shown tl:e ~lip of thi. propeller
+in the paraholic COlle and in the strai.ght cone and it is noted tha~ lhe slip IS Ie. s at lugh Rpeeds
+for the straight cone. 11, is then evident that the straight cone IS aerodynamIcally superIOr Lo
+the parabolic cone, in additi.on to being easier to build.
+
+N92.k
+
+~ EFFICICIVCY W/7lIPROPCLL ER
+2.50 In sfr oiqh f & p orobol/C c o nes.
+
+I
+
+l
+
+.ZOO
+
+~
+L
+
+I
+
+I
+
+I
+
+V
+
+4 0 00
+
+/ fa'
+
+I..
+
+~~
+
+~
+
+~
+
+6>
+{
+
+... X' .
+
+00;
+
+~
+
+If
+....(
+
+?
+
+.~
+
+.50
+~
+
+.r>W'
+
+~
+
+10
+
+Y)0
+
+V
+
+30
+
+Air speed In mp. s.
+
+40
+
+1
+
+.J4
+
+/
+
+~
+
+~
+
+(.,0(1
+
+. 0,'('
+
+~ ~\(0
+•
+
+(
+/000
+
+~
+
+~O
+
+Q..
+
+.p
+
+20
+
+. C
+~Iv
+
+~ .3000
+~
+\)
+~2000
+
+II
+
+I
+
+SLIPWITIIPROPCLL£R IVP 2
+lIn slroighf &por obolic cone s.
+
+5000
+
+V
+
+o
+
+rig. 4.
+
+10
+
+20
+
+30
+
+40
+
+Air speed in mop.s.
+
+EFFECT OF SIZE OF THE ROOM.
+
+11 the test runs described in Report o. 73 were conducted in a large room, approximating
+to free-air condilions. In the Le Ls described ill this report a temporary room was builL ar01.U1rl
+the tunnel, representing to scale the huilding provided for the 5-£00t . A. C. A. wind tunnel;
+and all runs except tho e shown ill Figs. 3 and 4 were made in thi model room. The cro s
+section of lhe model room and the win<1 tunnel are shown in Fig. 5. For the same power this
+room decreased lhe air speed from 60 lo .59 miles per hour or a decrease of ]4 ..5 per cent. In
+the small room lhe maximum variation of speod was ± 7 per cenL and the maximum variation
+in direction wa ' ± 10°. The air speed records show that for the first 20 econds after starting,
+in the large room, and for the first 10 seconds ill tho small room, the air peed is very steady,
+and that lhe fluctuations suddenly appear at a definite time and will be indicated on the record.
+This appearance of 'ueIden fluctuations seems to indicate that the largo part of the speed fluctuations nre due lo the disturbed air from the propeller a it retmns through the room to the
+entrance cone.
+EFFECT 01:<' RADIAL VANES.
+
+Eight radial vane,; 3 mm. thick and 4:.50 mill. deep were played symmetrically in the exiL
+cOile immediately before the ril'opeller. The 'o vanes joined in thl center in a stationery spinner
+which wa of the SlUl1e diameter as the propeller base. (Fig. 6.) These vane actually increased
+the speed of the air in the tunnel for the same power by 5 per cent, but the fluctuations in direction and velocity remained unchanged. In order to determine what part of the vane gave the
+increa eel efftcienc.', 25 mm. ,,,as cut oIr of the outer end of each vane and the run repeated
+which gave a 3 per cent incrca c in . peed for the same power over the tunnel with no vanes.
+Again the vane were cut oIr on the end 75 mm. and in this ell. e t.he same peed was obtained as
+with the tunnel without vanes. This seems t.o show that it is the whole area of the vane which
+acts as a traightener for the ail' flow and that no particular part is e pecially valuable in increa<;ing the effic,iency of the tunnel. Eight additional vanes 3 mm. thick were then placed
+a.long the inner surface of exit cone, each vane being 75 mm. wide. This distribution of vanes
+decreased the speed by 12 per cent for the same power and the variation in speed was ± 6 per cent
+
+r-.-
+
+FIG . 1.
+
+RECORDING AIR SPEED METER.
+
+FIG 2.-RECORDING AIR SPEED METER WITH ILLUMINATING AND RECORDING APPARATUS .
+
+Dl~SIGN
+
+OF WIND TU "NgLS ANU WIND
+
+TUN ~
+
+EL PROPELLERS, II.
+
+5
+
+---------------- -- ----------------------------- ------ -- l
+
+r-
+
+_ + - - - - - - - - - - - - - - 17'-0"
+: -1--- 4 '- Od' - - - - - i+-- - - - - - - - - 8'- 6 " - - - - - - - - - - + j
+_
+
+-I
+1
+1
+1
+1
+1
+1
+1
+
+1
+1
+1
+1
+1
+
+7'- O ~
+
+1
+
+1
+1
+1_-
+
+_______ _ _
+__ ___
+
+t:::::========'=========================~':::::::::~~~
+
+r-----------------------------,
+•
+
+8'-0"
+
+'I
+
+Mooa W7NO TUNNa AND ROOM
+rig. 5
+
+/rAOIAL
+
+VANL"S flY afT CONL"
+
+rig,6 .
+
+160 0-2l-2
+
+VANL"S IN L"NTRANCC CONl
+rig. 7.
+
+6
+
+REPORT NATIONAL ADVISORY COi.\IMITT¥ :FOR AERONAUTICS .
+
+and the variation in direction was :l- 10°. The same vanes were then placed in the entrance
+cone, as shown in Fig. 7, and in this ca e the speed was decreased by per cent and the va~'iation
+in direction was ± 8°. With this type of vane in both the exit and entrance COlle the speed was
+decreased hy 20 per cent for the same power and the variation in direction was ± 8°. It is
+evident from these tests that the narrow vanes in either the exit or entrance cones are of little
+value in any way.
+EFFECT OF PLACING SCREEN ACROSS THE TUNNEL.
+
+A section of chicken wire of 25 mm. mesh was placed across the e.·it cone 45 ccnti:rneters ahead
+of the propeller. The use of the chicken 'wire decreased the speed by only 3 per cent, 0 it does
+not seem that this distribution of screen would be of any great harm to the efficiency of the tunnel
+and it is of great usc in preventing small objects from heing dra"""Il into the propeller. A piece
+of window screen placed at the beginning of the straight portion of the tunnel decreased the
+speed by 14 per cent and the fluctuation in speed was -12 per cent and was - 10 per cent in
+direction, showing that the screen in no way helps the steadine of flow for the particular
+condition of thi te t. Screens have been used to advantage in other tunnels. ' With window
+screen at the mouth of the entrance cone the peed was decreased by only 7 per cent.
+EFFECT OF PLACING SPINNERS BEFORE THE PROPELLER.
+
+A spinner 75 mm. in diameter and 450 mm.long was supported hJ steel wire. hefore the propeller, as shown in Fig. 8. The use of thi spmner
+seemed to have no material effect on the air flow.
+steel
+
+THE EFFECT OF EXTENDING THE EXIT CONE
+BEYOND THE PROPELLER.
+
+wIres
+
+rr----......Jl\ · -
+
+By extending the exit cone as shown in Fig. 9, there
+was no change of the air flow in ide the tunnel, hut
+the tangential flow, which had heen noticed hefore
+with the propeller, was somewhat straightened out, and
+the air flow was more directly to the rear through the
+Fig. 8.
+extension of the cone. A c:dinder was then attached
+SPINNER
+to the propeller end of the tunnel as shown in Fig. 10,
+which decreased the air speed about 5 per cent, the air i' uing from the tunnel at a considerably
+
+1
+
+rig.IO.
+
+651· 9.
+CONICAL eXTeNSION
+
+o
+
+CYLINDRICAL eXTeNSION
+
+higher velocity and in a more compact stream, the borders of the stream still being sharply
+defined at a distance of 20 feet. As exten ions of thi kind mean a larger and longer building
+for the wind tunnel there would certainly be no advantage in using them .
+EFFECT OF HONEYCOMBS.
+
+A honeycomb wa constructed as ·sho,,·n in Fig. 11 and was pJaced at the entrance to
+the strnight portion of the tunnel. Owing to the difficulty in obtaining thin-wa,lled metal tubing
+and to the expense of con Lrueting honeycombs of this type, only this one was tried. It is
+
+1
+
+~
+------------------------------------
+
+r" G
+
+12
+
+VA RIATI O N IN DIRECTI O N IN THE MODEL TUNNEL WITH NO HONEYC O MB,
+
+F ::+/0
+
+-
+
+-
+
+'"
+11
+
+.
+
+.
+
+~
+
+~
+
+,
+
+-/0
+
+. S't!~ OI'7t?.s
+
+0
+
+I ...
+
+2
+F I G . 13 .
+
+I
+
+I
+
+3
+
+4-
+
+I
+
+I
+l
+
+VARIATION IN DIRECTION IN THE MODEL TUNNEL WITH A HONEYCOMB,
+
+I
+
+I
+
+/
+
+7
+
+DESIGN OF WIND TUNNELS AND WIND TUNNEL PROPELLERS, II.
+
+e
+I
+
+quite evident, however, even from this one test that the honeycomb is of the greatest importance
+in straightening out the flo"-. The speed is reduced 18 per cent and the energy r atio 45 pel' (;eD t
+by t,hi honeycomh, but the maximum speed variation was only ± 2
+.
+per cent and the variation in direction was reduced. to ±0.5°. In ~~
+order to show more clearly the great incl'ea,e in steadiness of flow, a
+curye taken with a recording yawmeter is shown for Lhe open tunnel
+' I
+and for the Lunnel containing Lhe honeycomb. (Figs. 12 and13.) It
+is e,-ident from these how great is the advantage of the honeycomb.
+i.'
+69· II.
+I
+,/3nu77.--l
+As the length diameter ratio in the tubes of this honeycomb are
+SeCTION Or HONEYCOM8
+onI}' 2~ it is quite possible that hy using longer Lubes the {low
+would be eyen beLter and the reduction in speed should not be appreciable. There seems to be
+no doubL from the.'le te'lts that the honeycomb is absolutely essential in most wind tunnels.
+
+,E:
+
+_
+
+EFFECT OF DIFFUSERS.
+
+The first diffuser tried is sho,,-ninFig.14 and con i t. essentially of a cubical box of which boLh
+side nre perforated with mall holes, whose diameter is equal to the thickness of the wall of the
+box and whose spacing between centers i about twice that of the diameter of the hole. This
+1 + - - - - - -- - - 8'- ON ---------~
+
+7 '- 0 '
+
+A= 60 em.
+8-1.8mm.
+C=3.6mm.
+
+rig./4.
+
+C08/CAL OlrrOSel?
+
+ri'g. 15
+
+OIFFUSER.
+
+box was connected rigidly to the rear of the exit cone so that all the air passing through the propeller mu. t eRcape through these small holes. It was hoped in this way to break up any pulsation which 'would originate from the propeller. This aJTangement decreased the speed of the
+tunnel by 7 per cent and the maximum variation of speed was
+±6 per cent and the direction variation was ±5°, so that it
+18mm.
+would seem that the flow is slightly straightened, but nowhere
+near as mucb as with tbe honeycomh. A second diffuser wa
+tried as hown in Fig. 15, which consists of a latticework across
+-16fflm.
+the tunnel room at the experimental chamber consisting of 50
+lUlU. square cells having a 6 mm. wall with a length 2t times
+their diameter. This diffu er only reduced the speed ~f the tunSECTION or olrrOSCI?
+nel by 2 per cent, and the maximum variation 'was ± 7 per cent,
+rig./6.
+and tbe variation in direction ,,-a ± 5°. Although this diffuser
+has '-cry littlo effect on the efficiency of the tunnel, at the same time it docs not much improve the
+steadiness of flow. A third difl'user wa constructed as shown in Fig. 16 and placed in the same
+po ition as the last. This c1iffu er decreased the airspeed for the same po,yer about 5 per cent, the
+variation in velocity was ± 5 per cent, and the variation in direction was ± 4°, howing only a slight
+
+8
+
+REPORT NATIONAL ADVISORY CO £MITTEE FOR AERONAUTICS .
+
+improvoment over the open room. It seoms strange that these diffusers did not improve the
+air flow more, as the British have found that difrusers greatly improve the flow in their tunnels.
+The results of the e tests would not, however, justify the use of a difl'user in a full-sized tunnel
+because of the rather large expen e of const~'uction of such a piece of apparatus.
+EFFECT OF PERFORATING THE STRAIGHT PORTION OF THE TUNNEL.
+
+In order to determine the effect on ail' flow of opening the doors in the cylindrical portion of
+the tunnel and in u ing mall hoI os for the introduction of apparatus, various tests were made
+on the model in order to ee how thi~ would eaect the efficien y and teadines of flow. Also
+the volocity of the air in the experimental chamber w'as determined by a small anemometer.
+A slot wa fir t cut in tho cylinder parallel to its axis and one-fifteenth of the diameter wide,
+running the whole length of tho experimrntal chamber. The air flow extended out about
+the width of the lot from the walls of the cylinder, and beyond this there was no flow in the
+chamber and the efficiency of the tunnel wa not appreciably all'ected. This slot wa then
+increa ed in 'w idth to one- i..'\:th of the diameter of the tunnel , thu decreasing the efficiency
+of the tunnel very lightly, and the flow of air extended about one- ixth of the tunnel diameter
+into the experimental chamber neare t the exit cone, but thi air flo,," wa Ie marked as the distance to the entrance cone was decrea ed. When the width of the lot was increased to threeeighths of the tunnel diameter the efficiency was decreased about 15 per cent and the air flow
+extended two-thirds of the width of the slot into the experimental chamber, near the exit cone,
+but there was no Ilow elsewhere in the experimental chamber.
+TESTS IN FULL-SIZED TUNNEL.
+
+A few tests were made in the large tunnel in order to afford a comparison with the model.
+In Fig. 17 is shown the slip in the large tunnel. In comparing this with a similar condition in
+the model tunnel (Fig. 4) it is se:m that for the S :1.ffi air poerl the revolutions per minute is
+140
+
+1000
+
+o
+
+SLIP
+
+or rive rOOT TUNNLZ
+
+w",h propeller
+similar fomodel N92.
+
+/
+
+I
+
+(
+
+~
+
+~
+
+V
+
+"-
+
+~600
+o
+~
+
+/
+
+~400
+l
+
+/
+
+/
+
+/
+
+V
+
+V.
+
+r/9· 17
+
+..
+
+,f /
+
+~ 80
+o
+
+,0
+
+~\
+
+,)~
+.,
+
+Ir)
+
+l
+
+~
+
+60
+
+t~O ~~-
+
+Ie, (0
+
+I'>:.
+
+i-~.,/"O~
+1\
+
+~O
+/
+
+r--
+
+I O+l>
+I ~(l ~\\
+
+/~, ~ J~
+?
+
+~
+
+20
+
+60
+
+o
+
+if /( (.
+
+~~' ~q)c
+·et 1+1 S
+
+&
+
+so
+
+I
+
+t,
+
+(
+
+V
+
+40
+
+I
+
+'!--,O
+
+/
+
+.30
+
+I
+
+rr.r-
+
+100
+
+40
+
+20
+
+I
+
+/
+
+/
+10
+
+I
+I
+
+I
+
+120
+
+/
+
+200
+
+V
+
+ErFiCIENCY or nVe rOOT TUNNLZ
+Wllh propeller
+sirr7l/or 10 modellV!',;?
+
+~ 800
+
+o
+
+J
+
+-" ~
+
+r/9· 18.
+
+~
+
+I()
+
+~
+cO
+
+,-
+
+;- //
+y/
+
+'"
+30
+
+40
+
+so
+
+A I;- speed /n rnp.,s .
+
+5.7 times as large in the small tunnel a. in the large one. Theoretically, the ratio hould be
+exactly 5, but the fact that the model test was run in a proportionately larger room would
+account for this difference.
+
+,r- - --
+
+•
+
+~o
+
+"
+~
+
+. .-.."'_--_-,.,.,t-_
+
+•
+
+I
+
+2.
+FIG. 19.- VELOCITY VARIATIONS IN LARGE TUNNEL WHEN THE DRIVING MOTOR WAS CONNECTED TO A 25
+K. W . GASOLINE GENERATING SET.
+
+$0 hlPN
+
+FIG. 20.-V E LOCI T Y VARIATIONS IN LA RGE TUNNE L WITH DRIVING
+L I BERTY G E NERAT ING SET.
+
+MOTOR CONNECTED
+
+TO A 300 K. W.
+
+DESIGN OF WIND TUNNELS AND WIND TUN "EL PROPELLERS, II.
+
+9
+
+As the exact efficiency of the driving motor in the large tunnel is unknown, a curve of
+horsepower supplied to the motor is plotted again t air speed, but to give some idea of the
+power supplied to the propeller a clotted curve is drawn from the estimated motor efficiency.
+(Fig. 1 .)
+.
+"
+In comparing thi curve with the one obtained in the model, it i seen that the full-sized
+t llunel is slightly more efficient, so tha,t results may be taken from models to safely predict the
+performance of the fun-sized tunnels. It is also interesting to notice that the power does not
+increase as rapidly as the cube of the speed but more nearly as T1z.s, although, as the efficiency
+of the motor is not exactly known, the value of the exponent can not be determined very closely.
+Records 'were taken in the full- ized tunnel of variations in velocity, and these are reproducNl in Figs. 19 and 20. In the first figure the wind-tunnel motor was connected to a gasolinedri,en generator of 25 kilowatts and records taken at several speeds. In Fig. 20 the motor was
+connected to a 300-kilowatt generator driven by a Liberty motor. The most important characteristic of these records is that the magnitudes of the fluctuations do not increa e as rapidly
+as the air speed, so that at the higher speeds, quite contrary to expectation the velocity is
+relatively steadier. The maximum variation in air speed at 90 miles per hour was about ± l.5
+per cent, where a in the model it was about ± 2 per cent, so that it would seem that the.steadine "tas about the same in any size of tunnel.
+Yawmeter records '."ere al 0 taken in the large tunnel, but were not reproduced, as they
+how practically a traight line, indicating that the honeycomb was saLi factorily straightening
+out the flow.
+ATURAL PERIODS OF TUNNEL.
+
+A wind tunnel acts as an open organ pipe aud its natural period will be given by:
+
+where 7 i the length of the tunnel in feet ,
+am1. r i the velocity of sound, or 1,040 ft. /sec.
+The model tunnel would then have a period of 0.03 seconds and the large tunnel a period
+of 0.15 second. Vibration of this nature are ",ery evident audibly in the tunnels at certain
+speeds, but do not seem to be present on thr re(·ords, a the piLot Lube is very nearly at the node
+of the yibralion. The honeycomb has a considerable iniluenc in damping these vibration,
+which are more of a cmiosity than of auy practical interest.
+AUTOMATIC REGULATORS.
+
+As it is nol practical to supply a con tant voltage to a wind tunnel, although some tests
+}Ulye heen made with storage hattrries where an extremely constant speed was required, it is
+rither neces ary to keep the voltage constant ns nearly as possible hy hand regulations or use
+ome type of automatic regulator. In small tunnels it is quite easy to regulate the wind by
+hand, but in larger tunnel the inertia of the moving parts is so great that there is considerable
+amount of lag between the change in regulation and the response of the air speed, making
+hanu regulation very difficul t. A very complicated regulator has been constructed at Gottingen
+(~. ~\.. C. A. File No. 5346-10) and seems to hold the velocity quite constant. There are
+al' o numerous electrical device for maintaining a constant motor speed, and some of these
+rrgulator will hold the speed within 0.1 per cent. It seems probable, however, that even if
+the revolution per minute of the propeller is con tant that there will still be fluctuations in
+the air peed, 0 that a succes ful regulator must be actuated by the air :flow. There is a great
+deal of work to be done on uch regulators, and the N. A. C. A. intends to carryon work of
+this kind in the near futur .
+
+10
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERO
+
+AUTICS.
+
+CONCLUSIONS.
+
+The qualities that should be aimed at in wind-tunnel design in order of their importance
+are:
+1. Constant direction of flow.
+2. Constant velocity of flow.
+3. niform velocity across section.
+4. Efficiency.
+5. Ease of working around tunnels.
+6. Simplicity and cheapness of construction.
+A good many of these qualities are contradictory, and the best compromise must be !Dade
+between them and the type of work that is to be undertaken. For example, a tunnel for te ting
+instrument should have a high efficiency, but need not have a very steady flow. On the other
+hand, a tunnel for testing wing should have its efficiency omewhat lowered in order to obtain
+a steady flow. It is quite possible to so arrange the honeycomb and diffusers that they may
+be removed when it is de ired to obtain the highest peed. I t would also be of value to make
+it pos ible to open the ends of the building, a there are many days when the wind would have
+little effect on the teadine ,and the efficiency would apparently thus be considerably increased.
+Thi arrangement would al 0 make it po sible to cool off the air in ~he building in a very short
+time, an advantage that would be greatly appreciated in hot weather.
+This work eems to show conclusively that a straight exit cone is more efficient than a
+curved one, and it i certainly cheapel' to construct. Diffusers affect the air flow very little,
+and they do not seem to warrant the expense of construction. Honeycombs, however, are of
+the greatest value and should be plac'e d in every tunnel.
+
+o
+

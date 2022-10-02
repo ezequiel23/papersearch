@@ -1,0 +1,390 @@
+REPORT No. 43.
+SYNOPSIS OF AERONAUTIC RADIATOR INVESTIGATIONS FOR YE&W
+1917 AND 1918.~
+By H. C. DICKINSONand IL V. KIJUNECHMJDT.
+
+During the past year an extensive swim of experiments has been conducted at the Bureau
+of Standards to determine the properti~ of cuoling radiator cores now manufactured for airplanes and to develop improvements in d#gn.
+The ardysia of the problem on which this
+work was based, and consequently the exp erimental method empIoyed, is different from that
+commonly used. Instead of attempting to tmt oomplete radiatom, eitlw full size or in models,
+uniform sections repr~entiug different type of core construction have been tested and an
+analyBis of the reaulta made with a view to detwmbing independently the various factors
+which infiuenoe its performance. From these results deductions may be made as to the performance of a radiator U.nda &ny conditions.
+The factors considered are:
+(1) The characteristic of the core structure, inchIaing depth, size, and shape of air and
+water passagm, nature of the metal and of the surfacm from which cooling takm place, and
+the amount and design of indirect cooling surface or ti.
+(2) The conditions of use, inoluding the amount of air flowing through the core (mass
+flow), the relation of the looation on the plane b the mnount of air flowing through the core es
+influenced by the phme speed, the tied of variable temperature of air and waterj variable
+air density, and the ef%ct of variable rate of water flow.
+The performance of a type of core is expressed by giving the properties of the core as
+defined below, together with gene.d relations showing the ohange of properties with change in
+cmuilitions and characteristic from which the performance of any radiator of the same core
+structure can be predicted.
+Since the completion of this work, reporta recekd from England and France have shown
+that many of these questions have already been studied there, and the rwdta agree substantiality with those obtained by this bureau. The work on akitude has, we believe, not been
+duplicated elsewhere, and the range of air speeds over which the observations extend has
+been increased in most cases.
+In the work done in Europe, the heat dissipated by the radiator has commonly been measured by pkwing the radiator specimen to be tested in a wind tunnel, the cross sectional area
+of whioh wss at le& three times that of the specimq since this was supposed to represent
+most nearly the conditions found in actual use. The method of attack adopted in this invwtigation calls for a more cMnite demription of the condition of air flow through the radiator, in
+order to slIow the performance of a radiator in any position on the pkme to be determined.
+A careful distinction must be made between the speed of the air approaching the radiator,
+or the speed at which the radiator is being carried through the air (free airspeed), and the amount
+of air which actually passes through the radiator (m= flow). When experiments are made in
+a bulkhead tunnel (a tunnel in whioh the speoimen completely blocks the channel) all the air
+which flows through the tunnel is forced through the tubes of the speoimen; while when the
+specimen is supportid in a tunnel whose oross sectional area is large reIative h the specimen,
+the amount of air flowing through the specimen depends upon the character of ifs design.
+In the British reports mention is made of the d@ring results obtained as tieoted by
+the kind of tunnel used. Their conclusion was to use the resuhe obtained b the free air tunnel.
+ofrodahd
+L Repart~umffdeDtfsIIY
+W
+
+dnrhs the war M Bureauof Sbtiartis AmmanW powar Hanta Report NIA
+477
+
+-.
+
+.—- —-.
+49.
+
+.. .
+
+478
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMM11EN3E FOR AERONAUTICS.
+
+The French attempted to measure the ‘(penetration de l’air” by means of pitot tuhw placed
+at various distances in front of and behind the radiator, but the rwdte are only comparative
+and furnish no m&mre of the actual maw flow of air.
+Since the air which actually flows through the core determines the heat dissipated, determinations of the heat dissipated in terms of free airspeed are not applicable directly ta radiators
+placed in any position where the flow of air is obstructed. Consequently, heat transfer and
+other properties of cores have been measured and exprwsed in terms of the mass flow of air
+through the core. A specially designed air Venturi has been devised with which this mass
+flow of air can be mm.sured, at least roughly, under ahnmt any conditions, and can be obtained
+hy laboratory tests iu the case of u radiator placed in the free air with all the accuracy required.
+In general, the mass flow constant wili he defined as the ratio of the mass of air actually
+which
+would pass through the same area if it were unobpassing through the mdiator to t.~ld
+structed.
+From the above discussion of mass flow and free air speed it is seen that there are two
+general CISSSW positions in which a radiator maybe placed on the plane, either that in which
+of
+the mass flow through the radiator is dependent solely on the properties of the core, or when
+it depends also upon the locatimr mr-the ,phme.
+If the radiator is placed so that the air may paSSthrough or around it without obstruction,
+it is said to be in an unobstructed position, and the properties of the radiator so placed are
+dependent solely upou the characteristics of the core, so that the effect of the radiator on the
+phme may be computed from the resuh of laboratory teeta, In particuhr, the power which
+is required to carry the radiator, that is, to lift its weight and overcome ita head resistance,
+may be computed.
+If the heat dissipated by an unobstructed radiator is expressed in horsepower (1 IL P-42,4
+B. t. u. per minute) this quantity maybe divided by the power akaorbed in carrying the radiator,
+both at the same free air speed, and the rdt
+will be a quantit~which expresses the efikiency
+of the radiator and may be used to compare various typee of core.
+This quantity is called the
+“Figure of Merit,” and is the critwion for a core to be used in an unobstructed position.
+When the air flow around the radiator is maiawhdly interfered with by other parts of the
+The nose of the fuselage and in the plane of the
+plane, the radiator is said to be obstrwhd.
+wing are the most important obstructed positions. The air flow through such a radiator (i. e.,
+its mass flow constaat), and consequently the cooling and other properties depend, not onIy
+on the type of core, but on the position and surroundhgs. If the air flow through the coro is
+known, the heat transfer cau be found from tests such as have been carried out on a large
+number of cores at this bureau, The absorption of powar which is chwgedle to the radiator
+depends, however, not ouly on the properties of the core but on what decreasas in totaI reAstance could be obtained by structural aerations in the plane if the radiator were not required.
+The figure of merit of such a radiator can consequently be found accurately only by experiments on models of ea~’htype of phne or by tests on full size planes.
+An indicatio~l of the desirable propertk for such a core can be obtained by uoting thtit
+the.resistance to the iiow of air through the core is composed of the resistance of the core and
+the resistance offered by the surrounding portions of the plane. In the case of a core phwed
+in the nose of the fuselage the latter res.istanre is large compared with the reaktance of the
+core itieIf. It is therefore de&rabIe to use, in an obstructed position, a core having a large
+amount of effective cooling surface per square foot of frontal area so that with a given air flow
+the maximum amount of heat may be dissipated.
+At the end of this report there are given curves showing the propertim of two of the best
+typasiof core for use in unobstructed positions (plots 1 and 2) and two of the best-types for
+use in obstructed positions (plots 3 and 4) thabhave been tested.
+The energy dissipated is given in horsepower per square foot of frontal area of core when
+there is a temperature difference of 100° F. betwwn the entering air and the mean of the teruperatures of the entering and leaving water. It has been shown that the energy dissipated
+may be assumed to be proportional to the temperature difference as thus dhed and to vary
+directly as the froutal area of the radiator.
+
+SYNOPSIS
+
+OF AERONAUTIC
+
+RADIATOR
+
+al
+
+r
+G a’
+
+I
+
+I-
+
+7
+
+1
+
+4
+
+1
+
+1
+
+,
+
+6
+
+Plotm,1.- Ws.Stiowof.4iAf~sqti~sec.
+
+,
+
+a
+
+10°
+
+INVESTIGATIONS
+
+FOR YEARS
+
+WY
+
+AND
+
+1918.
+
+479
+
+480
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+.—, ———..
+It@—
+
+COMMITTEE
+
+FOR AERONAUTICS.
+
+-.—
+
+- —..
+
+ffl
+
+w
+
+/
+
+,La?
+
+$
+~(w
+t
+m
+4%’
+.49
+.20
+
+0
+
+5
+
+/5
+
+M
+Altitude
+
+P/of Ho. 5
+
+1 .—
+—-- ———
+
+20
+
+2.5
+
+in 7Z&tsonu!s
+
+EFFECT-W
+
+WA
+
+30
+
+3
+
+offeet
+
+7?+ViLLZ/7Y
+
+on EnergyDiss@ni?dperMO
+
+OfmMpti
+
+—-
+
+“E TmpLWf~m
+Free AirSpeed.
+
+.— ....—
+83
+
+4
+
+f
+
+8
+
+Wu*rF..0Wh
+
+/2
+
+‘
+
+h5
+
+go~ perrnin.per fk
+
+20
+kvfb%
+
+a
+of Cons.
+
+28
+
+S3!XOPSIS
+
+OF AERONAUTKI
+
+BADIATOE
+
+INVESTIGATIONS
+
+FOE YEARS
+
+~17 AND N18.
+
+481
+
+The head resistance is the force on the radiator when the air sfrilm it rtorndly.
+It is
+expressed in pounds per square foot of frontal area for an air density of 0.0750 pounds per
+cubic foot.
+The horsepower absorbed per square foot of frontal exea is computed by dividing the weight,
+in pounds per square foot frontal area, by a E&-drift ratio (for m average phme) of 5.4, adding this to the head reaistmce in pounds per square foot frontal area and multiplying the sum
+by the free air speed in miles per hour and by a conversion factor (1/375) to obtain horsepower.
+It must be remembered that this quantity is of significance only in the case of an unobstructed
+radiator, sirmeit is under free air conditions that the head resistance is measured. Considered
+as a function of the mass flow through the radiator it is probable that this vaIue represents the
+minimum possible absorption of power in the case of an obstructed radiator, and that to it
+must be added any resistance due to obstruction of the air after passing through the core.
+Power absorbed by r&stance caused by necessary akwations of the fuselage horn the bwt
+streamline form possible without the radiatir must also be charged to the radiator.
+The figure of merit, as explained above, is the ene~ Wlpated by a radiator whioh absorbs
+one horsepower. It ako is of signMcance, as cmmputed, ordy for an unobstructed radiator.
+It must not ba confused with the British “@ure of merit,” which is a quantity of the same
+sort, but which is expressed in arbhsry units.
+The curve sheets also contain the most important structural characteristics of the cores,
+namely, the depth, the total mea of the caoling surfaca per square foot front, the percentage
+of the total surface which is direct (backed by flowing water), the percentage free area (the
+percentage of the total frontal area whioh is oeeupied by the air tubes), the weight of the core
+empty per square foot, and the weight of the water contained in a square foot of core.
+E~ect of rah of waterjlow.-fi<e effect of watar vcdocity on the heat dissipated is shown
+in plot 6. It indicates that at water flows commonly used in practice the energy dissipated,
+when the mean water temperature is used in computing the temperature ditlerenee, is not
+affected by the rate of water flow. At low water veIooities it decreases rapidly. The same
+gened behavior is shown by all the types of core tested.
+Since in practice the temperature of the entering water must not be too near boiling,
+tmd the temperature drop in the water will decrease with immeased water flow, the mean
+water temperature may be somewhat higher with a high rate of ilow than with a low one.
+This consideration points to the use of a water flow of from on-fourth to one-half galion per
+minute per horsepower to be dissipated, the latter value being d&rable if the resistance of
+the radiator to water flow is not too great.
+The work on the performance of radiators at high altitudes (see Report No. 62) carried out
+in a wind tunnel indosed in a steeI tank from whioh the air odd be partially exhausted, has
+shown that the heat dissipated by a radiator will be constant for a given mass flow of air,
+regardless of air density, and that the head resistance probably varies directly as the density
+for a given free air sped.
+We may assume that the energy dissipated varies directly as the
+temperature difference, as defined above.
+P1ot 5 contains two curves marked “Temperature factor” and “Density factor,” respectively. The temperature factor is the approximate ratio of the temperature difference (betwean
+air and water) likely to be encountered at an altitude to that to whioh the ground tests are
+reduced, viz, 100° F. The density factor is the ratio of the probable density of the air at an
+altitude to that to which the ground tests me reducad, viz, 0.0750 lb./ou. ft. These two curves
+are based on the assumption of a mean summer temperature and density of air and a mean
+water temperature 30° F. below the boiling point. They accordingly represent only one of
+many conditions that might be met and are given for the sake of illustration.
+With these factors and the experimental facts mentioned above, the performance of a
+radiator at any altitude can be estimated from the performance at ground as follows:
+Energy @i@ate-d.~btain
+the mass flow at the given altitude by muhiplying the mess
+flow at ground by the density factor. Obtain the energy dissipated per 100° F. (actual) from
+the curve of energy dkipatsd in terms of mass flow, as determined in laboratory tests, and
+multiply this edisipated by the temperature faotor.
+Doe.
+16iOS0-S. 30?, ~31
+
+..-.
+
+—..r
+
+—
+
+—.
+
+..—
+.
+
+482
+
+MUTUAL
+
+REPORT
+
+Heud re&tance.-MultipIy
+
+NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOE Al?M)NA~(M.
+
+the head resistance at ground by the density factor.
+w@ht fIUed speed in mi./hr. ~ where weight
+J?or8epouwrahw$ed= Head resistiume+~~~o
+375
+)
+)(
+(
+is in pounds per squsre foot of frontal area.
+ener
+dissipated
+Figi.we of ??writ
+=home::wm *bsorbecl”
+

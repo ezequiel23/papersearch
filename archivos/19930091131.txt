@@ -1,0 +1,3293 @@
+...- ,
+—..
+!,,
+
+,“ -. .
+~.
+—_
+
+_—
+
++-”’
+
+REPORT
+
+~Oe
+
+69
+
+.,
+
+A STUDY OF AIRPLANE RANGES AND
+USEFUL LOADS
+.
+
+v“
+NATIONAL ADVISORY ~OMMITTEE
+
+..
+
+.
+
+-
+
+FOR AERONAUTICS
+.-
+
+,.
+...
+
+..
+
+,
+. .
+
+PREPRINT
+
+FIiOM FD?TH ANNUAL ItEPOltT
+
+,
+
+.
+
+t
+
+.
+
+.
+.
+
+.
+
+.!-
+
+WASEINGT!ON
+GOVEBNMENi! PBINTRTG OFFIOE
+1920
+.
+“,
+
+31176013584538
+
+;;<”-’;.~a..
+—,-.
+
+.“
+
+REPORT No. 69
+
+A STUDY OF AIRPLANE RANGES AND
+USEFUL LOADS
+v
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT
+
+FRObi I?IFF-H ANNUAL REPORT
+
+.-
+
+WASHINGTON
+GOVEENMBNT PRINTING OFFIOE
+1920
+
+--
+
+—
+
+—
+.—.
+.- - :..-=
+
+—l—
+
+. ..-=.-
+
+.
+
+~ REPORT No. 69 ‘
+A STUDY OF AIRPLANE RANGES AND USEFUL LOADS
+By J. G. COFFIN
+Director of Research, Curtiss Engineering Corporation
+
+Part
+Part
+
+L-NUMERICAL
+IL—THEORETICAL
+
+Part IIL-EFFEOT
+
+ANALYSIS
+,
+
+ANALYSIS
+
+OF WIND ON RANGE
+
+.
+
+—144167-22
+
+.
+
+3
+
+“—-
+
+CONTENTS.
+Page.
+
+Introductory.-Stafement
+
+of the problem
+
+. . . . . . . . . . ..- . . . . . . . . .... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+.
+
+6
+
+PART L]
+for maximum mn~
+NnmericsI anaIysis. —Ekential data on the airplane umd in the calcuIatio~Condition
+of flying at
+Fuel consumption-Determination
+of the maximum load for a given objectiveConeequencee
+mazimum speed-FMng
+at minimum power-Time
+required for any range.. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+.—
+7
+
+PART IL1
+fo; horizontal flight-Condition
+&r minir&n
+work—The polar
+Theoretiosl analysis.-= Yotation-Equations
+of time-weight equation-Deducfion
+of the tim-die@gce
+equation—Deduction
+of
+diagram-Deduction
+the weight-dietsnce equation-Deduction
+of useful Ioad+jective
+distance equation-Proof
+that loadmethod for
+objective curve ie a straight lin-Effect
+of climb at etart and glide W end of flight-Simplified
+.
+on ceilinw . . . .
+applying the theory to a epecific c&Q-Effect of 81titude on epecd, power and time-Note
+
+14
+
+—.
+
+PART III.’
+curve method-Numerical
+example-%nge
+formulae
+Effeot of wind on range .—Best flight. speed-&ngle
+equation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .including effect of wimls-Weight-di&+nce
+.......................
+fhlmmar Y- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ----------------1Submitted Sept. M, 191%
+
+: Snbm”ttedS@. 1, 1919.
+
+5
+
+:
+
+—
+
+23. .
+29
+
+;:__:”.:”:
+.—
+
+IN pRODUCTION.
+
+estimates the fuel load is given usually in terms of ti quantity
+In airplane
+performmlce
+suffkient for a certain number of hours of motor consumption at full throttle. In a weightcarrying machine more useful Ioad mm, of course, be carried as tho fuel load rcquirecl LOatttiill
+tho objective is diminished.
+It becomes, therefore, of practical interest to cxamiue the rcltitio~ botwcog these loads
+in greater detail than usual.
+A machine can fly high or low, at maximum speed or at most economical speed, or at
+most economical power consumption. It is not at all evident a priori which of these or what
+combination of them is best under given conditions. The following study was primarily made
+to determine the conditions necessary to attain a given objective with the maximum bombing
+load and return.
+It is, of comae, evident that the calculations and theory as applied to bombing purposes
+will apply equally well for commercial load carrying purposes. TIM results aro dso directly
+applicable to “the iutemmtingquestions of long distance flights, across the oceans or for purposes of exploration,
+The investigation was made by two independent methods, one involving tho usutd pcrformmce estimate methods, the other based upon theoretical considerations.
+As a spec.iflc example the data on an 800-horsepower, 15,000-pound bombing macbinc w&
+used, but the method ia applicable with slight variations to any mac.hin
+e.
+6
+
+._
+
+. .
+
+——— -— —.-
+
+——.
+
+JWPOJ3T m.
+
+69.
+
+PART L
+
+NUMERICAL ANALYSIS.
+By J. G. COFFIN.
+
+The essential data for the specific machine used in the calculations. are ,given in Table 1.
+The total wing and parasite resistances were computed for assumed total weights of 15,000,
+The total resistance and required horse13,000, 11,000, 9,000, and 7,000 pounds respectively
+power curv- were then plotted against speed in the usuai manner. See Table I and Fig. 1.
+~A131tE
+
+L-8ummary
+
+of totai resistance.!
+for a maehiiu m“tha van-able
+load.
+
+.-.
+
+Area of rFi7w=l,&Y5 square feet.
+
+BI he
+K
+..$ m0m3
+K,!K..
+
+Bi lone
+
+l?.
+
+B m.n.wOK
+
+Totul
+m
+Pmusite rdstanee Rep.r#d
+*mce
+E5istence
+
+%’l’lsp XL1O.
+
+power.
+
+*L
+
+-
+
+70.0
+so.o
+
+15,0mpoundsor s poundsp
+
+sqrrxefoot. . . . . . . . . . . . . . . . . . . .
+
+~
+
+M
+
+13,(I33
+pound% 6.S2
+or
+Pourtde
+per
+Sqnsrehot. ..--- .. .. . . .... .. .
+.
+I
+
+i
+lI,@M pUIldS OS 3.8S
+POti per ;
+Llqusrefoot. . . . . . . . . . . . ..--...
+]
+
+I
+!
+9,~u3nd;
+
+or 4.S3pounds pcr j
+
+.... .. .... . .... ... ..
+
+~
+
+%+)
+100.0
+110.0
+MO
+7Lio
+WI
+110.0
+~,
+ea.o
+
+70.0
+
+H
+
+6.6
+
+22.6
+lg.;
+
+I
+
+.
+
+)
+
+1%:
+110.0
+
+19.2
+14.1
+10.
+s
+
+lio
+&15
+6.72
+
+427
+~;
+
+I
+
+t:
+6.71
+16.
+Z
+12.0
+9.15
+7.a
+6.s6
+4.34
+
+:;
+
+19.2
+in.3
+9.79
+7.w
+5.m
+
+11:6
+La
+
+70.0
+
+squsre fwt . . . . . . . . . . . ..-. -....i
+
+‘
+
+19.
+~
+14.1
+10.76
+8.48
+G’XI
+h 70
+
+M
+4.62
+
+~gj
+
+L
+
+p
+7,CQ0ounds or 8.74poundsw
+
+16.8
+52..5
+. 2-;
+
+19.2
+14.9
+11.6
+
+24.0
+17.6
+E4.8
+0.02
+
+%:
+m. o
+110.0
+
+M
+)A41
+3.64
+
+:E
+200$
+10.4
+7.ed
+6.84
+::
+3.09
+
+lfi 2
+2L2
+21.7
+19.6
+16.8
+lk :
+2LS
+:;
+ld:o
+
+Pokrda.
+13.8
+
+;8.:
+;6.;
+
+1::
+la 5
+17.4
+14.7
+127
+
+H
+1s.
+2
+13.2
+I&o
+
+12.
+s
+16.3
+I&l
+15.6
+rLE
+11.1
+
+2:
+21.6
+L%6
+IL 4
+L3.
+o
+11.2
+
+1?:
+w. 4
+16.8
+13.1
+SLI
+0.5
+
+lk:
+
+5.6
+16.0
+l&5
+16.3
+
+16.2
+
+2LU
+
+10.2
+13.1
+lx 6
+100:
+
+k:
+9.0
+7.1
+
+.
+CONDITIONS FOR MAXIMUM
+
+I, O&l
+814
+1*E
+l,6i
+
+n3
+
+lm
+74s
+1,%
+.s)1
+l!%
+712
+w
+i, 152
+::
+570
+g
+1,2S3
+~8
+547
+:
+
+Poultd#.
+
+.. .
+
+Powlrh.
+
+L.
+
+1,
+w
+
+~1
+
+1,751
+2,060
+gm
+
+%
+
+H
+
+1,669
+
+1,!?!
+1,400
+
+,.
+.
+.— ,..
+
+47s
+60B
+m
+
+421
+
+.. ---—.--—
+..
+
+w
+266
+m
+
+.,+.
+.
+
+E
+no
+
+1,%
+1,4(PI
+475
+
+.-
+
+mi
+226
+2s6
+326
+636
+702
+
+7%
+1,:1
+1,‘m
+%5
+476
+m
+7%
+
+-,. -.
+
+m?
+153
+g
+
+1,!%
+1,Km
+270
+m
+475
+
+172
+107
+136
+
+E
+
+.. . .
+.—. .
+—.
+
+300
+574
+020
+
+%
+3X3
+514
+593
+
+1,?%
+1,4m
+
+*
+
+,.
+“:
+
+,’..
+
+RANGE.
+
+1t is smident that the work re @red to fly a given distance, being the product of the total
+resistance, or required propeller thrust, by the distance, is least when the thrust is kept ah its
+minimum Vahles.. The points of minimum drag were, therefore, located on the resistance curves.
+‘rhwe points determined the most economical speeds and the corresponding requmed powers.
+The powers thus determined are seen not to. be migirnum powers. The minimum powers are
+but slightly less than those corresponding to minimum resistance and occur at speeds slightly
+Iess than minimum resistance speeds. The minimum power is that for which the fuel consumption is least for a given time and as it turm out, is not the most economical power for
+flying the greatest distance. The speed corresponding to minimum power is the speed at which
+a machine should fly in order to remain aloft the greatest possibie time.
+7
+
+—._
+,
+--——.
+
+ANNUAL
+
+Jm
+
+REPORT
+
+I
+
+I
+
+NATIONAL
+
+l\
+
+I
+
+.ADVISORY
+
+COMlkl’rTEE
+
+I?OR AERONAtiIUS.
+
+*
+I ., P.h:
+
+.
+
+.
+
+I?lg. 1.
+
+ln
+
+2 the weight of the machine is plotted against minimum resiatanco. The curves
+1 and 2 show that- ~ -–. ~
+1, The maximum range speeds decrease as the load decrerw=. The phme must fly slower
+and slower as the Ioad diminishm.
+figure
+
+in figures
+
+I?ig. 2.
+9
+-.
+
+The m&mum range powem decrease as the load decreasw.
+. . These powers are not minimum powem but are SIightlygreater d
+3
+correspoml to gretitcr
+speeds than least power speeds.
+4. The total air resistances decrease ah-nestin exact proportion to the weight of the plane.
+
+-—.———
+
+A STUDY
+
+OF AIRPLANE
+
+RANGES
+
+AND
+
+USEI?UL
+
+9
+
+LOADS.
+
+FUEL CONSUMPTION.
+
+The fuel consumption at maximum brake horsepower output is taken as 0.6 pound per
+horsepower hour, and for any reasonable throttled condition this number is imxeased to 0.7.
+The available horsepower curve was obtained in the usual maroxm by assuming proper
+propeller efficiencies at slow and high speeds and multiplying these into the available brake
+horsepower. The fuel consumption per horsepower deli-rered by the propeller can therefore
+be computed by dividing the fueI consumption per brake horsepower of the motor by tlm
+propeller efficiency at that speed, or what is the same thing, multiplying 0.6 by 800 and
+dividing by the available horsepower at that speed. & mentioned above, these resndts am
+0.7
+multiplied by o= in order to compensate for a slight loss of efficiency under throttIed con-
+
+,-.,,
+
+ditions. This procedure. corresponds to experimental tests and if qnything probably overestimates the fuel consumption.
+With these data Table 2 and figure 3 were ‘made. The fuel consumption is seen to be
+proportional to the might.
+
+.
+
+--&
+
+-.—
+
+q
+
+.
+.
+
+Fig. 3.
+TABLE 2.-Gus
+
+conaumpbicmin pmmda pm how at the (wninmkl iqxed.
+
+. . . . .. .- .. . . .., .__-. _______
+..
+
+,
+of
+rnxine.
+
+We
+
+t
+
+.l:nl
+1,196
+E
+
+.,
+
+Poulga.
+
+Ppl#
+9.82
+
+77.6
+
+}U
+
+pi i
+62.6
+
+9.47
+O.Sa
+
+0:%
+
+ml
+!M
+g
+
+72.6
+.
+
+G
+66a
+
+107
+
+2s4
+
+a14
+172
+127
+
+LO19
+1.OW
+L 187
+
+617
+472
+
+TABLE .2A.-#a8 canwmption in pounds per hour at the mazimum qwed.
+
+.-
+
+.
+3m#uLunm
+wdvef#to!
+re.sstn.nce.
+
+Com9pcmc
+
+?&f !%%
+tot. res.
+per hour.
+
+Pog&.
+
+Py?l#
+
+2;m
+!2,MS
+!
+2,225
+2,226
+
+m. 4
+
+M
+L 91
+4.05
+a.M
+
+m. 9
+lC%.8
+1C6.
+8
+1(F).
+8
+
+mao
+6s5.6
+8s5.
+o
+83L9
+W.9
+
+638.0
+
+685.6
+8%.0
+634.9
+6WS
+J
+
+I
+
+0.766
+.7%6
+.766
+.766
+.768
+
+t
+
+.-
+
+480
+4wl
+49J
+M
+
+.
+
+10
+
+AIWUAL
+
+REPORT NATI(JNAL “ADVISORY COhIXtI’J?TE~ I?oii AtiR@~AUTICk
+
+time nml the cgrroFigure
+-i shows a curve giving tho relation between the weight ~t.MI)*V
+Spon(hlg (Iistwlce flown, Starting with a full fuel h-d of 7,870 pounds, giving n total weigh~
+of ] 5,000 pounds, the machine WRSa.ssumoclto travel for a giv(w time int.erwd (Wu hours)
+tit.the weight, speed, gas consumption, am-lthrust. correspon(lii~gto that weight. During the
+mxt. two hours it was assumed to fly at new values corresponding to the new weight whictl
+is W@ to the old weight loss t,ho fuel consumed in the preceding timo inhmwl, tm(~so on,
+
+-.
+
+Lm
+
+.%
+
+ab%re- Ates
+Fig. 4.
+
+TABLE 2B.— Ratbs oj LID and angka oj hcidence for ~~-mum
+
+range.
+
+_ -.
+
+.
+
+.,...-
+
+...-
+
+.
+
+,
+
+~.
+
+....
+.
+
+. :1 i
+
+.a==
+
+HIGH SPEED.
+
+,..-,-.
+
+..
+
+=,. --.==.:
+
+_..
+
+---
+
+,-”...:.-——
+
+. ~_
+
+..-.,
+
+---
+
+.-—.
+
+.....
+.
+.
+.—.--— .,.
+
+A STUDY
+
+OF AIRPLANE
+
+‘J7ABLR
+
+RANGES 4ND
+
+USEFUL
+
+11
+
+LOADS.
+
+3.—Tim4-weight mriation computatinnfw 8peed3.
+MAXIkfUli RANGE.
+
+...—
+MtIal
+~w
+Ifmachfm
+
+Tbrn9t Veldt y.
+~
+n porrnde. per~1~
+hour.
+
+DM8m, mfk!s.
+
+Gtw3Une
+
+~
+poymsp%
+
+CcaL5umed
+
+s-~”t.
+
+nfntmval
+Pounde.
+
+ToteL
+-
+
+Ill, m
+l% m
+ls, E%
+
+1,660
+1,6W
+1,460
+I, m
+y&
+
+13, s3
+2
+1#~
+11: s3
+7
+11#
+m
+10, S3
+3
+10,4.$5
+10, 4
+W
+9,678
+
+1:206
++22J
+1;146
+1,110
+
+1,Ow
+1,g
+
+%E
+~6L9
+
+E
+
+$:
+
+E
+346
+m
+
+7;404
+‘i,132
+
+77.6
+76.s
+74.9
+73.3
+
+227
+2ea
+273
+
+n2
+m.li
+09.0
+07.5
+
+W
+
+142.8
+14(L
+6
+1426
+14Lo
+B3.o
+136.
+o
+ls2.4
+129.4
+m. o
+ML4
+
+%
+240
+m
+210
+
+66.2
+64.7
+
+w
+193
+1s4
+177
+
+RJ
+
+W
+u?. !2
+11A
+8
+112.6
+no. 2
+lm 2
+lm. 6
+
+lW
+lw
+
+Ki 7
+
+6&6
+87.4
+S%8
+56.1
+
+m
+14s
+142
+135
+132
+
+E:
+
+%
+672
+Si6
+622
+m
+m
+
+%.6
+467.4
+%:
+1,%!
+1,139.6
+
+1,2230
+
+1,4ZL4
+1,w. 4
+I, 672.8
+1,796.8
+1,916.2
+2,032.4
+2,147.2
+!2, 69.8
+2
+2,370.0
+2,47R2
+2#2L8
+
+E
+42a
+402
+2s2
+2W
+2S4
+333
+324
+
+310
+m
+m
+272
+%4
+
+The maximum possible range is seen to be 2,480 miles under these conditions.
+
+-.
+
+DE’l?ERMINATI ON OF THE MAXIMULM LOAD FOB A GIVEN OBJECTIVE.
+
+Evidently in case a return trip is to be made without refueling the greatest distance for
+an objective is equal to or less than half this greatest range. It is easy to determine the greatest
+possible useful load by means of the weighhdistance curve, figure 5, in the following way:
+w
+.- -
+
+.---—
+.—
+~L~
+i
+—
+*’- —————
+
+.
+
+&&@
+
+}
+
+600
+
+“
+
+R~ne
+
+in
+
+miles.
+
+.-.—
+
+6e7# ~
+
+/2230
+
+Z’4?80
+
+Fig. 5.
+
+It requires AB-C?D pounds of fuel to get
+Suppose
+the objective
+is 600 miles
+distant.
+there and GF pounds to get back after the load is deposited. Since the maximum load is AB
+pounds there will be left DE or D’E’ pounds for useful load. Calling the maximum range S,
+project the points on the curve for s= 600, point D, and .s=S –600, point l?, on the weight
+&s, the weight included between these two points is the maiz.irnumload for that objective.
+This procedure is quite general. The load decreases to zero as the objective distance increases
+to half the maximum range and increases to the maximum load as the objective distance
+decreas= to zero.
+
+—
+—.
+
+12
+
+A?WVAL
+
+REPORT NATIONAL
+
+ADVISORY COMM~EE
+
+FOB AERONAUTICS.
+
+A curw
+(fig.
+6) vm.sdetermined by this method for this machine which givw directly the
+maximum usefUlload for any objective. This curve turns out to be practically a straight line.
+A proof that it should be very approximately straight is given in Part H.
+
+.AdEiiiH
+t-kH--H
+
+CONSEQUENCES
+
+-..
+OF FLYING ‘AT MAXIMUM SPE’ED.’
+
+In Table 2a the re,sulk for f@t at maximum speed are tabulate(l, The gw coneumptio[l
+is constant and the speed of adva.nm was found to be constant to within about 1 per cent. The
+average vaIue, 106.2 miles per hour was, therefore, us~d in the computations.
+The weightdiatance curve (@g. 4) is a straight line, as the fuel consumption and speed are
+very approximately constant.
+The maximum range is wmsiderabIy Iess than under greatest range conditions, _. The dif.
+ference is 740 miles. A considerable gain in range is thus attained by flying ah the proper
+angle and hence at proper speed.
+speed are considerably less than under bestrrarige condiThe tiefuI loads for mtium
+tions. For an objective 600 miles away the best conditions give a possible load of 4,050 pounds
+while at maximum speed this is reduced to 2,430 pounds, a reduction of 1,620 pounds.
+For convenience, a comparison of the loads and ranges corresponding to them is made
+in the following tables:
+
+:.
+I ““’
+
+-z..
+
+Rm80gpu
+
+Hours of
+, fuel ‘w
+open.
+
+I
+
+.10”
+7+
+4
+t
+—
+~
+
+.-. ------- ...
+
+TABLE 4,
+
+------
+
+—-.——
+
+Rnnge at Lwstqwed.
+
+BICJ&.&
+
+;
+Id+” ... “..‘.
+~ : ~~
+“Yi
+
+“.p~~
+
+.Ta””:.:...::i::i:
+
+:i
+
+TABLE 6.
+
+I
+
+,
+
+Range.
+
+I Rgif
+
+TotaL
+
+1’
+
+10
+p
+
+1,610
+1,6~
+
+Objeotfve.
+
+:%:
+spocd.
+
+765
+535
+m
+
+2%
+6,m
+
+.
+
+I ““m
+tn pamds.
+
+‘g?
+
+3,m
+$s7:
+,
+
+-..
+
+.:_-
+
+2,040
+1,632
+S30
+
+.> -. ,. . r.,
+. .
+.
+.
+..
+
+,. ...
+
+*-...
+
+,-.
+
+.... . . . . —----- .=--
+
+q
+
+J——
+
+.,&
+.
+... .
+
+..
+
+A STUDY
+
+OF AIRPLANE
+
+RANGE-S AND USEFUL
+
+LOADS.
+
+13
+
+—
+
+For the shorter flights the differences decrease but they are considerable in all cases. The
+bombing load is increased by almost 190 per cent for maximum range speeds over maximum
+speed conditions for 10 hours fuel.
+FLYING AT MINK(WIM POWER.
+
+The gas consumption at minimum power is practically identical with that at best range
+power. While the minimum power is slightly less than the power for bwt range speed, the
+speed is also less and the propeller e5ciency is also slightly lms. The net result is that the time
+of &ht is about the same and the mtxximum range is diminished:
+A calculation of the range at minimum power gives 2,400 miles instead of 2,4S0 miles:
+For flight at minimum power the angle of attack is practically constant and slightly greater
+than that for bwt range speed.
+TIME
+
+REQUIRED
+
+—.
+
+FOR ANY RANGE.
+
+For convenience, the curves of elapsed time for any distance flown are given in figure 4
+for both best range speeds and maximum speed conditions. B-y means of them the time of
+going and returning from any given objective may be read off. In particular it is seen that
+the maximum time of flight under high speed is 16.4 hours as against 38.0 hours for best range
+speed.
+For a bombing raid on an objective at 600 miles, the total elapsed time to go and return
+is for maximum speed 11.25 hours and for best range speed 1S.65 hours. It fl be seen in the
+following how this time difference may be decreased by flying at high altitudes without changing the e.fliciency for best range conditions.
+
+---*
+---,
+
+—
+-_..
+
+-
+
+_,,..
+
+REPORT NO. 69.
+PART It.
+
+THEORETICAL ANALYSIS.
+By J. G. CIOFFIN.
+
+THEORY OF. MAXIMUM RANGE CONDITIONS.
+.
+
+&rotation:
+
+.
+W =weight of machine at any time.
+W~ = weight of machine folly loaded with fud;
+We= weight of machjne empty of fuel.
+T = thrust of propeller.
+= etllciency of propeller.
+1 = supporting wing area,
+V =.speed of flight.
+L =~t per unit wing area per unit speed at ground level.
+D = tilft per unit wing area under same conditions.
+R = parasite resistance per unit wing area under same conditions and “k assunmd
+constant,
+L and D depend o~y on the flying angle of at@ck.
+8 = distance traversed in time t.
+
+s =range.
+‘i’
+
+.
+
+P
+
+/
+c
+
+=
+
+= ratio
+
+of the
+
+density of the air
+
+at height
+
+h to its density
+
+at ground
+
+level,
+
+Po
+
+pounds of fuel (gas and oil) per brake horsepower hour consumed by motms.
+
+a=: = pounds of fuel per useful horsepower hour delivered by propeller.
+
+.
+
+The lift coefficient K,, as ueually given, is proportional to the density, and we may, thorefor,
+write
+K,= k,p = (k,P.)P PO
+=h
+/
+
+—
+
+where L ie the value.of K, at ground Ievel.
+The fundamental equations for horizcmtnl flight of the airplane are
+W= LTAVZ
+
+(1)
+
+CONDITION FOR MINIMUM WORK.
+
+The work clone in flying a distance dl againstna total drag T is TdZ. The hhd work dont~
+in flying a given distances is, therefore,
+,.Work =
+
+q
+
+so
+
+Tall/
+
+This work intigral is evidently a minimum if T is always at its least possibIe value
+14
+
+A STUDY
+
+OF AIRPLANE
+
+RmTGES AKD
+
+15
+
+USEFUL
+JmADs.
+
+From equations (1) and (2) we get by division
+T.W~D~R)
+This equation shows, since Y has disappeared, that for a constant angle of attack and giveu
+weight the thrust is independent of the height at which the flight takes place, and also that for
+a constant angle.of attack the thrust is proportional to the tcM weight.
+It is for the first reason that no mention of altitude was made in Part I. The second
+statament is vded
+in figure 2, which plah_dy shows very approximate proportionality at all
+actual flying speeds.
+It is convenient to employ the polar diagram in the following: This kind of diagram
+than it has yet retived in aeronautic~ calculations in the United
+deserves greater popularity
+States. It consists in plotting L as ordinates Hgatit D as abscissae. Any point M on the
+curve corresponds to a given L and D and hence h a given angle of attack. This angle of
+attack is marked on the curve.
+
+1
+
+[1
+
+d
+
+..—.
+
+—
+
+O”OOJ
+
+Q*
+
+D
+Fig. 7.
+
+Lay off from O the distance OQ equal ta R.
+Then for any point M, OB=D, MB=L, and OQ=R.
+The dope of the he ~“&R
+
+==% a
+
+Consider equation (3). For a given weight and variable values of L and D, that is, for
+variable angles of attack, let us find-the condition for minimum thrust.
+‘T-
+
+L (dD) - (D+R)
+0“= ~
+
+dL
+
+.
+
+As L can not,be infinite, the condition is
+.-
+
+%&R
+.
+
+(4)
+
+16
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORx COM,~ITTEE
+
+FOR AERONAUTICS.
+
+.-.
+
+That is to say, for minimum thrust the tangent to the polar curve must have a value ~l~.
+Looking at the polar. diagram it is seen that &o line._QMltmgent at ~Mlfulfllls this condition
+and corresponds to a given angle of attack il, Since the pohw is a given curve for the machine, it
+follows that
+(a) for minimum thrust the machine must fly at a constant angle of incidence throughout the whole flight whatever the loading may be, and
+(b) that these minimum thrusts are independent of altitude of fight.
+In Part I, Table. 2b, the angles .of incidence corr~ponding to the least drag havo boon
+tabulated. They are remarkably constant, their average deviation from the mean 5,33° being
+oily 0.12° and the gre~test diHerence 0,3°,
+For best rmge speeds, then, it follows .;hat
+..:.
+“,
+.; .“
+W= C17V2where Cl= LA
+
+~~ “. ~~“”
+
+_
+
+(5)
+
+and
+T=sC,YV’ where ~=@
+
++R) A
+
+. (61
+In particultir for
+
+where Cl and Cz are constants for flight at any cowtant angle of incidence.
+
+maximum range conditions they hava the values corresponding to the maximum due
+
+-.
+
+of ~~fi
+
+for the machine.
+Let us suppose that the machine loses weight gradually due to fuel consumption alone.
+If the weighhdistance curve can be deduced, the problem of bombing loads and ranges is
+solved, as explained in Part I.
+DEDUCTION OF THE WEIGHT-TIME
+
+EQUATION.
+
+Assume that the range of speeds is such that the engine runs at constaut efficiency, burning
+4(a” pounds of fuel per horsepower hour delivered by the propeller. If c= pounds of fuel
+consumed per brake horsepower hour and the propeller efiiiciemy is denoted by ~, then the
+fuel consumed per horsepower hour delivered by the propeller is given by a= ~
+
+.
+
+... ..
+
+..
+
+- -.. —... -—
+
+The power at any speed is
+(7)
+Tho rata of fuel consumption is aTV and in time. & a weight aT Vdt
+sumed, henw
+aTVdt = 1
+~
+
+of fuel will bo con.— -_
+
+(q
+
+a% W3r2dt – d~
+L
+
+C:h
+
+where – dW is the low of weight of the plane in time 6%
+The weight of the plane at any time t is therefore, if Wf is the weight full,
+(f))
+Equation.(8) is a differential equation for W at s@ time, and maybe writtm
+—..
+
+%2
+
+a
+
+7“*
+
+c
+
+where K=$
+
+dt=-=-Kdt
+
+&
+
+(10)
+
+.-
+
+.
+
+~
+
+..
+.—.
+
+. . . ..
+
+(11)
+
+r
+
+A STUDY
+
+OF AIRPLANE
+
+RANGES AND USEFUL
+
+17
+
+LOADS.
+
+Solving and determining the constant of integration by the condition that when i= O,
+W=
+
+Wf,
+
+v7e get
+—
+
+_&=;t+L
+
+(12)
+
+m,
+
+This equation is the desired relation betvreenW and t and shows ho-ivthe load diminishes as t
+inc.reams. Sinu K contains ~, the rate of diminution of load depends upon the altitude.
+The time of maximum flight can be obtained by letting Wf decresse to W,, the weight of
+the empty machine.
+
+‘“==K”7+Z-7+J
+
+(13)
+
+Thk masimum time.of &ht computed with equat.ic?n(13), us~~ 1.03 pouncls per horsepower hour as the average fuel consumption, gives a value of tmx= 38.3 hours, as compmqd
+with twx = 3S.0 hours as taken from the time-weight curve in @_ure 4. The two methods again
+check very well. The formula arranged to give the time in hours is, for low levels,
+, (hous,=lo550(*--*)
+
+This time of flight diminishes proportionally to &.
+DEDUCTION OF THE DISTANCE-TIME
+
+EQUATION.
+
+The distance traversed in time dt is, using (5).
+
+so that in time t
+
+which becomes, using (lz),
+21
+——
+“K
+G
+
+t
+S
+:&
+
+.
+
+%+,2
+
+&f
+
+..
+
+Integrating tmd determining the Constant by the condition that when t = O,s= O,we get
+
+-– —log
+8–KG
+
+,.
+
+,.
+
+Kl,t+&
+
+31
+
+(14)
+
+_
+
+‘
+
++%
+This equation is the dtwired relation between the distance flown and the time. The distance
+increases with the time and depends upon the altitude of tight. For a given time interval the
+dishme flown incrmses proportion~lly b
+DETERMINATION
+
+—.
+
+—
+.-
+
+1 .
+G
+
+OF THE WEIGHT-DISTANCE
+
+EQUATION.
+
+--
+
+Eliminate t between equations (12) and (14):
+
+.— ,.
+
+(15)
+
+18
+
+AXNUAL
+
+REPORT NATIONAL
+
+ADVISORY. COMMITTEE
+
+FOR AERONAUTICS.
+
+—
+
+Or, more specifically in terms of c and n,
+
+L
+. kg -w
+87; DqT?
+‘f
+37$4
+
+(17)
+
+!lMs equation is true for any condition of. flight at constwt angle of incidomm, where the ratio
+~~
+
+remains constmt.
+
+For maximum range the maximum vahw of AR
+
+is of course used.
+,.
+
+This equation shows that as W diminishes s iucreases, and that the distanceflown isindcqmndrnt
+of the flying altitude, since Y has disappeared.
+The maximum rrmge S oan be obtained by Iinding the VQIUO s for W = W,.
+of
+Assume W~= 15,000 pounds.
+We= 7,130 pounds.
+Max.
+
+()L
+D=
+
+=9.2
+
+,
+
+S +2,480 miles.
+We obtain for “a” a value of 1.O.3.poundsper horsepower hour.
+This value checks very well with a= 1.o33 pounds per horsepower hour, the rmeragc value
+used in the preoeding greated range calculations, in P mt_I.This check is very satisfackmy and
+shows that the two methods are in good agreement.
+EQUATION CONNECTING USEFUL LOAD AND OBJECTIVE DISTANCE.
+
+Imd hence
+
+w=wfr@
+
+(18)
+
+Considering Fig. 5 it is easy to see that the lgad B for any giyon objective ak distance a is
+evidently, if S = max. range
+B = W, – W,-, = Wf(e-’lb –e-@-*J/b)
+
+..
+
+(19)
+
+and since We= Wti-~b this becom~
+B = W&/b – We@
+
+(20)
+
+We can thus compute the uscfd load for tiny objective. if the weight @.tancc curie is
+plottwl, however, it SEWUSasier to plot the curm represented by (2o) by tho method explained
+e
+above.
+..-
+
+—
+
+,-
+
+A STUDY
+
+OF AIRPLANE
+
+RANGES AND IXEFUZ
+
+PROOF THAT LOAD-OBJECTIVE
+
+19
+
+LOADS.
+
+CURVE IS STRAIGHT.
+
+In Part I the curve between useful load and distance to objective @’ig 6) wus very approximately a straight line. The equation for this curve is
+(19)
+
+B =W&’/a – o-@l@)
+
+where S is the maximum range, and s/b is a quantitj which is smaller thau unity and gen@ly
+1sss than ~.
+This is not the equation of a straight line but turns out to be very closely straight as seen
+by the following:
+
+Let
+
+z=;,
+Z1=?
+
+—
+
+‘
+—
+
+for the moment.
+
+.
+
+.Expanding the exponentitds and neglecting cubes and higher powers of x, we have
+
+—
+
+a linear relation.
+The second powers have completely canceled.
+Therefore
+B=~(2-:)(-~+:)
+Wher
+
+s
+8=3’
+
+~
+
+(21)
+
+B=o
+
+When
+
+But
+
+so that the straight line (2o) passes through A and B as it ~ould.
+The curve then is a straight line to a I@h approximation and can always be taken as such.
+EFFECT OF CLIMB AT START AND GLIDE AT END OF FLIGHT.
+
+If the Hi@ is so nmde that the pltine is allowed to climb steadily as the loud decreases,
+it must, of course, come down at tho end of the flight when W the fuel is exhausted. The
+potential energy put into the plane by the conamnption of a certain amount of fuel is then
+A s@ht calculation shows that it is puerile to consider
+partiaII~
+reemployed.
+in the descent.
+this effect, as shown below.
+Assume that the plane rises under power to a height h mitl full fuel load and at the end
+of the flight descends with power shut off and without fuel. The potential energy which can not.
+be regained is hence approximately the work done in raising the total weight of fuel to the
+& ahowm previously,
+the expenditure
+of fuel is about
+1 pound
+per
+maximum height reached.
+horsepower-hour
+
+deliv~-ed
+
+by
+
+the
+
+propeller,
+
+-which
+
+is equivalent
+
+.
+..—
+.-
+
+to
+
+550 X60x 60= 1,9S0,000 foot-pounds of energy per pound of fuel.
+Assume 50 percent useful Iortd (all fuel), the work required to raise the phme to a height
+his
+
+.
+
+w,
+~ hfi foot-pounds,
+
+which is a considerably overestimated valuel l~sthe climb is gradual, and the tota7fuel lend is
+not raised to the maximum height.
+,.
+
+-=
+
+20
+
+ANNUAL
+
+REPORT NATIONK(.-ADVE50RY
+
+COMMKLTEJ3 I?OR AFTtONAIYCICS.
+
+‘
+
+—
+
+Considering the specific machine used in Part I, the work done in raising 7,5oo pounds of
+fuel to a height of 10,000 fee$, say, is 75,000,000 foot-pounds. This amount of work WOUM
+76000,000
+~ ~~o ~oo =38 poun& = 6.3 gallons of fuel
+> ?
+(gns and oil), rwauming6 pounds to the gallon. As tho tohd load is 1,250.gdlmm, this timmmt
+is about oue-hdf of 1 per cemt of the total fuel load, which is quite negligihIc in cdcuhtions of
+this nature.
+As the percentage amount for any other type of machine would be about the same, we
+huve made no eflort to. take this theoretically interesting pmt of the subject into co.usidcration.
+.
+
+PRACTICAL SIMPLIFIED
+
+METHOD OF APPLYING THIS THEORY TO A SPECIFIC
+
+CASE.
+
+The application of.$hii theory to any specific. caae now reduces .to tlmgrenteet simplicity
+as follows:
+Data required. Wf = weight fully loaded with fuel ‘“”
+We= weight empty of fuel.
+ii= angle of incidence for minimum total resistance. .
+1. Calculate the maximum range for an dl fuel load by equation 17
+
+and plot the value of S/2 as abscissa for an c?rdi?mtoB = o.
+~“”~
+Orbate
+for S= o.
+2, Plot W~‘we
+3. Camect those two points by a straight line and we ham a diagram ;imilar to tho ~ol10\tig figure:
+Yp+i
+
+-----
+
+.—-,
+
+E ——-
+
+--—-
+
+—-——
+
+--—-
+
+.
+
+1
+~
+i!
+.- ‘
+
+A
+w, #
+o~ectia DKto.9ct
+
+5
+T
+
+Fig. 8.
+
+Any ordinate such as.CD will give the maximum pounds of load that ctin he carried for
+an objective at distance CM1. The. distance DE will give the corresponding weight of gasoline
+to be carried. (See Fig. 6.)
+-For usual machines
+S (miles)= 375 w
+1.03(D%)m~gs&)
+
+‘
+
+. .
+
+-..
+
+..-—
+
+.
+-.
+
+A STUDY
+
+EFFECT
+
+21
+
+OF AIRFLA22E RANGES AND ‘CLS.EFULLOADS.
+
+OF ALTITUDE ON SPEED, POWER, AND TIME.
+
+From equation (5) it follows thd for a given weight the speed must increase as -ydiminishes.
+I
+and the exact relation is
+.
+vk=~
+
+(23)
+
+4;
+
+where 7& the height characterized by Y. From equation (7) it follows that the power required
+is
+for flight increases in the same proportion as the speed so that
+
+“=3
+
+(24)
+
+This is otherwise evident as the thrust does not change.
+From the latest experimental tests of motor horsepower and motor ei%ciency at altitudes,
+- it is found that the power fdls off almost in proportion to the density so that
+P~’ = PO’7
+
+(25)
+
+to fly at an altitude characterized by ~, a power l?.’ at the ground, which becomes PO’Yat
+the height, corresponding to 7, must be provfded, such that
+
+~ence,
+
+‘“”=3
+
+(26)
+
+If the maximum available horsepower Po max. at the ground is provided, the phme will rise
+until
+POmax.7=~
+
+I
+
+(27)
+
+or to such an altitude as is characterized by
+
+“(R2J’S
+,
+
+(28)
+
+“-
+
+In order to provide a constsnt thrust the propeller must increase in angular speed according
+to the same law as the plane since propeller blades are aerodpmmicaHy similar to wings, so that
+...-
+
+n= (RPM) h=@p)”
+3Y
+
+~~
+
+---
+
+(29)
+
+It folIows immediately from this that since V .nnd n incrense in the same ratio then ~~
+remains constant with altitude, snd hence the propeller efficiency.
+There are thus several reasons why flight at a high level will be bet ter than at low.
+(a) The motor running full open will probably use less fuel per horsepower than has been
+assumed for throttle, say, in the ratio of 0.6 to 0.7.
+(b) The motor ruriuing at a higher speed can develop slightly more power with proper
+adjustment, which will increase the height, and therefore the speed.
+(c) A very good third reason is that the duration of the flight will be considerably lessened
+and this, together with
+(d) the increased safety due to high altitude and greater flying speed lead to the conclusion
+that: For bombing purposes the aviator should fly at a certain predetermined constant angle
+of attack; he should allow the plane to rise as the load diminishes.
+Since the work consumed in rising to the higher level is at least partially &rned
+when
+the machine glides down at the end of the trip without power, these works have not been ccmsidered.
+TIM aviator will thus attain the greatest range, cnrry the greatest load, wcure the greatest
+safety and speed consistent with these conditions and ecomomize in time as well.
+
+..—
+
+—
+
+.—
+
+22
+
+ANNUAL
+
+REPORT! NA!UON,4L ,AD_VISO_RY
+.COM~lTT~E
+
+_l?OR AERONAUTICS.
+
+.. .. ... . . —-
+
+NOTE ON CEILINGS.
+
+—.
+
+By employing the equation (28):
+‘=(P.2.Y’
+baaed upon the assumption P~ = POY,the ceiling for any corresponding weight of machine may
+be found if the available and required homepower is known.
+The following table of cornputationa refers to the machine considered in Part I.
+Table
+
+of ceiling cmnpututions.
+. ..-
+
+‘“
+W&&
+
+(a)
+16,cm
+1+
+I
+
+18,OW
+lj@&l
+
+WI
+
+683
+
+““ .3:
+‘“
+
+%
+7;CW ;
+,
+
+4n
+
+0.068
+
+.%
+
+.6s%?
+. %ii’
+
+‘g
+
+., .,-- .- .-,
+
+—... —.. . .“—..
+
+-
+
+c-.
+
++%
+
++;2
+
+ti;:~e
+
+.<
+
+12,533
+16,Cnm
+19,Cal
+“-”
+2JiS& ‘
+
+(b)
+
+.;,.
+
+-10,330
+13,m
+
+“: +%J
+
+~~
+
+-
+
+‘1’
+
+The column (a) under the heading of ceiling in the above table has been obt.ahd from n
+T-altitude curve based. upon datu obtained from report No. 14 of the National Advisory Committee for Aeronautics.
+The column (b) under “Ceiling” hits been obtained from clata on the average performgnre
+values of a number of machines.
+
+.. .. .
+,-
+
+~~~~
+
+.,+,”..
+~.
+... . . ..s
+.-
+
+-.
+
+—
+
+REPORT NO. 69.
+PABT III.
+
+EFFECT OF WEND ON RANGE CALCULATIONS.
+By J. G.
+
+COFFIN.
+
+BEST
+
+-.
+
+Septcmbw 1, 1919,
+
+FLIGHTSPEED.
+
+If there is a retmding or a helping wind it will be shown below that the conditions fcu
+maximum range must be changed.
+Tfle following is a proof of an important method for find~g the proper attitude of fiig~t
+with or without winds.
+
+.——
+
+Fig. 9.
+
+Let curve I be th~ required thrust-speed curve and II the required pow~speed curve for the
+machine.
+Consider a machine of constmt weight W which is flying with air speed V against a wind
+speed w. The ground speed is then J’– w.
+In order to fly a growd
+
+... —
+
+ds
+
+.-
+
+distance da it will trike a time dt=Tyw.
+
+If the thrust is T and “a.” is the rate of gm consumption per dt+hwed.power the gas consumed in flying this distance is
+d~
+(30)
+apdt = ap v – w
+As
+
+,,aff
+
+—
+
+E assumed constant and ifs is fixed, for this expression to be a minimum we must
+
+—-
+
+have
+dP
+——
+
+n
+
+v–w=O
+
+w–w)
+
+-
+
+P’–P
+
+.-
+
+(V-w)’
+
+and since JT
+—w can not be infinite the condition is:
+,
+
+.
+
+“ ‘&w
+!?s
+
+24
+
+ANNUAL
+
+REPORT NATION
+
+AL .ADVISORY cOMX$ITTEE
+
+FOR AERONAL~T(X.
+
+This means that the eubkmgsnt to the power-speed curve is (V –w) and the equation is fulfiued by the following construction: Lay M w, figure 9, on the V-axis, to the right of the or@n,
+if a contrary wind, or to the left if a following wind, and draw a tangent from this point to
+D
+
+the P-V curve; it is s&mthat the slope or tangent P’ is equal to &w.
+
+For calm ~ir the’hgen
+
+t
+
+is drown from the origin. As the shpe of a line drawn from the origin to any point on tlie P--l’
+P VT
+curve is always ~= ~
+T it follows that the thrust varies as the slope of .suc.h a line, and as
+the
+thak
+
+tangent
+
+from
+
+in calm
+Thus
+
+air
+
+the
+
+the
+the
+
+origin
+
+machine
+
+minimum
+
+points
+
+to the
+must
+
+P-V
+fly
+
+of the
+
+curve
+
+has
+
+at minimum
+T-V
+
+curves
+
+evide~tly
+thrust,
+lie
+
+the. minhn.um
+as is otherwise
+
+directly
+
+over
+
+the
+
+slope,
+
+this
+
+shows
+
+evident.
+points
+
+of
+
+tangency
+
+of
+
+P–V curvee.
+If there is a head wind this condition of .minimum”thrust no louger holds find nmrc po~i:w
+is required for most economic flight which COr.mSpOMlSJ”c.oufie, to a “greater thrust.
+of
+As the power curve is limited to the right by the maximum output of the power plant it
+head wind corresponding to the distance
+is seen that. for economical.flight there. is a biting
+OH, where II is the intersection.of. tho ,tang-at to the P-V ctie at-its @it “with the V-nxis.
+It is, of course, possible to make headway against str~ger wiI~d~ but the condition for economical flight in such a case ie no longer fu1511ed. ~.en w..is a help~g @d the tangent is
+drawn from a point on the left of O and it is evident that as the following wind increases in speed
+it pays to use less and 1- power, the limit for an infinite wind being mininmp power. In other
+words, it pays to let the wind carry the machine along with the least use of “the power plant..
+Curiously enough, this corresponds to a thrust greater tlmn the minimum which is proper in
+calm air.
+While for economic flight in calm air the machine. must fly at minimum thrust and hence
+at maximum L/D 1 for the mwhine for all loads, this simplicity does not obtain for oc.onomic flight in the wind. Not only does the L/D change for a given load with varying winds,
+but also for a constant wind it varies with the load. ~ortunateIy these variations are small
+for any reasonable head winds and f?r a change. of log-d equal to the yeight of the machine
+empty. Refeming to. figure 9, the proper L/D’s for the machine and”hence the proper angles
+of incidence may be ddermiued. by the method demon@ratied abo~e:
+Assuming a head wind of w miles per hour draw tangents to the required” horsepower
+curves from abscissa+ w. Rend off on the thrust curves the thrusts corresponding to the points
+of tmgency on the power curves, divide them tlumts by the corresponding weight of the machine
+and the values thus .obt~ined are the .D/L’s corresponding “to economical flight under the
+—.
+assumed conditions.
+METHOD.
+SINGLECURVE
+lines
+
+from
+
+the
+
+origin
+
+.-
+
+to the
+
+—
+
+--.
+
+.—
+
+A much simpler method will now be described to ~ccomphsh the same result requiring the
+drawing of but a single curve for. the whole procedure.
+The method is based upon the following considerations:
+The equations for horizontal flight may be written ~
+
+w= Uv’
+T =DAV’
+p=Tv
+
+-.
+
+From these wo obtain
+‘“h
+
+(31)
+
+“ “12
+
+. ..
+
+p=
+ih
+
+I:_. E-ww
+JZTL.
+..”
+‘
+.. ... ..... ....... .U...L,.
+
+(33)
+. .. . .
+
+the followlng D rcprcials the total drag on tho mwh[ne @l oorrwponde to (D+ R) in Ihc prweding pages.
+
+..=7,=
+
+A STUDY
+
+OF AIRPLANE
+
+RANGES AND USEFUL
+
+$?5
+
+LOADS.
+
+These equations show that as the load changes the corresponding speeds for any given
+.
+angle of incidence vary as W~, thg thrusts as W and the powers as TPP.
+Consider no-ivany required power-speed curve. Figure (9).
+The required power curv~ for an other weight WI can be calculated from this i-ren
+~, 3f=h,p
+d lB = ~112and the corresponding
+po~era
+by
+-W
+curve by multiplying
+the speeds by
+~
+()
+()
+If required
+the thrust curves can be obtaked
+by
+and plotting these values on the same sh~et.
+p~812 p
+—– –~ k against Jm.
+plotting
+~A1,~
+
+—
+.
+
+Consider what effect a change in loading hus upon the equation of condition for economical
+flight.
+dPP
+m=cw
+becomes for a new loading W,
+p~3i-2
+d-p. ~3p
+
+—.
+
+—
+.
+m
+dv .~l/2
+
+#
+
+~=$
+
+where
+This reduces to
+
+--
+
+.
+dP
+.X-‘v–$
+()n
+
+(34j
+
+.-
+
+which indicates that instead of plotting P – V curves for various loads and drawing tangents
+from the abscissa wit is suficient to plot but one curve, and ss the load increases draw tangents
+from abscissas ~~ as the load changes.
+
+The point of tangency determines values of P and V
+
+which correspond ta a required power P k~ md a fly~g speed V Alpfor” the new condition.
+As the main inter-t here is to find the variations ti L/D, or, what is tie same thing, in D/L,
+we continue as follows:
+p~a~
+
+p~
+
+—
+since VXIP=—v
+
+is
+
+the
+
+new
+
+corresponding thrust, and since the new thrust divided by
+
+the new load WI giv= the new D/L, it is seen that
+(35)
+and hence in order to determine the D/L for any new loading it h merely necwmry to draw a
+tangent from %2, and the ratio ~ read off on the. original scale is the corresponding wdue of
+the ~ required.
+This single curve is preferably plotted for some simple load such as 1,000 pounds or 10,000
+pounds. The D/L’s will then come out directly by dividing the power by the speed, and by
+changing the position of the decimal point.
+EXAMPLE
+
+OF USE OF THE ONE-CURVE METHOD.
+
+In order to check the proposed method against the usual multicurve method, three P-V
+curves were plot ted for the same machine with loads of 7,000 pounds, 10,000 pounds, and 13,000
+pounds, respectively. The machine weighs 7,OOO
+pounds empty.
+These curves.are shown in Fig. (10). The I@% for various wind speeds were deri~ed from
+them and compared with the L/D’s taken from the 10,000-pound curve using modified wind
+speeds as described above.
+.
+
+..
+
+26
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMI~EE
+
+FOR AERONAUTI(W.
+
+agreement is very satisfactory, as shown in the table (6) below,
+lb
+* When using the curve for a 7,000-pound load the modified wind speeds corresponding ta Y,
+are
+—-, . .. . . ... . . . ......”.+.,..,.. ,..
+w y= L195wj
+4
+and for a load of 13,000 pounds they are
+
+iti=:877w
+
+d
+
+w
+
+—-.
+
+“’-”
+
+--
+
+“’
+
+.. -—-,... .—
+*
+
+. -----
+
+—
+
+13
+.
+
+.
+Vebdy . mph
+
+Fig.
+10.
+TABLE (6).
+
+-..
+
+.
+
+. .-—
+
+—— .. -——
+.
+
+W&d
+ISs%fiu
+w.
+-
+
+I
+
+-40
+
+I
+
+-al
+
+1!
+%1
+#i
+
+&23
+&xl
+8.41.
+a 41
+S.za
+&04
+7.47
+6.G5
+
+.!
+
+Several
+
+interesting
+
+(7@xl
+pws.ic.)
+8.31
+8.37
+a48
+8.43
+;~
+7.45
+6.90
+
+-4i.”m
+–~ ~
+IL 95
+23.
+m
+35.5
+
+47.&7
+59.75
+
+I
+
+results
+
+appear
+
+from
+
+the
+
+values
+
+obtained,
+
+light loads than for heavy.
+41 clm~c
+in L/D from 8.43 to 5.90 is found for the 7,00~-pound rnac~hine agaiust a chang~ from 8.43 ‘h
+as
+7,60 for the 13,000-pound machine, these values corresponding to a clmngo in hewl-wind s[wml
+of 50 miles per hour.
+2. This influence still holds although much less noticeably for helping winds, the. I@
+changing from 8.43 to S.30 for the light machine as wgainst 8.43 to 8.34 for the heavy machine,
+3. For any reasonable head wind that could be flown against in long-distarm flight, the
+change in the L/D ksmall, gmriing from 8.43 to 8.00 Ior the 7jOO0-poundcase to 8.43 b“”8.25
+for the 13,000-pound case, these values corresponding to a head wind of Oand 30 mil~ per hour,
+remectivelv.
+1. The
+
+L
+
+..t
+
+influence
+
+of wind
+
+on the
+
+L/D
+
+is greater
+
+for
+
+..
+
+A STUDY
+
+As
+result
+
+practically
+
+of these
+
+diminish
+lined
+
+it is diflicult
+
+iigures
+
+the
+
+OF AIRPLANE
+to fly
+
+is to show
+
+flying
+
+angle;
+
+that
+
+‘exactly
+
+RANGES AND USEFUL
+
+at a given
+
+as the head
+how
+
+much
+
+angle
+
+winds
+
+with
+
+27
+
+mathematical
+
+increase
+
+depending
+
+LOADS.
+
+in speed
+
+on
+
+accuracy
+
+it is necessary
+
+a preliminary
+
+the
+
+main
+
+to slightly
+
+calcul~tion
+
+as out-
+
+—
+
+above.
+The
+
+q
+
+instructions
+
+to the pilot
+
+(a)
+
+Proper
+
+flying
+
+angks
+
+(b)
+
+Proper
+
+air speed
+
+for
+
+for
+any
+
+can be given
+any
+
+given
+
+given
+
+in either
+
+of two
+
+ways:
+
+wind.
+
+wind.
+
+9
+
+8
+
+.
+
+L
+E
+
+WIYh/md/hgondw/hdsped
+
+vor~ous?b?%//ouds.
+a
+
+7
+
+6
+
+I
+-50
+
+I
+
+I
+
+-w
+
+1
+
+I
+
+I
+
+-W
+
+I
+
+-B
+
+I
+
+!
+
+I
+
+I
+
+-10
+
+I
+
+I
+/0
+
+W/hdSp%ed-
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+30
+
+m
+
+m.p.h.
+
+I
+
+I
+
+40.50
+
+Fig. 11.
+
+A plot of the -dues of L/D against wind speeds for the three loadings is shown in figure
+(11). Th&e L/D values correspond to deiinite air speeds at a given altitude and definite angles
+of incidence which can also be placed upon the plot. Such a charb will give with sticient
+exactness the proper flying a~oles for practical navigation under economical conditions.
+RANGE FORMULAl INCLUDING EFFECT
+
+—
+-.
+
+OF WINDS.
+
+The time-weight equation (13)
+.
+
+Where
+
+t=~
+] –“ 1
+Krw~
+)
+(
+.
+
+~=~~,,,.
+
+. .—-- ------
+
+is naturalIy unchanged, since for a given angle of incidence the timein whim the fuel is consumed
+can not depend on whether there is a wind or not.
+,
+.
+
+—
+
+28
+d
+
+ANNUAL
+REPORT
+NATIONALDVISORY
+A
+
+CO~”ITTRE
+
+.—
+
+..—
+
+.
+
+FOR AERONAUT] L%
+
+-.
+,.
+
+The time-distance equation must be modified. Since the ground distance is &o imporhmt
+fnctor the wind modifies the range. If fit any instiii--the air-speed is ITand the wind speed w,
+the ground syeed is .V– w, and .in time dt a ground dk$auce
+
+m= (V–w)dt
+will be covered.
+
+(36)
+
+With an obvious. substitution,’ this becomes
+ds.
+
+nnd
+
+r&w)tit
+
+‘=M’W’ ‘“
+‘-J!’
+Using equation (13) .ttis becomes
+
+.
+
+,:
+
+The constant of integration log C is detwmined by the conditiou that w-hent= 0 S= O
+and
+log
+
+c=–~ 1
+Kz 10g&f
+e
+
+so that fiially
+“1
+_
+
+s=~
+K
+
+1
+
+log, 2.+
+
+~
+.
+
+Eliminating t and giving K its value we have
+
+flf
+
+_ ~t
+
+.-!—
+>Iwj
+
+—.
+
+—
+(37)
+
+-
+
+“-
+
+The L/D which appears in this equation is an arerago value given by the prelitinfiry culculntiml
+as in Table (6) corresponding to lo~uk and wind speeds for which the range k desired.
+It would, of course, be possible to introduce an empiriml expressionfor L@ in terms of W
+which could be integrated, but no pra.ctic.nladvantage would accrue cm,hcoun t of the impossibility of obeying the mut.hemfiticallyexact conditions in actual flight.
+The expression (3] ) for S crm be put into either of the following forms by simple tromformations:
+
+In all of these.expressions the altitude of flight is assumed to be ~ubsttiutiallyconstant.
+
+—
+
+.
+.—
+
+.
+.
+A STUDY
+
+UF AIRPLANE
+
+RANGES AND USEFUL
+
+LOADS.
+
+29
+
+SUMMARY.
+The relation between useful load and range has been worked out by two distinct methods.
+Part I employs no new theory and is made by the USUR1
+performance estimate methods. It
+vrould involve considerable plotting of curves and is cumbersome.
+Part II gives a theoretimd solution. This solution checks remarkably well with the previous one in every particular. It leads to an elegant and simple solution for any specific case.
+Directions are given for the application of the resulte of this paper to any machine. The
+total time requirecl for this complete calculation should not take over 15 minutes.
+The resuhs of interest for calm air are:
+1. The machine should fly at a constant mgle of attack, the angle corresponding to the
+Wei ht
+minimum value of Total rw&tanee.
+Z. It is practically immnterird whether the mmhine fles high or low m fm as mnge is
+concerned.
+3. There is an advantnge in flying h~h in that th$ time is much recluced.
+4. The resistance is propoctiomd to the weight qt a given altitude.
+5. The result of flying at maximum speed is a very much diminishwl range, or for a given
+mnge a very much diminished useful load.
+6. The result of flying at minimum power is to slightly reduce the range.
+7. The times of flight at the same level for flying nt best rnnge speed and at minimum
+power speed me practically the same.
+S. The condition for best range is shown.
+9. The weight-time curve is deduced.
+10. The range-time curve is deduced.
+11. The vreighkrange curve is deduced.
+,*
+lz. The effect of altitude has been t.~keninto account.
+13. The time is greatly diminished for flying at corresponding levels.
+14. The theory checks closely with the ordinary methods of Part I.
+Part III gives a theoretical solution of the effect of wind on range. I?hat, a proof of fi
+method for determining the L/D and nir speed for the machine under any wind conditions is
+given. A new, method is shown wherein but one P–V curve iS required for any load an~~any
+wind speed.
+Variations in L/D for chmges in load and wind speed are derived rmcl checked against
+the usual methods.
+The w&mht-distanceformula is derived, as modfied by winds.
+The results of intermt for flight in winds are:
+]. The angle of attack cha~~es but slightly when flying against winds of reasonable
+strength, and but very slightly when H
+.ying with winds of any stren@h.
+2. The altitude of flight affects the range. The reason being that higher speeds we attained
+at. ~yher aItitudes and the ratio of air speed to wind speed changsHowever, as wind
+speeds change with altitude it does not seem worth while to go into the matter more fully.
+3. Other tilngg being equtd, it is slightly adv.antigeous to fly high, ~pecially as to time
+nf flight.
+4. The weight-~ime curve is unchanged.
+5. The rnnge-t.ime curve is deduced.
+& The weight-range curve is deduced.
+
+o
+
+.-
+
+“”
+
+~-–
+
+—
+---
+
+— ..
+
+—.
+
+‘
+
+—
+.=
+

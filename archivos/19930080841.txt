@@ -1,0 +1,1242 @@
+,
+.
+b
+
+.
+
+TECHNICAL N@ES.
+.
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+No. 60
+———.
+
+-.
+
+ON A NEW TYPE OF WINI)TUNNEL.
+By
+*%.XMiuzik
+,
+NatLonal Advisory Committee for Aeronautits.
+
+.>
+t
+
+.-
+
+May; 1921.
+
+*-4
+
+—-
+
+,..
+
+NATTONAL ADVISORY COMMITTEE FOR AERONAUTIC%
+TECHNICAL NOTE NO. 60.
+ON A NEW TYPE OF WIND TUNNEL.
+By
+Max Munk.
+National Advisoxy Committee for Aeronwtios.
+
+Introduction.
+The difficulties involved in conducting tests on airplEnes
+and airships in actual flight$ difficulties greater in the early
+years of aviation than now, and the matter of expense also, induced investigators to seek for information through tests upon
+models.
+
+The first of such tests was made by moving the model
+
+through stationary air eithex by means of a whirling arm or in
+a straight line.
+
+Later the method adopted was to suspend the
+
+model in a curxent of aix
+*
+
+of this type have beoae
+
+flowing in a large tube.
+
+Wind tunnels
+
+of increasingly great importance.
+
+At first the tunnels were only small pieces of physical apparatus
+in a laboratory, but at last they require an entire building. ,
+The latest wind tunnel of the Zeppelin Company in Germany provides a current of air ten feet in diameter, whioh has a velocity of 110 mi/hr. and absorbs 500 H,P.
+The results obtained with this type of wind tunnel are of
+very great wilue
+
+and at the present time they are the chief
+
+source.of information h r the aircraft designer. However, there
+
+are certain criti~s who declare that
+
+the resuits of wind tunnel
+
+.2US
+
+,
+
+. tests are valueless for purposes of design.
+
+Indeed, justifica-
+
+tion for such opinions is not wholly lacking. There is, in fact,
+no necessary and exaot connection between the motion of air
+
+around a small airp3.ane
+mode> and that arbund the full-sized airplane. Sbrnetimes
+the results of the tests on models agree well
+with:those observed with the airplane it~elf; but important
+cases
+
+are Mown where the two do not agree.
+
+~estions
+signer
+
+Further, there are
+
+the answers to which it is most imports.rit
+for the de-
+
+to have, and yet the answer deduoed from tests of models
+
+q
+
+in wind.tunnezs would be absolutely wrong.
+
+There is always an
+
+uncertainty connected with such tests, because one is never quite
+sure whether or not the results thus obtained may be applied to
+full-sized bodies.
+In spite of this uncertainty, wind tunnels have been of the
+greatest use in the development of aeronautics. Test6.upon models led to the construction of streamlined bodies having small
+r
+
+resistance, and of aerofoils of gocd seotiono Experiments in
+wind tunnels led to the discovery of the theorems referring to
+the lift of aerofoils end to the effect of combining several
+aerofoi3.s. A wind tunnel is still the most important means avai~able for scientifi~ tests.- It c~not be denied, however, that
+it is becoming more and more difficult to find a problem suits-’
+ble for study by a wind tunnel, whioh om
+
+be immediately applied
+
+in aeronauttgs. Mamy tests of a theoretiml
+
+charaoter canbe
+
+suggested, but it is diffioult to interpret them.
+
+There are mars
+
+important and urgent tests with respect to the design of aimer~.
+.
+
+,
+
+-3.
+
+whioh should be performed; but the results would be worthless
+if they were carried out in a wiqd tunnel of the present type.
+The theory of non-viscous motion is almost complete; the tests
+referriqg to it have been made, and the field of investigation
+lying between non-viscous r.otionand actual motion in the air
+is cultivated so intensely that it is diffioult to find a new
+problem.
+For all these reasons, the author believes that his propo-
+
+4
+
+sition to’make use of compressed air in a new type of wind tunnel
+comes at the right moment.
+
+Tests in such a tunnel will give in-
+
+formation ‘concerningthose questims which cculd not be investigated with the present tunnels bemuse
+
+of the exaggerated effect
+
+‘of viscosity, The new type of tunnel is free of the uncertainty
+characteristic ,ofthe older t~ype~and will indicate clearly what
+problems may be undertaken with,the latters
+
+It will make un-
+
+necessary many full-flight tests, and will mark a step in advan=
+in aeronautics.
+Let us then consider this new type of wind tunnel; its.advantages
+
+the difficulties attendant upon its use, and the spec-
+
+ial methods required.
+1. PRINCIPLE OF THE PROPOSED WIND TUNNEL.
+The main difference between the new type of wind tunnel
+sncLthe ones now in operation is the use of a different fluid.
+The idea is to diminish the effect of viscosity.
+
+It would not
+
+be surprising if any other fluid were better than air in this
+reaped.
+
+However, there does not seen to be such a fluid.
+
+-4-
+
+.
+
+Water, the liquid most easily obtained, has, indeed, a comparatively small viscosity; that is, the ratio of its viscosity to
+its density is only the 13th part of the
+
+similar
+
+ratio for air.
+
+The density of water, however, is so great that it is hardly
+possible to afffordthe horsepower required to @rce water through
+a large tunnel. But, even supposing that such a current of water
+Gould be obtained, e.g. by using a natural,waterfall, it would
+be @te
+
+impossible to make tests in it.
+
+A model could not be
+
+3
+
+made sufficiently strong to withstand the enormous forces aczting
+on it} nor would it be pos~ible to hold the model,stationary.
+The same difficulty would be met in using my
+
+other liquid.
+
+As
+
+for gases othez than air, oarbonic acid is the only one which
+has a ratio of viscosity to density less than that ofair; but the
+difference is so smal
+
+that fitWCUM
+
+not pay to use it.
+
+less expensive to-build a larger wind tunnel than to
+
+It is
+
+(Wn8tZtLC~
+
+me for using carbonic acid gas$ which has to be sealed and requires gasometers and other contrivmces for holding the gas;
+and, further, the aiffieulties of qeration would all be inoreased.
+The fact that there iS still another way of changing the
+fluid, did not occur to any one for many years.
+
+Air may be used;
+
+but, if it is compressed, it becomes a fluid with new propertieq,a fluid which is the best suited for reliable and exact tests on
+models.
+
+When air is ocmpressed, its den’sityincreases, but its
+
+viscosity does not.
+
+The increased pressure, it is truej requires
+
+strong w&lls for the tunnel to withstand the pressure and to pre- ,
+vent the air frcm expanding; but the increase of effectiveness
+
+“
+
+.
+
+secured for the tests is
+neoessary & anges and to
+neh
+
+by heavy steel ones.
+Before discussing this point we must first convince ourselves
+
+that the inorease of p~essuze gzeatly incxeases the range and
+
+value of wind tunnel.
+tests.
+11. THE REYNOLDS NUMBER.
+We are inolined naturally to compare small objects with large
+1
+oneS, with the assumptWn that all the uualities are independent
+of the size of the object~ and that therefore the effeats will
+be corresponding~y smaller or larger,
+
+Coming at once to our prob-
+
+lem, we are disposed to think that useful information for the
+desigqw
+
+of a flying maohine may be obtained by observing the
+
+shapes of a butterfly or of vaziOus insects.
+the idea underlying tests on models.
+
+In fact, this is
+
+The.absolute size of bod-
+
+ies is, it must be noted, a concept devoid of exaot meaning.
+There is no absolute length; the length of any object can only
+
+be oompared with that of another.
+
+Imagine all scales to have
+
+been destroyed, and let us not be conscious
+of our own bodies.
+
+of the dimen~ons
+
+Then we would not be able to decide whether
+
+our physical world shculd be caUed a dwarf one or a giant one we would have no basis of comparison. We may therefore reasCnabZy ezpect that a world on a different qoale than ours would
+not differ essentially from ours if the same physios3 laws are
+valid in both.
+
+.
+
+“
+
+.
+
+-6This does not,mean that all numrioal
+same in both.
+
+ratios would be the
+
+It is not necessary that the same physical laws
+
+produoe the same motion of’a fluid, i.e. a geometrically similaz
+motion, around two similaz boties.
+
+For the streamlines of a flu-
+
+id around sn immersed solid are not related to its shape by ge~“metrical relations bd by those derived from the laws of mecha.
+ios, It is possible, howevez, to derive the ccndition for obtaining such similar motions by extending our general consider*
+
+ations,
+
+withaut using mathematical processes.
+
+We picture two phenomena, independent of eaoh other; in particular we presuppose that no scale is carried from the seat of
+one phenomenon to that of the other. We consider separately two
+geometrical.lysimilar solids, each immersed in its own fluid, and
+endeavor, under these conditions, to see if we .Qendetect any
+difference between them.
+
+If we cannot, it would beabsurd!to
+
+expect two different motions;
+
+for
+
+one of the absolute truths, of
+
+which everyone is convinced, is that equal causes have equal
+effeots. Rather,
+
+where we mnnot
+
+there is equality.
+
+find a difference, me believe,
+.’
+
+The two solids being supposed to be geometriadl-lysimilar,
+no difference cam be found between them, since we do not have a
+scale. By selectingany particular lengthof
+
+the bOdy, its di-
+
+mensions oen provide US only with a standard length for the investigation of the relation between the body and the spacequalities of the fluid.
+For the same reason we oannot detect-any difference between
+k
+
+,
+
+.
+
+-7’the densities of the two fluids.
+
+Instead of considering density
+
+a’””theecond standard unit - length bei~g the first - we will oks
+T
+t ain a more useful one and one to whiti we are more P.ccustonedif we aombine the concepts of volume and of dsnsity, and conside~,
+for instanae, the mass.of a cube of ~it
+
+VOl~5
+
+f%lled by the
+
+fluid as our standard unit of mass,
+The velocity of the fluid relative to the immersed b~dy and
+at a great distance from it may be considered as a third standard
+#
+
+unit.
+It is essential to realize that it is not possible to find
+any relation between these three quantities. Neither do any
+
+‘
+
+two of them mean the same physioal thing, nor can any ‘ho of them
+be combined in such a way that the third appears. If, therefore, the qualities mentioned weze sufficient ‘todetermine all
+the features of the phenomenon, the flow around similar
+wald
+
+bodies
+
+always be similar also; we would not be able to detect my
+
+cliffrence. This is the actual ease if the fluid is non-viscws$
+e
+and therefoxe motions ar~d
+
+similar bodies immersed in perfeot
+
+fluids are similar.
+The viscosity of a fluid is characterized as follows: o~sider a unit cube of the fluid, so chosen that in any plane parallel to one of “itsfaces the fluid has a constant velooity; let
+the velocity of the fluid increase uniformly as cne passes from
+this face across to the opposite one; then, if this change in
+veloaity eqgals the unit of velocity, the foroe of fritiion on
+the face of the cube is called the coefficient of viscosity of
+
+.
+
+“8-
+
+.
+the fluid.
+
+This appears to be. a ~omplicated concept, sO we shall
+
+try to combine it with the two standard units of length and of
+mass, a
+
+that we obtain a velocity chazactesistic of,the viscos-
+
+ity of the fluid, in cmu,biriation
+with tke other two qualities.
+Let us imagine now a unit cube of the fluid and any difference
+of veloaity on the two opposite sides, There is a foroe ~f friction on each suoh face.
+wbe
+,
+
+If this foroe were to act on a ~it
+
+of the fluid, i.e. on a unit mass, it would produce en accel-
+
+eration, ad
+
+in the course of being moved through a unit distance
+
+this cube would have its velocity increased from O to a definite
+value,
+We uay imagine the conditions of velocity on the two opposite
+faces of the unit cube varied until the force of frictim
+
+is such
+
+that the resulting velocity of the seicondcube ~uals
+
+the differ-
+
+ence in velocity at the two faces of the first abe.
+
+Half this
+
+velooity may be ~alled the I!Reynolds
+velocity.!l It is charamcteristio of the viscosity of a fluid whose density is known, the dimensions of a ealid body immersed in it being Mown,
+furnish a unit of length.
+
+so as to
+
+It oan be determined for one of the
+
+two phenomena considered without referenoe to the other.
+.
+Therefoze the ratio of the velocity of a fluid to this Reynolds velocity can be determined without reference to another
+phenomenon; it is an absolute number, called the Reynolds Number.
+It may be the same in the case of two phenomena, or it may be different.
+
+If it is not the same, here is an essential
+
+difference
+
+between the phenomena,which may be observed and stated; and it
+would be most remarkable if, in spite of this difference, the
+
+“
+
+-s?-
+
+.
+
+fluids ~ho~~ have the s~e
+
+mot~ Ons;
+
+it would in fact be im&os-
+
+sible. But if, on the other hand, the two numbers are equal,
+we describe the motions of the two fluids as identical, taking
+viscosity into account, too. We may seek other differences; if
+.
+there are none, i~ would be absurd to expect different motions.
+Before extending our generd. considerate
+ions, we shall e=
+
+press the Reynolds Nuriber terms of the quantitiesordinarily
+in
+‘used. Let p be the density of the fluid;v be the coefficient
+of viscosity; B
+
+be the characteristic length of the immersed.
+
+solid. The mass of a cube of the fluid of length
+
+B
+
+on eaoh
+
+edge is B3p; the force of friotion on a face of area Bz
+
+is
+
+V BVI, when VI is the differenos of veloaity at the two oPPosite
+faoes; the work performed by this force if aoting through adist~ce
+
+B
+
+is K B2VL,
+
+which equals the kinetic energy gained by
+
+the (second) oube of mass p Ba - i.ea *p
+
+B=VL?
+
+Hence$ if
+
+V1 =V 2
+~&v
+
+Jp#v12
+
+1
+
+or VI = ~~~
+~B
+
+&l
+The Reynolds velocity is one-half of this, i.es VR=PE.
+T7r ting
+i
+
+V
+
+for the velocity of the fluid at a great distance from
+
+the solid, we have, by definition, the F@ynolds Number = ~ = ‘B
+E
+‘R
+If this has%he same v~ue in two phenomena of flow, they are alike
+in all respects. This may be called the Reynolds Lam.
+111. DEDUCTIONS FROM THE REYNOLDS LAW.
+In
+
+the
+
+preoeding section an attempt ha~een
+
+the expression for the Reynolds Law h
+possible.
+
+made to derive
+
+as elementarya rnmer
+
+&ly by knowing the basis of the law can one gra6p
+
+-1o-
+
+.
+cmple%e
+
+meaing
+
+and obtain the absolute confidence in it whi&
+
+is reqpired fox one to apply it safely. A mathematical.
+proof
+was not given although it would have been shorter, fbr it would
+,
+
+at the same time have been poorer of content,
+We considered only the viscosity of the air,
+
+and did not
+
+discuss the otlnerdifferences which exist bet,veenthe tests on
+models and those
+.
+
+on full-sized objects.
+
+The next step is to in-
+
+vestigate whether these differences do.not introduce such errors
+that it would not be worth while simply to get rid of a possible
+error due to viscosity.
+
+Before doing this we nust consi,der
+the
+
+deductions from the Reynolds Law so far as wind tunnel tests ,are
+concerned.
+Let the span of the wing of a model be 3 ft., and the air
+velocity be &) mi/hr. (= 88 ~
+
+). The kinernatioal
+viscosity of
+
+air at O°C and normal pressure ~S 0.001433, i.e. shout *
+
+fi:~
+
+Hence the Reynolds Number, regarding the span as the characteristic length is
+3 ft. x 88 ft/sec. = 185 ~Oo
+$
+f~,2
+1
+m
+X87.
+
+,
+
+That is, the velocity of the air in the tunnel would be al-most
+two hundred thousand times the velocity oal+ed the Reynolds velocity.
+
+The full-sized airplane may have a span tentimes
+
+as
+
+great, and the veloaity of flight may be 1 1/2 times as great;
+so that its Reynolds Number is
+10 x 1.5 X 185,000= 2,775,000.
+
+.
+
+-3.1.
+
+The magnitude of these numbers is surprising. The vQuosity of the air is so small th~
+
+in the neighborhood of the wings
+
+of’an airplane the velocities p~cducedby
+
+the foroes of friction
+
+are only about three millionth of the velocity of flight. Equation (1) shows that the kinetic energy is proportional to the
+s~are
+
+of the veloczity,while the work perfommd by the fric&ion-
+
+al force is proportional to the velotity.
+
+Hence the work p~r-
+
+formed,by the frictional force is aninute
+
+fraction of the kinet-
+
+~ ic energy$
+
+in the model test referred to ~d
+
+2, 7%,000
+in the case of the airplane. It seems surprising that any effect
+Igoco
+
+of friction can be detected, since it increases or deoreases the
+kinetio energy by such a aall
+
+fraction.
+
+However, in the alculation of the Reynolds Number one quantity is chosem arbitrarily. ~
+
+arbitrary length occurs in the
+
+formula, and the magnitude of the nudber depends upon the choice
+of this length.
+
+Indeed, within a range of a dimension like the
+
+but the
+span of wings, the viscosity has almost no irrfluenoe,
+i3ms31e the range considered, the greater is the effed
+r
+
+of vis-
+
+Cosity, provided there are in this range the sane differences
+of welodties
+
+as in the other.
+
+It must be noted thti greet dif-
+
+ferences of velocity occur within very small rmges.
+surface of the wing velocities almost zero
+
+Near the
+
+occur close to velo~
+
+ities of the magnitude of the velocity of flight. The &axacier
+of the motion depends upon the stability of flow near the surfaces, and therefore upon ph~omena
+these
+
+within small rangeS.
+
+Within
+
+the Reynolds Number and the rat10 of the aocelerati n to
+o
+
+the v.i=cosi~ is less than the number commonly used for comparison.
+.
+
+.
+
+-12q
+
+In any case, tests &how that there are considerable ciifferences of motion at the Reynolds Numbers of the test and the flight
+There is even instability, changing the oharacter of the motion
+neax the largest airships, on’increasing tts ~elocity~ when f~y-
+
+.
+
+ing at normal velocities.*
+These facts are not contradictions of the Reynolds Law, but,
+on the contrary, are in agreement with it.
+
+~
+
+The surprising fact
+
+that,even when the Reynolds Number is large, its influenoe is
+considerable, does not furnish the least reason for doubting the
+correctness of a law based upon such elementary considerations
+Doubts about the Reynolds Law are based upon a different
+fact.
+
+In qite of the convin~ing proof, it happens that model
+
+tests at the same Reynolds Number sometimes give quite different
+results. Now the Reynolds Law does not mean that at the same
+Reynolds Number only one particular motion of the air Is possibleIt states that there is no difference between two phenomena with
+the same number.
+
+It may be that two or more motions are possi-
+
+ble, but then they are possible in any case of the same Reynolds
+Number.
+There must be some reason, however, why the one or t-heother
+motion ocours. The reascms may be different.
+
+Sometimesth.ere
+is
+
+a kind of hysteresis, the fluid remembers, as it were, what happened before this particular motion began; and the motion is differerit,for instance, if the angle of attaak was larger or smaller
+immediately before.
+
+If
+
+SUOh
+
+a phenomenon occurs with the full-
+
+size&body, it can be investigated a model test at the same
+by
+* A publication of these tests is in preparation
+
+-
+
+.
+.
+
+-13-
+
+.
+
+.
+
+Reynolds Number,
+
+Sometimes there is no such hysteresis, but the
+
+motion is very sensitive and is oh~ged by the least change of
+the shape of the body, or of the smoothness of its surface or
+with a ohange of the turbulence of the air.
+
+In sudI cases the
+
+motion around the full-sized body will be sensitive at the ssme
+Reynolds Number as in the mode3.tests.
+
+In this case it SW5.11
+be
+
+diffioult to obtain the e.xaotshape of the model and the right
+smoothness of its surfaoe in order to have the ssme motion.
+
+At
+
+the same time other differences between the model test sndr.
+the
+aatual flight will produce differences in the results; but in
+such cases it is very doubtful whether two airplanes which are
+apparentIy identical have the same qualities. There do= not exist a definite motion around the body at that particular Reynolds
+I?umbe.
+r
+
+The careful investigator will observe this fact.
+
+Then
+
+the ~odel test has shown all there is t o be shown, and theimethod
+is not to be blamed for revealing phenomena which
+
+are
+
+surprising
+
+to the designer but true nevertheless.
+IV. ERRORS DUE TO C71HERCAUSES.
+There are still othe~ differences between the tests on mod.
+els and in actual flight, which will cause errors. It is necessazy to rea~ize that these, other than the one due to viscosity,
+do not affect seriously the value of the results of tiletests.
+The new type of wind tunnel may, then, be expected to give reliable results.
+The best evidence of the insignific~oe of these errors due
+to
+
+other oauses is obtainedby comparingtests made in different
+
+I
+
+-14.
+
+wind tunnels.
+
+It may be stated that there is found a certain
+
+agreement, but only with the same value of the Reynolds N~b~r
+
+q
+
+Reynolds himself deduoed theLaw oalled by his name froz experiments trponwater flowing through pipes.
+
+In the two wind twa-
+
+nels at G&ttingen vezy careful investigations were made on acrcfoils, over a large range of Reynolds Numbers, and under very
+different conditione. Most resuits at the same Reynolds Number
+.
+
+agree well; even the results which cannot be plotted on a ourve
+against the Reynolds Wmber
+
+appear mu~
+
+more regular when so
+
+plotted than when plotted in any other way.
+
+The results of
+
+these tests show that ”full-sized tests are much better th&n model.ones, and provide the designer with clear, reliable and useful information. It is not suffi~ient, however, to oompare the
+results of several tests.in a perfun~tom m=aer;
+
+care W+
+
+be
+
+taken.
+The G~ttingen tests were not made under conditions geometrically similar; the two tunnels are not equ~ly
+
+go~-
+
+There
+
+are many tunnels vhiQh have more turbulencethan is necessary,
+the designer having only taken care
+ty
+
+q
+
+to obtain a uniform velooi-
+
+The older wind tunnel at G8ttingen was exceedingly turbu-
+
+lent.
+
+The surfaces of the models were different purposely.
+
+Only the results obtained in good wind tunnels should be compared,
+the model having a proper surface,snd the test being thoroughly
+
+laid out with referenceto its influenoe. Then the differences
+would be smsller,and the reliabilityand usefulness of tests at
+the full-sized Reynolds Nmbe r would appear more distincily.
+
+-15-
+
+The matter may be considered slso from another point of
+view.
+
+The tests show that under particular ccmditions the ~ea.~its
+
+of different tests agree very well; in certain cases onlv fisqood
+agreement lacking.
+e~ected
+
+to agree.
+
+tions whioh h
+
+NOW it is not ewident that the results may k“+
+It may be
+
+and is very probable that the ms~
+
+not agree with eaoh other are swh
+
+sensitive me..
+
+tions as were desc~sbed in the previous section. of Couz’se‘t:ll
+F
+
+sensitivenessappears exaggerated. f the differencesin the test .
+i
+.
+
+conditions are.
+Theoretical reasons are not wanting, however, a~o
+character of the motim
+
+whY the
+
+depends almost exclusively on the ratio
+
+of the velocity of air to the Reynolds veloaity, ad
+
+not upon
+
+other ratios$ e.g. the ratio of the Reynolds velocity to the velocity of,sound in the me’dium,the’latter being oharaoteristia of
+its compressibility. It is not at all sufficient to state that
+this ratio is small, the Reynolds Number (or its inverse) being
+small too.
+
+But the ratio of velo~ity to the velocity of sound
+
+has only one meaning; there is no arbitrary Quantity used in forming it - such as B in theReynol&s Number.
+
+Tt doe~ot
+
+matter
+
+whether this ratio is calculatedfor a wide range or for
+one.
+
+The:e
+
+a small
+
+is no discontinuity if the range or the compressi-
+
+bility passes to zero.
+
+In this ease the fluid acts, with respect
+
+to its compressibility, like a perfect fluid.
+
+If the ratio of the
+
+velocity of flight to the velootty of scund is small, there is no
+physical reascn for ex.peotinga large influenoe.
+
+So mu~
+
+the less
+
+is the influence of a difference of compressibility in the tests
+on the model and in flight.
+
+Stated mathematie~ ly, any m efftc-
+
+-16-
+
+ient is a fumti on of the twc ratios; hut, when both are small,
+the function is continuous with zespect to the one and irregular
+with respect to the Reynolds Number.
+The same deduction is valid for the other errors; whether
+the muse be,the contrivance used for supporting the model, the
+turbulence of the air, the variation of pressure or of velooity,
+or the finite distance of the walls of the tunnel or the boundaries of the ourrent of air, the error is small provided the
+.
+
+cause is. Their influence oan be made as small as is necessary
+and customary in any technicsl test.
+
+Not only is the error
+
+small, it is regular, it can be compensated for, and it.does.not
+impair the comparison of different tests, as would the”e+ror due
+to visoosity.
+V. T~
+
+DIMENSIONS OF A GOMPl%ISSEDAIR WIND TUNNEL.
+
+In a tunnel filled with compressed air it is possible ‘toobtain a Reynolds Number much larger than in the tunnels
+
+now in use-
+
+But the range is limited in several respects, and its features
+must harmonize with each other in order to secure good results
+
+and also a low cost of operation.
+The size of the tunnel is limitedby the size of the models, “
+It is not possible to make correctly shaped models if they are
+too small. The velocity of flow, on the other hsnd, must not be
+too great, lest the contrivances for supporting the model beocme
+so large that they disturb the motion.
+
+The stresses in the modeZ
+
+must also be considered. This oondition “isduly respected if the
+dynamical pressure of,the air does not exceed a particular value.
+.,
+
+.
+
+-17-
+
+,
+Hence
+
+velocity
+
+tile
+
+must be the ~naller, the greatet the density.
+
+This is desirable also with respect to the power required, to the
+increase of temperature produoed, and to the dimensions of the
+fan and its shaft. The designer nust also bonsider the time required to fill the tunnel with a compressor of proper dimensions.
+The pressure is limited only by ~estions
+Let
+placed,
+.
+
+D
+V
+
+pressure.
+
+be the diaeter
+
+of construdion.
+
+of the section where the model is
+
+be the velocity of the air and
+
+P
+
+be the maximum
+
+Then
+RaDVp
+P a D2~P
+
+Reynolds Number
+Power required
+
+Heat prodticedper unit of surface a V3P
+IlynamicQ pressure
+qa V2P
+Weight of tunnel walls
+a IPP
+H D3p1.2s
+Energy reqgired to fill tunnel
+Shaft diameter/diameter of tunnel a V PI/3
+{velocity of circumference of fan constant}
+The designez, in the first place, mu~
+pxessure he can ~rmit
+
+choose the dynamic~
+
+without the supports of the model intro-
+
+ducing too great an error. Then he may calculate the pressure
+needed for the Reynolds Number desired, S@
+he considers pzoper.
+
+the smallest ‘diameter
+
+If he seleots too high a pressure, the di-
+
+ameter must be made greater. Generally this will increase both
+the cost of operation and other difficulties. The Reynolds
+Number and the dynamical pressure being given, the diameter and
+the velocity’may be expressed as funutions of the pressure.
+IfR=
+
+aDVP)
+
+[v
+)
+
+and q =b~P
+where
+
+a, b, A and B
+
+)
+
+then
+(D
+are constant coefficients, Substitutions
+
+.
+“
+
+-18-
+
+may then be made in the expressions for the different qusntities.
+
+It appears:
+Power absorbed
+Heat p~oduced per unit of surface
+Weight of tunnel walls
+Energy required to fill tunnel
+“
+8haft diameter/d&meter of tunnel
+
+!$
+u
+a
+a
+a
+
+p-3/z
+p-1/2
+p-I/2
+P-l/4
+p-L/6
+
+That is to say, all the quantities mentioned are more favor~le
+.
+
+the higher the pressure. This advant~e must be compared
+
+with the difficulty of construction in consequence of high pressure, and the disadvantage of a smdle~ die.,metez.A theoretital.
+
+.
+limit for the pressure is the critical point where the air ceases
+to be a ~!perfect
+gas.!] In the neighborhood of this point the viscosity inoreases and therefore it is of no advantage to increase
+the pressure; but reason of construction would prevent this point
+being reaohed. The oritical point of oarbonic acid gas is, however, muoh lower, especially if it is cooled.
+We cannot close this chapter without considering the most
+interesting question, whether it would be possible to build a
+wind tunnel for tests of models of airships, having a Remolds
+Number equa3.to flight conditions. Let the length of the actual
+ship be 655 ft., zd
+
+its velocity be 95 mi/hr.
+
+In a tunnel de-
+
+signed for tests of ship models only, the dynamicsl pressure could
+The pressure could be 100 atmospheres
+be increased to 2000 ~
+ft.2
+TQeq the velocity would have to be just 95 mi/hr.,
+(200,000*).
+.
+1 : 100;
+.
+and happens to be ‘rfull-sized.~ The scale wouldbe
+the diameter aould be 2 ft., and the power about 1000 HP.
+think this tunnel emuld be made.
+formation long desired.
+
+We
+
+It would give the designer in-
+
+.
+
+-- 19-
+
+The results of tests in a compressed air wind tunnel would
+be applied in the same way as is the praotice with existing
+tunnels.
+
+The tunnel WCUH
+
+give the ordinary coefficients,and
+
+the right ones, The Reynolds Number could be calculated from
+the observed temperature and pressure.
+The results would be, first of en,
+.
+i
+
+for the information of
+
+.
+the designer of aircraft, giving him the true values of the cc- ‘
+effioient required for any problem.
+
+The tunnel could also be
+
+“
+
+,.
+
+used with advantage for scientific investigations. The differences in the Reynolds Numbers which could be realized in suoh a’
+tunnel are much greater than can be obtained in existing tlulnels.
+At the same time, the pressures and the forces on the model vary
+only as the Reynolds Number,.if the same model is used, ’whereas
+in etisting tunnels they vary as the square of this number.
+.
+,.
+
+.,
+
+.
+
+.
+
+..
+
+.“
+
+‘.
+

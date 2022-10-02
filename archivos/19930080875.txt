@@ -1,0 +1,594 @@
+.
+.
+
+TECHNXGAL NOTES.
+NATIONAL ADVISORY COl@lITTEE
+FOR AERONAUTICS.
+
+IJO*72*
+
+@IROID
+
+IN’VEWTIGJ!TIONS GERMANY.
+IN
+
+Abstract of paper entitled ll%er Aneroide,ft
+by E. Warbwg and W. Hewe, 2hysikalischTe@mischen Reiclmmstalt, Zs.f. Ins*mmezztenkunde 39:41-55, 192S.
+
+Prepared.by
+M. D. Hersey, 21assachusettsInstitute of TeolmoLogy.
+
+Outober, 2923.
+
+I
+
+NATIQJUL ‘ADVISORYCXN!MITTEEFOR AERONAUTICS.
+.......-~-.~
+.
+. ------- ..:
+-..
+TECHNICAL NOTE lJO.72.
+ANEROID INVESTIGATIONS IN GERMANY.
+.—
+
+Abstract of paper entitled “Uber Aneroide,”
+by E. Wazhmg and W. Heuse: PhysikaMschTe~hrisc>.en
+%icksans%alt, Zs.ffl -r-J~~~Jrnentenkunde39:41-45, 1919.
+Prepared by
+M. D. Hersey, Massachusetts Institute of Technology.
+
+Following an historical review,of aneroid development, in
+which the work of Chree is emphasized, the authors state:
+.
+
+“It would therefore seem well worth wb.ileto undertake
+
+through some suitable im--rovenentof ths aneroid, to diminish tke
+width of the hysteresis loop sufficiently to make the
+suiting frcm it practi~lly
+
+negli~ble. “
+
+To discover the origin of the
+
+ioops,
+
+e~e~iments
+
+E~~o~et~~sou
+Concluding that ti,le
+tro~ble
+
+is
+
+not in the steel spring, but
+
+rather in the diaj@agm, a theoretical study is made of the equilibrium of forces acting on the vaouum bcx.
+
+Aftsx seitingup the
+
+fundamental equation of equilibrium
+l!= To+fz,
+
+q
+
+-(1)
+
+authors proceed to e~a~o~a~a ~h~’~ey~s of
+
+this
+
+equation by zefer-
+
+ence to the theory of eia=ticity.
+Two cases are considered, - first, that of a thin, flat diaptragm undergoing a deflection which is quite small compared to
+its thickness; second, the opposite extreme case nhen ‘thedeflection of the diaphragm is quite large compared to its thiclmess.
+The first special case enables us to consider that only shearing stresses normal to the diaphfagm exist, radial tensions being
+neglected.
+
+The other extreme case makes just the opposite assump-
+
+tion, namely, that the Gnly stresses whit-nneed
+
+to-
+
+be considered
+
+are tensions parallel to the surface of the diaphra~.
+
+After cac-
+
+rying through the theory of both cases ae far as ~ossible, the au.
+thors abandon the equations so deticed in favor of e~lPiricalobservations. ~everth~less, some tenta*ive coficlusions
+are reached
+which are interesting.
+Thus, for the flat diaphragm undergoing only am infinitesimal
+deflection, the fcllcrringequations aze derived from t.~ieheory
+t
+developed by Foeppl, Vorlesungen ‘ibertechnisc~e Mechanik, 3:255,
+i89?;
+
+5:110, 19C’?:
+
+~2
+
+= S*2
+
+-
+
+aaz,
+p
+
+P2
+
+,
+
+(2)
+
+-.’
+.
+
+In these equation=, to begin ‘rith, S
+a disk such that the force acting on it Cue
+
+Ler.otesthe radius of
+to the pressure
+
+P
+
+So
+is the value
+will just equal the actual tension T, and
+a , p arid h enwhich it has fcr zero deflection. The S~bOIS
+.
+defined by ths last three
+ployed in the firs* three equations are
+
+equations.
+
+(In the original text, P
+
+and the ietter
+.~-ther,
+
+a,
+
+in
+
+is er~ioyed f~r the tensio~l;”
+
+Gernar~type, appears ~rrsteadof our
+
+a).
+
+h = thickness of diaphra~,’ E = mo”dulusof elasticity;’
+
+stzain.
+and. l/rfl cross-section contraction/lor.gitudinal
+=
+The authors ex~lain whY
+(r, + r2)/2
+
+where
+
+so
+
+32 and rz
+
+is approximately equal to
+
+are r“especti’~ely
+the inner and cwier
+
+radii of ths annular diaphra~.
+now appean=
+An original.feature of the autlnorstcontri-~ution
+the d.istriWin their statement that when the deflection is z5r0~,
+
+,
+
+.
+
+44-
+
+%ion of load ‘~etwem the rim and the centzal solid disk is intL~~endgnt of the elastic
+
+~~rlstd~t~
+
+of
+
+the diaphragu~ and the perfor-
+
+manceof the instrument momentarily Independent, therefore, of elastic after-effect when passing thrtigh the .~osition.z = o.
+if
+
+versely,
+
+z
+
+is different from
+
+o,
+
+con-
+
+tken, as a result of the
+
+te.u
+
+$3naz
+%2ich now enters> T and with it the distribution
+?2
+of air pressure between the r~m and the plate mill depend on the
+
+elastic reaction of the diaphragp.
+-is chmged from p.
+ward ~
+
+z
+
+If,.for example, the pressure
+
+to a higher value
+
+p,
+
+the plate deflects in-
+
+takes on a positive value, and the elastic reaction of
+
+the diaphra~
+
+diminishes the proportion of the air pressure which
+
+falls on the plate.
+
+Xf any reaotion diminishe~ because of .elas%io
+
+after-effect, thefithe plate mill again be nore heavily loaded
+and will continus its inwardiy directed motion.
+Thai pszt of the elastic reactioa of the diaphra~ nhich depends on
+
+z
+
+is, according to equation (2) Independent of the
+
+p~ess~e P> remaining, therefore, unaltered in magnitude for zero
+.
+
+pressure.
+If one substitutes into equation (1) the value of
+
+T
+
+obtained
+
+from equation (2) and takes account of the fact that, according to
+the ~=tions
+
+(2)
+To z 1-r S02
+PO
+
+(2a)
+
+one finds for the sensitivity of aneroids with very small pressure
+changes
+
+,
+
+(3)
+
+Tineanezoid diaphragms used were aade of .02 cu. thick German
+l/m = .37, E = 11
+
+silver for which, with
+
+X
+
+105
+
+kg/cm2, a = 1.7.
+
+From equation (3) it is evident that the influence of elasiic
+after-effect on the indication of an aneroid in the co~templated
+case diminishes with diminishing thickness of the diaphragm, and
+with increasing spring constant f,
+
+this last insofar as the after-
+
+effect of the diap-hra~ is greater than that of the spring.
+r.eglectthe bending
+In the second extreme case, the autb.orsstresses and stresses normal to the diaphragm> and confine their
+analysis to the tensile stresses in the neutral surface. Consider
+the radial distance =0
+
+at which a tangent plane touches the sur-
+
+face of a diaphragm which is simultaneously deflected down by
+pressure p
+
+and up by tension T.
+
+At the pcint of tangency the
+
+stresses have no ve~tioal component; therefore
+
+ten$ile
+
+T =npro2
+Thus
+
+the
+
+(4)
+
+distribution of load between the outer ring and the
+
+central solid disk depends only on the value of this radius
+
+ro.
+
+For the case of zero deflectim,. supposing the diaphragn initially flat and free fzom tensile stresses, rhea
+T = d,
+
+p = o
+
+and
+
+a solution is,quoted from Foeppl, (Op. cit. 5:144, 190’7)
+
+according to which the deflection ~ as a function of the variable
+radius
+
+r
+
+is given by the equation
+
+-6-.
+
+and tlnezeforethe distribution of load is here also independent
+of the nature of the diaphragm and consequently the after-effect
+has no influence on the displacement mherieverthe latter ha~pens
+to be zero, But the cases when the displacement is not zezo it
+q
+
+has not been possible to treat theoretically.
+The difficulties of treating cornigated .diapkragns
+are then
+alluded to, and experiments described in which the dia~hragms were
+loaded with weights
+
+T. which vuxce”variedover .a cycle for differ-
+
+ent constant values of *he air pres~e
+
+p.
+
+The results could be represented by the formula”
+
+where
+(6)
+
+(3 + Cp + dpa) z
+
+T=ap-
+
+(6a)
+
+As a first approximation it is shown that
+imately equal to the average of ,thetwo r~ii
+einpiricalconstant a
+the coefficient a
+
+by the term
+
+?-r02 ,
+S
+
+8*
+
+is again approx- .
+
+if one replaces the
+Hence, a~roximately
+
+is independent of the nature of tne diaphraga
+
+so that here again the distribution of the lead between the central
+
+.
+
+.-
+
+7-
+
+disk and the zim can not be influenced by after-effect whenever
+tiledisplacement is zero,
+I
+
+The coefficient h
+
+is found to be about forty times as ldrge
+
+in the experiment as it wc-~ldbe from the first of the theoveti::el.
+deductions; moreover, it is found exper~icntally that b
+
+is ap-
+
+proximately prcpor%ional to the thickness of the diaphragm, whereas,
+according to the theory give~-,it skould vary with the cube of the
+thidkness. This seeming disczepa.my is sufficiently explained by
+the fact that the observations dealt
+
+iy~th
+
+lazge deflections, such
+
+as were not contemplated at ail in the tkeory quoted; moreover,
+the observations were made on corrugated diaphragms.
+It is concluded that the coefficients b, o and d,
+ly
+
+the first, depend on the properties of We
+
+particular-
+
+diaphragm metal and
+
+serve to explain the hysteresis loops.
+‘Jponsubstituting the value of
+
+T
+
+from equation (6) into eque-
+
+tion (l), and taking tineapproximate condition R = O,
+
+there re-
+
+sults the follo~ing approximate expression for the sensitivity of
+an aneroid in terms of the coefficients a, b, c, d and f,
+
+The
+
+authors consider that this expression warrants special attention
+,
+because cf its simplicity, and because it is reliable to 57 in the
+cases which they have investigated:
+z
+
+.
+
+EL
+
+P - P. ‘f+Q
+
+Dro~ing
+
+a
+‘btf+cy+dp2
+
+(7%)
+.
+
+the theozetic~l discussion, the authors announce the
+
+conclusion that the means available to diminish the effect of imperfect elasticity in aneroid barometers appear to be three in
+
+.
+
+..
+
+-eIx.llz-cer ,
+
+Viz. :
+
+I.
+
+Select a speciaKly good quality material for the diapkragr.
+
+The autiiorsstate that they have been able to find nothir:gsuperior to hard German silver. But it
+
+is
+
+important to reduce the
+
+thickness of the diaphragm, which they hawe carried with advanta~e
+from the usual .2 ‘mm.down %0 .C5”EmL The diaphra~-s shculd be
+pressed into shape by hand and thereby hardened, for softming ~,a=
+fmnci to make the after-effe~t excessive.
+11. Use a stiff spring so as to have large values of
+
+f.
+
+Zf
+
+this diminished the sensitivity of the aneroid too much, one can
+re~tore’this sensitivity somewhat by increasing the multiplying
+power.
+
+If this in turn entails too nrmh fcictim
+
+in the mechan-
+
+ism-,resort can be made to the vibration device of Mr. Goep--el.
+This consists of ELstsel plate attached to the aneroid and caused
+to vibrate by means of a toothed wheel operated by hand.
+1110
+
+The foregoing theoretical equations as,sumevacuum boxes
+
+~iih only a single diaphra~.
+
+If both the top and bottom are made
+
+flexible, the eq~ations can readily.be modified; for example, ‘i’b
+becomes
+z
+1?- Po
+
+a
+=
+
+f+$Q
+
+-
+
+(8)
+
+.
+
+The double surface box reduces tk.einfluence of after-effect, there.
+fore, to about one-half w-hatit would be othermise.
+These three principles have been applied to a number of aneroids constructed in the Reiohsanstalt shops, the mnstants of
+
+/.
+
+.,
+
+-9-
+
+*
+
+which the authors proceed to give, and the effect of substituting
+various stiff~esses for the
+
+spring
+
+and
+
+making
+
+nmltiplyirqg
+p’owerare zeported mmeri~a~ly.
+
+certain changeS Of
+The numerical sffect
+
+of these substitutions on tineobserved hysteresis loops is iinal.iy
+given
+
+and
+
+shown to be quite marked.
+
+In their concluding sumnary, the aut~.orsstate that by mean=
+of the three methods given, they have succeeded in producing aneroids for ~ihichthe greatest width of the hysteresis loop between
+760 and 410 mm. is not over 2 EEL
+
+(It is not very clear how much
+
+to taks place at the minimum
+time the authors allowed for “~-iftr~
+pressure during the tests which established these hysteresis figures; it is nerely
+
+stated
+
+about 5 mm. per minute.
+
+that the rate of change of pressu-e was
+Their result of slightly ~ver one-half
+
+of one peroeni is ex~eptionally good, although by no means SWprising if there were direot-return pressur~ cycles, that is, without prolonged delay at the lowest pressure.)
+

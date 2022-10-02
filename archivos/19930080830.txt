@@ -1,0 +1,2696 @@
+• 5l 52038
+
+TECHNICAL NOTES.
+NATIONAL ADVIS~RY COMMITTEE FOR AERONAUTICS.
+ure~u
+
+I', (
+
+of S\"nriard~
+- HOIl Section
+
+CA~'~
+
+C
+No. 38
+JAN 15 1921
+
+MEASUREMENTS OF EtUDDER MOMENTS ON AN AIRPLANE
+DURING FLIGHT.
+By
+
+Tng. v. Heidelberg.
+
+" Translated from
+"Zeitschrift fur Flugtechnik und Motorluftschiffahrt~"
+Volumes Nos. 21 and 22,
+Paris Office, N.A.C.A.
+
+January, 1921
+
+l
+
+NATICNAL ADV!SORY COUMITTFS FOR ASRONAUTICS.
+
+TECHNICAL NOTE NO . 38.
+YJ:A8trRE ~12N'l'S
+
+OF RUDDER MOllLENTS ON AN AIRPLANE
+
+DURING FLIGHT.
+By
+
+lng. v. Heidelberg.
+Transl<.A.ted fr om
+"Zei tsch rift f-tir Flugtechnik und M otorluftschiff ~hrt,"
+Volumes Nos . 21 and 22,
+Paris Office, N.A.C.A.
+
+•
+
+Tn3 follo,ling report on ths M
+easura!''flc nts of Rudder
+M
+oments taken on un Airpl o.ne i D Flight, is a tL'anslation
+fror:! " Ze it schrift f{ir F'lugtech:1ik und M
+otorluft 8chi ff :::~hrt "
+Volumes Nos . 21 and 22 . :-'he tra.nslation \'](1S prer-arecl by
+tha Paris Off ic e of 'che ~Jd.tionCJ..l Advisory Co::nmi"tte.::: for
+Ae ronc:..ut ic s.
+
+The urg e nt need for the highest p ossible number of
+utilizable Iriachines, turned out in the short est possible tirr,e
+gave r i S0 to such a derr.and on the airplane industry dur ing
+the W(;...r, ~md there was such con stant need for im: ovn.tions
+in the airplanes therr.selve s, that the manufact~rers had to
+a.epand on the ir own common sense and experience 1'ather
+than on scient ifi cally acquired knowledge in the e.:1rly ye a rs
+of the ~ar . The results obt aine d were uncommonly successful, in spite of ther3 being no spare tirre for developing
+aerodyna;nj.cal theories a.nd utilizing them as foundation
+to work upon . The :nethod sui ted the time s, but such an en:pirical n,ode of testing ne i, types , constructed on unsure
+b~ses, could not be continued later on.
+The future of aircraf°t,j design Hill have to be entrusted t'J technically
+trained engineers who are specialists in their own line of
+w k.
+or
+The creation of systematically scientific b~ses for
+the further development of airplanes will be specially
+sought after; their construction, their util ization and
+their efficiency will be studied, and strength calculations
+~ ill be estaolisbed by means of model tests, not only by
+static tests of bre ~k ing loads on costly f ini shed airplanes,
+as heretofore. ~uch bad been done along these lines befoye
+the V/ar, and a greu.t deal rLore has been ach iaved ~vi thin
+
+J
+
+•
+
+:3 -
+
+tne last f8:V years.
+Wina. t-1m~el model 'vest s have been adoptsd
+extensively, but few pri.(.ctio?ol tests have been IL3.de on airplc::mes eluring fli6h"t. The f i r s t utjlizable ~ests carried
+out at the ~e!'mG:l.n Testing Labol'~tory* JV3 r c; c'J.t. short by the
+War. There is urgent neeQ :or auch t e sts, for it is by their
+means alone tha t the v~lue of ~ojel tests, obtained under
+simplified conditions, cun be vrov e d in r e spect of th 8 ir application to actual airplanes.
+Wind tun~el measurement s of
+l~rge models and high velocities have occasionally produced
+a3"tcnishing re6ul"ts. This ShO~6 th ~ t it is only by me~ ne
+of .;. large number of pru.ct ical t 3 st s th<:~t the. r:3q"J isi t e ~c­
+curacy C..ln be c.t t3.ined in aerodynan,i cal c a lc1;.lat i ons.
+FI ight
+conditions . in their actual succession, c a n c e rt a inly npver
+be realized by means of model test s , as such conditio~s depend up on the pilot, and are maneuvers vvhich cann.ot b .=; reproducea in "t 8 st ing n.ode J s. All th8 conditions of non-steady
+flight and of the ~orking of the propeller c~n certainly be
+ootained in model "t es"t3 , but suc~ tests c~n only be carried
+out with greet difficulty.
+Up t c tne pre sent t iIte, there have be en b1),"t fe w re suI t s
+of pracitcal flight tests, it being difficult to reduce the
+art of aviation to the limits of regular a nd systema tic
+tests. The airplane requires so many constrl4.ctional alterat ions, when its proport ions are reduced to t~le jU:lens ions
+of the model, th~t the effec"t of such modifications c a nnot
+al ways be fo:;.'eseen and flight tests on actual airplanes
+are still dangerous, though less so tnan in former yeo.rs~
+when less experience had been guined and there was l ess
+excess of engine po tRer.
+The ration~l st~rting poin~ of all flight t ~s ts is
+steudy horizont~l flight. Me asuremen"ts of 3winging and steering conui.t ione in curved fl i ght sh ould be postpone d unt il
+horizonto,l :light has be e n brou6ht to the cr'C2.rldard of our
+pI'esant scientific kno,Vleci.ge. AJ.l the 'thejrGtica.l investig~tionb ani modal test3 made as yet deal ~:th it alone.
+?here 6\.re two main pOints t o be determined. in im~es:;i ­
+steady horizont~l flight: the y ~re t~e estimation of
+tr.e forces i...TId of the MCMENTS. T1,e scope of the forces is
+in~port""nt in it 8 j.nfluence en the cl irr;bing C C.lJdC i ty, speed
+and glic1iflg capacity; tha-:; is, for tl:e cffic':"er"cy of the airplane . Tne , ~qui:ior~ ~ ion of the moments is aba olutely 9StJential to its Bo,fety, sta..bili1iY, and. con~roll~bility, that is, ~s regards its flight qu~li"ties. The difficulti e s
+encountered in deter mi ning the se t Vl O point s are cii fferent
+j.n chb.racter: in mea suring force, t i.le functioning qualities
+of the a~g i ne and of the propeller ~re of buch importance
+for the eotal efficiency of the airplane, that its aerody:!omical quuli_ties are of !elo."cively, min.or in.port1:..nce and
+g~ting
+
+*
+
+See "Zei tschrift £'3.r Flugtechnik und Motorluftschiffahrt
+No. il, 19:!..4:, pp. 3,17, o.nd 149; also 1tTechnische
+Berichte der Flugzeugmeisterei,n Vol. I, p.6l.
+
+1 II
+
+,
+
+- 3 -
+
+slight alterations in th9 distrlbution of force may easily
+ciisguise aerodynamical influe:lces qu~.te effectively. It is
+essential, for these reasons, th~t p~rticularly sensitive
+instl.'ument s should be used in measuring force s on airplanes,
+and a thorough £'.cquaintance wi::h the airflo'li conditions i e.
+equally necessary. It is, indeed, only when the p=opeller
+efficiency, decrease of power .1itn atn"ospheric pressure, etc.
+has been thoroughly g:r:oundeci thLvt such mee.surement s ca n be
+taken at all . When measurements of moments are t:;.l.ken, pro peller anli angine are, on the contrary, of sm~ll import :1nc e .
+Here \ve hQ.v·e to deQ.l vii t:n ~he compensation of ~ero1ynamic al
+forces only in the fir st case, and they can be l!,easl.lred
+filth less o.elici;..l.te apparatus.
+The difficultiss here encountered are of Ci purely tec:i1nical nature, as the n~easurements
+of moments neces s itate dero,nger.oents of the equilibrium
+through unbalanced lo~ds or by one-sided bracing of the cellule, and the ~ilot is therefore obliged to fly in an unba.la.nced airpla.ne. The se drawbacks may, ho weve r, be met by
+controlling devices and by experience on the part of the
+pilot.
+J
+
+•
+
+We now propose to deal with such me asurements of mom ents,
+giving the results of the ~ction of the rudder on the posit ion of the cdrplane ~s on the equil ibriulU of the moment s.
+The measurement of moments is preceded by measurements of
+the dimensions of the ~oments produced by t he st eering of
+the rudder in their relation to the angle of attac~. CalibrCited rudder curves c~re obt ,,\ ined by such measurements, in
+the present inst~nce for the rudder and the elevator. Th is
+theoretical data is closely connected \7i th the direct and
+practical study of the influence of bracing on moments, and
+consequently on the equilibrium of the airplane 4nd its
+safety in fligh ·t . Ment ion \vill i:il so be made of the means
+by which errors in position c~n be corrected.
+A simple
+method of bracing is thus arrived at, ~nd its direct utilizat ion is sho IV!l in the test resul ts given below.
+Data on rudder efforts and the r e sultant moments has so
+far been obttl.inable from -the controlling measurements taken
+in the G8ttingen M
+odel Testing Lu.boratory alone. iIi Such tests
+c~n only be c~~ried out under simplified conditions, ~nd
+they can only be applied to an Girpldn6 a fter it hus been
+practically tested in flight. The G8ttingen measurements
+t~ke no account of the effect of the slip stream on the
+controls, a.lthough the ruider :...nd fins :::..re sensibly c.:..ffected by the slip stream, as shown by the various positions
+tu..#.ell up by an ~i!'pla.ne when the engine is running, a.nd in
+gliding fllght. In the GOttingen measurements the angle
+of attack has been s~ccessively incre~sed by 5 oI where~s
+suoh great differences never occur in the angle of attack in
+
+•
+
+* Compare nTechnis'c he Be richte,1l Vol. I, No.6,
+
+p.168 .
+
+,
+
+-
+
+4 -
+
+actual flight, or ~t le~ot not ~nder the influence of the
+elava.tor. If the model tests .;..i,re. finally to be aD"Olied to
+tha.t pdlrt of tlle control si -cuo.teci :n -che ~ wake of 1;ne pr,,peller Wind, sOr.!e fu.rther prel irui!l::..ry tes-c 8 are ne "':3 cied , a.f'
+ordinary pla"tes were use<i i:;. testing the control models,
+while the l ... terc~l contr·,llir:g r-leChL..nis::r. i~ al ways to be regarded C:t.s an ex-~e!lsion of the .}il-!6 rib s; a.180 because such
+meca.sure!l1e!lt6 apply to rudders Duving a de~th 0: 1/5, 8/5,
+3/5, o.nd 4/5, .vhereas in C:t.c1;ual airplanes such deptl: E:.ffiOunts
+to about 2/7.
+During 1;:1e War, the present vrr:' ter took !:!1ec...surer::ants
+of mOL:ents a.nd. rudder forces ,vhil.e flying on Q. DfwOV airpl~ne (see Figs. 1 to 3), With ~ 200 n.P. Benz engine, at
+the Germ~n Testing L~bora"tory at Adlershof . The results of
+the tests are colleo-civelv stated jelow, 0.8 comp~red to
+those of the G8ttingen Lctborutory. The exac ~ ~eas~reffients
+of the airpla.ne are to be round in 'I'tt.ble 1 and Fig .1.
+Table
+
+1.
+
+______--'M=e~C1,'_"!s~u:..:r~e~rn~e~n t s of the Df 1J! C V Ai rpL.ne .
+.
+:Upper
+Wings m.11l . _____ : Lower dihedral angle IT
+II
+10 ;/er
+u,Pper
+~
+
+-------- - - - - - - - - - -
+
+: Angle of tr.e retrec.l.ting
+upper :.' ir..g .180°
+1 750
+11
+tl
+retreating
+I _?C
+"
+lower iVing .. 180°
+Af..c:,l e 0 f a. t t ac k :
+Tot~l surf~ce F - 41.26 sq . :TI . :Distc... nce :
+upper
+l~ lier
+:irom tce:=ight:left:right:left
+center
+Stagger ~
+0°
+
+Toto.l S,Pan: 13 100
+ti
+1 750
+t ....
+1 750
+
+11 940
+
+oU"ter
+inner
+fixed
+:Po.Tt of
+: "!..i:l.il plane :
+
+,
+
+.
+
+.
+
+:., • 2i=;0:? 250
+....J
+•
+. ~
+
+~
+
+.
+
+- 5
+W~ASUREMENTS OF LATERAL MO~!1£!~TS O~J AN A IRPL !~ 1-JT .
+
+There are t~70 ways of producing unbala.nced later&.l
+moments in an airplCLne, ap!:.I.rt f :!.'on. the steeI'ing r;,oment:
+
+,
+
+..L •
+
+2.
+
+By the applicc.tion of weights on Olle side.
+By une '::ru~lized bracir.g (unbd.lanced lifting force ) .
+
+As the moment due to unba.l::mced lifting fOI'(~e ci::l.n be
+compensated by the action of tne ~ileron, a.nd the loca tion
+of the aileron ut the rr.Oli'lem; in que st i on ~h € re fo:.'e pre sents the possibility of .~quili brat in6 both tLl ~ n et 'itods
+a.bove referred to , ,-,nd of a st(;j,bl ish in6 calibra. ted. curve s
+shoWing the force on the CLileron in ter~s of the ~ngle of
+atta.c k.
+
+WCL.ter weights dre use in order to produce w
+eight moments . A second WC'..I.nner of vroducing such moments is thb.t of
+unequCi.li z ed br~clng belo w the spa.rs (dissimilCi.r a.ng les of
+!;l. tta.ck on the right _"nd on the 1e ft ) .
+The rrlea.sur c me~t S
+taken are for direotionCi.l control and elev~tor c OLtrol .
+On the outer s t rut s, .va.ter tb.nks of ai rn ilar size a.nd
+shtl.pe CLre bu i.l t in bet ween the \"Vings in such b. manner that
+the extra. hec~d Te si stance c..Yld the weignt of the t2~nks 'i.l'e
+equal on both sides of the wings, and CLre therefo 1.' e, equillibrated for the airpl a ne (Figs . 2 & 3). The 0~8erv q r's
+cavY-pi t conted.ns a wa.t e r tct.nk of 30 Ii ters caf'a .J: ty, 10 -·
+cated close to t~e pilot' s seat in order to ke e p ~ h e ~Atra
+wei g ht a s n0a1' o. S .i.:. ossible t,J th e cent e r of pre s.3ure.
+FraU! th:i. s tani!:, a sio.e -tank can be fi lled with water by
+meCl.ns of a pre s sure pump b . The rubber tubing for that
+purpose is located in the b!'acing of the lower w
+ing, so
+tha.t it oauses no derangement to the airst:::eam. The vclume of water pt'IJrJped into the side-tb.nk during flight can
+be read in liters on a benzine meter d specially caliiOIated for the pu!'pose .
+
+The aileron is at a uistance of 5 m. from the center
+line of the body. The angles of attack are ~easu::: e d OD
+the lower wings belo w each r1'o by means of a wate:::-level,
+and de.te:::nlined as ?_n gl e s of the corre s:;Jondi ng W
+ing chord
+in rela1j :'or: to the el!gine sh a fll.
+If the angl e s of attack
+of a 'ing need 0.1 t e r a t ion, 't~e cb.".)l e 5 of the fr.ont b e r:"ng
+surf a ce are left as they b.re, the ca.bl c s and. counter-ca:bl.es
+of 'che re a r l)e aring suric:.ce alone beine; 2..1 tered o The turnbuckle s ar e ljDorougr.lY 100 88ne o. before b racing, and th'3n
+t ie;hteneci. unt il the re 1 a".; j VB l~ oci t ::'ons of the upper Wings
+anJ. 'the 10 wer dings ( stagge r 0 being measured 'ivi th a p ... umb1 in~ -, are equal . In tnis . ay, the cliheu.ral angle :,en~ains
+unCi1an~E!d"
+the fore llia in str-u.ts and the front loads are not
+
+- 6 I
+
+•
+
+eccentrically lcaded , ~~l.d there i s act too hi gh a st ress
+on t he t u~nc~0 ~ 163. The uiffe£ELces in tte ~ngles a re the
+differ ence s i n the chord aLglcs 0: ~h 8 ~ i gh t a~d left 10~er
+Nings a.t J.;b.e ribs ~v::..jC!l 6t.re mc;.rl:8 d as b .3.ir.g acljust:,.bie, on
+the outer or i!mer stru's . en ac::;·: mnt of ·une cuc.s:"l'uct ion
+of the in~ erior of the wi~g. ~he ad~oining r ibs take up the
+f Os::, t ion s sho .m in TC:v
+bl:3 .8 af\ji31: such ad ~'L1Sh1J :1t , 'l'he : ol..A.rth
+ribs, left cmd right, counti:lg f:r om the QutS"lci8 , bes..1· the
+~ark 4 .5 0 angle of attack .
+A aifferenc9 of 1 u is) faT instance, thus obt a ined i n the a!l;;l e of a1i 'l~c~ ck on t:1e out3 r
+strut (test se ries b), Yhsn the fourth r~~ht rib is reduc ed by 1°, s o tha:i:i its chord is i nclinec:. towara.s iJhe ~n­
+gine shaft at ~n angl e of 5.5°, \~ile t~ q l e ft rib is inclined to the e ng i ne shaft at an a~61e of 4 .5 0 . This is the
+proce ss adopted in '3quippirg a ::'rpl ane s a~ the factories.
+Differenc 3s of 1° 1::1 the angle of attack , a.t tce r ear 8ute r
+strut, are visible to tnB na ke d ey9 by re&son of the notable
+cambe r of the upper sur face} <'lith the El-ic:. of u. c-u.p ane!norn ,
+eter 1. ocated be:rond the 8 '.'Veep of t iJ.e E' l i ? s tr eam , on the
+right inner s trut , a unifor~ f:ight ve lo city is ma.intained
+a.uring the entire 881'ie3 of t ests, \vhen flying eithe r 3,t
+full intake or in gl:' ding flight . In flj,ght agai::lst the
+wind, readir.gs are taken at an ci.ltitude of 20 ·) 0 to 2200 rr:.,
+so that approximE..tely equa:!. flying condi1:i iona nlay be attained 9ven w
+hen the fli ght s take p~ace on different days.
+
+~
+
+- 7
+Tab 1 e
+
+2.
+
+Br a cins of t he Test Airplane in Test-series
+
+to
+
+a)
+
+d).
+
+Angle of Attac k in Degrees.
+T0st :
+
+Ribht Wing (number of ribs):
+
+Series:
+1
+_
+
+_
+
+_
+
+_
+
+3
+
+2:
+
+c . _ _ _ ' _ _ _ __L __
+
+5
+
+It
+
+._
+
+:2
+__. 5 :3 . 0 :4.0 :4 . 5 :5 . 1
+
+7
+
+6
+
+' _ _ _ _ _ ,_ _ _ _ _
+
+9
+
+g
+
+--'- _ _ _ _ .
+
+.~ _
+
+_ '
+
+_ _ _ _ _' _
+
+_
+
+10
+
+__
+
+11
+
+'- _ _ _ _ '_ __
+
+13
+
+12
+
+14
+
+15
+
+16
+
+__ _ ' _ _ __
+
+c)
+_
+
+d)
+-
+
+:5.3 :5 .5 :5.7 :6.0 :6.0 :6.0 :6 .0 :6.0 :5.9 :5.9
+,
+
+:
+:.:
+:
+:
+:
+:
+:
+--- -.--- :
+~
+~2.g ~4.3 ~5 .1 ~5 . 5 :5 . 5 :5 .7 ~5.g :5.9 ~6.0 :6 . 0 :6 . 0 :6.0 ~6.o ~6.0 :5.9 ~5 . 9
+
+: --~.-.--:
+
+b)
+_
+
+:S ."3
+
+.'
+
+a)
+
+-_.
+
+_
+
+:
+
+:
+
+~ ---:" --'
+:
+
+.
+
+.
+
+:2 . 5 :3 . 5 . .3 . .0 .
+:4
+:5
+:5.2 ,:5.5 . . 5 . .7
+:5
+:5
+·
+.
+:2.8 . .3 :5.1 .
+:4
+:~).5 ,
+:5. 5 :5.7 ..:5.g .
+:5.9
+·
+..
+..
+,
+
+- - -_
+,
+
+_ _ _• _ _ _ _ •_ _ _ __ ••
+
+_
+
+. . __ _ • _
+
+_ . _ __ ! -
+
+_
+
+._
+
+_
+
+~_ M
+
+_
+
+_
+
+... _
+
+_
+
+· _
+
+_ •. _ .__
+
+. _ _
+
+. _J__ _ _ _
+
+.
+
+, -- -_-!--.__
+
+. __ . ..:.... _ _ •• _ _ ._ ' - - __ _ - - '. _
+
+. • _ !..-.- _ _ _ _• _
+
+_
+
+_
+
+.
+
+.
+
+- -. - ._._- - ' -- -
+
+:5.9 :6.0 .
+:6.0 :6.0 :6.0 ..:6.0 :5·9 .
+:5·5
+.
+.
+.
+..
+.
+:6.0 :6 .0 . . 0 :6. 0 :6.0 :6.0 :5.9 :5 · 9
+:6
+.
+.
+..
+..
+.
+.
+.
+_
+
+_ __ _ _ - ' _
+'
+
+. _ ·_ _ _=____
+
+"
+
+_
+
+_
+
+•
+
+•
+
+• _ _ •. ----' __ _ _ _ _ •_ _
+
+..
+
+•
+
+_ ._..!.o _ _ _ _ _
+
+..
+
+T a b 1 _~ ..~_ (Con ti d )
+
+Bl' a cillg of 't he Test Alrpl a ne in Te st-Seri e s
+Test
+Serj.es:
+
+a)
+
+to
+
+d) .
+
+Angle of Attack in Degrees
+
+- - -- -- - - - - - - - - - - --
+
+... - -
+
+"' ,
+
+-----------....:.--~. .
+
+Le ft Wi~g (number_ __ _ ___ _ _ _ _ _ _ _ •
+of ribs).
+_ _
+· . - _ .
+.
+'
+1 o ' 15 ' 14 ' 1 3' 1 2,. 11 . l ' 9 . 0
+. _
+-. .
+o·
+. G" ' 7 '• 6 ' 5 '. 4 '' 3 '. 2 . '1
+
+:
+
+-. -.
+
+c: __~ ; l.i
+.bD........Jl) n.l
+
+...:-~" ~ . !H
+
+_
+
+·
+
+_ _ _ -: _ _ _
+_
+
+~
+
+_ _ __ _ _ !_ _ _ __ _ __ .~_
+:
+:
+
+_ _~ _ _ ~
+_
+
+5. 9 : 5 . 9 :__6 , 0_--..:... __0 : 6 . 0 : 6 . 0
+: 6.
+._ _
+.
+.
+0)
+: 5. 9 : 5. 9 : 6. 0 : 6 . 0 : 6 . 0 : 6. 0
+-;)-~5 . 9 ~5.9 :6.0 : 6.0 :6 . 0--;6 . 0
+·
+,.
+..
+..
+..
+..
+a)
+
+- --
+
+i
+
+_~----'--__.!
+
+: 6 . 0 :. 5 . 7
+.
+: 6. 0 : 5. 7
+,
+:5.7 ~5 . 5
+.
+..
+
+:
+
+~
+
+.
+
+~
+
+: 5. 5 : 5 . 3 : 5 .) : ~ . 1
+.
+.
+.
+.
+
+..
+
+: 5. 5 : 5. 3 : 5. 3
+,
+.
+.
+~5.0 ..~5 . 0 ;4-.8
+..
+.
+d)
+:5.9 ::5·9__!_ _...0 :6 . G :6_. ___.. _=_._ ._::5.7 :5.5 _ :5.0 _:_
+:6 _ _'-:' _____ 0 :6.0 __ .___=_ _
+:5.0 :4 . 0
+---I-!
+._
+=___
+.
+----'~-.~-~-~
+'-
+
+..
+
+.-
+
+_ _ ••. __ ' . _ _
+
+_ _ _ "_ _ _ _
+
+'
+
+.-!. _ _ _ "_ _ _' _ _
+
+~
+
+_ _
+
+._
+
+.' _ _ _ _ _
+
+.••• _
+
+_
+
+_ _
+
+_
+
+~
+
+__
+
+__ _
+
+~
+
+:
+
+:
+
+: 4. :5
+
+_:_
+
+:L
+L
+
+---.:
+
+0 : 3. 0
+
+t _ _ __
+
+. ~ ~ . ..c! "d
+. 'rl s:: '·rl ~
+
+: Q
+
+. r=t
+
+: 2 . 5 : o. 0° : ~.--=--_
+20
+
+' - - - __
+·
+
+•
+
+.- - ,' - -
+
+:
+:
+:
+:
+. 5. 1 .4 . 5 : 4. 0 . 3. 0 : 2 . 5 : 1. 0° -+2 0
+.
+.
+.
+:4.2 ~3 . 5-0.1--;.-2:-3- ;-;~~.-5o :. +2°
+..
+..
+..
+.
+
+_ __ _ 1 _ ._ · _ ...J.- _
+
+_ _
+
+_
+
+~
+
+_
+
+_
+
+__
+
+'
+
+_ __ .
+
+'
+
+.._ _ _
+'
+
+_ _ _ __
+'
+
+:4.2 . .:3.1. . . . . ::l2°
+:3.5 . :2.3 :1. 3 :2.0o
+
+Tab 1 e
+Results of Test-series
+
+.}.
+
+to
+
+a)
+
+d)
+
+- -- -_ .
+Test
+Se ri t.'::s
+
+a)
+
+Diff. i n: Speed
+t,ngl e of '. 1a!1/h
+attack
+r t. :Lnd
+left
+
+0 .0°
+
+110
+
+Al ti tude
+in m,
+
+2000
+to
+2200
+a nd
+2200
+to
+
+to
+1. 0°
+
+110
+
+:Ailer- : ~ater:Moment mlk
+:Eleva- :
+: Rud-ie r: on : "'i::; ight :
+to r
+kg.
+
+.
+
+2000
+
+b)
+
+Kind of
+Fligh t
+
+2200
+R.nd
+2200
+to
+2000
+
+Engine runn in g ~ 5 · 5°
+G1idin ~ fli ght : -1 . 0°
+Enbin c running : 4 . 5°
+Glidin g: fli gh t : -1 . SO
+En gine runnin g : 4. ~
+Gl iding fli gh t : -1 . ~
+En gin e runnin g : 1+,5°
+(;lidin' "" fl i b
+r-o - ry'ht . - ?- . 0°
+..r
+.
+E~gin c ~unninb ~ 4·5°
+Gliding f1i""'ht :-3 . 0°
+Engine runnin g : 5. 0 °
+Gliding fli ~~ht : 0 . 0°
+~nr'i"" e "unnin(T J '. 5 • 0°
+d
+_...: .. · u ·
+t:
+-Glidin g f li ght :-0 ·5°
+Engine running: 4·5°
+Glidin g fli ght :-1 . 5°
+Engine running: 4.0 0
+Gliding f1i ~ht :-2 . 00
+Engine r unnin~ : 4 . 0 0
+Glidin ~ fli gh t : -2 . 5 0
+
+4.~
+
+O,CP
+
+4.5°
+4. tf
+4.~
+4.5°
+4,5°
+1+ .~
+4.~
+4 .. 0
+11 . ')0
+..5
+3.5°
+3 . 50
+3 . 50
+3_5 0
+3.5 0
+3.5 0
+3. 50
+3. 50
+3. 50
+3.50
+
+0.5°
+0.5°
+
+:
+1.~ :
+
+10
+
+50
+
+1 5~
+
+75
+
+°
+
+l.
+
+:
+
+2 .0° :
+2.25° :
+2.7!/ :
+2.6
+:
+3. 3°
+: -1. 5°
+'-1.0° .
+: -0 . 75 °:
+: -0 .2So:
+0.0°:
+0.5°:
+0
+0,75 :
+1. 2C) °:
+1.3°
+logO
+
+20
+30
+
+15 0
+
+10
+
+50
+
+15
+
+75
+
+20
+
+100
+
+30
+
+15 0
+
+()Cl
+
+Tab 1 e
+
+3 (Cont1d)
+
+a)
+
+' Results of Test-series
+- - -- - -
+
+:Diff. in
+Tes t
+Series : P.n ; le of
+Attack
+rt. a nn
+left
+
+- - - - --
+
+1 • -0
+J'
+
+.. .·..: -
+
+110
+
+to
+2200
+and
+2200
+
+110
+
+200 0
+to
+2208
+[end
+2200
+
+to
+2000
+
+----
+
+---- .--------- ~- ---
+
+- --..:- -------!..... -
+
+'Engjnc running
+:Gliding fli f!"ht
+:Eng-ine runninr
+:G1iding f1i ;h t
+:Engine runnin g
+: Gliriin '7 fli ::-ht
+: En g ine ' running
+: G1idinr- fli ::ht
+:En gine :li ''''ht
+: Glidin g flight
+
+: S·or;:
+
+: En g in e ' l'u:1nin g
+: Glidin x f1i .Tht
+'En;:; inp-- rlmn in ;
+: Glidin " flL:-ht
+: Engi n e running
+: Gli ding f] i 7!1t
+: I:n g ine rlL.'1n in g
+: Gliding flight
+: Engine running
+:Gliding flight
+
+5'h0
+)
+1.0 0
+5. 00
+1. 00
+
+•
+
+- .0
+;
+
+-----
+
+2 . 00
+
+-,;!"- - --- - - - - - - - - - --
+
+- - --
+
+- - -
+
+:Ailer-: w~ter : Moment m/k
+: Fl c v;,,- :
+:''''e ight:
+:Rudder: on
+tor
+
+.
+- . -- _._--_..
+
+2000
+
+d)
+
+d).
+
+k0 -
+
+to
+
+-
+
+- - - - - -.--
+
+KinO. of
+Fli ght
+
+Sneed : 1'\1 ti tude:
+I
+i n m.
+k~ i h
+
+2008
+
+c)
+
+--
+
+to
+
+: _1.0°
+0
+: 5. 0 0
+•
+
+.,
+
+r
+
+'-":"':>0
+
+: C). 0
+
+J
+
+: -.1.5 0
+
+·
+·
+
+Il. r
+' . :") 0
+
+:-2· ° 0
+
+· 4 .° 0
+;- 3. 0
+
+O
+
+5·°0
+
+0 . 50
+5. 0 0
+:-0 . 5 0
+
+· 4. h
+·
+/0
+:-1·5
+
+.
+
+2·5 0 ::-3. 0 0
+0
+0
+
+2.5
+'l
+? ' c: 0
+- )
+'),...
+'- ' ) 0
+2. 5 0
+2. 5 1)
+2 .5 0
+2 .5 0
+
+- -
+
+-~---.
+
+:-2.0
+
+0
+
+. . 1 ~5 o
+.~-.
+
+O.O~
+
+0•10
+: 0.6
+
+':) r
+.
+'-- ' ) 0 '
+
+2.5
+~ 'hO
+c '/ o
+2. 5 0
+2'h
+./0
+:2 • 50
+2.5 0
+2.5 0
+?5
+..... 0
+2.5 0
+2 . 50
+2·5
+
+__
+.
+
+.
+
+.
+'
+
+. - 1 . ' <3 .
+~.
+.
+:-1.0 0 :
+: - 0 . 5 0:
+:-OA5 0 :
+:
+
+.
+
+'-
+
+0
+.- 4. 0 0
+:- 3 ·5 0:
+• - . ?5 o .
+. 3
+·
+: -2 . 7 ~ :
+:-2.5 0 :
+:-2.0 0:
+· l r. : : · ·
+.)0'
+:-1. 2 3 :
+: -1. 0c .
+:-0·5
+
+10
+
+50
+
+15
+
+75
+
+20
+
+100
+
+-ZO
+
+150
+
+10
+
+50
+
+15
+
+7fJ
+
+20
+
+100
+
+30
+
+15 0
+
+-'
+
+en
+
+?'
+
+.
+
+'- - - ' --
+
+.,. 9 -
+
+The position o~ tb~ ~l~vator and of the later~_ control
+rr.ay be rea~ on graduEL ted, sector s wi tb mO'Jable :f inge:r.s; the se
+sectors are installed in the observer's cockpit, in cognection 'v'V~th the corresponding wires, and the pos ition of the
+right aileron is determined in a similar n.ann8r, (see Fig.5).
+As these flights 'Ne1:,'e extended over a period f)f ten days, so
+that th ey took place under app:r.oximc:,tely simLLar conc.i t ions
+of terr.pe~ature and 'altitude, in relation to the suyrounding
+atmosphere, and at a simj.lar 'time and s:geed , ~he s"vati c
+presBure m~y justly be said ~o be approximately co n~ t ant in
+tpe different g roups of te st s. No measUl'eme:lt s ,~ere take~
+a t the .~ irne r
+The tests were carried out in the followi.ng manner:
+a) Wi ~h the airplane normally braced (Compa:r.e Table 2,
+test a), the pilot climbed to an altitude of 2000 m. In
+flY~ng from 8000 rr. . to 2200 ffi. w
+ith the engine runn ing , a
+speed of I O klli/h lw8..S st1..ldiously ::naintained , accordir..g to
+the anemom~ter, in horizontal flight against the wind. The
+posit ions of the elevator, the rudder and the a ileron were
+read during the time. Then came a desc ent from 2200 to 8000
+m. in gliding flignt (throttle closed) 1 the velocity of llO
+kim being maintained and readings again taken in ~ll three
+positions. Ten liters of water were pUl1lped into the righthand side-tank by the observer ~h ile the airplane dropped
+to 1900 m. and climbed again to an altitude Of 2000 m. Readings we re again taken during flight with the engine rU!ln:1.ng,
+from aooo m. to 2200 m., and also ~n the succeeding gl iding
+flight fro~ 2200 m. to 2000 m., and similar measurements
+were taken w:i. 'th 15, 20 and 30 liters of water in the sidetank,
+
+t
+
+The entire series of tests was
+as follo ws l
+
+repeate~
+
+three times,
+
+b) With a difference o~ 1° in the angle of the attack
+on the right and left sides , p+oduoed by loweri~ the r~ght
+outer rear strut (the fourth r~b pelow the strut being rearked
+for the angle of attack).
+c) W
+ith a difference of 1,5 0 ir. the right and left
+angles of attack, caused by raising the left out er rear s tru~
+by 112°, and by lowering the right outer rear stru't by 1 0 ,
+d) Wi th a difference of 2 0 ~n the rig~'t and l~ft an g les of attack, produced by lowering the right outer rear
+strut, and raising the left one~ ~n each c ase by 1°.
+Te st seri es a) to d) were thus accur&,tely carried out
+with a view to obtdining a reliable calibr ption curv e by
+means of numerous readings. The results of this test series
+
+-~
+
+dre
+
+10 -
+
+~n Table 3.
+Figs. 6 to 9 show the
+of u~e quali~ed b~acing of the outer struts on the aileron act ion, vli. tIl 'ehe eng ine running and in gl iding flight.
+'
+The she o,i' or curves follows "tihe same general direction, converging only by 50, It may therefore be concluded that the
+fling tips are no longer under the influence of the slip stream.
+If the c~rrent had been djscurbed by the slip stream, there
+vVould. also have be en cOl~ sequent al terat ions in the form of
+the curV6 sheaf. It follows that only one calibrated curve
+is valid for the aileron (Fig. 10), both wher: the engine is
+running and in gl iding fl ig~t . It al so follo ws that the
+measuren ents of control mode13, taken at the G2>ttingen Laboratory for the calcu.lation of ailerons, may be applied to
+flying c1. ; r r.l J. L :i if the conditions be duly considered, belne
+cause the currents prevailing at the ailerons, directly they
+are beyond th e influence of '~he propeller 1;vind, are similar
+to those encountereQ in the w:nd tunnel. The conditions
+differ only in so far a s that cert~in vortices and divergences of the air-stream occur a.t t he tips of the w
+ings,
+being due to the influence of the edges, during flight,
+whereas such derangements do not occur to the same extent in
+t he wind tunne 1.
+col1 9 c~iv e ly g ~v e ~
+
+eif e c~
+
+The sweep of tce curves of th e values of Cn * found in
+the G~tt ingel1 Report and reproduced in Figs. 11 and 12 is
+quite similar to that of the calibrated curve in Fig. 10.
+It gives the ~mpression that ths point of inflec~ion is depe ndent on the ratio of the rudder area to the total are a..
+In some of ~he curves, a further pOint of inflect i o~ is shown
+for larger angles of attack. The G8ttingen measurements do
+not ~how ;,ihe ': he r -:; here is a~sc a p oint of inflection bet wben
+o ana 50: as they ~ere carr~ e d out only at intervals of 5 .
+To judge by ~he sweep of the curves, howeve r, there i s every
+reason to believe that it is p os s ible.
+The Gchtingen valus E: of n:oment c annot be compared wit h
+those obtaine d at Adlershof on account of the comparatively
+large angle of attack in the Gottj,ngen tests . It must also
+be remembered that the G~ttingen ratio bet weer- rudder surfa ce
+and total surface is 1/5: 2/5, whereas it is only 2/7 in the
+tests in question. If mean values ~ere found for th3 two
+G2>ttingen ffiodels, they would approximately correspond t o the
+ratio oi 2/7.
+If the value of 2 0 be interpolat e d, the scale
+of dimension s of the resulting values of mome nt is similar
+to that of the values found at Adlershof; it is only 10% lower.
+It w t ake a point of r e trogression bet w
+e
+een 0 and 5° in the
+Gottingen curves, a,s .'{dS done for the Adlersh~f calibrated
+curve, higher moments are obtaine d, and the Gottir:gen curves
+correspond even more exactly to calibrated curve No. 10.
+
+* See "Technische Beriohte" Vol.
+CLXIV.
+
+1, No.5 , Tables CLXIII and
+
+- 11 Wi th
+
+linetLr interpo~ation) tha follc .'Y.i.ng nJodel val,.1 6' ':- e.re
+from the Gottingen ~urves for the aspect r~tio
+
+ob~~ir. e d
+
+2 : 7:
+
+Ang19 of ::..ttd-ck:
+Mome:lt:
+
+71
+
+84
+
+78
+
+84
+
+sa
+
+71
+
+69
+
+55
+
+46m/kg,
+
+as cor{.pared to 90 m/kg. for the Adl ershof oal ibra.t~d ourve
+'i{~ tl1 a O . :'ucder position . Values of about 1010 higher than the
+Gottingen measul'emente \lvere dnticipated, the two vortexes
+a.lone e·eing bound to reduce the lift in measuring t!18 rudders unlinJited and free as th6y were on both sides - more strongly
+than the single vortex on the outer side of the a ileron . They .
+~ay therefore ~e considered. to correspond satisfactorily .
+The effect of the decrease in the torque of the engine
+at an alti~ude of a:loo m., when passing f!'Oli' flight With the
+engine running to glidir,?; flight, is made evident 'or the displ acement of' tile curve saeafo in flight with the engine running, by a difference of 0 . 5 in the posi~ion of the ~ileron
+as corrpared to its position in gliding flight (See Fig.13 i e
+According "GO th6 cal iora,ted curve sho WT; in Fig . 10, the
+difference of 0 . 5 0 in the eileron position corresponds to a
+clock-wise transverse moment of the aoe HP Benz engine at an
+altitude of aooo m. The only conclusion that can be drawn
+is that the total in::luence of engine and propeller is such
+that a moment of 40 kg/m should 1::e adcied or.. the right side,
+in order to keep the airplane in a favorable poei tion Nh:m
+passing from flight with the engine running to gliding flight.
+It is importa.nt to note 'that considerable transverse
+momen:s can be brought to bear uFon the airplane (See Fig . IO)
+by making comparatively small alterat~ons in the position of
+the aileron, while extremely high unequalized ~oments may,
+on the other hand] easily be compensated by altering the position of the aileron. Even for the highest transverse moment of 150 kg/h, an alteration of 2.0 0 in the aileron position
+(applied to one aileron) is sufficient . Protracted flight
+With such a high ~nequalized moment is certainly fatiguin g
+to the pilot) part icularly \vhen the airplane has a JoY 8t ick.
+He must also avota. curves at the side on which a momt:>1~t of
+more thb.n 100 tn/kg . arises, as he ~vould find i"t diffioult ' 0
+got au: of such curves, If we apply this result to the twostrut C airplane, the spar.: of which is about the same When
+the aspect ratios are pract:'cally stationary and With 'J.G}ually
+large surface loads, and ~h~ch shows :ittle dif:erence in the
+position of the perpendicular struts, the fo l lowing conclusions
+may be aeduced :
+Ir.. the case of n,:,ght-bon!bing airp~.anes , in Which part of
+the bomb load is suspended under the lifting surfs.ce on both
+
+- 12 sidas of the fuselage~ 100 kg. may safely be sl1s~end~d.
+v~i thin :3 m. of the cen"ter of the fuselage because the airplane runs no risk, and can continue tc fly, in spite of
+the unequalized vveight and even if the bomb releEl.sing
+device should get out of gear on one side. It is, therefore, not absolutely essential that the bonb-release should
+act sirr.ultaneou.3ly on both sides. By means of the arra.:lgellient ~bove described, they ca~ be alternately droppeQ, It
+might be advisable, however, that such aircraft should be
+equipped. ,'lith re,;ersible or semi-reversible aileron centroIs, that is, Ivith ,vheel gearing, 60 that the pilot may
+not be over fatigued by the unequalizeci load.ing of the
+airplane.
+The fact that the calibrated curve is flatter in the
+center is probably due to cert~in effects of the air current
+produced by the portion of the fling in front of the aileron. In case of extremely large angles (over 12° according to G8ttingen measurements), the inversion of the steep
+upward portion of the curve may be antiCipated, though that
+portion of the curve lies beyond the range of possible
+me asurerr.8nt s .
+A further series of tests nas carried out as a sequel
+to those above mentioned, the differences on the right
+and on the left of the angles of attack being represented,
+by way of compa=ison, as unequalized displacements of the
+inner struts. The results of this series of tests, e ,
+are ShO,ffi in Table 4. In Figs. 14 and 15, a comparison is
+dra..vn bet ween this method and the inner strut displacement
+applied to the first series of tests, as regards their influence on the position of the aileron in flight with the
+engine running and i~ gliding flight.
+This comparison shows that unequalized transverse
+moments or the drag of an airplane - , hich arr.ounts to the
+.•
+same thing -- may be more e::fectively corrected by a right
+and left displacement of the angle of attack below the Quter
+struts. A bracing under the outer struts thus has greate~
+influence on the transverse position of the airplane than
+bracing of the same dimension under the inner struts, in
+spite of the decrease of lift towards the wing tips.
+The actual difference in the angles of attack, from
+right to left, is at most 1 0 from the central position,
+though it may amount to 2 0 in tests. This ciisplacement
+causes a strong torsion of the surfaces, plainly visible to
+the naked eye. Even nith a displacement of 1 0 under the inner or outer struts, the differences affecting the aileron
+are not inconsider~ble, as the trQnsverse moment amounts to
+75 kg/ffi. ~n the first instance, and to 56 kg/m. in the second
+
+T a. b 1 e
+
+4.
+
+Fe sul t s of Tests wi tJ.!_~ ~~!P. tiQn-_~_ i n_th~ .. _r.9 §i tton of tr~_
+I n ner St f.uts_ J Test-se r ics c )
+
+Te st: Dif f . in
+Se ri es : a ngle of
+: attack
+: r t . & l eft
+
+Spee d : Alt itude:
+km / h
+i n m.
+
+:2000 t o
+2200
+110
+
+2. 0°
+
+r unnin g
+Gl i din !! fli ght
+Engine r u nnin g
+Gl iding f l ight
+Eng i ne runn i ng
+Glidinrr i I i Q'ht
+Engine "r unn i n g
+Glidinp' fli ght
+
+En~ine
+
+l. Go
+1. 5°
+
+:Eleva -:Rudder : Aile ron
+tOll
+
+:2200 t o
+
+2000
+
+T:~/ k 'b o
+
+~"!ei bh t
+
+k 2· ,
+..
+
+o. CP
+e)
+
+Kind of
+Fl i ght
+
+- - - - - --- - _ ._ Moment in
+W
+atel'
+
+5 . r::o
+)
+0. 0 0
+
+5 . 5~
+
+0.0
+t:; SO
+
+6: 0°
+5. 5°
+0. 0°
+
+_-- ---_._ ---------_...._----_"'------- ----- - t~ .. SO
+0. 0°
+2 . E;o
+-0 . 5°
+-1 . 0°
+U. 5°
+2 r:: O
+-1 . 5°
+)
+I
+4- . SO
+-2 . 0°
+\..N
+2 . SO
+-2 . 5°
+4. 5°
+- 3. 0°
+- - . 5°
+)
+2. 5°
+.
+
+- '
+
+.
+
+J
+
+- 14 -
+
+instance. The follo 7ing rules may therefore be applied
+to braci:lg:
+The s i de-slip of an airpla~ e m y be corrected by ~l~er­
+a
+ing the ar.gle of attack on one side, under the in~er or
+outer strut. The l~tter ~ethod is the more effective.
+On the basis of test results obtained in series a
+to d, . Fig. 16 fu~tcer shows how the position of the directional control is altered by transv e rse moments produced
+either by adding ~eight8 or by altering "(,he angle of attack
+on one side. This fi~~re clearly shows that purely transverse moments produced by weights have no ).nfluence whatever on the position of the directional rudder when the engine is running or in gliding flignt. The frequently ezpressed opinion that a aide-slip accompanies transve rse
+moments causing rotation of the airplane tl1us fai1s to hold
+good when such rotation is the result of moments due to
+weights, and is equilibrated by altering the position .of the
+aileron. This action of the aileron may be traced to the
+simu1taneo~s action of both.
+(In the case of moments that
+make the airplane tilt laterally, there is no simUltaneous
+rotation of the cellule if the airplane be disequilibrated.)
+With the aileron position formerly in general use, one
+side only came into play, while the opposite side remained
+inert and rotaticn was the obvious result of the unequalized resistance.
+In Fig. 1'7, a comparison is again dravvn bet ween the
+displacement of the outer strut in tests a to d and the
+displacement of the inne!' strut in series e , as re gal'ds
+their influence on t he position of the a i leron. IVe kno \'v
+that an unequalized alteration of the angle of attack below
+the inner strut has no effect on the position of the aileron, though side-slip as well as rotation results fl'om such
+alteration below the out e r struts, the position of the aileron and the directional control being thereby affected.
+The fo1lovnng principles may therefore be adopted in
+practice:
+The rotation of an airplane can only be corrected by
+altering the angle of attack below the inner struts. There
+is no need to fear a consequent recurrence of side-slip.
+The alteration of the angle of at~ack below the outer struts
+is certainly a more efficacious means of correcting rotation, but it causes side-slip of the airplane after bracing.
+Fig. 17 further shows that the directional control takes
+up variou,s positions in flight with the engine running and
+in gliding flight, in consequence "Of the action of the pro-
+
+- 15 -
+
+peller. This may be
+strearr! on 1jhe rudder.
+
+as~ribed
+
+to the influenc e of vhe slip
+
+In the case of an engine r~nn~n~ Jith full l~a~; t ne
+moment exe rted on ~he fixed part of ~he r~dder by the 8~ip
+stream causes an anti-clockwise act i on of the rudder. This
+necessi tate s the product i on of a counter--moment by clock wise steering with the directional rud der . Observations
+taken at the propeller lead to the supposition that th"3
+ri ght-handed s weep of the slip stream t:rails off to the
+right at the ·o ack when the e:1.gine is a~ ful: intake, lL:e
+the ·i,;as~ behind a rotary ship's propeller whe n it is stationa.ry in tl1'3 v at er .
+'.
+I
+
+MEASUREMENTS OF LONG!:TUDINJ,L
+
+~,WlvlENTS
+
+01 AU AIRPLANE .
+1
+
+Close beside the tail-skid, a tank is built into the
+rear end of the fuselage. This tank can be filled by pur: .ping from the observ e r' s cock;>i t during flight . lNhen the
+tests were being carried out in Nov embe r and December, 1 917 ,
+wat er coul d not be utilized on account 0: fro s t, and the
+tfAll we il"p.llJ.m.@ w
+ould have been stoppec. up by the addition
+of k itchen salt to the vvater. The tank Ivas therefore filled
+with gasoline of 0 . 720 sp ecific weight. The distance between the cent e r of the tail and the c.g. of the airplane
+is taken as the lever arm of ~he long itudinal mome~ts, and
+the n igrat ion of the to t al c. g . towards the rear, due to
+increase of weight in the reay tank , is a ls o taken into
+conside:·at ion.
+Including the empty tan~:, the ins~alla: ion
+we ighs 5.2 kg., and the calibrated curves of the elevator
+consequently run from that pOi nt. The quantity of fuel
+carried during the tests being al ways t he. s a:ile , the totE_
+l
+weight of the airplane and the positio~ of the c.g. remain
+constan-c.
+Contrary to the me~hod follo we d in the preceding tests,
+the angles of attack of the m.ng s ar e altered to the same
+degree on both side s of the airplane (ti.1e setting of the
+wings being left unaltered) , t ha t is , the wing s aye dr a ',m
+up just so much on -ehe trailing edges, below the outer
+struts, as they are lowe r ed below the inner struts . The
+position of the Wings relative to the engine shaft depend s
+upon the w
+ing chord adjustment prescribed. by the manufacturer . Incr3ased incidence is rr.arke d w:.th a mi nus , decreased incide nce With a plu s .
+The te st s were carr ied. out 1 ike the earl ie r serie s
+with the sole difference that a fl ight velocity of 120 km/h
+was maintained in the pre sent ins-eance . The results aye
+collectively g i ven in Table 6 . If we compare , by means of
+this table, the influence of the var iou s positions of the
+
+- 16 -
+
+wing ohords, as affeo:;ing the engine shaft, on the P08:!."tlOll
+of the elevator .vhen flying lI'lith "the engine running and in
+gliding flight (See Fi 6 s. 18 and 19) there is a notic~able
+difference i~·l the s wee p of the curve s. COl1t rary to the results of previous tests (Figs. 6 to 9), the curve sheaves
+do r-ot aeviate in parallel directions, but in different directions. This confirms the belief that it is not only the
+deviation of the air current behind t~e w
+ings, and the
+lift of the fixed part of the stabilizer that act as air
+forces on the controlling part of the fuselage, but that
+the position of the elevator' is a.J.so cOllsiderably influenced by the propeller wash. As the measurements ~Bre rr.ade
+with the engine running and in gliding fligdt, at the same
+altitude, on the same day, and at the saree flight velocity, that is, vJi th the sarr,e irr,pact pre ssure, the deviat ion of
+the air current of the wings - ias -che same for both methods
+l
+of flight. The difference in the curve is t herefore due
+to the fact that the characteristic values of the lift of
+the fixed plane are different in gliding flight from those
+in flight with the engine running, on aocount of the unequalized angle of at~ack and the air eddy of the propeller.
+The impaot pressure, \ 1 ~~ ) during the tests amounted
+( 2 gVRl )
+,
+to 68 kg/sq . m. The angle of attack, in fli6ht with the
+engine running and in gliding flight, oo~ld not be successfully measured, the apparatus speoially designed for the
+purpose proving defective at the first test . In spite of
+this, it oould be seen that ~here is little variation in
+the angles of attack ~ith the engine running and in gliding
+flight, so the alteration in the first approximation may
+be stated as null.
+The calibrated curves of the el e Vator (Fig. 30) , which
+are take n from tha test results, compri se the influence of
+all three kiIlds of air foroes on the cor.trolling devices
+and on the position of the elevator. The possibility of
+oaloulating, from the Gcttingen :iieasurements, a calibrated
+curve takin;s no account of the influence of the propeller
+wind, provides an opportunity of yhecking the curves in
+question by comparison with the Gotti::1gen measurements and
+determining, at the same time, to '.vhat extent a calibrated
+ourve based partly on theory and partly on mea,surements
+t~ken in the wind tunnel can be applied in p ractice.
+For the calculation of the oalibrated curve, simi1ar
+angles of attack were pre su~ed for fl·ight with the engine
+running and for gliding fli&ht.
+In the present instance
+we get the follo iiv'ing values:
+
+- 17 -
+
+Impact pressure
+
+q
+
+=
+
+a =
+
+68 kg/sq.m.
+
+constant.
+
+Diatar-ce of the axis of rotation of
+the elevator from the c. g . a ... , ..
+
+- 5 m.
+
+Surface of the fixed plane
+
+= 4.13
+
+f
+
+Longitudinal moment due to the
+addi t ional we ight .............. 1vL
+
+.
+
+sq.m.
+
+- 19.4 m/kg.
+
+Angle of the elevator ..... , .. . .... .
+
+The controll~ng moment ML is algebraically composed
+of the filomant MZ of the addi t iiona1 we ight and the wing
+moment M . To obtain equilibrium, we must have the fOllowF
+ing solution:
+
+MZ'
+a.
+
+Now
+
+The normal air force symbol Cn for the controlling
+action is also dependent on the angle of attack a. of the
+control and on the angle 8 of the elevator. According to
+Gottingen measurements, it is as follows:
+
++
+
+2.4
+
+8
+a
+
+=
+
+f
+
+. q
+
++ 2. 4 a f q
+
+e
+
+The test shows that an additional moment of 19.4 m.kg.
+with a ;~ng angle of -1. 0 0 relative to the normal corresponds
+to a rudder angle of 5.75 0 (See Fig. 20). From ~he equation:
+M - cons~ant - 34.2 e
+L w get the following supplementary rr.oments for the additione
+al angles,
+
+= 0.5.
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+ML =17 • .1
+
+3·1.2
+
+51.3
+
+68.4
+
+85.2
+
+102.6
+
+'8
+
+calculated from the normal trirr. of 5.75 0 dow.n~~rds.
+
+T a b 1 e
+
+5.
+
+Brc-tcip. x of the Tes"tA irl?l:-me in Test-Seri~~Jl_ . to_k) .
+-----------------------~~-
+
+Angl e of Attl1..c k in
+
+De ~r ees .
+
+s;~~ !s ;
+
+-_=-~-:-=_ _~f;ht -V7ing -(Nu~be r of Ei})S]-- - - .
+1 : 2
+: 3 ; ~ : 5 : 6 : 7 : 3 : 9 : 10 : 11 : 12 : 13 : 14 : 15
+16
+f)
+-;-5-.3'- ~ 6~2 - ~- 6~5 -~ 6~8-;-.-~7.0- ~ 7 .0- ~ 7 . 0- ~ 7 . 0 ~ 6. 8 ~ 6.6 6. 3
+:4.0 ~ 4 .5 ~5~ O-~ '5
+-~-,)--7-2-.- ~ 3. 5 ; 4. 3 ;5~- ~ ~3-~----.. ~ (5 ~ 6 . 2--~ 6~3 ~6"5 ~6~5~_ 5 ~ 6- ~ 6~-4 -~ 6. 3 _____
+~ ______
+5--+
+5.5--~~5
+6. _ __
+.:5
+6. 2
+__
+..
+_
+h)
+;2. 5 ~3.0 ~4. 0 ~ 4 . 5 ;5. 1 ~ 5 · 3 ~ 5 · 3 ~ 5 · 5 ;5.7 ~ 6 . 0 ~ 6 . 0 ~ 6 . 0 ;6. 0 ;6. 0 ;5. 9 . 5. 9
+1)--';2 ~3': 2-.-8 --~3 . o~-~9-:4.0-~4~4-~·4~6-~4.-g-~4~9 · ; 5 '. 3 -~5 ~ 4 -~ 5~5-~ 5·7 -~'5 '-7- ; 5· 7 5· 7 ~
+--k) -_. -~l ~ T2-.-3'~3~· 1- T3~~. :~~- ~ 4~~. -;-~ , 3 ~ 3 -; ~9-- ~5 ~6-'~ 5-. 0·~ 5~-o~~o- f5 . 0 : 5. 0 5_._0___
+
+.5-
+
+~-
+
+--~ -- ---- -. -----.-
+
+3'
+
+- - ~---o....- - --. ~
+
+:t.:t,
+
+h
+
+-i k
+
+.--_.-
+
+(Conel usion) .
+
+of _the l'es t Airpl ane in Te s t-Serj e s
+
+___ .----------
+
+: 16 : 15
+
+g
+
+b~_?
+
+f)
+
+to
+
+k) .
+
+Angle of At ta ck in Degr ee s .
+
+Te st
+Ser i es
+f
+
+~ _ ~_ .
+
+=.
+
+;3
+
+~r\3'9..in g'.
+
+.~
+
+.~
+
+i.€2.Lt-..lliD~J1Lb.Qr-o-f-r-.Lbs ) .
+
+; -~
+
+: 14 : 13 : 12 11 : 10 : 9 : 8
+;6~3~6 . 6 :6.8 :7. 0 :7. 0 :7 . 0 : ~_0_.J~..:..6 . 8
+: 6 .2 :6. 3 :6.4 :6 · 5 :6 · 5 :6· 5 :6, 5 :6. 3 :6.2
+; 5. 9 :5·9 :6. 0 :6. 0 :6.0 :6 . 0 :6 . 0 : 5.7 :5. 5
+: 5~7:'5.7 -: 5~7-~~~'5 ~ ~4 ~ 5".-3-~~~ 4.8
+'; 5. 0 :5. 0 :5. 0 :5. 0 : 5. 0 :5· 0 :5. 0 :4.9 :4, 3
+-
+
+~--. - --
+
+- . - - - - - -.-
+
+- ---
+
+.- - - - -
+
+: ' -: : 6
+
+: 6~_~6 .2 _
+
+:5·8
+:5.3
+: 4 .6
+:4. 3
+
+:5. 5
+:5. 3
+:4 . 4
+:4. 3
+
+: 5 : It : 3 : 2 : 1
+:5.8 : 5.5 :5.0 :4 . 5 :4 .0
+:5. 3 :5.0 :4. 3 :3.5 :2 . 5
+.-- - - - - - - - - :5.1 :4. 5 :4. 0 :3. 0 :2. 5
+:4~O- 9'-3~--:'2.S~ 2~3
+:3~ :
+: 3,8 :3.5 : 3.1 :2.3 :1.3
+..
+
+(j)
+
+•
+
+]0' ;::]"~
+
+: 8 ~ : 8 't1
+
+:} . '~~~: ~o
+
+: 0. 5°:
+- .- :0.00 :
+
+2°
+?o
+
+~=-o ~60~2 0--
+
+:_1.0° :2°
+
+Tab 1 e
+
+6.
+
+Results of Test-series f) t o k) .
+- - --
+
+Test:Diff.in
+:Speed : A1titude
+Series:angle of at- km/h : in m.
+:t3.ck ) ri ght ,:
+and left:
+f)
+
+2600
++1.0
+
+~
+
+0
+
+:to 2200
+1 20
+a nd
+2200
+. t o ~Q00
+
+. ,-
+
+·
+•
+fa. 50
+
+g)
+
+h)
+
+·
+·
+
+o. C9
+
+2000
+to 22 0 0
+and
+2200
+to 2000
+
+120
+
+2 000
+120 :to 2200
+a nd
+2200
+:to ~ooo
+.- ~
+
+..•.
+
+-.- .
+
+-~ . -,
+
+-
+
+'
+
+..
+
+_- _. -
+
+Kind of
+Fli~ht
+
+: Eleva tor: Rudder:., Ai1er-: v.ra ter : M
+oment
+.' on : Wei ght: m/kg .
+kg.
+
+"
+~ --- "
+
+Engine runnin g
+Glid i n ~' fli g ht
+En gine runnin ~
+Gliding flight
+Eng ine running:
+Glidin g fli g ht
+En g ine runnin g
+Glidin g fli E;ht
+En g ine running
+Glidin ;,s fli g ht
+Eng ine runnin g
+Glidin g fli qht
+En g ine runnin (.';
+Glidin g: fli g ht
+-=' Engi ne " runn i n g
+GlidinfI f1i l2'ht
+En? ine r unnin g
+Glidin g fli ght
+En gine running
+Glidin ~ fli ght
+
+7 . 5'fJ
+6 . 2CP
+8 . 500
+a
+7. 0 ° 0
+
+8.7°0
+
+7.5°0
+9 ,0°0
+~ .OO
+
+g .4 00
+
+9.0cP
+
+.6. 95~
+6.00 0
+7. 7 ')0
+6.9 0 0
+3. 000
+7.3°0
+8.25 0
+7. 8 ° 0
+8.7°0
+8 .g 0
+
+6. 00 0
+Engine runni ng
+. 4.70 0
+Gliding fligh t
+6 00 0
+En g ine runnin g
+(}lidinCT fl~ g'ht ,
+5:500
+7.20 0
+Engin~,: runnl,I1:g , :
+6.00 0
+Gli ding flirrht
+Engine flight
+7.55°
+Gl iding: fli Ght
+6.50~
+Engine runnin g
+7.9 0 0
+G1 idin l?; f1 i g-ht
+7 · 50
+--_.p. -_._- - •. - .- - -.. - . - - - - .
+
+4·50
+
+0. 00
+5.2
+0
+0.5
+0
+0 · °0 : 12.4
+0 . 50
+° ' °0 :16.0
+0 . 50
+0.0 :19.6
+
+f-20
+!.l-. ,
+
+o .~ :26.3
+
+4.50
+'2 ,
+11
+50
+"t. a
+2, 50
+4 .50
+2.50
+
+f:f
+
+2.~
+
+4, 5~
+2. 5 0
+4.5 0
+2.5 0
+4.50
+2 . 50
+4 . 50
+2. 50
+11
+5
+'T. °
+2·5
+)1
+
+"r .
+
+r;:-O
+J
+
+2.')°
+4.5 0
+2.5 0
+
+4.5 0
+0
+2.5
+4.5 0
+::>
+- . 5°
+0
+4.5 0
+2. 5
+
+o .~
+0.
+
+0
+0.°0
+5.2
+0.5 0
+0 ' 00 :12.4
+'
+0.5 0
+0 ' °0 :16.0
+J .50
+~ ' Oo :19.6
+
+v· 50
+
+:
+
+19. 4
+46.0
+59·2
+72·3
+98·3
+p
+
+19.446.0
+59.2
+72·3
+
+0' ° 0 :26.8
+0 . 5 ,t;,
+
+98 · 3_
+
+0.0 0
+0.5 0
+0.0 0
+0.5 0
+0,0 0
+0 . 50
+0
+0.0
+o . 5°
+0
+0.00
+0 ·5
+
+19. 4
+
+-_.-- --- -
+
+......
+
+: 5 ·2
+:
+: 12.4
+
+46.0
+
+a
+
+59.2
+
+:19.6
+
+72·3
+
+: 26. B
+
+98·3
+
+:16
+•
+
+m
+
+Tab 1 e
+
+6
+
+(Cont'd)
+
+Result s of Te s t-se r ie s f ) to k ).
+Test :Diff.in an - : Sneed :
+Seri cc : 6 1 c o f ~ t t~ ck km/h:
+:ri g th & l e ft:
+
+A1 t i tu~e
+
+In ~.
+
+Kind of
+Fli ght
+En ~ i n p-
+
+i)
+
+_0 .6°
+
+'2000
+120 :to 2200
+and
+2 200
+:to 2000
+
+r unning
+Gli d. in G fli ght
+En Q'ine runnin p'
+Gl i dinr fli rrh t
+~ En gine runnin g
+Glidin ~ fli r:ht
+En g ine r '..mning
+Gliding fli gh t
+En ~:' ine ru:min g
+Gli d in r. fli gh t
+
+:Eleva tor:Rudcler:Ai1 e r-: Wc t e r: Homent
+'?
+: \Ve i £'.'h t: m/kg/
+on
+
+kg.
+
+C) , Sc5'
+~ . SOo
+
+4. SO
+
+4- . c;oo
+
+2.~
+
+b , s oc'
+
+6. 8 5°
+5. ()O~
+7 . 1 00
+c) . 5 0
+0
+7. 5 00
+6 . 50
+
+2 . 51)
+4 ')
+rO
+'.
+
+4 . 5°
+2 . 5°
+4 t:)0
+. °
+
+2,50
+
+4·5
+2 . 5°
+
+o . CO : 5·2
+0 .5°
+J . Oo : 12.4
+J,5°
+
+C. ':P :16.0
+
+" 5:
+°
+
+0 .
+
+0 . 00
+
+g:3°
+0. 5
+0
+
+:
+
+1 9 .6
+
+~ 26 . 8
+
+19. 4
+46.0
+59·2
+72·3
+
+98 ·3
+w
+
+0
+
+k)
+
+_1.00
+
+2000
+120 : to 2200
+qnd
+2200
+:to 200 0
+
+En g ine r u nnin g
+Glidin g fli g ht
+En 'r ine r unn in rG1 i ding fli ght
+f. ng ine runn i n {;
+Glidin fT fli ~ht
+En g i ne runnin g
+- Gliding fli g h t
+Eng i n e r un nin g
+Gli d in g fli ght
+
+5.7 5°
+, . 20°
+6 .soo
+4 .. Ou
+- rO
+h . SOO
+4. r:, 00
+7 .. 00°
+5. 00°
+7. 5 0°
+6. 00°
+
+!.t . r.:P
+
+O . cP
+
+2.5:
+
+o . SO
+
+SO
+
+O .~
+
+2. 5~
+4. r;o
+2 . 5°
+4 .5°
+2.5°
+
+4. 5°
+0 . 50
+0 , 0°
+0,5°
+o . co
+0.5°
+
+4, ~
+
+2.
+
+4 . ';0
+
+I"\(p
+v.
+
+5·2
+
+19. 4
+
+12.l+
+
+l+6.o
+
+16.0
+
+59·2
+
+19.6
+
+72·3
+
+26.g
+
+98 ·3
+
+- 21 The se mOIUer-t s, V\i t i~ the ;i.ni t ia:i mome; nt 19. 4 m/kg. a.re
+marked. in dott e d lines in Fig. 20; the calio:'a.ted C1;.rve runs
+in a st:raight line mid'lVay between the curves for flight with
+th e engine running for gliding flight, and this leads to the
+conclusion tilat the G~ttingen tests coincide remar}:aoly with
+the tests dur:ng flight, carried out quite independently.
+The difference between the curves calculated v
+nthout including the inf111ence of the propeller vva..sh on the controlling
+deVices, and the curves found in actual tests, constitutes
+a d irect standard measurement for the influ~~ce of th ~ propeller on the controlling device both in flight with tile engine running and in gliding flight.
+Figs. 21 and 22 show that the lines of long itudinal moment
+c1 imb rnO:i:e steeply in flight ~'Vi th the engine running than in
+glidtng flight. From this and frol'!'l the calibrated cur..res, it
+may fur~her be seen that tha elevator is more effective in
+flight vvith the e:lgine running thaD in gliding fli ght. It
+follows that if the airplane cann~t be right ed in a steep nosedive, even wh.::n the eleYator is at its J.arges~ ang:e, it may
+possibly be done by putting -the e:lg i ne at full th~pttle.
+At the same time, the flight veloc:;' ty i s 8.1so incr eased and the
+lifting force of the wings augmented. ?light 17it h the engine
+running is less suitable for testi ng lo ng it~dinal stability
+and steering capacity of an airplane tY P8 than gliding flight .
+If the elevating control has been incorrectly measured, the
+airplane wil~onlY crash when it is gliding at a steep angle;
+the larger the angle of the elevator in a steep glide, the
+greater is the difference between the longit~dinal moments
+produced by the rudder (lifting moments) in gliding flight
+and in flight with the engine running. The airplane can therefore be steered in flight with the engine rUTIl1ing at an angle
+that would not be possible for gliding flight, as the moment
+produced \ll ould be insufficient.
+It is furthe r shown, in Fig s. 21 a~d 22, that w
+hen the
+angle of a~tack of the Wings is increased, the long itudinal
+rr.oments corresponding to t he angle of the eie v a~or ir-crease
+with the same velocity. As a result, the curves i n Fig. 22
+are flatter than those in Fig. 21, in gliding flight more noticeably than in flight With the engine running. With the
+same angle of attack and at the same velocity, the angle of
+the elevator is larger in flight with the engine running than
+in glj.ding flight; that is, tile airplane is nose-heavy wi thin
+altitudes of less than 4000 m. - which is the test limit - if
+it has been equilibrated for fli ght .nth the engine l~nning.
+When it is equili.bra-ced for gliding fl i ght , it is tail-heavy
+in flight with the engine running. Wi th a vie iV to overcoming these differences in the flight of an airplane under the
+two flight conditions, the fixed pa~t of the stabilizer has
+been so disposed as to be adjustable from the pilot's seat J
+by means of a self-locking hand-wheel. This system has been
+
+- 22 -
+
+cl1iefly a.do,P-ted in Eng land. The airplane can thus be e q\.:.ilibr&t e d Unc.3r ar.y tnol'Vll condition of flight - with the engine
+running or in gliding flight; - at a given altitude, with a
+give n angle of attack and with a g iven velocity . No effort is
+required on the part of the pilot, because the elevator is
+not ca~led into action. No sooner does one of these factors
+undergo an alteration, however, than the equ i.llbrium is again
+di s turoea and can or-Iy be restored by the readjustment of the
+fi~ed plane or by the action of the elevator.
+If an alteration takes place in all the above-named influences, brusquely
+as in the case of steep gl iding v
+v.'.th the engir:e stopped, it
+may so~e tim e s happen that the increase in t~e . elev~tor angle
+no longer suffices for the adjustable fixed planes. On this
+account, the:::-e is some objection to adjusta-ole fixed planes.;
+to begin wit~, the ~ilot can compensate his airplane for only
+on~ flight condition, at high altitudes, through altering
+the position of tile fixed. part. This derangement of the equilibrium when passing to another condition
+worxing may be
+dangerous in the case tvi th airplanes with extremely marked
+variations of position and s pe ed, such as fighting monoplanes,
+for instance, especially ~h~n the c. g . is located high up
+on account of the position of the pilot!s seat and the machinegun, as in German fighting monoplanes with a stationary engine .
+T~e adjustable tail plane is favorable for airplanes in
+which the c. g. varies c onsiderably during fl~. gbt (as, for instance, through the we"\.ght of bombs app:"
+_ied ~~n front 0: or
+qehind the resultant of the air-forces in night-bombing or
+giant airplanes) as the p ilot can cons i.de :r.ably lighten the
+elev.a tol' , aft e l' bombs have been dropped, by read justing the
+· fixed pl~ne.
+In a:rplane s of the newest types, ~he adjustment of the fixed part sca.rcely needs to be taken into account, there b e ing no marked alterations in the fljght conditions. The same ::ilay be said of la:::-ge size or g iant airplanes.
+
+of
+
+SUMMARY OF TEE
+
+T~ST
+
+RE SULTS.
+
+1. C airplanes with t~o struts ar e extremely susceptible to aileron maneuvers, slight alterations of the a~lero~
+sufficing to compensate g:eat unequal ized moments.
+
+2. Great unequalized morLlents can be produced or neutralized by the unequalized alteration of the a~gle of attack be10'IV the out3r or i:mer strut s.
+Adjust!llent belo w t he outer strut
+is the more effective method of the two. Contrary to the effect of alterations in the angle of attack below the outer
+struts, moments resulting from weights and alterations in t~e
+position of the inne r struts cause nc side-slip in the airplane.
+3.
+When a load of bombs is suspende d beyond the center
+of the airplane, be low the wings, the bombs nee d not be dropped
+on both sides simultaneously.
+
+.- 23 ~.
+The propelle r wash of a wide open e~gin e has considerable influence on the position and working of the elevator. T~e elevator is more susceptible in flight ~vj. th the
+engine ruaning than in gliding flight.
+
+5. Adjustable taii planes are not advisable for D
+airplanes, nor for the C tY ye, but they are, on the other
+hand, to be recommended for lar ge size ~nd giar-t airplanes
+in which the c.g. changes Guring flight.
+6. The aileron values obtained by wind-tunnel n·, easurements are about 10% too low, though other i'1::'se applicable.
+For the elevator, the results of such meas14rements should be
+taken as mean values bet ween flight w
+ith the engine running
+and gliding flight.
+
+I
+
+DeSIGNeO
+DQAWN
+~
+
+CHECKED
+//PPROVEO
+
+lo - It
+
+- '1'1.-0
+
+DESIGN&D~
+
+D~AWN
+
+~
+
+CH£CX'~D
+
+RPP,QOV/5"O
+
+It-14-'Ho
+
+O~.sIGNEO
+
+LJRAlvN
+
+~'D' ZS<f ·...,
+
+C~£CI<£LJ
+
+4,PP/eOVEO
+

@@ -1,0 +1,1126 @@
+U.S. DEPARTMENT OF COMMERCE
+National Technical Information Service
+
+NACA TM 16
+
+SOME NEW TESTS AT THE GOTTINGEN LABORATORY
+
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS
+WASHINGTON, DC
+
+APR 21
+
+..	
+
+'
+
+/
+
+LI
+
+	
+
+N(K-7f'A-I
+
+NATIGNAL ADVIScRY COALiITTEE FOR AERONAUTICS.
+
+SUM, NEW TESTS AT TIC GOTTIIGEN LABORATORY.
+,
+
+Prepared by
+Paris Office, N.A.C.A.
+
+• April, l?21.
+PRODUCED BY
+
+NATIONAL TECHNICAL
+INFORMATION SERVICE
+U.S. DEPARTMENT OF COMMERCE 
+SPRINGFIELD VA. 22161
+
+NOTICE
+THIS DOCUMNT HAS BEEN REPRODUCED
+FROM THE BEST COPY FURNISHED . US BY
+•	
+
+THE SPONSORING AGENCY. ALTHOUGH-IT •
+•	
+
+IS RECOGNIZED THAT CERTAIN PORTIONS.
+ARE ILLEGIBLE, IT IS BEING RELEASED
+IN THE INTEREST OF MAKING AVAILABLE
+AS MUCH INFORMATION AS POSSIBLE.
+
+k	
+
+\	
+
+--	
+
+I
+
+SOME NEW TESTS AT THE &5TTINGEN
+
+L.ABORAT0RY.
+I,
+
+To the kindness of Professor Prandt]., Director of the Gottingen Laboratory, we owe the results of some recent tests,
+namely:
+1) FRICTION TESTS ON A SURFACE TREATED WITH ELAILLITE.
+The results of these tests, and also those of Gebers and
+Gibbons have been represented on Fig. 1 0 Pl.A.4, by laying of
+the Logarithms of Vl/v in abscissas, and the logarithms of
+the coefficients of resistances 0r in ordinates.
+The product VI/v, or Reynolds number, is a dimnsionless
+magnitude and therefore independent of the system of units
+adopted. We may recall that the value of the kinematic coeffic-
+
+ie nt of viscosity 'y is 	
+
+M2/ sec. for air at 760 rni. and
+
+24.5 m
+a /sec. for air at 760 mm. and 100 0 , and 1330
+10	
+10
+for air at 7.6 mm. and
+For tater this cosfficient is	
+
+106	
+
+for 00 and	
+
+106
+
+for
+
+1000.
+The coefficient of resistance Cr = 	
+
+R	
+
+where R is
+
+S. p
+the total resistance, S the area of friction, p the density,
+
+again is a dimensionless magnitude.
+The relation betveen this coefficient and that employed
+at the Eiffel Laboratory ( k f ) is as follows:
+and V the speed; this
+
+kf (kg/ni/in:sec. at 15 0 and 760 mm.) = Cr/13.
+The results of the GBttinen tests may be represented very
+exactly by the formula:
+
+-2y._o. i
+
+C r = 0.00376	
+
+2) VERIFICATION TESTS ON TIM M.V.A. 358 WING.
+The first tests on this surface were described in the
+Zeitschrft fr Flugtechnik und Motorluftschiffahrt," of May
+31st, 1919, in an article by Mr. Irumbach: "Tests for the establishment of Laws of Similitude with respect to Aerofoils.
+It will be reiembe:ed that these tests xere made on curfaces of great depth placed between two vertical walls and that
+they served for etimat1ng the probable results of tests of the
+same wings of any aspect ratio Ahatever.
+Concerning the results of the tests of one of these wings
+(M.v.A.358) we have pointed out that we considered the resistance too low,.f or it was less than the friction resistance.
+These testsere made while the war was still on, and the
+experimenters had evidently not time to check their results
+very carefully. They have therefore been taken up again recently and on Fig. 2, P1.A.4 we give the results of the new tests
+on the M.V.A.358 wing. We see that the true resistance is appreciably greater and that it is no longer less than the friction resistance.
+• We recall that:
+C
+a	
+
+100
+-	- Fpv2
+2
+
+=l6OOk=2OOL0
+
+-3= 100	
+FP
+
+= 1600 k	
+
+200 D0
+
+2
+A being the lift and W 0 the profile resistance, F, the surface, p the density, v the speed,
+
+ic
+
+and kxo the coeffic-
+
+ients of the Eiffel Laboratory, and L. and D. the coefficients of the N.P.L..; E is the product of the speed and the depth
+of the wing.
+We ou1d rc1l that the superposition of a system of isospeeds and iso-altitud.es on the polar of the wing permits of the
+immediate read.iiig of horizontal spied at any altitude whatever.
+We see that, contrary to that might have been thought from
+the first . teEts, the full scale results are not appreciably superior to the estimates based on model tests, provided that E
+> 4200.
+We must, iiwever. consider the results (ourve III) given by
+wing 358 as superior to those Thirnd in a general way at the
+Eiffel Laboratory and at the N.P.L.
+3) C 0IvIPAR;'T IVE TESTS OF 7ITG NO 36 IT, ThT, EIFFEL
+
+LABORATORY.
+On Fig.
+
+3, Pl.A.4, we have plotted the polars of wing 36
+
+by the tests of the Eiffel Laboratory reduced to aspect ratio 5
+by ?randtl'sforiflulas, and by the
+on a
+
+Gottingen Laboratory tests made
+
+model of aspect ratio 5.
+This comparison shows that the Gttingen tests give much
+
+better results than those of the Auteuil Laboratory.
+
+	
+
+-4It is not possible to attribute these differences to a dif-
+
+•	
+
+ference of models due to the fact that the
+made from a drawing of the model tested at
+
+ttingen model
+
+Auteuil. It
+
+was
+
+is per-
+
+haps partly owing to th3 fact that the theoretical coefficient
+ii figuring in Prandtl' s transformation formulas is not applicable to this wing, as is the case for certain experiments on apect ratio.
+On this subject we may mention other experiments of different laboratories on the same wings. First, there are the tests
+of the N.P.L. and of the Eiffel Laboratory on models of full
+scale wings tested on the truck of the St.Cyr Aerotechnical Institute. We have also the experiments of the Laboratory of the
+Central Aeronautical Institute of Rome on wings 33 (Ere'guet)
+and 38 (Coanda) of the Eiffel Laboratory.* Lastly, we have our
+own experiments at the Eiffe]. Laboratory on models of wings R.H.
+F.14, 15, and 16 of the N.P.L.
+THE EXAMINATION OF ALL THESE EXPERIMENTS LEADS TO THE BE-
+
+LIEF THAT, AT LARGE INCIDENCES, TIE SPEEDS REGISTERED BY THE
+SUCTION LAN012TER OF THE TESTING CHAER OF THE EIFFEL LABORATORY WIND TUNNEL ARE, OWING TO PRESSURE DROP, GREATER THAN THE
+ACTUAL SPEEDS AND THAT, THEREFORE, THE VALUES OF k and
+
+MEASURED AT THE EIFFEL LABORATORY AT LARGE INCIDENCES, ARE TOO
+•	
+
+LOW.
+
+*Istituto Sperirnentale Aeronautico "Attivita della Sezione airoidro-dinamica." Giugno 1916 - Giugno 1917, p. 391, 391a, 334.,
+334a.
+
+	
+
+It	
+
+I	
+
+-
+
+C
+
+-5,
+4) TESTS ON THE INFLUENCE OF LSPECT RATIO ON THE M0NDPLArI
+7ING No.389.
+
+The Gttir4gen Laboratory made these tests by employing wie
+of aspect ratio 1, 2, 3, 4, 5, 6, and 7. The results were then
+reduced to aspect ratio 5 by Prandtl's formulas, see Pl.B.34.
+We see that they perfectly verify the e::actitude of these formulas.
+5) REMARK BY PROFES S OR PRANDTL ON TI TESTS AT HIGH SPEED
+MADE BY Mr. CALDELL AND Mr. FALES.
+Speaking of these experiments thich be considers "extremely
+important," Mr. Prandtl remarks that it is probable that for the
+second critical speed the velocity of sound is exceeded on the
+back of the wing and that, therefore, for determining the law
+of similitude we must not bring in the product E V.t (speed
+by depth of wing) as is done for viscous but non-compressible
+fluids, but that we must take into account the speed alone, as
+required by compressible fluids.
+In other words, if we test similar wings of different
+depths, the first critical regime will occur then the product
+Vt is the same, while
+
+the
+
+second critical regime will be estab-
+
+lished for the same speed, thatever be the depth of the wing.
+In support of his opinion, Mr. Prandtl has had plotted on
+Pl.A.5 the variation of k in function of the product V.t for
+•	
+
+the wing of camber 0.2 tested at McCook Field and for a wing of 
+the same camber tested at G8ttingen and for which he has obtained
+products V.t five times greater. He notes that the first crit-
+
+\
+
+E
+of	 V.t,
+ical regime takes place for practically sti1ar values
+that, in accordance with his estimates, not having reached
+
+but
+
+the value of the second critical speed, the second critical regime vas not obtained.
+In order to verify his ideas, Mr. Prandtl suggests testing
+the same wing with an aspect ratio of 1 : 3, say; we should then
+see whether the second regime ias established for the same product
+
+V.t	
+
+or for the same speed 	
+
+V.
+
+We may summarize Mr. Prandtl's considerations fro g a practical point of view by saying that it is nct possible to estimate
+the results of full scale tests by tests of very small models
+at very high speeds.
+
+11
+
+TI!i
+6dTINGN LABOPATOPYI
+
+	
+
+SOME.NWTX.ST3 -At
+
+•	
+
+.	 •'	
+•T..	
+
+•	
+
+.	
+
+•	
+
+.
+
+N4M'OiVAL41MSOQVQ7MM/77
+
+•	
+
+.	
+
+•	 -
+
+P0flAEh4(4u77&3
+
+I't.'-'-'.
+
+j	
+
+..•	
+
+.1-
+
+_________
+
+	 •	
+
+A!
+
+A
+.•	 •
+
+CHCnW	
+
+--	
+
+P4RI80flic
+
+mv
+
+__
+
+•;
+
+if
+
+j.•..:	
+
+:••	
+
+.	
+
+••:.
+
+fm
+
+•3I
+
+rK
+
+P102	
+•	
+
+•	
+
+Vr.PIrsCAT,oN5,8 OFTht3uflFAcE
+
+.	
+
+rs
+&
+
+•	
+
+•••	
+
+•
+
+00	
+
+If
+
+•
+
+;
+
+•	
+
+•
+
+J
+
+•	
+
+.	
+.•.•...-
+
+I
+
+•
+•••	
+
+.•	
+
+•
+
+.
+
+1	 :.
+
+I	
+
+.
+
+-1
+
+t:
+
+•
+
+c;ia,
+.	
+
+- I	
+
+•
+
+.
+
+n
+•
+•...
+am
+
+-
+
+J
+
+:
+•••	 •
+
+2
+
+5p9c,ra',,o,:s
+
+Oct -3)
+
+I
+
+c. II
+
+EIFFEL LABORATORY WING N3G 	
+
+-
+
+1 -J
+
+1611
+
+•
+
+COMPARATIVE TESTS OF THE
+
+•
+
+.	
+
+It	
+
+::-
+
+FIG3	
+/
+
+dJulAW
+
+. F—,-	
+
+•
+
+•
+
+-
+
+I
+
+0	
+'•°:
+
+4.kX(k_j
+
+1
+':14'k-H----k
+-
+
+-0
+
+u
+
+*	
+
+I	
+
+____-
+
+1LULVJI'MKI)Ur4 UJIflE_
+
+:1
+
+__
+
+J
+
+Ii	
+iviC,j g FILL.L# MIU
+k	
+
+cöttINGE N
+YIV
+
+.	
+
+45
+
+NAtXWAL ADVASOPYCVMMirTE,
+
+rq[POflAERCN4U,x3 PAPI8OFF1C
+
+tat".
+
+'.	
+
+-:.-.'•( .1cl
+
+.•	
+
+Y
+4e
+
+i
+
+I
+
+r-+.L	 44J:i1 :: :I
+lQo
+
+1:
+
+—
+
+.•	
+•	 :.
+
+J7
+
+te
+
+p
+
+•.	
+
+14
+
+•	
+
+lffi
+
+yc
+
+'j-'r
+• .	 ..........
+•	 .........
+
+•''
+
+-.
+
+..	
+
+-
+
+._..p:. .	
+.	 - 1_
+
+•j
+
+*
+I:
+
+:	 .....;-	
+
+.,..:
+•. •',-	
+
+.•—,
+
+r
+
+7.
+-
+
+•
+
+'.
+
+4
+
+••
+
+- -:.
+
+'
+
+1"
+
+.
+
+'.
+
+C
+C
+
+—
+_—z--
+
+----
+
+Ale
+
+--_____
+
+?
+
+4
+
+0	
+
+__
+•
+I.
+Come
+1
+
+b
+
+r<
+
+-
+
+I0
+
+-	
+
+•.•
+
+:—io--
+
+•	
+
+-•••.	
+
+- 9flflflfl
+-
+
+.	
+
+.
+
+-•.	
+
+-	
+-'	
+
+,•.	
+
+.	
+
+4p - 11
+
+'S.	
+
+•	
+'
+
+-	
+
+-.	
+
+—9.	
+
+•. II	
+
+id.ii iiI	
+
+..â. ..	
+
+..-.	
+
+—
+
+__- I
+
+*	
+
+TESTS'ON THE-hi.
+WING, MADE AT THE
+
+4t	
+
+GOTTINGEI1 LAOPATOR
+
+\\ POP AERONA (JT/3 P
+\ \; :." '' N4tION4LADV/XnYcOMM/TTI
+\\	
+
+-	
+VA
+
+\ '	
+
+AROOFFICE
+
+•..
+
+S	
+
+.	
+
+.
+
+•\•.	
+
+.
+
+t7-q t.
+
+\ N;	
+
+.71
+
+\
+
+•	
+
+4
+
+4'	
+*	
+
+.\	
+S	
+
+%*%	
+
+2
+I
+
+.	
+
+...	
+
+k
+
+.•%.•*.	
+
+•	
+
+4
+
+•_
+
+_)-	
+
+:	
+*	
+
+.	
+
+,.	
+
+•_•%_•	
+
+.	
+
+•	
+
+S	
+
+•	
+
+•-
+
+-	
+
+•	
+
+• -
+
+*	
+
+\
+
+F
+
+'	
+•lb
+
+*	
+
+4	
+
+C	
+
+*.	
+.•\.	
+
+*'
+
+I	
+
+•
+.	
+
+I	
+
+1.
+
+•...
+45	
+
+.
+
+-
+
+T	
+V
+
+a
+
+.	
+
+1-10
+F
+
+•	
+
+•.
+
+•	
+
+.	
+
+;•\	
+
+.ft,000,•	
+
+...	
+
+1.
+.	 •
+
+PROPIL
+
+_I
+
+OF WING	
+
+ol
+
+PEDED DOLAPS AT ASPECT RATIO 1.5 	
+
+C6
+140
+
+kgl	
+
+it.,.
+*
+
+0.0$	
+
+rt
+
+-	
+
+	
+
+/20 - ___ - _ ___ .
+
+-
+
+-
+
+4- -•	 - S	
+0
+
+A	
+
+120
+1
+
+A
+
+100 - - ___ _.	
+
+-
+
+.0.00	
+
+.	
+
+-
+
+-
+
+-	
+
+:
+
+/00
+
+•.	
+
+-	
+
+:
+Ar
+•	
+
+-o---
+
+ø	
+
+o.
+_o___--.--—A-- /3 ,
+	
+	
+.	
+
+eo
+
+,0'03G•
+
+:
+AM
+
+ask
+
+0-m 0.03 SOU 4 005 04 0
+
+-
+
+a	
+
+.
+0.Ot
+
+040 4440 "GO 0 1	
+D
+
+003 0104
+
+(k,jin2, n sec)
+
+	
+
+U	
+
+:
+
+ME NEW TE3T3 AT
+IT
+GarTINGEN
+
+LAbORATOR
+
+VflNGNQ39
+
+A(4T/OAf4LADL45O,QYCOJfM/77
+
+•••. TOQALQOI4/AIJT/C3 PARIOrFI
+
+.	
+J.
+
+B 34
+
+AS
+
+I
+
+s4
+
+00000000000
+
+i
+
+•	
+80
+
+0000r
+
+•
+
+owl
+
+f
+-0	
+
+C2 0.003 04 0 	
+COOS 0.009 0 Do 0.0 Z 0.03 0.04 .005 001 a	
+L.. .L L .i_ i.. 	
+L ...J.	
+J	
+
+L.
+
+/0.•.	
+
+-o
+
+I
+
+•	
+
+cw
+
+Iç (4(77'/n7.a.c)
+
+Reproduced by NTIS
+National Technical Information Service
+U.S. Department of Commerce
+Springfield, VA 22161
+
+This report was printed specifically for you
+order from our collection of more than 1.5
+million technical reports.
+1.4
+
+0
+
+1.4
+
+s.uQ)
+. .
+%J
+
+Q)
+
+Always think of NTIS when you want:
+• Access to the technical, scientific, and engineering results generated
+by the ongoing multibillion dollar R&D program of the U.S. Government.
+• R&D results from Japan, West Germany, Great Britain, and some 20
+other countries, most of it reported in English.
+
+—
+•
+
+o
+—
+
+s-
+
+Al
+
+-
+
+O•
+
+E
+
+•
+
+a)
+
+a)
+
+U b
+
+S,-
+
+NTIS also operates two centers that can provide you with valuable
+information:
+• The Federal Computer Products Center - offers software and
+datafiles produced by Federal agencies.
+• The Center for the Utilization of Federal Technology - gives you
+access to the best of Federal technologies and laboratory resources.
+For more information about NTIS, send for our FREE NTIS Products
+and Services Catalog which describes how you can access this U.S. and
+foreign Government technology. Call (703)487-4650 or send this
+sheet to NTIS, U.S. Department of Commerce, Springfield, VA 22161.
+Ask for catalog, PR-827.
+Name
+Address
+
+1
+
+a)
+too
+
+For economy and efficiency, NTIS does not maintain stock of its vast
+collection of technical reports. Rather, most documents are printed for
+each order. Your copy is the best possible reproduction available from
+our master archive. If you have any questions concerning this document
+or any order you placed with NTIS, please call our Customer Services
+Department at (703)487-4660.
+
+Telephone
+
+Cd
+
+11 n
+
+Your Source to U.S. and Foreign Government
+Research and Technology.
+

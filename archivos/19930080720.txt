@@ -1,0 +1,312 @@
+..
+..-.
+
+.f
+
+”-.,
+
+... . .,.,, .,
+...
+:> :.”.
+
+.
+...
+
+2-
+
+THE LAW RELATING TO AIR CURRENTS.
+
+Translated by Paris Office, N. A. C. A.
+
+~Op\’
+
+FILE
+,..
+
+To be returned to
+tlw ftiesof tb ~m$~y
+Memotial
+
+Aeronautic!’;
+
+Laboratory
+
+I
+
+..
+
+—.
+
+THi IJA~RELAT~~
+
+.—
+
+TO AIR CURRENTS.*
+
+Translated by Paris Office, N.A.C-A.
+-.
+
+....
+
+.,.
+
+.
+
+,_
+
+—,...,.,, .-,
+
+,.
+
+The Subdivided Wing Sectioti.
+In accordance with the Bernoulli equation, lift is a result of the formation of layers in a circulating current with
+forward movement of a cambered surface. The separation of
+the streamlines at the top side of a plate placed obliquely to
+the direction of the current results in a vacuum between an
+upper surface of discontinuity and the front of the top side,
+and this vacuum is filled with harmful eddies.
+
+It shows a
+
+cambered section above the l’critical
+angle of attack”.
+
+IN
+
+THE SUBDIVIDED PROFILE, the diagram of the current is entirely changed and the harmful formation of eddies is avoided
+through premature deflection. Pressure equalization DOES NOT
+OCCUR between the upper and under sides.
+
+“There is no occas-
+
+ion to fear diminution of the velocity on the top side, as
+the entire profile system is to be considered as a STAGGERED
+MULTIPLANE with independent single sections when there is
+sufficiently large SPACING of the dividing surfaces. The form
+of the transverse section is chosen in such a manner that the
+top outlet groove narrows down opposite the bottom one.”
+
+In
+
+ac.co+ance,‘withthe’principle of the VENTURI TUBE, there will
+,.,,
+..,, ,.,
+be a subsequent increase in the high speed of the airstream
+*
+.:
+lrNachrichten
+ffirLuftfahrer,“ vol=.~J;‘~~,.
+3:~p. 46, 47, 48.
+
+—.-
+
+.
+
+escaping through the upper slot.
+rifugal
+
+—
+
+———
+
+.. -,..
+
+I
+
+llInconseque~c~
+
+of the
+
+Cent-
+
+acceleration of the streamlines, new partial pres-
+
+.,sures arise through the CAMBERED lower side of the divided
+profile and add to the resuiting total pressure.1’ It has not,
+so far, been possible to prove this in practice in Germany.
+The HANDLEY PAGE tests confirm the theoretical expectations
+entertained, in spite of the extremely imperfect and contestable arrangement of those tests. With six divided surfaces,
+a GAIN of 200$ to 300fiin LIFT was expected. Wind-tunnel
+measurements made ‘atthe British N.P.L. also confirm the increase of lift with more acute angles of attack. There is no
+considerable increase of resistance in such case, and the tendency to KIGRATION OF THE CENTER OF PRESSURE IS NOT INCREASED
+TO ANY IMPORTANT DEGREE.
+Tests on Engine Cars.
+These tests were chiefly carried out during the war, not
+but to the extent required by various
+in a systematic mariner,
+customers ordering them.
+for MODELS:
+
+The following limits were prescribed
+
+Sectional measurement, 6 - 20 cm.; greatest length
+
+80 cq. for fuselages; airships, etc., the lightest possible,
+but with about 80 ~.
+
+thickness of wood in the region of the
+
+center of gravity to enable it to be secured to the balance.
+Maximum dimensi~ns for,T+ngs an! mUltiPlgne~: 80 cm. span,
+12 cm. depth; as rigid as po~;sible. Wings one behind the
+other or entire airplane: 40 - 80 cm. wide, 60 cm. l~g
+
+-. .... . . . ——-—-..—-
+
+and
+
+,K..
+
+-330 cm. high at most.
+
+A diameter of 60 cm., or at least, 30 cm.
+
+for the propeller. Maximum number of revoluis rectxnmended
+$ions of model 4000 per minute, maximum velocity 30 m/sec9,
+maximum power 2 HP.
+
+These values correspond - according to
+
+the scale of the model’- to various vaiues of the full-sized
+&irplane.
+The fi~st series, a car model
+
+1 : 5,
+
+from the Technical
+
+Direction of Military Aviation, was measured at the parallelogram balance and further verified at the Eiffel balance. The
+resistance was shown to be proportional to the square of the
+velocity.
+
+The measurements were taken at various angles of
+
+attack and torque.
+to (DTAlf)5,
+The second series consisted of models (DTJIbQ
+two with a square cross-section and two with a rectangular
+cross-section, alternately; and one of each of these two has
+a long engine shaft and a short one, also alternately. By this
+arrangement, the components are unsymmetrical. There was less
+resistance in the case of the short forms, butat
+
+angles be-
+
+yond 10° (or 200 for rectangular forms) the resistance was
+greater. The resistance of the long square model is greater
+than that of the rectangular model; for the short square model,
+however, up to an.angle of 20° only. The long square fuselage
+always presents greater resistance than the short rectangular
+form.
+
+The resistace of the long rectangular fuselage exceeds
+
+that o~ the short square one at angles of attac$ not greater
+than 20°.
+
+All this can be explained by resolving the resist-
+
+I
+-4-
+
+ante into form and angle.
+
+1
+‘;~
+
+The equation of lifting forces gives
+
+correspending resuits.
+The same models compose the third series of tests, but they
+are here BLOWN AGAINST FROM BEHIND, at the Eiffel balance. The
+influence of length is noticeable at high velocities, only, in
+this case, owing to the unfavorable wash at the end of the engine, which now lies with the wind. This position is more favorable for the short models.
+The resistance is proportional to the squareof the velocity between 25 and 40 m.p.sec.
+With regard to the resistance of the different forms, the
+above statements may be applied, though the cross-sectional
+measurements are more marked in this case. The more acute the
+angle of attack, the greater is the influence of length in so
+far as lifting power is concerned.
+
+In opposition to the re-
+
+sistance, the lifting power is lower with the long square fuselage than in the case of the rectangular form, as also when
+the short models have greater angles.
+The inverse position is more favorable for the long, square
+form at and belowan
+
+angle of 5°, and it is still more so for
+
+the short form. This is proved by the profile effect of the
+two halves of the model.
+
+The shape is of greater influence
+
+‘same“apjjlieso”rectangular fuselages, hut
+t
+than the angle’;“Tfie
+the critical angle is smaller.
+Fourth series: Caaing for TWO ENGINES on the scale of
+1 : 10 (ISA)l, also examined at the Eiffel balance.
+
+The coef-
+
+ficient of resistance diminishes with increased velocity.
+
+,,,
+,, -,.’.’,”
+:,,/.
+.,,
+.,. .,,,-.,,,
+.,,
+
+,
+
+,,
+
+,-. “’ .,,. :1 ?“.:.:.:
+
+.$’-.
+
+. .. . .. . ... . . .. ........
+
+..
+.
+,,
+
+.
+
+r.
+
+..
+.
+
+J
+i
+
+,,
+.-
+
+“
+
+s-
+
+.’
+.,.
+,’
+
+\
+
+1
+
+. . . . . . ...
+
+.
+
+,.
+
+... .. .._
+
+.....,. ..-——
+,
+

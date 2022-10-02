@@ -1,0 +1,17706 @@
+lE COP
+
+"REPORT No
+
+RESULTS OF TESTS ON RADIATORS FOR
+AIRCRAFT ENGINES
+,
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+IH.S DOCU ,(l,T CI lOtJ' FilorJ r IE FI lS t.:
+
+Ii
+
+r
+
+I v
+
+.
+
+• SS,
+
+:.IBt "'" !'lIS
+
+~ 011 ...0 BE ADDRESsED
+
+f:
+AERON~UTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+\7 .
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+
+1920
+
+REPORT No. 63
+
+RESULTS OF TESTS ON RADIATORS FOR
+
+AIRCRAFT ENGINES
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+WASHINGTON
+GO VERNMENT PRINTING OFFICE
+1920
+
+By Tra.nsfer
+Na.vy Dept.
+NOV 17 1930
+
+REPORT No. 63
+RESULTS OF TESTS ON RADIATORS FOR AIRCRAFT
+ENGINES.
+Part I.-HEAT DISSIPATION AND OTHER PROPERTIES OF RADIATORS
+By H. C. DICKINSON, W. S. JAMES, and R. V. KLEINSCHMIDT
+
+Part IT.-WATER FLOW THROUGH RADIATOR CORES
+By W. S. JAMES
+
+3
+
+REPORT No. 63.
+PART I.
+
+HEAT DISSIPATION AND OTHER PROPERTIES OF RADIATORS.
+By H. C.
+
+DICKINSON,
+
+W. S.
+
+JAMES,
+
+and R. V.
+
+KLEINSCHMIDT.
+
+INTRODUCTION.
+
+The present report is the fourth of a series of reports on airplane radiators, incorporating
+the results of experimental work at the Burean of Standards unclel: the joint auspices of that
+Bureau, the Aviation Departments of the Army, and the ational Advisory Committee for
+Aeronautics. The first threo are the following:
+Technical Report No. 43, Synopsis of Aeronautic Radiator Investigation for the years
+1917-1918;
+Technical Report No. 59, General Analysis of the Airplane Radiator Problem; and
+Technical Report o. 60, General Di cu sion of Te t Methods for Radiators.
+These reports contain a discu sion of the technical terms used and briefly defined in the
+present report, and a discussion of the methods used in obtaining the data on which the present
+report is based.
+PURPOSE.
+
+The purpose of this report is to present the results of tests on 56 types of core in a form
+convenient for use in the study of the performance of and possible improvements in existing
+designs. Working rules are given by which the data contained in the report may be used,
+and the most obvious conclusions as to the behavior of cores are summarized.
+DEFINITIONS OF TERMS.
+
+(For a complete discussion of the terms and their significance, see the" Analysis," Technical Report No. 59.)
+I. OHARACTERISTICS wnICH DESCRIBE A TYPE OF CORE.
+
+These characteristics are given in Table I, and a few of the most important are included
+on each curve sheet.
+Metal is designated as brass or copper without attempting to gave exact composition.
+The thickness is approximate to 0.001 inch.
+Dimensions of core.-Length is measured in the general direction of the water flow; depth,
+in the general direction of air now; and width perpendicular to these two.
+Dimensions of water tubes . ~Length (in the direction of water flow) is expressed in inche
+per foot length of core; depth is measured in the same direction as depth of core; and width
+is the thickness of the stream of water.
+Gooling surface is regarded as direct only when backed by flowing water. Indirect surface includes fins, spacers, and surface backed by stagnant water.
+Per cent free area is the cross-sectional area of the air tubes in per cent of the frontal area.
+All characteristics are given for a section of core 1 foot square.
+II. PROPERTIES THAT DESCRIBE THE PERFORMA TCE OF A CORE.
+
+The properties of a core are obtained primarily for the purpose of comparing cores. It
+must be remembered that the properties of a complete radiator on a plane depend, not only
+upon the properties of the core but on the location of the radiator on the plane. . This is
+especially true of head resistance and the properties involving it. (The method of estimating
+the probable performance of a radiator from the properties of its core is given under "Use of
+the data in designing a radiator," below.)
+6
+
+6
+
+A
+
+~ ~UAL
+
+REPOl'tT
+
+ATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Mass flow of air through the core is expressed in pounds per second per square foot of
+frontal area. When a core is supported in a free air stream, the flow of air through it is proportional to the free air speed (for ordinary types of core).
+The mass flow constant is the ratio between the mass flow throuah the core, and the mass
+of air flowing through a quare foot of area normal to the direction of flow in the undisturbed
+air stream. For some purposes it is more convenient to use a " mass flow factor" which is the
+factor by which free air speed in miles per hour must be multiplied to obtain mass flow.
+Energy dissipated or heat transfer is expressed in horse power per square foot of frontal
+area, for a difference of 100° F. between the temperature of the air entering the radiator and
+the mean of the temperature of the entering and leaving water.
+H ead resistance of the core is the force required to push it through the air, and i expressed
+in pounds p er square foot of frontal area.
+Head resi stance constant is the factor by which the square of the free air speed in miles per
+hour must be multiplied to obtain h ead resistance in pounds per square foot.
+Horsepower absorbed is computed by adding t o the head resistance the quotient obtained by
+dividing th e weight of core and contained water (in pounds per square foot front) by the liftdrift ratio of the airplane, and multiplying the sum by the speed of the plane and by a conversion factor.
+As the lift-drift ratio varies between different planes and varies even more widely between
+climbing and level flight, it is very important to consider, in the selection of a core, the relative
+importance of climbing peed and top speed. The value 5.4 is used throughout this report a
+a good average for planes and gives equal weight to rate of climb and top speed. If rate of
+climb is of prime importance 'the value should b e as low as 3, while if speed on the level is
+the mo t important a value as high as 10 may be used.
+Figure of m erit is the ratio of the energy dissipated in horsepower to the horsepower
+absorbed.
+Pressure necessary to produce water flow is of importance .in determining the maximum
+flow possible through a given type of core.
+CONDITIONS UNDER wmCH THE CORE OPERATES.
+
+As the properties of a core vary with the conditions under which it is used, it is necessary
+to express the results of tests in terms of certain definite conditions adopted as standard. The
+conditions adopted in this work are:
+1. Water flow mu t be high enough to insure turbulent flow. Fur most types of core this
+means that it must be above about 2 gallons per minute per inch of core depth per foot width
+of cOre.
+2. Temp eratu1'e dijJerence (between entering air and mean water temperature) of 100° F.
+is used in computing the heat transfer and figure of merit as given.
+3. Air density i taken as 0.0750 pounds per cubic foot. All results given in this report
+are reduced to these conditions.
+Since one of the most important conditions affecting radiator performance is the mass
+flow of air through the core, the properties of the cores have been expressed in terms of mass flow.
+The effects of variation from the conditions adopted as standard are treated in detail in
+separate r eports, but are mentioned below in a form for use in design.
+GENERAL FACTS DEDUCED FROM THE RESULTS OF EXPERIMENTS.
+
+General statements deduced from the results of the experiments, together with a few of
+the most important conclusions from other reports, are as follows:
+HEAT TRANSFER.
+
+1. Heat transfer is a function of mass flow of air, independent of density . (See Technical
+Report No. 62.)
+2. . Heat transfer is roughly proportional to mass flow... for a core having only direct cooling
+surface. When there is a considerable amount of indirect cooling surface the heat transfer
+increases less rapidly than mass flow at high air speeds.
+
+HEAT DISSIPATION AND OTHER PROPERTIES OF RADIATORS.
+
+7
+
+3. Heat transfer is proportional to the temperature d~fJerence mentioned above.
+4. Heat transfer is not greatly affected by the rate of water flow provided the rate is above
+2 gallons per minute per inch of core depth per foot width of core. It should be noted, however, that this is true only when the mean water temperature is regarded as constant. (See
+below, "Use of data in the design of radiator: Rate of water flow.")
+5. Heat transfer from direct cooling surface is not appreciably airected by the composition
+of the m etaZ. When fins and other indirect cooling surface are used the thermal conductivity
+of the metal is important.
+6. Heat transfer is somewhat increased, but at the expense of a large increase in head
+resistance, by spirals or other forms of passages which increase the turbulence of the air stream.
+Heat transfer is greater for smooth than for rough tube walls,for,iI the surface is rough, it will
+be covered with a layer of more or less stagnant fluid.
+HEAD RESISTANCE.
+
+1. Head resistance for any particular core varies approximately as the square of the free
+air speed. In most cases the exponent is slightly less than 2 . Radiator E-4 is an exception
+to this rule. This radiator exhibits resonance effect which causes it to whistle in an air stream
+having a velocity of more than about 30 miles per hour, and cause head resistance curve to
+how irregularities in the region where whistling starts.
+2. The head resistance of a core appears to be closely related to its mass con tant so that,
+in general, anything which tends to cut down the flow of air through the core will cause a considerable increase in head resistance. (See plot 1.)
+3. Head resistance varies directly a the ai1' density for a given free air speed, and inversely
+as the density for a given mass flow. (See Technical Report No. 62.)
+4. Head resistance is con iderably increased by projections, indentations, or holes in the air
+tube walls.
+5. Head resistance per square foot is not appreciably affected by the size of the core within
+the limits used, viz, 8 by 8 inches to 16 by 16 inches and 12 by 24 inches. (See Technical Report
+No. 61, Part 1.)
+MASS FLOW OF AIR.
+
+Mass flow of aIr IS directly proportional to free air speed for most types of core. The
+cores E-4 and G-4 are exceptions.
+USE OF THE DATA IN THE DESIGN OF A RADIATOR.
+CHOICE OF A POSITIO .
+
+The first step in the design of a radiator is the choice of a position on the airplane. The
+possible positions may be divided into two classes:
+1. Unobstructed positions, i. e., those in which the flow of air through and around the
+radiator is not obstructed by other portions of the plane.
+2. Obstructed positions, such as the nose of the fuselage, a position within the fuselage, and
+in the plane of the wing.
+It has been shown in Technical Report No. 61, and also in reports of work done both in
+Great Britain and in France, that an obstructed position involves a very large absorption of
+power, so that from the viewpoint of power absorbed for a given heat transfer, the unobstructed
+position is far preferable to the obstructed. Tests on a model have shown that the resistance of
+a fuselage fitted with a nose radiator is from two to three times the resistance of the same fuselage
+with a stream-line nose, and that the increase in resistance due to the substitution of a radiator
+for the stream-line nose is greater than the increase that would be caused by using a radiator of
+the same core construction and the same cooling capacity in an unobstructed position.
+SELECTIO"
+
+OF A TYPE OF CORE.
+
+In an unobstructed position the head resistance and consequently also the figure of merit of
+the core will be closely related to the e properties of the complete radiator, so that in this case the
+
+8
+
+A NUAL REPORT NATIO
+
+AL ADVISORY COMM ITTEE FOR AERONAUTICS .
+
+core must have a high figure of merit at the free air speed at which it is used. The most compact
+construction consistent ·w ith this fundamental requirement is desirable. In order to obtain a
+high figure of merit the core should have smooth, traight au' passage, easy entrances and exits
+for the au', and a large per cent free area. With these factors carefully attended to the figure of
+merit of cor.es increases with depth up to 20 times the diameter of the air tubes, which i as
+far as experiments have been made. Even greater depth may be of advantage in obtaining
+compactne s.
+By farthe most sati factory radiator for use in unobstructed positions seems to be one of thin
+flat plates, not over -fir inch thick, and spaced 1 inch on centers. The plates should be at least
+12 inches in depth. The chief defect of Lhis type of construction is mechanical weakness. (See
+cores E- 6, E-7, and E- .)
+Of radiators now in commercial use in this country that have been tested, Nos. A-23,
+A- 13, A-20, A- 19, and A-7 are best suited Lo use in unobstructed positions, but they are
+decidedly inferior to the flat plate type at high air speeds.
+For use in obstructed positions the selection of a core is more difficult, but in general high
+heat transfer at low air peeds is de irable. Indirect cooling sUlface may be of advantage if it
+is made of copper, crimped from the water tube walls, and well soldered to them at all possible
+places.
+Among the cores tested, Nos. A-7, A-20, G~3, A-2, G-4, and B- are best suited for
+obstructed positions. It should be noted that for use in the wing, a high head resistance of
+the core is not a di advantage, and it i possible that a core such .as F-4, which has considerable
+mechanical strength and a low water resistance, might be used.
+With this possible exception, the .fin and tube type is unsuited for use in any position, its
+high head resistance and small amount of direct cooling surface making its efficiency very low.
+SIZE OF CORE.
+
+Having selected a type of core for the desired location, the computation of size requU'ed is
+relatively simple. In the case of a radiator for an unobstructed pO ition, the heat transfer can
+be determined directly from the curves if the desired best climbing speed of the plane and the air
+temperature are known. The effect of propeller slip must be estimated and allowed for. The
+energy to be dissipate d should be determined if possible in any particular case, but is usually
+about equal to the brake horsepower of the engine. Then the ratio of the energy to be
+dissipated to the energy dissipated per squ are foot frontal area of core will give the frontal area
+required. From the weight and head resistance the effect of the radiator on the aerodynamical
+properties of the plane can be determined.
+In the case of a radiator placed in the nose of the fuselage, until better data are available,
+the mass flow of air in pounds per econd per squ are foot may be considered numerically as
+between 0.04 and 0.07 times the speed of the plane in miles perhour,depending on the amount of
+cowling and the masking effect of the propeller. From this the mass flow can be estimated, and
+the energy dissipated per square foot frontal area is determined from the plots, u ing the mass
+flow scale.
+The mass flow for a wing radiator depends upon the angle of incidence, but is probably not
+over 0.01 times the plane speed in M. P. H., even at the best climbing angle. The tubes are in this
+case presented to the air at an angle which probably increases the heat transfer considerably.
+POWER AB SORBED.
+
+·Power absorbed can be computed readily only in the case of a radiator in an unobstructed
+position. The actual force on the radiator core when in an obstructed position may be computed from the curves of head resistance again t mass flow, but the uncertain effect on the
+properties of the fuselage is of far greater importance. For obstructed radiators, the power
+absorbed as computed represents only the minimum possible absorption.
+
+HEAT DISSIPATION AND OTHER PROPERTIES OF RADIATORS.
+
+9
+
+RATE OF WATER FLOW.
+
+Although the energy dissipated as gi\en in the curves is practically constant for rates of
+water flow above about 2 gallons per minute per foot width per inch depth of core, the allowable mean t emperature increases slightly with increased water velocity, since it is the temperature of the entering water that must be kept at a certain point below boiling. With a flow
+of ~ gallon per minute per horsepower dissipated a temperature difference of about 20° F.
+is obtained, or the mean water temperature in the radiator is 10° F . below the entering water
+temperature. If the flow is increased to Y2 gallon per minute the temperature difference will
+be 10° and the mean temperature may be 5 ° higher than before. A further increase in water
+flow could not give more than 5 ° further increase and would probably be at the cost of an
+excessive loss of power in the pump. A flow of Y2 gallon per minute pel' horsepower dissipated
+may be regarded as desirable, while with radiators that are relatively long and narrow a decrease
+of flow to ~ gallon per minute pel' horsepower dissipated may be necessary.
+PRESSURE NECESSARY TO PRODUCE WATER FLOW.
+
+The pressure which is available to produce the water flow is usually the difference between
+the vapor pressure of the water leaving the radiator and atmospheric pressure. As this pressure
+difference may be only about 5 pounds per square inch, the resistance of the core to water flow
+may limit the possible flow seriously unless care is taken to make the core as wide as possible.
+The water resistance of a core seems to depend largely on the care used in manufacture
+and on the form of the water tube entrances and exits. In the light of tests made, it seems that
+it would be well to include a test for pressure necessary to produce " T
+ater flow in acceptance
+specifications for complete radiators, as slight variations in manufacture affect water resistance
+greatly. In Part II of this report arc given the results of some tests on water resistance.
+DESCRIPTION OF TABLES AND CURVES.
+
+In order to indicate the degree of reliability of the results shown, actual observations are
+indicated on the plots by circled points, and at the cnd of this report is a brief statement showing
+the means used in obtaining results for the cases where II observed" points are not shown.
+Table I contains the characteristics of cores as noted above and sketches showing the form
+of air and water passages. This table includes certain special types of core on which complete
+tests have not been made and which are accordingly not included in this report. The special
+properties of such cores will be made the subjects of separate reports.
+Table II lists the properties of the cores at mass flows of air of 2, 4, 6, and 8 pounds per
+square foot per second, in order to allow ready comparison between them. It also includes
+the heat transfer in B. t. u . per minute per square foot of frontal area of core, and in horsepower and in B. t. u. per minute per square foot of cOOling urface.
+Table III lists the same properties as Table II at free air speeds of 30, 60, 90, and 120
+miles per hour. In addition, it gives the mass flow (at II standard" density) corresponding to
+these free air speeds, and a II grade" for the radiator, grade A denoting very good performance
+and grade E very poor performance, among the cores tested. This table is directly applicable
+only to radiators in unobstructed positions.
+Table IV gives constants of empirical equations for heat transfer, head resistance, and
+mass flow, for cores in unobstructed positions.
+Plot 1 is an approximate empirical relation between the proportionality factors for head
+resistance and mass flow.
+The remaining plots show the properties of the cores in terms of mass flow of air, with the
+corresponding free air speeds (for unobstructed positions) indicated by a scale added at the
+bottom of the sheet. For the core E-4, the mass flow is not a linear function of the free air
+speed, and a separate plot shows the properties in terms of free air speed. For the core G-4,
+the relation of mass flow to free air speed is linear above 15 miles per hour, but not below that
+speed, which fact accounts for what would appear to be an error in marking the free air speed
+scale of plot 58.
+146583-20--2
+
+10
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+NOTE ON SOURCES OF DATA.
+
+Because of the undesirability of removing the headers from all specimens so that head
+resistance could be :measured directly, and because certain mechanically weak specimens became
+damaged befor~ complete tests had been made, a part of the data was obtained not from direct
+measurement but by the methods described below.
+Mass flow of air was measured in terms of free air speed on all specimens except E-7, and in
+this case was estimated by interpolation between the values for E-6 and E-8.
+Heat transfer was measured in terms of mass flow of air on all types except the following:
+F -4, estimated by interpolation between the values for two similar types of the same
+depth, but different spacings.
+E-6, E-7, determined by correction from preliminary tests made before the apparatus
+was put in final form.
+F-5, estimated from results obtained on a similar type of slightly different depth.
+Head resistance was measured directly on half of the cores included in this report, and on a
+number of other not included, and the proportionality factor for head resistance was plotted
+against that for mass flow, in the cases of about 40 types having smooth straight air passages.
+The resulting points fell very near a single line, which is shown in plot 1, and this plot was used
+to determine head resistance from a measured mass flow factor for other types with smooth
+straight air passages. Values thus obtained are probably good within about 5 per cent.
+The cores A-19 to A-22 andG-2 could not be treated in this way because points for similar
+types did not lie on the curve of plot 1, and in these cases the head resistance was estimated
+by comparison with other similar types and with the plot.
+Head resistance of type 0-2b was determined by interpolation with respect to mass flow
+between values for 0-2 and 0-2a.
+Head resistance of types E-6, 7, and was determined from the results of a fairly comprehensive set of tests on the head resistance of flat plate radiators of various depths and spacings.
+
+TABLE
+
+I.-Characteristic.! of radiatorB.
+
+,
+
+, , .p If
+__
+
+__..a:taO'
+
+~
+
+I
+
+I I' ltrlJt lfFl 11
+1 -
+
+1---1
+Number .....•••••• .. ••• .... ••• ••.
+Depth . . . ..•.•.•••••.•••. incbes •. .
+Metal:
+
+;,~~~r. ~~.e.~.::::::::::
+
+A-I
+3
+
+A-2
+
+A-3
+
+21
+
+at
+
+.~:.~.~.:::\ .~:.~.s::::\ .~:.~s::::
+
+:::::::
+T hickness of metal.. ••.•• incbes..
+Weigbt, Ibs/ft.' fr ont:
+
+0.005
+
+0.005
+
+t~re?co;,i.ent::::::::::::::::::: 1~: i
+Filled .. •. •.... .. ...•.••.••••..•. • \
+Per cent free area. ... .• ...••......
+Cooling surface, fPlft.' front .. ...
+Per cent direct coolmg surface. .•.
+Water tubes:
+Lengtb, in./ft. of core .. .. ... .•
+Wid1b .......•.•••.•• incbes .•
+Depth .... .... . ... ... incbes ..
+Number per foot ........... ..
+Area normallo flow, ft. '1ft .. .
+HydraulJc radius inches ..••..
+Air tubes:
+IIydraulic radius ..... inCbes " l
+Ratio, lengtb+hyd. rad......
+Number of plot................ ..
+
+0.005
+
+A-6
+
+A-7
+
+A-8
+
+A-9
+
+A-I0
+
+A-11 J
+
+A-12
+
+1
+
+A-13
+
+~. Brass.~~. Brass.~~. Brass.~. Brass~.~. Brass.~~. Brass.~~.1 Brass.~~.
+
+A-15
+3
+
+A-14
+
+3t
+
+A-16
+3
+
+A-17
+4
+
+I
+
+Brass ..
+Copper .. Brass.... Brass .... Brass.
+Copper ...... ........ ...................................... ... ...................... .. ........... ..
+0.006
+0.010
+0.010
+0.005
+0.005
+0.005
+0. 005
+0.005
+0.005 1 0.005
+11. 6
+
+15. 8
+65.5
+39.3
+44.0
+
+9.6
+1.5
+11.1
+79.6
+30.3
+46.6
+
+12.0
+
+12.0
+
+2.37
+48
+.0340
+.0211
+
+3.16
+48
+.0495
+.023
+
+12.0
+.039
+2.08
+42
+.0237
+.019
+
+. 050
+58.8
+2
+
+. 050
+78.0
+S
+
+.063
+38.1
+4
+
+.0471
+
+A-5
+
+Brass.~. Brass..~.
+
+18.3
+3.1
+21. 4
+65.7
+61.9
+44.0
+
+.046
+
+1 - -1---1- - -1 - - 1 - - 1 - - - - , - - -
+
+A-4
+
+13.9
+
+17.1
+
+8.2
+
+10.0
+
+13.4
+
+24.3
+
+10.8
+~2
+
+13.2
+
+~8
+
+18.3
+
+36.6
+
+17.3
+U9
+49.1
+
+15.1
+. ~9
+\18.0
+
+~6
+
+62.6
+
+A2
+
+30.3
+
+37. a
+
+51.1
+
+12.0
+.0581
+2.76
+30
+.0333
+.0286
+
+12.0
+.061
+2.74
+42
+.0491
+.031
+
+12.0
+.054
+3.60
+40
+.0541
+.027
+
+12.0
+.078
+4.45
+48
+.1156
+.038
+
+12.0
+. 0641
+2.06
+45
+. 0414
+.0312
+
+12.0
+.066
+2.49
+45
+.0510
+.032
+
+.078
+37.1
+5
+
+.056
+53.2
+
+. 061
+65.0
+
+.050
+97.2
+8
+
+.052
+45.4
+9
+
+.052
+64.8
+10
+
+.052
+75.0
+
+~1
+
+13.7
+m5
+28.6
+~1
+
+10.3
+3.1
+13.4
+
+RO
+
+~3
+
+6
+
+~4
+
+7
+
+~2
+
+~6
+
+~2
+
+~8
+
+~2
+
+~7
+
+C:::6··I::;~:;:::: "~~:~4" "'~~~~004
+
+14.6
+
+11. 3
+
+R2
+
+61. 7
+
+a3
+
+17. 6
+.2
+39.4
+
+114. 5
+m4
+43.9
+
+m3
+
+72. 1
+46.3
+48.6
+
+12.0
+
+12.0
+. 033
+4.45
+45
+.0916
+.016
+
+12.0
+. 063
+3.11
+36
+.0486
+.0308
+
+12.0
+.0518
+3.00
+47
+.0507
+.0255
+
+12.0
+. 054
+3. 80
+37
+.0565
+.0285
+
+.051
+92.8
+
+.063
+55.7
+11
+
+.055
+61.1
+12
+
+.061
+63. 8
+13
+
+~9
+
+~8
+
+~6
+
+~O
+
+~2
+
+~6
+
+3.5
+
+3.0
+
+42.7
+
+n7
+
+2. 4
+U5
+69. 8
+34.6
+43. 9
+
+72. 1
+47.1
+43.5
+
+12.0
+.0545
+2.60
+49
+.0482
+.0364
+
+12. 0
+.051
+2.68
+40
+.0378
+.0249
+
+12.0
+.048
+3.63
+40
+.0480
+.024
+
+.047
+63.4
+14
+
+.062
+48.6
+15
+
+.062
+64.6
+16
+
+~1
+
+I 53.0
+35.3
+
+3.0
+
+~8
+
+l:Q
+t;j
+
+II>
+1-3
+
+~
+
+rn
+....
+
+>-0
+
+~
+
+o
+Z
+
+~
+t:l
+o
+
+1-3
+
+l:Q
+t;j
+
+~
+
+~
+
+.tp ~
+...................
+
+Number ...... .... ................
+~:f~~
+inches ..
+
+A-1~
+
+I
+
+A-19
+3
+
+~t ,
+
+fb
+
+-=
+
+-
+
+<>=
+
+A-20
+5
+
+A-21
+3
+
+A-22
+4
+
+Indirect s urface
+perforated.
+A-23
+6
+
+B-1
+2~
+
+B-2
+4
+
+o
+
+...
+
+o
+
+~
+
+00
+
+t
+
+;;
+u
+
+~~~
+
+c:q.o:::?
+
+-
+
+.,
+
+.<I
+
+~ i
+
+~
+
+~
+~
+
+~
+rn
+
+~
+
+o
+
+~
+
+Bil
+
+B-4
+
+3t
+
+"8-5
+2
+
+B-6
+
+at
+
+B -7
+4
+
+B-9
+
+B-8
+
+51
+
+3~
+
+B-10
+2~
+
+B -11
+3
+
+Water tubes .................. Brass .... Brass .... Brass .... Brass.... B rass .... Brass .... Copper .. Copper .. Brass .... Brass.. .. Brass .... Brass .... Copper .. Brass.... Brass .... Brass .... Brass.
+-........... __ ..... Fins ........................ .
+Tblckness of metal . •.... i.Dches •.
+0.004
+0.005
+0.005
+0.004
+0.005
+0.005
+0.005
+0.006
+0.005
+0.001
+0.005
+0.005
+0.005
+0.005
+0.006
+0.009 I 0.005
+
+Weir':;i~:!~~·.'·~r.o.~~ .... ......•.•
+
+8.9
+2.9
+Wa erconlent ................
+Filled . ...........•.•....••... 11. 8
+Per cent Iroo area ................. 83.0
+Cooling surface, It.'llt.' Iroot ..... 27.6
+Per cent direct coolmg surface .... 46.7
+Water tubes:
+Length, in./lt. of coro ........ 12.0
+Width .............. incbes ..
+.089
+Dopth ............... inches ..
+3.65
+Numbar per foot ..... ........ 21
+.0459
+Area norQlnl to flow, It.'lIt '"
+Hydraulic radius .. . .. inches •.
+.042
+Air tubes:
+Hydraulic radius ... .inches .............
+Ratio, lengtb+hy d. rad ...... \.......... \
+Number of plot. ..... ............ 17
+
+13.8
+3.1
+16.9
+67.7
+40.3
+86.9
+
+22.9
+6.4
+28.3
+66.9
+66.8
+92.1
+
+9.3
+3.5
+12.8
+65.6
+31.5
+86
+
+12.5
+4.3
+16.8
+66.6
+42.5
+91
+
+15.6
+6.3
+21. 9
+68.5
+54. 5
+91. 8
+
+6.70
+1.06
+7.76
+83.6
+21. 6
+37.5
+
+10.7
+.63
+11. 3
+88.0
+36.1
+34.6
+
+9.3 •
+2.0
+11.3
+79.6
+26.8
+58.6
+
+12.3
+2. 1
+14.4
+72.7
+37.2
+28.0
+
+5.5
+1.0
+6.5
+81.2
+238
+27.8
+
+8.8
+1.7
+10.5
+79.0
+37.9
+26.7
+
+10.7
+2.3
+13.0
+77.0
+45.8
+27.7
+
+13.9
+4.2
+18.1
+73.3
+56.1
+30.3
+
+10.4
+4.0
+14.4
+65.1
+36.2
+66. 5
+
+7.4
+3.1
+10. 5
+65.1
+25.5
+62.7
+
+8.9
+39
+12.8
+65.1
+30. 4
+64. 8
+
+24.0
+.028
+2.64
+48
+.0249
+.014
+
+24.0
+.028
+4.63·
+48
+.0·135
+.014
+
+24.0
+.041
+2.59
+39
+.0284
+.0199
+
+24.0
+.0348
+3.67
+39
+. 0348
+.0178
+
+24.0
+.0402
+4.64
+39
+.0505
+.0199
+
+13.9
+.056
+2.21
+17
+.0148
+.0270
+
+13.9
+.019
+3. 78
+18
+. 0087
+.0091
+
+13.9
+.043
+2.68
+30
+.0276
+.0245
+
+13.9
+.051
+2.88
+29
+.0295
+.025
+
+13.9
+.0524
+1.73
+22
+.0139
+.026
+
+13.9
+.057
+2.68
+22
+. 0232
+.028
+
+13.9
+.062
+3.40
+22
+. 0315
+.0298
+
+13.9
+.0822
+4.84
+21
+.0597
+.040
+
+14.8
+.00788
+30.6
+31
+. 521,
+.0386
+
+14.8
+.079
+2.03
+36
+.0402
+.038
+
+14.8
+.082
+2. 50
+36
+.0511
+.0396
+
+.063
+47.2
+20
+
+.063
+63.4
+21
+
+.061
+78.1
+22
+
+.088
+28.6
+23
+
+• 089
+
+.0.':3
+61.9
+26
+
+.071
+28.9
+27
+
+.07')
+46.9
+28
+
+.070
+57.2
+29
+
+.059
+76. 2
+30
+
+.051
+58.9
+18
+
+.050
+100
+19
+
+45. 2
+24
+
+1 · ~:~ ..
+"25'
+
+.. ........
+31
+
+::ii:::::r:~· · ···
+
+i
+o
+
+~
+
+i-'
+i-'
+
+TABLE
+
+I.-Characteristics oj radiators-Continued.
+
+,<:I~
+
+t
+
+,,~~
+
+,<:1"0
+
+,<:I'
+
+"s:l
+
+.9 '"
+""",
+
+.~
+
+G()'i:;
+
+.9~
+
+~.:'
+
+"
+
+i;;s:l
+
+o
+
+1Number .. .• •.. ••• •••........ ....
+Depth ...• •.•••.• .• ••.•.. inches ..
+Metal:
+
+~-=
+
+B-12
+
+O~B
+
+o~~
+
+C'll-orn
+
+"",<:I
+0,<:1
+
+H
+
+~­
+C'l'Crn
+
+~~.S
+
+,<:I§
+~
+
+"''''
+
+.....
+
+~.~~
+
+on
+"",
+co.S.g
+
+~ ~~
+
+H
+
+~~
+
+oo~
+,<:I.:,
+
+~e:
+
+i;;'"
+
+","0
+
+Ot\
+~.~
+
+~.,
+
+~
+~
+
+I~' f~
+
+ri~~ I~
+l~ 1~
+
+fR
+-=
+
+0-1
+
+4
+
+3j
+
+0-2
+8t
+
+0-2a
+
+8i
+
+0-2b
+
+0-3
+
+8i
+
+8t
+
+0-3a
+8}
+
+C-4
+
+21
+
+0-5
+3t
+
+0-6
+3
+
+0-7
+3t
+
+D-1
+21
+
+D-3
+3t
+
+D-2
+8
+
+I-'
+~
+
+t;:=
+.f~inch
+
+~
+
+pItch.
+2 sections
+deep.
+
+1 - - 1 - -1 -1 - 1 - -1 - 1- -1--1----,----'- - - - : - - - I---'~'--' .
+
+B-13
+
+31
+
+.~ ~
+
+H
+
+-
+
+~ ...
+VJ
+
+~'"'
+.c~
+
+,<:I'e
+
+D-4
+3t
+
+E-l
+
+41
+
+Thic::;;~;::~~~:::::::~~~~~::I·~·:~s~~::I·~·:::~~::I·~·::~::I·~·r~:~:~::1{7~~::I}~:~~:~::I·~~::::1 g~o~~:~:I·~·:~:~::I·~~::~::I·~~::~::::·~::;::1 g~!.~:~~:I·~·7~:·:::I·~·:~:·~::I·~·:~:·~::I·~·~::p~··
+
+01>
+~
+~
+
+q
+
+~
+t:d
+
+t;j
+
+Wei~~d~:~:~·.'.f~~~~:... ..•.. •. ..
+
+9.6
+11.9
+5.4
+Water content. .......••...•.
+3.9
+17.3
+Fil led......... ... ... . ........ 13.5
+6';.1
+Per cent free area. . .. . . • .. .. •.. . .• 65. 1
+41. 6
+Cooling surface ..• .. ft.2Jft.' front. . 34.0
+Per cent direct cooling surface.... 66.2
+67.6
+Water tubes:
+Length .... ..• •in.Jft. of core.. 14.8
+14.8
+Width . .•.. •• .•.... .. inches ..
+.072
+.079
+Dopth .... .. ......•.• inches. . • 2.86
+3.56
+Number per foot........... . . 36
+36
+Area normal to flow ... ft.'Jft..
+.0512
+.0705
+Hydraulic radius . ... . inches" 1
+. 035
+.040
+Air tubes:
+Hydraulic radius ..... incbes .......•. . .....•......
+Ratio, length+hyd. rad .......• .. .•...•..........
+Number 01 plot ... ..•.... .• .. .. .. 1 34
+35
+
+9.6
+6. 6
+16.2
+51.9
+32. 1
+94.2
+
+15.7
+11.5
+27. 2
+60.4
+48. 3
+87.2
+
+19.2
+10.7
+29.9
+63.2
+76.6
+56.3
+
+16.7
+7.6
+24.3
+62.5
+56. 7
+75.9
+
+14. 9
+.071
+3.18
+57
+.089
+.0345
+
+13.9
+.118
+7.42
+25
+.161
+.062
+
+13.9
+.111
+7.40
+26
+.148
+.055
+
+13. 9
+.118
+7.46
+26
+.1575
+.062
+
+.055
+61. 5
+36
+
+.107
+77.9
+37
+
+9.1
+3.6
+12.7
+70.9
+30.4
+46.4
+
+10.5
+4.1
+14.6
+70.8
+32.5
+46. 4
+
+8. 5
+2.2
+10.7
+75 . 8
+23.7
+46.8
+
+26. 9
+7.2
+34.1
+68.7
+84.1
+44.9
+
+16.8
+.088
+3.06
+25
+.0468
+. 0427
+
+12.0
+. 074
+2.20
+29
+.0348
+.038
+
+12.0 _ I..........
+
+51.5
+57.3
+
+64 . 0
+46.9
+
+9.2
+3.9
+13.1
+62.6
+32.0
+57.2
+
+13.9
+.0781
+7.18
+
+13.9
+.0695
+7.21
+20
+.0699
+5
+. 031
+
+13.8
+.073
+2.50
+43
+.0546
+.0355
+
+17.2
+.060
+3.42
+55
+.079
+.030
+
+15.8
+.068
+2.52
+27
+.0320
+.033
+
+.062
+47.1
+40
+
+41
+
+.074
+40.7
+42
+
+· .. 0:2 .... · ..5:0.. ..
+.. si:il.. .... sig .. ..
+
+22
+
+.0856
+.039
+
+..3S.. ···'/"·39.... ·1:::::: ::1:::::::::
+
+18.3
+7.1
+25.4
+'19.5
+35
+100
+
+1
+
+12 8
+6.2
+.
+19.0
+
+9.1
+3.9
+13.0
+
+83.1
+
+42.0
+42.1
+
+hz:o....
+
+.0925 ..........
+
+13.6
+5.2
+18.8
+72.2
+25.0
+89.6
+
+.... :OS73·
+
+7.50
+2.94
+2.90
+24
+29
+58
+. 1155
+.0510
+.0459 .......... ..........
+
+:: ~~: ::::: ::~~:: ::: :1 ~~: ::::: :: ~~::: ::: :: ~;:::::
+::
+
+12.0
+.073
+2.26
+76
+.0824
+.037
+
+f:::::::
+
+"0
+
+o
+
+t>:l
+1-3
+~
+
+~
+
+o
+
+~
+
+~
+
+~
+
+rn
+
+o
+
+t>:l
+
+~
+
+0000
+
+.&-&00
+
+•
+
+I~
+
+~o
+
+I;;
+
+( ca=>
+~
+
+i-c=:1c
+
+o
+"'"
+
+o
+
+~
+~
+
+H
+
+1-3
+
+~
+
+t;j
+
+I:;j
+
+o
+
+t:d
+
+~
+
+t:d
+
+o
+
+~
+
+d
+~
+
+o
+
+~
+
+12.0
+.073
+2.26
+114
+.1264
+.037
+
+12.0
+.073
+2.26
+152
+.174
+.037
+
+12.0
+.073
+2.26
+60
+.174
+.037
+
+12.0
+.073
+2.26
+80
+. 174
+.037
+
+12.0
+.0525
+
+9. 74
+24
+.085
+.0108
+.218
+
+44. 7
+
+52
+1
+
+Tubes.
+
+, Fins.
+
+no
+
+no
+
+no
+
+no
+
+no
+
+.062 . . ... ..... .......... .......... ..........
+1.86
+.......... .......... .......... .... ..... .
+176
+42
+42
+90
+72
+. 1360
+. 0273
+.0249
+. 0237 ..........
+.0142
+. 068
+.068
+.059
+.085
+
+no
+
+no
+
+.235.... • •.•••
+.235
+1.84
+72
+29
+.0216
+.059..... .....
+
+~1
+
+~1
+
+no
+
+.0723
+. 069
+.127
+1.30
+1. 30
+3.33
+34
+68
+38
+.0222.0212.1115
+.034
+.033
+.061
+
+I::~:::::: :::::::::: :::::::::: :::::::::: :::::::::: ::~:::::: ::~:::::: ::i~:::::: ::i;:::::: :::ii:::::
+• Estimated.
+
+13
+
+HEAT DISSIPATION AND OTHER PROPERTIES OF RADIATORS •
+
+-
+
+.3
+'!'>
+
+\
+
+\
+f\
+
+I
+
+\O
+
+I
+,
+
+\
+
+0
+\
+
+\
+0
+
+0
+
+~
+0
+
+,~
+
+~
+
+'0
+
+0\
+
+Curve showinq oppro)(imq/e
+/lead Ires/stance OT Core hovinq
+aqivel7 M o ss Flow.
+Resi.stance = C V z.
+Mass Flow=- f(V
+where V:= ,Free AIr Speed.
+
+D
+
+°
+1\
+
+\
+
+'\
+
+1\
+
+\
+\
+
+I-
+
+\
+
+o
+
+.020
+
+Plot No. I
+
+.040
+
+Moss rlow
+
+.060
+
+.080
+
+roctor (K)
+
+./00
+
+1
+
+~
+
+r
+r~~
+
+o
+
+l.
+A
+I
+~ 7,' I- 3;~3 ~~r, 5urfacf'
+~
+
+>:
+"
+
+\
+
+~
+
+!l
+
+~
+
+~.51
+"0
+
+~ 410
+
+8 .}1
+'0
+
+...:::..
+'t
+
+~W
+If
+
+~
+
+~Z'0
+
+i
+'t;
+
+~ 10
+
+~
+
+~
+
+17
+
+.~
+
+"-
+
+[7.
+I
+
+...-::
+
+o
+
+./
+
+-~
+7
+
+~
+
+()
+
+II'6 ~
+<.:
+I
+,
+
+/
+
+r- ~ /2 ~
+...
+
+~
+
+/
+
+"
+~
+
+/
+
+8 ~
+
+V
+
+~
+
+"
+;;
+
+'" ~ r--- r-V
+
+c::
+4 "
+
+"
+
+~
+/
+
+Z
+46
+N a Js rla w o f A Ir _ 10SI S'1
+
+I'/OfNal.
+
+<l
+
+ZO,,<
+
+~
+
+T7
+17 /
+
+~
+
+7
+II
+
+II
+
+/
+
+II
+
+~
+
+~
+
+I
+
+/
+
+)(
+~U\
+
+\-
+
+0
+
+/
+
+\
+
+~
+
+tJ
+
+10
+
+rll s ,"c
+
+a
+
+!
+,
+
+Z ¥smdt! ep
+2 8 6 ~q rI .$ur l'oce
+
+-
+
+44 .1 % d th?cl
+76 .5 "10 Iref! or{!o
+1/. 6 /hs ernp ly
+
+l:
+"
+
+It
+
+~6 1
+Ii
+
+2 I Ibs wat er
+
+'\
+\
+
+~
+
+~
+
+">i
+0.;
+
+" S,
+~
+
+'/
+
+" 4-
+
+,
+
+-!
+
+~
+....
+
+~
+
+~ J ,0
+
+">::
+
+.
+
+~
+
+/
+
+Q
+~ZO
+
+lti\~
+
+.;,
+
+!).
+"
+
+<:>
+
+r
+.s
+
+,,1f
+[7
+Y
+
+~-
+
+o
+
+I'rOl lVoS
+
+Z
+
+/
+
+\ 1/-.
+t'
+
+(, 1/
+
+/
+
+t\~
+~~p.-~
+
+V
+
+~
+
+Z4 ~
+
+~
+
+<l
+ZO "<
+
+,
+
+IZ t.
+<>
+
+/
+K
+
+"
+~
+
+~
+
+II
+
+"
+
+~
+
+/1
+"'- KP
+
+V
+
+"
+
+~
+
+/'
+V
+
+Z8
+
+"
+~
+16 (
+
+/7;
+
+~
+
+'" I 0
+.~
+
+I
+
+=
+
+~
+
+~
+
+m
+.. -f. ~
+
+\
+
+r--
+
+~
+
+~ 60
+
+A -Z
+
+sq fl svrroce
+
+5 1 !j
+
+V
+
+44.0 % direct surrac'!
+6 5 .7 '70 ~ree oreo
+18..3105. emp t y
+;j.l los. waf er
+
+\
+
+~
+
+~
+
+l:
+
+~
+
+\
+
+'/
+
+\'3.
+
+< SO
+
+~
+~
+
+~
+
+40
+
+\
+/
+
+Ii!
+
+;:::
+
+l
+
+/
+
+...{- II
+
+~
+
+cS
+
+f
+a
+
+~I 2
+
+J.----I-'
+
+~
+
+,'r
+
+~=
+
+IZ ~
+~
+
+v
+i&'
+
+';;~
+
+L
+
+2V
+
+4-6
+Moss rtow or Air · / OS/
+
+8 •
+1:
+t
+
+/
+
+~
+
+~
+
+~.
+
+I,\e~
+
+a
+'6 ~
+
+/
+
+~/
+
+I
+
+~
+
+I
+
+\ II
+I ~
+
+'(j
+
+.!).
+
+l
+
+IF,
+
+I
+
+lL
+
+II
+
+~
+
+~
+
+r-
+
+4 '"
+
+"
+~
+
+8
+
+10
+
+i~~ ~ 1t~:'~rloct!
+
+71
+
+'r---
+
+~
+
+46.6%direc/ .,
+7'6%J'rt:ear~o
+
+~
+
+/5 /bs wafer
+
+~6 7
+
+\
+
+~
+
+~
+24
+
+\'.
+
+~
+
+-
+
+'I
+
+fO
+~ 41
+
+~\
+
+~
+l'-
+
+]0
+~ 3,
+
+~
+
+st
+
+~
+
+"
+~
+~
+
+10
+
+""
+~
+
+Z.
+
+Plot No.4.
+
+V
+
+II>
+~
+~
+
+q
+
+~
+~
+
+V- -
+
+;::
+
+G
+
+I-d
+
+st-
+
+o
+
+i
+
+~
+,...,
+
+"...
+
+I--
+
+~
+
+I-- ~
+
+V
+
+~
+~
+
+;;
+
+o
+
+:l:
+
+~
+
+~
+
+t---- ~
+4
+
+V
+
+~V
+
+4
+6
+/"1055 no w o f Air '
+
+~
+
+(
+
+~
+
+8
+
+[#
+
+-
+
+'6
+
+~, '1
+
+"- >!
+
+e~
+
+l:
+
+ez/~
+
+/' V
+
+V
+
+~-;.
+
+V
+
+V
+
+o
+
+sqftlsec
+
+1\ V
+
+l/
+
+/
+
+V
+
+.L.
+
+t
+
+.-
+
+f---
+
+- -
+
+./
+
+t(~
+
+ZO
+"Z
+
+zo~
+
+-==
+
+\
+
+.."
+
+~
+
+1
+
+l- I -
+
+" .Jlr
+
+~ S,'0
+
+~
+
+>::
+
+..
+
+~
+
+I-"
+
+ZIl
+
+1+
+
+-
+
+9 6 loS empty
+
+1'!
+
+~
+
+o
+
+100
+
+II T
+1
+
+A - .3
+
+'%
+II.
+>:
+
+.;
+
+~
+
+24
+
+ZO ~
+,
+
+/
+
+1\
+
+ZtJ
+
+"r~~ A~ .5p~ed. ml / h r
+
+o
+
+~
+~
+
+L1
+II
+/
+
+)
+
+IX
+
+::<>
+
+/
+
+/
+1\
+
+It
+~ 10
+
+lL~
+
+J}',,;ndeep
+
+~
+
+8
+
+~
+
+~
+
+o
+
+10
+
+Ioslsqff/s~c .
+
+Ul
+
+/
+
+8
+
+6
+~
+
+~
+
+':1
+
+~
+
+./
+
+. . . 1--- t--
+
+4.
+6
+8
+HOj "J Flow 0 1 Air ... IDJ/ sq t t l sec
+
+4
+
+i
+
+i
+
+0
+
+:S:tl i7t.-:Url'oce
+
+7,
+
+7147..J %d!r«/ ..
+l- 66.0 70 rr<-~ o~o
+
+~
+
+}60
+
+o
+
+f"
+
+\
+
+.~
+
+7
+
+.[~
+-=-
+
+\ '
+
+~.so
+
+\
+
+'l>
+
+, ,
+~4,
+
+~
+
+2'V
+
+t
+
+Z4
+
+l1
+
+ZO~
+
+~
+R
+
+I
+
+S
+
+'6
+
+/
+
+~
+
+17
+
+7
+
+~
+
+"
+~
+
+I
+
+7
+
+\
+
+; >:
+
+j?
+
+17/
+
+}
+
+i.... ,W '+--I---",-+-KA--+-j-+--1-t----t-i1
+Q, 17
+/
+
+:t
+
+"-
+
+~ Z,
+~
+
+~
+
+1
+
+~
+" I,
+
+~
+
+"
+~
+
+.s
+
+,~.~
+
+~
+
+/'
+
+1
+
+V
+
+o
+
+iJ\,..~
+
+17
+
+~ I--
+
+Plet/'lo 6
+
+Z
+
+8
+
+6
+
+~
+
+~
+
+t
+
+8
+
+"'0.$$ Flow OfAtr - /bs./j~.FI/ .sec
+
+1
+0
+
+~
+
+'r~ I-
+
+t
+
+1
+.
+.."
+~
+
+74.9%
+
+13 . 9 /0.1 empty
+.34/b .1 wo~r
+
+/.
+
+J ~
+IZ4~
+~
+
+~
+~
+
+I-+'<'-It----j---.,
+
+1
+
+~
+
+I
+
+~
+20"
+
+~
+
+/
+
+~
+
+/'"
+
+1 "V II
+\
+\/
+/
+
+1 1
+/ \
+
+~
+
+~l.'
+
+~O
+
+~y
+.<c
+
+~~~
+
+:?I
+
+\ j
+'"
+,,"[0_
+
+'ZV
+
+~
+
+a
+
+f'~S. V
+
+«.<V
+
+10
+
+,..-V
+._J.----
+
+I"IO( No '1
+
+z.
+
+/
+
+I'6
+
+~
+.;
+
+/
+
+/
+
+~
+
+8
+
+/
+
+4Moss no w
+
+6
+
+orAir -
+
+~
+
+~
+~
+
+I'-r---
+
+j...!>'
+---.l.-
+
+~
+
+~
+
+I,n ::
+
+II
+
+'/.4~~V
+
+"
+
+.~
+
+<S
+
+y1/
+
+f
+
+o
+
+()
+
+...::.. JO
+
+~
+
+1
+
+1-=1 7
+
+\
+
+~ 3,
+
+<';
+
+i-t--t----y-- Z8
+
+_,~ _
+
+\
+
+~ 10
+'<:
+
+~
+
+.
+
+1
+
+~ 4'
+
+~
+
+1
+
+!i1~~z~;/~C~ j91~~
+t'r~.cr"c
+
+1
+
+o
+
+100
+
+I
+
+A - 6
+
+~ S(
+~
+
+"
+~
+
+o
+
+.
+
+~
+
+i!
+
+4 I\;
+
+~. p
+
+4
+
+~
+
+~
+
+" . . .""v
+."~. V '-..... 1"---1--
+
+~
+~ 7.
+
+:.
+
+'Z ~
+
+30
+
+l:
+
+10
+
+"hl--+_+.--I
+
+:3:/ /b s. waler
+
+SO
+
+l
+
+ZtJ
+
+10.03 1b.J ..rnply
+
+~
+
+:.-
+
+iI,!,
+T
+~
+
+~
+
+Fr~(! Alr S
+~(!d " ml/ hr
+
+Trp, AIr Spef!d -ml/ I?r.
+so
+1
+00
+
+1
+
+s
+
+'\
+
+~
+>:
+
+l!
+
+100
+
+o
+
+A- 4
+
+-
+
+7, ,
+
+~ 70f--
+
+l'Iot /'10 3
+
+100
+
+SO
+
+.50
+
+0
+
+<Ii
+
+o
+
+Fret> Air S/Je~d . rT'I l / hr
+
+!,
+
+~
+~
+
+I
+
+1
+\
+
+'l;
+
+~
+
+Z4
+
+/J
+
+~=
+
+'3.
+
+~
+
+IPI
+
+It.
+
+0
+
+~
+
+~
+
+.. :,'
+
+\
+
+ZfJ ~
+<>
+"l
+
+7
+
+life
+
+44 0 % dlrecf ..
+6 55 '70 J'reeoreo
+1 7 los ~mply
+.3
+2.1 .. water
+
+}6 o
+
+~
+
+100
+
+,
+
+.
+
+r
+~ Nr~.tI.m l lhr.
+
+Speed.. mi!hr
+
+AIr
+
+SO
+
+-y
+
+' - - .' ; ; -
+
+8
+I!>J I ~q It I s~c
+
+1
+0
+
+4
+
+~
+
+~
+
+~
+
+~
+......
+f-'l
+
+~
+
+t.:z:j
+f:j
+
+o
+
+i;d
+
+~
+~
+~
+
+~
+
+f-'l
+......
+
+o
+
+Ul
+
+Fre~ AIr S~~d z "11 / hr
+
+~
+
+a
+
+.a
+
+. i
+
+A- 7
+
+~ 71 ~ f- 4~" li7t:leep
+6Z6 sq f"I sur/ace
+t:
+SlZ % d/r~cl ,.
+t f- 64 Z % Free art-a
+~
+
+f--
+
+Z8
+
+1/
+
+::
+
+..
+"
+
+II
+
+1\
+
+~51 7
+
+I
+
+\
+
+~
+
+i:
+\;40
+0
+
+~
+
+'I
+
+I \
+
+~3 0
+~
+
+If
+
+"l::
+
+\
+
+(>
+
+.N
+
+!t
+'O;-z.0
+
+17
+
+t:
+
+i
+
+/
+
+~~
+
+~
+
+~ II0
+
+e:
+
+.~ ~
+
+0.
+
+o
+
+,~r
+
+.-
+
+/
+
+,-,~"~.~ " ~
+dlrecl'
+30.3 sq ft.surface
+
+~
+~
+
+~
+
+§
+
+----
+
+6
+
+~
+
+l::
+
+st
+
+"-
+
+.
+
+~
+~
+
+8 ~
+
+.11
+
+~
+
+.::
+
+8
+
+4-~
+
+~
+10
+
+n! JPC
+
+,
+
+-'
+
+"4
+
+,
+
+."IA
+
+~
+
+10
+I
+
+).'
+
+~
+
+0
+
+2
+
+Sl
+
+ZO
+
+I /
+
+•
+
+~b
+
+P
+
+4
+
+~
+
+~
+16
+
+~
+
+l:
+..;
+
+"-
+
+/Z
+
+~
+
+.
+
+';;~
+
+8
+
+V
+'V r-- r-
+
+4- "
+~
+
+~
+
+a
+
+1
+0
+
+(J
+
+~
+
+!
+
+/
+
+6
+
+~
+
+~
+
+Moss FlowO/Air~ ID.s./-PlIt/ ,j~c
+
+!'lotNo.9
+
+~
+
+III
+
+VV
+/
+
+R
+
+IIt~
+
+./
+
+.'5
+
+I
+
+I
+
+V(
+
+~l7
+
+~ I--V
+
+t
+
+a
+
+~
+
+V
+
+.Jr\
+
+A~
+
+~
+
+~
+t4 ~
+
+W
+
+~
+
+l::
+
+10
+"
+i
+
+f
+
+I If'
+
+\
+
+ZO
+~z,
+
+I'
+
+: i
+
+,,3, )
+
+"
+
+...
+..,
+
+I
+
+1\
+
+<;:
+
+~
+
+~
+
+!
+
+~' .
+
+\
+
+~
+
+MO$S Flow Of Ai,.-lbS.!Jq
+
+1-
+
+~
+
+Z8
+
+I
+
+..
+~
+
+F~
+
+a ..
+
+~
+
+!
+
+...,
+
+\
+
+t
+
+~
+...
+
+109
+
+I
+
+,.,
+
+l6
+• "\
+
+[
+
+I'----- I-
+
+.. ': ' I
+
+' - 66 Z % rr~eor"o
+1l.2 los ~mpry
+Z 6 lOS woter
+
+"
+
+t
+
+'6
+
+II
+
+SO
+
+,
+
+47.lJ .,.-.
+
+t:
+
+.
+
+/
+
+>
+yip
+
+.
+
+~51 7
+
+~
+
+~" /
+
+,
+
+..
+"
+
+l
+
+!
+
+..
+
+,
+
+~
+
+zo '<
+
+-=
+
+\1/
+
+4
+
+Z.
+
+!,lofNo 8
+
+jl~r:~
+
+""-
+
+&
+
+~
+
+~
+
+~
+
+/
+
+IX'
+
+~
+
+~
+
+<>
+
+/
+
+a
+
+~ 71
+
+t
+
+~
+~
+; ~4 ~
+
+/
+
+.j
+
+!l.
+
+.s
+
+~
+
+II
+
+1/
+
+17 71bs ~mpty
+7 Z los wafer
+
+~6 7
+
+Fr~e A,r Sp~t!d ... rnt / hr
+
+100
+
+SO
+
+,
+
+71
+
+to
+
+~ 60
+c:
+~
+
+AIr .JP~M"
+SO
+
+f'T71 /
+
+, ---
+
+. ...,..
+A-9
+
+,I'
+
+373.sQ f'I surf'ocfO
+477~od"recf .,
+66.8 70 I're~ area
+10 0 Ibs empty
+.3. 2 los waler
+
+'<540
+
+},JO
+~
+
+i~
+
+iY
+
+li
+
+~
+
+1--::::: I-- ~ ~
+
+f.' V
+
+1Irt/
+V
+
+Z
+
+.) 0
+
+Pl ot No 10
+
+~
+
+Q
+
+~
+
+"
+
+/
+
+IZ
+
+1/
+
+/ r\.:: ~
+
+~ 10
+
+~
+,.,
+
+20 '<
+
+,6 ~
+
+/
+
+~
+
+~
+
+8 ~
+
+~
+
+'Z ,-(
+............
+V
+~&
+r-
+
+4
+6
+8
+Moss Flow of' AIr z los / sq J'l / .s~c
+
+~
+
+l:'
+.....
+
+V
+
+"j
+
+,/
+0
+
+~
+'<
+
+~
+
+~
+<>
+
+1
+
+II
+
+\ 1/
+,/ 1\
+
+~
+
+V
+
+V 1
+
+/
+
+\
+
+1
+
+:::
+~
+
+Z4
+
+V
+
+~
+'I:
+
+i
+
+/
+
+-=
+
+\
+
+!
+
+~zo
+
+Z8
+Iz
+
+Z.Y~md{'~p
+
+~ SO
+
+%
+
+hr
+100
+
+~
+
+4- ~
+
+~
+o
+
+10
+
+I:Q
+t;l
+
+~
+t::J
+H
+
+Ul
+Ul
+H
+
+~
+
+o
+
+~
+
+~
+
+t::J
+
+o
+
+H
+
+I:Q
+
+t;l
+Tree A Ir Spec-d
+50
+
+"~
+
+~
+
+~
+
+.
+
+~
+
+-,.--
+
+0
+7j'}f-
+
+f---
+
+t:
+
+~601
+
+A- I Z
+
+3;4';Q~i.e:urlace f-
+
+4(),6 %dti?cf •
+69.2 % frt¥or<'C I146 IDS, fOr71pfy
+3 0 los. wot~r
+
+•
+
+~
+
+~
+~S.
+l::
+
+1\
+
+0
+
+~4''0
+
+1
+\
+
+i
+
+'<.
+
+/
+
+Q'
+
+~
+
+f
+10
+
+1/
+
+~
+
+~
+~
+
+V
+
+-- ~+-
+
+Plc f Ha.1I
+
+Z
+
+t~/
+
+)
+
+; ~4
+
+f--
+
+/
+
+4
+
+~
+
+70
+
+~
+l::
+
+~
+
+I
+
+~60
+
+.50
+
+,
+
+-,~
+
+~
+
+t!
+
+~4,or--
+
+/ '6
+t
+
+~
+
+~
+~
+
+51
+
+.... J a
+
+~
+
+•
+
+"
+~
+
+\oj
+
+~
+
+f--f--
+
+r-t--
+
+Mtls.3 Flo w orAlr " I()s./.sq. FI/S~C
+
+~
+
+~
+
+~
+
+/
+
+10
+
+.-I---
+
+4 "
+
+~
+
+o
+
+--
+
+I-
+
+\
+
+-
+
+~
+
+8 tl
+~
+
+-=
+
+'O;-lO
+
+)- ,
+
+'
+i"
+
+-
+
+~/I 1
+
+<'\
+
+(~
+
+f
+
+I-----
+
+~
+
+tS a
+
+.::::.
+
+P/otNo IZ
+
+t
+
+\
+
+~
+
+V
+
+L::
+
+Z
+
+i - 1----
+
+/
+./
+
+0_
+
+I;~
+
+~-
+
+P
+
+~I 4
+
+V
+"b-<:::
+
+.;Y
+6
+
+~
+
+~6 0
+
+R
+
+~
+'ii
+
+~
+
+~
+
+lIt6
+
+~
+~
+
+~
+...
+
+~
+
+8
+Mas.; Flow of AIr ' I/)s / sq rt / s t!c .
+
+.....
+~
+
+~
+
+.!1
+~
+
+---r10
+
+}.}.0
+<>
+
+8 •
+
+4-
+
+- o
+
+\
+
+"
+"
+~
+~
+
+"
+l:'
+
+~
+
+<'l
+
+.y
+
+j
+a /
+
+&
+
+~ :/ -::::,~
+.s
+---rI
+
+PIOf N o. IJ
+
+~
+24 ~
+
+~
+
+V
+
+'"V
+
+I"f ~
+
+"-
+
+!
+Ul
+
+o
+
+~
+
+b:l
+
+ZO¥
+
+~
+
+~
+
+/'
+
+.
+~
+
+o ~
+
+'"
+IZ
+
+1/,;°_
+
+.d
+
+:::
+
+=><=a
+
+I
+
+<S/
+
+~
+
+/
+
+/
+
+W
+
+~Zla
+
+'
+i"
+~
+
+/
+~
+
+~
+
+JJ$
+
+1/ /
+
+j
+
+o
+
+Z8
+
+~
+
+/- II
+
+'\
+
+~4 0
+
+~
+
+Vf
+
+\
+
+l~
+
+~
+
+/
+
+P~V
+
+'z
+
+/ V
+L/
+
+\
+
+~Sla
+
+"
+I
+
+/
+
+46.3 :sq /1 ..1urFace
+48 6 % direcl' "
+72 I
+fr~e area
+18.2 IDS f?l?7pty
+3.5 Ibs wafer
+
+t
+
+zo
+: ~
+
+:/
+
+/
+
+.J~/ndfOep
+
+"'0
+
+~
+
+l
+
+/
+
+V
+
+t--
+
+lL
+I
+
+/
+
+--
+
+..
+
+~
+
+~
+
+I' "
+
+1-
+
+~
+
+"
+
+\oj
+
+lU11'
+
+~
+:4 ~
+
+~
+
+~
+
+ISO
+
+A -14
+
+~ 7j0
+
+:::
+
+Free Air Spt'ed, Tnl / hr
+SO
+100
+
+a
+
+l;
+
+8
+
+f-- \.
+
+~
+~S'
+
+'Ii
+~
+
+100
+
+J+'aln deep
+439 sq rt sur/oc e
+SO.} % direct "
+704"i". free or~(J
+II J I/)s ernp' Y
+J llbJ ~'Vo ler
+
+....
+~
+
+/
+r7
+
+-
+
+A - 13
+
+~
+
+1/.z
+
+tJ
+
+a
+i--T
+
+l
+~ .- lO~
+
+/
+
+. . . . .v
+6
+
+~
+
+b-
+
+/
+
+f'---,V
+
+I-!!-'~
+
+~
+
+I;:
+
+7
+
+r(
+~
+
+~
+
+~
+
+~ 0
+
+j
+
+~
+~
+
+liJ
+
+~II
+
+[>(
+
+~
+zo
+~z
+
+II
+
+=-
+
+V
+
+;'..J.
+10
+
+~
+l::
+
+100
+
+,V
+\
+
+rnl/ fl.-
+
+Frr:c Air 5~~d.
+
+hr
+
+Tnl /
+
+\
+
+1
+
+~
+
+c
+
+T T'
+
+I
+
+~
+
+~
+
+o
+
+~
+
+~
+
+S
+
+'Ii!
+8 ~
+~
+
+/
+
+~
+
+~
+
+.:;
+
+4
+
+............
+
+---Q
+
+M ass Flow 01 Alr .:= Ibs / -Sf!
+
+f'I/ .,« '"
+
+a
+
+l
+
+~
+
+<:.n
+
+Fr~c A u- Spe~d ~ rnl / hr
+
+"
+
+0
+
+50
+
+t
+
+~
+
+4Z.7~" d/recl
+
+Q...
+
+~
+
+Free Air
+
+150
+
+A -1.5
+3in deep
+)S:3 $q Il surl cc e
+
+70
+
+'%
+
+100
+
+Z8
+
+/
+
+..
+
+53.00-;-. 're~ a rea
+
+~
+
+Z4"
+
+II
+1\
+
+~
+
+~SO
+~
+~
+..
+
+~ 40
+
+~
+
+..
+
+0
+
+/
+
+,
+
+/
+
+r
+
+1
+
+I/ /
+!to J
+
+1
+\
+
+I::
+
+~
+
+/,;. '~f»j ZO~~~
+rt*
+IY
+Ir
+
+1
+
+\\
+
+'t>
+
+~
+
+I /
+1
+/
+
+\
+
+t
+
+~
+
+/
+
+3.01bs wat~r
+
+~
+
+(
+
+16 ~
+
+,{ "
+~
+
+~ 30
+\
+/
+I
+1./
+
+Il~
+~
+
+~
+
+~zo
+
+~
+
+~
+\Y
+
+~
+
+./1'\."6
+
+f
+
+8 ~
+
+I
+
+;r\/
+
+~
+
+0
+
+~
+
+/
+
+'"
+
+~
+
+t
+W
+V
+R1 0 ' - - - . / "
+,,'
+1<-7
+/"'-
+
+a
+
+4 "
+
+/').--/1
+
+/';'01 ti~ /4
+
+z
+
+•
+
+c
+
+I -~
+
+V,&
+
+t
+.s a -
+
+~
+().
+
+I
+
+4
+
+6
+
+I
+
+6
+
+50
+
+"
+~
+..
+
+701- 4
+
+"
+l::t
+
+I-
+
+t
+
+de~p
+
+60
+
+46 7 % di~ct "
+83.0'7, ;'r<'~ aree 1
+8 9 Ibs emply
+l .!J fOJ waler
+
+1 ·f--
+
+"I
+~
+
+~SO !-
+
+~
+
+~
+
+-
+
+I-
+
+\
+
+\1\
+
+il~
+
+.
+
+-1--1--
+
+~
+~.
+
+1 - 1 - e-
+
+~w
+~
+..
+
+-
+
+--1--1-/.
+
+-
+
+V- "
+~
+
+-
+
+-1- f)...--,...;
+
+16(
+
+~
+
+/
+
+~
+
+t~;lY
+
+" a
+
+z
+
+1
+
+I /!'<!o,./
+~Y-r- ......,·l/
+1
+
+6~'
+
+J!;;~
+
+V
+
+4
+
+6
+
+IZ
+
+_
+
+"r-k::: '
+
+I
+8
+
+Mass rlow oIAtr ../tu!J?H/ .sec
+
+I
+10
+
+,Sf
+..
+
+'¥
+8
+
+/
+
+~O/" r ,
+
+1-_&0
+
+Plc/lVo 17
+
+~
+
+I--tsl--- - l/V . . -: .
+
+~ I--
+
+r
+
+10 -.;
+
+--1----- -
+
+_
+
+f--
+
+.
+
+~ /O
+
+~
+
+<:I
+
+- --r-
+
+'\
+
+~
+
+~
+
+<=
+
+'I
+
+,
+
+~
+
+~2 ~
+
+\
+
+~
+
+<>
+
+Z4 ~
+
+....,'
+L
+
+r
+
+,at!
+
+10... JO
+
+0:>
+
+'1
+
+!
+
+•
+
+1\
+
+f--
+
+~
+
+~
+
+~.54?
+
+i
+
+~
+~
+~
+~
+
+~
+
+4
+
+~O
+
+~
+
+\
+
+~
+~
+.,.
+
+~
+
+0/
+
+>'K..,
+~!;VV
+
+~
+
+''l":
+
+o~V ·
+
+Z
+
+4
+
+S 10
+~
+
+\
+
+L
+
+~
+
+10
+
+;
+
+~
+
+~~
+
+/
+
+~
+
+,~
+
+\
+
+>::
+
+~
+~
+
+t
+
+10
+~40
+
+~
+
+,
+
+'/
+
+1)<
+
+[l:
+
+r
+
+0
+
+W
+
+~
+
+/
+
+~
+
+.~
+
+/
+
+ZO~
+
+,
+~
+
+o
+~
+16 ::!
+
+z
+
+Z
+Z
+
+~
+
+I-d
+
+~
+
+~
+~
+
+/
+
+v
+
+....0 ....
+·
+
+tI~·
+
+~
+
+~V
+
+" t
+~
+
+l!!
+
+r--- t-
+
+I~V
+
+0
+FfofNo.l6
+
+Il>
+
+/L ~
+
+I
+
+\
+
+.W
+
+'"
+
+/
+
+~
+"t>
+
+~
+
+/
+/1\
+
+'t:
+
+24
+
+V
+
+\ /
+
+l'
+"ll
+-.;
+
+~
+
+V
+1/ /
+1\
+
+Cj)
+
+<;;
+
+T
+
+\
+
+I-'
+
+~
+
+Jr
+
+Q
+~5i
+
+0:>
+~Zl0
+
+Z8
+
+-=
+
+.~
+
+4
+6
+B
+10
+Mass Flow of AIr - Ibs / S'l.I'f./ se c
+
+F~~ I/Ir
+
+4~
+~
+
+o
+
+t=J
+
+o
+
+~
+Z
+
+~
+.....
+
+o
+Z
+
+~
+~
+-<
+....
+
+~
+
+"
+"
+!l"
+
+tq~
+
+l
+~
+
+~
+
+16 ~
+
+{1
+
+60
+
+/
+
+1\
+
+~
+.,
+
+V
+
+\
+
+i;
+
+.
+
+~50
+
+l:
+~
+<>40
+~
+
+1
+\
+\/
+
+~
+12 it:
+
+~
+
+~
+
+"
+
+~
+
+~
+
+~
+
+~ZO
+:t:
+
+~
+
+~
+~
+
+~
+
+8
+
+1'-.-". /
+
+/ l~rzl?lL
+V
+_____
+
+.">
+~
+
+4
+
+~
+
+"
+10
+
+o
+
+~
+
+~
+
+~
+
+r /,
+
+~.:i ~
+
+,
+~
+
+~
+
+~
+/6 "
+~
+1
+
+I Z"
+
+I/
+
+~.~V
+
+~
+
+4
+
+'"
+
+'"
+~
+~
+
+1/
+
+~
+
+8 t
+
+~
+
+~
+~
+
+t'-.../
+V'
+
+~7
+
+f-tJ/
+t / __V
+.!
+
+.
+"!:
+
+1 / -
+
+,/?/
+
+'" rola/No l !!
+0
+
+t
+
+l4~.
+
+/
+
+II KO.........
+~'
+
+~
+
+.,
+
+-=
+
+/
+
+I ~
+
+I
+
+/
+
+~!,
+
+/
+
+1\
+
+1(;7
+I
+
+~
+
+<:::
+<-
+
+~
+
+/
+
+11\\
+
+f~
+
+;
+
+~ 10
+
+~~
+
+o
+Z8
+
+0
+
+_
+L
+
+',~'I
+
+;:-.30
+
+1
+
+I
+
+'l:
+
+I
+
+V
+
+/bs. empfy
+5. 4 I b5. woi'l!r
+
+ZZ .~
+
+~
+
+.
+
+L
+
+66.9~0J'll!l!oreo
+
+~
+
+o
+
+150
+
+I
+
+S In."d~ep
+66.8 sq-F15ur!QCe
+SZ.I %direcl' ,.
+
+70
+
+~
+~
+
+~
+
+100
+
+A-20
+
+<>
+
+~
+
+21J
+
+~
+
+Speed. mi / hr.
+
+50
+
+0
+
+~
+
+!:
+
+V
+
+&- If&'
+V_l-"
+t
+6
+8
+.s 0Plol No.l tJ 2 Moss F"4 oI'Air. /bs/.sq fl/~C .
+low
+
+~
+
+~
+
+20~
+
+I\. /
+
+r/'/
+
+\
+
+~
+
+"
+:5
+
+o
+
+~
+
+/
+
+..1\
+
+J
+
+~2
+
+'I
+
+Z
+
+/
+
+15.8 (b$. etT7,o fy
+3 . a /bs. ~'"/arer
+
+I
+
+I
+
+o
+
+V-L
+
+1
+/
+
+1
+\
+
+~40
+
+~ 10
+
+m
+
+4 ~
+
+!
+
+V
+
+\
+
+~
+
+V
+"~
+
+i--
+
+~ II--/-A-~
+
+i!
+....
+
+~
+>:;
+
+-----
+
+t',/
+
+\
+
+'"
+"t
+
+~60
+
+~
+~
+
+.~
+
+7
+
+~
+
+1
+\
+
+47.1 Sf}.ff. surface
+
+~O
+}3
+
+~
+~
+
+8
+
+- " -
+
+in deep
+
+43.5"'0 d lrecf "
+7 Z./ '?1. . rree area -
+
+0:>
+
+~
+
+67 7 'Yo ~r~e ar~o
+1.3 . 81bs empl'y
+3 . llbs water
+
+~
+
+it:
+
+12
+
+100
+
+A-ffl
+
+~ ;0
+
+20
+
+./
+
+1
+
+50
+
+1
+tl
+.,;
+",s,
+"
+
+"
+~
+;::
+
+{!
+
+Fr~i! AirSpeed-ml./l7r.
+
+, ~~~ ~~% surJ'ace
+86 ..9 o.?'o o'i~cI ..
+
+~60
+
+~
+
+(6
+
+8 ~
+
+~O~/-1
+
+6
+
+~
+
+4
+
+~
+
+Mass Flow of AIr. Ibs / sq rf / sec
+
+a
+
+,(J
+
+~
+
+"
+;,.
+~
+,
+
+~~
+<
+
+V __ ~ ~
+0
+
+Q.
+
+l!
+
+~
+
+V[ II
+
+I/'
+
+..;!..ZI 1
+
+#
+
+~
+
+I -f -
+
+1/ j
+
+V
+
+~3 ?
+
+.~ I 1
+
+::::
+Z..; ~
+
+./
+
+~
+
+~
+
+1- -
+
+I
+
+A -/7
+
+~ ?
+071
+
+28
+
+zo~
+
+\
+
+>::
+
+I-- I--
+
+~q .f r- f-,.J
+~
+
+~
+
+~
+
+l§§~j
+j (-~".
+
+Free AIi-SpLed1m'/hr.
+50
+loo
+
+0
+
+~
+
+r-
+
+~ 1
+040
+
+">
+
+it:
+
+n!R~
+, I
+
+I-
+
+\\
+
+"
+
+~ 7,
+
+18
+
+' .
+
+~
+~
+
+'I:i
+
+I
+I
+
+zz 6 sq.FlsurF
+ace
+
+~
+
+i
+
+trl
+
+1-
+
+\
+
+<; -
+
+~
+
+1 "1 '
+
+16
+
+{)!3 8 % Fr~e ort!o
+IZ //b$ t!rnpry
+Z.4/b$. wal'er
+
+FlofNolS
+
+101!
+
+A-18
+
+~
+
+~
+1!6 ?
+
+"
+oS
+
+0
+
+IOJ/ ~ f't / ,sec.
+
+'ref! AIr S/>i!~d .. ml./ hr
+
+Q
+
+-
+
+>:;
+
+m,/hr
+I()I}
+
+~j.~ '!fo '!J/~{ra.;e
+
+~
+
+I
+
+10
+
+8
+
+MoS5 Flow 01 Air
+
+I
+
+A
+
+~7' 1! - 3 1n deep
+~
+
+~pd.
+
+SO
+
+-e
+
+\o'j
+
+~rnpfy
+
+12 I lo s
+
+~60
+
+o
+
+~
+
+4
+
+r6
+
+8
+
+Moss now oflIir-Ibs / sq (1/su
+
+10
+
+o
+
+~
+
+.~
+
+~
+.....
+
+~
+
+t=J
+I:J
+
+o
+
+~
+
+~
+~
+
+o
+Z
+
+~
+
+1-:3
+
+.....
+o
+V1
+
+•
+
+F~l'Alr S~ed. rnl / hr
+
+~
+
+0
+
+~
+
+50
+
+.....
+
+1
+
+A - ZI
+
+~
+
+1r- ~/:; :;1f;urtace t-
+
+~71
+~
+
+136. 0;'.. dlr~cf ..
+65.6 '7'0 i'rt'eoreo I
+
+~
+~
+
+~ ~ o
+~ ~6,
+
+S .:3 Ibs. empfy
+
+3 .5 Ibs. waf"r
+
+I'
+
+"\)
+
+1
+
+a~
+
+<..:>
+
+~
+
+.;.
+
+\
+
+....
+
+Q4()
+
+~
+
+"'
+~ZO
+;::
+
+\
+
+I
+,
+
+~
+
+O\~V
+
+i~
+
+t~'V7
+
+~/O
+
+I/'
+
+~
+
+"
+r
+
+~
+
+V
+
+z
+
+Il ~
+
+Si"
+
+'\ V....
+
+•V
+
+I.b' ·
+
+I -~
+
+~
+
+L
+
+/
+~
+
+~
+
+~
+
+V lL
+
+II'~
+
+./
+0
+ProrNoZO
+
+~
+
+~
+
+'
+II,6
+
+/
+
+~
+
+Ll
+
+}JO
+
+~
+
+/
+
+\
+
+~
+
+'<
+
+L
+
+~
+I::
+
+~
+
+~
+
+~ /
+
+V
+
+~
+
+8
+
+L
+
+~
+4"
+
+f'-.. t--
+
+~
+
+4
+6
+8
+MaJS rlowol Alr.,bs'/s~" /s<'c.
+
+o
+
+10
+
+'1'1 l ' . ,
+
+91./7od,rt!!c/ ..
+66.6'"70 I'r(*~dr~o
+IZ . Slb.J empty
+
+r-
+
+!l-
+
+4 3 1b., waler
+
+1
+
+\
+
+~ 4()
+Q
+
+1/
+/
+
+I
+
+~
+
+\ L
+
+~ 317
+l!l
+
+.z
+:::
+.,.
+
+i'
+
+~Z.0,
+
+\
+
+I
+
+JI
+
+~
+
+r
+
+~
+
+~ I7
+
+~
+
+.i,t
+
+:/
+
+: .r ~
+
+1
+
+,J
+
+,
+
+I
+
+Z:::
+
+st
+
+/
+
+1""- lL
+
+~~y
+
+J
+
+B
+
+~
+o
+
+V
+
+~
+
+~
+
+i:
+
+~
+
+~4()
+~
+
+/
+
+Ii
+
+~
+
+-y
+
+~30
+
+~
+
+...
+>::
+
+~
+
+I
+
+\
+
+~517
+
+~ZO
+
+~
+
+~
+
+V
+
+I
+
+.a lO
+~
+
+~
+
+r~
+-5
+
+/
+
+V
+1/
+
+~~ V
+
+Z
+
+4
+
+"
+'"
+~
+~
+
+Z4 {}
+
+1
+
+~
+~
+
+20'<
+
+~
+
+"
+~
+16 t
+~
+
+IZ ~
+
+~
+
+~ ,f
+
+-=
+
+-,;~
+
+8 ~
+
+/
+
+><
+
+I::
+
+~
+.~
+
+~
+4'1:
+
+--
+
+B
+
+6
+
+Moss Flow 01 AIr
+
+Plot /'110 ZZ
+
+ZIl
+
+1$
+
+0:"",
+
+tl/
+
+/
+
+I
+
+I
+
+I/"-;
+
+II~
+
+/
+
+/
+
+\
+
+I--'
+~ ~l -
+
+0
+
+/
+/
+
+1\
+
+lL
+
+i
+
+V
+
+/
+
+1
+
+~
+
+.~
+
+~
+
+~
+
+4'\:)
+
+10
+
+~ 60:
+1
+
+V
+
+3/8 .,.... d,r('cr ..
+68 .6 '7<> free orea
+15.61bs t!n?p!y
+6..3 Ib.s wafer
+
+~
+
+~
+
+r-- bJ
+
+~
+
+~
+~
+~
+
+4
+6
+B
+/'1oss nowofAlr-lbs /sq II/sec.
+
+FlolNoZl
+
+~
+
+>:
+
+/
+
+SIn deep
+S4S 5q It surFace
+
+~
+
+'<
+
+/
+
+N
+
+~t-V
+0
+
+Vi
+
+II
+
+L
+
+~
+
+t",
+10 <
+
+V II
+
+\
+
+~
+
+~
+
+I
+
+A - Z3
+7. 7
+
+~
+
+. '"
+~
+
+~I
+
+-=
+
+~
+
+t
+~
+
+:::
+
+~/f -
+
+~50
+,
+
+~
+
+jV. :4 ~
+
+Free AIr 5pe-ed'!: 1"11/ hr
+50
+100
+
+...
+
+~
+
+ZIl
+
+Eb
+
+~
+
+ZO~
+
+1
+
+t
+
+~
+~6
+
+~
+
+J
+
+~
+
+~
+
+lL
+
+-<==
+
+~
+
+~
+
+100
+
+A -ZZ
+
+~
+
+Z4
+
+50
+
+,
+
+!~n5-;~~surfacet-
+
+70
+
+k
+
+'>
+
+/
+
+rio'
+
+-.!
+
+~
+
+~
+
+Iz
+ZIl
+
+\
+
+.~
+~ ~ ,0
+>::5,
+
+0 -.
+
+~
+
+,...c..l_
+
+.1
+
+I
+
+Frt?f! Air Speed .. n71 / hr
+
+100
+
+~
+~
+
+o
+
+10
+
+t:I1
+t::J
+
+~
+
+~
+
+rn
+H
+rtl
+
+~
+
+o
+
+~
+
+~
+
+t:1
+
+o
+t:I1
+
+H
+
+• Ills / sq rI / sec
+
+t::J
+
+Frt!!t!! A,r .5pt!!~d. rnl/ h,.
+
+"Ii
+
+50
+
+~
+
+70 r--
+
+~
+
+r-
+
+B-1
+
+~
+
+~
+~ 60
+
+100
+
+"1'] '
+
+0
+
+1-'
+
+~1,; ';,11::r{oc<,I-I---lI-[-I--t--l--+--
+
+37$ --;.. dlrecl ... -
+
+iS
+
+.
+
+_L
+"/0<
+
+~ 50
+
+1
+~4Q
+
+T
+
+F~
+
+1\
+\
+
+.,;
+
+.
+
+~
+~
+
+11--+--+- Z4~
+ZO
+
+~
+
+\
+
+30
+
+~
+
+11
+\
+
+~ t-f-
+
+a /0
+i1
+
+c>
+,..,
+!?'
+
+~
+
+1\ ./~"""'7
+
+y/,,\V
+h~V
+tS V~~
+
+f-~.
+
+~
+
+~V
+
+z
+
+4
+110:S$ now
+
+6
+at.4lr. /AJ
+
+16
+
+8
+
+IZ'l:
+
+~
+
+t
+~
+
+8
+
+~4
+
+/0
+
+.:/
+
+o
+
+.
+
+,--
+
+hr
+
+28~
+
+36 I sq N
+
+~urloc(!
+346%dJr~l ..
+
+,
+"
+~61
+
+10 7/D:S t'/'71ply
+
+o 63 10$ wQ/~r
+
+\
+
+1Sj
+~
+
+~
+~
+~
+
+~
+
+~
+
+--
+
+20
+
+lL,
+/
+
+o
+
+1
+_
+\
+
+} 311
+
+\
+
+C)
+
+~
+
+~
+
+~ZO
+~
+
+~
+
+./
+
+oy
+~V
+
+,.6 ~
+
+<>
+
+~
+
+~
+
+\
+
+~
+
+~
+:; 10
+
+..,
+
+\
+
+~
+
+'<;41 7
+
+i
+
+~
+
+Z'1-~
+
+~ ;' ~
+
+1
+\
+
+~
+
+~
+
+r~.;
+
+~
+
+V
+0
+2
+I'lolNo24
+
+~
+4
+
+./
+
+V
+
+V
+
+<V L
+~
+
+--
+
+6
+
+V
+
+~
+
+Q
+
+~
+
+'6
+
+~
+
+l;:
+
+,
+
+zl
+~
+~
+
+L
+
+,.::::::::,
+
+;><.
+
+L
+
+~
+<I<
+
+4"\)
+~
+
+I- t=
+
+(!
+
+Moss Flow 01 A,r .. IDS /Sq
+
+1'1/sec
+
+~
+.:s 7j1f-
+
+~
+~
+
+I---
+
+/0
+
+~
+
+26.13 :sq.l'1 sur/ace
+~ ..3lbs.empry
+
+2 .0 IDS.
+
+o
+
+water
+
+\
+
+'Ii
+
+~5' 7
+
+o
+
+I
+I-
+
+1\
+
+1
+~
+
+~
+.... )
+Q4,
+
+I
+
+1
+
+ZO"
+
+~
+
+li ll,d
+>:
+
+1\
+...-t'
+
+!tZO
+
+V
+
+~
+~
+
+~
+
+~O
+
+~
+
+~
+
+~
+
+..
+
+~
+
+~ ;:~
+
+JO
+
+~
+
+Sl'
+
+~
+
+\
+
+~
+
+Oi~
+
+V
+
+Plot No. Z5
+
+I~
+V
+Z
+
+<::
+
+Z4~
+
+1
+\
+
+~
+
+~
+~
+a10
+
+Z8
+
+'\
+
+~
+
+~
+
+I
+
+B-3
+5e.6 '70 dlr«f ..
+7~ 6 ,.. "rel! area
+..
+
+;g
+
+.-
+
+/00
+
+3m.deep
+
+~6 1
+
+~
+
+~
+
+AIr Speed _ nll / hr
+
+SO
+
+.~
+
+V
+
+8 ~
+'
+
+&
+
+/
+
+0
+
+•
+
+lOll
+
+711f- 4 1ndeep
+
+I--- IJtJ 0 '70 ke~ ort!!o
+
+Fr(!~
+
+'ll
+
+8-2
+
+~
+
+.
+"
+
+~
+
+rT11 /
+
+.~
+
+~t<~
+
+/.sq" /s~c
+
+~
+
+~
+
+~
+
+~~~~
+0
+FlofNo l:J
+
+~
+,
+~
+
+~
+
+'\:-
+
+~
+
+II---!---+-
+
+<===
+
+~
+
+~ZO
+
+Q
+
+~
+
+I
+
+\
+
+>::
+
+i'"
+
+Z8
+
+B3. 67.J'r"or~ol- ~.
+
+~'bi~:$ e:;;~>;.
+
+~
+
+-,
+
+-
+
+"r(!~ Air s.o~~d
+50
+
+V
+
+.,0 ~~
+p
+
+V
+
+V
+
+V
+
+L
+
+/
+(...--- V ,
+'z ~
+~
+
+~~ V
+
+o
+
+I=J
+
+~
+
+o
+
+~
+
+~
+
+"'~ . /
+/p>< t---
+
+46
+B
+/>faJJ Flow 01A,r ~ IbJ / ~q II / s~c
+
+~
+
+rn
+
+Il ~
+
+"'/
+
+/
+
+rtl
+t::J
+
+/
+
+V
+
+--
+
+.10
+
+"
+~
+~
+
+4~
+~
+
+-{:
+
+.....
+
+~
+
+F"n!';'''';- Sp~tI, ".u:~:;
+
+o
+
+l
+
+~70 -
+
+•
+
+~
+
+r
+
+~
+
+t
+
+.t6O
+
+8 - 4J~ in. d~~p
+
+.37. ·z~ttsllr/oce
+
+1
+
+:{
+
+~
+
+~40
+
+II
+
+~
+. ",
+
+1L
+
+I
+
+~30
+
+%
+...
+
+~
+~
+{
+
+\~
+
+1:~
+
+oS o
+
+f
+
+~
+
+z
+
+~
+
+6
+
+4-
+
+"7
+
+.(! 70 f- 45.~sq.'t.Sllr/
+4d ..ep
+\,)
+qce fIl.:
+Z7.lJ%d/recl ..
+770'7.t"r<!eoreo
+10 .7 flu. t'l77ply
+
+.. ',
+
+.~
+
+<I!
+
+4"
+
+•
+:I:
+
+'10
+
+o
+
+f-
+
+(.:
+
+~40
+
+J
+
+q"
+
+Z4"
+~
+
+/
+
+~
+
+m~
+
+t
+
+~
+
+~
+
+Iv
+
+16
+
+/7
+
+,,30
+~
+
+V./ '7j
+
+.V,\
+
+·J.
+
+~. .-'.(~W
+,
+
+~
+
+17
+II
+
+\
+
+.
+
+l'
+
+~
+
+/
+
+~
+
+,\
+
+~
+
+~
+
+t-
+
+L r.. I
+
+~
+
+~ZO
+
+ZI!:<.
+~
+().
+
+/
+
+. )
+
+\
+
+~
+
+~.
+
+~. 17
+
+W
+
+~
+~
+
+S .S /bs. t!'/T1pfy
+
+\
+
+.~
+
+~
+~
+
+_'--
+
+~
+
+· ..
+
+-1
+
+Z4 ~
+
+~~
+
+::'
+:
+
+...
+
+~
+
+~
+
+~
+o
+,
+..,
+
+'.',
+
+L zo '"
+/
+
+i'
+~J
+
+'l
+
+~
+
+i
+
+~
+
+~
+:-: 30
+
+~
+
+\
+
+Ii-
+
+~
+
+. ~~V
+~p
+/
+J.<I
+I/ o~V ~
+
+~
+
+~
+
+~/O
+
+tfl
+
+V
+
+~
+24-
+
+0
+Fiol No. Z7
+
+16
+
+"
+~
+
+......
+
+V
+
+~
+
+~
+
+I! •
+
+!:
+
+/
+
+/
+
+VI>r----
+
+6
+
+~
+
+1Z't-
+
+·c
+
+~r:::::::
+
+fu.
+
+<i
+
+t
+.s
+
+/
+
+t".
+
+":::"ZO I
+
+~
+
+li
+
+\
+
+l
+
+":::
+
+!
+
+.L
+
+'t
+
+~o
+~ 4,
+
+;::
+
+.. c.:,
+
+\
+
+~ SO
+
+ZI!
+
+t
+
+~
+
+.~
+
+~
+
+~
+
+~74
+
+~
+>::
+
+8
+
+sa
+
+0
+
+t
+"
+~
+
+S~
+
+In deep
+
+~70 f- 56.lsqf'tsur/'"oce
+
+"-
+
+30...3 '% d/rt!c/ "
+
+~
+... I
+040
+
+4 . Z //.)~ waler
+
+~ .5j I
+
+~
+
+~ 40
+
+~
+
+,.,
+
+1 /
+
+/
+
+1/
+
+8
+
+~,/
+
+vi'--. b::,
+.~
+
+~
+-::::~1-13'1
+..so
+Z
+46
+tJ
+. t'fofHo.Z!J
+Moss f"lowofAir.'bs! sq.ft.1 sec
+
+4
+
+10
+
+o
+
+~
+~
+
+~
+"
+1
+~
+
+~
+
+'"
+
+~J )
+
+~
+
+1/
+
+"
+i
+
+~ 10
+
+~
+
+~
+
+~
+
+Iii 0
+
+'v~'/
+I
+
+b
+
+/
+
+V'
+
+'i''Y
+
+A
+,. ~~~
+
+Plol #0.30
+
+4-
+
+~
+
+20 ~
+
+o
+~
+
+I
+
+""
+z~
+
+,
+
+~
+
+.L
+
+.
+'i
+
+'I
+
+~/
+
+"
+
+/
+
+I~ I--- V
+Z
+
+o
+
+~
+
+,I~ \ I
+
+~zo
+0.;
+
+/"
+
+II
+
+/
+
+~
+
+L
+
+16 ~
+
+bY II
+
+~
+
+Z4 i
+
+jV
+
+\
+\
+
+I
+
+~
+
+6
+
+"l
+
+/"\
+
+~
+
+i
+
+!!.IO
+
+~
+
+)
+
+~
+
+b-IJ
+
+~
+
+r-
+
+Moss rlow 01 Air - Ib:s / ~9- fl./ sec
+
+o
+
+V
+
+4
+
+~
+
+8
+
+L
+
+6
+
+IJ
+
+&
+
+"
+
+~
+
+~
+
+4- ~
+
+.,-::::V r---- 1=
+
+~
+
+10
+
+rr~~ Air Spetld .
+.Jd
+
+~
+
+~
+
+'~6 ~~~ :;'dI~~
+
+i
+
+150
+
+100
+
+l8 ~
+
+~
+
+,
+
+~ JO,I--II--\f.--+--+--l---~
+
+~
+
+16
+
+~~o,I-I-I--+~~--+--l----~-P.~-
+
+~
+
+H
+r~
+.
+
+.0
+
+~t(
+
+"
+
+1!
+,
+
+/
+
+IX
+
+to#-
+
+<:.
+
+'"
+
+~
+
+4
+
+J3lotN.o.JI.
+
+•
+
+I
+
+V
+
+[7
+
+/ 1
+6
+
+~
+
+~
+
+~
+IZ~
+
+IL
+II
+
+~
+
+"l
+
+•
+
+,L--+-f--l 8 ~
+
+/
+
+.':1
+
+~
+
+.~
+
+1--:::::~.ftF'
+Z
+
+f
+
+IoJO
+
+~
+I
+
+~A
+~
+
+.V
+
+~~
+
+V'
+
+~
+
+o
+
+~
+
+~
+
+r-+8
+
+/"1oss rto w of Ai r .lbS/,jq.II./s~c
+
+4
+
+~
+
+~
+
+I I I
+r
+
+~
+
+~
+......
+
+bj
+
+~
+
+~
+
+~
+
+~
+
+tj
+
+t
+..,
+
+'0 .;
+
+1;
+
+\ 1
+/
+
+~
+
+'"'
+
+Q
+
+~
+
+t::J
+f"d
+
+o
+
+...
+
+~
+
+1!
+~
+
+.~
+
+~
+
+:d
+
+o
+o
+
+1
+
+~
+
+I(JO
+
+~
+
+i;I:j
+~
+
+mil hr.
+
+~:~to±t
+
+g~} ~~;;;~r;a
+
+~
+~
+
+q
+
+rg
+
+I
+
+.J Yz in deep
+J6.2sqft.wrlt7ce
+
+~
+
+~
+.....
+
+o
+
+Moss rlo woFAlr -/bs'; 59ft/ sec,
+
+Cj - $
+
+l6Q
+
+'z ~
+.;.
+
+~
+~
+
+I~ .
+
+~~r---
+
+Q
+
+~ .,.
+
+(
+
+16 ~
+
+/
+
+~
+
+V
+
+~
+
+§
+
+I
+
+~
+
+/
+
+Z
+
+~/9
+
+4 "
+
+10
+
+~
+
+~
+
+...:;;~
+
+0
+
+"
+~
+
+.~
+
+20 ~
+
+/~ / '
+
+~ZO
+
+~
+
+IL
+
+~
+
+.L
+.L
+
+~ L3.
+
+~
+~
+
+~lO
+.
+
+8 ~
+
+~
+
+~
+
+~ y-
+
+3,
+30
+
+'<:
+
+~
+
+~
+
+IL
+
+V
+
+1
+\
+
+~
+
+~
+
+~; ~
+-=
+
+\
+
+l
+~
+"
+...
+
+.
+
+:,
+
+/ ':'.!3 los. ~n?.oly
+
+I
+
+_
+\
+
+~
+
+.~
+
+-,;
+
+...
+
+~
+
+. 1"
+
+j
+
+~
+
+00
+
+24~
+
+~
+
+~
+
+ZlJ ~
+
+~
+
+<:
+
+<3
+
+Q.".
+r
+
+Z8~
+
+~¢I
+~
+
+l'
+
+" "
+
+:'.
+
+\
+
+'"
+
+~
+
+150
+
+7"-" -1-'
+
+.' •
+
+j
+
+Plol NO. Z8
+
+I: /
+::;'
+.;
+
+7.3. 37.I"~qr~o
+
+J-
+
+. ~ 60
+
+IIJO
+
+..
+
+tJ-tJ
+
+---j
+
+(J .B I/)s .empfy
+1.7Ib:J. water
+
+,,5,
+.
+
+1
+
+.l.J..J.
+
+u.,~_, .
+7!J O'?'oI'r~oreo
+
+~
+"-
+
+.~
+
+o
+
+10
+
+Moss Flow of' A ir - 165'; sq. f l /~~C.
+
+r--
+
+~6O
+)
+.~
+
+4"\)
+
+_
+
+1J
+
+8 - 6
+
+.3~ in. det!p
+I t - - 37.3sqfl.surFoce
+
+~
+
+t
+
+F~~AIi-S~ . rnl/ hr.
+SO .
+100
+
+0
+
+~
+o
+
+1
+
+~r
+
+I--
+
+1.0 10 waler
+
+•
+
+<::
+
+12 ..
+
+!
+f\,.,.
+
+I
+
+81. 2. '7ol'"reeoreo I-
+
+ll60
+
+~
+
+: :
+
+rq
+
+~ ff:!i?:;:;f:'
+
+~
+
+100
+
+I I
+
+tJ -s
+
+r-
+
+'"1/ hr
+
+rref! Air .5petod • m I. / hr.
+
+~~.
+
+~
+
+<'l
+
+~
+
+..
+
+" \
+
+1
+
+~
+
+8
+
+:'
+
+\
+
+1.
+
+'0
+
+':;8 ,
+~
+
+70
+
+'"
+"
+~
+
+$'1JI:/ sec
+
+t":
+
+Z ..3/os, w a fer
+
+." 0
+.~
+
+.l.
+
+:.:
+
+rrt'P A,r Speed .. 1771./ hr.
+50
+IfXJ
+
+8 - 7
+
+f-
+
+~
+
+16
+
+V
+
+V
+
+Mass Flow ol'Alr :10.5. /
+
+0
+
+~
+
+~
+~
+
+/
+
+~~2 v I. . . . . . t:::::
+~'
+
+~
+
+"6
+
+"
+
+ZO~
+
+/
+
+V
+
+r-~
+~!:::::::t---'
+
+~
+
+>::
+
+~
+
+IZ ~
+
+Il'§>~
+
+6b ~v
+
+rtofNaZ6
+
+1
+
+L
+
+-"'" L
+
+r-- f'v<fL
+
+~
+
+~
+
+~
+
+~
+
+I!'
+
+<;>'
+
+za
+
+to
+,.,
+
+L
+
+,
+
+Z4 ~
+
+Ii
+
+rL
+V
+
+V"
+
+L
+
+"
+
+Lf/
+
+SO
+
+~
+
+i
+
+28
+
+..:
+.;.
+
+/
+
+j
+
+~
+
+~
+
+L
+
+-=
+
+1
+
+~ SO
+
+1
+
+i*
+
+28.0 omi?!cl 7 Z. 7 '70 I'rt¥ ar(!'o IIZ ...3 lbs. emp/y
+Z . II/).1. wol'/!'r
+
+~
+
+'i::
+
+.1
+
+-
+
+Free AIr Sp~t'd.
+
+1
+
+~
+
+~
+~
+i;I:j
+
+o
+
+~
+
+d
+......
+'"'
+@
+
+)
+
+Tn!'f1 Air
+
+~
+
+" a
+~
+~70
+
+'l:
+
+J
+
+\
+
+:<i
+
+~
+
+~
+~
+1:40
+
+\
+
+~O
+
+•
+
+~
+
+"
+oS
+
+0
+
+Z
+
+g 7j'f-
+
+~6
+
+50
+
+a
+
+4
+
+,
+
+13
+
+•
+~
+
+~ 340
+>::
+
+8 ~
+~
+
+.'!
+
+~ 310
+~
+~
+
+;::
+
+~~
+
+>::
+
+, 19'
+
+6
+
+«.'7
+
+1.. -::::
+
+PloINo3S
+
+-
+
+Z
+
+'
+
+.L..
+
+I6
+
+~
+
+~
+
+~
+
+.'z'l:
+~
+
+"-
+
+Il
+
+/
+
+i
+
+4
+
+"I'--- t---.
+8
+
+/"fOJ' nowol Airo/oJ/'tll'/'"c
+
+~/
+/"
+
+0
+
+l~
+
+II
+
+1
+0
+
+o
+
+&"
+
+1 I--- I---..--::
+2
+
+"
+~ 7.~f--
+
+~
+
+~
+
+~
+
+~
+
+o
+
+t
+
+,
+
+"
+"
+f
+r
+
+T
+
+)
+
+'4 0
+
+,'6
+
+(
+
+:{1
+
+~
+
+~~: 7 ~'::ec~r'~o ~
+;:
+
+I-
+
+~
+
+,
+
+~
+
+~ 6
+o
+
+.9.6 16$: ernp!y
+.3.9 los. woler
+
+:~
+
+~5,
+
+\
+
+~
+
+~
+
+~
+
+'0
+
+~
+
+I
+
+~
+.~
+
+~
+
+/
+
+4 "
+~
+
+~
+
+10
+
+\
+
+'" w
+
+~
+
+/
+
+100
+
+SO
+
+C
+3~/8 In
+
+'Q:-Z
+
+.;;
+'"
+
+"f
+I
+
+~
+~
+
+10
+§}/'
+
+cS
+
+28
+
+..5 0
+
+/
+
+51. 9? ;r~e area
+!J.6Ibs empty
+6 .6 Ibs w a fer
+
+1\
+
+\
+
+Z4
+
+\
+!//
+1\ /J
+t"/~ Ie-
+
+If./
+
+Vt o'/
+
+_ob'
+
+~ jJ V
+z
+
+~
+
+§
+
+/
+
+1
+/
+
+it
+,if j.:
+
+'6
+
+t
+
+:{1
+
+-=
+
+h
+
+~
+
+~
+
+4. <1!
+
+~
+~
+
+t-
+
+468
+
+o/Alr= Ibs/s?FI/sec
+
+10
+
+o
+
+~
+
+/
+K
+
+D~V
+
+V
+-.........
+
+6
+
+4-.
+
+-,-
+
+~
+
+~
+
+V
+
+8
+
+r-
+
+4 "o
+
+~
+~
+
+"
+~
+
+Il
+
+T
+
+1
+0
+
+87.Z %d/rec! "
+
+'~S ,
+"
+i
+~
+~4
+
+~
+
+,
+
+\
+,- V
+
+~
+
+0/
+
+'0
+
+es
+
+/
+,/
+
+~
+~
+
+'" 0
+
+/
+(.0;- .
+
+I'lo/NO. 37
+
+Z
+
+.1;
+
+~
+
+2-
+
+~
+
+/
+
+'2
+
+"~
+
+~
+
+tiP ~~
+
+---
+
+4
+
+"I
+
+,'6 ~
+
+lL
+
+. ~.
+
+..::::::. ~ f:-
+
+,
+
+,~4 {-
+
+o~
+
+LI
+
+/'
+
+6
+
+V
+
+~
+
+......
+
+o
+
+~
+
+~
+
+t:l
+
+~
+~
+~
+
+t;j
+
+Ul
+
+o
+
+b:l
+
+~
+
+o
+
+~
+
+~
+
+<>
+
+"
+"
+"
+~
+
+1/
+
+J
+
+b,
+
+(~V
+
+~
+
+·L
+
+L
+lY
+
+!l';;:-I.0
+
+'1iI
+"
+~
+
+Vi
+
+-=
+
+......
+
+~
+~
+
+'<.;1
+
+/ .,/
+j/
+
+LL
+
+Ul
+
+I-d
+
+.
+
+!f
+
+\
+
+~
+
+S
+Ul
+
+H
+
+8
+
+1
+
+g
+
+~
+
+t;j
+
+o
+
+o
+
+\
+
+604- % ~r~f'qre~
+15 .7 l OS ~rnp 'ly
+II S ibs we Ier
+
+~
+~
+
+"
+
+~
+
+rrf>~5~/r Sp~~d .. mi . / I7~OO
+
+;"3 0
+
+~
+
+'"
+"
+
+.--l-
+
+~
+
+:t
+"-
+
+8
+
+V
+
+r-
+
+~
+
+'2
+
+~
+
+II ,;
+
+Moss Flo w 01 Air =Ibs / sq II / seC '
+
+~
+
+~
+
+l>< r-----.
+
+Moss Flow
+
+~
+
+!
+1
+~
+~
+
+r- ~%~~~%~e::.Foct!
+
+l60
+
+20 "-
+
+ZO
+
+C-2
+
+70
+
+~
+
+1
+
+/
+
+1/
+
+/
+
+ri) :;
+
+I'lot#0.J6
+
+V
+
+IV
+
+~
+
+~
+
+t
+
+/
+
+II
+
+~
+
+~
+
+Z4~
+
+16
+
+)..I1Y
+
+o
+
+~
+
+11
+/
+
+;::
+
+/1
+
+/
+
+.7
+
+<
+
+V
+
+./
+2
+
+~
+
+~
+
+7/
+
+/ 1'('0
+
+~tOV
+
+/
+
+'" [7
+
+bY
+
+Plollto.:34
+
+I
+
+37. 7'.s?ft..surface
+94.Z%dirt'cI ..
+
+/
+
+V 7
+/
+
+u/ 1\
+
+~
+
+150
+
+I
+deep
+
+l/
+
+1l
+
+;::
+
+~
+
+o
+
+~
+
+~
+
+/
+
+;"3
+30
+
+8 •
+
+ZD~
+
+1/
+
+[1
+
+\
+
+4
+
+I:::
+
+'"
+"
+;;-
+
+1
+
+7
+
+-=
+
+,
+
+~
+
+12
+
+1
+
+J"
+
+.~
+i;
+
+"~
+
+,;
+1
+
+~ 71 ,~~tc/';~~i.:~rl'oce ~
+
+I\:
+
+" 11/ hr
+100
+
+SO
+
+8-12
+
+.t
+
+46
+8
+Moss FlowofA/r -16s/ s<J.FI / sec
+
+,----,-
+
+,
+
+~
+
+0
+
+Free AIr Spl¥d. m I.! hr.
+
+~
+
+.~ 11
+
+§
+
+V-
+
+~
+
+~ .11
+
+~
+
+r~ r---... r-----.
+
+510
+
+"- 0
+04.
+
+I
+
+zo"-
+
+~
+
+Y
+
+I~
+
+>::
+
+~
+
+V
+
+j/
+
+1
+
+~
+
+"
+~
+
+I~
+
+~"
+b
+
+o
+
+';:--
+
+~
+~
+
+2<
+
+-(.rf-'
+
+~6
+
+l:
+
+14 q,
+
+/
+
+\ / /
+
+~
+
+'t
+~
+
+I
+
+"
+"
+
+.~'
+
+I.,/;
+
+~Z10
+I\:
+
+...
+~
+
+.J..
+
+"
+
+~
+
+•
+~
+
+~
+
+1'« ./
+
+•
+
+:I'
+
+~
+
+l
+~
+
+II
+
+"<-'
+
+-=
+
+0
+~ 301
+
+~
+
+II
+
+6
+
+~
+
+'0 ,
+
+-r
+
+-=
+
+/
+
+..-·V
+V
+4
+
+~
+
+/
+
+~'
+
+/
+
+X
+~ey
+
+~
+
+~4 ~
+
+VI
+1/ II
+
+Iv
+V\
+
+~
+
+~
+
+<>
+.,
+
+_,
+
+\
+\
+
+" 0
+040
+
+'"
+..50
+
+u~
+
+"
+
+1\
+
+\:
+
+PlofN0.33
+
+7
+
+//
+\
+
+o
+
+10
+
+II
+
+wo/~r
+
+\
+
+~
+
+~
+
+I
+
+1\
+
+-! 1.)
+..
+
+~
+
+4
+
+150
+
+I~
+
+~
+
+~
+
+100
+
+\
+
+"
+
+.~
+
+"~rr'
+
+\
+
+'li4 0
+~
+
+~S,
+0
+
+= m il 11r.
+
+/
+
+t
+'t
+
+0
+
+'"
+~
+
+/
+
+/
+
+\
+
+\
+
+iI'
+r
+.s
+
+'"
+
+~
+
+in . deep
+
+5 .4Ib$
+
+~
+
+~
+
+V I
+
+4 1. 6 .sqff. surl'ace
+6Z6%direcf
+f- 65.1 '70 rre~ O~O
+I/.~ Ibs.<,n>ply
+
+~
+
+~
+
+~
+
+IZ ~
+
+If
+
+t
+
+16 ~
+
+/,
+
+Fr~~ Air Sp~t'cI
+
+o
+
+"
+~
+~
+
+~
+
+~
+
+~
+6
+8
+Ma.r.J Flow 01" Air . ' /bS'; sqJI/ .u c.
+
+PloINO. .3,Z
+
+"ti
+
+~
+
+I
+
+(5',\7 bY ~r.:z /
+V
+I~<~
+I /I"'"---\-...
+V
+.I.b'·V
+1--V
+I~
+/_~
+
+~ /1
+'0
+
+\
+
+•
+
+Z8
+
+I
+II
+
+3 , 9 IDS, water
+
+'"
+.:.
+
+O\~/ '\7""
+
+"I
+
+f--
+
+~6 ,
+~
+
+~
+
+V /
+
+Ci:--Z.
+
+".
+~
+
+64.8 % dir~cI ..
+65.1 % rree or~o
+8,9 los, ~m,o!y
+
+~
+
+F
+r~t> AIr Sp<,,~d ..
+
+~
+
+ISO
+
+~
+
+~ 74H-- J In deep
+3Q4Sf(. Il,sllr/oct!
+
+.~
+
+!
+
+100
+
+is - I I
+
+~
+
+J/
+
+1
+
+~
+
+:,
+
+Z4 ~
+
+V
+
+:\
+
+.
+
+'"
+.,
+'<:
+
+II
+
+\
+
+~30
+
+~
+
+2l!
+
+SO
+
+0
+
+"
+~
+
+II--+l--!-- 20 "<'
+
+-=
+
+.~
+
+~
+
+"ti
+
+I
+
+,c -
+
+\
+
+"
+~
+
+100
+
+~ ,'h
+
+.
+
+1\
+
+~50
+
+~
+
+I
+
+_
+
+wot~r
+
+.3. / Ibs.
+
+~
+
+t /
+
+gs ~1/J:rfoce
+
+l~ 60 ~~~b~~~;;;
+
+rn~ A lrSp~. IT7,!hr
+
+_ rnt:/ hr.
+
+I I
+
+a - Io
+
+6Z.7'?dir<"Ct
+
+~
+
+Sp~M
+
+SO
+
+8
+
+:/
+
+•
+
+~
+
+~
+~
+
+O!
+
+. . . r--(J
+
+---..
+
+Mos s rlov',/OIA/r-IPS/ Stiff/oSee
+
+'0
+
+4
+
+o
+
+~
+~
+
+"
+
+I-'
+~
+
+--~
+
+r~~ AIr Speed ..
+
+"
+
+SO
+
+a
+
+'r1
+~
+
+ml/ hr
+
+100
+
+..,
+
+150
+
+C-2o
+
+8Y'4 in deep
+76.6 $'1 ff surfoce
+56.3 '%d/rt'~r ..
+f-- 63.2"0 Freeoret7
+/9. ZJbs empTy
+/0. 7 los wo/er
+60 :
+
+~ 7j
+
+~
+
+~
+,
+
+,
+
+~
+
+~
+~
+
+to
+~40
+
+\\
+
+~
+~
+!>. ],0
+
+""
+
+~Zl'0
+
+~
+
+<:,'
+
+0/
+<S
+
+t
+
+0;;
+
+I,
+
+~
+
+~
+~6
+
+~
+
+r-
+
+c
+
+4
+
+"
+
+~
+
+~
+
+r-
+
+,6
+
+8
+
+10
+
+7/lbs
+
+I
+
+j
+
+-
+
+~
+
+~
+
+:"U~
+r\! ~
+
+,
+
+L ,.
+
+~-
+
+\
+
+"'.]'0
+
+1\\
+
+'"
+
+~
+'I:
+
+~Z. I
+
+JI
+
+"
+~
+~
+
+/
+L
+\
+
+V
+
+I:?
+III, lj W ~V
+I
+
+~ "if~
+
+Plot No 4/
+
+\\
+
+0
+
+~
+
+\
+
+L '//
+
+\
+
+~
+
+~
+
+..,.
+
+~
+
+~'_'I-
+
+.
+
+'
+
+~
+
+// /
+
+\ V/ /1
+\ ~ 1/
+
+~
+
+Iu:r-
+
+v ,rl
+
+1
+\
+
+~
+
+"
+
+~
+:4~
+
+Ir
+
+1
+
+.
+
+.
+
+;:
+.;.
+..,
+
+01-
+
+f-- I-;~
+
+.~
+:::
+~
+
+.
+
+/1\
+~
+
+~
+
+'l"
+
+~
+
+~
+
+i
+
+~'
+
+0
+
+>.
+
+-~Z
+
+"
+" ~<
+~
+
+l -V
+
+~
+
+~
+
+f"-.. f'-..
+6
+
+4-
+
+~
+
+4
+
+l
+
+8
+
+!
+
+Moss Flow ofA i r . Ibs / sq If s~c
+
+39
+
+1
+0
+
+_\
+
+o
+
+"
+
+V
+
+'I:
+
+!l" 10
+
+O\~
+
+'"
+
+{
+
+(,l
+
+1,.12'
+
+V
+
+/~
+
+L
+
+~
+
+10
+
+<>
+
+r
+
+oS
+
+/
+
+V
+
+a
+
+2
+
+Plot No 40
+
+-
+
+4
+
+i
+~
+~
+
+~
+
+r1
+
+IZ ~
+
+/
+
+rx~
+
+IJ
+
+V
+
+I
+6
+
+~
+
+:g
+
+16
+
+X- lL
+V
+
+~
+
+Z4~
+zo t
+
+tI
+
+..
+g
+
+~
+
+4
+
+...,
+
+g
+
+10
+
+Mos s F low o~ A /r .. los / sQ. 1'1/ $~C
+
+~
+~
+"
+~
+
+I~lt V
+I....
+V I'-Ab' V
+", !?
+r--j-l"- r.........V
+
+~
+
+~
+
+1
+
+V
+
+lO
+
+';:-
+
+~
+
+N,'
+
+~ 'f ~
+
+~
+
+<S
+
+\
+
+~
+
+'~"
+..::..
+
+'7
+
+,-
+
+~ ~o
+
+~
+,
+
+j/
+
+1
+
+~
+
+~
+
+o
+
+1\
+i
+
+. ~~' .
+
+~
+
+or
+
+IL'
+
+1\
+
+fO
+
+';:
+
+t wo /nchE's lon9. In ont'
+'1 ~
+~nc/
+a ir r ube.
+
+r\~
+
+I
+
+~
+
+.
+
+Z8~
+
+.1
+
+~11
+
+3. ~ /b.1 wc;/'er
+
+~
+
+"
+~
+
+I- '6
+
+I
+
+r
+
+~
+
+~
+
+~
+l
+
+.sofTIe o.s C-Zo. ~.cC'~p l
+
+1/
+
+<:,yy \\
+,
+
+0
+
+l
+
+0'<
+
+_
+
+~L Ihal "sw/rlers "or~ bur
+
+~
+
+~~ /ndeep
+3Z O.sqlt.surloce
+.57Z% dlr~ct ..
+; - 62,6 % 'r~~ or~o
+3 .Z 103 t:"l71ply
+
+701-
+
+~
+
+~
+
+"<;
+
+100
+
+C - 4
+
+F~~A;rS
+pe~c/ _ ml:/ hr.
+
+50
+
+~
+
+70
+
+~
+
+'~
+"
+
+*
+::
+
+\:i.
+
+:4
+
+~
+
+/
+
+~
+ZO~ .
+
+/
+
+~
+
+IZ
+
+/
+
+"ii
+~
+
+t'
+~
+~
+
+~
+..,
+
+-
+
+.
+
+~ ~/-
+
+0\
+
+.L
+
+~
+
+It
+,
+~
+'4~
+~
+
+,~
+~
+
+/
+
+'0
+
+~
+
+Z
+
+Z
+
+~
+~
+
+o
+
+~
+
+~
+
+o
+Z
+
+~
+
+~
+
+0
+
+Ul
+
+v.l:-~-+-I
+
+'6
+
+\
+
+~
+
+\
+
+~
+
+llJO
+
+:::
+
+IY
+
+/V
+
+/
+
+'1
+I
+
+~ \
+
+~
+
+oS
+
+o
+
+P/oINo 42
+
+l
+
+46
+8
+Moss FlowoIAlr .lbs/sq fl/s~
+
+10
+
+o
+
+l as los.
+
+1:
+
+~rT1pry
+
+\
+
+'~
+~ ' ~{
+
+~
+
+~
+
+~
+..,
+
+I
+
+\
+
+o
+
+~
+
+~
+
+\
+
+J
+
+~
+
+"
+
+~
+
+~
+
+10
+
+"
+~
+~
+
+¢
+
+I
+
+<S
+
+"
+~
+
+oS
+
+~
+
+;:;
+
+"
+
+2
+
+4
+
+6
+
+/'foss rlolN 01' A ir ~ l os / s'1
+
+fxj
+
+~
+
+~
+
+'I.!.m:.
+
+t;:j
+t;:j
+
+o
+
+~
+16{?
+
+lL
+
+B
+
+H
+H
+
+~
+
+I /~V
+
+I
+
+k" L
+1/1\ .J
+
+~
+
+~
+....
+
+~
+
+ZO~
+
+/'L
+
+V .....--. V-l-- j..--a
+
+~
+~
+
+V
+
+L
+
+~~
+/
+~V
+~L
+)I'p.
+JY r~ V "-... t--b,
+
+I
+
+PlolNo ~
+
+1
+
+Z~
+
+,/ '/
+
+~
+~
+
+~
+~
+
+1
+
+~-.
+
+.1
+
+.~
+
+~.
+
+.1
+
+i
+
+1
+\
+
+~
+
+ZIJ
+
+J.
+
+..
+
+4 . 110.1. wot~r
+
+so
+
+.!l.
+
+~
+
+~
+
+~
+/
+8 ~
+10
+~
+~~
+V
+~
+~ f-~ ~ -~~ V -- ~
+.~
+~
+4 ..,
+I~,~
+-p~l><r-.-.
+<> ' :;
+~
+"
+~ f - ~t:-~v
+- I -t- -I
+•
+
+.
+
+46,4-%dlr~r
+
+; - 70LJ%;~areo
+
+i
+
+~
+
+o
+
+o
+
+C-7
+
+*
+•
+
+~
+
+0<
+
+100
+
+JYz In dtu'p
+3Z,5 S'1" s urFace
+
+~
+
+t
+
+~
+
+= mllllr
+
+50
+
+'~"
+
+l
+
+~4,'0
+
+0
+
+~ 70 -
+
+'IJ
+
+t
+
+~
+
+~ 11
+l:::
+
+~
+
+10
+
+~
+' .
+
+'-
+
+5,
+
+~
+
+.
+~
+
+o
+
+f
+
+~
+
+\
+
+~ 10
+
+~
+
+4
+
+I--
+
+J .6lbs wo"~r
+
+~
+
+~
+
+~
+
+V
+r----.. b.
+
+70.3 "7. f,..~ or",O
+3 .I/os. ~l'T7ply
+
+~
+
+..:.
+
+~
+
+IJ
+
+/
+
+1'10.$$ Flow or Air -/bs / ~f/ rt /s~c.
+
+I-
+
+~
+
+~
+
+/
+
+inC
+
+.30'4sq.11 $ur 'act!'
+46.4 % Qll?'cl ..
+
+Frl"i! A,r j~~
+
+~
+
+100
+
+~.J ;;e~.o f-+-fI_ I--I-j---t--t--1
+I I
+
+~6O
+
+~
+/6
+
+t IV I::::::: j..--- LL
+~
+o
+Z
+468
+
+J
+
+:::
+
+j
+
+V~
+
+~
+
+l!
+~
+
+, '/l
+
+lL
+
+/
+
+\\ ';~1t;d~.S ~ VO~t'3 ~~~~1'1
+
+~
+
+~ o
+
+o
+
+I
+
+•
+
+~
+
+!?"
+
+1.50
+
+II
+!V
+
+16 .7 los t!'rnply
+76 /oJ wo/(!r
+
+0
+
+~
+
+fl'71/ hr.
+
+50'
+
+o
+
+.L
+
+wor~r
+
+~
+
+~
+
+~/o lNo
+
+I
+
+- .5
+
+18.J /b.s empty
+
+~
+
+."
+
+I:::::::"
+
+4!J_57. k~~qreo
+
+{4lO O
+
+~
+
+~
+
+~
+.~
+
+L
+
+..3 V In deel)
+z.
+4 10.sql'Jsur/ot:e
+%dlrecl •.
+
+~J"j0 ~
+l:
+
+L
+
+IJ ~
+
+Z!J
+
+_,
+L
+
+~. Irt'~ or;o
+
+F
+re~ A Ir Spe~d ~
+
+o
+
+~
+
+I
+
+56.705qfl svr roc!'
+
+62 5
+
+150
+
+,
+
+75.9%drr~d
+
+I--
+
+~
+
+~
+
+V
+
+01-
+
+,"
+
+~
+'l"
+
+~
+
+100
+
+8 '%lmdt!'~p
+
+<
+t
+
+~
+
+loa
+
+r--
+
+"
+';:
+
+;.or-~
+
+~
+l;
+
+,
+
+Free Air S~ed - rn/ / hr.
+50
+100
+
+,
+
+.~
+
+V~
+
+i
+
+50
+
+C-2b
+
+~
+
+~
+
+,'6
+
+Hass Flow of'Air r ibs / ~ql'l/ st"C
+
+o
+
+•
+
+V
+L
+
+'0
+
+1.
+
+4
+
+PIOfNo. 3B
+
+~ 70't,
+
+V
+/
+
+~
+
+"y
+
+"1:i
+
+V
+
+A
+
+~ 01/'
+cY
+~
+Z.
+
+0
+
+~
+
+II
+
+/"
+
+/
+
+~
+
+Q.
+
+' i!
+
+V lL
+
+~,
+
+II
+
+IZ'4
+
+1
+
+1\ /
+,Ld\ /
+
+~
+:::
+
+~
+
+/
+
+1 ~
+1
+
+~
+
+~
+
+1
+
+~~fL~
+
+~ 51'0
+
+i~
+
+/
+
+~
+
+1
+~
+
+~
+o
+
+I;
+28
+
+rr~f! Air Sp~~d ... rn// hr: (Vonn In fronl)
+
+o
+
+~
+
+1~
+
+.
+
+'-
+
+"
+
+~
+
+tl1:
+
+~
+.~
+
+4~
+
+..,
+~
+
+10
+
+o
+
+~
+
+~
+
+o
+
+z
+
+d
+H
+....
+
+o
+
+~
+
+FrNAI/·"S MM=",U/h r.
+
+o
+
+l
+
+100
+
+SO
+
+D - I
+
+~
+
+£"~ ;;f1;:::~qC~
+
+70
+
+7S.(j%Fr~~or~o
+a .s los ~rnply
+
+~
+~
+
+r
+~
+
+1.8
+
+..
+
+46.tJr..dlr« 1
+
+<)
+
+'
+
+Z Z lo.J wo/~r
+
+O
+
+.
+
+\
+
+~
+~SO
+
+/
+
+\
+
+l;
+~
+
+t
+
+\
+
+l~O
+
+.~
+~ .10
+
+AV!
+
+1:
+~ZO
+
+V
+O\~
+
+,.-~~/
+
+~ !
+
+,,,/.
+
+\
+
+~
+
+~
+
+Z
+
+\. .
+7'
+
+'"
+
+~
+
+'r
+
+o
+~60
+
+-Z
+~
+
+I
+
+•
+
+8
+
+I/~
+.......-r
+
+g
+i<
+
+4
+
+I
+
+11tJ
+
+,.
+
+10
+
+0
+
+9116s f!rnlJ1y
+
+'li 4 ,1
+~
+
+:::
+
+lO
+{.l'
+:,:
+
+V-
+
+i
+
+L, L
+.::
+
+L \
+
+,I~
+
+C\
+
+Plo11VO.47
+
+ZO
+
+r
+
+o~1
+
+~, .
+
+r-
+
+~
+
+l';
+
+.
+
+"~
+
+~
+
+8 •
+
+~
+
+~
+
+.~
+
+/
+
+~-"r---~
+6
+
+~
+
+Ii ~
+
+V
+~
+
+~
+
+s
+
+II
+
+t
+~
+'lj
+
+tJ---~
+
+Moss I'lo.vo""llr'lbs/S~Jlls~.
+
+4 .::
+
+~
+
+~
+
+a
+
+~
+
+60 r
+
+~
+
+~ SO
+>::
+
+I-
+
+.
+
+!J Yz. i n cI~ep
+
+2 9.5 ~ F~ surFa c e
+94.6 0 dtrec!- ..
+
+~
+()
+
+<;
+
+'{
+
+l O \.
+
+~
+
+~
+
+LsV
+l
+
+~ ]0
+
+~
+:::
+
+Si'
+Q:-- lO
+\, -
+
+f
+
+--
+
+I--
+
+~
+
+.so
+
+"
+~
+
+6.416$ wa/~r
+4- 3ec t ionsdcep
+s.oocin9 '/z. lr1C:1t
+
+j-
+
+10
+..~
+
+!>
+
+24 ~
+
+~rnply
+
+~
+
+~
+
+z,,~
+
+Q.
+
+'7. I"rel' area
+
+16 .3 16$.
+
+"
+19
+
+)
+I
+
+.\~
+
+i:lilll
+
+z
+
+Plol'lYo.4/j.
+
+~
+
+V- c--r- ~ ~L~~ -I" ~
+/
+r-
+
+i
+
+'"
+
+1
+
+-- j--- 'E
+8
+
+I
+
+Moss FlowolAlr , los / S?.rT /S~C
+
+10
+
+~
+
+~
+
+I
+
+- j - - - j---
+
+6
+
+d ..ep
+
+~~~ -;r~~~"~c~
+
+o
+
+~ff ~
+
+~
+
+I 'l
+
+~
+.,
+~
+
+~
+
+8
+
+.~
+
+V
+
+~
+
+~
+l';
+
+4 '"
+
+r-
+
+I-
+
+::s!:7,~n7:te~p r- -
+
+s,oocin9 Vz. inch .
+
+=
+
+~
+
+i
+
+~
+
+o
+
+Z4~
+
+"
+>
+
+~
+
+~
+
+\
+
+~O
+~,J.
+
+.
+
+~
+
+":Z
+lO
+I
+
+I\~
+I
+
+I
+
+~
+
+~
+II
+.~ 10
+.~
+
+'"
+t
+0
+PIa/No 4 7.
+
+/
+I
+
+_ .~O
+~
+
+V
+
+~~
+
+/
+
+/
+
+ZO !o.
+
+~
+
+IA
+
+r-+--~ I
+
+II
+
+tiP
+
+l)16
+
+~
+
+l';
+
+t:;:!
+
+C/l
+
+>:o:j
+
+~
+
+o
+
+~
+
+~
+'Z ..
+
+.,
+
+'::;~
+,
+
+"it
+
+8 ~
+
+iK
+
+I /'
+
+~
+
+t::;
+
+~
+
+/
+f"\
+
+~
+
+;
+.,
+
+0
+
+0
+
+0
+
+E
+
+~
+t-j
+
+Z8~
+!>
+
+~!~
+
+r- I-
+
+t::;
+
+til
+C/l
+
+o
+
+~
+
+...., 0
+
+~
+
+~
+
+o
+
+o
+
+100
+
+I I
+
+,
+
+~ 4,
+
+tS
+
+:::
+I>
+
+\)
+
+~
+\)
+
+~
+
+~
+~
+
+16 ~
+
+~
+
+~5,
+
+~
+
+.1
+
+-4
+
+L-
+
+",
+:ii
+
+,z :::
+
+~
+
+IY
+
+c-4
+
+~
+
+It
+
+~-;.
+
+I I
+In
+
+~
+
+.'?
+
+% fr~eor~
+6:O~
+,
+/6.3 16s. t!lrnply
+
+.tl
+
+V
+
+~
+
+ZO ~
+
+'.
+
+F~~ Air .s.Dt-~. MIII'I/'",
+liO
+60
+4IJ
+
+10
+
+I
+9 Yo
+
+ftl
+
+10
+8
+6
+4.
+Moss Floyvo/Air ~ /bs/J9-Fllsec
+
+~
+t<:
+
+8 ~
+
+~
+
+I-
+
+~
+
+1:
+
+~
+
+W
+~
+~
+
+J!:0
+
+'0
+74
+
+-
+
+V
+
+/' f'-....
+
+'*
+V ~V
+z
+0
+
+:,:
+
+".,
+
+~~P"I
+
+L..--- ____
+
+~
+
+()
+
+l-
+
+==
+'=
+r-- r- r-r- '1"'~
+
+V
+
+),
+
+lLt-
+
+b /'
+
+~
+..
+.s 0
+
+/
+
+-L
+
+_\ 11/
+
+QljI' V
+~~ ~y '\
+
+il
+
+l
+
+4
+
+E
+
+..
+
+Plo/No 46
+
+~
+
+-!
+
+"
+
+o
+
+Air, 16.$/stf./'I/.st"C
+
+70
+
+r-
+
+~
+
+L'a
+.,
+
+()
+4 "
+
+.0
+1
+
+I?
+
+~
+
+~
+
+'t
+
+Z4~
+()
+
+-1/
+-I!
+f1
+
+~
+
+~ ~
+fO
+<:I-
+
+~
+
+.~
+
+f UJI) 6Q 70
+
+JO
+
+1
+
+~Z'0
+1::
+
+AIr Spt't!d - r711.f hr.
+
+r~
+r ~
+
+~
+
+~
+
+,
+
+8 ~
+~
+l!
+
+V
+
+M oss ,10",,",0/
+
+!>
+
+'.;
+~
+
+/
+
+'"
+
+\
+1
+
+~
+
+~
+
+II'Z
+
+j
+II
+
+£
+
+°4 0
+
+...
+.,
+
+l:
+
+I
+
+I Z ." Ibs ernpfy
+6 . 2 Ibs water
+
+§s,
+
+~
+
+~
+
+~
+
+Z8;::
+
+1
+
+61
+
+~
+
+lL
+
+i n deep
+
+3 2 6.sq 'lsur"o~l'
+..
+
+83./7.ai~cl
+
+~
+
+()
+
+I
+
+..3Y'~
+
+-!
+
+t!
+~ r ll'6 ~
+
+6------8
+- 4------
+
+Z
+
+o
+
+~
+
+L
+
+A.
+
+"
+~
+
+L
+
+V
+
+V I4
+Z
+
+~
+
+~
+~
+
+'6
+
+V
+
+/
+
+~
+
+~
+
+'::Z
+
+.
+
+r-
+
+tL
+
+~
+
+30
+~31
+
+IZ'4~
+
+r-
+
+j/ L
+
+-'1
+
+~
+
+~
+
+-J
+~~
+
+1
+
+l~
+
+ZlJ...:.
+Iz ...
+
+...
+.,
+
+" ,
+
+~V
+
+.
+
+L
+
+3. !llb~ vvo/~,..
+
+~ .5,
+
+~
+
+oS
+
+I
+
+t
+
+~
+
+~
+
+~
+
+~
+
+I
+
+1
+
+r-
+
+~
+
+ZO"
+
+4;-'/ ~V
+If
+.£0 '.f l&'
+t---
+
+~
+
+J1J
+
+~t~i?.:' rH ~8~~
+
+:I:
+
+..
+~
+
+I
+
+I,~
+
+Pial No 45
+
+100
+
+SO
+
+{l \
+
+,
+
+•
+
+·S
+
+Mo.TS rIOwOrAlr" lbf/.sql'l/J~C
+
+rre~ A,r 5p(!'~cI _ ml/ hr
+
+~
+
+.
+
+i?-l 7
+~
+
+.::
+
+1
+
+'S.
+:::
+
+: r
+
+~r~
+
+\I
+
+~
+
+>::
+
+~
+
+~./"C
+
+~
+
+fa~
+
+~.1, 7
+
+"
+,
+
+l\.
+\ Ii 1
+\ /
+
+~
+
+il :::
+
+-_,
+
+./
+
+D-4-
+
+~
+
+~
+
+tl~
+
+I
+
+I
+
+o
+
+~
+~ 74
+
+16
+
+f
+
+~
+
+I
+
+~6
+~1
+
+Plo l NO 44
+
+~
+
+I
+
+'
+
+L~
+
+.::.
+
+~
+
+/
+
+~/Or~JTt--'?~. I
+I I\'O;:/
+'" l
+'-, 0
+
+'ii
+~J<~
+
+V
+
+1\ V
+
+~
+
+.~
+b
+
+V
+
+~~r
+
+Y-
+
+l. ~
+
+t ,
+~~I
+
+"
+
+~
+
+._ISO
+
+/
+
+D-3
+
+~ 7j0 1'
+
+"
+"
+~
+
+14~
+
+//
+
+~
+
+~
+ZO~
+~
+~
+
+Zf)
+
+~
+
+~
+
+;;~e A I r s~e%,O n"ll'lr
+
+0
+
+~
+
+Z6.9 los I?mpry
+7. Z Ib~ waf~r
+
+*6
+
+~
+
+~
+
+trJ deep
+84 Is,! rt- s urface
+
+..
+44. 9%di~1
+6(3,7 7. rr~~ orf!D
+
+~
+
+I Z4i
+
+r,., ri
+
+l1'
+
+-I
+
+I
+
+'~" J:,'
+
+d
+
+~
+
+~
+
+....
+"
+
+~
+
+/
+II
+
+D-2
+
+1
+
+~
+
+':
+
+.'
+~
+I,
+'.
+
+I--f--
+
+L
+
+~
+
+..
+
+.50Frf'f'Alr.sp~;:, m,/hr ISO
+
+o
+
+~
+
+~
+
+.,
+
+~
+
+V
+~
+
+.;;
+~
+4~
+
+J
+
+Jo
+
+~
+
+t.:>
+.....
+
+Fre~
+SO
+
+o
+
+" ~
+""
+
+~ 70r-
+
+~
+
+~
+....
+
+f-
+
+%.
+
+.9-'4
+
+d~ep
+
+In
+
+II-
+
+Jgcl:.'tJ~;~rf~c~
+7S0%fr<>eor"o
+16 8 1hs emply
+
+!J.3 Ib.s. vYot<!'r
+
+~
+
+1
+\
+
+~
+"
+
+Lo
+
+rnl /
+
+hr.
+
+II -7
+
+1
+1
+
+/
+
+Zil
+
+~
+
+~
+....
+
+~
+
+1/
+
+14"
+
+~
+
+/
+
+\
+
+It-.
+
+\
+
+~~l'-
+
+~
+
+r- /
+
+1/
+
+-~~:=: I
+
+- 10 ~
+
+~
+
+~
+
+1411~-1--! - r- 1
+~
+/ I r r - = f i l~ - l
+b/
+pI- C\ /
+===' ,. r~
+~
+l:j _
+~
+I--~"
+[7/
+..
+~
+.to.- ."- l"'~ /.. I
+I
+~ h~~.~'b ~ ,:?
+~
+"8 ) { f ~.9
+1/1"----.
+~
+I-- f--
+
+f--!-
+
+<:::
+
+._f-
+
+.
+
+16
+
+=1
+
+1
+
+.JO
+
+f-
+
+11 ;::
+
+"'
+
+<>
+
+""
+
+--f--
+
+[I
+
+.~
+
+'·l
+t
+
+<i:
+~
+
+/
+
+A
+
+1
+
+O-~J.
+
+<.
+
+F'latNoSO
+
+.~
+
+(j
+
+70
+
+~
+
+~
+
+so
+
+£-7
+.9.14 in de~p
+5Z .0st; ll .wrl'ace
+lOa, % t:ltr«f ..
+II. Z 16s,
+
+*
+1
+
+60
+
+==
+
+\
+
+£
+
+'<;
+
+-.z
+:::
+ll'
+
+~
+
+P
+
+>,
+
+-
+
+-- .::::::
+
+t
+
+0
+
+oS 0
+
+MaSJ rlow oIAlr ... lb$/ S9 Ff/sec .
+
+Z
+
+6
+
+~
+
+16 ~
+
+~
+
+12 ~
+
+~
+
+1/
+
+p
+
+.......
+
+7
+
+"
+
+~
+
+8
+
+~
+~
+
+~
+
+'"'"' Z
+........
+
+.::
+
+. / --=::
+
+&"
+
+~p
+
+s:-
+
+4 "
+
+~
+
+II
+
+10
+
+468
+
+M oss Flow oFAir . Ib~/ Sf/. FII.s~c
+
+1"101 No. 51
+
+Q
+
+V
+~
+
+/
+
+~
+
+.~
+
+~
+
+-I
+
+~
+
+~
+
+ZO'<
+
+i~
+
+17
+1
+)\",
+
+~p
+
+-.:- zo
+j
+
+"
+
+\
+
+1)0/1 I~
+
+11
+
+~
+
+I:
+
+1\
+
+~ JO
+
+~
+
+/
+
+1
+
+~
+
+"
+~
+
+I/I---W
+
+\
+
+'ll 40
+~
+
+~
+
+Z4 Q.
+
+1/
+
+1[ £-8
+
+~
+
+SO
+
+100
+
+~ 70
+
+;::
+~
+
+V
+
+-I/-t-
+
+'\
+
+~
+
+~
+
+Z8
+
+III
+
+~rnpfy
+
+6 ..5100$ woter
+
+.~
+
+~O
+
+100
+
+I
+
+83..3 % rrf'e or~o
+
+~
+
+"
+~
+
+........ ,-
+
+6
+
+4
+
+4-
+
+L
+
+ti rv
+IpjiY
+
+_v
+
+~
+
+II
+
+Sl--
+
+1
+
+Frt'~ Alr Sp~d .. rnl/ 171
+
+Frt!¥ Alr5,o~~l77i/ I1r
+
+o
+
+ISQ
+
+100
+
+£ -6
+
+,,6fJ
+
+i
+
+S~d ~
+
+AIr
+
+"l!
+,0,
+
+921b:; ernpl/
+
+I
+
+50 Ihs
+
+1
+
+51¥.. m cI~t!p
+..39 Z sq/I.sur/oa·
+
+:
+
+~
+
+~:. .~ 'ff!.:..d;:;.~~/o;~o LL
+I
+\
+!
+i\
+6
+
+wo f~r
+
+I\+-
+
+~
+
+~
+
+"1 I
+
+t
+
+V
+
+1
+
+/
+
+I
+
+~JO
+
+~I- \.~
+
+:::
+-:-... f-. -
+
+""
+
+.
+
+~
+
+~
+~
+
+W~
+~
+
+~
+~
+11~
+
+IQ,7
+
+.- L-... - . --I·-·~
+1
+o~
+•
+~
+~Zo'--!-~ ~.
+-
+
+V
+
+L
+
+V
+
+~
+~
+
+"
+
+e ~
+
+I I I
+K
+~
+i
+~<,\'1IT"IV
+-.. . . 1><4'"
+~
+~/Of-lt~~i
+- '_.
+/'
+~
+17- ~~'f.'
+sV
+~
+~
+IrleO~
+p~
+~
+~V
+
+';~
+
+.; 0
+
+}j-
+
+Z --
+
+6
+
+8
+
+10
+
+0
+
+I'-lOSSFlowoIA:r'lbs/SQ It/s~c,
+
+,olofNo.52
+
+~
+
+Q.
+
+,J
+
+V
+
+I \_LV'
+l-i\7r--1
+
+\
+
+~
+
+~
+
+~ ==
+
+I J'S:
+
+10
+
+l4
+
+~/-j
+
+1
+
+1
+
+'0
+~SO
+
+I
+
+18
+
+I
+
+1.
+
+P>
+
+2l
+2l
+cj
+
+~
+[;j
+I-d
+
+o
+
+~
+
+2l
+P>
+
+t-3
+....
+
+o
+
+2l
+
+~
+
+~
+
+Ul
+
+o
+
+~
+
+Frtlt' A ir Speed .. ,", / hr.
+SO
+100
+
+~O
+
+~
+
+~ 70
+
+~
+
+~
+
+~ 60
+
+"!:
+~
+~
+
+:
+
+.
+
+.
+
+.
+
+I-
+
+_L
+
+.I'
+
+~
+
+<:
+
+.
+
+J()
+
+~
+
+~
+
+'::-
+
+:0Zr._
+
+'v~
+
+-.:~
+
+.
+
+II
+
+a'o
+~
+
+a
+
+r
+
+~ 0
+
+/
+
+I
+
+"
+
+.... '
+
+b~Y I'b;;'V
+4
+
+8
+
+1
+
+--'
+
+-, _
+
+~ ~~
+
+7
+
+s..
+
+II
+
+,/
+
+r-.,OU/
+
+6
+
+Q
+
+~
+
+~' ~.
+
+l?n
+
+PIO fNo 53
+
+V
+
+"
+
+Il ~
+
+I ",-:.
+
+I
+
+~
+
+..
+\..
+
+16
+
+I
+
+~lQ~r-l¥-':'~~ti
+
+:Ii
+
+~
+~
+
+/
+
+~t
+
+"l!
+1;
+
+~
+
+I1
+
+/
+
+~
+
+7610$ """.ely
+60, .1 ' a 10$ We' fer"
+
+()
+
+1
+
+..-:
+
+IZ.3?'o'I~ct..
+
+lO~
+
+/
+
+_'-
+
+~
+
+8
+
+MOSJ FlowolAlr ~ Ih$ /Sqo / s~c
+
+F-S
+
+;,y, sqrt$</r/"oc" "
+I, .34"5m ON.e
+
+~
+~
+~
+
+~
+
+t
+
+4~
+~
+
+"
+
+10
+
+o
+
+'I
+
+~
+
+S
+
+'"
+
+I
+
+~
+
+11
+
+l::SI
+,!
+
+~
+
+'Ii
+.4,
+~
+
+~
+}
+
+j1.
+
+t
+
+lo7<1~
+
+b'r
+
+[SJ ,- Z4*
+~
+
+0
+
+.0
+
+.....0.
+
+•
+
+~
+
+I~, 10 ~
+~
+
+.3J~r r
+
+Z
+
+Pl olNo S4
+
+4
+
+J~ -!
+6
+
+.J,
+
+-,,~~~,(j
+
+/VIos.s Flo w olAlr - I b.:s / sq /t/s<"C
+
+10J
+
+.~
+
+I
+
+'l
+
+t r-fO
+q,
+
+~
+
+Z".27.dlr~-:f'
+
+';;
+
+" t.
+~
+
+I
+
+I
+
+-f--
+
+'4 t..
+
+Z'}
+
+/
+
+\
+':' )0
+
+1
+
+~
+
+i
+
+,~/
+
+\
+
+I/
+II
+
+~
+
+~
+
+/
+
+""
+"
+
+1\
+
+~
+
+IA\.-
+
+1
+
+1
+
+:5
+I,
+
+16
+
+~
+
+~
+~
+
+_V
+
+~
+
+.s
+
+0 .
+PlolNosS.
+
+1
+
+~
+
+~
+~
+
+2l
+
+d
+o
+
+~
+
+. . . -V·" - t;t
+J)<
+
+~/O
+
+bj
+
+~
+
+/
+IZ
+
+~~
+
+~
+
+.
+
+~~
+~ /
+
+~
+~
+
+i\~
+
+t;j
+t;j
+
+o
+
+i
+/
+1 7'
+
+~ZO
+~
+
+t-3
+t-3
+
+-f--
+
+I
+
+-I-
+
+.
+
+\
+
+-r--
+
+~
+
+~
+....
+
+/1 , : lO~
+'
+:
+
+\
+
+140
+
+~
+
+o
+
+.
+
+/
+
+{
+
+;;
+
+o
+
+~~-1i:'-
+
+I
+'
+
+~
+
+t8
+
+"-
+
+I
+
+/
+
+t
+~
+~
+
+<I
+
+I
+
+" .
+
+(J. 71b.s COr.-1piy
+1.41bs wofer
+
+h
+
+J<I
+
+~
+
+•
+
+/1
+
+Z7ZsQ/I~ur/oa:
+
+o
+o
+
+ISIJ
+
+0;:
+
+~
+
+_
+
+l2S:
+
+I
+
+~
+
+~
+
+~
+
+Air Spe~d W' "'1/ nr
+
+SO
+
+~ 70~ 2-'/8 In d('t',o
+
+<!
+
+z;::
+
+-~r-
+
+I
+
+0
+
+fiG
+
+~
+
+,
+I
+
+""
+
+~
+
+Q
+
+'6 (
+
+LD·
+
+.~ I ~
+oS
+0
+
+,
+
+~
+
+~~II~·-4~
+
+r-1:~ (/f~<i:.I-
+
+1
+
+I'
+
+0
+
+1
+
+~l'
+l::
+11
+.~ 14
+
+,-
+
+"
+~1 Z8
+r -,- ~
+
+~Itr-' t
+
+1
+
+!;t.
+
+__
+
+-1/
+
+~
+
+~
+
+.1
+
+~.
+
+,
+
+i
+
+..-,r
+
+I
+
+;
+
+j,
+
+~
+;::
+
+[I
+
+'r~"~
+
+--:'-1
+
+,-:---: -
+
+J
+
+I
+
+.1
+
+><l
+
+"'1/ hr
+
+.••
+
+..
+
+i
+
+~
+
+Q
+
+1
+
+I
+
+V
+
+/I T"b • .1 dtr
+
+~
+
+I
+
+1/
+II
+
+1
+
+I
+
+Z4
+
+,<,'
+
+I
+
+fl..
+
+'o (Qf-'i:J~
+"
+.
+~
+z~
+
+~
+
+"
+
+II
+
+~
+
+~
+
+I
+
+_f
+
+.
+
+~.10r-
+
+...::
+
+1
+
+W·
+
+~7(
+
+~
+
+1/
+
+~.
+I-
+
+Z~ :oo..
+
+I /,
+
+;'90 1"$ ..",.bly
+!J.8Ibs water
+
+~
+~
+
+~
+
+,
+
+89.S % tlirfOCt ..
+
+~
+
+~
+
+¥
+
+£-!)
+Z~~ in deep
+6tl~ Sf/." sur/ace
+
+Frt'eAlrSp~~d
+
+~
+~
+tJ ';
+~
+~
+
+~
+
+4~
+
+~
+~
+
+I--t-
+
+46
+8
+10
+Mo ss Flowo/ Alr.lb.s/sqFI/.st"c.
+
+0
+
+Ul
+
+Fr~~ A,r S~~d,.
+
+~
+
+0
+
+rnl
+
+SO
+
+~
+
+160
+
+/
+
+Z8
+
+S.5/bs t'/T1pfy
+
+I~\
+
+I .S
+
+~
+
+II
+
+Co
+~
+
+~~
+
+\\
+
+t
+
+'0 40
+
+I
+
+~
+
+lw
+~
+
+.
+.\)~
+
+cV
+
+~
+
+i - IW
+
+1.1 ~
+
+110
+
+~
+t:
+~
+
+)
+
+.•'/
+
+~
+
+,
+
+~
+
+60
+
+8
+
+mIl hr
+
+600%f'rt!eore-o
+1Z.5 Ib.$. comp"ly(t'J/J
+70 Ib3 water
+
+ends.
+x • Tube.:r POltshccl.
+
+ponded loht..'xo90nol
+
+~
+
+~
+
+.
+
+U
+I / .-
+
+~
+
+j
+
+20~
+
+Al'I--'
+
+-
+
+~
+
+o
+
+~
+
+~
+
+~,
+
+-4
+
+,.,v II
+1/
+
+\
+I---I--I-~-
+
+~
+
+<t
+)0
+
+_I--_~I/
+
+/
+
+,~
+
+~
+
+~~t
+
+~
+
+,~
+
+'6 (
+
+' i!
+
+I
+
+II
+~
+!t. 'OI--I-f:JL~ I
+.
+-.:~ I-
+
+' l~
+
+6t-t~
+r<tV
+j
+~ 1_+-+-yt-f'f-·6-+_~ r.1'~ V . . . . . t---.
+
+~
+
+f7"
+
+"-
+
+V- 8
+
+~
+
+K
+/
+~o,~4-~L-~-+-1
+
+\ '01_ 2
+
+~
+~
+
+~
+4}
+
+r ,L-...J.~/'1"_==-+--..L.....jV,--l-l-+-.L--!-...L-L...J, '"
+,.
+~
+0
+
+PlofNo 5'
+
+8
+3.3/ In cle'!'p
+
+4
+6
+8
+Ho.u FlowolNI: -II>.$./S9'0 ./.!rc
+
+-
+
+/
+
+7Z.07.. rrf!eor~o
+I/.O/bs empty
+Z.!3 Ib$ waler
+
+'l::
+
+i
+
+~
+
+~
+
+II
+
+Z4~
+
+~
+
+f
+
+/
+
+\
+
+~4
+
+t.
+
+-Yi
+
+1\
+1\
+
+~
+
+....
+
+,/
+
+.
+
+1
+~
+
+t.
+!l'
+
+I I
+
+I
+
+La
+.::
+
+ZlJ
+
+/
+
+l
+
+..
+
+dtr~cf
+
+42 9 %
+
+I
+
+\
+
+~ ~ t-- z)~
+
+IF'il
+
+~
+
+~
+
+t-
+
+1-16~
+
+--f-
+
+~
+~}
+/1
+~
+~f 1\
+/
+~ Zo
+.~~
+~
+l"l
+[.iiI f\~_
+V/
+i I / i ' l l "....
+~
+I
+II
+fx'
+~ 10
+II ~t;» ".~
+"I!> 1 ..... 1--.
+t
+V v P
+J()
+
+Izt
+
+,~
+
+~
+
+~
+.-:
+~
+
+~
+
+8
+
+10
+
+l-
+
+.
+ii
+
+~so
+
+in. dl!tlP
+"J.B Sf; fl sur/oct!
+'jJ 0 % cI,~cI •
+6 / .1 "70 Ir~e area.
+11.0 Ibs emply(~s1)
+S 6 Ibs. w of!!r
+
+~~
+
+1\-),-1-'
+
+~
+
+.•~O)
+
+/
+
+"'7
+
+t--- Z8~
+
+X- TuO(J3polished.
+
+r--
+
+1
+\
+
+/
+
+If'
+
+\
+
+Vj
+
+t
+
+~
+
+;\
+
+'l;
+
+t:4Q;
+
+V
+V
+
+\
+
+~
+
+1
+\
+
+1
+~JO:
+
+:;:
+
+~
+
+i-lj
+l::
+
+V
+
+i
+
+/
+
+~
+
+'~/j 1
+
+~
+
+i~
+
+)7
+
+r "b"
+
+4
+
+1'403$ Flow
+
+Z4~
+
+f
+
+~
+
+zo
+
+,
+
+l
+
+PIal No 58
+
+'~
+"
+~
+
+~
+
+.
+
+~
+
+'t:
+
+4
+
+6
+
+8
+
+10
+
+II
+
+, "
+Il~
+...::.
+
+•
+
+'t:
+
+~6',o
+~
+
+"
+~
+
+~
+
+,..
+
+~
+
+i!
+
+,c-
+
+orA;,., 1113/ sq.rf./ s t-c
+
+•
+
+..::. o
+
+~
+
+~
+
+4
+
+1
+~
+
+~lj
+
+'i:7C= ;,
+
+I
+
+r ;~
+
+X p~~,./
+~~
+
+i§
+
+~
+
+Q
+
+J'llotNa61.
+
+l
+
+:\
+~
+
+l'
+
+~
+
+~
+
+U1
+
+o
+h:j
+
+'J~
+
+~
+
+;:
+
+~
+
+o
+
+~
+
+' - - ~-i
+
+'l
+
+;::
+~
+"-
+
+-71-
+
+1/' .
+~
+
+r ,~,?
+
+1Of-+
+i
+
+'4
+
+I
+
+/
+
+I--\X«-I'-U~O-,,!>- I /'
+'i,.V
+I"Z-I/
+
+~
+
+;;
+
+~
+
+V
+
+,1/ \ /
+
+~ I--
+
+~
+
+'5~
+
+1 \/
+
+'-
+
+i
+
+V
+
+""--r--__ ----,,....
+;-68.
+
+I--+-+---\;\
+
+~
+P>
+~
+t:l
+
+/.d/lLI ~. ~
+
+~'"
+
+~
+
+'~
+"
+
+o
+
+~
+
+'8
+
+T/~l
+
+\!
+,c-~!\I
+I
+
+~Ji
+~
+
+......
+
+P>
+
+o
+
+4
+
+r'
+
+-
+
+S.91bs woter
+
+1-'
+.l-
+
+[It-
+
+sldedioml!tt!l';upanq<!o
+IoheA09onDlen!'h.
+£If!clrolyflcmonul'ocfurr'
+
+U1
+
+1-3
+~
+tzl
+!:l:I
+
+1 0 0 0 ·...I
+
+C,rctJlorc-t-llsY /n/"
+...
+
+II .Olbs emply(t!.JI)
+
+~
+
+L
+
+,/'
+
+- c- 10
+
+~
+
+S
+U1
+
+o
+
+0
+
+MOSSF/owoI"Air.lbs/s9H/.st'c
+
+~ :11-- 4 tn. d~ep
+o
+.3?Z sqllsurlac,..
+~
+::;ZO".dtrecl •
+~ 1--- ..57.9 c:>t.. Irt:!! (IreD
+
+~
+
+"<t ~ /'
+
+V
+c:::.1--~PI
+
+Plol No. 6 0
+
+II
+
+K",o_
+
+~
+
+~
+'6 ~
+
+V
+
+l.
+
+<:>
+~
+
+Q
+
+j--
+
+;:1'\
+
+,
+
+ta
+
+V
+
+k..
+I ........ r--.
+
+-
+
+Z
+
+0
+
+~
+
+~
+~
+.~
+
+/ fi~
+
+'"
+
+,
+
+8
+
+V
+
+~1~~V
+
+t
+
+at
+!f
+
+/
+
+II K",
+
+~
+
+t.>;1
+
+II
+
+V\ /
+
+<S
+
+16,g
+
+~,,~
+~
+
+/
+
+<.,t'r
+
+~
+
+Q
+
+~
+~
+
+~.. __
+
+';'~I
+~ ,
+
+~
+
+ZO,
+
+.~~.
+
+A
+
+\
+
+~
+"
+~
+
+'"
+
+-~
+.' ~
+,i'
+
+J()
+
+fohl'xo9ono/~nd.s.
+
+t--
+
+V,
+
+IV
+
+1\
+1\
+
+~
+
+I
+
+CIrcular cells :V4In. In,
+.side dldml'/~t; eXPtlnd<!tI
+
+t--
+
+V
+
+Fr~~ A.-. SpUd~ rrll/hr
+
+I
+
+4
+
+~
+
+1/ /
+
+~
+
+15
+
+0
+
+~
+
+24"
+
+I/
+
+II IV
+
+l
+1m
+~
+
+4 "
+
+~
+
+1/
+
+'(SO
+~
+
+~
+
+~
+
+~
+
+I
+
+~
+
+~
+~
+~4a
+
+Z8",
+'"
+
+/
+
+"
+
+I~
+
+C-!:)
+
+~
+
+oS
+
+-
+
+~
+
+D
+
+SV-"/s~.
+
+~
+
+0
+
+6,1
+
+Q
+
+It...
+
+=t::
+~ 60 ~
+~
+
+4 1n. deep
+.52 Z "9 1'1 surfoce
+84.9,,"codtrecl
+41. 2 70 ~r~~oreo
+13.0 Ibs. t!/T1/>fy
+6 .9 /bJ vvof~r
+
+Fr~e Air Spe~d 8 n,,/ hr
+
+t
+...
+i
+1
+
+to
+.,.
+
+£>-4
+
+70-
+
+""
+
+~
+
+150
+
+'T T T T
+
+lzo
+~
+
+~
+
+r
+
++
+6
+Moss Flow 0 ' Air . I/)sI
+
+~
+
+'nil hr
+
+$OFrt''' Air SP~~~O~
+
+ZO
+
+Ii:
+
+-/
+
+0
+l
+Plol lola 57.
+
+o
+
+~
+
+II
+
+447.$q/lsur;t1ce
+
+~
+
+1~
+
+18
+14
+
+tV
+
+f\
+
+~
+
+:-
+
+~-
+
+f7l- M~
+~
+
+.~
+
+'" 70
+
+~
+
+1
+
+100
+
+ISO
+
+100
+
+G-.3
+
+.s
+
+0
+
+10
+
+;';;~':!:~;::::e';~~z;,;~
+
+! I--~
+
+l
+
+sq."/ st"c,
+
+JO
+
+~
+
+~
+~
+.~
+~
+
+-
+
+f4 7%dirt!cl ..
+~~!f~e::.loCt!
+340
+
+l
+
+~
+
+.
+8:
+,
+
+4
+
+6
+
+4-
+
+C-B
+
+~
+
+~
+~
+~
+
+K..,. /
+
+VI'---
+
+SO
+
+~
+
+V
+
+/
+
+"""'$ "ow 0'Air ,,/().1 /
+
+a
+
+~
+
+I/
+
+Fret! Air S,op.ed,
+
+~
+
+/' ,)
+
+V
+
+0_
+
+#'
+
+l
+
+~
+~
+
+Il
+
+1')(
+V\-.
+
+I~~~/
+
+a
+
+ZO~
+I'
+
+J
+
+~
+
+Plof No $6
+
+~
+
+I
+11V
+.
+
+\
+
+~
+
+/
+
+I
+
+1
+\
+
+• J
+~.
+
+Z4~
+
+I
+
+~
+
+'" a
+
+~
+
+II
+
+\
+
+~
+
+~
+
+~
+
+I
+
+wot<!'r
+
+~
+
+I
+
+/
+
+~ j:~~1~~c~r;o
+
+o
+
+~
+
+ISO
+
+~
+G - z.
+~ 70 ~ 1".4 In d~t!p
+1
+ZZ4sfl-rtJur'ac~
+
+~
+
+Fr~ AIr Spt!~d ~ rnl / hr
+
+/l1r
+
+100
+
+V
+
+I-6
+
+6
+
+~
+
+1-
+
+. . . . r-=-= - -
+
+HossF/owurAir ' Ib.s./ sv"f.I.~c
+
+il
+~
+
+l4
+
+~
+
+I~
+
+"t
+
+~
+
+0:>
+
+REPORT No. 63.
+PART II.
+
+WATER FWW THROUGH RADIATOR CORES!
+By W. S.
+
+JAMES.
+
+PURPOSE OF TESTS.
+
+The tests were made to determine the pressure necessary to produce water flows up to 50
+gallons per minute through an 8-inch square section of radiator COre.
+RADIATOR CORES TESTED.
+
+The radiator cores tested were made up by the manufacturers in approximately 8-inch
+square sections and fitted with rectangular water boxes, as shown in figures 1 to 12. The makes
+and core depths of the sections tested were as follows:
+(1) Ajax Auto and Aero Sheet Metal Co., 34-inch square tubes, 4 inches deep.
+(2) G. & O. Ma,n ufacturing Co., 34-inch rhombic tubes, 3 % inches deep.
+(3) The Hanison Radiator Corporation, -Is-inch hexagonal tubes, 4 inches deep.
+(4) The Livingston Radiator & Manufacturing Co., 34 -inch square tubes, 4 inches deep.
+(5) The Livingston Radiator & Manufacturing Co., Is-inch square tubes, 4 inches deep.
+(6) The Rome-Turney Radiator Co., 34-inch square tubes, 3% inches deep.
+(7) The McCord Manufacturing Co., Is-inch elliptical tubes, 372" inches deep.
+(8) The McCord Manufacturing Co., fin and tube, 3% inches deep.
+(9) The Modine Manufacturing Co. , (Spirex core) H-inch square tube with spirals, 372"
+inches deep.
+(10) The Sparks-Withington Co., %-inch elliptical tube, 372" inches deep.
+(11) The Hooven Sales Corporation, (Spery core) %-inch elliptical tube, 2% inches deep.
+(12) The Western Mechanical Works, (Staggered core) flr -inch staggered square tube,
+4 inches deep.
+METHOD OF TEST.
+
+The radiator sections were connected in the discharge line of a centrifugal pump and in
+series with a venturi meter. The discharge from the radiator was connected to the inlet of
+the pump . A reserVe water tank in which a constant head of water was automatically maintained was connected to the suction line of the pump to provide a water reserve and to act as 8surge tank. The centrifugal pump wa driven by a belt from a direct cunent shunt motor.
+The rate of water flow was measured by a Venturi meter with a I-inch diameter inlet and
+a 72"-inch cliameter throat. The Venturi pressure difference wo. observed on a mercury gauge.
+The constant of the Venturi tube and gauge was determined by careful calibration. A constant pressure water supply from a pressure regulating valve was used as a source of water and
+the discharge was measured by means of a large weighing tank of about 100 cubic feet capacity.
+The pressure drop in the water wa measured by means of piezometer connections soldered
+on the radiator water boxes. These piezometer connections were made by soldering square
+copper tubes to the outside of the water boxe , then drilling from the outside one millimeter
+holes, spaced one inch apart, through both walls of the square copper tube and the water box top.
+Holes were then bored in the water box ends and a scraping tool inserted in the water
+box to scrape off the burr on the holes inside the water boxes. A V-shaped strip of galvanized
+iron was then inserted in the water box to protect the holes from the effects of the impact of
+the high velocity water streams impinging on the piezometer tube holes. The holes in the
+I
+
+This Report was confidentially circu lated during the war as Bureau of Standards Aeronautic Power Plants Report No.3.
+
+25
+
+26
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+ends of the water boxes wete then soldered up. The pressure difference between the two piezometer tubes was observed either on a lono- carbon-tetrachloride gauge or on a mercury gauge .
+A general view of the set-up is given in figure 13. The pump is shown discharging through
+a control plug-cock, the Venturi meter tube and the radiator. The pressure drop and Venturi
+gauge can also be seen.
+METHOD OF TAKING OBSERVATIONS.
+
+In taking the observations the water level in the surge tank Was adjusted to a constant
+height, then the pump was star ted and the air removed from the system by means of the air
+relief connections at the high points in the pressme connections. The rate of water flow was
+then adjusted to the desired value by means of the plug cock at the discharge of the pump.
+A small electric desk fan placed so as to force air through the radiator and thus keep the water
+cool was started and when the flow had reached a steady state six sets of readings were taken,
+three sets by each observer. The readings taken were (1) the reading of the Venturi m tel'
+gauge, (2) the reading of the pressure drop gauge, and (3) the temperature of the water in the
+system. When these observations were complete the rate of flow was adjusted to the next
+higher value and the readings repeated.
+Table oj water tube characteristics.
+
+Area of eacb
+water tube.
+
+Radinto r.
+
+Ajax ........ . ............. ..... . . ..... ....... .
+0.&0 .... ... ............ .. ... .......... . .... .
+
+Harrison ........... .......... . ............ . .. .
+
+tl~~~g~ ~~~h:: :::: ::::::::::::::::::::::
+
+Rome-Turney ........ ....................... . .
+McCord fin and tube . .............. ....... ... .
+McCord ellipticaL •........ .• .....•••...... . ...
+
+~~:r~:withiiigton::::::::::::::::::::::::::: :
+
+Spery ..... ............. .. . •.... ... . . ... ... . .. .
+Staggered ............ .... ..... .. .. .... . ...... .
+
+Width 01
+each water
+tube.
+
+Squaro inch.
+0.125
+.226
+.204
+.0946
+.132
+.156
+.0433
+.244
+.154
+. 320
+.173
+.422
+
+Inch.
+
+G
+
+3.65
+2.91
+3.50
+3.57
+3.57
+3.00
+3.02
+2.99
+3.07
+2.29
+3.20
+
+M
+h
+Length of
+3~u1ir
+each water
+IThickness of Iradiusofeach '' tube.partillel
+eacb water
+
+I
+I
+
+tube.
+Inch.
+0.034
+.078
+.05
+.027
+.037
+.052
+.0235
+.081
+.052
+.104
+.075
+.132
+
+water tube
+
+I
+
+to directIOn
+. of water flow.
+
+Inch.
+
+Inch ...
+
+0.0170
+.0378
+.02 7
+.0138
+.0183
+.0255
+G.0587
+.0393
+.0254
+.0532
+.0365
+.0634
+
+7.68
+9.67
+9.02
+15.97
+15.58
+8.00
+8.00
+9. 77
+8.75
+11.03
+8.03
+7.88
+
+Diameter.
+
+METHOD OF WORKING UP RESULTS.
+
+The ,-alues of the rates of flow were computed in gallons per minute for each of the Venturi
+gauge readings at each rate of flow and the mean of these six readings taken as the mean
+rate of flow. The values of the pressure drop in the water were then computed from the six
+pressme drop gauge readings and the mean of these six readings was taken as the pressure
+drop corresponding to the measured rate of flow.
+In this manner five points were obtained on the rate of flow-pressme drop curve for each
+radiator. The logarithms of the rates of flow were then plotted against the logarithms of the
+pressure drops and the observed points were found to lie on a straight line. Then as it was found
+that it was impossible to obtain greater flows than 25 gallons per minute with the set-up without
+bulging the water boxes of the radiators, the straight lines on the logarithmic plots were continued on to 50 gallons per minute. The anti-logarithms of the pressure drops were then found
+for points on the logarithmic curves cOlTesponding to 30, 35, 40, 45, 50 and 55 gallons per minute.
+Plots 14 to 25 were then made by using the observed values of the pressure drop from 0 to 25
+gallons per minute and the extrapolated values of the pressure drop from 25 to 55 gallons per
+minute found as indicated .
+Because of the fact that the logarithmic plots gave straight lines it is evident that the
+observed results may be expressed by an empirical equation of the form
+p =OQn
+Where P is the pressure drop in feet of water, Q is the rate of flow in gallons per minute. 0
+and n are constants. Values of n were found from the slopes of the logarithmic lines and are
+given on the plots for each radiator.
+
+WATER FLOW THROUGH RADIATOR CORES.
+
+27
+
+METHOD DEVISED FOR THE APPLICATION OF 'rHE RESULTS OF THE ACCOMPANYING TESTS ON
+THE PRESSURE NECESSARY TO MAINTAIN WATER FLOW THROUGH RADIATOR CORES.
+
+The following method of approximating tlie pressures necessary to maintain water flows
+tlu'ough radiator cores has been devised in order to ma,ke immediate use of the data given in
+this report in estimating the order of magnitude of the pressure necessary to maintain water
+flows tlu'ough radiator cores of dimensions (i. e., core lengths, widths and depths) differing
+from those used in the experiments described.
+Extreme accuracy can not be expected of the approximation given, the error being between
+10 and 20 per cent. The terms width, length and depth of the core as used in this report are
+defined as follows:
+Core width is the linear dimension of the core, perpendicular to both the direction of water
+flow and the direction of air flow.
+Core length is the linear dimension of the core, parallel to the direction of water flow.
+Core depth is the linear dimension of the core, parallel to the direction of air flow.
+METHOD OF USING PLOTS.
+
+The method used is based upon the pressure necessary to .maintain a given rate of flow
+through single water tubes 1 foot long and of varying depths of core (i. e., 3 inches, 3.5 inches,
+4 inches, 4.5 inches, 5 inches, and 5.5 inches).
+If all the water tubes in the radiator core carry equal amounts of water, the amount of water
+carried by each tube of any radiator section can be computed provided the following data are
+known: (1) The volume of water to be forced tlu'ough the total width of core per minute, (2)
+the total width of radiator core and (3) the number of water tubes per foot of width. The first
+two factors (1) and (2) are dependent on the design of the radiator in question, the latter (3) is
+given on plots 26 to 37 for the cores tested.
+When the amount of water to be carried by each tube has been determined the pressure
+necessary to maintain the required rate of flow can be read from the plots which gives the
+pressures necessary to maintain various rates of flow through a single water tube one foot in
+length of the make of radiator core indicated. On these plots curves are drawn for even one-half
+inch depths of core from i3 to 5.5 inches. The pressure corresponding to the flow desired may
+be read from the curve for the core depth to be used or found by estimation between the curves
+for the core depths given.
+The pressure found from the plot is then multiplied by the length of the radiator core in
+the direction of water flow. The product of the pressure necessary to maintain the desired
+flow through one foot length of radiator core multiplied by the core length will give the
+approximate value of the pressure required to maintain the desired rate of water flow.
+For example: It is desired to find the pressure necessary to maintain a water flow of 100
+gallons per minute through a "Spery" radiator core 32 inches long 16 inches wide and 4 inches
+deep.
+As there are 30 water tubes per foot width of core, there are 40 tubes per 16 inches of
+width.
+The rate of flow through each tube will therefore be
+
+~000 = 2.5 gallons per tube per minute.
+
+From the plot, a pressure of 10.7 feet of water per foot of tube length is required to maintain a flow of 2.5 gallons per minute per tube.
+As the tube length is 2.5 feet, a pressure of 2.5X 10.7=27 feet of water will be required to
+maintain a flow of 100 gallons of water per minute through the" Spery" core 16 inches wide
+and 32 inches long.
+METHOD OF CONSTRUCTING PLOTS.
+
+The following method was adopted in constructing the plots of the pressures necessary to
+produce given rates of water flow through single tubes 1 foot long with varying depths.
+Values of the pressure necessary to maintain rates of flow of 10, 20, 30, 40, and 50 gallons
+per minute through an 8-inch width of core were read from the plot for each type of radiator
+
+28
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+tested. These values of the pressure necessary for an 8-inch core were multiplied by 1.5 to
+reduce them to the value for a core length of 1 foot . The various r ates of flow (i. e., 10, 20,
+30, 40, and 50 gallons per minute) were then divided by the number of tubes and the corresponding values of the flow in gallons per tube found.
+The Chezy formula for water flow was then assumed in the form given below (1) and th e
+effect on the value of 6.P of changing core depths found for the rates of flow indicat ed above
+as follows:
+V = Linear water velocity.
+6.P = Pressure necessary to maintain velocity V.
+R = Hydraulic radius of water tube.
+Area of water tube
+=Perimeter of water tube.
+A = Area of water tube.
+Q=Rate of water flow.
+t = Water tube thickness.
+d = Water tube depth.
+n & c = constants.
+1
+
+V= 0 (R6.P)n
+td
+and R= 2(t+d)"
+
+(1)
+
+Now Q=.A V,
+A=td,
+Substitution of these values in (1) giveR.
+
+6.P
+td J~
+Q= Otd[ 2 X t + d
+2Qn
+t +d
+6.P = On X (td)n+1'
+
+so that
+Since t, =tz , we have
+
+6. PI et, +d, )(t zd2 )n+ l
+6.P2= (t2 + d2) (t,d,)n+I'
+6.P, =
+
+6.P2(~J+'G: !~!}
+
+(2)
+
+Equation (2) provides a means of evaluating 6.P for a core 3 inches, 3.5 inch es,4 inches
+(etc.) deep when the value of 6.P for a core "d" inches deep "t" inches thick and the exponent
+"n" are known.
+When the values of 6.P for various core depths are found in the manner indicated above
+and are read directly from the curves plotted, the following assumptions have been t acitly
+made:
+(1) That the same quantity of water passes through each water tube in th e core.
+(2) That the pressure maintaining flow varies directly as the length of t he water t ube
+parallel to the direction of water flow, and that tbe entrance and exit losses are neglected.
+(3) That the pressure necessary to produce flow varies inversely as the h ydraulic r adius
+and directly as the {( nth" power of the linear water velocity. The values of "n" being found
+by experiment when the hydraulic radius remains constant.
+(4) That the water tube thickness remains constant for any given core and has t he value
+given, when the depth of the core and the length of the water path ch ange.
+
+ui
+
+"
+
+.0
+
+3
+
+"
+:a
+E!
+
+o
+
+-E
+
+2
+
+1
+
+--
+
+-
+
+0.
+
+~
+
+'0
+
+KJ
+;::
+
+"
+.=
+.,..,
+....N
+
+~
+
+6
+u
+
+I
+
+I
+I
+I
+
+I
+I
+
+I
+I
+
+l_
+
+28-2
+
+I
+
+i
+I
+
+r~
+-
+
+~
+
+F IGUR], 1O.-'1'h c Spa rks- Wi t h ington Co. i -inch elliptica l t ube. Core3} Inches dcep.
+FIGU nE 9.- '1'h e
+
+~ l odi M
+
+Manu fllCllIl'lng Co . H-ineh sq ua re t ll bo lIit h spIral s. Core 3l inches deep.
+
+}' lGURE H .-The Ti oo\' cn Sa les Corporation . i-inch elli ptirallu bc . Corc 23 inches deep.
+
+I
+
+L_
+
+F IGURE 12.-'1'he Western
+
+~Iech a ni ca l
+
+\Yor ks . T'.-ineh staggered squar e lu be. Core 4 inches d ecp.
+
+- --
+
+- -
+
+'- -
+
+---
+
+F WUHE l 3.-J pparatLl s used to measure pressu re necessary to prod uce water now through l'n.ciiaLol" cores.
+\
+
+:Jl>-J
+
+29
+
+WATER FLOW THROUGH RADIATOR CORES.
+
+14
+
+14
+
+AJAX
+
+G d- O
+
+Y4Squorr! Cel.
+
+Y4,"Rhombus
+
+13
+CHARAC TERISTICS
+t - - Number waTer. tubes 26
+Areo
+"
+.. 3 .Z5
+Core heiqat
+7.7
+I r-., width
+8. I
+.. depth
+4.00
+Temperature waler
+r-- o Observed poinTS85"
+x Cxtr(7Polated ..
+equollon. LJPo< Q /.IS
+
+CHARACTERI..5 TICS
+Number water tubeS 37
+Area
+"
+" 8 .34
+Core helqht
+78
+-.. widtli
+8 .0
+~
+depth
+3 .38
+Temperature water Cl9°
+o Observed p o inTS
+x cxtrapo lated ..
+Cquation. /Jf'ex 0 ' 75
+
+-
+
+in.2 ?
+In.
+
+-
+
+in.
+
+In.
+F.
+
+-
+
+./
+
+/'
+
+. ,
+1(7.'
+
+tn,
+in
+in
+F.
+
+I
+
+V
+
+,../
+
+/
+
+....--- ~
+(J
+
+~
+
+/"
+
+V
+
+\
+
+2
+/
+
+14'"
+
+...---" ~
+
+10
+20
+30
+40
+..50
+Water Flow in gallons pt"r l71in. per tJ Sq. st"cfion. Q .
+
+II
+
+HARRl50N
+716 '!iexoqonaICell
+
+13
+
+/
+
+CHARACTERI5T1CS
+Number waler tubes 14
+Area
+..
+"286 In.z.
+Core heiqhl
+7.8 In.
+1Widf1,
+8.0 tn.
+dept
+4.0 In.
+Temperature water8S' r.
+r-- o Observed points
+x EXTrapolated ..
+Equation,f)!"", Q /.SJ
+
+'-
+
+V
+
+/
+
+V
+
+/
+
+10
+ZO
+30
+40
+50
+Water Flow in 90110/705 per n 7i n . .oer trsq section. Q.
+
+14
+
+I
+
+-dVING5TON
+
+:4' 5quare7ube
+
+13
+
+CHARAC TCRIS TICS
+No water lubes31
+Area "
+"Z.9 Zln .
+'
+'\I
+Core nelqld 8 .0 In.
+~II .. width 7. 7 in. II
+.. depth 4.0 in
+• Temp. watertJ7 oF.. .
+~ 10 Q·Observe7p,oints /
+x·Extrop ol'td. ...
+£quo tion./J pa 0 I . • J
+
+Q.IZ
+
+2
+
+o
+
+/
+
+/
+
+Water
+
+V
+,.]
+
+L
+
+I
+
+I
+
+I
+
+/
+f.
+
+I
+
+V
+
+j
+
+I
+
+I
+I
+
+.
+
+ZO
+_10
+40
+SO
+FloW in 'la/Ions per min. per <5 "sQ, sect/on. Q.
+
+I
+
+/
+
+/
+
+I
+
+I
+
+<li
+
+Woter
+
+I
+
+II
+10
+
+now
+
+I
+
+I
+I
+
+I
+I
+
+I
+
+1
+
+I
+/
+
+o
+
+~
+
+I
+
+j
+
+V
+
+z
+
+I
+I.
+I
+
+~
+
+L
+/
+IT
+
+V
+
+I
+
+Il
+
+I
+
+/
+
+/
+
+V
+
+I.------' V
+
+.....--
+
+~
+
+o
+
+/
+
+14
+
+I
+
+I
+
+./
+
+I
+I
+I
+
+1
+I
+
+I
+
+lO
+.JO
+~
+50
+m 90110ns per min per 8 -059 ~ectior Q.
+
+30
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+/
+
+14
+
+-'::/vING5TG.N
+¥t6SqllareTube
+CHAI?ACTEfll5TICS
+f--- Number waf er tubes 2 S .
+Area
+. "
+., 3.30 tn.z.
+7.8 Ifi.
+;--- Corc- he/qhl"
+•
+wIdth
+7.8 in.
+•. dept h
+4 .0 in.
+;--- Tempervt ure w afer 8 r r.
+o Ob served pol n t-s
+x e Xtn7pol o l"e d 1 "
+Equa t i on ,IJPa. 0 ..$7
+
+/
+
+14
+
+/
+
+/
+
+i
+l
+
+ROME-TURNEY
+Y4"Square Cell
+
+/.3
+
+/
+
+-
+
+I
+
+-
+
+CHAflACTERl5TIC..5
+/'lumber water t ubes 30 . z.
+Are"
+.,
+" 4. 67 tn.
+Core height
+7.8 Ii?
+..
+w ldfh
+7."'7 ' In.
+"depth
+3.34 in.
+"Temperature water86° r.
+o Observed 1tlnts
+X Extl7:7polate
+.,
+equation, LIP", 0 0 .87
+
+/
+
+/
+
+/
+
+V
+/
+
+/
+/
+
+z
+
+V
+
+/
+
+'- r---
+
+2V
+
+.-
+
+./
+()
+
+-
+
+10
+20
+30
+40
+.Ji?
+Water F low in gallons per l77in.per 6'so. section. Q.
+
+/
+
+J
+--.J.
+
+14
+
+Vo
+
+/
+
+/0
+20
+30
+40
+50
+WaTer Flow 117 qallons per min. per cJ""sq. section.
+
+/4
+
+/15CORD
+
+~6£1/iptical Cell
+
+13
+
+o
+
+CIfAflACTCRISTICS
+12 t - - Number wafer l u be 2 2 .
+S.
+Area
+N
+. ,
+5 .3 6/17.2Core heiqhl'
+(JO in .
+I-- ,. Wid t h
+7.9 in .
+,. depth
+3 .50 in.
+7em p eratua' w a fer81° F
+I - o Obs er v ed tJji n}s
+X e x t r apolate
+..
+equa t i on, AI'", Q Uo
+
+M~CORD
+
+OiAflACTEfl/5 TICS
+
+r-- Number water tubes56.
+
+Area
+."
+"2!fZ In.z
+Core he/qht
+Cl.O In.
+f--.• WIdth
+7.9 in.
+" depth
+3.62 In.
+7em,oerature w ater 93 ° F.
+i - - 00bserv· ~d points
+x EX tro,ooloted "
+Equati on, APex q 1. 83
+
+1
+/
+/
+
+/
+
+0
+
+Fin and Tube
+
+13
+
+I
+
+V
+
+V
+
+z
+/
+
+V
+
+/
+
+V
+/"
+
+:/
+
+/'"'
+
+I
+
+/
+
+//
+Y
+
+,/./
+
+/
+
+.
+
+V
+
+.
+
+/
+
+/
+
+o
+
+./!'.
+
+V
+/0
+
+ZO
+30
+40
+50
+Water flow in 901/01705 p er min . p er 8 ··sq. section . Q .
+
+o
+
+....../0
+
+...-" V
+ZO
+
+---
+
+V
+
+30
+
+/'"'
+
+V
+
+V
+
+40
+
+50
+
+Wofer Flow ;n go lions p er rnin .per8"sq.section.Q.
+
+,
+
+81
+
+WATER FLOW THROUGH RADIATOR CORES.
+
+14
+
+'!I3z. Squon: tube with spirals
+
+13
+
+-
+
+SPARKS - WITHINo TOIY
+.1/8 'Elliptical Cell
+
+13
+
+ChARACT£RISTICS
+Number water t'ubes 24 .
+Area
+. ..
+..
+3.7 1(7."
+core helqhr
+6.0 In.
+.. width
+7.9 ;(7.
+.. depth
+3.4Z In.
+Temperature wafer 84° r.
+<;) Observed popts
+x LX trotJolofe ..
+equation, AP DC Q,.65
+
+-
+
+j
+
+14
+
+MODINL
+
+/
+
+CHARACTERISTIC.:;
+Number water tubes IS . 2
+Area
+..
+"1 4.76117.
+Core heiqh t
+7. 9 in.
+I-w/dth
+8.0 i(7.
+"
+.. depth
+3.48117.
+Temperature water 103 0 r.
+I - - o Observed points
+X Extrapolated ..
+equation APex 0 1."6
+
+-
+
+12
+
+/
+
+/
+/
+
+/
+
+/
+
+V
+
+/
+
+.J!l..
+
+o
+
+/
+
+II
+
+Y
+
+/
+
+'/
+
+V
+
+V
+
+/
+
+/
+
+/
+,~
+
+/
+
+i
+
+/
+
+V
+
+./
+
+L
+
+10
+20
+30
+40
+50
+Wafer FloW in gallons per rnin.pertrsq.sectioI7.Q
+
+o
+
+o
+V
+
+v
+
+Y
+
+/
+
+10
+20
+30
+40
+SO
+Water rlow In gallons per mm. per (J"sq. section. Q
+
+/
+/4
+
+5PefW
+s/a,,£llipft'col Cell
+
+13
+
+/
+
+ChARACTcRISTICS
+-:-- Number woter tubes 20 .
+Area
+."
+.. 3 .46 117.'Core helqht
+8.0 117.
+Width
+8.0 (17.
+.. depth
+2.69 In.
+Temperature waler86 ° r.
+,.--o observed point's
+xExtrapoloted "
+EqUOt'lon,APocQI.SZ
+
+-
+
+.
+
+f
+'/
+
+/.
+
+/
+
+.
+
+14
+
+STA GGA Ii'D
+13
+CHARACTLR/STICS
+.
+Area
+"
+"IO.S6 ~n.z.
+Core' heiqht
+7. 9 tn .
+r--- '.. width
+7.9 in.
+.. depth
+.3.98 in.
+Temperature wafer 8B°!'"
+r--- o Observed points
+~ Extrapolated ..
+:quation, AP oc Q 1....7
+
+12 r--- Number water tubes 2S
+
+/
+
+,
+~
+
+/
+
+V
+
+V
+
+I
+"V
+L
+
+V
+o
+
+......-
+
+/
+
+I
+
+/
+
+V
+
+/
+./
+
+V
+
+/'
+
+10
+20
+30
+40
+50
+Water now in gallons per min. per {j ·'sq.section.Q
+
+o
+
+-
+
+~
+
+.,....r
+
+V
+
+L
+
+/
+
+V
+
+10
+20
+30
+40
+SO
+Water rlow in gallons per min.per8:sq. secf/O/1.Q
+
+,
+
+32
+
+ANNUAL B.E P ORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+~.-.
+
+I I.j
+
+AJAX
+
+~4
+
+f-
+
+5quore Cell
+
+Number or woler tubes per fool or
+Cor €' width ~ 39
+
+.. -
+
+v-Q
+/
+~'S V
+
+G & 0
+
+t--
+
+y.,:' Rhombus
+
+I'---
+
+Number oTwaler'lt./bes per 1"00101"
+Core width = 56
+
+..
+
+L_
+•
+
+--
+
+•
+
+.-
+
+"
+
+lY~ ~~
+<f: .#,
+
+/
+
+cf:t
+
+/ /
+
+~r
+
+, b~
+
+"V
+
+6
+
+~6/!.
+
+e.
+
+/ 1(07 . he.~
+
+V/ v::: ~ ~
+v
+~~~
+
+~~
+
+o
+
+5
+
+A
+
+L£
+
+V/ ~ ~ ~e
+;,,(~ ~
+
+I~ ~
+
+lit> ? '..ll
+V/, Lr ~
+O
+
+ILV/ ~ ~
+&~
+
+~
+
+l& ~ ~ ~
+
+W ~~
+/0
+
+U
+
+ZO
+
+Z5
+
+Irote 01' r l ow in g o /Ions per mInute per woter tube
+
+o
+
+.2
+
+.4
+
+.6
+
+(J
+
+10
+
+IZ
+
+1.6
+
+!."'f
+
+/fate of rlow in gallons per rnll7ul'e per wafer tube
+
+ISO
+
+II
+
+B I
+/
+
+HARITI50N
+f---
+
+f--..-
+
+-M6 Hexoqonol Cel/
+
+Number of water tubes
+per Toot 01" core w i dth ~ 2 I
+
+,,\)/
+
+l/
+
+7
+
+/
+/
+
+,q,~y
+
+i V
+p !~l
+,
+
+/
+
+i / "rb f.Y. /
+v, f
+o
+
+/ /
+
+I
+
+/
+
+1// /~f. ~9
+cP
+
+II 1/
+/
+/ / 1 // 17
+V I v/ V/ V
+
+j v ~V
+~
+/'
+~~~
+~
+~~
+o .4 .8 /.l /.6 Z.O 1.4
+
+l .8
+
+3.Z
+
+/
+
+/
+
+II
+
+/ 0/
+
+W'
+",Q/
+
+/ t./
+
+10/
+
+' rl-
+
+sf10/
+
+CO
+
+~/
+
+(
+
+")'
+
+if
+
+.
+
+·,W
+
+dv
+
+/
+
+Number of woler Tubes
+per fool 01" core width = 4 7
+
+/
+'IW R
+
+/
+
+~i
+
+LlVlNG5TON
+
+J/4"5quore ((>1/
+
+/
+
+/ / <f ~/V
+/
+
+~L
+
+/ co/ ~07 ~Q
+/
+
+e
+
+/ V // ~~ ;p
+./
+/ V/ / Z
+
+~~~ V
+-~ ~ ~
+
+36
+
+40
+
+/fate of rlow in g o l/ons per rninule per water tube
+
+~
+
+~v
+
+~
+.2
+.4
+6
+.8
+1.0 I.Z
+1.4 16
+1.8 Z.O
+/?ote of now in qallons per minute .o~r water lube
+
+o
+
+33
+
+WATER FLOW THROUGH RADIATOR CORES.
+30
+
+IT
+f---
+
+LlVlN6.5TON
+~6St;.uore Cell
+
+Numberol"waler IUbe~ 1
+Iper foolofcore widlh"38
+~Q,
+
+,~
+
+{
+
+f
+
+t?/
+
+W l/
+(I;
+II
+
+/
+
+/
+
+fl
+,q,
+
+<>
+
+/
+
+7
+
+l I L ~Y
+/ v / v/ '7
+
+o
+
+.2
+
+4
+
+6
+
+/,2
+
+1.0
+
+1.4
+
+16
+
+It!
+
+/
+
+1/
+
+l~
+
+~r
+
+r "I ;fV
+
+/
+
+.(I.~
+
+()/
+
+/
+
+/ /
+
+V/ V /
+
+Go)'
+
+"0
+
+~/
+
+~
+
+(0;;e~~ ~
+v.:·c
+V
+,~
+
+~~
+
+V/ / / '/~
+
+~~ ~ /
+
+1
+
+8
+
+/
+
+1/~ V
+
+2
+
+~~
+
+~~
+
+L
+
+/
+V
+/
+
+/ ~V /'
+~
+
+/
+
+/
+
+I
+
+I
+/ / .1 V/ V
+/
+III1/ 'iV
+
+/
+
+~)
+
+If
+
+7
+
+/
+
+,/)
+
+/ I II If ;f:e y
+
+j
+
+Number of water tubes per foot
+Core wldlh = 36
+
+-
+
+1/
+
+01/
+
+H OD/NE
+'Y.31. 5quare lube with spIrals
+
+/
+
+Go/' . ~
+~~
+
+II /
+
+f---
+
+[7
+
+b~
+
+~7
+
+S/
+
+/
+
+/
+
+if II /
+
+I
+
+z
+
+15
+
+~ "/
+
+I~ ~ ~
+
+o
+
+.2
+.4
+.6
+8
+10 IZ 14 16
+//3 Z.O
+nate of rlow in 'lallons per minute per waler t ube
+
+20
+
+/fote ot" Flow In 'la/Ions per mmule per water tube
+
+'II
+
+~
+
+M5(OnD
+rin and Tube
+Curve qiven IS Tor a smqle water lube
+Circu/ar in sec/Ion OOZ3.5 'ii? dtom
+
+~
+
+~
+~-
+
+~
+
+~
+
+~
+
+~
+
+.....
+
+/'1sCORD
+S/t"6£1liptical(ell
+Number of woter lubes per footof
+Core width ~ 3.3
+
+I--
+
+0
+
+:l::
+
+<:),
+
+~
+
+/
+
+.....
+
+/
+
+<:l
+
+~
+
+II
+
+Q.,
+
+~
+
+~ 16
+
+/
+V
+
+/
+
+0
+
+o
+
+.1
+
+. ~ .8
+~
+
+V
+
+'~" .4
+
+Y)
+
+"l
+
+~ .2
+
+Il.:
+.3
+
+/'
+
+~
+C::S .6
+
+V
+.2
+
+.4
+
+.5
+
+V
+
+~
+
+)
+
+V
+
+c,f'
+
+tl.O
+
+V
+
+V
+
+I"' ~/;'
+eV"
+
+~
+.... 1.4
+I:l
+S. /
+...... Z
+
+.6
+
+.7
+
+a
+
+~
+
+....-:::: Iii'""
+.J
+
+10
+
+note of rlow tr7 qallons per minute per water tube
+
+0
+
+V V
+./
+
+/'
+
+/
+
+1',,(1
+
+V
+e~
+
+~ bo/
+
+',51
+. / Ctt- ~ ~
+
+V
+
+v::: ~ ~ ~
+~
+or
+
+~ ~ t;:::--I- ~
+~~
+I~ ~ ~ ~
+~~
+
+z.z
+
+Z
+4
+6
+8
+1.0 LZ /,4 1.6
+/.8 Z.O
+Z~
+nole of rlow In 'la/Ions per mInute per wol,r lube
+
+34
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+f-Z
+
+.I
+"0
+
+.V
+
+Z
+
+8
+
+6
+
+5
+4
+
+.J
+
+.2
+I
+
+/
+
+r---
+
+NumberOTwo/er/ubes per rotfoT
+Core width = 23
+
+/
+
+V
+
+W
+-c/
+f1l.~
+
+d /
+f/
+
+.. rf .
+......
+
+V
+
+()r
+
+/
+
+~
+
+L c£ k~ leo/
+
+.L /
+
+v::
+
+it:
+o
+
+(;)
+
+':>J
+
+/ 0/
+
+/ / ~ ~~
+~ ~~
+/ ~
+/~ ~ ~ V
+~ ~ f/'
+~V V
+~
+~~
+
+LV
+1
+
+V/
+
+L
+
+V
+
+/
+
+/
+
+V/
+
+0/
+
+~If()
+rvrf/. ~J7
+~rJ) ;~
+cP
+
+~ fP'
+~(e
+
+V/ ~ ~ ~
+
+/
+
+h ~ ~V
+
+~
+
+.A ~po-
+
+~-o---
+
+.2
+4
+6
+8
+/.0 /.Z 14 16 18 Z.O
+/Tofe of now in 901Ions per mlnl/l e per woter fube
+
+r--
+
+/
+
+SPARKS-WITHINGTON
+3/ -E/liplicol eel/
+8
+
+l() /
+
+J
+
+.7
+
+I
+I
+
+trOI1E-TUIfNEY
+I
+'PI"Square Cell
+Num ber ofwo/ertubesper Toot aT
+Care wIdth ~ 45
+
+30
+
+.5FEflY
+.5/s-Cllipt/coICell
+Number oTwoter tubes per (bol oT
+Core width = 30
+
+o
+
+4
+8
+/.Z /.6 Z.O Z4 Z8 3. 7. 36
+li'ote aT ,Plow in qol lons per l7Jinu le p er woler tube
+
+" WE.5TEflN STAGGARD "
+
+V-
+
+I---
+
+r---
+
+Number of water tubes per Toof aT
+Core width = 38
+
+tj
+
+,'/}Q;
+
+';'IJ
+
+V
+
+f
+/
+
+/
+
+.'~/
+
+-S~
+
+t~1
+
+V ~~·v
+
+~ ..' 1/
+
+L V 'fVy
+V
+/ GO -///~
+L
+V L / cP 1v. e~
+11-."
+V.d
+~~
+Li lL: L V ~[..7 ~
+j§J/ V ~~~
+~ ~~~ V
+po-
+
+/
+
+/
+
+S
+10
+_
+1
+.5
+Z.O
+23
+Irale of ,Plow in qallons per minute per woier lub,
+
+/
+
+L
+
+V
+
+L
+
+~)9
+
+~e "oe) V
+
+"oe
+V r? V,? ~
+J/'
+
+V V ~~ ~
+~
+
+/ / ~~~~
+/. ~ ~ ~ r::=.../
+
+w~
+
+~~ ~
+o
+
+V·
+
+o
+
+~
+
+I-'"
+
+.1.
+.4
+.6
+.8
+1.0 1.2
+1.
+4
+1.6
+1.8 Z.O
+li'ofe of'plow in 'l01lons per l77inufe per water tUbe
+

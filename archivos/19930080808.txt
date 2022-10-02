@@ -1,0 +1,859 @@
+,
+,
+
+lmmfoai
+N&!rmuiz
+
+W!Eso
+
+ADvm$RP COMUT!C9S
+ma AERoxlm!Ic&
+
+MO, 30,
+
+.
+.
+
+.
+
+.
+
+5!MuwUtti8d frae -the
+
+*mnsnand
+
+sbatwuted
+
+—
+
+.
+
+.“.
+.
+..
+.
+
+..
+.
+
+“,.
+-. -.
+,. .
+-.
+. . .
+.
+..”
+
+,.-
+
+.-
+
+By II.
+Prandtl.,
+PART 11.
+.“
+
+A. THEORYOF MULTXPLANES.
+of
+~ha determination the resistsnoe w=
+.
+ence of a wing 2 on a wing 1, is obtai=d
+of eguation(14) the speed WE,
+
+hY
+
+dus to the influ-
+
+calculating means
+3y
+
+due to wing 2 at a Eoint situated
+
+in the sarr.e
+plane as the lifting screw, this plsme beingperpeEdic’
+
+u2ar to the direct~onof the stream We obtafi:
+
+.
+
+1 5s the span of the wing; a, the distancefrom the point
+I
+considered the originof the coordinates and j? the angle with
+to
+~
+
+where
+
+one of the Z lines on the right which joins the point considered
+to the origin
+
+of the axes.
+
+The expression(30),being symmetrical. relationto
+in
+wings 1 and 2, shows that the resistance to which wing 2 is subJected
+
+M
+
+on accountof the presenceof wing 1,
+
+iS
+
+the
+
+S-
+
+aS
+
+that
+
+which
+
+just been determined. Otherwise stated:
+
+This relation, which is of vefy great
+
+$mportance,
+
+was
+
+first
+
+found bymeaas of anothermethod by Mr. Muds, one of the author’s
+collaborators.
+
+-3-
+
+.
+
+~f ~nd i~ftkg systemithe elementsof which ere situated
+in the seine lane,m
+p
+
+choosekr~ @%l@& J kh
+
+rdE~sta&
+
+of
+
+group
+
+1
+
+due to group 2, is the same as the resjstanoe group ~ dUs *6
+of
+
+‘
+
+group 1.
+The dbterminafiionof
+resistance the more generale-am
+ia
+where the elementsare not in the sameplane perpendicular
+
+to the
+
+stresm,leads to the conclusion
+that the resistances
+hduoed by one
+v?hg on the other are only aqual when, as assumedabova,the wings
+are in the ssmeplar~ pqmdioular
+
+to the direction the stre
+of
+an.
+
+But 5f the wings me staS6ered,
+the srm of Peeis%mces rema~m
+constantwhateverbe the enmunt
+
+of
+
+stagger.
+
+It is howevernecessarythat, ~~r~
+
+to the mount of
+
+stagger,the anglesof attackof tha wings are such that the lift
+5s always” he sane. The sun of the resistances induoedby ona wing
+t
+on the other is gi~en by the foimzla:
+
+.
+
+Eormulas (33} and (14) show that total resistance
+.
+
+well
+
+q
+
+5s
+
+a
+
+def
+inad functionof t-ha
+liftsAl, A2 ......... %“
+In an articleentitledll~ndmed
+Resistanceof Multiplsn9sn
+
+which a~eared in the ‘Technischen
+3erichten der Flugzeugmestarein
+i
+
+Vol. 111,p. 3G9, the author shows that the total itiucedresistance
+W
+
+of
+
+a
+
+biplane,the wings
+
+erenoe
+the cliff
+
+w=
+is a
+
+wMoh
+
+had spansequal to bl and b2 ,
+
+being equal to bl, mm be expressedby the formula:
+~
+
+~~ q b;
+
+where @
+
+Of
+
+certain
+
+(~ + 2&@
+fumtion
+
+A1A2 +&L2
+
+A;
+
+of 2h/(bl + b2) and of#
+
+(36
+)
+= b2/~ .
+
+We oen thus solve the question as to what shouldbe the ratio of ~
+
+-4i%
+% ~ Al beihg constant,
+
+w tty be minimm.
+
+(37)
+
+which shows, ~
+
+being <M
+
+, ‘that
+this resistance less thsn
+is
+.
+that cf a monopl~e of span bl, liftingAl + A2.
+
+.
+If W8 take tha maximum span bl,
+will occur for b2
+
+=
+
+bl snd ~
+
+=
+
+the
+
+minimum resistance
+
+Al.
+
+the ratio of thz itiucadresistance
+
+If we designatebr ~
+
+of a lifting8ystemto that of a monoplsnehavingths sane span
+and the ssme total lift,the inducedresistances the two lifting
+of
+systems,
+hsving the same 1ift Ca are come cted by the expression
+c. - Cw
+w~
+2=~-
+
+~
+[
+
+‘“’VA
+b;
+
+-
+
+‘2 ‘2
+b: )
+
+(38)
+
+is
+to
+This foxrmiia ih.m Mr. Mu&.
+
+B. LIFTINGSYSTEMSCF linmiubiEmmWcm
+R
+
+q
+
+4
+The quest
+ion of the minimumresistance a liftingsystem
+of
+of which the mean wing sections
+have givan dimensions
+and Supplya
+determined
+lift has been studiedin a work by Mr. !&x@ a collabor
+orate of the author.
+me
+
+question &s
+
+under another form and k
+
+again been taken up by the author himself
+has been led to assme
+
+that the minim=
+
+resista,noe a Zifti.wsystemis
+of
+.
+
+w.
+
+A2/4qFt
+
+of
+where F 1 is a surfacethe dimensions
+
+whioh
+
+depend
+
+m
+
+the condi-
+
+tions of the ~$oblbm,
+
+.
+Three cases are sxaminedi the Ti*st ref
+era to z biplane
+
+.havingthe two wings of the same span. ?akiw 1’ as the ratio of
+the inducedresistance this biplarato the resistance a monof
+of
+Opzsneof the sam
+
+sgan carrying the same load, and h/b the ratio
+
+of the gap to the span of the w%ngs, we have
+(44)
+‘;
+
+~
+
+l’heseoond case is that of a biplanehavingthe upper and
+lower planes conm cted by two vertica3 pknes
+
+plaoed at the tips
+
+of the wings. This biplane g%ves less ses$s+ance than any
+
+of
+
+the
+
+mlt iplane,e
+occupying the seinespace. We hsme :
+
+(4$5}
+~%%%%%-The third case is that of a monoplanehavings.slit of width
+d
+
+in the middle of the wing. By msans of this d8viCe tha resistance
+
+is that of a wing having a span” b - d.
+c.
+
+3REE STREAM AND STRE&d LIWIED
+
+BY W~S.
+
+As regardsthe v+lue of test results, it 5s obviouslyof
+.
+great imrportanoe examinethe questionof the influence the Mmto
+of
+itationsimposedOn the airstrmm in which models are tested.
+Two methods are generally employed:
+(a) The tmnel
+(b) A free streamtraversing the experimental chamber.
+The conditions at the limits are:
+lifying of the normal
+
+oomponen%, Wn,
+
+for
+
+the
+
+first, the nviL-
+
+of the speed. 3’or the seoond,
+
+the constanoy of pressure.
+
+This latter conditign leads to the relation:
+(V + v)2 + u2,
++
+
+w2 =
+
+const. = V2
+
+-6-
+
+whence , neglecting the terms of eecondmy importance
+V=
+
+().
+
+be solved by superposing on the flow
+
+Z!lmsetwo problems my
+
+of the fluid extsndedto 3ti-tY
+
+=mt@r
+
+flow to t~ Potenti~ of
+
+velocities~
+such that the velocitiesat the limitsdue to this potentid have tk
+
+values
+
+The cmpments
+
+-wn and -v.
+of the weloc%tiea tiusto this potential
+
+perpendicular the wing, modify the angle of attadkof the wiw
+to
+otherw5ngs.
+in the ssme way as if thesemodM5cat ions arose froru
+The author has examined this question in detai~ for a
+
+Sin-
+
+gle wing with elliptical distx~bution of liftplaced in’ Wind
+a
+Tunnel of ciroular section hawing a free stresm.
+
+.
+
+.
+
+.,
+
+be the span of the wing;
+D S 2 R, the dimtez
+of the stream
+..
+= 2 xb&
+5
+The oomponentof the speed narmal to tl& direetion of the
+,
+stream, due to the conditions @ the Umits is
+Let
+
+-.,
+.,
+
+Wt =
+
+b
+
+‘A 2“1+”””:~2 %5’ ‘-)
+(
++Hi4+’
+
+4?TR2/?V
+q
+
+(48)
+
+.~
+The additional msistame
+
+due to thi$ speed is:
+
+Keeping only the first term of this
+izxtuoed
+resistance is:
+I?*== +
+~
+f
+,
+.
+
+wtire
+
+30
+
+is the surfaceof t=
+,
+
+.
+
+seotion
+
+of the air-stresm.
+
+-7-
+
+h+
+
+ssm$,
+
+b hnmd
+
+with
+
+hnintemuptixl
+
+B&o~
+contrary signs kt
+
+walls
+
+t%
+
+correction
+
+is
+
+~
+is; the hes kiice tiamred
+
+~s
+
+4’
+
+the
+
+smaller than the trub m sistance in an unlimited stream of air.
+
+This correction is far from being negligible: thus
+usual
+
+1/8
+
+b/D = 0.5,
+
+a
+
+caee in laboratories, the add%tioml reststame reaohes about
+of
+
+the
+
+induced resistances.
+
+Another problem, that of a wing &raverslng
+drical
+
+for
+
+stream,
+
+8 free
+
+cyUn-
+
+is of practIcA interest en aooount of the simplein-
+
+staUatioa required for the experiment.
+The solution is given by the faot that the lift of the
+wing is nullified where the wing leaves the air-stream.
+R2 . =2
+—
+~2 ~ #
+
+As81aningfor serial development the funotim
+we find that
+
+w=
+that
+
+1.74 A2/2 ~
+
+V2 3’0
+
+is, the measured resistance is ~“eater by X.74 than the resist-
+
+ante of the sam
+
+ti~
+
+in
+
+an ml 5mited stream
+
+~inally the author exsmines the ease where the chord of t~
+m
+
+is suoh that the variation ~f the speed Wn
+
+8ta1 direction
+of the stream
+
+can no longer W
+
+parallel to tbe gen-
+
+neglected, this 2ead-
+
+ing to a modification of the oamber of the wing.
+The author considers
+more pgwticularly the coalitions
+of
+%ests Of a Wef the qper
+to
+
+-
+
+l~ited & two ~erti~~ plUS
+
+(co~ct~
+
+lower wings) traversing the stresm,
+
+the tips
+
+the object being
+
+determine the conditions of a plane-parallel flow.
+measured resistance is then
+
+w=
+where 3’0 is
+
+still
+
+A/2~
+
+the section of
+
+V%’.
+the stream.
+
+AZso the camBer of the wing should be inoreased by the value
+
+-a@i
+
+d
+
+~
+
+ca%/12h2
+
+(h being the heightof the b&M#bi)h order that the test .&allgive
+the same resultsas that of the wing tith the original
+
+oember and
+
+of infinitespan in an infinitestrean.
+
+in a tunneJ with walls,the measuredresistance is equal
+to the true resistance, but the camber ~st
+
+be diminished by half
+
+of the value given by the expression (58).
+.
+
+D. Conditions OF FLOW AT A GREAT DISTANCEFROM
+The pressure
+vortexes acc~p~i~
+
+in space outside the
+
+the wings is given by the relation
+
+r
+
+pv
+
+P-PO=
+
+at any point wktever
+
+~T
+
+=
+
+~’ dx. ‘“’~r2’”s jz
+
+J
+The varions’notations comprised in this
+
+Az
+4’7,
+r3
+
+(60)
+
+formulaare explained by the
+
+.
+
+“
+
+fallowing ske%oh:
+
+.
+.
+.
+
+42
+A super-pressure reigns beqsAth the lfi=tingsystem, and a
+depression stove
+The
+
+it.
+
+I
+
+integral of the cliffrence of the pressures borne by an
+e
+
+infinite surface perpendicular to the Z arc
+
+is
+
+~
+
+~~
+
+a~cordti
+
+to whether the surfaoe is above or below the lifting system. *
+I
+these surfaoes surrounding a lifting system thus bear the whole
+
+as
+of
+
+.
+
+-s-
+
+.
+
+of the lift under form
+
+of
+
+preeswe;
+
+one of these Surfaces 3,sat a f$ut.a distancefrom the
+lif
+tiag system, as ia the case for an airplw.e i’iyiugabove the surface of the earth,it will be neoessary, &n order to satisfy the cons=f ace of the earth,
+ditionsat the lim%ts,to assuae,below t.hs
+an analogous llfting system directed in suoh a way as to give a direct
+image of the first system.
+
+The ye isure on
+
+the
+
+surfaoeof the earth will consequently
+
+be eqyaL to Al while tb pressure an eaoh surfaoeabove the airpkne
+
+will be null.
+
+This preeeure is transported
+instantaneously or, if we
+take Into account the compreskibtlity of the air of so@,
+
+with
+
+the velocity
+
+on the smfaoe of the earth.
+h examining
+the Conditions of the flow Of the fluid in the
+
+vortexeswhich take the$r rise at the tips of the wings, the author
+the velocity of these vostexes in the case of a monodetermines
+plaZ33and of a biplaneand their relatipns with the lift and resist-
+
+ance of the liftingsystem,
+In te~inating, the author $ndicates the various ~plications
+whioh the theories exposed admit of.
+
+Es epeeially remarks the de-
+
+velopment of the theory of the lifting-eorew as a theory of the Mfting surface which would, on the one hand, enable us to determine
+of
+the influence the profi3eon lift and on the distribution lift,
+of
+
+and on the other hand would help us to studythe influenoe wing
+of
+camber in biplanes better tkn
+q
+
+has hithertobeen possible.
+
+-1oAnother appltcation x$d.d
+
+consist in st dying
+
+oblique blU?-
+
+faoes curved in the direction the movement.
+of
+The infl-osnce a va~iationof lift in function of the
+of
+
+time, as occurs in flappingwings,might also be studied.
+
+l!he
+authorfinallyconsidersapplications flighton
+to
+fans, and turbines.
+ourvedtrajectories, propellers,
+to.
+19i9
+
+---
+
+— —.-—
+
+——
+

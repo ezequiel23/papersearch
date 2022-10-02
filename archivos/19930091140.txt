@@ -1,0 +1,752 @@
+. .-
+
+===i=A...–
+.. .. .
+
+.
+
+REPORT No. 79
+
+BOMB TRAJECTORIES
+.
+.
+
+v
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+,.
+,.
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+‘
+
+‘.
+
+t
+
+i
+
+.-
+
+WASHINGTON
+“
+GOVERh3fENT
+PRINTING
+OFFICE
+1920
+
+‘
+.’
+
+q
+
+. . . . ----
+
+. “=.”.i
+t“-.
+
+----
+
+REPORT No. 79
+i.
+
+BOMB TRAJECTORIES
+
+NATIONAL ADVISORY CO.MMWiEE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+WASEINGTON
+QOmRNMENT
+
+PRIN’WG
+
+1920
+
+OFFICE
+
+..
+
+——
+
+REPORT No. 79
+BOMB TRAJECTORIES
+By EDWIN
+
+-..
+
+,-,
+
+*
+
+,-,
+
+-.
+
+..
+
+-.,.
+
+-..
+
+::.
+
+..= ...
+
+.“.<”;
+J-
+
+:.:..-=:
+.
+
+.
+
+-.:
+.
+
+.
+
+.
+
+.
+
+.
+
+1
+
+REPORT
+
+q
+
+NO.
+
+79.
+
+BOMB TRAJECTORIES
+By EDTVIN BIDWELL WIISON.
+
+L INTRODUCI’ORY.
+
+The trajectory
+
+of a bomb of high tcmnimd velocity dropped from a great altitude such as
+a complicated analysis much like that for the trajectory of a shell tied at a
+high angle. For, in the tit place, the changing density of the air can not be whoIly ignored,
+and in the second place, the air resistance as a function of the velocity is exceedingly complicated,
+and, in particuhm, as the bomb may pass through the vebcity of sound in air, all sorte of complications leading even ta instability and tumbling, which render any calculation of the trajectory
+illusory, may be present.
+I have pointed out in a previous note on the Limiting Velocity of Free Fall that bombs of
+Mgh terminal velocity must fall over 10,000 feet and acquire a velocity of 800 ft./see,, that
+bombs of lower terminal velocity must fdl though even greater distances, and that there is
+tolerable agreement among b@ticians
+that Up to velocities of about 800 ft./see., the simple
+square law of reaistanca (R a @) holds for solid shelMke bodies.
+The problem which I wish
+b treat here is that of the trajectory of a bomb launched horizontally when the fall is not so
+“ great that the velocity exceeds” 800 ft./see., at any point of the path.
+Ordy the fit approximation founded on the assumption of constmt air density wdl be developed.
+30,000 feet requires
+
+- “---- ‘
+
+-—
+. ..—
+
+IL GENERAL CONSIDERATIONS.
+
+This problem has been treated in several ways iU an elementary manner, e. g., by E. L
+C+ayhart in “Aviation,” Volume III, No. 12, January 15, 1918, pages 819-822, after the German,
+.My discussion, likewiee elementary, is that which I ha~e given students
+by Ernest Hemkel.
+of aeronautical engineering at the ~=achuset~
+htitute
+of Technology, and which may be
+of intersst to others.
+If Vbe the velocity in path, u, v the componmt velocities horizontal and vertical downward,
+respectively, U the terminalvelocity, the resistmce is 1?= k P = t7V2/ U2pounds, where Wis the
+mass. The equations of motion are
+
+--
+
+m
+or
+(2)
+according as the motion is referred tO rect@m
+(radius of curvature =r).
+The second of (2) may be writhm
+
+S.MXI r to the tangent
+o
+
+and normal to the path
+
+“-%=4-$
+a’
+and compared with the equation for vertic~ f~ in which V= v. For the trajectory
+V/o is
+always greater than unity and hence the ~crease of V with the vertical drop y is al;~ays less
+In other words, in
+than the increase of v with vertical chop y ~rhm the fd is itself vertical.
+144bi6-.n--2
+
+6
+
+..-—
+
+6
+
+ANNUAL
+
+REPORT
+
+XATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR AERONAUTIC%
+
+the trajectory the bomb gains tangoutial -wJocity with v@ical clrop moro slowly than verticwl
+velocity is gained in free fall.
+Now bombs are rolmse(l with a horizontal “velocity VO= UOwhkh is small rclativo t.o tlmir
+terminal velocity U. Even a fast-moving ~irplano will hardly exceed 200 ftJsoc., and a bomb
+with low terminal vcdocity will have U probably not less than 800 ft../so,., so that. uJ U is almosL
+WU’O
+not to exceed 1/4, In the case of free fall
+
+and the dist ante 7Lof fall required to reach a velocity of v from rest excocds that roquirc(l to
+=
+reach the same velocity from an initial vertical Vdocity. of VO L1/4by only the amount
+.
+
+If U be S00 ftJsec., the additional distance is only 625 feet.
+It may therefore be stated that a bomb launched hor.~ontally ~rit~~a vel~~itj’ ss hig~~ M
+200 ft,/sec. and with a terminal velocity aS lQW M SW.f!./s~. wU1 rQWire* to att~in a lin@ar
+than 625 feet 10SSthan that require(l by a body
+(tangential) velocity of T’, a vertical drop of k
+falling from rest+If
+vO/ U is, as it gen6rally is, deciddly smaller than 1/4, tho distaneo 0!?5
+feet is very much reduced.)
+The reasoning shows that for all practical purposes one may consider that ii velocity on a
+trajectory will remain under 800 ft./see. even though the initial velocity be high, provided the
+vertical drop is not so large as to generato a vertical vehcity in excess of 8.00 ft./see in the caso
+of free fall. Thie brings the safety limit for the application of the squaro law for rcsistu nce
+back practically to the case of. the previous note.
+The relation betwean the arc ~ desa~b.ed on the trajec~ry and the v~locit~” acquir~ ll~ay
+.
+be diecumd from the second of (,2).
+For
+‘“” ““
+%:=9
+
+()+-;
+
+may be compured with
+~,*=9
+
+I+
+()
+
+t,o see that tangential velocity 1’ is gained nlong the tmjectory relative to the distanro tra~elcd,
+s, much more slowly than vertical velocity is gained rclativo to y in the caso of sbmi~hti full,
+the term VIV being always less than 1. In fact, at the start, tungcntial velo(’ity is lust, since
+v/ V=o.
+III. PRELIMINARY INTEGRATION.
+
+With rofcrence to the arc s of the tmjcctory tho first oquution of (1) may be inh’gra h~tl.
+Tlmsdu_du” ds “’ ;>U
+“iu” ““ ‘“:i ““” CJ)
+—-l
+~8t
+dt
+in—z
+Z’ -. -$ “ ‘-”’”c-g’[v”
+‘NM horizontal velocity fulls off .Sxponentially with the arc traveled.
+For example, if U-$00,
+g/U’ = 1/20,000; the horizontal velocity will be reduced. 112 only afttir a travel of 14,000 foct..
+NOWif the time to be eliminated between the two equations (1) to obta~ the diflerentid cq~ati~l~
+of the trajectory, or, better, if the first equation of ~~) be used for this purpose, it is seen thut
+
+,..
+
+.—.
+
+BOMB
+
+(Thii shows that
+
+‘~
+~,=z
+
+the equation
+
+g
+
+7
+
+TRAJECTORIES.
+
+holds for any law of resistance.)
+
+Hence the second
+
+derivative of y by z increases inversely as the square of the horizontal velocity or increases
+For the parabola followed by the bomb in vacuo
+exponentially with the arc of the trajectory.
+F= m and
+(4’)
+Inasmuch
+
+as
+
+dy
+
+TX’
+
+‘s
+
+“=JTE$’+
+
+and since e@J~ >1, it follows at once from (4) and (4’). that, for a given horizontal
+travel z,
+a bomb will fall farther in the air th~ iU vac~oar,
+for a given drop h, R bomb will falI short
+(l’his would seem to be self-evident, but
+in the air as compared with its position in vacuo.
+cit. sup., states that “the paradox may
+Hemliel, as tran.dated by Gayhart in ‘‘.Iviation,”
+arise that because of resist ante the bomb will travel farther in the air than if iu a vacuum”a remark that I do not undmstand.1
+N.
+
+THE PARABOLA.
+
+If axes be taken at the Starthg point, the tmjectory in vacuo is the parabola
+
+This is the first approximation
+for the trajectory.
+The arc of the parabola y= 1/2 mx’ may be obttied
+~=
+Y
+
+\m2zx
+
+=
+
+as a series, namely,
+
+s
+
+(1+1/2 m2&+. ---)dx=z6m
+
+/ti+ti+-----
+
+The approximation
+is good as long as mz is small relative to I; it becomes bad as’ mx nears ],
+and for mx >1 the ser~es divergee.
+NOWm= glu,a. If u, is as high as 1S0 ft./see., m is as small
+ss 1/1000, and the horizont~ tra~-el may be several h~dr~
+f=t before ~ differs much from z.
+If, howcwer, the airplane be moving at only 1Is ft./see., %’= 13,200, ~ =glu,’ = 1/400, and the
+horizontal trarel ctm hardly exceed 300 feet before s becom~ co~iderably different from z.
+the equation y = 1/2 K& may
+& mx is the quantity determining the degree Qf approximation,
+from which it is seen that the drop in vacuo can only be a few
+best be written as Y= (77Kc)z/2,
+hundred feet at best if mx is to remain smaU. For these small drops the trajectory in air does
+not clepart appreciably from that in vacuo.
+
+-.
+—
+
+V. THE SECOND APPROXIMATION.
+
+The departure
+with S=X.
+
+from the parabola
+
+for moderate
+
+~“$~”m=%(’+%)’=%<’+
+The expansion
+
+may be reverted
+
+so hat
+
+x appears
+
+drops mny be calculated
+
+%),ap’ro’.
+as a seri=
+
+~
+
+by in~~rat.ing
+
+“
+
+(4)
+
+“-
+
+(5)
+
+Y 1/2.
+
+‘=”od%’+%)-’”=”owl-*),’=uo&(l-%w)=u
+“)’ -If u-J U= 1/4, as n@ht be the case for a high-speed machhe and a bomb qf low terminal
+velocity, the correction shows that the bomb in air ~fl fall short of the parabolic position
+to a few hundred
+by –Ax =YP24. AS the approximation
+is O~Y good for vahes of y rwing
+feet, the error in using the parabola is only some 20 feet at most.
+In case of a slow machine
+(u, =100) and a high t-al
+velocity ( ZJ= 1,500) the correction would be under 2 feet.
+
+. — .—
+
+VI. A THIRD APPROXIMATION.
+
+feet.
+
+The formula (6) for the horizontal carry is not SW~y VS.M for values of y as large as 1,000
+It becumes necessary I% seek a bet~r ~~gral of (4). The m~t di~ect method wo~d
+
+.–
+
+‘-”_
+
+8
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMbWrI!EE
+
+I?OR AERONAUTICS.
+
+be to expand y into a Maclaurin’s sQrie9 hy repeatml differentiation of (4),
+are
+x=O, y = O, iiy/dx =0, s GO and dayfd$ =g/uoa,
+
+The initird conditions
+
+Every time tho exponcmtial is ditTorFrom this point on tlm dMerautiationa become imolved.
+entiated the very small factor 2g/ P is introduced, but with the diilerentiation
+of the radical
+the factor gfu:, which is not so small, is had. The results are
+
+The second term in the fifth derivative is large compared with the first if u$/ U’ is a small
+number—and it is ahnost always very small. The series for y then becomes
+.
+(7)
+
+.
+
+‘I%e occurrence of the term (gz/u.~)2, with the repetition of similar terms in higher powers,
+‘
+maka it=clear that not gx/ U2 but gx/u02 is the number which must be kept small if the sorice
+A’ow, with reference to ,the parabolic (f.irsL) approxiis to converge rapidly and be valuable.
+mation, gx/uOa= !2y/z; and hence it is inferred that the series expansion (7) is not valid except
+when 2y/z is not large, i. e., when y is not more than a few hundred feet. In fact, a comparison
+shows that the fourth term in (7) is equal to the second term, which is identical with tlm correction in (5), when gz/uOa= 4.5. In the case of a machine for which u, = 100, z = 1,400. If (7)
+held good for such large values of z, it would be valid up to drops of some 3,000 feet. This
+would be very satisfactory, but there is no assurance that the subsequent terms in (7) will J.JO
+small relative to those already obtained when gx/ti02 is as great as 4.5.
+However, if the third term of (7) be discarded as smtdl relative to the second, the approximation is
+
+(8)
+
+i..
+
+The correction
+
+for tha carry z relative
+
+to the, parabolic
+
+path is
+(9)
+
+and this is probably good up to values of y considerably larger than those for which (6) WM
+proved to hold. For instance, if UO 200, U= 800, y= 2,000, then –Ax= 96 feet, as figured
+=
+from (9), is likely to be a fair correction; but if UO 100 it is doubtful whether (9) would bo good
+=
+up to values of y as great as 2,000.
+
+VH. A FOURTH APPROXIMATION.
+One way in which to get an estirnata” of the true trajectory is to shut it in between two
+curves, one above, the other below it. Clearly z <s < z + y, When z is sunall the relative
+when s is larger the rehtti~e approach to z-l-y is ftiirly good. 3foreapproach of 8 to z is dose;
+o~er, y <s.
+.
+
+----
+
+BOMB
+
+9
+
+TRAJECTORIES.
+
+.
+
+The following three differential equations” am therefore suggestive
+trajectory
+d =x ~ *IV’, lying too lugh,
+““”
+“’”’.”’””’”
+2 X2 Uo’
+
+‘~=~
+
+as throwing light on the
+
+“(lo)
+
+lying too high,
+
+e ~~t~,
+
+(11)
+
+d’y ‘; e 2u(fiv)/w, lying too IW,
+. ~za ~oa
+—.—
+This first is immediately
+
+integrable
+
+to give
+
+(12)
+
+‘
+
+..
+——
+
+(13)
+
+Y=%(ew”-’)-%
+
+This curve leads to the approximation
+(5) as a special case. It hm, hcnvever, but sm~~ relation
+to the general features of a long trajectory.
+.The wad funda~ental
+feature of a long trajectory
+is that the projectile drops vertically at the end, 1. e., -the tra] ectory has an asymptote.
+Obvi.
+oudy, (I3 ) shows no asymptot~; every due
+of z yields FL
+finite value of y.
+>
+
+VIII, A FIFTH APPROXIMATION.
+
+‘r~,e second equation
+may be integrated
+y= @/~Z, &y/dxz = pdp/dy.
+The result is
+.
+~os-le-glilm=
+
+x
+
+UO
+5
+
+‘
+
+by the usual device of introducing
+
+...
+
+.,
+
+the vru-inb]e
+
+. . ... .,.:..
+
+—
+Oiy”=~
+
+-9
+
+log se~~.
+.“%~-
+
+---
+
+(14)
+
+T is curve, which, like (13), lies above the t~e trajectory, @ a far bgtter approximation
+The curve shows an asymptote at x= ru~[2g.
+when y is large and the cury@ is riearly verticid.
+The tme trajectory can not have an mymptot~ any farther from the origin.
+If U.= ICKI and
+U= 800, the total limiting fo~ard ~avel of th: bomb. can not th~tiore be more than .4,ooo
+feet. The asymptotic distance V~B ~ectlY ~th both U. ~d ~. It is in the case of a light
+object, such as a tennis b~, that the efitence
+of the ~ymptote
+is most easily observed.
+The correctioii for forward C@ fmm the p~abola to (14) is an. underestimate
+because
+the true trajectory lies below (14) and consequently nearer the g axis. This correction is
+
+–Ax=uo
+
+@_uoz7 ‘
+‘
+— Cos –~@ulm
+9.
+9
+
+d
+
+--
+
+“’”
+
+:
+
+\ ———.
+
+(15) . .
+
+c~e, the correction (an under.
+If Uo=ZOO, V= 800, Y= 2,000, as ~ the previo~ N~~ative
+estimate) is 38 feet as compared with 96, t$e Rcc~~cY of which & unknown.
+The very different
+forms of (9) and (15) as. functions of% are nowwprthy.
+If y= 2,000, the vajue ,Of z f!orn (14), @.02j!9?. ..For @is ,WduQ, f x. tlie value of y k“ (13),
+o
+.,. .
+which also underc.ovects the p?rabol% @ easl,@t fWml from the series
+
+——
+
+which avoids the subtraction of nearly CKIUCJ
+lmge numbers.
+‘l?.hevalue of y is 2,0s2; “hence
+(13), which lies too high, lies Iower than (14) by 82 fe8ti in ~his case add gives a better trajectory.
+This might have been eqected from \he fact that wh~ Y B not too large relative to X,s is md
+nearer to z than to Y and (10) must he ne~er -the. $we .tiaj ectory th,an (11).
+NOW the correction for WUTYmay be found for (13,) in. this manner.
+w
+cuve ]iW 82
+feet lower than (14) when x=2,199 and its slope is nearly 2. The correction from (14) to (13)
+is therefore 41 feet) which~ added ~ 38~ gives 79 m-the co~ection from the parabola as compared
+with 96 from (9).
+—
+
+10
+
+ANNUAL
+
+ADVISORYCOM.W.TTEEFOR .AEBONAIJTI.CS.
+
+REPORT! NATIONAL
+
+—.-
+
+IX. A SIXTH APPROXIMATION.
+.
+
+Finally the equation
+Let
+
+Whrm
+
+x =
+
+of the curve (12), which is an overestimation,
+
+O, y= O, z= Oj dyldz = O, then
+
+dz/dx = 1 and (?=1-
+
+mmy bo integrated.
+
+.U’fu:.
+
+%-
+
+C“S-1(-’U2F%)-’J=%J==%J=’
+“-”’
+(15)
+
+-
+
+‘+’=%o~sec(.w-~a;’$j+”iogd-”(16)
+
+This curve, too, shows an asymptote
+mfiy be neglected, is in the position
+
+which, when uJ 27 is small enough so that its squmo
+
+.
+
+Z=u+
+H
+T1
+
+=
+and thus lies nmrer they axis by the absolute amount u*2/g. If UO 100 and U= 800, as bcforo,
+the new position of the asymptote falls 310 feet short of the old position. llenco a bomb of
+terminal velocity 800 ft./see. launched horizontally from an indefinite hgight (in an fitmosphcro
+of consttmt .dmeity) Wotid have a forward travel approaching some limit between 3,7oo and
+4,000 feet, approximately.
+To return to the case of UO 200, u= 800, “Y”+W30, the beat. value ihs far obtaiucd for z
+=
+is 2,158 on (13) —an oye!mtirnate of z as compared with the trne trajectory.
+Substitute this
+value in (16), Then y= 2,058 and ‘exceeds 2,000 by 58 feet. lb the slope is about 2, this
+means an additional couection of about 30 feet to z I=~J128. Tile result ia that x lies betwcwn
+The approximation
+(9) gave the value x=2,141 ------ - ..--. --—.
+2,128 and 2,158 feet under these conditions.
+ahnost the mean, but this may be accidental.
+X. SUMMARY.
+.
+It has bocu shown that WhCU n bomb iS launched. from an ~lirpl~~e the ~~l~city of S00
+ft./see. will not be attaind before the bomb h= fd~n a distance practically equal to thwt
+required for attaining the same vdocit.y in vertical fall from rest. Formulas (6) and (9) lmvo
+been derived for the fo~vmd caw (or ite corrmtion related to t~le parabola) in cnse the vcrticfil
+fall is only a few hundred feet, but neitier formti
+can be expected to apply when y is larger
+trajectories
+(13), (14), (16) have been clerivcd. The true trathan z. Three approximate
+jectory l@ below (lWmd
+(14) wd above (16).. _@es
+(14), ax@ (16) zgaemble the true.trtijectory in showing a vertical Mymptote, but Untfl y considerably exceeds z the non-asymptotic
+form (13) is a better approximation
+than (14). For an. initial velQcity as high as 200 ft./ace..
+and a terminal velocity as low as 800 ft./see. the correction from the parabola is not grmt .
+(about 100 ft.) in a drop of 2,000 feet, and the correction is known to within about 15 feel.
+MASS.iCHUSE~S
+
+INSTITUTE OF TECHNOLOGY,
+CAMBRIDGE, MASS., September
+
+0
+
+%?,1919,
+
+-
+
+.-
+

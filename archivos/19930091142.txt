@@ -1,0 +1,932 @@
+c
+REPORT No. 81
+
+Co "
+
+COMPARISON OF UNITED STATES AND
+BRITISH STANDARD PITOT-STATIC TUBES
+\1
+
+rT1 l~
+
+l~ 48
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+,
+
+I
+
+DOCU [NT ON LOA ~ FROM THE FILES Of
+
+NATIONAL ,ADVISORY COMMITTEE FOR AERONAlJ'nCS
+LANGLEY It P..)~'/\'UT. C ~ LABORATOi'Y
+LA GLEY FltLD. HAl PION. ViRGINIA
+RETURN TO THE ABOVt ADDRESS.
+REQUESTS r 1 PUBLlCAT.Qi,S 9iiOULD BE ADDRESSED
+FOl.lO 'S:
+NAT'ONfIl. ADVISORY COMMlffiE FOR -EI1C)NAUTII"S
+1724 r STREET, N.W.,
+
+YJ 3111 GTO.i~. D.C.
+
+WASHINGTON
+
+GOVERNMENT PRINTING OFFICE
+1920
+
+REPORT No. 81
+
+COMPARISON OF UNITED STATES AND
+BRITISH STANDARD PITOT-STATIC TUBES
+
+NATIONAL ADVI ORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1920
+
+REPORT No. 81
+COMPARISON OF UNITED STATES AND BRITISH
+STANDARD PITOT-STATIC TUBES
+BY A. F. ZAHM AND R. H. SMITH
+Bureau of Gonstruction and Repair, U. S. N.
+
+144546-20
+
+3
+
+..
+
+REPORT No. 81.
+COMPARISON OF UNITED STATES AND BRITISH STANDARD PITOT·STATIC TUBES,
+By A. F.
+
+ZAHM
+
+and R. H. SMITH.
+
+PREFACE.
+
+It has been stated by some experimenters that the standard pitot-static tube used by t.he
+United tates avy does not, at all airplane speeds, give the arne differential pressme as the
+British standard pitot- tatic tube. Since the readings of these two tubes form the basi of
+comparison of a part of the British and American aerodynamic data, it was deemed advisable
+to calibrate them with reference to one another at all available wind tunnel speeds. Thi was
+accomplished in the 8 by foot tunnel constricted to 4 by 4 feet and giving a fairly uniform air
+flow at all speeds up to 160 miles an hom. The table and illustrations were prepared by Mr.
+G. C. Hill.
+DE CRIPTION OF TUBES.
+
+Fig. I, 2, 3, and 4 give the general exterior appearance of these instruments and the structmal drawings of their nozzles. In hape both nozzles consist of round oaxial tubes terminating in a hollow conical no e with fine external taper as hown in the figme. The avy
+tube has the steeper taper and the greater number of static holes in the external pipe. The
+hole in both are 0.040 inch in diameter. Both nozzles are attached to stream-line shanks
+which convey the static and impaet pressmes, respectively, to the opposite leads of their
+manometer or pressure gauges. The theory and general structme of such tubes n,re too well
+known to require detailed explanation.
+MANNER OF TESTING.
+
+During calibration the tubes \yere plated abrea t in the 4 by 4 foot tunnel, equally distant
+from each other and from the 'mil, and supported from their shanks which ran vertically
+upward through the ceiling of the tunnel to liquid alcohol manometers having a 1 to 5 slope.
+Vibration was prevented by a fine wire attached to the lower ends of the hank and to the
+side walls. During the te t the Briti h tube wa made to read e,en miles per hour from 20 to
+] 60, by increments of 10, and the corre ponding pre ure difference for the other tube was
+observed at the arne in tant, at the time when both reading were teady. Mter a complete
+and ,careful run, duly checked, the tube were interchanged in position, and a complete new
+run was taken with the Briti h tube till made the in trurnent of reference. The mean of the
+speed indication of the a,y tube, ob erved at anyone peed in the two po ition ,wa taken
+as the true reading, or what would be obtained in a uniform and homogeneou current.
+By means of a hook gauge, the two manometer tubes were calibrated to 0.001 of an inch of
+water simultaneously and under the arne pressure, allowance being made for the de cent of
+the alcohol in their re en·oir . A een from Table I and Fig. 5, the two traight gla tube
+of the in lined manometer were of uncommonly uniform diameter, except where a weld in
+each tube was made during eonstruction. Both were of German glass 3/16 of an inch in
+diameter. The meniscus could be located accurately to 0.01 of an inch.along the tube, or
+1/500 of an inch in vertical displacement, thus enabling the difl'erential pressme in the nozzles
+to be read truly to less than 1 per cent at 20 mile per hom and till more accurately at higher
+speeds.
+
+6
+
+ANNUAL REPORT NA TTO NAL AnYl !';ORY
+
+Ml.INE
+
+"FOR AERONAUTlCS.
+
+--,
+
+,st.CTION
+
+13.5"
+
+CO)r:V[TTT~ E
+
+_
+
+I.'
+
+5C.AL£" : .4"~t"
+
+7 HOLES PER. R.O'N 0.0 '10" PIA .
+
+"J
+
+0. 1.68"
+
+- H
+"-Io
+.J"..·
+
+o.:xs, "
+1~ . 5
+
+·w ·
+
+.to
+
+-~
+.;s='o~ -.,I.----- I.3· --
+
+-.
+
+..
+
+FIG. 3.- British pitot-static tu be_
+
+S TAT IC. ~ I'!L.S.V"-L Ll.JIo.o
+
+W tNO
+
+(~~--~----IO~' --------------~
+
+I
+
+~__L.
+
+I
+
+,
+
+-r
+
+.i,
+!
+
+.i
+
+I
+
+T
+
+I
+BHOL'E.S
+
+1
+1
+
+r
+
+i
+
+I
+
+I
+
+r
+
+I
+
+I
+
+.(
+
+. J,. :~
+
+.04" D .,
+
+.z.e "APA R"T .
+
+"-$
+
+I
+
+,..
+
+.t,
+
+I
+
+, ,
+
+I" •
+10;[
+
+"
+
+b!
+I
+
+4
+
+J!' IO 4.- U . S. Navy pitot-staUc t ube.
+
+T
+I
+
+~
+°1
+,
+
+o .
+
+.
+• I'
+
+I
+
+\ N ON j UNE.
+
+..
+
+. ~ ~ .~ ,.,--1-1.
+I
+I
+
+..
+
+:,,:;. .
+
+...::~
+
+.,"
+
+"
+
+~
+
+-
+
+l
+
+FIG. 1.- STANDARD BRITISH PITOT-STATIC TUBE .
+
+f>.- l
+
+FIG . 2.- U. S. NAVY STANDARD PITOT-STATIC TUBE
+
+U "lTEU
+
+'TATE' AX])
+
+Bl~ITl::;ll
+
+7
+
+::;TAXD.Vm PITOT-STATH' TUBES.
+
+RESULTS.
+
+Fig. 6 give the final calibr ation data for the t'wo tubes. When the corrected air speed indications of the United tates avy tube are plotted to the same linear scale, against those of
+the British tub e, a a basis of reference, the data all lie on a straight line whose slope is unity.
+I t had been alleged that the somewhat steeper cone of the avy nozzle caused too low pressure
+in the static hole. From till diagram, however, it appear that the air speed readings of the
+two instruments are identical to the accuracy of indication of either instrument.
+REMARK.
+
+It seems most de irable that a standard pitot-static tube be accurately calibrated at all
+speeds used in aerodynamic research. The precise calibrations thus far made have stopped far
+short of the speeds available in modern wind tunnels and aircraft.
+170
+
+i£.!L
+
+50
+
+'t"
+
+u
+
+~o
+
+~
+~
+
+~
+
+.;
+
+Z
+\~ I
+0
+
+J:
+0
+
+...
+"
+
+2.0 <C
+0
+
+.,
+
+'"
+
+:t
+
+~.~
+
+1
+/
+
+It(
+
+L
+
+~
+
+.
+
+ll"-C
+
+~
+~
+
+~
+
+It.on'''
+
+E
+
+~
+
+In ~
+
+z:
+
+,,;
+~
+
+"'. i~
+I
+
+.
+c
+
+w
+
+~
+
+"
+
+l:
+
+IHCH 5
+
+'1 0
+
+v
+
+k(
+
+...
+
+orALe
+
+LIt
+
+H OL -
+
+10
+
+No 2
+
+MAr<OM
+
+.n
+
+TE"
+;0
+
+V ..
+
+H IL 5 .. C,.
+
+;0
+
+FIG. 5.-Readings of manometers 1 and 2 under same pressur .
+
+'l'ADI. E
+
+V
+
+V
+
+170
+
+Ho
+
+V
+
+'V
+
+",-B"ITI
+
+H PITOT
+
+~n
+
+[fnches of alcohol on 1/5 slope.)
+
+3.00
+5.97
+.96
+11.93
+14.93
+17.97
+20.98
+23.96
+27.01
+30. 03
+33.03
+36.0]
+3.94
+42.06
+45. 10
+4.06
+51. 07
+54. 0
+57. 10
+59. 96
+
+S""Tl(' Ti 81£
+
+...
+
+"
+
+FIG. U.- imultaneous airspeed indications of two pitot·stat.ic tUbes.
+
+I.- Readings oj two manometers under same pressure,
+
+Manometer
+
+V
+
+V
+
+li
+
+o. 1. Manometer 0.2.
+
+3.01
+5.9
+.96
+11.93
+14.94
+18.00
+21.00
+23.99
+27.02
+30.03
+33.03
+36.00
+3 .93
+42.00
+4~ 00
+47.90
+5].03
+53.96
+57. 03
+59. 99
+
+8
+
+ANNUAL REPORT NATIONAL ADVISORY COMM I TTEE FOR AERONAUTICS .
+T ABLE
+
+n .-Speed comparison of Uni ted States and Br·itish pitot-static tubes.
+Air speed.
+
+Obsen-cd
+
+i~l e il es
+
+Of alcohol OD J/J slope .
+
+v=.J.3..
+Po
+
+United
+
+(~Iean) Un be I
+ited
+Sta tes L
+u
+
+19. 95
+29. 5
+39. 5
+49.83
+59. 76
+69. 76
+79. 77
+89. 57
+99. 68
+J09.65
+] 19.60
+]29. 57
+139.56
+149.49
+159.41
+
+20.03
+29. 92
+39.85
+49.83
+59.7
+69. 76
+79. 83
+9.57
+99.73
+109.75
+]19.60
+129.57
+139. 64
+]49. 49
+159.3
+
+British Luhe
+(First 8 0Si.
+tlOn .
+
+1. 21
+2. 71
+4.83
+7.55
+10.85
+14. 0
+19. 35
+24.40
+30.20
+36.55
+'51. 05
+'43.50
+59.20
+6.00
+77. 30
+
+();eeond posi·
+tion ).
+
+1. 23
+2. 73
+4. 85
+7.57
+10. 8
+14. 4
+19.40
+24. 45
+30.30
+36.70
+43. 65
+51. 40
+59.40
+6 .20 I
+77.35
+
+1. 21
+2. 71
+4. 2
+7. 53
+10.85
+14. 77
+19.35
+24.33
+30. 18
+36.55
+43. 52
+51. 05
+59. 10
+67. 0
+77. 10
+
+I V=[(7~1~(1- (£)\
+
+p. h.
+
+tutes tllbe.
+
+Bri ti"h til be.
+
+p
+
+Ill.
+
+m . p . ll.
+
+I
+
+\
+
+l:lritb h Lube
+Ill . p . h .
+
+19.95
+29. 5
+39, 85
+49. 80
+59. 71
+69. 63
+79.58
+89.32
+99.28
+109. 11
+118. 90
+128. 66
+138.42
+148. 07
+157. 62
+
+)1
+
+(.\Iean ) Uni ted
+Rta tes tube
+m . l) . h.
+
+20.03
+29.92
+39.85
+49. 0
+59. 73
+69. 63
+79. 64
+89.32
+99.33
+109.21
+118. 90
+128.66
+138.50
+148.07
+157.57
+
+'Not corrected for weld in gJa s mauometer Lube.
+
+Air density Po=.076351b .jeu . ft.
+T ABLE
+
+III. - PTessure of air on coming
+
+Barometric plus impacL pre sme in
+standard atmospheres, i. (' ., in mcgadynes/sq . em.
+
+Air specd iu
+miles per
+hour.
+tneompressiblc.
+
+10
+
+rest from various speeds.
+
+I mpact pressli re iu pounds per
+square foot : I mcgadyne/sq .
+em. =2,0 Ibs. 'q./ft. '
+
+Impact p ressure in inches of
+wa ter: 1 mcgadyue/sq . em.401.8 ill . of wa ter.'
+Percentage
+difference.
+
+~
+
+Adiabatic
+
+Po V2
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+
+1. 000000
+1. 000122
+1. 0004 8
+1.00]099
+1. 001954
+1. 003052
+1.004396
+1.005983
+1.007 14
+1. 00990
+1.012210
+1.014774
+1. 017582
+1. 020635
+1.023932
+1.027472
+1.031259
+1. 035311
+1.039587
+1.04410
+1.04873
+
+I
+
+I
+
+1. 000000
+1.000122
+1. 000488
+1. 001099
+I. 001954
+l. 003054
+J.004400
+J. 005994
+l. 007 33
+1. 009921
+J.012259
+1. 014847
+1. 017687
+1. 020780
+1. 024130
+1. 027733
+1.031594
+1. 035755
+1. 040147
+1. 044804
+1. 049728
+
+Illcompr ·sible.
+
+•\ d iab:ltie.
+
+Incompressible.
+
+Adiabatic .
+
+0.0000
+0.2547
+1. 0189
+2.2947
+4. 0800
+6. 3726
+9. ]78
+12.4925
+)6.3156
+20. 6503
+25.4945
+30.8481
+36.7112
+43. 0 59
+49.9700
+57.3615
+65. 2669
+73. 7292
+82. 6585
+92. 0977
+102. 0475
+
+P=(l +.00000 17 17 V')'"
+
+P=l+ - 2
+-
+
+0.0000
+0.2547
+J.0189
+2.2947
+4.000
+6. 3768
+9.] 72
+l:2. 5155
+16.3553
+20.7150
+25. 5968
+31.0005
+36.9305
+43. 3886
+50. 834
+57. 9065
+65. 9683
+74. 6564
+3. 8269
+93. 550
+103. 832J
+
+0.0000
+0.0490
+O. 1965
+0.4416
+O 7851
+.
+].2263
+1. 7662
+2. 404.0
+3. J397
+3. 9738
+4. 9060
+5. 9362
+7. 0645
+8.2911
+9. 6159
+11.0383
+12.9126
+14. 1 79
+15. 9062
+17. 7226
+19. 6373
+
+0. 0000
+0.0490
+O. 1965
+0.4416
+0.7851
+.L 2271
+1. 7683
+2.4084.
+3. 1473
+3.9863
+4.9257
+5. 9655
+7. 1066
+8. 3494
+9. 6954
+11. 14.43
+13.059
+14.3664
+16. 1311
+1.0022
+19. 9807
+
+I
+
+I
+
+0.00
+0.00
+0.00
+0. 00
+0.00
+0. 07
+O. 12
+O 18
+.
+0.24.
+0.31
+0. 40
+0.49
+O 59
+.
+O 70
+.
+O. 2
+O. 95
+L 06
+1. 26
+]. 45
+1.5
+1. 75
+
+, eo Report No. 20, Uni ted Stat . I ational Advisory Co mmittee for Aeronautics, Thjrd Anllua l Report, p. 400.
+
+717-'
+
+P=Po1+ (-Y-2~;:V)
+(
+
+=(1+0.000001747 V2)a.5
+
+Po=l megaclyne/sq. cm .
+Po=0 .001223 gm .jeu. cm.
+/'=1. 40.
+V=m eters per sec.
+OTE.-UBiug 1' =1.405 woull lower valu s iu columns 5 and 7 less Lhan ).02 per cent for speeds below 200 miles an
+hour.
+
+o
+

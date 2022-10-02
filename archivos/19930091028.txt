@@ -1,0 +1,1714 @@
+CASE FILE .
+COpy
+
+REPORT No.3.
+REPORT ON .INVESTIGATIONS OF AVIATION WIRES
+AND CABLES, THEIR FASTENINGS AND
+TERMINAL CONNECTIONS.
+By JOHN A. ROEBLJNG'S SONS CO., TRENT ON, N. J.
+
+III
+
+•
+
+I.,
+
+,'"
+
+REPORT No.3.
+REPORT COVERING INVESTIGATIONS OF AVIATION WIRES
+AND CABLES, THEIR FASTENINGS AND TERMINAL CONNECTIONS.
+By
+
+JOHN
+
+A.
+
+ROEBLING'S SONS CO .
+
+In reference to our investigations of aviation wires and cables,
+their fastenings and terminal connections for stays, we have failed to
+find from past practice anything that would allow us to determine
+the best lines on which to procoed; therefore our study is not limited
+to anyone stay design.
+In making our investigation we have aimed to eliminate the use of
+acid and solder, imperfect bends, flattening of cable on bends, injury
+to wire, strand, and cord due to unskillful handling of material in the
+field; and based on OUT study of present methods of manufacture of
+aeroplanes we believe it is possible to manufacture the complete stay
+here at the factory, proof test same to 50 per cent of its ultimate
+strength, measure same under stres , and therefore eliminate any
+uncertainty as to strength of terminal connection, length of stay, and
+workmanship.
+On this basis our research covered not only the terminal connection
+for shop attachment, but also a connection that would allow repairs
+to be made in the field wit?-out requ?'ing the use ~f blow torch and
+solder, and from the followmg tests It will be readily seen that the
+development eliminates any doubt on this point.
+We find present practice considers" the solid wirc stay," consisting of one wire of suitable diameter and known to the trade as "aviation wire"; "the strand stay," consisting of either 7 or 19 wires
+stranded together and known to the trade as "aviator strand"; also
+"the cord or rope stay," consistin~ of 7 strands twisted together
+forming a rope, the strands being either 7 wires or 19 wires; and the
+rope kriown to the trade as "aviator cord."
+
+THE SOLID WIRE STAY.
+PLATE NO.1.
+
+Figure 1.
+Figure 1 shows the type most generally in use. An eye or loop .is
+formed in tinned aviator wire and a fenule made by wrapping a thin
+flat strip around both wires. The free end of the wire IS then bent
+back over the flat ferrule, holding it in ylace, and the whole terminal
+dipped in solder. This type of terminal is far from being satisfactory.
+Its mechanical strength is low and variable. The process of soldering
+involves the possibilIty of establishing a source of corrosion, as well
+as injuring the quality of the wire. The making of such a terminal is
+almo t necessarIly a factory proposition and provides no means for
+quick and efficient field replacements.
+25302°-S. Doc. 268, 64--1--8
+
+113
+
+114
+
+AERONAUTICS.
+
+Figure 2.
+The standard terminal in Europe is shown in figure 2. This consists of an oval spring wire ferrule applied in almost the same manner
+as the flat wire fimule in figure 1. Particular emphasis is placed on
+the method of forming the eye in the stay before applying tlie felTule.
+Radius of curve at "A" and "B," figure 2, must be exactly the same
+as radius at "C." This is ealled a perfect eye. No solder is used.
+The ferrule is made of wire of the same size as wire in stay and is
+"spring" quality:. Nine convolutions constitute the standard length
+of ferrUle. The hole in the felTule is oval and a snug fit for the two
+wires formina the eye of stay. Both wire and felTule are tin
+coated. The 1ree end of the wire is bent back over the ferrule and is
+not fastened in any way. This holds the ferrule fimlly against the
+shoulder at " A " and" B. "
+Tests made on stays having this type of terminal did not show
+very satisfactory results. Eighty per cent of the tests showed an
+efficiency of less than 65 per cent, the free end of the wire slipping
+through the felTule at failure of the stay. In the remaining 20 p er
+cent of the tests the wire broke at " A," the stays having an average
+efficiency of 68 per cent of the total strength of the wire.
+Figure 3.
+Fi?ure 3 shows eye having radii "A" and " B " different from
+"c, ' which is not allowed III foreign specifications and practice.
+Tests made on terminals having an eye formed as in figure 3 always
+resulted in pulling through the free end of the wire at low efficiency.
+Figure 4.
+
+In order to determine whether the direction of pitch of the spiral
+spring ferrule had any influence in determining the efficiency of the
+stay, sample terminals having left-hand ferrules as in figure 2 and
+right-hand ferrules as in figure 4 were made with a })erfect eye in both
+cases, tested, and compared. The left-hand fer'"1.lle clearly showed
+an efficiency of about 5 per cent more than the right-hand ferrule.
+In testing the latter the free end of the wire slipped in every case.
+
+Figure 5.
+
+In figure 5 an effort was made so secure the free end of the wire
+against slipping when strain was a'pplied to the stay l:Iy wrapping
+this end around the main stay WIre. Tests on this construction
+showed an average efficiency of 72 per cent, fracture taking place
+at "B."
+Figure 6.
+Another method of securing the loose end consisted of tying
+the end down on the felTule with fine annealed wire as shown in
+figure 6. Tests made on this construction showed an average efficiency of 70 per cent, fracture taking place at "A."
+CONCLUSIONS BASED ON ABOVE TESTS .
+
+Observations made during tests of terminals 5 and 6 showed clearly
+that the weak points of this construction existed at "B" and "A,"
+respectively, ana that it was necessary to increase the friction between
+the walls of ferrule and the wire of the stay under strain to increase
+efficiency. Reliable information at hand showed that the same con-
+
+r
+
+AERONAUTICS.
+
+115
+
+elusions had been aimed at by foreign engineers stationed in America
+and ~hat ~hey had solved the problem by. soldering the spring .ferrule
+termmal m the same manner that AmerIcans had adopted wIt.h t.he
+flat. wire terminal.
+HORN'S IMPROVED TERMINAL CONNECTION.
+
+In an effort to avoid the use of solder with its many objectionable
+features types of construction as shown in figures 7 to 15, inclusive,
+were origmated and tested. In every case the spring ferrule with
+left-hand pitch was adopt.ed. The loose end of wire was secured
+with a tie or simple wire loop or clip as shown. Numerous t.ests made
+at intervals throughout the entire series of tests with wires having
+strengths of 1,600, 1,800, and 2,300 pounds showed conclusively that
+there is no difference in efficiency of stays using wire of any of the
+above strengths.
+Figure 7.
+Figure 7 shows a wedge between the ferrule and free end of wire
+so placed that as strain is applied to the stay and the bend in the
+free end of wire drawn toward the ferrule the wedge is forced in and
+thus increases the friction between the wall of tlie ferrule and the
+main stay wire. Average efficiency secured, 82 per cent; range of
+efficiency, 80 to 4 per cent. Fracture at "A" in ferrule.
+
+Figure 8.
+Figure 8 shows two wedges with a connecting yoke. The wedges
+enter on each side between the two wires and force them apart and
+against the wall of the ferrule as strain is applied. The wedO"es are
+forced in by pressure on the connecting yoke which passes un~er the
+bend of the free end of the wire as this free end is drawn into the
+ferrule under strain. Average efficiency of terminal in test equals
+80 per cent. Range of efficiency in t ests made, 79 to 83 per cent.
+Fracture at " A. "
+Figure 9.
+In construction of figure 9 two wedges were used as in figure 8, but
+the yoke was replaced by a washer with two holes in it encircling
+both wires of the stay. Pressure on the wed~es was supposed to be
+secured under strain by the drawing in of the loose end under strain.
+This result was not realized as the washer became locked on the main
+wire and broke the loose end at " D ." Efficiency secured was only
+70 per cent; range, 60 to 75 per cent.
+Figure 10.
+In figure 10 two wedges were used as in figUl'e 8 and figure 9. The
+free end of the wire was wrapped around the main stay wire and
+pushed in the wedge as initial slippage occurred. Aver~e efficiency,
+84 per cent; range, 75 to 87 per cent. Fracture at "A" III ferrule.
+Figure 11.
+Figure 11 shows a double eye with no wedge. Standard straight
+ferrule with free end tied. This type of eye could only be used on
+stays when turnbu ckles or hooks to be attached h ad open eye.
+Average effici ency in test, 80 per cent; range, 74 to 82 per cent.
+Fracture at "A."
+.
+
+116
+
+AERONAUTICS.
+
+Figure 12.
+Figure 12 again shows a double eye in stay with a single wedge
+between wires on the eire end of the ferrule. As ferrule is drawn
+down against shoulders 'A" and " B" the wedge is forced in. This
+increases friction of wires against ferrule at "A" and "B," but not
+at " D " and "E." Average efficiency, 85 per cent; range, 80 to 87
+per cent. Fracture at "A."
+Figure 13.
+Figure 13 shows a construction consisting of a double eye in stay,
+a single wedge under the eye, and an oval spring wire ferrule tapered
+at the same angle as the wedge. In this case the pressure of the
+wedge forces both wires throughout the entire length of the ferrule
+against the walls of the ferrule and this increases friction on the ferrule
+uniformly as the strain increases on the stay and reduces the strain
+at the weak points "A" and "B" proportionately. Fracture always
+took place at "E." Average effiClency, 94 per cent; range, 92 to 95
+per cent.
+In figure 13 we have the most efficient terminal tested. It has
+none of the objections of a soldered terminal. It is simple, parts are
+inexpensive, stron~, and few in number. It is an ideal terminal for
+emergency use in tne field.
+Figures 14 and 15.
+Figures 14 and 15 show modifications of this type to overcome any
+objections which mi~ht be raised to the double eye. The wedge and
+a SUbstantial thimble are combined in one piece. To secure more
+points of contact, and consequently greater friction, and also for
+greater flexibility, the taper ferrule is made of finer wires and with
+more convolutions. The wedge thimble may be open or closed, as
+desired. Fracture took place at "E." Average efficiency, 94 per
+cent; range. 92 to 96 per cent.
+Summary of tests fOT efficiency.
+Average
+efll.ciency.
+
+Rallj:e of effi·
+ClaDCy.
+
+Per cent.
+
+Torminal.
+
+PeT cent.
+
+1. . .... .. ......... .
+
+80
+65
+
+3 ..................
+
+2 ........... .. .....
+
+60-90
+60-75
+
+9 .... . ...... ... ....
+
+62
+60
+72
+70
+82
+80
+70 .
+
+10 ..................
+
+84
+
+11. .................
+
+80
+85
+94
+
+74-82
+
+12 ..................
+13 ..................
+14-15 ..... ..........
+
+94
+
+92-96
+
+4 ..................
+
+5 ..................
+6 ............ . .....
+7 ..................
+8 ....... .. .........
+
+60-65
+59-61
+. 65-75
+68-78
+80-84
+79-83
+60-75
+75-87
+80-87
+
+92-95
+
+Points of
+fracture.
+
+Remarks.
+
+"A" or "B" American, soldered.
+"AU or Foreign, proper eye.
+slipped .
+Foreign, improper eye.
+Right·hand ferrule.
+"B". ___ ... Endwrappedaroundstay .
+"A" ____ .. . End tied to f(mule.
+"A". ___ ... Wedge under hook.
+"A". ___ ___ Two wedges with yoke.
+"D" __ .. __ Two wedges with washer.
+"A" ..... _. Two
+wedges
+end
+wrapped.
+"A" _____ ._ Double eye, no wedge.
+"A" .. _____ Double eye, 1 wedlce.
+"E" .. _____ Tapered ferrule, ouble
+eye wedge.
+"E"._ .. ___ Thimh wedge T. F.
+Ie
+single eye.
+
+.~~tt.~:: : :
+
+NOTE.-These tests were made with wire having a diameter of 0.102 inch and a
+strength of 1,600, 1,800, and 2,300 pounds. No difference in efficiency of stay was
+found by using wire of any of these strengths.
+
+S. Doc. 268, 64-1.
+
+PLATE
+
+No .!.
+
+~ . n oc . ~6
+
+.64 - 1.
+
+P LATE NO . 2.
+
+S. Doc. 268, 64-1.
+
+PLATE No.3.
+
+117
+
+AE RONAU TICS.
+
+STANDARD WillE FOR STAYS FOR AEROPLANES.
+The oriO'inal object in the manmactme of this material was the
+secming o¥ the wire as strong as possible in order to reduce the weight
+as much as possible. This resulted eventually in the manmactme of
+a wire so hard and strong that difficulty was experienced in forming
+the eye and bend over the ferrule without breaking the wire. The
+result of this was a lack of confidence in high-strength wire, and in
+some cases the reaction extended to the use of a wrre which could
+properly be classed as a soft wire. The process of soldering t erminals
+on wire stays undoubtedly helped to a great extent in building up
+this prejudice. Nevertheless it is still true, as at first, that a strong
+wire which is serviceable permits the possibility of reducing weight
+and is therefore desirable. The great number of tests on wire and
+stays, which were necessary to determine the properties of different
+types of terminals as described above, afforded a very excellent
+opportunity to note conclusively the effect of uSinfiO' various grades
+and strengths of wire. We determined that it was a important that
+the wire should be tough and ductile as well as strong. All bends
+should be made without danger of fractme. In addition to requirement for tensile strength, we found it necessary to recommend
+requirements for torsion and bend. As tho per cent efficiency of the
+stay due to loss of strength at terminal is as great with a strong wire
+as with a weaker wire, as was clearly demonstrated in om tests, it
+followed conclusively that as high a strength as can be secmed commercially under the conditions of torsion and bend test required
+was desirable. The following specification is therefore recommended
+as representing suitable high-grade material for the purpose.
+S tandard avi,ator wire (tinned) .
+
+Diameter
+(inches).
+
+0.204
+.132
+.162
+.144
+.128
+.Hi
+
+.102
+. 092
+.081
+.072
+. 064
+. 057
+. 051
+. 045
+.040
+. 036
+. 032
+. 028
+
+American
+
+gauge
+(Brown &
+Sharpe).
+
+4
+
+5
+6
+7
+S
+9
+
+10
+11
+12
+13
+14
+
+~ea rest
+
+fraction
+of inch.
+
+it
+-h
+h
+-h
+
+%
+
+n
+
+. ..... .....
+
+h
+-h
+.. . . . . . . . .
+
+n
+
+]5 ... . . . . . . . .
+16 _. -- _. . _- .
+17
+Ii
+13 _.- _. .. . . .
+19 -- - _. . . . ..
+20
+-h
+21 _ .-- ---- . .
+
+MiItimum
+breaking
+strain.
+
+6, 700
+5,500
+4, 500
+3, 700
+3, 000
+2, 500
+2, 000
+1, 620
+1,300
+1, 040
+830
+660
+540
+425
+340
+280
+
+225
+]75
+
+Mjnimulll
+
+torsion in
+6 inches.
+
+!)
+
+10
+11
+
+12
+14
+16
+18
+21
+24
+27
+31
+34
+39
+44
+49
+55
+61
+70
+
+1:Gnimum
+numbero!
+bends t hrough
+90· over ~.
+inch radius
+of jaws.
+
+4
+
+4
+5
+6
+8
+9
+
+11
+14
+17
+21
+25
+29
+34
+42
+52
+70
+85
+]05
+
+WeigMin
+
+p~~'l:er.er
+
+11. ]5
+8.84
+
+7. 01
+5.56
+4. 40
+3.50
+2.77
+2.20
+1.744
+1. 383
+1. 097
+.870
+
+. 690
+. 547
+
+. 434
+. 344
+. 273
+.216
+
+- - - -
+
+----- -- --
+
+118
+
+AE R OK A"C"TICS .
+
+PLATE NO.2.
+
+Breaking stmin.- Test sample should be at least 15 inches long,
+free from nicks or bends. It should measure 10 inches in the clear
+between the jaws of a standard t esting machine. Load should be
+applied uniformly at a speed not exceeding 1 inch per minute.
+Torsion.- Test sample should be gripped by two VlSes 6 inches apart.
+One vise is turned uniformly at a speed not exceeding 60 revolutions
+per minute. On the large size of wire this speed should be reduced
+sufficiently to avoid undue heating of the WITe. The vise which is
+not turned should have free lateral movement in either direction.
+Bend test.-Wire for bending test should be a straight piece. One
+end is clamped between jaws having their upper edges rounded to
+3/16-inch radius. The free end of the wire is held loosely between
+two guides and bent 90° over one jaw. This is counted one bend.
+On r aising to vertical position the count is two bends. Wire is bent
+to the other side and so forth, alternating to fracture, each 90° bend
+count ing one.
+niemeler or strand.
+
+B rooking sf renglh
+
+!r
+
+Approximate weight
+per 100 foot.
+
+1~ . 500
+
+of strand.
+
+20.65
+]3.50
+]0. 00
+7.70
+
+8.000
+6, 100
+4, 600
+3, 200
+2, 100
+1, 600
+1, ]00
+780
+500
+185
+
+~
+
+i"'I
+ft
+
+-h
+Ys
+7
+
+"IT
+
+-h
+
+Ii
+
+n
+
+7 -h }
+wire
+
+5.50
+
+3. 50
+2. 60
+1. 75
+1. 21
+.7
+. 30
+
+PLATE NO.3.
+ROE B LING 19- WillE GAL VANIZE D AVIATOR STRAN D.
+
+R oebling galvanized aviator strand consists of 19 fine wires of
+great strength stranded t ogeth er. On account of its sman size the
+-h-inch diamet er strand is made of seven wires. Thi strand is not
+very flexible and is used for st ays. This strand is approximately
+one and one-third times a' elastic as a solid wire of the same material.
+Thimble sp liced in each end.
+Diameter of
+strand.
+
+t7
+
+'n
+
+A
+
+~
+
+i
+f.r
+
+I
+I
+
+"!!i-r
+
+Ii
+'ll jf
+
+Breaking
+of
+strand.
+
+Breaking
+strength of
+stay.
+
+J·; mciency
+(per cent).
+
+Appro:dmate
+
+8,000
+6, 100
+4,600
+3,200
+2,100
+1,600
+1, 100
+780
+500
+
+7, 200
+5,500
+4,180
+3, 000
+2, 060
+1, 570
+1,100
+780
+500
+
+90. 0
+90. 0
+91.0
+93. 7
+98. 2
+98. 1
+100
+100
+100
+
+13. 50
+10.00
+7. 70
+5.50
+3.50
+2. 60
+1. 75
+1. 21
+O 78
+.
+
+st r~n gtl1
+
+wf~~!.y~r
+
+I
+
+s. Doc. 2 68. 64- 1 .
+1\
+(j)
+N
+
+PLATE N o .4.
+
+S. Doc. 2G8, 64-1.
+
+PLATE
+
+NO.5.
+
+s. Doc.
+
+26 , 64-1.
+
+PLATE
+
+No.6.
+
+!'
+ti
+c
+?
+~
+
+:~
+,0 4
+
+1 '
+.8
+
+-ZI_
+I
+
+. J]
+
+I
+
+} - - '-IE
+
+~
+
+' "~
+
+.8
+I
+
+. .
+
+l ~
+
+~\~
+
+"
+
+,
+
+.O.J~ t- ri -
+
+1' 4 i. _
+
+16
+r3 ' ~C,,".----- ..:7
+
+1T
+
+_
+
+'&'~
+J2~
+
+1
+
+I"
+
+I
+
+--.IS...
+
+z ·..
+
+:r
+
+5"z
+
+~
+
+0"
+
+14
+
+-.I' .
+' Z7
+
+0/'
+
+,£"
+Ib
+
+1:
+
+7'
+
+Sz
+
+.
+
+.)~
+
+. 05!)
+
+3'
+
+'6
+
+....
+t
+
+"
+,.,
+
+o.)'(l . - -
+
+.......1
+
+.1. "
+
+.075
+
+ROEBLlNG'5 AER.OPL ANE THIMBLE 5
+BIitA SS ~ 5Ttf.L
+~Te.t.LE ITHc.1t. f.L~(TJC. O-G ALVA"' IZ~ O o It Dlppf. p~
+
+'.J~~
+~~
+".
+li.
+
+s
+
+I
+
+li
+
+Sz
+
+JOHN ~. ROEHLINO'S SONS CO " TRENTON, N. J .
+
+SCALE
+
+FV LL
+
+...._--
+
+Dr.
+
+K~ .
+
+-
+
+SEl~ I AL
+
+SI'l.e.
+
+Tr. ~_-_ ...tL"'-f......
+
+__
+
+Q .. ---------~
+R.~·lH4
+
+PLATE NO.7,
+
+SHEET
+
+-----,
+tLe. T _ _ ,
+_
+
+c
+
+1024
+
+S. Doc. 268, 64-1.
+
+PLATE
+
+NO.8.
+
+S. Doc. 268, 64 -1.
+
+B
+
+F IC; . !>
+F IG 1
+
+PLATE No. 9.
+
+'. Doc. 2G8, 64-J.
+
+PLATE
+
+No. 10.
+
+i>. Doc. :! (j8. 04- J.
+
+Turn 6 uC- «Ie.scre. vv - Sf-e.el
+
+Co"....,
+
+.6 r
+
+a..
+
+bN7 <Loof-,oh
+
+.s.s ..s
+
+0 C ff"e
+
+Th r ea..ded
+
+r
+
+ror
+
+rvrh 6 vcff" le. vcr evv
+
+-5O Cife.-7'"
+W /;l-h ou r
+
+a.c£Jv..s r:l'ner.;I-
+
+PLATE
+
+No.
+
+10
+
+A.
+
+119
+
+AERONAUTICS.
+PLATE NO.4.
+R OEBLING 19-WIRE GALVANIZED AVIATOR STRAND .
+
+Figure No.1 shows thimble spliced in 19-wire galvanized aviator
+strand.
+Figure No.2 shows the splice after the serving is applied.
+Figure No.3 shows the broken wires after the stay had been tested
+to destruction in the testing machine. It will be noted there are four
+broken wires. This break always occurs at the last tuck in the
+splice and ncver around the thimble.
+Diameter of cord.
+
+Breaking st rcngth Approximate weight
+cord (pounds).
+per 100 feet.
+
+2.8
+4.44
+6.47
+9.50
+12. 00
+14.56
+17.71
+22.53
+26. 45
+
+2,000
+2,800
+4,200
+5,600
+7,000
+8,000
+9,800
+12,500
+14,400
+
+i
+
+•
+
+TI
+
+ft
+
+-h
+
+,
+
+~
+
+•
+
+TI
+
+1t
+w
+f
+
+PLATE NO.5.
+ROEBLING .., BY 19, TINNED AVIATOR CORD.
+
+Roebling tinned aviator cord is composed of 7 str ands of 19 wires
+each. ThIS wire is made from the.highest grade of steel and given a
+heavy plating of tin. It is used principally for stays on foreign
+machines. This cord is approximately one and three-quarter
+times as elastic as a solid wire of the same material.
+Thimble spliced in each end.
+
+.
+
+Diameter of
+cord .
+
+Breaking
+strength of cord.
+
+i
+"5\
+h
+
+2, 000
+2,800
+4,200
+5,600
+7,000
+8, 000
+9,800
+12,500
+14,400
+
+1, 600
+2, 300
+3,500
+4,700
+6,000
+6, 00
+8, 200
+10,400
+12,000
+
+Efficiency.
+
+Approximate
+weight per 100 feet .
+
+Average of 54
+tests 83.6 per
+cent.
+
+2.88
+4.44
+6.47
+9.50
+12.00
+14.56
+17. 71
+22.53
+26.45
+
+Breaking
+strength of stay.
+
+.;,.
+•
+-h
+~
+
+h
+tt
+t
+
+PLATE NO.6.
+ROEBLING 7 BY 19, TINNED A VI ATOR OORD.
+
+Figure No.1 shows thimble spliced in 7 by 19 tinned aviator cord.
+Figure No.2 shows the splice after the serving is applied.
+Figure No.3 shows the result of a test to destruction in the testing
+machine. Five strands have been broken at the last tuck in the
+splice. In all the 54 tests the stay failed at this point and never
+around the thimble.
+
+120
+
+AERONAUTICS.
+
+PLATE NO. 7.
+THIMBLES.
+
+The eye splice in strand and cord should be protected by means of
+either steel or brass thimble.
+The brass thimble can be used for 19-wire strand for diameters of
+1/8 inch and smaller. For larger diameters use steel thimbles.
+'
+For the 7 by 19 cord use brass thimble for 3/16 inch diameters and
+smaller, and steel thimbles for larger diamet~rs .
+.~
+PLATE NO.8.
+SHOP CONNECTIONS .
+
+Figure No . 1.- Based upon tests, believe the eye splice for the
+7 by 19 cord is the most satisfactory for all sizes, including t inch
+diameter, unless higher efficiency is required, in which case a socket
+attachment can be used for the larger diameters.
+Figure No. 2.-The eye splic,e is very satisfactory for 19-wire
+strand for diameters not exceeding ft inch. For larger diameters
+a socket attachment is necessary t o get high efficiency.
+Figures Nos. 3, 4, and 5.-The tapered ferrule and wedge attachment gives maximum efficiency, and we believe can be used to great
+advantage for single-wire stays.
+'
+PLATE NO.9.
+FIELD CON E CTIONS.
+
+The rep airin~ of stays in the field has been given careful consideration, and F~gure No . 1 on plate No. 9 shows a very simple and
+efficient device for attachment of either 19-wire strand or 7 by 19
+cord. The efficiency is 90 per cent.
+The wedge "A" and ferrule "B" are the two important members
+of the connections. After the strand or cord is placed on wedge and
+through ferrule, the end of same is bent backward on ferrule ana then
+served with wire.
+.
+Figures Nos. 2 and 3 show the same type of connection for wire
+attachment. The efficiency is 94 per cent.
+PLATE NO. 10 AND PLATE NO. l O
+A.
+SOCKET ATTACIDiENT .
+
+We Believe the socket attachment can be used to advantage in
+connection with 19-wire strand, especially on the larger diameters.
+The efficiency is nearly 100 per cent and the connection is positive
+and safe.
+We find it necessary to use pure zinc for attachment of galvanized
+strand.
+Plate No. 10 shows two types of socketsFigure No. 1 not furnished with adjustment and Figure No . 2
+having adjustment.
+.
+Plate No. 10.11 shows the sockets used by the Glenn L. Martin Co.,
+and it is stated their efficiency is 100 per cent.
+
+s. Doc. 268.
+
+G·I- I.
+
+PLATE
+
+No.
+
+11.
+
+S. Doc. 268. 64 - 1.
+
+FIG 5
+
+FI~
+
+1
+
+FIQ
+
+3
+
+PL .\TE N o . 12.
+
+FI64
+
+S. Doc. 26 • 64-1.
+
+PLATE N o .13.
+
+S. Doc.
+
+~6
+
+• 64-1.
+
+PLATE No. 14.
+
+121
+
+AERONAUTICS .
+
+. PLATE N:O. 11.
+ROEBLING 19-WIRE GALVANIZED AVIATOR STRAND.
+
+Figure No.1 shows a 19-wire galvanized aviator strand with end
+looped and soldered.
+Figure No.2 shows the result of test to destruction in the testing
+machine. It will be noted that the break of the seven wires occurs
+at the center of the stay and never at the ends. In the series of
+tests made this connection showed an efficiency of 100 per cent.
+Special attention is called to the protective serving of the loop. In
+case this is not done a thimble must be used. The prllcipal objections
+to this connection are the usc of acid and solder.
+\
+
+-
+
+Ends looped and 8oldered.
+
+\
+
+t
+-h
+7
+
+TI
+
+h
+t
+iT
+h
+-h
+-h
+
+8,000
+6,100
+4,600
+3,200
+2,100
+1,600
+1,100
+780
+500
+
+Breaking
+strength of
+stay.
+
+K(Ticiency
+(per cent).
+
+8,000
+6,100
+4,600
+3,200
+2,100
+],600
+1,100
+780
+500
+
+Breaking
+Diameter of strength of
+strand.
+strand .
+
+100
+100
+100
+100
+100
+100
+100
+100
+100
+
+1,ength of
+lap.
+
+....
+
+.~~
+
+.~..g
+"'<>1
+....
+
+"'~
+Q)"'
+
+S .....
+
+0
+
+""
+
+13.50
+10.00
+7.70
+5.50
+3.50
+2.60
+1.75
+1.21
+.78
+
+bOo..
+
+3
+Q)
+S
+
+'.;3
+
+Serving of Approximate
+weJBht per
+lap.
+1 feet .
+
+0
+
+.. S
+
+'"'~
+
+"';e
+'"0 rd
+.......t)oQQ
+31/~
+
+Q)Q)""
+S .... .,
+.~·~o
+
+Q
+
+PLATE NO. 12.
+EXAMPLES OF PRESENT PRACTICE.
+
+No .1 shows the solid wire, using a copper tube as a ferrul e, and if
+attached properly will give efficiency of 75 to 80 per cent.
+No.2 shows a 19-wire strand attachment, using a copper tube as
+a ferrule and bendinK the strand back and soldering both inside and
+outside of ferrul e. Note that the strand is not protected where it
+bears on turnbuckle and the strand fails here. The efficiency is low.
+No.3 shows a 19-wire strand attachment where the strand is
+looped, served, and then soldered. Note the wire displacement in
+loop.
+No. 4. was taken from a wrecked aeroplane and shows point of
+failure in loop, due to want of protection at this point.
+No.5 shows form of eye for solid wire, which makes it necessary
+to use medium steel to allow manipulation.
+Diameter of cord.
+
+-h
+t
+
+ti
+-h
+-h
+
+*
+
+oh
+
+"!~
+
+n•
+
+-h
+
+Breaking strength Approximate weight
+of cord.
+per 100 feet.
+
+7,900
+5,000
+4,000
+2, 750
+2,200
+1,150
+830
+780
+480
+400
+
+15. 00
+9.50
+7.43
+5.30
+4. 20
+2.20
+1.50
+1.30
+.83
+.73
+
+I
+
+122
+
+AERONAUTICS.
+
+PLATE NO. 13.
+ROEBLING EXTRA FLEXIBLE AVlATOR CORD 6 BY 7 COTTON CENTER.
+
+Roebling extra flexible aviator cord is composed of six strands of
+seven galvanized wires each and a cotton center. On account of its
+flexibility this cord is used for steering gear and controls. This cord
+is approximately two and one-quarter times as elastic as a solid wire.
+DlametH 01 cord.
+
+Breaking strength
+olcord.
+
+Approximate weight
+por 100 leet.
+
+A
+,l
+
+9,200
+5,800
+4,600
+3,200
+2, 600
+1,350
+970
+920
+550
+485
+
+16. 70
+10.50
+8.30
+5.80
+4.67
+2.45
+1. 75
+1.45
+.93
+.81
+
+7
+
+no
+
+TO
+
+h
+t
+
+-h
+
+h
+
+I.
+
+~
+
+PLATE NO. 14.
+ROEBLING FLEXIBLE AVlATOR CORD 6 BY 7 WIRE CENTER.
+
+Roebling flexible aviator cord is made with seven strands of seven
+galvanized wire each. This cord is not as flexible as the cotton
+center cord and is approximately one and three-quarters times as
+elastic as a solid wire.
+
+PROTECTIVE COATINGS ON STEEL WIRES.
+NONFERROUS METALS- ALLOY STEELS.
+
+We manufacture wire and cable in nonferrous metals such as monel
+metal, german silver, phosphor bronze, aluminum bronze, silicon
+bronze, brass, copper, etc., but we do not believe that any of these
+metals will ever prove commercially practicable for the purpose of
+aeroplane stays or cables. II Maximum strength with minimum
+weight" appears to be too all-important. In none of these can
+extreme reliability with high elasticity be so well secured as with steel
+when it is well protected from mechanical injury and corrosion. For
+exceptional purposes, the nonmagnetic properties of these metals
+may outweigh their lack of strength and durability in fatigue, making
+their use imperative, but in the final design the amount thus used
+will undoubtedly be the least possible amount permissible under the
+circumstances. For constructIOn of this kind we would not recommend, without many qualifications, a natural alloy such as monel
+metal. This materIal appears to possess excellent noncorrosion
+properties when used in a relatively large mass, as in a propeller, but
+there appears to be considerable doubt as to its absolute reliability
+in uniformly resisting corrosion when rolled into very thin sheets or
+drawn into wire. To a lesser degree, a lack of confidence must exist
+in such manufactured alloys as brass, german silver, or bronzes containing relatively large p'roportions of two or more elementary metals.
+II Phosphor bronze," II silicon bronze," II aluminum bronze," or similar
+alloys containing a relatively high per cent of one element (copper)
+
+AERONAUTICS.
+
+123
+
+only, are more "fool-proof" and consequently more reliable and
+desirable.
+An attempt to give the elastic limit and tensile strength of each
+size of wire, strand, and cable used in aeroplane constructlOn, if same
+were made of all the nonferrous metals mentioned above, would
+involve the publication of quite an extensive report. Confining ourselves to the most suitable of these metals or alloys, phosphor bronze,
+aluminum bronze, etc., it is a safe and reliable rule to assume that
+thc u1t.imate strength of such wire or cable or stay will be 50 per cent
+of thf' ultimate strength of the extra high-strength steel listed by us
+for standard aeroplane use. The elastic limit for nonferrous metals
+could not safely be assumed at more than 50 per cent of the ultimate
+breaking strain.
+The usc of vanadium, titanium, ana other special deoxidizers or
+clean ers in the manufacture of steel has undoubtedly resulted in
+very much improving homogeneity and density of structure in cast,
+forged, and other hot-worked masses of the metal especially in the
+harder alloyed varieties. It is not so certain, however, that the use
+of these metals has proven necessary or even desirable in making
+steels of the higher grade for wire manufacture where the enormous
+amount of cold working and exact heat treatment absolutely inherent
+to the process of wire manufacture produces eventually a structure
+finer and more homogeneous than has ever been possible by any
+other method. The mcreased resistance to corrosion which the
+special steels, referred to above, afford, because of their density and
+uniformity, is more than duplicated by any drawn high-grade wire
+of th e ordillary carbon steels of sufficient degree of manufacture.
+Vanadium steels and other steels of their kind have not as yet
+become established as desirable wire steels. Although strongly urged
+upon the industry and tried time and again, they have not demonstmted their superiority.
+Ca.refully made high-grade carbon steel affords to-day the most
+reliable and flexible material for wire, cable, and stays, possessing
+the" Rfeatcs t strength for the least weight" known in the wire industry. We know its advantage'S and we know its disadvantages. The
+fact that the mechanical properties of steel wire and cable are seriously
+affected by corrosion is so well known that it must be guarded against.
+As the damage done is a function of time as well as intensity of chemicalor electro-chemical action on the unprotected steel, we have
+investigated the question of retarding corrosion in the steel itself to
+as great a degree as possible. We have found that pure iron retards
+corrosion to a gI'eater degree than the more impure steel-but we have
+also found that in highly extenuated filaments of these two metals,
+as in wire, the difference in rate of corrosion is practically negligible,
+especially when the total life of the wire protected by an external
+coating such as galvanizing i taken into consideration. We have
+found the use of special deoxidizers and cleansers questionable and
+have not adopted them.
+The use of protective coatings on steel wire or cable is a very broad
+subject. Hot galvanized unwiped wire is undoubtedly the best protected wire for the purpose. Very hard wires and very fine sizes of
+hard wire are likely to become brittle at the temperature of hot
+galvanizing, and the next best coating available is, therefore, a tin
+coating. Both of these metal coatings should be further protected
+
+124
+
+AERONAUTlCS .
+
+by frequent applications of paint. As a protection to the galvanizing, a coat of red-lead paint should be applied after the stay IS as embled and the red lead protected by a coat of graphite paint.
+Tlae care with whicn inspections are made from time to time and
+the efficient maintenance of the paint on the wires really determines
+the life of the combination. This has been proven absolutely by the
+very extensive use and treatment of galvanized steel on board ship
+for many years.
+Nickel plating is out of the question for wires to be bent or twisted
+into cable. Furthermore, nickel is absolutely injurious where the
+initial purely chemical action on the intact nickel surface cea es and
+electro-chemical action between steel and n'ickel begins at such spots
+when steel is exposed.
+We believe, therefore, that tinning and galvanizing are to-day the
+most satisfactory coatings for steel wire that can be employed. They
+do not actually represent the final and efficient protection which is
+necessary in aeroplane construction, as this is secured by the repeated
+application of paint. These coatings are, however, an efficient guard
+against corrosion preliminary to service conditions in the plane and
+also serve to prevent corrOSlOn and consequent damage to the steel
+cables and stays in service when the paint may have been accidentally rubbed off.
+RECAPITULATION.
+WIRE STAYS.
+
+As shown by tests, the terminal fastening, figures 13 and 14, on
+plate No.1, are efficient, simple, and readily attached, and we believe
+solve the question.
+For shop attachment figure 13 or 14 would be used in connection
+with shackles and clevises, and for attaching to turnbuckle eye or
+other closed eyes use figure 15.
+For field attachment use either figure 14 or 15.
+Plates No.8 and No.9 also show these terminal connections.
+WIRE SPECIFICATIONS FOR STAY WIRES.
+
+Plate No.2 and pages 10 and 11 of this report give specifications
+for wire having the highest possible strength, together with the necessary ductility for manipulation, and is tue result of many years of
+experimenting in cooperation with engineers and manufacturer" of
+aeroplanes.
+I 9-wire strand stays.
+
+Plates No.3 and No.4 give the strength of tIllS strand, also the
+strength of same as stays using the thimble eye splice for terminal
+connection, and judging from tests as given, tl1is connection is efficient, neat in appearance, and reliable.
+P late No. 11 gives table of stay strength when the ends of the
+strand are looped and soldered. The efficiency of this connection
+is a maximum, but the use of acid and solder are objectionable, and
+we believe the thimble eye splice with slightly lower efficiency is
+preferable.
+
+j
+
+125
+
+ARRON A UTICS.
+
+We understand ?i-inch diameter strand is the largest diameter
+used, but judging from present development larger diameter will
+be required and It will be found that the thimble eye splice, also
+the ends looped and soldered, will not give the same efficiency as
+the diameter increases and we believe the use of sockets for %-inch
+diameter and larger may be desirable.
+Plate No. 10 shows two types of sockets.
+For making terminal connection of strand in the field, we believe
+the arrangement shown on plate No.9 is best, as it gives 90 per cent
+efficiency and is readily attached by the average man and does not
+require the use of acid, solder, or blow torch.
+7 by 19 cord stays.
+
+Plates No. 5 and No.6 show the 7 by 19 rope which is flexible,
+elastic, and lends itself readily to thimble splice, giving ver.y uniform
+efficiency and has the advantage of higher effiCIency for diameters
+between % and Y2 inch.
+We have determined by tests that the socket connection alone
+gives higher efficiency than the thimble eye splice on 7 by 19 cord,
+Dut as a general proposition believe the thimble eye splice is entirely
+suitable for stay construction.
+For a field connection plate No.9 shows the most suitable type.
+CONCLUSIONS.
+
+The tests as given show that it is possi.ble to furnish efficient
+terminal connectIOns for wire, strand, and 7 by 19 cord, and eliminate
+the use of acid, solder, and blow torch, and this report as a basis will
+allow a more thorough investigation on similar lines.
+We are unable to determine from aeroplane manufacturers why it
+is necessary to use the solid wire, 19-wire strand, and the 7 hy 19 cord
+for stays . It is self-evident. that the wire stay is less elastic than the
+19-wire strand, also that the strand is less elastic than the 7 by 19 cord,
+also the strength varies considerably, as can be determined by comparison of tables as given before, and to aUow a quick comparison we
+give below:
+Comparison of stay strength.
+
+-- --Material.
+
+Wire .. ........ .. ...
+Strand ............
+7 by 19 cord ......
+
+Diameter.
+
+Strength of
+material.
+
+Strength of
+stay.
+
+Inch .
+
+Pounds.
+
+Pounds.
+
+-h
+-h
+-h
+
+5,500
+4, 600
+4, 200
+
+5, 100
+4, 100
+3, 500
+
+American practice covers both the wire and 19-wire strand stay and
+foreign practice requires the use of 7 by 19 cord for stay.
+The table above shows h ow much more efficient the wire and strand
+stays are for the same diameter and therefore we are led to b elieve
+there are other considerations just as important as strength, such as
+the elastic stretch of stays, flexibility and fatigue values of material
+
+126
+
+AERONAUTICS.
+
+which may be governed by the construction of stay, and we believe
+these points should be investigated under field conditions as well as
+laboratory tests.
+We hoped to give this report stress-strain diagram for the solid wi::e,
+19-wire strand, also 7 by 19 cord, so that the modulus of elasticity
+could be determined for any desired load and elastic stretch of stay
+calculated for comparison. We were unable to complete our tests in
+time, and therefore if you decide this is of value we will be pleased to
+submit these diagrams and any other data developed. If vibration of
+stays is a factor, the relative fatigue value of the three constructions
+would give interesting data.
+Respectfully submitted.
+JOHN A. ROEBLING'S SONS CO.,
+By C. C. SUNDERLAND, Engineer.
+(Investigations under direction of C. C. Sunderland, H. J . Horn,
+and D . Green.)
+

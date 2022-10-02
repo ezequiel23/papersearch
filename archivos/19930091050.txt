@@ -1,0 +1,885 @@
+.
+
+REPORT
+
+NO.
+
+23
+
+IN THREE PARTS
+
+.
+
+AERONAUTIC POWER PLANT INVESTIGATIONS
+Eox
+BrTEEsuBco3nuTrE PowBBmm’rs
+
+Part 1.—PERFORMANCE OF AERONAUTIC ENGINES
+AT EIGH ALTITUDES
+Part z.-lUDL4TOB
+Part %-SPARK
+
+DESIGN
+
+PLUGS
+
+By E 0. DI~ON
+ad secretary
+Pluaick#s ureaQ ~
+B
+of
+lmrmber
+of salKOmdtteO ox POwef M
+
+.
+
+—
+479
+
+.
+.
+
+REPORT
+
+~Oe
+
+23.
+
+PART 1.
+
+PERFORMANCE OF AERONAUTIC ENGINES AT HIGH ALTITUDES.
+By H. CLDICKINSON.
+
+INTRODUCTION.
+
+undertaken as a continuation of
+This investigation me original
+the work on carburetion reporte d?on by Prof. Lucke in the second
+mnuel report of the ccmumttee. The intention was to undertake
+a study of carburetion and carburetor performance in connection
+with severzd t~
+of aeronautic engines under varying conditions
+of temperature and pr~ure.
+wss under devaIopment members of the French
+While this pr
+cd upon the cmnmittee the importance of
+War. bfksion an7 others
+a s eciaI study Yo the problem of engine performance at
+&$%itu&s.
+The original carburetion piogram was, -therefore,
+modified and made a part of a somewhat more comprehenswe undertaking, viz, the des~
+construction, aud equipment of a s ciaI
+3
+laboratory for the study of engine performance in per~t ~tiuti~
+carburetio~ under conditions corresponding to the%@
+reached b aviatcm.
+Such a Taboratcry hss beau designed, buii~, aud fully e uipped.
+PreIimiu~ runs have been made for demi!o mg test pro 00%
+ure and
+the pIant m in such condition that the foE owing operations and
+measurements can now be made:
+(a) A test chamber in which the engines are mounted cau be reduced to an . air pressure as low es one-third of an atmosphere.
+La chsmber caq be maintained at a low @qerature
+Theeirin
+by means of fans at a
+and circulated about the
+Whdwifr
+T
+The engine is contrded an eU measurements sre made rom outsI e
+this chamber.
+(b) The temperature of the cyIinder-jacket water is controlled by
+means of a thermostat, the amount cnxulatwl is metered, and its
+rise in temperature measured. Thus ths heat taken away by the
+circulatiq water can be calculated.
+(c) Prov%$on is made to weigh the fd supplied to the engine.
+(d) The u supplied to the carburetor is metered and its temperature mecaured.
+(e) The exhaust ie wakwmckd
+This water is &c metered and
+its rise in temperature mesmred so that the heat given out in the
+exhaust can be calculated.
+4s1
+29165”-s. DoC!. 65-2-s1
+323,
+
+482
+
+REPORT NATIONAL
+
+ADWSORY
+
+COMMITTEE
+
+FOR AERONAUTICS.
+
+@ The pressures in the intake, the exhaust chambers, and the
+mam test chamber can be measured, and there is provision for
+partial automatic cantrol. Provision is also made for measurmg
+such other pressures as may @ desired.
+(g) The timpaatm
+of th? u m the teat chamber and such other
+tern eratures as may be of mlmrest m vmious parts of the engine
+or & ewhere can be measured.
+(h) Provision is also made for such otlier incidrmtal measurements
+se may be necessary f?r speci.d purposes.
+Exparunental work B now m pro
+dMerent fuels on the performance oFit%!.$!r&!R?;~Z&ja$
+t
+“ immetitularly at very low air ressures an temperatum.
+diate program was laid ou? to assist in the specification for aircraft
+engine fuels b be supplied to the Army for servioe in Europe.
+DRSCIUPTKON OF LABORATORY
+
+AND EQUD!MENT.
+
+it was decided that mmlts could be
+In deeignhg the laborato
+best obtained m a teat &am 7 er iI+which the entire engiqe in operation could be surrounded by conduhona of air pressure, a% temperaconditure, and air velooity substantially duplicating actual fl
+tions. To accom@ish this result required a practic P y air-tight
+chamber of sufliclent strength to withstand an exoees of air pressure
+of 10 pounds per square inch or more on the outeide and large eno~h
+to cpntain an e &e, a large bank of direct-expansion ammoma
+fans for producing the air blast with
+coo
+coils, and e neeess
+%
+“Ii
+9
+T
+space eft for working aroun the engine. The essentiaI aum arks
+outside the chamber consist of an electrkd dynamometer for absorbing and measuring the power, an ammonia refrigerating plant for
+cooling the air circulating in the chamber and for cooli~ and drying
+the air taken to the carburetor, an exhaustbIower of sticlent capacity
+to withdraw the daust from the engine and dia@arge it at atmosphericpressure, audiary chambem in which the exhaust gases can
+Be coolod before reaching the blow= tanks f or supplying and WC”h@g the gasqline, water sup Iy contro{~edb a thermostat for cylin ? ~rjacket coohug, water suppi y for coohng t c e exhaust gases, a gmmty
+vacuum drain pipe for removing the exhaust ooolin wate~, and tho
+experimental meaauring equipment demanded by t%e various problems to be undertaken.
+The equipment has all been designed fti use with engines up to 300
+horse ower and any attainable speed with liberal aUowances so that
+consi$erably higher owers can pro~ably. be handled, particularity
+as the power availabf e at low prwmree w+ll be correspondingly leas
+than normal. The Sprague dynamometer M rated at 300 horsepower
+with considerable overload capacit . The Nash bIowm hMIa VOIU.
+metric capacity about twice the L“ pIacement of a 300-horsepower
+angine at-a pressure of one-half atmosphere, andtheYorkrefcigerating
+machine B of 2&ton refrigeration ca acity which should rove ample.
+The refrigerating apparatuez ex#austi ‘blower, and &namometer
+uipment are conventional umts purchased for the purpose in hand.
+2 ence the only portions of the
+uipment s ecially demgned are the
+building, low-pressure chamber, he air-coo”
+Y
+s temz the
+e
+L
+Supportz and the apparatus for measurements oY sir intake, uel,
+T
+temperature, and preseures.
+
+EEPOET NATIONAL
+
+ADVTSOEY COMMITTEE
+
+FOB AEROITATJTICIA
+
+488
+
+Of the above the buikling offers no unusual features, b - a temY
+porary structure of tie
+and Stucool deeigned to accommo ate the
+maohmery.
+vacuum chamber and auxili
+K
+The low-prewu-e oharnbers own in f@re 1 ie of concrete, 1 foot
+in tbiolmess, heavily r.tiomed with -oh
+st@ bare to provide
+r9.%z=G:?F:i%iz&Te$.%+:
+built up of 2 by 7 moh oak beams 4* feet Iong and spaced 7 imhee
+between centers, the outside being oovered with +inch soft wood
+loosely heId with headless nails and covered over with a&proof
+roo
+This construction waa ado ted as a safeguard against
+porsib ep~tion
+9
+inside the chamber. ‘&e very fight covering of
+the doors might be blown off without dsnger to the conorete walk
+TO guard agaimst exoeseive air leak the outside of the chamber is
+
+I
+
+ML
+
+covered with a very hem-y ooating of asphalt paint aud the doors
+C1OW
+against hea~ rubber askets.
+The engine is mounted at & eright end of the &t&amber, @ure 1.
+The walls of the ohamber = pmrced by a number of holes appropriately phwed.,eaoh being ~romded with a flange and asket through
+wlkh t~e various oonneotmns are made. The flexii5 e coupling of
+etothedynamometer
+is made b
+hg.
+The engineis
+T
+oontm ed through 8 by means of a s@em Y pull rods and bell
+o
+orank.
+The gmdi.ne is supplied ftom overhead
+These tanh rest on pfatform soak so that the w
+the right of t+~.tint door.
+18 to approprmte mano
+ilmrmometer Lade are b
+t~ether with the m
+OoMng svsterns,s mounted near the engine oontrols. Likewise the
+i
+
+.——
+
+—
+
+—
+
+484
+
+REPORT NATIONAL
+
+ADVTSOEY COMMITTEE
+
+FOR AEBONA17TICS.
+
+d amomet.er control board and the auxiliary switch board for the
+b~wsr and refrigerating compressor motum is near by. Thus the
+5
+$iE&o ematm~qml~p~e;mpleta
+corhd of the engine but also
+At the sam? time he can see at a
+E
+‘?
+@rice everything tha is happ&ing. Ijlectncal Ieads used in makmg the necassary heat measurement are brought through 5 and 6
+to an instrument table. The cylinder “acket water dam through
+$
+15 and returns through 16 ti m over ead mixing tank suppIied
+with a thermostat to regulate the temperature.
+The air-cooIing system consists of two parts. A series of direct+
+e ansion ammonia coils mounted on top of +e ch~ber is roT
+vi ed for cooling the carburetor air. These cods consIst of a{ out
+2,OOO
+feet of 1 -m& piping inclosed in a box insulated with 4 inches
+of sawdust. k eair~made
+tnpaes through thisooilbox
+ina
+tortuous path and is then led through an insulated i~~e.viie#
+with a regulatin valve to the bottom of the test 2
+From this inlet t%e air passes through a box in which itis metere~
+
+directly to the carburetor, thus supplying cold air to the intake
+when desired.
+The second part of the cooIing system consists of about 800 feet
+of ammonia exp~ion
+coils mount@ in the left end of the test
+;k%%%%zz?$i?:%:z?%$;:
+2?$%%’?
+these coils is to absorb the heat given out by the exposed surface
+of the engine. A fan is also provided for producing a high air
+veloci~ past the engine itself, if so de+red.
+The engine exhaust cooling system M shown diagrammatically in
+figure 2. The exhaust pipes connected to the engine are wa@rabout 8 feet from the engine,
+jacketed, the inner pipe extend”
+Y
+whiIe the watar jacket is continue from the ?Xhauet elbow to tie
+main eihaust manifold in the form of a flemble rubber hose. In
+this wa the whole connection is made flexible and the water from
+the jac ~et enters the exhaust pipe at a considerable distauce from
+
+mPORT
+
+NAmONAL
+
+ADmOIW aonrmmm
+
+FoB AEEONAUmOS.
+
+485
+
+the engine. The water enters the test chsmber through 14 aud is
+distribute to the eikmst pipes as shown in the
+The mixture of exhaust gases and water passes* o&h a 5-incih
+pi e to the auxdiary exhaust chsmber where the water is drained
+o2 &m hthegramty drsinpiesnd
+the g=psasto
+the exhaust
+bkwmr.’%wo exhaust mmifol$ and chambers are ~vided,
+one
+for each set of cy~ders m a V-type-engine. Each si is provided
+with six inlets for pipes from the
+T
+The engine sup rt was deaigne f~; the purpose of duplica “
+T
+as nesrly as posm le the fiexibdity aud the inertia .of the typic
+9
+fusel e mounting. The design developed makes podble an aocurate 7 ‘ustment of Btifbess as regards trazqwsyaeand vertioal vibraa
+tion ani rotation about each of the *
+prmmpIe axes of the en@ne,
+but as no data were at hand as to the oorrwponding &smdemst&
+of any fuseIage mountings, the suppart was constructed on the basis
+
+--
+
+K4
+
+—
+
+of estimates of tke emsfamts, and appeam to possess nearly the
+desired characteristics for the engines mounted on- it up to the
+prwent time.
+The design of this su port is illustrated in @ure 3. Two oak
+at
+beams, A, m this CM 2 { y 6 inck by 6 feet 3 iIIChf!S SUppdd
+The engine is mounted
+the ends form the basis of the mounting.
+directly on two supplementary beszcs, B, of 2 by 4 moh section and
+of the length requmed for the mtictdar engine under t=t.
+T&e
+supplementary beams are free %0 m the mam beams except at two
+mfs where they are bolted together through a thin separating
+FIock} 0. Two yokes, E, are provided to prevemt torsion of the
+indiwduaI beams, but have no other @ect as they are free horn
+contact with an other part of the structure.
+S&otion of d e dimensions of the main beams and ad”ustmbmaf
+the spacing between the points of suqmrt of the secon &
+
+——
+
+486
+
+EEPORT NATIONAL
+
+ADVISORY 00MMITTEE
+
+FOE A.ERONAU!lXOS(
+
+permits of adjustment of vertical and lateraI stMnass and approximate adjustment of resistance about a vertical axis and a horizontal axis at right anglw to the axis of the crank shaft. Stiffness
+as regards rotation about the Jatter axis can be adjusted by a third
+beam of pro er dimensions rigidly connected at the ends and to the
+yoke rods, J .
+The experimental program laid out in connection with the altitude
+laboratory, including a general study of the performance of aeronautic engines under Iugh+dtitude conditions, is in pro ss and
+much valuable information is in prospect. The subject oY precompression engines and the development of prccanpression blowers or
+pumps is to be given special attention.
+
+.
+
+REPORT No. 23.
+PART. 2.
+
+RADIATOR DESIGN.
+By E
+
+C. DICKINSON.
+
+k this country, cooling radiators for aeronautical engines have
+been mainly adaptations of those developed for the cooling of autoes where air s eeds are very much slower and where
+mctbiIe
+T
+Weioht an particuhdy hea5 resistance me of minor importance.
+‘J!& rationel design of radiators to meet the reqwrements of
+=Z
+ZZ:$;’k:?oayp=g%zyrae:
+conditions met with in flight reqmres considerable fun amental
+information regarding the laws of air flow and of heat &i
+ation
+in the honeycomb air-tube and vertical flat water-tube types of radiator construction used to-day. At the st+mt of the mvedigation
+practically none of this information w= avaihdde althou h recently
+received reports of the British and Rench commissions L ve added
+much that IS of value.
+A radiatir when mounkd on any particular airplane will have a
+definite @gure of merit de ending upon the type and s eed of tle
+air and
+plane, the location of raz “stir, the temperatures of L
+water, the barometric pressure, and the rate of circulation of the
+cooling water. The figure of merit as used herein is defied es the
+ratio of the power (i. e., in the form of heat) abstracted from the
+wer absorbed in carrying the radiator. Part
+cooling watar to the
+war absorl%’ in mrrying the radiator is used in overd
+of this
+coming r ead reaistsnce and art in suppo~
+its wei t. If the
+P, these *O
+ratio of lift to drift for the p ane is Imown, or ~e.
+5
+e for equmdent head
+factors can be combined into a single
+Y
+resistance and therefore of ower absorbe in carrying the radiator.
+The probIem suggested aL ve is too compIex to permit of a cmn- ,
+pIete general soMion, hence it was necasaary to lay out a row~d~
+which could be comyleted in a reasonable time and whic%
+give resulte of most mediate
+importance.
+The questions of more immediate importance appear to be somewhat se foJ.Iows:‘What me the @ecte on the figure of merit and its
+com nent f actors of (a) chang~ in air veloci~ through the radiator,
+(b) &ges
+in head velocity, (c) changes in ratio of depth to diameter
+of radiator cells or air passagrsswith &anging diameter and width
+of air pms es, (d) addition or omission of secondary cooling surface
+(i. e., met % ‘c surface not in direct contact with coded water), (e)
+addition of devices or changes of design to increase turbulence of
+W
+
+488
+
+REPORT NA~ON&
+
+ADVISORY 00MM.ITTEE
+
+ROB AERONAUTICS.
+
+the air
+stream, (j) changes in velocity of cooling water, (g) changes
+in turbulence of water streams as affected b design of water pssmgcs.
+These questions could be best answered % the study of a sufficient
+y
+number of- special models designed and. constructed specifmdy for
+the purpose of okerving each factor separately but-the practical
+difEcuIty of constructing such a series of mode~ in point of time
+made it adtiable to limit the initial experiments at Iewt to specimen
+aIready in use with such modifications of dimensions
+radiatom of t
+as could be Fevieed and built by the various makers, thus extending
+as far as possible the experimental range.
+k
+ursuance of this program, two experimcmtaI wind channels
+were i esigued and constructed to accommodate specimen radiators
+sod frontal area of 8 by 8 inch= of typical air cde or
+with all
+pti=~md T t e necassmy water connections not being included in
+
+i
+
+The &wind
+chaud shown diagrammatically in figure 1 is constructed inside a steel&amber in wluch the air prwsure can be reduced
+to a fraction of an atmosphere. Air velocitiwin this channel at atmospheric pressure up to about 70 m. p. h. can be obtained without the
+s ecimen in phwe, or from 50 to 65 m. p. h. thro~h the air cells of some
+o? the types of specimau radiators when placed m the channel. Provision is madqfor meaeurement of velocities, pressure differences, and
+temperature Wferencea in both the air aud water streams; for metering the au md the water and for CIOS? ontroI over the temperature
+c
+aud rata of flow of both water and au.
+The velocities obtaiuabIe in this channel, while reasonabl adequate
+for crdorimetriomess uremen,ti were not cleaned su&ient f or a study
+~ speedE. Therefore, the secund chanof head resistance at very
+nel was constructed in whi
+% velocities of about 120 m. p. h. are
+attained in the o en channel and up to tJO p. h. with certain radim.
+ators in place. !/n this channel, messurementa of air velocit and
+resistance to air flow are made, but it has been impractical le to
+t
+duplicate the oalorimetrio equipmmt which is elaborate and complicated, requiring numerous imtrumente which ooukl not be pm
+chased or built mthout much delay.
+In order to corrdata the @ure of merit es determined in these experiments with the erformance of the radiator in m open air stream
+measurement of t%e head reeistauce and tube velcmties in a win(i
+tunnel of large size, at least 4 feet in diameter, are neoese
+The
+necessary equipment for them measurements wiU be availab e“at the
+Y
+Bureau of Standards by February 1.
+A series of some 45 or more specimen radiatom have been secured
+representing practically all the radiator d
+now in use on airplsnea or automobika to ether with a num er of modified desigm
+Y
+to cover more-fully &e 8 esired experimental ran e of cell dimensions. Measurements for detwmhing ‘the @ure o! merit of a number of these specimens have already been completed, observations
+having been made in both of the 8-inch wind chaunels. The immediate pro ram caIls for the detailed study of about 20 of the
+qa+atms m f and, so selected as to give the nec
+data for a prehmmary report on the several questions outlined a eve. Until the
+Y
+observations on these specimens are campIeted, none of the rcsulta
+can be put in final form, although the folIowing tentative canclusione
+may be drawn from the results already obtained:
+
+BEPOET NATIOIKAL AD-=
+
+UO~
+
+E FOR AEEONAUTTCW.
+
+489
+
+#
+
+,
+
+.
+
+490
+
+REPORT NATIONAL
+
+ADVISOEY f30M3CIT1’RE FOB ARRON’AUTICS.
+
+(1) The amount of heat transferred ia nearly ro ortional to the
+velocit through tubes when the ratio of the lengt{r o the air cells to
+their J “ameters is greater than about 8. T&s relation holds for
+mlocitiea up to about 60 m. p. h. through the tubes.
+(2) The pressure difference necessary to foroe air through the tub=
+is in nearly all casm proportional to V’ where Vis the velocity through
+the tubes and varies from 1.5 to 2.5, depending on the air @ls construction.
+(3) Various features added for the purpose of reducing turbulent
+flow in the air passages are by no means equ & y sfhoient. Some
+types .intqoduce resistance that is not compensated for by a correincreased cooling capacity.
+‘Pt) %
+en properly demgned, indirect cooling surface, i. e., metal
+not iR direct contact with the water, appears from the present data
+to be od practice.
+(5) %mwsing the water valocity in d.iiferenttypes of radiator construction in general results in increasing the rate of heat transfer,
+but by no mems in like proportion in all radiators.
+
+REPORT No. 23.
+PART 3.
+
+SPARK PLUGS.
+t
+By H. C. ~C=-SON.
+
+b December, 1916, the National Advisory Cmmnitiee for Aeronautics requested the Bureau of Standards tOundertake a Iaboratorystudy
+of the spark-#ug
+roblem wluch had m-mm because of the very
+assure fhting in modern
+severe conditions o$ temperature and
+aviation engines. The work has rov x to be of much wider sco e
+than was orq$mdly anticipated. $ t includes an investigation of A e
+various properties of materials *tWing into the construction of
+spark phgs with a tiew to impro
+them oo~truction and d “ ,
+and a study of various related Y lems in
+pro
+‘tion systems.
+Y
+connection with this work tests have been Yevised for s ecMcations, and routine acceptance. tests made on pIuga purchase i by the
+Government.
+The work has also inyolved numerous cxmferenoes with repr~entatives of all the. more unporhmt mam#ac-of airplane spark
+pIugs, and also mth mmhm of the ~orwgn scmntfm missions.
+& a result of these conferenoee It appeam that the sources of
+may be rough grouped es follows:
+troubIe in spark pl
+1. “Cut-out,” or% ure of the spar% due to short oirouit resulting
+from the electrical conductivity of the body or the srufaw of the
+imulaq
+makrial of the plug at high tern cmdure.
+‘tion du~ to e=+aive heating o! parts of the phg.
+2. Pr
+of the nm$atmg psrts by carbon.
+3. Fox
+4. (lacking due to drderentml thermal expansion.
+5. Excessive gss Ieakage.
+6. Minor causes, suoh as w
+ing of electrodes, bridging of the
+%&cot puncture of the material, and
+gap with oxides carbon, or oil,
+mechanioel breakage.
+Some of these troubka, such as mechanical brea&e,
+bri “
+etc., are essentially acdental and can be studied satisfacto$ly9 o ~
+from statistical data. Others, such as “cut-out,” fo
+preignition, lend themselves more readdy to experimental 9
+stu ~ ~d
+most of the work thus far has beeR auned at these troubIes. An
+understanding of the causes of th=-e f ailur= requires primaril a
+JmowIe e of the conditions existin m the cylinders and
+of a m $ ern avi+ion engine. The%rattwo slsore~tiea%?~!’~~
+“tion ap aratus to deliver a spar from an impwof the ability of
+fectly insulated%,
+and& e first is intimately connected with the
+electrical resistance of the inauhiting material at high temperatures.
+491
+
+“
+
+492
+
+REPORT .NAmONAL
+
+ADVISORY COMMITTEE
+
+FOE AERONAUTICS.
+
+The as leakage through a B ark pl~j tho
+to J! ect the o eration of ti e
+T
+since it rapidly Eeata the body of t e insul
+t es of failure frequently causin th
+r
+“
+pu . The work thus far accomp%
+um%rtheheach+sof “En~con
+tightn-,”
+and ‘ Electrica conduct
+ENGINE
+CONDITIONS.
+To indicate the conditions under which spark pIuga operate, a
+stud of the sparking voIt e imd temperature c~mlitiona in a
+could be heated m an ‘dert*m” furnace, measurements
+electric
+‘hda
+‘m~em
+‘Sing ‘ ‘r-we
+have been made of the s arking voItsge at 60 cycles across each of
+three different air gaps. &his was done at temperatures up to 430° C.
+and at pressures up to 7.5 atamspheres. The data CO*
+the conclusions of other observers at lower temperatures, that the brmkdown voltage is proportional to the denmty of the aa and is independent of pressure or tern erature at constant f enaity. It was
+noted that when the eIectr0$ es are heated as is the case in a pl
+Y
+&ing steadily from a m
+eto, the gas in &e ap is thereby warme
+and the densit &minis ed so that the spar%“ng voltage is conseY
+quently reduJ
+By using a Kenotron vacuum tube in series with a static volb
+meter, it was found ossibIe to measure the maximum voltage on an
+ignition Cimnit. d e voltage across a @g with a gap ad”usted to
+0.020 inch in a HaU-Scott aviation engine running at full i oad was
+found to be about 6,000 volts. This value can be reconciled with
+that Corn uted from the density of the gas in the cylinder at the
+instant of firing by making reasonable allowance for the heating
+effect of the hot electrodes on the gas near them.
+A number of spark plugs have been @illed so that thermo couples
+can be inserted in the center electrode or in the porcelain inside the
+shell. Determinations of the temperature at these points have b~en
+made in several engines, Temperatures as hi h as 800” C. in the
+#ectrode and 400” C. in the porcelain have %een obtained. It is
+lily desirable that further measurements of this kind be made on
+o
+3 er typea of plugs and engines particularly on engines which are
+known to be severe on plugs, suoil a9 the Hiepano-suim
+%%khw
+
+IGNITION SYSTEMS.
+
+As an aid in studying the behavior of i@tion systems a number
+of instruments have been devised including a thermocouple cross
+for raessurin the current, the peak vol@neter mentioned above, and
+a co per c f orimeter for measuring the entire heat energy of the
+spari .
+A collection of magnetos of diilerent makes have been submitted
+by the Signal Corps for an exhaustive series of tests. The encr
+per s ark from each of these has been meaeured at several s cc%
+and ?ound to vary from 0.05 to 0.12 joule er spark. Also a t dermination has been made of the resistance wlu“ch, ut in parallel with
+e
+the magneto, will draw so much current that t% magnetm fails to
+
+RETORT NATIONAL
+
+ADVISORY CIOMMIZTEE I?OB AEEONAUTIOS.
+
+493
+
+‘ve a spark at about 6,000 vcdts. The value of this resistance has
+r esn found to be of the order of so 000 ohms. Further mmmrements with an oscillograph will be den up ss soon as more adstsmh can be obtained.
+
+ELECTRICAL
+Cmmmm’mr.
+Onevery ti~ortant property of the insulating material of a ark
+plug is its abihty to maintain a high electrical resistsnca at the “ h
+temperature at which a spark pI~ operates and a very oonsiderab e
+3
+amount of work has been done m studying this property. Over
+100 complete curves of reaistiti~ vs. temperature have been obtained
+on specimens of various insdating materials. The cemmio laboratmy of the Bureau has made up a large number of specimens of
+porcelain covering the whole ukrt-kaohn-feldspsr fidd, in the form
+of cu s which are convenient 1 or resistivity measurmmia.
+Several
+por & . manufacturers have alsa submitted sampIes of their mataii(
+m this shape. lt is also possible, though with much Iws accuracy
+to determine the resistitity of material in compIeted spark ph+gsand
+a number have been measured including not only the prmc$d
+American porcelain plugs but ~
+German and French porcelains,
+mica, “ Iava,” eteat.ite, glass and cprtz specimms.
+In sl these substfmces tke remstivi
+‘E
+ZJX$W?’
+increase of temperature and roughly fo Fows
+Iogl& = c– fit.
+Where P is the vohune resistitity (ohm-cdiruetem)
+and t is the
+temhpe~e~uou @grees C.
+table me given the valum of b and c for various
+materials, applica le in the range from 250° to 600° C.; aIso in the
+Y
+cohunnheaded Pm tie reeistitity of the material at 500° C?.in
+megobm-centimeters, and in the column headed Tc the temperature
+at which the resistivity is 1 megobm-centimeter.
+of
+Electrical
+conduetit% some inaddng
+
+7na.Mdi,
+
+bdcesn AW” and 60iP C.
+
+W%.UP--W
+
+b
+
+Mf.!terid.
+
+c
+
+dim
+
+T.
+
+T
+
+e---""""""-------""---------"""--"--"---"""--"-"-------............................ .............. .—- --- ‘%% % %2 %?
+.--—
+gfEw---------:--”----–-----------”--”----------:
+............................----—----...........- :% %,
+
+~m~sw.::::::::::::::::::=n::::::::::
+.UQ5
+
+.. . .. ... . .. .. ... . ... .. ... .. .
+
+. . . . . . . . . . . . . -..
+
+.—
+
+.mls
+
+--
+
+-
+
+.
+
+It
+
+:% g
+.W
+
+.C#3 E
+
+In makin these measuxemenfa it was found that if direct current
+were used t%e specimens showed a very considerable “polarization”
+eftect. This caused the a~pment resistanc~ to increase considerably
+voltage, even for imwith the time of a plication of the mess
+Y
+pressed voItages o ? several hundred volts.
+t was therefore found
+necessam to use alternatimz current in the+e measurements. and with
+this mehod the rasistance”was found to be independent oi the voltage, frequency, and pretious applications. At the higher tempera.
+
+‘
+
+494 REPORT
+~A’HONAL
+ADVISORT
+
+COMMITTEE
+
+FOR AERONAUTICJ6.
+
+turw the resistance is so low that the heatin of the specimen by the
+measuring current becomes appreciable. i??
+oat of the data iven in
+the table were obtained with 500 vol@ at 60 cycles impresse% on the
+specimen.
+GASLEAKAGE.
+The vohme of air hiking thro h the body of the phqg has been
+measured for a number of types Y pl
+o
+This was done by screwing the plug into a. container and app fi~ an sir presmre of 150
+T
+The entire container was then immersed
+‘Om& r of ‘Tme ‘*” to 200° C. This heating develops any leaks
+m a tan
+01 heated
+which result from differential thermal expansion and is very severe
+since the outer parts become heated fit.
+A graduated 1sss tube,
+originally filled with oil, can be placed over the lug and & e volume
+of air escaping thus cdected and measured. b e amount of this
+varies from zero up to several cubic centimeters per second, but a
+good plug should not show more than 0.2 c. c. per second.
+SPECIFICATIONS.
+
+@ collaboration. wit+ the inspection division of the Si
+COW,
+they matemal speedication No. 28004 was drawn up and 1snow being
+remsed in several details. A copy of this specification is appended to
+this report. Some 25 difF~~tm~~
+of lug have been teatcd in
+~e~$ance
+with these
+,“
+. T~e principal tcsta ao far
+at high temperatures,
+are. those for 3 ectrical r~tance
+gas le &
+e, chelectric strength and cracking under sudden changea
+m temperature.
+The first two teste are based on the work described above the
+limits set at present being that the titauce
+of the IU shah be
+greater than 500,000 ohms at 400° C. and that the gas YE age shalI
+ca
+not exceed 0.2 c. c. per second of free ah at 200° C. and 150 pounds
+per sqpare in+.
+The coId chdectric strength is measured by placing the insulators under oil end applying an alternating electromotive force,
+betwem the center dectrode and a narrow metal strip around tho
+center of the insulator. Good material should withstand 25 to 30
+kilovolte, at which voltage flash over through the oil occurs.
+The ody test avaihb]e for cracking consists in heating the porcdain insulators to 300° C. and then @m@ng them into water at–
+room temperature. They me then sub ected to an electical breakdowq teet to detect spy serious ~a ~.
+It hm been found that
+soaking the porcelains m an alcohohc solution of eosin is a very sen@JJ;b~t
+and will show cracks which would otherwise be entirely
+. The quenching ted at 300° foIlowed by u application of
+volt+ge has been the sub ect of considerable adverse criticism and is
+adnuttedl very drastic; ‘but since materials am available which will
+withstan c? it, it seems best to retain it until a betta test is devised.
+An attempt has bees made to du lica~e engine conditions with ~espect to temperature
+““’b
+?g”v:?:::~hefw?:
+a surfaca combustion r urner wlu e the sh
+jacket. It has not as yet been fouud practicable to obtain stieient
+temperature gradient by this method,
+
+t
+
+=OET
+
+N’ATTONAL ADVISORY CJOMMTJEEE FOB _ONAU’JXIS.
+
+WORK
+FURTHER
+
+495
+
+c
+
+Since the eIement of aocident enters into so many of the causes
+of failure of spark phgs, it is of the highw~ importance that awmrate
+the average life and
+statistical data be accumulated con
+of phlgs of mmiotls
+uItimatO nature of failure of a large nwn
+in actusl service. Such data c%,
+types ussd in a vsrietg of @es
+of course, be b=t obtained at the flying fields, and the cmnmitiae B
+
+‘
+
+,
+
+I
+_ti~tiS
+
+qstematic
+
+3%-424(ZU3W-.-BW
+
+statistical dda by cooperation with
+
+Other work whch should be unddaken as soon as possible includes a study of tie meohaukal sim@.h of the plugs, a more intimati inm.s - ation of the depsition of carbon and of preignition,
+and of the 3 Wacteristics of ignition systems.
+
+o
+

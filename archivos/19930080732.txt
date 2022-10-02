@@ -1,0 +1,448 @@
+C A - S E FIL-E
+COPY
+
+the f i i ~ s f the National
+o
+Advisory Comlnittse
+for Aeropauiics.
+
+-OUl.--ml,.oU,
+
+mlkw&m'
+
+-.
+
+-:.IJg+h
+h
+
+1
+4
+
+THE 1000 HP TRRFFIC AIWLANE: OF T %
+I
+
+ZEPPELITJ WORKS I _
+N
+
+STA.AKEN. *
+
+This monuplane, made e n t i r e l y of duralumin, a t t a i n e d .aspeed
+
+of 211 lan. (130 miles) per hour i n it. t r i d f l i g h t s , w i t h s l i g h t l y t h r o t t l e d .engines.
+
+In t h e period f r o = May, lW9i9,t o September, 1920, the Zeppelir.
+Vorks at Staaken built 'a s w i f . t t r a f f i c airplane, designed by my-
+
+.
+
+s e l f , equipped ivith four 260 Hf Haybash engines ( ~ i g s 2 t o 4).
+/
+
+.
+
+-
+
+0 which could be considerably reduced
+
+It8 enipty w i g h t is 6
+
+i n building another on t h e b a s i s of present experience.
+
+fith a t o -
+
+tal weight of 8500 kg., the 'airplane haa tbe exceptionally high
+wing loading of 80 kg/m2, while t h e load per HP is 8.5 kg. (18.7
+The speed of the airplane was 211 km/hr. at I00 r.p.m.
+below the full rep.m. of the engine.
+
+The four i d e n t i c a l engine
+
+unit6 are e n t i r e l y independent of each other and completely sepa2
+
+r a t e d from the c e n t r a l fuselage occupied by t h e passengers and
+
+crew.
+
+The engines r e s t on s t r o n g durdlumin brackets ( ~ i ~5 st . 7 )
+o
+
+at the front edge of the w i n g s , each engine driving a propeller
+
+d i r e c t l y , whereby t h e high speed insures sat isfactory efficiency.
+On -the carburetor side of each engine there i s a space i n the en-
+
+gine nacelle from which a mechanic, fully protected from the s l i p
+s t r e m , can watch the engine and remedy slight troubles. The en* From tlZeitechrift des ~ h r e i n e sDeutscher Ingenieure, ' June 4,
+1921. -
+
+- 2 -
+
+gines can be reached during f l i g h t through a passageway inside "Ye
+ring ( ~ i ~ ) .
+6.
+
+i n this passageway are t h e aileron and carburetor-
+
+controls, as a l s o t h e gasoline pipes.
+
+It is amply v e n t i l a t e d and
+
+warned by t h e heat from the engines and f a c i l i t a t e s communication
+between the members of the crew, since the noise of t h e engines
+
+is g r e a t l y deadened.
+
+The f u e l tanks, holding s u f f i c i e n t f u e l f o r
+
+six h ~ r sflight at f u l l power, are fastened i n the wings, i n
+completely i s o l a t e d and well v e n t i l a t e d compartments ( ~ i g s .8 t o
+ll), on strong, r i g i d , hollow supports with intervening layers of
+
+felt.
+
+leading t o t h e lower side
+The tanks are v e n t i l a t e d by ~ i p e s
+
+of t h e wings.
+
+The f u e l runs out of the t m k s under t h e act ion of
+
+-
+
+gravity i n t o s m a l l s t orage tanks, fastened t o tne engine supports
+
+near t h e crank case, and i s thence pumped i n t o the overflow carbULret or.
+The wings, fuselage, t a i l unit and engine supports are made
+of duralmin.
+
+The s t r e s s e s t o be withstood by these members are
+
+d i s t r i b u t e d by t h e m e t a l covering, which is provided with riveted
+strengthening strips.
+
+The outer surface is thus made s o strong
+
+that, i n t h e event of repair work on the airplane, important
+
+structural members cannot be readily injured by l o c a l s t r e s s e s .
+The main part of t h e wing is formed by a strong box g i r d e r _a
+( ~ i g .3)
+
+-
+
+This g i r d e r is strengthened by t h r e e full-length spars
+
+b
+- and a l a r g e r number of sheet-metal p a r t i t i o n s
+
+.
+
+These tra,tis-
+
+verse and longitudinal members are riveted t o the top and bottom
+
+of tne wing throughout its whole length, e i t h e r by means of flanges
+
+'
+5
+
+t
+
+I
+
+o r w l e pieces ( ~ i g . 6).
+
+To the front and r e a r s i d e s of the box
+
+g i r d e r a r e attached l a t t i c e r i b s , same covered with t h i n sheet
+a e t d l and soEe with liner, fabric.,
+
+,
+
+The thickness of t h e s h e e t
+
+metal p a r t s o f th; boxgirders., as likewise t h a t of the angle
+pieces and r i v e t s , varies between 0.6 mm. and 3 mm-, according t o
+the d i f f e r e n t s t r e s s e s t o be withstood.
+
+In order t h a t t h e cover-
+
+&
+
+ing may nbt buckle between t h e spars, hollow inside g i r d e r s
+( ~ i g .7) are riveted throughout t h e e n t i r e span.
+
+Contrary t o present experience, there w a s at f i r s t some unc e r t a i n t y regarding 'the probable s t r e s s e s on the members of the
+
+box g i r d e r employed f o r s t i f f e n i n g the wing.
+
+In order, therefore,
+
+t o assure the s t r u c t u r a l s a f e t y of the f i r s t airplane, two lift
+cables were added under each wing, s o attached t h a t the bending
+moments i n the wing girders are o f f s e t a s much as possible.
+These cables give t h e wings an exceptionally large coefficient of
+s a f e t y during f l i g h t .
+
+They exert- a favorable influence even on
+
+t h e ground a d i n landing.
+
+In no case has any slackness of these
+
+cables been observed.
+The wings have a surface a r e a of 106 square meters, a span
+of 31 meters, and an average thickness of only 0-Gmeter.
+
+.
+
+With
+
+reference t o t h e mean chord, the monop1a;ne has an aspect rai;io of
+1 : 9.1,
+
+while h i t h e r t o the r a t i o a have usually been between
+
+1 : 5 and 1 : 6 5
+..
+
+This favorable aspect r a t i o lessens. t h e drag
+
+s o iiluch t h a t the total drag, including t h a t of t h e . l i f t cables,
+i s s t i l l l e s s than t h a t on other .monoplanes with no outside stays.
+
+Consequently, the l i f t - d r a g r a t i o ' of the whole airplane is :
+
+!
+
+- 4 -
+
+1 : 11.5, a value probably not h i t h e r t o a-btained by any o t h e r
+
+airplane.
+The h s e l ~ e s strengthened 3 y the bulkheads
+i
+
+e
+
+(I?ig.
+
+31,
+
+:~;l?ose o u t e r flanges a r e r i v e t e d d i r e c t l y t o t h e o u t e r s h e l l .
+
+The
+
+two bulkheads which u n i t e t h e v i n g s and f u s e l a g e are e s p e c i a l l j .
+strong (see Fig. 1 ).
+The two p i l o t s s i t beside each o t h e r i n t h e f r o n t p a r t of t h e
+f u s e l a g e above t h e Sassengers, t h e c o n t r o l l e v e r s f o r both p i l o t s
+being coupled together.
+duplicated.
+
+P r o v i s i o n is made f o r 12 passengers, but 18 can be
+
+c a r r i e d on s h o r t f l i g h t s .
+
+1
+
+The t h r o t t l e and ignition switch a r e not
+
+The t o i l e t rooms a r e i n t h e rear, .as
+
+l i k e v ~ i s e r o o m s f o r t C e m a i l , b ~ g a g e a n d r a d i o i n s t r u m a n + , sThe
+.
+
+I
+
+extreme f r o n t room is only open . t o t h e gassengers during f l i g h t ,
+as i t i s intended f o r p r o t e c t i o n i n d i f f i c u l t landings on unfav-
+
+cra3le ground.
+The t a i l u n i t is based on t h e h o r i z o n t a l s t & i l i z e p o r t a i l
+plane a t t a c h e d t o t h e fuselage.
+
+This s t a b i l i z e r is s t i f f e n e d ,
+-
+
+l i k e t h e wings, by a box g i r d e r .
+
+On t h e coat ram, t h e r e are Shres
+
+v e r t i c a l l a t t i c e g i r d e r s inside the f i n .
+a r e compensated.
+
+Both e l e v a t o r and n;ddzr
+
+The s t a b i l i t y of the a i r - l a n e is such that only
+
+v s r y s m a l l f o r c e s and very small m o v e ~ e n t sof the rudder and e l e -
+
+v a t o r are required.
+
+I n designing t h e tail unit, it had t o 5 e taken
+
+i f i o c o n s i d e r a t i o n that, on acccuni of t 6 e h i g h v i n g loaciing, t h e
+
+tail u n i t loading nould ciiffer from. t h e h i t h e r t o c u s t m a r y loading
+
+,
+
+niore than
+
+loo$.
+
+For, since t h e a t t a c k i n g mgles of t h e t a i l s u r -
+
+faces are independent of t h e n i n g loading but t h e speed i s cons id-
+
+4
+erably greater, -';he t a i l unit has, w i t h greater w i n g Ioading, l i k e I
+
+1
+
+mise to withstmd g r e a t e r forces per surface unit.
+Special care ~ u s t
+be exercised. in the construc%ionof t D e
+
+j
+
+i
+
+4
+
+landing gear on account cf -;he Ligh l i f t i n g speed of 110 km/br,
+.and landing speed of X30 kn~/hs. Ir, cantrast w i t h the many wheeled
+
+landing gears of most Lzxge izirsiznes, it; has only t w o t ~ h e s i s ,
+each vi%h a double rim 1500 x 200
+i
+i
+
+I
+E
+
+1
+
+mm.
+
+Each whe&
+
+is held i n posi-
+
+t i o n 5y t h r e e s t r e a c l i n e d sfeel struts ( ~ i g s . 2 and 41,
+
+C)n
+
+either
+
+side o f the body, two of these struts constitute an approximately
+
+horizontal. p1me linked to the loner edge of the fuselage, the
+
+I
+
+wheel axle, ~ h i l e
+tke third s t m t , supporting
+
+sear one serving
+
+t
+
+I
+
+/
+
+EB
+I
+
+t h e a x l e ag&st
+
+a reinforced sortioln of the wing, c o n s i s t s o f tac
+
+telescoping tubes cont sing a s t r u n g spiral. sprlng.
+
+These sup-
+
+1
+
+p o r t i n g p o i n t s are s o selected that, the L e a s t possible stresses
+
+I
+
+a i l 1 be exedeed. upon the w i n g in alighting.
+
+j
+
+I
+
+2I
+
+The s i m p l i c i t y of
+
+this stat ica3.l.y d e t e m i ~ e d
+landing gear gives it sufficient;
+
+-
+
+I
+
+strength, n i t h relat i v e l y small weight
+
+1
+
+f W, the springs have no permanent cmpressi ori; ~ v k iclz would cause
+i
+
+E
+
+Con%
+ram t c previous cus-
+
+disagreea5le and cimgerous jumps in t o o sudden Landbgs.
+A s algir!i be expected in using springs without permanent e m -
+
+pression and w i t h a play of 300 m i - (in coat r m t w i t h 100 t o 3-50 mm.
+
+for springs w i t h pemment compression), the landing t a k e s place
+smoothZy
+
+axld
+
+w i t h o u t juqs, in s g l t e of the hlgh speed.
+
+As the
+
+speed decreases, ?;he load is t r a n s f e r r e d without much bumping fron
+be air t o the whezls and ground, v i t h a run of only 150 t o 200
+
+meters,
+
+For airplanes of like siz.e, the dangers of landing with t h i c
+nepr landing gear, with a speed of 110 t o 130 km/hr.,
+
+about as great as landing a 70 t o 80 h / h r . ,
+t
+
+pemanent conpression a d lesg play.
+
+are only
+
+with a spring having
+
+Should the performance.of
+
+this airplane i n long f l i g h t s equal t h a t i n t h e trial f l i g h t s ,
+t h e load could be increased from 35-50 t o about 80 kg//m2
+
+2
+
+and the
+
+speed could then be considerably increased.
+
+r ran slated
+
+by Hat i o a a l Advisory Cornnittee f o r ~ e r o n a uics .)
+t
+

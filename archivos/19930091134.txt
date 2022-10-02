@@ -1,0 +1,2379 @@
+REPORT No. 72
+
+c_ "3
+"
+WIND TUNNEL BALANCES
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+/
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+I
+
+WA.SHINGTON
+GOVERNMENT PRINTING OFFICE
+1920
+
+REPORT No. 72
+
+WIND TUNNEL BALANCES
+•
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTIC
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+W A..SBINGTON
+
+GOVERNMENT PRINTING OFFICB
+1920
+
+REPORT No. 72
+WIND TUNNEL BALANCES
+BY
+
+EDWARD P. WARNER and F. H. NORTON
+Aerodynamical Laboratory, National Advisory Committee
+for Aeronautics, Langley Field, Va.
+
+3
+
+REPORT No. 72.
+P ART 1.
+
+WIND TUNNEL BALANCES.
+By
+
+EDWARD
+
+P.
+
+WARNER AND
+
+F. H.
+
+NORTON.
+
+DESCRIPTION AND DISCUSSION OF TH E BALANCE FOR THE ADVISORY COMM ITTEE'S WIND
+TUNNEL AT LANGLEY FIELD.
+
+In designing a balance for the Langley Field wind tunnel, after careful consideration and
+analy is of the various type which have been usrd at other laboratories, a. well as of several
+arrangement ' not hitherto tried which were suggested, it was decided to adhere in general to
+the type of balance which ha heen used, substantially without change, for a number of years
+by the ~ational Physical Laboratory. There i no other so simple to use, yet the accuracy
+attainable is a great a with any of the more complicated types. The design was modified in
+some respect to permit of tlle measurement of larger forces than those for which the original
+N . P. L, balance are suited, as well as to introduce certain changes which seemed likely to improve the convenience or accuracy of the work. In the description which follows particular
+attention will be paid to the details in which the balance differs from its prototype, very full
+descriptions of the latter having been printed in many places. 1 For the benefit of those who
+ar e not familiar with the J. P. L . halance it may be briefly explained that its di tinguishing
+feature is the carrying of the whole balance on a ingle pivot, thus permitting it to rock in two
+plane. The model is mounted ahove the pivot with its Y axis vertical (i. e., "standing on the
+wing tip ") and the lift and drag are measured imultaneou ly by hanging weights on two arms
+at right angle to each other and balancing the apparatus up in two plane at once. The leverage ratio in this balance, as in those in the N. P. L. 4-foot tunnels, is one-half, the di tance from
+the main pivot to the center of the model heing 137 m. (54 inches), while that from the pivot
+to the scale-pan sockets at the end of the weighing arms is 6 .5 cm. (27 inches).
+A emhlies and sections of the halance are giv n in Plate I-IV, and photorrraphs of the
+cutUpl >ted in trument in Figs. 1 an 1 2. Figs . 3 to 10, inclusive, illu trate all the parts (except
+a.bout 10 pecially made part and uch stock hard, are as machine screws and nut) entering
+into the construction of the balance. Each part is numbered in the e illustrations, and freq uent reference will be made to them in di cu ing the working of ,arious elements.
+RIGID PARTS.
+
+The frame i e.' 'entially Lhe same a in the original . P. L. balance, except that it is casL
+in one piece instead of having the head which carries the moving part of the in trument cast
+separate and halted on. Furthermore, where the British design ha only one member projecting
+from the frame hea l the Langley Field balance ha three, one pa sing into the movable portion
+of the balance and carrying the ocket for the main pivot, the other two pa ing around the ou tside of the movable portion and a little more than half encircling it. A ca t-ll'on yoke i halted
+to the ends of the e encll'cling members, and the balance proper is then entll'ely surrounded hy
+a ring, with just enough clearance to permit it to rock without danger of triking the frame.
+I
+
+Report of British Advisory Committee for Aeronautics, 1912-13, pp. 61-66: London.
+
+5
+
+6
+
+ANNUAL Rl!;PORT NATIONAL mVISORY
+
+COMMITT~E
+
+FOR AERONAUTH': S.
+
+The object of thu encircling th e b alance with the frame was to provide a point of attachmen t for the guide arms. In the N. P. L . instrument t hey pass through holes cu t in the sides
+of the moving portion and ar e bolted direc tly to the single frame lug which carries the main
+pivot socket. Since the Langley Field baJance was designed to carry loads up to 20 kg. on the
+model some stronger method of attachment for the guide arms was required, as well as on e
+which wo uld permi t of easier assembling and dismounting.
+Th e guide ar ms ar e made of steel tubes, 25.4 mm. (1 inch) in out 'ide diameter and with
+5-mm. walls. T hey are pinned into ockets at the end, and the e sockets are bolted directly to
+the frame or (in the case of the lift arm) to the yoke which connects to the frame and passes
+around the balance. The worst stre s in the guide arms occurs when there is no weigh t on the
+weighing arms and the load on the model i at a maximum or }vhen the wind i suddenly stopped
+with the weight in the scale-pans adjusted to b alance a large load. Wi th a load of 20 kg. acting
+on the model the force applied at the end of the guide arm is 40 kg ., and the bending stress at the
+root of the arm. is 1,475 kg. pel' square centimeter (21,000 pounds per squar e inch). T he guide
+arms carry cages which slide in dovetailed slots and can be adjusted by crews through a vertical
+range of abou t 6 mm. ill order to facilitate the preliminary lining up of the in trument with the
+lower pivot engaged. I n tead of using a thr ead or wire as a reference line a piece of glass with
+a hair line scrib ed on it is mounted in the side of each ·cage. The weighing arms are nickel
+plated, and the r eference line carried by the cage is lined up with its own reAection in the weighing arm and with a similar line scrib ed on th a t arm, thus avoiding any possibility of parallax
+due to the considerable distance between th e two arms .
+T he dashp ot is nearly identical with that on the N. P. L. instrument. It 'was ca t with two
+pa sages, connecting opposite pau's of chambers, cored in the bottom, and a petcock communi_
+cates with each of those cored pa sages. Thi insures that the damping liquid will always stand
+at the same level in opposite chambers, but i t i still possible to have it at differ ent levels in
+adjacent ch'amb ers or to use liquids of different vicosities if it is desired to damp the 0 cillations
+in one plane more powerfully than thosfj in the other.
+BRAKE AND LOWER PIVOT SOCKET.
+
+The brake, a short distance above the dashpot, is of a different type from th at u ed by the
+N. P. L. as it was neces ary to ecm e a very powerful grip , capable of resisting a large
+torsion al moment, on the lower tube, bu t without risking crushing that thin-walled tub e. The
+brake u ed is identical in p rinciple with a lathe collet and gi ves a uniform pressure over vu·tually
+the entire cU
+'cumferollce of th e tub ~.
+A mechanism [0 1' r ai ing andlowel'ing the lower pivot socket, causing engagement or release
+of the pivot, is m ounted underneath the dashp ot. The part ar illustrated and numbered in
+fig. 6. The h andle 1 is fa tened to the cam 4 and th~ rotation of this .handle through a quarter
+tUI'll raise the cam 3 by 10 mm. The adjusting scr ew 5 is er ewed int.o 3 and transmits the
+vertical movem ent to the pivo t ocket 7 through the . leeve 6 and the sprulg 8; 7 rises freely
+until it com es in contact 'with the lower pivot, and thereafter, as 3 and the attached part
+continue to rise,
+is compressed, increasing the pre sure b etween the pivot and its socket.
+When 3 h as b een raised to it. maximum heigh t the pressure between the pivot and sock et
+can be adjusted by turning the cr ew 5 in the' cam 3, two turns of the scr ew being sufficient to
+change the pressure from 0 to 20 kg. The spring 9, much weaker than 8, is used to aSlsist gr a\Tity
+in throwing the ocket out of engagem ent after the cam has been lower ed. This device is very
+much quicker and easier to operate than the usu al simple scr ew and pring, and it has the great
+advantage of permitting an adju tment of pressure for different lateral forces of the pivot against
+its socket and for differ en t total weights to be carried. The load can thus be distributed between
+the upp er and lower pivots in any manner desired.
+
+~
+
+I
+
+FI G. 1.
+
+-5'--_ _- _ . . . 1
+
+- --'--
+
+- - -
+
+-'---
+
+FI G. 2.
+
+WIND TUNNEL BALANCES.
+
+7
+
+MOVING PARTS OF BALANCE.
+
+In order to reduce the weight of the main pivot, the upper and lower part of the balance
+were both cast of aluminum alloy instead of bronze, a h~ been the practice hitherto. Since
+an aluminum to aluminum bearing at the point where the pieces touch would be undesirable, a
+steel plate is screwed to the lower face of the upper part. This plate has teeth cut around its
+periphery, and these mesh with the teeth on the pinion whose case is mounted on the clamping
+ring (to be described later). By rotating the pinion knob the upper part of the balu.nce is turned
+with reference to the lower part and the angle of incidence can thus be adju ted very accurately.
+The main b alance castings were proportioned for stillness and for reasonable ease of construction, rather than from the s tandpoint of s tress. The maximum bending stress in the lower
+head is 29 kg. per square centimeter, giving a fttctor of safety of about 40, and that in the upper
+head is quite as large.
+The force acting on the balance, and tending to separate the upper and lower heads on one
+side while forcing them together on the other, is too great to permit the use of the T-slot
+arrangement employed by the N . P . L., and the two pieces 'Nere therefore clamped together by
+an alloy-steel ring threaded onto the lower part and with a flange turned inward and bearing
+against the upper portion. This ring is one of the few parts of the balance which is probably
+materially stronger and heavier than it needs to be. The stres in such a flange i difficult to
+compute with accuracy becaus of uncertainty a to the distribu tion of the pressur e between
+the surfaces, but it is estimated on the be t assumptions available, as 700 kg. per square centimeter (1'0,000 pounds per square inch), giving a factor of afety of over 10. It would be safe to
+reduce the maximum thiclme s of the clamping ring and it flange to 3 mm. (three-sixteenths
+inch), and the \I'eigh t could thus be reduced by about 500 gms.
+The clamping ring cover up the portion of the upper head which normally bears the gradunted circle, and the graduations have therefore been transfered to the horizontal portion of
+that head, just in ide the inner edge of the clamping ring flange.
+ince thi is too high from the
+floor to be convenient for direct observation, a prism is mounted on the clamping ring 0 that
+the gradu ations can be read with the eye on a level with the plane dividing the two parts of the
+balance. A movable vernier i mounted at the arne point and it graduation are al 0 reflected
+in the prism.
+The weighing-arm, instead of being cantilevers, a in previou balance of this type, are
+trussed with tie-rod. The arm are made of teel tubes 25.4 rom. (1 inch) in diameter, with
+walls l.5 rom. (0.06 inch) thick, and are trus ed with rod 4 .5 rom. in diameter, making an angle
+of 12°.5 wi th the arm themselve. The compre ive tres in the arm under the maximum
+load is 159 kg. per square centimeter (2,260 pound per quare inch) and the ten il tre. in
+the tie-rods i 943 kg. per square centimeter (13,400 pound per qual' inch). In order to carry
+the same load with solid arms acting a cantilevers they would have to be 24 rom. in diameter,
+or approximately the same as the out ide diameter of the thin-,,-alied tubes now used. The
+deflection with cantilever arms would be much greater than with tl'US ed, and the weight 'would
+be at least twice as great a the weight of the pI' ent arrangement.
+COUll terweigh ts are provided for lif t and drag.
+The lif t coun terweigh t i made flat on top
+so that more weight can be ea ily attached there when large negative lift have to be measured,
+by removing part of the weight placed in the calepan to balance the counterweight. Since
+negative drag never occur, the arne nece ity of adding weight doe not ari e for the drag
+coun terweigh t.
+The m ain pivot is carried in a ribbed plate cast of aluminum alloy and fixed inside the lower
+part of the balance. Thi plate carries, in addition to the main pi\'ot, two pivots and two
+knife-edge, arranged around the circumference of a circle. All five pivots and .knife-edges
+lie on the arne level. The balance frame carries, in addition to the main pivot ocket, a pivot
+socket and a knife-edge ocket in line with the lift arm and a little lower than the main socket.
+When it is desired to measure drag alone the main pivot is lowered with a special wrench inserted through a slot cut in the lide of the balance, and the balance is w'opped until one of the
+
+8
+
+A"N N 'AL REPORT "" ATIO
+
+J
+
+AL ADVISORY COMMITTEE FOR ABRON AUTICS.
+
+eco nd al"Y pivots and one of the knife-edges mentioned above come into contact with their sockets, just as in the original N. P. L. ins trumen t . The balance th en has only 1 degree of freedom
+a nd the lift arm can b e disregarded entirely unless the lift is very large, in which case enough
+weight should be hung on the lift arm to balance the lift approximately (within 1 or 2 kg. ).
+If this is not done the >veight of the balance may b e insufficient to h old it down, and the pivo t
+may rise from its socket entirely. The other pi vot and lmife-edge are u ed to measure lift alone.
+Their socke ts ar c carried by a horse ho e- haped link, pivoted to the frame at its open end and
+resting at the other end against the point of a screw which is threaded into the frame. This
+p air of socket are in line with the drag arm and are normally a little lower than the pail' used
+for m easuring drag aIone. When it i de ired to mea ure lift alone, the scmw supporting the
+closed end of the link i turned, raising the link and i ts pair of sockets un til the sockets come in
+contact with the pivot and knife-edge and lift the balance off of the main pivot. The balance
+is therefore a little above its normal position when lift alone is being measured and a li ttle
+below it when it is the drag that is taken, but the total vertical di placement does not exceed
+2 m.m.
+
+.
+
+The four dashp ot fillS and the pla tform on which the (( sensitivity weight" rest are made of
+a single aluminum casting in order to get the weights as far a' pos ible below the center of
+gravity.
+The drawings a nd photographs show the balance only as far a the upper end of the trump et
+top. Beyond thi come the pinelle, which present a special problem in that not only the
+weight and . trength, but the out ide diameter, must be taken into consideration, a the interference of the pindle with the flo"- about the wing i always a serious factor, and no effort mu t
+be pared to r educe it. It is ver y desirable that the wing be supp or ted by the tip, as the interference of a center upport is mu ch greater. With a 'pindle attached ali lihe wing-tip, lihe
+whole force on lihe model act at a large m om ent arm to produce bending tress in the spindle.
+With a wing 60 by 10 cm. and a for ce of 20 kg ., a spindle of mild steel has to be at lea t 16 mm.
+in diameter at the point of attachment to the wing to give a factor of safety of 4. With a spindle of high-grade heat-treated alloy teel thi diameter can be reduced to 12 mm. F or uniform
+str e s, the spindle diameter at the trump et top would be only 21 per cent greater than that at
+the wing, but it i well to taper a little m or e abruptly than this in order to ecure increased
+tiffness. When the parasite resistance of bodies, airship hulls, Or other str eamline forms is
+being determined a very much malleI' pindle can be used than when wings are b eing tested .
+With an airship hull of low re istan ce coefficient, the model being 12 cm. in diameter and being
+tested at a peed of 50 meters per second, the pindle diameter at the point of attachment need
+be only 1.9 mm. in di ameter, tapering to 2 . mID . at a dis tn.n ce of 15 mm. Here again a sharp er
+taper would be ad vif:lable to reduce the deflection and avoid vibration of the modeL In any
+case, however , a co rrection for the eff ct of pindle deflection (di cus ed in anothor section of this
+report) would be nocos ary with Cl, 'pindle of such a mall tip diameter a this.
+PITCHING MOMENT DEVICE.
+
+The torsion wire u. ed by the N . .P. L. ror measming pitching moments being unsatisfactory in orne r espect a secondary balance beam for weighing th e e moments directly is incorporated in the Langl ey Field instrument, as in that at the Bureau of Stimdards and several
+others. The moment weighing arm is an aluminum casting. The moment is transmitted to
+it from the lift counterweight arm of the balance through a strut and pring clamp similar
+to those used by the N. P . L. for preventing rotation or the balance, and is balanced by weight
+hung at the end of the horizontal beam of the weighing arm. The ratio between the lengths
+of the horizontal and vertical arms is 3, so that th e weight in the scalepan is one-third the lateral
+pres ure of the strut or clamp against the socket at the top of the weighing beam. If the lateral pressure becomes greater than the total weight of the beam and parts attached to it the kuifeedges on which the b eam rock will jump out or their sockets, the sides or which have a slope
+or 45 °. When tests are made at high speeds and with models so mounted that the pitching
+
+•
+
+FIG. 3.-FRAME , DASH POT , AND OTHER RIGID PARTS.
+
+----------------- -----------~~
+
+I
+
+2
+
+F I G. 4 .-1, LOWER HEAD; 2, CLAMPING RING; 3, PIVOT PLATE; 4, VERNIER
+AND PRISM; 5, PINION AND CASING.
+
+I
+
+I
+
+f
+
+I
+
+I
+I
+
+I
+
+I
+
+I
+i
+
+I
+
+I
+7
+
+FIG . 5.-1, UPPER HEAD; 2, TRUMPET TOP; 3,4, PIVOT AND KNIFEEDGE SOCKETS ; 5,6, BUSHINGS; 7, DASHPOT COVER.
+
+---
+
+-----------
+
+----------
+
+,
+
+I,
+15
+
+II
+
+15
+
+16
+
+16
+
+~
+
+6
+
+4-
+
+5
+
+Z
+
+17
+18
+
+23
+
+20
+
+FIG. 6.-1 TO 11, LOWL:R PIVOT AND LOWER PIVOT SOCKET PARTS; 12,
+V. F. LINK FRAME; 13, V. F. ROD SOCKET; 14, V, F. LINK; 17, 18,
+COU N TERWEIGHT ARMS; 19, 20, COUNTERWE IGHTS; 21, SENSITIV ITY WEIGHT SPINDLES; 22, 23, BRAKE PARTS.
+
+i
+
+10
+
+,
+
+,:"
+6 6
+5
+
+3,
+
+~
+
+4-
+
+7
+
+2
+~
+
+16
+
+14-
+
+II
+
+IZ
+
+18
+
+13
+
+19
+
+20
+
+7.1
+
+17
+
+FI G. 7.-1 TO 16, MOMENT DEVICE PARTS; 17 TO 21, MICROSCOPE PARTS,
+
+~
+
+I
+
+FIG. 8.-1, 2, GUIDE ARMS; 3, V. F. CAGE AND DASHPOT; 5, V. F. DAMPING
+VANE; 6,7, CAGE CARRIER AND CAGE; 10, RIDER PUSHERS; 11, 12,
+MOMENT GUIDE ARM AND C AG E.
+
+"_ . .
+
+~
+
+-
+
+.-.
+
+12
+
+FIG. 9.-1, DASHPOT FINS; 2,3,4, RIDERS; 5, 6, SCALE PANS; 7, V, F,
+KNIFE-EDGE FRAME; 9,10,11, WEIGHING ARMS; 12, WEIGHING
+ARM TIE-RODS,
+
+WIND TUNNEL BALANCES.
+
+9
+
+moment is large it i therefore neces ary to add dead weight to the weighing beam to hold it
+down. A counterweight is placed oppo ite the scalepan on which the weights to balance the
+moment are hung, and thi counterweight i heavy enough and placed far enough from the axis
+of rotation of the beam 0 that the zero weight which mu t be placed in the scalepan to balance
+t he beam with no wind on is greater than the largest diving moment which is likely to be measured. Both stalling and diving moments can thu be mea ured with a single scalepan.
+The spring clamp used for tran mitting the moment to the weighing beam is made with a
+single h elical spring behind one pivot. The pressure of thi spring can be adju ted by turning the
+knurled head of the clamp. A C- pring of the type used on earlier N. P. L. balances could
+not be made to give the requisite pres ure and still be kept within reasonable limits of ize.
+The trut which opposes the pring clamp is made of a teel tube, 3 rom. outside diameter ,
+1.5 rom. inside diameter, with hardened points mounted in its ends .
+A separate dashpot is provided for damping the oscillations of the moment weighing arm.
+The damping fin i carried at the lower end of a rod which mns down through a slot in the table
+top of the balance frame.
+When lift and drag are to be mea ured the moment beam is locked, in order to prevent
+rotation of the balance about a vertical axi , by passing a pin through holes drilled in the sides
+of the moment guide arm and in the weighing arm it elf. The balance can be adju ted for alignment of the arms with the wind by moving the o!}ket which i set in Lhe lift counterweight
+arm and which i provided with a crew adju tment.
+MICROSCOPE FOR ALIGNMENT.
+
+In order to check the alignment of the arms with the wind, a microscope is mounted on
+the table top of the balance frame, and a reference line i carried on the balance itself, exactly
+as in the original in trument except for mechanical details. The reference line i made adj ustable with a micrometer crew in order that it may be brought intC' line 'with the cro s hair
+of the micro cope when the alignment is fu· t determined or whenever it i checked. The reference line, once located, i left fixed, and the two lines are ther eafter brought into alignment,
+whenever they get out from any cau e, by moving the strut-and- pring clamp ocket as described in the last section. Ordinarily the lines should come into register whenever the locking
+pin i. passed through the moment weighing arm without any adju tment.
+VERTICAL FORCE ARM.
+
+When lateral stability or control i to be investigated, requiring t4e measurement of ix
+forces and moment instead of three, the model is set up with the Y-axi horizontal and the
+lift is measured directly on the vertical force arm, which runs in the oppo ite direction from the
+drag arm. The method used in the Advisory Committee's balance is identical with that devised and used by the N. P. L. , and fully described in the Report of the Briti h Advisory Committee for Aeronautics for 1912-13.
+ince the lift on a wind tunnel model at high peeds is
+greater than the weight of the model, enough weights are trung on the vertical rod which
+passes inside the balance to insure that the total weight on the inner end of the V. F. weighing
+arm will be greater than the maA-imum lift.
+CONCLUSION.
+
+While it i perhap unwise to attempt to set a limit to future progress in any direction, it
+not believed that the . P. L. type of balance will prove applicable to tunnel izes and wind
+speeds very much in excess of those at present realized. The load becomes too great for a
+single pivot, the error due to deflection rapidly run up with the ize of balance, and the handling of the weights becomes an arduou task with growing forces on the model. Even in the
+present balance 40 kg. must be lifted onto the scalepan to balance the maximum lift. If there
+iH to be much further increase in the values of LV reached in model experiments, that increase
+probably must be accompanied by the adoption of a new type of weighing instrument.
+i~
+
+144415-20-2
+
+REPORT No. 72.
+PART II.
+
+SENSITIVITY OF WIND TUNNEL BALANCES OF THE N. P. 1. TYPE.
+
+The balances u ed in aerodynamic mea w-ements, whatever may be their type, work
+uud er cond ition r ad ically differcnt from tho ' e to which practically all other weighing mac:hines are exposed in that the lond acting on the balance is never steady, but varies with the
+greatest rapidity. In a chemical balance the action of gravity on the weights ~1Ud on the subRtance to be weighed i absolutely unchanging, assuming an absence of chemical or physical
+Iwtion with the surrounding ail', and the only variable force are tho e dne to the current of
+nir triking the balance. In a good b alance even the e are guarded against by the illclosw-e
+of the balance in a ca e, means being provided for manipulating the weight from out ide.
+Wherl it i attempted to mea me force clue to fluid velocity the whole problem of in trument design i much altered, for it becomes nece ary to balance a fixed force, the pull of
+gravity on the weights, against a ,aria hIe one, the pressure on the object being tested. It
+was 'with the object of eliminating thi eli symmetry that Lanche ter devised, a number of
+year· ago, his aerodynamic balance in which the two forces balanced against each other varied
+in the same way. In this instrument, u ed chiefly for finding the kin friction of plates, the
+object to be tested wa held at one end of a horizontal arm, the other end of which supported
+a small flat plate so oriented as to be normal to the wind. The horizontal arm was free to rotate
+about a vertical axi through it center. In use the apparatus wa exposed to a rapidly moying
+cmrent of air, and the area or po ition, or both, of the normal flat plate, were yaried until the
+a.r m howed no tendency to rotate. The moment about the axi were then equal and,
+since the distance of each urface from the center of rotation could be mea med and since the
+resistance of normal fiat plate had already been determined with a fair degree of accmacy
+by other experimenters, using other method , it \Va po ible to olve for the unknown resistance. Once the arm on till instrument wa balanced, it hould show no tendency to rotate
+clue to changes in wind velocity, provided the velocity at any ginn in tant wa the same at
+the two ends of the arm, a the resi tance of each object ,,-as ,ery nearly proportional to the
+square of the velocity, and the ratio of the re i tances would be quite independent of wind
+speed. For this same rea on, indeed, measurement of the wind p ed were wholly unnecessary for the determination of the coefficient. A device similar in conception was used by
+Dines at about the arne time for mea uring re i tance. In thi ea e the urface te ted was
+carried on a whirling arm, and the resi tance wa balanced again t the centrifugal force on a
+weight connected to the surface through a bell crank. Here, again, no measurement of speed
+was required, as the resistance of the object tested and the centrifugal force on the weight were
+both proportional to the quare of the angular velocity bf the whirling arm. A.n arrangement
+for balancing the 10rce on two surfaces against each other i al 0 u ed in Mr. Orville Wright's
+balance.
+Such devices a the e, however great their ingenuity, are ineyitably un uti factory in some
+respects. In the first type described, a preliminary determination of the re istance coefficient
+for a fiat plate normal to the wind wa required, and the accmacy of all ub equent experiments was limited by the accuracy of this preliminary determination.
+0 ab olute me~lsure­
+ments of resistance were pos ible. In both ca es the mechanical complication introduced
+by the shifting of a urface or of a bob weight were extreme.
+11
+
+12
+
+ANNUAL REPORT
+
+ATIONAL ADVISORY COMMITTEE FOR AERO ""AUTICS .
+
+In nearly all balances used in aerodynamical laboratories at the present time, then, to return
+
+to the original statement, fixed and variable forces are involved.
+
+No satisfactory mean of
+
+automatically controlling the wind velocity in a tunnel ha yet been deyi ed, de pite the considerable number of trials which have been made, and it i still necessH,ry to depend on manual
+regulation. Thi involves a distinct time lag between the occurrence of a velocity fluctuation
+and its correction by the manipulation of the rheostat, so that, even with a highly skilled operator, the wind velocity may vary more than 72 per cent each way from the mean value, the period
+of the velocity 0 cillation being from 2 to 10 seconds. A variation of 72 per cent in the wind
+velocity implies, since the force vary as the velocity quared, a variation of 1 per cent in
+the forces acting on the model. The magnitude and nature of this yariation must be kept
+always in mind in designing the balance, and the instrument must be so arranged a::; to yield the
+most aCCLll"ate re ult possible under the special conditions which it has to meet.
+We shall examine first the sen itivity of the type of balance originated t.t the I ationa l
+Physical Labora,tory tmu used in thi country at the Massu,chu etts Institute of Technology,
+at the new tunnel of the Curti. ]~ngineering Corporation, and in the
+Arr-_ _ _, . -_ _ l>.W
+Adyisol'Y Committee' tunnel now
+under discussion, in which a ingle
+pivot i u ed for UppOl't and the
+balance has two degrees of freedom.
+In the fu'st place, since it is necessary to balance up the in trument
+with no wind blowing in Nder to
+H
+determine the amount of weight required to counterbalance the statical
+couple due to the model and the
+weight of the unsymmetrically di ,po ed portions of the in trument,
+there must be a sufficient degree of
+"statical sensitivity," working a an
+L
+ordinary physical balance, to keep the
+error in the readings on this preliminary test within reasonable bounds.
+The magni tude of the error permissible depends upon the greatest abso'--_ _ _ _____ _____________J lute accuracy desired in the deterFIGURE 10.
+mination of lift or drag. In the case
+of a wing, this gr eatest accuracy is r equired in the mea urement of the drag near those angles
+where the drag coefficient is a minimum. The minimum drag of a wing 60 by 10 cm. at
+a wind speed of 30 m. per 'econd i about 72 g. In order that the error in the determination of this amount may not be over 1 per cent, the possible error in the preliminary run
+with no wind on should under no conditions exceed 72 per cent of the quantity to be measured,
+or, roughly, 0.35 g. In order that the measurement may be accurate to thi amount it is
+necessary to make the theoretical sensitivity quite a little better than 0.35 g., as there is
+always some friction between a pivot and its ocket, especially where, a in an instrument
+of thi type, the pivot must be somewhat blunted in order that it may carry its load without crushing. In actual practice with heavy pivot-supported aerodynamic balances, it is
+found to be pos ible to ecure a di tinct mo\-ement of the drag arm due to changes of weight
+of 0.05 g. The lift arm is som ewh at less sensitive, as motion of this arm are opposed not only
+by the friction between the pivot and its ocket, but al 0 by the friction between the lift counterweight arm and the two pivots (on the strut and pring clamp) which preyent rotation of the
+balance about a vertical axis. A sensitivity of 0.05 g. , while it is sometimes useful when the
+forces to be measured ar e very small, as in the determination of the re istance of a streamline
+
+13
+
+WIND TUNNEL BALANCES.
+
+hody, is seldom required and seldom obtained. In general, if means be provided for adjusting
+the halan ce to give a ,ensitivity of O. t g., the result will be perfectly satisfactory.
+The forces acting on the balance with no wind blowing are shown diagrammatically in figure
+10. (i i thc combined ce nter of gravity of the moving portions of the balauc('l, the model, and
+the weight required to balance the unsymmetrically disposed portions of the model and of
+the instrument it elf and i located at a distance X 0 below the pivot. These weights
+are, of course, considered as applied at the point where the scalepan pivot touches
+its socket in the weighinO' arm. W is the, um of all these weights (balance, model,
+etc.). If a force t1w be applied at the point A or, what amounts to the same thing,
+if the weight on the calepan be decrea I'd by kt1w where k is the multiplication ratio between the
+vertical and the horizontal arms of the balance, the balance will, neglecting friction, rotate
+t1w
+
+about the pivot through an anale whos circular measure is equal to hW . The vertical moveXo
+
+lt1w
+ment of the reference line at the end of the weighing arm will then be hW . If a certain value
+Xo
+
+e be a umrd for the minimum perceptibl
+
+.
+tl1e rxpresslOn: t1w =
+
+value of this movement the sensitivity is given by
+WXoE
+A n lDcrease 0 f ' . . requu'os decrease 0 f f::.,.w, an d thiscan b e
+.
+.
+h xl'
+sensItIVIty
+
+ecured hy modifying anyone of four terms (it i a umed that E can noL be further decreased
+ex('rpt by the u e of a micro cope for observing the movements of the reference line). W is
+alway reduced to as Iowa ,-alue a possible if for no other rea on than to keep down the load on
+the pivot, but ther are w 11 defined limit beyond w'h ich this reduction can not proce('d without
+sacrificing the strength and stiffne of the instrument to an extent which will introduce larO'e
+errors.
+It would appeal' from the formula that f::.,.w could be reduced by increasing h or l, or both,
+but this is not aetually the 'ase, since any increase in the e quantities requires more than a
+proportionate increase in weiO'ht in order to 1 eep the d flection of the structure within safe
+limit. h i always made a mali as po ible without bringing the enlarg d sections of the
+balance head cIo e enough to the edge of the wind tream to interfere with the flow of air. lis
+made as short as has be n found expedient (u ually l = t h) as any hortening of l rapidly increases the amount of weight which must be handled and the load on the pivot. There remains,
+among the several variables only xo, and this can be reduced practically without limit. Here
+again the conditions under which wind tunnel balance work are pe uliar. 'Whereas, in the
+ordinary scientific balancC', it is nece ary only to onstruct the beam and atta hC'd parts so
+that their comhinC'd ('entr1' of gravity will be very lightly below the knife-edge and then to
+placr. the lmife-eclge sockC't for Lhe seal pans 0 that a traight line connectinO' them will pas
+through the knife-C'dge supporting the beam, thu making th sensitivity independent of the
+weight in the scale pan, in the ca e of the wind tunnel balance neither th total weight of the
+rigidly as embled moving parLs nor the po ition of th ir center of gravity ever remains fixed for
+two consecuti,e te 1;s (unle s they be made on the same model under identical conditions). In
+the case of the Langley Field tunnel, for example, the weight of the model and of the spinelle
+ince the center of gravity of
+which supports it may lie anywhere between 50 and 10,000 g.
+the model is about 140 cm. above the center of gravity of the rest of the balance, the effect of
+changing from the lightest to the heavie t model is to raise the center of gravity of the whole
+assembly by about 60 em. Manifestly, if Xo was very small with the light model in place, it
+would have a large negative value when the heavy one was substituted, and the balance would
+be unstable. On the other hand, if Xo wa adjust d for a small positive value with the heavy
+model its magnitude would greatly increa e on changing over to the light one, t1w would therefore be augmented manyfold, and the sen itivity of the measurement would be much decreased
+just when the highest possible degree of 'ac uracy would be required ; that is, with a mall model
+experiencing only mall forces. It i thereforo nece sary to provide some means of adjusting
+the center of gra.vity when the weight of model is changed, and this is done by means of the
+"sensitivity weiO'hts" carried on the spindles just above the dash-pot (shown in the side view
+
+14
+
+ANN AL REPORT NATIO " AL ADVISORY COMM(TTBE FOR AERONAUTJCS.
+
+ill the ge neral a embly drawing of the ~ dvi ory Committee's balance). When the weight of
+th model is large, a large amount of weight i placed 011 the spindles, about 70 em. below the
+pivot, thus counteracting the te ndency of the heavy model to raise the center of gravity. When
+there is no model in position a weight of about 00 g. is required on the pindles to balance the
+capsizing t ndency 01 the balance its H, and an additional amount of about twice the weiO"ht
+of the model is requi red to maintain stable quilibrium with the model in place.
+In the particular case of the committee's balan e W, in the formula for sen itivity, is 20,700
+g., not incl uding the model, the weight in the calepan, or any sonsitivity weights oxcept those
+required to balance the up etti ng tendency of the balance it elf . With a model in position and
+no wind on, the total w0ight supported on the pivot lies, in rno t cases, between 21,000 g. and
+49,000 g., with an average value of abou t 2 ,000 0" . hi 54 inche , or abou t 137 cm. , and l i
+27 inches, approximately 68.5 cm. e may be taken a 0.2 mm. If the required se nsitivity be
+taken as 0.1 g. , which was shown above to b e a fair average value, Xo must not be more than
+1. 7 cm. On the other hand, Xo must not, under any conditions, be negative, as the balance will
+simply fall from ide to ide, never b eing in stable equilibrium, and it will be almost impossible
+to secure any I' adinO"s whatever . Since a movement of 0.2 mm. at the end of the weighing arm
+correspond to an angular rotation of 0.00029 radian, the product of the total weight and the
+distance from the pivot to the center of gravi ty may vary, without falling below the minimum
+permissible son iti,ity, from 0 to 47,000 gm. Cm. Since the ensitivity weight are located
+about 70 cm . below the pivot a yariation of nearly 00 g . in the am9UJ1t of woight u ed is pos iblc
+without changing the en itinty beyon 1 the a siO"ned limits . A somewhat closer adjustment
+than thi is actually sought for , a it i not desirable, a will be shown later, to have too much
+ensitivity, but there is no nece sity for changing the weights by smaller interval than 200 g.
+Since the weight i alway symmE'trically dispo ed 011 tho two spindles the smalle t weight u ed
+is 100 g.
+With the wind on the conditions are changed con idorably. All the forces which acted
+during the preliminary run continu in operation, in addition to two new ones, the resultant force
+on the model due to the reaction of the moving air and the ~eight used to balance this resultant.
+(Lift and drag are here con idered a a unit.
+trictly speaking, of course, there are three force
+acting-the re ultant force due to the au', the pull of gravity on the lift weights, and the pull
+of gravity on the drag weights.) The moments of these two new force abou t the balance pi.vot
+must be equal i.n order that the ystcm may continue in equilibrium.
+The condition of stabili ty of the system are also modified. The addition of weight to the
+scalepans has no eifert, provided that the socket for the scalepan pivot i , as it should be, exactly
+in the horizontal plane through the main pivot when the balance is in equilibrium. Since there
+is inevitably some deflection of the weighing arms, no matter how well they may be br aced, this
+condition can not be exactly obtained under all loads, bu t the deviation from the ideal is small.
+The magnitude of thi deflection and the errors arising from it are examined in another part of
+the paper.
+.
+If the line of. action of the force on the model intersects the vertical lirl.e thl'ough the pivot
+the change in mom en t arm due to mall inclination of the balance is negligible, and the
+moment of the for 0 about the pivot l"emains substantially constant during the oscillations of the balance, so long as the force itself is not varied by fluctuations in the wind
+velocity or any other cau e. If, however, the fo rce does not act through a point vertically over the pivot the two forces supposed to be in equilibrium (that clue to the
+pressure of the air on 'the model and that due to the pull of gravity on the added weights)
+will not continue in equili brium when the balance inclines . and loss of ensitivity or
+loss of stabili ty of the system 'will r esult, just as is the case when, in an ordinary
+phy iCM balance, the line connecting the points of suspension of th e scalepans passes below or
+above the knife-edge. It is rather difficult to define satisfactorily the point which, being analogous to the point of su pension of a scalepan, should be located directly above the pivot. For
+the present, at least, it will be simplest to consider eparately the effects of each of the six forces
+and momen ts acting on an obj ect, not necessa.rily symmetrical, exposed to a current of air .
+
+WIND TUNNEL BALANCES .
+
+15
+
+Instead of considering the lift and drag, acting perpendicular and parallel to the relative wind,
+as is the orcl inary practice in wind tunnel wor k it will be best to deal with the forces resolved
+parallel to axes fixed in the model, in accordance with the current practice in stability work.
+In this way the moment arm of each force about the pivot will be fixed, whatever oscillatons
+the balance may undergo. The tbree forces are taken as acting at an origin which may be arbitrarily fIXed, but which is almost always located at the center of gravity in the case of a model
+of a complete airplane and at the center of the leading edge in the case of an aerofoil.
+Oscillations of the lift arm of the balance can obviously have no effect on the sensitivity.
+There only re ult is to incline the plane of the wings out of the vertical. 'l'his does not change
+the magnitudes of any of the force along' axes fixed in the m9del, nor of the moments about
+such axe, and, since the moment arms are con tant, as pointed out above, the moments themselves will not change.
+Oscillations of the drag ann, however, yaw the model instead of rolling it. As soon as the
+model yaws symmetry is destroyed and all of the forces and moments may be modified in some
+degree. The variations of the pitching moment are of no interest in the present connection,
+as the moment is exerted about a vertical axis, and can not possibly affect the equilibrium of the
+balance. Its only effect on the sensitivity is to change the pres ure of the short balance arm
+against the strut which prevents the balance from rotating about a vertical axis, and so to
+change the friction at this point. Of the five quantities remaining, the variations in the forces
+Z and X, closely analogous to the lift and drag, are small, but not 0 small as to be negligible.
+In general, Z deyreases slightly with small deyi.ations from the position of symmetry,
+while X increa es, but exception to both of these rules are sometimes encountered.
+The rate of decrease of Z is usually about one-half of 1 per cent for each degree of yaw.
+The change in X usually ranges from t per cent to q. per cent increase for each degree of
+yaw.
+ince the oscillation of the two arm of the balance are usually synchronous,
+both being governed by the variations in wind velocity, the effect of the movements
+of the drag arm, causing the model to take up an angle of yaw, on the lift must not be
+neglected. Since for a model of an airplane or other symmetrical object, the direction of
+chango of X and Z is the same for a positive as for a negative angle of yaw, the effect of the
+changes is to assi t a return to the position of equilibrium when the deviation is in one direction
+from that position and to oppose it when the deviation is in the other direction. If the initial
+sensitivity (with no wind on) is very great there is danger that thi added moment opposing a
+return to equilibrium may be large enough to overcome the righting moment due to the weight
+of tho balance. The result of this witi be somewhat the same as the result of using insufficient
+counterweight to balance a hoavy mod el, but the in tability in this case will appear only for
+motions in one direction from tho contral position, and will usually lead to an underestimation
+of the lift and an exagO"eration of the drag. To find the limitation thu placed on the maximum
+initial ensitivity the same method may be employed as that already used for finding the minimum
+permissible initial sensitivity. If the rate of change of longitudinal force be taken a 1 per cent
+per degree of yaw the upsetting moment due to a movement of the balance through the angle D.f)
+(circular measure) is .57 X X D.f) X h. For continued stability, this must be Ie s than the righting
+momont due to gravity, w.1: o6./J. Equating the two, the condition of stability becomes
+
+WXo= >O .57Xh
+It has already been shown that the initial sensitivity is given by the expression:
+A
+
+....w=
+
+WXXoX E
+
+hxl
+
+•
+
+16
+
+ANKUAL Rb:PORT NAT lO")[AL ADVliS ORY COMM lTTl!;}<j FOR AJ?RONA
+
+nos.
+
+In the Cil e of the Langley Field balance, substituting 0.57 Xl! for WX o , and the valu es previou.ly
+specified for Zand e, the limiting value of the sensitivity i found to be
+(:,w
+
+= 0.5~ X X e
+
+~ = 0.5 7e = 0.57 X 0.02 =0.00015
+
+~~
+
+•
+
+Z
+
+G .5
+
+The same method may be applicl to the lift and leads to the co nclusion that, with a model
+having a iiftof 20 kg. , the initial sensiti vity must not be greater than 1.5 gms. This would be an
+extreme value of the lift, and it is eldom necessary to reduce the sensitivity below 0.5 gm. on
+account of the variation in lift, but, on the other hand , it is eldom that actual u e could be made
+of the ensitivity of 0. 1 O'm., previously"taken as th standard for which it was nesessary to provide.
+Only on tream-line bodie, t1'uts, and similar objects of smalll'esistance would the possible
+accuracy of m easurement be as great as this. It is in some 1'e peets a disadvantage of the . P. L.
+type of balance that its l. statical sen iti vity" must be the arne in re pect of lift and drag.
+Y, the third of the three forces acting on the model, is perpendicular to the plane of symmetry,
+and does not exist so long a the wind direction is parallel to that plane. A soon as the balance
+moves from its position of equilibrium, however, the model assum es an angle of yaw, and thi
+give rise to a forc e Y which is almost always negative for a po iti e angle of yaw and vice
+versa. The magnitude of Y for a given angle of yaw varie ,,-idely with the type of model and
+with conditions of test, O'ene1'a11y b eing largest, relatively 0 the lift, at small angles of attack.
+The absolute .values of Yare virtually independent of the anO'le of attack. For an angle of
+yaw of 1°, Y may be a high as 2 pel' cent of the lift for complete models at an angle of attack
+of 0°, or about 1 per cent of the lift at 4° . Thi force is largest when the wings have a consider able
+amount of dihedral or swee) back. In th e case of fair-shaped objects, such a airplane bodies
+and airship envelopes, Y at an angle of yaw of 1 ° is usually from 10 pel' cent to 35 per cent of X .
+With models of the size u ed in th Langley Field wind tunnel, and with a wind speed of 50 m.
+per econd, Y ha a maximum valu e of about 50 gms. for bodies and 100 gms. for complete
+models.
+If the origin of thereference axesis directly over thepivo t when in equilibrium Y hasno effect,
+as its line of action alway passes through the pivot. If, however, as is usually the case, the
+model1. et up with the origin forward of the ver tical through the pivot Y will tend to produce
+instability in respect of the m:ag measurements, while not affecting the movements of the lift
+arm. If the origin i above (in the m del, not in the tunnel ; i. e., nearer to the upper wing
+than ) the vertical through the pivot Y will tend to decrea e the sen itivity in lift, as uming
+that the two arms oscillate ynchronou ly, without affecting the measurement of drag. The
+oppo ite po itions will, of course, have oppo ite effects. The magnitudes of these effects are
+very small. They ,vould seldom modify the ensitivity by more than 0.02 gm ., and they need
+not be taken into account, provided that the model is so supported that the origin is real onab1y
+clo e to (within cm. , in the case of a tunnel 1.5 meters in diameter) the vertical through the
+main balance pivot.
+There remain only the ya,ving and rolling moment to beconsidered. Bothof the e, denoted
+by N and L, respectively, make their appearance, like Y, as a r esult of the as mnption of an
+angle of yaw, and do not exi t while the wind dil:ection is parallel to the plane of symmet:r:y .
+The analysis of the action of the e moments need not be followed through in detail. The fll"St is
+unimportant, while the rolling moment, which may as ume a con'iderable value in the case of a
+model or a wing with marked sweep ba k or dihedral, acts to increase the en itivity in lift, and
+is therefore oppo ed to the effect of the change of lift itself for motion in one direction , while
+acting with it for motion. in the opposite direction from the central position. The maximum
+value of the effect of the rolling moment is about 15 per cent of th e maximum un tabilizing
+effect which may arise due to change of the lift with angle of y aw.
+
+WI D TUNNEL BALANCES.
+
+17
+
+It appears from this consideration of the various forces and moments and their variations
+that their effects on the sensitivity of the balance are usually very slight, but that they may become important, esp ecially with regard to the lift measurements, for some models. Since the most
+important factors are the variation of the lift and drag, and since the magnitudes of these forces
+and the moment arms at which they act are quite independent of the location of the model with
+respect to the vertical through the pivot, this location has less effect on the sensitivity than
+might have been anti.cipated, although it is by no mean a factor to be neglected. The position
+at which the spindle supporting the model is attached can be chosen, within fairly wide limits,
+from considerations of ease of attachment and of minimum interference with air flow about the
+model, rather than with any idea of modifying (,he effects of l', L, and N.
+The distribution of the effect on sensitivity of the three factors variahle with position (Y,L,
+and N) depends on the location in the model of the arbitrarily chosen origin , and anyone of
+these three can be made to have any desired effect by properly placing the origin. The total
+effect of the three, however, will manifestly be entirely independent of the position of that point.
+There are certain types of balance in which the model moves always parallel to itself, and the
+forces accordingly are subject to no change during the oscillation of the instrument. These will
+be briefly discussed later.
+1'14415-20- 3
+
+REPORT No. 72.
+PART
+
+m.
+
+POSSIBLE SOURCES OF ERROR IN BALANCES OF THE N. P. L. TYPE.
+
+In or dl"l' that some conception may be gainl'd a to the relative accuracy necessary in the
+('onstruction of the various parts of a balance, and as to the magnitudes of the e]']'ors which
+creep into the measurements from many ources, both those which are avoidable by careful
+('onstructiOJ1 and u e and tho e which are inherent in the design of the instrument, these several
+sources of errol' will be taken up and analyzed separately .
+(1) The first cause 01 enol' in the de termination of force and moments, and one of thE'
+1110 t important, is the deflection of the vertical por tion of the balance under the force acting 011
+t he model. In measuring forces, since the portion of the balance below the main pivot is subjected to no transver e forces except the minute ones due to the resi tance of the oil in the dashpot, all of the deflection takes place between the J lVOt and the mod 1. In the case of a balance
+in which, a in that at Langley Field, the weighing arms are trus ed by tie-rod , virtually all the
+deflection when the lower pivot i not ongaged occurs above the point of attachment of these
+t ie-rods. When pi tching moments a re being taken, however, the lower pivot is thrown into
+position to keep. the balance axis vertical, and the deflection in the por tion of the balance bl"tween
+t he two pivots may be of considerable magnitude.
+The err or which deflection causes in the mea urement of forces is due to the movement of the
+model and the upper portion of the balance with respect to the vertical through the main pivot.
+11his movement changes the moment of the weight of the model about the pivot when the weighing
+arms are in the central position, and so changes the amount of weight required to keep the balance
+in equilibrium . Since the deflection is proportional to the load applied, and the error for a given
+weight of model is proportional to the defiection, the percentage errol' i quite indepl"ndent of the
+10ad applied. Tt is necessary, then, in order to secure a defin.ite percentage accuracy, that the
+balance and spindle be just as stiff and heavy for tests at 10 meters pel' second as for tho eat 50.
+Furthermore, since the balance, chuck, and spindle are circular in cross ection at all points, the
+percentage error in lift due to deflection will be the arne a that in re pect of drag, except for the
+portion caused by the deflection of the model i elf. The errol' here will be greater in lift than in
+drag at small angles of attack, as the model aerofoil bends much more readily about an axis
+parallel to the chord than abou t one perpendicular to the hord. At angles of 4° or more the
+resul tan t force is nearly perpendicular to the chord, and the difference just spoken of between
+lift and drag therefore doe not appear. By far the largest part of the deflection errol' arise
+from the bending of the spindle which u pports the model and which mu t have a mall outside
+diameter in order that the interference with the flow of air may not be exce sive. The deflection
+error always exists and is perfectly determinate in magnitude and ign , 0 that it can be computed
+or determined experimentally and correction made for it. This i orne times done, but it i
+Ilreferable to make the balance stiff eno ugh so that no corre tion will be required.
+In the quantitative discu sion of deflection effe t the English y tern of weight and measure
+will be 'u ed, as the constants of materials will be much more familiar in that y tern than in the
+metric to mos t r eaders. The deflection of the balance at Langley Field, from the pivot to the
+upper end of the trumpe t top, a total length of 33 inche , i 0.00071 inch under a load of 1 pound,
+applied a t the cen ter of the tunnel, and the lope at the upper end of the trumpet top when the
+\'alance axis is vertical is 0. 000099 pel' pound of load. With an aerofoil 60 by 10 cm. (approxi19
+
+20
+
+AN N UAL REPORT
+
+:rATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+mately 24 by 4 inches), supported at its lower end by a spindle t apering in diameter from -h inch
+a t th e point of contact with the wing to 1 inch a t the point where it enters the chuck, the total deflection, n eglecting the bending of the aerofoil itself, is 0.0076 inch per pound. The deflection of
+an aluminum aerofoil, in respect of lift, may augment this by 0.0204 inch per pound, making a
+tot al of 0. 0280 inch per pound with an aluminum model. The corresponding figure for a steel
+aerofoil is 0.0144 inch . There is also likely to be some permanent yieldlllg at the joint between an
+aluminum aerofoil and its spindle, due to the softness of the aluminum . The remedy is to drill
+and cu t a thread deeper into the model or to mortise the spindle into the wing and rivet them
+together.
+The weight of an aluminum aerofoil of average thickness and 24 by 4 inches in plan form is
+from It to 2 pounds, and its center of gravity has just been shown to mo e 0.02 0 inch under a
+lateral load of 1 pound perpendicular to the chord. (This i actually the distance that a point
+fixed in the plane of the chords of the aerofoil and halfway between the tips moves. The displacement of the center of gravity is a little greater, due to the bendlllg of the wing, but the difference
+between the distance as just computed and that actuallY' traveled is not very important.) The
+weight of the steel spindle is 1.26 pounds, and the distance moved bY' its center of gravitY' under
+a load of 1 pound is approximately 0.0015 inch. 'l'he total moment about the pivot due to
+these di.splacements with a 2-pound model is
+(2 X 0.0280)
+
++ (1 .26 X 0.00]5) = 0.0560 + 0.0019 = 0.0579
+
+lbs. ins.
+
+This is equal to the moment given bY' a lateral force of 0.00107 pound applied 54 inches above
+the pivot. The error in the measurement of the forces on a model aerofoil caused by the deflection of balance, spindle, and model is then about 0.11 per cent. If the model aerofoil is made
+of steel instead of aluminum its weight is abou t 5 pounds, and the po sible error in lift measurements is increased to 0.14 per cent despite the greater stiffness of the steel. It is evident that ,
+both to keep down the deflection error and to reduce the weight resting on the pivot, aluminum
+is the material par excellence for models, and steel should onlY' be used when it is desired to
+grind a standard wing to form with the highest possible degree of accuracY', or w.h en the model
+is to be tested at so high a wind speed th at an aluminum model would be likely to be stressed
+beyond its elastic limit. Even where accuracY' of construction i the dominant consideration
+aluminum is but little inferior to steel, although the aluminum is, of course, much more liable to
+be bent or otherwise injured by careless handling. Brass, sometimes used for models in the pa t,
+is thrown quite out of. consideration bj its high density and low modulus of elasticity and
+stiffness.
+The deflection of a complete model is somewhat less than that of a single wing under the same
+load, as the parts of the model tend to reenforce each other, even where the wing ~racing is
+omitted. For a model weighing 10 pounds, a figure which should seldom if ever be exceeded
+with models of the size used in the Langley Field tunnel the error due to deflection should
+alwaY'S be less than orie-half per cent. This is large enough, so that some allowance for it would
+be required, bu t 10-pound mode1s are fortunat131Y' the exception rather than the r ule, and
+deflection effects can usu ally be ignored in the measurement of forces with this balance,
+although they have proved a very important factor with some balanees of similar tY'pe.
+The effect of deflection on the det ermination of pitching moments, and so of centers of
+pressure and vector diagr ams, may become important with aer ofoils of little stiffness tested at
+high speeds. Since m oments ar e measured with reference to a vertical axis passing through the
+pivots, any deflection of the model support will shift the position of this axis in the model. This
+will result in the moments actually being m easured with r eference t o a different axis frpm that
+experimentally det ermined before or after the run. Since all parts of the balance itself are
+circular in section the line of resultant defle tion ""ill be parallel to the line of action of the resultant for ce on the model. A shifting of the axis of moments parallel t o the line of action of
+the resultant force manifestly does not affect the magnitu des of the m oments, an d the deflechons of the balance proper can ther efore h ave n o effect on the determination of the location of
+the vectbl's. The model, however, does not, by any means possess radial symmetry and the di-
+
+WIND TUNNEL BALANCES.
+
+21
+
+rection of its deflection is almost constant and independent of the direction of the force acting,
+since only the component of that force which i perpendicular to the chord of the aerofoil is
+effective in bending the model. Strictly speaking, the component of interest is that perpendioular to the principal axis of the ection, not to the chord, but the two are nearly coincident. The
+principal axis have been determined for a number of ections, and the angle between the principal
+axe and the sys tem of axe parallel and perpendicular to the chord was not, in any case, more
+than HO. The defle tion of the average aluminum model due to its own bending alone has
+been shown to be 0.0204 inch per pound, or 0.204 inch under a load of 10 pounds, which is
+the maximum that most aerofoils of ca t aluminum alloy will safely ustain. The defleotion
+wlder unit load i only one-third as much for a steel model as for an aluminum one, but the ma.\:imum load liable to be ustained is about four times as great, so that the maximum total deflection for a steel model is in the neighborhood of 0.27 inch. The angle between the vector
+of resultant force and the principal axis of maximum moment of inertia is never much more
+than go at any angle of incidence from 0° to 18°. The error in determination of the
+center of pre sure or vector position would therefore not exceed two-thirteenth of the deflection
+of the model , and the largest error in that determination for an aluminum aero foil ubjected to
+a force of 10 pounds would not exceed 0.031 inch, or O. per cent of the chord. Over the most
+important range of angles, that in which mo t normal flying is done, from 1° to 8°, the error
+would be less than half as large as thi. In general, it may be said that it is necessary to make
+some allowance for the effect of model deflection on pitching moment when the test is run at
+a wind speed of 30 meters per econd (approximately 66 miles per hour) or more with an aluminum, and at a speed of 50 meters per second or more in the case of a steel, model. Speeds above
+the latter figure are never reaohed in the r.ourse of ordinary te ting, and, indeed, the former is
+seldom exceeded.
+Although it has no direct effect on the accuracy of the measurements the deflection of the
+lower tube i of ome interest a affecting the di placement of the model with respect to the fairwater when moments are being measured and as contributing another possible source of flexural vibration. The effect of this deflection i to increa e the displacement of the model under
+a 20-pound load by 0.161 inch.
+(2) The deflection of the weighing arm al 0 has some effect, arising from two different
+sources, on the accuracy of the results. In the first pIa e, since deflection throw the point
+of support of the weio'hts below the horizontal plane through the main pivot when the balance is
+in equilibrium, the sen itivity i affected, a has heen hown in another se~tion of the report.
+Secondly, the instrument is balanced up initially with the cro hairs in line when the two pivots
+are engaged and with little or no weight on the ends of the weighing arm. It may be assumed
+that the weight on the end of the ar:m when baJancing up is just sufficient to balanoe the counterweights and other eccentrically placed I arts, so that the center of gravit of the whole assembly i directly below the main pivot. If more weigh t be added, deflecting the arm, the cross
+hairs will no longer be in line, and if the balance ax] i tilted to bring the tip of the arm back to
+the central position the center of gravity w111 be moved to one side and \\ill exert a restoring
+moment when the only moments suppo ed to be acting are tho e due to the force on the model
+and the weight added on the weighing arm to balance that force. Obviou ly the error from
+this source is greatest when the center of gravity of the halance itself i farthest below the pivot.
+If the length of the weighing arm, from the pivot to the point of application of the weights, i
+Zand its deflection is 0, the angle of rotation from the initial position of the balance in order to
+bring the cross-hairs into alignment after deflection is
+
+o
+
+0=7,
+
+The righting moment due to the weight of the balance being displaced with respect to the pivot
+is then Xx 0, or xx? where K is the product of the weight of the balance and model by the ver-
+
+,
+
+tical distance from the pivot to the center of gravity of the balance and model combined.
+
+It
+
+22
+
+ANNUAL REPORT "ATIO::>rAL ADVI ORY COMMITT.E E FOR AERONAUTICS .
+
+is showll elsewhere that 47,000 gm. em., or 40 .7 pound inches, i a fair valu e for Kin a balance
+the size of the one at L angley Field. If the aJ:m w re made, as in the original J. P. L . balance,
+of solid teel 1"0 Is H inch in diamet~r acting as oantilevers, the deflection in it length of 23
+in c-hes lInde]" it load of 40 pound (corr e poneling to 20 pounds on the mod el) would be 0.140
+ineh . With the value of K given above, tbi · would cause the weight applied to be in error by
+0.25 pound , or 0.6 per cent of the total amount. The error due to the deflection of the weighing arm , like that due to the deflection of the balance head , is directly proportional to the foree
+aoting, and the p rentage error is ther efore independent of the for e.
+On the Langley Field balance the weighinO" arms are t el tubes, 1 inch in diameter outide and with a wall thiclm cs of 0.06 inch. They are trussed by tie-rod -h inch in diameter, and malting an a11O"le of 12 °.5 'Nith the di rection of the arm it elf. The deflection of one of
+the e arm. under an end load of 40 pound iF> 0.027 inch, clue chiefly to the elongation of the
+tie-rod, if the rod and arm are perfectly straight. It is almost impossible to keep the tie-rod
+absolutely straight, especially where one end is screwed dire ·tly into a lug, and the actual deflection i liable to be it EttJ e greater than that computed. The defl ec tion with tubular trussed
+\veigbin o. arms i , however, always much I s than with olid cantilever arms of the ame outside
+diameter, and the trus. ed arms also have a great advantage in r espeot of weight, as has been ' hown
+already . The error arising from the deflection of the
+weighill?: arms, if they are properly designed and if the
+en itivity is adju ted with I' asonable car e before starting a tc t, may be disregarded.
+(3) A very troublesome source of error, and one which
+i ometimes difficult to eliminate, i ' the liding of th e
+main pivot in its socket. If the pivot moves, the poin t of
+contact b etween the two urfaces will, in general, be
+shifted both on the pivot and in the socket. This shifting
+changes the moment of the weight of the balance itself
+about the pivot, and so changes the amount of weight
+which rou t be added to secure initial equilibrium with
+no for e on the model. If the hifting of the pivot
+occur during a run, between the times of taking the
+" zero l' ading " and that with the wind on, the change
+in the amoun t of weight required for balancing will appear
+FIGURE 11 .
+as an error in the result of the measurement.
+Balance may be constructed with the pivot pointing either upward or downward . In
+the first ca e the pivot is carried by the balance support.; in the second case by the balance
+itself. Enlarged view of the two di position , both in the normal po ition and with the
+balance slipped slightly to one ide, ar e hown in Fig. 11 . The difference between the points
+of contact in the original and displaced po itions is indicated in the drawings. The fir. t type
+of contact con idered will be that in which, a in the drawing, the pivot and socket in the
+neighborhood of the point of contact are each a egment of a sphere. It will be noted that
+when the pivot is pointing upward the point of contact moves in the balance by a di tance
+nearly equal to the distance which th balance lips (that i , the point of con tact remain very
+close to its original posi tion on the suppor t), bu t that, in the converse case, the movem en t of
+the point of contact in the balance is ver y slight. If the downward-poin ting pivot rested on
+a flat urface the poin t of contact would not move at all in the balance and there would be no
+error due to slipp age of the b alance with 1'e pect to the supp ort, but thi disposition i
+obviously impractical, as the balance would quickly slide, impelled by the horizontal force
+acting on the model, into a position pressed up against the side of the sock et, where it could
+not rock at all.
+
+WIND TUNNEL BALANCES.
+
+23
+
+It is evident from the precedi ng that the pivot should be carried b:v the moving portion
+of the balance, and that it should point downward. This has another advantage in that the
+'ocket, being concave upward, can be kept filled with a thin oil to reduce the sliding friction
+between pivot and socket. The formula for the di placement of the point of contact in the
+. moving portion of the balance i . :
+
+where x is the di tance which the balance slides. parallel to itself, with reference to an axis
+fixed in space, and R\ and R2 are the radii of curvature 01 the ocket and pivot, re pectively.
+It appeal' from thi that it would be advantageou , aside from all questions of friction, to
+make the pivot as sharp as possible and to em ploy a large rn,dius of curvature in the socket.
+The first deduction i. perfectly correet, bu t the radius of curvature of the socket i of minor
+importance, so far as the effect of lippage of the pivot i concerned, since it is the slope of the
+tangent plane at the point of contact, and no t the distance moved, which limits the slip of the
+pivot. The ratio between the vertical and horizontal forces acting on the balance ranges
+between and t as limits, but seldom exceeds 0.:35. (The value l' could not be reached unless
+the balance it elf were weightless.) T aking 0 and 0.35 as the limi ts, it appears that the
+inclination to the horizontal of the surface on which the balance would r est in equilibrium, if
+there were no friction, lie between 0° and 19°. The pivot would rest in the bottom of the
+socket while the "zero readings" were being taken, and would slide up onto the inclined
+portion of the socket when a horizontal pressure wa exerted against the model. If the total
+weight of the balance and model (not including Lhe weights required to balance the force on
+the model) is Wand the horizontal force acting is L , the angle of inclination of the common
+tangent to the pivot and socket for equilibrium under frictionle s conditions is:
+
+°
+
+'"
+
+'f'=
+
+t
+
+L
+an-1 W+2L
+
+assuming the distance from the pivot to the model to be twice the distance from the pivot to
+the point of attachment of the weights. The point of contact is then hifted in the balance
+by the amount
+and the change in moment of the moving weight about the pivot i
+!::>..1l1=R z x Wxsin ¢
+
+The error in force measurement caused by tills change of moment is
+
+where h is the distance from the pivot to the plane of symmetry of the model. Since ¢ is
+always a small angle sin ¢ and tan ¢ may be considered equal. The errol' is then approximately
+
+In the Langley Field balance W
+L is about 18,000 gms. Under the
+if there were no friction would be
+percentage of error occurs when L
+cent. With the usual values of R2
+
+is 2 ,000 gms., h is 137 cm., and the maximum value of
+e conditions the possible error due to slipping of the pivot
+5.75 R2 gms., where R2 is given in mm. The maximum
+is very small, and is, for the case just cited. O.072R2 per
+tills is not important.
+
+24
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+These figures have been ba ed on the neglect of sliding fri ction, a factor which generally
+can not by any means be disregarded. If the coefficient of friction between the pivot and its
+socket is 0.2 the angle of inclination of the surface at the point of contact may be more than
+5° when there j no force acting on the model. U ing the figures just given, it appears that
+shifting of the pivot may cau e a constant error of 1.2 R2 gms .
+If the socket were truly conical, there could not be any sliding of the pivot, but the sensitivity of the balance would be decreased by friction, as the slightly rounded pivot would make
+contact with it sock t all around the circumference of a circle, and the relative motion hetween
+the two for any rocking of the balance would De sliding instead of pure rolling.
+(4) A ft1ctor whose importance i frequently underestimated is the canting of the model
+due to inaccurate alianment of the spindle. When the spindle is screwed into an aerofoil it is
+very difficult to get the tapped hole exactly parallel to the leading edge, and the result is that
+the model usually ha a distinct tilt, either in yaw or in roll, from the desired position. If the
+tilt i in re pect of yaw the plane of symmetry of the model is no longer parallel to the wind
+direction. In this general case there are SL-"': forces and moments to deal with in place of the
+three which exist when the model i· placed xactly correct. To illustrate the importance
+of the various factors the effect of each of the six quantities will be followed through in turn for
+an angle of yaw of 2°, this being a value which should not be exceeded if reasonable care is
+taken in fitting the spindle to the model. The forces and moments on the Olark tractor biplane
+model will be used in the illu trative example, these data having been obtained at the wind
+tunnel of the Massachusetts Institute of Technology.l
+Denoting the force by X, Y , Z, and the moment by h , .Ai, and N in the usual manner,
+the figures with the model, of 4 cm. span placed symmetrically are, for a wind speed of 15
+meters per econd and var ious angles of attack:
+o·
+
+6·
+
+12·
+
+X(gms. ) . ....... . .....•.. .. ........... ... ..... ···· •........
+y (gms.) .......................... . ... ... ................. .
+
+58.0
+0.0
+
+74.4
+0.0
+
+123.0
+0.0
+
+f a:s·J~.i:::::::: :::::: ::::::: :::::: :::::: :::::::::::::::
+
+207.0
+0.0
+
+615.0
+0.0
+
+899.0
+0.0
+
+:?~:g~U:::: :: ::::: :::::: : : :: ::::::::::::::::::::::::::
+
+0. 0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+Angle of attack.
+
+The spindle is assumed to he located as to intersect the vector of resultant force, so that the
+pitching moment, as well as the other two, is zero when tho model is ill tho position of symmetry.
+At an angle of yaw of 2° the forces and movements are:
+o·
+
+Angle of attack.
+
+59.5
+5.4
+
+X(gms.) ... .. ..•... .... .. ........ . ....... ·· ·.··· . ........ .
+y(gms.) .... .............. ........... .. ..... ... .. .... .... .
+
+-
+
+f ~~s·6~.i::::: ::::::::::: ::::::::::::::::::::::::::::::::
+#(<::: g::{::::::::::::::::::::::::: ::::::: ::::::::::: :::
+
++
++
+
+6·
+
+-
+
+75.4
+4.0
+
+12·
+
+-
+
+123.0
+5.2
+
+205. 0
+71 ..5
+
+613.0
++161.0
+
+94.0
++ 1I4 . 0
+
+3·8
+- 18.8
+
+- 22.4
+- 19.0
+
+0.0
+- 31.0
+
+The total moment about a horizontal axis passing through the main pivot and perpendicular to the axis of the tunnel is
+
+Mo = Xh cos if; - Yh sin if; + N
+where if; is the angle of yaw and h is, as before, the height from pivot to model.
+Massachusetts Institute of Technology balance h is 91. 4 cm.
+1
+
+Dynamical Stabilit y of Aeroplanes, by J. C. Hunsaker : Smitbsonian Misc. Coli ., vol. 62, No.5; Wasbington, 1916.
+
+In the
+
+WI"D TU
+
+25
+
+NEL BALANCES.
+
+The equivalenL rorce halanced b y hanging weights on the drag arm i · equal La .11Jo divided
+.
+1)." Ii , or
+
+l"o = X cos if;- V sin if;
+,\nglc of attack.
+
+r.:
++71
+o·
+
+6'
+
+12'
+123. 0
+123.0
+124 . 0
+
+t appeu.r that an angle of ya'w of - 2° ma~' lead t,o nors of from 1 per cent to : per (:cnt
+3
+in the measurement of the drag. and that, in order to keep the error within the desired maximum
+of ~ per cent, the angle of yaw must not exceed O?2. Tlus ideal is perfectly possible to realize
+mechanically, but the pindle itself deflect at small angles so that the slope at its tip in the
+plano of the wing chords is slightly more than 0?2 when tests are run at 50 meters per second.
+The error in lift measurement due to thc model heing set up at angle of yaw must he found
+in the same \\'ay. The total moment about an axis passing Lhrough the balance pivoL and
+parallel to the tunnel axis is
+ML =Zh+ 1.11 ill if;- L cos if;
+and the C'luivalent force i
+1
+
+The true and apparent values of Z may be tabulated as for X .
+. \ngle of a ttack.
+7. ... . . . . ............ ..... ....... . ........ . ............ . ... .
+
+~~f~:~~:l: :: ::: : :::: : :: ::::::::::: :: :: :::::::::::::::::::
+
+o·
+207
+204
+204
+
+6'
+613
+611
+611
+
+12'
+99
+93
+
+893
+
+The errol' in lifL is obviously much 'maller than that in draO', and it i the aC'cw-acy desired
+iu the latter measurement that controls the degree of preci ion nece sary in alignment.
+To complete tho analysis the effect of yaw on t,he moment about a vertical axis mu L he
+discussed. The e luation for the total moment i
+JI v = M cos if; + L sin if;
+
+I
+I
+
+Angle of a ttack.
+.If.......... .......... . ....... .. .......................... .
+.lrv r.p= ± 2' ) ... ........ . .......... , ....................... .
+
+0'
+0. 0
++ 6.3
+
+50'
+
+12'
+
+0. 0
+- 16. 7
+
+0. 0
++ 4. 0
+
+The'e difference between the true and the apparent moment carre ponel to errors of 0.0:10,
+0.027 , and 0.004 em. , 1'e pectively, in the location of the ve tor of resultant force. The e errors
+I1re negligible, the largest being less than t per cent f the wing chord.
+In short, then, it appears that the accurate alignment of the model in yaw is of importance
+primarily as regards dl'ag and that its importance there icon iderable. [f the data for a Ringle
+aerofoil, in tead of for a complete model, are taken the importane of accw-ate alignment is
+lesscnc 1, as Y and 1 which cause most of the eliffi. ulty, both ari e largely from the body and
+\,
+tail surface. For bodies and other streamline form , on the other hand, the relative importance
+of accurate alignment i greater than for models of complete airplane.
+The analysis of the modifications in the mea urement when the model is tilted in roll
+instead of in yaw is much simpler, since the axis of Lhe tunnel remains parallel to the plane of
+symmetry of the model, which merely rotate about i. There are, therefore, no rolling or
+
+26
+
+ANNUAL REPORT NATIONAL AlJVI ORY COMMITTEE :FOR AERONAUTICS.
+
+yawing moments or cross wind forces to be considered. The equations for moments about the
+three mutually perpendicular axes when the model is rolled throucrh an anglf' cj> may be writ,ten
+Mr.. = Zh cos cj>
+M o=Xh+ M si n
+Mv = M cos cj>
+
+cj>
+
+The equivalent force are
+Fr.. = Z cos
+F0 - X
+-
+
+cj>
+
++ Msin
+h
+
+cj>
+
+The error.' in lift and pitehiuo- m omen t are negligible for all angles of roll up to -10 . The
+error in drag is also \'e1'.\" . mall unle. s J[ is large (i. e., unleRH the spindle i'S attached far from the
+lin e of action of the r esultant for ce). In order that a roll of 10 may not cause an error of more
+than t per cent in the drag when the lift/drag ratio is 16, the ratio h,' where f is the horte;:;t distance from the axis of support of the model to the line of action of the resultant, force, must not
+exceed 0.009.
+
+It is ll"ually practicable to keep
+
+kbelow this figure, at least at tho e angle' of
+
+incidence for which the efficienc.\- is a max imum. . ince Ii is 137 em. on the Lano-Ie.\- Fidd halance
+f sh ould be kep t h elow 1.23 cm.
+As h as heen seen in e. "aminino- s ensiti\"it~-, there are other
+cogent reaso n" for keeping f as ' mall as possihle. 'The tendenc:-- of the deflection of the spindle
+is to et the model at a po itive angle of ya~\" an [ negative angle of roll. The fir-; t of the ' e increase.;; the apparent drao-, while the s econd diminishes it if, as is almos t alwa.n; the ca ' e, the spindle is attached to th e r eal' of the lin e of action of the force on the modeL The two therefore tend
+to counterbalance each other, and it should he possihle, h)T the exercise of proper care in attaching the pin(lle to align it correctly anrllceep € a low a'l pos-;ihle, to insure that the r esultant err ol'
+due to canting of the m odel will not exceed t per cent. The slipshod methods frequentl)Tu'lecl
+for mounting aerofoilq on their spindles mu"t not be tolerated.
+(5) If the h alance axis i' lI ot exactly vertical when 1 itchino- momen t.., are being observed
+the weight of th e halance itself, assuming th at it center of gravity cloe'S not lie exactly on the '
+line connecting the two pivot , and th e weight placed on the scale pans to r educe the lateral
+pressure on th e lower pivot haye moments abou t the axis of rotation or the hala.nce. The
+moments due to the attached weight ar e much lar'o-er than that due to the weight of the bala.nce
+itself, a the length of the arm from which the weights are sU8pended is far greater than the distance from the axis to the center of grl1Yit.? of the halance.
+The balance axis ,,"ill be as umed to be in 'linccl Lo the ycrtical alle[ to lic ill such a planc
+that the liit arm is horizontal. This is the worst case possible, since the lift arm carries the
+m aximum load and a weigh t i alway most effective in producing rotation ahout an inclined
+axi when a p erp endicular lin e from the weight to th inclined axi i,; perpendicular to the vertical plan e in which the inclined ax is lies . .
+If the balance axis is inclined from the ver tical hy a :-lmall angle e the moment about that
+axis of the weight on the lift ar m i We X l X e. Taking ad a maximum figure for the Langley
+Field balance 20 kg. on the lift arm, 'ince l i 68.5 cm. the moment clue to the addition of this
+weight is 1,370,000 e gm. cm. If the criterion of de ' ired accuracy in the measurement of moments
+b e taken to be the determination of the location of the vector of resultant force within 0.5 mm.,
+the errol' in the pitching moment und er the conditions just specified must not exceed 500 gm. cm.
+e must therefore be Ie's than 0.000365 ra([i an or 0?0:209. This degree of accuracy of alignment
+can b e secured without difficulty by making successive trial, hanging weights on the lift and
+drag arms (with no model in place and no wind) and taking readino-s of the moment about the
+axi through the two pivots. The scale r eading W1der these condition hould manifestly be
+unaffected by the amount of weight hung on the arms.
+
+WIND TUNNEL BALAN ES.
+
+27
+
+(6) II the moueI i· not properly lined up with the wiu d dirC'ctioll before ·tar-ting a Lest, or,
+v: hat amounttl to the same thing, if the reference line us d for lining up all models is not accurately
+located, the only effed itl to produce a cowtant error in angle of attack, and 0 to hift the
+characteristic CUITe" retlulting from the test ho lily to the right or left, according to Lhe direction
+of the initial error. The maximum and minimum yalue ' of coefficienLs and ratio' are entirely
+unaffected , as is the CUlTe of lift coeffLCienL against L ID . .A lthough the accurate determination
+of angle of attack is not of much interest in routine commercial testing (if a designer can
+obtain a curve of hor,:;epower r equircd aO'ainst airspeed for his machine, he is ordinarily quite
+satisfied without knowing the exact angle of attack corresponding to a giYen peed), it i" of
+gr.eat importance in su ch work as the determination of correction factor- for aspect ratio, ete.,
+where a. light un cer~ainty as to alignmenL rna)' make it quite impo ·sibl e to draw any cOl1iiistent
+conclusions from a, ,-,et, of te .; t". Proyi.' ion tihoulcl therefore b e made for lining up wiugs \\'ithin
+0~05 whenever it become., nece~:>tl.ry 0 do so.
+This deg ree of accuracy can be 'ecured, with
+great care in sighting and wiLh a batten carefully picked for it , ::ltraightne::ls, by the common
+method of binding a hatten to the face of thc wing and ighting it agains t a line painted on the
+floor of the tunnel, but it i more accurate and ea'lie)' for the oh 'eryer to use some optical method.
+(7) A much more important source of error thall the misaIio'ument of the model is the misalignment of the balance ~'ith re;pect to the "'illd . In order that the lift and drag, acting perpendicular and parallel to the w ind , ma~T he measurC'(t diJ:ectl)Tthe armc; of the balance must them' e!Yes he set exacLly perpendicular and parallel to the wine! diJ:ection. If they are noL, the force
+acting on the model will he r esoh-ed into components along some other axe,:; than those cle~ ired
+and a large error rna." be introduced in at lea.;;L olle of the component,;.
+If the componenL.;; of force perpendicular alld parallel to Lhe wiud direction be repre ' ented
+by Land D , re:;pecti,\"ely, and if the halance be suppo, cd to rotate as a \\-hole about a vertical
+axis so that the drag arm make ' the angle 8 with the wind direction, 8 being taken a positive
+"'hen the lift arm moye.;; Lmmrds the original position of the drag arm, the lift and drag arms
+romaining 1 arallel to each other , the compollent.;; of the re8ultant force along the two arms will be
+
+L cos
+j) co ~
+
+e + Dolin e for
+e-L ::;in e for
+
+th lift arm, and
+the clrn.g arm.
+
+:Multiplying and diyiding by appropriate factor ', these b ecome
+
+j"L=L CO:i e (1 +~ tan e)
+i f'D = D cos
+
+e (l -
+
+iJ tall e)
+
+with the utmo ,t carele8:>110'''' in lining up the balan e,
+"hould Jleyer exceed J o. ;-)iuc'
+the ratio of lift 1,0 drag i:; a.t Ie, :i t three for all ohj cts on \\ hich accurate meusurement" of Lhe lift
+are de ired, the 01'1'01' in L clue to misalignment:;h ·uld not, under any conditions, he greater than
+0.6 per cent. This is an error by no means negligible, but still not ,cry importan 1" inasmuch a
+it reache5 its maximum only \\'hen the L I D j., low (e. g., in the nC'iO'hhorhood of the hmble poin 1,) .
+[fo r willg ' and modeL;; of complete airplane.;; at angle' in the reO'ion of high efficiency the error ill
+lift mea urements arisin o' from ami alignm nt of the arms hy L i-.; well within t per cent.
+°
+The error in drag is much more erious, p articularly as it is largest at the point of maximum
+efficiency, just where accurate measurements are mo t desired. For a good wing, having !l
+value of LID of 1 , the error in drag measurement when f} i lOis more than 30 p er cent. If
+the drag is to be measured accurately within one-fourth per cent, the balance must be lined
+up with the drag arm parallel to the wind to within 0.00 o. A similar relative accuracy of
+measurement of the drag with models of complete airplanes, having a maximum LID of
+. requires an alignment correct within 0.01 o.
+uch accuracy a thi is h ardly to be expected,
+and errors in alignment of the balance arms are the largest single cause of error in the determination of the LID at small angles; but a surprisingly close alignment (well within 0.05 0 )
+can be secured and maintained by careful setting up of the instrument and constant checking.
+j!}YCIl
+
+28
+
+ANNUAL REPORT NATIONAL ADVISORY C01\{MITTEE FOR AERONAUTICS .
+
+The method originally used in this country for aligning the balance arms with respect to
+the wing in balances of the J . P. L. type required the use of a flat plate. This was tested at
+several positive and negative angles. If the plate, the balance arms, and the wind direction
+wer e all properly disp osed with r espect to each other, the lifts for equal positive and negative
+angles should be equ al in m agnitude bu t opposite in sign, and the drags should be equal. If
+the first of these conditions was fulfilled b ut the second was not, it indicated that the zero
+angle of att ack had b een properly located, but that misalignment of the balance arms existed.
+The fla t-plate m ethod was unsa tisfactory chiefly because of the low efficiency of such a surface.
+It has jus t been shown that the errol' in drag measurements caused by misalignment of the arms
+is propor tional to the L ID r atio. When the LID ratio is small, therefore, as it always is in a
+fla t plate, it is exceedingly difficult to de tect small errors in alignment, errQl'S which may nevert heless have an important effect on the measurement of drag in a high-efficiency wing. Furthermore, it is difficult to secure a plate which is and will remain truly flat. Inaccuracies of
+s urface too small to be detected by any ordinary means of measurement may cause a distinct
+difference be tween the lift-drag ratios at equal positive and negative angles . This difficulty
+was overcom e in p art by repeating the work with the plate turned through 1 0° about a
+ver tical axis.
+The me thod now adopted and first introduced by the . P. L. several years ago substitutes
+a model aerofoi1 for the flat plate. The aerofoil is drilled and tapped for a spindle at each end,
+so that it m ay be suppor ted in an inverted as well as in the normal position. Tests are then
+r un in both positions and the LID curves compared. Since the lift in the inverted position
+mus t be b alanced by the removal of weight from the lift arm, it is usually necessary, in order
+that angles up to 6° or 8° may be taken in this condition, that more weight be added to the
+lift co unterweigh t, thereby incr easing the zero reading. This method permits of much more
+accurate alignment than does the flat-plate method. Its only important drawback is that
+the model has to be taken down and set up again between tests; but, as aheady pointed out,
+the chords for zero angle of att ack in the two positions can be set parallel witbin 0':'05 by
+sighting along a b att en, if care is exercised. 'f he disadvantage is therefore not a serious one.
+The use of an aerofoil in nor mal and inver ted positions for checking up the alignment has
+another advantage in that it points the way to eliminating the effect of spin in the air-stream.
+The ail' drawn into the propeller has a t endency to follow a helical path of very large pitchradius ratio, so that the direction of the wind near the top of the tunnel is slightly different from
+th at neal' the bottom. If the direction of motion changes uniformly from top to bottom of the
+tunnel, the force acting on a wing woull be almost identical with that which would act if ther e
+were no spin of the win d and if the dir ection of its motion were everywhere the same as that
+which ac tu ally prevails at the center of the spall of the aerofoil. The readings of the balance
+in the two cases, however , wo uld no t be the same, since the moment arm nbout the pivot is
+differen t for different elements of the mo del. For example, consider two elements of equal
+area and at eq ual dista nces from the cen ter of the span. The forces on the two elements will
+then be F+ t:, F and F - t:,F, where F is the force acting on an element of the same size located
+at mid section, a nd the moment arms abou t the pivot will b e h+t:, 71, and h-t:, h. The moments
+for th e t wo will then be
+( F +t:, F) (h+ t:, h) and (F-t:, F) (h-t:, h).
+The mean of the forces on the two elements is, as all'eady noted, equal to F, the force
+which would exist ever y wher e if ther e were no spin. The mean of the moments is
+(F+ t:,F) (h + t:,h) + (F -t:,F) (h-t:,h)
+2
+
+(Fx h) + (t:,Fx t:,h)
+
+and is ther efor e differen t from the momen t of an equal area at the middle of the wing. If, however , the wing be aligned so that the lifts at corresponding angles are equal in the normal and
+inverted positions, the for ce read on the weighing arm is the true one, and the effect of spin is
+eliminated. When the wing is set at zero angle of attack after being lined up in this way, the
+
+WIND TUNNEL BALANCES.
+
+29
+
+chord is not exactly parallel to the wind direction at mid span, but the readings of the weighing
+arms are identical with those which would be obtained if there were no spin in the wind and
+the chord were set parallel to the wind direction. The alignment found in this way varies
+slightly with the slope of the curves of lift and drag coefficients; and it also requires, for accuracy, that the form of the aero foil section be exactly symmetrical from tip to tip. It is best,
+therefore, to carry through the work of alignment with two or three different models in succession and at everal angles for each model. It is difficult to determine the maximum possible error due to misalignment in any specific case, but it is probably not over 1 per cent
+under the worst conditions when the balance is lined up carefully by this method.
+(8) Closely allied to misalignment of the model with respect to the wind, in that the primary
+effe( t of hoth is to cause an error in the determination of the angle of incidence, is the torsion of
+the spindle. The total twist of the spindle is negligible wben a straight spindle is used atta(·hed
+directly to Lhe end of an aerofoil, ince the torsional moment is then very small. For example,
+with a force of 20,000 gms. applied 1 em. from the center of the spindle 23 cm. long and tapering
+in diameter from :25.4 mm. to 14.3 mm., like that used at Langley Field, the twist would be less
+than 0~05. There should never be any difficulty in keeping the spindlewithin 1 cm. of the <'enter
+of pressure of the chord at the angle of maximum lift. In complete models, where it is not always
+posssible to attach the spindle at the desired point, other parts of the model interfering, and where
+the point of application of the resultant force moves over a wider range than on a single aerofoil,
+this limit may sometimes be exceeded fi'e or six times, so that the maximum twist may be 0~3 or
+or a little more. This offers an additional reason for so locating the spindle as to keep the pitching moment as small as possible. Even 0~3, however, i ordinarily of slight importance except
+where ac curate cheeks on two or more succ ssive test with some slight variation in the onditions are desired. As has already been pointed out, errors in angle of inciden e up to about a
+quarter of a degree need ('ause no trouble in ordinary tests of complete model.
+(9) The errors so far discussed have all arisen either from such ine capable phenomena as
+the deflection of the pindle or from improper mounting and alignment of the instrument or model
+Those which remain to be discussed are due to errors in the construction of the balance itself, and
+may all be eliminated or reduced to insignificance by sufficiently accurate workmanship. The
+analysis of the sources of these errors and of the magnitudes which they may assume is of value
+primarily in that it indicates the accuracy necessary in the construction and assembly of the
+different parts.
+The first, and perhaps the most ob,ious, of the points at ""hich errors arise from failure to
+follow the designs with absolute exa('titude is the length of the weighing arms. Obviously, if
+the "'-eighing arms,or either one of them, are longer than they are intended to be, a weight suspended
+at the end of the long arm will balance a force at the center of the tunnel of more than half its
+own magnitude. The error in the reading will be dire"tly proportional to the departure from the
+designed length. The permissible enorinmeasmementha so far been taken as one-fourth per cent,
+but thiswiU be redu('ed , in the case of the constant instrumental errors, toO.l percentfrom each
+SOUl·c'e. It is then permissible for the weighing arms to ,ary in length 0.1 per ('ent in either direction, or, in the Langley Field balance, 0.6 mm. A skilled man should not have the slightest
+difficulty in keeping the error down to one-fourth of thi. amount, and the accuracy sometimes
+sought for in this particular i really quite needles.
+The same consideration of course applie with regard to 'the di tance from the pivot to the
+center of the model, the permis ible variation here being twice as great as that in the length of
+the weighing arms. If there i an error in thi distance, 01' if there i a commonerl'orin the lengths
+of the two weighing arms, the leverage ratio can be restored to its proper value by modifying the
+distance which the spindle of the model is allowed to project from the chuck which atta hes it
+to the balance.
+(10) Another difficulty in connection with the weighing arms i their attachment exactly at
+right angles to each other. If they are not so attached errors will be caused in the measurement
+of the lift or drag, or both. rfhe analytical work involved in the determination of these errors
+need not be followed through in detail in this report. If the arms are not at right angles the
+
+30·
+
+ANNUAlJ REPORT
+
+ATWNAL ADVr. ORY OOM rITTEE FOR AERONAUTICS.
+
+alignment of the arms in order that the lifts and drags may both be the ame at equal anglesof an
+aerofoil in the normfl,l and inverted po itions will be different for every different aerofoil used and
+for every angle at which the tests for alignment are carried out. H, however, the alignment be
+supposed to have been carried out to ·atisfy the above condition as accurately as possible for a
+given model and angle of incidence there ,,-ill till be an error in both lift and drag. The ratio of
+relative error between the two components i proportional to the ratio of the slope of the coefficient cm·ve to the ordinate of those curves at the particular angle for whic h alignment wa rarried
+out. At all angle between that of minimum drag and that of maximum lift the error in both
+components i in the ame clirection, so that the error in L ; D is 1e than that in either component alone. The balance readings are farthest a tray from the true value in measuring the
+drag near the burble point, ,,-here a \'ariation of 0?·1 in the angle between the arms may lead to
+an err or of nearly 2 per cent in the ch·ag. 'rhi error fall oft' rapidly at angles malleI' than the
+burble point, and the mi take made in the determination of the forces at angles between 0° and
+8°, the range whilh is of most interest, would ue\'er be more than 0.03 per cent for a departure
+of 0?1 from a right angle between the arms . An acc uracy of 0?3 in this angle is quite su:ffir ient,
+if the balance i lined up in the manner here desfTibed, and if, in lining up, tests are made at
+several angles lying between 2° and 0, the mean result being taken.
+(11) If the strut and spring clamp which prevent the balance from rotating about a vertical axis are not horizontal the force which they exert against the arm will have a vertical
+component and ,vill change the amount of weight which mu t be placed on the lift arm to ecure
+equilibrium. If there is no pitching moment on th model the upward or downward component
+of the thrust of the trut ao-ainst the ar m will be exactly balanced by an equal and oppo ite
+component of the pull of the clamp. If there is a pitching moment, however, one of the e two
+forces will be greater than the other and there will be an unbalanced vertical component. Assuming the moment arm of the re ultant force with respect to the balance ftxis to be 4 em., the
+moment i approximately 4L, where L is the lift. This moment has to be balanced by the
+difference between the forces in the trut and spring clamp. If the vertical component of
+this difference i not to cau e an error of more than 0.1 per cent in the mea urement of Lit mu t
+L xh
+.
+be less than ],000 ' and the lope of tbe strut must not be greater than
+
+Lxh
+
+h
+
+1,000 X 4L
+
+4,000
+
+For the Langley Field balance thi formula gives a limiting slope of 2 °, it limit which would
+hardly be approached if any special precautions were taken.
+(12) If the strut and clamp are horizontal, but are above or below the main pivot, the
+difference in the forces which they exert \vill have a moment tending to modify the reading of
+the drag arm.
+ince the distance between the pivot and the point at which the strut bear"
+against the lift counterweight arm is, in the Langley Field balance, 30.5 cm., the difference in
+the two oppo ing forces is, for a moment of 4L, -0 .13L gms. H r be the vertical distance from
+the horizontal plane through the main pivot to the point of contact of the trut the moment of
+the unbalanced force i 0.13Lxt, and its existence changes the reading of drag by
+0.13Lr
+-Z ~-
+
+This must be Ie s than 0.1 per cent of D.
+
+Then
+0.13Lr <~
+h
+1,000
+
+h
+
+D
+
+r< 130 x L
+In the case of the Langley Field balance, for an
+not exceed 0.07 cm.
+
+$ of 16, th is leads to the conclusion that r must
+
+WIND TUNNEL BALANCES.
+
+31
+
+(13) The strut and spring clamp bear in conical sockets opposed to each other. Both
+oekets are cut in a single piece of tool steel, and a great deal of care has been used in some cases
+to bring their apices a clo e together as po sible without actually having them break through
+and meet. In some cases the bottoms of the e socket have been brought within 0.08 mm. of
+each other. Theoretically the two sho uld be at a common point, and any separation between
+them introduces an error. The effect of a separation between the pivots of the strut and spring
+clamp will be analyzed first with regard to it effect on the measurements of lift and drag.
+So long as the two ocket which carry the ends on the strut are on the same level the strut
+and. pring clamp lie in the same plane, whatever the separa ion may be. If they are not on
+the arne level, however, and it ha just been shown that the line connecting them may slope 2°
+initially withou~ serious effect, or if the balance rocks about the drag arm a an axis so that the
+end of the lift counterweight arm ri es and falls, the two pieces no longer lie in the same plane,
+a,nd the lines of action of their thrusts are no longer directly opposed. It will be supposed that
+there is no pitching moment acting, thi being the condition during the taking of tJle zero reading , that the ocket et in the end of the lift counterweight arm is initially as far above that
+set in the moment weighing arm as is safe (see (11 », and that the lift weighing arm is dO\\Tll as
+far as the stops in it cage permit it to go, so that the counterweight arm is up and the vertical
+distance between the ends of the strut is a
+large as it can e,er be. The condition then
+exisLing is sho vn, much exaggerated and
+with the strut andsprillg clamp represented
+only by their center line, in Figure 12. If F
+be the compression in the trut and al a the
+for ce exerted b:y the spring clamp against its
+socket, the two being equal when there isno
+pitching moment, the moment about the lift
+arm due to the separation of the apices of the
+sockets is equal to the product of F by the
+FIGURE 12.
+distance between the lines of action of the
+two members at the point half-wa:y between the apice of the sockets in the lift counterweight
+arm. Since D. a is negligible in comparison with a, thi di tance is E X sin a, and the moment is
+
+The moment required to change the weight on the drag arm b:y 0.1 per cent is
+Dxh
+1,000
+
+where h, as before, .is the distance from the main pivot to the center of the model.
+these two moments,
+Dxh i
+.
+1,000 = Fx E X Sill a
+
+Equating
+
+Dxh
+E
+
+1)000 X Fxsina
+
+In the pa~ticular ca e of the Langle:y Field balance his 137 em., the ' maximum likely to be attained by ais 3°, and the maximum of Fis 8 kg.) a maximum which would not be needed except
+at high wind speed, Normally, the spring clamp would be adjusted for a smaller force unless the
+lift were at least 15 kg. D may then be as umed to be 1 kg.
+ubstituting these figures in the
+formula above,
+E=
+
+1)000 X 137
+1)000 X 8)000 X 0.0523 =0.328 cm.
+
+32
+
+ANNUAL REPORT
+
+ATlONAJ~
+
+ADVISORY
+
+OMMITTEE FOR AERoNAu'r rcS .
+
+The sep ar a tion b etween the ap ice' of the pivot ockets also ha an eff ct on the mea uremen t
+of lift. The horizontal compon ent of the forces in the trut and spring clamp are, a ctl ready
+noted, exactly eq u al and. directly opp o ed, bu t the vertical omponents differ becau (' of the
+. light differ ence in slope. T hi. cliff eI' nce in slope i t.a. S ince a i sm all, the difl'el'en e in
+\rer t icnl oll1p onents i \T
+ory nead .v equ al to Fx t.a, and thi is approximately
+
+Fx - '' EXsin a
+wher e s i t he length of t he stru t.
+If the socket at the en d of the lift counterweight arm is at a distance (a) from the main
+piv ot, the for ce corre p onding to t b e Inomen t about the mfl,in pivot res ulting fro m this unbalanced vertical force is
+E Xsi.:n. a
+a
+F X- - - X '
+s
+h
+L
+Equating th i t o 1,000' t he allowable errol' i t is seen that the limiting valu e fo r E is:
+L Xsxh
+E= l ,OOOX(tX in aX F
+
+In the L angley Field balance a is 30. 5 cm., s is 5.9 cm., and F should n ever exceed
+L X5 .9X137
+E= 1.000 X 30. 5 X 0. 05:23 X Y2L
+
+Y2 L.
+
+'1']1(111
+
+] .01 cm.
+
+It is eviden t tbat the first case, r elating to the elTor in draa, is the limiting one, and it is also
+apparent that i t is useless spending much time in attempting to bring the apices of the sockets
+within a fr action of millimeter of each otber. If they approach within 3 mm. in a balance of
+the typ e and size of th at buil t by the advisory committee the errors r e ulting from the separation will be negligible, at least so f ar as lift and dr ag are concerned.
+It h a been assumed thu f ar th at there i a separation between the apices of the sockets
+at one end only, an d that the distance between the opposite en ds of the strut and spring cl amp
+is n egligible. If thi is n ot the case, ther e being an equ al separ ation at both en ds, the error in
+drag is n ot affec ted, whil th at in lift is doubled. The drag, however, still remains th e limiting
+factor and the permissible epar ation therefore is not alter ed.
+In measuring pi tchin g moments the sep ar ation of the pivots causes an error sim.il ar to that
+arising in the drag from the arne reason . If the socket at the en ds of the stru t ar e on exactly
+the same level th ere i n o errol'. I n order that the error with t h e strut inclined 2° may not b e
+over 250 gm. cm . when th e lift i 10 kg. t he separation of the pivots m u t be less th an 0.365
+cm. The dTag, therefore, still f urnishes the limiting case.
+(14) The upper balance h ead i r e tr ained laterally by a flange whi ch project down from
+the upper head in to th e lower one, and also by tho tubular por tion of the clamping ring. If
+the cen ters of t he e guiding rings are not exactly coincident with the line connecting the main
+and lower pivots, or iX th e surf ace of contact b etween the upper and lower parts of the bal ance
+is no t perpendicular to the line joining the pivots, the center abou t which the m odel rotates
+when t aking m om en ts will not be correctly determined by t he u u al method . Since an error
+in the location of th e center of rotation corresp onds to an errol' of like absolu te magnitu Ie in
+the p osition of the vector or cen ter of pressure .in the model, the tandaJ'ds of accura y which
+have been adopted r equire that tills errol' shall not exceed 0.2 mm. In the L angley F ield
+balance, t he securing of tills degree of accuracy exacts that the line connecting the pIvots hall
+be perpendicular to th e surface of sep ar ation between the heads within 0':' 009. A movement
+of the lower pivot thr ough 0.1 1 mm. , due to ben ding of the lower t ube, will throw the line connecting the pivots ou t by till angle, and it i th er efor e necessary th at th e lower tube be str aigh tened and adjusted wit h great car e and that t he perpendicularity of the line and surface defin ed
+above b e checked fl·equently .
+
+WIND TUNNEL BALANCES,
+
+33
+
+(j 5) ~\.llalogo u s Lo the err or ju L discussed is that resulting from lateral play between the
+upper and lower heads of the balance, which change the axis of rotation of the upper head
+relative to the lil1e connecting the pivots. This lateral play, however, has another bad effect
+in that it moves the center of aravity of the upper head and so changes the amount of weight
+required on t he weighi ng arm for the zero reading. If the upper head moves after the taking
+of the 7,ero and hefon tha t wi t,h the wind on is secured there will be a Tesul ting error
+
+W'
+
+EX -
+
+71
+
+whore E is Lhe laleral movomell Land W' i· t he weighL of Lhe u ppor heau wiLh all Lhe parLs
+directly attached to it. With a, model of average woight. 1\" for the advisory commiLLeo's
+balance is about 6 kg. In ordor th.at the error in draa due to the slippage of the upper head
+may not be more than 0.5 am . E must
+not exceed 0.11 mm. , and the clearanco between the annular flange and
+tho cylindrical portion of Lho lower
+D
+head into which it fits should be kept
+bo1ow till figure.
+
+[
+
+ERRORS
+
+IN THE VERTICAL-FORCE
+MEASUREMENTS,
+
+(
+
+There are certain errors in thi part
+of the balance which are obvious and
+Ii"
+are strictly analogou to those already
+considered for lift and drag measurements. An error in the length of tho
+~y
+V. F. weighing arm, for example, h8
+T
+P
+just the same effect as has a corresponding slip on the " 'eighing arms for
+•
+lift and drag. The knife-edao on the
+V. F. arm. must be located with some
+care, as one arm of the beam (the one
+exteudi ng from the knife-edge through
+Lhe balance waH to the center) is very
+short and only a mali absolute error
+FIGURE 13.
+(about 0.1 nun. ) is penni sible. Il
+j , however, easy to calibrate the V. F. arm with dead weight, and to adjust Lhe knifo-edges
+iu accordance with the calibration.
+The most serious fault to which the V. F . mea mement are liable arise from the inclination to the horizontal of the link which is fasten d to the wall of the balance and which carries
+the socket for tho lo wer end of the long vertical rod. If the trut wh.ich runs vertically from
+that liuk to the innor end of the V. F. weighing arm is too long or too hort the link will not be
+horizontal, and any force in it ",ill have a vertical component Cau iug an error in the measurem ent of tho vertical force. The method of determining whether or not this errol' exist has
+been described elsewhere,t and it will suffice here to determine the magnitude of tho error
+r esulting from a givon departme from th correct length of trut or, conversely the accuracy
+".-ith which tho stru must be made to keep tho error ,,-ithin a given tolerance.
+1
+
+Report of British Advisory Committee (or Aeronautics, 1912-13, p. 65: London.
+
+34
+
+ANNUAL REPORT NATIONAL ADVISOltY COMMITTEE FOR AERONAUTICS.
+
+The arrangement of the vertical force mechanism is shown cliagramaticaily in Fig. 13.
+Ta~illg moments about the rollers at 0, at which point the force aga,inst the rod must be exactly
+horizontal if tho friction in tho rollers be neglected, the force at P i een to be
+h'
+D X h"
+
+The vertical 'omponent of this force is
+
+Sin ce this is , ubLmcLed from the ver tical force acting 011 Lhe modeL it increases the apparent
+magnitude ot the force. In order that the error in lif - from this on.use may not exceed 0.1 per
+cent the slope of the link must bo less than
+
+L h"
+1
+"=J) XVX 1,000
+10 th case of Lhe bulane at Langley F ield, i[ the minimum
+
+~
+
+be Laken as Ii,
+
+'Y
+
+musL be less
+
+than 0~75 , and this require that the length of the strut be correct within 1 mm. Here, as in
+tunny others among the soW'ces of error exan,ined, the toler ance in dimensions is much larger
+than would be expected at first .
+
+REPORT No. 72.
+PART IV.
+
+BRIEF NOTES ON BALAI eES OF OTHER TYPES.
+In discussing other types of balances, no attempt will be made to carry through allY such
+exhaustive analysis of SOUTces of error as has been developed for the . P. L. instrument. The
+endeavor will be !'ather to show the reasons which led to the rejection of these other types in
+favor of the Ol1e finally adopted for construction and use at Langley Field .
+(1) EIFFEL.
+
+The principle of operation of the Eiffel balance is fully explained in his two books.! The
+essential parts of the instrument are shown diagrammatically in Fig. 14. Three readings
+are taken at each angle of incidence, determining the moments about axe A, B, and O.
+From these three values can be computed
+the magnitude and line of action of the resultant force on the model. In the actual
+instrument used at the' Eiffel laboratories
+only two axes are used, 0 being omitted, and
+the moment about A is taken both with the
+model in the normal position and with the
+model inverted. The moments about A in
+the normal and inverted positions, respe~
+tively, will be denoted by MA and M/ , the
+moment about B by MB •
+If the force acting on the model be resolved into its components L and V, acting
+at the. point shown in the diagram, and the
+FIGURE 14 .
+pitching moment M, the equations for moments about the three axes can be written, assuming
+the model to be set up with the origin of its axes directly under A,
+
+MA =(ax D) - M
+M/ =(a x D)+M
+MB =(a+O)xD-(bxL)-M
+Solving these equations, the formulae for L, V, and M can be secured.
+
+c
+2a+c
+L = - MB + Ul£A' X 211) + (MA X za
+b
+
+Ordinarily MB is negative, MA and M/ positive.
+tion,S, M by a subtraction.
+
+Land D are therefore obtained by summa-
+
+I Recherches sur Is Resistance de l' Air et I' Aviation, G. EifIel, Paris, 1911.
+G. EifIel, Paris, 1914.
+
+Nouvelles Recherches sur la Resistance de l' Air et l' Aviation,
+
+35
+
+36
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Since the three moments are taken at different times the errors which appear in any two
+of the three due to variations in wind speed may be in the same or in opposite directions, and
+the worst of these conditions must be assumed in computing the maximum error which can
+enter into the computed quantities. The maximum error to be expected in any single measurement is approximately proportional to the magnitude of the measurement unle this is
+very small, as most of the error is caused by fluctuations in wind peed or by inaccuracies in
+its measurement. Land D are the result of summations, and the maximum percentage
+error in these forces therefore can not exceed the maximum percentage error in the factors
+from which they are determined. There should be no difficulty in keeping this below t per cent.
+The only restriction that must be observed in order not to impair the accuracy of measurement
+of Land D is that the distance b must be large enough so that MB will never become positive,
+or even approach very near to zero, under any ordinary conditions. This requirement will
+be satisfied if b is one-half as large as a. In Eiffel's balance b appears to be unnecessarily large,
+being approximately equal to a.
+The errors arising in the computation of pitching moment are likely to be more serious,
+since that quantity i the difference of two moments. The error which i of intere t here is
+absolute and not relative, a mistake of 10 gm. cm. in a givon model being quite as serious if
+the total moment is 10,000 gm. cm. as it is if the spindle is so placed as to reduce the moment
+to 100 gm. cm., since it is the line of action of the resultant force which bas to be determined
+with the greatest possible accuracy, and the shifting of this line by an error in determination
+of the pitching moment is proportional to the absolute magnitude of that error and inversely
+proportional to the resultant force on the model, but is entirely independent of the point taken
+as an origin, the location of this point being the chief factor determining the magnitude of
+the pitching moment.
+The maximum absolute error in the computed pitching moment is
+
+where 0 is the maximum proportional error in a single measur ement.
+The error in the location of the resultant force is then nearly
+oX a
+--
+
+6.x = -M
+= L
+6.
+
+L
+
+D
+
+In the balance u ed at Eiffel's laboratory, a is approximately 10 times the chord of the
+models usually tested. Then, if l is the chord,
+100 x l
+
+6.X =
+
+-r
+15
+
+Taking L/D as 16 for wings, and 0 as 1/200, a possible error of a little more than 3 per cent
+of the chord in locating the center of pressure is indicated. For complete models, having a
+maximum L/D of 8, the error in locating the vector of resultant force may be as much as 6
+per cent of the chord. For angles of attack other than those of maximum L / D the po ible
+error is still greater. This large error is inherent in the Eiffel type of balance, and no modification of the dimensions can remove it. It can be somewhat reduced by reducing a, but
+steps in this direction are limited by the necessity of keeping the weighing beam and main
+supporting frame of the balance out of the moving air; a must, therefore, be at least half the
+diameter of the wind-stream.
+This discussion has so far been based on the assumption that the moments about the
+various axes are not affected by any errors in the instrument itself. Actually, however, the
+spindle is quite as subject to deflection as in an N. P. L. balance. Since the bending moment
+
+WIND Tt N NEL BALANCES.
+
+37
+
+in the spindle at any particular point is not the same when the model is in the normal position
+as when it i held inverted at the same angle, the deflection will not be the same in the two
+cases. The moment about A in each position therefore includes a term proportional to the
+lift, and this term is different in the two positions. The failure to take account of the deflection of the model leads to errors in the computation of both force and the pitching moment.
+The unequ al deflections of the weighing arm when taking the two moments lead to an error
+of the same nature. The eITor in the drag from this cause may be as much as 3 per cent with
+a spindle of normal size, and the percentage error increases as the wind speed increases. If
+the spindle is enlarged to cut down the deflection it becomes a matter of great difficulty to
+allow for the increased spindle interference.
+Furthermore, the drag of the model is not the arne in the normal and inverted positions,
+because the effective drag of the spindle, due largely to interference, is quite different when it
+is attached on the upper surface of the wing from that when the spindle is mounted on the
+lower surface. This causes a further error in computing the pitching moment.
+No detailed discussion of the errors arising in the Eiffel type of balance will be undertaken .
+Its chief disadvantages, in addition to the inherent inaccuracies already noted, are the time required for taking all the readings and working up the results therefrom, its great weight (the
+moving parts of the balance at Eiffel's laboratory weigh 50 kg., although it is never required
+to measure forces in excess of 10 kg.), and its lack
+of sensitivity, discussed in the next paragraph.
+£9-...L.._ _~r
+Its only important advantages reside in the
+elimination of all pivots in favor of knife-edges
+and in the avoidance of serious errors due to
+failure to line the balance up to the wind accurately. If the axes about which moments are
+taken are not exactly perpendicular to the wind
+If
+direction it is a matter of small import.
+The sensitivity of the Eiffel balance is rather
+low, as the main portion of the instrument is
+supported on a pair of knife-edges, and these
+~____~____________~J
+knife-edges are at the extreme top of the floating member. The center of gravity of this main
+beam is, judging from the drawings, about35 cm.
+below the knife-edges, and there is consequently
+a large restoring moment due to the weight of
+FIGURE 15.
+the instrument when the beam is moved from the central position. The lack of sensitivity
+due to this cause could be balanced by placing the center of gravity of the weighing-beam well
+above the knife-edges on which it is supported, so that this member alone would be unstable,
+but t,his does not appear to have been done in the instrument used by Eiffel. No dash pot is
+incorporated, and it is therefore necessary to secure a good degree of stability of the beam in
+order that it may not make continuous violent oscillations between the stops.
+(2) THE ST. CYR. BALANCE.
+
+The balance used in the tunnel of the Institut Aerotechnique de St. Cyr is quite different
+from any of the older and better-known types, and it embodies many original and interesting
+features. The general arrangement is shown in Fig. 15. ABOD and EFGH are articulated
+parallelograms. BGOH is a rigid square frame.
+The lift on the model causes the parallelograms EFGH and BGOH to rise, and ODN pivots
+about D. The upward movement of 0 is transmt~ted through the links ODN and NU, and
+raises the outer end of the weighing beam UIJ. Weight is added at J until this tendency to
+rise is balanced .
+
+38
+
+ANNUAL REPORT NATJO]\.TAL ADVr. ORY COMMITTEE FOR AERO
+
+AUTIO' ,
+
+In measuring the drag the wing moves hori7.ontally, GH acts as the fixed link F GK
+pivot abou t G, and the drag is mea ured by weights at K,
+ince A D is fixed in the frame of the balance, A D and BO always remain vertical, EF and
+GH horizontal. The model, therefore, mov s parallel to it elf, and the angle of attack never
+changes, nor do its sligh t movements cause it to a ume any angle of roll or yaw. In this
+respect the St. Cyr balance has the advantage over the N. P . L. instruinent. '
+The two measurements can not be entirely independent, as the weight attached at K
+exerts a di.rect downward force as well as a moment about G, and the lift is therefore greater
+than that read at J. ince the lift is the um of two flo-ures, the error is no greater than it would
+he if the lift were obtained by a single measurement.
+Adjustable weight are carried on prolongations of EH and F G below the lower pivot ,
+and these serve to adjust the position of th e center of gravi!'yand control the sensitivity with
+models of different weights.
+All pivots are eliminated in this balauce, knife-edges or ball-bearings being used at all joints.
+This, and the uniformly parallel motion of the model, are the greatest advantages of the St.
+Cp: type of balances. There is an objectionably large number of joints, 11 in all, as against the
+single pivot and the two univer al joints provided by the strut and spring clamp in the N . P. L .
+instrument. The t. Cyr balance escape some of the error to which the simpler type is
+subj ect. As in the Eiffel balance, the alignment of the plane of the linkage with respeet to the
+wind is not impor tant. The force balanced by the weights at K is that pel'} endicular to the
+links EH and F G, and these links must therefore be very closely perpendicular to the wind
+dire tion when the weighinO' arm is i.n its neutral position. The departure from perpendicularity should not exceed 0°.05 under any conditions, and, since deflection either of FG or G K
+prevents this condition from being observed, those arms must be extremely stiff. If alignment
+is to be preserved within 0°. 05, and if the deflection length ratio for FG and GK i the same,
+the deflection of each must be less than 1/2300 of its length .
+T o measure pitching moments, a pin is inserted at R locking the two parallelograms together
+and maintaining each of them in rectangular form . The model and the parallelogram EFGH
+then rotate about A. In order that this motion may be free i t is nece sary that the link aD
+be disconnected either at or at D as, if thi were not done, would also rotate about A and,
+D being fixed, the length of the link CD would h ave to change in order to permit of any motion.
+Ii is not clear from the ch'awings ,,-hat provi ion, if any, is made for such disarticulation. The
+moment about A being balanced by hanging weight on at K , the perpendicular distance from
+A to the force vec tor can be computed and, its slope being known from the force measurements,
+the vec tor i fully defined as to length and line of action.
+It is thus neeessary to make two runs with this balance, ju t as with the N. P. L. instrument, for a 'complete determination of the forces and moment acting on a symmetri al object.
+A number of other devices are incorporated in the balance for increasing the ease of reading
+and decreasing the work of compu tation involved. For example', there are a pair of small
+p'ydraulic dynamometers which permit the direct measurement of forces without the use of
+any weights at all.
+pecial mean are also provided for eliminating the zero reading on both
+weighing arms and for taking care of negative lifts, as well as for balancing the lift, due to the
+lowered static pressure inside the tunnel, on the flanged ring which dip into the oil eal.
+
+a
+
+a
+
+(3) CURTISS,
+
+The balance designed by Dr. A. F. Zahm for the 4-foot tunnel of the Curtiss Engineering
+Corporation is similar to the . P. L. type in general, but differs from it in that the single pivo t
+is replaced by two sets of knife-edges at right angles to each other. The lift and drag are then
+measured on separate run . The knife-edge are carried at the extreme ends of the weighing
+arms, so that there is no possibility of one knife-edge being lifted from its socket by the transverse
+force on the model unless the lift i nearly equal to the total weight of the balance.
+The use of two independent sets of knii'e-edges makes it possible, if desired, to secure different degrees of sensitivity in lift and drag. A much higher degree of absolute ensitivity is
+
+WIND TUNNEL BALANCES.
+
+39
+
+usually necessary in drag than in lift, and some stability in respect of the lift measurements is
+useful, especially at large angles where the lift arm tends to oscillate violently.
+It was shown in Part II that the synchronism of the movements of the model in two planes
+affects the sensitivity in lift, the lift being modified by the angle of yaw which the model assumes
+when the drag beam moves from its neutral position. This effect obviously does not appear in
+the Curtiss balance, where the measurements of lift and drag are taken at different times.
+In respect of most of the errors discussed in Part III, and of the accuracy necessary in the
+sliding of various parts, the Curtiss balance stands on exactly the same footing as does the
+N. P. L. type. The balance carried on two widely separated knife-edges obviously needs no
+strut and spring clamp to prevent rotation about a vertical axis, and the elimination of these
+members, together with the natural superiority of a knife-edge over a pivot makes the friction
+in the Curtiss balance materially smaller than that in the single-pivot type. The only important
+connte.rbalancing disadvantage is the time required to make two separate runs.
+Pitching moments are measured by an entirely self-contained device, making no contact
+with the frame. The model is carri ed on a rod which passes down through the hollow upper
+portion of the balance. The lower end of the rod IS pointed and rests in a conical socket. This
+Tod has attached to it a horizontal bar which pTojects through a hole in the wall of the balance,
+and which bears against the end of the vertical arm of a bell crank, on the horizontal arm of
+which weight is hung to balance the pitching moments. The moment guide arm is carried by
+the upper part of the balance proper, which therefore never makes any contact with the balance
+frame except through the knife-eng s. This method of measuring moments is essentially
+similar in principle to that used at Langley Field, has the same merits, and is subject to the
+sa}ue criticisms.
+(4) WRIGHT.
+
+In the balance designed by :Mr. Orville Wright, and used in his wind tunnel at Dayton, the
+LID ratio can be found directly by measuring the slope of the vector. The model is carried by
+one side of an articulated parallelogram, the opposi te side of which is fixed relative to the
+tunnel. The model therefore moves parallel to itself, and takes up a position such that the two
+free sides of the parallelogram are parallel to the vector (if the plane of the linkage is vertical,
+the vertical links must, of course, be prolonged and counterweighted, the counterweights being
+adjusted so that, with the model in place and no wind on, the linkage will remain in any position
+in. which it is set).
+The major disadvantage of this system is the minuteness of the angles which must be
+measured. If an L ID of 16 is to be determined with an error not in excess of 1 per cent, the
+slope of the vector must be read off correct within 0~036. This corresponds to a distance of
+0.16 mm. at the tip of a pointer 25 cm. long. The difficulty of reading angles as closely a$ this
+must always be considerable, even if the pointer remains perfectly steady. With care, however,
+Lhe flexible linkage method is capable ot giving very accurate results.
+When the lift and drag arc to be measured separately these forces are balanced against the
+draO' on a wire screen. The force is read directly from the position of a pointer on . a scale,
+o
+and no such adjustments are necessary as had to be made in the Lanchester and Dines balances (s~e Part II).
+This balance is easy and quick to use, although it requires two runs to secure the lift and
+drag. It is hardly to be expected, however, that it can give the acguracy attainable by other
+methods. If the same screen is used as standard throughout a single test for wing drag, the
+maximum force to be measured will be more than 10 times as large as the minimum, and the
+inclination of the screen must accordingly vary through nearly 90 °. The determination of the
+smallest force to within 1 per cent would necessitate the division of the scale into 1, 000 parts,
+and the reading of divisions so fine as these would be exceedingly difficult, especially as the
+pointer is certain to move slightly, pulsations in velocity of the wind not affecting the wing and
+the screen at the same time.
+
+40
+
+ANN U AL REPORT NATIONAL ADnSORY COMMITTEE FOR AERONAUTICS.
+
+The linkage on a tunnel of this type ma be placed either inside or outside the tunnel. In
+the first case the linkage interferes seriously with the flow around the model. In the second case
+the force on the model, acting out of the plane of the linkage , produces torsion in the links and
+greatly augments the friction at the joints.
+Great care is necessar y in aligning the linkage with the wind , the errors due to a fraction of
+a degree of misalignment being as serious as in the N. P . L. balance. There are nine joints which
+come into play in the Wright balance when it is used for measUTing the components of force
+separately. The conclusion is that, for accurate work, this balance is probably inferior to several other typ es, but that it would be very convenient for securing comparative results in a hUTry,
+particularly if the wind velocity were subject to fluctuations which would make it difficult to
+balance the fluctuating air resistance against fixed weights in the usual way. The Wright
+balance is more accurate an I satisfactory for meaSUTements of L ID than for E'ither force alone.
+
+o
+
+BALANCE
+FOR
+FIVE FOOT N.AC.AWIND TUNNEL.
+TOP VIEW
+
+144115-20. (To fa ce p. 40. )
+
+~o.
+
+1
+
+r---l
+
+,
+I
+
+)
+
+\
+
+I
+
+[
+~
+
+l
+
+I I
+
+I
+
+1
+
+I~ ~ I
+-
+
+-0
+
+01 '
+
+i
+
+U
+....Ll...
+
+1
+
+1
+1
+
+I
+
+!
+
+~
+
+A~
+
+~
+
+~
+
+~
+
+i
+
+.t
+
+1
+
+0
+
+~
+
+~[h
+-
+
+F
+
+'t:r-[-t;:t
+
+r= =;
+
+£ Q
+
+w
+
+.........
+
+~
+
+l
+
+. BALANCE
+
+'3
+
+.
+
+FOR
+FO. T N.ACAWIND TUNNEL.
+O
+SIDE VIEW
+
+~
+
+3
+
+,
+
+SCALE
+l'III IIII'lll lll jl llllll jI' III III' III IIIIII IJ11 11
+
+0
+
+t
+
+Z 3
+
+-+
+
+5
+
+6
+
+=== d
+
+8
+3
+
+c
+
+14441&--20.
+
+(To face p. 40. )
+
+~o.
+
+2
+
+"W
+~
+
+-~~.~---------
+
+BALANCE
+
+FOR
+FNE FOOT N.ACA WIND TUNNEL.
+SECTIONAL VIEW
+
+14441&-20. (To face p. 40.) No.3
+
+BALANCE
+
+FOR
+FIVE FOOT N.AC.A.WIND TUNNEL.
+REAR VIEW
+
+HH1;).-20.
+
+(To face p. 40.) No.4
+
+"
+

@@ -1,0 +1,482 @@
+• SZ 52037
+
+TECHNICAL NOTES.
+
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+·c
+No.37
+
+THE DETERM
+INATION OF THE EFFECTIVE RESISTANCE OF A
+SPINDLE SUPPORTING A MODEL AEROFOIL.
+
+By
+W. E. Davidson and D. L. Bacon,
+Aerodynamical Laboratory, N.A.C.A.,
+Langl ey Field, Va.
+
+January, 1921.
+
+TECHN IC AL NO':'E }TO. 37
+THE DETERLINAT IOrJ OF THE EFFECTIVE RESISTANCE CF A SPI NDLE
+
+SUPPORTIN A M
+G
+ODEL A
+EF.OFOIL.
+By
+
+W. E. Da vi1son and D. L. 3acon
+La bo rutory, N. A.C.A.
+La ngley Field, Va.
+
+Aerody~a~ ic d l
+
+The
+for
+
+t eclli~ic a l
+
+Aeron~u t ics,
+
+st afr of
+
+in t e sting
+
+Nut i ona l Adv is ory Co mm ittee
+~ e rofoils ~t
+
+the
+
+L ~.ngl e y
+
+M am
+
+Aeronautical Lt.borutory, has mo,de the follo ','l ing da-
+
+ori~"l
+
+ter:o:.inGLt ion of effective
+
+of u. spind le sup port
+
+resist ,"~ nce
+
+of a model aerofoil.
+T~e
+
+ID.rgest co rre c"jion to be
+
+c~pp:J.ied
+
+to the vo.lue s
+
+of the forces obseryed during n:odel ",erofoil tests is usuulJ.y th:...t neces si"t <:. t e d by the p resence of some mechLnical
+
+A
+
+d evice us ed to support the model in the uirstre um.
+tom...ry form of sU9l.J0rt cor.si.3ts of
+
+CI.
+
+CU8-
+
+round tapered spindle
+
+6cre JVed ir..to tl:e end of the wing, ;l hj.ch j,s usually po.rtitl.lly shielded from -e he o.ir fla Il' by 80me type of streuml ine
+housing .
+The effect of this holding s p indle may b e considered
+in
+
+~ 60
+
+purts, vi z .: the uctual resist a nce of the spindle,
+
+due to t h e uir pre ssure u p on it, and the
+
+.
+
+Qisturb ~nce
+
+of
+
+the natuTCL uerodynamic ch<.l.r a cteristics of the n.odel due
+l
+to
+
+~te proxi~ity
+
+of the spindle
+
+~nd
+
+its housing .
+
+It is
+
+- 2 -
+
+obvious th<.4.t
+cre~ses
+
+~he
+
+ference.
+~hich
+
+ilousing extending nearly to the '.ving de-
+
+i:;l,
+
+direct spindle
+
+dr~g
+
+but increases the inter-
+
+The most desirable length of housing is one
+
+reduces the total correction to a
+
+ing used in this series of teat8
+as olosely as posoible
+it
+
+N~B
+
+w~s
+
+mini~um.
+
+The hous-
+
+constructed to fit
+
+the supporting spindle
+
+~bout
+
+~ nd
+
+found by experiment thi:;l,t it could be brought within
+
+one inch of the r;ing iiithol..:t causing exce ssive interference.
+In order
+
+~o
+
+determine nhat correction to apply for
+
+spindle drag C:i.nd intarfe1' enoe it is customary to support
+the
+
+~ ing
+
+~s
+
+sho*n in Figure 8, holding it at the center of
+
+the
+
+sp~n
+
+ruther thun
+
+~t
+
+the ti p as is the
+
+A dummy housing und spindle d re then
+
+usu~l
+
+pre p~:lT ed
+
+practice.
+
+'N
+hich may be
+
+m
+oun:;ed in the same posit ien relative to the -:.ring lihicn
+they
+
+ordin~rily
+
+occupy during routine testing, the dumffiY
+
+spindle being fc:.ste!led to 'the wing tip und projecting
+into the hollo f1 opening of the housing, but not touching it
+
+•
+
+at any point.
+
+Runs are
+
+mu.de over a series of speeds
+
+~hen
+
+and ungles of incide nce both
+
+~ith
+
+spindle and housing in place.
+ini;S between a pui!' of suc11
+
+and ni thout the dummy
+
+The difference in drag read-
+
+rur~s
+
+is an actual measure of
+
+the co mb ined effect of spindle drag c..nd interference on
+the {Wing drug.
+As the N.P.L. type of balo.nce, such
+these tests, measuyes moments rather
+~lso
+
+th~n
+
+ELS
+
+No.S used for
+
+forces l it is
+
+necessary to dete r mine at nhat point tnis correction
+
+-
+
+must be o.pplied.
+
+3 -
+
+To arrive
+
+~t
+
+this vll.lue a. recor::! is :na.de
+
+of moments a.oout 1;he vertlcal spindle corresponding to the
+vario~s
+
+If the moment co=rection be divided by
+
+re~di~gs.
+
+the force correction the quotier..t is a. mee-sure of the :iist~nce
+
+C from the
+
+of
+
+~xis
+
+sure or the point of
+
+rot~tion
+
+to the center of p resof 1;ha force.
+
+ap~lic~tion
+
+In QPplying these corrections to
+from an N.P.L.
+
+b~l ~nce
+
+me~surement8
+
+obt~ined
+
+using the usuGl type of mounting
+
+(fig. 1), their mu.gnitude must be reduced in -:he pro}::ortion
+of L:-C , .lvr:ere L is the dist imce from the bu.l£:l.nce pivot to
+.
+L
+
+the center of the Ning , becau s e of the
+of their point of
+
+An
+
+applic~tion
+
+ch~nged
+
+position
+
+(see Fig. 3).
+
+uttempt was r.,:t.de to determine the effect of spin-
+
+eile interference on the lift of the 4ero£oi1 oy measuring
+moments
+flolv.
+
+c...bou·~
+
+the axis p<.:l.J.'a.llel to the direction of air -
+
+The v.:A.lues obta.ined are of the same degree a s the
+
+experimental error and for the present this effect
+
+~ill
+
+be
+
+neglected.
+The results obtained using a u.S.A . 15 wing, plotted
+
+in Figure 4, show
+
+th~t
+
+the correction is nearly const ant
+
+from 0 0 to 10° incidence ~nd th~t ~t gre~ter angles its
+value oecomes erratic.
+drag is so high
+
+th ~ t
+
+At such angles honever the
+
+the spindle correction and its attend-
+
+a.nt erro):s becolLe relatj.vely small und unimportant.
+
+FJ.,p1re ;) sho iTS the vari at ion of the rat io
+
+..
+
+Ni~g
+
+Drag
+
+corr.~ctj.0!l
+?
+
+(V e locity)o..J
+
+.------ -----.-----~------"~~--- ~-" .~~--
+
+,- 4: -
+
+•
+nhen plott ed against velocity for ~n incid e nce of 00
+
+,
+
+sho .vi ng ii r:a;c tl:e p ro p or-c :onal corre ct ion decr g:.:. se a ",-ppre ci1.:l.0ly .vi th
+The
+
+incre~8ed
+
+aCCuI ~ te
+
+v elo city.
+
+deter~inaiiior.
+
+ceniier o r pr8ssure is beloN
+
+t~e
+
+of the location of the
+r~n ge
+
+of senaitiviiiY of
+
+the bala.nce -:)ut calcula.t ions show thc.t this may sa-fely
+ce ::.:.s sumed. at the center of
+
+-~he
+
+spinale.
+
+Although the accuracy of t he
+•
+
+corrections is not
+
+gre~t
+
+determ in~ t ion
+
+of the drag
+
+it Rill be seen from the follo w-
+
+ing example iihat the percentage error "ihen applied to
+l
+total wing dras is not
+
+t ~e
+
+appreci~blo.
+
+Me~sured 3pindle correction at 4° incide nce at 21
+
++ prob2..o:e error of .. 5
+
+sec. = 6.2 g:1i .
+
+m/
+
+gm.
+
+Distance of point of application from center of wing
+span, 24.2 c m.
+Di",tance fro::.
+
+cer:ii~r
+
+of ,iir.g "'pa.n to balance pivot
+
+137.2 cn: .
+
+Drag of ,ling
+
++ spindle
+
+at 4° incidence at 21 m/ seo. =
+
+31.7 gm.
+
+Probab le error in applied correction . 5 x (137.2 - 2~ . 2)
+137.2
+
+Percent of
+rection
+
+prob~ble
+
+=
+31. 7 -
+
+•
+
+= .41
+
+error in drug due to s; indle cor-
+
+.41
+6. 2 (137.2 - 24.2)
+137.2
+
+= 1.5%
+
+•
+(NOTE :
+
+See also Aci.viaory C:or;m',ittee ror AeronC:;.utics (British) reports No s. 148 ,198, and 244) .
+

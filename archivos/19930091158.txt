@@ -1,0 +1,1699 @@
+.
+
+REPORT No. 95
+DIAGRAMS OF AIRPLANE
+
+STABILITY
+
+By EL BATEMAN
+California Institute of Technalctgy
+Pasadena, California
+
+347
+
+REPORT
+—..
+DIAGRAMS
+
+01’ AIRPLANE
+By H.
+
+(.’difornia
+
+No.
+
+%.
+
+STABILITY.
+
+BATEW.N,
+
+In<itute
+
+of Technology.
+
+LNiRODIICTION.
+
+$1. This report -was prepared by Dr. H. Bateruan for publication by the National Advisory
+CommiLtee for Aeronautics.
+The tlkwry of small oscillations about a state of steady motion
+-which was de-doped
+many years ago by E. J. Routh * has been appIied with marked success
+in ~eroclynarnics, the desired simplicity of the equations being secured by the introduction of
+the resistance coefficients by G. H. Bryccn=3 Ilk simplification of the equations is based on
+the assumption that in a s~mht departure from a state of steady motion the increments in the
+component aerodynamicaI forces and couples can be expressed in terms of the increments of
+the component velocities of translation arid rotation rdo~e yithout any additional terms clepencIassumption seems to give a
+ing, for instance, on the increments of the accelerations.
+gwocl approximation
+to the truth in the ease of an airplane, but in the case of a balloon the
+additional terms are required.
+When a flying machine is treated as a rigid bod~ the general
+type of steady motion is one in whleh the center of gra-i-ity describes a hebx and the algebraic
+equation which determines the tempornl characteristics
+of the oscillations is of the eighth
+h the case of an airplane hav@
+degree, but this equation can be simplified in certain cases.
+m plane of symmetry, the oscilIaticms about a state of steady rectilinear flight can be regarded
+as built up from longitudinal and lateraI oscillations which are practically indepe~dent of one
+tino ther. When certain resistance coefficients are assumed to be zero each set of oscillations is
+associated -with an algebraic equation of the fourth degree.2
+.4 notabIe simplification also occurs in the case of a body Ike a pmwhute which has an a.us
+of symmetry, when the steady motion is rectikear
+and in the direction of the axis of sp-rnetr~-.
+In a recent report on the dynamical anal@s, 3 Messrs. Klemin, Warner and Denkinger
+ha-w studied the effect on the period and rate of subsidence of the pitching oscillations of an airplane of a change in one of the resistance deri-ratires when @ the others are kept constant.
+Xt
+occurred to the author that it might be -worth -w-Me to continue this work by considering simultaneous -radiations in-t-w-oor three of the deri-ratiws and to pay special attention to cases in which
+a slight change in some of the deri-ratives has (1) no effect, and (2) a marked effect in the characteristics of the lo~~ oscillation.
+The results which haw been obtained are e.xhibitecl by means of diagrams in which two of
+the resist ante coefficients are used as coordinates, and cur-res are drawn aIong which the modulus
+of deca~ of a long oscillation has a constant due,
+numbers being given to inclicate the ~alue
+of the period at various points of each cur-i-e. .%t Mr. Warner’s suggestion numbers ha~e beeu
+given in some cases to indicate the ratio of. the period to the time of damping to half the initiaI
+amplitude, as this quantity is adopted as a measure of stcbility in the report to which we have
+just referred.
+
+mk
+
+I The SwbXlty of a Giwn State of Motion (Adams Prize Essay). London, 1s7. Advanced Rigid Dymmks. Chaps. III and YI.
+~Smbility in Aviation. Ihcmillm k Co. (19111.
+A’o.17,p. 330. (1917.) This report will be referr~ tO SU&-~
+~Third Annual Report of the >’ational Adriswry Ccmm-ttee FM.%romutics
+quently as 17.
+349
+
+.
+
+—
+.
+
+350
+
+ANNUAL
+
+The method
+to the oscillations
+to the beautiful
+Report ATO.116,
+notice.
+$2. Pitching
+those in roll and
+of the oscillations
+
+REPORT
+
+NTATIONAL
+
+COiWUITTEE
+
+FOR
+
+AERON.4UTI(S.
+
+has F&o been adapted to the lateral oscillations of a symrnetriefil airpltmc tind
+The graphical method used here is inferior in many respects
+of a parachute.
+one devised by L. Bairstow and J. L. Nayler, British .~dvisory Committee’s
+1915, but the work was completed before this report canlc to the wri~er’s
+oscillutiows.-ll%en
+the pitching oscillations are regarded as independent of
+yaw, the biquadmt.ic equation which determines the temporal characteristics
+may be written in the form
+k (Ax+y)(h+z)(k+w)
+
+(1)
+
+ADVISORY
+
++2
+[
+
+k(x-kz)+A
+
++ (gz +{W) (M + Cos 8.) + (??.?–22)
+
+where
+
+$
+
+(M –
+
+1
+
+do +gq)l(lh+y}
+
+@n
+
+sina)
+
+x= – V-M., y= – Mq, z= =.Y.,
+
+@oT) = ~
+–
+
++M(m~
+
+w= =2.,
+
+T7= U+ Zq+X~
+
+(2)
+
+and the notation is & same as in the reports of Hunsaker, Klemin, Denkinger, and Warner,
+Let k’– ZCZh
++7 be one factor of the expression on the left hand side of equation (11.
+Replacing k’ by 2ak – -Y we can recluce the above expression to one which is linear in ~ fir]d
+equate to zero the terms with and wi~hout h. This gives us the t}vo equations
+(3)
+
+V[y +.4(W +2) +4Aa] = (y +2Aa) (w +Za) (z +2LY)+~q(y +2ACY)
+
++Z
+
+2a+z+*sin60+N&f7z)
+
+[
+
+1[
++(
+
+WL’+f n)+
+
+Cmoo-?l
+
+1
+f
+
+which generally cietermine z and y uniquely ~ when a and Y are given, thah is, when the period
+~=d::d—
+
+and the co-efikient
+
+cfuantity it is convenient
+
+of subsidence=
+
+a of the oscillation are gi-wm.
+
+Instead of the la~t[,r
+
+to use the time
+~_loge 2 .- .69 —
+—a
+—a’
+
+which represents the time which it takes for the amplitude of a simple oscillfition to fall tu
+half value.
+With the aid of equations (3) and (4) the cur~es t = constant (a= constunt) ha,vc kn
+drawn in the (c, y) pIane for various values of z, W, t, n, f, 6, and do, the valtle .A = 100 being
+adopted in each case. We can use the same diagrams for any other value of A by simply altering the scaIes for x, y, and r. It shouId be noticed in f~ct that equfiticm (I) is still saiisfiwl if
+we replace A, z, y, t by K-4, Kz, Ky, K(, respect iT’eIy, keeping the other quantities the same.
+In diagrams 1-% there are two sets of cuves corrw.pending rcspecti\-eIy to the mducs ~ = I
+and ~ =2,
+Each set of curves is macle up of three pairs, the two curws of each pair correspond
+..
+:=--..—. .---=
+—.
+~They may fail to do this for certa~ particular ~aIues of ~ and Y when the two linear Wuations in r and Yme the same. It shonhl be noliced
+frowe’rer,that when #o=o, 8=0, f=o, theequatiorrs give
+(2&+lo+z)[to~+wz( 7-l)+ i(q-l)q=o
+of
+This is one of the boundaries O(
+\vhen b+w-tz=o we have 7=$7+202 and the eqw.t,on the Me along which both a and Yareconstant ist=o.
+the region of skkdlity in the (r, u) plane. The second factor I@+roz(q– I) + $(a–lp is generally positil-e with the Yalues of the re.sfahmcccrkffkient
+usually fonnd for an airplane. If it could vanish there woufd bean Mnite number of straight Iines along Which a and Y&reconstant and ~ecled
+by the relation
+Y=t+igi(h+?).
+
+-~
+.—
+
+DIAGRA-MS
+
+OF AIRPLANE STABILITY.
+
+351
+
+to the same value of t, but the upper cur-re corresponds to the -due ~= 1 and the lower cum-e
+to the -due f=O.
+The values of z, UI,E, in diagram I are roughly those found for the Curtis: J. N. 2 @ Report
+17. A few- slight changes have been made to facilitate the caIcuIations, but thes=edo not affect
+The mdues of q in diagram 1 are greater than the number deri~ed
+the general concI~~ions.
+from the value of .X. given in Report 17. This number is about 0.6 and it is remarked on page
+332 that .TW decreases as the angIe of incidence increases and the speed decrease-s. Since .Sm
+may actuaIIy become negative as the critical speed is approached, ewes
+have akio been drawn
+forthewduesq=o
+and ?=–1.
+In stud-ying these diagrams it should be noticed in the first place that the Iines t= ~ and
+z = u bit
+the region of stability.
+The fird of these ties is curved.
+men
+q is decreased this
+line rises and the region of stabihty becomes more restricted.
+On this account alone we can
+expect a decrease in q to he unfa~orable when the other re&tance deri-vati~es remain const ant.
+This agrees with the result found in Report 17 but it is worth wh!de to co~~ider the matter more
+fully.
+If we take any due
+of q and begin to draw the curves t = mnst ant, starting from t = = and
+gradualIy decrea@
+t, we find that a certain minimum -raIue to is reached below which the cur~e
+It is clear from the
+no longer lies in the pari of the region of stability shown on the diagram.
+This increase in the time of damping is partIy
+diagrams thah G increases Then q decreases.
+otiset by an incre~~e in period; but, if the other re~ist~ce deri~ati~es rema~ co~tant,
+the ratio
+of the period to the time of damping apparently decrease-s y-ith ~. Thk is seen more eady by
+looking at diagrams Ic and lb.
+If some of the other resistance coefficients aIter at the same time as q the unfavorable
+effect of a decrease in the value of ~ ma-y be partially or completely offset.
+Thus if, when we
+decrease ~ from 2 to 1? we increase y so as to keep t constant, we increase the period p and so
+improve the stability as far as the long oscillation is concerned.
+With smaLl values of ~ a considerable incre~~e in g may be needecI to keep t constant w-hen q is decreased> but a much smalIer
+increase in y may be sufficient to offset the unfa-rorable effect of the decrease of q. The effect
+of decreasing ~ ma-y ako be offset by decrea.s~~ z; for: if we decrease z so as to keep t constant,
+This may be seen -rery clearIy in diagram I if w-e start with
+~he period p k seen to be increased.
+the point t= 13.8, p =20-1, 7=2, and pass fist to the poini with the same coordinates in the part
+of the diagram comespondtig fo ~ = 1 and then proceed aIo~~ a line y = com~tant untiI the cur-re
+i!= 13.8 is reached.
+.% comparison of the different diagrams indicates that the generaI form
+and arr~~ement
+of the cur-res is roughly the same for the different sets of vaIues of z, w, and t.
+.h exception occurs in Lhe case of the cm-yes for ~ = – I h diagram Ia. It W be seen that ~
+this case the curves ~= O cross the curve-s ~= 1 -whiIe in the other diagrams a cum-e ~ = O remains
+below- the corresponding cur-re ~= 1.
+about
+the center
+of gf’a~ity of the
+IL is generalIy assumed that r= O, stice the moment
+airpIane clue to air forces is zero in horizontal flight and therefore w-ill not he dfected by &
+It is easy, how-e-rw, to imagine some arrangement which wiIl make XU and
+change in speed.
+The inclination of a flap held by a spring and exposed to the
+therefore ~ different from zero.
+air -will wry with the speed of the tipIane* co~equently
+the force On it W not be proportional to the square of the speed, and so ~ WW be eitther positi~e or negati-re.
+It. will be seen from Lhe diagrams that a positive value of ~ is generally unfavorable to
+When q is negative, a machine with a moderately large -due of z may be an exception
+stability.
+to this ruIe; but, =when XW is positi~e, the stabiIity can apparently be impro~ed by making f
+negati~e.
+If this is done -with the aid of a flap held by a spring, 5 changes may also be produced in
+We must therefore aIso study the effect
+the other resistance deri~ati~es, particularity X. and.&
+on stability of changes in E and z. Whis ma-y be done -with the aid of diagrams 1–17.
+5 The
+
+R. Jones.
+
+scsbilty of em seropIane which IMs springs in the mntroI CCKUWCfiOm MS
+British AdCommittee for Aeronautics. (R-M No. 210.)
+54%!2-21-23
+
+fiSCUSSMM ~ more rigorous msmer by L. Baimtow and
+
+.
+
+.
+
+352
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+CO:~TTEE
+
+FOR
+
+AERONAUTICS.
+
+It appears that an increase in $ from 2 to 3 has practicality no effect cm Lhe position of the
+curves t= constant, but it does lower the period; hence an increase in 1 scans to lx unfavomble.
+A comparison of diagrams IV and V indicates that an increase of z from 0.1 to 0.2 10WCR
+the curves t = constant and is on the whole favorable to stabiliiy.
+The general conclusion then is that, if some kind of a flap held by a spring is to be used
+to improve the stability, as far as the long oscillation is conccrncd, it shoul{l Ijc chosen so m
+to decrease Z,,, increase – X., and make M,, positive.
+The diagrams may also be used for other purposes; in particular, tJley mtiy be used 10
+confirm some of the conclusions in Report 17. It will be noticed thtit as a point. moves tov,wrd
+the origin along a ~urve t = constant, the period p increases, and so the s~abiIity is impraved.e
+It may then be advantageous to decrease both P.U$Oand – .Ug, but – Jlq must not be dccrcascrl
+too rapidly.
+There is a Iirnit to the ratio of – dg to – d.r if we wish the change to bc favorable
+to stability, and this limiting Take may be shown clearly on the diagram by drawing the curves
+for which $ is constant,
+
+in accordance
+
+are shown in diagrams Ib smd lc.
+
+with a suggestion
+It wiIl be noticed
+
+made by Mr. T_lTarner. These curves
+Lhai the curves + constnnt, am stccpPr
+
+than the curves f = constant, but are not quite as steep as the curves p = conskmt.
+A comparison of diagrams I and II indicates that an increase of w from 2.9 to 3.9 increases
+the period y and has more effect on the time of damping t when ~ is negative tl~an ~vhen ~ is
+positive.
+When ~ =2, the time t apparent] y increases with w; but, wlwn q =1, t increases for
+small values of t, e. g.} those less than 13.8, and decreases for large ‘values of t. When q =0 nnd
+~ = – 1, t decreases as w increases, the effect being quite marked when ~ = – 1.
+In diagram VI the effect is shown of making 8 difterent from zero,
+It appeurs that by
+making 3 positive we decrease the time of damping and produce verl lit~le chat}ge in tl~c
+period.
+Other things being equal, an increase in 6 seems to be favorable to stability.
+It should
+be noticed, however, tha,t Xq occurs in the expression for Y, consequently unIess an increase
+in X* is balanced I)y a decrease in Zq the numerical ~-alue of T’ will be lo]vered znd tho values
+of the quantities depeklding on V altered.
+It appears then that the Meet of zn incrc.am in
+.Xq may be offsefi by the change in T’. It should be observed, however, that, ;shen A-Q is
+about 3, the percentage change in the value of V is not large, and so the effect of the increase
+in 3 shouId predominate over the effect of the change in ~’. In diagram VI u is wriMcm in
+place of 13.
+In di&gram VII the effect is shown of, a change in 6~, o tkr things remaining the same.
+It appears that the stability is improved ‘by making .90positive} for the curves t = constant. are
+lowered.
+By making 6~ negativej the time of damping is increased.
+In particular, if the
+speed were not increased, the time of damping wouId be greater in a vertical dive than in
+horizontal flight.
+This may be seen when the stability of the parachute and Micop kr me
+studied.
+should
+~It
+
+(See Report No. 80.)
+be noticei tinat the nearer the representative point is to the origin of coordinates: ho
+
+small changes in ‘Iand y.
+
+—A. ...
+mora
+
+nrwked 1s WI erlxt on p and t of
+
+. .- --..
+
+——
+—
+
+D1.LGRAMS
+
+OF
+
+ATRPLAWE
+
+353
+
+STABILITY.
+
+Zm
+
+/00
+
+200
+
+Z70
+
+o
+
+0
+
+DO”26K7
+
+300
+
+400
+
+500
+
+600
+
+354
+
+AIWUAL
+
+REPORT
+
+NATIONAL
+
+.ADWS0R%
+
+/00
+
+.200
+
+300
+
+colfMITTEE
+
+400.
+
+17fJR AER(_J~~A~TT~Sd
+
+/00
+
+o
+0
+
+fl
+
+I I I
+
+t I I
+
+500
+
+600
+
+800
+
+I I I 1 I I I I I I I I I
+
+I I I
+
+I t I
+
+7m
+
+200
+
+/00
+1
+
+I
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+I
+
+1
+
+f
+
+1
+
+i \u
+
+I
+
+1
+
+I
+
+I
+
+I
+
+??
+
+I I
+
+o
+I
+
+I
+
+0
+
+1
+
+!
+
+I
+
+I
+
+/@
+
+I
+
+I
+
+)
+
+I
+
+200
+
+I
+
+1
+
+I
+
+1
+
+ao
+
+I
+
+I
+
+I
+
+@u
+
+500
+
+60(?
+
+790
+
+WO
+
+DIAGRAMS
+
+OF
+
+MBI?LANE
+
+355
+
+STABILITY.
+
+/00
+
+o
+m
+
+0
+
+0
+
+w
+
+222
+
+/c@
+
+203
+
+4(W
+
+m
+
+m
+
+4m
+
+m
+
+500
+
+700
+
+609
+
+:356
+
+A3”NVM
+
+13EI?ORT
+
+NATIOSAL
+
+ADVISORY
+
+CON. MITTEE
+
+l$OR AERONAUTICS.
+
+1
+
+L-
+
+/(7ul-+
+
+I
+
+I
+i
+
+!
+
+!
+
+1
+
+-t-+
+
+L-
+
+t-t
+
+, ,
+
+0
+I
+
+J%
+u
+
+1
+
+!
+
+;
+
+I
+
+4
+
+f
+
+1
+
+,
+
+I
+
+!
+
+(
+
+I
+
+,
+
+I
+
+,
+
+,
+
+1
+
+I
+
+A
+
+I
+
+t
+
+1
+
+I
+/00
+
+200
+
+o
+
+300
+
+/00
+
+500
+
+400
+
+200
+XOTE: q=
+
+300
+–1.
+
+600
+
+409
+
+700
+
+500
+
+Cwo
+
+-1
+
+DIAGRAMS
+
+OF
+
+AIRFLANE
+
+STABILITY.
+
+357
+
+/00
+
+u
+o
+
+/00
+
+200
+
+300
+
+4oL
+?
+
+m
+
+m
+
+‘@?
+
+zoo
+
+m
+
+4C4?
+
+200
+
+/00
+
+o
+CJ
+
+7m
+
+8CW
+
+ANA’UAL
+
+REPORT
+
+L’ATIOK.AL
+
+ADVISOI1l’
+
+(J~~HTTEE
+
+I:OR
+
+.
+
+AERONAlJTI(J3.
+
+/00
+
+o
+u
+
+200
+
+/00
+
+300
+
+400
+
+.500
+
+600
+
+/00
+
+u
+o
+
+/00
+
+200
+
+300
+
+4a7
+
+m“
+
+700
+
+&?o
+
+DMGRAMS
+
+o
+
+/20
+
+OF
+
+.imO
+
+A.IH?LANE
+
+.300
+
+359
+
+STABILITY.
+
+$fOo
+
+.mo
+
+au
+
+/00
+
+o
+(9
+
+/00
+
+.270
+
+J#
+
+4m
+
+m
+
+600
+
+ANNUM,
+
+REPORT
+
+o
+
+/00
+
+o
+
+NATIONAL
+
+/00
+
+ADVISORY
+
+200
+
+COMMITTEE
+
+300
+
+I?OR AERONAUTICS,
+
+400
+
+Wo
+
+DIAGRAMS
+
+OF
+
+&QH&KE
+
+361
+
+ST&B~TY.
+
+200
+
+/00
+
+0
+
+0
+
+,1
+
+Itw
+
+.?00
+
+Wo
+
+4CQ
+
+500
+
+ANNUAL
+
+REPORT
+
+NTATIONAL
+
+/00
+
+o
+
+AD~71SORY
+
+200
+
+COMMITTM
+
+300
+
+FOR
+
+m
+
+AERONAUTI(:S.
+
+500
+
+6f70
+
+/00
+
+I
+
+u
+
+r
+
+‘4&/
+
+I
+
+“ =2)&--JJ-“
+
+I
+
+1
+
+Vf
+0
+
+/00
+
+I
+200
+
+NOTE: G k written
+
+~
+
+7+4;=/.2
+
+300
+in place
+
+400
+
+==.
+
+!
+
+~rml
+.-
+
+,---
+
+1
+
+17-4
+
+I
+
+I
+
+I
+
+I
+
+I
+5CV
+
+of 3 in this diagram.
+
+6C@
+
+7c@
+
+,
+
+i
+
+DIAGRAMS
+
+01’
+
+MRPLANE
+
+STABILITY.
+
+363
+
+11
+
+-EiH
+,,
+,,
+
+I
+
+200
+
+/00
+
+2oa
+
+/00
+
+o
+L?
+
+mu
+
+200
+
+WO
+
+400
+
+Soo
+
+600
+
+7GW
+
+364
+
+ANNUAL
+
+REPORT
+
+A’ATIONAL
+
+ADT71SORY
+
+CO~~THTTEE
+
+I?OR AERONAUTICS.
+
+Lateral osciZZations.—When the lateral oscillations are m alI tically independent of thf’
+pitching oscillations the biquadratic equation which. determines the temporal ehtiracteristics
+of the oscillations is
+h(l+fc)
+
+(A+w)
+
+(A+q)+rA(k+
+
+zl–iyx(A+w)
+
+(1)
+
++2( A+q)–t2A–yr=o
+
+wher~ 7
+
+LP=
+
+–X&2,
+
+~JTp —Y
+=
+
+l“p =
+
+Qt
+
+_Lr= – :y
+
+1{ ~
+c,
+
+o,
+
+2cYX D= o ad
++
+
+reducing
+of h and
+
+X2 –
+
+Kc’,
+
+Y,= o,
+
+equating to zero tl~e coefllcients
+
+Writing
+
+A;=–v
+
+AL’,
+
+Lv=:m
+r
+Ne = -C[m,
+
+(2)
+
+Y,, = – w.
+
+the above equation
+
+to a iinear one in X we find, on
+
+1, that
+
+f3(’w+?7+x+4a)=@+2a)
+(w+2cr) (q+2a)+r(x +2a)–$y(w+2a)
+e’–6[(z+2a)
+(W+q+za)+ wq+r–ty]+zv–yr=o.
+
++z(l–t),
+(3)
+
+With the aid of these equations the curves t= ccmstant may be drawn in the (r, y) plane
+for various sets of values of z, f, ~, ,and w. It will be seen from the diagrams that there is a
+mwked difference between the cur~es for which g is positive and those for which ~ is zero or
+negative.
+It. has been pointed OULrecently by Prof. E. B, Wilson 8 that in normal flight at a ftiirly
+low angle of incidence the quantity NP is negative, and that cousecluently there is no need
+for a fine adjustment of the values of AT., L,,, NP, and Lp in order to secure both spiral stability
+and stabiIity in the Dutch roll. .4t larger angles of iucidence AL may be zero and even positive,
+and then there is moro need for a fine adjustment.
+On this account most of the diagrams have
+bem drawn for zero and positive values of t, one diagram being deemed sufilcient. to indicate
+It \vilI be noticed that when : is
+the general arrangement of the curves when 5 is negative.
+negative the period p is rather short but the time of d~rnping t can also be made short and so
+By maliing & positive the period can bc moro
+th~ short period is not a great’ disadvantage.
+than doubled, but this is offset by the lengthening of the time of damping.
+It should be noticed that in the diagrams the region of stability is bounded by the curve
+t = m and the line y=?.
+
+If the representative
+
+point lies to the left of the curve t = m, the air-
+
+plane is unstabIe in the Dutch roll; while if the point lies above the line y =~,
+spirally unstabIe.g
+
+the airplane is
+
+The shape of the curves t= constant, is very much the same for the diflereut
+
+-ralues of ~, { and z used in the diagrams, but the position of the line y= ~ varies considerably.
+Am examination of diagrams VIII-XII
+indicates that it should be possible to construct tin
+airplane which, when ff~ing at a large angle of incidence, is spirally stable and hm & period for
+the Dutch roll of about 15 seconds with a fairly short time of damping.
+It has been remarked that in a moderately stabIe airplane the period is not sensiti~e, comparatively large changes in the airplane having small effect on the period and damping.’”
+As
+an illustration of this phenomenon it is of some interest to consider the lines along which both
+Such a line is obtained by choosing a and o so that the two equations (3)
+p and t are constant.
+are the same.
+Writing down the conditions
+
+–f(w+2a)
+(’w+2a)(Tl+2c4 +I_-6
+———.
+‘—--–
+e~–{
+–tl(w+q+2a)
+
+_z(l–i)~6(w+q+2a)
+lp.fl(wy+c)+z~
+
+‘
+
+~Cf. J. C. Hmsaker, DynaiiiieaI Stability of Aeroplams, Smithsonian Miswlkmeous Coileet ions (Washington), Vol. 62, h’o.6, June (1916),pp.
+55-57.
+~Fourth Annual Report of the National Advfsory Committee of Aeronautics. No. 23. W%shfngton (1919).
+~For these terms see Hunsaker (k cit.).
+Kuull
+ScaIe
+Aeroplane Experimenfs,~) The Aeronautical Journal, February, 1919,p. 56.
+10Of. IV. S.parren,
+
+—
+
+L)IAGRAXS
+we have tFo eqmtions
+to detertie
+hand /, ~, w, a, and o be regarded
+uniquely.
+The equation for q is
+
+OF
+
+AIRPLAIVE
+
+ct and o when
+z: w, :, q md
+~ me
+as given, the resulting equations
+
+– (q+2a)(w+2a)r=w
+
+365
+
+STABIIJTY.
+
+given. If
+
+on the other
+mill determine q and z
+
++o[@~(zo+2-a) –g~–~]+~’.
+
+If w + 2a is sraaLl, a comparati-rely small percentage change in o means a comparatively
+large
+percentage change in the -ralue of q. For exampIe if W= O.ll ~=0.6, 5=2, u+-2a= –.05,
+9=.27,
+
+q=
+
+.72,
+
+.z=l.’is2
+
+0=.26,
+
+T=
+
+.97,
+
+z=l.79$
+
+0=.25,
+
+?j’=1.233,
+
+Z=l.777
+
+IrLdiagram VIII with:= 1, the equation of the straight line along which p and t are constant
+is .0SS4Z+ .0241y– .3S43 =o;
+and we ha-re w+2a=
+– .0241, 6= .4953, t= 11.12, p=8.96.
+Ih appears from the diagrams that the greater the curvature of the cur-re t= constant, the
+more rapid is the variation of p as the representati-re point moves along it. If the cur-re is
+concave to the axis of q, p increases as the point mo-res up the curve, while, if the curve is
+convex to the axis of y, p increases as the point moves clown the curve.
+If we wish an airplane to have rq+stanee derivatives for which the period is not semitive,
+a good plan is to bring the representative point as close as possible to the straight line aIong
+Ti%en t is negative this line does not seem to appear on tha
+which p and t are constant.
+diagram.
+A study of diagrams W-II-XII
+reveals the following properties:
+(I} The greater the vaIue of .$the greater seems to be the effect on the damping of a change
+in w.
+t2 ) Au increase in w decreases the time of damping but does not. great~y alter the period.
+(3) An increase in q decreases the time of damping aud increases the period when t= o;
+but, when $=1, 2, or 3, the effect seems to be re-rerse.
+(4) An increase in z seems to widen the gaps between the curves t = constant and to greatly
+increase the period when g = 1 and f =2.
+It. will be noticed that in diagram XIII the numbers on the curves t= constant indicate the
+value of $.
+(~) me
+t=constant.
+
+ctief effect
+
+of a
+
+decrease in ~ seems
+
+to
+
+be a sIight change in curvature
+
+of the cur-res
+
+7
+
+6
+i
+5,
+
+\
+4
+
+—
+\
+5.2
+9 .Tx~v, ,-- -
+
+.!’ \
+
+K
+
+\ fi.ti.n Iu
+
+M /..h<
+
+4
+
+DIAGRA31S
+
+0
+
+{
+
+2
+
+3
+
+OF
+
+AIRPLANE
+
+4
+NOTE: ~=–l;
+
+~~y
+
+STABILITY.
+
+3
+
+6
+
+7
+
+“6’
+
+-2.
+
+*
+
+54ss9--2l-2’4
+
+368
+
+5
+
+4
+
+3
+z
+
+ANl?Uti
+
+REPORT
+
+3“ATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+I?(3R AERONAUTICS.
+
+d
+
+7 —
+
+>“
+@q
+
+6
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+5
+
++
+
+3
+.—
+\
+
+z
+
+—
+
+—
+
+.;829
+29 54
+
+.
+
+_
+
+.—
+—
+
+/
+
+—
+
+—
+
+\
+
+0 ‘
+
+— ——
+—
+
+\
+
+\
+
+—
+
+—
+
+Xl
+
+0
+
+/
+
+c?
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+/0
+
+//
+
+/2
+
+/3
+
+/#.{
+
+APPENDIX
+
+TO REPORT
+
+NO. 80.
+
+ABILITY OF THE PARACHUTEANJ) HELICOPTER.
+Note I.
+The expressions for R’ and Kin terms of z,, z,, r,, y,, y,, y, may be found as follows:
+Writing
+fl(Y) = (Y+YI) (Y+Y2) (Y +Y3) –W%(Y
+.f2(Y) =%(Y+YJ
+
+(Y+%)
+
++YJ
+
+–WI(Y
+
++%(Y+YJ(Y+YJ
+
++%)
+
++G(Y+YJ
+
+– W%(Y
+(Y+%}
+
++%)
+
+,
+
+-LW3)
+
+we find thafi
+f,(y) =Z1(Y+ ‘1) &’$z:pJ,;”@
+
+“’)
+
+J(Y)
+
+-f,(Y),
+
+where
+(xl +2, + x,) ’f,(y)
+The coefficient
+Again writing
+
+=Ac,x,(y
+
+of y on the right-hand
+
++y,) +Bx,l”,(g +y,) + C%(y+
+side is the quantity
+
+y3).
+
+denoted by 11.
+
+~,(y) = (ay + ~)~a(y) – ~
+whore aj b, and K are constants to be determined, w-e may find the -due of K by substituti[~g
+in the last equation a value of y which makes ~’(g) = O. me thus fmd that
+
+H(?J+ y,) = Z+u?n–
+
+h),
+
+H(y + y’) ==
+X,(Am - M)
+
+H(’y+g2) =Z2(L7-ATL),
+
+= X2R
+
+==E2Q
+
+= XII’
+
+H2K= a,z,x,[H2 – QR –RP –PQ].
+Putting ~3(y) = o in the identical relation connecting ~,(y},
+
+.L(y), and f,(y)
+
+we
+
+also hd
+
+that
+
+In this relation tbe positive signs must be taken for the square roots so that K is posit.ivc
+when XI, Xz, and TSaxe positive.
+Note 11.
+In the case of a helicopter rising or falling vertically it may be sufficient to take into account the fin action ancl gyroscopic action of the lifting screw.
+Writing
+Q = O, E= X., F= – iXT, J=iNU, K= Nr+iil’v
+the period equation
+
+becomes
+X(k+u)(i+y
+
++iz)+x(hw+i)=o
+
+whero
+,~= g’ATti
+—7
+A
+
+370
+
+Alr
+y=g~7
+
+~p
+.z=q~l
+
+*
+
+DIAGRAMS
+
+Routh’s
+
+conditions
+
+OF
+
+AIRPLAllZE
+
+indicate that for stability
+
+T=&pP-H,#.-
+
+STABLLITY.
+
+371
+
+the quantities
+
+(@)&]
+
+so thak the conditions K> o arid T> o ~re equidenb.
+The effect of gyroscopic action on stabdity has been estimated for the case of an airplane
+iri rectilinear flight and found to be smaII.11 The value adopted for Np w-as XP – rQ where 1
+is the moment of inertia of the propeller abouti the axis of g and Q its angukr wlocitty about
+this axis.
+l~oo
+125.8 radians per second, this gave a -ralue of
+With 1=150 pounds-~fi
+and Q=2FX==
+In the case of the helicopter, Q is
+A’P of &bout l~m for an airplane of mass m = 1,300 pounds.
+smaIIer than for the airplane propeller but 1 is -rery much greater if the diameter of the lifti~m
+screw is large.
+It seems likeIy, then, that the gyroscopic effect on stability fl
+be greater
+than in the case of the airplane.
+H. Thompson, British Advisory Committee’s Report. 19C?-13,p. 166. +
+11 . BtiNtOW,
+L
+B.M?tfl
+Joins,
+
+and
+
+ii.
+
+W.
+
+.
+

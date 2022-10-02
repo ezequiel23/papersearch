@@ -1,0 +1,723 @@
+‘--lt+55
+. . .. ....
+
+NATIONAL ADJ71!X)RY
+GM3MMITTEE
+FOR AERONAUTICS*
+. ... .
+
+.
+
+., -----
+
+-.,
+
+., -,, .,..,..
+
+. ..
+
+. . ... . .... .. . .
+
+. .. . .
+
+\
+
+THE DYNAMOMETER HUB AND THE FLYWHEEL OF THE ENGINE.
+—.
+—
+——
+By
+E. Everling.
+
+Translated from
+“Zeitschri.f f-h E’lugtechnik
+t
+und Motor
+luftschif fahrt,”
+Voi. X, Nos.17/18.
+
+June, 1921.
+
+I
+,.
+
+. ..
+
+..
+
+..G
+.,>
+
+I
+
+m---t,,,,,,
+
+l,,
+
+!!,
+
+l,,
+
+,,
+
+,
+
+,
+
+,,
+
+,,,
+
+,,
+
+,.
+
+,,
+
+,
+
+, ., ,
+
+-
+
+,
+
+am.,
+----..,_-_.__-,_.
+.._.
+I
+
+THE DYNAMOMETER HUB AND THE FLYWHEEL OF THE ENGINEJ*
+.,
+
+., ...,,,,,,,,
+,.
+
+By
+-’E.
+.ET,eillng;..
+
+(Communicated: the Gemsn
+by
+
+Aeronauti=l
+
+Laboratory)**
+
+At the Aero-Technical.
+Conference of the WVissenschaf3tliche
+Gesellschaft fk
+
+Luftfahrt,l’
+held on April 23, 1919, one of the
+
+most important of the objections brought forward by Herr SEPPELER*”%ith
+
+.
+
+regard to the dynamometer hub****was that “the engine
+
+must continue to retain its flywhee;l.n
+As th2s opinion delayed the development of the dynamometer
+hub at that time, and it might everinow give rise.to erroneous
+views concerning its merit, we shall make a brie~ investigation
+of the extent to which the dynamometer affects the well-known
+flywheel action of the propeller. This point will be discussed.
+later on, azndwill be applied to coupling, toothed gear> etc.
+W. HOFF*****hasproved that the want of symmetry of a 4cylinder 100 HP angine is reduced from 0.517 to 1/180 kg. m/sec.~
+of the inertia moment through the weight of the propeller. The
+*
+From “Zeitschrift ffirFlugtechnik und Motorluftschiffahrt,’f
+Vol. X, Nos.17/18.
+**
+Obtained by the courtesy of Prof. K. KUTZBACH.
+*** See “Zeitschrift fb Flugteohnik und M@orluftschiffahrt, f”
+Nos. 9/10, p.112.
+**** The DYNAMOMETER of the D.V.L. is written by W. STIEBER, in
+llTe&nische Berichte,m Vol. 111, p.221. Compare measurements of same in “T.B.” VO1. I, PS54, by E“ Ev~LTNG=
+*****comparev?.HOIW> llJ~rbu~h der Deu~schen Verwchs~st&lti f~r
+Luftfahrt,“ Vol. I, 1912-13, p.224.
+
+-2unequalized dsmping effect of the power obtained enters into the
+calculation as in the case of every power machine - in this case
+.—,
+,.
+.
+‘%iththe square
+it is the resistance of the air, which increases”
+.~!,
+
+-,.
+
+...
+
+,,,
+
+,.
+
+.,,,
+
+.,.
+
+...
+
+,.,
+
+.
+
+of the number of revolwhions and brakes the acceleration of the
+screw, but which augments the diminution of velocity.
+This RESiSf’ANGXl l?
+O THE AIR, which is not generally taken
+into account, is yet of actual importante when a mowable organ,
+such as the dynamornete is inserted between the engine and the
+r,
+propeller, ad+he propelier then oscillates freely between a capsule tappet-xod and a collar, with a clearance of about 5°.
+In place of the usual rigid joint between the engine and the pTopeller, the CLOSED CIRCUIT is here brought about by the resistance of the air.
+
+The following article will show that THIS
+
+COUPLING SUFFICES TO ENSURE THE FLYWHEEL ACTION OF THE ENGINE.
+We must then find out to what extent the engine may be retarded
+until the propeller is lifted in consequence of its inertia to
+the resistance- tliehammer of the rotary moment capsule, so
+of
+that it oscillates freely or strikes against the stop. The retarding zotaxy moment must then be at least eqyivalenli the
+to
+rotary moment absorbed ibythe propellex:
+e.
+
+d2 v
+
+x=
+
+~ old.)
+-M=‘x
+=
+
+MO*;22
+Q’
+
+. . . ...(1)
+
+in which
+0 = the moment of inertia (in kg. m/sec.~)
+
+~
+
+is the
+
+velocity
+
+i
+
+‘1)> M the rotary moment (kgm) absorbed by the propelle~,
+.,, ,, . M. the value of which for Q = UO .
+.
+~y
+
+integrating (1), we get the following equation for the de-
+
+crease of the an~~larvelocity of the fred!. running propeller
+y
+(initial velocity @o )
+U)n
+{1)
+
+=
+
+.,
+
+.
+
+-—-
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+(2)
+
+.
+
+*t
+
+That is, for the proportional (iecreaseof angular velocity due
+to the braking action:
+= ——
+
+1
+
+e W*
+—.
+Mot
+
+—.
+
+*,,
+
+(3)
+
+.,.
+
++-1
+
+If we replace the an=wlar velocity by the ordinary number
+of rotatiuns per minute
+valuej the
+
+n
+
+or
+
+‘o
+is as follows:
+
+l-~
+
+no
+
+and insert HOFF’S numerical
+
+..———_J
+
+6“
+
+grin
++’1
+Mo’t
+
+=
+
+1
+
+—,n
+30
+especially
+
+0.517 no,$ ~
+—.
+45.!3t
+....
+.
+
+.(4)
+
++’+1
+
+840t.
+
+Zformal
+number of revolutions no =
+
+.—
+----
+
+.
+
+r.p,
+m.
+
+-4. -—
+A
+
+n
+
+1
+q
+
+1200 = 10
+~t+l
+
+.*,*.
+
+.
+
+.
+
+. , (5)
+
+This value therefore represents the highest possible variation
+in the number of revolutions during the time
+the propellez becams
+
+t,
+
+above which
+
+free; that is, the flywheel effect ceases.
+
+The time between the sparking of two ~ylinders may therefore be:
+ii=— 60
+3200*2 ‘ib
+The variationsin the number of rotations amount to a maximum
+
+of 21 r.p.rn.in an entire second, and to a maximum of 500 r.p.m.
+in throttling down.
+On the other hand, the minimum time that must be taken for
+a determined reduction of the number of revolutions is as fol-
+
+lows:
+~
+
+‘=%(+”-’) =%($-)=
+=
+[6)
+
+The results are shown in the followingtable:
+For the reduction of the number of revolutions to
+n=
+
+1100
+
+1000
+
+900
+
+800
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100 r=p.xn.
+
+the minimum requisite
+t = O.l~
+
+0.29
+
+15.7s.
+
+0.48
+
+0.71
+
+1.02
+
+1.43
+
+2.QO
+
+2.86
+
+4.29
+
+7.15
+
+maintainedin ordinarymork~ng when one of the cylindersdoes
+not work and when the
+
+eilgi.ne
+
+~s
+
+tinrottled om; in other woxds~
+d
+
+if the retardation of the rotary parts of the engine and of the
+dynamometer is higher then as above calculated. If equatiaa (1)
+be also applied to this crankshaft system with tinesmallest ic-
+
+ertia moment
+f
+
+ree*so 1 ong
+
+,
+as.
+
+the propeller does not, in consequence,
+beccme
+
+the
+
+rot
+
+my moment i%
+x
+
+of the engine fulfills
+
+4..**.
+
+.. *,.
+
+the retardation (which only occurs with negative~)
+
+.(7)
+
+of the parts
+
+of the engine being actually given
+“n
+
+According to HOFF, however, e~
+
+is 0.020 with.outthe dyna-
+
+mometer, with the dynamcrneter,
+unfavorablycalculated,0.020
+@m/see.
+z, so that thereforethe resultmust be that:“
+3.
+20*”-”””’**””-
+
+M12M!I.
+-=-—
+q
+
+(7a)
+
+that is, a CHANCE OF PRESSURX up to - 1/20 of the ordinary rot-45.6 = - 2.3 k~fl,
+ary moment and in the present instate up to .=
+
+may be assumed. This does not even GCCUr in the case of the
+normal 4-cylinder engine in ORDINARY WORKING,** far less in the
+
+* We shal1 not take into considerate the period.
+ion
+during which
+the propellerbecomes entirely free.
+**CompareO. 171NKLER; “Entwerfen von leichten Benainmotoren,
+S
+insbesondere von Luftfahrzeugmot
+oren,l~Berlin W.62, 1914, p.82
+etc. (Design of light gasoline engines, especially of Airplane Engines.}
+
+—.1.
+-
+
+-——
+
+-— .——..
+
+——— ——
+
+______
+
+. . _.
+
+____
+
+._ .,_____
+
+___ ___ . . . .
+
+.. ..
+
+____
+
+-6-’
+6- and 8-cylinderengines, in which the ratio of the masses is
+more favorablylocated.
+If-one of the cylindersshould cease working,there is a
+9
+strong variationof pressure in the 4-cylindezengine, less in
+the 6- and 8-cylinder,snd’none whatevex in the 12-cylinderengine. In the first instance,
+ant
+
+- which is certainly less import-
+
+- there is no lifting in any case; in the modern 6- and 8-
+
+cylinderengines? on the other hand, it doedpot generallyocour.
+This has also been proved by experience.
+
+In throttlingdown stxongly,however, sud high suctional
+resistancemay ocour in all engines that lifting is unavoidable.
+In general, condition (7) is maintained. EXPERIMENTS*made with
+the dynamometerhub also show that it does not usualiy derange
+the smooth running of the engine. It is only when there is rapid throt~lingthat it flaps and in gliciingilight with the engine stoppe,d, hen the propeller comes into resonencewith the
+w
+number of revolutionsof the engine, With an ordinarynumber
+of revolutias, however,there is little risk of the rapM’vibration of the propellerand crankshaftsystem and of the consequent criticalnumber of-revolutions, the followingcondiif
+tions be observed:
+
+The dynamometeris not only a SHORT CIRCUITDRIVING COUPLING, but also an ELAS!HG COUPLING.
+
+It will therefore have more
+
+or less effect on the vibration according to the nature of the
+* Compare O. ENOCH~S article in No. 19 of the “Zeitischrift
+ffir
+Flugtechnik und Motorluflischiffahrt.
+ii
+
+—
+
+.
+
+.—
+
+--.
+
+—--=
+
+..-
+
+I
+.-.
+
+=.
+
+. _—
+..__
+
+______
+
+--7-
+
+oil, of the tubular piping, etc.
+
+Shocks might actually, in one
+
+case,* be avoided by the installation of additional piping. ~~~
+DANGER OF RESONANGIZ
+mast therefore always be taken into consid-
+
+eration at the time of installation, as also in the case of engines constructed without a dynamometer.
+
+suMmlw Every,measu~ing
+:
+device influences,by its own presence, the process that Zt is intendedto measure. The function
+of the art.of measuring is that of reducing such effect as far as
+
+possible.
+
+.
+
+This condition ha~een fulfilled by the dynamometer, at all
+,
+events in ordinazy workirig~
+because it leans on ~he needle of tine
+capsule for rotary moment at the cormmeneement retardation wnof
+t
+
+il (in one case)
+dn=
+
+at
+
+%’30
+-T*y’-
+
+840 r.p.
+m./sec.
+
+-
+
+(la)
+
+thus producing the flywheel effect of the ordinary fixed propeller.
+
+In case of change of pressure, the negative rotary moments
+may (in one instance) increase up to 1/20 of’the rotary moment
+of the prapeller before the propeller becomes free.
+
+In the case
+
+cf ordina-ry
+engines, this generallyallows for the cessationof
+
+one cyltnderwithout any lifting On the part of the propeller,
+and without deprivingthe engine of its flywheel.
+
+Translated by the Paris Office, N.A.C.A.
+
+—
+
+. . .
+
+—.
+
+.,.-.
+
+..-—.. — ---- ,=--—.
+—-—-.——
+-——.-, ----------..
+
+———
+
+l’——
+
+—.—
+
+----
+
+——.
+
+.
+
+.
+
+I
+
+...
+
+.
+..
+
+i
+
+.. ,.. ,
+..
+.. . .
+
+.
+
+i
+
+.
+..<
+.
+
+.-.
+.,.
+
+. .
+. .
+
+..
+.. . . .
+
+,
+. . .
+,
+.
+
+.
+
+..
+
+,...
+
+*
+
+,.
+.’
+
+..
+
+.
+
+.
+
+.
+

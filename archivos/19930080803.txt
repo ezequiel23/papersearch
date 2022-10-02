@@ -1,0 +1,611 @@
+.
+.>’
+
+.
+
+!EECmmw
+
+m’i?Es*
+
+NATION~ADW30RY.COMMIT
+TEIl
+
+FOR AERONAUTICS.
+
+. ..-
+
+1
+
+.
+
+.
+
+No. ‘?.
+
+..
+,
+
+NOTESON TEE DESIGN OF SUPERCHARGED .
+m
+
+ImlENSfoN?I!D
+A~
+
+mmR-
+
+ENGINES.
+
+.
+
+by
+
+,,
+
+Translated from
+‘lechnische
+Berichtf3Vol. 111 - Sm2. 5.
+.
+
+George da Bothezat,
+Aerc&namical Zqetit, B.A.C A.
+
+.
+
+J@y, 1920.
+
+*
+
+*
+
+— ———
+
+—
+
+!
+
+Wl!ESON TRE 31ESIGN F S’UEERCE&MED
+O
+AND WERDMIENSIONED Amc3mT MOTORS*
+3y Schwager
+Translated from Taohn.ische
+*richte %1.
+
+III - section 5.
+
+The purely supercharged nmtor must M
+
+considered as
+
+overloaded, beoause the increase of power with altitude reaohed
+by superohargiag 2s limited, as the following
+
+exsmple shows.
+
+A Oectain motor gives for a normal cmipsessim ratie
+En. 5 the mean pressure (6
+
+)*’ = 7.5 atmospheres; the highest
+
+.
+
+compression ratio allowed by the structural resistance is ~u = 7,
+q
+
+the mean pressura will inorease in proportiozato the improvement
+of the thermal efficienoy ~
+
+. lb k
+
+= 1.35, we wiU
+
+b~e
+
+,.
+
+dimbi~,
+
+-n
+
+thS pOWSr dro~S very =aF&
+
+as tha dSn-
+
+q
+
+sity when the carburetor is assumed perfectly adJusted.
+
+SOW
+
+~-l
+
+W
+
+~tor
+
+~
+
+*~t*~ed
+
+*O
+
+this pressure maintained by progressive
+
+If at
+
+(PP = 7-~ @- ~
+)n
+thrott18 m~u,
+
+t~
+
+mean effective
+pressure will fall starting from artair density
+. Pi=)n
+~
+0.872, that is, nearly 3-3 ~70
+fPzu
+t%tude, for assuned standard air p@as=re ti t@jMrat=e -
+
+ratio of
+
+~
+
+81-
+
+to this &t itude, the a,asunption
+that the power drops propor-
+
+tionally with density, is not far from reality; even @th
+
+.
+
+.
+
+.2’-
+
+b
+
+defectim
+
+carburetion the inorsase in WOMXX
+
+mmPtio~
+
+ha
+
+no influenoe on the power~ which can readily be seen from the
+fact that good motors do not drop their revolutions at this a3+ itude
+.
+
+By throttling, also,
+compression will &t
+
+lb
+
+be influenced, but the heat state of the
+
+cyliznler
+will be so redti
+.
+
+temperature a% the end d
+
+the
+
+that
+
+sslf-ignition will xwt take
+
+plaoe. The adjustment must thus be made in the abave-stated way.
+On the other side, many flight tests with supercharged
+
+.
+
+motors
+
+have shown that the osrburetbr wotid not be Ml
+
+y op-
+
+ened at the above calculated altStude, but had to be partk13y
+cbsed until
+
+two or three kiluneters altitnde was reao’hed,so . .
+
+*hat the value of ~eroharging
+
+-e
+
+decreased. The cause has
+
+bes= t’antdta be that the carburetors on these motors were ad~usted so ecmomictiy
+
+~hat the mixture was too lean at t-
+
+open
+
+thrattle positions, SQ that the engines last power or even steppeL
+,.
+
+On Fig. 1 these relations are represented, (pomr being ex.
+k
+
+pressedrelatively, as proportion).
+Char
+
+.Frunthi8 Fig. 1 it is
+
+. ‘
+
+that only a small fraotion of the theoretic~ gain by sq-
+
+t3rOhsXgi~ is r8~iZ8d for the above mentioned motor%.
+superoharged motors, **
+
+admit fuU. throttle
+
+only
+
+~n
+
+from three
+
+kiiometess altitade, give even bette= cUmb than ordtnary motors.
+it is because of the fact that even the smallest inorease in
+power has an influanoa on the climbing ability of the airplane.
+The entire gain from supero4srging appears only in
+q
+
+?
+
+ColmeOticmwith wing
+
+a larger
+
+sized
+
+engiti,
+
+be cause the ovar-
+
+sized motor can and must be much more throttled down than the
+
+small sized swrdhar@d
+
+motors.
+
+A normal aircraft motor with a piston displacement vol= 352
+
+une equal to(~ ]n
+
+gives 175 ELF. at 1400 R.P.M.,f~)
+
+with compression ratio d=
+
+.5
+
+~
+
+mean effective pressure (~e)n
+
+= ?.5 atmospheres. If from this motor we vxmld Mke
+an everdhensionsd or oversized motor whim
+oonstsnt *
+
+oan keep its power
+
+to three kilometers aZtitude, we “willbe obliged,
+
+bg the assumption tbt
+
+the drop of power is proportional to
+
+mo*or inversely proportional to tk
+
+omters
+
+to develop
+
+de~ity
+
+ratio at three kil-
+
+alt%tude.
+
+Now for this inoreased piston displacement volume to
+get the same ground level power as for the normal motor, we
+must throttle down the mean piessure q
+S.45 at.
+
+te {~~~;= (~ In” 8/z
+
+If now tb%s motor is supercharged up to Fu
+
+= 7, its
+
+mean preeeure is inore8sed fos full throttIe in the ratio of
+the thermal efficte~ies, that is again 8.6 at.
+
+A* grolnxi
+
+level and in climbing the mean pressure must be aniformly ~taim?d at 5.45 at., bg throttling.
+mean pzassura drops proportiodly
+
+If we aga%n assume that the
+with density, then the en-
+
+gine power in this case oan he kept constant up to 4.5 kilo-
+
+meters alt%tude, For the normal mean pressure [PP)D
+
+~ 5.45 at.
+
+ill
+this case* and with an osiginal mean pressure of 8.6 at. the
+densit~ ratio is
+
+5.45
+%x
+
+down mean pres=e
+
+=
+
+0.534
+
+ZS caloub$ed from the normal
+
+q
+
+“4-
+
+q
+
+(Q),
+!We power diagram
+
+this supercharged ami at tW
+
+of
+
+ttie overdimensianed motor is given in rig. 2.
+asstrned.
+that the power
+
+same
+
+H has been
+
+drops esactly proportionally to density,
+
+because the oar’buretor to three Icilome%ers
+up
+altittde
+works normally. This is he
+
+still
+
+to the fact that the densityratlo
+
+.
+.
+.
+
+is Wnstantly kept eqlal to )/)
+0.727 in front of the car.3 “o-=
+
+buretorA
+
+h
+
+the
+
+carburetor float chamber abOW
+
+the gasoline.
+
+This is done by throttling at the carburetor entrance, and the
+gasoline con8w@t ion, up to six kilometers altitude, inoreases
+only very.slightly. The me dhanioal efficienoy is only slightly
+affeoted beoause the rfiechanioalosses of the motor remain
+l
+neerZy the sme when the motor
+
+is superchargeti
+and
+
+overMmen-
+
+sioned.
+
+If &
+
+Ss the mixtureratie of gasolineto air at three
+
+kilometers altitude,
+for example,about 1 to 1?, and ~
+g-o~i~
+
+Mixtwe
+
+ti~
+
+=
+
+m~
+
+Tg
+~
+
+the
+
+ratio at six kilometers altitude, we then have
+
+.Q535
+
+A&E
+
+As the theoretical mixture ratio *S
+six kilometers altitude
+
+./*-.
+0(75
+
+only
+
+‘
+
+L
+
+we thus have at
+14.9
+2.5 per cent. insufficienoy of air
+
+whioh does zmt causeany sensible drop of the thermalefficiency.
+A simple soti
+
+of throttling and adjustment for a sup-
+
+ercharged and overdimeusiomd mo%or %s represented on Fig. 3.
+The throttle is the ordinarypilotts Mmottle, the tiwottks .
+&
+
+k ad G are US8d for tha altitwde adjushnent, the throttle ~
+~egulates the pressure of &
+
+supply.tocarburetor and the pres,
+
+q
+
+-5suce abcm the gasoline in the fIoat chamber, and *he %hrottle Q
+
+centrolsthe altitude gas. ‘lb who~e %s so arrangadthatb is
+a&justedfor growtd Mzel by atd of a stop and a spr5w, and s
+only put into .m%tioza
+when the altitude
+
+is reachedup to which
+
+the motor has to give oonstant -powerby the fact of overdlmenSitxling The throttle G cgntrols the superchal@ng action.
+.
+The throttles ~ and Q are aoted upon by a spetial handle @
+sttok, -
+
+are for that -S=
+
+connected. The pos%tton of
+
+stick or control handle will be adjusted by the hand according
+to the readings of the alti=ter.
+The calculation of the dimensions an overdtiensioned
+of
+
+ani superoharged motor is especially simple: Let as consider
+a 6-cylinder
+motor of 260 E.P. with a cylirder dianeter of lC# mm.
+and stroke of 180 ran.,1430 R.P.M$ Wch
+
+we wish te rehild
+
+a supercharged and overdimeasioned motor
+
+that
+
+Sts power oonetant up
+lect *
+
+-e
+
+have
+
+to keep
+
+kilometers eltitude. We will se-
+
+three
+
+compression ratie, on the ground of empirical
+data &~
+
+? in Comparison to En
+‘*
+
+to
+
+will
+
+as
+
+(~j~=
+
+= 5.
+
+5
+
+,:
+
+mean pressureof the nonsal
+
+down mez effeotive
+pres7-65 at. The throttled
+
+of the supercharged ad
+
+owerdimensioned motor is, for the
+
+merdimensloning alone, equal to
+
+and for the simultaneous
+super
+charging
+
+ovemiimensicmad
+mater.
+The piston displacement volme
+
+of this motcmmust thu$
+
+be eqlal to
+
+(q ~= (W2
+0-832
+
+=~g Jz
+.
+
+that is, increased
+alxxat 0 per cent.,_are&
+2
+
+with the normal
+
+motor.
+T& methodof calculation indioated
+for practioe.
+
+sufficient
+
+above is fully
+
+In relaity the gain in powez by eqp-
+
+ercharging is a little greater,beo&usethe combustion
+spead
+
+is increased.
+Translatedby Georgede Botheza%,
+Aerodynamical qwt , ?!T.A.C.A.
+E
+
+,. 9
+
+\
+
+q
+
+F
+
+-—
+
+.—
+

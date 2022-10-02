@@ -1,0 +1,2467 @@
+- ~.
+,- .. .. .
+.: :.4,
++--:
+
+.. . “.. .
+“;;:.
+
+!A
+
+.-
+
+“.
+
+~:.=~.~
+
+~ REPORT No. 60
+,
+,
+
+GENERAL DISCUSSION
+OF TESTMETHODS FOR RADIATORS
+~
+
+.!
+
+,.
+.
+.-
+
+V
+
+“ADVTSORYCOMMITTEE
+FOR AERONAUTICS
+
+NATIONAL
+
+,,-
+
+~
+
+.
+
+,
+
+.-.
+
+. .
+..
+.
+
+.
+.,
+
+PREPRINT FROM FIFTH ANNUALREPORT
+.
+
+,.
+
+.“
+
+Lalxm3~ory
+WASiIKGTOX
+GOVERNMENT PELNZNG OFFICE
+1919
+
+,.
+
+.
+.
+
+lliBiME!llll!llll
+-.!. ‘
+:1176014165451
+
+REPORT No. 60
+
+GENERAL DISCUSSION.
+OF TESTMETHODS FOR RADIATORS
+.
+
+v
+.
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+.
+
+PREPRINT FROM FW1’H ANNUALREPORT
+
+—
+
+WASHINGTON
+QOVEBNMENT PRINTING OFFICE
+1919
+
+.,
+
+—
+
+.
+
+.
+
+.
+
+REPORT No.60
+
+.
+
+GENERAL DISCUSSION OF TEST METHODS
+FOR RADIATORS
+BY
+
+H. C. DICKINSON, W. S. JAMES, AND W. B. BROWN
+
+3
+
+,
+
+. . ..-
+
+.
+
+.
+
+REPORT No. 60.
+G13N?3RALDISCUSSION 0)? TI!E3T METHODS FOR RADIATORS.
+By H. O.DICKINSOI$ S. JAMES, TV. .BEOWN.
+W.
+m
+B
+
+INTRODUCTION.
+
+.
+
+It has been shown in the analysis of the airplane radiator problem that it is necessary to
+make measurements on—
+(1) The core oharactmistics which ddne its nature.
+1
+(2) Heat diApated, as dependent on—
+(a) Nature of core.
+(b) Mass flow of air through the core.
+(c) Density of the air.
+(d) Water flow through the core;
+(e) Temperat~ diifermoe betmeen the air and water.
+“
+(3) Power needed to lift the radiator and overcome its head resistance, as dependent
+oIl—
+(a) Nature of core.
+(b) Air speed in the open.
+(c) Air density.
+(4) Mass flow of air through the core, as dependent on—
+(a) Nature of the core.
+(7)) Air speed in the open.
+(5) Power needed to circulate water through the core, as dependeut on—
+(a) Nature of the core.
+(b) Rate of water flow.
+Point (5) has been covered by Report No. 63, Part II, and is entirely distinct from the
+others. The following paragraphs describe (a) the apparatus, @) the method of taking
+obsmvat.ions, (c) the method of computing the results, for the first four.
+Test Specbnens.
+The specicmns tested for head resistance were plain SCICtiOM mre ~thout wat~ boxes or
+of
+other attachments. They varisd in size from approximately 6 inches square to approximatdy
+12 inches by 24 inches and 16 inchee square.
+Those tested for rate of heat dissipation were uniform in size and fittings. The cores were
+8 inches square, with water boxes 1 inch deep, as shown in Fig. 1. The entrance and exit water
+pipes were fitted onto brass tubing 11 inches deep and 1+ inches in diameter, which were inserted into each water box. Just inside the water box was a baffle of brass to equalize the
+water flow through the oore.
+(1) CORE CHARACTERISTICS.
+
+.
+
+The core charcteristica detmmined were:
+(1) Dimensions of the water tubes, length (parallel to the direction of water flow), depth
+(parallel to the direction of air flow), thickness (perpendicular to previous two), hydraulic radius
+(ratio of area of a section perpendicular h the direction of water flow to its perimeter).
+(2) Dimensions of air tubes, depth (same direction as depth above), and hydraulic radius.
+5
+
+q
+
+6
+
+ANNUAL
+
+(3)
+(4)
+(5)
+(6)
+(7)
+
+REPORT
+
+NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR AERONAWIICS.
+
+Per cent fm mea of air passages.
+Extent and distribution of the cooling surf&.
+Weight of the core empty and filIed with water.
+Nature and thickness of the.metal.
+Shape of the air and water passagm.
+DIMENSIONS
+
+OF THE WATER
+
+TUBES.
+
+The apparatus used to measure the m
+secfiom.of the water tubes is shown in figure 2.
+A radiator specimen, 1?, with water tubes i-i, wss placed upright On a support. Watir fiODIa.
+graduated burette 13was admitted into the radiator @i[ the vmter level was a little way above
+the entrance to the water tubes. Suppose this level was h,. This and the water level in the
+burette 13were read. The cock Owas opened and watcu admitted to the radiator until another
+level h was reached, when readings of the gauge and b~ette were taken again. W.@en, rom 6 to
+f
+10 diilercmttevels had been observed and a level & near the top of the specimen reached, the
+l
+btuette was moved to position 1 and readings taken while emptying the radiator.
+The burette B“.tias calibrated by weighing its water content at ~~t
+leve~. The fie
+dividing engine of ijhe Division of W6ights pnd M&;ures was used to calibrate the gauge.
+This was read (while taking observations) to. 0.01 cm.: and the yolwne to 1 cc.
+Volumes in cc. were plotted against gauge levels -in cmq Wd the points found to lie on a
+.m
+straight line. If the slope of this line is denoted by m, the area of the water tubes by a, and the
+area of the gauge by g, then since all the wa%r leaving the burette goes into the radiator and
+gauge and raises th~ leyel of each by t~e same amount,
+
+.
+
+‘
+
+....
+-.
+:.
+
+?n=(z+g
+
+(1)
+
+The constant g was determined previously by using in the gauge known volumes of water.
+Two tests were made on each specimen. If theresulting values of a diflxed more than 3 per
+cent, other tests were made. The number of water tubes was counted. The depth of the tubes
+was measured with a rule and calipers. When the water tub~ wem not vertical, e. g., in the
+hexagonal cell type+ the area above (which-is, of co_wp, the horizontal area) was projected
+onto a plane normal to the direction of @e water flow. This projected area divided by the
+number of tubes gave the area of one tube. A further division by the depth gave the thickness.
+Twice the sum of the thickness and depth is the perimeter, and this divided into area gave the
+hydraulic radius. The water-tube length in inches of a foot square section is 12/F, if F is the
+above projection- factor.
+a was expressed in square feet per foot. of core width, + thgt the water wntentmf the cmg
+was 62.4 a, 62.4 being the density of water in pounds per cubic foot.
+DIMENSIONS
+
+OF THE AIR TUBES.
+
+The method used in finding the cross sectional area of the air tubes was similar to the one
+just described. The specimen was clamped face dowumto the top of a shalIow tank 7 inches
+square and 2 inches deep. The rim of the tank was 1 inch broad and was faced with a strip
+of soft rubber, so that the edge of the specimen was aeah?d water-tight. The tank contained
+two openings to which rubber tubes could be attached, one leading to the burette and the other
+to the gauge as before.
+The observations and .computationa were exactly the same as in the case of the water tubes.
+Micrometer measurements on the Wide of the air tubee and a direct count of their numbqr
+determined the perimeter of the air tubes, and when combined with the area above, the hydraulic
+
+.
+
+—
+
+GENERAL
+
+“
+DISCUSSION
+
+OF TEST METHODS
+
+7
+
+FOR EADIATOBS.
+
+–+..-+
+
+‘.,,-
+
+~
+
+El-8
+
+L
+
+%ffle .&e
+
+/7.4D/An2!
+zrJ7-
+
+.,
+
+8dfleP/ate
+
+I
+
+wtrw
+
+—H-II
+
+Egure
+
+-j
+
+I
+
+Resisla;c-e7herm
+
+Hid
+
+Jv?Ec/27nv
+1
+
+‘
+
+..
+
+~+\F
+
+CoolinyRad
+.
+Pifof5t&L
+
+/!!vEtsT/GAm9fv
+
+/
+Grl”d
+
+INCL OJED
+
+oznefer
+
+WY/W
+figure ~
+
+I
+. &zYcRinq
+
+\. /
+
+Air Therm;coup/e&
+k uide Vanes
+
+TUNNEL
+..
+.
+.
+
+.. . . .
+. ... .-
+
+—
+
+cu/e A CedAn eferu
+
+.
+#3”vof
+
+/M2f7vZZ
+
+WTER
+
+F/guns
+
+1
+
+GAGE
+
+4
+
+a
+
+Q
+7Aem70mete/ “
+
+—
+7-
+
+derMuin
+
+y-puss
+
+[
+
+O&e
+7- nk
+Heater
+
+>%o/ve
+g
+
+#udicfior
+
+45!!9/--
+
+APF??nw-ull
+TF7’z
+
+0/?
+WATER
+f
+
+WATER
+
+~Y3ZE../N
+Figure
+
+Figure
+
+Z
+
+VACUUM
+5
+
+iWWWE&
+
+:,
+
+s
+
+.
+GENERAL
+
+DISCUSSION
+
+OF TRST .M32THODS FOR IMOLATORS. “
+
+9
+
+radius also. These observations gave an independent value of the air-tube mea which agreed
+well with the results of the above method.
+The air-tube depth (identical with the core depth) was measured with a rule and calipers.
+FREE AREA
+
+OF THE Am
+
+PASSAGES.
+
+Since the specimens were seldom exactly 8 inches square, careful measurements of the true
+frontal area were made and divided into the air-tube area to give the per cent of free area.
+EXTEYT
+
+AND
+
+DISTRIB~TIOX
+
+OF T’EE COOLING
+
+-.
+
+S’L’IWACE.
+
+When the air tubes had a simple shape, circular, hexagonal, rectangular, etc., so that the
+relation between the area and the perimeter was known, the air-tube measurements above
+sufllced to determine the cooling surface, since this is the product of the perimeter of a tube by
+the number of tubes by the core depth. (Note: A slight correction had to be made sometimes
+on account of the enlargenumt at the edges.) Inspection of the radiator construction showed
+what portion of the surface was direct, i. e., formed part of a -water tube or water box wall,
+and what indirect, i. e., received heat from the water only by conduction along a metal fin of
+some sort. (E. g., in a Harrison htmagonal cell type, two sides of each air cell formed part
+of a water tube. Hence one-third of this part of the core was rated as direct surface and
+two-thirds as indirect.) The edges viere all rated indirect.
+With the irregular shapes, many different methods of solution were used, depending on
+the nature of the irregulmity. Every eflort was made to determine these values to 2 per cat,
+but in a few cases the values could not. be fixed with certainty to better thrm 10 per cent. TWO
+observers worked independently and compared their results, so that large errors were not apt
+to escape detection.
+\\’EIGHT il’THE CORE.
+O
+
+....=——— .
+.—
+
+q
+
+The weight of the core empty was f ound by weighing it With the water boxes removed on
+w balance. The water content added to this gave the weight of the core filled.
+XATURE
+
+.iA~ THICKNESS
+
+—
+
+OF THE METAL.
+
+All the specimens testecl were made of copper or brass, as determined b3-inspection. The
+metal thickness was measured with a stage micrometer reading to 0.005 mm. The readings
+howeyer, were not ~ery uniform, so the -i-dues ohttihled are not :Iccurflte to th~ltCIegree,e. g.,
+two readiugs would give 0.00S and 0.010 mm.
+J
+SHAPE OF THE AIR AXD t\-.iTER
+P-LsS~GES.
+This was determined by inspection and some rough measurements and sketched on the
+curve sheets.
+(2) HEAT lXSSIP.4TED.
+Two” distinct sets of memurc+nents were made on the heat dissipated and two dflerent
+sets of tippmatus used. Both made use of 8-inch squtwe wind tunneIs and were made so that
+the same specimen could be tested in both tunnels without ony dteratious. One tunnel was
+inclosed in a tarik -which couid be partially eshmsted and used hot water to supply he~t to
+the radititor. The other was an open tunnel in the room and suppliecl heat by meims of steam.
+.4PPAttATt’S
+1X THE
+
+IXCLCMED
+
+T~YNKL.
+
+.1 diagrammatic sketch of this tunnel is shown in fi=gure
+3. Air flow was produced by the
+suction of a 15-inch Sirocco fm driven by a belt frotn a 220-~olt, clireckmrrent shunt motor,
+rated at 7* horsepower; 110--rolt-current could also be used. A further adjustment afforded
+by rheostats iq both field and armature enabled any speec[ through the tunnel between 15 and
+60 miles per hour to be obtained. Both the ftin and the tunnel proper were inclosed in a steel
+144573-19-2
+
+—.
+
+.
+
+10
+
+q
+
+~~u~”
+
+REPORT NATIONAL ADVISORY COM.311TTFIEFOR AERONAUTICS.
+
+tank 5 feet long and 3 feet in diameter, This was suilickntly air tight to allow the maintenance
+within it of a pressure of 30 m 40 cm. of Hg.
+At the tunnel entrance a honeycomb of sbeeta.netal celIs, 1 inch square and 3 inches deep,
+served to break up vortices and straighten the air flow. Following this in order came:
+(1) A Pitot grid to measure ‘tie air speed.
+(2) A resktance thermometer to measure the air temperature.
+(3) A thermocouple grid to measure the rise in the air temperature as it paaaed
+through the ra&tor.
+(4) A piezometer ring to mea?wre the drop in_the static pressure of the air.
+(5) The specimen under teat.
+(6) The other piezometer ring.
+(7) The other thermocouple grid.
+(8) The fan.
+(9) Conical guide vanes to deflect the air down the tank.
+(10) A wet and dry bulb hygrometer to measure the humidity.
+(11) A cold-water radiator to cool the heatad air.
+Water flow was produced by a centrifugal pump driven by a belt from a one-horsepower
+direct-current shunt motor. The water line is sketched in figure 5. The reskkance of the
+heating coils to the water flo-wwas quite large comparml with the rest of the line, so that high
+rates of water flow (above 11 gaIs./min.) could only be obtained by opening the by-pass mound
+the heater. A thermostat maintained a constant temperature at the radiator inlet. Afte; the
+heater followed in order:
+(1) A Hg. thermometer to regulate the uerm~stat.
+@) A set of thermocouples b measure the temperature drop in the water.
+(3) The specimen under test.
+(4) The other half of the therm~couple set.
+(5) A Venturi meter to measure the watar flo~.
+(6) A drain.
+(7) A tank with a free water surface to open the sptem.
+I
+Construction and calibration qf th apparatus: The atiflow measurement oflered some
+difficulty. A Thomas meter was first used for the purpose, butmwing to the high air speed and
+very irregular velocity distribution, it proved very unsatisfactory and had to be discarded.
+In its place was instded the Pitot grid. This contained 16 dynamic openingg, one at the center
+of each 2 inch square section of the tunnel. All these opened into one tube leading to one
+arm of an inclined water gauge. A piezonwter ring me@.red the static pressure and led to the
+other side of the gauge. A piece of sheet copper was carefully inlaid in the tunnel for n distance
+of 6$ inches, so that the air passed over a very smooth surface before remhing the piezometer
+ring. Four square copper tubes were soldered onto the back of this ring 43 inches from its
+entrance, at the point of the dynamic openings, Ab ~-inch intervals all around this, hole S
+mm. in diameter were drilled. The burr was carefully scraped off the holes, and then the holes
+were cleaned out and smoothed with a hand drill.
+One of the inclined water gauges is shown in figure 4. Thwe were calibrated in .txwh
+position by connecting them in parallel with’ a V tube containing light oil of a known density.
+A zero reading (scale reading with zero pressure difference) -was taken before and aftar a run.
+Both the zero and the calibration remained sensibly comtant over a period of many weeks,
+A careful oxplomtion of the chame] tit various spmd,qover the range obtainable was m~de
+with a stamdard Pitot. This Pitat was ‘moved about at 49 different points spaced regul~rly
+over the channel and the velocity as indicated by it and tl~egrid mad. Ob.mrvations wcm ah
+mado on tho prmmre difference between the static openi~~ on this Pitot and the piezmneter
+
+..
+
+.,
+
+.
+
+..
+
+.-
+
+.-
+
+.-
+
+——. —
+-.
+
+.-
+
+::--:- Z.
+.-.
+— —
+
+___
+.-
+
+,U
+>
+-.
+
+_. –.- ..—.
+-.
+
+GENERAL
+
+DISCUSSION
+
+OF TEST METHODS
+
+FOR R.kDL4TORS.
+
+11
+
+ring. This last varied slightly around zero, showing that the static pressure was constant across “
+the channel within 3 per cent of the velocity head sought. When the velocity was integrated
+over the channel it was found to agree within l+ per cent with the velocity indicated by the
+Pitot grid at all speeds.
+A barometer was connected with this piezometer ring so as to read directly the air pressure
+at the P.itoti
+The resistance thermometer was made in the form shown in figure 6. No. 40 nickel wiro
+was used, inclosed in a 0.5 mm. copper tube. This wire was calibrated by the thermometer
+section of the bureau and found to satisfy the following equation:
+(2)
+
+.
+
+$
+
+___
+‘
+
+.-
+
+-
+
+-.
+
+-.933 + .0022 t
+
++.0011 I?
+where e= E. M. l?. in millivolts when cold junctions were at 0° C. This E. M. 1?.was measured
+by means of a Morris E. Leeds’ 15,000-ohm potentiometer, sensitive to 10 microvolt.
+The static rings about the radiator were constructed exactly like” the piezometer ring
+dw.ribed above, save that the copper ring was 2 inches long.
+The Venturi -was connected to a mercury prawwe gauge and the “~hole contrivance cali-.
+brated by weighing the water discharged through it in a known time.
+A 10-foot gravity head was originally used instead of the prcissureof the pump to produce
+the water flow through the radiator, but this was &carded because it did not give sticiently
+high raiw of flow. The pipes were insulated with magnesia pipe lagging 1 inch thick.
+Many metioda of arranging the thermocouples so as to measure accurately the temperat&e
+drop in the water were tried before a successful one was found. A single couple in the inlet
+and outlet pipe proved too erratic. Four cuuples in series in the center of the box itself failed
+b give a good temperature integration besides giving such a small reading that it was much
+affected by small thermal E. M. F.’s in the line. Twenty-one couples atraqged in three groups
+of seven each, one in the center of the water box and one on each side, gave very good readings and a good temperature integration but proved too fragile .ti wi.@tand the hard Usage
+received in changing specimens.
+Finally 21 couples, about one-half inch apart, were incased in a copper tube in the form
+of a spiral coil and placed in the inlet and outlet water pipes. These proved very .succesaful
+in every respect.
+(4)
+
+.-,
+
++
+B= 103.367 (1+ .003414 t. .00000419 ti).
+
+When R= resistance of the wire in ok=.
+t= temperature of the wire in “C.
+The bridge used to read R was calibrated by the Electrical Division of the bfieau and the corrections found to be negligible. A rough calculation showed that the maximum error caused
+by neglecting the lead resistance aiuounted to 0.15 C. This produced an error of ~0.2 per cent
+in the result.
+At fit an attempt was made to measure the temperature rise in the air through the
+Thomas meter and through the radiator with 200 ohm rmistance thermometers in which insulated nickel wire was strung on a lattica work of iron tire.
+Owing to Me varying stresses on
+the wire caused by the air stream, the resistance changed so much as ta vitiata the measurements of small temperature dithrences (about 10 C.).
+The thermocouple grids proved much more satisfactory. They each con&ted of 25
+copper-constantan junctions spaced at equal intervals over the channel.
+Calibration showed that they satisfied the following equation:
+(3)
+or
+
+.-
+
+e=.933
+
+.
+
+“
+
+-
+
+-
+
+-------
+
+12
+
+ANNUAL
+REPO?l~
+XATIO~AIJ
+ADV1$30R~
+CO?L3.IITTEE AEllO&’AUTICS.
+l?O13
+
+They measured only the temperature drop in the water. To measure the absolute tempertiture of the. water, an extra constantan lead from the hst junction ran ta a cold junction
+phvmd in an oil bath oubide the tank (see fig. 7). The temperature of thh bath was measured
+by a mercury thermcunctw graduated to 0.10 C., -whichhail been calibrated by the thermometm
+section of the bureau.
+The shgle couple just referred to and the 21 couples in series were calibrated separately
+nnd found to satisfy the following equations reepectivel~:
+(5)
+(6)
+
+e = 39.10t+ .Q4t2
+e = 39.97t + .031W
+
+r is here expressed in microvolt per couple, t in degrees C.
+.Ifehd q~ 06serviW.-The machinery was first set in motion and allowed to run until the
+tompemture conditions became steady. Two observers worked simultaneously, one reading
+the electrical instruments that measured the temperature, the other reading the pressure
+.._
+gauges and the hygrometer. The sample observation sheets, ~gures.8 and 9, give SUChg_s?t..._ . . . ..
+The time of each observation was recorded in small figures above it.
+After complete readings had been taken under one set of con.diticms, one of them was
+(’hanged and another set of readings taken. A complete set of observations on one specimen
+inclucled sets uuder atmosphcric conditi&s with constant water flow and vary~~ air speeds;
+with constant water and air flow, but varying air speeds and pressures; with different constant
+Rirspeeds? but varying water ffOW. A special set was taken on one specimen under atmospheric
+mnclitiods with constant air and water flow, but with varying inlet water temperatures.
+given dfita, fig~e 10, sufEced to determine:
+Mctli d of compding redts.-The
+o
+(1] Pressure drop in the air through the radiator lb.-wt./f2..2
+(2) Rak of water flow in gal./mh./ft. width of core and speed in ft./rein.
+(3) Rate of air flow in lb./sec./f t.’ frontal core mea.
+(4) Air density in lb./ft.s
+(5} Heat given up by the water in horsepower per 100° l?. dtierence between mean
+temperature of water and entrance temperature of the air per square foot frontal
+.— -- .-r..- _
+area of core.
+..---(6) Heat received by the air in same ~ik.
+These results were used to plot the follow~~ curves:
+Abscissa.
+Ordinate.
+-Constant.
+Constant.
+‘
+(5)
+(u’]
+(3)
+(2)
+(4)
+(6)
+(3)
+(4)
+(b)
+(2)
+(6}
+(2)
+(4)
+(c)
+(3)
+(6)
+(4)
+(3)
+(d)
+(2)
+(l’)
+(3)
+-.‘“ (4)
+(e)
+(1)
+(f)
+(4)
+(3)
+The computation sheet (fig. 10) exhibits t.hc deta~ of the computation. The explanation
+follows:
+Pressure drop.—Thia equals & conversion factor x gauge reading.
+.
+l~atcr.fiow.-lkt Z= Vimtu~ireading
+IY=water flow in gals./min./ ft.
+V= water speed in ft./rein.
+S= water density in g./cc.
+.4= water tube area in cm.z
+
+—
+. .
+
+2
+
+-!
+
+—-..
+[o Drt”dge
+
+DATASHEET
+
+.-
+
+VAC)WM TUNNEL
+LAMRATORY
+
+BIJRMU OF STANDARD9
+q
+
+TemperatureR.sdiws
+
+*
+
+RunNo.v 7!6
+Obamvnr
+
+, I
+
+a=
+
+/
+
+/
+
+FE
+
+W4&er thermpoouple#
+
+a
+
+Resistance
+Air
+T~ratwe
+Water
+Water
+Tim thermcnueter inlet &,Met & inlet & water
+outlet outiide outlet Inlet
+ohms
+m
+m
+ow
+o
+0{ -
+
+L.&&t&_
+.
+
+.—
+
+*
+
+——
+
+.
+
+THERMW?EZZX
+REWSZ%’NCE
+
+.—
+4h
+
+—*
+
+4&__———
+. -_&.
+
+.—
+..
+
+I
+
+——
+
+-&?.JL
+
+7
+Ilb.33
+
+L?QL_—
+—
+——
+
+.
+
+.—
+
+——
+
+.
+
+.—
+
+.—
+
+—
+
+——
+
+figure
+
+.—
+
+—
+
+.—
+
+——
+
+.
+
+——
+
+.—
+
+—
+
+.—
+
+—.
+
+.
+
+——
+
+——
+
+—
+
+.—
+
+—.
+
+—
+
+——
+
+——
+
+—
+
+——
+
+—
+
+6
+
+IlliT
+o IA9uth
+
+7
+
+To @ofenfYometer
+
+.—
+
+.—
+——
+
+——
+
+.
+
+Wnarks:
+
+WATER THERMOCOUPLES
+Figure
+
+.
+
+Z
+
+mgurc
+
+8
+
+Tmperdure
+cold junotion
+tltemoooupld
+0
+
+.3W
+
+DATA
+SRSET
+COMPUTATION SHEET FOR VACUUM TUNNEL
+
+VACUUM
+T1.RmL
+LAwRA’mRr
+
+SUREAU SWARDS
+OF
+
+**wwB~u@’Sl’A~ARDS
+
+_
+
+#c
+
+Ra&iator
+
+arc?
+
+Galoulator
+
+am**
+
+SeatIon #
+
+N B.a.
+
+Qbaervers
+
+L.E,K
+
+4S
+
+W. //.’
+W
+,,
+
+Obsemer
+
+Motur R.P.M.
+
+W. N. ff.
+
+TemP pr~BS,
+Time Venturi( I’&)Vent DroP
+cb
+call
+&h
+
+Left
+~@,
+
+mtit
+
+~mp.
+
+T~
+
+Rygrrmter
+
+pitot vet
+
+P .D.gage
+cm
+
+c
+
+Runr$o
+
+Ihrmmter
+
+Dry
+
+Rs
+
+cm!
+
+cc
+
+c
+Left ~~e
+
+zsfl.~
+
+Z+O
+
+p9+- /@.le
+
+~os
+
+=9
+
+&Qx
+
+—
+
+_
+
+Ri@t ~Q&
+
+.
+
+Data
+Time
+Wet bulb
+Drylmlb
+
+. ..
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. ,;,;
+
+C”’””””””””
+““”—
+C . . . . . . . . . . . .
+
+. . . .
+
+;6 -
+
+Corre~t%
+%“%
+hum;d~t~
+“ “
+. . . . . . .
+Apparent ~ humidi~
+$ humidity
+Temp. ah
+at entrance C
+. . . . .
+Mean temp. water
+c
+
+Pressure
+Density of dry al,?ib/&.3 “ “ ‘ “
+., . ...=
+Humidity correatioa
+_
+
+Left —
+Right ——
+
+-t—
+
+—
+
+—.—
+
+—
+
+ticft
+Right ——
+
+—h—
+
+—
+
+——.
+
+—
+
+Right ——
+
+“ ,Lef’t.
+Right=
+
+1A%
+.
+
+——
+
+—.
+
+Denai.t of air
+Pitot 3 onatant
+Pi tot re~ding
+Air flow
+
+m$~ m~w
+“ W$+
+
+—
+
+Left—
+Right—
+
+_
+
+Air temp. rise
+Air temp. rise
+T->.
+
+cold
+
+n
+
+Junction
+
+Water Inlet temp.
+-1/42 water couple
+I&n wazer temp.
+
+C
+mv
+
+. . . .
+
+. . . ..
+
+94.7
+94- I
+.fSa ~
+.
+#a-s- .0464
+
+oo/7-.
+——
+“~
+394
+Z.>6
+.~~.
+
+. . . . . . . . .
+
+lb/a6a/ft2
+mv.
+
+7 ,s
+7 /6 —
+~~
+.
+1.
+~p.v- ~hJon.
+~bo+.4/-0
+38. )
+=Xz=
+__JM2“to
+—
+>7
+.—
+—.
+z
+=.
+—
+— 41
+~—
+—-+..
+.
+a
+XZ
+*—
+
+-
+
+.9*Z
+
+J*J- —
+03>,
+
+ee 17 =’—
+“6447
+,43”4- —
+394
+~.
+
+J.sz ~
+~JZlaQZaes=.
+I6~67
+
+~=’
+
+t+.91
+300
+
+mv . . . ; . .~kJ%Z6Q_
+c!v
+Slv . . . . . .*+*—
+
+L=
+~.
+.—
+
+Water
+
+q
+. . .
+.
+.
+couple
+Mean water . entrance%ir
+C
+. ..*
+Venturi gage
+Heat lost by w=terc%/~2/lt/0
+Fh
+.*
+Heat received by air
+
+veloaity constan%
+Water velocity
+ft/mh
+Water flow @@.n/ft
+Air presgmrearop
+lb/@
+
+Water
+
+q
+
+~~~—
+~&=L~—
+f
+~’s
+Af31
+. . . . . .~.~~—
+
+.
+.
+
+F&we
+
+9
+
+I
+1
+
+Sz@fL.
+~4z5z.~—
+J4.36
+.~
+_.
+~AzfLJ=3f=.
+
+,+70
+
+, . . .
+
+Remarka:
+Remarkm :
+
+“.&&,.&__=L—
+
+figure
+
+/0
+
+~—
+
+—
+
+.
+
+GENERAL
+
+DISOUSS1ON
+
+OF TEST METHODS
+
+then the Venturi formula gives—
+(7)
+
+~=4.69
+
+(8)
+
+17=386.2
+
+~
+
+FOR RADIATORS.
+
+15
+
+,
+~
+
+P
+
+where 4.69 is a factor fouud .by calibration, F is a factor fo~d by c~librat’ion to reduce gauge
+readings to cm. Hg., its value being 1.008. 386.2 is a computed conversion factor.
+All the gmges had temperature coefficients, but these gave rise to negligible corrections
+orer the arunnd temperature range of the room.
+A}r dewity.-lkt
+P = air pressure at the Pitd in mm. Hg.
+t= air temperature at the Pitot in “C.
+d’= density dry air at the Pitot in lbs.~ft.’
+then the gas laws as applied to air gave
+.029P
+(9)
+“= t+273
+
+——
+.,
+
+In addition let d = true density of air in lb./ft.8 and d =d’ + C.
+It follows from the laws for mixtures of gases and -mpom that
+(10)
+
+Wherein R= relative humidity.
+S’2 density of saturated water vapor at t°C in lb./ft3
+=
+and ~ = pressure of saturated water vapor at t°C in mm. Hg.
+
+.—
+
+.
+
+R was found from the wet and dry bulb readings by means of an ordinal~ chart for the
+purpose. In the case of the reduced pressure runs, the value found thus required a correction
+r derived from the formula of W. H. Carrier (A. S. M. E. ‘1’rans., 1911, pp. 1005 et seq).
+(11)
+
+r= (76-P) T
+
+(12)
+
+‘= (2803~;!33t)q
+
+if t and ttare dry and wet bulb temperatures, respectively, in ‘F.
+in the sixth line of the computation sheet.)
+iif=&r flOTi’ lb./sec./ft>
+in
+Air fhw.-bt
+
+(.’I’hisis the T appearing
+
+h= reading on the Pitot gauge
+A= Pitot constant
+F, =factor to convert the reading to g./cm?
+then the I?itat formula gives,
+Jf=A@
+where .1=11 .49fi.
+11.49 k a conversion factor.
+(13)
+Heat received by the air.—lkt
+de
+= slope of et curve at mean temp. of air in radiator.
+.
+()am
+snd De= E. M. F. between air idet and outlet couples in milIi~olts.
+~==heat received by the air in H. “P,/ft.2/1000 F.
+Dt = temperature rise in the air in ‘C.
+(7 = spectic heat of the air at constant pressure.
+De
+
+(13a)
+
+then Dt = $
+()
+
+.
+
+because (4) is R parabolic equation.
+m
+
+.——
+
+16
+
+ANNUAL
+
+From
+
+REPORT NATIONAL
+
+ADVISORY COMM[~EE
+
+FOR AERONA~TI~.
+
+the definition of Q. it follows that
+
+. Dt
+tu–t
+Wherein t.= mean temperature of water in “C. and 141.4 is a conversion factor.
+CP= 0.246 according to W. C. Rowse (A. S. M. Il. 1913), for 40° C. and 40 per cent humidity.
+Heat lost by the mter.—Let
+e~= the E. M. F. between 0° C. and the temp. of the oil bath (rnic.rovolte/couple)
+De= the E. M. F. between oil bath temp. and that of inlet water.
+De. = the E. M. F. between water temp. at inlet Wd at outlet.
+em=the E. M. F. between 0° C. and mean temp. of water.
+&= the heat lost by the water iu H. P./ft.’/lO~O.~.
+If now in place cd the E. M. F. corresponding to the mean water temperature is put the
+average E. M. F. of the couples in the water stream at the wkrance and exit of tbe specimen
+there results
+Dew ‘ew=eo+De––(15)
+42
+
+(14)
+
+Q.=
+
+141.4 C’p . ill
+
+. . .,.=.
+
+—
+
+—
+
+The error due to. this substitution never escaxls. &O!1°C. and ~i-asusually about 0.0010 C,
+found by equation (5)
+For this case there are two equations similar to (Ma) and (14) for air. If for M in (14) is
+put its value as given by the Venturi equation (7), and for .Dt its value m gi-ven by (138), the
+result is:
+
+L was
+
+—
+
+(16)
+
+—.-
+
+-,
+
+-...
+
+...-.
+
+and
+
+.,-
+
+—
+
+.701 converts g. cal./see./deg. C/8-iiiih sq. frontal area to H. P./ft.2/1000 l?.
+196.21 converts em./Hg on the Venturi to cc./sec.
+C.= Specific heat .of water at two C.
+L$W density of water at tWO
+=
+C.
+n = number of thermocouples (here 21).
+DK is a small correction leas than 0,5 per cent of_.K, which Wowed for tbc fact that. the
+Venturi was at the water outlet and hence S was greater thnn Sw by an amount proportional
+to Dt, the temperature drop in the water. In practice K’ wris tn.bulated as n function of Iw
+tind abbreviated the computut ion.
+APPARATUS
+
+IN TIIE
+
+STEAM
+
+TUNNEL.
+
+The steam tunnel was open and not inclosed like the one just considered. .L sketch of it
+is shown in figure 11. Air was pushed through the tunnel by ti 36-inch Sturtevantt Illowell
+driven by a 220-volt direct. current shunt motor rated at 10 horsepower. Adjustable rheostllts
+in both fiehl and armature gave a range of speeds from Xl to 100 miles ])er hour when the channel
+was unobstructed. By bl&king up-the air intake the-~peed wtis fuk.lmr reduced to 10 miles
+per hour, A mercury thermometer inserted through the tunnel wall measured the air tem-
+
+,.
+—.
+
+GENERAL
+
+DISCUSSION
+
+OF TRST
+
+IKETHOlX3
+FORRADIATOIM
+
+17
+
+peratures to 0.05 C. A Pitot grid and two piezometer rings were installed just as in the inclosed
+tunnel. k addition two other rings 7 inches from the radiator faces were used.
+The barometer was in the room, so that obsemations had to be made on the pressure
+difference between the air in the tunnel and in the room. This. was accomplished by opening
+the low-pressure side of the pressure drop gauge to the air in the room.
+A recording hygrometer regist~red the humidity with sufhient accuracy.
+The heat dissipated by the radiator was supplied by the condensation of dry steam.
+Figure 12 givw a sketch of the apparatus used to control and measure the steam flow. Steam
+from the high-prwsure mains (100 lbs./in? was paseed through a valve where its pressure was
+reduced to about 10 lbs./in.z. A V-shaped pipe yith an opening at the bottom drained out most
+of the water. The steam passed on through a coil where it was superheated about 500 C.,
+through a plug cock where its pressure fell to atmospheric, through a separator where a mercury thermometer recorded its temperature, through the radiator specimen where most of it
+condensed and through another separatir out of which the water dropped into a -weighingtank.
+Originally a thermometer was inserted in the lower water box of the specimen, but the
+water temperature was found to dMer so slightly from the temperature of condensation that
+the heat lost by the water in cooling could be shly neglected. . A fan blew the steam away
+from the tunnel. The steam he was insulatad in the same manner as the water line in the
+other tunnel. The radiator specimen was insulated on the sides with cork board one-half inch
+thick. The water boxes were not so well protected, but on account of the small surface exposed
+and the comparatively quiet air in contact with them, the heat lost thus could not have been
+more than a few tenths of a per cent at moderate speeds. In fact, in some of the early experiments, the steam condensed when the channel was blocked so no air flow existed was measured
+and found to be less than 1 per cent of the total.
+Method of 068erving.—The exhaust valves in the steam line were opened, the water drained
+off and the blower started. When the water was out of the line and the steam flowing well,
+the gas heater was lighted, and the blower adjusted to give the desired speed. After steady
+conditions of steam flow and temperature had been attained, one observer set the bahi.nce
+dightly ahead of the actual weight and started a stop-watch when the pointer crossed the
+zero line. The balance was set ahead of the weight (from 1 to 10 pounds, according to the probable rate of condensation), and one observer frorn then on recorded steam temperatures. At
+the same time the other observer read the gauges and the air temperature. A set of readings
+was taken at reagular
+intervals (everyone or two minutes, according to the duration of the run).
+About a fiute
+before the assigned weight was reached, a bdl warned the observera, who
+prepared to obeeme the time when the pointer crossed the line again. At each speed two or
+three runs were taken as a check. The time interval employed was from three to six minutes,
+and could. easily be measured to 1 second. The balance weighed correctly to 0.01 pound. An
+observation sheet (fig. 13) is reproduced.
+.—As in the case of the incloaed tunnel the observed data
+Method of computing reauh%
+sticed to determine(1) Pressure drop in the air through the radiator.
+(2) Rate of air flow.
+(3) Heat given up by the steam.
+Pressure drop.—This result was computed as in the other tunnel with one addition.
+Because the piezometer rings were 7 inches from the radiator, (1) was corrected by subtracting
+from it the pressure drop in 14 inches of unobstructed channel.
+Ah Jozo.-The computation was the same se before. ~
+
+.
+
+‘ ‘
+
+.L-—
+
+,-
+
+———
+.
+
+.
+
+.
+
+.
+
+18
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR
+
+.
+t
+
+AERONAUTICS.
+
+[
+
+I
+
+ii
+
+—7%ermome*r
+
+.
+
+.
+/Mu/h
+.
+
+w
+
+m
+ad’ on &wkGs
+
+figure
+
+/2
+
+.
+
+. . .. -- —.—
+
+L.
+
+Sheet No
+
+--- LOG SHEET --Stacm
+
+Condensation
+
+Wind
+
+-nel
+
+OF STANDARDf3
+
+BUREAU
+
+~te
+
+Run No ~a&fec
+
+~d
+
+~A~
+
+(B)
+
+section+
+
+Radiator
+
+-.
+W?rerjs.
+Cage~ Steam
+
+--. —
+Air
+volco?%~e
+(omj_~._
+
+‘?3”
+
+g-//-~#
+
+~
+
+Hadlator
+Calculator
+
+Temp. air
+Front. wok
+
+Press Temp
+drop
+P.D. gaga
+(cm)
+(C)
+
+.—
+Isl..o
+——
+
+—. zero
+,>.;
+
+—
+
+——
+57.4
+
+——
+
+#3z
+——
+
+.
+
+&t_
+
+_ Z4Z
+
+453
+——
+
+—,.
+
+——
+
+—
+
+—
+
+37
+—.
+
+—
+
+3’3
+
+I
+
+——
+
+—
+
+——
+
+e_
+
+—
+—.
+
+——
+
+——
+
+——
+
+—
+
+——
+
+._
+
+——
+
+—
+
+——
+
+—
+
+——
+
+——
+
+——
+
+—
+
+——
+
+—
+
+—.
+
+.—
+
+——
+
+—
+
+——
+
+—
+
+——
+
+——
+
+—
+
+——
+
+—
+
+——
+
+Gage zerog
+
+)3,x
+
+lk. Water aondensed
+
+S
+
+_-—
+
+lbs.
+
+T$me elapsed
+
+4
+
+Lit;+
+z
+
+Barometer
+
+B6.07
+
+cm, telnp ~
+
+a%.
+
+o%ep
+
+C.
+
+2A=.
+
+Observers
+
+5.s
+
+A.W-/f.
+
+W.am
+
+c\
+
+2?=——
+
+mean
+——
+
+S120
+
+a Seotlon#~
+
+-
+
+s?4a——
+
+——
+
+t
+
+Tine. of run FinishX
+
+--7
+
+-.
+
+.Y03 3&m
+Run No . . . . . . . . .* . . . . q * . q .
+——
+13,8 6-11
+~
+Date
+. . Zs-m
+Time
+Humldlty #’”” ”””
+O”””.’”
+“*”,’”
+AA
+&rometermm.
+~..
+. ..O
+t. . . . . . .
+Density
+oorr. due to excess inlet preea~ lb#ft3 =b
+~fi
+. . .-.0008
+- 9
+Dend.ty oorr. @e to humidity,
+II
+.. 703
+.070z
+DenOLty dry air
+&
+ml
+Temp. airatentrance,
+~. . . . . . . . . . .
+.
+Uean eteam temp.
+fQ2LJa=l
+c . . . . . . . ...*
+Boiling temp.
+-s
+~~
+c
+Superheat
+. . . . . ... . -A&
+.
+AH%40;3.
+..,......
+.
+lbB.
+.—s
+Water oondensed,
+Time of condensation. sec. . . . . . . . . . . . ~JwLL
+Mean steam - entrance a r“C
+@ZZ4!X?
+&
+~~
+HP/ft /loo F q ...*.**
+Heat dissipated
+3=
+3.706
+Pit.otOonstant
+A3r
+Pitot
+
+lbs/ft3
+
+denaLty
+
+.
+
+.
+
+.
+
+.0701
+
+...***-
+
+reading
+lbe/8eclft2...*a~*a~*
+Air flow
+Press.
+gase oonstturt
+lbs(ft
+Apparent pree8.
+drop
+Open onannel correction
+w
+True preesc drop
+
+2..
+.
+
+.
+
+4.3Z
+
+*X
+
+....*.**’*~+
+
+..0..
+
+8(JC
+,a
+
+J-< 46
+Remarklx
+
+.,
+,.
+
+q
+
+.8-
+
+~~
+~
+
+-.’.
+
+..
+~ - ngun!? #z
+
+..*.
+
+——
+L&LXiLZ
+
+20
+
+‘
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+NOTE
+
+LARGE
+
+F/gurvs show q+rcar
+timenilaw anly
+
+WIND TUNNEL
+
+/7~ure /5
+
+“T
+6L%JoPh?fe
+&&bredio
+
+3roA?,.?du.7ifn
+
+~p.dmna
+
+u!
+
+fifm714rm
+
+~
+
+--=41
+
+.
+
+“’00’0’’””””
+.
+
+.—
+-.
+,.—
+--
+
+.. —..——
+..-.
+—
+—
+.
+
+.
+
+II *
+F/yure
+
+—.
+—
+
+/6
+cOm?qrP*’ae Wmyta
+
+&4#q?KJ
+
+e
+
+. -.
+
+HrokyC+/for
+
+-: =.’
+:. .---:
+?!!!!?..-
+
+S/?LC/!L
+AIR
+
+FLOW
+
+—
+
+A/%7 kZ’N7%!!/
+FOR
+THROUGH
+
+Figure-/7
+
+RAD!47LlQ
+
+Dunpi~
+.-
+
+—.
+
+G13NZRAL DISCUSSION
+
+OF TEST METKODS
+
+FOR RADIATORS.
+
+21
+
+Heat given up by the eteam.-L6tTb = condensation temperature of the steam in 0 C.
+S -superheat in 0 C.
+~ =latent heat in B. T. U. / poupd.
+CP=spectic heat of the steam.
+H =heat lost by 1 pound of steam in B. T. U.
+T =raean temperature of the radiator contenti.
+If the arithmetic mean temperature of the superheated steam and the condensation temperature are weighted according to the amount of heat lost at each temperature,
+(17)
+
+HT=
+
+and
+(1s)
+
+‘
+
+(9
+(.)
+Tb+5
+
+C#+L
+
+T= Tb+ &
+
+Tb
+
+82 Since H.= L+ C@
+
+The second term of (18) is small and is a function of the superheat only (assuming 02 to
+be sensibly constant) so a table of values for it was prepared from steam table data.
+H is likewise-a function of the superheat only and was tabulated in the same way (Goodenough’s Steam and Ammonia Tablm 1915).
+I-f t, =number of seconds required to condense w pounds of steam
+and
+Qkheat lost in,H. P. / ft.2/100° F.
+. and A= 176.7 w, 176.7 being a conversion factor, then by definition of Q
+(19)
+
+Q+%
+
+A computation sheet, (fig. 14) is reproduced.
+(3) POWER EXPENDED JN CARIWING THE RADI.ATOFL
+“The measurements needed” to. dete%ne this quantity were made in a tunnel whose cross
+section was large compared with the dimensions of the radiator tested, in contradistinction to
+the heat measurements, which were all made in bil.khead tunnels. Figure 15 shows a sketch
+,“
+of this large tunnel.
+It was of octagonal section, 54 inches in inside diameter. The enixying.air passed through
+a honeycomb of sheet metal cells, 3 inches in diameter and 12 inches deep, through a straight
+section of 25 feet long, and out through a conical d.itkser. A four-blade propeller fan dri~en
+by a 75-horsepower direct-current motor drew air through the tunnel. A continuous speed
+range from 15 to 90 miles per hour could be obtained by adjustummk provided by rh60stats in
+both field and armature and two voltages, 110 and 240. A Pitot tube read on an inclined water
+gauge measured the air speed to 1 per cent.
+The head resistance was measured directly on a balance, figure 16. This was mounted a little
+below the floor of the tunnel, and consisted es.sentially.of a bell crank suspended by thin flexible
+steel strips, with a horizontal arm on which weights could be hung below the tund, and a
+vertical arm passing up through the tunnel floor tQsupport the specimen. A second vertical arm
+extended below the fulcrum and carried counterpoises for lowering the center of gravity, and a
+second short horizontal arm with adjustable counterpoises provided a zero adjustment. The
+joint at the tunnel floor was rendered air-tight by an ofi trap. The vertical arm that supported
+the spechnen was extensible, -and-wasfitted at the top with a detachable brass block. This was
+screwed h a plate ~ inch or Ices in thidm-,
+soldered to the lower side of the specimen under teat.
+
+.
+
+XNNt7AI..
+REPORT NATIONAL ADVISORY COMMITTEE XOR AERONNJZWS.
+
+22
+
+OAIJBRATION
+
+OF APR4RATU19.
+
+The tunnel crom section was explored with a movable Pitot and found to be uniform within
+1 per cent at all points more than 8 inches from the wall. Silk threads strung from a fine vertictd
+wire showed that there were considerable disturb.arums
+&the air s$rmrn ti the neighborhood Of
+the specimen, but no appreciable ones within 8 inches ol the tmel wall. This was taken to
+indicate that the tunnel was large enough to give free air conditions.
+The balance was calibrated by applying known horizontal forces to the vertical arm and
+observing the balancing forces on the horizontal arm. This gave the correct factor by which
+to multiply the balance reading, for different lengths of the vertical ~ml to obtain the true force.
+ordinarily a length was chosen which made this factor qnity, so that the force was read directIy.
+Method Of okrvhg. —The radiator specimen (without water boxes) was mounted on the
+vertical arm and the distance from its center lx--the fulcrum adjusted to the desired value. To
+find the position of no yaw, a specimen was set at various angles, the position of minimum head
+resistance assumed to repr~ent zero yaw, and a reference point marked on the tunnel wall by
+sighting across the front .of the radiator. The same result could be obtained by sighting through
+the radiator tubes at the honeycomb at the tunnel tmtranti. In “other cases, the angle of yaw
+was measured roughly by sighting across the front of the section at a scale mounted on the
+tunnel wall. Because of fluctuations in the air speed, two observers took simultaneous readings on the balance and Pltots, since there was no sensible lag between the two instruments. ”
+Nine points were usually observed.
+apparent head resistance was obtained by multiplying the
+—The
+Method Of CO?)ll@i~.
+readings by the proper faotor. By subtracting from this the force” on the supporting arm
+(determined by a previous calibration) the force on the specimen was found. This divided by
+ratio
+the frontal area gave the head resistance, in lb. wt. / ft?. Assuming a lift-drift of 6.4,
+the horsepower used was,
+3$
+Wherein
+
+B+;
+.
+()
+
+V
+
+in
+R -resistance lb. wt./f t?.
+W =core weight in lb./ft.’ front.
+V - air speed in mis./hr.
+
++5= a conversion factor.
+The speed was computed from the ordinary Pitot formula:
+E
+~
+.
+d
+K= a cunveraion f actor.
+h=gauge reading.
+d= air density in lb./ft?
+V-K
+
+(20)
+Wherein
+
+and humidity of the air were observed,and the actual
+At fit the temperature,pressure,
+air density and speed computed. The experiments, however, soon showed that the usual
+fornnda for the resistance of an airplane, i. e.,
+
+(21)
+
+R -BdP
+
+..
+..
+
+(B= a constant)
+
+also applied to these tests.
+Accordingly a value of d in the neighborhood of the observed vduei was selected and used
+in (2o) to compute V. Thus, neither the actual speed nor density were used, but such a value
+of V as gave, when combined with d, (the standard density) the observed head rwistance; for
+
+.
+
+___.
+
+. .
+
+,.
+
+.
+
+--. ..
+
+GENERAL
+
+Let da-actual
+
+DISCUSSION
+
+OF TEST
+
+-HODS
+
+FOB RADIATORS.
+
+density and substitute for V in (21) its value given by (2o).
+
+23
+This gives
+
+(22)
+It is easiIy shown by dimensional considerations that if the exponent of the velocity is
+different from 2, say n, then the velocity required with da to give R wdl be
+2-%
+
+(J
+3
+
+‘J(vs=%k)
+
+‘v’w’’add
+
+1
+
+If, then, n were as low,as 1.8 and cZ,/da
+=1.056 (the greatest difference from unity that occurred)
+thisfactor would be 1.003, a negligible difference from unity. d, was taken as 0.0760 lbs.lft.
+corresponding to 65° l?., 29.17 in I& 40 per cent humidity.
+(4) WSS
+
+~Ow
+
+OY?AIR THROUGH THE CORE.
+
+PRELIMINARY
+
+ATTEMPTS.
+
+Three different methods were tried for measuring the mass flow of air through the core
+before a satisfactory one was found.
+(1) A careful and persistent attempt was made to measure the flow with a small Pitot
+tube behind the core, and in positions ran=ging
+from -wellwithin the cell to a few inchw behind
+the core, but it appeared to be out of the question to use a Pitot tube in the turbulent air
+encountered.
+(2) Threads were attached to the rear edges of the radiator to define the stream, in the
+hope that the air passing through the core could be followed to a position where the flow would
+not be too turbuIent for the use of a Pitot tube, and that in such a position it would be possible
+to measure the velocity, end the area of cross section of the air that had passed through the
+core. But it was found that, even aside from the difficulty introduced by the tendency of the
+pti on the threads to straighten them, so that they would not truly follow the streamline, the
+flappihg of the threads was too great, and consequently their position too inddnite to allow
+of measurement of the area incIuded betwwm them.
+(3) A hot-wire anemometer was tried, and gave promise of very fair redts, but before
+it had been thoroughly tried out, a simphm-method was discovered and the use of the instrument was discontinued.
+A3?3?AR.ATU8 USED.
+
+The method finally adopted employed a specialIy constructed Venturi, a longitudinal
+section of which is shown in figure 17. The cyLindxical throat and the two mnes were made
+up from shtwt copper soldered together, and the joints filed down into curves of stream-Iine
+form. A copper tube led out from a single small needle hole in the side of the throat. A
+piece of sheet iron bent into cylindrical form was soldered over the con- extending from la
+inches before the front cone nearly to the rear and ~d covering the central contracted portion,
+which would &e cause considerable resistsnce to the air stream. A second needle hole before
+the front cone was connected to a small tube which ran back along the outer surface, and turned
+up where it reached the tube coming from the throat. h inclined water gauge measured
+the prmsure difference. Three wires soldered to the sides of the Venturi passed through the
+cds of the radiator, and were bent over in front so as to fasten the Venturi ilrmly in place
+behind the radiator.
+
+--
+
+.
+
+24
+
+ANNUAL
+
+REPORT NATIONAL ADVISOILYCOMMITTEE
+CALIBRATION
+
+OF THE
+
+FOR AFJ30NAUTSCS,
+
+VENTURI.
+
+Tests in the inclosed tunnel with eight diilerent sections of widely differing types of core
+gave nearly the same pressure difference for same air flow through the tunnel and this was very
+close to that given when no radiator at all was used. For ordfiary typm of core this was tmi
+within about 3 per cent and with cores in which the air flow was very much obstructed within
+6 per cent. No high degree of accuracy is claimed for this, but it was very convenient and
+sufficient for the purpiae.
+A calibration curve was obtained by running the Venturi in the open in the large wind
+tunnel against the Pitot tube of the tunnel, The square root of the Venturi pressure dMerence (in gms./cm2) was plotted against the mass flow as Nomputed from the tunnel Pitot. “l%is
+is the product of the airspeed in feet sec. by d, (.0750 Ib.l’ft.a). The resulting curve was very
+,ffat, almost linear. Sii calibrations at W3erent tim~ during i period of six months gave
+fdentical curves.
+NoTE.—This calibration was in terms of mass.~w k.. pounds per second per square foot
+of Venturi mouth, and hence mass flow through raihators N per square foot frontal-core tires,
+and not of air-tube area,
+.Method
+of 068??%?2$ —The specimau under observ~~ion was moupted in the 54-inch wind
+tunnel in the same manner as for head resistance nmammmer&i, the Venturi was attached
+to the rear face, its pressure tubes connected to an inclined water gauge by means of tubes
+passing through a hole in the tunnel floor, and simultaneous readings taken of its pressure
+difference and the air speed in the tunnel. These readings were taken at from 9 to 15 different
+speeds for each radiator.
+Method of ccmpu$hg.-!llhe Venturi gauge reading was multiplied by the gauge factor to
+obtain grams per cmz. The square root of this was computed and used as ar~ment tO det~rmine the mass flow from the calibration curve. The mass flow was then plotted against V,
+for each radiator.
+h in the case of the head resistance, the actual a~ density was not needed, ‘NM reason
+for this is slightly difYerenthowever. The Vetituri really meaiium velocity, just as the Pitot,
+so that- relation between its readinga and those of the Pitot tubes furnish a measure of the
+ratio of the amount of air going through the radiator to the amount that would pass through
+that section if the radiator were absent. It seems permissible to assume that this ratio is
+independent of the air density, because the viscosity is known to be independent of the den”tity,
+and its effect in this case is not large anyway,
+—.
+
+0
+
+,.
+
+-—
+—
+—
+
+—
+.:.
+
+‘
+
+>—-
+
+----..-.
+
+.7.
+
+.
+
+.
+
+.
+—
+
+-.
+

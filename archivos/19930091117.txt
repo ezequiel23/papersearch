@@ -1,0 +1,7932 @@
+FILE COpy
+
+NO. J-W ,
+
+REPORT No. 55
+
+c
+
+,
+
+INVESTIGATION OF THE MUFFLING
+PROBLEM FOR AIRPLANE ENGINES
+
+NATIONAL ADVISORY COMMITTEE
+,. FOR AERONAUTICS
+
+FILE CO V
+
+.. fl.
+
+To be t'8brned
+
+of the Nati
+Advfsory Corm.
+for AeI1 utica
+Warilgton, D. C.
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1919
+
+REPORT No. 55
+INVESTIGATION OF THE MUFFLING PROBLEM
+FOR AIRPLANE ENGINES
+BY
+
+G. B. UPTON and V. R. GAGE
+
+152577-20
+
+•
+
+1
+
+REPORT No. 55.
+INVESTIGATION OF THE MUFFLING PROBLEM FOR AIRPLANE ENGINES.
+By
+
+G.
+
+B. UPTON and V. R.
+
+GAGE.
+
+The initial perception of the presence of an airplane comes commonly through hearing
+rather than sight . When near a plane the noise of the unmuffled engine is fairly deafening.
+If muffling can be contrived without too large a loss of power it will become much easier for
+the pilot t o operate his plane, a cut-out being provided for engine-testing purposes. In civil
+use of planes, if passengers are to be carried or if planes become numerous, mufHing ·will almost
+surely be required, as it now is for automobiles, motor boats, and stationary engines . In
+military use of the planes the advantages to be derived from silent operation, if that is possible,
+are immensely greater ; for example, with night-bombing airplanes.
+A preliminary report upon this subject was printed as Report No . 10 of the Second Annual
+Repor t of the National Advisory Committee for Aeronautics, 1916, pages 41 to 49; hereinafter
+referred to as Report No . 10. This report outlined the problem, gave the status of muming for
+automobile engines, and gave the beginnings of our experimental work. For the main part of
+the experimental work, Prof. V. R. Gage has been associated with the initial staff of Profs.
+H. Diederichs and G. B . Upton.
+In t he early summer of 1917 the Curtiss engine was taken over by the U. S. A. S. M. A.
+at Ithaca. A considerable amount of experimental data had already been accumulated.
+Designs of mufflers had been worked out to be tried upon planes in field work. At this time,
+however , muffling was much less important than the production of engines and planes, so that
+field experiments with mufflers were not carried out.
+The work has fallen into two divisions : First, the determination of the relation between
+back pressure in the exhaust line and consequent pow-er loss, for various combinations of speed
+and throttle positions of the engine. Second, the construction and trial of muffler designs,
+covering both type and size. The main body of the work has been done on a Curtiss OX eightcylinder airplane engine, 4 by 5 inches, rated 70 horsepower at 1,200 revolutions per minute.
+For estimation of the muffiing ability and suppression of "bark" of individual exhausts, we
+have also used an "Ingeco" stationary, single cylinder, 5~ by 10 inch, throttling governed
+gasoline engine, and occasionally other engines.
+On the Curtiss engine the carburetor was a Schebler model L. The throttle control rod
+was graduated and adapted for duplication of settings by means of a screw setting into holes.
+Adjustment of needle valve and cams controlling the mixture was once made and was not
+subsequently changed. The ignition · was by Boscb magneto with fixed spark, set in the
+advanced position by the manufacturer's instructions. This adjustment was never changed.
+The spark plugs gave trouble and had to be renewed. The engine was started by power from
+an electric (street car) motor, belted to a pulley which was keyed on the end of the fan dynamometer shaft, on the end away from the engine. The engine was brought to a moderate speed
+with the magneto short circuited and then ignition was tumed on and the belt thrown off the
+fan dynamometer pulley simultaneously. Cooling water was supplied to the engine from the
+water mains through the regular circulating pump . The water supply valve was always opened
+to the same point, which had been found by trial to give slightly more than adequate cooling.
+It was found that air locks might occur and t o detect them separate discharges lines were used,
+one from each block of cylinders.
+3
+
+4
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+In the determination of power losses due to the muffiers it was desirable that the engine
+should drive a dynamometer with the same torque-speed characteristics as a propeller. We
+therefore built a fan dynamometer, copying in detail the dimensions of one at the
+Automobile Club of America's laboratory at ew York City. This design of fan has previously
+twice been calibrated using cradle dynamometers. The fan has two blades set diametrically
+opposite. These blades are rectangular plates 14 by 10 inches, with the 10-inch dimension
+radial. As used, the outside diameter across the blades was 42 inches, requiring 35.4 horsepower at 1,000 revolutions per minute, and for other p ow rs varying with the cube of the speed.
+This adjustment holds the engine to rated load at rated speed (61.2 horsepower at 1,200 revolutions per minute, 69.1 horsepower at 1,250, 77.8 horsepower at 1,300). Dimensions and
+calibration of the fan are given more completely in Appendix A.
+The determination of the power consumed by the fan depends solely upon the measurement of speed. For the reading of speed we used a Hopkins electrical tachometer, with its
+dynamo driven directly by the engine crankshaft through a flexible coupling. The tachometer
+was calibrated several times during the progress of the work, both in place on the engine and
+on a small high-speed lathe.
+To determine the power loss due to back pressure, we put exhaust manifolds on the engine
+along each block of four cylinders and combined the exhausts in a cross pipe at the rear of the
+engine, as illustrated in figure I, a photograph of the set-up. The cross pipe ended in a tee
+with two valves, one a gate valve for adjustment and the other a quick-opening valve, similar
+to a "molasses" valve. The second valve was used either entirely open or entirely shut; the
+change from closed to open and reverse could be made instantly. In running to determine
+power loss the engine would be set at a given throttle position with the quick-opening valve
+wide open; then closing that valve the gate valve was set to give a desired back pressure. Runs
+were then made, alternately, in quick succession, with the quick-opening valve open and shut.
+In each condition readings were taken of speed and back pressure. The alternation of conditions was repeated several times, until the drop of speed (and power losses) associated with a
+certain back pressure seemed well determined.
+There was one manifold for each block of four cylinders composing one leg of the vee.
+The back pressures of the two groups of cylinders were read separately and independently:
+The manometer connections were made in each manifold at a point about 6 inches beyond the
+last cylinder and the two fittings were identical in construction. The pressure taps were made
+of small brass rods riveted over inside nearly flush with the manifold, with a lock nut outside
+the manifold. The openings through the rods were the same and were about -h inch in diameter. This construction was used in order to minimize as far as possible any errors of pressure
+due to the effect of velocity and to damp the pulsations of pressure. If any such velocity
+effects did enter into the observations of pressure they would disappear in the taking of the
+pressure difference of runs with and without applied back pressure. Taking the pressure
+readings so close to the engine was intentional; all manifold and piping resistance beyond these
+taps will be shown in the readings, and it was a matter of interest to discover how serious these
+losses might be, due to the use of long or improper exhaust piping.
+From the pressure taps connection was made through rubber tubing of about U -inch inside
+diameter and 6 feet long to mercury manometers. A considerable mass of mercury was used
+in each manometer to obtain the damping effect of its inertia. Further damping was found
+necessary and was secured by stuffing the upper ends of the manometer tubes with cotton
+waste. With the engine running, the back-pressure readings were satisfactorily steady and
+practically without time lag in shifting from running with and without applied back pressures.
+The first series of runs was made to determine the power losses caused by different applied
+back pressures with the engme under a :fixed throttle position, set for normal power and speed.
+The observations taken are shown in the first four columns of Table 1. The other values shown
+in Table I are the results of computations from the averages of the data.
+The true speed, revolutions per minute, is obtained from the tachometer readings by the
+use of calibrations made before and after groups of t ests. The correction factor for the tacho-
+
+4
+
+5
+
+INVESTIGATION OF MUFFLING PROBLEMS.
+
+meter was always a constant mUltiplied into the indicated speed.
+
+This constant was about
+
+1.09.
+
+The per cent power 10 s was computed from the relative speeds with and without applied,
+back pressure. If the speed with applied back pressure wa 97 per cent of the original speed, the
+power loss was (1.00)3 - (0.97)3 = 1.00 - 0.9127 = 8.7 per cent. This relation is true because of
+the loading of the engine by the fan dynamometer. The power absorbed by the fan is proportional to the cube of the speed. (Appendix A.)
+The brake M. E. P. (brake mean effective pressure) is the product of the mechanical efficiency of the engine and the mean effective pressure as shown by an indicator diagram, and is
+expressed in pounds per square inch. For this engine:
+Let P- brake M. E. P.
+R=r. p. m.
+B = cylinder bore diameter, in inches = 4 inches.
+S = cylinder stroke, in inches
+= 5 inches.
+N=number of cylinders=8.
+HP = brake horsepower.
+Then
+7r
+
+S
+
+R
+
+PXiB2X12X2XN
+7rB2SN
+)
+( 4 X 2 X 12 X 33000 PR
+HP=
+33000
+
+=(15~7)PR
+P= (1:;7) x HP.
+
+For this fan dynamometer:
+HP=KR3
+in which Kis a constant who e v alue was 35.4 X 10-9 at the setting used.
+Combining the expre sions for this engine and fan :
+
+(Appendix A.)
+
+P _1577 X KR3 = 1577 X KR2
+- R
+
+= 55.8 R2 X 10-6
+Various results from this group of tests, as shown in Table I , are shown as curves in plots
+2 to 5, inclusive. In all of these curves the absci a i the applied back pre sure measured in
+inches of mercury. This" applied back pre ure " is trictly the increase of manometer reading,
+over that given with open discharge from exhau t manifolds and piping, with the application
+of a definite constriction of discharge.
+Plot 2 shows the power losses, in per cent, as a function of the applied back pressure.
+With no applied back pre sure the throttle was set and locked to give about 1,23 0 r. p. m.
+corresponding to about 65 horsepower output to the dynamometer. The engine did not always
+come back to this speed and power when the back pressure was relieyed, because of many
+minor variations of ignition, carburetion, lubrica tion, cooling, etc. These changes were cared
+for by the method of testing employed, a previously described. The results as to power loss
+in plot 2 will be found only for one setting of the throttle on this engine. It could not be assumed
+that the same percentage power loss would be found , for a given applied back pressure, on
+another engine, or even with other throttle positions on this engine. These power 10 ses are
+conditioned, also, by the dynamometer characteri tic of power varying with cube of speed.
+They would not hold for automobile engine operation in general, because the load characteristics would be different. This curve is, however, approximately typical, in form and in numerical value, of average :flying conditions with airplane motors, when the exhau t is choked by
+any means to increase the back pressure. This curve gives the information de ired concerning the relative magnitude of the power losses incident to increasing the back pressure of an
+
+6
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+airplane engine by attempts at muffling. If satisfactory noise suppression can be secured with
+small increases of back pressure, the power loss may be tolerable.
+For moderate back pressures the power loss is substantially proportional to the back
+pressure. For higher back pressures the power loss mounts rapidly, apparently at such a rate
+that a back pressure of even less than 10 pounds fer square inch (20 inches mercury) would
+stop tho engine. These relations are perhaps better brought out in plot 3, which is the same
+as plot 2 except that the coordinates are logarithmically scaled. Tho full line curve in plot
+3 is the curve of plot 2 transferred. The dash line in plot 3 shows what would happen if the
+power loss continued to be proportional to the back pressure.
+A po sible explanation of this changing effect of back pressure as the back I ressure increases
+may be found by considering the indicator card. This is schematically shown in figure 4.
+For small back pressures we may expect the main effect to be a lifting of the exhaust line of
+the card by an amount substantially equal to the increase of back pressure. The result would
+be a loss of indicated M. E. P. equal to the back pre. 'ure, becau. e the elevation of the exhaust
+line would extend through the whole stroke. The loss of braJre M. E. P. will be smaller than
+the loss of indicated M. E. P. in the ratio of the mechanical efficiency of the engine to unity.
+At higher back pressures the exhaust gases are held back in greater amounts in the cylinder,
+leaving the clearance space, at the end of the exhaust period, filled with an adnormal weight
+of hot, dead gases. These, reexpanding, interfere with the incoming charge in arious ways,
+lessening the amount of the fuel mixture drawn in. The decrease of charge quantity will
+result in a decrease of M. E. P. which i added to the decrease of M. E. P . due to lifting of the
+pressure of the exhaust line.
+Probably it is the decrease of charge which is the principal reason for the possibility of
+stalling the engine by fairly completely choking the exhaust pipe and before complete closure
+is reached.
+To make the findings of power loss caused by a plied back pressure more general, not so
+much a matter of the particular case studied, the re'ults are given as 10 s of brake M. E. P. ,
+by the curve on plot 5. The previous discussion of the effect of back pressure upon the indicator
+card explains the form of this curve and the relations between the test curve and the line of
+equality of brake M. E. P. loss and back-pressure increase. For the smaller and reasonable
+values of back pressure it is quite safe to assume that the loss of brake },f. E. P . (pounds per square
+inch) does not exceed, and is nearly equal to, the applied back pressure (in pounds per square inch).
+This conclusion is of considerable importance to the de igner of engines, exhaust manifolds,
+and mufflers, and is probably valid for all types and services of internal-combustion engines.
+Of interest to the airplane de igner is the loss of propeller speed consequent upon back
+pressure in the engine exhaust. Since propeller sp<,ed is tied, in a definite relation, to propeller power, the curve of plot 6 is really another yer"ion of plot 2. This curve of plot 6 should
+correspond approximately to average running conditions of airplane motors. It is about a
+three-quarter throttle position curve for this engine, and full throttle would probably change
+the form of the curve only at the higher back pressures.
+In the second series of tests the engine was brought up to about normal speed and power.
+The regulating valve at the end of the exhaust pipe was closed, allowing all the exhaust to
+leak through the joints of the piping and through the walls of the flexible metallic exhaust
+hose when the end outlet valve was closed. The, alue of hac!- pressure was purposely made
+large, in order to give more accurate readings of bad- pressure, and to see what would happen.
+Readings of speed and back pressure were then tal en with the end outlet valve alternately
+open and shut, until the values seemed to check among themselyes . Then the throttle opening
+was reduced, and again readings were taken. Immediately after the smallest advisable throttle
+run, the normal throttle as used at first was rerroduced, and a check run was made.
+Table II gives the data and the computations of the runs made on August 24 and 29 . rfhe
+exhaust piping was changed between August 24 and 29 by making the pipe Joints tighter.
+Plot 7 shows the relation between the brake horsepower and the actual back pressure, as
+given in Table II. The back pressure increas s as some exponential function of the horsepower,
+
+7
+
+INVESTIGATION OF MUFFLING PROBLEMS.
+7
+
+I
+
+~
+
+Consron t Tl1rott"lt', voring 8dCIrPreS3 ure.
+/5 f--- Spee.d obou; IZ.JO r.p.m ., horJ~ ·p ow~rq"ot/t
+
+/" f---
+
+JP
+
+I
+
+1"0WEif LOSSES
+
+II
+
+6~ ~)(C~pf"OJ r~d(/c~d
+
+byo,oplied DOCK
+pr(!35·ur~.s . ThiJ corr~spond.s 1'0 choflqinq
+mv/flers; or 1-0 ChOkil79 'hc- c-J(170u.s;ol7on
+t'n9ine/ood~d "y oprop e ll~r.
+
+111
+
+POWER LOSSES
+ll - Con ston f Throttle, voring 80ck I"re:;svre.
+About 65H.P.ot /230 R. P. M .,
+Iwithout app//ed bdckpressure.
+
+I
+
+/J
+
+/z
+
+/
+
+/
+
+/'0
+
+/
+
++
+
+;,';.i.
+V,E \.
+oil" :',r,<
+
+4
+
+)
+
++
+J
+
+/
++/
+
+./
+++
+l
+
+~
+
+V
+2
+
+V
+
+\,'10'1',,'
+1 (
+..
+
+\
+
+\\I:~o
+
+:/:
+
+~
+
+0
+
+1/
+~
+
+/ V
+/
+.P/otNo.3
+
+V+
+
+z
+
+(
+
+/J
+
+/
+
++
+
+o
+
+t
+~lv
+
+h
+
+/:"
+
+/'
++/
+
+,
+
++
+
+J
+
+,
+
+I/-i'
+17 dA'
+
+II
+,A
+
+6
+
++
+
+t
+
+/
+
+7
+
+V
+
++/
+
+f7
+
+(J
+
+9
+8
+
+/
+
+f---
+
+II
+
+J
+
+1
+
+4
+
+J
+
+8
+!1
+/'0
+1/
+_ . Inches of mercury.
+
+IZ
+
+Z
+
+3
+
+7 8
+
+45.
+
+15
+
+9 /0
+
+ApplI ed lJdck .Pre:;sure, inches ofmercury.
+(Increase 0 ver bOck pr~....vre <lv~ to manl 101<1$, etc.)
+
+IJ
+
+.
+
+,
+'0
+
+6
+7
+
+1)'11
+
+6
+
+II II
+
+J
+
+r?17
+
+.(
+
+~"J
+
+1.£' V
+
+J
+
+II.0)'<Yh~"
+•
+k();~~f
+
+l
+
+~
+
+1/
+[7:'
+
+BACK I"/TESSUI?E.
+AS A FUNCTION
+
+1/ /
+
+OF
+
+/
+
+POWER OUTPUT.
+
+1/
+I
+9
+
+5
+
+F/C. 4 .
+
+l-
+
+/
+
+II
+
+7
+
+6
+
+tt-
+
+II
+
+of/
+
+0/ 6
+7 8 , IQ
+Plot 1>10. 8
+
+lO
+
+JO
+
+-10
+
+JQ
+
+58 70 80 JQ /0/1
+
+Broke Ifar sepower.
+
+I
+
+-------------=---~
+
+I
+I, l I-
+
+,
+
+If----
+
+"t::
+
+8I
+
+I
+
+I
+
+I
++
+
+TORQUE LOSSES
+eonsfont T77roftle,voryinq Back Pressure.
+I3rcke M.t:.P.abovl'aS Ibs.plf'rsq.in. t'xcep f
+asreduced by applied back pressures.
+Cor:respands fo condilionsot'cho/<in!(l lhe
+eXhaust on on en91i7e loodt:d by />rope/ler.
+
+/
+
+-
+
+~
+~
+
+1/
+
+V
+
+~6
+
+~
+0..:' 5
+\jj
+
+~
+
+9J1
+
+V.~
+
+~
+
+~J
+
+'ll
+
+~z
+
+.
+
+"
+o
+
+~
+
+~
+
++
+./~
++
+
+1
+Z
+Plon!oIo S
+
+~
+
+V
+
+~
+
+l?
+
+/
+
+I
+
+/
+
+~
+::;
+
+~
+
+t.:~
+
+o~d '
+
+!.-;-, ~os )
+!'1.f-. P I vr)"
+'
+l----:,6r"~e I ~e(' -
+
+./
+
+f
+
+jC-
+
+pfi 0 r.;...e O. o.~,
+I
+
+"" .- I ~
+
+v,,---;of ~••~r; sq·I"·
+
+~1
+Illl
+
+1
+
+t: ....
+
+~~
+
+./
+
+,,~
+
+~ ....
+
+,,0
+
+9. ....
+
+§I
+~
+
+12
+
+13
+
+I:
+
+1
+4
+
+/
+
+++
+
+./'
+
+V
+o
+
+I
+
+I
+
++
+
+.".
+
+Z
+Z
+
+~
+
++/
+
+i).~
+
+"l
+
+/
+
++
+
+/
+II
+
+~~l
+~l\.
+
+l
+10
+6
+J
+4
+S
+Appli:!d Bock I"ressure, inches mercury
+
+/
+
+l}b
+
+~.~
+
+I
+
+3
+
+00
+
+I
+
+.1: t
+
++
+
+«y
+
+,
+
+II
+
+Constanl Throttle, varyinq Back Prt'JIurl!'.
+Speedaboul IZ30r.p.fT1. ~xceptas reduced
+by applied b ack pressures. Corresponds
+to conditions at chokin9 Ihe exhaust
+on an enqine loaded.by propeller.
+
+t,\)
+
+i'"
+
+.,
+
+~I" ~ p I I~'P
+BO'
+
+1
+-
+
+~-\:
+,,"
+~~
+
+/ :
+
+I
+
+ri-
+
+T
+
+I
+
+SPEED LOSSES.
+
+~
+
+b4
+
+/
+
+~
+l'j
+
++
+
+"d
+
+o
+
++
+
+Y
+
+~
+Z
+
+~
+
+H
+
+o
+
+~
+
+~ +
+
+r
+
+A
+
+6
+7
+8
+!J
+10
+1/
+Applied Bock Pressure, inches mercu r y
+
+Plot No. 6
+
+/1
+
+IJ
+
+IS
+
+14
+
+~
+
+Ul
+
+o
+
+_ ._-
+
+- -
+
+BAC/( PlfcSSiJlf£AS A FUNCTION
+OF
+
+'lt--
+
+POWE:1r OI.lTI"UT
+Throttle position varied TO chonq~
+
+/
+
+"r-- ;,,7h~~Tft:;'d~{::a~':,J:t::
+:~~~~:1
+:
+r~r~nl
+
+/
+
+on d/~Feren l O"oy.s .
+
+'0
+
+~
+
+~
+
+'(;
+~
+
+~
+
+~'
+
+~
+
+,
+
+-:-Y
+
+V
+
+~
+
+~
+
+b
+
+'<:
+
+!
+
+/
+
+I
+I
+
+/
+
+I
+
+I
+
+,
+,
+•..6
+
+~
+
+~
+
+~Q.
+
+o
+Plot No 7
+
+"-
+
+~ o.
+
+~V
+
+10
+
+JQ
+
+10
+
+BraKe
+
+1'1101 eOt><
+
+40
+
+Itors~power.
+
+AU .Z44
+
+r·
+
+,0
+
+,.
+6Q
+
+--.7q
+
+1-3
+1-3
+
+l'j
+l'j
+
+:1
+
+f:J
+
+o
+
+~
+
+~
+~
+
+o
+
+J
+
+z
+
+d
+1-3
+
+V
+
+,
+
+y
+
+,
+
++
+
+"t3
+
+"o
+
+H
+
+1
+
+~
+~
+",0. t
+
+IQ
+
+eno o"f!,
+
+The end ouflefvo/ve bei179 open. Throlrle conTrol.
+
+,D.4
+
+Il::
+
+~
+~
+
+I
+
+OF
+
+EXHAUST MANIFOLIJANO CONN
+ECTIONS.
+
+.~
+
+/ /
+/ /
+
+~
+
+,
+
+\J
+
+G'
+
+f
+
+~
+~o.
+
+~05
+
+J~
+
+/7 ~+
+1/
+vY oJ
+-/ J
+
+S
+
+BAc/f PRESSURE
+IfESULTING FROM RES/STANCE
+
+§o.,
+
+Qj
+
+o
+o
+
+If)
+
+\
+
+1
+
+~
+
+ot
+>,
+
+'t)
+
+f/ V
+// W
+
+8
+
+t,
+II)
+
+~
+
+I
+
+/
+
+I.
+
+IOf)
+
+Plot No. I/J.
+
+ZOfl
+
+Jflfl
+
+-too
+
+~
+
+.fOO
+
+~IJ
+
+~
+
+1(JIJ
+
+H
+
+o
+
+rn
+
+V
+
+V-
+
+/J(J(J
+
+lOO
+
+Rev o lufions per M/nufe .
+
+Iflf)fl
+
+II(J{}
+
+-
+
+Il/lfl
+
+11fJJ
+
+INVESTIGATION OF MUFFLING PROBLEMS.
+
+9
+
+when the conditions of the exhaust passages remain unchanged. The same curves are shown
+on plot 8, u ing logarithmic instead of arithmetic coordinates. The slope of these curves is
+slightly less than 1.5, indicating about the 1.5 power of the engine output. An analysis of the
+mufHer tests made at the University of Michigan (printed in Horseless Age, May, 1915) also
+indicates that the back pressure varies with about the 1.5 power of the engine output. (An
+analysis of some of the features of the University of Michigan report is given as Appendix B.)
+Neglecting changes of mechanical and thermal efficiency, the weight of exhaust gases, per
+unit of time, must be nearly proportional to the brake horsepower. So, for a rough approximation, the quantity of exhaust gas can be substituted for the brake horsepower, as abscissre
+of the curves, plots 7 and 8. The quantity of fluid discharged thr'ough orifices is nearly proportional to the square root of the pressure difference across the orifices. By analogy it would
+be expected that the slope of the curves on plot 8 should be nearly 2. A contributing feature
+in the fact that they are not may possibly be explained by the common method of averaging
+and reading a fluctuating pressure. Averaging in case of pulsations is quite often done by
+damping. The damping of the oscillations mayor it may not give a nearly true average of
+the pressure. But the instantaneous rate of flow thr'ough the orifice is proportional to the
+square root of the pressure at that instant. So for a pulsating flow there should be found
+the integration of the product of the average of the square roots of the pressures and the time
+interval during which the pressures existed, not the product of the square root of the average
+of the pressures and the total time. The latter method was used, agreeably to the common
+practice under such circum tances. The flow and the pressure difference in the exhaust manifolds are widely and rapidly pulsating. The average pressure as indicated on the manometer.
+may be far from the average pressure value which should be used in determining the flow
+However, when measuring the exhaust back pressures in this conventional manner, the empirical
+relation here shown may be quite useful-that the back pressure varies approximately as the
+horsepower of the engine, raised to the 1.5 power.
+Plots 9 and 10 give information very applicable to muffling of airplane engines. They
+show how rapidly the back pressure rises to high values as the engine is opened out to full
+power and speed. The numerical values are obtained from Table II. Plot 9 shows the result
+of excessive choking of the exhaust which was purposely done in this case to bring out the
+action. The two curves of plot 9 result from slightly different initial conditions. Plot 10
+shows the back pressure due to exhaust piping, only, including sharp turns, some extra pipe
+resistance, and fittings on our experimental set-up. This curve is of the same type and of the
+same magnitude of back pressure values which would come from a good mufHer. It should
+be carried in mind that with these figures the engine was driving a fan whose characteristics
+correspond to an airplane propeller. The form of the curves is conditioned by this type of
+loading.
+In attempting to analyze the data of Table II, reducing the loss of engine torque to terms
+of brake M. E. P ., the result is the "shotgun" diagram of plot 11. Interpretation of this is
+highly speculative considering the small amount of data which was collected. The analysis
+here attempted is much broader than the special problem which was being studied, and so no
+special runs were made to get the information needed to complete this figure. Curve OB is
+transposed bodily from plot 5, representing runs at fixed throttle and varying exhaust conditions.
+The straight line OF on plot 11 represents, as near as possible, the average relation from the
+r uns with varying throttle against fixed exhaust conditions. Since the engine was coupled to
+a fan dynamometer, speed and throttle position are tied together except for the slight modifications due to back pressures, etc. The small numbers adjacent to the points in plot 11 give
+the approximate r . p. m. of the engine and fan; and equal speeds nearly coincide with equal
+throttle positions. The apparent scattering of the points may indicate that the points do not
+belong upon one curve, but upon a family of constant throttle curves such as OC, OD and OE,
+all similar to OB. The curve OB was at about thr'ee-fourths throttle of the engine.
+Table III and plot 12 are put in as a demonstratioI). that the choking of the exhaust by
+sharp turns, pipe fittings, etc., give the same results as choking by a muffler. On August 29,
+152577--20--~o.
+
+55----2
+
+10
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+4
+
+J
+
+8 A CK PflESSUflE
+flESULTING F/fOMANEAIUY CLOS ED
+EXHAUS T S YS TEM.
+
+Z
+
+.L
+
+II I
+
+Throtlle COnTrol.
+Po/n 'l'$ + o re 'rorndcroorAu9· Z4.
+- Z9
+
+I
+
+-
+
+0
+
+/
+
+" -
+
+liT
+!/
+/ II
+
+7
+
+"/
+
+/ 1/
+VI
+
+/V
+
+)jI
+IOJ
+/"YotNo. 5
+
+-~
+
+~
+
+V'
+
+1&9
+W
+4CiJ
+HI {OJ
+Revolutions p er Mlnuf'e
+
+fIlQ
+
+lJ)J
+
+"".Ill
+
+III
+
+Ll1I
+
+1
+/.0
+
+BACf( PIfESSUIfEAS A FUNC TION
+
+o.F"
+r'OW£R OUT?UT
+Thro ttle postfion varied to change Engine
+Power. Exhaust poss(7ge cond itions rixed
+I'or each curve b u t dlfferingl'or Nle various
+Cur ves .
+
+~.J
+
+~~7
+
+/
+V
+
+~
+,?vy \/ /
+l'
+
+e0'Y
+
+oO~
+((1
+
+0.1
+
+o
+
+-
+
+PlotNo. /2
+
+~~
+/0
+
+----
+
+~
+
+I--- ~ k9= ~
+'()
+
+v:
+-~
+
+)0
+-.'0
+Crok e !forsep ower.
+
+\e~
+
+\-1
+.JO
+
+~j,t10U
+
+tl e-"'
+f.'l-t1
+
+.l J' ~., V
+-tI'
+.
+
+<\ \
+
+.
+
+~t \"
+
+0 u~t
+
+' ~,(I
+
+(0
+
+~ \e.
+
+tAv
+
+fi \\li(1Q'
+
+Ne""
+
+50
+
+60
+
+J
+
+70
+
+.
+!::'o
+~~
+~:
+
+I
+
+C(~
+_r-.
+
+.~
+
+-<::~,
+~ ~ .O)
+
+I
+
+t'~
+
+I
+
+. ~'t-..
+
+__umu unuuuuuuunu 'un numu 'u_n uum+u uu__ Un uUuuunum u::=:Uu=: J u 6l1/
+:0__'~ ~ _~=uu.:.:::::.::unnuuuutt ;
+~ --~_un
+11::: -_. .~
+
+- - ~-
+
+1
+
+I.
+" .3 "
+
+,V4:
+
+.
+'I'
+
+. ".
+
+8,n
+
+'I'
+
+-I-
+
+8~"
+~z.
+
+1-:3
+
+~
+~
+
+~
+
+o
+
+":1
+
+~
+
+~
+
+~
+~
+
+-I
+
+'I'
+
+~
+
+~
+rn
+
+o
+
+j
+
+Z'-IO "ormore
+
+Notless
+thon.3"
+
+~~
+
+.....
+
+Q
+
+12"
+Not less than.3"
+
+,I
+
+MANlrOLD & MUrrLER COM!3INEf)
+Upton-Goge Ideo. Adopted forH-S en9-
+
+'"d
+~
+
+o
+
+t:d
+
+~
+
+~
+~
+
+Fiq.l.3.
+Half' or Outer Shell remoyed_
+
+,....
+,....
+
+12
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+after taking the data given in Table II, the exhaust piping connections were changed somewhat in order to tryout a mufHer. The wire-gauze-filled muffler, described on page 48 and
+figure 4 of Report o. 10, was put on the open end of the exhaust manifold piping. Runs were
+made with and without the muffler as resistance, giving the data shown in Table III, and in
+plot 12. This is comparable with plot 7, the lower curve of plot 7 being reproduced as the
+upper curve of plot 12. All three curves are evidently of the same type. Hence the information
+obtained from Tables I and II and their analysis will be applicable to the analysis ofmujJler actions
+so far as back pressures and power losses are concerned.
+. In the course of the experimental work so far described some peculiar phenomena were
+noted. One such was an abnormal power drop, considering the back pressure, at certain
+"critical speeds. " It was found that this abnormal power loss was avoided by a very small
+change of speed either way from the critical. The critical speed changed or disappeared with
+change of exhaust manifold. Apparently some manifold would not show this phenomena;
+probably the curved manifolds would be free from it. The supposed cause of this abnormal
+power loss at a critical speed is a reflected wave of exhau t gas filling the clearance of some
+cylinder just before its exhaust valve closes.
+Study of this effect led to a suggested design of an exhaust manifold, and ultimately to
+the design of a mufHer. If the pulses of exhaust gas, following the opening of successive exhaust
+valves, could be so trapped that they would never return to their own or other cylinders by
+direct motion, or by reflection, interference and abnormal power losses would be avoided, and
+the muffling problem itself might be simplified. The scheme selected was rather similar to the
+muffler design shown in figure 3, page 47, of Report No. 10. The exhaust of each cylinder
+was to enter, tangentially, the annular space between two concentric cylinders. In this space
+the exhaust gas, entering with high velocity and pressure, could spin around, dissipating its
+energy both by friction and by progressive leakage through numerous small holes in the inner
+cylinders. The inner cylinder, continued outward from the manifold, was to become the
+exhaust pipe. A design for a manifold-muffler of this type is shown in figure 13 . The tangential
+entrance effects the trapping of the exhaust pulse, preventing its direct or indirect return to
+any cylinder. This is shown more in detajl in figure 14.
+While a device of this character (figure 13) might be successful in normal operation of an
+automobile engine, it was discarded as unsuited for airplane engine service. First, the internal
+construction would burn out owing to the great heat of the exhaust gases in airplane service,
+and secondly, the radiant heat from the large surface of the manifold would prohibit the
+installation. The first objection may be met, and the second minimized, by the more compact
+construction suggested in figure 15, which could well be built with a smaller external diameter
+than the other design.
+The remainder of the experimental work consisted of trials of various commercial mufflers
+and of experimental muffiers de igned and built by the authors of this report. The experimental apparatus remained, in general , unchanged. The dynamometer, the tachometer, and
+the arrangements for reading back pressures remained the same and were used as before. Power
+losses due to the application of mufflers were found as described previously in the determination
+of power losses due to applied back pressures. When the emphasis was upon the determination
+of mufliing ability, and the comparison of various muffler with each other as silencers, the
+determination of power loss was inferred from the back pressure reading and general engine
+speed. Thi method is more accurate than the direct de termination of power loss from speed
+drops, because the power losses from the mufflers finally selected were small . The drop of speed
+was too small to read satisfactorily while the back pressure was still a readily measurable
+quanti ty.
+Usually, when working with mufflers, the Curtiss engine was set to run at its recommended
+speed of 1,200 to 1,250 r. p. m., developing about 70 horsepower. A scale of throttle settings
+had been made so that this, and other settings, could be duplicated. Generally one muffler was
+used for the entire engine, taking the exhaust from all eight cylinders. The setup shown in
+figure 1 was then modified by putting the quick-opening valve on the side outlet of the tee on
+
+13
+
+INVESTIGATION OF MUFFLING PROBLEMS.
+
+--- - --- - ---
+
+Section tho.! Cylinder Connection
+
+Fiq. 14.
+
+.
+
+:::~::::::::::::::-_-_-_-_-_::::::-_-::_L:-:::::_-__-_-_ ~_-_-:_-_-_::_:::~:_::- __ k---___
+_ __
+____
+
+---r
+
+I
+If) I
+
+__ ____
+u_uu_Iu_m um -e;
+--- -::_-_-_~-::::-_-_::::_:::::-:--:-J -:::-_-----_--:-_--::--::::-:-::_] - - - - - '
+-_
+
+NEWMAN/FOLD MUFFLER
+ShoJ'Vin9 extrv inner tubeinploce_
+- - -- - ---~'"r- - " '
+-- .
+
+1317ModI!? l adoptedtoCurlis OX&ThOl77Os
+
+,
+"1
+'0
+
+: ~-~- - :- - - - - - - -:- -~ ::: :::- - ---::-t-:--: : ~: : -: : :- - -~: :-::~:: - -~-- .- ~
+­
+I
+
+Fi9- /6-
+
+14
+
+ANNUAL REP ORT N ATIO N AL ADVISORY COMMITTE E 1<'OR AERONAUTICS.
+
+1 - < - - - - , . r; - - - - - - > - 1
+,,9UOlfl SSOJIION
+
+.~UOld III 0./ ·W !O
+
+1
+~
+
+l
+
+t)
+
+QJ
+
+~
+:'11\1 c;)
+
+~t
+l..
+
+t)
+
+t
+l..
+
+0
+
+•
+'I"l
+10
+
+~
+
+INVESTIGATION OF MUFFLING PROBLEMS.
+
+15
+
+the end of the cross manifold, allowing the installation of the muffler under test, without a valve,
+in the direct line of the exhaust flow. The back pressure due to the mufller could then be
+determined, by taking alternate readings as before, with the quick-opening valve open and shut.
+The data of Tables III, VI, and part of VII came from tbis arrangement.
+In a few tests, concerning particularly the capacity of mufflers, the cross manifold was
+removed. A muffler could then be placed directly on the end of the stock exhaust manifold
+for one block of four cylinders. Generally a muffler was placed on each of the two manifolds.
+The mufflers then had to be applied and removed by hand in order to determine the back pressure due to the muffler. Tbis procedure was used for getting the data of Table IV, using the
+G. P. F. 12-inch and 28-inch mufflers, and part of Table VII.
+Estimates were always made of the silencing qualities of the muffler being tested. In the
+end the devices selected as most promising were put through comparative tests, where rapid
+substitutions were made by hand. For tbis work it seemed desirable to make an open-air
+estimation of the noise of the exhaust and the degree of silencing with the various mufflers.
+To get the exhaust outdoors and pointed in the right direction the tee and valves on the end
+of the cross manifold were removed. At the end of the cross manifold direct connection was
+made to a 2-inch piping system consisting of a 6-foot length of pipe, a 45° ell, and a second
+6-foot length of pipe. Tbis piping did not muffie the exhaust to any noticeable degree. The
+back pressure due to the piping, at normal engine speed, was about 1 inch of mercury. Tbis
+measurement, in itself, may be of considerable interest in the problem of the disposal of engine
+exhaust on airplanes. The data of Tables VIII and IX were taken with the mufl]ers placed
+outdoors in tbis manner.
+Many devices and ideas for silencing were considered, and quite a few were tried out. All
+devices with wbich tests were made, and wbich were found worthy, as well as a few wbich were
+rejected, are included in the descriptive matter wbich follows. Of the rejected schemes, only
+those are described wbich are based upon some peculiarly attractive idea, or wbich are akin
+to common practice. The experimenters (the authors of tbis report) applied quite peculiar
+descriptive nomenclature to some of these devices. For the sake of brevity, some system of
+naming is necessary, so those designations will be perpetuated, and the derivation of the appellation briefly indicated.
+G. P. F.-These mufflers are shown in figure 2 and described on page 43 of Report o.
+10. Four of these were used, two each of the two sizes. All were 5 inches diameter, two were
+12 inches long, the other two were 2 inches long. They were made by Geuder, Paeschke &
+Frey Co. These are regular stock muffiers.
+Maxim.-A Maxim silencer for Fords was purchased of a local garage. The entrance to
+tbis muffler was only 1.5 inches internal diameter. The tail pipe was 12 inches long, tapering
+from 1.5 inches diameter at the muffler to 1 inch diameter at the outlet. It was hardly fair to
+use tbis on a 70 horsepower engine; bu t the data is of great in teres t.
+Manij'old mujjle1's.-The name comes from the original idea of putting several of these
+devices in line, end to end, one for each cylinder, the combination to replace the exhaust manifold. However, tbis manifolding scheme was never thoroughly tried out; the one unit of the
+device was used as a muffler, with conventional installation at the end of the manifold. As
+originally constructed the inner cylinder did not touch the end pl ate, so that the exhaust could
+escape around the end as well as through the holes of the inner cylinder. The end path could be
+blocked by a piece of asbestos board fastened to the end plate. Tbis first manifold muffler was of
+the same general design as shown in figure 16 and figure 17, bu t wi th the ou tel' cylinder 6 inches
+long instead of 9 inches, and containing only the 3} inch perforated inner tube.
+The "Long Manifold Muffler" was made up of two outer sections of the first manifold
+muffier, making an outer cylinder 12 inches long. The inner tube was not perforated and extended the full length of the muffier, its serrated end touching the far end plate. The exhaust
+entered the outer cylinder near one end through the regular tangential entrance of tbis type of
+muffier. The entrance of the second unit was blocked. The annular space was both spin and
+
+16
+
+A NUAL REPORT NATIO ' AL ADVISORY COMMITTEE FOR AERO
+
+AUTle'S .
+
+expansion chamber for the exhaust gases, which escaped. into the inner tube only through its
+serrated end., at the opposite en d. of the mu ller from the gas entrn.nce and exit .
+Later a "New Manifold Muffler ' was buil t similar to the sections which were first made,
+but 3 inches longer, and with provision or slipping an ex tra perforated inner tube of 2~ inches
+diameter inside of the regular 3~ -inch inner cylinder. This last design of the manifold mumer
+is shown in figure] 6, with the extra inner tub e in place, and in figure 17 a sembled and disassemblod . The manifold mufflers re dovelopments of the muffler shown in figure 3, page
+47, of Report o. 10.
+Wire m esh type.-Several of thiB type were built and tried out. The gener al scheme is
+shown in figure 4, page 48, of the Re.port No. 10. The idea is to gradually increase the r esistance, and to break up the energy, of the exhaust by means of sections filled with fine wire
+mesh. The finest mesh was used at the ou tlet, and the mesh increasing in size toward the engine.
+Spiral guide vane.- This schem consisted of an expansion chamber, with spirals in the
+annular outlet passage, instead of tho wire mesh . The spirals fonued, in effect, a long nozzle.
+Various forms of spiral were tried : of constant pitch , or area of passage; with area of passage
+growing smaller toward the ou tlet, f:>rming a sor t of converging nozzle, and with the area of
+pas age increasing toward the di charge end . The general design of these is based on that of the
+Maxim silencer, but there is not the I' pl'ated reversal of flow in the spirals.
+lVhirl cham ber m~tJlers .- So called from their general cons truction. Figures 17, 18, 19, and 20
+show the form of these mufflers. Th ' exhaust pipe is flat tened from a circular cross section at
+the engine to a rectangle at the mu fHer, giving a contracted nozzle effect. This rectangular
+section is fastened tangentially to the circumference of a ring of considerably larger diameter.
+One cover plate for one side of the' ring is a plate dished to give stiffness. The other cover is the
+outlet for the gas, and con ists of a truncat ed cone . Tho exhaust gases enter the ring tangentially,
+swirling around and around inside the ring. As th ey lose velocity they gradu ally escape through
+the opening between the dished cover plate and the end of the truncated cone. F our of these
+mufflers were made, one each with rings 4 inches and 12 inches in diameter, two with 7-inch
+diameter rings. The 4-inch and 12-in ~h diameter were made with the idea of having one of them
+too small and th e other too l argo. The exh aust pipe entering the muffler was contracted from
+a 2-inch diameter to a rectangle I-inch wide, except that one 7-inch ring had a nozzle ~ inch
+wide. The sides of the rectangle had the same to tal perimet~r as the circumference of a 2-inch
+circle. This is a constructional requ.:rement. The width, or depth, of the cylindrical ring was
+limited to the length of the rectangular discharge nozzle, plus clearance necessary in manufacture. This makes the rings 4 inches deep with the I-inch nozzles, and 4} inches with the
+1-inch nozzle used on one of the 7-inch whirl chambers. The cover plates were dished abou t
+t inch, this being the maximum ol tainable with the local tinsmith. The design called for
+1 inch. The. e plates could be applied with the convex surface in or out as indicated in figure
+19. The area of the open end of .he truncated cone was the same a that of the exhaust
+pipe, that is, 2 inches diameter. Tho pace between the end of the truncated cone and the cover
+plate was varied from time to tinle )y the various arrangements, ome of which are indicated
+in figure 19 . Shallow cones were aJ ailable as well as the deep ones. With deep cone, and
+cover plate dished inward, the clear ance tru:ough which the exhaust had to escape was about
+t inch. With cover plate dish ed ou tward the clearance became 1 inch. Wi th sh allow cone the
+clear ance was 11 inches.
+The 7-inch whirl chamber muffl l' was also tried out with a double cone assembly, one cone
+pointed inward and one outward . (Diagr am of arrangement in Table VII. ) This assembly
+was also tried with a "diffuser " plate b etween the two cones. One diffuser was a plate with
+ab ou t 100 soattered kinch h oles pm .ched through it. Another diifuser tried with bo th 7-inch
+and 12-inch whirl chambers had n o boles, or very small ones, in the 120 0 sect or first passed by
+the entering gas, the next 120 0 with larger holes, and still larger holes in last 120 0 •
+The Duplex whirt chamber mujjl.nr consisted of the two 7-inch rings bolted end to end, using
+one of the t angential nozzles as entrance, and the other as discharge passage. The al'l'angement
+required the reversal of internal whirling b efore the gas could get out. Generally one or the
+
+FIG. 17.
+
+F IG. 20.
+
+16
+
+.-.1,/
+
+~--->-~_______ _ _ _ _ _ __ _ _ _
+
+17
+
+INVESTIGATION OF MUFFLING PROBLEMS.
+
+other of the diffuser plates was placed between the two rings. The I-inch nozzle was used as
+entrance in most cases.
+Venturi .-A 2-inch pipe Venturi with %' inch throat was tried, upon the idea of an expanding nozzle to secure an adiabatic drop of pressure and temperature of the gas, also, to increase
+the velocity of the gas above the velocity of sound, so as to prevent any sound waves issuing
+from inside the manifold. The Venturi was used alone, and in combination with the 7-inch
+whirl chamber mumer, the Venturi then aoting as a discharge pipe .
+
+/
+
+..-
+
+WHIRL CHAMBER MUFFLER
+
+VARIOUS ASSFI'1BLIFS
+or Wlt/RL CHAH8£RHurFL£RS
+I'ig./9
+
+The problem of silencing the exhaust noise from an internal combustion engine is fairly
+comparable with the problem of silencing a high velocity rifle, or better, a machine gun. At
+the instant that an exhaust valve begins to open, the gases seeking to escape from the cylinder
+have a pressure in the neighborhood of 40 pounds per square inch gauge and temperatures of the
+order of 1,000° F. Where the endeavor is to get maximum power from the engine, these values
+are understated. If adiabatic expansion is assumed at the time of release, the initial velocity
+of the di charging gas is independent of the pressure into which the gas is escaping, because
+the" critical pres ure " is greater than the pressure in the manifold or atmosphere. The initial
+velocity will be the velocity of sound at the" critical" pressure and existing temperature of the
+gas at this pressure. This velocity of the exhaust gas is of the order of 1,500 to 2,000 feet per
+second--<lonsiderably higher than the velocity of sound through the air. The first portion of
+the escaping exhaust is practically a slug of gas coming out like a projectile from a gun, with a
+velocity greater than that of sound in air.
+It is well recognized that the report of a high-velocity rifle consists of two sounds. One
+sound wave, the "report," comes from the muzzle of the gun arising from the slap of bullet and
+152577--20--~o.
+
+55----3
+
+18
+
+•
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+exhaust gas upon the air adjacent to the muzzle. The other sound, of craclring, ripping quality,
+comes from the tearing of the air by a projectile moving with a velocity in excess of tho velocity
+of sound. If the bullet is traveling toward the observer, this second sound is heard first. The
+lugs of exhaust gas from the open exhau t s of an airplane motor are soon dissipated, and do
+not travel far as projectiles. While they last, however, there is little doubt that they contribute
+to the quality and amount of exhaust noise from the engine.
+If the velocity of the slugs of exhaust gas at the time when they enter the air can be reduced
+below the velocity of sound in air, the quality of tho exhaust sound will be much duller and the
+quantity of noise much less. The most effective way of lowering the velocity of sound in a gas
+is to lower its temperatme.
+There are two mean of accompli hing the cooling o! the exhaust gases before they reach
+the atmosphere. One is by direct cooling, as by water jacketing. The other is by designing
+the exhaust passages on the idea of the nozzles of a single velocity stage steam turbine, so as
+to reduce the velocity of the exhaust ga os to approach the velocity of sound in air, by efficient
+expansion in the nozzles. This latter method Was suggested by Mr. F. C. Mock. (S. A. E.
+Bulletin, p. 270, Vol. V, No. 3, Dec., 1913.) It was found that such design of exhaust ports
+apparently increased engine power. However, tho reduction of temperature by expanding in
+nozzles is limited, if no work is done by the gas. Only the edge of the crack of the noise from
+the slug of gas can be removed by means of xpansion alono. If tho exhaust is made to drive
+a turbine, then more heat energy will be abstracted, useful work will be done, and at the same
+time the exhaust velocities will be made uniform and small.
+The frequency of the exhaust from a multicylinder, high-speed engine generally is a source
+of a humming sound, if in any way the air is made to vibrate with the engine frequency. The
+lowest audible note to the human ear is of about 40 beats per second. The exhaust frequency
+of a 12-cylinder 4-cycle engine running 1,500 r. p. m. is 150 per second. This will be a lowtoned hum. To this hum an airplane propeller also contributes harmonics which will blend
+with the engine hum.
+Complete muffiing, so that the engine will give neither crack, whistle, nor hum of exhaust
+noises would involve the smoothing out of the flow of exhaust gases into the atmosphere to a
+uniform velocity below that of sound. This is manifestly impraoticable. With a pulsating
+flow it might be practicable to keep the maximum velocity of exhau t gas entering the air below
+the velocity of sound in the air. The humming noise will then be heard, without tho crack or
+whistle.
+The greater portion of the exhaust from a oylinder must pass out in this fu'st slug of high
+velocity discharge, as the average velocity of the piston on the exhau t stroke is only about 25
+feet per second. This shows that the actual time required for disoharging the major portion
+of the exhaust of anyone cylinder is quite short compared to the period during which tho
+exhaust valve of this oylinder is open. A whole group of cylinder may be discharging into one
+exhaust manifold without interferences, provided the marufold is so designed that each slug of
+exhaust can freely escape down the marufold without check or refloction. If too many cylindor
+exhaust into one manifold, there will be overlap of the scavenging periods, during which two or
+more of the various exhaust valves may be open at the samo time. Thi overlap of the scavenging periods is a minor matter oompared to what happens when a slug of exhaust enters some
+cylinder through an open exhaust valve directly or by reflection.
+An exhaust manifold may r educe the crack of the oxhaust by slowing dO'wn tho initial
+velocity of the slugs of gas, and by a limitod amount of cooling. The direction in which the
+exhaust is pointed is a con iderable factor in the noise heard by observer, the intensity of
+sound being much greater in the direction of projection. Long exhaust pipes may somewhat
+inorease the muffiing effect of a marufold, by added friction and added cooling. However, the
+notation on Table VII, based upon the e timates of several observors, would indicate that
+muffiing effect of mallifold and long smooth exhaust pipe was very slight. Bends, and al 0
+rough interior surfaces, will increase the muffiing eiIect and also the power 10 .
+Any long pipe may aot as does an organ pipe, having a natural period of vibration in sound
+waves. This period may happen to coincide with the frequency of the exhaust in such a way
+
+INVESTIGATION OF MUFFLING PROBLEMS.
+
+19
+
+that exhaust gas will be forced back into some cylinder just before the closing of its exhaust
+valve, entailing an abnormal power loss at a critical speed. Such an effect was noted in the
+experimental work, and was referred to in the di cussion of Table II.
+As previou ly stated, the silencing problem would be solved if it were feasible to reduce
+the velocity of exhaust gases escaping into the air to a uniform velocity, less than the velocity
+of sound. Practioally, it is possible only to spread out the peak of the discharge, or the "slug"
+of exhaust pulse, so that its velocity is reduced toward that of sound. Every slug of exhaust,
+not only while in the exhaust system but in the period of issuing from the system, is a potential
+source and exciter of sound waves. The internal vibrations of the system as excited by each
+slug, combine their sound with that of the impact of the slug upon the air, and change the
+quality of the sound as a whole. Great inegularities of internal form of the exhaust system
+may break up the internal sound waves. The sound-producing qualities of the exhaust slug
+are relatively much greater than the sound waves internal in the exhaust system.
+A very obvious device for dissipating the exces ive velocity of initial flow of each exhaust
+is an expansion chamber. The gas velooity entering the chamber is highly irregular; it is
+assumed that the discharge velocity is much more nearly uniform; and the slapping of the
+external air by successive exhaust slugs is stopped. This is nearly true if the chamber is
+capacious enough. The slapping action takes place as theexhaust enters the expansion chamber,
+and sound waves from this point radiate outward, some of them e caping through the tail pipe.
+To complete this device as a muffier, the exit of sound waves would have to be prevented, it
+being assumed that the capacity of the chamber is sufficient to prevent the slug pa sing through
+as such.
+If through the exhaust line ther e is placed a long eries of baffies, each baffle will drag back
+a portion of a passing exhau t slug, delaying this portion with r eference to the remainder, and
+thus changing the flow from intermittent to nearly uniform. Muffling might then be secured
+by a sufficient amount of ba£lling alone. The co t in back pre ure and power loss would be
+prohibitive, to say nothing of the weight of material necessary for the baffies and general
+structure. When baming structures are used, the highly hated exhaust gases burn out the
+internal structure, and carbon deposits and oxide scale choke the baffies. This burning away
+of internal parts is a very serious objection to the u e of baffies in mufflers for. airplane motors.
+A combination of expansion chamber and baffies Can be made into a very satisfactory
+muffier. The smoothing of the pulsation of the exhau t flow is done mainly by the expansion
+chamber, and with much less power loss than if it were done by baffies. The baffies permit the
+expansion chamber to be made of moderate dimension, by helping the smoothing out of the
+flow. Also, if properly designed, they will nearly prevent the escape of sound waves from the
+expansion chamber by reflection (backward) and dispersion (scattering and interference) of
+the sound waves coming from the initial slap of the slug.
+In order to get the effect of a large expansion chamber without great weight and size, the
+manifold muffier type (" whirl chamber") con truction wa proposed. The exhaust is brought
+tangentially into an annular space between two concen tric cylinders. The slugs of exhaust gas
+may continue to travel around in this space, but they can not escape from this cylinder until
+their velocity is sufficiently reduced to reverse or change direction in some way. If, for example,
+the gas slug whirls around the chamber 20 times (it was observed to travel around more times
+than this upon a single cylinder slow-speed engine) it has had, in effect, the use of an expansion
+chamber of a volume 20 times the volume of the annulus. As the gas spins, I09ing velocity,
+a. continued series of small portions escape, at right angles, into the inner cylinder or discharge
+passage. The gas can more readily turn at right angles than r everse itself, so that there is
+little chance for a retum pulse to the cylinder. In spinning around and escaping inwards, a
+subdivision of the exhaust pul e is made such that the successive small portions enter the atmosphere over a comparatively long period of time, making the velocity of the exhaust gas entering the air fairly uniform instead of highly intermittent. It is also probable that the initial
+slap of exhaust entering the whirl chamber of the mufflers is less than if they abruptly entered
+a large expansion chamber, because there is relatively a much smaller change of size of passage.
+As contrasted with the use of baffies to smooth out the exhaust pulsations, the desired end is
+
+20
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+accomplished in these "whirl chamber" designs (and "manifold mufflers") with relatively less
+power loss through back pressure.
+In the typical "whirl chamber muffiers" all metal parts had one side exposed to the air
+in order to have considerable cooling effect upon the exhaust, and also to avoid the danger of
+the burning away of the metal. (The succe s of this cooling is illustrated upon one of the
+muffiers tested, which still has upon it a paper label only slightly charred.) In so far as any
+cooling of exhaust is secured, the muffling is thereby aided.
+A sufficient cooling of the gas will, in itself, silence the exhaust. Such cooling is only
+possible in marine practice, where water is sprayed into the exhaust line, and is found effective.
+It may be desirable to place :fins for au: cooling upon the exhaust manifolds, pipes, and mufflers
+of airplanes. A radiator used to cool the exhaust gases for the purposes of silencing may sound
+like a humorous suggestion, and yet it may be practical on heavy duty planes.
+Before a muffler can be applied to an engine there must be a manifold of some kind to take
+the exhaust gases from the engine to the muffier. This manifold is itself a source of power
+loss, both through friction of flow, and through the possible intederences already mentioned,
+particularly the back flow of exhausts. In the early days of internal combustion engines,
+manifolds were fU'st made by bringing the pipes from the individual cylinders squarely into a
+collecting pipe. The right ana-led turns of this design caused high back pressure and promoted
+interferences. To decrease the back pressures (and interferences) the manifolds are now made
+with sweeping curves on the discharge. pipes of each cylinder, making each individual pipe
+have an easy entrance, in the direction of flow, into the common pipe. It is suggested that a
+more compact design could be made by analogy with the "whirl chamber mufflers." The
+individual exhaust pipes might be brought straight out from the cylinders, but with their
+center lines so far above or below the center line of the common pipe that the exhausts would
+make tangential entrance to the common pipe. This idea is shown in the designs of figures
+13, 14, and 15. The change of direction of flow from the individual pipes to the common
+pipe can probably be made with back pressures no larger than from the sweeping bends of the
+conventional construction, and with the advantage of compactness. The smallness of back
+pressures may be inferred from the data at the bottom of Table VI on the resistances of rings
+with nozzles only.
+Throughout all the design of manifolds and mufflers there is one item that must be kept
+continually in mind. The sharp pulse of each exhaust is practically a mechanical slap or blow
+upon all of the inside surfaces of the metal parts. If these metal parts are made of thin material,
+as they m ust be to save weight, it is necessary to so form them that they are inherently stiff,
+incapable of buckling or drumming. Otherwise they will become transmitters for the exhaust
+sound to the adjacent air, with additional noises from the reverberation of the metal itself.
+Flat surfaces are to be avoided, and doubly or singly curved surfaces chosen.
+The preceding paragraphs have outlined the theory of muffiing and associated problems
+as it developed to the authors during and after their experiJnental work.
+Early in the work there arose the question of how the capacity rating of a muffler should
+be made. The data of Table IV precipitated this question. The two different sized mufflers
+compared were presumably alike in internal design save that the longer ones contained a greater
+number of the baffling elements in series. The G. P . F. design is given in figure 2 of Report
+No. 10. According to the makers the horse10wer capacity to be handled by the 28-inch
+muffiers is four times that of the 12 inch . They recommended the 12-inch mufflers for
+engines up to 553 cubic inches displacement, and the 28-inch muffiers for engines up to
+138 cubic inches. Yet it was found that on the Curtiss engine, with one muffler handling
+4 cylinders, of 251 cubic inches displacement, the 12-inch mumers gave 2 inches of mercury
+back pressure, against 4 inches !rom the 28-inch mufflers, and if there was any choice as to
+silencing ability, the smaller mufflers were the better. It was also found that the 12-inch
+G. P. F. muffier failed to silence a 3H by 4 inch Chevrolet automobile motor of about 170
+cubic inches displacement. This same 12-inch G. P. F. mumer gave the same back pressure
+and better silencing effect when handling all 8 cylinders of the Curtiss engine (Table VIII)
+502 cubic inches displacement, that it did when handling only 4 cylinders of the same engine.
+
+INVESTIGATION OF MUFFLING PROBLEMS.
+
+21
+
+In Table VII the data shows that one of the" manifold mufflers " had this same peculiarity of
+improving its silencing, and of not increasing its back pressUTe when the n umber of cylinders
+handled was changed from 4 to 8. At the same time some "whirl chamber mufflers" increased
+their back pressUTe in the ratio of 1 to It or 1 to 2 when changed from handling 4 to handling
+8 cylinders. If the back preSSUTe of a muffler followed the usual laws controlling the increase
+of preSSUTe with quantity passing, the doubling of number of cylinders exhausting into a muffler
+should have multiplied the back preSSUTes by 4. The explanation is in part in the design of
+the mufflers themselves, and in part due to the peculiarly intermittent flow of the exhaust
+gases.
+The silencing by the muffler comes in its operation upon the" slugs" of the exhaust gas,
+the size and character of which is fixed by the individual cylinders. In so far as the frequency
+of impulse (due either to multiplication of the number of cylinders or to the increase of speed)
+is concerned, it appears that the more frequent the impulse, the easier it is to silence the exhaust
+noi e. The power loss, or back preSSUTe, seems to depend upon the form and size of the individual impulses. Perhaps if the number of cylinders should exceed the present limit (12)
+there might be sufficient overlap of instantaneous impulses to require a larger mufller. The
+bulk of the exhaust comes at the first opening of the valve, so these pulses are not liable to be
+superposed to any appreciable extent. The characteristics of the individual exhaust pulses
+are controlled by volume of cylinder, valve timing, throttle position, ignition timing, and
+mixtUTe ratio, all of these affecting the amount of gas and its preSSUTe at the time of opening
+the exhaust valve. The speed of an airplane engine is tied with the throttle position because
+of propeller characteristics, while an automobile engine throttle and speed are independent.
+As a matter of fact, it appears that the smaller the mufflers, up to some limit, the better
+the silencing. Also the laro-er the muffler, the less the back preSSUTe, geometric similarity
+being assumed. (The 28-inch G. P. F. muffler is not similar to the 12 inch.) The effect of
+change in back preSSUTe is slight. So that the tentative conclusion is reached that, with the
+muffler design geometrically fixed, and if the size only is changed, then the smaller the muffler
+the better the silencing and all around action, until the power loss exceeds the tolerated value.
+It may be remarked that mufflers taking all 8 cylinders of the Curtiss engine receive about
+the same frequency and magnitude of impulse as if used on one side, 4 cylinders, of back geared
+motors such as the Thomas or Sturtevant.
+The effect of size of muffler was noted when u ing the same mufflers on different engine .
+The greater the bark of the exhaust, the better was the relative suppression by the same muffler.
+The mufflers were more effective in suppressing the bark of the single cylinder farm engine
+(5 ~ by 10 inch Ingeco) than on the Curti s (4 by 5 inches) .
+The suggestion from the facts mentioned above is that the capacity rating of a muffler
+probably should not be based upon the total displacement of the engille, so much as on the
+displacement per cylinder.
+In reading the discussion which follows concerning the various scheme for silencing the
+exhaust which were considered in this work, it should be kept in mind that the experimenters
+had formulated certain requirement and limitation for muffler in airplane service. The
+manifolding and mufflers should not be a SOUTce of fire risk from radiant heat. Muffler explosions
+should be made harmless, either through sufficient strength, or provision of a breaking piece.
+Weight of manifolds and mufflers must not be exce sive. Any parts 0 disposed as to cause
+head resistance must be made as small as possible and of "stream line" form. The power
+lost due to back pressUTe must also be very small. It is desirable, but not e ",ential, that the
+muffler be dUTable, especially with regard to bUTning out the interior parts. The amount of
+silencing required is not great, compared to the usu al ideas of muffling devices as exemplified
+on automobiles. The reason for not requiring so effective silencing is that there are many
+other noises coming from a plane moving through the air.
+uch noises are the hi s or whistle
+of the wires, the beat or drum of the propeller, and the valve and gear noises from the engine.
+It has been assumed in this report that what the experimenters and a sistants called a 50 per
+cent total silencing of the exhaust noise would be sufficient and satisfactory for airplanes. If
+there is more silencing than this, a muffler cut-out may be needed by the pilot to judge the
+
+22
+
+A NUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERO AUTICS.
+
+engine performance. However, it wa found that 75 per cent ilencing was easily obtained,
+so this was soon adopted as a standard.
+A common device on planes is a long exhau t pointed upward. 'I'his i not a muffier, but
+it is somewhat effective in directing the sound away from the ground. Long pipes running
+back along the fuselage take the exhaust gas and orne of the noi e away from the occupants of
+the plane. If pipes of smooth interior are used, the power 10 s due to back pressme is relatively
+mall. In Table VIII it is noted that 12 feet of 2-inch pipe with one 45° elbow cau ed a back
+pre sure of 1 inch of m ercmy on a Curti s (8-cylinder OX) engine, resulting in a power loss of
+about seven-tenth of 1 per cent. It is regretted that data on the back pressure due to flexible
+metallic exhaust ho e was lost, but the notation made was that 4 feet of the 2-inch flexible hose
+gave more back pre sme than the 12 feet of standard 2-inch wrought-iron pipe including one
+45° elbow.
+The first muffler tried out in this series of te t was a wire me h muffler shown in figme 4 of
+Report No. 10. The muffler type i that of expansion chamber plu baffles, relying largely upon
+the baffle for noise uppre sion. The power 10 s wa slight and the muffling estimated about
+50 per cent. The weight is 15 pounds, which i comparatively great. The fiat metal ides
+probably drummed, reducing the muflling ability . It was anticipated that the wire gauze would
+bmn out and choke the passages with scale under continuous operation. Even in short operation the 'wire gauze began to pack although it did not burn. These prospective trouble, together
+with the weight, caused the discarding of this type.
+The variable pitch piral muffler mentioned in Table V, wa ,a constructed, cumbersome.
+Its silencing was estimated at 50 per cent plus. The construction embodied a cylindrical
+expansion chamber plu a baffle placed in a concentric annular space. The baffie was made of a
+single strip , helically wound around the chamber, making, in effect, a long unobstructed path.
+This device is of the same type as a number of commercial mufflers which have aheady been
+more highly developed. It is ubject to the disadvantage of weight, size, and bmning out.
+A Ventmi with till'oat 0.75 inch diameter and of 2-inch entrance and exit was tried on the
+end of the 2-inch exhaust pipe. The till'oat ize was selected to give a ga velocity greater than
+the velocity of sound, in order to prevent the transmi sion of sound from the engine through the
+exhaust pipe. The success was undoubted, as there was no crack. But the velocity of the gas
+in the throat set up an unearthly noise all its own. The expanding portion of the Ventmi,
+instead of erving a a diverging nozzle, acted as a megaphone. Then the Ventmi was tried
+with the exhaust first passing through the 7-inch "whirl chamber" mumer, with somewhat
+similar resul ts. The Ventmi was also rejected.
+The Ford Maxim muffler was found to be a very effective silencer when used upon the
+Curtiss engine, as well as when u ed on a Ford automobile. On the mtiss engine, handling all
+8 cylinders, the power loss was rather high ompared with ome other device . Considering the
+fact that the muffler wa built for a smail engine (the tail pipe 'Wa 1 inch diameter), this is
+hardly to be wondered at. The weight of 12 pounds was prohibitive.
+Throughout the experimental work the G. P. F. 12-inch muffler was used as an arbitrary
+standard of muffling qualities. It appear rep eatedly in the tables on account of this. While
+e timates of noise suppre~ ion were atte pted in absolute values, the final deci ion always rested
+upon relative performance. The" R emarks" of Tables III and IX will illustrate this. The
+G. P. F. 12-inch muffler construction, as hown in figme 2 of Report No. 10, is novel. The
+baffles, in the form of nozzles, occupy the expansion chamber. The parts are few and simple.
+Smfaces are doubly cmved, making for inherent stiffne s. The peculiar fact was noted that
+this muffler worked equally well with either end as entrance, both a to back pressme and
+silencing. There is a possibility that the internal parts may act as di persers of the sound waves
+by reflection, as well a other ways.
+Om attempts to design mufflers, especially adapted to airplane u e, have followed two
+main lines. The " manifold " series of designs use tangential entrance to an annular whirl
+chamber, the gases gradually escaping to the central part as they pin. The spin chamber
+gives the effect of the conventional expansion chamber with a much smaller volume. The
+perforated inner tube replaces the baffles, with less weight and back pressme. The objection
+
+INVESTIGATION OF MUFFLING PROBLEMS.
+
+23
+
+to the construction is that the inner cylinder may burn out. To avoid this objection the" whirl
+chamber" series was designed. The action is essentially the same as the "manifold" type, but
+all metal parts are air cooled on one side, and the weight is less. A particular study of the
+"whirl chamber" type is given in Tables VI and VII. While making the observations on bark
+suppression, using the Ingeco engine (Table VI), the tests were made with load, at about 100
+explosions a minute, and with retarded spark to give a vicious bark. The exhaust was flaming
+as it issued from the engine, and gave visual demonstration of the spinning action in the whirl
+chamber, and of the gradual emission of gas from the muffler.
+Both "manifold" and "whirl chamber" types have a peculiarity that may be advantageous. The exhau t is turned at right angles between the entrance and discharge of the muffler, and with very little back pressure. Roughly, the back pressure is less than when using
+an ordinary pipe-fitting elbow. Short tail pipes of diameter equal to the manifolds were tried
+upon these types of muffiers, and were found not to affect either silencing or back pressure.
+So these muffiers might be placed at the end of a horizontal manifold, and the muffier tail pipe
+be carried vertically upward.
+The data from the different tables in this report should not be indiscriminately compared.
+The manifolding conditions Were frequently changed. I n Tables VIII and IX the manifolding
+arrangements were the same, apparently, but actually were not constant. The increasing
+vibration of the engine continually shook loose the packing of the joints of the complicated
+exhaust line. Leaking of the exhaust from the manifolds became noticeable and evidently
+serious. Part of the piping was made of flexible metallic hose, from which the asbestos packing
+departed. These troubles make it improper to compare the data of Tables VIII and IX
+directly with the other tables, especially in regard to back pres ure. However, the small group
+of tests, marked off by themselves in the e table, are correct for relative internal comparisons.
+To show how these increasing leaks affected back pressure results, the diagrammatic Table X is
+given. With the aid of this diagram, applied to the data given in the previous tables, the summing of results as given in Table XI is derived . Power losses are here inferred from the curve
+established in plot 2.
+It is evident from this table that the" manifold" type of muffier will give good silencing
+with power losses less than 1 per cent and with weights comparing very favorably with any
+commercial muffler. If minimum weights are desired, the "whirl chamber" type looks most
+promising although its silencing action i not as good as the manifold type.
+In the" manifold" mumer type the size, hape, location, and total area of the holes in the
+inner tube may be varied over a considerable extent. We used a total area of all holes equal
+about one-half the area of the exhaust pipe with very good results, and deviations did not alter
+the action of the muffier to any great extent, although many small holes probably gave better
+muffling without corresponding increase of back pressure. The best construction happened to
+have no holes opposite the entering gas, 33 hole 7il-inch diameter which the gas first passed,
+33 holes -h--inch diameter next, and 33 holes >i-inch diameter last, just under the nozzle. We
+do not lay particular stress upon the ize or location, except they shall not be too big.
+Taking all the results as shown in plot 10 into con ideration, we have recommended, as a
+tentative de ign for the Liberty 12-cylinder engine, the design shown in figure 21. A variant of
+this is given in figure 22. Both designs may possibly be improved by the addition of cooling
+fins. They are supposed to be placed at the end of an exhaust manifold handling the exhaust
+from either six or twelve cylinders. The length of the mumer is to be parallel to the fuselage.
+There is no real attempt to stream line the back end of these mufflers for the stream of escaping
+exhaust gas is supposed to perform this function. Also any suction at the back end of the
+mufflers due to lack of stream lining may be worth its co t. In figure 21 is shown a design in
+which air is supposed to pa s through the inner tube to some extent, aiding in cooling.
+It is po sible that very effective silencing could be obtained if the exhaust manifold were
+patterned after the design shown in figure 15, in combination ,'lith a muffler.
+The completion of the solution of the muffling problem can only be accomplished by trials
+at fitting manifolds, mufflers, and tail pipes to engines installed in airplanes and in use in actual
+flight.
+
+24
+
+ANNUAL REPORT NATIO AL ADVISORY COMMITTEE FOR AERONAUTICS .
+
+.
+
+~
+
+~
+
+~~ ~ ~
+
+< ~"'~ ~
+I... )3 "
+~ ~ ~,
+
+~~~tS"~
+
+~ ~ ~ ~ ~'~
+
+~\S~~~~
+
+"
+
+l\j
+
+~ .f:: ~ .~~ ~
+~ ~ C:::;"
+~
+~ ~ ~ ~ ~' ,
+
+.~
+
+~
+
+~,~,~~
+
+;;:) .~ ~ ~ . ~
+
+'"
+
+~~~~~§~V)'J
+
+B';:;
+o
+<
+
+~ ~
+
+~ ~ ~ ~
+
+'0
+
+fl?OISnOllX;?spuJuddO
+
+.9
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+0
+
+0
+
+0
+
+0
+
+l
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+H
+
+~
+
+C/l
+
+H
+H
+
+0
+
+0
+
+Oil
+
+""
+
+t
+
+'0
+
+1\
+
+...
+
+~
+
+.~
+
+~
+
+H
+H
+
+o
+
+~
+
+~r""
+
+..
+
+~f:I.
+
+~.
+
+f
+
+g;
+o
+
+>=J
+
+00
+(1(7
+
+~
+
+ci
+
+>=J
+
+I-:j
+
+t:
+
+Q
+
+'"d
+
+:0
+
+14-
+
+Fiq.22.
+
+TENTATIV£ SUGGESTION FOR MUFFLER
+
+o
+
+td
+
+~
+~
+
+~
+
+No.18 u.s. 6ouge(a05)5heef/l{efol. Welded.
+rorAirpioneEn9ine, 60riZ CY/kld~ S"/Jore, 7 NSfro/re.
+
+t--:l
+01
+
+26
+
+ANNUAL REPORT NA.TIONAL ADVISORY COMMITTEE FOR AERONA.UTICS.
+TABLE
+
+I.-Rune at constant throttle, varying back pressures.
+
+Throttle set to run the engloe approximatelY at the p,wer reco=ended by the maker, 7013. H. P. at 1,250 r. p . m. , with no applied back pres
+sure except that due to the m anifolds and piping. Tablo sholVs changes by applied back pressure. Data of Aug. U and 29.
+Resulls. (Based on average of observations.)
+
+Observations.
+
+Back prEIS sure
+Loss of
+Percent
+(loches of merA ,'e r- AgPlied
+Brake brake
+Speed speed
+ack cbange, cban ge Percent True Brake M.E.P. M.E. P.
+Position of
+cur., ).
+~;~~~ tfo~tf Aa~e:' b"fc,°k pres(polillds due to
+end outlet I---.---ireading end
+tacho- pres ~
+sure not ror- (max. power speed borseper applied
+valve.
+(r.p.m.) ontlot meIer
+sur e (lo.mer. roc ted r . p.m. loss. (r .p.m .) power . square back
+(r .p.m.) =100
+South North
+valve. (r.p.m.) ' lo.m
+loch) . prescury) .
+side.
+side.
+cun
+per ct.)
+sure.
+- - -- 1
+-- ---- ------ ---- --- --- ---
+
+r
+
+-
+
+--
+
+Aug. 24,1916
+Shut ...... . .
+Open .......
+Shut ........
+
+0.75
+. 50
+.85
+
+0.75 1,120
+.45 1,120
+.90 1,120
+
+Shut ........
+Open .......
+Shut .... : ...
+Open .......
+
+1.6
+.5
+1.
+.5
+
+1.7
+.5
+1.7
+.5
+
+Shut ........
+Open .. .... .
+Shut ........
+Open .......
+
+3.2
+.5
+3.4
+.5
+
+Shut ........
+Open .......
+Shut ........
+Open .......
+Shut .. _.....
+Open .......
+
+5. ~
+
+.5
+5.
+.5
+5.
+.5
+
+Shut ........
+Open .......
+Shut ........
+Open ...... .
+Shut .... ....
+Open .......
+
+8.2
+.5
+8.7
+.5
+.6
+.5
+
+8. 3
+
+Shut ........
+Open .. .. ...
+Shut.. .. ....
+Open .... ...
+Shut ...... ..
+Open .......
+
+10. 6
+.5
+10.8
+.5
+10.9
+.5
+
+10.2
+.4
+10.5
+.4
+10.6
+
+Shut ........
+Open .......
+Shut ........
+Open .......
+Shut ........
+Open .. .....
+
+10.2
+.6
+10. 8
+.6
+10.8
+
+10.0
+.5
+10.4
+.5
+10.5
+.5
+
+1,070
+1,115
+1,065
+1,120
+1,065
+1
+1 ,120
+
+hut ........
+Open .......
+Shut ........
+Open .......
+
+10.9
+.6
+11.0
+.6
+
+10. 5
+.5
+10.7
+.5
+
+1,050
+1,120
+1,050+
+1,120
+
+Shut.. ......
+Open .......
+Shut ........
+Open .......
+
+.0
+.6
+8.2
+.6
+
+Shut.. ......
+Open .. ......
+Sliut ........
+Open ........
+
+}open ..
+Shut ..
+
+1,120
+1.120
+
+0.47
+1
+
+}
+
+0.34
+
+0
+
+0
+
+1.223
+0 { 1,223
+
+64.7
+64.7
+
+83.5
+83.5
+
+}
+
+0
+
+1,130
+1,135
+1, 125+
+1,130+
+
+}open ..
+Sliut ..
+
+1,135
+1,130
+
+.5
+.7
+
+}
+
+1.2
+
+5
+
+.44
+
+1.3 { 1,239
+1,233
+
+67.3
+66.3
+
+85.7
+1.9
+
+}
+
+0.8
+
+3.1
+.5
+3.3
+.5
+
+1,125
+1,135+
+1,125+
+1,135+
+
+}oR,en..
+S ut ..
+
+1,137
+1,126
+
+5
+3.2 5
+
+}
+
+2.75
+
+. 968
+
+1,241
+2.9 { 1, 229
+
+67.6
+65. 7
+
+85.9 }
+84.3
+
+1.6
+
+5.1
+
+1,085+
+1, 100+
+1,080+
+1,095+
+1,085+
+1,100+
+
+Open ..
+liut ..
+
+1,100
+1,085
+
+.45
+5.5 7
+
+} 5.12
+
+15
+
+1. 364
+
+4.0 { 1,201
+1,184
+
+61.2
+58.7
+
+80.5
+78.2
+
+}
+
+2.3
+
+1,085
+1,100
+1, 075
+1,105+
+1,075
+1.100
+
+Open ..
+Sliut ..
+
+1,102
+1,078
+
+8. 3
+
+7.86
+
+24
+
+2.18
+
+6.4 { 1,203
+1,177
+
+61. 6
+57.6
+
+80.8
+77. 3
+
+}
+
+3.5
+
+1,102
+1,030
+
+10. 6o } 10.15
+
+72
+
+6.53
+
+1,203
+1 .3 { 1, 124
+
+61.6
+50.3
+
+80.8 } 10.3
+70.5
+
+)0_
+
+Sliut ..
+
+1,11
+1,067
+
+10. 4
+
+9.90
+
+51
+
+4.56
+
+13.1
+
+{U~
+
+~U
+
+83 . 1
+75.6
+
+}open ..
+Shut ..
+
+1,120
+1,050
+
+55
+1077 } 10.22
+
+69
+
+6.16
+
+17.4 { 1,223
+1,147
+
+64.7
+53.4
+
+83.5
+73.4
+
+7.8
+.5
+7.9
+. .5
+
+1, 100
+1.125+ }open ..
+1,1OU
+Shut ..
+1,120
+
+1, 122
+1,101
+
+802
+
+-}
+
+7.47
+
+21
+
+L 7
+
+5.5 { 1,225
+1,202
+
+65.0
+61. 5
+
+83.7
+80.6
+
+5.5
+.6
+5.8
+.6
+
+5.3
+.5
+5. 6
+.5
+
+1, 1101, 120- }opcn ..
+1, 110- Sliut ..
+1, 120-
+
+1,118
+1, 10
+
+.5
+;;.5
+
+n
+
+5. 00
+
+10
+
+.894
+
+1, 220
+2.7 { 1, 209
+
+64.2
+62.5
+
+83. 1 }
+81. 6
+
+1. 5
+
+Shut.. ......
+Open ........
+Shut ........
+Open ........
+
+4.2
+.6
+4. 3
+.6
+
+4.0 1, 115
+.5 1,125
+4.1
+1,120
+.5 (115
+
+s}
+
+3.60
+
+8
+
+.713
+
+2 1 { 1,226
+.
+1,217
+
+65.2
+63.7
+
+83.8 }
+2.6
+
+1.2
+
+hut ........
+Open .... ....
+Shut .. ......
+Open ........
+
+2.1
+.6
+2. 1
+.6
+
+n
+
+1. 50
+
+3
+
+.268
+
+1, 223
+.6 { 1,219
+
+64.7
+64.1
+
+83.5
+82.9
+
+Shut ........
+Open ........
+Sliut.. ......
+Open ........
+Sliut.. ......
+Open ........
+
+n
+
+8.3
+
+29
+
+2.55
+
+1,239
+7.4 { 1,207
+
+67.3
+62.2
+
+85.6 }
+81. 2
+
+6.7
+
+23
+
+2.02
+
+6.0 { 1,242
+1,217
+
+67.7
+63.8
+
+5.53
+
+15
+
+1.32
+
+3.9 { I ,2~i
+1,22
+
+68.3
+65.5
+
+86.4
+84. 1
+
+}
+
+2.3
+
+3.53
+
+10
+
+.88
+
+2.6 { 1,243
+1,233
+
+67.9
+66.3
+
+86.1
+84.7
+
+I}
+
+1.4
+
+.65
+
+.4
+
+5.7
+.4
+
+5.6
+.4
+7.8
+.4
+.4
+
+.3
+.4
+
+.4
+
+1,030+
+1,095+
+1, 025+
+1,100+
+1,030+
+1,105
+
+n
+
+.1
+
+11 1
+
+I
+
+)
+-
+
+I Shut ..
+
+. ~
+
+.
+. 55
+
+s}
+
+.55
+
+}open ..
+Shut ..
+
+1, 123
+1, 115
+
+2.0
+.5
+2.0
+.5
+
+1, 115+
+1, 120
+}open ..
+1, 115+
+Shut ..
+1,120
+
+1, 120
+1 , 117
+
+.5
+2. 0
+
+.6
+.5
+9.2
+.6
+9. 2
+.6
+
+8.3
+.4
+8.8
+.5
+8.7
+.5
+
+1,100
+1,135
+1, llO
+1,135
+1, HO1, 135
+
+)0_
+
+Shut. .
+
+1, 135
+1, 106
+
+.5
+.8
+
+Shut ... . ....
+Open .. .. .. ..
+Sliut ........
+Open ........
+
+7. 0
+.5
+7.3
+.6
+
+6.6
+.5
+7.0
+.5
+
+1,115
+1, 135
+1,115
+1, 140
+
+}open..
+Shut ..
+
+1, 13
+1, 115
+
+.53
+7. 23
+
+Shut.. ......
+Open .. ......
+Sliut.. ... . ..
+Open ..... ...
+
+6. 2
+.6
+
+6-3
+.6
+
+5.9
+.5
+5.9
+.5
+
+1, 125
+1,140
+1, 125
+1,140
+
+h~)en..
+ut ..
+
+1,140
+1,125
+
+6.0
+
+Shut . ...... .
+Open ........
+Sliut . ...... _
+Open .. . .....
+
+4. 2
+.6
+4.2
+.6
+
+3. 9
+.5
+4.0
+.5
+
+1,1301,140- }open ..
+1, 130
+I Sb ut ..
+1,140
+
+1, 139
+1, 129
+
+4.0
+
+}
+
+in
+n
+
+.5
+
+.5
+
+}
+
+7.5
+
+10.1
+
+}
+
+}
+
+:~ I}
+
+3.1
+
+.6
+
+4.4
+
+3. 4
+
+27
+
+INVESTIGATION OF MUFFLING PROBLEMS.
+TABLE
+
+I.-Runs at constant throttle, varying back pressures-Continued.
+Res·u1ts. (Based on average of observations.)
+
+Observations.
+
+I
+
+Loss of
+Percent
+Aver- Applied
+Brake brake
+Speed speed
+age
+Posi· Aver·
+back change, change Percent True Brake M.E. P. M.E.P.
+tion of
+back
+pres· not cor· (max . power speed horse- (pounds due to
+a~
+tac 0- pres·
+end
+app lied
+sure rected r . p.m. loss. (r.p.m.)
+readin~ outlet meter
+sure
+power. 1 square back
+per
+(r.p.m . valvo. (r.p.m.) (in.mer· (in.mer- (r.p.m. ) = 100
+North
+inch). pres·
+cury).
+per ct.)
+cury).
+side.
+sure.
+
+Back pressure
+(inches of mer·
+cury).
+Tachometer
+
+Position of
+end outlet
+valve.
+
+Soutb
+side.
+
+--- --- ---
+
+--- - - - - - - --- --- --- - - - - - - - - - - - -
+
+Shut ........
+Open ........
+Shut ........
+Open ........
+
+2.0
+.6
+2.0
+.6
+
+1.9
+.5
+1.9
+.5
+
+1, 135
+1,140
+}0c,en ..
+S ut ..
+1, 135
+1,140+
+
+1,141
+1, 135
+
+0.55 } 1. 40
+1. 95
+
+6
+
+Shut ........
+
+~~r
+
+. . . . ::::
+Oepn ........
+
+3.2
+.6
+3.1
+.6
+
+3. 0
+.5
+2.4
+.5
+
+1,13.5
+1,140
+}open ..
+Shut ..
+1,135
+1, 13'+
+
+1,139
+1,135
+
+.55
+2.92
+
+} 2.37
+
+4
+
+Shut.. ......
+Open ........
+Shut ........
+
+4.3
+.6
+4.3
+
+4. ~
+.5
+4.2
+
+1, 135
+1, 140
+1,125
+
+Open ........
+Sbut ...... ..
+
+.55
+4.3
+
+.5
+4.2
+
+1, 135
+1, 115
+
+}o~en. .1, 1 37~
+S ut . . 1, 125
+
+.54
+4.25
+
+} 3.71
+
+1~
+
+Shut ........
+Open ........
+Shut ........
+Open ........
+Shut ........
+Open ........
+
+3.7
+.5
+3.9
+.5
+3.9
+.55
+
+3.6
+.4
+3. 8
+.5
+3.8
+.5
+
+1, 115
+1.125
+1, 115
+1,130
+1, 115
+1,125
+
+open.1,127Shut .. 1, 115
+
+. 49
+3.85
+
+}
+
+3.36
+
+Shut ........
+Open ........
+Shut.. ......
+Open ........
+
+6.9
+.6
+7.0
+.6
+
+6.7
+.5
+6. 8
+. 55
+
+1, 1101, 130+ } Open .. 1,127
+1,105+ Shut .. 1,107
+1, 125+
+
+.56
+6.85
+
+}
+
+Shut ...... ..
+Open ........
+Shut ........
+Open ........
+Shut ....... .
+Open .. .... ..
+
+9.
+.6
+10.3
+.6
+10.4
+.65
+
+9.6
+.5
+10.2
+.5
+10.2
+.55
+
+1,080
+1, 100+
+1,080
+1, 110
+1,090
+1,115
+
+Shut ........
+
+12. 1
+.65
+12.1
+.65
+
+11. 9
+.55
+12.0
+.55
+
+1,070
+1, 125
+1,070
+1, 120
+
+.65
+12.1
+.65
+12.3
+.7
+
+.45
+11. 8
+.50
+12.1
+.6
+
+1, 125
+1,085+
+1,140
+1 085
+1; 140
+
+Aug. 29,1916
+
+~l~t.-:::::::
+
+Open ........
+
+~l~f' . ::::::
+
+Open ........
+Shut.. ......
+Open ........
+
+TABLE
+
+1.6 { 1,246
+1,239
+
+68.4
+67.3
+
+86.5 }
+85.6
+
+.9
+
+1,243
+1.0 { 1,239
+
+67.9
+67.3
+
+86.2
+85.6
+
+}
+
+.6
+
+1.10
+
+1,241
+3.2 { 1,228
+
+67.6
+65.5
+
+85.9
+84.1
+
+}
+
+1.8
+
+12
+
+1.06
+
+3.2
+
+'{t:~
+
+65.9
+63.7
+
+4.4
+2.6
+
+}
+
+1.8
+
+6.29
+
+20
+
+1.77
+
+65.9
+62.4
+
+4.4 }
+S1.4
+
+3.0
+
+IO~M
+
+1,109
+S ut .. 1,083
+
+.57
+10.80 } 10.23
+
+26
+
+2.34
+
+1,210
+6.8 { 1,1 2
+
+62.7
+58.4
+
+81. 7
+77.9
+
+}
+
+3.S
+
+}open .. 1,123
+Shut .. 1,070
+
+.6
+12.02 } 11.42
+
+53
+
+4. i2
+
+1,226
+12.9 { 1, 168
+
+65.2
+56.3
+
+83.8
+76.1
+
+}
+
+7.7
+
+f°ruf"
+
+.59
+12.07
+
+49
+
+4.31
+
+12.4 { 1,239
+1, 185
+
+~:~
+
+85. 6
+7 .3
+
+}
+
+7.3
+
+1,135
+S ut .. 1,086
+
+11.48
+
+0.53
+
+.352
+
+;1:~
+
+n .-Runs at varying throttle, back pressure conditions jized.
+
+B:lck pressure con:litions fi '<e1, in the seuse th:\t the obstructions to the e cape of exhaust gas were unchanged through lhe series of runs
+However, the back pressure chan~ed with en~ine power output due to chan~e of amount of el<heust gas.
+End outlet val ve alteru9.tely open and closed, relieving or app l yin~ the back pressure.
+Power outp~t varied by chan~in~ the throttle pOSition. These runs correspond to throttling an elljti.ne loaded by propeller with the exhanst
+escapin~ through a gi veu m~nifold and mumer.
+Data of Aug. 24. 1916, WolS obtlinel b V for 'in : (nv 'bsin~ the onl outlet valve) the exJnust to leak through the Wllils of a 4-foot length of 2~
+: n Jhes Uexible met3Jlicel<heust hose and the joints oC the connections.
+Data of Aug. 29, 1916, W.lS a similar set up with felVer leaks.
+Results. (Based on average of observations.)
+
+Ohservations.
+
+Position of
+end outlet
+valve.
+
+Back ~ressure
+(inc es of
+T acho·
+mercury).
+meter
+
+r""din~
+
+South
+sIde.
+
+North
+side.
+
+(R. P.
+M.).
+
+Aver· Aver· A~Plied
+age
+Posi·
+ack
+age
+tlon of tacho- hack
+pres·
+pres·
+end
+sure
+meter
+outlet (R. P. sure (in.mer·
+valve.
+M.). (in.mer· cury).
+cury).
+
+Speed
+Per
+Per
+chan~e
+cent
+not cor· cent
+r ected speed power
+(R. P. change. loss.
+M.).
+
+True
+
+(~.
+M.).
+
+I
+
+Brake Loss oC
+Brake M.E.P. JrEk~
+horsEr (pounds (potlJict.S
+per
+per
+power.
+sq uare square
+mCh). inch).
+
+--- --- --- - - - --- --- - - - - - - - - - - - - - - - - - -
+
+Shut ........
+0c,en ........
+S ut ........
+Open ........
+
+9.8
+.55
+10.2
+.6
+
+9.5
+.45
+9.8
+.5
+
+1,075
+1,115
+1,070
+1,115
+
+}open .. I, US
+Sliut.. 1,072
+
+0.53
+9.83
+
+} 9.30
+
+43
+
+3. 1
+
+11.0 { 1,217
+1, liO
+
+63.8
+56.7
+
+82.5 }
+76.3
+
+6.2
+
+Olen ...... ..
+S ut. .. .. ...
+0l.,en ........
+S ut ........
+
+. 35
+7.00
+.30
+6.90
+
+.3
+6.6
+.25
+6.7
+
+1,040
+1,000- lOPeD . 1,042
+Shut .. 1,000
+1,045
+1,000+
+
+.30
+6.8
+
+} 6.5
+
+42
+
+4.08
+
+1,1~~
+11.8 { 1,092
+
+52. 1
+46.1
+
+72.2
+68.5
+
+5.7
+
+0l.,en ........
+S ut ........
+
+~l~t:::::::
+
+.15
+3.6
+.15
+3.6
+
+.1
+3. 6
+.1
+3.6
+
+3: f5 } 3.4
+
+25
+
+2.86
+
+{
+
+955
+928
+
+80.
+28.3
+
+en ........
+°Ent ........
+
+.1
+.25
+
+0
+
+0
+
+o{
+
+377
+377
+
+0
+.2
+
+75
+
+850- }open .
+875
+Sliut..
+850
+
+I
+
+875
+
+345
+345
+
+}Open .
+Sliut..
+
+345
+345
+
+850
+
+.05 i} .175
+.225
+
+8.4
+
+1.9
+1.9-
+
+}
+
+It: 1
+7. 9 }
+7.9
+
+Aug. 24,1916
+
+2.8
+
+0
+
+28
+
+ANNU AL REP ORT
+T ABLE
+
+NAT IO~
+
+AL ADVISORY COMMITTEE FOR AERONAUTICS .
+
+H .-Runs at varying throttles, back pressure conditions fixed-Continued .
+Results. (Based on observations.)
+
+Observations.
+
+Position of
+end outlet
+valve.
+
+Back ~r essure
+(inc es o(
+mercury).
+South
+side.
+
+~g~:: ::::::
+~g~::::::::
+
+. 05
+.6
+.05
+.55
+
+~g~:::::: : :
+
+.05
+.8
+. 05
+.75
+
+Open ........
+Shut ....... .
+
+Brake Loss o(
+ver- A~ed peed
+Tabrake
+Posi· AverTrue Brake M.E.P . M.E.P.
+Per
+BItO
+chock ('han~e Per
+tion of tacbo- l~;;k
+.
+p - not cor- cent
+cent sReed
+(pounds (pounds
+meter
+lind
+sure rected speed power ( .P. horsemeter presper
+reading outlet
+per
+M.). power. square square
+R. P. (ln~Z:;~r- (in.mer- (R. P. change. loss.
+North (R. P
+M.).
+incb). inch).
+M.).
+valve. M.). cury) . cury).
+side.
+
+I
+
+°
+°
+°
+°
+
+.5
+
+.5
+
+525
+530
+530
+530+
+
+.7
+
+610605+
+610605+
+
+.7
+
+}open...
+Shut
+
+530
+530
+
+}open...
+Shllt
+
+610
+605+
+
+-T
+0: g;5 } q.51
+
+I
+
+. 025 }
+.74
+
+°
+
+°
+
+°
+
+{
+
+578
+578
+
+6.9
+6.8
+
+18.7
+18. 6
+
+{
+
+665
+6110
+
+10. 4
+10.2
+
+24.7
+24.4
+
+}
+
+0.3
+
+63. 4
+56.1
+
+82. 2
+75.8
+
+}
+
+6.4
+
+}
+
+7.6
+
+± 3
+
+.34
+
+44
+
+3.96
+
+11.4 { 1,214
+1,166
+
++ 52
+
+4. 67
+
+13.4 { 1, 126
+1,169
+
+65.2
+56.5
+
+83.8
+76. 2
+
+1.5
+
+0.1
+
+Aug. 24, 1 9!~
+
+. 71
+
+0.5
+
+}
+
+Open ..... . ..
+Shut. . . .. . . .
+Open ... . . . ..
+ShuL .... . .
+Open . ..... . .
+ShuL .... . .
+
+.4
+9.2
+.5
+9.6
+.7
+10.6
+.7
+10.5
+
+.3
+8.8
+.4
+9. 4
+.6
+10.4
+.6
+10.2
+
+1,075
+1,050
+1,1101,060
+1,130
+1,080
+1,135
+1, 080+
+
+Shut. .... . ..
+Open .. . .. ...
+Shut ........
+Open ........
+
+12.1
+. 65
+12. 1
+.65
+
+11. 9
+.55
+12.0
+.55
+
+1, 070
+1,125
+1,070
+1,120
+
+Shut ...... . .
+Open ...... . .
+Shut .. .. ....
+Open .. .. ....
+Shut .... . . . .
+Open ........
+
+8. 7
+.3
+8. 7
+.3
+.7
+.35
+
+8.7
+995
+.35
+8.6 1, 995
+.35 1,060
+.6
+995
+.35 1,080
+
+lo'~
+
+Shut ..
+
+1,073
+995
+
+.33
+8.67
+
+}
+
+. 34
+
+78
+
+7.27
+
+20. 3 { 1,171
+1,086
+
+56.
+45.3
+
+76.5 } 10. 7
+65.8
+
+Open . . ......
+Shut . . .. ....
+Open . . . .....
+ShuL ... . ..
+
+. 15
+6.8
+. 15
+6.8
+
+. 25 1,000
+6. 8
+940
+. 25
+6. 7 1,g<l8=
+
+}open .
+ShuL..
+
+~~~
+
+.20
+6. 88
+
+} 6.68
+
+60
+
+6.01
+
+1,089
+17.0 { 1,024
+
+45.7
+38.0
+
+66.2
+58.5
+
+}
+
+7.7
+
+ShuL . .....
+Open . .. . ....
+Shut . . ......
+Open .. ......
+
+4.3
+. 10
+4. 4
+.1
+
+4.3
+.1
+4.4
+.1
+
+830
+860
+830
+60
+
+}open...
+Shut
+
+860
+830
+
+.10
+4.35
+
+} 4. 25
+
+30
+
+3.49
+
+10.1
+
+939
+906
+
+29.3
+26.3
+
+49. 2
+45.8
+
+}
+
+3.4
+
+Open .. . . ....
+Shut . .. .....
+Open . . ......
+ShuL ... .. .
+
+.10
+1.80
+.05
+1. 80
+
+. 05
+1. 80
+.05
+1. 70
+
+695
+}open .
+6
+Sh ut ..
+690+
+680
+
+694
+680
+
+. 06
+1. 78
+
+} l . 72
+
+14
+
+1. 98
+
+758
+742
+
+15.4
+14.5
+
+32. 1
+30.7
+
+}
+
+1.4
+
+Sh ut.. . .....
+o~en . .......
+S ut ........
+Open . .•.. .. .
+
+12. 1
+. 65
+12.3
+.7
+
+11.8
+. 50
+12. 1
+.6
+
+}o~en .
+S uL.
+
+1, 140
+1,0 6
+
+.60
+12.07
+
+} Ii. 47
+
+54
+
+4.74
+
+13.5 { 12-14
+1: 186
+
+68.1
+59.0
+
+86. 4 }
+78. 4
+
+~g~::: :: :: :
+
+TABLE
+
+°°
+
+Open . 1,112
+Sh ut .. 1, 06
+
+}open. 1, 122+
+Shut .. 1,070
+
+°
+
+1,085+
+1,140
+1,085
+1,140
+
+0.50
+9. 84
+
+.6
+12.0
+
+} I .4
+
+{
+
+5.8 {
+
+Aug. 29, 1916
+
+6.0
+
+Hl. -Run with and without wire mesh mt:Jfler, varying throttle position, other conditions tmchanged.
+[Ru ns o( Aug. 29, 1916.J
+Back pressure
+(Inches of mercur y).
+Outlet conditions.
+
+Tacho·
+me~er
+South
+North
+reading
+side
+side
+..
+(farthest (nearest (R . P .M)
+(rom
+outlet) . outlet).
+
+A ~:~tge
+True
+Brake
+pressure s~eed
+horse. mer· (R. .M.) . power .
+(Ill.
+cury) .
+
+- - - - - -- - - - - - - - - - - - - -1-- - - - - - - - - 0. 02
+.03
+
+.10
+
+MuJl1er in position beyond qui ck·opening valvo . . . . ..... . . . . . . ..... . ..... .. ... .. . .
+
+.10
+.30
+.45
+. 75
+
+W
+<
+"''''m,m ................... ............................. ............... .···1
+"
+
+.02
+.07
+.10
+.25
+.40
+
+°
+
+0.02
+.03
+.10
+.20
+.35
+.45
+.65
+
+°
+
+.02
+. 07
+.20
+.30
+.45
+
+730
+830+
+930
+1,020
+1, 1001,140
+1, 170
+610+
+740
+90
+980
+1, 090
+1, 145
+
+- ------
+
+0. 02
+.03
+.10
+.15
++ .32
+. 45
+. 70
+
+°
+
+.02
+.07
+.15
+.275
+. 425
+
+797
+908
+1,014
+1, 113
+1, 198
+1,244
+1,276
+
+17.9
+26. 5
+36. 9
+48. 8
+60. 8
+68. 1
+73.4
+
+668
+
+10. 6
+IS. 7
+32. 4
+43. 2
+59. 6
+69. 1
+
+808
+
+971
+1,069
+1, 190
+1,250
+
+29
+
+INVESTIGATION OF MUFFLING PROBLEMS.
+
+IV.-G. P. F . MUfflers; Throttle Varied.
+
+TABLE
+
+Mumel's p laced one on the end of each strrught exhaust manifolcl for each block of four cylinders of t ho Curtiss engino.
+long mulners tested first, Lhen the pnir of 12·inch long Illumer were used .
+
+One pail' of the 28·inch
+
+[Sept. ,1916.1
+TWO 2S-INCII G. P. F. MUFFLERS.
+Observations.
+
+Results.
+
+Back pre sure
+(inches of mercw·y).
+
+T hrottie
+
+MufTIcr
+
+(hole
+No.).
+
+off.
+
+po~ ition
+
+on or
+
+South
+side.
+
+North
+Slde
+
+Aver·
+
+prc!-1SUl'O
+
+Speed
+change
+clue to
+
+Per
+Per
+B rake
+~nt
+cent
+True
+M. E.P.
+speed
+due to inuffier change. powor snecd Brako (pounds
+lo.s
+hol' ~o tnufficr (R . P.
+~ urc
+clue to due to CR.· P. power ~qPCI'
+(in.
+(in.
+M.).
+M.
+u are
+muf·
+mul·
+meTmOTnot Cal"
+inch).
+fier.
+fier.
+cury). cury) . reeted)
+
+8ij;
+tac o·
+
+Muffier
+all or
+off.
+
+Beck
+
+age
+
+back
+pre, ·
+
+Aver-
+
+T achomOler
+reacling
+(R.P .M.) .
+
+m eter
+(R . P.
+M.).
+
+La s 01
+brake
+M.E.P.
+due to
+muffier.
+
+- - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ------ - - 4
+
+rrr. ....
+
+0.05
+0
+.7
+
+0.06
+0
+.65
+
+860
+50
+
+tI
+......
+On .. ....
+OtI......
+On..... .
+
+0
+1. 5
+.05
+1.5
+
+0
+1.50
+. 05
+1.5
+
+970
+980
+975
+975
+
+00 ......
+
+r
+
+. 6-
+
+Off ......
+On .. ....
+
+5
+
+8
+
+4
+
+5
+
+IS
+
+rL.···
+
+On ......
+OtI ......
+On ......
+
+r
+r
+r
+
+°
+4. 0°
+4. 0
+
+840
+
+°
+
+4. 0
+4. 0
+
+}Off......
+On ......
+
+1,160
+1,140
+1, 165
+1,130+
+
+0
+0
+
+50
+&10
+
+0.01
+.64
+
+}OtI ..... .
+On ......
+
+~50
+
+977!
+972!
+
+. 025
+1. 5
+
+1.475
+
+0
+4.0
+
+4.0
+
+}O tI ...... 1, 162:\
+On ...... 1, 1 36-~
+
+0
+0.25
+0
+.25
+
+crr
+
+L
+f)n .... ..
+....
+OfL ....
+On ......
+
+. 05
+.55
+0
+.55
+
+ll
+.... ..
+1n ......
+011......
+
+On......
+
+°
+°
+
+850
+
+0
+0.25
+
+°
+
+} OfL ....
+On ......
+
+855
+855
+
+0.25
+
+°
+
+980+
+980+ } Off ......
+On ......
+980+
+980+
+
+9 2
+92
+
+0.55
+
+1,150+
+1,150- } 011......
+On .. ....
+1,145
+1, 135+
+
+1,149
+1,143
+
+.25
+.55
+
+°
+°
+
+.55
+
+1.6
+
+2.1
+
+1.7
+
+2.1
+
+0
+
+1
+
+TABLE
+
+48.1 }
+48.1
+
+0
+
+5
+
+0.512/
+
+1,0()()
+1.5 { 1,060
+
+42.8
+42.1
+
+::l~ I)
+
+0.7
+
+26
+
+2.24
+
+1,~~
+6.6 { 1,240
+
+72.1
+67.4
+
+8~ .
+
+8~ .7 1}
+
+3.9
+
+933
+933
+
+28.8
+28.8
+
+48.6
+48.6
+
+}
+
+0
+
+1,071
+1,071
+
+43.4
+43. 4
+
+64.0
+64.0
+
+}
+
+°
+
+1.5 { 1,254
+1,247
+
+68.6
+
+69. §
+
+~:~
+
+G. P. F. MU FFLERS.
+
+855
+855
+
+855
+
+28.3
+28.3
+
+o{
+
+0
+
+I
+TWO 12·1
+
+ff
+.. ....
+On ..... .
+OIL ....
+On ......
+
+928
+928
+
+0
+
+} O.C,;!
+
+Position for 75
+
+°}
+
+°}
+
+1.9
+
+°
+
+°
+
+.55
+
+°
+
+0.25
+
+°
+
+0
+
+1.9
+
+rr. P. as used in
+
+6
+
+0.522
+
+°{
+°{
+
+0.9
+
+T able 1.
+
+V.- Muffler tests on marine type, 4-cylinder two-cycle engine.
+
+B. rr. P. of engine on these tests about 25. Exhaust n oise about that of a 75 II. P . 8-cylinder 4-cycle airplan e engine when exhaust was open.
+Back pressure (inches
+m e rcury).
+s~eed
+
+Mumer.
+With.
+
+Dupto
+Without. mumer.
+
+Remarks.
+
+(R . . M.) .
+
+---- ---- ---Variable pitch spiral ... ......... . . .. ..... .
+
+1.0±
+
+1.30
+One unit, tl manifold muffier," 1 end
+blOCked; gas goes a round end of inside
+cylinder.
+One uni t "manifold muiller " 1 en d ....... . . h locked; 'gas goes a round eml of inside
+cylinder.
+Two units of m ani fold muIDer connected
+as elesignetl.
+
+---
+
+0.75±
+
+I
+I
+
+.80
+••••••• •
+
+•
+
+0
+
+.. .... ... . ... . ... . ..
+
+0.25 1,050-1,200
+
+oise over on e-half stopped; exhaust still cracks a little.
+Back pressure very small; weight of muiller large.
+
+.50
+
+1,200
+
+Deadens sound more than spiral clid .
+
+. 30
+
+1,230
+
+Muffler at en d of lon~ pipe through window to outdoors .
+Lon ~er manifold before muiller may lower back pressure
+ofmuiller, but adds back pressure of its own that may be
+
+.50
+
+1,225
+
+Back pressure same {rom either part of dooble set·up. showint: that it makes litt le clitIerence whether I:llS goes a round
+end of cylinder or not. Observed noise from clistance of
+one-fourth mile, in clirection to which open exhaust
+painted. Noise strong when mutner was aU. very like
+an nirrlan e passing close overhead. Noise practically,
+butJlo quite,inaudible with muJller on. One could notice
+there was an en.,"ine somewhere, hu t the n oise woulel not
+locate it.
+
+worse.
+
+-.--.- - - - .
+1
+
+Weight of One unit of " manifold moIDer" about 4 pounds.
+
+30
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+T ABLE
+
+VI.
+
+MuIIler t ests ou Curtiss OX 8-cylinder, 4 by 5 inch 11)otor, usi ng wltirl chamber mumers. A cbeck run on manifold mumer.
+Notes on ability o( mumers to silence the crack of thc exhaust t!lJken on Ingeco single 5.5 by 10 inch cylinder farm engine, loaded and with
+retarded spark.
+[Apr. 10,1917.1
+
+,
+Back pressure
+(inches mer·
+cury) .
+
+Mumer set·up, (or all 8 cyllnders.
+
+Diam·
+eter o(
+whirl
+cbam·
+ber rin~
+(inches .
+
+Muffler off
+Position
+o( con e.
+
+Position
+o( cover
+plate.
+
+Width
+o(
+nozzle
+(inches).
+
+--- -
+
+L .... .
+On . . . ...• •
+On .•. .•. •.
+
+1
+
+7 In ... .. ... . In .... . ....
+
+1
+.5
+
+7 In ......... In .........
+
+South
+side.
+
+r
+
+In . .... .. . . In .....•...
+
+12
+
+or OD.
+
+Per
+cent Crack or bark suppression on In~eco;
+Tacbo·
+Back ~owe r
+general silenCing ability; an rameter
+True
+oss,
+marks. (Fractions are reduction
+pres·
+(rom
+speed
+read·
+sure
+o( noise, averages o( estimates by 2
+(r.p.m .) due to B. P.
+ing
+or more observers. Sketcbessbow
+lorth (r.p.m.)
+cross section of whirl cbamber
+mufflcr. power
+side.
+loss
+arrangements.)
+curves.
+I,
+
+0.5
+1.6
+1.6
+
+On .. .. •. •.
+On ...... ..
+
+-- - - - - - - - - -
+
+0.10 1,140
+1. 5 1,140
+1. 4 1,140
+
+} 1,245
+
+1.2
+
+1.0
+
+t+off crack.
+
+1. 8
+1.9
+
+.1
+1.7
+1. 8
+
+1, 130
+1,130
+1, 130
+
+} 1,234
+
+1.5
+
+1.2
+
+H.
+
+{orr........
+On ...... •.
+
+.3
+1.9
+
+0
+1,110
+1.65 1,110
+
+} 1,212
+
+1.6
+
+1.3
+
+i.
+
+Off ..... .•.
+Off ... . •. •.
+Off ...... •.
+On ...... •.
+On ..•... ..
+
+.20
+.25
+.30
+.40
+1. 8
+1.9
+
+.05 1, 100
+.05 1, 100
+.05 1,100
+.05 1, 100
+1. 6 1,100
+1. 6 1, 100
+
+1,201
+
+1. 55
+
+1.25
+
+i±·
+
+} 1, 245
+
+1. 05
+
+.85
+
+{H .
+
+tn.. . .
+
+.5
+
+4
+
+In ......... In .........
+
+1
+
+r
+
+12
+
+In ... ... ... Out .......
+
+1
+
+{ Off .. .. ...•
+On . ... ....
+
+.40
+1. 40
+
+.10 1, 140
+1. 20 1, l40
+
+1
+
+{Off •.•....•
+On . . ..... .
+
+.40
+1. 45
+
+.05 1, 130
+
+1.2
+
+1,130
+
+} 1,235
+
+1.10
+
+.90
+
+Off ...•.•..
+.5 { On ..•.. .. .
+
+.30
+1.7
+
+0
+1.5
+
+1,140
+1,140
+
+} l ,245
+
+1.45
+
+1.15
+
+.05 1, 120
+1.0 1, 120
+1.15 1,120
+
+} 1,223
+
+1.0
+
+7 In . ....... Out .. ....•
+7 In ......... Out .. ...•.
+
+e>=<J
+
+H·
+
+,.
+
+H·
+
+4
+
+In ......... Out ......•
+
+1
+
+tn. .... .
+On ..• . ... .
+On .. . . ... .
+
+.30
+1.2
+1.3
+
+12
+
+Out .... .• . Out . ......
+
+1
+
+{ Off .....• .•
+On . . . .... .
+
+.3
+1.35
+
+.2 1.130
+1.10 1,130
+
+} 1,235
+
+-1.0
+
+.8
+
+i·
+
+.4
+
+I~
+
+-1.0
+
+.8
+
+;.
+
+1.190
+1, 190
+
+} 1,300
+
+1. 45
+
+1.15
+
+~
+
+7
+
+Out ....... Out ... .. ..
+
+1
+.5
+
+{orr..... .. .
+........
+On
+{on..... ...'
+.......
+On
+
+1. 3
+
+.05 1.110
+1.1 1, 110
+
+.3
+1.7
+
+0
+1.6
+
+1, 212
+
+.83 i- ,orless.
+
+7
+
+Out ....... Out .. ... ..
+
+4
+
+Out ....... Out . ......
+
+1
+
+{ Off .. ......
+On .... . ...
+
+.3
+1. 05
+
+.05 1.100
+.80 1,100
+
+} 1, 201
+
+.75
+
+.63
+
+12
+
+R emoved. Removed.
+
+1
+
+{Off .... . .. •
+On ... ...•.
+
+.5
+.6
+
+.05 1, 130
+.25 1,130
+
+} 1,234
+
+.15
+
+7
+
+Removed. Removed.
+
+1
+
+{Off. ...... •
+On . . ... ...
+
+.5
+.6
+
+.05 1, 100
+.25 1, 100
+
+} 1,201
+
+.15
+
+.12
+
+... •. •..
+.5 {Off ....... .
+On
+
+.5
+.75
+
+.05 1,090
+.35 1,000
+
+} 1, 190
+
+.27
+
+.23
+
+{Off ...... •.
+On .. .... ..
+
+.50
+
+. 45
+
+.05 1,050
+.30 1,050
+
+} 1,147
+
+. 15
+
+.12
+
+ff ...... ..
+On ...... . .
+Manifold mumer, one unit, as designed ....• On ........
+Off ...•. . ..
+
+.5
+1.2
+1. 35
+.5
+
+~
+
+.12
+
+7
+
+Removed. Removed.
+
+4
+
+Removed. R emoved .
+
+1
+
+r
+
+.1
+1. 0
+1.10
+o
+
+11,140+
+1,140+
+r110
+1, 110
+
+I
+
+I} 1,212
+1,247
+I
+
+.8
+1.0
+
+.65
+
+.83
+
+:; good muflling.
+
+Barks and whistles; bad.
+
+I
+i.
+
+Good muffiing.
+
+I
+
+31
+
+INVESTIGATION OF MUFFLING PROBLEMS.
+TABLE
+
+VII.
+
+Tests 01 muffiers, continuing the investigations of capacity. First half of tcsts, mufflers taking exhaust from ailS cyllnders of CurtISS OX cngine.
+Second hall 01 tests, mumers taking exhaust Irom only 1 clock, 4 cylinders, north side 01 engine. Throttle position No . S.
+[Apr. 21, 1917.J
+ONE MUFFLER ON 8 CYLINDERS.
+Muffler and sot-up, specifications o[
+whirl-chamber mumers.
+R iog
+diameter.
+
+Cono .
+
+Cover.
+
+Nozzle
+width.
+
+Back pressure (inches o[ mercury).
+MuIIler off.
+South.
+
+Tachometer (multiply bv 1.092 [or
+true R. P. M.).
+
+Mumer on.
+
+North.
+
+South .
+
+North.
+
+Off.
+
+00.
+
+Back
+pressu!"e
+due to
+mullier.
+
+Remarks; sketches 1[ WhIr!.
+cham bcr sections.
+
+---- ---- - - - ---- ---- -------- ---- ---- ---12 In....... Out .. ...
+1
+12 In_ .. __ .. Out _....
+1
+7 In __.. _.. Out .. . ..
+1
+1
+4 In .. __ .. _ Out. .. _.
+Manifold muffieL. __ __ .. _. ____ . ___ . ___ . __
+
+0.10?
+
+0.05
+.10
+.05
+.10
+.1
+
+.4
+
+.40
+.45
+.4
+
+1.60
+1. 55
+
+1.4
+1.4
+1. 3
+1.1
+.8
+
+1.5
+
+1.3
+1.0
+
+1,160
+1,155
+1.160
+1,155
+1,150
+
+1,1.50
+1,160
+1, 160
+1,160
+1, 160
+
+f
+
+~
+
+1.2
+1.2
+.9
+
+. 65
+
+ONE MUFFLER ON 4 CYLINDERS .
+
+In ..... _. Out.._ ..
+
+1 ... _... _..
+
+0.05 . _.. . _.. _.
+
+0.6
+
+1,140
+
+1,140
+
+0.55
+
+Shallow Out.. . __
+cone in .
+
+1 _.. .. _. _._
+
+.05 . ___ ._ . ...
+
+.9
+
+1,140
+
+1,140
+
+.85
+
+In ... ___. Ou1- _.. _
+
+1 ._ .. _. ___ _
+
+.05
+
+.7
+
+1,140
+
+1,140
+
+.65
+
+Manifold mufller._ .. __ •••....• _ . _. ....• .. ________ ._
+
+.05
+
+.7
+
+1,150
+
+1,150
+
+.65
+
+1.0
+
+1,150
+
+1,150
+
+.95
+
+12
+
+7
+
+ShallOW )
+= In._
+R egular
+= Out Out ... _.
+Diffuser
+plate betweeu.
+
+1 .. . .... _._
+
+.05 ..... . .. _.
+
+Shallow cone ~
+fails to muftie Ingeco=
+t off bark.
+
+Ingeco muftling[air=
+serplate= - __________ _
+H;difiu- e
+sheet met-
+
+t~rr{;[t't
+
+about 100
+i-i n c h
+noles.
+TABLE
+
+VIII.-Tests o/muffling qualities.
+
+Exhaust CSl"ried outdoors by connecting to the end of cross manifold two &-foot lengths of 2-inch standard wrought-iron pipe, joined by 8
+45-inch cast-iron ell. This pipe caused 1 inch of mercury back pressure, additional, on the engine, but did not silence the exhaust nOISes. Curtiss
+engine. Throttle position No. S.
+'1'he values of noise suppression were obtained from the collaborated estimates of a number of observers. One stationed in a direct llne with
+the end 01 the exhaust pipe. Another at right angles to the line of the pipe, in the plane 01 the muller. Another at the end of the pipe changing
+mumers, and perhaps others scattered around. The first two were generallY about 50 feet away from muller, but other distances were also used
+when mullling qualities of two devices were nearly the same.
+APR . 21, 1917.
+Back pressure (inches mercury ).
+Mumer and description .
+
+Muffier off.
+
+Tachometer
+(multiply by
+1.092 for true
+R. P. M.).
+
+MuIIleron.
+
+South. North . South.
+
+'orlh.
+
+Off.
+
+On.
+
+Back
+pressure
+due to
+mllffier.
+
+Rem~rks,
+
+estimated uark suppression,
+in fraction or per cent.
+
+---------------
+
+Manifold mumer, inside cyllnder not touching end piate.
+12-incb whir 1hZ-one ini cover out. - - - -. - .. . -.
+7 by 1 inch w . I, shal ow cone in, deep cone
+out, no difiuser.
+4-inch whirl, cone in, cover out . ... _. _. __ __ .
+Manifold muiller, end of inner tube closed,
+exhuast escapes only t hrough holes ill the
+tube (as designed).
+12-inch whir\,cone out, cover out_ . ___ ......
+7 by 1 inch w irl, deep cone out, cover out ..
+Manifold mumer, same as l ast. _.. _. . ___ . _..
+
+O.S
+
+0.7
+
+1.5
+
+1.4
+
+. - ..... "
+
+1,150
+
+1.0
+1.2
+
+.8
+.8
+
+1.6
+1.S
+
+1.3
+1.7
+
+.-_ .... -
+
+1,150
+1,150
+
+.55
+.75
+
+i; sharper crack.
+
+1.2
+1.2
+.8
+
+1.0
+1.0
+.6
+
+1.5
+1.9
+1.4
+
+1.5
+1.7
+1.5
+
+---_._. ........
+
+1,160
+1,160
+1,160
+
+.4
+.7
+.75
+
+i; can distinguish separate exhausts.
+i; swish 01 explosions, hums steadi ly .
+
+1.1
+1.2
+1.2
+
+.9
+1.0
+
+1.5
+1.8
+1.9
+
+1.4
+1. 6
+1.7
+
+........
+--_ ... _-
+
+1,165
+1,165
+1,170
+
+.45
+.65
+.7
+
+i; more exhaust noise.
+i; still more nois~ .
+
+.9
+
+.-.- ....
+
+---_._.-
+
+-- --.-.-
+
+0.7
+
+~;
+
+steady swish, no crack.
+
+it; steady swish, less hum than manif,)ld.
+
+t; ,ery distinct crack.
+
+i+, the loud cylinders scarcely audible.
+
+MAY 12,1917.
+Manifold mumer, tube end closed . . _. ___ . _..
+G. P. F. 12-inch .. ______ _.... ___ ... _._ .. __ ._
+7 by 1 inch whirl, venturi substituted for
+cone, cover out.
+Manifold mulDer, tube end closed. __ . __ ._ ...
+G. P. F. 12-inch _. _ .. ,, _._. _. ___ . __ . __,, ___ .
+Manifold mumer, as last .. _.. _. _.... _.... _..
+G. P . F. 12-inch __ . . __ . ___. __... ____ . __ _. __ .
+Venturi (Onlu1l' --. -- .. .. --. -.- .-.--. - ... --.
+.
+Manilold m er, as lasL. __ ... _00. __ . __ __ _
+Shell of manifold mllfiler, inner tube r emoved.
+
+0.9
+1.1
+1.2
+
+0.8
+1.0
+1.0
+
+1.6
+3.2
+2.0
+
+1.6
+3.0
+I.S
+
+1.1
+1. 25
+1.05
+1.25
+1. 25
+1.2
+1.2
+
+.8
+1.0
+. 85
+1.0
+1.0
+1.0
+1.0
+
+1.85
+2.9
+1.7
+2.95
+1.6
+1.8
+1.9
+
+1.7
+1,140
+2.7
+1,135
+1.45 1,120
+2.6
+1,130+
+1.55 1,130
+1.6
+1,145
+1.6 1,145
+
+1,170
+1,170
+1,170
+
+1,170
+1,165
+1,170
+
+0.75
+2.05
+.8
+
+Iso per cent+; sharp swish. hum.
+per cent, light swish and
+SO
+50 per cen t; metallIC bark.
+
+.8
+1,140
+}The different character of sound from G.
+1,130
+1.7
+P. F. and M. M. is hard to compare.
+1,130
+.6
+Both are successful silencers.
+1,130- I.S
+Unearthly howl; loud shriek.
+1,130
+.5 +
+1,145
+.6
+1,145
+.65
+Roars and whistles.
+
+32
+
+ANNUAL REP ORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+'fABLE
+
+VIII.-1'ests of muffling qualities- Continued.
+MAY 14,1!1L7.
+
+Back pres"lfe (inches mercury).
+
+Mufficrofi.
+
+Mufficr and dcscription.
+
+Tachometer
+(multiply by
+1.092 for true
+R. I'. M. ).
+
+Muffler Oll.
+
+South. j\-orth. South. )forth.
+
+OfT.
+
+Back
+pres·
+sure
+du e to
+muf·
+tier.
+
+Remarks.
+
+00.
+
+- - - - - - - - - - - -1-- - - -- - - - - -- -- - - -----1- - - - - - - - - - - Duplex whirl, I-inch entering nozzle. . . . . .. •
+
+0.9
+
+1.4
+1.3
+1.6
+1.5
+
+0.7
+
+Manifold mumer, regular...... . ............
+1.0
+.8
+Duplex whirl, I-inch entering nozzle . .....•.. ....... . . ....
+... Do.... .. ...... . . ... . . . . . . . . . . . ...... ..
+1.1
+.9
+Manifold mumer, reguJar.... . .. . .. ... .. ... .
+1.3
+1.0
+Du plex whirl...t-inch ellteringnozzle...... . .
+1. 3
+1.0
+Manifold mumer, regular.. ................ .
+1.3
+1.0
+Manifold muffier, reguJar.. . . .... . .. ........
+1.2
+Duplex, whirll·inch entering nozzle....... .
+1. 2
+Duplex whirl...t-inch entering nozzle........
+1.2
+Manifold mwner, reguJar. . .................
+1. 2
+
+1.3
+1.1
+1.3
+1.4
+1.6
+1.7
+1.7
+
+l,llO
+
+1,100
+1,100
+1,110
+1,105
+1. 7
+' 1,100
+... . .. . . '1,100
+.. .... . '1,100
+'1,100
+
+1.7
+
+1. 8
+1.8
+1. 9
+1.
+l.
+
+1.
+1.
+
+~
+
+1,110
+1,110
+1,130
+1,110
+1, 100
+1,100
+
+0.5
+.6 .6
+
+. 65
+.60
+. 60
+.65
+.6
+
+1, llO
+
+1, 100
+
+:U88
+'1,100
+
+General conclusions fron tests of May 14,
+after repeated trials, were that the
+Duplex is slight ly the hetter silencer
+than the manifol(J; both very good.
+
+.6
+.6
+
+' 1,100
+
+.6
+
+1,125
+1,125
+1,125
+1,120
+
+0.65
+0.4
+.5
+.5
+
+\
+
+MAY 16, 1917.
+1.0
+1.1
+1.2
+1.2
+
+Duplex whirL. ........ . . .. . .... .... . ...... .
+Long manifold murrler .... . . . . . ........•.. . .
+Dupl ex whirL .... ... .... . ...... .... . ...... .
+Long manifold mumer . .................... .
+
+0.7.;
+.93
+1.0
+1.0
+
+U I'
+1. 6
+1.7
+
+I'
+
+1. 4
+1.3
+1.5
+1.6
+
+1, 125
+1,130
+1,125
+1,125
+
+DuPlex whirl and long manifold mumer
+} about equal in silencing; both good.
+
+, About.
+TABLE IX.-Tes~s
+
+o/muffling qualities.
+
+Various muJfiers used. Otherwise apparatus same as that described in Table VIII. 'rests made May 19 and 25, 1917, on Curtiss engine
+Tests on Ingeco engine for bark suppresSIOn made on Mnv 25, are shown in "Remarks."
+Adam C. Davis,jr. , C. A . Pierce, G. M. Rogers, II. DIederichs, V, R. Ga~e, G. B. Upton, and Birton N. Wilson individually made notes, and
+afterwards collectively made the final decis ion on tbe silencing qualit,es f the various device.
+
+MA y 19, 1917.
+Back pressure
+(inches mercury).
+Muffi er and dO! rription.
+
+Tachometer
+(multiply by
+1.002 ror trt!e
+R. P. M.l.
+
+Bock
+pressure
+Muffieroff.
+MWllcron.
+due to
+I_ _ _-;-___ I_ _ _ _ _ _-l-__-,-___ Imufflcr.
+South. Xorth. :,out;"1 North.
+
+Off
+
+Remarks.
+
+Weight
+(pounds).
+
+On.
+
+1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - , - - - 1 · - - - - - - - - - - - - - 1- - Duplex whirl,uniformly perforated{
+1.0
+O .~
+diffuser, .as oefore . . .............
+1. 2
+1.0
+Long manifold muffler. . . ..........
+1. 3
+I. 0
+G. P. F . I2-inch........ ... . ..... .. .
+1. 2
+1.0
+G. P. F .I2-inch.................. . . .... .... ........
+
+1.4
+
+12-inch whirl. ........ .. ·· .... · .. · .. 1
+
+1
+
+1.2
+1. :3
+1. 3
+
+l.~
+
+1. a
+2.8
+2.9
+
+1,0;;0
+I,or.o
+I, OliO
+1,0.iO
+1,0'l5
+
+2.~
+
+2.8
+
+1
+I. 4 '1 1,0;0 1,060
+
+1. 31
+
+1. 0 \
+
+1.1
+. 91
+1.1
+Maxm ............ . .............. . .1
+G. P; F. 12-inch . ............. . .. " '1
+ManiJold muffier, r Jgu lar. .... ... .. .
+
+. 71
+.8
+.8
+
+:81
+.8
+
+1. 3 ;
+
+1.1
+1. 1
+l. 1
+
+I
+
+51
+
+1,050+ .... . ...
+1,060
+0. 3~
+These 3 mufflers all good silencers, {
+1,060
+.20
+G. F. F. Judged best ID respect to
+1,060
+. 70
+noi<esu ppression.
+... . ....
+1.75
+
+I
+
+3.0
+4.34.3
+
+Slight roar, perbaps due to the light \
+material used in construction .
+
+3. 4
+
+1
+1
+1. 21 1,0'iO 1 ,060
+,0 ;0 1,055
+1.2
+2.0
+",015 1,040
+
+.51 Second bestonswisb: thirdonhum"1
+. 35 F irst best on sW i~h; second on hwn .. .
+1. 2 Third best on SWISh; fi r t on bum ..... .
+
+4.6
+3.0
+4.3
+
+~:O I ~:m I::m
+
+1.91}Ofthes03, Uaxim judged best silcncer,
+1. 2
+manifold muffler next, and G. J>. F.
+. 45
+last; all very good .
+
+0
+
+1,120 1,120
+
+.3
+
+I{
+
+12. 0
+4. 3
+4.6
+
+MAY 25, 1917.
+
+u I. ~:~}I
+..
+1. 0 ...... .
+
+1.4
+2.0
+
+1
+
+1
+
+... . .. . .
+... ... .f1... ,]40 11,,140
+....• 130
+
+0.4
+1.0
+
+1
+New manifold, single inner tube ....
+G. P. F. I2-inch ........ . . ..........
+
+1. 0 ....... .
+. 9 ........
+
+1. 35 .. ......
+1.8 ... .. ..
+~
+
+1,1 45 1,145
+1, 140 1,140
+
+. 35
+.9
+
+New manifold muffler is much better
+
+I} silencer than G. P. F.
+
+I}
+
+INew manifold barks more without }
+ow equals
+second inner tube.
+G.P . F.asa silellcer. A short tail
+pipe on new maniJold muffler does not
+change back pressure or sflencing.
+
+7.2
+4.3
+
+5. 9
+
+4. 3
+
+On Ingeco engine tbe new manifold muffler with t wo perfora d Inner tubes is easily better than G. P. F. 12-inch or the duplex whirl chamher
+mufflers.
+
+33
+
+INVESTIGATION OF MUE:FLING PROBLEMS.
+TABL E
+
+X .-Showing how the back pressure due to anyone muffler apparently decreased as tirne passed.
+to increasing leakage in the exhaust piping system.
+
+G=G . P . F. 12" Mumer.
+M="Mal1ifold Muffler " (regular).
+
+L="Long Manifold."
+D~"Dl1plex Whirl Chamber."
+
+This effect is due
+
+12=" ~rh irl Cham her " 12"
+
+7= ttWhlrl Chamber;" 7 11 ; . 1"
+
+G
+
+G
+G
+
+GG
+
+7@
+
+7@
+
+G-
+
+M
+
+G
+
+7
+
+M
+
+i£
+
+M
+
+7 M
+
+MD
+
+1
+2
+
+D
+
+L
+°Lli!
+
+AprZI
+
+M oyl e
+
+M oyl4
+
+Moyl6 Moyl9
+
+Hoy Z5
+
+Time of tests.
+T A BLE
+
+X L-Summary oj results.
+Curtiss, S-cylinder,
+7~horsepower.
+
+Weight
+(pounds).
+
+Muffler.
+
+Noise
+
+1---,..----1 suppres·
+Back
+
+sion esti· Silencing qualities.
+Power
+mated
+~l'n~e loss (per in per
+of mer·
+cent).
+cent).
+cury) .
+
+-------------------------------------------1--------------------1
+---------
+
+~i~~i~~~~j i~ jjjjjjjj~j:j~ ~jj: jjj~j jjjj:jjj j~ jj ~ j:~ j: jjj~jj jjjjjjj jj jj jj j; j; :::::+
+i:
+ew manifold:
+2 inner tubes .. ... ............... .. ............... .. ... ..... ... .. .............. .
+1 inner tube .. .. .... .. .. .. . .. ..... .. .. .. ........................... .. ......... ..
+Whirl chamber tY'pe:
+4-inch . . ... . ... .. . . ...... . ..... .. ...... . . . .. ... . . . ........ . .... . .............. ..
+7 by! inch ............ . . .. ..... . ... ..................... , .. , ." ..... . ......... .
+7 by 1 inch .... .. ........ __ ... . ............ . ...... .... .. .. .................... ..
+12·inch ... . . . ....... . .... . ... . . . ............................ .. .... . . . .......... .
+
+Wir~;:,,~~~:::::::: : : :::: :: ::: :::::: : ::::::::::::: : ::::::::::::::::::::: : ::::::::::
+
+F le 'd ble metallice.xhausthose/2 inches diameter ..... ... ................. . ..... . .. .
+Curtiss stock mamfold ; 2 rellulCed . .. ..... .. .. .. .... ................. .. ...... . .... ..
+1
+
+Per foot of length.
+
+2.0
+4. 0
+
+1. 6
+
+3. 2
+
+3.6
+
+2.9
+
+.7
+
+.6
+
+.7
+
+7.2
+
+.7
+
+5. 9
+
+.7
+
+.7
+
+.6
+
+1.7.~
+
+.7
+
+~:~
+
+3.4
+3.0
+15.0
+
+1.0
+. 8.8
+
+.6.7
+
+. 3(?)
+
+.2(?)
+
+75 Very good.
+41)...70 Good minus.
+75-80 Very good plus.
+75 Very good .
+Verygood .
+75- 0 Very good plus.
+75 1Very good .
+3()..40 Fair minus.
+50-60 Fair plus.
+50 Fair plus.
+50-70 Fair plus.
+Good plus.
+50
+
+:15 :::::::::: :::::::::: ::::::::::1
+• Each.
+
+APPENDIX A.
+FAN DYNAMOMETER DESIGN AND CALIBRATION.
+
+Because of its .flexibility and inherent regulation, due to torque varying as square of speed,
+and similarity to a propeller, the dynamometer chosen was the fan type. The general scheme
+of uesign is shown in figure 23. The resistance plates PP are of Tobin bronze plate -h inch
+thick . The length, a, of each plate parallel to the shaft is 14 inches. The radial width, b, of
+each plate is 10 inche . The plates are fastened to the steel arm, A, which revolves edgewise,
+by t wo angle irons riveted on the back of each plate, and bolted to the arm A. A series of
+evenly spaced holes in each end of arm A makes it possible to clamp the plates PP at any desired
+distances from the cen ter, making tho outside diameters of the plates, DOl adjustable.
+Th e fan shaft is m nunted in ball bearing , which are suppor ted by a framework built up
+of steel angle shapes. This frame is extended, as may be seen in the photograph, figure 1 of the
+main body of this repor t, to carry a rect angular box safety housing of wire mesh screen around
+th e fan .
+
+34
+
+ANNUAL REPORT NATIONAL ADVISORY COMMI TTEE FOR AERONAUTICS.
+
+The design is copied in detail, b th as to fa and fr mework, from a fan dynamometer at
+the A. C. A. testing laboratory in New York City, hich in turn was built after the "Franklin"
+dynamometer. In each case the fan dynamom eter of this design was tested out by driving
+
+A
+
+,
+,
+-- .,
+,.----
+
+__
+
+J... _ _ _ _
+
+,
+
+A
+
+IO"b
+
+"
+
+ll.'-------J
+t=~,~
+F'I9· 23
+from an engine or m.otor mounted on a cradle, aDd the calibration curves so obtained were
+available to us and used for our machine, as developed in the following analysis:
+To check the accuracy of these calibrations e used the general formula for fan dynamometers, worked out by the White
+Poppe A tomobile Co., in England, and published in
+Automobile Engineer, August, 1910. T he formula is quoted in the book on Dynamometers,
+by F. J. Jervis-Smith, on page 117. It is
+a Z R3!VB
+HP = 4.01 X 1015
+in which a is the side dimension of a sq . are plato, replacing the a and b of figure 23; R =
+
+~
+
+0
+
+of
+
+figure 23; and N =1'. p. m. Dimensions were in contim.eters in getting the constant 4.01 X 10 16
+above. We may generalize the formula into
+abD o3 Na
+HP- 8 X 4.01 X 1010
+for dimensions in centimeters, or
+
+35
+
+INVESTIGATION OF MUFFLING PROBLEMS .
+
+for dimensions in inches.
+
+This reduces to
+HP=3.43 X 10- 15 X abD o3 X N3.
+
+The formula i stated by White & Poppe to be valid only if there is no interference with in or
+out flow of ail' around the fan. If there is such interference, and less air is handled, the power is
+decreased below that given by the formula.
+Taking the formula as
+we checked over the available calibrations of our dynamometer design by finding the values of
+K for different settings of Do, and trying to account for variations by the expected interferences
+with air flow .
+
+TABLE
+
+XII.-S. A. E. or Franklin calibrations, 10 bl/
+14 inch plates.
+.
+
+Setting
+Do
+
+N
+
+K
+
+HP
+
+--------·;6
+
+600
+
+56
+;'0
+50
+46
+46
+42
+42
+38
+38
+36
+36
+34
+34
+32
+32
+30
+30
+
+17.0
+39.0
+30. 7
+60.0
+23.5
+45.7
+35.5
+61. 5
+25.0
+69.5
+20.7
+56.2
+30.0
+70.7
+25.0
+59.020.0+
+70.5
+
+00
+1,000
+800
+1,000
+1,000
+1,200
+1,000
+1, 400
+1,000
+1,400
+1,200
+1,600
+1,200
+1,600
+1, 200
+1, 800
+
+bOO
+
+T .\BL E
+
+I Mean
+K
+
+Setting
+Do
+
+--'-3.20
+3. 10
+3.43
+3. 411
+3.37
+3.35
+3.42
+3.42
+3.26
+3.29
+3.17
+3.14.
+3. 15
+3. 14
+3.15
+3.12
+3.08
+3.19
+
+60
+60
+50
+.50
+42
+42
+3
+3
+34
+34
+33
+
+I
+
+3.42
+
+3. 6
+3. 42
+3.28
+
+3.15
+
+32
+32
+30
+30
+2
+2
+26
+26
+
+I
+
+3.14
+
+3.13
+
+"olue
+
+~~ t..0nIJrr~e
+
+A ...i-'-
+
+~
+
+..-
+
+/
+
+........
+
+,/
+
+/
+
+1Z
+
+/
+/<
+
+~JO
+
+8/
+
+/
+
+Meau
+K
+
+K
+
+19.7
+6.0
+20. 4
+7.5
+17.
+7.9
+1 .1
+5.
+22.9
+6. 3
+20.8
+.2
+24.1
+7.1
+24.5
+.2
+24.2
+
+600
+400
+700
+500
+800
+600
+900
+600
+1,100
+700
+1,100
+00
+1, 200
+00
+1,300
+900
+1,400
+1,000
+1,600
+1, 100
+
+33
+
+3.1 5
+
+1-- r~ilm!?
+
+-
+
+HF
+
+N
+
+--- ------------
+
+3.15
+
+1
+
+XIII. -A. C. A. calieration (Chase), 10 by
+J./. inch platts.
+
+.4
+
+27.1
+.6
+
+3.02
+3.10
+3.40
+3.43
+3.35
+3.53
+3.23
+3. 49
+3. 13
+3.34
+3.11
+3.1
+3.04
+3.03
+2.95
+2.9
+2. 7
+2.73
+2. 69
+2.63
+
+f - - !--
+
+~
+
+""~
+
+3. 04
+3.41
+3.41
+3. 32
+3.20
+3.13
+3.04
+
+2..96
+2.82
+
+} 2.fn
+
+J.
+
+'" '"'\
+
+J
+
+l.
+
+/
+
+I
+f
+
+rAN CALIBRATION DATA
+
+,
+
+Paints 0 I'romA.CA orC/70$l!!colibrofion.
+
+..
+
++
+
+..
+
+S.A .C." Fronk/in
+
+!Jofh vvith 10 ·)( 14" Plates.
+
+"
+
+I
+I
+I
+
+28
+
+32
+
+..s
+
+.f(J
+
+Outsid e Oion?e fer o l rt7n 8lode3, 0
+
+.f8
+0 ,
+
+inc hes.
+
+The relation of the K values to Do, and of the two calibrations to each other, are shown in
+plot 24. The A. C. A. or Chase calibration seem probably the better, being notably more consistent internally. This may, however, be due to smoothing out of data by Chase, by crossfairing methods. Low values of K for small values of Do are due to interference with intake
+air by the shielding framework around the fan; small values of K at large values of Do are due
+to interference of the floor and ends of framework with discharge air.
+
+36
+
+ANNUAL REPORT NATIO AL ADVISORY COMMITTEE FOR AERONAUTICS .
+
+With given plate size and setting of Do, we fix alue of a, h, and Do of the formula HP =
+Kx 1O-15a bD o N3, and K is also fixed b th sett ng, so that the formula becomes for anyone
+3
+setting nP=const:mt x N 3. Picking value of
+from plot 24 for the 10 by 14 inch plates,
+assuming the curve sketched in along the Chase point, as correct, we have:
+TABLE
+Do
+
+K
+
+-IV.
+
+Conslant=(KXlo-"XlOXI4 XD,,).
+
+- - - --26
+2
+30
+32
+34
+36
+3
+40
+42
+44
+
+46
+48
+50
+52
+54
+
+56
+58
+60
+
+2. 67
+2. 2
+2.96
+3. 0
+3.19
+3. 26
+3.32
+3.38
+3. 41
+3. 42
+3. 42
+3.42
+3.
+3.37
+3. 31
+3.23
+3. 15
+3. ().\
+
+6. [,6X Io-'
+8.66
+11.2
+14. I
+17.6
+21 3
+2.';.5
+30 2
+3,4
+40 8
+411 6
+
+;.2.9
+.•96
+
+(iG.2
+72
+
+70 1
+S,j 9
+
+91
+
+XIo- ·
+
+The "constant" gives the H .P. at 1,000 r.p.m. for each setting. The setting used throughout the muffler tests on the Curtiss eno-:ne wa with Do=42 inches, constant=35.4 H .P. at
+1,000 r.p.m.
+APPENDIX B.
+TESTS OF AUTOMOBILE E GIN15 MUFFLERS AT UNIVERSITY OF MICIDGAN.
+[Reported in Horseless Age, May, 1915.)
+
+These te t were made on a stock Hudson 6-cylinder motor of 4Ys -inch bore by 5 7:4:-inch
+stroke. For the purposes for which e would lik . to u e the data the method of test was unfortunate. Runs were made through the ral1ge of throttle positions and speeds without a muffler,
+followed by similar sets of runs with thEl muffl l' tested_ Back pressures were read with the
+mufflers. Power losses were inferred by eomparison of the runs with and without the mufflers.
+As tbese ru.ns were somewhat separat ed i' time, po er changes due to changes in carburetion,
+lubrication, ignition, etc., can not be sorted out fr m power changes due to the muffiers alone .
+The mufflers tested were commercial de il'ns, five in n umber.
+From the data we have sorted out pnrts from re ults on three of the mufflers (those found
+best as silencers), tabulating and plotting their results for our own information. The data
+are given in Table XV berewith. Inspection of the table, which may be ta.ken to represent
+the state of the art of muffiing at th dat of 191 5, hows how well grounded was the fear that
+the muffling of airplane engines wo Id be acco panied with prohibitive loss of power. One
+commercial muffler lost about 18 p r ce t and n, otber 14 per cent of tbe maximum engine
+power. At the same time, however , there was h op offered, in that the smallest and lightest
+muffler tested gave the best silencing and also t 1e least power loss- only 3.6 per cent of the
+maximum engine power. This muffler eighed ] 4 pounds for a 40-horsepower motor, or 0.35
+pounds per horsepower. We have no v obtained, by contrast, excellent muffiing on a 70horsepower motor at a power loss les than 1 per cent and with a weight of 5 or 6 pounds (less
+than 0.09 pounds per horsepower).
+
+37
+
+INVESTIGATION OF MUFFLING PROBLEMS.
+TABLE
+
+XV.- University oj Michigan tests-Hudson 6, 478 by 5U inches.
+
+750 r. p. m.
+
+Mumer.
+
+Back
+pressure
+with
+muiller H.P.
+with
+loss.
+mumer. (pounds
+per
+sq uare
+inch).
+
+1,000 r. p. m.
+Back
+pressure
+with
+muffler H.P.
+(pounds loss.
+per
+square
+inch).
+
+L oss of
+brake
+Per cent M. E.P. B .H.P.
+power (pounds
+with
+loss.
+per
+muffler.
+square
+inch).
+
+B.B.P.
+
+1,300 r. p. m.
+
+- - - - - - - - - - - - - - - - - - - -- - - - - - - - D ...... {
+
+y ......
+
+l
+
+5
+11
+15
+20
+23
+5. 5
+10.5
+16
+20
+24
+5
+
+9
+0 ...... { 15
+20
+25
+
+0.2
+0. 2
+0. 35
+1.0
+1.6
+0.1
+0. 1
+0.3
+0.3
+0.9
+0.1
+0. 2
+0.1
+0.1
+0.6
+
+0.25
+0.5
+0. 95
+1.5
+2.2
+0
+0
+0. 2
+0.25
+0.5
+0
+0
+0.3
+0.6
+1.1
+
+4. 0
+1.8
+2.3
+
+0.5
+
+4.8
+
+6.5
+1.8
+0.9
+1. ~
+1.5
+3.6
+2.0
+2.2
+0.7
+0.5
+2.3
+
+0. 5
+0.75
+1.3
+2.6
+3.5
+0
+0.1
+0.2
+0.5
+0.9
+0.1
+0.3
+
+5
+11
+15
+26
+27.5
+5
+10
+15
+
+0.5
+0. 9
+2.5
+4.0
+0.25
+0. 25
+0.75
+0.75
+2.3
+0.25
+0.5
+0.25
+0.25
+1.5
+
+24
+
+31
+5
+11
+15
+25
+33
+
+0.4
+0.5
+1.3
+1.6
+1.9
+0.05
+0.3
+0.3
+
+7.4
+4. 3
+8.0
+5. 8
+6.5
+1.0
+2.9
+2.0
+2.0
+1.9
+2.0
+2.6
+5.1
+6.7
+2.7
+
+0.5
+
+0.6
+0
+0.5
+0. 8
+1.8
+0. 9
+
+0.5
+
+1.4
+2. 1
+
+Back
+pressure
+with
+mulDer H.P.
+(pounds loss.
+per
+s quare
+inch).
+
+Loss of
+brake
+Per cent M.E. P. B, P .lI.
+power (pounds
+with
+loss.
+per
+mumer.
+sq uare
+inch).
+
+Loss of
+brake
+Per cent M.E.P.
+power (pounds
+loss.
+per
+square
+inch ).
+
+--- - -- - - - - - ---
+
+0.7
+0.9
+2.4
+3.0
+3.5
+0.1
+0.55
+0.55
+0.9
+1.1
+0
+0.9
+1.5
+3.3
+1.7
+
+11
+14
+21
+29
+32
+
+1.3
+1. 8
+2. 8
+
+1.3
+1.9
+3. 1
+
+4.6
+
+10
+
+16
+19
+29
+38
+18
+115
+121
+130
+135
+
+4.6
+
+5.9
+0. 2
+0.45
+0.6
+1.0
+1.1
+0.5
+1.2
+1.6
+2.9
+4. 0
+
+7.0
+0.05
+0.05
+0.5
+1.0
+1.4
+0
+O
+.S
+2. 5
+3.0
+5.6
+
+10. 6
+11.4
+11. 8
+13.7
+17.9
+0.5
+0.3
+2.6
+3.4
+3.6
+0
+5. 1
+10.6
+10. 7
+13.8
+
+1.8
+2· 5
+3. 9
+6.5
+9. 8
+0.07
+0.07
+0.7
+1.4
+2.0
+0
+1.1
+3.4
+4.9
+7. 6
+
+1 Tills group at 1,350 r. p. m .
+
+.
+
+I
+I
+
+I
+
+0
+
+I
+
+I
+
+/
+
+I
+
+BACK ,Pl?essul?e
+DUe TDMUF'FLeRS
+
+!
+
+v.:;.
+
+BMlfe tfOI?SC,PDWCI?
+or-eNGINe.
+Symbol.s
+
+a. 0
+
+o
+
+V
+,,/
+
+0 ...... ::.-:-.: -::;--
+
+_
+1
+_
+.--~ ~50R:P'r'f' _
+~ _D' _/
+
+-
+
+~J-It
+4~
+0--
+
+Plot N;; .•'6
+
+p. p.""
+
+//,[e?
+
+/0
+---T
+
+.-c-
+
+n/
+
+_~-o--
+
+11
+
+--
+
+___
+
+1- ---
+
+__.JJ-
+
+16
+
+-
+
+/
+
+1"
+
+IOO~-l
+j ~o
+
+c ____
+
+.,../'
+
+3~O
+
+/
+y-
+
+t--o
+
+/
+
+~
+
+p. p.
+
+-~
+
+V
+
+/
+
+/
+
+/
+
+/V
+
+I
+
+~Y-
+
+00
+\3
+
+V
+
+/'
+
+indicate
+
+Mu'Frler used.
+
+'-
+
+...0
+
+-.1.-;r;.J
+o".p.
+
+~-
+
+10 0
+
+...0
+
+.... Ip-;;..y.;50 fl· .
+10
+
+1'4
+
+Broke liur.sepo...,er 01 Er19ine.
+
+JZ
+
+36
+
+Mu:fI:l.er Y, besides giving the least back pressme and power loss, was the least in weight
+and size, and the best in silencing ability.
+A partial analysis of the University of Michigan data is given in plot 25, showing the losses
+of brake M. E. P. as a function of back pressure at various speeds. At the right of plot 25
+the cmves for the three speeds are combined. The resultant grouping is comparable with
+Table II and plot 11 of the main body of this report.
+ote that in plot 11 b ack pressures are
+in inches of mercury and in plot 25 in pounds per square mch.) The conclusions there reached
+are confirmed, at least qualitatively, from this independent source.
+Plot 26 shows the back pressures due to the mufflers as a function of power output of the
+engine. It is similar to plots 7 and 12 of the main report. Plot 27 presents the same data in
+logarithmic plotting, just as plot 8 reproduces plot 7. The suggestion that back pressure
+varies as about the 1.5 power of the output of the engine is checked.
+It does not seem quite true, however, that back pressure depends, for anyone muffler and
+engine, solely on power output. The back pressure (and per cent power loss) is higher when
+
+eN
+
+38
+
+ANNUAL REPORT NATIONAL ADVISORY
+
+OMMITTEE FOR AERONAUTICS.
+
+I
+
+the power is obtained by small throt tle 0 ening and high speed than by large throttle opening
+and low speed. It should be remember d, however, that in the discussion of muffier capacity
+we have pointed out that some mufflers in our own tests did not increase back pressure when
+the number of cylinders exhausting into the muffler was doubled. Other muffiers did increase
+
+r- 1-1-
+
+BACK ?RESSUI?E
+
+f- 1-1- DUE TO M UrrLEflS
+vs_
+or- 1-1f- 1-1-
+
+lP'
+
+tJRAIfE IiOflSE?OWEI?
+Or ENGINE_
+
+f - f-f- "teon Value of Slope" I. 6.
+
+Of- 1-1-:
+f- f-~
+
+Symbols 0" >-; 0 inoicalf!
+Mut'r/erused.
+
+Iff"
+
+!
+
+:/
+
+1Af. /
+
+~.
+
+7,-
+
+;1
+
+R>;"
+
+I~'
+
+l!
+
+t'
+
+,7
+
+/
+
+II
+
+~~
+
+/@
+
+~.
+
+<;,~
+
+<}o
+
+(i-I- I- -
+
+~
+
+~
+
+~
+
+0.
+
+N
+
+,.J
+
+i"lct No. 21
+
+~
+
+1/
+
+'/ae
+
+' ''
+
+\-
+
+rJ"
+
+:
+
+/;;;;
+~
+
+,
+
+~-
+
+.I~ ~
+
+1
+
+1
+}l1.~
+
+1/
+
+o~(1
+
+,,~
+
+i
+
+~
+
+I
+
+l-'~I--
+
+H-c-
+
+I
+
+/
+
+s
+
+\)
+
+fI
+
+,,'1; :/! If:
+
+.1'7
+
+/
+
+' - !-I-
+
+/
+
+.I.
+.,4-'"
+
+-'} ft,
+
+$)
+
+...
+
+/
+
+//
+
+Irl'
+
+~
+
+4...J
+
+III
+/,
+
+fill
+
+,f? - ~f f
+......-
+
+~
+
+t 'a
+
+"
+W
+I/W 7J
+
+t
+
+-'-'.rbS'.J;K1'wl7 'd-TH a,YlUfl~o r ro7
+
+' 1':
+
+,J¥ ~
+
+1;1'
+
+II
+
+ill II
+
+&-
+
+D
+
+,I
+
+l-
+
+Id
+
+Broke
+
+f(crs~pow<!"r
+
+lO
+
+1-M-1-L_l.L~
+.J
+
+0'- Er;glnc
+
+back pressure under the same C
+ITcumsta ces by 50 to 100 per cent; none quadrupled, as might
+be expected from ordinary flow laws. It seems probable that the differences between the
+curves for muffler D in plot 26 for speeds of 1,300, 1,000, and 750 r. p. m. are largely tied up
+with its having been a poor mu:ffier design (in respect of power loss) and that such a difference
+would show much less with the better mufflers of our later tests.
+
+o
+

@@ -1,0 +1,656 @@
+TECHNICAL NOTES.
+AERONAUT Ie S.
+
+~~
+
+,
+
+\
+
+5 -
+
+~
+
+~
+En:;!
+
+o
+
+No.38
+
+HIGH THERMAL EFFICIENCY IN AIRPLANE SERVICE.
+
+By
+
+S. l{. Sparr 0
+
+Automotive
+
+Po~er
+
+vi ,
+
+Plants Section,
+
+Bureau of Standards .
+
+-
+
+Decen,ber, 193J .
+
+--
+
+-~-~--
+
+--
+
+----------
+
+-------.,.
+
+NA':'IONAL ADVISORY CQkMI',Cn:',€ FOR AERONAU':'ICS.
+TECHN ICAL NOTE NO. 39.
+HIGE THF:RMAL EFFICIENCY IN AlP-PLANE SERVICE.
+By
+S. W. Sp3.rrON,
+Automotive Por-ex flant Secticn,
+B~reau
+
+of
+
+S~andGrds.
+
+To make hif:;her engine efficienciet3 possible vvi thout
+llio.king every
+
+effor~
+
+to insure
+
+~he
+
+attainment of this higher
+
+efficiency in actual service ae.n seldom be justified.
+most case s th e
+
+v'l id-3
+
+In
+
+difference bet i-veen tlle average per-
+
+forma,nce of an engine and th..1t in 'the l i..l.bora :o::'y ma.y be
+attributed to the difficulty of the problem
+f~ilure
+
+to
+
+its
+
+app reci ~te
+
+imp ort ~n ce.
+
+r ~ther
+
+than to
+
+Instances where this
+
+difficulty appears to have been surmounted are thus deserving of careful study.
+In this regard, the
+
+det ~i ls
+
+of design of certain for -
+
+eign engines, whose high avero.ge efficiency hi:l.s received
+much publj.city are of particulCl.r interest.
+
+In an examina-
+
+tion of these engines at the Bureau of Standards, the unusual type of ai r-fuel r a tiO control suggest ed itself a.s
+a possible source of the high efficiency.
+
+Fi g . 2 sho w
+s
+
+this type diagrammatically, While Fig. 1 is typici:l.l of a
+construction common on
+
+Ameri~an
+
+engines.
+
+In the lutter
+
+type, t~e rate of fuel flow is 0.1 tered. to ' produce the mixture ratio changes.
+•
+
+This may be accomplished by restrict-
+
+ing the fuel po.ssage or, as shown in the figure, by chang-
+
+-
+
+.....
+
+.:::i
+
+-
+
+ing the head producing flow through the agency of a valve
+in the pa.ssage connecting the float chamber with the carburetor 1:ihroa't.
+a type
+
+simil~r
+
+that the
+
+SilI!ila.r re sul t s a re freql'..entl y obtc...ined by
+to that
+
+mixt~re
+
+r ~ti o
+
+in Fig.
+
+sho~n
+
+chunga
+
+a,
+
+unaccompanied by any apprec-
+
+~s
+
+iable change in the qua.nti ty of charge
+
+a,
+
+trast, Fig.
+
+but so proportioned
+
+suppliec~.
+
+In con -
+
+to typify the foreign construction, is as-
+
+sumed to be so designed that the le£ming of the mixture is
+~lways
+
+accompanied by an
+
+supplied.
+
+T~is
+
+incre~se
+
+in the amount of charge
+
+may be effected by interconnectjng the
+
+thr ottl e with a. device for 0.1 t e rlng the size of the fuel
+orific e or
+
+J
+
+aa sho 1 in the fig"ure, by an auxilic;.,ry t hr ottle
+m
+
+w
+hict. admits a very le c.l.n mixture or pure Ed r.
+~uxiliary
+
+1"or thi s
+
+throttle to be effe ctive, the curburetor
+
+must offer a oonsiderable reatriction to air flow.
+
+thro~t
+
+The
+
+import dnt difference between the t w types is that in the
+o
+•
+
+one ShOflIl in Fig. 1, the change in p ower produced by :ow mixture change is due almost entirely to the change in power
+producing a.bility of a unit
+the other type, there is
+
+~eight
+
+alw~ys
+
+of the
+
+mixt~re
+
+wh il e in
+
+the additional effect of
+
+the quantity change necessary to bring Clbout the change in
+mixture qua lity.
+Fig. 3 indicates something of the economy thu.t is possible wi th the type shown in Fig. 1.
+
+The curves (shown in
+
+full lines) are based on tests of an 8-cylinder aviation
+engine at a.n
+
+~lti~ude
+
+of 5000 feet a.nd a speed of 1600 r.p.m.
+
+- :3 -
+
+It will be noted that a decrease in the specific fuel consumption of over 15 per cent ia secured when the mixture
+is le/;l.ned until there is
+i_
+.e., 7 per c e at.
+
+CI.
+
+decrease of 10 horsepower in 150 ,
+
+Unque st ionab:y then, so long Cl.S thi s tYJ.;e
+
+of 80ntrol hCl.s sufficient
+
+ita
+
+r~nge,
+
+result in a marked fuel s/;I.ving.
+ling?
+
+p ro~er h~ndling
+
+will
+
+Will it receive such hand-
+
+To realiz e ho w unlikely this is,
+
+i~
+
+must be renem-
+
+bered thd.1i continuing the rr.ixture i mpoveri shment will ul timtl.tely reaul t in a
+cause of fil'e.
+
+blo~vb i';. ck
+
+in the c[:.(.rburetor, a likely
+
+Kno vVing that sb.fety depends on not reaching
+"
+
+this cond.ition '-':.TId l3.cking kno 'lVledge as to ho w close to it
+/;I.
+
+given carburetor setting
+
+ive to
+
+~djust
+
+iency.
+
+dW~y
+
+fronl,
+
+the pilot h/;l.s every incent-
+
+is~
+
+r~ther
+
+than
+
+toward~
+
+m ximum effica
+
+Even were it possible to eliminate the fire hazard,
+
+the problem v
+.euld be f<...r from solved.
+
+In flight, the only
+
+meCl.sure of perform/;l.nce ordinarily aVtl.ilable is
+tl.S indicCl.ted by
+
+~he
+
+engine speed.
+
+as to the benefit of tte
+
+le ~n
+
+th ~ t
+
+of power
+
+In spite of all evidelce
+
+mixture from the s tandpoint
+
+of effi ciency, such o.n Cl.d justment, inasmuch as it rasu.l t s
+in lower po ,;er
+
+J
+
+'che only g/;l.uge of performunce Cl.vailable to
+
+the pilot, is bound to be unnatural.
+The
+
+explan~tion
+
+of tne disCl.dvanttl.ges of the first type
+
+makes clear the m
+erits of the second.
+
+W
+ith this, as the
+
+mixture becomes of poorer quality, the
+
+~mount
+
+incre/;l.sed.
+
+The natural adjustment, thc..t for maximum po w
+er,
+
+fiill be the one at which
+
+•
+
+supplied is
+
+t~e
+
+decrease in quality ceases to
+
+.- 4 -
+
+be
+
+overb~l~nced
+
+is such
+
+thi;;~t
+
+by the increase in
+
+~~lis
+
+poi.uti is 0,1 «dYS
+
+become s lean enoug}l
+there is
+
+~
+
+ti 0
+
+ca,use
+
+considerubl e
+
+quanti~y .
+
+~'ea,ched
+
+If the design
+
+before
+
+th~
+
+mixtiure
+
+blo wi::nwk :;'n the carbUl'eto:t',
+
+d.
+
+sa,feg~tird ~g~ins~
+
+fire .
+
+Since this type of control pel'mi ts the maximu:n \01e i ght
+of charge to be
+
+su~plied
+
+only
+
+~hen
+
+the mixture quality is such
+
+Oos tc give a compa.rL..tively low pORe r outpu.t pe r unit vreight
+of cho.rge, it is ob-JioUS th'-l.t the
+
+gre~te8t
+
+engine :::>ower
+
+w
+ill be slightly less tha.n with types ilvhich perrr,i t the maximum po fler producing cdr ·· fuel T""t io to be obtained when the
+ma.xJ.llium weigl1t of eh-,rge is
+
+3UPP]
+
+ied.
+
+This con8ti tutes l:;he
+
+chi e f limitation of this construction.
+
+That the
+
+ma~ked
+
+ad-
+
+vant ages of this control appear only at full throttle c an
+sca.rcely be considereci a fault, a.s most c orr.mercial flying
+mtiy be expected to
+An example of the
+a~
+
+~ake
+
+pl~ce
+
+va.ri~tion
+
+different mi xture
+
+Fig. 3,
+
+a
+
+r~tics
+
+under these conditions.
+
+of power
+
+th~t
+
+might be expected
+
+is given by the dottsd lines of
+
+Suppose the point 0 to indicOote the desired mix-
+
+ture rOotio for operation
+
+tin~
+
+hence th e point at which the
+
+jesign perillits the mu.xizulIl ?hdrge to be supplied.
+
+The power
+
+at the other throttle positions has been estimated from the
+weight of
+
+~ir
+
+required tc give the various mixture ratios
+
+a nd the indic a ted horsepower Qeveloped per
+
+po~nd
+
+of ai r at
+
+these mixture ratio s as determined from the full line curves. *
+
+- - - - - - - - - - _ . _ - - - -- - - - - - -
+
+*
+No conside ration ha.s been givan to the cho.nge in fUel
+flow resulting fro m the different suctions prod~ce d at v&rious
+throttle posi tions or to the cha.nge in tee pumping 10s;3 element of the friction horsepower under t~ese conditions. Such
+consideration is '! lot needed in t:1e general comparison here
+m~de bu~ is of very re~l importunce in a deta.iled design of
+either type.
+j
+
+- 5 -
+
+In the over-dimensioned engine, parts are designed
+for the stresses of full throttle operat5.on at a certain
+altitude and the t h rottle closed so a s not to exceed this
+power at lowe::- o.ltitudes.
+
+The mixture ratio control de-
+
+scribed above forms an admirable sCLfeguClrd a gainst full
+throttie operat ion at these al ti t'.lde s I ina smuch as I unde r
+these oonditions, it supplies a mixture too lean for engine operation.
+
+M
+oreover, some of the p reviously mention-
+
+ed power loss at full thl"ottle lliay b e offset by an increase in compre ss i on
+
+rt.. t
+
+iO.
+
+.A throttled eng ine can em-
+
+ploy a higher ra.t 10 wi th s a.f e ty thn.n one ope:"a t ing a t
+full throttla.
+With a
+
+kno ~le dge
+
+ious types · of mixture
+upon
+
+reli~ble
+
+of the faults and m
+erits of the varr ~tio
+
+contro~,
+
+choice is dependent
+
+information as to th e s e rvice to w
+hich toe;
+
+plane is to b e subjected.
+
+As commercial avi a tion devel -
+
+ops, economy is more likely to be of paramount importance
+than maxlmum po w
+er.
+
+It is to point out one method by
+
+which high average fuel economy has b een realized
+again emphusize the
+
+v~ide
+
+~nd
+
+to
+
+gulf separat ing maximum economy
+
+and maximum power adjustments that this disoussion ha s
+be en prepared.
+
+J
+
+,
+
+If
+
+I'
+
+I:
+II
+II
+II
+II
+
+II
+II
+II
+II
+
+,: ::
+,I ..
+"
+
+•
+
+"
+
+'t
+If
+
+!:
+II
+
+II
+
+II
+
+II
+
+II
+
+':
+
+II
+
+.
+

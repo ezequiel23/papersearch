@@ -1,0 +1,855 @@
+TECHNICAL N~ES.
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+No. 70.
+
+THE EFFECT OF STAGGERING A BIPLANE.
+By
+F. H. Norton. “
+Langley Memcrial Aeronauticel La?ao atory,
+r
+Natiqnal Advisory Committee for Aeronautics,
+Langley Field} Va.
+.
+
+September, 1921.
+
+.
+
+ITATIONALADVISORY COUMITTEE FOR AERONAUTICS.
+TECHNICAL NOTE No. 70.
+THE EFFECT OF STAGCXRING A BIPLANE.
+By
+F. E. Norton.
+Summary. - This investigation was carried out by request Of
+.
+the United States Air Service at the Massachusetts Institute of
+q
+
+Technology wind tunnel in 1918.
+
+As the data collected may be of
+
+general interest, they are published here b$ the Nations3 Advisory
+committee for Aeronmtics.
+
+The lift, drag, and center of pressure
+
+travel are determined for a biplsne with a stagger varying frcm
++’100$$ -100$.
+to
+
+It is found that the efficiency and the maximum
+
+lift incre~e with Eositive stagger. With large positive staggers
+ttiecenter of pressure is far forward and has a very slight travel
+with changes in lift coefficient.
+Introduction. - As staggered biplanes have certain advantages
+.
+
+from the point of.view of visibility, it was thought that a more
+cGmplete investigation of the aeraiynamic effects of stagger than
+
+q
+
+had been done ‘oeforewould be of considerable value.
+
+Particular
+
+care was taken to examine the pitching moments of the various com3inations, as they showed very interesting characteristics.
+The references to work already done on stsgger are given below:
+Some Stable Biplane Combinations, J. C. Hunsaker;
+British Advisory Committee R. & M. No. 186;
+Nouvelles Recherches sur la Resistance de llAir et lfAviatioq
+Eiffel.
+
+-?-
+
+Methods. - The wings used in this investigation were an &luminum U.S.A.15 section a6 an upper wing, and an R.A.F.15 section as
+the
+
+lower.
+
+Identical seotions were not employed, as none were
+
+available, but the two sections used had very similaz properties,
+snd previgus tests have shown that the individual properties of the
+wings have little influence on the biplane characters tics. When
+comparing the biplane with the monoplane the aversge of the two
+q
+
+wings was
+.
+
+taken as the monoplane value.
+
+The characteristics of
+
+these wings axe shown in Fig. 1.
+The wings (311 18U) were suppozted at the lower end by a
+x
+I
+
+streamlined ‘crossbar which was attached to.the N.P.L. balance
+spindle. The upper ends of the wing were connected by a very light
+strut whose resistance was carefully determined for each case.
+The gap chord ratio was one in all cases. The speed of test was
+13.4 K.p.s. (30 m.p.h.).
+Preoision. - The wings were lined up in each case to 0.05°.
+In every case three separate runs were made, resetting the wings
+I
+q
+
+each time.
+
+In nearly every case the reading checked within 1$, so
+
+that the average nay be considered correct to better than this
+.
+amount, It was necessary to obtain this rather hfgh precision as
+the differences between different cases were generally small.
+Results. - It was thought most convenient to plot
+L/l)and C.P.
+4, 5)*
+
+.
+against stagger for each angle of attack (Figs. 2, 3,“
+
+The effect of stagger is clearly shown by these curves and
+
+needs no discussion.
+q
+
+CL, CD,*
+
+For the use of the designer, correction fac-
+
+* CL= Lift, L; absolute coefficient~~
+qs
+D
+II
+‘~
+
+~=+pf;
+
+s
+
+= area
+
+v= True air speed
+p = Density (M-s p$~l”?,~1
+7
+.
+
+-3iors to c’hange
+monoplane values to those of a st~”gere~ biplane, are
+given in Table 1.
+Table 1.
+Corrections for Stsggex.
+(Monoplane vsltiesto be multiplied by these factors)
+Gap/ohord ratio is ~s.
+Lift Corrections.
+
+WQ.fl +i2%
+i.75
+1.07
+.93
+.92
+.93
+.93
+.93
+.94
+.99
+1.13
+
+i.25
+
+1.00
+.92
+91
+.91
+.91
+.91
+.92
+.98
+1.11
+q
+
+i-25$
+
+SW!!
+
+i
+
+-L25 -.50 -.66 -1.35
+,..
+,7$3
+.74
+.76
+.81
+.85
+.86
+.87
+*88
+86
+.86
+.86
+.86
+.84
+.87
+.85 “.88
+.87
+.85
+.85
+.84
+86
+.85
+.85
+.85
+.81
+.81
+.84
+.82
+.79
+.80
+.82
+.85
+.86
+.89
+.9’7 .93
+
+-2
+o
+2
+4
+e
+
+35.3
+
+Q
+
+.25
+i.oo :50
+.86
+.95 .91
+.80 .89 ~ .88
+.87
+.89 .87
+.85
+.89 ,87
+.85
+.89 .87
+.85
+.89 .87
+.85
+.89 .87
+.88
+.96 .92
+1,09 L05 1.01
+
+q
+
+q
+
+1:
+12
+14
+16
+
+L/D Corrections.
+
+,
+
+-2 -2.24 -1*57 -1.0(2 4“.57
+0.90
+0.94
+0.98
+0.85
+0
+0.81
+0.83
+2
+0.84
+0.85
+4, 0.85
+0.81
+0.82
+0.83
+0.82” 0=81
+0.83
+0.84
+0.82
+0.84
+0.83
+0=84
+0.84
+0.84
+0.84
+0.84
+0.85
+0.86
+0.86
+0.86
+1.07
+2*O5
+0.89
+1.00
+1*57
+1.78
+1.57
+1.60
+
+-0.14
+0.80
+0.80
+0.80
+0.81
+0.82
+0.83
+0.84
+0.88
+1.52
+
+0.28 0.56 o-w
+0.’75 0.’73‘0.72
+o-m
+0.80:.0.83
+0.80 ‘0.80 0.81
+0.82 0.!32 0.82
+0.82 0.82 0.82
+C.83 0.83 0.83
+0.83 0.7’0 0.66
+0.80 0.75 O*72
+1.65 1.54 1*5O
+
+1.00
+0.71
+0.82
+0.82
+0.83
+0.83
+0.83
+0.65
+0.70
+1.42
+
+-2
+0
+2
+;
+1:
+12
+14
+16
+
+Conclusions. - This test shows that it is advisable from the
+pcint of view of aerodynamic efficiency to use the highest possible
+degree of stagger. Moreover, a positive stagger greatly restriots
+q
+
+the center of pressure travel> thus simplifying the problem of
+4
+
+stability.
+
+0
+
+.003
+
+I
+
+1
+
+.0024
+-g’
+d
++J~2
+x
+m“
+.
+G
+jool
+d
+
+.0012“~~~~
+.
+..— $
+1
+
+~
+.0004
+:~
+I
+I
+
+o
+
+0
+t
+
+.Fig. 1
+
+~gle
+
+Wing Chord to Wind.
+
+;
+q
+
+.003
+.
+
+.002
+q
+
+.
+
+002
+
+.002
+-002
+
+\
+
+.002
+1
+[
+
+.001
+
+i
+I
+
+n
+
+.
+:.001
+.
+~
+:+E)l
+.
+
+\
+
+I
+
+:.001
+2
+-.~~
+c!?
+.000
+q
+
+.000
+9B
+
+q
+
+-000
+
+b
+
+t
+
+.000
+—
+
+.
+t
+?
+
+-000
+
+.
+
+1
+
+-2°
+
+f
+100
+Fig. 2-
+
+50
+
+0
+Ea
+Percent stagger
+s~~ger ted CL VS. S~Sg~er.
+
+* 000$
+
+.0007
+
+l;
+
+i
+
+.0005
+
+.——.
+—I
+
+.. . I
+
+I
+
+l\l
+
+I
+
+‘“L—
+
+;---t-T~-----T~--r-‘“
+
+,
+--l-+”-
+
+,
+
+“~
+
+—
+
+I
+!
+
++’
+14
+
+—
+
+..—
+
+. -—
+-’ - -
+
+!
+——
+
+=F-
+
+0
+
+.—.
+
+—.
+
+—
+
+1-l
+
+.—
+.“
+
+/
+12 c‘
+j
+
+*
+I
+I
+I
+
+I 10G
+q==
+
+=-~
+d
+\
+
+1.
+n ‘..__ — -l
+,
+-.—.1“
+. —
+‘
+-—7P-T0 -+.
+.—
+
+I
+J
+
+A
+
+.0001
+
+1“
+l!
+
+I
+
+f
+
+“:...
+
++lWU
+
+~ +2C
+
+I
+
+*
+
+0
+
+I
+
+GO
+
++5(J
+
+:J
+‘
+
+(1
+
+-;
+_.fi_l
+
+50
+
+Percent Stagger
+Fig. 3
+
+Stagger Test
+
+‘—
+
+CD Vs * St~ger.
+
+-100
+
+I
+
+“—~–––-l
+
+6/
+
+14
+13
+12
+I
+
+11
+
+,
+
+1
+
+i
+
+iO
+1
+
+9
+8
+$
+
+?
+L/D
+6
+5
+
+t’
+
+4
+
+1
+
+3
+2
+1
+0
+
+I
+
+L
+
+I
+
+I I Iu
+I
+
+I
+
+I
+
+50
+
+100
+
+I
+
+0
+
+-i+
+i
+I
+
+i
+
+I
+
+1
+
+-50
+
+Percent Stagger
+Fig. 4
+
+St~ger
+
+Test
+
+. L/q vs. St~ger.
+
+i
+‘t
+
+1
+
+-1oo
+
+——-
+
+I
+
+[
+
+t
+
+I
+h
+
+Leading Edge
+
+061
+I
+
+I
+
+f
+
+O*2
+
+t
+
+I
+
+*LO
+
+I
+
+I
+
+-l
+
+I
+
+.!-!
+
+*
+I
+
+I
+
+I
+
+I
+I
+
+I
+
+,
+
+I
+1
+
+I
+
+I
+
+.—.”
+
+}
+
+I
+
+I
+
+I
+
+I
+
+,.
+
+!~—-
+
+0.3
+
+0.4
+
++
+
+I
+
+,.
+t .; , I
+
+-.,‘-i-3 ——
+---1
+
+i-
+
+E
+
+-?5 ,.
+
+\
+
++
+
+0.7
+
+1 —
+
+I
+
+1
+
+.––..
+—-..
+
+0.8\
+
+Stagger Test
+
+1
+
+Center of Pressure
+O*9
+
+O“
+
+2°
+
+Travel On Mean Chord
+I
+;“
+1
+r
+6“
+8° 10° 12°
+Angie of Incidence
+
+m+-..
+
+K
+
+14”
+
+16°
+
+18°
+

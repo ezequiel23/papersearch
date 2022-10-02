@@ -1,0 +1,8221 @@
+REPORT No. 30
+
+EXPERIMENTAL RESEARCH ON 4.L\.IR
+PR9PELLERS, II
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FOURTH ANNUAL REPORT
+
+_ _- - -WASHINGTON
+GOVERNMENT PRINTING OFFICE
+19111
+
+1
+
+REPRODUCED BY
+
+NATIONAL TECHNICAL
+INFORMATION SERVICE
+u. S. DEPARTMENT OF COMMERCE
+SPRINGFIELD, VA. 22161
+
+..
+
+;
+
+REPORT No. 30
+
+EXPERIMENTAL RESEARCH ON AIR
+PROPELLERS, II
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FOURTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1919
+
+--------~------~----~-------
+
+By Transtar
+Navy Dept.
+IIOV 11 1810
+
+REPORT No. 30
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II
+By WILLIAM F. DURAND and E. P. LESLEY
+
+Preceding page blank
+
+REPORT No. 30.
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II.
+By
+
+WILLIA.M
+
+F.
+
+DURAND AND
+
+E. P.
+
+LESLEY.
+
+INTRODUCTION.
+
+The purpose of the experimental investigation on the performance of air propellers described in the following report was, in brief, the extension of the field covered by the investigation of 1917 and described in Report No.14 of the 'I'hird Annual Report of the _ ational Advisory
+Committee for Aeronautics, 1917.
+The investigation was dividE'd into five parts, as follows:
+(I) Tests under conditions of flight on 16 model propellers of different forms, sections, or
+pitch ratios from those of Report No. 14.
+(II) Tests under conditions of flight on one model propeller of variable pitch.
+(III) Tests under conditions of flight on three sets of right and left hand model propellers
+in series.
+(lV) Tests on 12 model propellers to determine brake effect or negative thrust, at negative
+slip.
+.
+(V) Standing thrust and power tests of 67 model propellers.
+The above program was prepared by Dr. W. F. Durand, chairman of the National Advisory
+Committee for Aeronautics . The entire investigation was carried on during the summer and
+fall of 1918 in the aerodynamic laboratory at Stanford University, under the direction of Prof.
+E:. P. Lesley, who is author of the report in its present form. Prof. II. C. Moreno, of Stanford
+University, rendered valuable assistance in the experimental work and reduction of data. Dr.
+Durand was called to Europe in January, 1918, and was therefore unable to give personal attention to the tests and preparation of the report.
+The Stanford University aerodynamic laboratory and its equipment are fully de cribed in
+Report No. 14, previously mentioned. Except in details which are hereafter described, the
+method of observation and reduction of data used in this present report was the same as that
+previously adopted.
+I. TESTS ON 16 MODEL PROPELLERS.
+
+The propellers chosen for this part of the investigation are shown in the accompanying
+,
+figure 1. They involve SL~ additional forms (F3 , F" F s, Fa, F 7 and F s), one additional ty pe
+section (8 3 ) and one additional pitch ratio (1.1) .
+The characteristi~ of the six additional forms aTe shown in the accompanying figure::; 2, 3,
+and 4. It may be noted that Fa is similar to F2 of Report No. 14, the curved center line being
+of the same shape but being set back in the direction opposite to rotation 0.55 inch. In F.
+the center line is curved in the opposite direct.ion from that of Fa, making the leading edge
+instead of the following edge straight. In Fs th(> curved center line is set back 1.1 inches, and
+F6 is similar except that the center line is curved in the opposite direction. F7 has a radial
+leading edge, while Fs ha3 a radial following edge.
+The additional type sections (8a) are shown in figures 5, 6, 7, and 8. This section has onehalf the camber on the driving face of 8 2 of Report No. 14. Sections (Sl) of FS1 F 4 , Fs, and
+F6 are the same as for F 2 , All 8 1 (fig. 20 of Report o. 14). Figure 9 shows sections for F1
+nnd Fs. The various characteristics of the 16 models are shown in the following Table 1.
+5
+
+Preceding page blank
+
+6
+
+NNUAL REPORT NATIO -AL ADVISORY COMMITTEE FOR AERONAUTICS.
+TABLE
+
+No.
+
+80 ..........................................
+81 .............•........ .... .......... .. ....
+82 ..........................................
+83 ..........................................
+81. .........................................
+85 .. .................. ................ ..... .
+
+85 ..........................................
+7 ........ ..................................
+88 ... ......... .......... ....................
+J ..........................................
+90 ....... .... .... .. .. .. . . ......... .... ......
+91. ....................... ..................
+92 ..........................................
+93 ........ ... ...............................
+94 ...... .... ................................
+~5 . ..... ....................................
+
+Diame·
+ter.
+
+Inch ...
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+
+I.-Characteristics of model propeller8.
+Nominal
+pitch.
+
+Nominal
+pitch
+ratio.
+
+Inche•.
+39.6
+39.6
+39.6
+39.6
+25.2
+25.2
+25. 2
+25.2
+25.2
+25.2
+1 .0
+18.0
+25.2
+25.2
+32.4
+32.4
+
+Dynamic
+pitch.
+
+1.1
+1.1
+1.1
+1.1
+.7
+.7
+.7
+.7
+.7
+.7
+.5
+.5
+.7
+.7
+.9
+.9
+
+Dynamic
+pitch
+ratio.
+
+Inche•.
+50.9
+48.4
+50.7
+47. 2
+33. 8
+34.5
+33.1
+34.6
+35.4
+35.2
+26.5
+23.9
+34.8
+31.3
+42.8
+39.9
+
+1. 414
+1.343
+1. 409
+1. 312
+.938
+.958
+.918
+.959
+.983
+.976
+.737
+.664
+.966
+. 870
+1.190
+1.109
+
+Mean
+b 'sdo
+width.
+
+.15r
+.20r
+.15r
+.20r
+.15r
+.15r
+.15r
+.15r
+. 135r
+.135r
+.15r
+.2Or
+.15r
+.20r
+.15r
+.20r
+
+I
+
+Area
+symbol
+
+A.
+
+A,
+A,
+A,
+A,
+A,
+A,
+
+Bhape 01 Blade
+bade
+sec·
+(orm
+tlon
+symbol. symbol.
+
+-----,
+
+A,
+A.
+
+F, I
+F'
+F,
+F,
+F,
+F. I
+F,
+F,
+F,
+
+A,
+
+F,
+
+lOs
+
+F,
+~; I
+F,
+
+B,
+B,
+B•
+B,
+B,
+
+A,
+
+A,
+A,
+A,
+
+A,
+
+A,
+
+A,
+
+F.
+
+F,
+
+B,
+
+B,
+B,
+
+B,
+B,
+
+B,
+E,
+B'
+
+6,
+
+The dimensions of the propeller sections are given in the following Table II and figure 10:
+TABLE
+
+IL-Dimensions of propeller sections.
+[Bee figure 10.)
+
+Form, area, and section symbols.
+
+Radiuso!
+section.
+
+AB.
+
+AE.
+
+.'I.e
+
+BD.
+
+E B.
+
+EH.
+
+EM.
+
+R B.
+
+- - - - - - - - - - - - -- 1 · - - - - - - - - - - - - - - - - - - - - - - - --
+
+!
+~,A.S
+!
+!
+!
+,· . . ·.. ·.. . ·.. . ·.. . . . . . . . . l
+
+Inche•.
+4
+
+F, A,S ...............................................
+
+................................................
+
+F OA,S ......................... .... : .................
+
+F, A,S ...............................................
+
+F,A,
+
+F.
+
+7
+10
+13
+16
+4
+7
+10
+13
+16
+4
+7
+10
+
+la
+
+16
+4
+7
+10
+13
+16
+4
+7
+10
+13
+16
+
+blche•.
+2.45
+2.70
+2.70
+2.70
+2.70
+3.27
+3.60
+3.60
+3.60
+3.60
+3.00
+3.22
+3.14
+2.68
+1.90
+4.00
+4.30
+4.18
+2.58
+2.54
+2.34
+2.a9
+2.94
+3.02
+2.05
+
+Inche•.
+0.90
+.90
+.90
+.90
+.90
+1.20
+1.20
+1. 20
+1.20
+1.20
+1.00
+1.07
+1.05
+.89
+. 63
+1. 33
+1. 43
+1. 39
+1.19
+.85
+
+.~~
+.80
+.98
+1. 01
+.68
+
+Inches.
+0.0;
+.05
+.05
+.05
+.05
+. 05
+.05
+. 05
+.05
+. 05
+.05
+.05
+.05
+. 05
+.05
+. 05
+. 05
+.05
+.05
+.05
+.05
+.05
+.05
+.05
+.05
+
+Inchu.
+0.70
+. 60
+.50
+.40
+.30
+.70
+. 60
+.50
+.40
+.30
+. 70
+.60
+.50
+.40
+.30
+.70
+.60
+. 50
+.40
+.30
+.70
+.60
+.50
+.40
+.30
+
+Inchts.
+Inch e•.
+Inches.
+1.19 ... . ..... - .- . ...... .
+1. 01
+0.083 ._--.---- .84
+.083 .-.--_ ....
+.66
+. 066 ---_.-._- .
+. 49
+.050 ..... . .. - .
+1.19 ...... --_ . ........ - .
+1. 01
+.083 .-._---- ..
+4
+.083 .. . .... -- .
+. 66
+.066 .-.- ... -_ .
+.49
+.050 ..........
+1.19 - _.'.-- -' - ._.-.-_ . _.
+1. Ot
+.0 3
+4
+. 0~3 .-.-.-. - ..
+.66
+.066 ---"---"
+.49
+.050 _. --_._.- .
+1.19 .......... ._.-.-.0- .
+1.01
+.0!'3 ... _.-.-0.
+. 84
+.03 .- ... ----,
+.66
+.066 --_ .. _- "..49
+.050 .- .. ----- .
+1. 19
+0.12
+1.01
+"
+-'-"'"
+.84 ._-- ... _-- . _._._---.
+.66 . . ........ . ----_ ....
+.30 . _-- .. . _-- ..........
+' - · - ___ 0-'
+
+,8
+69
+60
+51
+'12
+78
+69
+60
+51
+42
+7
+09
+60
+51
+42
+78
+6P
+60
+51
+42
+78
+69
+60
+.11
+
+62
+
+Construction of models.-The model propellers were carved from single sticks of Pacific
+coast sugar pine (Pinus Lambertaina) in the manner described in Report No. 14. Further tests
+and measurements of the models constructed in 1917 show that, if thoroughly seasoned and
+properly protected by vamish, this wood is well adapted to vhe purpose.
+Method of conducting tests.-The te ts were conducted in the arne manner a those of 1917,
+except in the following particulars:
+Wind velocity.-In the earlier investigation the wind velocity, excEJpt for the action of the
+model, was constant throughout a test. Two or more velocities were u ed, the data for very
+high slip being obtained at the lower velocity.
+Although experiment showed that the thru t and torque reduced to coefficients were, at
+constant slip, independent of velocity; it was thought advisable to use velo ities as rugh as
+practicable, particularly at low lips, in order that the quantities observed might be large and
+thus the percentage of error reduced.
+Accordingly tests herein described were started with a velocity of about 50 miles (80 km. )
+per hour. The model propeller was brought to a rotative speed that produced practically no
+thrust and observations were made. The rotative speed was then increased slightly and another
+set of observations taken. This was continued until the limit of power for the driving motor
+was reached. The wind speed was then reduced by small amounts and observations made until
+the desired range of slip was covered.
+
+--
+
+--
+
+- -..
+
+~-----
+
+Report No. 30.
+
+FIG . 1 .
+
+)
+
+I
+
+I
+J
+
+-
+
+-
+
+-
+
+~--
+
+~~-------------.
+
+7
+
+EXPERIME ·TAL RESEARCH ON AIR PROPELLERS, II.
+
+~
+
+I~
+
+I~
+I~
+
+I
+
+I
+
+FIG. 2.
+
+8
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+1-0---
+
+3 ----l
+
+1--- 3i"---l
+
+FsAI
+FlO. S.
+
+~XPERIMENTAL nB BARCH OK AIR PROPELLER ', 11.
+
+9
+
+t
+
+I.
+
+If
+
+,
+
+II,j
+10
+
+~
+
+.
+
+~~
+
+I
+I
+
+\
+\
+
+I
+
+\
+
+I
+
+I
+
+I
+\
+
+1
+I
+
+\
+
+J
+t
+
+~
+
+~
+
+Fro. 4.
+146744-19-2
+
+10
+
+ANNUAL Rl;;PORT _JATIOKAL ADVISORY CO::'IMITTEE FOR AERC1NAUTICS.
+
+-c
+
+-c
+
+.,;
+
+-c
+
+.0
+
+~
+
+~
+
+'9
+
+;;..
+
+~
+
+f
+
+e
+
+'aomr
+
+.0
+f!
+
+...
+
+~.
+
+e
+
+i!
+
+e
+
+DNIaV:3:'l
+
+-c
+;::
+
+.0
+
+..,;
+
+e
+
+'tl
+
+M
+
+S
+
+;;..
+
+~
+
+e
+
+":;wa:3:
+
+()
+
+laVa'l
+
+e
+
+11
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, Il o
+
+~
+
+.c
+e
+
+.,,;
+
+:c
+
+~
+
+e
+°:3"Dmr DNIQVa'I
+
+.,,;
+
+e
+
+"'
+
+.,,;
+
+e
+
+'"
+
+.,;
+
+..;
+
+":::>
+
+E
+
+f
+
+l:
+
+~
+
+~
+
+0
+
+°:trDaa DNIaV:if'J
+
+I
+
+12
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+-;[ Oa:il ONIaV:il'l
+
+":;r Oa:il ONlaV:;I'I
+
+13
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II.
+
+Torque.- In 1917 it was determined that, after running 15 to 20 minutes, the torque moment
+of the apparatu was practically constant and independent of speed. The practice was therefore
+to observe the torque zero at the beginning and end of fL te. t in which from 10 to 20 observations
+occupying about ODe minute each were made.
+Te lS at the beo-inning of this pre ent investigation show-ed that while Lhe torque zero was
+practically independent of peed there was a slio-ht variation with Lime which was not uniform.
+The following practice wa therefore adopted. The driving motor was sta rted and allowed to
+run until practically a constant torque zero wa observed. The model was then put in position
+and the usual observations made. The model wa then removed fl,ncl an ob ervation of torque
+zero made at the same number of revolutiolls.
+The eli covery of slight variation 111 the torque zero led to t,hc suspieioll that. efficiencies
+determin ed for the 51 propellerB of Report No. 14 might be in ac<'urate at the lower lips (the
+vicinity of the maximum eill iency). Consequently all of the:e propellers were retested by the
+improved method. It wa thus learned that. in .ome case, particularly for propellers of the
+higher pitch ratio, the maximum efficiency previously determined wa from 1 to 3 per cent in
+error. The following Table III how for propeller 1 to 51, Report ~ ~ o. 14, the value of eill..
+.
+V
+· . II
+ClenclCS f or vanous v!\1ues 0 f - NJ) a d etcrlmn l by te'ts d '
+urlDg] 91
+·TABLE
+
+Ill.-Efficiency oj propellers No.1 to 51.
+
+Pr0peller No.
+.20
+I .................
+
+2 •.. ..•.•• ........
+
+3 .................
+4 •••••••••••.•••. •
+:') .
+
+_. _. _ ...........
+
+6 •....•.........•.
+7 .... .... ......•..
+8 . .. ..•...........
+0 ••.••.•....••••..
+
+10 .... . .•......... .
+
+11. ................
+12 .................
+13 .•... ........... .
+
+0.341
+.330
+.354
+.342
+. 372
+.371
+· 38~
+.375
+· ~30
+.1:35
+140
+.430
+.33J
+
+IS .....••....... ...
+
+:~~
+
+16 ...............•
+17 . ................
+J .................
+19 ......•... _......
+20 .. , .... ..... .. .•.
+
+.350
+. 375
+. 370
+.390
+.382
+
+14 .................
+
+21 .................
+22 .................
+
+23 .............•...
+24 ......•..........
+2.'; ••.•.••.• ...••• ••
+
+20 .................
+
+27 .................
+28 .................
+29 .................
+30 .......••........
+~ l.
+
+................
+32 .................
+
+13 .................
+3!. .....••.......•.
+35 .....•.••... .. .•.
+3~ ... _........ .....
+37 ..............•. .
+38 ...............•.
+
+39 ..... ..•.. .......
+40 ........• .. ......
+11. ................
+12 .................
+13 .................
+41. ...... . .........
+
+15 . ..... . ..........
+16 .................
+17 .... ...•... _....
+48 •................
+(9 •............... .
+50 .............••• .
+51. . ............•..
+
+.414
+.414
+.424
+. ·129
+.302
+
+.30
+
+O. ~ 1
+.465
+.489
+.475
+.517
+
+:m
+
+.522
+.572
+.572
+.591
+.572
+.469
+.,165
+.493
+.479
+.520
+.51.5
+
+.510
+.519
+.562
+.555
+. 575
+. j76
+.433
+
+.320
+.341
+.331
+.347
+.365
+
+:~~~
+.462
+
+· :171
+· :lfj7
+
+.509
+
+.3ns
+.110
+
+.404
+100
+.3():;
+.:112
+· :Wi
+
+.320
+.346
+.345
+.371
+.359
+
+· ~oo
+
+.398
+.115
+.401
+.365
+.380
+.380
+
+.70
+
+.0
+
+. 5
+
+.55
+
+.60
+
+.65
+
+0.670
+.660
+.67;;
+.662
+.697 .
+
+0.703
+
+:~g~
+
+.695
+.726
+
+0.730
+.725
+.736
+.725
+.745
+
+0.752
+.749
+.760
+.750
+.752
+
+. 672
+
+.707
+
+.6 5
+.6 0
+.690
+.673
+
+.7J5
+.693
+.662
+
+.732
+.751
+.744
+.665
+.615
+
+.745
+.770
+.760
+.590
+. 507
+
+.701
+.670
+.629
+.620
+. 612
+
+. 707
+. 667
+.670
+. 660
+.683
+
+.690
+.628
+.706
+.698
+.717
+
+.64·1
+.535
+.735
+.730
+.747
+
+.560 ........ ........
+. 320 . .. .. ... ..... 79i'
+.7cO
+.760
+. i7:J
+. i '-:1
+.757
+.798
+.787
+.770
+
+. 633
+.671
+.677
+.695
+.674
+
+.673
+.710
+.717
+.730
+.714
+
+.712
+
+:~~~
+.759
+
+.745
+.7u1
+.762
+.776
+.765
+
+.771
+.770
+.758
+.7 1
+.771
+
+.90
+
+.95
+
+1.0
+
+.400
+. 565
+.707
+.655
+. 737
+. 605
+.740
+. 690
+.768
+.777
+. 210
+• 550
+.682
+.738
+.759
+. 470 ........ ..... .. . ........ ........
+.265 ........ ........ .... . ... .... ....
+
+.40
+
+A5
+
+0.590
+.5 3
+.595
+.5 0
+.620
+
+0.6.10
+.620
+.636
+.622
+.661
+
+.627
+.610
+.·635
+.668
+.658
+
+.50
+
+.75
+
+---- -- -------- -- ---- ---- ----
+
+.492
+.495
+
+. 503
+.535
+.535
+.541
+. .;a0
+.431
+
+:!~~
+
+. .j,j2
+
+.480
+. 490
+. 510
+.500
+.535
+. 533
+.5-015
+.541
+.513
+.530
+.525
+
+.6 0
+.655
+0
+
+:~~~
+
+.!ig~
+
+.62
+. 630
+.650
+. 629
+
+. f>65
+. 642
+.671
+.665
+. 5J8
+.564
+.578
+.564
+.601
+.601
+.606
+.610
+.620
+.606
+.627
+.614
+.545
+.560
+.5 1
+.560
+. 590
+. fi02
+.614
+.605
+.601
+
+.609
+.609
+.605
+.631
+.642
+.636
+
+. 6~~
+.659
+.695
+.6 0
+.595
+.610
+.620
+.608
+.643
+.&15
+.649
+.655
+.6.35
+.612
+. 6~5
+. 629
+.594
+.610
+
+: ~~
+.636
+.650
+.656
+.645
+.605
+. 615
+. 614
+.605
+.679
+.685
+.675
+
+.722
+
+.703
+.&11
+.697
+.671
+.636
+. 650
+.660
+.647
+.676
+.680
+1
+. fi94
+. 630
+.590
+. &12
+.62'1
+.635
+.651
+.660
+.650
+.674
+. 68~
+.690
+.6 0
+.500
+.590
+.601
+.579
+.714
+.720
+.708
+
+.745
+
+. ~I~
+.
+
+.613
+
+j)~2
+
+. If>!
+
+.672
+.616
+. 671
+
+. 610
+!GO
+.700
+
+.6 5
+. 691
+.683
+.7flO
+.706
+.714
+.72'1
+.605
+.528
+.611
+.582
+.672
+.G90
+.692
+.684
+.703
+.712
+.717
+.701
+.546
+.530
+..;65
+.515
+.741
+.740
+.730
+
+.715
+.719
+.714
+.714
+.721
+.733
+.739
+.543
+.375
+. 550
+.495
+.703
+.720
+.720
+.719
+.722
+.725
+
+:z,~~
+
+I
+
+. 470
+. 420
+. 490
+. 405
+.759
+.752
+.745
+
+.472
+
+.210
+. 490
+.140
+.720
+.740
+.742
+
+:~1~
+
+.720
+.740
+. i38
+. 448
+. 140
+.445
+.320
+.72'J
+.745
+.741
+.741
+.725
+.721
+.730
+.697
+.350
+.230
+.364
+.215
+.7&1
+.752
+.749
+
+0.769
+.765
+.7 0
+.770
+.745
+
+.791
+.760
+.728
+.770
+.758
+
+0.7 0
+.776
+.796
+.783
+.715
+
+.800
+.725
+.662
+.740
+.713
+
+0.786
+.781
+.806
+. 787
+
+0.786
+.779
+10
+.7 1
+. 585
+
+0.780
+.758
+.804
+.760
+
+0.760
+.717
+.7 6
+.710
+
+.i79
+
+. 7~6
+.704
+.760
+
+0.726
+.650
+.751
+.613
+
+........ . ....... . .......
+........ ........ . .......
+..... .. . . ....... .... ....
+. ... .... . ....... .. . .....
+........ . ....... . ... . . ..
+........ . .. .. - .. ... ... ..
+..... ... ... ..... ........ . ....... . ......
+.666
+
+.7 6
+03
+
+:m
+
+.803
+.670
+.545
+.670
+.615
+
+.774
+.730
+.795
+.655
+. j70 ........ . ....... . .......
+. 270 ........ ........ .. ......
+.,';50 ........ . ....... . . . .... .
+. 365 ........ ....... . .......
+
+· .... 798·
+
+.00
+
+.750
+.7i)0
+
+.. .... 690
+.628
+.710
+
+.
+
+....... . ........ ........ ........ . ....... ........ .. .. .. ..
+.. .. .... ........ ........ .... .. .. . ....... . . ...... . .... ...
+........ .... .. .. ........ ... -.... ..... .. . . ....... . .......
+........
+........ . .......
+.744
+
+.752
+
+.755
+
+.759
+.759
+.762
+.709
+.691
+.727
+.701
+
+.763
+.769
+.778
+.6 0
+.630
+.695
+.634
+
+.759
+.771
+.7 2
+. 631
+. 480
+. &11
+. 520
+
+..· .. 750·
+
+. 733
+
+.706
+
+.&12
+.712
+.704
+.768
+.746
+. 7?~
+.774
+.680
+.741
+.55.5 ........ . .......
+.190 ........ . .......
+.553 ........ . ...... .
+.328 . ....... .. . . ....
+
+.665
+
+. .;a0
+. 1149
+.570
+
+. .......
+. .. .....
+. ..... ..
+... .....
+.... . ... ...... .. ........ ........ . . . ... .. ........ . .......
+........ ........ ........ ........ . ....... . ....... . .. .....
+........ ........ ........ ........ . ....... . ....... . .......
+........ . ....... . ....... .. ......
+
+· .... 745· ··· .. 756· · .... 760·
+.760
+.758
+.758
+.709
+.690
+.710
+
+.760
+.769
+.767
+.661
+.620
+.675
+.572
+
+.655
+........ ........
+........ ... .... .
+..... ... ........
+
+.747
+.770
+.765
+.591
+.490
+. 616
+. 427
+
+.710
+. 757
+.656
+.7-11
+.717
+.660
+.595
+.480
+.740
+.700
+.763
+.630
+.in .671
+.585
+.751
+. .... ....... .
+. 480
+. 265 . ....... ........ ........
+.510 . ....... ........ ..... ...
+.1 0 . ....... ........ ........
+
+........ ........ . ....... . ...... . . .......
+........ ........ . ....... . ....... ..... ...
+....... . ....... . . ....... ........ . .......
+.
+. .......
+·· ·.. 700· .. '''736' .. ·.. ii9i· ........ . ....... ....... . . .......
+..... ...
+.617 ... ....
+.525 . ....... ........ . .......
+. 630
+.735
+.695
+.645
+.540 ... ..... .... .... ..... . .
+. 702
+.735
+
+14
+
+ANN AL REPORT NATIO
+
+~AL
+
+ADVl ORY COMMITTEE FOR AERONAUTICS.
+
+Where the above efficiency is different from that shown in the curves of Report No. 14.
+the difference is due mainly to a less net torque caused by a slight rise in zero torque. Quantitatively the error was small, ,s mny be shown by the followjng illustration:
+In Report No. 14 the maximum efficiency of propeller No.1 is 0.765 at
+
+i:D =0 .79.
+
+With
+
+a wind velocity of 60 feet per second (about 40 miles per hour) and with Qc = 0.6 and Tc = 0.365,
+with air density 0.075 pounds per cubic foo t, and with a diameLer of 3 feet, the torque would
+. .
+11
+V
+0.6 X 3600 X 27 X 0.075
+be
+1000
+4.38 foot-pounds . The efflcIeneyof prope er No.1 at rW=O .79
+has been determined to be 0.7 5, whieh with the sume thrust, velocity, eLc., requires a torque
+coefficient = 0.585, or a torque of 4.27 foot-pounds, the difl"erence being 0.11 foot-pounds.
+A further pos ible source of error in the efficiency CUrves of Report No. 14 was the method
+of calculating eIficienl'Y from faired cun-es of 1~ and Qc' The ditI"erence in the above example,
+between Qc = 6 and Qc = 0.5 5 is barely disLinguishable on the scale used. In the above check tests
+efficiency was calculated directly from Lhe data for each observation. It may be noted tha t
+the efficiencies (as shown by Table III ) for expanding pitch propellers (P 2 ) 13 to 24 and 37
+to 4 are in general somewhat greater than for uniform pitch propellers (Pi) 1 to 12 and 25 to
+36. There are but few exceptions to this rule. Other general conclusions of Report No . 14
+as to relut,i-,e efficiency are unchanged.
+RED CTION OF DATA.
+
+The same general method in reduction of data followed in Report No . 14 has been followed
+in this present investigation. With the exception that metric units are used throughout, the
+data as presented are in the same form.
+V = Velocity in meters per second.
+N = Revolutions per second.
+D = Diameter in meters.
+£::,. = Density of air in kilograms per cubic meter.
+l' = Thrust in kilograms.
+Q = Torque in kilogram-meters.
+P e = Effective power or power absorbed by propellers in kg. meter per second.
+P u = Useful power or work clone in overcoming re i tance to forward motion of plane
+in kg. meters per econd.
+p = Efficiency.
+V
+It should be noted that N D' the slip coefficient, is independent of the unit if they are
+homogeneous. Therefore, in this pre ent r eport, the values of
+N0 14
+..
+
+·
+T
+X Q
+Th e coeffi Clen t s T = 100 X D2' Qc = 1000 i7)3 ,
+£::,. V2
+~ V
+
+Nl~
+
+are the same a for Report,
+
+P eD5 an d ":6 N3 D5 are 1'\" III d e
+Pu
+1 ZOWlse
+
+£::,. 11"3
+
+pendent of the milts used if hey are absolute and homogeneous. ince gravity lmit · are employed these oefficients have in the metric sy. tern a value g in feet divided by g in meters = (3.2 )
+times Lhat when English units are u ed.
+In Plates I to XII are shovm diagram giving value of the thrust and torque coefficients
+and of the efficiency for all of the 16 mode] tested. The use of the e diagrams i fully explained
+in Report No. 14.
+The practice in Report, {TO. 14 wa to reduce the observations 1,0 data in the form of
+Lhru t and torquo coefficients Tc aJld Qc and plot on abscissae of J.VVD' Fair cUr,e
+then drawn as nearly as might be through the points determined.
+calculated for each 0.1 or 0.05 of the
+
+N~~
+
+range from values of
+
+1~
+
+were
+
+The efficiency wa
+
+and Qc taken from the
+
+CUlves. In this present r eport the efficiency ha been calculated directly from the ob ervation
+and the efficiency curve drawn through the point thus determined, serving to eliminate error.
+
+II.
+EXPERI MENTA L RESEAR CH ON AIR PROPEL LERS,
+
+of judgm ent in drawin g curves of Te and Qe' The curves of
+sistenc y at value of NVD varyino- by increm ents of 0.1.
+
+To,
+
+Qe, and
+
+p
+
+15
+are checked for con-
+
+the 1(3 models tested. In
+Plates XXXV to XLI show the EiffelI ogarith mic diagra ms for
+those of Repor t No. 14, the
+these diagram s, which may be employ ed in the same manne r as
+metric horsep ower of 75 kilogra m meter per second is u ed.
+DI C SSJO
+
+OF RE
+
+LTS.
+
+TO. 14 the thrust
+Thr'USt in 1'elation to pitch mtio.- As expect ed from the te ts of Report
+same value of ~1VVD than the
+of propellers 0, 81, 2, and 83 (1.1 pitch ratio) i greate r for the
+thrust of propellers of similar form and area but of Ie' pitch ratio.
+2-83 how the same
+Thrust in 1'elation to blade area.- The pair of propell er 0- 1 and
+is, the wide blades (81 and 83) show
+relatio ns of thrust a similar pairs of Repor t No. 14- that
+noted in Repor t No. 14, the
+the les er thru t at low lip and the greater thTU t at high slip. As
+r dyonm ic pitch cau ed by the smalle r
+lower thTUst at low lip is probab ly due to the smalle
+'urvatu re of the back of the blade .
+g) show Ie s thrust
+Thr'ust in relation to blade fom/,.- Form: 3 and - (curveu edge enterin
+g) show's Ie thrust than form 8. Such
+than forms 4 and 6, while form 7 ( traio-ht edge enterin
+d to be due to greate r
+difference ' as exi t betwee n pairs F3-F4I Fs-Fo, and F7-Fs ar(' believe
+warp when under load.
+tenden cy of one than the other propell er to
+not marked , the thrust
+The differcnces betwee n F z, F 3 , and Fs and betwee n F4 and Fo are
+point .
+curves being practic ally identic al at many
+l interm ediate betwee n
+Thrust in relation to blade section .-The thru t lor 3 is in genera
+thrusts for 8 1 and 8 2 ,
+of N ~ the torque
+Power in relation to pitch ratio. -As was anticip ated, for a given value
+than for those of similar
+and power coefficient are higher for the propell er of 1.1 pitch ratio
+form and area but of less pitch ratio.
+82-83 show the same
+Power in relation to blade aTea.-T he pairs of propellers 80- 1 and
+, having a les dynam ic pitch, absorb
+genera l relatio ns of power a of thrust. The wide blade
+The two area absorb the
+less power at low slip but at the high slips ab orb the greate r power.
+cy.
+'arne power at a value of NT~ s1ightly less t,han for maxim um efficien
+s forms have the sa me
+Power in I'elation to blade Jor-m. -The power curve for the variou
+genera l relatio n as those for thru t.
+of blade section Sa is.
+Power in relation to blade section .-The pOKeI' absorb ed by propell er
+fl.bsorbed by 8 1 anCl z.
+in general, interm ediate betwee n power
+show
+'elation to pitch rat'i o.-A wa anticip ated, propell ers of 1.1 pitch ratio
+Efficiency if/, 1
+maxim um efficienc than those of les pitch ratio.
+a longer range of efficiency and a higher
+the same charac terF;/ficiency in relation to blade a1'ea.- Propel ler pairs 0-81 and 2-83 how
+narrow blades have a greate r
+istic in efficiency curve as imilar pairs in Repor t No. 14. The
+corresp onding ly laro-er rano-e.
+efficiency and, having a lightly greate r dynam ic pitch, have a
+efficiency of the \'arious
+E.ffie-'iency in relat'ion to blaclefo1'1n.-8 uch differences a exist in the
+very similar except ncar the
+form tested arc not marked . Cur es for F z, Fa, and F5 arc
+F6 do not vary
+here Fo ha . the advant age of about 1 per cent. Curve for F. and
+maxim um , \\T
+.
+al.
+widely from th above. Curv s for F7 and F are practic ally identic
+section .-The cambe red blade of 8 3 gi\e efficiency curves beI~Yficiency in Telation to blade
+advant age cambe r hould be
+tween those for 1 and 8 2 , and it therefo r appear that to be of
+less than that u ed in 8 a.
+ed values of efficiency for
+lt should be noted t.hat a table ha ' been given showing correct
+to efficiency are made in C011propellers of Repor t No. 14, and that the ahov statem ent a
+siderat lon of t.he 0 corrocted values.
+
+16
+
+ANNUAL REPORT NATIONA.L ADVTSORY COMJ\UT'mE FOR ARROK.\UTICS.
+
+II. TESTS OF A VARIABLE PITCH P ROPELLER.
+
+Propeller model o. 96 figme 11, was constructed with a view to determining the aerodynamic qualities of the variable pitch propeller. The blades are independent and fastened
+in a spherical hronze hu 1, as shown. By 100. ening tht' crew they may be set to any de ired
+angle and then secured. In this propeller the blade were made of San Domingo mahogany
+in one piece and haye the form ection, etc., Fu Au 1> and a 'onstant pitch of 25.2 inche
+(pitch ratio, 0.7 ). Thi model i therefore like model o. 5 of Report No. 1-:1-, except for light
+variation at the hub.
+The model was te ted in tht' u ual manner with the following settings:
+.\. =4° retard.
+E=12 ° advance.
+B = 0° advance.
+F = 16° advance.
+0=4° advance.
+G = 200 advance.
+D = 8° advance.
+H = 24 ° advance.
+In setting A the pitch angles are 4° Ie than tho 'e for' 0.7 pitch ratio; in setting B the
+blade is set at the designed pitch, and in settings 0, D, E, F, G and H the pitch angles are
+the amount shown OTeater than tho e for 0.7 pitch rato.
+Results of tests are shown in Plates XIII, XIV, and XLII. The following Table IV
+how the nominal and dynamic pitch and for the various setting
+TABLE
+
+IV.-Propcller model No. 9&.
+Nominul
+pi tch.
+
+Setting.
+
+Inch e~.
+
+A .. . .................... .
+B .............. .. ....... .
+C ..... .. ....... ..... .... .
+D ............... .. ...... .
+E ... . ..... .. . ...... ... .. .
+F ..... ... .... . ... ... ... . .
+
+2l. 2 to 17.9
+25.2
+29.4to 32.
+
+34. 1 to 40. 8
+39.3 to 49. 2
+45. 2 to 5 .2
+
+G .... .... .... .. . .. .. .... .
+H ... ... .............. . ..
+
+52toO~
+
+60 t o 7S. 8
+
+Dynamic
+pitch .
+
+- In 2t8 4
+-""-- "
+3-1.5
+40. i
+-16.
+
+I
+
+lIlean
+Dynamic "
+nominal
+pi tch
+pitch ra tio./
+ratio.
+
+--0.- -:9
+=-1I
+'
+
+.70
+. 86
+
+54.0
+61.6
+
+1.0-1
+I. 22
+1.43
+
+70. 2
+SO. 7
+
+1. 65
+l.
+
+I
+I
+
+.96
+1. 13
+1. 30
+
+I. 50
+1.71
+1. 95
+2.24
+
+I
+
+In the above table the column nominal pitch, except for etting B, ha two values. The first
+is for the 7-inch radius and the second for the 16-inch rfLdiu. The column mean nom in al pitr71
+mtio is the mean value of nominal pitch for the 7, 10, 13, and 16 inch radii divided by the diameter.
+1\. hown by Plate XIII, XIY, and XLII, the power ah 'orhed by this model increa es
+with the angle of attack
+
+1'01'
+
+any value of
+
+T~.
+
+For the thl'll t this rule does not apply.
+
+.U
+
+~~ti~· 0.6,10), example,
+
+there is no increa e in
+
+thru t for angles of advanee greater than 16° . (Setting F. )
+The maximum efficienc. of this prop ller inC'l'ea'e with the angle of ad,-all(,o until ibout
+8° has been reached corre 'ponding to a moan nominal piteh ratio 01 1.04.
+III. TESTS OF RIGHT AND LEFT HA ' D PROPELLERS IN SERIES.
+
+In order to determine the aerodynamic 'haracie)'i::;lies of two propellers (right and left
+hand) in eries, three additionu.l propeller mode ls were constructed. These are numhered
+97,9 , and 99 . All are left hand and haye 1'01'111, area, and sed,ion "ymhols F l , AI'
+Ie 'cribed
+in Report No.] 4. ~o. 97 has a pitch ratio of 0.9 and is thercfOI:e like propeller No .1 in every re'spect except direction of rotation. ~os. 9 and 99 have pitch rat io ' of 0.7 and 0.5, re pectiv ly.
+and are therefore duplicate to propellers T
+o.5 and 11 0.9 , except a to direction of rotation.
+The three set, 1 with 97, 1 with 9 , and 1 ,vith 09 , were mounted as hown in figur 12.
+The right-hand propeller wa placed in the rcar, on the sIH\'i't of the dynamometer that was located
+within the experiment chamher. A dynamomoter ( imilar in operation) wa built 4 feet in front
+of the collector end of the tunnel, the propeller shaft being extended through the collector and
+supported at the end by a bearing in the bronze llUt which secmed the right-hand propeller in
+I \.
+
+EXPERIMENTAL RESEAllCH ON AIR PROPELLERS, II.
+
+4'O/A. SPtfERE.
+
+f------
+
+FIG . 11.
+
+146744--19-]\[0. 30----3
+
+3 F""--....J
+
+17
+
+18
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR
+
+AERO~AUTICS.
+
+position. The left-hand propeller was mounted on the shaft of the forward dynamometer. Both
+propeller shafts floated freely, but the average distance between the two propellers was 6 inches.
+The method of conducting tests was as follows: Both dynamometers were allowed to
+run until steady conditions were attained. Both dynamometers were carefully calibrated for
+torque and thrust. The propellers were then put in position and with a practically constant
+wind velocity and a constant rotative velocity of the forward (left-hand) propeller, a series
+of ob ervations were made at various speeds of the rear (right-hand) propeller. The rotative
+velocity of the forward propeller was then changed and another series of ob ervations made.
+This was continued until the range of possible utility was covered.
+The observed data was reduced to thrust and torque coefficient and efficiency for each
+propeller and to combined efficiency for the two propellers. The coefficients and efficiencies
+'were plotted as elevations of a surface, and the contours shown in Plates XV to XXIX were
+then interpolated. Plates XV to XXVI show also the torque and thrust coefficients and
+efficiency for propellers 1, 97, 9 , and 99 when alone.
+From these contours the following conclusions are drawn:
+(1) The thrust of either propeller is reduced if the other develop thrust.
+(2) The torque of the forward propeller is reduced if the rear propeller develops thrust.
+(3) At low slips (the larger values of
+
+JD) the torque of the rear propeller is reduced if the
+
+forward propeller develops thrust, while for high slips (the lower values of
+
+N~), the torque
+
+of
+
+the rear propeller is increased if the forward propeller develops thrust.
+(4) The efficiency of either propeller is reduced if the other develops thru t.
+V
+(5 To give equal thrust or to absorb equal power at equ al values of N D' two propellers
+(right and left in series) should have the same pitch ratio.
+(6) For two like propeller delivering equal thrust or ab orbing equal power, the efficiency of
+the combination is approximately equal to the efficiency of either at the combined thrust or power.
+It may be noted that the efficiency curve for propeller o. 97 is omewhat lower than that
+for No.1, although these propellers were con tructed as nearly alike as possible. Mea urements
+after tests showed No. 97 to have a slightly less pitch than No. 1. Likewi cos . 98 and 99
+have less pitch than the right hand imilar one , J o . 5 and 9, of Report o. 14. In addition,
+it may be seen that the efficiency curve of No . 97 i that determined by the tests of Report
+o. 14 and not as determined by recent test. The arrangement of the apparatus and time
+required to r emove and replace pi'opellers made it impracticable to make these tests by the
+improved method.
+.
+Therefore it i po sible that the efficiency and torque curves shown on the e diagrams
+are slightly in error. The relation of one curve to another is, however, believed to be substantially correct.
+IV. TESTS ON MODEL PROPELLERS TO DETERMINE BRAKE EFFECT OR NEGATIVE THRUST AT
+NEGATIVE SLIP.
+
+The propeller selected for these te ts are numbered 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, and 12.
+Their form, section, and area characteristics are fully described in Report No. 14.
+The models were mounted as usual and the driving motor constrained, by means of a
+mechanical or an electrical brake, to run at less revolutions than r equiI'ed to develop a positive
+thrust. The wind velocity was maintained constant at about 50 miles ( km.) per hour. A
+series of observations were made on each propeller at revolutions from that required for zero
+thrust to revolutions as low as practicable for steady conditions. The negative thrust was
+measured by rever ing the balance arm of the thrust dynamometer.
+The data obtained were reduced to coefficients in the form of the thl'Ust coefficien t Tc and
+plotted as shown in diagrams of Plates XXX and L'C..t"'{I. It should be noted that the brake
+effect coefficient is plotted as a positive quantity obtained by multiplying the thrust coefficient
+by -1.
+
+°
+
+Repor t No. 30.
+
+FIG. 12.
+
+"
+
+r-
+
+I
+
+EXPERIMEN TAL RESEARCH ON AIR PROPELLERS, II.
+
+19
+
+The diagrams show, as would be anticipated, that tbe narrow blades have less brake effect
+than the wide ones (see pairs 1-2, 3-4, 5-6, etc.), and that the brake effect of the higher pitch
+ratio is less than that of the lower. (Sets 1-5-9, 2-6-10, etc.) The lmexpected results of this
+investigation are shown most clearly in the curves for propellers Nos. 10 and 12. With a constant velocity of advance, the brake effec t of propeller No. 10 is at ; ; = 1.3, about twice the
+V
+value for N V = 4.
+
+A
+
+FIG. 13.
+
+That this might have been expected may be shown by the following analy is:
+Let E F, figure 13, represent an element of the propeller surface.
+A B = V, the constant forward velocity
+B C= V, the variable circumfer ential velocity
+A C is then the relative velocity of wind and elemen t.
+a=900-pitch angle.
+(a-8) is thcn the relative direction of the wind and elementary surface.
+From Duchemin's formula, verified by Langley (see experiments in aerodynamics by S. P.
+Langley, Smithsonian Institution, 1891) the normal pressure on the element, and hence the thrust
+component,
+
+.
+IS
+
+2 sin (a-8)
+
+equal to Kl +sin2(a-8)'
+
+In the above formula, the velocity is presumed to be constant.
+The veloci ty of the element, however, with constant velocity of advance, varies as sec 8
+Merging the coefficient 2 with the constant K and assuming that pressure varies as velocity
+.
+sin (a-I!) sec 2 I!
+squared, we may wnte; Thrust = K 1 + sin 2 (a -8)
+Assigning to a values of 70 ° and 5° (corresponding to pitch angles of 20° and 5°) and to 8
+various values, a series of values for thrust may be determined. These, if plotted on abscissre
+of cot 8, give curves as shown in figure 14, which have the same general shape as curves shown on
+Plates XXX and XXXI. For tbe above analysis tbe author is indebted to Prof. L. M. Hoskins, of Stanford University.
+The curves shown for propellers Nos . 3 and 12 may also be transformed into curves sim ilar
+to one derived by the Duchemin formula as follows:
+
+V
+
+V
+
+cotl!=U=7rN D
+By Ducbemin'sformulaP=Owhena -8 =
+
+o01' when a = I!.
+
+consequently P) is equal to zero when : V is .06 for propeller
+
+Butfl'omplate XXXI, thrust (and
+o. 12 and 1.2 for propeller No.3.
+
+20
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS .
+
+(\
+
+1
+\
+
+\
+
+:'\.
+
+~ ~" F
+.......
+
+I
+
+o
+
+vt r-a ':;::
+
+85 c
+
+r--- t---
+
+"-
+
+70 °
+
+.5
+
+15
+
+cot: .-e-
+
+2..S
+
+2.
+
+FrG.14.
+
+The equivalent
+
+a
+
+is thon
+
+for propeller No. 12, cot- l 0.68 , or 77° 45'
+7r
+
+and for propeller No.3,
+
+COrl
+
+Q, or 69° 6'.
+7r
+
+If ordinates of curves for propellers 12 and 3 are divided by sec- 2
+
+(
+
+corl 7 r ;
+
+quotients multiplied by a constant and plotted on abscissae of 77° 45'-corl7r
+propeller 12) and 59°
+
+5'-COrl
+
+The e tests therefore serve to confirm the Duchemin formula .
+
+1.0
+
+.8
+
+~
+
+.7
+
+.S
+
+/
+
+4
+
+.1
+
+P'
+
+I--
+
+~
+
+f-
+
+L------
+
+j.----
+
+DUCHE MIN fOR hULA.
+
+PROPEl LER
+
+N 3
+
+NQ Ig
+
+l!'
+
+.3
+
+.2
+
+V'
+
+V~PROPELLER
+
+.6
+
+I
+V
+
+/
+
+D (for
+
+D (for propeller 3) the points will lie a hown in figure 15.
+
+7r : ;
+
+.9
+
+;
+
+D)' the
+
+9
+
+-
+
+o
+
+70"
+Fro. 15.
+
+21
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II.
+
+v.
+
+STANDING THRUST AND POWER TESTS.
+
+The 51 propellers of R eport 1: o. 14 and the 16 propellers of this present r eport were tested
+to determine coefficients of standing thrust and power.
+This investigation was necessarily carried on in the wind tunnel. Preliminary tests were
+therefore conducted to determine the effect of the velocity generated throughout the tunnel
+by the action of the model alone, with a view to eliminating such effect if possible. It was
+found that if the experiment chamber were clo ed, except for the openings to collector and
+difl'user, the velocity generated by the model wa sufficient to make r esults of tests inconsistent.
+After several trials th e following conditions were established as closely approximating operation
+in free air. Doors and windows of the experiment ch amber were removed, and the diffuser
+partially closed by a damper, so that the stream driven backward by the model just passed out
+through the diffuser without forming eddie and backward currents in the oxperiment chamber.
+All propellers were tested throughout the practicable range of r evolutions. The observations were reduced to coefficients as follows:
+Power
+T hrust
+L::::.N2D' and L::::.N3D5
+These coefficients were plotted as ordinates on abscis !1e of N D, as hown in Plates XXXII,
+and x:JG~IV . The diagram are typical of the 67 propellers tested. For the most
+..
+Thrtl8 fv
+Power
+·
+.,
+.
+part the coeffiCIents 7S.N2D' and .6,N3Ds plotasstrmght hnesnearl y paralleltotheaXlsofND,
+L~XIII ,
+
+showing the coefficients to be practically constant.
+The data for the 67 propellers is given in the following Table V.
+TABLE
+
+Y.-Standing thrust and power.
+Power.
+
+Thrust.
+
+-I Thmst.
+6 N 'D'
+
+-6 N'D'
+
+Power.
+
+10
+20
+1. ........ { 30
+40
+
+0.0140
+.0153
+.0153
+. 0153
+
+0.0087
+.00859
+.008 1
+.00905
+
+0.1592
+.091
+.05 0
+.0423
+
+10
+20
+2 ......•.. { 30
+40
+
+.0190
+.0194
+.0199
+. 0202
+
+.00917
+. 01057
+.01108
+.01138
+
+.2071
+.0918
+.059
+.0453
+
+10
+20
+40
+
+.0128
+.0163
+. 0166
+.0160
+
+. 00 29
+.00820
+.00822
+.00840
+
+.0192
+.0195
+. 0195
+.0195
+
+.01006
+.01045
+.01040
+.01035
+
+.1910
+.0932
+. 0623
+.0171
+
+10
+20
+5 .. ...... . { 30
+40
+
+.0118
+. 0140
+.0153
+.0162
+
+.00628
+.0069
+.00731
+.00768
+
+.1880
+.1003
+.0697
+. 0527
+
+Y.-Standing thrust and power-Continued.
+
+P ropeller
+number.
+
+--
+
+Power.
+
+--
+
+Thrust.
+
+ND
+
+t; N2D'
+
+t;N'D6
+
+Pow~r.
+
+10 . .. . .. ...
+
+10
+20
+30
+40
+50
+
+1
+
+0.0122
+.0124
+.0127
+.0129
+.0130
+
+O. ,)0509
+.00505
+.00519
+.00529
+.00535
+
+0.2398
+.1226
+.0816
+.0610
+.0486
+
+11. .... . .. .
+
+1
+
+10
+20
+30
+40
+50
+
+.0110
+.01l5
+.0116
+.0118
+.0120
+
+.00465
+.00470
+.00470
+.00170
+.00470
+
+.2366
+.1226
+.0822
+.0627
+.0510
+
+10
+20
+30
+40
+50
+
+.0122
+.0122
+.0122
+. 0122
+.0122
+
+.00496
+.00496 '
+.00492
+.00·190
+.00489
+
+.2460
+.1230
+.0825
+.0623
+.0500
+
+10
+20
+13 . ........ { 30
+40
+
+.0126
+.0149
+.0164
+.0175
+
+.00 67
+.00887
+.00 73
+.00 60
+
+.1453
+.0 40
+.0627
+.0518
+
+10
+20
+30
+40
+
+.0196
+.0195
+.0197
+
+.1914
+.0910
+.0583
+
+.01~8
+
+.01023
+.01072
+.01123
+.01149
+
+10
+20
+15 ......... { 30
+40
+
+.0154
+.0163
+.0166
+.0168
+
+. 00830
+.00 13
+.00832
+.00848
+
+.1 855
+.1002
+
+10
+20
+16 ........• { 30
+40
+
+.0188
+.0188
+.0188
+. 0188
+
+.00943
+.01000
+.01000
+.01000
+
+.1995
+.0940
+.0627
+.0470
+
+10
+20
+17 . . . . ..... { 30
+40
+
+.0112
+.0125
+.0140
+.0151
+
+.00609
+.00646
+.00676
+. 00&98
+
+. 1838
+.0967
+.0690
+. 0541
+
+10
+20
+18.. .. ..... { 30
+40
+
+.0164
+.0162
+.0164
+.0165
+
+. 00742
+.00'747
+. 00789
+.00818
+
+. 2210
+.1085
+.0694
+.0505
+
+.1544
+.0994
+.0673
+.0417
+
+10
+20
+30
+40
+
+TABLE
+
+Propeller
+number.
+
+ND
+
+3 ......... { 30
+
+4.. ....... {
+
+--
+
+10
+20
+6 ......... { 30
+40
+
+.0160
+.0163
+.0167
+.0170
+
+.00742
+.00792
+.00 02
+.00808
+
+.2155
+. 1028
+.0693
+.0517
+
+10
+20
+30
+40
+
+50
+
+. 0130
+.0145
+.0147
+.0149
+. 0151
+
+. 00667
+.0066 1
+.00650
+. 00662
+. 00690
+
+. 1955
+. 1098
+.0753
+.0563
+.043
+
+10
+20
+8 ...... .. . { 30
+40
+
+.0160
+. 0160
+.0163
+.0164
+
+.0071b
+.00738
+.00754
+.00769
+
+.2235
+.10 5
+.0720
+. 0533
+
+10
+20
+30
+40
+50
+
+.0102
+.Olll
+. 0117
+.0120
+.0123
+
+.00452
+.00182
+.00482
+. 00482
+.00485
+
+.2255
+.1150
+.0809
+.0622
+.0506
+
+7 ........ .
+
+9 .......
+
+1
+
+··1
+
+T hrust.
+
+,
+12 .........
+
+14 ....... . .
+
+t
+
+!
+
+--
+
+.0~30
+
+.066~
+
+.0495
+
+\
+22
+TABLE
+
+AN.!: UAL REPORT NATIONAL AD\"lSORY COMMITTEE FOR AERONAUTIC .
+
+V.-Standing thrust and power-Continued.
+
+I
+
+Propeller
+
+ND
+
+nu mber.
+
+Thrust.
+
+-N"D'
+;:;
+
+Power.
+
+I
+
+--
+
+;:; N8D'
+
+Thrust.
+
+I
+
+TABLE
+
+V -Standing thrust and power-Continued.
+Thrust.
+
+--
+
+--
+
+Power.
+
+Thrust.
+
+;:;N'D'
+
+Power.
+
+10
+20
+37 ........ . { 30
+40
+
+0.0144
+.01f>8
+.0184
+.0197
+
+0.01005
+.011 9
+.01262
+.01311
+
+0.1434
+.0705
+.04 7
+.0376
+
+-Power.
+
+Propeller
+number.
+
+ND
+
+;:;N'D '
+
+--
+
+10
+20
+19 .. " ...... { 30
+40
+
+0.0126
+. 013
+.0138
+.0137
+
+0.00615
+.0053
+. 00594
+.00601
+
+0.2047
+.1184
+.0774
+.0570
+
+10
+20
+20 .. " ...... { 30
+40
+
+.0163
+. 0161
+.0163
+.0164
+
+.0074 1
+.00768
+. 007 6
+. 00800
+
+.2200
+.1047
+.0692
+.0523
+
+38 ... . ..... {
+
+10
+20
+30
+40
+
+.0206
+.0210
+.0218
+.0224
+
+.01094
+. 01182
+.012iJ
+.01342
+
+.1
+. D890
+.0573
+.041
+
+10
+20
+30
+40
+50
+
+. 0102
+.0110
+. 0114
+.0117
+.0120
+
+.00402
+.00444
+.00465
+.00480
+.00490
+
+. 2536
+.1238
+. 0817
+.0609
+.0490
+
+39 . .... .... {
+
+10
+20
+30
+40
+
+.0164
+.0176
+.0176
+.0176
+
+.0095"
+.00922
+. 00940
+.00951
+
+.171
+. 09.55
+.0614
+.046.3
+
+10
+20
+22 .. " ...... { 30
+40
+50
+
+.0124
+. 0123
+. 0126
+.012
+.0129
+
+.0047
+. 00510
+.00527
+.005<10
+.00550
+
+.2600
+.1205
+. 0797
+.0593
+.0469
+
+10
+20
+23 .•....... { 30
+40
+50
+
+.0110
+.0112
+.0112
+.0112
+.0111
+
+.00415
+.00455
+.00444
+.00435
+.00428
+
+.2650
+.1230
+.0840
+. 0644
+.0520
+
+21. .•. ... . .
+
+I
+
+I
+
+10
+20
+30
+40
+50
+
+.0120
+.0120
+.0120
+. 0121
+.0121
+
+. 00452
+.00485
+.004
+.00491
+.00494
+
+.2653
+.1237
+.0820
+.0626
+.0490
+
+10
+20
+30
+40
+
+.0154
+.0176
+.0179
+.01 1
+
+.01067
+.01072
+.01103
+.011 24
+
+.1443
+.0821
+. 0541
+.0403
+
+20
+~ ......... { 30
+40
+
+.0204
+.0206
+.0209
+.0212
+
+.01130
+.01183
+.0 1221
+.01250
+
+.1805
+.0871
+. 0~70
+.0424
+
+10
+20
+27 ... .. ... . { 30
+40
+
+.0160
+.0177
+.0180
+.0182
+
+.00967
+.00950
+. 00950
+.00950
+
+. 1655
+.0 932
+.0632
+.0479
+
+10
+20
+28 . .• ...... {
+30
+40
+
+.0204
+.0206
+.0206
+.0206
+
+.01067
+.01135
+.01164
+.01192
+
+40 .........
+
+f
+1
+
+10
+20
+30
+40
+
+.0200
+.0202
+.0206
+.0209
+
+.010 1
+.01109
+.01131
+.01148
+
+. 1849
+.0910
+.0608
+.0154
+
+41 . ... .. .. .
+
+t
+
+10
+20
+30
+40
+
+.0133
+· C157
+.0174
+.01
+
+.00716
+.00 16
+. 009 Hi
+.00998
+
+.1857
+.0963
+.0633
+.0470
+
+10
+20
+
+{ 30
+
+.0170
+.01 5
+· CI90
+.0194
+
+. OO~11
+
+42 ........
+
+.01001
+
+.2097
+.1029
+.0662
+.0484
+
+.1912
+.0908
+.0589
+.0432
+
+24 .• " ... . ..
+
+25 .. .....
+
+r
+
+'l
+
+10
+
+29 . .. ......
+
+30 ... . ..... {
+
+10
+20
+30
+40
+
+.0139
+. 0162
+.0179
+.0192
+
+. 00779
+. 00 53
+.00933
+.00985
+
+.1785
+.0950
+.063
+.0487
+
+10
+20
+30
+40
+
+{
+
+.0173
+.0179
+.01 3
+.0187
+
+.00842
+.00893
+.00935
+.00966
+
+.2055
+. 1001
+.0652
+.04 4
+
+10
+20
+30
+40
+
+.0144
+. OW)
+.01 66
+.0170
+
+.00748
+. 00782
+.00810
+.00832
+
+. 192fi
+.1024
+.0683
+. 0512
+
+10
+32 . ....... . { 20
+30
+40
+
+. OliO
+.0175
+. 0182
+.0187
+
+.00779
+.008.5
+.00896
+.00925
+
+.2182
+.1020
+.0678
+. 0506
+
+33 •.. .. ....
+
+10
+20
+30
+40
+50
+
+.0120
+.0131
+.0139
+.0145
+.0150
+
+. 00497
+.00581
+.00621
+.00653
+.00679
+
+.2414
+. 112
+. 0746
+. 0556
+.0444
+
+34 .........
+
+10
+20
+30
+40
+50
+
+.0125
+.0132
+.0137
+.0140
+.0143
+
+.00490
+. 00554
+.005 6
+.00008
+. 00625
+
+.2551
+.1190
+. 0779
+.0575
+.0458
+
+10
+20
+30
+40
+50
+
+.0130
+.0132
+.0134
+.0135
+.0136
+
+.00521
+.00557
+.00565
+.00573
+. 00578
+
+.2494
+.1185
+.0790
+.059
+.0470
+
+10
+20
+30
+40
+50
+
+. 0134
+.0138
+.0142
+.0145
+.0148
+
+.00534
+. 005
+.00619
+.00644
+.00663
+
+. 2510
+. 11i4
+. 0764
+.0562
+. 0446
+
+31. ..... . . . {
+
+I
+I
+I
+"II
+35 •..•.....
+
+I
+
+4~
+
+I
+
+10
+20
+4:3. ........ [ 30
+40
+
+.016.1
+.0168
+
+.00716
+.00743
+.00776
+.00797
+
+.1983
+.1056
+.0700
+.0527
+
+10
+44 .... ••... { 20
+30
+40
+
+· C170
+.0170
+. 0176
+.0180
+
+.007;; 4
+. 00 19
+. 00 66
+.00898
+
+.2254
+. 1037
+. 0678
+.0501
+
+10
+20
+30
+40
+50
+
+.01l4
+.0126
+.0132
+. 0137
+.0141
+
+.00527
+.00562
+.00582
+. 00597
+.00606
+
+.2163
+. 1120
+.0756
+.0578
+.0465
+
+10
+20
+30
+40
+
+.0134
+.0141
+.0148
+.0153
+
+.00540
+
+.2·12
+.1151
+.07.50
+.05<19
+
+10
+
+30
+40
+50
+
+.0120
+.0124
+. 0127
+.0129
+.0130
+
+.00513
+. ()(l522
+.00.528
+
+. ool~
+
+10
+20
+30
+40
+50
+
+· 0l3(j
+.01 34
+.0135
+.0136
+.0137
+
+.00559
+. 00568
+.00569
+. 00570
+.00570
+
+.2432
+.1180
+.0791
+.0597
+
+10
+
+.0122
+.0133
+. 0139
+.10·13
+
+.00635
+.00632
+.00632
+.00632
+
+.1921
+.1053
+.0734
+.0566
+
+40
+
+.0122
+.0139
+.1ll41
+.0143
+
+.00(;.11
+.00622
+. 0062
+.00632
+
+. 190.;
+.1117
+.07'18
+.0566
+
+{
+
+10
+20
+30
+
+.0134
+.0141
+.0141
+
+.00641
+. 00625
+. 00642
+
+.2080
+.1128
+.0732
+
+{
+
+10
+20
+30
+40
+
+.0148
+.0150
+.0151
+.0152
+
+.00980
+.01034
+.01 095
+.01155
+
+.1511
+.0725
+.0459
+.0329
+
+10
+20
+30
+40
+
+.0194
+.0198
+.0204
+.020
+
+.01300
+.01322
+.01404
+.01469
+
+.1493
+.0750
+.035<1
+
+10
+20
+30
+40
+
+.0152
+.01490
+.014 3
+.01580
+
+.00917
+.00976
+.00998
+. 01021
+
+. 16"
+.0764
+.0495
+.0362
+
+10
+83 ..... . ... { 20
+30
+40
+
+.01919
+.01902
+.01893
+.01 1
+
+.01212
+.01232
+.0124
+.01271
+
+.1584
+.0776
+.0505
+. 0370
+
+45 .... . .•..
+
+!
+
+'10 ....•.... {
+
+I
+I
+
+20
+
+47 .....•••.
+
+48 .........
+
+20
+49 .. . ...... { 30
+40
+50 ... . ..... {
+
+51 .... . ... _
+
+80 ....•....
+
+81. ........ {
+
+82 . .... . ... {
+
+10
+20
+~lO
+
+.(lH2
+
+.00~8
+
+.(..09;'0
+
+.Ol.,i
+
+.00612
+.0065
+.00697
+. 00·190
+
+.oor.o2
+
+.2450
+. 1235
+.0 25
+.0493
+
+. 04~ 1
+
+.04~6
+
+I
+
+EXPERIMENTAL RESEARQ.H ON AIR PROPELLERS,
+T A BLE
+
+Y. - S tanding thrust and power-Continued .
+Thru st.
+
+j
+
+~"'' ' ' 1
+,I; .........
+
+87 .... ... .
+
+89 ...... · ..
+
+Thrust.
+
+j
+j
+
+f',.N3D '
+
+10
+20
+30
+·10
+50
+
+0. 0114
+. OU 9
+. 0122
+. 0125
+.0127
+
+0.00453
+.00502
+.00502
+.00502
+. 00502
+
+0.2517
+
+10
+20
+30
+40
+50
+
+. 0126
+.0128
+.0131
+.0133
+. 0135
+
+. 00508
+.00523
+.00531
+.00538
+.005·14
+
+. 2480
+. 1223
+. 0 23
+. 0618
+.0 196
+
+10
+20
+30
+40
+
+. 0137
+. 0152
+.0158
+. 0162
+
+.00716
+.00722
+.00726
+.00729
+
+.1913
+. 1052
+.072.;
+. 0555
+
+10
+20
+30
+40
+
+.0102
+.01(13
+.0l6R
+.0172
+
+.00766
+. C0766
+. 00792
+.00810
+
+.2166
+.1064
+. 0766
+.0531
+
+94.. ....... {
+
+10
+20
+30
+40
+
+.0149
+.011;0
+.0169
+.0169
+
+. 00892
+. 00865
+. 00865
+.00865
+
+.11\71
+. 0977
+.0652
+. 0189
+
+95 .. .. .. ... {
+
+10
+20
+30
+40
+
+.0196
+. 0196
+. 0198
+. 0199
+
+. 01018
+. 01051
+. 0106
+.01093
+
+. 192J
+. 0932
+. 06 17
+. 0455
+
+Power.
+
+10
+20
+30
+40
+50
+
+0. 01143
+.01384.
+.01401
+.0141
+.01427
+
+0. 00653
+. 00580
+.00596
+.00609
+. 00618
+
+0. 1750
+.1193
+.0782
+. 05 2
+.0462
+
+10
+20
+30
+40
+50
+
+.0100
+. 0138
+. 0142
+. OW;
+.0147
+
+. 00672
+. 00616
+.00640
+. 00660
+. 00676
+
+.14
+.1115
+.0740
+. 0550
+. 0435
+
+91. .. ......
+
+10
+20
+30
+40
+.50
+
+. OU6
+. 0135
+.0138
+.0141
+.0143
+
+. 00653
+. 0056
+.00589
+.00606
+. 00620
+
+.1776
+. 1188
+. 0781
+. 05 1
+.0441
+
+92 ......... {
+
+10
+20
+30
+
+. 0102
+
+. 0064 1
+.006t4
+.00640
+. 00660
+.00674
+
+.1592
+.1132
+.0744
+. 0554
+. 0432
+
+1
+1
+
+. 0139
+
+.0143
+.0146
+.0149
+
+10
+20
+30
+40
+50
+
+.0100
+. 0128
+.0128
+. 01 28
+. 0128
+
+10
+20
+30
+40
+50
+
+. 0100
+.0127
+. 0133
+·0137
+. 0140
+
+.
+
+.00603
+.00572
+. 00582
+.00590
+. 0059(l
+
+.1658
+.1118
+.0733
+. 0512
+. 0429
+
+. 00590
+. 00609
+. 00620
+. 00628
+.00633
+
+.1695
+.1042
+.0716
+. 0545
+. 0445
+
+- -.
+Power
+
+f',.N' D '
+
+f',.NaD '
+
+40
+
+Th rust.
+
+--
+
+--
+
+--
+
+Power.
+
+--
+
+Propeller
+
+-f',.NtD'
+
+50
+
+g, .. .. • ....
+
+Thrust.
+
+Y. - Standing thrust and power-Contin ued .
+
+N D
+
+P ropeller
+utnnber.
+
+R4.. .......
+
+P ower .
+
+TABLE
+
+23
+
+n.
+
+ND
+
+number .
+
+90 . ... .. .. .
+
+93 ...... · ..
+
+j
+j
+r
+1
+
+.11 ~
+
+.0810
+. 0622
+.0506
+
+In the above t able power is in kilogram meters per second, and other units are metric as
+previously st ated. Such variation as is shown in the thrust or power coefficient of anyone
+propeller is believed to be due partly to warping of the blades when under load, and partly
+to inaccuracy of observations. The latter applies to values of ND below 20. Tests show
+that the blades when under maximum load (about 30 kilograms) may bend i inch (1.5 centimeters) at the tip which may change the tip pitch angle 2 degrees.
+· Thrust
+f ffi'
+.
+d'
+l'
+1.-.
+.
+b
+p- R egar dmg - ower as a measure 0 e clency m pro ucmg stanc mg tufUSt, It may e seen
+that it varies, between ND = 20 and ND = 50, inversely as ND for anyone propeller. For
+N D less than 20 the ratio is sometimes smaller and sometimes greater than would be derived
+by the application of this rule.
+Propellers of the smaller pitch have the larger ratios, 'Ip'hrust.
+ower
+Form 2 appears superior to other forms.
+The wide blades (A 2 ) have higher ratios (rpfhrust\ than the narrow ones (AI ) at low values
+ower .J
+of ND, but at high values of ND the reverse is often true.
+There is little difference between propellers of uniform and expanding pitch.
+-"'7
+V
+h
+b d bl a d es glve hi gh er Thrust t h an t h e
+.
+- ower
+p- B etween NV =20 an d .n = 50,.t e noncam ere
+cambered blades of the same form and section.
+
+24
+
+ANNUAL REPORT NATIOKAL ADVISQRY COMMITTEE FOR AERONAUTICS.
+
+i
+
+'hI
++
+..
+
+"
+
+.ti-l
+
+1
+
+·iF./.
+tP~
+
+•
+
+ft d'
+
+t
+
+•
+I
+
+E}
+
+. rl
+
+!.
+
+-
+
+Ii
+i
+
+.
+
+r
+
+t
+
+.
+
+1
+
+~H~
+
+..
+
+~
+
+,
+t
+
+,
+
+lm
+I..
+
+!
+
+[to'
+
+I
+
+l
+
++
+
+:I
+
+i
+
+If
+IJ
+I~}
+I
+t.' , JJ "IH'.ITJ]T=l:L~nl I~,
+.f,l;ln~ .·tT.
+1+1 H1
+1t
+
+It!
+rn!:J:tmm
+
+1
+
+PLATE
+
+Reproduced from
+best available copy.
+
+I.
+
+~ffl1Hf ~lh1j1.Uf·1-uJJ.!.;··~g=··~.llJ.mj==m=
+
+25
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, ll•
+
+•
+, '
+
+-H
+
+Jt
++
+
+,,
+
+PLATE
+
+146744-19-No. 30--4
+
+II.
+
+'26
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+PLATE
+
+III.
+
+27
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II.
+
+..J."
+
+, 1- .
+
+'r
+
+1.. 1:.;.,-, J1,,'
+PLATE
+
+IV.
+
+28
+
+ANNUAL REPORT NATIONAL ADVISORY COMMI TTEE FOR AERONAUTICS.
+
+~.
+
+·'1
+
+J.
+
+PLATE
+
+v.
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II .
+
+. .-1-
+
+f-
+
+PLATE
+
+yr.
+
+29
+
+30
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS •
+
+J
+
+. ifLU.
+.
+
++t
+
++
+
+.
+
+-
+
+,
+,
+
+;.
+
+.;-
+
+-
+
+,
+
+--j
+
+n.
+
+f
+
+,
+
+_.
+
+-I
+
+.
+.
+
+..;+
+
+.
+
+.'
+-
+
+.
+
+..
+
+-~
+
+.
+
+.
+.
+
+~
+
+.
+
+i+
+
+-J-:l,
+.
+
++
+
+:i--
+
+t
+
+if
+
+i±
+
+-.j:
+
+'-i
+
+wi-~ 1
+m
+--'+tft iit
+-:. t:j:;:'*'~
+++t
+li.'J-tlt .H+
+I [:thliL:r:u:.: tttl
+
+tyhH-l+ 1+
+
+.:itt
+
+t
+
+.
+
+~~1J - 1,
+.. " ~.~1i
+-
+
+_..
+
+;)
+
+..
+
+J,
+
+m~
+
+.'
+
+~
+
+m~\r~:
+
+,j
+
++
+
+. I ;1 ~m~. +TH .
+
+,
+-
+
+-, W
+
+. -fit: ' ffi~
+
+'HJ
+
+~t~
+
+" tiiJil ?f1tR#~
+
+'if
+
+"~rr-~m llii±·
+:±l:il±HJt
+~
+i
+
+.I-
+
+..:t :tj:
+
+.-t
+
+..
+
+I
+
+·[1 . P*f, hill:tt
+i
+
+.~
+
+H+
+
+-tf
+
+1~
+'(;i
+
+I
+
+_l
+
+:t
+
+.
+
+i
+
+t:t
+
+1·
+
+-~.
+
+~1'
+
+-+
+
+~
+
+I~~~
+
+.
+
+m
+i++
+
+~
+
+'-t-t
+
+It-t-:
+p:
+
+J
+
+t
+
++tJ::
+
+Itt
+
+,t.1~ I Ir-:
+PLATE
+
+VII.
+
+.
+
+81
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II.
+
+~mffi;ffi1
+
+h
+
+--
+
+1lUt
+
+li~fH
+
+h
+tt
+
+;.
+
+-
+
+-
+
+,H'-
+
+~~~'ft
+
+.!
+
+- -,
+-
+
+I :,-, '
+
+Tfffifh#f
++j £! ± ' ± -'
+
+-
+
+, arh..!
+t , =tL, -MJ. !m -
+
+)U~il.J\W±:~
+
+-
+
+-
+
+1.£
+
+-i=Htl-! 1+
+-111:4' -,
+tt1:Ri:+
+, -1" , ltUtt
+IH+-
+
+'itt:- ~
+
+-
+
+j
+
+,
+
+4+*'
+' ~-+-;1f~ji: J.:: ' '
+- :~ + .-+WJ
+'ij4'
+
+~..:-_
+
+[t
+
++1: -,
+
+n_ tJ:millk
+~t
+
+I~~t
+Ii
+
+-
+
+I
+
+t+
+
+~,,\ U-J+"
+
+~{I.wif \~'li~ . tt--~jfij w~~~m~ ,
+I
+
+-
+
+-
+
+e+l Cl"'·
+±i ±
+. Ff
+--
+
+. !$
+I
+
+':,
+
+IIt"
+,'
+
+1it*mit~flt
+,
+-
+
+.-~~ir
+
+r
+
+~,
+
+~
+
+1:1~ _
+
+.
+
+,
+
+I
+
+-
+
+1-1-#l,'Jlf- .
+
+~1~\I.t
+
+-,
+
+rr'~!~
+
+-dl~I '_
+r~d=Jh··~
+
+-
+
+~,
+
+- --
+
+- tT- I,,"
+
+"j~ m~
+l-
+
+~
+
+:7
+
+~-
+
+,
+
+.
+
+'Iff
+~(1 4
+
+f:t'
+
+" - j - i,l".!~;\\rn
+
+-tHt
+
+'ml-~
+-1+3'1
+
+"
+
+1
+
+~lt.
+,,_,~ ~!:!~rr -
+
+Ch• •
+
+-
+
+1
+
+,_W
+
+• •
+
+:g:fl-)~
+
+i+
+
+-i-
+
+-
+
+I
+
+-:j:
+"
+
+PLATE
+
+VIII.
+
+-
+
+32
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+--
+
+-f:f-
+
+-
+
+t
+
+I-
+
+, f+~~
+- ~
+
+~
+
+r
+
+,
+
+,
+
+.
+
+T"
+
+H+ f-J-"" l
+
+~-
+
+~1Ft~
+
+Pi " 1='t
+
+:Rtt
+,i
+
+-
+
+rw;
+
+!+..
+t
+
++
+
+l/. H+'-
+
+"
+H-I-
+
+I+l-
+
+I.
+
+qiJ...j:j:
+
+t
+
+mtj: -~.-i
+
+m 'IT""
+J.++
+
+:l
+
+,1
+
+-1-
+
+F-H-
+
+J\.. <
+
+* J,1
+
+~'
+
+• i-Ff,
+
+- ~ tij\)
+
+-
+
+I
+
+~ .~
+
+f ~-
+
+Wti
+.+
+
+Iif s=
+
+..
+
+fh1++.
+
+-Mjll Hf-L
+;,.
+
+-i
+
+0"
+
+~
+
+j.-'-
+
+".
+,
+
+-~:=t"
+
+t+rtHl
+
+-,
+
+-It
+
+tl- 1-+h"-
+
+L
+
+n~t-
+
+~+
+
+I
+
+H+i'
+
+-
+
+,
+
+'m=m!H+
+~1B'Cl. ~~~ cc. ,tt
+~lih.:.cL.!. ~,_ r:~
+PLATE
+
+IX.
+
+!:!-
+
+t+
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II.
+
+1.
+
+•
+
+l.
+
+T
+
+PLATE
+
+146744-19-No. 30-5
+
+X.
+
+33
+
+34
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+T
+
+PLATE
+
+XI.
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II.
+
+35
+
+.\
+
+,J
+"t
+
+.8
+
+PLATE
+
+XII.
+
+36
+
+ANN UAL REPORT NATIONAL ADVISORY COMMITTEE F OB. AERONAUTICS.
+
+I
+.:
+
+=
+
+,~~
+
+f'
+
+=;:;::
+:i?:~:
+
+. ' 011
+
+;;.:
+
+=?f!TI
+
+I~;!
+'(.!:l.:
+
+i~~*{.
+i1::t
+
+~~
+
+,
+
+~~
+:::-;~
+z:;::-r.!
+
+~
+. ~~
+
+H
+H
+H
+
+~
+
+I:':'
+
+''J'f)
+
+:=r=/ , ¥r
+~I
+
+:.:
+
+,110:
+
+=
+:::! ~?'
+
+;1""
+
+'
+
+'f::~/j'
+
+i ~,.;;::.
+~~:': I .iri:.:H
+
+:~4Iir
+I\], t~ I"!E::::!~ ~Ll
+.'~'22 1 ~~:~--';
+i::;:S <tl: i- :\: . tt
+Eif~i' .Il If:; .:r.
+
+-b--.=
+
+'Ifi~tl:c
+
+f&
+
+;-;';"~I:=:.;.J
+
+~
+
+1'1
+E-
+
+Ll+~i:!
+I
+
+~'l F~
+
+<
+-<
+
+P-<
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS,
+
+, ~.'
+
+PLATE
+
+XIV.
+
+Re pr o duced from
+best availabl e co py'.
+
+n.
+
+37
+
+38
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
++
+
+RI·
+::N '
+
+I'
+
+4
+
+_,f
+
+-- . :g
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II.
+
+H
+
+.. It'z!-
+
+.1t
+
+.
+
+,
+
+H
+
+t
+
+"
+
+t
+
++
+',~,
+
+-
+
+.
+
+,
+
+c
+>
+
+'.\
+
+-
+
+j
+
+--
+
+,
+l-
+
+\
+
+'-+
+,
+
+.~
+
+,-
+
+{-
+
+~i
+,..1
+
+j-., t
+:;o t
+i:j:j: y
+
+\
+
+,
+
+!;t'
+:.'+
+t'.ii:
+, -t+
++ ,
+
+~
+
+~t;
+
+...;ttFw:: ~~­
+PLATE
+
+XVI.
+
+89
+
+40
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+PLAT E
+
+XVII.
+
+41
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II.
+I
+
+.
+
+(
+
+I'
+
+i
+
+42
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+, '.;.c
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II.
+
+PLATE
+
+XX.
+
+43
+
+44
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+L
+
+T
+
+,-
+
+T
+
+PLATl3I
+
+XXI.
+
+45
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II.
+
+$ .....
+
+h+
+
+H+
+
+H+
+
+t~ ~. ' I~i
+
+H+
+
+"
+
+I.,.>
+
+T
+
+,.,.
+I·
+
+.+
+
+, '
+,
+
+1
+
++h
+
+.I:t
+
+T
+
+t
+T
+
+"
+
++~
+
+..
+
+..
+
+t
+
+l+"
+
+,.,jj:.j:;'
+
+I-t:
+
+J.++H++-1tH~~r.wll1'gli Hii~ ~~!,$ ~. ~fl ~'r .
+t± [tUl±h·
+
+JER'TIt U;g"g m
+f-l.hl3
+
+ttm l1i: .
+PL A.TE
+
+l+
+
+~
+:t
+
+~'tt.
+
+.
+
+l+
+
+~ ~m~ r~1tltf !~j~
+
+~:i· tl.r++lit~ ·f+H+ 111
+
+XXII.
+
+,
+
+H p. !18
+
+*
+
+H:~
+lfH: .
+
+46
+
+A NUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERO ""AUTIO .
+
+, -c-r+
+
+~-Ft-H-t:
+
+, 11-'+
+.ft
+
+Til
+r
+
+IT
+
+,
+
+,~
+
+, f:f-
+
+!ttL
+
+rJ ·
+
+i:t ,1+
+
++t
+
+L
+et
+
+'4
+
+'1'+
+
+-++.'
+
+1-t+ ,
+
+IvkL 'i'f
+
+rH-
+
+~ -
+
+EL
+-ttl
+'~
+
+\
+
+r r
+:-1
+
+,~
+-1=1
+
+.
+
+.
+
+r-
+
+,
+
++
+
+f:t
+
+47
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II.
+
+ctH lf~H=~: .
+rTTTTTI
+
+"~.
+
+J' I H-t+
+~~
+
+H=
+
++
+
+I
+~
+
+,~
+
+,
+
+j
+
+IF
+
+t
+
+.
+
+T
+
+" Ii
+.B- ~
+
+++ 1+1-,
+~-± H
+
+I
+
+)", t
+
+.
+
+-
+
+r
+
+if.l.
+
+j;
+
+;-
+
+PLATE
+
+XXIV.
+
+-
+
+48
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+j-
+
+.1
+
+- I
+
+-'
+
+•
+
+49
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, II .
+
+IH
+
+h
+
+i F~
+
+I
+
+t
+
+It
+
+~
+
+.
+-
+
+~ -It
+1+
+
++
+:1
+
+-
+
+~1g
+
+1+
+
+-1+
+
+. t
+,
+
+r
+
+~
+
+~~
+
+•
+
+-1
+
+-I;tf
+
+t ~.
+
+,Jilr r{
+
+f±~ ~l
+l-:jlt~
+
+t
+
+I~~r"
+.1,
+
+Po
+
+-
+
+P LATE
+
+XXVI.
+
++
++-
+
+,
+
+50
+
+•
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTI S.
+
+1
+\
+
+1.7
+
+\651- /
+
+\
+
+I.G
+
+lx
+
+7 D1"
+'
+
+K
+
+\ ~[lI'--- --V
+
+~551o
+
+.!=i
+~4 1:>10
+
+I~
+
+\
+
+\
+
+~
+
+en
+,
+
+>I~
+.3
+
+ty
+
+~
+
+EQUAL
+
+----
+
+I--E
+
+50'7
+
+K--
+
+T(~Q
+
+~"---- t-EQUAL THRU T
+
+/
+
+.2
+
+PROPELLERS I AND 97
+CONTOURS OF
+COMBlliE.O tffICIE.t\CY
+EQ.UAL TtiRUST
+
+.I
+
+AHD
+
+('(UAl._
+Tp~Q,UE:
+
+.I
+
+.2
+
+V·
+
+1- ND- 1
+
+3
+PLA1'E
+
+XXVII.
+
+.5
+
+6
+
+1.
+
+i7·
+
+EXPERIMENTAL RESEARCH 0
+
+51
+
+AlR PROPELLERS, II .
+
+V
+
+1<.701.
+6
+
+1
+\
+
+\
+
+.5
+
+---
+
+.~~~
+
+,.."d1
+
+../
+
+\~55';) ~
+~
+\ \; ~
+
+1ft
+co
+
+0)
+I
+
+>I~
+
+///
+--
+
+/
+
+~
+
+UAL THRU5T
+
+--------
+
+---
+
+TORQ.UE
+
+1.3
+
+~
+
+kL
+
+2
+
+.
+
+PROPE.LLERS I f\MD 98
+CONTOURS OF
+
+.1
+
+COMBINED EffiCIENCY
+EQ.UAL THRUST
+
+AND
+EQ,UAL TORo..UE.
+
+L_I
+
+.I
+
+2
+
+1 ND
+
+3
+PLATE
+
+XXVIII.
+
+5
+
+' 1.6
+
+1
+.7
+
+52
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+I//
+
+~
+
+V--
+
+?
+\
+
+f-b5 '16
+
+"(-E 010
+
+11+
+
+4510..-)
+
+.3
+
+~>S
+
+.2
+
+~
+
+'--bV
+
+/
+
+\o~I>< ~
+~
+
+-----
+
+55 OJo "-
+
+~
+~l
+
+THRUST
+
+l
+~EQ A TffiQUE.
+
+/'
+
+-
+
+/'
+
+PROPELLERS I AND 99
+COI1TOURS Of
+
+.1
+
+COMBINED EfflClfltCY
+EC\.UAL THRUST
+
+AND
+Eo.UAL TORQ,UE.
+
+.1
+
+.2
+
+.3
+
+:4
+PLATE
+
+-
+
+XXIX.
+
+.5
+
+.,.6
+
+1.7
+
+EXPERIMENTAL RESEAR H
+
+ON AIR PROPELLERS, II.
+
+53
+
+54
+
+ANNUAL REPORT NATIONAL ADVI ORY COMMITTEE FOR AERONAUTICS.
+
+In
+
+I :::
+
+'r--
+
+I:± .
+.
+
+55
+
+EXPERIMENTAL RE EAlWH ON AIR PROPELLERS, II.
+
+JEF "
+
+::~5 $I -}
+
+1
+'+
+
+- TF
++1
+
+.. 1
+
+fm
+
+ffit£!--i-fHfH-:r~11
+j-
+
+~
+
+-
+
+I t+'-
+
+-I
+
+)
+
+,;-r
+
+=++
+
+....;
+....
+
+><:
+X
+X
+
+1
++1
+
+'<
+"
+...
+
+!'"
+
++
+
+tl..
+
+H
+
+. ":0.
+
++
+I
+
+1+, •
+
+:t!"-
+
+!el
+-'.
+
+.
+
+::::ttd}ItI'lt-
+
+- n::
+. ,
+
+I
+
+56
+
+A NUAL REPORT NATIO J: AL ADV.lSORY COMMITTEE FOR AERONAUTIC .
+
+f p
+.:t
+
+....;
+_'to.
+
+-
+
+. ~
+
+~
+
+::::;:J:ff
+
+q:m
+
+i-H-t+
+
+• 'i:t!:j:
+
+i·"l1l1. :.
+,,,
+
+.
+
+f*~
+
+.....
+.....
+......
+k
+J
+
+K
+X
+
+~
+
+-<:
+
+R
+::! : + ..
+
+~- -
+
+Utr
+r~++
+
+fr~
+f-'-I,
+
+&4 .
+•+r·b
+
+;"
+
+I+' - .
+
+EXPERIME ""TAL RE 'EARCH O:.f AIR PROPELLERS, II.
+
+57
+
+D:
+
+UJ
+....
+
+W
+
+~;
+Cl)U
+~o:
+
+G.
+.
+zZ
+G
+
+U
+
+ii:o:
+
+w
+
+~
+
+.g
+
+LL.W
+
+UJD.
+
+10
+
+o~ . -30
+
+600
+
+~J
+-
+
+0
+
+:iOOI)
+
+6
+c(
+
+2000 '-
+
+2l
+q
+
+1000
+
+40
+
+~
+
+'150
+
+L
+
+~
+
+70
+
+.S9-
+
+~
+
+.6
+
+60
+
+.7
+
+300
+
+:;O(:()
+
+~
+
+.6
+
+400
+
+600n~
+
+00
+
+w ·1000
+
+I.!i
+.4
+
+Col,
+
+~ 7(JOO I
+
+... UJ
+
+SO
+
+o
+
+~
+
+>'l
+
+2l
+
+~
+
+1.0
+
+o
+
+1.1
+
+2l
+
+1.2
+
+~
+
+_-----C81 --.. . .....
+__
+
+1.3
+
+--
+
+~
+
+--
+
+~~
+
+... ..-/ ----- -- .,.,,-- ",.-/
+
+.-
+
+.-
+
+----'- -- ----8()J.--~...,.,~
+
+"
+
+... " ..-
+
+.-
+
+;..o
+
+\~
+." \
+
+;'S
+Ul
+
+'
+
+o
+
+~
+
+\\
+\
+
+o
+
+\ \
+\\ \'
+
+o
+
+~
+~
+
+\'
+
+>-<
+
+,
+
+~
+~
+
+\
+
+\
+
+PROPELLERS 80 AND 8\
+
+ttl
+ttl
+
+\
+
+o
+
+I-.j
+~
+
+:>-
+
+p~
+
+ttl
+
+LlN3l)5
+
+l:t$
+
+o
+Z
+
+Pu
+6. N3[)5
+
+.2
+
+40
+
+.3
+
+50
+
+.4
+
+I
+
+I
+
+I
+
+60
+
+70
+
+SO
+
+tj
+
+~
+.6
+
+~
+
+.7
+
+.9
+
+1.0
+
+1.1 1.2 1.3 1.4
+
+I
+
+90
+
+100
+
+VELOCITY - KilOMETERS PER HOUR
+PLATB
+
+:>
+q
+
+XXXV.
+
+150
+
+200
+
+300
+
+fh
+
+a;
+
+w
+
+t ....
+zZ
+
+>1:
+
+GU
+
+....
+ILl
+
+!::=>
+(l)U
+Za;
+
+WILl
+
+Oil.
+
+wILl
+
+I/)
+
+ii:cr
+
+....
+IIJ
+
+a;
+
+w
+
+\LILI
+
+we.
+r-30
+
+1:
+
+•
+
+IIJ
+
+0
+::,(
+
+Q
+
+...
+:J
+
+.4-l-40
+
+5
+<
+
+.5-+-50
+
+600
+.02
+400
+300
+
+trl
+
+6I"
+
+.7
+.8
+.9
+1.0
+1.1
+1.2
+1.3
+
+\.3
+
+~
+
+"0
+trl
+
+~
+H
+
+70
+80
+
+~
+
+trl
+
+Z
+
+____----------___-£8~
+
+H
+
+~
+~
+
+82____ £_3
+8 __
+.- .".;~-
+
+200
+
+~-
+
+,,--' _., .... ........
+,,'" ,.,...
+
+~--J---
+
+82
+
+tt::
+
+en
+trl
+
+.'-. . . . . . .
+....
+
+~~
+
+.... ~
+
+0
+
+" "'-
+
+,.",
+
+1fI'#'''
+
+~
+
+..........
+'"
+
+".,;
+
+~
+
+'\,
+
+0
+~
+
+~,
+\ \
+
+"
+,\~
+
+, /....
+
+:>
+....
+~
+
+\
+
+/
+
+\'\.
+
+,/
+
+\ \
+\ \
+\ \
+\ \
+\
+
+I-d
+
+~
+
+0
+
+~
+~
+t<J
+
+\
+
+PROPELLERS 82 AND 83 \ \
+~
+liN3[)1'
+Pu
+
+"
+
+J'l
+\
+\
+
+I-<
+
+~
+
+-- --- --- ~
+
+.2
+",0
+
+.3
+50
+
+60
+
+.4
+
+70
+
+'80
+
+m
+
+90
+
+.5
+
+.6
+
+100'
+
+VELOCITY - ·KILOMETERS PER HOU~
+P L ATE
+
+XXXVI.
+
+.7
+150
+
+.8
+
+.9
+
+200
+
+1.0 1.1 1.1. 1.3 1.4
+
+--'00
+C1l
+
+co
+
+~,'
+
+Ct:
+
+~
+
+UI
+
+~~
+
+inB
+za:
+
+>.-
+
+0)
+
+Uz
+
+zLtJ
+
+U
+G
+
+C/)
+
+iLa:
+Lr..LtJ
+Ula..
+
+1
+
+~~o
+(!;
+~
+
+.4
+
+6001-
+
+SOO
+
+.02
+
+0
+
+'ISO I~
+
+.6
+
+60
+
+.7
+.8
+.9
+
+70
+
+400 ~
+
+300-3""
+
+200
+
+-E
+
+6000
+5000
+
+~ 4000
+
+..,.
+
+y.
+
+0
+
+-
+
+~ 3000
+
+6
+
+-I:)
+
+«
+
+~~J.~
+
+-~
+
+."
+
+ffi
+.~
+
+/~
+
+o
+
+7000
+
+Yo
+
+2000
+
+;;
+
+tOOO
+
+~
+
+r
+
+I
+6
+
+I
+
+j
+
+.8
+
+.7
+
+D. -
+
+<Q
+
+'V
+
+I
+
+.9
+
+o
+
+1.0
+
+~
+
+DENSITY
+
+~
+
+~
+
+H
+
+o
+
+y.
+
+1.6
+
+~
+
+I.l
+1.2
+
+~
+
+1.3
+
+.....,
+Ul
+
+o
+~
+><
+c:
+o
+~
+~
+
+8'1'
+
+/'85 _--- _____ ....
+~- -- --~A--_...
+---./
+..... ,......, "
+- " ;.. -84
+....,
+
+....
+
+--
+
+100
+90
+
+.... -
+
+80
+."
+
+70
+
+-<, <'
+<,,,,,,,
+
+~
+
+,
+"
+
+.,,'"
+
+t;l
+
+,
+\
+
+\
+
+'>j
+
+o
+
+\
+
+\
+
+~
+
+\
+
+\
+
+60
+
+\
+
+\
+
+PROPELLERS 84 AND 85
+\
+
+p~
+
+\
+
+6.N3DS
+
+\
+\
+
+Pu
+A N3[)5
+
+\
+
+\
+\
+
+.2
+
+40
+
+v
+NO
+
+.3
+
+so
+
+60
+
+.4
+
+70
+
+80
+
+90
+
+\
+
+.5
+
+.6
+
+100
+
+VELOCITY - KILOMETERS PER HOUR
+P L A'r E
+
+XXXVII .
+
+7
+
+150
+
+8
+
+.9
+
+200
+
+1.0
+
+1.1
+
+1.2 1.3 1.4
+
+~
+
+8
+~
+
+II>
+q
+H
+
+~
+
+0::
+
+w
+
+!-
+
+~I-'
+
+zZ
+
+UJ
+
+.., UI
+
+)-1:
+
+ljU
+
+1-:)
+
+i:i:a:.
+IJ"lIJ
+
+cn U
+z 0:
+ILl
+
+<Jl
+
+a~[
+(!j
+~
+
+.4.
+
+6 001500
+.02
+
+0
+
+.5
+
+'50
+
+.()
+
+60
+",
+
+>!OOf
+
+.7 ,8
+
+.9
+
+70
+-80
+- 90
+
+:; ~
+
+~
+...
+
+1'#
+
+1
+
+WO-
+
+E 5000
+a
+
+~ 3000
+
+5
+
+<
+
+A'
+
+;..,'v
+
+6000
+
+~ 4000
+
+L
+~~
+
+700U
+
+2000'1000
+
+,.t'cr§
+.
+
+t<J
+
+.7
+
+.6
+
+<0
+
+.8
+.9
+1.0
+Ll. - DENSITY
+
+1.1
+
+1.2
+
+.U
+
+S
+~
+
+~
+t<J.
+Z
+
+~
+
+300
+
+~
+
+~
+
+~
+
+o
+tIi
+o
+Z
+tl>
+,...
+
+87
+
+---~-
+
+~
+
+£--------- ............
+
+--- ---- ------7--, , "~---:--:..--86
+...... " , ' ",
+----\
+
+~
+~
+
+\
+\
+
+\
+\
+
+PRO[l[L
+L[RS 86 AND.87
+
+\
+
+\
+\
+
+PI!.
+6N3DS
+
+\
+
+\
+
+.2
+
+.3
+
+.4
+
+~
+
+.5
+
+.6
+
+.7
+
+\
+
+,8
+
+-------.
+
+\
+
+.9
+
+1.0
+
+1.1
+
+~
+
+Yl
+
+....
+r<
+
+~
+6
+
+N3[)S
+
+1.2 1.3 1.4
+
+I I I
+II"ldI
+11
+I' If' I' ,I"I' \,l'IIII' II,IIIIIIII'I11111 I JlilIlIJiullllml1LP\')l!lplI\JJI1\!lJJilll1\/1Itill 1dllIlJil pd
+1 1'11" 1' jI , Iflllj 1111 III pi nI"
+I I I 1JTTTTI 'r 1I 'I
+1 I I I I
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+'100
+
+VELOCITY - KILOMETERS PER HOUR
+PLATE
+
+XXXVIII.
+
+150
+
+200
+
+30f
+0)
+
+I-'
+
+0:
+
+~
+UJ
+)-1:
+
+1:::>
+(J)<.J
+
+ffia:
+
+>-1-'
+
+Uz
+
+ZUJ
+
+£#
+1
+
+U
+G
+iLo:.
+II..W
+
+1lIQ.
+
+O~[
+
+.4':£
+
+0
+
+6001 'ISO
+500
+
+400
+
+. .02
+
+.(i
+
+60
+
+.7
+.8
+
+ffi
+
+5000
+
+...
+
+~ 4000
+0
+
+~ 3000
+
+6
+<
+
+A......
+
+,f(,.
+
+6000
+
+~
+....
+
+-I:)
+
+"'f
+
+700U
+
+C/)
+
+2000'1000
+
+A.'-._I:)
+
+:
+t<J
+
+.7
+
+.6
+
+70
+-80
+
+.1.3
+
+~
+
+~
+
+1:<1'
+~
+
+~
+&l
+
+Ul
+
+1:<1
+
+g;
+
+a
+
+~
+
+0
+
+~
+
+~
+.....
+
+"
+"
+~
+E
+t;j
+
+0
+
+PROffLLERS 86 AND87
+
+H
+
+Pt
+t.N3DS
+
+--------
+
+~
+
+Yl
+!"'
+
+~
+I:::. N3()5
+
+.JL
+.2
+40
+
+NO
+
+.3
+
+50
+
+.4
+
+.5
+
+.6
+
+.7
+!
+
+60
+
+70
+
+80
+
+90 'iOo
+
+VELOCITY - KILOMETERS PER HOUR
+PLATE
+
+XXXVIII.
+
+.8
+
+ill,!!"!
+
+,9
+
+1.0
+
+1.1 1.2 1.31.4
+
+!"" iIi 1'\"1111\"1 11,"I IiII I \III
+lilli, I
+I ! !!"
+
+,TI'i'lr
+
+150
+
+2 00
+
+30<
+
+~
+.....
+
+,
+
+..,.;: ~- -
+
+a:
+
+~
+
+ii:a::
+
+Za::
+
+LIla.
+
+>L
+(I)\.J
+
+zZ
+
+(/)
+
+a:
+
+..,UJ
+
+GU
+
+UJ
+
+lI::
+
+.4
+
+40
+
+60°1 ]F'
+400
+
+300--=r
+
+60
+
+:r
+
+~ 4000
+0
+
+~ 3000
+
+!:i
+c(
+
+§.
+
+§
+
+.6
+
+1::::-
+
+70 tv' "-I ,Ill
+
+2000
+1000
+
+~/
+
+.6
+
+.7
+
+_ .02
+
+io
+
+£~
+"~ "
+
+1
+
+LLUl
+
+~!E30
+t!i
+
+500
+
+---.~.--~-----~--
+
+~t-
+
+!;::::l
+
+.~
+
+;:;
+
+.
+
+".
+
+f:-."
+
+~
+
+trJ
+
+Z
+
+.~
+
+~
+
+.9
+1.0
+
+~
+
+1.1 '
+
+1.2
+1.3
+
+(Jl
+
+trJ
+
+__ ~ _____ ....
+".-.;~
+
+.......
+
+--,,---~
+
+o
+
+~,
+
+~.,." .
+
+------,----------.., '''<92'
+
+---- -----------
+
+Z
+
+'~4
+
+~
+
+~
+
+\\
+
+'\\
+----~
+
+t:d
+P1
+
+o
+
+..,,91
+
+"d
+~
+
+\
+
+\
+
+o
+\
+
+\
+"'v--90
+
+"
+
+"d
+
+\
+
+E
+
+PROPELLERS 90,92 AND 9~
+
+H
+
+~
+
+PI:
+t.N~[)5
+
+'\
+
+\
+
+\
+
+V
+
+40
+
+.Pu
+AN'3[)!J
+
+\
+
+NO
+
+.Z
+
+.5
+
+.3
+
+50
+
+60
+
+70
+
+80
+
+90
+
+.6
+
+100
+
+VELOCITY - KILOMETERS PER HOUR
+PLATE
+
+XL.
+
+ffi
+
+.7
+
+l50
+
+.8
+
+.9
+
+200
+
+1.0
+
+1.1 1.2 1.3 1.4
+
+300
+Q)
+
+C.:l
+
+~ n. ~c
+~ '2
+
+w
+
+0)
+
+a::
+uJ
+
+i L-..
+
+os
+
+~
+
+t:i
+
+<J
+
+.04
+
+>~
+
+~a
+i:Ja::.
+
+,po.
+
+~IzZ
+
+.... UJ
+
+II.UJ
+
+UJ
+
+n.
+
+a~[
+x:
+<!:i
+
+.4
+
+600
+
+0
+
+.6,. '
+
+400
+
+.7
+.S
+
+~ 5000
+~ 4000
+
+.-:>
+
+">
+
+~
+
+a
+
+~
+cj
+
+~ 3000
+
+6
+c(
+
+~
+
+2000
+1000
+
+A~h
+
+60
+
+70
+SO
+
+a::
+
+UJ
+
+I-
+
+-I::)
+
+'ISO jp
+
+~OO
+
+(f)
+
+/.#
+1
+
+GU
+
+ii:o:
+
+I
+
+!
+
+,
+
+!
+
+.7
+
+.6
+
+I
+
+.S
+.9
+1.0
+D. - DENSITY
+
+co
+
+1.1
+
+~
+
+o
+
+~
+
+H
+
+~
+
+~
+....
+
+o
+
+~
+
+300 '
+
+~
+;>
+t:l
+
+200
+
+j
+en
+
+95
+- ----------"
+
+',(
+
+o
+
+~
+
+9S
+.
+
+Q
+
+o
+
+",
+-- ..............
+
+"' "
+
+93
+
+"
+
+\
+
+,
+
+'(""93
+
+80
+70
+
+--------------,
+
+'60 .
+
+'.
+
+91
+
+\
+
+~
+
+'" ~
+
+50
+
+\
+
+,2 .
+
+40
+
+.3
+
+-SO
+
+60
+
+70
+
+80
+
+VELOCITY -
+
+90
+
+-........
+
+~--
+
+XLI.
+
+D. N3DS
+
+\
+
+\
+
+\
+
+~
+\ --------- t:.N3DS
+
+,
+
+.~
+
+100
+
+KILOMETERS PER HOUR
+
+Pr,ATF.
+
+~ ---~~
+
+.5
+
+.4
+
+~
+
+Pe
+
+\\
+\\
+
+NVD
+
+,
+
+PROPELLERS 91,93 AND 95
+
+\
+
+\
+
+>:j
+
+o
+
+\
+
+\
+
+,
+
+40' .
+
+\
+
+\
+
+\,
+
+~
+
+\.
+\
+
+\
+
+~~
+
+""
+
+\
+
+.
+
+\
+
+~
+
+\\
+
+.7
+
+,S
+
+.9
+
+1.0
+
+1.1 1.2 1.5 1.4
+
+~
+~
+~
+
+}-
+
+cj
+
+tj
+
+@
+
+~ ~~
+2
+<l
+
+ir
+
+a:
+w
+
+I-
+
+I-
+
+w
+
+0..
+
+W
+
+os
+~.
+
+>-L
+
+1-:>
+ii5u
+
+za:
+WUJ
+
+00..
+
+>-1Uz
+
+7000 -en
+~ 6000
+
+ZUJ
+
+~U
+
+U
+
+iLa:
+t!i~
+
+I-
+
+~~
+\0
+
+~ 5000
+
+r-30
+
+4000
+
+I!i
+
+x:
+
+3000
+
+.4--+--40
+t;j
+
+.5--+-- 50
+.02
+400----==C
+
+S
+
+6
+!60
+
+.7
+.8
+
+~
+
+~
+t;j
+
+70
+80
+
+~
+
+~
+
+.9
+
+1.0
+1.1
+1.2
+
+~
+t;j
+Ul
+t;j
+
+c
+
+1.3
+
+----
+
+6
+' - -',
+
+A
+
+----"
+
+---
+
+100
+
+_- --- --------------
+
+--_ ~A
+"
+
+" ~D
+
+,,
+
+,
+
+. . . . . ~c
+", ,
+
+.t""B
+"
+
+~
+
+o
+D:l
+
+......
+
+o
+\
+
+~
+
+,
+\
+
+,,
+
+,
+
+~
+
+\
+\
+
+\
+
+\
+\
+
+",,
+
+, ,,
+
+\
+
+,,
+,,
+\
+
+PE
+~
+
+\
+
+\
+
+\
+
+Pu
+l:!. N3DS
+
+,
+\
+
+,
+\
+
+PROPELLER N! 96
+
+A-
+
+4°
+
+RETARD
+
+B-
+
+00
+
+ADvANCE
+
+C-4·
+
+,
+
+~
+
+o
+
+'"d
+
+t=J
+
+E
+~
+
+sn
+....
+~
+
+D-8·
+E-12"
+
+\
+
+f-16"
+
+6:-20·
+H-e'!-'
+
+~
+
+.2
+
+40
+
+.3
+
+50
+
+60
+
+.4
+
+70
+
+80
+
+NO
+
+90
+
+.5
+
+.0
+
+100
+
+VELOCITY - KILOM ETERS PER HOUR
+PLATE
+
+XLII.
+
+o
+
+.7
+
+150
+
+.8
+
+.9
+
+200
+
+1.0
+
+1.1
+
+1.2 1.3 1.4
+
+300
+0')
+
+01
+

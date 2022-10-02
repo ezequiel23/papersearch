@@ -1,0 +1,2166 @@
+.
+.“
+
+-
+
+.
+
+REPORT
+
+NO.
+
+21
+
+OF AN AIRPIA.NE ENCOUNTERING
+GUSTS, II
+BJ EDWIN BIDWEUI
+
+WU.SOFT
+
+Masamhusetb IIMklta d TeehmYIou
+
+403
+
+#.
+
+.
+
+REPORT No. 21.
+THEORY OF AN AIRPL4NE ENCOUNTERING GUSTS, IL’
+
+By EDWIN BIDWELLWUSOH.
+q
+
+INTRODUCTION.
+*
+
+This discussion is an immediate continuation of my pretioue
+treatment of the subject ublished in the Fmt Annmd Report of
+the National Advisory c?)remittee for Aeronautics, Washington,
+1915, p es 62-76 (S. Dec. 268, 04th Co ., 1st sess., reference to
+be by pages). The”notations Y that work will be cono
+which 3
+tinued without chauge except SEheresfter noted.
+PERIODIC
+LONGTITDINAL USTS.
+G
+That there is a certain degree of periodicity in
+b is obvious
+from casual obsavation, from the records of scient- c observatories
+F
+like Blue Hill, and from the familiar fact thab d such henomtma
+in nature reveal a general tendency toward periodicity. E eto
+sa the periodicity is not mathematically exact in its regularity nor
+in K
+etite in continuance.
+The object, however, of en invwtigation of the efkt of periodic
+gusts on an airpkme can for practical purposes be no other than
+to reveaI any exceptiomd effects that periodic, as compared with
+single, gusts may have u n the flight of the machine; gnd tke
+exceptional tiects will pror ab~y be indicated with sufficient practical
+completencs by sn analysie built on the assumption of strict periodiclt long continued in operation-the phenomenon most to be
+fearJ Ling resommce.
+The longdmdind guets are in, 1°, head-on vekit
+~~2°&v~itic&
+Vdocity WI; 3°, rotary velocity ~. Very Iittle ti L
+nature of rotsry
+s (p. @ ani hence 3° maybe leftaside. It is
+not essy to see Pow vertical gusts can have any renounced periodicity; the disturbance of the airplane’s motion Ey vertical gusts
+is (p. 64), except for very sharp gusts, essentially a convection of
+the machine with and by the gust; for both these reasons 2° maybe
+discarded. This leav= only l“—periodkity in the head-on guetin~—ss likely to be of interest.
+Phfkophfcal VIII.1917.
+Sodety, I*
+113eprLo.ted
+from
+PmwedQ9 Amerfmll
+405
+
+-
+
+406
+
+REPORT NATIONAL ADVISORY 00MMrrmm
+
+FOR AERONAUTICS.
+
+The gust may be assumed in the form
+N
+
+=J
+
+sinpt
+
+or
+
+(1]
+
+U1==Je@.
+
+The clifferential equationa are (p. 59)
+f (~)~ = – (0.128~+1.160D’ +3.38~D+0.917)uU
+j(~)w = – LP(o.557D +2.458)uU
+= – 0.02851Du,,
+~tij’~f
+=D’ +8.49~ +24.5D’ +3.38TiD +0.917
+= (D’+8,359D +23.37) (D’+0.1308D + 0.03924).
+
+(2)
+
+In the previous investigation it was found that the short-period
+heavily damped osci~ation vw not of much significance except in
+the case of a sharp upt (pp. 62-69), and that lta significance in
+that case was not revo LfY in the major motion of the machine but
+ed
+in the initial acceleration (or stress) upon it. It may therefore bo
+e ectid that for periodic head-on gusts the short-period motion
+wi be negligible in its eff~cts. It is consequently dcwrabIe to carry
+%
+out the numerical amd
+in such a wa as to separate, so far 99
+ma be, the short and Y
+ong natural perio & of the machine.
+L t us separate into partial fractions the operator
+~+=
+
+(P +8.359D +23.37) (~’ +0.1308 U”+0.0392G’
+
+““
+
+-
+
+or
+j%-D
+
+- 01J1601D+0.24263
+0.016D +0.089
++8.359D +23.37” ‘~ +0.1308D +0.03924” ““
+
+(3)
+
+The tit fraction has to do with the short, the second with the long
+oscillation. The two o erators are to be applied to certain expreseions derived from (I) %y substitution in (2).
+II D =ip, the numerators of (3) have the rwpective magtitudcs
+(0.089’ +0.016’pYP
+
+and (0.0426’ +0.016’@’P.
+
+For = O, the second is about half the first; for p= ~., the two are
+equ x ; the numeratim therefore do not differ greatiy m magnitude
+for any value of p.
+The ratio of the denominator is
+R=
+
+[
+
+(.03924 –@)’ +.1308’@
+l’
+(23.37 –p’)2 +8.329’@ T ‘
+
+and is very small when p is less than 1.
+have approximately
+l@=
+
+.
+
+For huger values of p, we
+
+1 +23.2/@ +545@4.
+
+Ifence the short oscillations may be neglectid when p< I without
+introducing much error; but as p inoreaaea beyond the value 1, the
+importance of the short oscillation grows rapidly.
+
+‘
+
+.
+REPORT NATIONAL ADVISORY UOMB5TIXE
+
+Consider &et the case p< 1, negIec The articuhir solutions for u, w, and 6,
+%
+taine: from the imaginary parts of
+
+FOE MiEOKAUTTCh3. 407
+
+the short oscillation.
+t is, 1=, Im b, are ob-
+
+.
+
+–;YT3:ipU.:3E4
+(.128fl+l.16p-3.%5g.9l7e’@.
+– .oMOlpi +.04263
+(4)
+? = –~ +.1308$+-0392.4 (.557ti+2.458~)ei$,
+– .01601@ +.04263
+$= –~ +.1308@ +.03924 ‘– .oB51fi)ef*”
+.
+To Miimate the due of
+to the maximum disturbance we may exwnine d e ‘m~fiwtine o 8/J, which is
+?
+i=
+
+~P.$”
+
+•0~51~
+
+[
+
+(.04263)’ +(.016p)’
+(.03924@)z + (.1308P)Z
+
+F
+J
+
+.
+
+(5)
+
+The calculation gives gP=O.0394 or =0.1985. The value of the
+ampIitude is then about 0.0095J ra&‘ans or 0.54J degre~. If J
+should be 20 ft./see., the forced oscillation would have an amplitude
+of about 10°.
+As the use of p =0.1985 in calculating ie somewhat more complicated than the use of =0.2, aud as the
+e from 0.1985 to 0.2
+does not materially J ter the amplitude 9of t e forced oscillation
+(and probably doea not exceed the error of observations), we may
+use p = 0.2 in Cskndating tie effect of 8
+riodic gust of maxinmm
+resonance on the airplame. We shall &t note that for p =0.2
+the ratio of the amplitudes of the two fractions in (3 is of the order
+400 to 11 and the first fraction is therefore entire1 ne@igible in
+y
+determining the articukw integraIs.
+For the seaon d!fraction we have- the oomplax value
+4.263 – .32-i - (4.275, – 4.3°)
+2.6Mi – .076
+(2.617, 91.6°)
+
+4.275
+= ~
+–95.9” ,
+( 2.617 ‘
+)
+
+where the parentheses ymt@n the polar .cqordinates of the compk
+numbers. - The axpreuons mta whmh ths ISmultiplied ta determine
+the coeilkmnta of eifl are for wfJ, uYJ, 9iJ, respectndy,
+–0.922 – 0.676i= (1.144, 216.240),
+0.0983 +0.00456i= (.0984, 2.670),
+–o.oo57i = (.0057, –900).
+Henoe the values of u/J, w/J, 8/J are
+u/J= (– .965+ 1.65i) (me .% +i sin J%),
+w/J= (–.00918– .16&) (COs#t+i sin A),
+8/J= (–.00948+.OOO98i) (qos _%!+ i sin S),
+and I==J (1.65 cos S–.965 sm At),
+IW=J (–.16400S
+#f-.0092
+sin S).
+I, =J (.00098 00S A– .00948 Sk %),
+1,’==J (–.0}19 cos 3t-.0002 Sill J%),
+l&=l.65J,
+~= -.164J,
+bo=.00098J,
+
+\
+
+l’~,= – .0019J.
+
+,
+
+408
+
+REPORT NATIONAL ADVISORY COM3flZCEE FOR AERONAUTICS.
+
+On substituting these wiluea to tid the constants of integration (p. 61), it is found that A and (7 corresponding to the short OSCU]ation in U, are negligible. Also &= - 1.65J, D= .726J. Henoe
+u= JeW&(-
+
+1.65 em. 187t+ .726 sin .187t)
++J(l.65
+
+In Iike manner (p. 62), A’
+= – .051J.
+W= JrW(.176
+
+and c’
+
+COS
+.&- .965 Ski .%).
+
+are small and B’-
+
+.176J, D’
+
+00S. .187t-.051 Sin .187t)
+–J(.164 00S .&+ .009 Bin ~) – .012J@.1~ COS
+2.43t.
+
+(The last term is added as a oheek OQthe initial ocmdition w = O.)
+fi~y
+(p. 62), A“ = .00007J, ~“ = .OO1O4J,~“ = .0109c7, and
+8=Je~
+
+(- .(K)104C(M.187t+.0109.sin .187t)
++J (.00098 00S #– .00948 mn .%) + .00007Jd1~
+
+00S 2.43t.
+
+Now to fid the rise of the machine when thaguat strikea it (p. 64).
+w+ 115.56=JaW~
+
+(.056 COS.187t+ 1.208 sin .187t)
+–J (.051 cm .$?t 1.064 sin .9t).
++
+
+The cosine terms may be omitted.
+2= 5.32J cos .&+ 0.44J-JtPwu
+
+The integration then gives
+
+(2 sin .187t + 5.76 ooa .187t).
+
+A table of TV&ISa z may be computed as:
+of
+
+t=o,
+
+2,
+
+4,
+
+6,
+
+8,
+
+10,
+
+2/J=O,
+
+O,
+
+– .15,
+
+– .54,
+
+– 1.16,
+
+– 1.90,
+
+12,
+–2.60,
+
+14,
+–2.97.
+
+This shows the rise or drop, accordjn as J is negative or ositive, during the tit quarter minute. ‘)?%0value9 of 2 now falf’ofl,
+pass through O, md only become hr e as t nears 35. The natural
+oscillation LS then becomin less e%ective relative to the forced
+osculation whioh has a doub7 e ampIitude of about 10.6J, or 202 ft.
+if J= 20 ft.l?ec.
+& the ematence of a regular perio.$ic gust for my long time is
+almost unbelievable, the only real @crest iu the calculation is in
+showing that during hoe iirat 15 seoonds we effect of resonanoe fails
+to become so far .mtabhahed that the mo~on Mere ap reciably from
+that due to the sunple head-on gust prewously studie f (p. 74).
+In the case of the mac~ne ooqatramed to remain horizon~al during
+flight (by some automatic steering devwe), the oorreapondmg equations (p, 69) are for M =Jei@
+.128pi + .598
+;= -.598 -@+ 4.078@e{@’
+w
+.557 “
+~= - .598 –~+?.078p#@”
+k the natural motion is no longer periodic, there can hardly be
+any suoh thing as reaommce, in the usual acceptation of that terrh.
+We em, however, ask what value of p will make w/J a maximum
+
+REPORT ITA.TKHAJ-.
+AmIsoRY
+
+FOR AEBONLUT’TCS. 409
+
+ccl~
+
+and hence induce the maximum oscillation in the vertical motion.
+To maximize
+~o’4.078~+,;-.598,,,~
+take p= 0.59S or p= O.774. The vah.e of w/J is theu
+ID/J= —0.136e~@,
+and the amplitude of w is 0.136J. The ampIitude of the oscillation
+corresponding to filmparticular solution 1. is 0.175J.
+Thus again it is seeu that the steering device makes the motion
+far easier than *en the machine is free (p. 70). There seems to
+be no need of carrying out the details of the integration.
+NOTEON RESONANCE.
+In deflnin by implication a state of resonsmce in & calculaabove, Y have a-sumed &at it was the angle 8 which was to be
+c
+ma. umzed by the proper choice of the frequency p of the appIied
+x
+periodic force. It maybe welI to take up the theory of resonance in
+a little greater detail, for there are complications in the kind of
+system we have here to consider.
+A. G. Websterl in his “D
+amica of Particles, etc. “ Teubner,
+19o4, page 175, grws generaI rormulas for resonance and shows that
+if the dam ing codicienta are snudl and if the frequency of the
+impressed ?’
+orce nearly ooincides with that of the naturaI oscillation,
+theh~p~tuu
+ofotie forced vibration will be relatively large.
+. For in the first place the dampimg coeilicients in the case T the aerophme can hard be reganled se small
+o
+(they sometimes exceed &e frequencies); in J e second lace, we are
+.
+not eva certarn that the motion of the system is who If’ oscillatory
+y
+(some of the mote ma be real and even positive if the machine has
+a certain mount of $ ynarmc instability); and in the third place,
+-~
+under such conditions, the am Iitude of tie forced oscillation may
+be considerably greater when” L frequency of the ap Jied foroe n
+materially different fmm that of the system (supposei oscilhhtory)
+than when the system and the force are nearly synchronous.
+The ordinary theory of simple resonance dependa on the equation
+tionq
+
+(D2+kD+n)x=J
+
+sin pt.
+
+The particular solution
+I== B,+;B
+is the
+
+imaginary
+
++n sin pi
+
+part of the expression
+J@t
+*
+‘=~–~+~v”
+
+~;ea;plitude
+of I is the same as tie modulus of iihe oornplex
+. The mod~m of.@ is 1; that of x is
+
+410
+
+REPORT NATIONAL ADVISORY CQMMTTEE
+
+FOE AERONAUTICS.
+
+To make the denominator a minimum we have merely to minimize
+(n–g)’+l!!q,
+
+g=
+
+f.P>o.
+
+We find. -n– ~lP,necessitating n>&.
+mum amp “tude of IZ is
+%
+
+If, then, n>k’, the maxi-
+
+where the positive or ne tive sign must be taken according as k is
+positive or negative. F n<&,
+the maximum amplitude for 1=
+occurs when p = Oand is J/n.
+The amplitude is large when k or (n– ~ii?) is smalI; it is very
+large when both conditions are satisfied. The largest possible value
+occum when n= *N and is @J/7P. IiI this case the ap Iied force
+has an indefinitely small frequency where the naturaI os CIY.la has
+“ tion
+the frequent 7c/@. The theory of ‘the system here considered is
+given by We ILtar (op. cit., p. 155).
+The case which corresponds to that in which we me interested is
+where the syetam starts from rest at the position of equilibrium.
+The motion is then defied by the equation
+
+Under normal conditions this uantity remains t@erably sn@l
+until the natural motion is nearl $
+g>a$yp;~:::g::,ytg
+has time to increase greatly
+equation becomes
+
+z+%?-
+
+Cos *kt-cos
+
+a)+:
+
+(e-u
+
+sin+M -
+
+sin d-t),
+
+and the oonckuion stilI hokls.
+For the simple system ordinarily treated for resonance the statement that the motion must be onl sl~htly damped and the frequen%
+ties of the natural and forced m rations must be reasonably nem
+together, is therefore am ly justified. The rmult holds even when
+n < ~1+,in which case & e maximum amplitude for IZ (resonanoe)
+OCCUI’S when p = Oand is J/n.
+The next simpkst case is like that which arises in treating the
+constrained lon@udinal motion (6= o) of the aerpohme (p. 69):
+(D+a) U+3W=E–au, –bw,, a=.128,
+cu+(D+d)w
+= –czq-dwl,
+c=.557,
+
+7)= –.162,
+d=3.95.
+
+The natural motion ia given by
+A’=D+(a+d)D+
+
+(ad–bc)=o,
+
+REPORT
+NATIONAL
+ADVISORYOMXITTEE FOE AERONAUTICS.
+C
+
+411
+
+and in this case by D’+4.078D+.598=0.
+Here the roots are
+both real, viz. –3.93 and –0.15. So far as the equation in D is
+concerned we ~ave the case where k is Iarge and n is mmdI. The
+equations for the forced motion are
+A’u= – (all+n] Ul–6hIU
+A’w = – (~ +n)wl –ml.
+The question now arises: What is it that is to be a maximum?
+l?or some purposes it might be the variables u or &or
+example,
+tie whole theory of gusts here given de ends on the gust being
+small and producing small efkts, and if 5 y an applied force, the
+vrduw of u or w should become too large, the thee
+wouId become
+worthIess. Again, if the question had to do with z e strain on the
+m!chine, $e derivatives du dt and dwldt would be the essential
+objects of interest and shou {d be maximized. Finally it might be
+tith~l~w~=
+-d and z=~--the
+actual displacements of the
+4 we de&red to examine. Let us therefore consider
+several probkuns seriatim.
+&se 1.—To madmize u with a head-on gust UI= eifl.
+@z?&efs
+A’
+
+~=—
+
+The
+
+maximum
+due
+
+. _
+
+.128ip + .598
+~$
+.698 –p’+4.098ip&
+“
+
+of
+
+(.598 –p’
+~=
+
+‘+4.098zpz
+
+“1282’’+2’””’
+
+p’+ 16.69PZ
++.3676
+
+OCCUrS
+when p’ is O, that is, ‘(resonance” occurs for p= 0, the amplitud~~~gfi~force and the oscillation being tie same.
+~e
+w with a head
+t.
+This was treated above (SEW
+10). 1&%ratio .136 was found; the
+uired value of p was .776.
+%
+se S.—To maximize u with an up-gwt WI.
+Jf3~@
+.&.
+‘-.598 –p’ +4.0981n
+The condition is p=.776 as is &@ 2; the ratio is .04
+tie 4.—To maximize w with an up-gust.
+3.95pi + .598
+fw
+w= ‘.598 –p’ +4.098@e “
+The
+
+maximum
+value
+
+~“
+
+(.598–p’
+
+of
+
+‘+4.098’p’
+
+3“’’(”+””2’)
+
+@+ 16.6@’ +.3676
+
+OCOUrS
+when =.022 and p= .151and the amplitude ratio is about 1.
+We note i? e very ditkrent values of p thus found, namely, 0,0.15,
+0.776, according to the choice of ease. If in ease 1, we had taken
+p= .16, the am Mude ratio would have been about .7 instead of 1°
+K p= .776 had ~een assumed, the mtio would have been .37 instead
+of L
+
+‘
+
+412
+
+REPORT NATIONAL ADvISORY COMMI’JTEE FOR AERONAUTICS.
+
+Oaw 6.—If we desired tQ maximize z we shouId have had to treat
+1 3.9S + .598/p
+_e{#,
+‘~ .598 – p’ +4.098pa
+which would have given an infinite amplitude ratio for p = O.
+Now if we turn to the free machine and try to maximize @7t
+instead of e, we have to maximize
+.04263a+ .016’~
+(.03924Z–p’)’ + .1308ip’
+instead of (5, sec. 6). The value of # is about .0307 and of p about
+.175 instead of .2 M before. The amplitude ratio is then only
+slightly in excess (about 4-per cent) of that previously found-in
+other words the numerical values are such that resonance for 6 m d
+for J&it which is the pre nderating tarm in the expression for q
+occurs i or cotiderably C&’erent values of p but the effect is about
+“
+the same. This may be re rded as va~dating our procedure
+(sec. 6) in maximizing 6 insteaT ofJWt.
+To sum up this discussion of resonance as applied to the a&oplane
+we may say that the frequencies which produce ‘<resonanw J‘ depend
+largely upon the usntity in which the efkct of resommce is to be
+sought and that & e frequency which make9 for a strong resonant
+effect in one quantity may make on another sn eflbct much weaker
+than the maranmm-or it may not.
+There remains to discuss the question whether the ef7ect of resonance is practically serious, i. e., whether as in the case of the motion
+of the mwihine, above treated, the effect faik to make it.df felt
+until after so long a time that the pilot would be entirely able to
+deal with it or the wind would really have in all probability ceased
+to be periodic with the period required..
+Now in order to insure that resonance is etlective both of itself
+and as against the natural motion, we should reasonab~ oxpcct to
+require, lot that the resonant frequency p be large (for J it be s~ll
+the pilot will have am le time to take care of it), and that, 2°, itibe
+reasonabl dMerent ! rom uny natural frequency which is onl
+sIightly J amped (for in the latter case the rnitial conditions A “
+robably be such as to cause the natural and forced effects ta clash
+F a considerable interval of time).
+or
+This probbm in ita generality is so complicated that I have as yet
+been unable to determine whether there ma be racticalIy serious
+effects due to resonan~, but from the CS.SW i~ave ere treated, from
+I
+the
+neral considerat~ons which I have advanced, with duo re rd
+to @ e restrictions on p which ap~ar to be reasonable, and P
+rom
+cases which I have examined mthout mentioning them here, I
+shodd “ud e that resonance is not a practic.dly serious matter in
+longitu d?
+ina motion, and that we may safely confine our attention
+ts of the form J (1 — d).
+to
+of resonance which deserves consideration is that of the
+E
+damp~c!E rmonic gust J@ sin pi. It would be conjectured that
+if — n +@ were nearly equal to a air of roots of A = o, there
+arise a considamble chsturbance. %t is not likely that a
+toft”t
+%
+type would exist in reality, but the commenceromt oY any gust
+mught resemble very closely tie common cemant of such a gust and
+
+.
+
+BEPOET NATIONAL ADVISORY 00~
+
+FOE AERCHTAUTIOS. 413
+
+if the effect of this t~
+were very marked as compared to that of
+the types already conmdered it would be necess
+,.f:m~
+sake of
+foreseeing the worst that co~d happen, to discuss
+%
+I have not time to take the matter up here. Moreover, ~ imagine
+that it would be found that the constants of integration turned out
+to have such values that b gust, though tuned m damping and in
+frequency to the natural motion of the machine, did not have very
+large effects except in cases where n and p were smaII enough to
+aIIow the piIot easily to correct for the disturbance.
+The damped pemodic gust has been treated by Brodetaky ’ who
+fids the amplitude of the articular solution is a maximum ({or the
+machine J.am dedin.g wi t%) when t= 16 see. and is then a tolerably
+large quantity, —but the pilot has a quarter of a minute in which to
+react to his environment. It is, however, b no means certain that
+the pflot would have to react so quickly-t ~ e constants of integration might turn out, as I have just suggested, such that the motion
+during the 13rstquarter minute was not far difkent from that in
+the case of the simple gust. This w= what was found to hap en in
+%
+the case of the pemodio gust above treated (sec. 91. The amp ‘tude
+of the vertical motion so far as the articular solution was concerned
+turned out to be about 5.3?, but & e constants of integration were
+such as to post one the major efiec!t of the particular solution untfi
+30 or 40 secon$ had elapsed. If we have a dampedharmonicgust
+and such a postponement were operative, the damping wotid become
+t might turn out to have at no time an effect
+effective and the
+much in excess o r the maximum efkct of a single gust of the form
+J(l-e-q.
+INMNITWYsHARP GUSTS.
+In my previous paper I discussed gusts J(I-@:)
+risii from zero
+to J mth various degrees of sharpness de ending on the value of
+gust would
+*e
+larger ~, the sharper the gust. b i$nitdy S@
+t would reprebe one for wluch r was mdeflnitely lmge. Such a
+sent an absolute discontinuity in tha vehci~ of r ewind.
+Tkusis
+impossible, though it re resents a state of aerial motion which maybe
+nearly approached. & reover, the MniteIy shsrp gust could not
+strike the machine all over at once, and hence the theoretical &act
+of such a gust on the assurn tion that the machine is inst@umously
+immersed must difEerfrom L e actuaI effect upon a machme running
+into a diyxmtinui~ in the wind velocj~.
+For the reason one may we~ Emit IUSconsiderations to finite gusts
+with a value of r not greater than 5, say, m I did. Nevertheless
+if the calculation of the e&ct of an &tely
+sharp gust is sim ler
+than for a tits gust and if the Iimi “ motion derived for sue\ a
+9
+gust is not appreciably different from t at for a sh
+sonables
+ness, the discu@on of the limiting case %%’&$i#Z.
+%
+Consider
+(r–et),
+r enormously
+‘ ‘he ‘0T+?dE?&m:ae:;b%t2z:i
+D= –r must be substitute b fid the articukir scdution for d.
+k, howevw A is of the fourth degree in % and SU the
+lynomials
+u.n the rig~t hand me of degree 3 or less, the result of r e substitution is easy to find.
+1MronanticaI Jmmdy
+Lmdmj ID16, . Ii%
+20j p
+
+414
+
+REPORT NATIONAL ADVISORT COMMITTEE
+
+II’orexample, when K =EJ(I-@),
+
+FOR AERONAUTKW
+
+I
+
+I~J = – I –e_V@8/r),
+
+IW= –J,
+
+I./J= – @ (.557/r),
+
+IMO
+=0,
+
+18fJ= - @(.02851/#)
+r,/J=@(.028f51/lq
+
+=0,
+=0,
+
+n?,= o,
+1’00= 00
+
+‘l%e equations of motion me
+w/J== r’o’’’(,0009 (3082A3t+ .0032 sin 2.43t)
++&Ou’’(.9991 cm .187t+ .3577 sin .187t) – I – &(.128/r)
+w/J=& w(.1066 cos 2.4% —.0436 Sill 2.43t)
++&”W~(–.1066 COS
+.187t+ .0362 Sill .187t) – @(.557/r),
+1008/J= &“w( -.0402
+
+COS
+2.43t – .0278 sin 2.43t)
++&m4:(.0402 COS
+.187t -.6683
+
+Sill .187t).
+
+The calculation of the constanta of integration is much simplified.
+The terms t+ r are retained because the stresses (forces) due to the
+gust are caku i ated from du/dt and &u/dt ta which these terms make
+an initial contribution-there
+is an instantamwus initial stress.
+
+Whent=o,
+du./dt (.128 -
+
+.004– .008 –.085 – .0i37)J = –.016J,
+
+dw/dt= (.557 -.446 –.106 + .007 +.006)JE .018J.
+These are the initial accelerations and should vanish because the
+gust thou h infinitely sharp begins at zero. That they do not
+vanish is f ue to an accumulation of errors.
+Immediatdy after the initial instant, however, the fit tams,
+viz., .128 and .557, being multiplied by@
+vanish. “The other terms,
+however, bein muhiphed by comparatively slow changing functions
+are not altere%, Hence immediately after the fist instant there are
+accelerations – .128J and – .557J along the x and z axes, respectively.
+To ut it another way, there is a discmtinuity in the stress at the
+initi al!’instant-as might be expected. The amounts of the disccmtinuities are also just what might be expected, vizl X,J and ZtiJ.
+In Eke manner for an u -gust the initial discontimuties in acceleration are XWJ and ZUJ 3 o
+the z and z axes. Thesa reswltacouId
+have been foreeeen from %e dif7erentiaI equations themselves as
+well as from ‘{common sense.” The path in space is not nmteriaLly
+dMerent for an infinitely sharp gust from what it is for a reason‘b%$#’r’”
+“
+erefore be said that a tolerably good idea of what ha pens for sharp gusts may be had from the consideration of infinitef’
+y
+sharp gusts.
+It has just been stated that the conclusions concerning the initial
+accelerations may be foreseen from the differential equations. This
+may be proved as folIows: We have
+(D– Xu)u – Xmw - x
+–gfl=x ~+x.wl+x&j,
+–z#u+ (D–z.)w–
+(P *+ U)g=.b+zwzu,+z
+1,
+– MUU MUW+ (kJD – .M*)Q M=%+ Huwl + 8 &,,
+=
+Dt?-q=o,
+
+(6)
+
+EEJ?ORTNATIONAL ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+415
+
+where the equatiom have been reduced to four involving onIy the
+first derivatives of the four variables u, w, g, 6,.with the imtial condi=D8 as an indetions U=W= =6=0, by the devim of chco y$
+%
+pendent varia le so as ta eliminati the aecmd erwatives.
+These equations determine the first derivatives at the initial
+instant or at any instant in terms of the vaIH of the variables at
+that instant, namely,
+
+At the initial instant u, w, q, 8 varnish.
+With an infinitdy sharp
+vanish@, but as starting at %;?~&:J:l,?q?$$:$:t?;
+are then at the initial instant
+
+The ilrst two equations “ve the X and Z accderations of the
+machine which determine ~ e stresses as the accelerations times the
+mm.
+We have, for numerical vahms,
+Du= –.123JZ+.162JW+OJ ,
+Dw= –.557J.–3.95JW+ OJ!~,
+34Dq = OJW+1.74JW– 160Jq,
+
+ifxq=o,
+if z =0,
+if d=o.
+
+The last equation determines the couple. tending to break the machine, by bending in the z-=plane, on multiplication by the mass m.
+That which I have called an infinitd~ sharp gust is not an% ulaive
+pt.
+The impukive gust is both infinitely sharp and & “tely
+mtanae, but endures for onl an infinitesimal time. The efTect of
+an impulsive ust is to pro Tuce instantaneous changes in u, w, q.
+such an impA e, like tie impulses of ordinary mechanics, puts an
+inflnita sfmun on the machine for an intlnitesimaI time, and the
+only wa to tell whether the machine will stand the strain is to take
+the yiel &- of the frsmework into account-it is a problem in elaase of calculat@ the sfre.sses produced by
+tici . For the
+P
+on % e machine %T erefore prefer the sharp gust to the impu ‘ve
+gust.
+
+For the purpose of treating the motion of the machine after the
+gust strikes it-the gust being now a sudden fierce squall in othery-iae still air-w! have mey$y to detemuine the constants of integration frqm the-nutd conchtion w, .~~, gO,and 6= O, where WO, O, O
+w
+me the rmpukuv+y genmati veloatia.
+These equations are (p. 617 :
+uo=A+l?,
+W,= –4.0L4+34.5(7–
+
+.1053D + .002587D,
+o = - .132A– .09460+ .00247823+ .005799D,
+q,= .7c13A+ .2050– .001246D + .000084D.
+
+(9)
+
+—
+
+416
+
+REPORT
+NATIONAL
+ADVISOIW
+COMMITFE33
+FORAERONAUTICS+
+
+halytically the sfhct of the impulsive gust upon the
+uations
+for determining the constmts of integration is merely to rep ace the
+7
+initial values of the articukw solutions Im, IWO, y, Z’ ~, obtained
+I
+On the hypothesis O iinita
+–tlg. The effect of t F@’chstur ante may therefore be calcuF
+e
+b% ‘e ‘e’pwhve ‘dues ‘%’
+~$~ ~~ once from m equations (23), (24), (25), (26), as soon as the
+values Uo,w q have i een determined.
+In the c~cu!ation of u,, w,, q,, tha same doubt arises as in the
+theory of any very sh~
+immersion of the machine. ~~f;~;pof?bip;g$?~~~~:
+mechanism the same as that of the blow a plied instantaneously at
+all pqinte of the mechanism? The possit ility of a difhmco between the instantaneous immersion and the immersion diqtributcd in
+time would ar.kieonly if, 1°, the machine had time enough to cha me
+its orientation ap reciabl~ or, 2°, the acquired velocities were s 3 1cient to change tEe rehtme wind and thus tiect considerably the
+im ulshe pressure.
+i ven if we assume that no matarial difference in effect is to be
+expected, iti &fEcuIt, to make the proper assumptions to lead to
+reasonably satis+c~ory Ta.hm for % Wo,go for an actual machiue
+whose charactmstws are -expreese in tmns o? the mechanical
+d
+Cm
+fEcients m, M V, and the atkodynarnical coe%icientsX= X., A“m
+2. Z., Zg, Mu k., Mr It is by no means cartain that ~or a ‘con~erable a&ia~disturbance the finit? insk.ntane.us changes in u, w,
+g can be caic~ated from the e uations (8) b replacing D by the
+L
+sign A for-the increment and -ta ng Jtil Jw, J as the intensities of
+the impuknve gusts; for *e mne coefEc1ent92=, etc., vary with the
+intmsit of the relative wind.
+It is 1or this reason that I have used finite gusts of.v~rious de=g~
+of sharpness instead of impulsive gusts: Moreover, It IS ?wt c@am
+but the fini~ gust re re~Sm&l~ore nearly actual conditions m the
+is ata E
+air when fl
+with an introduction by Bryan, has rAn artiP e by Brodetsb
+“
+‘
+centl~ reached this country~l in which impulsive gusts are considered,
+relatme to Bryan’s skeletin a~roplane consisting of a forward main
+plane and rear tail plane. The discussion is both intirest@ and
+m ortant as is everything to which Bryan, the eat pioneer in this
+su1!
+ject, sets his name, but it does pot seem to r elp me, so far as I
+have yet been able to examine it, m regard to the effect of an irnat upon a rnaobine whose pro erties are actuaUy depdsive
+termineF in the wind tunnel. I have tier 3 ore decided to let stand
+the brief general considerations above.
+THE ACTfONOF THE AIR SCREW.
+In the work to this point, I have made for the discussion of gusts
+the same assumption concerning the action of the propeller thah
+Ihmsaker Bairstow, and others have made for discussions of stabiLity,
+namely, t~at under varying conditions the motor speeds up or slows
+down so as to deliver a constant thrust along the z-axis.
+It would be equally reasonable, from some oints of view more
+reasonable, to assume that under changing con c!“tions of relative air
+vakwity a motor speeds up or SIOWS
+down so as to deliver the same
+I~ati~
+
+JoumaI,
+London, 1016,
+W,
+M9-166.
+
+efkotive horsepower. We should then have the power P equal ti
+the thrust E (taken positive) multiplied by the veloc~ty – ~
+–(H+W)(Z7+U),
+P = –EU=
+UdE+uH=O,
+dH= –E;=
+
+q
+
+(lo)
+
+–P%.
+
+This is am additional force which is directed along the X-axis if
+the propeller shaft is horizontal for the velocity of flight – U. lf
+in the standard condition the shaft is noti horizontal thare would be
+ccmponente
+–P~Cos
+
+a,
+
++P2@
+
+u
+
+alo -the z aud z m,
+a being the angle from the horizontal up to
+if the shaft did llOt pSSS
+the% eotion of the shaft. ~OrO
+avity there would be a pitching moment
+through the center of
+–Phuf V if h is the %s.tance of the line of the shaft ebove the
+Cents of gravity.
+The equations for the natural longitudinal motion would then be
+Pg
+(D–xa+~m)u–x.w–
+
+(11)
+
+(x@+9)6-o,
+
+the o.t$er two equations remaining unchanged, ~ wet~~h
+f%
+that a=ii=o.
+The effect of the v
+Simpha
+-%
+= –.128 for
+We have the vrdue
+oh-qe % ~ to X= –Pg/mlP.
+~
+macbme. E the effective propeller horsepower were 87 for
+= -115.5, the vtdue Pg/mW is
+P
+m
++
+
+,
+
+87x550 x32=.W
+= 1800X 13350
+
+-
+
+The moMication of the equations of motion on repkc”
+?
+=-.12!
+by X==– .191 would make an appreciable, thoug
+
+X=
+not
+
+%~;s~;AwouIdbecome
+34.W+290.8-@+850.9~
+
++ 165.1D+31.18
+=34(@ +8.553DS +25.0~
+
++4.856D +.917)
+
+as compared with
+34(D4+8.490D+24.5CD+
+
+3.385D+.917).
+
+The rapidly damped oscillation woul& as a first approximation, be
+–4.276&2.596i
+
+instead of –4.245 &2.545i.
+
+.
+
+The first approximation for the small root wouId be
+–.097&.177i
+
+instead of –.069 &.181L
+
+The damping would be more pronounced and the oscillation a trMe
+fest%r.
+It may be concluded that whethe~ the screw is supposed to
+deliver a comtmt thrust or a constant power is not very rm ortant
+to the theory either of stability or of gusts. It is not unlike? y that
+291660-s. Do&w e5-2-27
+
+-.
+
+—
+
+418
+
+REPORT ~AmONALADVISORYOMMLM’EE
+C
+
+FOE AERONAUTICS.
+
+the actual behavior of the screw lies within the limits set by these
+two assumptions or sufbiently near to one of the limits to validata
+themy jfwatll.:hh
+Otllesis.
+..
+2 Jourmd, Imdon
+20, 1916, p. 142, quotes
+Bairstow and Fage as giving the form~a
+v in m.iltM
+per hour,
+= -.ollHdv
+V in feet per second.
+WhiCh is
+::=
+– .0073 Hdti,
+With U==115.5 numerically we would have for constant power dE= - .00866BdV,
+
+V in feet per second;
+
+.
+
+and, if I understand correctly the use of the signs + and - in the
+quotation, the results are in as good
+!%%$’:
+in vie~ of the fact that I haye no %o?groK!:
+for whmh the data quoted are gwen. (If ~he motor and screw were
+ed to give a maximum efhmncy at a standard speed
+exaotiy d
+U, we coul not expect the *c@cy
+T
+to be the same at relative air
+speeds either higher or lower, and this would slightly influence the
+result.)
+EQUATIONS OE LAT’ERAL
+F
+lllOTION.
+The differential equations for the lateral motion of a machine in a
+gust may be written as (p. 54):
+
+dvfdt +g~ + Ur - Y~- YPP - Y# = Y.vz + Yppl + Yrrl,
+A/m. dp@-Lev‘-*=LV’’%W?
+O/m. drldt - N,v - 2 ~p - N#= Nvvl -t- ~p, -f- P,,
+where the terms invol “
+~~~eep
+negleoted Y
+an
+
+(12)
+
+the small unknown product- of inertia E
+gusts of the type v,, p,, r, have ken
+
+The &t Vl corresponds to a side wind. A ohange in the die would produce such a gust evau
+tion of the wmd by a small
+in absence of any chamge in Y e wind velocit . The gust p is a
+t
+to produce a bank. as a & turbance in &e air
+lwoul 8“’corraspon to a horizontal roll’er run into end-on (axially).
+‘tw
+‘%
+The gust rl corresponds to a column of sir rotating about a vertical
+line.
+This last is a common type of aeMaIdisturbance, easil observed
+on a warm day, often of very smaJl diameter compa NJ with the
+s~read of the of an aeroplane, and accompamed by a strong
+rLsingcurrent of au. Such a vertical vortex, if small, nught strike
+one wing of the machine alone, and, due to the rising current heel
+it over suddenly. It is, however not this small local disturbance
+which we can consider by our met&ds here, but the larger and more
+t immerse the w ole machine
+gentle rotation in the w which
+v
+man . times over and which ro uws a yawing motion in the
+e ra~er than (primarily? a roll or bank
+.&n
+3L Place D =d/dt. Then the equations are
+(13)
+
+where kA2 == A/m and k2 = O/m. me
+ing determines the natural motion is
+A=
+
+det~t
+
+g– YPD
+7c.’g#
+P8
+
+D-Y,
+–L
+– N,
+
+419
+
+FOB AEEOXA~CS.
+
+BEPORT IWTIONAL ADVISORY COMMITTEE
+
+‘ho=
+
+‘tih-
+
+U1~
+WD – N, .
+
+Let the oofactom of A be
+
+8.= k~~-6–
+~n = :$,
+
+N,
+
+:2
+
+= –59.55D -26.55,
+
+my
+
+= –32.84D’ –280.7D,
+&l
+—~ D
+kc’D —NT = _ 2270D _ 868.8,
+6== g– !YPD U-Y,
+D–Y,
+U–Y,
+~=
+=70.6D’+44.5LJ + 109.9,
+n
+– iV, kc’D-iV,
+
++27.15,
+where the numerio.d values am those arising from the data dtied
+for the Curt&s Tractor (which is the machine under investigation) b Dr. J. C. Hunmker M @~
+on Pq%e78 of ~
+aP%
+“Dymmnioal ikbtity
+of AeroPIanes, Smithsonum Misc. co5 94X.,
+Wasbin@m, VOL 62, No. 5, pp. 1-78, 1916, nsmdy,
+Y,= o,
+Yp=o,
+Y,= – 0.248,
+: ~;;~
+3
+$:
+C314’
+3,1?:%2,
+kLa=36.7+ , kox=70.6– , ~= – 115.;, g=3~.’l7.
+The value of A is then (D- Y,)&+g~U+
+A =2592D’+ 23780P+
+
+~fiu or
+—
+
+18000D’ +3461oD – 854.
+
+This result oheoks with Hunsaker’s (loo. tit., p. 78) as well as probable. The equation A = O may be written ss
+~+
+
+9.172D’+6.943D’+
+
+13.35D–O.3295 = O.
+
+32. From the last two terms, one root is indicat~
+=0.02468; and the correction can readily be found, @@
+D =0.02436.
+There is another root near D= – 8.5, the exact value being
+D= –8.542.
+
+as D
+
+420
+
+REPORT NATIONAL ADVISORY COMMIl?133EFOR AERONAU!IZCS.
+
+The other factor of the biquadratic equation is
+D’+0.6537D + 1.583=0,
+of which the roots are
+D = – 0.326.8+ 1.215i.
+The cornplarnentary functions for v, O, and r are therefore of the
+form
++
+cos 1.215t+ ~1, sin l,216t],
+v = clle”oz~at Ou&W# +r8n’t(&
+~= Q,,e”nuet+Oafl.’o’+ram’(O,,
+cos 1.215t+ 024sin 1.215t),
+r= ~ueow@8t 0m@oS42# crma~(~u cos 1.215t+ 064sin 1.215t).
++
++
+t may be represented as .1,,
+The particular integrals for any
+1~, 1,, arultheir initial vahm as Im, F Iq, the derivative of l+ lmng
+~,
+l’~ with the corresponding initial values 1
+“M
+Ifj as before (p. 59), we restrict the poaiu e gusts to those of which
+the functional form N difhent horn an of the four functions entaring into the complementary functions, & e particular solutions must
+on substitution, annihilate the righhhmd metnbera of the d~erenti~
+equations, and the relations between the oonstmds Otiof integration
+may be determined from the two equations
+(D+ 0.248)v+32.17@ - 115.5?=0,
+0.894v +0++ (70.6D +27.O)r=O.
+Hence,
+,2724Q,I+ 32.170n– 115.5Cn=0,
+.894Cti+ 00,1-1-28.72CU=0~
+and
+Further,
+- 8.2940n+32.17Cm– 116.50a =0,
+.89401~i-OOa- 575.80a -0,
+and
+
+.
+012=3.797C*,
+
+c.=7h05897c..
+
+Finally,
+–.07880,,+
+
+1.216014+32.17&-
+
+115.50’’=0,
+
+-l.215(?16-
+
+.0788C14+32.17CW– ~~5.5~H=0,
+.894Qu+3.92Cm+ 86.74UU=0,
+.894014 85.74& + 3.920u = 0,
+-
+
+and
+01,= 1041CM+564.80%,
+
+I&= -6.3710%+
+
+10.66(7%,
+
+014= – 564.8CU+ 10410Z4,
+
+OS,= -10.56028 – 6.371cw.
+
+REPORT NATIONAL ADVISOBY COMXITIXE
+
+FOE AEEONAU!CICS. 421
+
+The solutions therefore, so far ss concerns the comphcnentary
+function, are
+#= ~le”-”+
+
+~~w’+~’’’(cm
+
+cos 1.215t+ (7Xsin 1.215t),
+
+v= –8.326C..e”02ast
++3.7970&sUt
++r&w’~1(1041 On
++564.8du) ~s 1.215t+ (–564.80.+
+1041C,,) sin 1.215tl,
+r=O.25710ne”*U6t+0.005897 &.#-f
++ rm~(–
+6.371(728
++ 10.56C2,) COS
+1.215t– (10.56C..+ 6.371) sin 1.215~.
+Three equations determine the relative magnitudes of the various
+soti of natural motion.
+The flratterm istheslowl
+am - “
+be@ S@ht& unstable bte ~.$.
+$%e
+&~=m~&ti ss to induce
+~Ctie
+a Iateral velooity of – 8.326 ~, it induces a bank of ~ an eighth
+as much in radians or seven tuum a9 much in degrees. fit is therefore clear that ordy very smrdl values of 0. are adm&ible for safe~.
+The second term, cmreepondiug to the rapidIy damped motio~
+shows such rapid damping that it oan hardly be of importan~
+except for ossllle shams on the meohanism, *
+On is so
+e
+that the wI ole work is inapplicable bemuse of the failure of%
+motions to be smalL
+The “ onometrk terms show that the oscillation m a will be of
+great. amp “tide oompared with that in ~, the factor being about
+Y
+1200 when is in radmns or 20 when @ is in degrees; eveu the osoillation in r vi % be over 12 times as great as in . In other words, tie
+t
+machine may have a
+e oscillatory side-s ‘p or angular veloci~
+of yaw without much b
+% , but for the divergant motion the bank IS
+a serious matter for even moderate side-slip.
+The initial conditions @=p =v =~ = Ogive
+
+O=C.+19 +C=+r
+O= .02436~ –8.5422= – .3268~ + 1.2150h+ ~’ti,
+O= –8.326&F3.797G=
++ 1041~ +564.8~ +lW,
+O= .2571L7fl .005897Q=–&371 dn+ 10.56&+ &
++
+These equations must be scdved for the four constanta G
+G!= – .98391ti-.l1481’ti + .0007401m– .027971~,
+=
+U = – .000149&+ .11701’W– .0000342& – .011631’,
+d= –.01595ZA-.0021531’,0 -.0007061W0396&6&
+&=.014681w+.0014661’a.00045371n–.07201&.
+
+P
+
+=-
+
+422
+
+REPORT NATIONAL ADVISORY COMMITI’1313
+FOE .4EBOKAUTICS.
+
+or
++854)uI + (713~
++ 2732) ,–(112560D+
+1104700D)rl,
+A+= (–59.65D -26. 55)DvI + (- 22160$ – 13970D
+– 34510)pl + (3895Da+970D +3062)rl
+Ar= (-32.84D-280.7)D$,
++ (–9030)p,
++ (-992DS -8724Da - 2103D +854) r,,
+with
+A= 2592D4+ 23780D’ + 18000D +3461OD -854.
+/iv=
+
+-9522D’-346IOD
+
+(-W(W
+
+MOTION
+
+IN LATERAL
+
+GUSTS.
+
+We shalI take as before the type J(l –e-)
+gust.
+Owe l.-Side-gus-harp.
+
+VI=J(l - ~).
+
+1, -J(–l
++.o1473&),
+I* =J( – .001028)@,
+1’~=J(.00514)e*,
+~ =eJ(.002706)&,
+@=
+
+- .000384J,
+
+@=
+
+for that of a single
+
+1.= – .98527J
+Iti =-. 001028$
+I’* =
+In = R:+o%j
+
+.0005364J, P=..0008O9J,
+
+P=
+
+.0002445J.
+
+The equations of motion are
+1000#/J = - .384e02W+ .536@&u - 1.028@
++e-’2@(.809 cos 1.2151+.2445 sin 1.215t).
+This is all negligibly mud.
+be negleotsd m v and r.
+v/J= .003e-
+
+For the same reason oertain terms may
+
++ .002edW
+
+– 1 + .oI.473@
+C43S 1.215t- .2022 sin 1.215t),
++ rm(.98
+~S
+1.215t
+100r/J= - .Ole”’au + .2716+ -r=(.257
++ 1.009 sin 1.215t).
+
+The eflect of the sharp side-gust is to carry the machine sideways
+of the air blows
+with it, but not very owerfuUy at &et-much
+through the maohine-t L dominating term at &et being
+v=- .2JcW
+sin 1.215t;
+after a few .pecon@ the dominatin term is v= -J, with the v
+2 ective onl after a considerab e
+Y
+~A~ly ~~u
+p&%y\~;i
+oscillation, 1 ut the extreme a.n#e
+of y~w is only about O.OIJ radnms or Jf2 degrees-the angle being
+oomputed as
+100#/J =~
+
+0
+
+100r/Jdt== .4(1 –NWM) + .054(1 –d)
++rm~(.8316
+
+– .8316
+
+cos 1.215t+.0122 sin l,215t).
+
+The actual sidewise vdocity is compounded of v and the amount
+– 115.5+ due to the yaw. Hence
+Y-
+
+‘
+s
+
+o(v– 115.5#)dt.
+
+BEPOET NAT’O?NAL ADFTSOBY COMMITTEE
+
+FOR AEROXAUT’OS.
+
+423
+
+For this calculation v and 4 may be simplified to
+V= –J+Jrafflt(cos
+1.215t– .2 sin 1.215t),
+100# = – .37&T– .4Je-mat +Jr=W/(.832 cos 1.215t);
+
+and
+Y - –.56Jt+
+
+18.5J(e&W–
+
+1) – .146J
++Jcr~~~(.146
+
+COS
+
+1.215t+ .066 sin 1.215t).
+
+From this it will be seeu that the oecillahy motion is, so far se
+concerns the lateral displacement, of very small amplitude. The
+tit two terms -which are progressive, are the ones which count.
+hforeover, the
+Iaoement is of the same sign se J although the
+side-slip V is of% e opposite sign. This ap qsnt contradiction is
+due to tie change in orientation $– the macL e moves away from
+the gust owing to the lateral excm wind pressure, but turns into the
+gust owing b the moment of the pressures, end by virtue of the
+great forwsxd velocit , thisturning morethanmaksu p,inthedisplacement, for the si$ dipping.
+&se Z.-Side gust-mild.
+V1=J(l –~~).
+1 + 1.0205r9~),
+I.=J(–
+1+-J(.0004043e-’t),
+I: %%ii3J,
+I’& = – .0000809J,
+l’frllS%i%RfS;;’
+In=– .001514J,
+o
+011- – .000331J,
+‘z;:~iig;;~
+0=- ‘O~~07J,
+It is againseen that there is radically no rolling motion produced by the side gust. For v anx r,
+
+v/J - .0027e”mU% + 1.0205tr2t
+—1
++~m=t( –.024400S 1.215i+ .1554 Shl 1.215i)j
+100r/J = – .008WMW – .1514v2:
++~wt(.162800S
+1.215t+ .067.2sin 1.215t).
+Cl!he check v=O, r=O when t=O, shows that the accmraoy has
+been reduced so that he third place is not sure.) The etleets of
+the gust are ualitatively as before. The oscillati
+motion is not
+pronounced; t e ultimate siddip doci~
+is –J; ~e ultimatedis%
+placement has the same sign es J beowse the divergent tmn in
+v —115.5$ is positive.
+&se 3.-Side gus~sdatiry.
+‘W&n one examines the records
+made or making at such an observatory as Blue Hill for gustin=
+in the air} no phenomenon is perhaps mores “ . than the reasonably periodic side s-witching of a reasonabl 9
+stea y wind. A south
+-d’ southsou west or hours at a stretch, as Prof. Alexander
+and fOr=m#!e’
+‘fwhpbwkudforgbem-mubutiemt
+hlcAdie has been kind enough ta show me on some of his records.
+In the absence of rotary motio~ concerning which I am unable ti
+find satisfaotorg data, the simplwt way to ilgure this change in
+direction is as a pexiodic side
+t. A machine gosouth in such&
+wind would experience an arternatiing side gust. %
+e osoilIations
+in the head-n velocity of the wind would be relatively very small
+except for actual changes in head-n veloci~ su erimpaed upon the
+ckmgee in direction.) It is therefore qxwia $ y interesting to die-
+
+424
+
+REPORT NATIONAL ADVISORY COMMITTEE
+
+FOR AERONAUTKM.
+
+ouss a periodic side gust-this being the only periodic ~st of which
+we can reasonably be said to know an thing at all dehte.
+Let v =Jt?@. We may assume, ?rom our work ‘above that the
+rolling motion will be small and that the side-slip velocity v will not
+be of as much importance in determining the path as the a le #
+coupled with the large forward velocity. The complex wdue Y r is
+o
+T=
+
+(280.7 – 32.84pi)p3Je@t
+2592pd - 18000~ – 854 + i(34610p
+
+– 23780~)
+
+If at any one lace the period of the com lete oscillation M 2r/n
+with the wind v 3 ocity V, the distance trave1’ by the wind during
+ed
+the time of an oscillation in direction is 2rV/nZ and this is the distance between the nodes of the motion. The tune re@rcd for this
+maohine ( U= – 115.5) to pass over the distance 27V/n M 2rV/115.5fi
+The periodicity of the gust as it appeam b the operator of the machine
+will therefore oorresyond to the ?alue p= 115.5n/V. For instance,
+if V= 20 and the tune of an osculation at one spot were 10 sees.
+so that n= 0.63 the wdue of p would be about p =3.6, and the
+oscillations wo d d appear to the pilot as taking place about every
+l? seconds. A S1OWW
+oscillation? 1. e., a longer periodic time, would
+chminish n and p, - an oscillation at one spot every half minute
+corresponds to a wdue p= 1.2 on the basis of the assumptions made
+above.
+In considering the values of p which make the am Iitude of r 1 e,
+the only hope is to make the term 34610 -23780 $ tolerabl sma .
+Y
+must be about 1.5. For & “s value, the mod J us of r
+This means
+is about .03r and the mod@s of the awing oscillation corrcspondi
+will be about .025J. If a wmd of 20 [ oot-secomls is whi ing throu
+an angle of 45°, the side gust will be onl of about $+ oot#3con ? s
+semi-am litude and the angle of yaw will i e in the neighborhood of
+0.173 ra 1’isns or 10°. There is nothing to indioata that this would be
+fatal, though it would surely be a nuisance.
+Owing to the fact that the coefficients of; in both numerator and
+denominator are relatively small, the angular velocity 1, would be
+about in phase with the gust vi, and hence the an le 1P wcmld be
+about quartered in base, Jf there were periodic & y an angle of
+10° or 12° betwea #he direotion of flight and the relative wind, we
+should fmd that we were ettin into a region where considerable
+rob~ and pitching might 5“$ m uced—for as Hunsaker haa shown
+e
+(loo. atti p. 62) the lateral and longitudinal motions are not strictly
+indepep ent* but as the machine makes the major part of the relw
+tiye wind, &e direotiions of flight and of the relatme wind never
+&ffer greatl -only some 3° at most in the case under consideration.
+It seems i ardly necewary at this time to o into the calculation
+of the actual motion o enough has
+rhaps % een accomplished in
+showing that the osoi$tion of the ? mection of the wind reduces at
+most a moderate. awing of the machine. The semiamplitude of
+115.54!would be, J J= 7 foot-seconds, about 20 feet; the oenter of
+avity of the machine would sway back and forth across the line of
+~ “ght with a total amplitude of 40 feet, until the divergent term
+became ellective.
+
+~ORT
+
+FOB AFZLONAUTICS. 426
+
+NMTOKAL ADVISOBY CO
+
+@se J.—Rolling gust. p -J(1 –d).
+action between v, p, r, -tie ef$ect on rding
+figured from the equatum
+36. 7Dp+314p=
+pjJ=
+
+–
+
+&
+
+055~~
+
+If there were no interof a rolling gust would be
+
+–314J(l–t@),
+
+J
+
+t &.=(1 – ~&,
+0
+
+~uemeane that for any ordin
+r-e%
+–J and @ the value –%&&S$!p$!%{ii%!
+expected &at unl= J is v
+small indeed, the motion will be much
+dietur}ed.. There will be T eveloped a oomponent of the weigh~
+induomg siie dipping, and ~awing wdl rapidly deveIo~the
+maohine
+ap srently goes off on as md dive.
+% e may make the talc L tiona in detail when r==1. Here
+I$J= –3. 14–.ll4@,
+I~J=40. 4– Ll@F
+l@/J= L 16,
+&/J= 10. 58–. 234&,
+C..=. 0027J,
+c,, - –39. lJ,
+
+I@= –3. 25J,
+1*-39. 3J,
+I’fi= 1. IJ,
+In= 10. 35J.
+Cm= –. 219J, C,d= –. 163J.
+
+‘Ilhe equations of motion become
+4fJ= –39. L#-+
+
+. 003~Jet+40. 4– 1. 1+
++e-~~(-.
+219 COS 215t–. 163 Sin 1.21%),
+1.
+v/J= 324eWQ+ . O1O3*
+– 3. 14–. l14ti
++~J2~(–320
+00S 1. 215t+49. 2 sin 1. 215t),
+r/J= – 10t@4a -!-10.58 – . 234fl
++~m(–.
+33 00S 1. 215t+3. 35 sin 1. 216t).
+Ih the equation for @ the effeotive terms are
+#/J=
+
+–39(&&~-
+
+1)= –t(nearIy),
+
+and there is a stead divergence in # to the ap rofiate
+amount
+–Jt as foreseen. d e side-ways velooity w deve ope more S1OWI
+5
+,
+perhaps, but after one mound amounte to something like 300J. f t
+B dear that J must be very small or the motion beoomes disastrous.
+It wouId be of espeeial interest to bow what sorts of
+“tudes
+for J are likely to arise in f@ht under normel conditions.T
+so fsr
+es ezprienoe shows that machines are not Iiable to roll and side
+slip, ~t is pretty good evidence that aeriaI rotary motion with axis
+parallel to the earth is rare and small.
+CIW 6.—Yawning gust.
+
+FI=J (I–e+).
+
+Iv/J= 25.67@,
+Id/J= – .0792 +.154&,
+I’+/J= - .154e_t,
+TrfJ= – 1 – .1235&,
+on= –.006J,
+C.= –.006J,
+
+0.=
+
+Im =25.67’J,
+I* - .075J,
+r = –.154J
+.I.mi,
+c
+–.otiz
+CW=U.0702J.
+
+.—
+
+426
+
+REPOET NATIONAL ADVTSORY CO~
+
+E FOR AEROI?AUTIOS.
+
+In thiEcase the motion is
+#/J= – .006e0*~ – .006@.8at – .0792 + .154e_f
++@WW(_ .0634 ~0~ l,215t+ .0701 & 1.215~),
+.023t#~ae + 26.67@
+v/J = + .05eWm~—
++rm~(–
+26.36 COS 1.215:+ 108.9 sin 1.216t),
+.145 cos 1.215t+ .222 sin 1.215t).
+r/J= – 1 –.123t&~+@’m~(l
+For moderate vahms of J, there is nothing serious indicat.d. The
+coefficients of the divergent terms are small. There cannot be much
+roll. The most noteworthy phenomenon is the Iarge amount- of
+side dip which is fairly rapidly damped out.
+This leaves the rolling gust as the only dangerous type of lateral
+gust.
+The infinitely sharp side gust would produce an initial acceleration
+YJ.
+CONSTMINEDAIRPLANES.
+Suppose now that b some autom@i~ stqerin device the aero@ane were constrainJ to mm.ain polntlng m t%e same direction,
+1. e., so that r= O identically. The equations of motion become
+(D -.Y,)v + (g– Y D)@= Y,vl + YPpl + YP1,
+–L,v+(kJD-~
+)D~=L.vi+L
+pi+~i,
++
+– N,v– NPD#J fivV1 ~pp, + dpl + ~,
+=
+
+(15)
+
+wherq Fin is the moment nec
+to maintain the constraint. The
+T
+last equation may be regarded as etmmining F.
+The natural motion of the constrained machine is found from the
+determinant
+A’=6a=36.7D
+
++323.1DZ+77.88D +27.15 =0.
+
+This is a cubic quation which has no positive root.
+The negative root is – 8.64. The quadratic factor remaining after
+division by D + 8.54 is
+36.7D2+8.746D+3 .18=0,
+of which the roots are
+D = – 0.119 +0.269i.
+The real part is negative and hence the motion is dynamically stable.
+The introduction of the automatic device has removed the instability in the lateral motion. & compared with the complex roots
+in d e free motion, these roots indicate a much slower period and a
+considerably smaller damping.
+On the other hand sup~ose that the constraint had been such as to
+keep the machine level, ]. e., @= O identicdly. The equtions wotid
+have been
+(D – Y,)w + ( 27– Y,)r= Yovl + Ypp + Yr%
+–L,V–>=L,V1+LPP
++@,+
+,
+.7),+ p, + Nrr,.
+&
+– &V+ (ko2D– N,)? = &i
+
+(16)
+
+BEPORT KATIOIUL AD71SOItl?
+COMMITTEE
+
+3?ORAERONAU!l!U3Ss 427
+
+The natural motion would have been determined by
+A’~x=~a=70.6D2+44. 5D+ 109.9 =0.
+The roots me
+D = –.0.315 &O.237i.
+The machine is again stable.
+It follows that at high speed b
+Chrtisa tractor, which is laterally
+unstable when free, becomes quite stable when cormtrained either to
+remain on ite course or to fly on even keel
+If stabilizers against rolling and turning were provided, the motion
+wouId reduce to
+(D – Y,)v = Ywvl + yPp, + y~,,
+
+(17)
+
+and would be stable, D= 1“~==—0.248.
+It would be a reIatiively easy matter to discuss the effect of gas%
+of various types on the airplane constrained in various ways;
+two equations are much easier to hmdle than three. IJntil some
+definite problem is proposed as im rtant, until some particular conY
+stmining device is indicated as like to be adopted, it maybe as well
+not to go into the oalc@atione, A “Ch are CfuitaStra” tforwad
+b roll@g mighk be worth &
+, md-wouId
+That a oomtrarnti
+gusts were a common
+, is
+r
+rndeed be very valua le if m
+%
+%
+he machine w 42)
+em
+sugg=ted by the work done on
+gcstinesa was seen not ta be very serious except for & e rolling gust,
+DISCUSSION MEIIKOD.
+OF
+I pointed out m my earfier paper that there ware several outs
+te must be small.
+about my method of treating gusts. First the
+If they are not tolerably snmlI, flying would Y e too diftlcti~
+that assumption is not whoIl unjustdlable. Second, the calculations for determining the in Ci!
+.Vidual equations of motion tmd for
+determining .formuhw for tie consilmts of integration are very
+tedious. I&llrd the numbers me of such various magnitudes that
+the arithmetictd operations which must be carried out cut down the
+accuracy of the work a good deal and indeed, unless
+at care is
+taken, wilI lead to ihory
+or incorrect resdts. This Yoes not a f
+peartobeduetoanyv
+rapid variation of the true results ca Y
+culated from varying data ut to the mode of computing.
+TO offiet these inconvtinces
+we have *9 mtisfacto
+muIt
+T
+that once the preliminaW calculations are made mmy an varied
+es of gusts may easti be trea~
+and the fur&r vahmble result
+F at tie actual motion f or each case is knowm so that not only the
+initial motion is determined but the whole extent of the motion.
+This last is necessary for my just appreciation of the effects of
+periodio gusts and rescmanoe, ~ haa been shown.
+a recent pa er ‘e’odBrodets& an
+by
+‘or ‘o?
+0’ -’Tr&5%&!o~.k&!&ti:
+motion an forced oscillations of a disturbed amplane,” Aeronautical Journal, hndon, 20, 1916, pages 138-166, which has shady
+been cited in the text.
+
+—
+
+428
+
+REPORT NATTONAL ADvlSOEY COMlkITTEE 170R&EltONAUmCA
+
+Much may be mid for their method of e amion in series-for
+some problems the work is decidedly simpler% an with my method.
+It has bean my experience, however, that the a lication of series
+to the motion of any airphme has its own A
+ulties and complicated calculations when the motion is to be followed for an
+reasonable length of time snd especidl~ if the machine is defi~J
+as I have always preferred to regard It as deiined, by the actua~
+coefficients determmed by wind tunnel experiments rather than as
+Bryan’s skeleton lane consistin of a main front plane plus tail
+lane-even tho & the results o%tained from such a skeleton may
+%e extended to more complicated machines by Bryan’s invariant
+me&ed.
+(See his Stability in Aviation, Chap. VI.)
+estiort therefore arises whether there may not be some
+way of a ridging the calculations leading to the actual motion of the
+T
+machine. Since finishin my work above, I have reoeivod the Provolumw15z1917,part tl~
+ceedings of the London Atiemti@l&ciety,
+in wluch there is an article on “Normal coordinates m dynamica
+systems,” b T. J. I’A. Bromwich, in which he develops a method
+of treating & e motions of dynamicals ternsby means of the theory
+of functions of a complex variable. ~wish, m closing ta &cribe
+the ap lication of Bromwich’s work to the probkun in hand.
+We i ave to solve for the longitudinal motion equations of the
+type
+(D–X&-Xtiw-(X~+g
+)ti=Pe~~
+Zuu + (D -Z.)w–
+(Zq-t U)n? =F!#J
+(18)
+=P@,
+- MWU ~WW + (k~a~–i&D)6
+–
+where u is a real or complex number, the values we have used being
+0, -r, *pi,
+We substutite
+
+(19)
+
+where the integrals are loop integrals in the compknr plane and
+& q, t me my functions of h. ne ra~ti me
+
+(20)
+
+REPORT NATIONAL ADV’ISOEYUOMMI’JTEE FOR AERONAUTIC%
+
+We
+
+429
+
+next set
+(X-p+g)f
+
+(X-XUR-X.T–
+
+=PJ@–P),
+
+–Z.:+(k–z.)?– (Zq+U’)M-PJ(3-P)l
+– M&– M.q+ (la’–
+
+(21)
+
+qm=pgm-d,
+
+and solve for & q, t, finding
+
+(22)
+
+A=34@4+8.49M+24.5N
+
++3.385A+ .917).
+
+Bromwich shows that, if with these values of& ~, ~ we take the
+loop integrals (19) around a very large circle, the results for u, w,
+6 wiU be the solutions for the motion disturbed horn rest at the
+position of equilibrium by the impressed forces P. As he points
+out, this integration is equivskmt to theof the integrals around
+iufinitasimal circles about k=p and about each of the roots k of
+A=O, that is, the integd is
+ual to the sum of the r&dues of
+*,
+new, ~~. There is no nee to calculh any constits of in%
+tegration. Moreover any of tie quantities u, w, @ can be obtained
+without the othem. The numeratom in & q, t are already calculated
+in (20 a, b, c) of page 59.
+We have, for example, for a head gust ti~,
+.128hS+ 1.16XZ
++3.385h+ .917
+f=
+(J-K)(A+4.18 +2.43i) (h+.0654+ .187i)E’
+
+(23)
+‘
+
+where the double sign stands for two factors, and ~ =J(l – d),
+to take a particular case. The residues at each point are meml
+tie valuee of the flaction when one of the factom, the one whit i
+int, is thrown out of the denominator. In the
+vanish= at that
+&t case for 1 = r we have as residue of $ekg=~:
+at A= fi=O,
+.,
+.917
+– (+4.18 +2.43i) (.0654 +.187i) ‘l;
+at h= —4.18 – 2.4SI
+.128X’+1.16V+3.385A+.917
+– (–4.18+2.43{] (–4.86$ (–4.12–2.43i+
+at h= –4.18 +2.43i,
+so on. To treat&we
+atx=p=—1,
+
+the conjugate
+should have:
+
+and SOOn.
+
+.187{);
+
+imagimwy expresiom
+
+–.128+1.16–3.385+.917.
+(3.18 +2.43i) (.9346 *.187{) ‘
+
+—
+
+And
+
+430
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR AERONAUTIC%
+
+As the calculation @h
+imaggnsries. involying squares, cubes,
+products, and quotients m by no mesns mnple, lt m clear that to get
+the solution for u will be ressonabl~ hard work—much harder thau
+to find the particular solutions wluch for the simple gust involved
+It maybe admitted that to work rm one gust
+only resl numbm.
+we labor will robably be much less than by my method o T detarminformulas f or the constants of integration m terms of the initkd
+3 uea of the articuhar integmds. But as far as ~sm see, Bromv
+with’s metho 2 is of no particuhx advantage if we desire-to calculata
+the effects of a
+number of gusts J (1 -d)
+of various degrees
+of sharpn~ both cad-on, up, and rotary. When we came to cal?
+culate a periodic gust we found that we were involved in powers and
+products and uotiente of complex numbers, and it is probable that
+the work we 3 d in tiding the particukw integrals was comparable
+with that required for the present analysis.
+SUMMARY.
+In continuation of my previous work in gusts as afbcting the
+tiactor JN2, I have discussed:
+1. Periodic ?mgitudinal guds.-lt wee found that, even in the
+csse of best resonance with the slow natural oscillation, the motion
+was not much tierent from that produced by a simple head-on
+t until after a considerable time (over 14 seconds) had elapsed.
+& e am Etude of the forced oscillation (in u and down motion)
+which J timately became effective was about Rve times the amplitude of the gust. This was not regarded as serious because true
+periodicit can rareI be maintained in a head gust and because no
+pilot wo J d wait to ret its collectreach such a magnitude. Periodic
+up gueta and rotary gusts were wnsidered as not lddy to arise.
+2. @neral t?wory of resonance.-It was shown that for aero lane
+roblems rescmance meant diilerent things for different robT
+ems.
+f t wss inferred that resonanca wss unli.kel to be particularf’y serious
+because in all probability ite effect woul z either be small or would
+take so long to become e.stabIishedthat the pilot would check it.
+3. In ndiiy sits
+ts.—It was seen that the shock to a machine
+t, and mXWJ and ml?~ for an
+wssm 2 Jandm= ?’Y for ahead
+The serious csse is mZW ~the vertical shock in an up gust
+T
+u Wt”
+w% “ch was about 4J/g times the wdght, more than twica that found
+for the sharpest gust reviously treated. It would be still more
+serious in a machme wL e Z. wss greater than in the JN2. The
+moral: Kee Zq small, clashes with Hunsaker’s conclusion 1 that
+lateral stab&‘ty ISincom atible with high wing loading-but such an
+antithesis is Common.S % eference was made to im ulsive gusts.
+4. Ziie @ect of the propeh.-ll!he
+sssmnption L t a comtant
+power instead of a constant thrust was delivered did not very mab
+rially alter conditions of tight.
+6. La.i!malg@.-!l%e
+general equations were setup and integra@d.
+(a) Single side gusts were shown to reduce modern side shppmg,
+insignificant rolI, and moderate yaw. ! t was seen that the yaw was
+into the relative wind so that the displacement of the machine in
+space was toward the gust despita the side slipping.
+-
+
+REPORT! NATIONW
+
+ADVISOBY U03H5HTEE
+
+FOR AERONAUTICS.
+
+431
+
+(b) Oscillatory side guets were shown to be a common condition
+of flight, to produce moderate side slippbg and yawing, but insigficsnt
+rolling. The ath of the center of gravity proved to be
+sinusoidal, so far SE t%e forced oscillation wss concerned, and of
+sm Iitude -about two or three tire-esthe amplitude of t@ gust.
+& .Y8W~~werefo~dtomdumagoodde~ofwde&ppQ,
+but chd not appear to be semous. The roll wss very smd.
+(d) Rolling guata were seen to put the machine into a spiral dive,
+and thus to cause a red danger urdess the motion were checked
+promptly by the pilot.
+6. Constrained mac?iinV.-A device to keep the aero lane on ita
+made the previousl unstaEle machine
+course or to prevent ro
+Y
+stable. Such a device mig t be important to lx%we the liability to
+the spiral dive in rolling gusts provided such gusts were common
+phenomena in flying weather.
+7. Other methods o trealment.-~e
+Bryar&ordets&
+metiod of
+initial motions and J romwich’s new method of ftnding the solution
+for a disturbed state without calculating the constants of integration
+were briefly compsred with my s~tem of snslysis.
+
+.—
+
+-
+
+.-
+

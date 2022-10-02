@@ -1,0 +1,5788 @@
+,
+
+"~
+
+~~
+
+c·
+~-~
+~.,.
+
+!lJ
+
+~~ ?
+
+-;t--
+
+~
+
+21;i!
+
+~
+
+'" •
+<
+
+~
+
+.'
+
+REPORT ON BEHAVIOR OF ~~,,&
+
+j
+
+j ...
+Ie
+' . ~-~..:' ~~
+
+""
+
+- TR- J
+
+IN GUSTS.
+
+BY THE MASSACHUSETl'S INsTJi,1fB
+
+Part L-EXPERIMENTAL ANALYSIS
+. LONGITUDINAL
+STABILITY FOR A TYI'It!'A1: BIPLANE.
+By 1. C. HUNSA.KER.
+
+Part D.-THEORY OF AN AEROPLANE ENCOUNTERING GUSTS.
+By Eo B. WILSON.
+
+-Ii£PRODUCED BY
+
+NATIONAL TECHNICAL
+INFORMATION SERVICE
+OF COMMERCE
+SPRINGFiElD. VA . 22 161
+
+~:'I t ...-..~,
+
+""'>~~.
+
+;;~"\
+
+1!':} '.
+#
+
+N A C.A
+
+u.s. DEPARTMENT
+
+."
+':;.
+,~
+
+'l
+
+l •
+
+~
+
+23
+
+\
+
+\I
+
+I',
+
+,'/'
+
+I
+
+"
+
+........ .
+.i•
+
+.
+
+.... .
+
+I ·'
+
+.
+
+,-",
+'\"~
+
+,t.
+
+.
+
+•
+
+'.
+
+. "
+<"
+
+.,':. . ,,'i,.
+
+' '', " ; " " .
+.'
+
+.
+
+I
+
+,'.
+
+LIST OF ILLUSTRATIONS.
+Fig. 1 a, b, c.
+Fig. 2.
+Fig. 3.
+Fig. 4 5 'Il . 7, R, 9.
+Fig. 10..
+Fig. "11':'
+Fig. 12.
+•~
+
+Art. 1.
+Art. 4.
+Art. 5.
+Art. 8.
+Art. 10.
+Art. 10.
+Art. 14.
+
+Model plans.
+Curves L , D, M.
+Perfonnance curves.
+Curves of X, Z, M.
+Photo of oscillator.
+Curve of damping coefficient.
+Curves of IWuth'a discriminant .
+
+24
+
+. ',
+"
+
+....
+
+REPORT No.1.
+PART 1.
+
+EXPERIMENTAL ANALYSIS OF INHERENT LONGITUDINAL
+STABILITY FOR A TYPICAL BIPLANE.
+By
+
+JEROME
+
+C.
+
+HUNSAKER.
+
+ARTICLE
+
+1.
+
+INTRODUCTION.
+
+A model of span 18 inches, representing a typical military tractor
+biplane, was tested in the wind tunnel of the Massachusetts Institute
+of Technology. The lift, drift, and pitching moment were measured
+for a series of angles of incidence corresponding to the maximum
+possible changes of flight attitude. Only the discussion of symmetrical or longitudinal changes is given here. A report on the
+lateral stability of the same model is reserved for a later date. From
+the observed rate of variation of the forces and pitching moment, it
+was possible to calcula.te the "derivatives" needed in the complete
+theory of longitudinal stability in still air. The damping of the
+pitchrng oscillation waS also determined experimentally.
+The method followed is that of L. Bairstow in his extension of
+Bryan's theory. Notation also follows Bairstow. The value of
+Routh's discriminant, which Bryan has shown to be a measure of
+dynamical longitudinal stability, has been calculated for six speeds,
+ranging from the maximum to the minimum possible speeds for the
+aero:(>lane type selected. The principal point of interest brought
+out rn this connection is that stability falls off rapidly as speed
+decreases or angle of attack increases, and that while this aeroplane
+appears to be very stable at high speeds, it is frankly unstable at
+speeds below 47 miles per hour.
+This ins~ability at low speeds takes the form of an oscillation in
+pitch combined with changing in forward speed and a rising and
+sinking of the whole aeroplane, which, therefore, follows an undulatory
+flight path. The period of the undulation is about 12 seconds, and
+the amplitude doubles itself in less than 20 seconds. Obviously, the
+pilot can not safely abandon his controls at slow speed.
+The importance of this demonstrated instability at low speeds
+should be appreciated in view of recent accidents with military
+aeroplanes when operated at slow speeds.
+The entire investigation of inherent longitudinal stability was preliminary to the di cussion of the effect of wind gusts. Naturally, it
+was first necessary to find a stable aeroplane and to obtain some idea
+25
+
+26
+
+AERONAUTICS.
+
+of the "range" of stability. I t now appears that a typical aeroplane
+is inherently stable in the sense defiried a t high speeds only . The
+effect of gusts on the uncontrolled aeroplane will, therefore, be
+investigated only for the high-speed condition. At low speeds the
+aeroplane can not be left to itself in still air. Consequently, a disCUSSIon of its certain destruction if abando.ned in gusty air appears
+unprofitable.
+ARTICLE
+
+2.
+
+MODEL AND PROTOTYPE.
+
+The type of aeroplane selected is a high-speed military biplane
+tractor known as Ourtiss J N2 . Shop plans of this aeroplane were
+kindly furnished by t he Curtiss Aeroplane Co., Buffalo, N . Y., to
+whom acknowledgment must be made for much valuable assistance,
+including the experimental determination of moments of inertia, etc.,
+by Dr. A. F. Zahm of that company.
+The principal dimensions of the aeroplane were assumed as follows:
+Weight full load ...•.................. .•• ...........••. pounds ..
+Brake horsepower ...• .. .. .. .. .. . .•.. .. ....... .. ... horsepower. .
+Maximum speed for calculations ............... . . miles per h our. .
+Minimum speed for calculations .. .............. .. ..... .. .. do....
+Total wing area. (including ailerons) .•••...•........ square feet ..
+Area fixed taiL ....•....••.....•.••.•••••.•..•.•.•...... do . . . .
+Area h orizontal rudder ....••.••••••••.••....•..•........ do. . . .
+Area vertical rudder .. ........•.•.•.•••••••••••••••••.• . .. do....
+Spa.n of wings .... .. . .. .......•••••.••.•.....••.•••••..... feet. .
+Chord of wings .. ... . . .. ......•••.•••.•••.•••••••••••.•• . . do.. . .
+Gap between wings . ..... . ... ...•.•....•...••••.......... do....
+Length of body ...............•...•..........•.•••....... do....
+
+1, 800
+
+no
+
+79
+43.7
+384.0
+23. 0
+19.0
+7.8
+36. 0
+5.3
+5.3
+26.0
+
+The model was made geometrically similar to its prototype and
+one twenty-fourth scale. The general features are shown in the
+drawincrs of the model. (Figs. 1 a, b, c.) The model was an exact
+copy of the aeroplane except for the propeller and wing wiring,
+which features were omitted. Also wing struts were made round
+instead of "stream-line" in section. Since it is well known that
+the resistance of a series of similar aeroplanes varies somewhat less
+rapidly than the square of the speed and square of a linear dimension, due to skin friction, it is believed that the prediction of the
+resistance of the full size aeroplane from the observed model resistance
+will still be a fair estimate in spite of omissions on the model.
+For simplicity, the model was made with the trailing ailerons or
+wing flaps integral with the wings. This somewhat increases the
+effective supporting area. Also the fixed tail and elevator were
+made in one, corresponding to the elevator held fast in its neutral
+position. These points are made clear on the drawings of the model.
+ARTICLE
+
+3.
+
+GENERAL WIND TUNNEL PROCEDURE.
+
+The morlel was tested in the 4-foot wind tunnel at a velocity of 30
+miles per hom. The wind tunnel and aerodynamical balance are
+duplicates of the installation of the National Physical Laboratory, Teddington, England, and reference should be made to the Technical
+
+•
+
+.
+
+-- ~ ~ ------------ ~ ,
+
+27
+
+AERONAUTICS.
+
+~g'W~>"~~~
+~
+, 0)<;) • •
+
+::J
+
+.
+·~~i
+
+t;:
+
+~~~~
+
+~
+
+w
+
+a::
+
+<.9
+
+.
+.
+
+~ .. ~~" ... ~,<" "", ~
+~ ~
+,
+",~q
+~ \ ~~
+
+'t" l
+
+~ .~ q ~~
+....
+~ . ~ ~,
+
+IlH~~~ ..
+~!qtNh
+
+~
+
+.~
+
+...
+~
+~
+
+,
+~
+
+!~tH~': ~
+
+3
+
+,
+
+28
+
+AERONAUTICS •
+
+.
+
+~
+
+I)
+
+'-'.. ~
+
+...
+~
+
+<I.,
+
+~
+~'< ~~
+
+~
+
+I)
+
+...
+II
+
+~
+
+,
+
+~
+
+-!i
+
+~
+
+~
+
+~
+
+:l!
+
+~
+
+1'~
+
+4
+0
+
+~
+
+Q
+
+.
+
+•
+
+"
+
+~~
+~
+
+". .,
+0
+
+~
+
+,,~
+
+"j
+~
+~
+'"
+~ ~
+
+29
+
+AERONAUTICS.
+
+I
+
+~
+LU
+
+a:
+
+:J
+
+t!)
+
+L
+
+C-
+
+/fi
+
+I
+
+j - i
+"\ !
+
+,
+
+i~
+
+"~ '«
+
+~
+
+-
+
+T
+
+'l
+
+~:.
+
+I
+
+c
+
+--
+
+~
+
+•
+
+\
+
+,
+
+1.
+~
+
+l
+
+I
+
+u
+
+~
+
+r------------------------------------------------------------------------- . -- --
+
+30
+
+AERO)<AUTICS.
+
+Report of the Advisory Committee for Aeronautics, London, 1912-13,
+for detail description and methods of operation.
+In general, it may be stated that the wind tunnel provides a wind
+constant in velocity within 1 per cent, which velocity is further constant across the working cross section of the tunnel within Ii per
+cent. Velocity is measured by a suction plate calibrated against a
+standard Pitot tube with a precision of one-half per cent. The
+model is mounted on the balance in various attitudes of pitch or yaw,
+and in such positions are measured the three forces and three couples
+produced by che wind along and about three mutually perpendicular
+axes in space. From a lmowledge of the variation of the e forces and
+couples with change of atti tude, the so-called " resistance derivatives "
+of Bryan's 1 theory of dynamical stability may be computed.
+The theory of stability also requires the determination of the damping of oscillations about the center of gravity of the aeroplane. A
+special oscillating apparatus was built for these tests which will be
+described below. By oscillatinO' the model in the wind and observing
+the decrement of amplitude wit);. time, it was possible to estimate the
+"rotary derivatives.'
+ARTICL E
+
+4.
+
+LONGITUDINAL TESTS.
+
+The model was mounted on the balance with its wings in a vertical
+plane by means of a vertical rod driven into the body at the point
+shown on :figure lb. By swinging the model about the vertical axis
+passing through the spindle, tlie angle of wind to the wing chord was
+varied from+200 to _8°. At each attitude the force across the wind
+or " Lift," force down wind or "Drift," and the pitching moment
+about the spindle were measured. The signs were taken so that
+an actual lift, actual head re istance, and a stalling moment are positive. The wind velocity was 30 miles per hour of standard dry air
+at 15° C. and 776 mm. Hg. The experunental points are shown on
+:figure 2, where forces are in pounds and moments in inch-pounds.
+The precision of measurement is within 1 per cent.
+For a given attitude, the resultant force on the model in pounds
+at 30 miles per hour is R = -JD + D2. This resultant make an
+angle with the wind direction given by a = tan -1 ~. The force R
+is observed to have a pitching moment M about' the spindle axis.
+It may then be assumed to be situated so that the perpendicular
+from this axis to R is given by X= -:. The vector R is thus determined in magnitude, direction, and line of application. The resultant
+force vectors R are shown on :figure 1b to a scale 1 inch equals 0.2
+pound. The vector R is purely an algebraic substitution for the
+complicated system of forces and coupIes acting on the aeroplane.
+The vectors are drawn relative to the aeroplane.
+The center of gravity was assumed to lie as shown near the intersection of the propeller axis with the resultant force vector for 4°.
+At this attitude, then, the pitching moment should be nearly zero.
+I
+
+G. R. Bryan, Stability in A\'iatioll.
+
+r
+31
+
+AERONAUTICS.
+
+The c. g. location determined for the actual aeroplane after extensive trial flights is almost identical.
+It is seen that for angles smaller than 4°, R passes forward of the
+
+7.
+
+Il.~
+
+/·z
+
+V
+I?
+
+5.
+
+1.0
+
+W
+v
+
+/
+
+z
+
+,
+
+I?
+
+~
+
+I
+
+0
+
+4.
+
+0.8 :>
+
+z
+:>
+
+(l,
+
+11.
+..
+
+0.7' ..
+
+~
+
+t..
+0." j
+
+III
+[
+
+lit
+
+hJ
+0.4.J
+
+z,.
+
+<
+
+w
+/
+
+~
+
+V
+
+<J
+
+//
+
+I
+
+'"0/1
+
+/
+Va ~
+V
+
+?"
+v
+
+I
+
+/
+
+/
+
+!Y
+
+~
+
+/
+?'
+
+I
+
+V
+
+r
+
+II
+
+/
+
+.'f8
+."11
+
+."fo
+·~Il
+
+I
+
+.32.
+
+0
+Z
+
+/""
+
+.~S
+
+0
+
+0..
+
+..
+
+V
+
+~
+
+lI..
+
+/'
+
+/
+
+.:5(,
+
+.-'Z
+
+,I
+
+/
+
+~
+
+...4-
+
+....
+
+I
+
+j
+
+(':0
+
+-/-'
+
+/
+
+()
+
+o.~'"
+
+"-
+
+/
+
+I
+
+I
+
+I
+
+/
+
+I!:
+
+O.5~
+
+0
+
+J!
+
+3.~
+
+/I:
+0
+
+0.1
+
+/"0
+
+I
+
+b.
+
+J· l
+
+~
+
+r---;
+
+/
+
+II.~
+
+o.q
+
+.
+
+....-./
+
+.i!'"
+.1..0
+
+(3
+
+'"
+
+V
+
+./b
+
+0
+
+~
+
+~
+
+.,~
+
+..J
+
+~
+~
+
+'j
+
+.08
+
+If)
+
+FOR
+
+-0.
+
+f\60U
+
+MOD
+
+E!)
+
+F NO f"\ bf"\r!~T
+'NDL..f FOR
+
+~~~
+
+.01
+
+30 r . P.H.
+
+.0
+
+f.o.~
+
+~I
+~15 -13'
+
+~.
+
+AN ",LE:
+-~
+
+-~
+
+o·
+
++
+
+OF'
+~.
+
+WI
+~
+
+'i'
+
+f.lG ( HO' D ' o
+IND
+lb' + 8' .. 10· • ti "" f4· • b
+.
+
++
+
+.
+
+IS' .. Ito
+
+c. g. and for angles greater than 4°, it passes to the rear. The
+aeroplane is longitudinally stable in a static sense. It will be shown
+below that it is not always dynamically stable.
+
+I
+
+32
+
+AERONAUTICS,
+ARTICLE
+
+5.
+
+PERFORMANCE CURVES,
+
+The lift and head resistance or "driIt" of the full scale aeroplane
+were assumed to be approximately given by the relation:
+Force on model
+30
+Force on aeroplane ( 24 V
+
+)2
+FI GUR E. ",
+
+foO'
+
+I
+
+.,'
+
+(
+
+'so
+
+11'
+
+t
+i;:;
+a
+
+1\
+
+'i
+
+/
+
+~
+
+,'I'
+
+7
+
+~
+
+I}'
+
+.~'
+
+(,
+
+~
+
+I,,'
+
+\~
+
+II)
+
+Z
+~
+'\.
+
+..;c;
+~
+
+~
+
+"'-.....
+
+'0'
+~'
+
+'"
+
+0.
+
+boo
+
+/
+
+If'
+
+(j'
+
+7'
+
+:;' ..........
+4'
+~'
+
+~
+
+aU:;/
+.
+
+I>--
+
+~
+
+-,....
+
+~
+
+.
+
+'3
+
+~~
+
+~
+
+<:''''0
+
+0
+
+~
+r
+
+-:>60
+
+1\
+
+...
+
+.......
+
+"
+3
+
+-r,!!.
+
+~
+
+r--....
+
+Zoo
+
+~
+
+u.
+0
+
+C>~
+
+D-"
+
+~
+
+~
+I-
+
+u..
+
+tt:
+
+PER. FORt ~ 1'\ Nt. E. . C
+
+RVE~
+
+0
+
+E~TI ~ATE
+
+ODE"
+
+W
+
+::>
+
+FR pl"\
+
+,...
+
+f\1f' ~F.'E t:.o:I"
+Sb
+
+ILE~
+
+100
+
+,,8'
+
+~
+
+fi?
+
+w
+
+4()
+
+C!
+
+r
+W
+
+.::
+
+I-
+
+C>
+
+PEl ~ HO ~R.
+
+b4
+
+o.
+0.:
+
+c
+
+u..
+u..
+
+-
+
+51!
+
+ZO
+
+~
+
+~
+
+.~
+
+"'8
+
+40.
+
+'1
+
+~
+
+I{)
+
+"'0 .....
+
+bOo
+
+::
+
+J
+~
+
+1100
+
+---
+
+~
+
+--,.
+
+80.
+
+----
+
+~
+
+0
+400
+
+l<::
+
+r---.
+I><V 4
+
+~ ~~
+
+~:
+
+15'00
+
+y
+
+,~o
+
+7st.
+
+76
+
+eo
+
+()
+
+lJ
+
+when V is the flying speed of the aeroplane in miles per hour. The
+above relation holds, of course, only for the same attitude of model
+and aeroplane, The weight of the aeroplane, 1,800 pounds, must
+equal the lift in flight. Hence:
+
+V= 30 /
+1800
+24-Y Lift on model.
+
+33
+
+AERONAUTICS.
+
+A series of speeds V was computed for a series of attitudes of the
+aeroplane, and the aeroplane drift at each attitude was then computed from:
+_
+
+2
+
+(V)2
+
+D full size = D model x 24 x 30
+
+In figure 3 are given curves of drift, effective horsepower required,
+angle of wing chord to wind and ratio weight to drift plotted on Vas
+abscissae. For our calculations a maximum speed of 79 miles and a
+minimum of 43 .7 miles were selected corresponding to angles of wing
+chord to wind of 1 ° and 15.5°, respectively.
+The curve of E.H.P. on figure 3, indicates that 87 propeller horsepower is necessary for a speed of 79 miles. If the propeller h as an
+efficiency of 80 per cent, the motor must develop at least 110 brake
+horsepower. The original designs contemplated as maximum speed
+of about 80 miles per hour for a 120 brake horsepower motor, which
+appears very reasonable. As actually built this type was given a
+rated 90 horsepower motor. Assuming 70 E.H.P. delivered to the
+propeller a speed of 73 miles per hour is indicated by our curves. It
+is r eported that the speed of this aeroplane was actually 73 miles per
+hour.
+ARTICLE 6.
+CHOICE OF AXES-NOTATION- UNITS.
+
+Axes for reference are assumed fixed in the aeroplane and moving
+with it in space. The origin is at the center of o-ravity. For steady
+horizontal flight at a given attitude the axis of Z is vertical, the axis
+of X Horizontal and directed to the rear in the plane of symmetry,
+and the axis of Y is horizontal and directed toward the left-wing tip.
+Forces along these axes are denoted by X, Y, Z and are expressed In
+pounds per unit mass. Moments are L, M, N and are given in poundsfeet per unit mass.1
+Angles of roll, pitch and yaw from the normal flying attitude are
+denoted by 'P, e and 1/;. Angular velocities of roll, pitcli and yaw are
+p, 9., rin radius per second. The signs of moments, angles and angular
+velocity are positive considered in the directions XY, YZ or lx.
+Moments of inertia referred to axes X, Y, Z are denoted by
+mK2A, mK2B, mK20 where m is the mass of the aeroplane and ~,
+KB, Ko corresponding radii of gyration.
+ARTICLE
+
+7.
+
+EQUILIBRIUM CONDITIONS.
+
+In n ormal horizontal flight in still air a state of equilibrium is
+assumed such that the power available maintains the aeroplane at
+such a speed that the weight is just sustained. Since the lift of an
+aeroplane wing is also a function of its attitude or angle of attack,
+it is further assumed that the attitude is proper for the speed. In
+I
+
+Unit mass is the slug equal to 32. l7 pounds weight.
+
+253020-8. DO l". 268. 64-1--3
+
+34
+
+AERONAUTICS.
+
+normal horizontal flight the axis of X is parallel to the apparent wind
+direction and is hence horizontal. Let {) be the angle of pitch of the
+aeroplane away from its normal attitude. Then normally (J is zero.
+Likewise if the aeroplane is in equilibrium ill its flight, the angular
+velocity of pitch is zero and also the pitching moment, Mo.
+At high speed, for example 79 miles, the aXlS of X is horizontal and
+makes an angle of 1 0 with the wing chord. At low speed, new axes
+are chosen such that the axis of X is still horizontal but makes an
+angle of 15.5 0 with the wing chord. The axes are fixed by the
+equilibrium conditions for flight and differ for each normal flying
+attitude. Oscillations about the normal flight path when the motion
+is disturbed are referred to the above defined axes which are assumed
+fixed in the aeroplane and moving with it in space.
+The pitching moment curve observed for the model shows zero
+moment for an angle of wing chord of 4.5 0 and a diving moment at
+larger angles. For slow flight, it is assumed that the pilot by proper
+setting of his horizontal rudder impresses an equal stalling moment
+on the machine so that the net pitching moment is zero. The effect
+is to move the pitching moment curve parallel to itself by the algebraic addition of a stalling moment so that its ordinate h as zero value
+for the desired flight attitude.
+ARTICLE
+
+8.
+
+TRANSFORMATION OF AXES.
+
+It is convenient to measure in the wind tunnel the lift and drift
+about axes always vertical and horizontal in space. For the oscillations of the aeroplane it is convonient to consider the forces referred
+to axes fixed in the aeroplane as described above. The transformation is effected in the usual way by means of the formulre:
+m Z' =L cos 8+D sin 8 ,
+
+m X' =D cos 8-L sin 8 ,
+
+wher e e is the angle of pitch of the aeroplane awll.Y from its normal
+attitude, considered positive for stalling angles. H ere Land Dare
+lift and ill'ift on the model in pounds, and m X ' and m Z' corresponding forces in pounds along the axes X and Z. The model forces
+Z', X' are converted t o Z , X, full size, by multiplying by the
+square of the speed and linear dimension ratios. The following tables
+carry out the r equired transformation.
+The pitching moment M is independent of the longitudinal shift of
+axes and varies onlyas the square of the speed. Curves of X, Z and M
+for the differ ent flight attitudes are plotted on figures 4, 5, 6, 7, 8,
+and 9. The transformation of the moment about the spindle to the
+corresponding moment about the c. g. of the full-size aeroplane is
+given b elow.
+
+35
+
+AERONAUTICS.
+
+i=P, V=79 rpiles, m=55.9 slugs.
+
+i
+
+e
+
+L
+
+- 4
+-2
+0
++1
++2
++4
++8
++12
++16
++20
+
+- 5
+- 3
+- 1
+0
++1
++3
++7
++11
++15
++19
+
+-0.08
++ . 14
+. 35
+. 45
+. 56
+. 765
+1.13
+1.39
+1.48
+1.48
+
+D
+
++0.115
+. 104
+.102
+. 104
+.108
+.118
+.165
+.270
+. 428
+.581
+
+Z
+
+X
+
+- 6.4
++ 10.8
+24.9
+32. 9
+40.0
+54.9
+81.0
+100.0
+109.0
+112. 5
+
++7.7
+7.8
+7. 76
+7.4
+7.1
+5.6
+1. 9
+- .7
+-2.05
+- 4.7
+
++ 10.3
+13.4
+16.9
+23.3
+32.2
+48.0
+47. 0
+48.2
+
++4. 42
+4.64
+4. 79
+4.85
+4.60
+4. 54
+5. 90
+7.12
+
++24.0
+28. 4
+32.4
+35.4
+37.2
+
++5.14
+5.18
+5. 21
+5. 56
+6.24
+
+26.1
+29.6
+32.4
+34. 0
+35. 2
+
+5.68
+5.83
+6. 29
+6.92
+7.56
+
+28.3
+30.8
+32.4
+33.3
+34.2
+
+6.67
+6.87
+7.22
+7.43
+7.62
+
+i=7°, V=51.8 miles.
+0
+1
+2
+4
+7
+12
+16
+20
+
+-
+
+7
+
+- 6
+
+- 5
+
+- 3
+0
++5
+9
+
+13
+
++0. 35
+. 45
+. 56
+. 765
+1.05
+1.39
+1. 48
+1. 48
+
++0.102
+.104
+. 108
+.118
+.150
+. 270
+.428
+. 581
+
+i=10o, V=47 mile.
+6
+8
+10
+12
+
+14
+
+- 4
+- 2
+0
++ 2
++ 4
+
++0.96
+1.13
+1.28
+1 39
+1.45
+
++0. 136
+.165
+.21
+.27
+. 348
+
+i=12°, V=45.2 miles.
+8
+10
+12
+14
+
+16
+
+- 4
+- 2
+0
++2
++4
+
+1.13
+1.28
+1. 39
+1.45
+1. 48
+
+0.16S
+.21
+.27
+.348
+.428
+
+i=14°, V= 44.2 miles.
+10
+12
+14
+
+16
+18
+
+-4
+-2
+0
++2
++4
+
+1.28
+1.39
+1.45
+1.48
+1. 50
+
+0.21
+.27
+.348
+.428
+.508
+
+36
+
+AERONAUTICS.
+
+i =15.5°, V=43.7 miles.
+
+--
+
+e
+
+i
+
+9. 5
+13. 5
+15. 5
+17. 5
+19.5
+
+L
+
+-6
+- 2
+0
++2
++4
+
+D
+
+Z
+
+X
+
+1. 24
+1.40
+1. 48
+1. 49
+1. 49
+
+0.196
+.330
+.408
+. 482
+. 561
+
+26.4
+30.6
+32. 2
+33.0
+33.4
+
+7.1
+8.25
+8.9
+9.4
+10.0
+
+CONVE RSION OF PITCHIN G MOM ENTS.
+
+mMs=moment about spindle in inch pounds on model.
+mM)cg=moment about c. g. in inch pounds on model.
+b=3.04 inches, c. g. forward of spindle.
+a=O.lO inches, c. g. above spindle.
+Axis of X 3.5° to wing chord.
+M= pit ching moment about c. g . full size, full speed, in pounds feet per unit mass.
+
+mMcg=mMs -mZ' b- mX' a.
+
+i=angle of wing chord t o wind , degrees.
+9=angle of axis of X to wind, d egrees.
+
+I
+
+i
+
+I,
+
+8
+
+D
+
+m Z'
+
+mX'
+
+mM, mMoc
+
+10
+}J
+
+----
+
+-
+
+-
+
+.
+2\
+
+70
+N
+
+0
+J[
+10
+
+120
+1
+
+J[
+
+1
+
+140
+M
+
+15°.5
+M
+
+- -,- - - +12. 9 . .. .. .. ...... 9. 36
+9. 17
++11. 01.......
+8.0
+7.8.5
+.15 +21.4 + 9. 2 .. ..... _. _---6.54
+6. 67
+. 10 + 14.3 + 6.1 ... .... .. . .. . .
+4. 3;
+4.46
+. 08 + 11. 4 + 4. 9 ....... .-._- -3 .4 ~
+3.56
+. 03 + 4. 28 + 1. 8 . .. .... .. . . .. . + 1. 35 + 1. 32
+DD
+0
+0
+0
+0
+0
+0
+. OS -11.4 - 4. 9 - 4. 0 - 3. 72 - 3. 56 - 3. 49
+.IR -25.7 -11.1 - 9. 071- 8. 40 - 8.02 - 7. 86
+. 40 - 57.0 - 2.1. 5 -20.2 -18.7 -17. 9 -1 7.5
+. 60 - 85. 5 - 36. ~ - 30. 3 - 28. 0 - 26.8 -28.2
+. 76 -108. 0 - 40. 6 .... . .. . . .... . - 33. 9 - 33. 2
+
+- 8 + 0.130 +0.123 - 0.146 + 0. 104 - 0. 022 + 0.21 +29. 9
+- 6 + . OSO
+. 105 + . OOg
+.112 + . 4DD + .18 +25.7
+
+~
+
+~
+
+- 4
+- 2
+- 1
+0
++ 1
++2
++ 4
++8
++12
++ 16
+
++ I!
+2~
+
+3!
+4}
+5~
+7~
+
+11 }
+1 5~
+
+H' J
+
++
+
+. 3DD
+. 510
+• 615
+• 715
+. 810
+. 910
+1. 09
+1.37
+1. 48
+1.49
+
+.102
+. 105
+.110
+.115
+.122
+.130
+. 157
+.252
+.408
+. 561
+
+. 293
+. 506
+. 613
+.715
+. 812
+. 915
+1.10
+1. 40
+1. 51
+1. 54
+
+. 121 + 1.05
+.123 1. 65
+.122 1. 93
+.U5 2.21
+2. 48
+2.71
+. 081 3.17
+. 058 3. 81
+.1 84 4.00
+. 331 3. 95
+
+:62~
+
++
++
++
++
+
+-
+
+I
+
+I
+
+ARTICLE
+
+9.
+
+RESISTANCE DERIVATIVES, LONGITUDINAL.
+
+Notation follows Bairstow,t to whose papt'!' reference should be
+made for the det ailed discussion of " derivatives." In the theory of
+small oscillations, the aerodynamic forces X o, Zo, and pitching
+moment, M o , are eliminated by the conditions of equilibrium. In
+disturbed motion, disturbances in normal flying speed and attitude
+oause changes in the quantities, X, Z, and M .
+L et V be the normal flying speed and u , wand q small changes in
+horizontal and vertical velocIty components and angular velocity of
+pitch. If the disturbance be smail, u, wand q are small with respect
+to U. For example, the function
+X =j(V+u, w, q)
+may be expanded into the approximate form
+X =Xo+ uXu+wXw+qWq ,
+a linear lunetion of the small quantities u, w, q. The coefficients
+Xu. X WJ Xq are the so-called resistance derivatives of the theory of
+I
+
+Technical Report of th~ Ad \' isory Committee [or ... eronautics, London, 1912-13.
+
+---------------------------------------------------------------- -------
+
+37
+
+AERONAUTICS.
+
+4-
+
+F16U 'RE
+
+-
+
+'30.
+
+IX--- ~
+
+I~
+
+'j
+
+<r
+
+10'.
+
+1.1
+
+~8
+
+0
+
+(~
+
+~".
+
+-....
+
+-/0.
+
+~
+
+l..
+
+.~
+
+-30JJ
+
+J
+
+-~o .
+
+b
+~ .
+
+..I
+
+-40.u
+0
+
+I~
+
+-50-00. /
+
+R.
+
+I
+
+10/
+V,
+
+..f.o
+~
+
+70
+
+L~
+
+N
+bo
+
+K \
+
+j
+
+~--2P
+
+~
+
+[\
+
+\
+
+V
+
+()/
+
+'\
+
+~
+
+l
+
+\
+
+2
+
+~
+
+J{o·
+
+4- f
+-~
+
+Art(
+
+0
+-/
+
+0
+
+I~
+
+"I'
+
+M .P. .
+
+LE: ( F"W "16
+
+t:
+
++ ..f
+
++ ,0
+
+~3
+
++
+
+7q
+
+PITC.H
+
+.. 6'
+
+V
+
+f\ /
+
+\
+
+-80 .
+
+C"A
+
+~5
+
+\ /
+
+.L
+
+~I
+
+[00
+
+V
+
+......
+
+V \
+
+c(
+
+:.4
+
+Y
+
+~
+
+"\
+
+0
+
+/'
+
+~
+
+~DJ.t
++ '0' 1- IR.·
+
+C.HO
+
++ q.
++5"
+t'\N G.LE ) a.
+
+,+"
+
+'!..to
++'0
+
+V
+
+~
+
+0
+
+'\
+
+-'0
+
+"\
+
++/0
+
++ s·
++7
+
+~~
+
++ ''''t" ~ '6' 1+
++ ,3
+S .+
+
++,
+
+-~O
+
+~
+'7·
+
+38
+
+AERONAUTICS.
+
+FIGLIRE 5'.
+
++/0
+
+~
+
+50
+
+""
+
+~
+\
+
+18
+
+40
+
+7
+
+~
+
+. 35
+
+b
+
+:2
+
+30
+~5
+
+5
+
+v--14
+
+It
+
+3/
+r
+
+/
+
+\ /
+/
+
+/
+
+/
+
+~/
+
+.
+
+v
+
+0
+
+~.
+./
+
+\ '\
+
+--. ,--.,
+
+>-
+
+~
+
+-'5
+
+/'
+
+. -r2o
+-~
+
+'\
+
+.-30
+
+~
+
+0
+
+X
+
+/
+
+~~
+
+5
+
+0
+
+......
+
+..........
+
+~
+
+10
+
+I
+
+t-5
+........
+
+-s
+
+IS
+
+~
+
+-
+
+-3$
+
+"
+
+N
+
+....:40
+
+~
+
+II.
+I....
+
+I ....
+
+.J
+
+C
+
+10
+
+1.0
+
+~
+.t:"
+
+.J
+
+q:'
+
+-~
+
+-+ 3° -+
+
+C.A~ 6~
+A~GI E
+
+So
+
+-t) -4'-' -~.
+
++
+
+:J: ~.
+OF
+
+::r,. S M· P. ~ •
+
+WIN ~_ C~ O~D,
+I~· +
+
+17° ~ Iqo -+ 11° +
+
+0
+
+0
+
+-+~. "'"~r
+
+PI T CH
+
+lJ
+.J
+
+.(. = 7"
+~.
+
++6. +8°
+
+F\NGLE"e.
+
+10-°+
+
+17
+0
+
++10
+
+0
+
+.
+
+"'I~
+
+~
+
+II)
+
+39
+
+AERONAUTICS.
+
+o
+
+b
+
+-10
+
+~
+
+5
+
+-20 .
+
+rs
+
+x
+W
+PIT(.H ANGL£,~ .
+
+~
+FIC:.URE
+
+oj
+
+V7
+
+7.
+W
+..J
+
+7
+
+C~~Elsr'J 4:S 2.M· P. 1., <.- I
+
+.y '"
+
+~
+
+()
+
+o
+- 10
+
+-20
+
+~
+
+4
+- 4° - ?..:
+F ITC.H ANG
+
+0° ... Ii
+£:., e .
+
+-14"
+f I e:.VF E
+
+11>.
+
+- 10
+
+35
+
+-30
+
+5
+
+Z5
+
+4
+
+/
++4-0 .-t>.
+ANGLe::
+
+..-B .. 0 .-11:,0 ~I~o +Ib
+OF' WING C,HORD,.i..
+
+40
+
+AERONAUTICS.
+FIGu~E
+
+q
+
+10
+
+q
+
+/"
+
++10
+
+....Q..
+
+B
+
+;-
+
+7
+
+10
+
+.l-l
+
+~
+
+M
+~~
+
+r
+
+:-5111
+
+...
+
+.J
+
+<:
+5 hl -IOU
+.J
+
+/
+
+()
+
+<
+
+~r/
+
+3
+
+2/
+V
+,
+
+Z5"
+
+""
+
+~
+
+"\
+
+/'
+
+40 -15
+
+0
+
+v'
+
+./
+
+/
+
+/
+
+V
+
+~
+
+V
+
+V
+~
+""-"1
+
+V
+
+7M. RH. "
+
+CAS E:" ~ L .,4
+
+-40
+~
+
+v
+
+Z~
+
+,-- r---
+
+. .
+. - ;5 .. Cs
+
+- (s-18
+
+,
+
+-Ib
+
+-'.... .
+
+A ~~LE
++ 5" •
+0
+
+-I~
+
+l5
+1..1
+
+....
+
+u,~
+
+()
+
+""" ~
+
+10
+
+;, IS:
+
+If.jHOf D,.4..
+S's • 1l" .. S + is ~
+
+. . .
+
+PITCH
+
+20
+
+(
+
+~
+
+OF ... II'jG
+
+-10
+
+30
+
+N
+
+~
+
+°
+
+.... S-
+
+/
+
+~/
+
+l;/I
+
+-30 .........
+
+./
+
+/
+
+~
+
+.
+
+~S
+0
+-b
+-"t
+-I{.
+PI .N GLE:..,e .
+
+-8
+
+~ i'-..
+
+• 5..~ ~ 17S
+
+.
+
+o
+
+0
+
+........
+
+•.
+11:5
+
+.
+
+small oscillation , and physically represent the slope of a curve of X
+on a base u, w, or q.
+Similarly
+
+From the conditions of equilibrium, Xo is balanced by the propeller thrust, Zo by the pun of gravity or Zo = g, and Mo=o.
+Also, Bairstow h as shown that X'J. and Zq may be neglected.
+Xu is the rate of change of X wIth change in forward speed. But
+since X is a function of forward speed squared we may write:
+X
+
+=
+u
+
+AXo =2Xo
+AU
+U
+
+and
+_2Zo
+Z .. - U
+
+s. Doc. 268, 64- 1.
+
+· ,
+
+L
+
+:.. , 1
+
+41
+
+AERONAUTICS.
+
+These coefficients may be obtained directly by calculation since
+Drift
+X o =--' and Zo=g. For example, at 79 miles per hour, V=
+m
+-115.5 feet per second and 'Zo = 32.2. Then
+Z
+
+2 X3 2 .2
+-115.5
+
+u
+
+. Also at 15%, V =
+
+-
+
+- .557
+
+63 .8 feet per second and
+2XIO '
+Xu= -63.8= - .276
+
+The derivatives Xu;, ZID' MID represent the effect of a vertical
+component of velocity. From the well-known method of velocity
+composition, the vertical velocity w acts with the horizontal velocity
+V to cause the apparent wind to have an inclination to the horizontal
+
+~f tan--:l;. This inclination is given to the model in the wind
+tunnel, and X, Z , and M measured for various pitch angles.
+But AB = tan-l ;=57.3;, when AB is a sman angle in degrees .
+
+. X = aX = 57 .3.'~X
+
+"
+
+ID
+
+W
+
+Vao
+
+aa:; is the slope of a curve of X on pitch angle as base.
+
+For example,
+
+aX -.65
+from figure 4, aO = - 2- and
+X
+
+w=
+
+57.3 - .65 '
+-115.5'-2-=
+
+0162
+
++ .
+
+Similar formulas are used to compute Zw and Mw . It may be noted
+that the method assumes that for small oscillations, hence small
+changes 0, the tangent may be substituted for the actual curve.
+The limit of validity is obviously the range of pitch angle over which
+the tangent to the curve is not greatly changed. This range is usually
+about 4 to 8 degrees.
+The values of the resistance derivatives calculated in this manner
+will be found tabulated later.
+ARTICLE
+
+10.
+
+DAMPING.
+
+The damping of pitching about the c. g. is represented by the rotary
+derivative M q • For an angular velocity =q, a. damping moment
+q M is exerted on the aeroplane.
+measure this aerodynamic dampin; , the special oscillating apparatus was designed which is shown by the photograJ?h of figure 10.
+The model is mounted on a massive bracket which PIVOts about the
+
+1::
+
+To
+
+I
+
+I
+
+I
+
+42
+
+AERON AUTICS .
+
+which
+two pointa shown. Fore-a nd-aft arms carry counterweightaspriIlgs
+spIral
+~justed to give a reason able natura l pe~iod. The
+are
+bear ill notches on the arms by means of knife-edged ·shackles. The
+d
+springs insure that the motion shall be oscillatory. The assume
+ne model is arrang ed to be on the axis of
+c. g. location of the aeropla
+rotatio n. The actual center of gravity of the appara tus is not
+.
+considered.
+which
+Frictio n is kept small by careful design of the steel pivota, spring
+points bearing in tool steel cones. The
+are harden ed steel
+knife edges are glass hard. It was found that a conven ient period
+is about one-half second. In still air the appara tus will rocK more
+to
+than 300 times before the amptit ude is diminished by friction
+of the initial displacement.
+one-ni nth
+The mome nt of inertia of the entire oscillating mass was calculated and then checked by an indepe ndent experi mental determ ination.
+Let:
+l=mom ent of inertia of all oscillating parts in slug footunits.
+m' = mass of all oscillating parts in slugs.
+Mo=m oment of air forces on model at rest.
+M8 =mom ent of springs at rest.
+Ko = additio nal mome nt of springs when deflected.
+c = c. g. of entire appara tus above pivot, feet.
+0= angle of pitch'from norma l attitud e in radians .
+dO
+nctIOn
+ampmg mome nt due to f · ' .
+J.Io dt = d '
+
+\
+
+dO
+ue ' d
+ampmg
+J.I.w(Jj= d · ' mome nt dto Will on appara tus.
+SLm;: =-damping mome nt due to wind on model.
+em'O= static mome nt due to gravity .
+
+The equati on of motion then is:
+...iF0
+Idt2 + (J.l.o+J.l.w+SLm)
+
+do
+
+'
+
+dt+(K -em') 0+Mo-M8 = 0
+
+But Mod:. M s, by the initial condition of equilibrium. Let
+'
+dO
+d 20
+J.I.=J.l.o+J.I.w+SLm; then I dt' +I'df+ (K-em ') 0=0
+Tlie solutio n of this equati on is well known to be:
+
+when
+where 0 and oc are arbitra ry consta nts. If time be counte d 8=0 ,
+0
+maxim um then cos{ -} = 1, and
+the am:plitude of swing is a
+initIal displacement. Also if the numbe r of beats be counte d by
+the
+
+I
+
+(
+
+•
+43
+
+AERON AUTICS .
+
+on
+ob eITing the times for succee ding maxim a, a plot of amplit ude
+form:
+time will have for its equati on the simple
+-p.t
+
+(J=(Joe 2f
+
+The coefficient JL is the logarit hmic decrem ent of the oscilla tion
+dies
+and must be numer ically positiv e to insure that the oscillation
+out with time.
+a
+The afpara tus was fitted with a small reflecting prism by which
+in the
+pencil 0 light was deflected toward a ground glass plate seton this
+1'oof of the tunnel . Nine lines s2aced 0.2 inch were ruled
+to a
+plate. With the model at rest the beam of light was brough t the
+on the line marke d zero. By means of a tri~ger
+sharp focus
+was
+ob erver started an oscilla tion of the model, and the spot of lIght in
+oscillate across the scale. The time, t, was observ ed
+observ ed to
+which an oscillation was dampe d from an amplit ude of 9 to an amplitude of 1, for example.
+Then:
+
+loge~=;i=loge9, and knowing I and t,
+
+JL
+
+is calcula ted.
+
+Prelim inary tests showed that the same value of JL was obtain ed
+whethe r the timing stoppe d at (J= 5, 4, 3, 2, or 1.
+Oscilla tion tests were made at five wind velocities varyin g from
+i5 to 35 miles per hour. The coefficient JL appear ed to vary approx
+y.
+mately as the first power of the velocit
+Simila r tests were made with the model for no wind to determ ine
+to frictio n and very
+JLo, which may be said to be due almost wholly
+y to the dampin g of appara tus and model movin g throug h
+slightl
+the air.
+t
+Likewise JJ. w was obtain ed by oscilla ting the appara tus withou
+miles per hour.
+model in winds from 5 to 35
+The coefficient JJ.m has the dimensions 1 pIt V, where p is density of
+t
+air, 1 a linear dimension, and V the velocit y of the wind. To conver
+multip ly by the fourth
+JLm to MfJ,. for the full-size machin e at full speed,
+speed.
+power of 24, the scale, and by the ratio of full speed to modelfollow.
+The numer ical results of tests of the pitchin g oscilla tion
+ote that the dampin g of the pitchin g falls off for low s2eeds. This
+low
+contrib utes to the difficulty of provid ing sufficient stabili ty at
+speeds .
+a
+In the tables following, the numbe r of beats, n, is record ed as
+is not used. Record ed values of nand t are the
+genera l check and
+means of three or five separa te observ ations.
+'Bairstow , loco cit., p. 176.
+
+44
+
+AERONAUTICS .
+
+•
+FtGU
+
+Re: II.
+
+DAM P\ NG COE FFIC.I ENT
+FOR PITC t-(1"lE f\ Be ur C G •.
+
+I-
+
+W
+
+"2-
+
+.0'(0
+
+~
+
+C(
+
+.014
+
+o,~/
+
+lL.
+~o I
+
+!,.o~J
+
+a- U{
+<I:'
+
+u
+
+()
+
+.010
+
+v.
+
+C7
+
+/'
+
+,W oLVA'
+V' W0
+l,Y'
+V
+
+..008
+
+.oob
+
+V)
+
+. 00 .....
+
+.oo~
+
+~
+
+~
+
+-
+
+V
+
+-;;"
+':l
+
+LOO3
+
+~/
+
+~
+OO~,j
+
+V
+
+-d '
+oA-
+
+.s1.-
+
+~
+
+.J ~
+4
+~ .D
+-...;,
+.00' 'I)
+0
+
+10
+15
+I!.o
+l5'
+~O
+WIN t:> VELC)<' tTY M. P. H.
+
+5
+
++-4
+
+p
+
+3S
+
+-
+
+45
+
+AERONAUTICS.
+PITOHING OSCILLATION TESTS.
+
+I model and apparatus=O. 04195
+I apparatus
+= . 0368
+
+Apparatus.
+
+Wind velocity, milea .. . .
+n beats counted ..... .. .
+t seconds ... .. . ... ..... .
+
+o
+
+/.L. • ••• •• ••• ••. •.•.•• ••.
+
+350
+168
+.00096
+
+(less zero) .......... .
+
+o
+
+I"w
+
+14.7
+253
+120
+.00135
+.00039
+
+21.4
+210
+100
+.00162
+. 00066
+
+35
+186
+90
+.00180
+. 00084{Use faired valuea below.
+
+Apparatlls and model with wing Chord 1° to wind.
+
+V miles. ...................
+0
+n beats.. . . . . . . . . . . . . . . . . . . .
+300
+t seconds .. ........... _.....
+160
+I" gr<?ss.. . . . . . . . . . . . . . . . . . . .. . 00115
+1"0 frIction. . . . . . . . . . . . . . .. . . . 00096
+I"w apparatus. .. . .. ..........
+0
+I"m net . . .......... .......... 00019
+
+9.5
+90
+45
+. 00410
+. 00096
+.00035
+. 00284
+
+14.7
+56
+28.5
+. 00646
+. 00096
+.00040
+.0054
+
+21.3
+40
+20
+.0092
+. 0010
+.0006
+.0076
+
+25· 30
+35
+32
+17.5
+16
+. 0105 . 0115
+. 0010 .0010
+.0007 .0009
+.0088 .0096
+
+37.3
+27
+]3.5
+. 0137
+. 0010
+.0011
+. 0117
+
+But J.l.m = - 1)1, Mq when reduced to full size and 79 miles per hour
+.and mass of 55.9 slugs .
+. '. M q =
+
+or for
+
+-
+
+.0096 X (24)4 X (79/30) X 1/ 55.9 = -150.0
+
+V= -114 foot-seconds, Mq = 1.32 V
+Appara/:U3 and model with wing chord 15.5° to wind.
+
+r .... .... .... ............
+
+n .... . .. .................
+t ... ......................
+I" gross ...................
+I'm net ...................
+
+Mq =
+of
+
+-
+
+9.1
+75
+38. 5
+.0048
+.0035
+
+14. 7
+50
+25.0
+.0074
+.0060
+
+21.4
+35
+17.5
+.0105
+. 0089
+
+25
+30
+15
+.0123
+.0106
+
+30
+25
+13
+.0142
+.0123
+
+37.5
+19
+9
+.0205
+.0184
+
+.0123 X (24)4 X (43. 7/30) X 1/55.9 = -106
+
+Mq = 1.66 V where V is - 64 foot-seconds, or 43.7 miles.
+
+The computed values of iJ.m, the model damping coefficient, are
+plotted on fi.o-UTe 11. It appears that fJ.m is approximately a linear
+function of the velocity, as would be expected, and the conversion
+to full scale, full speed, is made as indicated above.
+The damping coefficient is not greatly different for different attitudes, and the following values are obtained by interpolation:
+Angle of
+wing chord
+to wind.
++1°
+7°
+10°
+12°
+14°
+15.5°
+
+Y.
+79.0
+51. 8
+47.0
+45.2
+44.2
+43. 7
+
+U.
+-115.5
+- 75.8
+- 68.8
+- 66.2
+- 64.8
+- 64.0
+
+Mg.
+1.30 U=-150
+1. 49 U=-1l3
+1.55 U=-108
+1. 59 U=-106
+1. 63 U= -106
+1.66 U =-106
+
+46
+
+AERO TAUTICS.
+ARTICLE
+
+11.
+
+RADIUS OF GYRATION.
+
+For the radii of gyration of the fully loaded aeroplane we are indebted to Dr. A. F . Zahm. The actual aeroplane, complete with
+gasoline, water, pilot, passenger, and other weights in place, was
+suspended from a beam by a chain. The center of gravity was first
+located by an inclining method. The machine was then made to
+oscillate in pitch about the point of attachment of the upper end of
+the chain. Light guys were run to tail and wing tips to insure that
+the chain and aeroplane moved as a rigid body.
+Let the distance from center of gravity to point of susp ension be
+denoted b:v h, p the natural period of oscillation in seconds, KB the
+radius of gyratIOn in feet about the Y axis or a.-us of pitch, then
+
+By observation h = 12.2 feet, p = 60/14 seconds.
+K B 2=34, KB=5 .8 feet. 1
+ARTICLE
+
+12.
+
+ROUTH'S DISCRIMINANT.
+
+Bryan 2 has shown that the character of the longitudinal motion
+of an aeroplane may be investigated with reference to the roots of
+a biquadratic equatIOn of the form:
+A A' + BAS+ OA2 + DA + E = 0
+
+The equations of motion may be considered of the form 8 = Ke'Al
+where K is some constant. F or stability tbe quantity A must be
+negative if real, or have its real part negative if complex, in order
+that the amplitude of the motion will dlillinish with time.
+Th./3 conditIOn that the real roots and real parts of imaginary roots
+of a biquadratic eguation with constant coefficients shall be negative
+is that the coeffiCIents A, B, 0, D, E shall each be positive as well
+as the quantity BOD- A D2_ B2E. The latter is commonly known
+as Routh's 3 discriminant .
+The constant coefficients A, B, 0, D, E, are functions of the C011~tants of the aeroplane at the normal fi~g attitude, i. ~., the followmg: X1/" X w, X q, Z1/" Zw, Zq, ~, Mw, .Mq, U, and KB • These are
+resistance and rotary derivatives, velocity, and radius of gyration.
+For a given attitude and for small oscillations about that attitude,
+it is considered that these quantities are constant. For simplicity
+it is here assumed that normal flight takes place in a horizontal plane
+and the inclination of the fli$ht path and consequent components of
+gravity in the axes of X and. Z are eliminated. Also Xq and Zq are
+it is of interest to note that the radius of gyration for rolling was estinlated to be 6.2 feet .
+• Stabi!ity in Aviation.
+• Advanced Rigid Dynamics, E. J. Routh.
+
+1
+
+47
+
+AERONAUTICS.
+
+neglected as unimportant and Jiu is zero by the conditions of equilibrium. For the computation of Routh's discriminant we require to
+know, then, only those quantities which have been so far d etermined,
+and which are assembled below for the different cases investigated.
+Formulre for the coefficients A, B, 0, D, E are_ given by Barrstow
+and are used here, but making 8, X q , Zq, and Mu zero. They are
+copied in simplified form for reference.
+
+A=KB2
+B= - (Mq+ X",KB2 +ZwKB2)
+O=IZw, U /+ XuMq + KBZ/X"" Xwl
+Mw, Mg
+Z"" Zw
+X"" Xw) 0
+D= - Z",) Zw) V
+
+IM",) M
+
+w,
+
+I
+
+Mq
+
+E= -gMwZ",
+ARTICLE
+
+13.
+
+BAIRSTOW'S APPROXIMATE SOLUTION.
+
+From consideration of the usual relative numerical values of the
+coefficients of the biquadratic, Bairstow has shown that the equation
+may be factored to a first approximation and put into the following
+form :
+
+in which the :first factor represents a very short oscillation, which
+in most aeroplanes rapidly aies out and is of no importance. The
+second factor represents a relatively long oscillation involving an
+undulatory flight path with changes in pitch, forward speed, and
+altitude. The long oscillations should diminish in amplitude with
+time) in which case the motion is stable and the aeroplane will return
+to its original normal flight attitude if temporarily deviated therefrom by accidental cause. The motion is unstable if the long oscillation increases in amplitude with time. It will be shown that the
+aeroplane under investigation is stable at high speeds and unstable
+at very low speeds. It is believed that this is true of all aeroplanes.
+CASE 1.
+
+i = jncidence, wing chord to wind
+
++P.
+
+Velocity V= 79 miles. U= - 1l5.5 foot-seconds.
+m=55.9 slugs, KS2= 34.
+X",-.128
+
+Z", - .557
+
+A~+ 34)
+B=+289
+
+X w +·162
+
+Zw - 3.95
+
+Mw+1.74
+Mq - 150
+
+C=+ 834 BCD - A D2_ B2E= +18X106 stable.
+D = +1l5
+E=+ 31
+
+48
+
+AERONAUTICS.
+
+Short oscillation: X2+8.5X+24.5 = 0
+X= - 4.25±2.54i
+
+p=period=2~;4=2.5 seconds.
+t=time to damp 50 per
+
+cent=~:~;=.16 second.
+
+Long oscillation: X2+.125X+.0374=0
+x=- .063±.lS3i
+p=34.3 seconds, t =10. 8 seconds.
+
+The short oscillations are unimportant. The long 0 cillations are
+easy and strongly damped. The aeroplane should be very steady
+at this speed.
+CASE
+
+II.
+
+i=7°, V=51.8 miles, U=-75 .9 foot-seconds.
+
+Xu-·121
+Zu -.849
+
+X w+.1l3
+Zw - 2.26
+
+Mw+2.45
+Mq -113
+
+A=+ 34.0)
+B=+194.0
+C=+467.0 BCD - AD2-B2E=+32X105 stable.
+D=+ 64.3
+E=+ 67.0
+2
+Short oscillation: X +5.7A+15.9=0
+X= - 2.85±2.33i
+p=2.7 seconds
+t =.24 second to damp iiO per cent.
+
+Long oscillation: X2+.078X+.143=0
+X=-.039±. 377i
+p=16.7 seconds
+t =17.7 seconds to damp 50 per cent.
+
+The period is shorter than at high speed and the damping less.
+The aeroplane should therefore be loss comfortable.
+CASE
+
+III.
+
+i=10o , V=47 miles, U= -6S.S foot-seconds.
+X u -.151
+Xw-.075
+
+~:t~gi
+
+Zu-.936
+Zw - 1.46
+
+Mw+ 2 .50
+Mq-lOS
+
+)BCD - CAD2+B2E) = 3.8XI05 stable.
+
+D=+ 42.5
+E=+ 75.3
+Short oscillation: X2+ 4.85X+1O.44=0
+X=- 2.42±2.12
+
+p=2.96 seconds .
+t = .28 second to damp 50 per cent.
+Long oscillation: X2+ .02lA+.212=0
+X=- .01l±.460i
+p = 13.71 seconds.
+t = 62.7 seconds to damp 50 per cent.
+
+This oscillation is rapid and but slightly damped, and would
+probably be uncomfortable. The st ability is slight and wind gusts
+or external disturb ances, if recurrent , might cause trouble.
+
+49
+
+AERQNAUTICS.
+C ASE
+
+IV.
+
+i=12°, V=45.2 miles U=-66.2 foot-seconds.
+X" -.189
+X IV -·236
+
+Z,,- .972
+Z w-· 736
+
+A =+ 34 ]
+B=+137.5
+C=+243 B CD -AD2-B2E=-7XI0 5 UNS'fABLE.
+D=+ 17.4
+E= + 67.2
+Short osciUation: >,2+ 4.04>,+7.14=0
+>.=- 2.02±1.75i
+
+p=3. 59 seconds.
+t = .342 second to damp 50 per cent.
+
+Long oscillation: >,2_ .985>.= .276=0
+>. =+.043 ±.524i
+
+p= 12.0 seconds.
+t =16.0 seconds to double amplitude.
+
+The machine is frankly unstable and the pilot dare not release
+elevator control.
+C AS E
+
+v.
+
+i=14° , V=44.2 miles, U=-64 .8 foot-seconds.
+
+X u- .223
+X w-.132
+
+Zu- .993
+Zw- .553
+
+Mw+1.99
+Mq -106
+
+A=+ 34]
+B=+134
+C=+213 B CD - AD2 -B2
+E=-3.7 X I05
+D=+ 28
+E=+ 63 .6
+CASE
+
+UNSTABLE.
+
+VI.
+
+i=15.5° V=43.7 miles, U=-63.8 foot·seconds.
+
+X,,-.276
+X w- .292
+
+Z,,-l.Ol
+Zw- .673
+
+Mw+2.02
+M q- l06
+
+A=+ 34
+B=+138 ]
+C=+226 BCD-AD2-B2E=-5 X I0 5
+D=+ 24.2
+E=+ 65.7
+
+U
+
+STABLE.
+
+Sbort oscillation: >.2+ 4.06>'+6 .65=0
+>,=- 2.03± 1. 59·i
+
+p=3.95 seconds, period.
+t = .34 seconds to damp 50 per cent .
+Long oscillation: >,2+ .071>.+. 291=0
+>. =+ .0358±.541i
+25302°--S.])oc. 268,64-1----4
+
+hi~
+
+50
+
+AERON AUTICS.
+
+Real part of A is here positive, indicating an oscillation increasing
+with time.
+2..-
+
+P=.541=1l.6 seconds.
+
+t=
+
+.O~~~=19.3 seconds to double amplitude.
+
+The motion is both rapid in :period and rapidly increasing in amplitude. Indeed the amplitude IS doubled in two swings. This aeroplane, if left to itself, would be highly unstable.
+ARTICLE
+
+14.
+
+VARIATION OF LONGITUDINAL STABILITY WITH SPEED.
+
+Preliminary to consideration of the action of gusts on an inherently
+stable aeroplane, it was desired to analyze the motion in still air of a
+machine which could be called inherently stable longitudinally. It
+has been found above that a typical aeroplane becomes Ie s stable
+at low speeds until real instability results. This re ult is somewhat
+unexpeoted in view of the curves of pitching moment JJ1, which indicated static stability at all possible attitudes up to and inoluding
+horizontal flight at + 15°.5. In other words, JJ1w is positive for all
+cases. The instability comes about on acoount of the rapid rate of
+increase of drift at large angles causing Xw to change sign, and on
+account of the les rapid rate of increase of lift, causing ZtO to become small at high angles of pitch. Furthermore, JJ1q dimi nishes at
+low speed.
+From the speed power curves on figure 3, it appears that for angles
+greater than 10°, we are on the part of the power curve which requires more power to go slower, "region of reversed oontrols." This
+region is now found to be dynamically unstable so that controlled
+flight only is possible here. But WIth reversed controls this is
+doubly dangerous.
+The frequency of accidents at low speeds, following the recent
+demand for a wide speed range, con:.fiTms this impression of the
+danger of low speeds when approaching a critical angle and speed.
+The critical angle for instability is clearly an angle less than the possible maximum for flight.
+A fair measure of the relative stability at various speeds may be
+had by notin~ the following tabulation of the values of Routh's
+discriminant, denoted by R:
+Velocity
+in
+miles.
+
+79.0
+
+Wind chord
+
+to
+
+wind.
+
+47.0
+
+1°
+7°
+10°
+
+45.2
+44.2
+43. 7
+
+12°
+14°
+15.5°
+
+51. 8
+
+R.
+5
+
++180 X10 }
++ 32 XI0· Stable.
++ 3. 8XI0·
+7 X I0 6}
+3.7X10· Unstable.
+5 X 10·
+
+The table is reproduced graphically on figure 12.
+
+-----
+
+------
+
+51
+
+AERONAUTICS.
+
+A similar investigation for lateral stability fails to show any marked
+change with s~eed, as would be expected since speed depends on
+pitch angle ana the factors which make or unmake lateral stability
+are but slightly affected by angle of pitch.
+".. c. .. f 2..
+
+t
+
++l80
+
+\
+
++1"0
++140
+
+.
+
+\
+
+.\
+\
+
++fZO
+.. ,00
+
++80
+
+f
+
+\
+
+\
+
+... ''0
+-t40
+
+a:
+
+I\.
+
+\ .f\.
+
+'\
+
++ZO
+0
+
+~
+
+?,,,,
+
+Lij /'
+~~
+III
+
+~,<r
+
+~
+
+~z
+~::a
+,,:
+
+~ ~~
+
+. .
+
+II.
+
+--
+
+~
+
+-2,0
+0
+
+0
+
++4° +: b ... 8° +10· -+ IZ· + If
+w ING CH ORO TO Wit ~O .
+•
+
+2,0
+
+I
+
+ROUTH '.5
+
+D, .SCRIMINAN~
+
+'f(" RI "TIO,.. 'WIT H. ATT.TUOC .
+
+i-
+
+It)
+
+-
+
+-----
+
+REPORT No.1 .
+PART 2.
+
+mEORY OF AN AEROPLANE ENCOUNTERING GUSTS.
+By
+
+EDWIN BIDWEL L WILSON.
+
+ARTICL E
+
+-I .
+
+INTROD UCTION .
+
+The notatio n here used will be in the main that of Bairsto w.
+(Technical Repor t of the Comm ittee for Aerona utics for the Year
+in
+1912-13, p. 143.) As, however, Bai:l'l8tow change s his notatio n
+of his report, we shall begin at the start with some
+the first few pages
+depart ures from him.
+the
+H x, y, z are movin g axes directe d, respec tively, backw ard to ies,
+left; and upwar d relativ e to the driver; if u' , v' ,w' be linear veiocit if
+and p', q', r' be angula r velocities, resolve d along these axes; and
+X',Y' , Z' be forces, and L' M', N' be momen ts of forces (measu red
+of
+per unit mass of the aeropia ne); then the dynam ical equatio ns
+motion are
+(la)
+du'/dt+ w'q' - v'r' =X',
+
+dv' /dt+u' r' -w'p' = Y',
+
+(Ib)
+
+dw' /dt+v' p' "-u'q' =Z',
+
+(Ie)
+
+dh 1/dt - r'h2 + q'hs = mL',
+
+(2a)
+
+dh2/dt -p'hs +r'h1 =m]}P,
+
+(2b)
+
+dhs/dt -q'hl +p'h2 =mN',
+
+(2c)
+
+where m is the mass and
+hi = p' .A. - q' F - r' E,
+
+h2=q 'B-r'D -p' F,
+
+(3b)
+
+hs=r' O-p' E-q'D ,
+52
+
+(3a)
+
+(3c)
+
+53
+
+AERONAU TICS.
+
+are the components of angula,l' momentum,-the CJ.uant~ties A,. B, 0
+being the moments and D, E, F the products of mertla relatIve to
+the moving axes fixed in the body.
+The symmetric aeroplane will alone be considered here;
+
+D-F=O.
+
+(4)
+
+If the machine is in uniform horizontal flight, all the forces,
+moments, linear velocities and angular velocities except u' vanish,
+and u' = U, a negative quantity in magnitude equal to the tmiform
+velocity. (The precise backward direction of the x-axis is that
+which is horizontal in uniform flight, and hence by this definition the
+direction of this axis, and of the z-axis, varies in the aeroplane with
+the speed.)
+If the motion is slightly disturbed, the velocities take the values
+(5)
+
+u' = U+u, v' =v, w' =w, p' =p, q' =q, r' =r,
+
+where u, v, w, p, q, r are small. The products of these small quantities are neglected, as in all discussions of small oscillations, and the
+equations take the form
+du/dt=X', dv/dt+ Ur = Y', dw/dt- Uq=Z',
+
+(6)
+
+Adp/dt - Edr/dt =mL', Bdq/dt =mlrJ', Odr/dt - Edp/dt =mN' .
+
+(7)
+
+In uniform motion the forces and moments all vanish. For the
+disturbed motion they are small and may be expressed linearly in
+terms of u, v, w, p , q, r. The forces are due to three sources: 1° the
+propeller thrust, 2° gravity, 3° the air. We shall assume that the
+propeller thrust (and moment, if any, arising from it) is constant; i. e.,
+the motor is supposed to speed up or slow down under changed conditions so as to deliver a constant thrust. If 0 and <p are the small
+pitch and roll, the components of gravity are gO, - g<p, - g (see
+Bairstow, 144, 7u - w), and its moments are zero because the C. G. is
+taken as origin. The air forces and moments may be written as
+X, Y, Z, L, lrJ, N and develop ed as
+X =Xo+Xuu + Xvv+ X ww+Xpp+ Xqq+Xrr,
+
+(8)
+
+where X u, .L v , • • . •• are the ({resistance derivatives " taken for
+Y
+the relative velocity of machine and wind. (Xo and the propeller
+thrust cancel, so do Zo and g; Yo, L o, Mo, No vanish.)
+In the symmetric aeroplane half the resistance derivatives vanish
+and the six equations of motion separate into two sets of three each,
+one set for the longitudinal, the other for the transverse motion.
+These equations are (Bairstow, 148, 13 and 14 with 8 = 0) for longitudinal motion,
+du/dt=g()+Xuu+Xww+Xqq,
+
+(ga) see ( l a)
+
+dw/dt= Uq+Zuu+Zww+Zqq,
+
+(D b) see (Ie)
+
+E /m. dq/dt= .M".u + Mww + .11 fqq,
+
+(ge) see (2b)
+
+l
+
+54
+
+AERONAu ~rICS .
+
+and, for transverse motion,
+dvldt= -gtp - Vr+ Yvv+ YpP+ Yrr,
+
+(lOa) see (1 b)
+
+Aim. dpldt - Elm. drldt=Lvv+Lpp+Lrr, (lOb) see (2a)
+Olm. drldt - Elm. dpldt= Nvv+ Npp + Nrr. (lOe) see (2e)
+
+The integration of these equations gives the free oscillations of the
+aeroplane.
+ARTICLE
+
+2.
+
+LONGITUDINAL MOTION IN SMALL GUSTS.
+
+A gust if no t too severe m ay be treated by the method of forced
+oscillations. If the aeroplane is traveling on an irregular wind, we
+may regard the average wind velocity relative to the machine as that
+which should be used in the computation of the resistance derivatives, and we may regard the departures of the actual relative velocity
+from the mean as small quantities inducing additional forces into
+the equations of motion.
+Suppose :first a head-on gustiness. This would introduce an extra
+term of the form Xuu into the :first equation, Zuu in the second,
+and so on. If, as a result of the gust, the machine tilted appreciably,
+the originally head-on gust would no longer be head-on, but would
+have components U lI WI and give rise to the term X U u 1 + X W w 1 in the
+:first equation. It is clear, however, that under the hypothesis of
+small oscillations, Wi would remain small of the second order relative
+to u 1 • The term X W w 1 could then be neglected relative to .LYUulI
+unless Xw much exceeded Xu'
+We should in general allow a gust to have componentsuil Vii W il Pll
+(j1l r 1 relative to the axes. This would take into account any possible rotational motion in the gust. The rotational motion of a gust
+may be quite small. In the discussion by Glazebrook (Aeronautical
+Journal, July, 1914, pp. 272-301) nothing is accomplished relative
+to rotational gusts. Yet it may well be that the rotational element
+is of great importance. For the rot ary derivatives, in the case of
+the machine whose derivatives are tabulated by Bairstow (loc. cit.,
+159), are large. Thus a term Mq(jl = -210(jl would be comparable
+with X U 1 = -0.14u1 if (jl were 1/700 of u 1 ; i. e., if the gust were a uniu
+form whirl of radius 700 teet. In tho same way Lp is large. In the
+machine that will be discussed in what follows Mq is also large,
+viz.,-150.
+
+The equations for the longitudinal motion in a general gust are
+(see 9a-e)
+dujdt-g8-X uu-XW w -Xq(j = X U 1 + X W 1 + X q(jl'
+u
+w
+(lla)
+dwldt- Vq-Zuu-Zww-Zqq
+
+= ZUUl+ZWWl+ Zq(jl"
+
+B lm dqldt- Muu- Mww-Mq<J= M U 1 + MWWl + M qql'
+u
+
+(llb)
+(lle)
+
+The solution of these equations consists of two parts: 10 the socalled complementary function whicb. gives the natural oscillation ,
+2 0 the particular integral which gives the forced oscillations due to
+the gust. To effect a solution for the particular integral, we must
+
+55
+
+AERONAUTICS.
+
+make some assumption as to the value of the components ulJ WI' qt
+of the gusts as functions of the time. Before making such an assumption for the particular integral, the solution by the "operational"
+method may be indicated. (See Wilson, Advanced Calculus, p. 223.)
+Let D denote differentiation. The equations may be written
+(12a)
+(12b)
+
+-Zl£U+ (D-Zw)w- (Zq+ V)D8=ZUUl +ZWWl +Zqq"
+- Muu - Mww + (7c 2 D2 - MqD)8 = Ml£U + MWWl + Mqqu
+B
+
+(12c)
+
+t
+
+where k B =B/m. These eq,uations are solved algebraically by
+multiplying by the proper cofactor determinants and adding. Then
+2
+
+I IXu
+
+I
+
+DI- X " -Xw - (XqD+g)
+-Xw - (XqD+g)
+-Zl£ D-Zw -(f~ V)D U= ZuD-Zw -Cfq-t; V)D
+ut
+- M u - M,,, 7c Bi.J - MqD
+Ml£ - Mw lc BD - MgD
+
+I
+
++ IXw -Xw - (XqD+g)
+q+2 V)D wt (13)
+ZwD-Zw
+Mw - Mw k BD - MqD
+
+-(f
+
+I
+
++ IXq -Xw-(XqD+g)
+J;.'l.. D - Zw - (Zq+ V)D qt
+Mq - Mw 7c 2B D2 - MgD
+01",
+
+if the determinant on the left be denoted by t::.,
+
+Xu - Xw - (XqD+g)
+t::.U= Zl£ D-Zw -(f'l.....-1; V)D
+1If.... - Mw 7c BU - MqD
+
+I
+
+x -
+
+IM:.
+
++D
+
+(X D+g) 1
+k2BD2'!... Mq·D W t
+
++
+
+I
+
+(14a)
+
+Ut
+
+I 1r D =i1 -l[;b2 Iqt·
+Xq -Xw -g
+q
+
+w
+There are similar equations for wand 8, namely,
+t::.u·=
+
+D-XuXw - (XqD+g)
+-ZuZw - 2(Z~+ V)D
+-MuMw 7c sD -MqD
+
+I
+
+I
+
+I
+
++DI Z -(Z +2 V)D
+B
+ifu 7c 27J - MgD U1
+t::.8 =
+
+I
+
+(14b)
+
+Wt
+
+I
+
+q
+ID-X"X -g
++ == fluZMq - 7c~~2 qll
+(14c)
+
+The general (literal) integration of these equations would be so
+complicated as to be useless. We shall make use of the formulas
+only after simplification by the insertion of numerical data.
+
+56
+
+AERONAUTICS.
+
+Possible methods of treating gusts.-The only treatment of gusts
+which I have seen is that described somewhat popularly b[ Glazebrook Ooc. cit.). He seems to state, as the main method 0 attack,
+that of small differences whereby it is assumed that the involved
+time over which the motion is to be studied is divided into small parts,
+and that the atmospheric conditions remain constant during each of
+these parts. By then regarding the differential equations of motion
+as equations in differences of the following form,
+b.U' = (X' -w'q' +v'r')b.t, etc.,
+
+b.h1 = (mL' +r;h2 - q'hs)b.t, etc.,
+it is possible to compute, through a series of intervals b.t, the approximate positions of the aeroplane. This method is, as Glazebrook
+states, exceedingly tedious, for b.t must be taken very small, indeed
+only a small part of a second in the case of a sharp gust, in order that
+the solution may be even approximately satisfactory for the differential equations. Moreover, the whole calculation apparently has
+to be done from the beginning for each new type of O'ust which one
+desires to study. The method, however, is applicabfe in all generality irrespective of the stability of the aeroplane.
+The reason that I have chosen to operate on the basis of small
+oscillations is that after a certain amount of preliminary calculation
+has been accomplished my formulas will enable me to treat very
+rapidly a series of very different types of gusts. My method is not
+applicable, of course, to machines which are not stable, for the oscillatIOns could not remain small with such machines, but it is probably
+doubtful whether the motion of the unstable aeroplane in a gusty
+wind is of very great importance, as the instability of the machme is
+not unlikely to cause indeterminately violent motions on relatively
+small gusts. I have tried to devise methods which would enable me
+to use graphical apparatus for obtaining the solutions here desired,
+but have been unable to throw the equations into a form which lends
+itself to such methods.
+Moreover, the coefficients which enter into the equations and into
+the solutions at all stages of the work are of such varying ma!p1itudes
+that it is difficult to obtain any reasonably accurate results. It seems
+impossible-I have not yet succeeded in avoiding the difficulty-to
+eliminate the occasional necessity of subtracting numbers which are
+nearly equal in magnitude; thus the accuracy of the figures is, after
+subtraction, seriously impaired. As I was aware that the data furnished me were probably not accurate to three figures, I first made
+the calculations with slide-rule accuracy, only to find that the final
+results became wholly illusory, owing to the difficulty just mentioned.
+I have therefore had to recompute everything with 4-place logarithm
+tables. Most of the figures which occur in the work are therefore
+4-place numbers. Those which appear to have only three significant
+figures generally have the fourth figure zero when occurring in
+formulas containing 4-place numbers. In the calculations toward the
+end of the research the 4-fiO'ure accuracy has become reduced to
+three or two figure accuracy, ~ut it did not seem best systematically
+to reduce the numbers by the omission of two figures, although this
+reduction has occasionally been made in final calculations.
+
+57
+
+AEROKAUTICS.
+ARTICLE
+
+3.
+
+NUMERICAL EQUATIONS FOR IDGH SPEED.
+
+The data for high speed are (see Hunsak er, p. 47):
+Xu= - 0.128,
+Z u= -0.557,
+Mu=O,
+Blm = 7c 2B = 34,
+
+Xw=
+Zw =
+M w=
+U=
+
++0. 162,
+-3.95,
++ 1.74,
+-115.5 ,
+
+Xq=O
+Zq=O
+J{q=
+
+(1 5)
+
+-150
+
+g=32.17
+
+The cofactors 0 in the determinant D. are-(Zq+U)DI_I D + 3 .95
+MqD - 1. 74
+
+7C 2
+BD2 -
+
+115.5D
+r
+34D2 + J 50D
+
+= 34Ds + 284.3D2 + 793.5D = 011
+-Mw
+
+I-Xw
+
+7c2BD2_MqDI_I-1.74 34D 2+ 150D I
+-(XqD+g) -1-0 .162
+-32.17
+=5.508D2+24.30D+ 55 .98 =021
+0.162
+- 32. 17 1
+3.95
+115.5D
+13.4G + 127.1=osl
+D
+-
+
+ID+
+
+115 .5D
+
+0 .5571
+150D
+0
+-18 .94D2-83.56D =012
+34D2+
+1
+
+I
+
+- 32.17
+34D2+ 150D
+34DS + 154.3D2 + 19.20D = 022
+32.17
+D + 0. 128 1
+
+0.557
+1 115.5D
+-115.5D2-14.78D-17.92 = 032
+
+Z
+I- "
+-Mu
+
+D-Zwl
+-Mw
+
+l-X w
+-Mw
+
+D-Xul
+-Mu
+
+ID-X,.
+-Z,.
+
+-XI
+D-Zww
+
+0.557
+
+-
+
+o
+
+1
+
+D + 3. 95 1
+- 1.74
+
+- 0.9692 = 013
+-
+
+D+ 0. 128 1
+•
+0
+1.74D+ .2227 ~ 02S
+0.162
+
+1-1.7 ~
+
+D +0 .128
+
+-0.1621
+
+I 0.557 D+ 3.95
+D2 + 4.078D + .5957
+= OS2
+
+The value of the determinant D. is
+34D+2 .7D3+833 .0D2+ 115.1D+31.18=
+34(D4 + 8.4g0Da + 24.50D2 + 3 .385D + 0.9170).
+
+58
+
+AER.ONA UTICS.
+
+(The value of the determinant checks by three calculations.)
+The roots of the equation
+f(D) = D4 +8.49D3+24 .5D2 +3.385D+0.917=O
+
+(16)
+
+determine the decrements and periods of the natural oscillations,
+and must be found. (Unfortunately these roots must be found with
+considerable accuracy, and the rough :first approximations, such as
+are indicated by Bail'stow, seem insufficient for our use.) Let it be
+assumed that one root is so large that it may be found approximately
+from
+D' +8.49D3+24 .5D~=D 2+ .49D+24.5=0.
+Then D =
+
+-
+
+4.245 ± 2.545i.
+
+If now r be an approximate solution of JCD) = 0, a new approximation may be had by assuming r + x, with x mall, as a root.
+Then
+_ fer ) _ _ r 4 +8.49r'+24.5r + 3.385r+0.917
+x- - !'(r) 4r3+ 25.47r2+ 49r+ 3.385
+approximately.
+
+.A'3 r2 + 8.49r + 24.5 = 0, the fraction simplifies to
+3.385r+0.917 063 107'
+x =-23.08r+211.4=·
++. ~,
+
+if r = - 4.245 - '2.545i.
+
+This root of fCD) = 0 is therefore
+D=
+
+-
+
+4.182 ± 2.438i.
+
+The factor of fCD) corresponding to this pair of roots is
+D2 + 8.364D + 23.43.
+
+(17a)
+
+Let the other factor be D2+aD+b. Then 23.43b=0.917 and
+b = .03914. Also, 8.364(.0391) + 23.43a = 3.385 or 23.43a = 3.058
+and a='.1305. Hence the second factor is
+DZ + .1305D + .03914.
+
+(l7b)
+
+As a check on the work we may multiply the two factors together;
+we find
+CD2+ 8.364D +23.43) CD2 + .1305D + .03914) =
+D4 + 8.494D3 + 24.56D2 + 3.385D + .9170.
+We can find, merely by careful trial, better factors as
+
+CDz + 8.359D + 23.37) CD2 + .1308D + .03924) =
+
+(18)
+
+D4 + 8.490D + 24.50D2 + 3.385D + .9170.
+
+The definitive roots offCD) =.1.=0 may therefore be taken as
+a = -4.180-2.430i,
+
+c= - .0654-.1870i,
+
+b = -4.180+2.43Oi
+d= - .0654 + .187Oi
+
+(19)
+
+- - - - - - - - - - - - - - - - - - - -- - -
+
+- -----
+
+--------
+
+59
+
+AERONAUTICS.
+
+)
+
+ARTICLE
+
+4. '
+
+INTEGRATION FOR mGH SPEED.
+
+The numerical equation for u is (see 14a) :
+34 (D'+8.49 DS+24.5 D2+3.385 D+0.917 ) u
+=
+
+=
+
+(X"S ll +ZUS21) ~ + DSnw l + MqSSlql
+-34 (0.128 D3+ 1.160 D2+3.385 D+O.917) 'Ut
+
++34 D (0.162 D2+0.715 D+1.647)
+
+(20a)
+
+WI
+
+-34 (59.37 D+560.6) ql'
+
+The numerical equa tion for
+
+is (see 14b):
+
+W
+
+34 (D'+8.49 DS+24.5 D2+3.385 D+O.917)
+
+W
+
+=
+
+(X W 512 + Z ,.5n + Mw5s2)
+
+=
+
+-34 (3.95 D3+23 .94 D2j3.385 D+0.917)
+
+WI
+
++D5 12u 1 + MqSS2ql
+WI
+
+(2 0b )
+
+-34 Dl (0.557 D+2.458) u 1 '
+
+/
+
+/
+
++34 (509.5 D2+65.21 D+79.05 ) q1'
+
+The numerical equation for
+
+(J
+
+is (see 14c) :
+
+34 (D'+8.49 D'+24.5 D2+3.385 D+0.917)
+
+(J
+
+MqSasql + D51SU 1 + D53Sw l
+=34 (4.412 D2+17.99 D+2.628) ql
+
+(20e)
+
+=
+
+-34 (0.02851) DU I +34
+
+D(.0511~
+
+D+ .00655)
+
+WI'
+
+The solutions are of the type:
+
+U= 011~ + 012 ebe + 01Sea + 01,ede + I u ,
+
+W= 0 21 ~ + On&e + 023ea + Ouede + 1"17
+(J=
+
+\,
+
+031~+
+
+(21)
+
+032ebe+ 033ea+ Os,ede+ls,
+
+where a, b, c, d are the roots of the biquadratic (see 19), Dt, certain
+constants of integration, and I u, 110 , Is a set of particular solutions
+of the equations. We- shall determine lUI 110 , Is in such a manner
+that they will not contain the functions eal , etc.; we may: therefore
+determine in advance the relations between the twelve O's. (This
+will debar us from using as gusts U l1 W l1 q l1 those which are of the
+form Oeal, etc.; but this restriction is not important-such a damped
+~t tuned to the damping and. period of the machine is highly
+nnprobable in nature.)
+If we substitute u, w, (J in the equations (14), the particular solutions must cancel out among themselves (since they can not cancel
+.
+terms of the form eat) and leave
+
+(a-Xu)
+
+(Xqa+jl) 0. eat + similar terms=O,
+U) act~+ __________
+MW021& + (7c'BD MqD) 031~+ __________ -0.
+
+011~-XWo.l~-
+
+=ZuOJJeat~(a-Zw) P21~- (~+
+~Ulleat
+
+.:0,
+
+AERONAUTICS.
+
+60
+
+al
+
+These equations hold identically in t, and the coefficient of e , etc., in
+each must vanish. The three homogeneous equations in the three
+unknowns 0,117 0,21' GS1 (or th~ similar equations in 0,12' 0,;'2' GS2 ; 0,137
+0 , Oss; Ow 0 210 , OM) are consIstent because a (or b c, d) 18 a root of
+28
+the determinant A, and the solutions are:
+0,11: 0,21:
+
+rY
+
+VS1=
+
+I -X
+
+W
+
+a_Z w
+
+-g
+_
+
+II-g
+
+a-Xulla-X a-Z;:'
+-X
+_Zuu
+
+Va: - Va -Zul:
+
+I
+
+with 0,12: 0,22: GS2 determined by the same functions of b. In words:
+To obtain the ratios of the coefficients of eat in u, v, w, substitute
+D=a in the determinants OS17 OS2' oss· Or 0,12: 0,21: GS1 as
+13.46a+ 127.1 : _115.5a2 -14.78a-17.92 : a2+4.078a+ .5957
+or G : 0,21: Gs1 =13.46a+127.1 : 950.8a+2560 : -4.281a-22.81.
+n
+This gives 011 : 0,21: GSI as
+70.8 _ 32.7 i: -1414 - 2310 i: - 4.92 + 10.40 i or as
+1: - 4.04 - 34.52i: - .1132 + .0946 i.
+The values of G1Z : Gzz : 0,32 are the conjugates
+.
+~
+1:-4.04+34.5i:-·.1132 - .0946 i.
+To :find GIS: GZ8 : Gss we must substitute c= - .065 - .187 i in the same
+determinants. Then
+GIS: G2S : 0,88= 13.46c+ 127.1: .33c-13.39: 3.947c+ .5565. This gives
+0,18: 0,28: Gss as
+or
+
+126.2- 2.516 i: -13.37 - .0623 i: .2983 - .7380 i
+1: - .1058 - .002587 i: .002478 - .005799 i.
+
+The values of the conjugates are:
+0,14:
+
+GZ4 : GH = 1: - .1058 + .002587 i: .002478 + .005799 i.
+
+The general solutions of the equation of motion are:
+u = Gn eal + G1Ze bt + G1s ect + Guedt + lUI
+(22a)
+bt
+w = ( - 4.04 - 34.5 i) Gneal + ( - 4.04 + 34.5 i) G12e
++ ( _ .1058 - .002587 i) Glsect + ( - .1058 + .002587 i) Guedt + IIl17
+(22b)
+al + (- .1132 - .0946 i) G1zebt
+8= (- .1132 + .0946 i) Gne
+(22c)
+dt
++ (.002478 - .005799 i) 0,1 sect + (.002478+ .005799 i)G14e + h
+
+From these equations we see that the heavily damped short period
+oscillation (roots a, b) is about 34~ times as strong in w as in u;
+whereas the mildly damped long :period oscillation (roots c, d) is
+about 9~ times as effective in u as ill w. Moreover, the short period
+motions in u and ware about quartered; but the long period motions
+are in opposite phase. The amplitude of the short period motion in
+8 is about
+that of w; hence for each foot-second of short oscillation
+in w there is about to in 8. The amplitude of the long period motion
+in 8 is about .006 of that in u; hence for each foot-second of long
+oscillation in u there is about 1° in 8. The damping of the short
+.oscillation is so strong that the amplitude is reduced to about one-
+
+m
+
+AERONAUTICS.
+
+61
+
+ninetieth in one second where in the case of the long oscillation
+the reduction is only to about nine-tenths of its original value in one
+second; the relative amplitudes in the cases of u, w, (J are more
+important in the case of the long than in that of the shor t period
+oscillation because the latter is so quickly damped out that the
+swing may not get well started. However, the extreme magnitude of
+the short period oscillation in W as compared with u indicates the
+possibility of relatively violent accelerations in W,' indeed, it is the
+short period oscillation which may account for initial difficulties
+whereas the long period oscillation accounts for the progressive
+troubles, due to gusts.
+There remain to be determined the values of the constants 0 of
+integration from the initial conditions of uniform flight, i. e., U=W=
+(J = q = O.
+Let the particular solutions have the initial values 100 ,
+Two, 100 , Then
+
+04
+
+0= 011 + 0 12 + 0 13 +
++ Iuo,
+0 =( - 4.04 - 34.5i) Un + ( - 4.04 + 34.5 i) 0 12
++ ( - .1058 - .002587 i) 0 13 + ( - .1058 + .002587 i) 0 14 + l wo,
+0 = (- .1132+ .0946 i) 0 11 + (- .1132 - .0946 i) 0 12
++ ( .002478 - .005799 i) 0 13 + (.002478+ .005799 i) 014 + 100 ,
+0= (- .1132+ .0946 i)aOll + (- .1132 - .0946 i)b012
++ (.002478 - .005799 i)C013 + (.002478 + .005799 i)d014 + 1'00l
+or 0 = (.703 - .205 i) 011 + ( .703 + .205 i)012+ (- .001246 - .000084 i)0'3
++ ( - .001246 + .000084 i) 014 + 1'00'
+
+The values of Ou; 012 and 013 , 014 aye conjugate imaginaries; hence
+OI1+~z=A, Ci3+014=B, i(01Z - 0 11)=0, i(014-013)=D are real.
+The equations may therefore be written
+O=A+B+luo
+0= -4 .04 A+34 .5 0- .1058 B+.002587 D+lwo
+0= - .132 A- .0946 0+ .002478 B+.005799 D+loo
+0= .703 A + .205 0- .00 1246 B + .000084 D + 1'00'
+
+The values for A, B, 0, D are (as found by determinants and checked
+by substitution) :
+A= -.0008856100 +.008198 l wo + ·01621 100 -1.372 l'eo,
+0= - .003 196 luo- .02803 l wo+ .01476 100 - .1543 1'00'
+(23)
+B= - (1- .0008856)luo - .008198 lwo- .01621100 + 1.3721'00'
+D = .35771uo - .2940 l wo-172.0 100 - 29 .89 If 00'
+
+The solutions (~2) of the equations of motion of the aeroplane involve imaginary numbers from which they may be freed by using
+A, B, 0, D in place of 0 111 0IZ, 0131 014' The equations then become
+
+u = e-4•18t (A cos 2.43t + 0 sin 2.43t]
++ e-·0654t (B cos .187t+D sin .187t) + lu,
+w=e4 . 18t [(34.5 0-4.04 A) cos 2.43t
+- (34.5 A + 4.04 0) sin 2.43t]
++ e-·0654t [(.0025 7 D- .1058 B) cos .187t
+- (. 002587 B + .1058 D) sin .187t] + I w ,
+
+62
+
+AERONAUTICS.
+
+8 = e-' 18t [ - (.1132 A + .0946 0) cos 2.43t
++ (.0946 A- .1132 0) sin 2.43t]
+
++ e-.0654t [(.00278 B + .005799 D) cos .187t
++ (.002478 D- .005799 B) sin .187t]+ 10.
+
+These formulas enable us to study any partioular gust we desire.
+It is merely necessary_to find the particular solutions, then the
+constants A, B, 0, D. We shall reduce the coefficients in the parentheses. Then
+
+u = e-4·18t (A cos 2.43t + 0 sin 2.43t)
++e-.0654t (B cos .187t+ D sin . 187t) + IUJ
+to =
+
+(24a)
+
+e-ust (A' cos 2.43t + 0' sin 2.43t)
++ e-. 0654t (B' cos .187t + D' sin . 187t) + lw, (24b)
+
+8 = e-4·18t (A" cos 2.43t + 0" sin 2.43t)
++e-.0654t (B" cos .187t+D" sin .187t) + 18: (24c)
+where
+
+A' = - .1066 Iuo -1.0001 lwo+ .4436 180 + .220 1'00,
+0' = .04346 It£O- .1696 lwo- .6190100 + 47.931'00'
+
+(25)
+
+B'=.1066 1uo +.OOOl07 1wo-.4436 100 -.220 1'00'
+D' = - .03523 luo+ .03112 1wo+ 18.20100 + 3.158 1'00'
+
+A" =
+
+0" =
+
++ .00040241 + .001724 1wo- .003231 100+ .169 1'00'
++ .0002778 1uo- .003947 1wo- .000136 100 - .1123 1"0,
+00
+
+(26)
+
+B" = - .0004024 1uo- .001724 1wo- .99676 100 - .1698 1'00)
+D"=.006683 1uo-.000681 1wo -.4261 100 -.08201 1'00.
+
+In any particular case the calculation of the coefficients in (24)
+from (23), (25), (26) is likely to be relatively simple because there
+are so many terms that for that case may be negligible .
+.ARTICLE
+
+5.
+
+SOME SPECIAL GUSTS.
+
+If we wish to represent a gust which, starting from the condition
+of still air, increases to a certain intensity J we may use the function
+(24)
+
+The value of l' determines the sharpness of the gust. If r = I, the
+gust has reached about two-thirds of Its value in one second; if r=5,
+the gust has reached two-thirds of its value in one-fifth of a second;
+if r=t, the two-thirds intensity is reached in 5 seconds. We may perhaps regard r = 1 as giving a moderately shar~ gust, r = 5 as giving a
+very sharp, and l' =t as giving a toll'lrably IDlld gust. The functlOn
+(24) has the advantage of being in such form that the determination
+of the particular integrals is easy. (See Wilson's Advanced Calculus.)
+
+63
+
+AERONAUTICS.
+CASE 1.
+Head-ongust-mild. UI=J (l-e-· 2t ).
+In equations (20) we let U 1 = J (1- r· 2t ), WI = ql = O.
+
+I", = - J (1- .247 e-· Zt ),
+1w = .082J r· 2t ,
+10 = - .00495J e-· 2t,
+1'0=.00099J r· Zt ,
+
+Then
+
+11U) = - .753J,
+1wo = - .082 J ,
+1'00 = - 0049J,
+1'00= .00099J.
+
+( . B.-The total increase J of the wind occurs everywhere as a
+factor and may be omitted-the results then are for an increase of
+1 foot-second.)
+u
+
+=
+
+J e-· 0654t (.622 cos .187t+ .630 sin .187t) - J(l- . 247e- 2t ) ,
+
+w=Jr4.18t (-.004 cos 2.43t+.003 sin 2.43t)-Je--°654t (.078 cos .187t+
+.059 sin . 187t) + .082Je-· 2t ,
+8=Je-·0654t(.00495 cos .187t- .0031 sin .187t) - .00495Je-· 2t .
+
+It arpears from these equations that the effect of a mild head-on
+gust 0 magnitude J is as follows: (1) The machine takes up an easy
+slowly damped oscillation in u of amplitude about 89 per cent of J;
+after the oscillation dies out the machme is making a speed J less relative to the ground and hence the original speed relatIve to the wind.
+(2) There is a rapidly damped oscillation in w of rather small magnitude and a slowly damped one of about 10 per cent of J, the final
+condition being that of horizontal flight. (3) There is a slow oscillation in pitch of about .0058 J radians or about .32 JO. If the magnitude J is great, the 'pitching becomes so marked that the approximate method of solutIOn can no longer be considered valid-a gust
+of 20 foo t.-seconds causing a pitch of some 6°. As the period is Tong
+(about one-half minute) the pilot should have ample time to con-ect
+the trouble before it produces serious consequences.
+'
+The result of a tail-on gust is the opposite of that of the head-on
+gust and therefore need not be treated separately. For the head-on
+gust J is negative; for a rear gust, positive.
+To calculate the stresses on the machine or operator caused by the
+gust we have merely to find the accelerations du/dt and dw/dt of which
+the first is (approximately)du/dt=Je-·0654t(.08 cos .187t - .16 sin .187t) - .05Je-· 2t .
+
+This acceleration reaches a maximum of something of the order of
+J/I0; and if J should be 20 foot-seconds, the acceleration would be
+only about 2, or 6 per cent of g-not a large amount. The acceleration dw/dt is likeWIse small. (N. B.-The initial accelerations du/dt
+and dw/dt should vanish, because the gust starts from zero. That
+the initial values are not exactly zero in the above formulf!,s is due to
+the roughness of the final calculations for u and w.)
+The path of the machine varies from the horizontal by the amount
+Z= [<W+115 .58)dt
+• 0
+
+64
+
+AERONAUTICS.
+
+which accounts for the effect of the vertical velocity and of the climbing in the path. The result is (roughly)
+z= J l~-·0654t(.5 cos .187t-.4 sin .187t)dt- .5e-· 2t dt,
+z= J[e-·0 6
+5-1t(cos .187t+3 sin .187t)+ 2.5e-· 2t -3.5].
+
+The motion is oscillatory approaching as a limit z = - 3.5 J. The
+machine will rise 70 feet when the gust is 20 foot- econds h ead-on.
+CASE 2 .
+
+Up gust--mild.
+
+WI
+
+=J(I- e-· 2t ).
+
+1,. = .305 J e-· 2t ,
+
+1"0= .305 J ,
+
+l w= J(I-1.01 2e-·
+
+18 = .000737 J e-
+
+2t
+
+lwo= - .012 J ,
+
+2t ),
+
+11;0= .000737 J,
+
+,
+
+18 = - .000147 J e-·
+
+2t ,
+
+]'80= -
+
+.000147 J.
+
+U=Je-·0654t(-.305 cos.l 7t-.Ol08 sin .187t)+. 305 J e- ·2t ,
+W =
+
+J e-UBt ( - .02 cos 2.43t+ .026 sin 2.43t) + J e-·0654t ( .032 cos .187t+
+.002 sin .187t)+J(1 -1.012e-· 2t ),
+
+O= J e-· 0654t ( .0008 cos 187t+ .0017 sin .187t) + .00074e-· 2t ).
+
+The effect of the up gust is to set up a small long oscillation in u
+of magnitude about 0.3 J, a very sm all oscillation III W, and a long
+.
+oscillation of intensity .0018 J radians or .11 J Oin O The comparative effects on the velocity and angle in the case of head-on and up
+gusts show that the up gust is only about one-third as effective as the
+head-on gust. The accelerations in the case of the up gust are all
+small.
+To find the displacement in a vertical direction we integrate as
+before.
+z=
+
+l'cw + 115.50)dt.
+
+It is scarcely necessary to trouble with the trigonometric terms
+partly because the motlOn is less pronounced than in Case 1, partly
+because there is here the secular term Jt, which will carry the machine
+up with the gust and will be the chief effect after the lapse of a shor t
+time.
+A down gust is in every way the opposite of an up gust and n eed
+not be separately treated.
+CASE
+
+3.
+
+Rotary gust--mild.
+
+ql = J ( I- e-· 2t ).
+
+1,. = -J(610.6-475.5e-·2t ),
+l w= J(8 6.21-74.87e- ·2t ),
+
+lwo = 11.34 J .
+
+19 = J(2.865 + .691e-·2t ) ,
+
+leo = 3.556 J.
+
+luo= -1 35.1 J.
+
+65
+
+AERONAUTICS.
+
+10= - .138 J e
+
+- .2t,
+
+/180 = - .138 J .
+
+Iu = Je-4.l8t( .46 cos 2.43t+ .1875 sin 2.43t)
++ J e-· o054t (134.7 cos .187t-659 sin .187t)
+- J(610.6 - 475 .5e -.2t),
+I w = J e-4·18t(4 .61 cos 2.4'3t-16 .82 sin 2.43t)
++Je-.oOS4t(-15.95 cos .187t+70.08 sin .187t)
++ J (86.21- 74. 87e- ·2t ),
+18= J e-4.18t( - .0698 cos 2.43t+ .0223 sin 2.43t)
++ J e-· 0654t ( - 3.487 cos .187t- 2.414 sin .187t)
++J(2.865+.691 e -.2t).
+
+The effect of the rotary gust is a long oscillation in u (the short
+one is n egligible) of magnitude about 670 J, a short oscillation in w
+of about 17 J and a long one of about 71 J, a long oscillation in e of
+about 4.1 J. The comparison with former cases may be made by
+supposing first that the oscillation in u may reach some 20 footseconds. Then J = 1/33 = .03. The amplitude of the oscillation
+in e is then some 0.12 Tadians, which is an amount comparable with
+the 6° of Case 1. To get an idea of what J = .03 means, we may
+note that if a gust of 20 foot-seconds is due to a whirl of the air as
+a solid body WIth ql = .03, the radius of the whirl is 660 feet. We
+may therefore say that the effect of a whirl of radius 660 generating
+velocity of 20 foot-seconds is of itself about equal to that of a head-on
+velocity of that amount. If, however, a machine ran into such a
+whirl, 'it would experience both the effect of the whirl and of the
+linear velocity generated by it and would be disturbed considerably
+more than if it had encountered a pure head-on gust. We may
+therefore say that if the head-on gust arises from a whirl of materinlly less than 660-foot radius, the effect of the whirl is quite considerably larger than that due to a straight head-on gust of equal
+magnitude.
+The conditions after enough time has elapsed to allow the exponential term to become small is
+1u= -610 .6 J. I w =86.2 J . 18=2.865 J.
+It is therefore seen that the machine takes up the head-on velocity,
+acquires a small upward velocity, and is inclined at an angle 2.865J
+radians to the horizontal l these effects being due exclusively to
+the rotary motion of the au'. The path in space could be obtained
+by integration, but (like the effects previously mentioned) would
+not be the true path if the rotary motion were accompanied by
+horizontal or vertical linear gusts. It seems therefore scarcely
+worth while to find the p ath.
+The value that I attach to this theory of rotary gusts does not
+arise so much from the fact that such gusts seem nowhere to have
+been treated as from the revelation of the powerful effects of such
+gusts. When a machine is flying low it must expect to meet air
+which has b een set in rotation by the friction of the wind against
+the ground, against buildings, or against trees. It seems certa~
+that very m aterial angular velocities might be set up and that these
+might (owing to their short radius) induce only moderate linear
+gusts. In such cases, if they can arise as assumed, the machine
+25302 °-S. Doc. 268, 64-1-5
+
+66
+
+AERONAUTICS.
+
+might behave very much worse than could be foreseen when nothing
+is known of rotary gusts. It is not unlikely, however, that rotary
+gusts would be very irregular themselves and that, before the
+machine could feel the full effects of one, the ~ust might have disappeared. In the same way rotation could be generated at the
+interface between dark and lightJ. r egions of air-indeed any sharp
+relative motion of the air is likely to contain rotation.
+CASE 4.
+Head-on gust~oderate. U t = J(l- e- t ).
+lu= - J(l+ .09876e-t ) ,
+
+1'UO = -1.09876 J,
+
+lw= .1307 Jet,
+
+l wo= .1307 J,
+
+19= - .00196 J e-t ,
+1'9= + .00196 Je- t ,
+
+190= - .00196 J,
+1'90=
+
++ .00196 J.
+
+u=Je-4·tBt( - .000676 cos 2.43t - .000486 sin 2.43t
++Je-·0654t(1.09944 cos .1 7t- .1528 sin .187t)
+- J (1 + .09876e-t ),
+8t
+W= J e- 4 •1 ( - .01405 cos 2.43t + .02528 sin 2.43t)
++ J e-· 065 (t( - .1159 cos .187t+ .01493 sin .187t)
++ .1307Je-t,
+0= Je-4·1 8t (.0001207 cos 2.43t- .00000895 sin 2.43t)
++ Je·o651t(.001838 cos .187t- .006755 sin .187t)
+- .00196 Jet.
+
+The short oscillation in u is negligible not only in regard to its
+magnitude but even as far as accelerations are concerned. Then
+dujdt=Je· 06Ht ( - .1 cos .187t + .21 sin .187t) + .1Jet.
+This is at most about .25 J, or 5 foot-seconds 2 if J = 20. The short
+oscillation in w is considerably smaller than the long, but when the
+coefficients - 4.18 and 2.43 are brought in by differentiating to find
+dwjdt, whereas - .0654 and .187 are brought in by the long oscillation, it appears that the short oscillation IS effective in determining
+the acceleration. Thus
+dwjdt = J e-4 • 18t (.12 cos 2.43t - .07 sin 2.43t)
++Je· o654t (.01 cos .187)-.13 Jet.
+The amount of this acceleration is at most about Jj12, one-third that
+in u; the effect, however, is produced very quickly, in the first half
+'second.
+In integrating to find the path in a vertical plane we may neglect
+the short oscillation, because in this case we divide by -4.18 and
+2.43, whereas for the long oscillation we divide by - .0654 and .187.
+Then
+Z=
+
+it
+
+(w+ 115.5e)dt
+
+=JLI[e-.o654t(.106 cos .187t-.765 sin .187t)-.095e-t]dt
+=
+
+J e· 0654t (2 .3 sin .187t+3.5 cos 1.87t)+.095 Je- L 3.6 J .
+
+67
+
+AERONAUTICS.
+
+The final condition is a rise of - 3.6 J, an amount which agrees with
+that in the case of the mild gust (Case 1) in as far as the rough calculation of that case permits us to judge.
+CASE 5.
+
+Up g'tLst-moderate.
+
+1'11.= .0773
+
+Je- t ,
+
+Iw= -J (1-1.205
+
+J (1- 0).
+
+1'11.0 = .0773 J,
+
+e-t ),
+
+10= - .003069 Je- t ,
+1'0= .003069 Je- t ,
+
+WI =
+
+1wo= .205 J ,
+100 = -
+
+.003069 J ,
+
+1'00= .003069 J.
+
+U= Je-4·1St( - .002641 cos 2,43t- .00651 sin 2,43t)
++ Je-·0654t( = .07466 cos .187t + ,4034 sin .187t) + .0773 Je- f ,
+w=Je-4·18t( - .2139 cos 2,43t+ .1174 sin 2,43t)
++ Je-· 0654t (.008943 cos .187t- .02337 sin .187t) - J ( I-1.205e-t ),
+6= J e- 4.1St (.0009148 cos 2.43t+ .000487 sin 2.43t)
++ J e-·0654t( + .002154 cos .187t - .001432 sin .IS7t) - .003069 J e-t .
+
+The short oscillation is negligible in u as far as concerns u itself.
+In calculating the acceleratIOn du/dt the short oscillation is not
+negligible relative to the long; but the acceleration is small any way.
+The effect of an up gust J on u is about one-third the effect of an
+equal head-on gust (see Case 2).
+The short oSClllation is the main thing in w-its amplitude is about
+J/4, whereas the amplitude of the long oscillation is about J/40, or
+one-tenth as much. The acceleration dw/dt may therefore be calculated exclusively from the short oscillation; it is
+dw/dt = J e- 4 • ISt (1.2 cos 2,43t) - J (1- e-t).
+
+This means values approximately as follows:
+t=O, Ys,
+U,
+Y2,
+%,
+acc.=O,-.35 J,-.6 J,-.7 J,-.6 J.
+
+If J should be 20 foot-seconds , the maximum acceleration would
+be about g/2, even a gust of 10 foot-seconds would produce an acceleration of g/4. Such accelerations coming upon the pilot in one-half
+a second might con.,iderably surprise and disturb him. An addition
+of 25 to 50 per cent in the apparent weight of the machine could
+hardly strain it to an appreciable extent in view of the large factor
+of safety used in the design. (N. B.-For an up gust J is negative.
+For a down gust the operator would lose 25 to 50 per oent of his
+weight.)
+The path of the machine in space is not of great importance in
+this case. The chief feature is the general drift of the machine with
+the current.
+CASE 6. Rotary gust-moderate. qi =J (1- e-t ).
+As we know so little of the rotation in the atmosphere and as
+nothing particular of interest seems to be indicated for this case
+over and above what was found in Case 3, we shall not carry out the
+calculations.
+
+68
+
+AERONAUTICS.
+
+CA E 7. JIead-on gust-shaTp.
+
+u 1 =J (1-e- 5t ) .
+
+Iv, = - J ( I+.01872 e- 5t ), luo = - 1.01872 J ,
+
+l w= - .05102 J r t ,
+1 0= - .0008896 J e-St ,
+1'0 = 00444 J e- St ,
+
+l wo= - .05102 J,
+100= - .000 896 J,
+
+1Jo = .004448 J.
+
+J e-4 . 1 t( - .005632 co 2.43t -!- .0039 6 sin 2.43t) ,
+f- J e-·06S4t( 1.02435 co .1 7t- .3294 sin .IS'lt),
+·J( 1 + .01 72 e-St ),
+w=Je-4·18t( .1603 cos 2.43t + .17 2 sin 2.43t ),
+f- J e- ·0654t( - .1093 co .1 7t + .0322 sin .1 It),
+- .05102 J e- 5t ,
+e = Je~l.1St(.OOO:W cos 2.43t- .0009 4 sin 2.43t ),
+-!-Je-.Ob5It( .000628 cos .1 7t- .006755 sin .187t).
+- .000 96 Je-St.
+u
+
+=
+
+Here again the short oscillation in u ia insignificant. The long
+oscillation as ill Case 4 has an amplitude a little ill excess of J. The
+acccleration duNt is small of the order J/5. The reason that a sharp
+head gust docs not give a large value to du/dt i probably because
+the gust can blow thToug:h the maehine; the acceleration is therefore
+not large except at tho L
+OOpS of tho slow oscillation.
+'1'he short-period' oscillation in w h as now b ecome stronger than
+tho long oscillation and the acceleration dwjclt is mostly due to it
+and may be written
+dw/dt=Je-4 ·1St(- .25 cos 2 .43t-1.13 sin 2.43t) + .25 Je- 5t .
+
+Tho value of the acceleration never gets large b ecause it is damped
+out b efore the sine term gets effective-perhaps - 0.4 J would be
+about ita maximum value. A sharp hcad-on gust is therofore about
+half as effective as a moderate up gust of the same intensity. Since
+up gusts arelerhaps not likely to be as intense as h ead-on gusts, we
+might hazar a gue s that sharp head-on gusts would inconvenience
+the pilot about as much as moderate up gusts.
+The most important terms in the path in space are
+z= Je-·OS54t (1.2 sin .187t+3 ..5 cos .187t)-3.5 J.
+
+The totall'ise is again - 3.5 .!.
+CASE
+
+8.
+
+Up g.ust- sha1'p.
+
+Iv, = .06621 Je- St ,
+l w= - J(I- .5605 e- 5t ),
+10= - .00778 Je- 5t ,
+1'00= .0389 Je- St ,
+
+U\ = J ( L - e-5t ).
+
+Luo=.06621 J ,
+lwo = - .4395 J ,
+l eo = - .00778 J,
+l'Jo= .0389 J.
+
+u = J e-4·1St( - .05714 co 2.43t+ .006 sin 2.43t)
++ J e-·06S.lt( - .00907 cos .187t-!- .3285 sin .187t)
++ .06621 J e- 5t ,
+w = J e-4·ISt( .4378 cos 2.43t + 1. 94 7 sin 2.43t)
++ J e-·o6S4t( .00 181 cos .187t- .03474 sin . 187t)
+- J( 1- .5005 e- 5t ) ,
+
+AERONAUTICS.
+
+69
+
+6= Je-·HSt(.0059 cos 2.43t- .0122 sin 2.43t)
++ Je-· o654t(.001883 cos .187t+ .000 667 sin .187t)
+- .0077 J e-5t .
+The oscillation in u is of long period, and the acceleration in tL is
+small. The oscillation in W has a short-period term of !ITeat importance at the start, but except for tllis there is very littfo 0 cil1ation
+in w. The acceleration is
+
+dw/dt = J e-4.l81(2.9 cos 2.43t-9.2 sin 2.43t) -2.8 J e- 5t .
+(N. B.-The value of dw/dt when t=o should be 0 instead of J/I0.
+The failure to check seems due to multiplication of errors, which is
+unavoidable. The accuracy of the work ill Case 8 and Case 5 appears
+reduced to two figures.) The acceleration is now very serious indeed;
+it is about - 9.2 J e- 4.18t sin 2.43t, as thc other two terms come
+near canceling. The maximum value OCCUl'S when t = .217, a little
+over one-fifth of a second, as is then about -1.85 J. If J should
+be as large as -18 foot-seconds, the acceleration would equal g = 3'2.
+Clearly such a sharp gust if it existed would be very dangerous from
+the sudden forces it would bring into play. As the machine, however, would travel only about 24 feet during one-fifth second, it is
+reasonable to doubt whether in so short a distance so large a change
+in vertical air velocity could occur.
+The path in space IS found to be approximately
+2=- 1.2 J e- 418t cos 2.43t+1.1 Je-· 06~4t cos .187t-.J J e- 5t + .:.z J-Jt.
+.
+
+The final effect is the general drift with the gust, less a lag of J /5 .
+ARTICLE
+
+6.
+
+THE CONSTRAINED AEROPLANE.
+
+If an aeroplane is constrained to remain always horizon tal by
+mechanism which docs not otherwise alter the machine or its dynamical properties, the equations of motion in a ~st may be found from
+our previous equations by setting e= q = O. Then
+(D-X,,) u - Xww= L
+Y"U1 +XWWl +XqqlJ
+- Z"U + (D - Z w) w = Z ..u 1 + ZWw 1 + ZqqlJ
+- Mu u - Mw w
+= lJ;.Luul + MWWl + ]vlqfjl + ji~
+
+where F is the effective force due to the constraint and is assullled to
+affect moments only, not components of horizontal or vertical force.
+The last equation merely determines F .
+With the numerical data we find for high peed
+(D. + 128 )u - .162w
+= - .128u1 + .162w1 ,
+.557u+ (D+3 .95 )w= - .557u l -3.95wl ,
+F= - .174(w+wl ) + 150ql'
+
+,
+
+70
+
+AERONAUTICS.
+
+The natural motion of the machine when slightly di turbed
+steady air is found from
+
+III
+
+6. ' =\D+ .12
+.557
+
+The roots are
+
+D = -2.039±1.887 = -3.026 or -0.152.
+We thus find the first result: The machine, when disturbed, does
+not execute a double damped oscillation, but has an aperiodic motion
+of the form
+o e-3·USt + O2 e-O•I51 •
+The two damping factors - 3.93 and -0.15 lie between the values
+- 4.18 and - .0654 previously found .
+The unconstrained m2.Chine was stable for the speeds 79, 51, and 47
+mile-hours; unstable for 45 .2 mile-hours and lower speeds. If we
+take the data for 47 mile-hours and use them for the constrained
+motion , we find
+.151
+
+/::,." = D \+ .936
+of which thc roots are - 1.51 and + .10.
+the machine is therefore of the form
+
+The natural motion of
+
+The second factor indicates instability; the motion due to it increases
+instead of subsides and r eaches 2.78 times its original value in 10
+seconds. We thus find the second re ult: The machine, when constrained, b ecomes unstable at a higher speed than when free- it is
+to this extent a more dangerous machine.
+We shall now return to the case of high speed and compute the
+effect of certain gusts on the constrained machine for comparison
+with the effect of the same gusts on the free machine. The general
+solutions are
+U
+
+= - .0426 0 1 e- 3. 93t + O2 e-·l5t + Iu ,
+
+0 1 e-3 •93t _ .147 O2 e-· 15t + Iw.
+.148 i uo -1.006 I,vo,
+O2 = - 1.006 Iuo - .0429 Iwo.
+/::,.'u = - (.128 D + .59 ) u 1 + .162 Dw
+/::,.'w= -(3.95 D+ .598) w, - .557 Du "
+,.
+W=
+
+~ = -
+
+CA
+
+E
+
+1.
+
+Head-on gust-mild.
+
+U1 =
+
+J (J - e-. 2t ).
+
+Iu= -J (1 + 3 .20 e-. 2t ),
+Iuo = -4.20 J ,
+1.. =.622 J e-· 2t ,
+I wo = .622 J.
+u=4.19 Je-· 16t ,- J (1+ 3 .19 e-· 2t ),
+W= - .62 Je - ·16t + .62 J e-· zt •
+
+AERONAUTICS.
+
+71
+
+The machine takes up the gust as before, of course. There is no
+oscillation. There is practically no acceleration in either u or w.
+The path in space is
+z= J (4.1 e- lSt -3.1 e-. 2t )-J.
+
+The total rise 1S only - J. In every way the motion in this case is
+easier in the constramed than in the free aeroplane.
+CASE 2.
+Up gust-mild. W l =J(1-e- ·2t ).
+1,. = - .186 Je -.2t,
+luo= -.1 6 J,
+Iw= - J(I-1.079 e -.2t),
+1wo= .079 J.
+U= .186 Je -.15t_ .186 Je - .2t,
+W= - .052 J e- 3 •93t _ .027 Je-· l5t -J(1-1.079 e- ·2t ).
+The motion is again exceedingly moderate in all respects.
+3. Rotary gusts. These can have no effect except upon
+the constraining moment F.
+CASE 4.
+H ead-on gust-moderate. U l =J(I-e- t ).
+CASE
+
+1u = -J(1+.1895 e- t ).
+1uo= -.1895 J,
+1wo= .2246 J.
+lw= .2246 J e- t,
+u=.002 J e- 3.93t + 1.187 Je-· lSt - J(1 + .189 e- t ),
+5t
+W= - .05 J e- ant _ .174 Je-· 1 + .224 Je- t.
+t
+du/dt= -.008 Je- s.93t -.180 Je-. lS +1.89 Je-c.
+dw/dt= .197 J e- 3 . 9Sl + .027 Je- ·15t _ .224 Je- t.
+z=1.16 J e-. 1s'-.22 Je- t -.94 J.
+The motion is again decidedly moderate.
+CASE 5.
+Up gust-moderate. w l =J(I-e- t ).
+.0653 J e- t ,
+1uo = - .0653 J,
+Iw= -J(I-1. 350 e- L),
+1wo=.350 J.
+3
+u=.0144 J e- 3.9 t +.0507 e-· 1St -.0653 J e- c,
+W= -.343 Je- 3.93t _.007 e-. 1 -J(I-1.350 e- t ).
+,t
+dw/dt= + 1.35 J e- 3.93 _1.35 J e- t .
+
+Ill. =
+
+-
+
+The motion is easy except for the acceleration in w, which has a
+maximum when t =.46 and is then equal to about - .62 J. If the
+gust should have an intensity of 10 foot-seconds the maximum
+acceleration would be about g/5.
+CASE
+
+6.
+
+Head-on gust-sharp.
+
+ul
+
+1u= -J(I+ .00795e- 5),
+lw= -.5275 J e- St ,
+
+=J(I-e- St ).
+
+luo= -1.008J,
+
+lwo = -.5275J.
+St
+U= - .029 J e- 3 •93t + 1.037 Je-. 1 -J (1 + .008 e_ St ).
+W=. 680 J e-a.o3t -. 152 J e-· 15t - .528 Je- 5t .
+
+dw/dt= -2.67 J e- u3t +.02 Je-· 15t +2.64 J e- St •
+Z= -.173 J e-S.93t+Je- ·15t+ .l03 Je- St -.93 J.
+
+l
+72
+
+AERONAUTICS.
+
+The motion, including acceleration, is moderate.
+Up gust-sharp. w 1=J(1- e- 5t ).
+Iu = .153 Je- 5t ,
+Iuo = .1 53 J,
+5t ),
+110 = - J(1+3.62 eIwo= -4.628 J ,
+3.0 t + .044 J e-· 1St + .153 J e- S ,
+3
+t
+'1£= - .197 J e-
+
+CASE 7.
+
+w=4.634 J e- 3.93t _ .006 J e-. 1St - J (1 + 3.628 r·t ).
+3
+dw/dt= -1 .2 J e- s.9 t + 18 .2 Je- . t,
+t
+Z= - 1.18 J e- a.93t +.04 J e-. 1St + .73 J e- 5 +Al J-Jt.
+
+The acceleration dw/dt has a maximum when t =5/11 when it is
+1.44 J. This is somewhat serious if J is 10 foot-seconds.
+We may now calculate roughly the moment F necessary to produce the constraint.
+F= -.174(w+wJ + 150<1t.
+
+The last term is effective only when the machine encounters rotating air and will be neglected here.
+CASE 1. F = .l1 J (e-·15t_e -·2t).
+CASE 2.
+F=J(.009 e- a.93t +.005 e-· 15t - .014 e- ·2t ) .
+CASE 4.
+F= J (.009 e- 3•D3t + .030 e-· J5t _ .039 e- t ) .
+CASE 5.
+F=J(.06 e- 3.g3t + .0012 e-· 151 -.061 2 e- t ).
+CASE 6.
+F = J (-.119 e- 3.93t + .0266 1'-· J"t+.0924 1'-51) .
+CA
+
+E
+
+7.
+
+F= .811 J (-1'-3.93t+e-SI) .
+SUMMARY.
+
+I have indicated the general method, based on the theory of small
+oscillations, whereby the equations of motion of a stable aeroplane,
+whether free or constrained to fly without pitch, whether in teady
+or gusty air, may be completely integrated in su ch form that, after
+a certam amount of preliminary calculation, the effects upon the
+motion of a large number of different gust may be determined with
+relative ease. So far as I am aware, no actual method of integration
+nor any quantitative results of such an integration has previously been
+published with the exception of the descriptive popular lecture of
+Glazebrook cited above. I have carried through the actual determination of the effects of gusts in the following cases:
+Head-on gusts rising from 0 to J feet per second with various degrees of sharpness.
+Up gust of the same type.
+Rotary gusts of the same type.
+Rear gusts and down gust are included by merely changing the
+sign of J. For convenience, it has b een assumed that the machine
+is in still air except for the gustiness; u a matter of fact gusts are
+usually superposed upon a general steady wind of other than zero
+
+l
+
+AEROXAUTICS.
+
+73
+
+average velocity; b~t the condition~ of flight in.still air a.nd in steady
+air are nearly IdentlCal, the only difference beillg that ill the equations of motion the resistance derivatives are calculated from the
+relative wind, whereas V is the actual velocity over the ground.
+It h as been found that a stable machine, WIth controls untouched,
+running into a h ead gust of various sharpness and of total intensity
+J foo t-second will swoop up , with some oscillation of no serious character, to a n ew level about 3.5 J feet higher than its previous level.
+The constrained machine will rise without oscillation to a new level
+only J feet, or a trifle less, higher than before. The path in a vertical plane is indicated in the diagrams ill'awn for me by Mr. T. H.
+Huff. The accellerations arising ill the motion are not serious for
+either the machine or the pilot. It has been found further that a
+rotary gust may have consIderable effect-though in the absence of
+data as to th e intensity and regularity of rotation in the air no definite
+results can be formulated . Furthermore we find that up gusts
+operate chiefly in lifting th e machine, whether free or constramed,
+with the gust. The path in space is O"iven in the diagram. There is
+here in the case of sharp gusts a consi~erable momentary acceleration
+in the vertical which may reach a magnitude of about 1.5 J footseconds.2 'l'his would not seriously stress the machine, which is
+designed to stand accelerations of 6 g to 8 g in maneuvering, but
+owing to its sudden and unexpected appearance this acceleration
+might incommode the pilot-it is indeed the familiar phenomenon of a
+"bump."
+It follows, therefore, that the introduction of the constraint ,
+whether by .~yroscopic or other means, serves only to eliminate the
+natural oscillation in pitch and to diminish, in the case of the head
+or rear gusts only, the final change of level. As a rear gust of 20
+foot-seconds is found to drop the uncontrolled machine by more than
+80 feet in 15 seconds, flight at low altitudes is more da~erous in the
+unconstrained than in the constrained machine. .tiowever, the
+elapsed time is sufficiently great to enable the pilot to check the dip
+by a suitable movement of his elevator.
+To offset any advantages derived from the constraint, we find that
+this l articular machine, when constrained, becomes unstable at a
+spee between 47 and 51 mile-hours, whereas the free machine remains
+stable down to a peed b etween 45 and 47 mile-hours.
+MASSA CHUSETTS INSTITUTE
+
+OF TECHNOLOGY ,
+
+Boston, Mass., October 7,1915.
+
+p
+
+74
+
+AERONAUTICS.
+
+-- ,
+
+$1
+
+,
+
+~
+
+/
+
+.,n
+
+"_11
+
+~
+
+~
+
+/
+/
+
+~D
+
+~
+
+I
+
+~D
+
+~
+,
+
+I .....II ./"'
+
+M
+
+~
+
+~
+
+"-
+
+.' -
+
+l
+
+60
+
+~
+
+,
+
+"'
+
+.tr:::
+
+•
+
+-
+
+" Q.
+
+;;or;""I!"' ,..p
+~,...o .
+/
+
+----
+
+P/frHhY SP-9Cc o,-rr h'E CEKTEROr
+(TR/ly/rY OF /IN "1EROPLRNL!"
+R I//v/v/ IV"'RT TJI/'I/LCSPERHOI/R
+IN7lJR HE-rb';U.:JTOrCN/lRRCrER
+31(0 WN PEL Ow.
+
+CD"""". "'60" """
+
+/4n~"""
+
+-
+
+/0
+
+60
+
+TO
+
+/0
+
+"
+
+JO
+
+.5 0
+
+60
+
+70
+
+80
+
+~;--'---r---r--~--r--.------'------'r------r------r------'--1
+~~"D
+
+t,
+
+~ ~ "' t-7"1I--t-
+
+~~~~-L-J__~-L__L - J -____~__~____- L_ _ _ _~_ _ _ _~~
+
+110
+
+/
+
+4fJ
+?/) ~
+
+""'" ~'"
+
+-,..,..q~/
+tt1A#
+
+~- - --~ --
+
+?7
+~
+
+'---
+
+60
+
+J
+
+~
+
+~
+1
+~.
+~
+
+~
+~
+
+I
+
+.60
+
+f
+
+-f()
+
+PA'T /tYJPA'c E OF 17Y
+h'
+CCEA"rERQr
+Gn>A'Y
+/TrPrA'/vR ERoPL/lIV£
+h'V,v
+#/"y", HTT.9/y/LES"'# /1r7I/R
+"lIVrO -9 H£"1D GV s T Or C#
+A'-Y'4f:'/Z7?
+Jh'O'Y/V B EL OW
+
+I
+I
+
+3 fJ
+134
+
+-~
+"",.,
+
+/
+
+10
+
+'0./
+0
+
+", L
+
+p"
+
+" e-
+
+,,/
+
+,y,H741 ,i, tr
+
+40
+
+60
+
+70
+
+60
+
+,0
+
+vY"'"
+
+,to
+
+.IO
+
+~O
+
+.50
+
+1
+
+~
+
+1
+
+1
+
+1
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+"tiT' GlUt H'".eA,.n,40F~"""':Uc.. /n tT~' £.:J~4! .
+
+B~
+
+'",- - \ >
+/
+
+75
+
+AERON AUTICS .
+
+~
+
+/
+
+"
+
+II
+
+."
+
+I
+
+60
+
+t
+
+"
+
+I
+If
+
+rg.,#."
+
+~
+
+-
+
+V
+
+PArK/#,$'Rf'.c f_?JYEC E#rfRP-'
+v~"Y/r.r ,;vA'-YA'ERVP,,- '-YE
+
+#VA'N/N.P 4fT ?YA'/,Lf4 PER-YOV R
+
+lA'm -'HEHDPI/4ror,:'K"'~Cn-A;'
+4HQIV,fI' 6'E,LOW.
+
+I /"
+olY
+
+10
+
+P.~
+
+....
+
+~.... ~
+
+-
+
+..~ A"-"" rw--'
+
+C<tJP.3I"r./
+
+'W ~~' d'
+
+n,/ IP'/ L
+
+.,0
+
+1-/
+
+.Fa
+
+4a
+
+60
+
+n.:.w. /;' .",,;<Int:I,
+
+I
+
+I
+
+1
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+J'bi:l,;tt
+
+I
+
+I
+
+v4A.Ir R#W<t!,I/#7)'.40"'~ rt.-s..c . /h "4'JI"t"rJ~ .
+
+J
+
+$""
+
+\: (It»
+
+,
+
+iT"O 4()D
+
+"
+'~"'" •
+
+~_I(
+I
+~
+
+600
+
+~. /
+
+~ of"" l.r""
+"
+~".... ~ ~""
+
+~ ~H/#.1P,,<,,£a/ &EA'r,cRd~ r-,
+~~
+r--
+
+~
+
+t
+
+\,
+~
+
+n>'J!'
+
+<;;H~I'/ryorA'/vA'rh't7PJ$NI
+
+~
+
+~
+
+.
+
+~L"O t JOO
+~/"" ~ ~'"
+~
+
+"
+
+~
+
+"M
+
+o
+
+/
+/
+
+/
+.//
+
+T()(I
+
+~
+
+\)
+
+60
+
+$0
+
+/0
+
+V
+/
+
+/
+
+y
+
+~
+
+.,...
+
+_.
+
+c..._
+
+..4
+
+.4(1 F/,~~ ;;nP'/HJ'4Nri11:1'~
+
+1"-"" "''''~H_''''M'
+I
+
+./ ,."I'T~
+
+0.>/.-./.
+
+t7,
+
+/0
+
+"
+
+RthY#'/N' ,s ?.P/Y/~rJ prR HOuR
+/Hr4RH vpgVJror&K"R~R
+"Haw,,", 6'fLQm
+
+oFO
+
+010
+
+....
++ ,;. . ~,..;tJ_.
+
+/#..-;r ....
+
+TO
+
+40
+

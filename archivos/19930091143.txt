@@ -1,0 +1,8277 @@
+REPORT No. 82
+AIRPLANE STRESS ANALYSIS
+IN PIYE PABTS
+/
+
+By A. F. ZAHM .
+W l T a PROBLEMS AND DIAGRAMS
+
+By L € .
+. CROOK
+I
+
+Aerodynamical Laboratory, Bureau of Construction and Repair, U. S. Navy
+
+1
+
+,
+
+REPORT NO. 82.
+PREFACE.
+
+With each delivery of a new type or size of airplane the manufacturer furnishes (1) the
+data and (2) the computations by which to judge the performance and safety of the machine.
+Under “data” may be classed the geometrical dimensions of the entire craft and its
+parts; the physical properties of its materials, both raw and as treated for final use, and a
+description of the method of treatment of these materials; the measured strengths of the
+whole structure and of its elements; the weight schedule, giving the maas and position of the
+structural parts and of the carried loads; the aerodynamic properties of the sustaining and
+control surfaces, the body, the undercarriage, and the craft as a whole; the records of inspection and full-scale test, etc. To this must be added much special information about the
+engine, the propeller, the navigating instruments, etc.
+Under “computations’1 may be furnished information as to the stresses and performance
+of (1) the motor; (2) the screw; (3) the craft aa a whole.
+The present work, intended as a handbook, covers primarily the theory of airplane stress
+analysis, but ignores, as foreign to its scope) .the forces within the engine and propeller. It
+presents analytical methods and formulas with little if any argument, assuming the reader
+can supply the proofs or will not require them. All the formulas are illustrated byproblems.
+T
+given immediately in the text and solved in Chapter I .
+Acknowledgment is here made to the Journal of the Franklin Institute for a part of the
+diagrams and subject matter which the writer previously had published in that periodical;
+to the Curtiss Aeroplane &i
+Motor Corporation for practical data used in the problems; and
+to Mr. L. H. Crook, Mr. N. C. Luther, and Mr. R. H. Smith for assistance in revising the text
+and reading the proofs. The aerodynamic data have been taken partly from reports o the
+f
+bureau of Construction and Repair partly from those of other laboratories. A portion of the
+wing-stress equation, taken from this work, will appear in the bureau’s forthcoming book
+entitled “Aircraft Design Data.”
+
+A. F.ZAHM.
+JANUARY, 1918.
+2
+
+I
+
+. .
+
+..
+
+. .
+
+.~
+
+.
+
+..
+
+,
+
+~~~~~
+
+---.--.,
+
+~
+
+..
+..
+
+~
+
+. ...............
+.
+.
+
+..
+..
+
+.....
+
+. .
+
+.
+
+C6NTE.S
+
+PART I
+
+.
+
+.
+
+General Considerations
+Introduction ...........................................................................................
+Terminology.............................................................................................
+Units and dimensions....................................................................................
+Normal and abnormal loads ..............................................................................
+Sudden loads ............................................................................................
+Simple stresses..........................................................................................
+Indirect simple stresses .................................................................................
+Resultant unit stress......................................................................................
+Repetitive and equivalent stress.. ........................................................................
+:
+Maximum steady load and stress........................................
+:.................................
+Factors of safety ..........................................................................................
+
+.
+
+.
+
+Page
+4
+
+4
+4
+4
+5
+
+5
+5
+
+6
+7
+7
+8
+
+PART II
+
+.
+
+Airplane Wing Stresses
+
+Scope of treatment .......................................................................................
+Wing fabric loading and stress.............................................................................
+Rib loading and stress ...................................................................................
+Aileron loading and atresars...............................................................................
+Running load on wing planes and spars ...................................................................
+Spar bending moments, sheara, pin reactions, deflections...................................................
+Concentrated lift and drag on wing trussing .................................................................
+Endwise stresses in members of nonmultiplane wing t d n g ................................................
+Endwise stresses in members of multiplane wing trussing ...................................................
+Grouping of data and computed values for wing analysia.....................................................
+
+.
+
+9
+
+9
+9
+10
+10
+1
+1
+
+12
+13
+13
+14
+
+PART 1 1
+1
+
+.
+
+Airplane Body Stresses
+
+Scope of treatment .......................................................................................
+The tail unit .............................................................................................
+Undercarriage loads and stresses..........................................................................
+Fuselage loads and stresses ...............................................................................
+Grouping of body analysia data and computed values ......................................................
+
+PART IV
+
+15
+15
+
+16
+17
+17
+
+.
+.
+
+Problems in Airplane Stress Analysis
+Stress= in materials ......................................................................................
+Wiry: airplane stresses ...................................................................................
+Body airplane stresses....................................................................................
+PART V
+
+.
+
+.
+
+38
+
+.
+
+Ilhstratlons for Parta I 11, III, IV
+Figa 1 to 42 ............................................................................................
+
+.
+
+18
+21
+
+53-70
+3
+
+.
+
+J
+
+. .
+
+...
+
+REPORT NO. 82.
+PART I.
+
+GENERAL CONSIDERATIONS.
+By A. F. ZAHM.
+INTRODUCTION.
+
+This report was prepared at the Aerodynamical Laboratory, Navy Yard, Washington,
+
+D. C.,by direction of Rear Admiral D. W.Taylor, Chief Constructor, U. S. Navy, and Member of the National Advisory Committee for Aeronautics, for publication i the committee’s
+n
+Fifth Annual Report.
+1 TERMINOLOGY.
+.
+
+The mechanical terms in this text bear the same meaning as in standard works on applied
+mechanics; the aeronautical terms, where practicable, follow the nomenclature published in
+1917 by the United States National Advisory Committee for Aeronautics (Report No. 25).
+Some words not so published are used of necessity, and when of uncertain meaning are defined
+upon their first appearance in the text. For example, “air force” for the resultant of air pressure and friction. As an abbreviation for “angle of incidence,” the term “incidence” is sometimes used in this text, as is commonly done in aerodynamic works.
+2. UNITS AND DIMENSIONS.
+
+.
+
+For the most part in this text ordinary British units are employed. The unit of mass is
+sometimes the pound; sometimes the slug, or g pounds, g being the acceleration of gravity.
+The standard of air density is taken 89 0.07635 pound, or 0.00238 slug,’per cubic foot, or
+that of dry air a t 760 m. m. and 15.6’ C. Hence the familiar full impulse pVz, per unit cross
+section of a jet, is 0.00238 Vz pound per square foot when V i s feet per second, or 0.0051 Vz when
+Vis miles an hour. And the air force on a normal surface of A square feet is R = 0.00238 CA Vz
+pounds a t Vfeet per second, C being a dimensionless multiplier, called the ‘(shape coefficient,”
+or “absolute coefficient”-a constant independent of the system of units.‘
+3. NORMAL AND ABNORMAL LOADS.
+
+,
+
+Structurally an airplane is under normal load in two notable cases: (1) On earth when
+resting naturally on a level surface; (2) in air when in steady straightaway fight at any incidence? I n these cases the external applied forces, whether due ’to air, earth, or motor, are
+constant and in algebraic sum equal to the weight of the craft. Some may be positive, others
+negative.
+I n all other conditions the loading is abnormal and may be either constant or not; either
+uniformly increased or not; either positive or negative. For example, an airplane in steady
+fight around a level circular course bears a constant load determined by the speed and curvature.
+For this case the actual load in terms of the normal is tabulated in figure 5. For the large
+path curves there shown the increase of loading is substantially uniform throughout the
+structure. Again the craft may be diving steeply a t steady speed and incidence. Then its
+loading, both lift and drift, is constant; the first smaller than normal, the second larger. When
+the machine is standing on earth some of the loads are reversed from their direction in air;
+when flying inverted all “lift ” loads are reversed.
+~
+
+I
+I
+
+In general, the same formula applies toaninelinedflatsurface whose lam ana is A , so long as its ipcidence andorientation remain constant.
+The loeding due to the general air stream I s illustrated in Bgs. 1,1, 3, 4 for a typical monoplane surface.
+4
+
+.-.
+
+AIRPLANE STRESS ANALYSIS.
+
+5
+
+4. SUDDEN LOADS.
+
+Inconstant abnormal loads may arise from sudden changes of air speed or incidence, as
+in diving, or riding gusts; from motor jerking; from impact against earth or water, etc.; and
+their change may be uniform throughout the structure or localized; uniform or irregular in
+growth and decay. But frequently it suffices to assume that all parts of the structure sustain
+the same acceleration and hence the same change of load. If this acceleration be j a t any part
+of the airplane, the masses in that part induce stresses j/g times those due to their weight alone,
+assuming j and g in the same direction.
+When practicable in engineering tests, an accelerometer should be carried in the active
+machine to record the component accelerations in the air and on the earth. To find j throughout the craft, it is well to use several accelerometers distributed throughout the structure.
+Sometimes the acceleration is estimated from observed or assumed data. For example,
+suppose that a craft, regarded as a single rigid mass in pure translation, lands with vertical
+velocity component v , whose “head” is h==v2/2g1
+and comes to rest with u n i f i cushioning, of
+yield d.1 Then the ratio of its average vertical acceleration to gravity is’
+j/g = 1 + h/d.
+(1)
+It is twice this amount if, as rarely happens, the cushion resistance be directly proportional
+to the cushion deflection d.
+Equation (1) is true not only of the machine as a whole, but of every part of it, however
+elastic the structure. I the craft approach land in pure translation, h is the same for all
+f
+elements, but d varies throughout the structure, being least in the chassis parts and greatest
+in the parts remote from the impact points. A like treatment applies to longitudinal and
+lateral accelerations.
+The assumed maximum acceleration to be provided for in the design of an airplane is
+usually specified by the purchaser.
+Example 1 .‘-If an accelerometer fixed to.an airplane records a maximum vertical acceleration of 48 feet per second, what is the ratio of the abnormal to the normal loading?
+Example 2.-An airplane in landing has a vertical velocity component of 10 feet per
+second and a uniform cushion yield of 6 inches. Find the ratio of the abnormal to the normal.
+stresses in the landing gear, assuming the machine to be a rigid structure.
+5. SIMPLE STRESSES.
+
+The direct simpb stresses here treated are the common tensile, compressive, and shearing
+For each the intensity or unit stress is uniform over the cross section and is given by
+S =PIA,
+(2)
+
+stresses.
+
+P being the load sustained by the structural cross section A. For each case the load and strese
+have the same direction. For torsion in a round shaft the intensity of direct shearing stress
+a t different points of a cross section varies directly with the radius to those points and in the
+outermost fiber is
+S = M-c/ J
+(3)
+where Y is the torsional moment, c the distance from the center of gravity to the outermost
+fiber, J the polar moment of inertia of the section.
+6. INDIRECI’ SIMPLE STRESSES.
+
+Indirect simple stresses perpendicular to the applied loads occur in transverse and in
+tonional loading. I n both cases the longitudinal and the transverse shearing stresses a t
+any point are equal.
+I The cushion form may be partly air Ilft, partly spring Uft. The air lift dimIdahe8 slightly with u the spring lift increases with d, t h w h
+:
+seldom directly BS the deflection, depending on the nature of the cushioning mechanism. In general. the longer the pteld,d, the less the shock, ox
+mean vertical acceleration.
+2 To pmve (1) equate the work of Cushioning to the work of total fall:
+thus
+Mid- Mg(A+d),
+whence j / ~ - l +h/d,
+in which Mis the mass of the machine,j the average cushioning retardation.
+a The solutions to all the examples cited in the text are given in Part IV.
+
+6
+
+A N N U A L R E P O R T N A T I O N A L ADVISORY C O M M I T T E E
+
+FOR
+
+AERONAUTICS.
+
+I n transverse loading the tension or compression is greatest in the outermost fibers of
+the beam and is
+s = Mcl I,
+(41
+where M i s the bending moment, I the moment of inertia of the cross section.
+I n a beam so loaded the longitudinal shearing stress varies over any cross section, being
+zero a t the remotest fiber and increasing toward the neutral axis of that section. At any
+reference axis Y in the section, parallel to the neutral axis, the horizontal shear is
+
+8 - a c V/It
+
+(5)
+
+where a is the sectional area outward from Y.c the distance of the centroid of a from the
+neutral surface, V the total shear over the entire beam section, and t the thickness of the
+beam a t Y. I n most, but not all, practical cases the horizontal shear is a maximum a t the
+neutral surface. Its value there is, for a round beam, 413 the mean vertical shear VIA; for a
+rectangular one 3 VI2 A.
+Example 3.-Find the longitudinal shearing stress in a 4-inch square beam given the total
+vertical shear as 1,400 pounds; first with the diagonal vertical, then with it inclined 4 5 O .
+7. RESULTANT UNIT STRESS.
+
+When several causes simultaneously produce like stresses a t any point in a structure,
+these may be algebraically added.
+(a) Endwhe stresses due to trimultaneolls e n d h e and transverse loads.4everal endwise
+stresses may occur a t a point simultaneously. Thus in the lower rear spar of an airplane
+the lift produces tension, the drag compression; the bending moment produces tension and
+f
+compression. The algebraic sum of all these is the effective stress. I P be the aggregate
+endwise stress, the above operation is expressed by the following equation,
+
+S-P/A* M/Z,
+
+(6).
+
+in which M is the bending moment due to the running load only, z, the section modulus.
+
+The
+obvious physical meaning of this equation is that the first term represents the unit direct stress,
+em
+the second t r the unit bending stress, which may be taken either as tensile or compressive.
+A more accurate formula for the total endwise unit stress here considered is
+
+8 -PIA
+
++ MI2 i-k’Pd/Z,
+
+(7)
+
+in which d is the deflection due to 211 only (computed as in figs. 13, 14, 15, 16), and k is a
+correction factor to be applied to d, because the latter is slightly increased by P.
+If in (6)and (7)PIA is a tensile stress, the succeeding terms can be reduced to “equivalent tensile stress” by multiplying them by s b l s , , or the ratio of the bending to the tensile
+strength of the material. This is sometimes done when s b differs materially from St. Similarly, when PIA is a compressive stress. The equation (6) then assumes the form
+
+S =S t iT MIZ
+(8
+where S is the equivalent tensile stress and r is the ratio of the tensile to the bending strength
+of the material. The equivalent compressive stress is similarly found.
+Formulas (61, (71, may be used for wing spars and for non-tapering flat struts bearing a
+considerable side wind pressure. But if the strut be tapering, S can not be found by formula
+(7) here presented, since d i unknown. However, for normal flying conditions the deflection
+s
+i s ignored, since there is no appreciable side wind against the strut.
+Example 4.-Find the resultant unit stress in a 2-inch square simple beam, due to an
+endwise load of 900 pounds, a maximum bending moment of 1,100 inch-pounds, and a maximum deflection of 0.05 inch a t the place of maximum moment.
+1
+
+r
+
+By a well-knownapproximate formula k-sec ? J P m
+
+I
+
+7
+
+A I R W E STRESS ANALYSIS.
+
+( b ) Endwise stresses due to Simple e n d h e b a d 8 accompanied by bending.-For a uniform
+column or strut bearing an endwise load, but no transverse one, the unit actual stress in the
+outermost fiber is usually found by Rankine's formula
+
++
+
+S- 11 a(Z/r)z]P/A,
+(9)
+in which P is the actual end load producing stresses lower than the elastic limit, 1 is the length
+of the strut, r its least radius of gyration a t the center section, and a is a numerical constant
+depending on thc material, strut form, and manner of constraining the ends.' Values of a
+for various materials, forms, and end conditions are given in books on applied mechanics.
+I the endwise load is distant p from the column axis the unit stress is
+f
+S = [ 1 + a(Z/rY cplr'] PIA
+101
+where c is the distance of the remotest fiber, and r is the radius of gyration.
+Exumple 5.-Find the unit stress in a pin-ended column 1 inch square and 30 inches long
+under an axial load of 200 pounds; also the unit stress when taking the eccentricity of the load
+as 2 inches.
+( c ) Combined shearing and normal stress.-If a t any point of a section, S is the normal unit
+stress, and S. the transverse or the equal longitudinal shearing unit stress, then a t that point the
+maximum resultant shearing stress S,, and maximum normal stress S, are, respectively
+
++
+
+Sn=S/2fS,
+(12)
+Example 5.-A beam is subject to a compressive unit stress of 200 pounds per square inch
+and ab the same time to a longitudinal shearing stress of 250 pounds per square inch. Compute the maximum resultant stresses.
+8. REPETlTIYE AND EQUIVALENT STRESS.
+When a variable load stresses a member frequently through a fraction m of its elastic
+limit, the equivalent steady stress may be taken as
+S'-S(l + m P
+(13)
+where S is the allowable constant stress, and n is unity for very numerous stress fluctuations,
+zero for very few.l
+Example 7.--If a member whose allowable constant stress is 20,000 is stressed frequently
+to 15,000 and has an elastic limit of 60,000, what is the equivalent stress?
+9. MAXIMUM STEADY LOAD AND STRESS.
+For a member subject to uniforin simple stress the greatest possible load it will sustain is
+. P-SA
+(14)
+S being the strength of the material, and A the sectional area of the member. Examples in
+airplane construction are: For tension, the stays; for compression, the short struts; for shear;
+the clevis pins. In all such cases the maximum load and maximum unit stress occur together.
+For a structural element not subject to uniform simple stress the greatest possible load may
+exceed that causing the greatest stress. A long strut, for example, may bear a greater endwise
+load and sustain less fiber stress before much bending occurs than when bowed excessively.
+For a Din-ended wooden strut having a slenderness ratio llr, above 120, the maximum load
+is compute; by Euler's formula
+P = 9EI/F
+,
+(15)
+,
+
+wher-. ' is the length between pins, I the least moment of inertia of the middle section.
+For pin-ended struta with a lower slenderness ratio Johnson's formula
+P,= AC(1- CP/40Ek')
+
+(16)
+
+1 See Rsnhe's Applled Mechanics, aection 328. The UM of formula (9) for computing Pur is not rwwmepded, fomuk ( ) (16) giving
+U,
+better results.
+1 8ee Upton, Materiab of Construction!section Z16.
+
+8
+
+A N N U A L REPORT N A T I O N A L ADVISORY C O M M I T m E FOR AERONAUTICS.
+
+is used, where A is the middle section area, C the crushing strength of the material, k the least
+radius of gyration of the middle section. If the strut has very securely fixed ends, the above
+two values of P, may be quadrupled.
+The crippling load on any strut or column is sometimes given as a function of the slenderness
+ratio IIr, in tables or diagrams derived from laboratory tests of full scale test pieces.
+Exumple 8.-Fmd the maximum load for a pin-ended spruce column of length 60 inches,
+cross section 3 square inches, and moment of inertia 0.3 inch '.
+10. FACTORS OF SAFETY.
+
+Given the resultant fiber stress intensity, this may be divided into an assumed limiting stress
+The limiting stress is
+determined from standard test pieces of the material and of the st&ctural forms in question.
+For each material and form employed in the industrial arts the assumed limiting st$ressis commonly fixed by agreement between the constructor and the purchaser. For s t a p , turnbuckles,
+fastenings, etc., and sometimes for struts-also for entire truss members, wings, fuselages, etc.the factor of safety is taken as the ratio of the greatest possible load to the greatest actual load
+of the member, the former load being found experimentally, the latter either by calculation or
+by instrumental test under working conditions either real or simulated.
+Ezample .9.-Find the factors of safety in example 6 for a maximum shearing stress of
+1,000 pounds per square inch, and a maximum compressive stress of 4,000 pounds per square
+nch; also the factor of safety in example 8 for an applied load of 250 pounds.
+to find the strength-stress ratio, commonly called the "factor of safety."
+
+REPORT NO. 82.
+PART 1 .
+1
+
+AIRPLANE WING STRESSES.
+.
+
+B y A . F.ZAEM.
+
+11. SCOPE OF TREATMENT.
+
+The study of wing stresses may cover in succession the fabric, the ribs, the ailerons, the
+spars as beam members, the l i t and drag trussing. From the resultant stresses so found
+are computed the factors of safety for steady normal flight, taking account of the known
+strength of the individual members or of their dimensions and materials.
+12. WING FABRIC LOADING AND STRESS.
+
+The tensile stress in the fabric a t any point of a wing surface may be computed from the
+given curvature and air-pressure distribution at that point. Typical external pressure distributions on a monoplane surface are shown in figures 1, 2, 3, and 4. The internal pressure
+is sensibly constant and unknown, but with impervious fabric may be made equal to the
+external surface pressure a t any point by perforating the canvas there.
+At any part of the surface, as in figure 6, let p be the resultant point pressure of the air
+in pounds per square foot, a the distance in inches between ribs, and e the depth in inches of
+the bulge in the canvas midway between the ribs; then the fabric tension t , in pounds per
+linear inch, neglecting the effect of the fore and aft curvature, can be shown to be approximately
+2 = 0.00087 p2//c.
+Values of t for various air pressures and bulging of the fabric are given in figure 6.
+
+(17)
+
+13. RIB LOADING AND STRESS.
+
+The usual airplane rib may be considered as a beam supported at two points (at the spars)
+and sustaining the air force on all the fabric lying nearer to itself than to the neighboring ribs.
+In figure 7 is shown the distribution of the air force normal to the rib surface and also the
+distribution of the components of this air force normal to the chord. The running load on the rib
+is not sufficiently uniform to make applicable the ordinary formulas for uniformly loaded beams.
+.
+By considering the average loading upon each element of length as a concentrated load
+we may compute the shear and moment for a number of points and plot them as in figure 8.
+T i process, however, is laborious.
+hs
+For approximate treatment we may divide the rib into three parts, the segment between ,
+t h i spars, the front segment, and the rear segment, and consider the total running load on
+each segment as a concentrated load. The magnitude and position of each such load may be
+found by well-known methods. From these concentrated loads the shear and moment diagrams can be readily drawn, as shown in full line in figure 9, where the dotted lines are superposed from figure 8. The maximum vertical shearing forces are practically the same in both
+cases, while the maximum negative bending moment in the case of such approximation is about
+twice that of the true moment and should be halved for the working approximation.
+If the concentrated load on the front and rear segments, as shown in figure 9, be denoted for
+each by R and located a t a distance 1 from the spar, the unit bending stress next to the spar is
+
+S =Rl/Z,
+(18)
+Z being the section modulus of the cross section of the unsevered part of the rib segment
+where it meets the spar.
+144416-2G-2
+
+9
+
+10
+
+A N N U A L REPORT N A T I O N A L ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Again, if R, the concentrated load on the portion of the rib amid spars, is distant a and b
+from the front and rear spars, respectively, the unit bending stress at R is
+S=Rabl(a+b)Z,
+(19)
+2 being the section nodulus there. Dividing S in (19) by 2 gives a fair approximation to the
+true bending stress for the distributed load.
+The rib shearing stress may be found by the shearing stress formulas presented in Part I.
+Example 1.-A rib loaded as in figure 39 has the dimensions there specified; find the
+unit stresses for bending, maximum shearing, and average vertical shearing just outside the
+spars and just inside the spars; also the unit bending stress at B between the spars.
+14. AILERON LOADING AND
+
+STRESSES.
+
+The loads on the aileron are the control-wire pull and the air force. The normal pull may
+be taken as the greatest the pilot would care to exert regularly in flight and is measured with
+a spring balanoe when the pilot seated in a stationary machine vigorously plies the control.
+The aileron moment equals the control-wire pull times its distance from the aileron hinge
+axis; also equals the aileron air force times its distance from the hinge. I this latter disf
+tance be assumed of some reasonable magnitude and be divided into said moment, it gives
+the amount of the air force. Sometimes also the air force is estimated from the size, incidence,
+and forward speed of the aileron, taken with suitable aerodynamic data and with allowance
+for the propeller slip stream, if any. I n practice, the aileron force may be assumed to be a t
+the center of the surface and equal to PA, where P is the resultant pressure per unit area of
+the aileron surface A. The value of P is usually specified by the purchaser.
+Having thus found either the control-wire pull or the moment of the air force on the
+aileron, the stresses may be readily computed from the frame diagram by the usual methods
+of statics. I the moment of the air force tends to twist the aileron’s hinge rod, the unit
+f
+stress in the latter is computed by the formula
+S= M/Z
+(20)
+where M and Z are, respectively, the given moment and the torsion section modulus. I n this
+case the aileron ribs are simple cantilevers jutting out from the hinge rod, and are stressed like
+the trailing edge of a wing plane, and are treated by the foregoing rib analysis.
+Sometimes the control wire pulls on an aileron lever from whose outer end several stays
+m n to the rear edge of the aileron’ surface, as shown in figure 38. Each principal aileron rib
+then sustains a compressive component force due to the applied stay, a transverse running air
+force, m d the transverse component forces of its outer and its inner end attachments. If only
+the transverse forces be considered, the aileron rib stress may be calculated by the formula for
+the mid segment of a wing rib, as already treated. The endwise force causes, a t any cross section of t,he aileron rib, a compressive unit stress roughly equal to that force divided by the
+section area.
+.
+The leading and trailing edges of the aileron are treated as continuous beams supported and
+loaded as in figure 13.
+Example %-An aileron benring a uniform pressure of 20 pounds per square foot has the
+dimensions and structural form shown in figure 38. Find the moment about the hinge and the
+stress in the control wire. Find also the vertical reactions a t the stay wire upon the trailing
+edge beam.
+15. RUNMNG LOAD ON WING PLANES AND SPARS.
+
+The air loading and weight of R wing plane is in general not uniform along the whole length
+of the plane, but may be taken as uniform for each small unit of the length. The actual distribution of the air lotiding throughout the length, in a uniform wind12 illustrated in figure 4. For
+is
+1 In this text the term “wing” denotes a main supportingmember on the right or left o! the airplane. Thus, a biplane wing comprises two wing
+planes, the i‘top plane” and the “bottom plane,” joined by “interplane” trussing. Similarly for a triplane, a quadruplene,a multiplane.
+* Inca%a propeller slip stream washes tho plane the wind is still less uniform over the plane. To be very accurate, this m e would require
+special treatment.
+
+I
+
+AIRPLANE STRESS ANALYSIS.
+
+.
+
+11
+
+practical computation this distribution may be taken as constant along each panel or each spar
+length of the wing plane, and is so taken in the present treatment.
+The manner of referring the running air load and running weight of the plane to the spars,
+and there resolving them in the plane of the lift trussing and drag trussing, is shown in figure 10.
+Let L? D, Wbe the running lift, drag, and weight of the plano and all bl the distonces, respectively, of their points of application from the rear spar, a and b being numerical fractions and I the
+distance between spars. Then a t the front spar the parallel components of L, D are aL, uD;
+and the parallel co‘mponent of W is h W,which, taken from aL, gives the net running lift across
+wind a t the spar in question. Compounding graphically this net lift, uL-b W, with the drag aD,
+gives the resultant spar running load R. This resultant is now resolved graphically into the
+components
+w,in the lift and drag truss planes: also into w,w1in the spar web plane and
+normal thereto.
+I n a similar manner the resultant running loads and their component running loads in the
+lift and drag truss planes may be found for the remaining spars. Frequently in practice the
+running load on the lower spar of a biplane is found from that of the upper by dividing by some
+simple ratio, say 1.2, as indicated by aerodynamic experiments.
+Example 3.-A biplane wing has the form and loadings shown in figure 41 ;find tho resultant
+loadings on the spars and their components in the planes of the lift and drag trussing for angles
+of incidence of 2’ and 12’.
+u l
+q,
+
+16. SPAR BENDING MOMENTS. SHEARS, PIN REACTIONS, DEFLECTIONS.
+
+.
+
+From the running load w,on a spar, figure 10, and from the position of the strut pins, or
+constraints, tho bending moments, shearing forces, pin reactions, and deflections may be computed by the familiar formulas for loaded beams. I n general, these four quantitaties can be
+computed by direct use of Clapeyron’s original three-moment theorem, figure 11, but for usual
+cases are more conveniently found by the formulas derived Cherefrom and presented in figures
+13, 14, 15, 16.
+(a) Rending mments and bendir:g stresses.-The bending moment diagram is usually a chain
+of parabolic curves, whose maxima are tabiilated, for usual cases, in figures 13, 14, 15, 16. From
+these maxima and the tabulated joint moments the complete diagram is plotted, as in figure 17.
+I n some unusual cases tho ayes of the spar, strut, and stay do not pass through a common
+point. The increment of moment caused by such eccontricity of the stay attachment is treated
+analytically in figure 12 and applied graphically in figure 18.
+gives that for the
+The maximum bending moment in the strut plane, multiplied by w/w,,
+plane of the spar web, figure 10, from which may be computed the unit bending stresses in
+the spar. The unit stress is given by the equation
+S = MIZ,
+
+(21)
+
+Mbeing the moment and Z the section modulus of the cross section of the spar.
+( b ) Shearing forces and shearing stresses.-The shear diagram is drawn by plotting as
+ordinates the values of the transverse shearing force on each side of the pins, then joining thu
+ordinates by straight lines, as shown in figure 17. Each line, as is well known, cuts the spar
+axis a t a point of zero shear and of maximum moment.
+The values oi these shearing forces multiplied by w/w,
+give the shearing forces in the
+plane of the spar web, from which may be derived the corresponding shearing stresses by the
+shear formulas of Part I.
+(c) P i n reactions.-From the two “vertical” shears a t any spar joint the pin reaction
+is most readily found by simple subtraction as in figures 14, 15, 16. If the points of zero
+shear-that is, of maximum moment-are known, the pin reaction a t any joint is taken m the
+distance between the neighboring maxima times the mean loading.
+(d) Deflection.-To find the exact place and amount of the maximum spar panel bending,
+the deflection curve may be plotted from the elastic equation given in figures 14, 15, 16.
+1 The panel of
+
+a spar or wing plane is its portion between consecutive lift struts.
+
+:
+The determination of L and D is explained in the aerodynamictreatment of airplanes.
+
+\
+
+12
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AFARONAUTICS.
+
+Otherwise, since the point of maximum deflection in any span is near that of maximum bending moment, the latter point may be taken as the place of maximum deflection. Then the
+approximate maximum deflection d is, by the formula of figures 14, 15, 16,
+d( = y ) = - ~0[122cI(I- XJ + 4 V(P ~ 0 ’ )+w(P -xO3)]/24 EI,
+(22)
+where x, is the tabulated abscissa of the point of maximum moment. A s shown for an extreme
+practical case in figure 19, the difference between this approximate deflection and the true
+deflection is less than 2 per cent.
+&ampb 4.-Find the shears, moments, and reactions for the upper and lower front spars
+of the biplane trussing shown in figure 40 due to the uniform running loads found in example
+3; also the reactions of the spars in the planes of the lift and drag trussing and the shears and
+moments on each spar in the plane of the spar web.
+&ample 6.-Find and plot the resultant moments due to the uniform loading and the
+eccentric stay wire attachments shown in figure 18.
+Exumpb $.-Compute the deflections in the plane of the spar web for all panels of the biplane
+trussing of figure 40, using the results of example 4.
+
++
+
+17. CONCENTRATED LIFT AND DRAG ON WING TRUSSING.
+
+The total lift component on any strut pin in the plane of the lift struts i s equal and opposite
+to the pin reactions given by the formulas of figures 14, 15, 16 for a running load in the plane
+of the lift trussing. Multiplying this lift component by w2/w,) figure 10, and adding half the air
+resistance of the adjoining strut and stay wires, gives the drag component on the strut pin in
+the plane of the drag struts. The pin lifts and drags so found are taken as the applied loads
+on the lift trussing and drag trussing and are used to find the endwise stresses in their struts,
+stays, and spars. Convenient formulas for the concentrated drag loads are given in figure 20.
+An alternative method for finding the force on the strut pin is to multiply the mean
+running load on the spar by the distance between the points of zero shear in the adjoining spar
+panels. Equivalent formulas for this operation are given in figure 21.
+I n applying this alternative method, if the points of zero shear have not previously been
+found they may be taken as a t the centers of each panel except the inner or root panel. For
+the root or inner panel the point of zero shear is three-eighths the panel length from the body
+hinge of the “engine section.” This i an approximate method sometimes used for brevity. Its
+s
+accuracy may be judged by reference to the typical moment diagram of figure 19.
+To the above concentrated lifts must be geometrically added the weights of the struts and
+stays and in some cases the weight of the motor, the force of the aileron, the thrust of the
+propeller, etc.
+W h e n external stays are applied to the wing, such as lead wires or under struts, these may
+either be assumed severed or be taken as an integral part of the trussing. They are commonly
+assumed to be severed, so that the wing may be shown adequately strong without them and
+not liable to disaster in case of their accidental rupture. Then in turn the external stays are
+assumed to bear the whole lift or drag while the internal ones are severed.
+If any sloping external stay, figure 24, of length r, whose three projections on the reference
+planes of the machine are x, y, z, sustain a tension R, whose components are X, Y, then
+2,
+R/T= X / X Y / y = Z/Z.
+=
+(23)
+Thus if any internal drag wire should fail, causing a forward pull X in the lead wire, the
+stress in this latter would be R = r X / x , entailing a compression in the spar Y ==yX/x.
+I n case of cabane stays, figure 24, the y may be zero and R=rX/x. Similarly, the stress
+in a for,-ad-aft diagonal wing stay, supporting a drag X on the top plane, is R=rX/x.
+. Emmple ?‘.-Find the concentrated loads on the lift trussing of example 4, given the
+weight of the front struts, stays, cabanes, etc.
+Example 8 . 4 i v e n the resistance of the front struts and stays and the running load, find
+the concentrated loads on the drag trussing of example 4, by the zero shear method.
+
+-13
+
+AIRPLANE STRESS ANALYSIS.
+
+Example 9 . 4 i v e n the resistance of the struts and stays a t high and low speeds, find the
+concentrated loads on the drag trussings for both speeds, using values of the pin reactions
+found in example 4.
+Example 10.-An aileron bearing a uniform pressure of 20 pounds per square foot has the
+dimensions and structural form shown in figure 38. Find the stresses in the stay wires.
+
+.
+
+18. ENDWISE STRESSES IN MEMBERS OF NONMULTIPLANE WING TRUSSING.
+
+(a) Due to lift and drag.-From the given concentrated loads and frame diagram of the
+wing, the aggregate endwise stresses, and thence the unit stresses, are found by well known
+analytic and graphic methods.
+n
+Convenient analytical methods of fhding the aggregate stresses, i. e., i struts, stays, and
+spars, are presented in figures 22 and 23. The usual graphic method is illustrated in figures
+26 and 27.
+I the stress in but a single strut or stay of a biplane be desired, i t can be obtained directly
+f
+by an appropriate formula as a simple summation, or a product following a summation. I n
+such truss analysis the following generalizations may be useful:
+1. Any strut exerts a thrust equal to the sum of all the loads preceding it. Thus in figure
+22 R is preceded by the loads G , G’, H,H‘,Z, and therefore exerts at Z a thrust equal to their
+sum.
+2. Any stay exerts a tension equal to the sum of the loads preceding it times its own
+length divided by the truss gap.’ Thus for the stay Q the tension is (H+H’+Z+Z’) qlh.
+Otherwise the vertical component of any stay tension equals the difference between the strut
+thrust and the concentrated load on the Strut joint; also the horizontal tension component
+equals the difference of the spar thrusts on either side of the joint.
+3. -Any top spar panel exerts a thrust equal to the sum of the moments of the preceding
+loads about its inner end divided by the gap. Any lower spar panel.exerts a tension equal
+to the sum of the moments of the preceding loads about its outer end divided by the gap.
+The tension in a lower spar panel equals the compression in the one obliquely above and out
+from it.
+(a) Endwke stresses in struts, s.%ys, and spars due to Wing torsion.-The aileron lift P A
+exerts a torsional moment M- PA1 about the wing axis distant 1 from PA. The ensuing
+endwise stresses in the wing struts, stays, and spars can be calculated by the formulas for a
+twisted pyramidal truss given i figures 33 and 34.
+n
+Example 11.-Find the endwise stresses in the StNtS, stays, and spars of the front lift
+trussing, figure 40,for low speed and the rear lift trussing for high speed.
+Example 12,-Find the stresses in the drag trussings, figure 40, due to the concentrated
+loads of example 9.
+Example 15.-Find the stresses and factors of safety in the spars, struts, and stays i
+n
+figure 40 for low and high speeds, respectively.
+Example 16.-Find the stresses in the principal members of the wing trussing of figure
+40 due to a uniform air pressure of 20 pounds per square foot on the aileron surface of figure 38.
+IS. ENDWISE STRESSES IN MEMBERS OF MULTIPLANE WING TRUSSING.
+
+Figure 25 gives a general process for finding the stresses in a multiplane wing truss, and
+applies it to a triplane. Before employing this method the total lift on the StNt exerted
+by all the planes is found by summing their individual lifts, as in article 17 on concentrated
+loads.
+20. STRESSES IN REDUNDANT TRUSS MEMBERS.
+
+-
+
+The last article illustrates the case of a truss having redundant members, whose stresses
+are indeterminate by rigid statics, but determinate by elastic statics. To generalize this case,
+suppose a multiplane wing truss having initial stresses in both its load wires and its landing
+1 “Trus
+
+gap” here means the dlstance between spar centers i either the Ut or the drag Plane,
+n
+
+14
+
+A N N U A L R E P O R T N A T I O N A L ADVISORY C O M M I T T E E F O R A E R O N A U T I C S .
+
+wires. Here a lift L applied to a strut causes increase of tension in the load wires, decrease
+in the others. The increments of tension in both load and landing wires can be resolved vertically, summed and equated to the increment in L which causes them. The obvious expression
+for this is, by figure 25,
+AL = APm/p AP'm'/p' AQnlp AQ1n'/p'
+' in which the primes refer to the landing wires which cross the load wires diagonally. In many
+practical instances of wing and body construction the unprimed and primed quantitiei are
+respectively equal. The formula then becomes:
+*AL 2 (APm/p+ AQnlp)
+=
+s
+Example 15.-Given the data for figure 25, a below, solve for the tensions in the stay
+wires; L = 145 pounds; m = 60 inches; n = 50 inches; p = 99.8 inches; p = 94.2 inches; A =
+.012 square inch; B = .012 square inch; and E = 30,000,000.
+
++
+
++
+
++
+
+21. GROUPING OF WING ANALYSIS DATA AND COMPUTED VALUES.
+
+Figure 28 shows synoptically for a typical wing, (1) the general aerodynamic data for
+its individual planes, (2) the load distribution on the surfaces and trussing a t both high and
+low speeds, and the stress analysis for these conditions, (3) the tabulated dimensions of the
+truss members, their principal stresses and factors of safety. Such detail calculations as do
+not appear in the diagram are given in the solutions of the individual problems of this chapter.
+1 Thb type of diagram,prepared by the writer, wan published in part by the Franklin Institute Jounw.1 in December, 1914; entire in Aviation
+snd A m m u t i d Enginwring in 1917.
+
+REPORT NO. 82.
+PART III.
+
+AIRPLANE BODY STRESSES.
+By A. F.XAHM.
+21. SCOPE OF TREATMENT.
+
+The study of airplane body stresses may cover in succession: The tail unit; the tail skid;
+the chassis or landing carriage; the fuselage; each case compromising the applied loads, the
+induced reactions, the strength of the structural elements, and finally the factors of safety; the
+fuselage being treated last because stressed by ad the other members thereto attached.
+22. THE TAIL UNIT.
+
+The tail unit comprises (a) the vertical tail surfaces; (a) the horizontal tail surfaces. The
+combined air forces on the tail surfaces-that is, the lateral force on the vertical surfaces and the
+vertical force on the horizontal surfaces-are taken as applied loads on the fuselaga stern when
+in flight.
+(a) The vertical tail surfaces.-The rudder may be hinged to the rear edge of a fixed vertical
+fin attached to the stern of the fuselage or other rearward projecting framework. The loads on
+the rudder are the air force and the tiller pull. In unbalanced rudders the normal tiller pull is
+usually taken as the greatest force a pilot would care to exert in regular flying, and is determined
+by measuring with a spring balance the force exerted by a pilot when seated in the stationary
+machine and plying the control vigorously. I n common practice the force is assumed, as for the
+aileron in section 14, to be a t tha center of the surface and equal to PA, where P is the pressure
+per unit area of the rudder surface A. '
+The fixed vertical fin sustains both its own air force and the hinge forces exerted by the
+vertical rudder. The first may be taken as P A applied at the center of the f area; the second
+h
+may be computed by use of figure 13.
+( 6 ) The horizontal tail su$aces.-The
+horizontal'rudder, or elevator, is usually hinged to the
+rear edge of a fixed tail plane, or stabilizer. The elevator stresses are found as for the cases
+already considered of the aileron and the vertical rudder. The stabilizer is treated very like
+a monoplane wing except that it sustains considerable force on its rear edge, due to the hinge
+pressures, and is aerodynamically in0uenced by the presence of the horizontal rudder, and commonly also by the propeller slip stream.
+Exaqple 1.--An elevator bearing a uniform pressure of 20 pounds per square foot has the
+dimensions and structural form shown in figure 37. Find the moment about the' hinge and the
+stresses in the stays and the control wires; also the hinge reactions.
+Ezample 2.-Find the vertical components of the pin reactions of the front and rear beams
+of the stabilizer or horizontal fin, figure 37, due to a uniformly distributed pressure of 20 pounds
+per square foot and the hinge reactions of example 1.
+Emrnpb $.-A rudder and vertical stabilizer bearing a uniform pressure of 20 pounds per
+square foot has the dimensions and structural form shown in figure 37; find the transverse loads
+on the upper and lower trussing of the fuselage and the transmitted couple about the normal
+axis of the various sections.
+The tail skicZ.-When the craft is landing or resting on the earth the tail skid force is taken
+as a stern load on the fuselage.
+The normal static or dead load on the tail skid is its ground pressure when resting on a level
+surface, or, in the case of certain waterplanes, it is the static lift on the rear float. The normal
+lift of the tail skid is L- TVall, figure 29, if W be the total weight of the craft, and a, 1, the distances respectively of Wand L from the tread, or forward support of the machine.
+.
+15
+
+---
+
+I
+
+\
+
+16
+
+A N N U A L R E P O R T N A T I O N A L ADVISORY C O M M I T T E E F O R A E R O N A U T I C S .
+
+The live load on the tail skid may be resolved into rectangular components which are found
+as in figure 31, when the craft's dimensions and accelerations, there assumed, are known.
+Otherwise the maximum tail skid force to be provided against may be specified by the purchaser.
+From the force so found or specified the stresses in the tail skid, tail float or superstructure may
+be approximately calculated by elementary statics, ignoring the accelerations within the
+structure.
+Example ,&-Compute the normal lift on the tail skid from the data given in figure 29.
+Example 5.-Given
+I=60,544 pound-feet2, j x = 16 feet/sec.2, j,= 8 feet/sec.2, a = O . l rad.
+/sec.2, in figure 31 and the dimensions of a machine, find the resultant live load on the tail skid.
+23. UNDERCARRIAGE. LOADS AND STRESSES.
+
+The normal static or dead bad a t the bottom of the undercarriage equals in magnitude the
+total weight there supported when the craft is resting level. The supporting pressures are perfectly definite in some cases, as when the craft rests on two wheels and a skid, or on four cushioned wheels, etc.
+The stresses in the under carriage may be-computed first for the normal static load, then
+for a similar magnified load by multiplying by an assumed ratio, such as j l q in section 4.
+When the airplane pitches, skids, or slews about, other considerations, which may be of
+great importance, enter the stress analysis. The case of an airplane skidding or abruptly
+canting is treated a t the end of this article.
+For a common airplane, figure 29, if I, a be, respectively, the distances aft the axle of the
+tail-skid toe and the weight TI' of the whole craft less wheels, then the upward pressure on
+the skid toe is Wall, and this taken from the weight gives twice the pressure R on each of the axles.
+Resolving R parallel to the side-view projections of the struts, figure 29, gives, respectively, the force P sustained jointly by the front strut and stay and Q borne by the rear ones.
+These forces in turn resolved as shown give the stresses in the ihdividual uprights of the undercarriage. The first resolution obviously gives
+P*R sin alsin y
+Q =R sin @/siny,
+(24)
+wher0.q 8, Y are, respectively, the angles opposite P,Q, R in the force triangle. Similar equations in turn give the components of P,Q in the uprights,
+The stresses in the undertrussing of a typical seaplane a t rest are treated in figure 30.
+The lift R resolved parallel to the front view projections of the struts and stays, as shown,
+give its components P, Q in the planes, respectively, of the stays and of the struts. Now
+resolving P in the true plane of the stays, Q in that of the struts, as shown, gives the stresses in
+the uprights.
+As shown in figure 29, the strut pairs bear down each with the force R on the a l e , here
+assumed to be a straight and single tube. This axle normally finds support a t the centers of
+the wheels and sustains on its segment outward from the struts bending and shearing stresses
+computable by the simplest cantilever formulas as used for- wing ribs. Between the strut
+bearings the axle sustains a constant bending moment equal to the maximum in the cantilever
+portion. On this latter portion the maximum vertical shearing stress equals the wheel lift
+R; the maximum moment is Rl if 1 be the distance from the lift R to the down pressure of the
+strut pair. From the shear and moment the factors of safety are found as usual.
+The live load on the bottom of the undercarriage is treated in quite the same manner as
+that on the tail skid by the equations of figure 31.
+When an airplane skids on the ground or rests with one wheel l o f , the ground reaction
+on one wheel can be resolved into two rectangular components, one p a r d e l the other perpendicular to the axis. The parallel component F , say, exerts on the axle a bending moment,
+M = FR,where R is the radius of the wheel. If W be the weight, a the angle of cant, F= 1/2
+W sin a. The ensuing moment, V = 1 / 2 JFRsin a, map be quite formidable.
+Emmple 6.-From the data of figure 29 compute the normal load a t the wheels of the
+undercarriage; also the stresses in the undercarriage struts and stays and their factors of safety.
+
+.
+
+AIXPLANE STRESS ANALYSIS.
+
+17
+
+Ezample ?‘.-Find the stresses in the undercarriage trussing of the seaplane in figure 30
+due to a lift of 600 pounds applied a t a point one-third the distance from the front to the rear
+strut attachments.
+Example 8.-An airplane weighing 3,000 pounds, with wheels 2 feet in diameter and 6 feet
+apart, rests with one wheel 10 inches lower than the other. Find the added bending moment
+on the axle, assuming each wheel to bear half the entire weight.
+24. FUSELAGE LOADS AND STRESSES.
+
+“he fuselage may sustain gravitational, aerodynamic, and impact or acceleration loads.
+The ensuing stresses a t each point of the structure are separately computed, then combined to determine the resultant stress there. A twofold analysis is usually made, (a)for flying conditions,
+(b) for landing or static conditions. In both cases the analysis may be made either for the
+fuselage as a unit or separately for the rear segment, the front segment, and the center segment.
+(a) Fweluge loah and stresses f o r f E y i q conditions.-If the loads exert no torque on the
+fuselage, then for a typical rear segment, figure 32 presents the analytical treatment, figure
+42 the graphical. I n practical computation the weights of the struts, stays, and longeron panels
+are regarded as a l concentrated on the upper pins, rather than as part on the upper, part on the
+l
+lower pins. The air force on the side of the segment is comparatively negligible; that on the
+stern, due to the tail unit, is given in paragraph 2 of this part.
+“he gravitational stresses in the front segment are found similarly to those treated in ( a ) ;
+the power stresses, due to propeller thrust and torque, engine vibration, etc., may be estimated separately, then combined with the former. The aerodynamic forces on the bow are
+usually negligible.
+The stresses in the center segment of the fuselage, due to the gravitational and aerodynamic
+loadings, may be found separately, then combined with those due to the action of the attached
+members; i. e., wings, undercarriage, and front and rear fuselage segments.
+When the applied loads exert a torque on the fuselage, endwise stresses ensuing from the
+latter are computed by the formulas of figures 33 and 34 for twisted trusses. For example,
+if the rudder force P,4 is distant 1 from any axis of the fuselage, i t may be replaced by a force
+P A and a couple PAZ, both applied at said axis, the‘ force generating one set of stresses, the
+couple another, and each set separately computable by one or the other of the above formulas.
+(6) Fwelage loah and stresses for landing or stutic conditions.-For static conditions the
+loads inside the fuselage are the same as those for flight. The external applied loads are the
+wing weigh&, the reactions of the tail skid and undercarriage. The stresses are found as
+shown in figures 32 and 42.
+For kinetic conditions the applied loads on each part are computed as explained in figure
+31. The stresses are then found as explained in the preceding paragraph.
+Example 9/Find the stresses in the struts, stays, and longerons of the rear segment of
+the fuselage due to a uniform pressure of 20.pounds per square foot upon the horizontal tailpieces; also those due to gravitational loads alone.
+Example 10.-Find the stresses in the struts, stays, and longerons of the vertical trussing
+of the front segment of the fuselage shown in figure 35, due to gravitational loads.
+Example 11.-From the data in the problems above find the stresses and factors of safety
+for the principal members of the fuselage for a steady, circular flight around a level curve of
+200 feet radius a t 80 miles per hour.
+Example 12.-Find the stresses in the rear segment of the fuselage due to the torsional
+loads in example 3.
+25. GROUPING OF BODY ’2 4LYSIS DATA AND COMPUTED VALUES.
+
+Figures 35 and 36 show synoptically for a typical airplane body the graphical analysis
+and the numerical results for both flying and static conditions. Such detail calculations as
+do not appear in this diagram are given in the solutions of the individud problems of this part
+of the text.
+144416-2-
+
+REPORT NO. 82.
+
+.
+
+PART IV.
+
+PROBLEMS IN AIRPLANE STRESS ANALYSIS.
+By L. H. CROOK.
+PROBLEMS IN PART I.
+Stresses in Materials.
+
+Ezample 1.‘-If an accelerometer fixed to an airplane records a maximum vertical acceleration of 48 feet per second per second, what is the ratio of the abnormal to the normal loading Z
+Given g =32 feet per second per second, j =48 feet per second per second.
+Then by section 4
+r=j/g=48/32=1.5 (ratio). - Ans.
+Example 2.-An airplane in landing has a vertical velocity of 10 feet per second and a
+uniform cushion yield of 6 inches. Find the ratio of the abnormal to the normal stresses in
+the landing gear, assuming the machine to be a rigid structure.
+Given V= 10 feet per second.
+Then by section 4
+Velocity “head ” h =v2/2g
+= (10)2/2(32)= 1.56 feet.
+By equation 1
+r = l +h/d
+= 1 + 1.56/0.5 =4.12 (ratio). Ans.
+Ezample $.-Find the longitudinal shearing stress in a 4-inch square beam, given the total
+vertical‘shear as 1,400 pounds, first with diagonal vertical, then with it inclined 45O.
+I. DIAGONAL VERTICAL.
+
+Shear a t neutral axis.
+Given
+a--8 sq. ins.; V=1,400 lbs.; Z=21.33 ins:
+c = 0.942 ins.
+By formula, 5
+S=ac VIIt
+=-8(0.942)1400/21.33(5.656)
+-87.5 lbs. per sq. in. Am.
+Shear a t 114 h?
+a-4.5 sq. ins.; V= 1,4001bs.; 1=21.33 ins.’
+Given
+c=1.414ins.
+t = 4.242 ins.
+S = a c V/Zt
+= 4.5(1.414)1400/21.33 (4.242)
+=98.3 lbs. per sq. in.
+Shear a t 112 73.
+Given
+a = 2 sq. ins.; V=1,400 lbs.; 1=21.33 ins.‘
+c = 1.885 ins.
+t -2.828 ins.
+S = a c v/zt
+= 2 (1.885)1400/21.33(2.828)
+=87.5 lbs. per sq. ins.
+
+* Unlass otherwise stated, all quantities are expressed in toot, pound, second, gravitationalunits
+Distance from neutral axis to outecmcst Bber.
+:Note that maximum shear is not at neutral axis.
+f
+
+18
+
+AIRPLANE STRESS ANALYSIS.
+
+*
+
+19
+
+Shear a t 314 h.
+a=0.50sq. ins.; V=1,4001bs.; Zt21.33 ins.'
+t = 1.414 ins.
+c = 2.357 ins.
+S = a c V/Zt
+=0.50(2.357) (1400)/21.33(1.414)
+=54.7 Ibs. per sq. in. Ans.
+Shear a t outermost fiber.
+since
+a = o , t=o, then S = o . Ans.
+I. DIAGONAL INCLINED
+I
+
+Shear a t neutral axis.
+Given a=8 sq. &.; V=1,400 lbs.; Z=21.33 ins.'
+t = 4 ins.
+c = l in.
+S = a c V/Z t .
+= 8 (1,400)/21.33(4)
+= 131.2 lbs. per sq. in. Ans.
+
+45..
+
+I
+
+Shear a t 114 h.
+Given a = 6 sq. in.; V=1,400 lbs.; 1=21.33 is'
+n.
+*
+c = 1.25 ins.
+t = 4 ins.
+S = a c V/Zt.
+= 6 (1.25) 1,400/21.33(4)
+= 123.1 lbs. per sq. in. Ans.
+Shear a t 112 h.
+Given a-4 sq. ins.; V=1,400 lbs.; 1-21.33 ins.'
+t = 4 ins.
+c = 1.50 ins.;
+S = a c V/Zt
+= 4 (1.50) 1,400/21.33(4)
+=98.4 lbs. per sq. in. Ans.
+
+.
+
+Shear at 314 h.
+a = 2 sq. ins.; V=1,400 lbs.; Z=21.33 ins.'
+t = 4 ins.
+c = 1.75 ins.
+S = a c V/Z t
+= 2 (1.75) (1,400)/21.33(4)
+=57.4 lbs. per sq. in. Ans.
+hear at outermost fiber. 9=0.
+Exumple 4.-Find the resultant unit stress in a %inch square simple beam, 80 inches long;
+due to an endwise load of 900 pounds, a maximum bending moment of 1,100 inch-pounds and a
+maximum deflection of 0.05 inches a t the place of maximum moment.
+Given, 2 = 1.33 ins.3; d = 0.05 in.; E = 1,500,000.
+Z = 1.33 is' A = 4 sq. ins.
+n.;
+Then by footnote, section 7.
+
+1
+
+K=sec. 2 W
+
+Z
+
+=sec. [40~900/(1,500,000)
+(1.33)]
+[.845] = 1.52.
+
+= sec.
+
+Then by formula 7 and computed value of K
+
+S=P/A+MlZ+ K P d l Z
+
+=900/4+ 1,100/1.33+ 1.52 (900) (0.05)/1. 33
+= 225 + 827 + 51 = 1103 lbs. per sq. in.
+
+.
+20
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Example 5.-Find the unit stress in a pin-ended column 1 inch square and 30 inches long
+under an axial load of 200 pounds; also the unit stress when taking the eccentricity of the load as
+2 inches.
+Given 1 =30 ins.; r = JIIA = 0.288 in. ; P = 200 lbs.
+A = l sq. in.; a=4/3,000
+Then by formula 9.
+S = [(1 u(Z/T)']P/A
+=[l + (4/3,000) (30/0.288)2]20011
+=3,081 lbs. per sq. in.
+
++
+
+Giveli 1=30 ins.;
+
+-
+
+r=0.288 (ins:);
+
+c-112 l.
+n
+
+A = 1 sq. in.; a = 41300 (constant)
+P=2OO lbs.; p = 2 ins..
+
+Then by formula 10.
+S = [ l +u(l/r)2+cp/T2) PIA
+= [1+3/4,000 (30/0.288)' + 0.5(2)/0.288'] 20011
+-5,460 lbs. per sq. in.
+
+Example 6.-A beam is subject to a compressive unit stress of 200 pounds per square inch,
+and a t the same time to a longitudinal shearing stress of 250 pounds per square inch. Compute
+the maximum resultant stresses.
+Given, Sa= 250 pounds pqr square inch. S
+
+200 pounds per square inch.
+
+Then by formulas 11 and 12
+s, = JCSa)' (s/2)1
+= J(250)2 + (20012)'
+= 269 pounds per square inch. Ans.
+
++
+
+Sn- -J
+p
+S
+=
+.
+
+200/2 + 269 -369 pounds per square inch. Ans.
+
+Example 7.-If a member whose allowable constant stress is 20,000 i stressed frequently
+s
+to 15,000 and has an elastic limit of 60,000, what is the equivalent steady stress?
+Given, S =20,000 pounds per square inch.
+n=- (constant).
+1
+m 15,000/60,000 1/4 (ratio).
+Then by equation 13
+S'-S(l +m)"
+-20,000 (1 + 1/4)'
+= 25,000 pounds per square inch. h.
+Example 8.-Fmd the maximum load for a pin-ended spruce column of length 60 inches,
+cross section 3 square inches, and moment of inertia 0.3 inch4.
+Given, E 60 inches; l/r 60/0.31= 193 (slenderness ratio).
+A-3 square inches; E= 1,500,000 pound.. per square inch.
+1-0.3 inch:
+
+-
+
+-
+
+-
+
+Then by formula 15.
+
+P
+,
+
+=
+I
+
+*a
+
+EIIF
+
+-9.86 (1 ,.500,000)
+0.3/(60)'
+= 1,233 pounds. Ans.
+
+-PLANE
+
+21
+
+STRESS ANALYSIS.
+
+Exumple 9.-Find the factors,of safety in example 6 for a maximum shearing stress of
+1,000 pounds per square inch and a maximum compressive stress of 4,000 pounds per square
+inch; also the factor of safety in example 8 for an applied load of 250 pounds.
+By section 10,
+From example 6
+Compressive stress =369 pounds per square inch.
+Shearjng strass
+= 269 pounds per square inch.
+Then, for compression
+F. S. =4,000/369 = 10.8. Ans.
+For shear
+F. S . = 1,006/269=3.7. Am.
+From example 8
+Maximum load carried by beam = 1,250 pounds.
+Then,
+F. 8. 1,250/250 -5. AM.
+=
+/
+PROBLEMS IN PART I
+L
+Airplane Wing Stresees.
+
+Ezampb 1.l-A rib loaded as in figure 39 has the dimensions there specified. Find the
+unit stresses for bending, maximum shearing, and average vertical shearing just outside the
+spars and just inside the spars; also the unit bending stress a t €2 between the spars.
+SECIION M.
+
+(a) Consider the cap strips as carrying all the bending stresses.
+
+Given 1- 1.22 in?; 2- 1.2211.93=0.632
+R = 4 lbs.;
+1-2 in.
+Then by formula (18)
+
+, .
+
+S =R1,'Z
+4[2]/0.632 = 12.6 lbs. per sq. in.
+
+Ans.
+(by Consider the cap strips and web as carrying the horizontal shearing stress.
+c -1.0 i . a90.61
+n;
+Given 1-2.01
+t-0.25 in.; V-4 Ibs.
+Then by formula (5) 8-ac V/It
+= 0.61(1)4/2.01(0.25)
+=4.9 lbs. per sq. in. Ans.
+(c) The total vertical shear a t this section is not distributed as shearing stress over the
+web section, since the web of the rib ends a t this section. The total vertical shear, however,
+is carried primarily by a compressive stress on the upper surface of the tongue that projects
+into the spar. The compressive stress in this case is
+S= VIA
+=4/(.25 x .50) -32 lbs. p r sq. in. Ans.
+E
+
+SECTION N.
+
+(a) Consider the mid part of the rib as a simple beam.' The bending stress a t section N
+is then zero.
+(b) Consider the cap strips and web as carrying the horizontal shearing stresses.
+Given 1-2.36 in.'; c-1.08 in.; a-0.64 sq. in.
+V - 12.22 lbs.
+2 = 0.25
+I The solutions given i this example must be looked upon only 88 approximations. AnSQWBtg theoretical plutlop must take into account
+n
+the hollowed web, the glued scrips, strength of glued surfaces,etc.
+2 Spar being free to twist.
+
+,
+
+22
+
+A N N U A L REPORT NATIONAL
+
+ADVISORY COMMITTEE FOR A E R O N A U T I C S
+
+Then by formula (5)
+s-ac VlZt
+= 0.64 (1.OS) 12.22/2.36 (0.25)
+= 7.7610.59 = 13.1 Ibs. per sq. in. Ans.
+(e) Treat the total shearing force as in (e) of section M.
+SECTION 0.
+
+(a) Consider the bending stress S as carried by the actual section.'
+0;
+Given Z=2.84; e-2.30; ~ ~ 1 4 . 2 b=19.80; R=20.41
+Z = I/c = 2.8412.30 = 1.23
+Then by formula (19),
+S - R ub/2(a+b)z
+=20.41(14.20)(19.80)/2(34)(1.23)
+-69 lbs. per sq. in. Ans.
+(b) Total vertical shear and also the horizontal shearing stresses are zero a t this section.
+
+*
+
+SECTlONS P AND 9.
+
+Treat similarly to section N and M,respectively.
+Example 2.-An aileron bearing a uniform pressure of 20 pounds per square foot has the
+dimensions and structural form shown in figure 38. Find the moment about the hinge and the
+stress in the control. wire. Find also the vertical reactions of the stay wire on the trailing
+edge beam.
+(A) TOTAL LOAD ON AILERON.
+By section 14 and figure 38.
+Given P = 2 0 lbs. per sq. ft. (assumed loading).
+A =area of aileron surface = 20.7 sq. ft.
+Then total load =P A
+,
+c 20 X 20.7 =.414 Ibs. A ~ s .
+:
+(B) MOMENT ABOUT HINGE.
+
+By figure 38. Center of gravity C=9.45" from hinge.
+X = CPA =9.45(414) = 3,910 lbs. is. Ans.
+
+-
+
+-
+
+(C) STBJISS IN CONTROL WIRE.
+
+By figure 38, given ann- 12.75; moment-3,910
+Then tension 3,910/12,75 307 Ibs. Ana.
+(D)
+VERTICAL BEACTIONS OF TRAILING EDGE BEAM.
+
+Total load distributed along trailing edge is approximately 1/2 aileron load.
+By figures 38 and 13,
+2w2 -41412 = 207 lbs. and running load = 207/162 = 1.28 lbs. per linear in.
+Given 2-81 in.; b-70 in.; a = l l in.
+w = 1.28 Ibs. per in.
+By formula in figure 13R, = w 1 (4 la - b 2 ) / 8bl
+=1.28 (81) [4(81)a-702]/8(70) 81
+=48.8 pounds. Ans.
+R,=2 (W 1-R,)
+- 2 [1.28 (81) -48.81 = 109.7 pounds. Am.
+Rs =48.8 pounds. Ans.
+Compare these answers with those found from the table in figure 13.
+The vertical reactions are then as follows:
+For central stay = 109.7 pounds. Ans.
+Outside stays (each) =48.8 pounds. Ans.
+The tension in each stay wire may be found from these reactions. Seo example io.
+
+23
+
+AIRPLANE STRESS ANALYSIS.
+
+Example 3.-A biplane wing has the form and loadings shown in figure 41 ; find the resultant
+loadings on the spars and their components in the planes of the lift and drag trussings for angles
+of incidence of 2 O and 12O.
+The running lift L, the running drag D, and the distances to their points of application (aZ)
+depend upon the aerodynamic characteristics of the wing, the angle of incidence, the stagger, the
+biplane effect, etc. The running lift L and weight Was determined for any given wing plane
+of a machine are constant for all angles of incidence in straightaway flight. In the present
+example, however, L, D, W, a, and b are given.
+1. ANALYSIS FOR LOW SPEW.
+
+(Incidence 12O.)
+
+(a) Running loads on upper front spar.
+
+Given L =2.256 Ibs./in
+D =0.275 lb./in.
+w=0.313 Ib./in.
+b =0.46
+a = 0.67
+a = 0.67
+Then aL- 1.511 lbs./in. aD=0.184 lb./in. b w=0.144 lbs./in.
+aL - b W= 1.367 Ibs./in.
+By simple graphics.
+,
+w, = 1.389 lbs./in. w -0.100 Ib./in. w = 1.370 lbs./in.
+The running loads on lower front spar, upper rear spar, and lower rear spar are similarly
+found. Their values are given in the table below.
+n. ANALYSIS FOR n I G n SPEW.
+(Incidence 2 O . )
+(a) Running loads on upper front spar.
+Given L=2.256
+D=0.141
+w=0.313.
+a = 0.29
+a = 0.29
+b = 0.460.
+Then aL=0.654
+aD-0.041
+bW=0.144
+aL-b W=0.510.
+w,= 0.106
+w = 0.510.
+By graphics, w, = 0.517
+The running loads on lower front spar, upper rear spar, and lower rear spar are similarly
+found. Their values are given in the table below.
+
+L
+- D - - aL - bW -* w i - w
+- W - b - aD -a M W - w, -
+
+Symbols.
+
+a
+
+Front spars:
+Upper .................................
+Lowe.. ...............................
+r.
+Rear spars:
+Upper.. ................................
+Lower.. ................................
+
+Front spars:
+
+...............
+...............
+
+Rear spars:
+Upper ..................................
+Lower ..................................
+
+2.256
+1.645
+
+0.275
+.a5
+
+0.313
+
+,280
+
+0.67
+.67
+
+2.258
+
+1.845
+
+.275
+.225
+
+,313
+
+.33
+
+2.258
+1.645
+
+0.141
+.116
+
+0.313
+
+2.256
+1.845
+
+.141
+.116
+
+.313
+.2&5
+
+.2M
+
+0.164
+.151
+
+0.144
+.131
+
+1.367
+1.105
+
+1.389
+1.127
+
+.M
+
+.744
+
+,608
+
+.081
+,074
+
+.169
+.154
+
+,575
+.455
+
+0.654
+
+,535
+
+0.041
+,033
+
+0.144
+.132
+
+0.510
+.403
+
+.54
+
+.33
+
+1.511
+1.236
+
+0.46
+.46
+
+.2M
+
+0.46
+.46
+
+1.802
+1.308
+
+.100
+.OS2
+
+,169
+.154
+
+1.433
+1.155
+
+.M
+
+.M
+
+L1ft trussing.
+Fmnt.
+
+Drag trussing.
+
+1.370
+1.112
+
+.588
+
+,059
+
+.467
+
+,049
+
+.5W
+.462
+
+0.517
+,408
+
+0.106
+,084
+
+0.510
+.403
+
+1.456
+1.172
+
+.282
+,226
+
+1.436
+1.158
+
+High.
+
+LOW.
+speed-Plane o!-
+
+0.100
+.095
+
+Spar web.
+
+Lift trussing.
+
+Drag trussing.
+
+Rear. Front. Rear. Front. Rear. Front. Rear. Front. Rear. Front. Rear.
+
+---______-----Running loadonupper spars ...............
+Running load on lower spars.. .............
+
+1.388
+1.127
+
+Spar web.
+
+0.588
+.467
+
+0.100
+.095
+
+0.059
+,049
+
+1.370
+1.112
+
+0.580
+.462
+
+0.517
+.408
+
+1.456
+1.172
+
+0.106
+
+.OM
+
+0 . 2 ~ 2 ::
+::
+0
+,226
+
+1
+
+1.436
+
+* 1.158
+
+24
+
+A N N U A L REPORT N A T I O N A L
+
+ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Example ,&-Find the shears, moments, and reactions for the upper and lower front spars
+of the biplane trussing shown in figure 40, due to the uniform running loads found in example
+3; also the reactions of the spars in the planes of the lift and drag trussing and the shears and
+.
+moments on each spar in the plane of the spar web.
+1 SHEAUS. MOMENTS. REACTIONS FOR THE FRONT SPARS DUE TO RUNNING LOADS IN PLANE OF FRONT STRUTS
+.
+
+(LOW SPEED).
+
+1. Upper wing spar.-The upper wing spar is considered as a continuous beam supported
+a t four points and having one overhanging end.
+Given A = B = C= D = 1.389 lbs./ins.
+a = 3 0 ins.; b=50 ins.; c=84 ins.; &=79 ins.
+Then by the formulas of figure 15.
+Auxillary Symbols.
+
+........................................................
+.................................................
+m=1.389[(84)s+(79)sl/4. ...................i..
+h=2(5O+84).. ................................................................................
+i=2(84+79). ......................................................................................
+k1.389[(50)s+(84)31/4-1.389(30)250/2.
+
+Joint Bending Momenta.
+M1=1.389(30)2/2. ..................................................................................
+
+~~=[217970.21(326)-377024.20(84)]/268(326)-(84)*..................................................
+
+M3=[217970.21 -49O.44(268)]/84. ....................................................................
+M p O . ........................................................................
+:..................
+
+217,970.21
+377,024.20
+268.00
+326.00
+625.05
+490.44
+1,030. 14
+0.00
+
+Shear, Right of Pin.
+V1=(490.44-625.05)/50-1.389(50)/2.. ...............................................................
+V.= (1030.14 490.44)/84= 1.389(84)/2................................................................
+
+-
+
+. V,=(O-lO3O.14)/79-1.389(79)/2.
+
+..................................
+
+:...............................
+
+-37.41
+-51.91
+-67.89
+
+Shear, Left of PIn.
+.
+
+U1--3O(1.389). ....................................................................................
+U p -37.41+1.389(50). ............................................................................
+Ua=-51.91+1.389(84) .............................................................................
+U4=-6f7. 89+1.389(79). ............................................................................
+
+41.67
+32.04
+64.76
+41.84
+
+R n Reactions.
+
+.................................................................................
+
+R1=41.67+37.41..
+R2=32.04+61.91n..
+R,-64.76+67.89..
+R4141.84+0..
+
+...............................................................................
+................................................................................
+
+...................................................................................
+
+79.08
+83.95
+132.65
+41.84
+
+Position of Marlmum Momenta.
+
+...................................................................................
+...................................................................................
+.....................................................................................
+
+2,=37.41/1.389.
+2,==51.91/1.389.
+~,=67.89/1.389
+
+Maximum Moments Between Jointa.
+M’1=625.05-(37.41)2/2( 1.389). ......................................................................
+M’.=490.44- (51.91)’/2(1.389).......................................................................
+M’4030.14- (67.89)’/2(1.389).....................................................................
+
+26.93
+37.37
+48.87
++121.27
+-479.55
+-628.98
+
+2. Lower wing spar.-The lower wing spar is considered
+a continuous beam supported
+at three points and having one overhanging end,
+Given A = B = C = 1 . 1 2 7 s lbs. per in.; a-27 ins.; b=84 ins.; c = 7 9 ins.
+Then by formulas of figure 14.
+I The nmning load may be taken as unity. In the present problem it is the running load in plane of front lift trussing for low speed. (see
+problem 3, Pt. 11.)
+9 Allcalculationswere carried out two decimal placecrto insure accuracy primarily for comparing other methods of calculation, as slide rule,
+
+graphical, etc. (See example 7, Pt. 11, and fig. 28.)
+i Runntne load on lower spar in plane affront llft trussing for low speed. (See example 3, Pt. 11.)
+
+............
+
+..
+..
+..
+.
+
+......
+......
+
+AIRPLANE STRESS AXGYSIS.
+
+I
+
+25
+
+Auxiliary Symbols:
+
+................................................................
+........................................................................................
+
+~=1.127[(84a+79')/4]-1.127(27)a84/2.
+
+h=2(84+79)
+
+271,401.60
+326.00
+
+Joint Bending Moment.
+M1=1.127 (27)yi?...................................................................................
+X2=271401.60/326. ................................................................................
+
+410.79
+832.52
+
+Sheus, Right of Section.
+V1=(832.52-410.79)/84-1.127(84)/2 ..................................................................
+V2=(0-832.52)/79-l,l27(79)/2 ......................................................................
+
+-42.31
+-55.04
+
+Sheus, Left of Section.
+U1=27(1.127). .....................................................................................
+up= 42.32+1.127(84) ..............................................................................
+Ua=-55.04+89.03.. ................................................................................
+
+30.42
+52.35
+33.99
+
+Pin Reactions.
+R,=30.42+42.31 .....................................................................................
+R,=52.35+55.04 ....................................................................................
+R a--33.99+0.. ....................................................................................
+
+72.73
+107.39
+33.99
+
+Position of Maximum Moments Between Joints.
+~,=42.31/1.127......................................................................................
+5=55.04/1.127.. ................................
+?. ..................................................
+
+37.54
+48.83
+
+Maximum Momenta Between Joints.
+
+M'~=410.79-(42.31)*/2(1.127).. ......................................................................
+M'1=S32.52-(55.04)'/2(1.127) ..........'..... .......................................................
+
+n. REACTIONS OF SPARS IN PLANES OF LIFT A N D DRAG
+
+-383.41
+-511.49
+
+TRUSSING FOR HIGH A N D LOW SPEEDS.
+
+"he reactions in the planee of the lift and drag truss@ for front and rear spars a t high
+and low speeds may be found from the known reactions on the front upper and lower spars,
+by multiplying by the ratio of the running loads.' In the table below the ratios of the running
+loads are given, as well as the running loads.
+Data and computd valucs for re0etion.q.
+~~~~
+
+Bpeed..
+
+........:.............................................
+
+Hbh.
+
+LOW.
+
+1
+
+~
+
+nwaiug.
+
+....................................................
+
+LUt.
+
+Drag.
+~~
+
+Runntnloadonupperspm .................................
+Ratioof?osds
+
+................................................
+RI..
+Reactlorn of upper span.. .............................
+
+1
+78.08
+
+................................
+ReBctioM Of lower spars.. ..............................
+
+Running loed on lower span
+Ratloof Ioads
+
+I
+
+Thea values we foundby multlplylng the column on extreme left by the ratio o loads.
+f
+
+m. MOMENTS A N D SHEARS IN PLANE OF SPAR WEB AS FOUND FROM
+
+THOSE IN PLANE OF LIFT TRUSSING
+
+SPARS ONLY.
+
+mu FRONT
+
+1
+
+The shears and moments in plane of spar web may be found directly, by the equations of
+@ea
+14, 15, 16, etc.; using a running load in the plane of the spar web, or indirectly by ratio
+methods, that i , by ratio from a known analgsh~ unit loading or a running load in some
+s
+for
+other plane. The table below gives the moments and shears in plane of spar web as found
+from those in plane of lift trussing for front spars only.
+1
+
+144416-2-
+
+Thls Is tnu, only for slmllar spar lengths.
+
+26
+
+ANNUAL
+
+REPORT NATIONAL ADVISORY
+
+COMMITTEE FOR AERONAUTICS.
+
+Datu and eo&mtcd values for moments and shears.
+LOW SPEED.
+Front spar..
+
+................................
+
+Lower.
+
+upper.
+
+Plane of. ....................................
+
+t
+
+a
+
+1
+
+Runnlnqlogds ..............................
+Ratloof oads
+
+...............................
+
+...
+
+Maximum momens between Joints...
+
+...
+...
+U. ..
+,
+U. ..
+,
+U
+I
+
+Sheam.rlght of pins.. ...................
+
+...I
+
+I
+
+t
+
+Sparweb.
+
+I 310
+.
+
+a
+
+1
+
+.
+
+Sparweb.
+
+1.127
+
+1.112
+0
+
+'
+
+' 0
++121.27
+-479.56
+41.67
+32.04
+
+__
+
+...........
+
+0
+
+-378 31
+
++119.62
+-473.02
+-6% 42
+41.10
+3 . Bo
+1
+Bz I77
+..
+..
+.
+41.27
+-30.90
+- 5 m
+~
+
+-628.08
+
+I
+pi---
+
+Y
+Shears,left ol pins.. .................. U
+
+1
+
+.
+
+1.388
+1
+
+..
+
+Joint bending momenta ...............
+
+I
+
+'
+
+-
+
+R1.76
+.
+
+41.84
+-37.41
+-51.91
+-67.88
+
+...........................
+30.42
+30.01
+
+I
+
+I
+
+E::
+
+E%
+
+-41.74
+-54.30
+
+-am
+
+I
+
+I
+
+I
+
+Found fromcolumn on left by using ratio of loads.
+
+IV. MOMENTS AND SHEARS IN PLANE OF SPAR WEB FOR UL sems AT HIGH AND LOW SPEED, AS FOUND FROM DATA
+IN TABLE 1U.
+
+Moments and shearsfor spars.
+
+.
+
+UPPER SPkRS.
+
+I
+
+.......................................
+Spar.........................................
+Runnin load ..............................
+Ratlo okloeds::.. .................. .:.. ......
+speeds
+
+J d n t - b t a w momenta.
+
+fbfl..
+
+...............
+
+I
+
+LOW.
+
+[
+
+Front.
+I. 370
+1
+
+0.510
+.373
+
+1 242.30
+
+190.la
+389.33
+0
++47.07
+
+-2tx.m
+1.2
+74
+13.39
+.27.08
+17.49
+-15.64
+-21. 70
+-2a.39
+
+.....................
+
+-51.
+
+.424
+
+-lo456
+
+y..
+
+..................
+
+0.580
+
+m
+
+-06.98
+
+Rear.
+
+Fmt.
+
+2Q5.11
+430.83
+0
++50.71
+
+M.
+I.
++llii. 02
+aximum moments between joints ....kr.. -473. a
+l
+-W.
+42
+41.10
+U
+:
+:
+:
+31.80
+63.87
+Sheara,left of pin.
+[,.
+U.
+41.27
+U,..
+-38. 90
+V.
+I.
+Sheus,rtght of pin..
+
+Rear.
+
+1 261.41
+
+616.54
+40.77
+1O: 13
+,l
+
+I
+
+High.
+
+I
+
+1 626. 13
+
+500.89
+
+1,064.90
+
++lG.
+36
+
+-E.
+1Km
+
+-243. E l
+16.15
+1 1
+21
+25.10
+16.21
+-14.50
+-20. it
+-26.31
+
+-495.72
+
+-em.
+m
+
+43.07
+33.11
+
+a3
+9
+43.25
+-38.67
+-53.
+
+(L5
+
+-70.17
+
+I
+1 Found
+
+from column on left by using ratio of I d a .
+
+LOWER SPARS.
+
+.......................................
+
+LW
+O .
+
+Speeds
+sa..
+pr.
+
+......................................
+
+Front.
+
+I
+
+High.
+
+Rm.
+
+Front.
+
+-
+
+................................
+................................ MI..
+
+Running I d
+Ratlo 01lmds
+
+Joint-bmdlng momenta
+
+....................
+Shears,rlght of pin.....................
+Shaus,left of pin..
+
+MY..
+
+m. .
+,
+
+1.112
+1
+4M.32
+821.44
+n -370.31
+-334.68
+30.01
+51.05
+33.63
+-41.74
+-54.
+
+.
+w
+
+0.482
+.416
+
+lsa 61
+
+341.71
+0
+-157.37
+-m9.94
+12.48
+21.48
+12.99
+-17.38
+-az. 58
+
+043
+.0
+
+.w
+
+14i. 13
+124.04
+n
+-5i. 12
+-76.20
+4.53
+7.79
+5.07
+-6.30
+
+-8.19
+
+1.158
+1.042
+422.34
+865.94
+
+0
+-394.19
+425.87
+31.27
+53.81
+35.04
+-43.49
+-56.58
+I
+
+A close examination of the foregoing resultp -ill show that the greatest stresses occur in
+the front spars for Iow speed and the rear spars for high speeds.
+Emmple 6.-Find and plot the resultant moment due to the uniform loading and the
+eccentric stay wire attachments shown i figure 18.
+n
+
+-
+
+-
+
+-
+
+AIBPUNE STRESS ANAtYSIS.
+
+27
+
+1 GENERAL DATA.
+.
+
+b=50 h.; '1T,=O;
+P=O
+c=84 in.; &=0.023; &=228
+d = 79 in. ; Ks = 0.025; R = 460
+X. COMPUTATIONS.
+I
+
+Consider the vertical components of the stay forces as concentrated loads on the continuous beam and apply the theorum of Bresse as given in figure 11 and explained in figure 12.
+. Application of Theorems to Spans (b) and (e).
+
++
+
++
+
+Mlb 2 M, (b + C) M ~= - Pb'( K, - K,') - Qc"(2 & - 3 4' + &')
+c
+O+2MZ(5O+84)+84Hs=O-228(84)'(0.04628)
+... 268 M2+84M3=-74,453.78
+Application of Theorems t Spa?# (e) and (a).
+o
+
+I
+
+By elimination
+
+Mac+2M3(c+d)+M4d= -QCZ(&- &3)-RRdZ(2K3-3K~+ K:)
+84Ma+2M,(84+79) + O X -228(84)'(0.024) - 460(79)'(0.04812)
+84Ma+326M3=-176,756.21
+
+...
+
+Ml=O; M2=-117; Ms=-512; M4=0
+SHEARS AT RIGHT OF PINS.
+
+V l = ( J f z -NJ/b+P(I-IT,)
+= (-117+0)/50+0=
+
+-2.34.
+Vz = ( M - lu,)/c Q(1- KJ
+s
+= ( - 512 + 117)/84 + 228 (1- 0.024) = + 21 7.83.
+V , = ( M 4 - NJ/d+R(1- KJ
+= (0+512)/79+460(1 -0.025)
++454.98.
+
++
+
+U,=O.
+
+SHEARS AT LEFT OF PINS.
+
+u2=vl-P
+= - 2.34 - o
+- 2.34.
+Us=T72-Q
+=
+
++ 217.83 - 228 - 10.17.
+
+U4= V s - R
+e454.98 - 460 = - 5.03.
+
+R,= V,- U,
+
+PIN REACTIONS.
+
+- 2.34 - 0 = - 2.34.
+
+R, = V,- 0,
+=
+
++ 317.83 + 2.34 = + 230.17.
+
+R3= V3- l,
+7
+= +454.98+10.17=
+
++465.15.
+
+R4= V 4 - 0,
+
+-
+
+Chock.
+
++0+5.02- +5.02.
+
+R, + R, + R, + R, = 688.
+P +Q + R
+=688.
+MOMENTS A T WSITIONS OF LOADS.
+
+MI2= Ma+ V p
+= -117+217.83(2) = +318.66.
+MI,= Ma+v,z
+= - 512 + 454.98(2) = + 397.96.
+
+28
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+I I GRAPHICAL RESULTS.
+I.
+
+Figure 18 shows separately the moment cur& for the uniformly loaded beam, that for the
+eccentric stay wires, and their resultant.
+
+Ezample 6 . 4 o m p l e t e the deflections in plane of spar web for all panels of the biplane
+trussing of figure 40, using the results of Table IV, example 4.
+I. UPPER SPARS.
+
+(See Table IV,
+
+(1) Data table for use in computing deflections on front upper spar.
+example 4, and formula for deflection in fig. 14.)
+
+.......................................................
+
+b.
+
+Spa0
+
+Jointboding moments (M..
+..............................
+Shears fight Of pill (V)....................................
+Dlstanbe to mxLmuTII moment (z).:. ......................
+b g t h of span (0..
+Running load (to)...
+Moment of inertia (I).
+.....................................
+Modulus of elasticity ( E )...................................
+
+617
+-37
+27
+50
+1.370
+282
+18 0m
+,8,
+
+........................................
+.......................................
+
+484
+-52
+38
+
+1,017
+67
+49
+79
+1.370
+282
+1 8,
+, 0
+8 m
+
+-
+
+a4
+1.370
+2.82
+
+1s om
+,s ,
+
+(2) Computations.
+The general formula for deflection, figure 14, is
+d ( = y ) = -%[12M(1-$)+4v (6-9)+u)(ls-9)]/24Ez.
+(a) Computation for span 6:
+( I - Z ) -23 (6-9) 1,771 (P-2") = 105,317.
+=
+d= -27 [12(617)(23) -4(37)(1,771) + 1.37(105,317)]/24(1,880,000)(2.82) = -0.0111 .'
+(6) Cdmputations for span e:
+(1-Z) 1 4 6 ( 6 - 9 ) ~ 5 , 6 1 2 (P-2") -537,832.
+d - -38[12(484)46 -4(52)5,612 + 1.37(537,832)]/127,283,400 = 0.048 inches.
+(e) Computations for span d :
+(1- 2) = 30 (6-9) =3,840. ( P - 2") = 375,390.
+d = -49[12(1,017)30 -4(67)3,840 1.37(375,390)]/127,238,400 = 0.057 inches.
+(3) Computation table for deflections in upper spars at high and low speeds as found
+from upper front spar a t low speed.
+
++
+
+UPPER SPARS.
+
+I
+I
+
+I
+1
+
+......................................................
+Span........................................................
+
+speeds
+
+Ratio of running land.. .....................................
+Ratio of momenis of inertias ................................
+Product of ratioa.
+
+Front.
+I
+
+.....................
+:.....................
+b..
+Spans...................................................
+[c-.
+d..
+
+I
+I Rear. 1
+
+1
+
+1
+
+.OH
+.oIB
+
+.a7
+
+0.424
+1.215
+
+.515
+
+1
+
+Low.
+
+High.
+
+Front.
+0.373
+1
+
+.373
+
+I
+
+Ra.
+er
+
+I
+
+1.048
+1.215
+1.273
+4.014
+
+4.W
+
+4.W
+
+.024
+.OB
+
+.017
+
+.Wl
+
+.M1
+
+.@72
+
+1 Detlectlons usually turn out +; thls is an excaption.
+t AU dellectlons in the upper,spars, assuming d u per span U, have the aauw spans, mag be found from those computed for the front spar for
+l
+a glveu speed and loading by a sunple ratio. Thui ratk is duectly dependent upon ths rstro of the running loads and the mverse ratlo of the
+moments of lnertla i e. their product,
+:
+~nveerss
+ratio hmdments of inertia.
+4 Found from values in Arst column by using ratio B g u n directly abovn.
+
+29
+
+AIRPLANE STRESS ANALYSIS.
+
+Data table for use in computing deflections on front lower spar:
+LOWER SPARS.
+
+......................................................................
+Joint-hdlng momenta ( . ) .............................................
+M.
+Bhfight of pin
+..................................................
+Dbtanka to m moment (z).-. ....................................
+u
+m
+h ofqan ( I ) . .......................................................
+Running]oad(co) ........................................................
+M o m e n t a o f i n ~ ( r.....................................................
+)
+Modulusofe]sstieity(B) .................................................
+(0).
+
+......................................................
+
+8
+-
+
+-
+
+spars
+
+........................................................
+
+Front.
+Rsar.
+-___--
+
+Fmt.
+
+0.416
+
+i.au
+
+0.m
+1
+
+.505
+.018
+
+.013
+.018
+
+Rstioofrunningloeds .......................................
+
+Ratio of momenta of inertia.. ................................
+FwJduetofratios.
+............................................
+spsns.. .................................................
+
+...................................................
+He. ..................................................
+I' ............... ...................................
+
+LOW.
+
+High.
+
+1
+1
+
+(ed:
+
+1
+.OM
+.061
+
+.m
+
+.a
+
+0.56
+
+79.08
+
+83.75
+
+78.63
+79.78
+
+4.17
+4.n
+
+1321
+
+1a
+au
+
+FRONT LOWER PIN JOINTS.
+0
+
+0
+
+.
+
+...................................................
+REAR UPPER PIN JOINTS.
+
+..................................................
+REAR LOWER P W O I N T S .
+
+....................................................
+...................................................
+....................................................
+
+I_
+
+I
+,
+
+I
+
+I. a
+mais
+1.m
+.oL6
+.OM
+
+-
+
+Q'
+
+I
+
+RW.
+
+111.88
+
+4.77
+I
+
+see application in problem 11.
+
+1
+
+iwoi
+
+79
+so
+
+129
+
+30
+
+ANftUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY COMMITTEE FOR AERONAUTICS.
+
+ll. ZERO SAEAB METHOD.
+
+The concentrated loads may also be found by a method similar to that used for the drag
+trussing in figure 21 and example 8; i. e., briefly, by multiplying the running loads by the
+distance between zero shears and subtracting the weights of struts and stays.
+Example 8 . 4 i v e n the resistance of the front struts and stays and the running load,
+find the concentrated loads on the drag trussing of example 4 by the zero shear method.
+(a) Concentrated loads on upper front spar:
+Given A = B = C - D = 0 . 1 0 0 lb. per in.
+~ , = 2 6 . 9 3 ;~ , = 3 7 . 3 7 ;2,-48.87
+a = 3 0 ; b=50; c=84; d-79.
+.Then by formulas of figure 21,
+G=O.13+0.100(30) fO.lOO(26.93) -5.82
+H=0.36 +0.100(50- 26.93) +0.100(37.37) =6.40
+1=0.53 +0.100(84-37) +0.100(48.87) = 10.07.
+(b) Concentrated loads on rear upper spar: '
+Given A =B = C= 0.059 lb. per in.
+a, b, e, xl, x2, x5 as above.
+G'=O.l3 +0.059(30) +0.059(26.93) =3.48
+H = 0.36 0.059(50 - 26.93) 0.059(37.37) =3.92
+'
+Z's0.53 +0.059(84-37.37) +0.059(48.87) =6.16.
+E a m p b 9 . 4 i v e n theresistanceof the strut and stays a t high and low speeds; find the
+concentrated loads on the drift trussings for both speeds, using values of the pin reactions
+found in example 4.
+Computation table jt conmtmted loads on upper and lower &jt husaingsfor low and high 3peeds.
+o
+
++
+
+.
+
++
+
+-
+
+LOW WEED.
+
+I
+..............................
+
+Uppgdnptrussing
+
+H
+
+..............................
+
+5.69
+
+I
+
+............
+.............
+G .............
+I[H .............
+I. .............
+3.. ............
+IlL
+
+Lonsrdnptntsalag
+
+I
+
+Front spar.
+
+0.13
+
+6.45
+
+.oo
+.68
+.oo
+.kI
+.oo
+.S
+.oo
+
+.oo
+6.18
+
+~
+
+1 S.&?
+
+.41
+
+Rear spar.
+
+............
+............
+J'. ............
+...........
+u .............
+............
+I' ..............
+
+.oo
+10.13
+.oo
+6.59
+.oo
+
+9.70
+
+.oo
+
+J
+'
+
+.............
+
+3.40
+
+3.60
+
+.oo
+
+5.z
+
+3z
+:
+
+.oO
+
+4.72
+.oO
+
+~~
+
+HIGH SPEED.
+
+G .............
+H
+.
+.............................. I.: ..........
+..............
+3' .............
+K .............
+G .............
+E.............
+Lower drag tnL%lng..............................
+I..............
+J ..............
+Uppgdrag tnrrulng
+
+6.08
+6.46
+
+1O:g
+
+.OO
+
+5.45
+.OO
+
+8.05
+.OO
+
+I
+
+0.37
+1.18
+13
+1
+
+.OO
+1.18
+
+6.45
+7.64
+
+.oo
+
+I
+
+............
+
+.............
+
+I'
+J .............
+'
+
+11.89
+'I
+6. I0 .............
+. 3 K ............
+6@
+'
+.OO
+H' ............
+I' .............
+
+I ':z I
+.OO
+
+G.......
+I......
+H'
+
+':g
+
+K .............
+'
+
+16.13
+17.12
+
+0.37
+
+16.50
+
+1.18
+
+18.30
+
+%'.OB
+.a,
+14.M
+
+1.68
+
+.oo
+1.18
+
+28.74
+.DO
+15.72
+
+21.47
+
+1.68
+
+B1
+.5
+
+.oo
+
+.oo
+.oo
+
+.oo
+.oo
+
+.oo
+
+.oo
+
+.oo
+
+.w
+
+Example 10.-An aileron bearing a uniform pressure of 20 pounds per square foot has
+the dimensions and structural form shown in figure 38. Find the stresses in the stay wires.
+I. BEAM REACTIONS.
+
+The rear beam of the aileron is consid>red as continuous and supported by the stays at
+three points, with both ends overhanging. The vertical reactions of these stays have previously been found in example 2. Reactions aa found in example 2.
+R1=48.8 lbs.; R2=109.7 lbs.; R3=48.8 lbs.
+1 Compare
+
+with more end solution Ln example 9.
+
+.
+
+AIRPLANE STRESS ANALYSIS.
+
+31
+
+I . TENSIONS IN STAYS.
+I
+
+The tensions in the three stay wires are found from the reactions above and the dimensions given in figure 38. By the formula of figure 24.
+(a) For center stay:
+Given T -22.72 ins.; z = 13.37 ins. : 2 = 109.7.
+Then by figure 24,
+T,=R=Zr/z=109.7(22.72)/13.37= 186 lbs.
+( 6 ) For each outer stay:
+Given r-61.78; z = 13.37; 2-48.8.
+Then by figure 24,
+T,=T,-R=Zr/z=48.8(61.78)/13.37=225 Ibs.
+Fmmple 11.-Find the endwise stresses in the struts, stays, and spars of the front lift
+trussing, figure 40 for low speed and the rear lift trussing for high speed.
+I. STRESSES IN FRONT LIFT TRUSSING FOR LOW SPEED.
+1 GENERAL DATA.’
+.
+
+G-O
+N-69
+I- 103
+
+GI-79
+H’=8O
+
+b=50
+C-84
+
+d=79
+T-129
+h=62.9
+
+p-SO. 3
+q=104.9
+r=100.9
+
+2. ANALYTICAL SOLUTION.
+
+By figure 23:
+
+Strut Streesee.
+
+P=G
+=O=O
+Q=G+G’+ E
+=0+79 + 69 = 148.00
+R = G + G’ + H+ H’ + Z
+- 0 + 7 9 + 69 +SO + 103-331.00
+stay stresses.
+
+P’=p(G + G’)/h
+
++
+
+- S O . 3 (0 79)/62. 9 = 100.85
+
+&‘ = p(G+ G’ + R+ E’)/h
+
+-104.9 (0+79+69+80)/62.9=380.24
+R’ -r(G+G’ + R+ R’ + Z+ I’)/h
+= 100.9 (0 + 79 + 69 + 80 + 103+ 129)/62.9 = 737.00
+Spar Streeeee.
+
+P”
+
+= (G+G’)b/h
+
+Q”
+
+= (0 79) 50/62.9 = 62.79
+= (G+ G’)(b+c) c ( H + H’)/h
+
++
++
+= (0 + 79) (50 + 84) + 84 (69 + 80) 62.9 -367.28
+R ” = ( G + G ’ ) (b+c+d) ( c + d ) ( H + R ’ ) + d ( Z + Z ’ ) / h
+= (0 +79) (50 + 84 + 79) + (84 + 79) (69 + 80) + 79
+(103 + 129) 69.9 = 045.02
+A second method may be used to find the same values by using only the equation on the
+right of figure 22.
+I
+
+I
+
+.
+
+8ee example 7.
+
+32
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Strut Stresses.
+
+P=G=O.OO
+
+-
+
+Q =P+ G + H
+'
+
+=0+79+69=148.00
+R = & + H'+Z
+= 148 + 80 + 1.03= 331.00
+Factors.
+
+nn,=( P + O / h
+(0+79)/62. 9 = ' 1. 255
+n,=(Q+El>/h
+(148+80) 62.0=3.624 .
+ns-=(R i)/h
+(331+ 129)/62.9 = 7. 313
+
++
+
+stay stresses.
+
+P = p,
+'
+
+=80.3(1. 255) -100. 77
+qa
+n
+= 104. 9 (3. 624) = 380. 15
+R' 'm,
+= 100. g(7.313) = 737.85
+
+Q'
+
+P"
+
+Spar Strews.
+
+bn,
+= 50 (1. 254) = 62. 70
+
+P
+
+0'=P + En,
+'
+
+-62.70+84(3.824) -367.11
+
+R" = Q +d%
+
+-367.11 +79 (7.313) -944.83
+1 GRAPHICAL f30LUTION.
+.
+
+The graphical solution is similar to that shown in %re 27.
+II. STRESSES IN REAR LIFT TRUSSING FOR HIGH SPEED.
+GENEPAL DATA.
+
+G-0
+H=71
+1-107
+
+I
+
+.
+
+G'=83
+b=50
+HI-84
+~=84
+1'=135
+&=79
+h-62.9
+
+p-80.3
+4=104.9
+~=100.9
+
+Solve as in I above. Results given in table below.
+III. REFERENCE TABLE FOR STRESSES IN LIFT TRUSSINGS FOR HIGH AND LOW SPEEDS.
+LOW BPEED.
+
+I
+
+P. ..........................................................
+.
+
+Q............................................................
+
+R ...........................................................
+
+I ;1 I 1 2I
+:
+$;
+
+m o r s 3 8 8
+
+HIGH SPEED.
+
+P.
+.
+8..
+R ........................................................
+
+* Carry out three decimal places.
+
+*Found fromstreases in upper spar.
+
+33
+
+AIRPLANE STRESS ANALYSIS.
+
+of
+
+Example 12.-Find
+example 9.
+
+the stresses in the drag trussings figure 40, due to the concentrated Ioads
+
+I. STRESSES IN UPPER DRAG TRUSSING FOR LOW SPEED.'
+GENERAL DATA.
+
+G' = 3.53
+
+J' = 6.28
+
+G = 5.82
+H = 6.45
+I= .oo
+J = 10.13
+
+K'-
+
+K-
+
+H = 4.01
+'
+I'- .oo
+.OO
+
+p = 60.4
+p = 54.0
+
+b=50
+~=42
+d=42
+e = 38.5
+f-38.5
+
+.OO
+
+r = 54.0
+
+8-51.3
+1 = 51.3
+
+h=34
+II. STRESSES IN LOWER DRAG TRUSSING FOR LOW SPEED.
+G E N E U DATA.
+
+U-6.59
+/ l a .OO
+1-9.70
+J - .OO
+
+G'=3.61
+
+H'-
+
+.OO
+
+I = 5.30
+'
+J'= .OO
+
+5-42
+c-42
+d =38.5
+e =38.5
+
+p-54
+p-54
+r-51.3
+8-51.3
+
+llI. STRESSES IN UPPER TRUSSING FOR HIGH SPEED.
+
+-
+
+GENERAL DATA.
+
+G - 6.45
+R = 7.64
+
+G'=16.50
+H'=18.30
+
+I= .OO
+J=11.89
+
+J'=28.74
+
+K=
+
+K=
+
+.OO
+
+I'=
+
+.OO
+.OO
+
+b=50
+~=42
+d=42
+e=38.5
+f338.5
+
+p 60.4
+q=54
+r=54
+8-51.3
+t-51.3
+
+IV. STRESSES IN LOWER DRAG TRUSSING FOR HIGH SPEED.
+GENERAL DATA.
+
+G = 6.63
+
+H-
+
+.OO
+
+G' = 15.72
+
+a'-
+
+.OO
+
+1-9.73
+
+z w m 5
+
+J - .OO
+
+J'-
+
+.OO
+
+b = 42
+C-42
+
+a-38.5
+43-38.5
+
+p-54
+9-54
+T 51.3
+8-51.3
+
+-
+
+RefcrcMc tablef w rtruru in drag tnwaeafw low and high a p e d .
+STRESSES ON
+
+I-
+
+I
+
+MEMBERS OF LOWER DRAG TRUSS.
+
+I
+
+LOW speed.
+
+1 1 1 1 1 1 1 1 1
+
+P. ................
+.
+
+...._.._..._...__.
+
+6.6
+16*2
+Q
+10.2
+16.2
+R _._____...___.._.
+19.9
+38.0
+5 _..._....__....__. 38.0
+25.2
+
+lZ6
+1.2
+53.7
+82.2
+
+lg.6
+1.2
+53.7
+
+32.1
+
+56.2
+
+$1;
+
+83.3
+83.3
+
+$!
+
+117.7
+180.2
+
+i.6
+56.2
+117.7
+
+3.
+38
+94.1
+154.5
+256.8
+
+0
+33.8
+94.1
+154.5
+
+357.1
+
+256.8
+
+STRESSES ON MEMBERS OF U P P E R DRAG TRUSS.
+16.6
+5.8
+P.._..___.__._..___
+15.8
+31.4
+__._..__.__.__.._.
+19.8
+R .___..__....__.._31.4
+
+Q
+
+29.9
+54.6
+5 ..__....._....._..
+54.6
+3.
+62
+T ....___..__.__.._.
+
+13.8
+38.2
+
+82.6
+
+lm.6
+144.6
+
+0
+13.8
+38.2
+62.6
+
+103.6
+
+6.5
+30.6
+4.
+89
+80.8
+88.5
+
+40.8
+77.6
+77.6
+135.0
+135.0
+
+Exumple 1J.-Find the stresses and factors of safety in the spars, struts, and stays shown
+in figure 40 for low and high speeds, rppectively.
+I The mlutions for this example are similar to those'in example 11. The arrangement o data for the Merent casea 8Dd tabulated results are
+f
+given below.
+
+144416-204
+
+\
+
+34
+
+FOR
+
+A N N U A L REPORT NATIONAL ADVISORY COMMITTEE
+
+AERONAUTICS.
+
+1. GENERAL DATA.
+
+Table I below gives the principal data, stresses, and factors of safety for the spars, struts,
+and stays. All other data required in the solution of this example may be found in the separate
+problems or in the diagrammatic form in figure 28.
+TABLE
+I.
+
+I
+
+I
+
+Forlowspeed.
+
+Forhighspeed.
+
+tfoment
+of
+mertis.
+
+SpUB:
+A
+
+...........
+
+Frontspar.. S r c .
+pue.
+
+4 300
+
+B ................ ..........do..... 4'300
+do
+....1...........do. .........do..... 4:300
+D ........... ...o ..........do..... 13 000
+..d
+E................do..........do..... 13'000
+
+C
+
+........... R e ado~..........do.....
+r p . r . . . ...
+................do..........do......
+do
+............... ........do......
+...
+I.. ..............do..
+do
+J ................ do.......... .....
+F
+0
+
+E
+
+32
+.6
+32
+.6
+
+2.82
+282
+
+1.88
+1.88
+1.88
+1.88
+18
+.8
+1.16
+1.16
+1.16
+11
+.6
+1.16
+
+2 sa
+
+2.82
+282
+232
+232
+23
+.3
+2.31
+2.32
+
+i
+w
+
+Struts:
+
+do.. ..
+K.. ........ Front.. ........
+L. ............ ..do.. ........do.. ...
+.
+Y
+Rear ...........do
+N ................do.......... .....
+do
+
+.....
+
+..........
+
+...........)Front.. ...._ISteal. ..
+do.....
+do.....
+...........
+do.....
+do.....
+
+Cable#:
+
+..do.
+
+..do..
+
+...
+
+289
+48
+.7
+289
+
+cm
+
+YUnlb#
+
+ruab&a
+2
+a
+a
+2
+2
+2
+
+-
+
+24
+
+140
+
+f540
+f6U)
+*437
+i437
+
+021.2
+-15
+10.2
+-24
+6.8
+5 17.3
+-10
+1.
+49
+
+...............................
+...I. ......................
+
+.......I. : .....................
+...............................
+...............................
+..................-..._.
+.......
+20
+11
+13.2
+.................. .!............ f918
+i918
+118
+48
+64
+.
+................................
+303
+79
+4
+.
+................................
+*738
+- 20 17 10.8
+6
+.........................
+.......
+
+I
+
+I
+
+0
+
+430
+'0
+4'300
+4:300
+13 Om
+13:000
+
+26a
+2.63
+263
+2a
+6
+263
+32
+.8
+32
+.8
+32
+.8
+
+- 24
+-1*
+
+360
+
+I
+
+Lwd,
+pmmnlfa.
+148
+331
+
+-
+
+1
+
+f738
+
+-118
+
+36
+
+,
+
+........
+....... 8.4 ...............................
+........
+....... 7.4 ................................
+aae .......................................
+154 .......
+..............................................
+345 .......
+
+.m
+
+62
+.9
+
+.752
+
+6.29
+
+.m
+.792
+
+1.
+00
+
+71
+.
+8.1
+
+Dta?IWtar.
+
+101
+t ...............
+............... 381 ....... 41.7 ...............................
+....... 16.8 ...............................
+...............
+738 ....... 8.6 ...............................
+2 .............................................. 108 ....... 39.6
+
+..............................................
+B ..............................................
+
+397
+
+710
+
+.......
+.......
+
+16.1
+8.3
+
+F.cton of safety sra given for points ofgreatest wsulhnt tenrile or compresdvestress.
+2. SOLUTION FOR SPA-.
+
+TABLE
+II.-Valucs o the bcndilno momntr (i), pa$?a
+f
+the
+
+x
+
+(-), a n d a o m p a h (t)
+011
+
+a fig. 28.
+n
+
+each apar at the +nia marked
+
+FOR LOW SPEED.
+
+I
+
+I
+
+L a d due
+to lilt
+trim.
+
+~
+
+I d -
+
+..............................................................
+B ................................................................
+
+A..
+
+.................................................................
+D ................................................................
+E ................................................................
+
+0
+
+w*.
+617
+
+*1 016
+ill016
+
+* I812
+* s
+a
+
+POU*.
++63
+
++388
+
++9U
+-63
+-368
+
+-
+
+POUtldU.
+0
+
+-a.
+a
+
+-62 6
+- 26
+1
+
+-zi a
+
+FOR HIGH SPEED.
+F ................................................................
+
+................................................................
+I .................................................................
+J .................................................................
+0
+
+*
+
+620
+
+E. ...............................................................
+
+i m
+
+e
+6
+384
+907
+-66
+-364
+
+'55.2
+
+117. '
+I
+
+--
+
+35
+
+AIRPLANE STRESS ANALYSIS.
+TABLE
+111.-Computatiom for resultantfiber strases for low sped.'
+L O W S P E E D (COMPRESSIVE STRESSES).
+EquiV8lent wmBending streaa pressive stress due
+wmpreasion.
+to bending.
+
+Member.
+
+NSb- 4,300
+
+s - M/z
+b
+A
+B
+
+I
+24
+
+'2
+39
+540
+,540
+
+c............................
+
+s-s.+'"oo sr
+7,800
+
+S.
+C
+
+7,900
+
+-I
+
+............................
+............................
+
+Compressive
+stress;
+
+1%
+
+336
+
+L O W S P E E D (TENSILE STRESSES).
+Equivalent tensile
+stress due to
+Tensile stress.
+
+Member.
+
+S - S , + 'm Sb
+7E
+,
+
+&.
+~~
+
+I
+
+~~
+
+D. ..........................
+.
+E..
+
+-719
+-719
+
+..........................
+1
+f
+
+I
+
+-148
+--889
+
+Spars A, B C D E have the loweat factors of d e t y for lows
+An additiohibehding stress due to detlection L sometimes ded to this strag.
+
+Example for,member A in table above.
+
+(See Tables I and 11.)
+
+MI2
+
+sb-
+
+= 81711.88 = 328 lbs. per sq. in.
+Equivalent compressive stress due to bending (see section 7 and formula 8).
+NSb= 4,300(328)/7,900= 178 lbs. per sq. in.
+Compressive stress So is the resultant compressive stress t found from columns two and
+u
+three, Table 1 , and cross-sectional area, Table I.
+1
+S, = 6312.63 =24 pounds per square inch.
+Resultant compressive stress. (Add columns 2 and 3 above.)
+s =sc+4,300(s~)/7,900.
+24 + 178 =202 pounds per square inch.
+This value is then used to determbe the factor of safety. Compressive strength is 4,300
+pounds per square inch.
+Factor of safety -4,300/202 =21.2.
+=D
+
+TABLE
+1V.-Computations for resultant jiber stresses for high speid.1
+HIGH S P E E D (COMPRESSIVE STRESSES).
+
+F ...........................
+.
+..........................
+E...........................
+
+$1
+
+E/
+
+382
+
+499
+
+Q..
+
+I
+
+I
+
+HIGH S P E E D (TENSILE STRESS).
+Resultant tensile
+Stress
+
+Member.
+
+I . ...........................
+
+J-
+
+...........................
+1
+
+'
+
+1
+
+1
+%
+
+1
+
+-1 214
+-1:214
+
+I
+
+'
+
+:
+1
+
+1
+
+-1 211
+
+&ars F.0, E, J have usually the lowest factors of safety for high speed.
+I,
+
+i
+
+,
+
+36
+
+ANNUAL REPORT NATIONAL WVISORY COMMITTEE FOR AERONAUTICS.
+
+Example for member Z in table above:
+s b = M/Z.
+=856/1.16=738 pounds per square inch.
+Equivalent tensile stress due to bending.
+’
+Nsb = 13,000 Sb/7,900.
+= 13,000(738)/7,900=1,214 pounds per square inch.
+Tensile stress St is the resultant tensile stress as found from columns 2 and 3, Table 111,
+and cross-question area in Table I.
+St = - 10.8J3.26 = -3 pounds per square inch.
+Reeultant tensile stress (add columns 2 and 3).
+S = S t 13,000 Sb/7,900.
+=-3-l,214=-1,21?pounds
+
+per squareinch.
+
+This value of stress is used in determining the factors of safety:
+Factor of safety = 13,000/1,217= 10.6. Ans.
+3. SOLUTION POR STRUTS.
+
+The data for the struts with the resultant loads upon them are given in Table I. The value
+for strength of struts i best found by actual test, in the case of design they are computed.
+s
+In the table above it i the actual strength by test. The loading is taken from the lift truss
+s
+diagram in figure 28 or from example 11. The factor of safety is found in the usual manner.
+4. SOLUTIONS FOR CABLM OR STAYS.
+
+The same analysis applies to cables as to struts. The strength of the, cables i usually
+s
+known from tests made by the manufacturer.
+Ezampb 14.-Find the stresses in the principal members of the wing trussing in figure 40 (1 ! . t s
+to a uniform air pressure o 20 pounds per square foat on the aileron surface in figure 38.
+f
+1 GENEBAL DATA.
+.
+
+(a) Eccentric load =414 pounds; eccentricity=9.45+ 17.
+(6) Torque a t each station = 414 x 26.45 = 10,950 in./lbs.
+(e) Lengths of stays S, T,0, V. (See fig. 34.1
+
+I
+
+Flrst pansl.
+
+I
+
+B e a d paeel.
+
+I
+
+.
+
+.
+
+. . . .
+
+....
+
+37
+
+AIRPLANE STRESS ANALYSIS.
+
+(d) Computation tables for direction cosines.
+
+I
+
+1I
+
+Direction cosines.
+
+Y
+
+X
+
+Symbol.
+
+8 ............................
+1
+8,
+............................
+
+f
+
+99.6
+86.0
+
+Symbol.
+
+-84
+
+-62.9
+-62.9
+
+0
+0
+
+-79
+
+-0.9'27
+- .918
+
+0
+
++
+
++0.694
+.731
+
+1
+
+i
+TI
+...........................
+
+104.9
+I
+
+Y
+
+X
+
+Direction cosines.
+
+2
+
+U t ...........................
+
+-84
+
+90.6
+
+u*............................
+
+1
+
+Symbol.
+
+v 1 ..........................
+
+v,...........................
+
+i z
+'1
+
+X
+
+I
+
++62.9
++62.9
+
+-0.927
+- .918
+
+ue
+0
+0
+
++0.694
+
++ .731
+
+Direction cosines.
+
+Y
+
+2
+VZ
+
+v,
+
+vz
+
+-
+
+104.9
+
+1
+
+0
+0
+
+-79
+
+86.0
+
+w
+
+UZ
+
+- _ - - _ -
+
+loL0
+
+-84
+
+34
+34
+
+-79
+
+0
+O
+
+-0.801
+
+I --is2
+
+0.324
+.336
+
+0
+0
+
+(a) Stresses in stays transmitting torque forces from station No. 1 to station No. 2.
+Given (see fig. 34):
+
+1=35.8 ins.; a = 34 ins. ; b = 62.9 ins.
+Torque = 10,950 in./lbs.
+Then by formulas of figure 34:
+
+R =Torque 141
+
+- 10,950/4(35.8) - - _ _ _ _ _ _ _ _ _ _ _ _ _ _ - _ _ _ _ _ _ _ _ - - - - _ _ _ _ _ _
+-
+
+P =Rb/21
+
+=76.466 (62.9)/2(35.8) _ _ _ _ _ _ _ _ _ _ _
+Q = Ra/2E
+=76.466 (34)/2(35.8) _ _ _ _ _ _ _ _ _ _ _ _ _
+
+n
+
+- - _ -_ _
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 76.4
+
+__.___ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+__ __ _
+__ __ ____ __ __
+._
+
+67.2
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 36. 3
+
+. _ _ _
+
+Since this problem comes under special case I, right prismatic truss, then, the general
+equations of figure 34 reduces to
+t,T= - 2 P
+s,s+ S'=O
+u,U= +2Q
+t,T+ T'=O
+v,v= + 2 P
+U,U+ U'=O
+s,S= +2Q
+v,V+ V'=O
+Solution is then
+1.
+
+T,=-2P/t,.
+T,=-2(67.2)/(-0.324).. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ - _ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 414.9
+_
+
+2. U,= +~Q/u,.
+a,= +2(36.3)/(0.694) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ._ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 104.6
+__
+3. v, = - 2P/v,.
+__
+-2(67.2)/(-0.324)- _ _ - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ._ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 414.9
+4. 8, +~Q/s,.
+=
++2(36.3)/(0.694)- _ _ _ _ _ _ _ _ _ _ - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _ 104.6
+
+__
+
+v,=
+s,=
+
+__
+
+__
+
+__
+
+__ __ __
+
+38
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+( b ) Stresses in stays transmitting torque forces from station No. 2 to station NO. 3.
+The values of 1, a , b, P , and Q are the same as in the first panel.
+1.
+
+T2= 2 P / t y
+-
+
+__
+
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+__ __ __ __ __ __ ____ __ __ __ __ __ __ __ __ __ __
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+q = - 2 ( 6 7 . 2 ) / ( - 0 . 3 3 6 ) - - ’ - -- - _ _ _ _ _ _ _ _
+2. U2= + ~ Q / u .
+U2= +2(36.3)/(0.731)-- _ _ _ _ _ . _ _ _ _ _ _ _ . _
+__
+3.
+-2P/vy
+V2=-2(67.2)/(-0.336)--- - - - - _ _ _ _ _ _ _ _
+
+v2=
+
+._
+
+400.0
+99. 3
+400. 0
+
+,
+
+Example 1 5 . 4 i v e n the data for figure 25, as below, solve for the tensions in the stay wires;
+L = 1 4 5 Ibs.; m = 6 0 in.; n = 5 0 in.; p = 9 9 . 8 in. q=94.2 in.; A = 0 . 0 1 2 sq. in.; B=0.012 sq.
+in.; E=30,000,000.
+DATA.
+L = 1 4 5 lbs.; m=6O in.; n = 5 0 in.
+p=99.8 in.; q=94.2 in.
+A = 0 . 0 1 2 sq. in.; B = 0 . 0 1 2 sq. in.; E=30,000,000.
+SOLUTION.
+
+By‘formulas in figure 25:
+
++
+
+P =LAmq2/(Am2q2/p Bn2p2/q)
+P = [145(0.012)60(04.2)2]/[(0.012)
+(G0)’(94.2)’/99.8+0.012(502) (99.8)’/94.2]= 132.1 lbs.
+
+Q = LBnp2/(Am2q2/p Bn2pZ/q)
++
+, = 145(0.012)50(99.8)2/[constant] 123.6 lbs.
+=
+
+PROBLEMS IN PART III.
+Airplane Body Stresses.
+
+Emmple 1.-An elevator bearing a uniform pressure of 20 pounds per square foot has the
+dimensions and structural form shown in figure 37. Find the moment about the hinge and
+the stresses in stays and the control wires; also the hinge reactions.
+(A) MOMENT ABOUT HINGE.
+
+The moment about the hinge is equal to the product of the area, the uniform pressure,
+and the distance from the hinge axis to the centroid.
+Given A=11 square feet.; P = 2 0 pounds per square foot.
+Distance to centroid = 15 in.
+
+Then moment = 1 1 (20)15 =3,300 inch-pounds.
+(B) TENSION IN CONTROL WIRE.
+
+The control wire pull times its distance from the hinge axis is equal to the moment in
+(a) above.
+Tension in control wire =3,300/7.75 =425.8 pounds.
+(C) TENSION IN STAY WIRES.
+
+The vertical reactions of the stays are approximately’ equal to one-half the total load
+on the elevator. Consider the stays as attached to a flexible rib, forming a continuous beam
+on three supports.
+Then by table in figure 13, given A X P = 2 2 0 pounds.; b / l = 1.
+~1=220/4
+=55 pounds.
+R,=R,=0.375(55) =20.62 pounds.
+R,= 1.25(55) = 68.75 pounds.
+Check R, R, R, = 110 pounds.
+
++ +
+
+1
+
+Use denominator as found directly above.
+
+.
+-
+
+40
+
+A N N U M , R E P O R T N A T I O N A L ADVISORY C O M M I T T E E
+
+FOR
+
+.
+
+.
+
+.
+
+.
+.
+.
+
+AEROXAUTICS.
+
+The total vertical hinge reactions of the rudders found in example 1 must be added to the
+reactions R, and R,. The true pin reactions of the rear beam of the horizontal stabilizer then
+become :
+R,=67.23 -392.20=359.43
+R,= 9.04-0
+= 9.04
+R, = 67.23 - 293.20 =359.43
+Sum
+
+= 727.90
+
+The sum of all the vertical reactions of the stabilizer minus the vertical components of the
+stay wire pulls should equal the total load on stabilizer and elevator.
+Reactions of front beam =430.50
+Reactions of rear beam = 727.90
+
+sm
+u ,
+
+1,158.40
+
+M n s vertical compoiu
+nents of stay wires,
+
+144.42
+
+1,013.98
+Again, Total load on stabilizer =574 pounds.
+Load on left elevator = 2 2 0 pounds.
+'
+Load on right elevator =O
+"
+pounds.
+1,014
+
+Example 3.-A rudder and vertical stabilizer bearing a uniform pressure of 20 pounds Fer
+square foot has the dimensions and structural form shown in figure 37; find the transverse loads
+on the upper and lower trussings of the fuselage in figure 36 and the applied couple about the
+normal axis of its various sections.
+1. GENEBAL DATA.
+
+I
+Member.
+Rudder ..............................................................
+Stabillar.. ..........................................................
+Ruddoranditmbllar ................................................
+Iangth ofstern past, 12inches.
+I
+
+Centroid.
+
+Area.
+
+!I.
+
+---12.00
+
+3.80
+15.80
+
+-17
+13
+9
+
+-
+
+Li.
+19
+10
+17
+
+2 is the dictance (po;iLive upward) from axis or upper ImsPron nnd 5 is the distnnce (positive forward)from axis ofstern post.
+2. WIND FORCE.
+
+On rudder = P A = (20) (12) = 240 pounds.
+On stabilizer = P A = (20) (3.80) = 76 pounds.
+
+-
+
+Total,
+a.
+
+316 pounds.
+
+TRANSVERSE LOADS ON HORIZONTAL TRUSSING AND COUPLES AT VARIOUS SECTIONS.
+
+The total load a t the centroid of the rudder and stabilizer may be replaced by an equal load
+a t the center of the stern post and an equivalent couple.
+Then,
+(a) Load a t center of stern post -316 pounds.
+(b) Couple in vertical plane of stern post 316 (17 +6) =7,268 pounds per sq. in.
+
+.
+
+_ _ _. . .-
+
+.
+
+AIRPLANE STRESS ANALYSIS.
+
+39
+
+From these reactions may be found the tensions in the stay wires by a treatment similar
+to that used to find the tensions in aileron stays. (See example 10, Pt. 11.)
+(D) HINGE REACTIONS.
+
+The vertical hinge reactions may be considered as due to a uniformly loaded beam supported a t three points and bearing one-half the total load on the elevator. The reactions are
+approximately equal to those found in (c) above. To the middle reaction must be added
+the vertical reaction of the mast, which is equalcto the total vertical reactions of the stays, or
+one-half the total load on the elevator, plus the vertical component of the control wire pull.
+Control wire p l l .
+Given B = 425.80 pounds. ; z = 7.25 inches; r = 42.75 inches.
+Then component of control wire pull
+. Z =Rzlr.= 425.80(7.75)/42.75 -72.21 pounds.
+Hinge reactions
+R, 20.62
+R, = 68.75 + 110 + 72.21 = 250.96
+R, = 20.62. ,
+Example 2.-Find the vertical components of the pin reactions of the front and reatbeams
+of the stabilizer or horizontal fin, figure 37, duo to a uniformly distributed pressure of 20 pounds'
+per square foot and the hinge reactions of example 1.
+
+-
+
+(A) TOrAL LOAD EQUALS THE UNIT PRESSURE TIMES THE AREA.
+
+Given, B=28.70 square feet; P=20 pounds per square foot.
+Then, total load=28.70 @TI)=574 pounds.
+(E) DISTRIBUTION OF LOADING ON RIBS AND BEAMS.
+
+The ribs may be considered as beams supported a t two pohts (the position of front and rear
+beams, see m and n in figure 37). Approximately 0.75 Wand 0.25 W i s carried by the front and
+rear beams, respectively.
+Front beam, 0.750(574) -430.50 pounds.
+Rear beam, 0.250(574) 143.50 pounds.
+
+-
+
+(C) PIN REACTIONS DUE TO
+
+THE LOAD ON THE PEONT BEAM.
+
+Consider as a continuous beam supported a t three points and having both ends overhanging.
+By table in figure 13 W=ud=430.50/2 =215.20
+b/1=28/50
+. = 0.56
+Then
+R,=0.822 W=177.11
+R, =0.354
+76.28
+R,=0.839 W=177.11
+
+w=
+
+Sum
+
+=430.50
+
+(D) PIN REACTIONS ON REAR BEAM.
+
+Conaidor the rear beam as a continuous beam supported a t the stern post and two stu-p.
+By figure 13, given W=wb=143.50/2=71.75
+b / l = 28/56 = 0.50
+Then
+R, -0.927(71.75) =67.?3
+R,=0.126(71.75) = 9.04
+R, =0.937(71.75) = 67.23
+Sum
+
+=143.50
+
+I
+
+41
+
+AIRPLANE STRESS ANALYSIS.
+
+-
+
+(c)
+
+table.
+
+The couples a t the various sections may be conveniently arranged in the following
+(See fig. 36 for dimensions of members.)
+
+I
+
+Station No.
+
+I
+
+i
+
+.....................................................
+.....................................................
+
+2
+3
+4 .....................................................
+5 .....................................................
+
+i
+
+6
+
+.....................................................
+
+7 .....................................................
+
+316
+816
+316
+316
+316
+31R
+
+23
+24.5
+26
+27.7
+29.6
+31. 5
+33.1
+
+7, ZRR
+7,742
+8.216
+R 753
+9'354
+9:9*
+10,409
+
+Computatims for stresses due to the applied couples alone are givon in example 12.
+1 Vertical distance of load abwe axis of sections.
+
+'i
+
+Emmple ,$.-Compute the normal lift on the tail skid from the data given in figure 29.
+Given w=1,890 lbs.; a=19.13 ins.; Z=205.8 ins.
+
+L = Wall
+= 1,890(19.13)/205.8
+= 175.6 lbs.
+Example 51.-Given 1=60,544 lb. -ft.', jz= 16 ft./sec.a, j,,=8 ft./sec.', a=0.1 rad./sec.' in
+figure 31 and the dimensions of a machine, find the resultant live load on the tail skid.
+iz= 16 ft.Isec.2
+2=1.55 ft.
+Given M = 1,890 lbs.
+I=60,544 lb.-ft.z
+j V = 8 ft./sec?8=2.91 It.
+B = 3" 37'
+u=O.l rad.1sec.l
+g= 32 ft./sec.2
+p 17.14 ft.
+
+-
+
+Then, by figure 31,
+P, = { Mb@ jzg g co8 8 2 1, a } / p .
+.1
+P,= { 1890[8(1.59) - 16(2.91) +32(.998)(1.59)] t 60,544(.1)}/17.14.
+P,,-2,221~poundalsJ or 69.4 pounds of forco.
+Example 6.-From the data in figure 29 compute the normal load a t the wheels of the
+undercarriage; also the stresses in the struts and stays and their factors of safety.
+
+- +
+
++
+
+1. LOAD O N WHEELS.
+
+-
+
+Load carried by each wheel = 857.'
+2. STRESSES IN STRUTS A N D STAYS (ANALYTICAL).
+
+Applying formula 24 to the triangles A , B, C in figure 29, we have-,
+(a) For component in plane of front trussing,
+P =R sin a/sin y
+=857 sin (68O23')/sin (76O14')
+= 820.5.
+
+In a similar manner the stresses are found.
+. (a) For component in plane of rear trussing.. - - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+511.0
+. .
+( c ) For tension m front stay- - - - - . . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+- _
+619. 7
+. .
+( d ) For compression in the front strut. - . - - - - . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1, 307. 1
+.
+_
+. .
+( e ) For tension in rear stay- - - - - - - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+301.7
+. .
+(f)For compression in rear strut- - - - - - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+778.0
+
+__
+
+3. STRESSES IN STRUTS
+
+AND STAYS (GRAPHICAL).
+
+The graphical solutions are shown in figure 29. Figure 29 shows the lift components in
+planes of front and rear trussings, both being in a plane normal to axle. From these components
+the stresses in the front and rear struts and stays are found by simple graphics as shown.
+1
+
+Solved by using abso1ut.eF. P. 9. units.
+
+TJtd weight of machine minus load on tail skid and wights of wheels and axle.
+
+I
+
+Standard Section Moment Length Londin pounds
+Factor
+strength. area. ,ofinertia. ininches. pounds pers w e ofsafety.
+'Stressin
+ink.
+
+Member.
+
+8tNtS..
+Stays
+
+....................................
+
+.......................................
+
+I
+
+............
+... ...............
+.............
+...... ...............
+
+front.. Spruce
+do
+front.. Cnhle
+rem
+do
+
+rear...
+
+5,WO
+
+1,990
+4 700
+4:700
+
+..........
+..........
+llf
+
+llf
+
+0.418
+,418
+
+33.31
+
+55.1
+
+....................
+
+.....................
+
+..........
+..........
+...........
+
+1,3071
+779
+620
+%I21
+
+..........
+
+4.2
+
+2.5
+1.5
+15.5
+
+!
+
+43
+
+AIRPLANE STRESS ANBLYSIS.
+
+.
+
+I. STRESSES DUE TO AIR FORCE ONLY.
+1. GENERAL DATA.
+
+n1=3.00; ml=O; 'b=19.00;
+n2=3.00; m,=O; c=20.50;
+n3=3.50; m,=O; d=24.00;
+n,=3.87; m,=O; e=26.00;
+n,=3.75; m,=O; f=29.00;
+n,=3.19; m,=O; g=30.87;
+
+p=12.00; p1=22.48; p,=19.24; p,=b
+q=15.00; q,=25.40; q,=20.72; q3=c
+r=18.00; r1=30.00; r2=24.26; r , = d
+s=21.50; s1=33.74; s,=26.29; s , = e
+t=25.37; t,=38.53; t2=29.24; t3=f
+u=29.12;. u1=42.44; u2=31.08; u,=g
+v = 32.32;
+G=507 on each truss. (See example 2 part 11.)
+
+I
+
+2. ANALYTICAL SOLUTION.
+
+'
+
+By formulas of figure 32:
+UPPER LONGERON STRESSE9.
+P!,,=O _ _ _ - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ - - - - - - _ - - - - - - - - - -
+
+I
+
+0.00
+
+The formulas of figure 32 apply to all cases and may be reduced to simple forms, for cases
+of parallel or horizontal longerons, by cancellation. Always rewrite the formulas before
+solving.
+Q"' = Gb/p
+642.19
+-507(19)/15 - - - - - - - _ _ _ _ _ _ _ _ _ _ _ _ - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+R"'= G(b +c)/r
+=507(19+20.5)/18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,112.58
+S"'=G(b+c+d)ls
+=507(19f20.5+24)/21.50- - - _._- - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1, 497.41
+T"'= G(b +c+d e)/t
+=507(19+20.5+24+26)/25.37 _ _ _ - - - - - _ _ _ _ _ _ _ _ _ _ _ _ . _ . _ . __ _ _ _ _ _ _ 1,788.15
+-- __
+. _ _
+Urr'=G(b +c + d e +f ) v
+l
+=507(19+20.5+24+26+29)/29.12- - - _ _ - - - _ _ _ _ _ _ _ _ _ _ ._ _ _ . _ _ _ _ _ _ _ _ _ 2,062.80
+__ __
+Vr" = G ( b c + d + e f +g)lv
+= 507(19 + 20.5 + 24 + 26 + 29 + 30.87) 132.32 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 2,343.40
+
++
++
+
++
+
+-
+
++
+
+LOWER LONGERON STRESSES.
+
+Pr' = _ .
+ppQrr'/b
+~
+
+_ _ _ _ _ _ - _ - _- _ - - - - - - - - - - - - - - - - - _- __ - - _- __ _ _ _
+
+650.30
+
+- _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ - _ _- ___ _ ___ _ ___ _ _ _
+_ _
+
+1, 124.52
+
+19.24(642.19)/19-- - - - - - - -
+
+Q f r=PaRrfr/C
+
+=20.72(1,112.58)/20.5-
+
+R" =r,S"'/d
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ - - _ _ _ ___ _ ___ _ _ _ _
+_
+=26.29(1,788.15)/26- _ _ - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+T" = tz Or'llf
+=29.24(2,062.80)/29-.. _ _ - - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ - - - - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+1,513.63
+
+=24.26(1,497.41)/24.-
+
+8' =8,Trrr/i
+'
+
+ur =u,V f r
+'/g
+
+= 3l.08(2,343.40)/30.87
+
+--
+
+-
+
+---
+
+1,808.10
+2,079.88
+
+- - - - - - - - - - - - - - - - - - - - - - - - - .- - - - - - - - - - - - - 2,358.96
+STAY STRESSES.
+
+P'=p,~~-~"n,lp,l/~q-~,~
+=22.48[507-650. 30(3)/19.24]/(15-3) _ _ . _ _ _ _ _ _ _ _ _ . - _ _ _ _ _ _ _ _ _ _ _
+__
+Q = a,[G - Q ''n,/qz1/ (r - n,)
+=25.40[507- 1,124.52(3)/20.72]/(18-3). - - _ _ - _ _ _ _ _ _ _ - - _ _ _ _ _ _ _ _ _ _ _
+R' = r,[G - R' 'n3/r2]/s(n,)
+=30[507-1,513.63(3.5)/24.26]/(21.50-3.5)-.
+
+- - - - _ _ -:--_ _ _
+-- _ _ _
+
+18017ed two decimal places for comparing methods of solution.
+
+_ _ _ _ _ _ . 759. 84
+
+__ __ __
+
+__ __ __ __ __
+
+Use slide rule for engineering results.
+
+582.82
+'
+
+481.05
+
+44
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+S'=s,[G-S''nJs,]/<t
+
+-nJ
+
+__ __ __ __ __ __ __ __
+__
+=38.53[507-2,079.88(3.75)/29.24]/(29.12-3.75) - - - _ _ . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+U = u,[G - U"n&~,l/(v - ne)
+'
+=42.44[507-2,358.96(3.81)/31.08]/(32.32-3.18).- - - - - _ _ _ _ - _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+=33.74[507 - 1,808.10(3.87)/26.29]/(25. 375 - 3.87) - - - - - - T' = t,[G - T"n&]/(u - n,)
+
+377.41
+364.67
+386.80
+
+STRUT Sl'RESSES.
+
+P=G
+
+507.00
+,405. 60
+344.18
+288.63
+240.49
+240.16
+265.43
+
+n,-3.00;
+n = 3.00;
+,
+n3 3.50;
+=
+n, = 3.87;
+n,-3.75;
+n, = 3.18;
+%=2.93;
+G=30.00;
+
+b'= 19.00;
+c = 20.50;
+
+d = 24.00;
+e = 26.00;
+f=29.00;
+g = 30.87;
+h =41.56;
+
+H = 10.00;
+
+p, = 19.24;
+p , = 22.48;
+~~'25.40;
+~,=20.72;
+p=15.00;
+T, =24.26;
+r = 18.00;
+T , = 30.00;
+s = 2 1.50;
+s = 33.74;
+,
+~,=26.29;
+t=25.37;
+t, = 38.53;
+tz= 29.24;
+~=29.12;
+~,=42.44;
+~,=31.08;
+V , = 52.64;
+v, ~ 4 1 . 6 6 ;
+w = 32.31;
+w = 34.75
+1 ~ 9 . 0 0 ; J=7.50;
+K=8.00;
+L=8.50;
+p = 12.00;
+
+p,=b
+Q3
+
+=c
+
+r, = d
+s =e
+,
+t3
+
+=f
+
+=9
+v,=h
+
+u3
+
+N = 100
+
+I n the case of loads G, H,'Z, K, E, M , etc., on a long truss it is convenient to find their
+J,
+moments about different sections before substituting in the equation.
+The use of the table below can be readily seen when substituting in the equations of
+figure 32.
+
+45
+
+AIRPLANE STRESS ANALYSIS.
+Problema i Part III.
+n
+Moment.
+
+Sum of distances.
+
+DlstanmXQ-30
+am
+_. M
+_.
+b ......................................................................
+19.00
+1185 00
+b+c .......................................................................
+39.50
+1'905'00
+b+c+d ................................................................
+63.50
+2e8'0
+1.50
+b+c+d+c ............................................................
+88.50
+3'555'00
+b+e+d+c+f ._._.
+....___._.
+.._.
+___._..__._._
+..._.. 118.50
+...
+(I481' 25
+b+c+d+c+f+g
+___._.._.. .__.__.__.__.....___.....
+..__
+149.37
+5:727:90
+b+e+d+c+f+g+h..
+_.... .._... ._.
+... .__._...__.
+...... ..._._.....
+190.93
+
+__
+
+~
+
+._..
+...
+
+...
+
+.._.__._.__.
+._...
+...._._..
+
+DistanmX H- 10
+
+205. 00
+......................................................................
+20.50
+445.00
+....__._..................................................
+__._.
+44.50
+705.00
+c+d+c ............................................................
+I.
+.. 70.50
+995. 00
+e+d+c+j .............................................................
+99.50
+1 303 75
+c+d+c+f+g.. .._._
+._._.....__.._.
+...._..______..... .. 130.37
+._.__..._.___._. 1:719:35
+e+d tc+f+g+h ...__.___....____......_._
+.______..__._._....._____._.
+171.93
+e
+
+c+a..
+
+~
+
+~
+
+~
+
+_..__._.______._..__.._..._..._.
+......................................
+.__.. ...._.. -....._. .. ..... .. .
+. ._.
+__..
+.. . .
+c ................ ._.......
+...........................................
+c+f .....................................
+.............................
+C+f+V.
+.........................._. .....................,..........
+...
+
+d
+.
+24.00
+d+c ..-.._.......
+.....................................................
+50.00
+d+c+f .._............
+................................................
+79.00
+d+c+f+g
+. __.
+.___. ...... .....__. ............ 108.87
+__.
+....
+d+c+f+g+A
+. ............ .. . .... ... .... . ..... .. 151.43
+~
+
+~
+
+~
+
+~
+
+~
+
+.............................................................
+
+c+f+8+A
+
+26.00
+55.00
+85.87
+
+127.43
+
+....................................................................
+
+f.:
+f + 9 . ... .... ...
+f+9+h
+
+29.00
+59.87
+. . ............:...................................
+...................................................................... 101.42
+
+DlstanceXZ-9
+216.00
+450.00
+
+711.00
+988.87
+1,382.87
+DistanceX J-7.5
+195.00
+412.50
+644.06
+
+955.72
+DistanmXK-8
+232. CQ
+479. 00
+811.36
+
+......................................................................
+...................................................................
+
+30.87
+72.43
+
+Distancex L-8.50
+262.43
+815.85
+
+.__...__
+.............................................................
+
+41.56
+
+DistanmX M-100
+4,156.00
+
+g
+
+g+h
+A
+
+~
+
+,
+
+* 9ee data table above.
+
+. -
+
+46
+
+.
+.
+
+~
+
+A N N U A L R E P O R T N A T I O N A L ADVISORY C O M M I T T E E F O R A E R O N A U T I C S .
+
+T" =t2 U'"/f.
+
+=29.24 (202.75)/29- _ _ _ _ _ _ _ _
+
+____ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __-
+
+204.42
+
+U" =u2V"'/g.
+=31.08 (252.51)/30.875 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ - 254.18- - - -----STAY STRESSES.
+
+P'=p, [G- P"n,/p,l/(q-n,).
+=22.48 [30-38.48(3)/19.24]/(15-3)-.. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Q ' = q1 [G + H- Q' 'n2/q21/ - n2).
+(T
+~25.40
+[40-78.04(3)/20.72]/(18-3)- - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+R'=r, [G+ H+I-R"n3/r2]/(s-n3).
+=30 [49-120.63(3.5)/24.26]/(21.50-3.5)- _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ - _ _ _ _ _ _
+S'=sl [G+ H+Z+ J-S"n,/s21/(t-n,).
+=33.74 [56.50- 160.00(3.87)/26.29]/(25.37-3.87) - - - - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+T' = t, [G + l Z + Z+ J R- T"nJt2]/(u - nJ.
+=38.53 [64.50-204.42(3.75)/29.24]/(29.12-3.75)- _ _ _ _ _ _ - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+U'=u, [G+ H + I + J + K + L - U"n6u21/(w-n,J.
+= 42.44 [73 - 254.18 (3.18)/31.SI/ (32.31 - 3.18) - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+__
+
+__
+
+__
+
++
+
+__
+
+44.96
+48.6 1
+
+52.66
+51. 66
+58. 14
+
+69.33
+
+STRUT STRESSES.
+
+P=G.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ - -- _ - _- _ - _ - - - - - _ - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 30.00
+Q = H + P ' (q-nJ/p1. ,
+=10+44.96(15-3)/22.48- - - - - - _ _ _ - - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 34.00
+R=Z+&'(~-n~)lq,.
+=9+48.61(18-3)/25.40- _ _ _ _ - _ _ _ _ - _ _ _ _ _ _ _ _ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 37.71
+__ __
+S = J + R ' (s-n3)rI.
+=7.50+(52.66) (21.50-3.5)/30 _ _ _ - - - _-_-_ -_ -_ -_ _ _ ._ _ _ _ _ _ _ _39.09 _ ,
+_ _ _ _ _ _ ____ ___
+__
+T= K+S' (t-n,)/s,.
+= 8.00 + 5166(25.37 - 3.87y33.74 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 40. 91
+U= L + T' (u - n5)/tl.
+= 8..50 + 50.65 (29.12 - 3.75)/35.53 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 41.85
+-30--
+
+1 1 GRAPHICAL SOLUTION.
+1.
+
+The graphical solution is shown in figure 35.
+IV. REFBRENCE TABLE FOR STRESSES IN LONGERONS.
+
+II
+
+Symbol.
+
+P ....................................................
+R ...................................................
+
+Q.. ..................................................
+
+s ....................................................
+T ....................................................
+TJ ...................................................
+v. ...................................................
+w .................................
+
+II
+
+Longoron Stressas.
+
+0.0
+3R.0
+
+77.2
+119.3
+159.0
+202.8
+252.5
+
+I
+I
+1
+
+1
+~
+
+38.5
+7% 0
+120.6
+160.0
+2OJ. I
+254.2
+
+45. 0
+6
+
+9.
+.12.
+
+7
+
+bl. 7
+
+............
+M. 9
+............
+41.9
+, _ _ _ .........I...... ......I.....
+......... ............ I ............I ...........
+i
+
+Example 10.-Find the stresses in the struts, stays, and longerons of the vertical trussing of
+the front segment of the fuselage shown in figure 35, due to gravitat,ional loads.
+I. GENERAL DATA.
+
+b=19.00; m,=6.12; n,=7.50; p=10;
+p,=24.92; p2=20.43; p,=19.96;
+c=19.50; m2=1.57; n2=5.50; q=23.62; q,=32.10; q2=20.26; q3=19.59;
+d = 13.66;
+T = 30.94;
+T, = 13.67;
+G = 165; H= 11.
+
+. . .
+
+__
+
+.
+.
+
+47
+
+AIRPLANE STRESS ANALYSIS.
+11. ANALYTICAL SOLUTION.
+
+Solution similar to that in example 9.
+III. RESULTS.
+
+I
+
+I
+
+Symbol.
+
+Longeron stresses.
+
+P ...................................................
+.
+
+Exwnple 1I.-From the data in the problems above find the stresses and factors of safety
+for the principal members of the fuselage for a steady circular flight around a level curve of 200
+feet radius a t 80 miles per hour.
+The stresses in the front and rear sections of the fuselage may be found from the gravity
+stresses for steady level flight in figure 36 by multiplying by a simple ratio. For a velocity of
+80 miles per hour and 200 feet radius, formula - the resultant loading is 2.133 times the gravity
+,
+loading.
+The table below refers to figure 35, and gives the resultant stresses and factors of safety.
+Standtrd
+strength
+
+Symbol.
+
+pounds.’
+
+Stress for
+steady
+night.
+
+Stress foi
+?JI/HR 2
+eet RAD
+
+Factor of
+safety.
+
+~
+
+0.00 .. ...... .._.......
+.
+15’000
+___...__._._..._._____.._______.___.._.__.__.___._.
+- 71
+-151
+9Q
+__._..___._...___..... _._. 15’000
+._..__...._.._._..._____.._
+-114
+61
+15’0
+..................................................
+....-243. ..........
+....
+15’00
+-147
+_.__.._______._.._._............................~..
+47
+-314
+Cie___._.__.__.._____._. 13’000
+.__.._.__._..__.__.._._.._.__
+-165
+-352
+37
+13’000
+Hn ......................................................
+-140
+-298
+43
+13’000
+-115
+Ip ..........................................................
+-245
+53
+13’000
+Jn...................................................
+-8
+-174
+74
+13’000
+Kt ..................................................
+-2
+45
+--88
+135
+13:000
+Lv ...___.__.__..__._.___.____._._1..._...............-... ....__....
+0.00 .....
+
+Ra ..................................................
+
+15 000
+
+Cc
+
+De
+Eg
+FI
+
+~
+
+~
+
+Strenab,
+pounds.
+Ah
+10 500
+144
+307
+34
+10’600
+Ad
+222
+473
+23
+Af.. .... . . . .
+. . .
+. . ..... .... ... . ... . 10’700
+3M
+754
+14
+9’600
+.. ..... .. . . ..
+Oh
+8’100
+442
+Ni
+942
+8.5
+4’800
+254
+Nk
+541
+8.8
+1’300
+m
+Nm
+135
+96
+.
+160
+No
+341
+12.7
+I:m
+121
+Yq
+2%
+14.7
+3,800
+.4,500
+Ns
+78
+21
+166
+3
+9
+N u ____.__._._______._.._.___.___.__._..__._.___.__.
+42
+83
+3,500
+
+..................................................
+.................................................. ....
+. . . .... .. . . . .. .
+_..__.__......
+...................................
+...................................................
+..................................................
+...................................................
+___..._..
+........................................
+__.___.
+..........................................
+...................................................
+
+.
+
+~
+
+.
+
+.. .
+
+..........
+
+~
+
+~
+
+~
+
+...
+...................................................... . ........._. .....112. ......... ..........
+bc .......... ... .............. ....................
+. .
+.
+A8
+
+de ...................................................
+
+fa___._____
+..........................................
+
+...................................................
+...................................................
+._.....__
+.........................................
+no__..______._..
+....................................
+pq _....
+.............................................
+rs....................................................
+t n ...................................................
+~
+
+?I
+l
+
+k
+{In
+
+~
+
+*
+
+....................................................
+
+.................................................
+.
+cd . . ................................. .............
+..
+Rf.. .. . .. .. . .. .. .... .. ... ... ... ....... ...
+.. . . . . . . . . . .
+.
+gh.. ................................................
+ij .......... ... .................................. ..
+. .
+..
+kl ...................................................
+...................................................
+ab..
+
+......................................................
+
+op
+qr. ..................................................
+st.... ................................................
+
+u..........................
+v.........................
+
+Ezample 12.-Find
+of example 3.
+
+6, 000
+12 900
+
+10’500
+10’200
+5’600
+4’500
+4:fm
+3 pa0
+3‘8~)
+4800
+
+302
+
+......_.__.
+m
+4’m
+4’ m
+
+-4
+
+4’ m
+2’ 100
+2’ 00
+
+2’ 000
+2’ 000
+2’000
+2’ 00
+2: 000
+
+239
+646
+
+2
+5
+20
+
+149
+49
+41
+39
+38
+34
+
+317
+104
+87
+83
+81
+72
+
+17.6
+43
+53
+45
+47
+52
+
+.........
+......... .......... ..........
+
+.......... ..........
+
+-175
+-131
+-328
+
+-373
+-279
+
+11.2
+15
+
+-236
+-69
+
+--5w
+
+4.1
+13.6
+16
+17
+
+-104
+
+19.2
+20.8
+
+.6
+......... , .....699, ..........
+...
+-59
+-53
+
+- 52
+- 49
+45
+
+-147
+-125
+-113
+-111
+
+-96
+
+18
+
+the stresses in the rear segment of the fuselage due to the torsional loads
+
+.
+
+48
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTIC/%
+-
+
+1.
+
+GENERAL DATA.
+
+Table for applied torques as founx i n example 3.
+
+I
+I
+
+1 1 1 2 1 3 1 4 / 5 1 ~ 1 7 1
+
+Station.
+Torque
+
+1
+
+I
+
+I
+
+___.__.__.._.___._._...8,216
+7,268
+7,742
+
+1
+
+1
+
+8,753
+
+9,354
+
+1
+
+9,954 110,459
+
+1
+
+Tablefor length o panels, struts, and stays.
+f
+Length o! struts.
+
+01 panels.
+
+Length
+
+I
+
+Station.
+
+Length.
+
+I
+
+Station.
+
+_ _ . _. . I
+
+Upper.
+
+I
+
+Length ofstags.
+
+~
+
+Upper.
+
+I
+
+Side.
+
+._.____._...__..__
+:..
+._..._..___
+.._.___._..
+........._.
+...____.._._____.___.._._._.___
+
+1
+0.00
+12
+',la
+___.__
+_._.
+2
+7.75
+15
+aO.5
+.....__.___ 3._..._.......
+___.._.......
+14.25
+18
+24
+..____..___
+18.50
+26
+.._.____ 4 .___..._..._. 21.50
+5 _.__.._.._._. 25.37
+21.37
+28
+_____.__.__
+6
+30.87
+._._..._._. 7 ._...........'23.00 29.12
+24.00
+32.3
+41.80
+..__._..________.__._...
+
+It02
+2t03
+3to4
+4to5...
+5to6
+6to7
+7to8
+
+1
+
+Station.
+
+Side.
+
+It02
+22.48
+2t03
+23.4
+25.40
+3 t 0 4 ___.._____.
+29.2
+30.00
+'4to5
+32.9
+33.70
+5 t o 6 ___..____.. 38.50
+38.7
+6t07
+39.0
+42.40
+7to8
+
+Table for lengtha of struts and stays in the transawse trussing at the different stations.
+
+1
+
+Station.
+
+5.......................................................................
+6 .......................................................................
+7
+
+Side
+Strut.
+
+j
+
+Diagonal
+
+25.37
+29.12
+32.30
+
+21.37
+
+~
+
+'23.00
+124.00
+
+........................................................................
+1 See
+
+Upper
+Strut.1
+
+16.58
+18.55
+21.11
+
+fig. 34.
+
+Computation tables for direction cosine.
+
+Symbol.
+
+1
+
+I
+
+1 '
+
+X
+
+Y
+
+sr .._____.__.._.._......
+i 27.41 20.5
+
+3.10
+
+s. . . . . . . . . . . . . . . . . . . . . . . .
+
+-
+
+1.4
+26
+36.3
+1.0
+29
+__.___.__.___._._.__._
+i 41.1
+Ss_ _ _ _ _ _ . _ _ _44.i _ _ .30.9 _ _.6 _ _ _
+_
+__
+_
+
+s .......................
+
+Symbol.
+
+~
+
+-I
+
+50.1
+
+I 1
+
+41.6
+
+0
+
+34.8
+
+X
+
+Y
+
+1
+
+-
+
+-
+
+.i16
+
+,831
+
+-0. m
+
+-a
+
+657
+- .666
+- ,699
+- .lo8
+- .727
+- .Is5
+
+Z
+
+Direction cosin6s.
+
+t.
+
+......................
+
+......................
+
+1 The direction cosines are found from the projections along
+observation in Q. 3 .
+4
+
+~
+
+t,
+
+----.----_-
+
+23.4'
+20.5
+Tr .__......_..._._......
+29.0
+24
+Ts__...__.._____.._._._.
+32.7
+26
+Td
+29
+36.6
+Ta_....._.._.__...__..._
+30.9
+Ts___.._................
+38.8
+41. ti
+TI
+46.0
+
+x Inahea.
+
+-0.113
+,074
+.03R
+- .024
+- ,013
+
+- .743
+
+2.4
+24
+S _.__.___.__.____._....~
+,
+32.3
+
+10.9
+16.7
+19.9
+22.4
+23.6
+24.0
+
+0
+0
+
+0
+0
+0
+0
+
+-0.w
+
+-
+
+- .828
+- ,795
+- .792
+.i96
+-.M7
+
+-0.470
+
+-
+
+.576
+
+- .e48
+- .612
+- .e48
+
+- ,500
+
+X,Y,Z and the true lengths o f t h e struts, stays, otc. The signs are given from
+
+.
+
+49
+
+AIRPLANE STRESS ANALYSIS.
+
+Computation tables for direction eosine-Continued.
+
+,
+
+Right side stays.
+Symbol.
+
+Direction cosines.
+
+ut .....................
+25.5
+u ......_........__._._
+s
+29.9
+33.7
+u......................
+U .....................
+a
+38.6
+u ...._..._....__......
+s
+42.5
+UT
+.....................
+
+52.6
+
+.6
+
+0
+
+I
+
+- .802
+- .771
+- .751
+- .728
+- .791
+
++o.
+
+121
+
+568
+
++ .602
++ .638
++ .658
++ .w
++ .614
+
++ .om
+
++ .041
++ .026
+
++ ,014
++O
+
+Lower stays.
+
+I
+
+Symbol.
+
++o.
+
+-0.804
+
+15
+18
+21.5
+25.4
+29.1
+32.3
+
+3.10
+2.40
+14
+.
+1.0
+
+20.5
+24
+26
+29
+30.9
+41.6
+
+Direction cosines.
+
+Y
+
+X
+
+Z
+
+I
+
+v, __...__........._....
+23.3
+20.5
+10.9
+24.0
+16.7
+V ._._.........._
+a
+...... 29.1
+2.
+60
+19.9
+32.8
+V,_.__..._.._...........
+22.4
+36.7
+29.0
+V I....__._......_......
+30.9
+38.9
+23.6
+V _.____.._.____._____..
+s
+43.9
+41.6
+24.0
+VI
+...____.__...._.._._..
+I
+
+-m.81
+
+20.5
+
+I
+
+-.118
+.lo1
+
+-
+
+,
+
+-.OS2
+-.052
+
+$! 1
+
+I
+
+30 9
+
+4:
+16
+....._.._...._.._....
+
+0
+
+.6
+
+30.9
+41.6
+
+Direction cosines.
+
+I
+
+'.S
+
+sy'
+
+I
+
+SI'
+
++a 149
+0". to:%+ .m
+0
+f.998
++ .053
+
+3.10
+2.4
+1.4
+1.0
+
+24
+....._... ........
+...
+S .__._..._..__.._._._.
+,
+'
+29
+26
+S' . ...... ...........
+,.
+
+S,'
+
+-.%a/
+
+1 1
+
+X
+
+1
+
+...'.........._......
+..
+S ' .....................
+S
+
++606
++:546
+
+-0.129
+
+- .117
+
+Upper longerons, left.
+
+Symbol.
+
+Sa'.
+
+-.794
+I
+
+I
+S
+,
+'
+
+-aw
++o.w
+-?.825I l +I 6 574
+-. '!X
++ 07
+- .790 1 + .612
+
+30
+.
+3.4
+3.9
+3.7
+3.2
+23
+.
+
+f.999
+
+0
+0
+
+0
+
++Lo00
++1.000
+
++ .034
++ ,019
+to
+
+I
+
+I
+
+Upper longerons, right.
+Symbol
+
+.
+
+1
+
+Direction cosines.
+
+X
+
+1
+
+~~
+
+T'.....................
+t
+20.8
+....__............... 24.1
+T:...__................26.0
+,
+TS_..____._...._.......
+29.1
+T ......_.....
+(
+-......... 30.9
+TI.._..__..............
+41.6
+Tt
+p'
+
+I
+
+Y
+
+20.6
+
+0
+
+0
+
+14
+.
+1.0
+.6
+0
+
+I
+
++.998
+
++Lo00
+fl.000
+
+0
+
+24
+.
+
+26
+29
+30.9
+41.6
+
++0.988
++.w7
+
+0
+0
+
+3.10
+
+24
+
+Lower longerons, left.
+
+1.
+
+Symbol.
+
+l
+
++.999
+
+0
+
+-0.149
+- ,099
+- .@53
+- ,034
+-0.ON
+
+I
+
+l
+
+X
+
+I
+
+Direction eosines.
+
+Y
+UY'
+
+U,' .......... ...........
+Us'.....................
+U,' .....................
+Uj'.....................
+
+20.5
+20.9
+24
+26
+26.1
+29
+29.2
+30.9
+30.9
+Us'....... ..............
+41.6
+41.6
+UT'
+__...._._...._____...
+24.2
+
+3.10
+2.4
+1I
+.
+
+10
+.
+.6
+
+0
+
+.
+
+3.0
+3.4
+3.8
+3.7
+3.2
+2.0
+
++O.B81
+.992
+
++
++ ,994
++ .999
+.
+
++1.m
+
++1.m
+
+-0.149
+
+- ,053
+,099
+- ,034
+- ,019
+
+.-
+
+0 MM
+.
+
+'
+.
+U
+
++O. 143
+,140
+.I46
++ .l26
+.lo3
+
++
++
++ .048
++
+
+50
+
+A N N U A L REPORT N A T I O N A L ADVISORY COMMITTEE FOR AEROFAUTICS.
+
+Computation tables for direction cosine-Continued.
+Lower longerons, right.
+Symbol.
+
+Direction cosines.
+
+x
+
+1
+
+z
+
+Y
+
+’
+.
+V
+
+V
+.
+’
+
+VY’
+
+VI’
+.....................
+
+20.9
+
+20.5
+
+3.10
+2.40
+1.4
+1.0
+
+Vs’
+.....................
+24.2
+24
+V,’ _.____._......____...
+26.1
+26
+V5’
+.....................
+29.2
+29
+
+Vs‘.....................
+VI’
+.....................
+
+30.9
+41.6
+
+30.9
+41.6
+
+3.0
+3.4
+3.9
+3.7
+
+.6
+
+-0.981
+
+- .992
+- .994
+-
+
+,999
+-1.00
+-1.00
+
+3.2
+
+2.0
+
+0
+
+-0.149
+- ,099
+
+- .034
+- .OS
+
+- .Ol9
+0.M)O
+
+-0.143
+.140
+- ,149
+- .126
+.la
+
+-
+
+-.048
+
+1 . SOLUTION.
+1
+FOR TORQUE OF 7,742 INCHES-POUNDS AT STATION NO. 2.
+
+Given torque=7,742 ins.-lbs.; 1=8.44 ins.; b=15 ins.; a=7.74 ins.
+Then by figure 34:
+R = torque141
+=7,742/4 (8.44) _ _ _ _ ._ _ _ _ _ _ _ - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ._ _ _ _ _ _ _ ._
+__
+__
+229.32 Ibs.
+P =R bl2l
+=229.32(15)/2(8.44) - - .- - - - - - - - - - - - - - _ _ - _ - - _ _ _ _ _ _ _ _ _ _ _ _ - - _ _ - - - - - 203.77
+Q =Ra/21
+=229.32 (7.75)/2(8.44)- _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ . _ _ _ 105.25
+__
+Substituting these values in formulas of figure 34:
+
+s,S +s,,‘S‘+t,,T+t,’T‘ + 2 P = 0 - 0.1 13s+0.149s‘- 0.470 T - 0.149 T‘ +2(203.77) = O
+(I)
+tzT+ tz’T’+u, U+u’’ ,
+0 -SQ = 0 + 0 + 0.588 U + 0.143 @ - 2(105.28) = 0
+(21
+U, O+U,’ U’+w, V+Wy’ V’ - 2P=O + 0.121 U - 0.149 U’ +0.468 V+0.149 V’ -2(203.7i) = O (3)
+V, V+w,’V+S,S +s,’S’+2 Q = O - 0.129 V+0.143 V’- 0.6573 + 0 + 2(105.28) = 0
+(4
+)
+s $ + s ‘ S ’ = O -0.748Sf0.986S‘=O; S‘=0.7599
+t,T+t,’T’=O -0.884T+O.Q86T’=0; T’=0.897T
+(6)
+U , U+U,’ U’ = O -0.804 U+O.981U’ = O ; U’ = 0.819U
+(71
+u,V+W,’V’=O - 0.880 V + 0.981V’ = 0; V’ =0.897V
+(8)
+Substituting values of S’, T‘, U‘, V’ from equations 5,6,7,8, in equations 1,2,3,4 we findS = 320.7.
+T= 675.0.
+U=298.7.
+
+v=678.0.
+
+Again by equations.5, 6, 7, 8
+-
+
+S’ = 243.6.
+T’ = 605.5.
+0’=243.9.
+V’ = 608.2.
+
+I n a similar manner the stresses may be determined for stations 8 , 4, etc. The table below
+gives these results for the given torsion loads.
+Stntions.
+
+I/
+S-
+
+2 ..... ...... .......
+
+T
+
+320.7
+
+.................. 334. 4
+4. .... ............. 288.0
+3 .. .... ..........
+.
+.
+Z56.0
+6 . ..-. ........... . nn.0
+.
+7 ............. .... . 223.1
+3
+
+U
+
+071.0
+116.1
+360.0
+s37.0
+338 0
+117.3
+
+mn. 7
+311.5
+268.1
+240.7
+21R
+
+x
+
+2:1%2
+
+V
+
+078.11
+U7.5
+
+360
+337
+:YAY
+
+382
+
+-I
+
+S‘
+2w.6
+219. 2
+
+506. R
+
+181.0
+14x.9
+143. 4
+
+V’
+-T’
+605. 5
+
+I
+
+VI
+
+:354.0
+
+24:j. 9
+251. 8
+
+267.2
+269.0
+
+1XI.2
+119.3
+
+m.Y
+
+:%I. X
+
+am. 1
+188. .&
+
+6nx. 2
+3M. 8
+2116 9
+
+266.6
+26%1
+362.1
+
+-
+
+REPORT NO. 82.
+PART V.
+ILLUSTRATIONS FOR PARTS I, 11, 111, IV.
+By A . F. ZAEHand L. H. CROOK.
+
+,
+
+53
+
+AIRPLANE STRESS ANGYSIS.
+
+--
+
+I
+
+.-
+
+PI
+
+'-
+
+0
+
+a
+
+I
+
+-
+
+B
+
+e
+e
+
+e
+
+:
+
+I
+
+I
+
+-7----
+
+_-- - -
+
+54
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+FIG. 2.--preSsure
+
+dlstrlbutlon on medlan sectlon o B A. F. 6 acroioll of 1 t 6 aspeet ratlo at 30 ieet per second, alr at
+l .
+o
+standard denslty.
+
+FIG. 3.-Pressure
+
+.
+dlstrlbutlon on typleal aerololl wlth hlnged rear margin. (Model B A. F.
+denslty. speed 40 m. p. h.)
+
+6.
+
+aspect ratlo 1 tu 6. standard alr
+
+AIRPLANE STRESS ANALYSIS.
+
+I
+
+I
+
+I
+
+3
+
+m
+
+9
+9
+
+8
+
+-
+
+8
+a
+h
+Y
+
+t
+
+I
+
+9
+
+t
+
+I
+
+a
+
+9
+
+d
+
+8
+
+55
+
+56
+I
+
+A N N U L R E P O R T N A T I O N A L ADVISORY C O M M I T T E E FOR A E R O N A U T I C S .
+
+'FIG 6.-Values of t h e n a t u r a l a n g l e o f bank a degrees. centrifugal force F, and whole force P p e r p e n d l c u l a r to the3 for an
+a l h l a n e I steady clrcular Elght around a level curve of radlus E feet. F and P expressed as a f r a e t l o n of t h e w h o l e wefghc W
+n
+.
+
+Miles
+per hour.
+
+-I I F I
+a
+
+.
+
+0
+
+I
+
+0.267 1.035
+,600 1.166
+1.067 1.462
+1.667 1.944
+2.400 2.600
+3.267 3.416
+4.267 4 . W
+5.400 5.492
+6.867 6.741
+8.067 8.128
+9.600 9.652
+11.27 11.31
+13.07 13.10
+86 11 15.00 15.03
+20.42 20.44
+26.67 26.69
+14 56
+30 58
+46 51
+59 2
+67 23
+72 59
+76 49
+79 31
+81 2R
+82 56
+843
+8456
+85 37
+
+IFI
+
+IFl
+
+P I
+
+-
+
+IFI
+
+P I a
+
+81 18
+
+8224
+8424
+8543
+
+-0
+
+0.133
+
+0.067 1.002
+,150 1.011
+267 1.035
+,417 1.083
+.600 1.186
+,817 1.291
+1.067 1.462
+1.350 1.680
+1.667 1.944
+.2.017 2.251
+2.400 2.600
+2.817 2.989
+3.267 3.416
+3.750 3.881
+5.104 5.201
+6.667 6.741
+
+l.M)9
+
+,300 1.044
+
+.533 1.133
+.W 1.302
+1.200 1.562
+
+1.633
+2.133
+2.700
+3.333
+4.033
+4.800
+5.633
+6.533
+7.500
+10.21
+13.33
+
+1.915
+2.356
+2.879
+3.480
+4.155
+
+4.903
+5.721
+6.609
+7.566
+10.26
+13.37
+
+-
+
+IF
+
+P I
+
+,
+
+730
+1642
+28 4
+3948
+50 12
+5831
+6453
+6941
+73 18
+76 5
+7 14
+R
+7956
+
+_P
+
+,
+
+3 9 10.053
+.no
+6 51
+12 3 .213
+18 26 ,333
+25 38 .4m
+33 9 ,653
+40 29 .a53
+47 12 1.080
+53 8 1.333
+58 12 1.613
+62 29 I 1.920
+6 6 4 12.253
+69 4 12.613
+71 34 i 3 . m
+76 14 4.083
+79 23 5.333
+~
+
+1.002
+
+0.033
+,075
+.133
+,208
+,300
+.408
+.533
+375
+.a33
+1.008
+
+2 33
+5 43
+10 5
+15 31
+21 48
+28 34
+35 25
+41 59
+48 1
+53 21
+58 0
+61 58
+65 20
+68 12
+4.204 73 37
+5.426 77 19
+1.007
+1.022
+1.054
+1.109
+1.195
+1.315
+1.472
+1.667
+1.89R
+2.165
+2.465
+2.798
+3.162
+
+.1.200
+
+1.408
+1.633
+1.87s
+2.552
+3.33
+
+-
+
+1.001
+1.003
+1.009
+1.021
+
+1.044
+1.080
+1.133
+
+1.2op,
+
+1.302
+1.420
+1.562
+1.727
+1.915
+2.125
+2.741
+3.480
+
+-
+
+FIG. 6.-Tenslon In alrplane f a b d c In terms
+of pressure. bulge, and d b spaclng.
+
+t--pa'/l44(&).
+
+t in pounds per linear inch for various air pressures, p pounds per square
+foot.
+
+Tension
+
+I
+
+Depth ol bulge e, inches.
+
+p-5.
+
+1
+
+p-8.
+
+p10.
+
+1
+
+p--15.
+
+I
+
+p-20.
+
+1
+
+p-25.
+
+I
+
+p-50.
+
+1
+
+p-100.
+
+For rib spacing 8-12 inches;t-p/&.
+0.1 ................................................ -........:...
+.2............................................................
+.3... .....
+................ .........................
+
+........
+
+.4............................................................
+
+.5..
+
+...
+
+..........................................................
+
+I
+J....
+....
+
+.
+.........................................................
+
+7.32
+3.66
+2.44
+1.83
+1.46
+
+.2............................................................
+.3............................................................
+.4
+.5
+
+............................................................
+............................................................
+
+.1..
+
+For rib spacing a- 13inches: t- ,1465 p/c.
+
+1
+
+..........................................................
+
+.
+
+2.. ................ ........... .............................
+.
+.3.. .................. .......... ............................
+.4 ............................................................
+.5
+
+............................................................
+
+11.72
+5.s
+8.91
+2.93
+2.34
+
+..
+
+1.70 I
+~
+
+13.61
+6.80
+
+E
+:
+2.72
+
+22.00
+11.M)
+7.33
+5.50
+4.40
+
+29.30
+
+7.32
+4.88
+3.66
+2.93
+
+1::q
+7.32
+5.86
+
+9.15
+
+17.01
+
+25.51
+12.75
+
+34.02
+17.01
+11.34
+
+42.52
+21.26
+14.17
+10.63 1
+
+14.65
+
+'
+~
+
+fii
+
+8.50
+
+::ti i
+
+36.60
+
+1
+
+85.05
+42.52
+28.35
+21.26
+17.01
+
+48.821
+24.41
+
+97.65
+48.82
+
+8.50
+
+170.10
+85.00
+56.70
+42.52
+34.00
+
+For rib spacing a- 15 inches; t- .1953 p/c.
+..............................................................
+.2.... ........................................................
+.3............................................................
+.4
+.5............................................................
+
+............................................................
+
+9.76
+4.88
+3.25
+2.44
+1.95
+
+15.62
+7.81
+5.20
+3.90
+3.12
+
+19.53
+9.76
+6.51
+4.88
+3.90
+
+29.29
+14.64
+9.76
+7.32
+5.85
+
+39.06
+19.53
+13.02
+9.76
+7.81
+
+19.53
+
+195.3
+97.6
+65.1
+48.8
+39.0 '
+
+-
+
+57
+
+AIRPLANE STRESS ANALYSIS.
+
+-
+
+-t
+
+-c'
+I
+
+I
+
+~~~~~
+
+FIG. 7.-Typlcal pressure dlstdbutlon on wing plane resolved
+normal to chord.
+
+FIG. 5.-Shear
+
+and moment on rlb of a wlng plane due to
+luadlng normal to chord.
+
+m-=qw-P-- ,.
+--
+
+L
+
+*L.
+
+. - ." - L. L -
+
+2
+
+-...
+
+__ --
+
+I *-
+
+i
+
+lo
+0'
+
+10 *
+
+I'
+
+I! ::
+10 '
+
+18.
+
+,1
+am
+FIG. 0.43hearing force and bendlng moment on wlng
+rlb due to three concentrated loads appmxlmatdy repm
+senttng the loadlng normal to chord.
+
+FIG. lO.-l&solutlon of wlng plane loads Into wlng spar
+loads (plctured I sequence).
+n
+
+58
+
+A N N U A L REPORT N A T I O N A L ADVISORY COMMITTEE FOR A E R O B A U T l C S .
+
+I
+
+8.
+
+c
+
+I
+
+I
+
+.
+
++
+
++
+
+59
+
+AIRPLANE STRESS ANbLYSIS.
+
+c1
+
+.
+d
+I
+I
+
+d
+
+E
+
+-!
+
+60
+
+ANNUAL
+
+REPORT N A T I O N A L ADVISORY C O M M I T T E E FOR BERONAUTICS.
+
+I
+
+8
+
+.f
+e
+
+k
+
+i
+8
+-
+
+.d
+M
+
+.a
+
+a
+
+f
+
+2
+
+d
+
+a
+
+.-
+
+61
+
+AIRPLANE STRESS ANALYSIS.
+F G 17.-Shear and moment on upper and lower spars I
+I.
+n
+plane of front struts.
+
+unllormly loaded contlnwit%moments for a and stays attached aslde
+pln supports
+
+FIG. 18.-Bendln
+
+uo.us beam
+from strut arls.
+
+4
+
+B
+
+8
+
+FIG. ZO.-Concentrated loads on drag trusslw I terms of pln
+n
+reacuons, and strut and stay redstance.
+.
+%
+I
+
+3
+
+Fl
+
+f
+
+FIG. 19.-Comparlson of dlstancea to maxlmumdellectlon
+and marlmum bendlns moment for typlcal spar panel.
+
+I. BELANETRUSSINQ.
+(a) For upper drag t u s n rsig
+1. U s due to front upper spar plue resistance of
+front struts and stays.
+
+G=r,+R,
+R=r,+R,
+I=r,+R,
+J=r,+R,
+
+N.
+N.
+N.
+N.
+
+2. Loads due to rear upper spar plus resistance of rear
+struta and stays.
+
+G’=r,+R, N l .
+H’=r,+R, N,.
+I’=r,+R, N,,
+J’=r,+R, N,,
+
+d
+0
+
+Where T I , r,, r3, etc., equal one-half the air resistance of
+the struts and stays adjacent to the pins; N=wJw,, the
+r.itio of the running load on front spar in plane of drag
+trussing to the running load on front spar in plane o lift
+f
+trussing; Nl=wz/wI, the ratio of the running load on rear
+spar, in plme o lift trussing to running load on rear spar
+f
+in plane of drag trussing;
+(b) For lower drag trussing.-For concentrated loads
+on lower drag trussing change the word upper into lower
+(a) above.
+11. ANYTRUSSING.
+The formulas above apply also to drag truaaing in
+monoplanes or multiplanes.
+1
+
+Consider the resistance 8s acting only in the plane of drag tiuse&!.
+
+62
+
+AXE LTAL CEPURT S A T I O S A L ADVISORY ( ‘ O M M I T T E E FOR A E R O N A U T l C S .
+
+FIG. 21.-Concentrated loads o n drag truSslnJ In terms o!
+strut and stay reslstanre and running loads o n spars.
+
+I. BIPLANE
+TRUSSING.
+
+For upper drag h s i n g . 1. Loads due to thefront upper spar plus one-half the
+resistance of thefront struta and stays.
+(a)
+
+G=T,+Au+Bz,
+H=r,+B( b -z,)+ CZ,
+I=r,+ C(c-z,) +DZ3
+J=r4+D(d-q)+Ex4
+2. Loads due to the rear upper spar plus one-half the
+resistance of the rear struts and stays.
+
++
+
+G= r‘ I Aa+ Bx,
+’
+H’=Z,+B(b -x,)+CZ,
+I’=Z,+ C(c-z,)+Dq
+J’=r‘,+D(d-z3)+EZ4
+Where r,, r2, r3, etc., are the loads due to one-half the
+air resistance” of the front struta and stays; r,’, rz’, r3/,
+etc., are the loads due to one-hall the air resistance* of
+the rear struta and stays; z ,z etc., the distances to the
+, ,
+points of zero shear.
+( b ) For lower drag trussing.-Treatment similar to above.
+
+FIG. 22.-EndWsz stresses In a biplane wlng truss with
+parallel spars. Analytlcal treatment.
+
+STRUT STRESSES.
+P=G=G
+Q=G+G‘+H= P+G’+ H
+R=G+G’+ H+ H’+ I=&+H’+ I
+S=G+G’+H+ FI’+I+I’+ J=R+I/+ J
+STAY STRESSES.
+
+,
+
+P’=p(G +G’)/h =p ( P +G’)/h =pn
+&’=q(G+G’+€I+ H’)/h=q(Q+ H’)/h=qn2
+R’=r( G+ G+ H+ H’+ I+ I’)/h =T( R I’)/h =nt3
+’
+
++
+
+S’=s~G+G’+H+H’+I+I’+J+~’)/h=s(S+~’)/h=sn,
+SPAR STRESSES.
+
+P”=(G+G’)b/lr= b( P+G’)/h= bn,
+Q”=[(G+G’)(b+c) +c(H+H’)]/h
+
++H ’)/h
+=P”+m,
+R”=[cG+G’)(b+c+d)+(~+d)(H+ H’)+d(I+I’)]/h
+=Q’’+d( R I’)/h =&”+ dn,
+S/’=[(G+G’)(b+c+d+e)+(c+ctfe)(
+H+ H’)+etc.]/h
+=RN+e(S+ J’)/h=R”+en4
+= P”+c(Q
+
++
+
+FIG. 24.-Th-omponent
+
+resolution of stay tanslon.
+
+11. ANYTRUSSIXQ.
+The formulas above apply also’ to the drag trussing in
+monoplanes or multiplanes.
+FIG. 23.-Endwl~e stresses In terms of loads and slre I
+n
+any innnoplane wlng truss. dnalytleal treatment.
+
+I. GENERAL
+CASE.
+
+R/r=X/x= Y/y=Z/z
+
+STAY STRESSES.
+
+P’= pG‘/h
+Q‘
+=qH’/h
+R’=rI‘/h
+SPAR STRESSES.
+
+P’/=(b+c+d)G/h
+Q”= (b+c+d)G/h+ (c+d)B/h
+R“=(b+c+d)G/h+(c+d)fI/h+dI/h
+*Consider the reaistanoe 89 acting oniyin the plane of the drag trussing.
+
+(a) For cabane stays,
+
+R=rX/x
+( b ) For cross diagonal,
+R =r X / x
+
+AIRPLANE
+
+STRESS ANALYSIS.
+
+FIG. 25.-Endwlse stresses I terms of loads and size in a multlplane wlng truss.
+n
+Analytical treatment.
+
+t
+
+GENERAL THEORY.
+Let L he the total lift on a multiplane strut, as shown,
+P, $, tensions in the stays p, q,
+dp, dq, stretches of the lengths p, q, for vertical strain dz of truss,
+m, n, strut lengths between joints, '
+A, B, E, croas sectional areas of stays and modulus of elasticity.
+Then L=Pm/p+Qn/q+etc., for more planes, if any,
+P= AEdplp,
+Q=BEdqlq,
+R=etc., for more planes, if any.
+dz=qdq/n=pdp/m=etc., for more planes, if any.
+P/Q=Amq2/BnpZ, Q/R=etc., for more planes, if any.
+
+P=LAmq2/(,4m2q2/p+Bn2pa/q).
+Q=LBnpz/(Am2q2/p+Bnzp2/q).
+
+FOR A TRIPLANE.
+
+FOR A QUADRUPLANE.
+P=LAmrZJ(Am2r2JpfBnzrzp2Jq3f
+C oap2/r).
+&= LBnpz/(Bn2pZ/q+Co2pzqz/13+
+Am2qz/p).
+R=LCoq2/( Co2q2/r+Am2q+2/p3+Bn2r2/q).
+NOTE.-h
+a similar way the equation for any multiplane may he written.
+Having thus obtained the strut and stay stresses in a multiplane, the spar stresses follow by ordinary statics.
+
+63
+
+64
+
+I
+
+A N N U A L REPORT N A T I O N A L ADVISORY COMMITTEE FOR AERONAUTICS.
+
+i
+
+j
+c
+
+i
+
+d
+
+E
+
+#
+
+65
+
+AIRPLANE STRESS ANALYSIS.
+
+26 25"
+
+12.04"
+
+b
+
+0
+
+821
+
+l!RU;F, PUBE O' FROUT
+h
+
+b
+
+mss1m
+
+. d
+
+f B ) Y!mlBYA$;Y -XI
+
+FRONT TRUSSING.
+
+66
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+F G 30.4raphlcal analysls for seaplane underearrlrye.
+I.
+
+Qb
+
+b
+
+R
+
+67
+
+AIRPLANE STRESS ANALYSIS.
+
+.M
+B
+0)
+
+5
+
+8
+
+68
+
+A N N U A L REPORT N A T I O N A L ADVISORY COMMITTEE FOR AERONAUTICS.
+s
+
+a
+
+s
+
+F
+.
+
+0
+
+U--
+
+0
+
+9
+
+-0
+
+I
+
+u--ma
+m
+
+0.
+
+II
+
+3
+0
+
+It
+
+c
+
+U
+
+I
+
+I
+
+8
+8
+6
+L
+
+..
+
+0
+
+!I
+
+ANALYJIJ
+
+rooIL LCVCL
+
+~ T A T I CCONDITION
+
+2
+
+3
+v)
+
+69
+
+AIRPLANE STRESS ANALYSIS.
+
+FIG. 37.-Speclllcatlons for typical tail unit.
+
+FIG. 3S.-Speclllatlons for typical aileron and connections.
+
+Y
+Area A-20.7 Sq.Ft.
+
+FIG. 39.-Speclflcations for typical wlng db.
+
+mZIW
+
+i
+
+a
+
+PIOmh
+
+..........8.w
+..........
+..........
+
+8.86
+
+0
+4.m
+D ..........8.m
+q
+2.90
+
+.........
+
+a-11"
+
+b-70"
+
+C-18.75"
+
+d-12.75"
+
+2-13.37"
+
+1-22.72"
+
+1-61.78
+
+x-18.75"
+
+FIG. 4O.-Spcci5cations for typlcal biplane wing trussing.
+
+. . .
+.
+
+'0
+5'
+
+__
+
+.
+.
+
+A N N U A L REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+a
+
+a
+
+b
+
+6
+
+6
+

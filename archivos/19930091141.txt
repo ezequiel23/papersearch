@@ -1,0 +1,980 @@
+,-. ,
+.
+
+‘. ..-..-” .
+.
+..
+-4
+
+.
+----
+
+REPORT
+
+80
+
+NO.
+
+..
+
+STABILITY OF THE PARACHUTE AND
+HELICOPTER
+.
+. .
+
+,
+.“
+
+v
+
+,,
+
+““
+
+.
+
+NATIONAL @VISORY COWITTIii
+l?i)R AERONAUTICS
+
+:.
+.
+
+..-.
+
+PW”~T
+
+FROM FIECEi ANNUAL EEPOET
+,.
+
+.
+
+REPORT
+
+~Oo
+
+80
+
+‘
+
+STABILITY OF THE PARACHUTE AND
+HELICOPTER
+v
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT PROM FIFTH ANNUAL REPORT
+.
+
+v
+
+WASHINGTON
+PRINTING
+lm
+
+QOVEWMENT
+
+OFFICE
+
+i.
+
+,
+
+.-: .4 . —
+—-...
+.
+
+-+ -.
+--—
+
+REPORT No. 80
+STABILITY OF THE PARACHUTE
+AND HELICOPTER
+BY H. BATEMAN
+.
+
+....-.-=- .. . ““..”:
+----- ..=_..”
+___
+144539-20
+
+3
+
+.
+
+.
+
+q
+
+REPORT No.
+STABILITY OF THE PARACHUTE AND HRLIC03Xl!ER.
+By H.
+
+BATEWN.
+
+INTRODUCI’ION.
+
+This paper was submitted to the National Advisory Committee for Aeronautics by
+Professor EL Bateman, of the California Institute of Technology, and its publication duly
+authorized by the committee as Technical Iteport No. 80.
+The mathematical theory of the stability of a parachute which is sytumetrical with respectt
+to a plane is very simiIar to the weILlmowmtheory of the stability of an airphme, but the values
+of the resistance coefficients are naturally difl’erent. When the parachute does not rotate, it
+may be compared with an airplane in a straight dive. There are osctiations corresponding to
+the Longitudinal and lateral oscillations, and these are practically independent of one another.
+Thus, when the parachute swings like a pendulum as it descends, we have an oscillation corresponding to the pitching of an airpIane, while there is another type of oscillation which correspends to the Dutch roll.
+When the parachute is symmetrical about an axis, so that it has the form of a solid of revolution, there may be no banking in the oscillation corrwponding to the Dutch roll, and the
+oscillation then becomes a simple swing like the one which corresponds to the pitching of an
+airplane. In this case a combination of two simple swings in perpendicular phmes may give rise
+to a compound oscillation, which maybe likened to the motion of a conical pendulum falling
+under gravity. In the general case the combination of the simple swing and Dutch roll gives
+rise to a compound motion of a complicated character.
+ANALYTICAL
+
+—..
+
+—.
+—
+..—
+.—
+
+DISCUSSION.
+
+To discuss the matt~ amd~ticdy we shall write down the equations of motion in the
+notation used by G. H. Bryan* and S. Brodetsky.2 We shall take the tis of y M“axis of symmetry and assume that in the steady state the parachute is faLlingwith veIocity V in a vertical
+direction, which coincidw with the axis of y, and is rotating with angular velocity Q around the
+axis of y. This Iast assumption is made for the sake of generality, so as to cover the case of a
+rotating solid of revolution and to obtain a condition corresponding to some extent with the case
+of the helicopter where the Longitudinal and lateral oscillations are not independent. The
+equations of motion may be written in the form
+
+p$y+(c!+dw-r(v+
+w)]= Wsine-x,
+
+:
+
+W
+
+dw
+
+~
+
+[
+
+~+p(v+tbw+d
+
+d +A–Br
+
+~
+
+1
+
+‘-
+
+Wcosdsin@-z,
+
+.
+
+~Q+g)=_L
+
+J
+gtg
+
+i?
+
+& dr+B–A
+—Pci?+!z)=--w
+gag
+~ dv
+Tvc0sec0t34-Y,
+[
+Bcl
+~
+~ i t=–
+“
+
+~ ~t+ML-pW
+=
+1
+I StnbIlfty
+inAfitim.
+hR@
+~TIMTdhOkU Mathematical
+
+144599-20-2
+
+—
+VOI.14,AWUS4, 918j p. llLI
+1
+
+5
+
+6
+
+ANNUAL
+
+REPORT
+
+N
+
+TION&
+
+ADVISORY
+
+t
+
+FOR AERO17AUTKM
+
+00M1@TTEE
+..
+
+..,- ..
+
+Here W is the weight of the parachute and.passengerj X, Y, Z, L, M, N the camponent
+air forces and couples referred to axes fixed in the.parachu@, B is the moment of inertia about
+the axis of symmetry, A the moment of inertia about ~–prpe~~ctisr axie through the center
+Q+
+of gravity, both measured in gravitational units, U+ u, @,-”ti4_p, g, r are component velocities
+and spins in the disturbed motion. To obtain the direc~ons of the axes in space in a disturbed
+position of the parachuti we suppose the parachute rotated first about the @s of g (from z tuc)
+through an angle ~, then about the axis of z (from z to y) through an angle 6; .
+and finally about
+the axis of z (ilom y to z) through an angle d,
+@+itI=x
+where ~ denotes ~,
+then since u, w, p, r, 6,
+Let us write u+iw=a, p+ir-b,
+and @ are small in a small oscillation and the parachute ia iymmetrica.1 about. tha axis of y, wo
+may write to a first approximation
+dx
+P=$jr=:i~=~
+
+X +;Z.= aE+bF
+L+ilV=aJ+6K
+where the generalized resistance coatlicients E, F, J, K are complex quantities,
+The above equations imply that if E= E, + iE2, etc., --
+
+El,
+X.-Z.
+==
+XP=Z, = F,,
+Lu= NW= Ju.
+~::
+;%10
+.
+Lvv=O,JLq~O, $
+
+.—
+
+Z.=– X.= E,,
+Zp =–X,
+=F;;
+NU=-l&
+N,=–L.
+
+=J2,
+=~,
+
+Z.=o, Zq=o,
+Nv=o, N.-o.
+
+It is on account of these ratations that the analysis for the symmetrical parachuts is
+simpler than that for an airplane in a straight drive. If, in fact, we neglect squ&ws of small
+quantities and use D ti denote the operatore $ the tit
+
+four equations may be written in the
+
+form
+
+Seeking a solution of the form a= aO@!
+
+[$(A-iQ) +E]~+(K+iQ~)A]-iJ
+
+x=X@
+
+[(~-@A+
+
+we obtain
+
+w]=..
+
+the period
+
+equation
+
+This is a cubic equation
+
+with comphxc coefficients for the det&mination of. h. When Q = o it reduces to a cubic
+equation with resl coaflicients for we have the relatiom Ea= o, F1= o, J1 = o, & = o.
+Remembering that in the generil cased .a rigid airplane the oscillations about a state
+of steady motion are determined by an algebraic equation of the eighth de&e, we infer that,
+in the present degenerate case our real cubicis a double factor of the octic and the periods and
+. decrements are the &e
+for ‘simple swings in two perpendicular planes through the axis of
+spmetry of the parachute,
+When Q = o a mat h =a +$ for which a is nsgative and B positive implies the existence
+of a damped oscillation in which the center of gravity of the parachute describes a curve on a
+vertical cylinder in such a way that it moves in a countercl@mke
+direction when the axes
+are left handed, TO see this we notice that u + {W is Of: “b fgrrg
+&%414) [~o~p(~)
+where R and ~ are real quantities.
+
++~ ~
+
+fj(~a)]
+
+This equation indicates that ~ increasee with t and since
+,
+
+---
+
+. ...
+
+;
+I
+
+,
+
+1
+
+STABILITY
+
+OF THE
+
+PARAOPXJTE
+
+AND
+
++
+
+COI?TER.
+
+7
+.
+
+the axis of z is to the left of the axis of z, the axis of y beingi~ownwards, this means that the
+center of gravity moves on the cylinder in the counterclockwise direction.
+The equation @+0 = XOe~”~@~
+implies that at the same time the axis of symmetry pre
+cesses around the vertical in the counterclockwise direction. If we disregard theverticd motion
+the character of the oscillation may be pictured by imagining a cone representing the parachute to partly roll and partly slide on the outside of another cone whose axis is verticaL
+Let us call this a potitive owi.llution sad use the term negative oscillation to denote one
+in which P is negative and the two motions take place in the cloclrwiae direction.
+Either a positive or negative oscillation can be regarded as built up from two simple
+swings in perpendicular planes, the two swings having the same period and damping time,
+but dtiering in phase by a quarter period. By combining two such swings with an arbitrary
+difference in phase a type of elliptic oscillation is obhiued.
+It should be noticed than au umdmnpedpositive oscillation may correspond to a n~ t~e
+of steady motion of the parachute. If such a motion exist it is characterized by v= o, g= o
+and the fact that the cubic equation has two purely imaginary roots.
+Thus cubic equation may be written in the form
+
+P+yv+zwx+z=o
+where
+
+Let k’ -M
+
++6 be a factor of the cubic, then a and 8 are determined by the equations
+J&P-e +%y+x’w=o
+
+–kd–ye+z-o.
+With the aid of these equations we can plot the curves t= cmstat
+since
+(&+%y+aw)
+(y+%) =Z
+‘
+a curve t= constant (a= constant) is a hyperbola.
+
+Whena=o
+
+this is a boundary of the region of stability in the (zjy) pkme.
+.
+
+in the (z, g) plane.
+
+it reduces to x=o, y= $ and
+The wndition for uudamped
+
+oscillations is, moreover, either x= o or y= ~s
+The asymptotes of the hyperbola t= constant are
+y+%?a=:and
+hencawhen d=-:
+
+wemusthave
+
+which is smalIer than –~~
+
+z=coy=cc.
+
+,%y+xw+4a9+:=o
+
+This means that we can not have a value of 8
+
+consequently when the time of damping is given the period p can
+
+not be greater than a certain limiting value P.
+If a be given it is clear that P increases with w and so it is desirable that w should be
+XUN.
+made as large as possible. This can be done either by making V large or by making X,–F
+u
+
+negative and fairly large,
+Now V is generally less than lg and ought not h be increased beyond this value, consequently the most hopefuI method of improving the stability of the parachute is to make
+x
+XUN,
+negative.
+It is probable that in the CsMhrop parachute this condition has been
+r –—
+iv.
+
+secured.
+
+–
+
+i
+
+8
+
+ANNUAL
+
+REPORT
+
+NA’iIONAL
+
+ADViSORY
+
+COMMITTEE
+
+FOE AERONAUTICS.
+
+I
+
+In Figure I the curves t=finstant have been drawn for two different values of w,
+It will be scan that when .W= .W the time of damping t h generally greater thari the period.
+This is sometimes the case even when w =.6, but by choosing x and yin a suitable manner ihis
+possible to make p greater than t. The importance of. a. ft&4y large value of w ia thus mahifest.
+In.&e study of the stability of the paraIs
+chute, Brodets& treatm the parachuta as. a
+circular disk attached to a weighted sticli and
+14
+
+..—
+
+.
+
+finds fr~m a condition .equivalent toy> ~that
+
+la
+
+the ceder of gravity must lie betwwm certain
+Iimita. The center of gravity must naturalJy
+be fairly low, and there seems no way if
+avoiding this except perhaps by attaching a
+ring-shaped balloon to the rim of the disk.
+The upii-ard thrust on “the balloon and the
+downvmrd force through tho center of gra~ity
+would then have as-their rwmltant a fore.c
+actihg through a point lowcr than the center
+of gravity, and thk point would art as tho
+center of gravity of tho parachute in the
+usual theory. Unless it could be combined
+with a helicopter in some way, tho combination of a parachute and torwidal balloon
+would be of theoretical interest only,
+finning now to the case in which Q+ O,
+we write
+
+12
+//
+10
+c!?
+8
+7
+II
+
+1
+
+“6
+
+I I Ml
+
+I
+
+I
+
+I I
+
+,,,
+
+ml+
+
+5
+
+1
+
+I
+
+I
+
+-.
+
+1
+
+1
+
+phenomena?
+
+The cubic equation
+~(l)s(J)+Q[(G+iH)
+
+may
+
+I
+
+i
+
+E= EO+Q (~+ti,)
+
+-.
+
+F=iFO+Q ~l+yl)
+
+J=iJO+Q (jI+ij,)
+
+I
+
+)1
+
+r
+
+K= KO+Q C4i W,)
++
+
+The additional terms involving Q givo
+the forces and couples arising from the Magnua effeet or ita inveme’ and from related
+ncnv be written in the form
+J’+(I+iR)A–i
+
+wti, +In+@[
+
+1=0)
+
+where
+
+G=
+
+Ael+wki.
+
+. . _?_. _.. ______ . . .. _.
+
+. . .. .
+
+.. —-_
+
+9
+
+To study the effect of rotation upon the oscillations let & al +i% al –@: be ~heo
+rOOtS
+of the equation .@(J)= o, 10and al being supposed negatilre and let U,+iro~ ml+trl~cz + Irl! be
+the quantities which must .be added W & ~1+ 4% al –“@~ res@Aii-ely, to give the corresponding roote of the equation *(1)= o. If a and r are both positive it means that the Mec.t of
+rotation is to diminish the period of a positive oscillation and to increase the time of damping t“
+-..
+
+.-
+
+_.=
+
+S
+ZFor the tied rd.sidWipons proprdler the Teohoicsl Report-sd the Britfah Advisory CommMee Ior Aemnmtlrs 191$!48, 101 -14,
+e$a
+and 1918.
+
+_.&
+
+____
+
+i
+
+STABILITY
+
+OF THE
+
+PARACHUTE
+
+AND
+
+L
+
+CJOPTER.
+
+9
+
+The effect on a negative oscillation is to increase both the period and the time of damping.
+The effect on a simple subsidence is to make it periodic and increase the time of damping.
+The effect of rotation when u and r are not both positive is easily inferred.
+In order that u,, u,, u, may all be negative and the damping times for the three disturbances associated with & al+ i131, l – @, all increased, it is necessary, but not sufficient, that
+a
+Q@, QI, and Qj2should all be positive. Now N.= JO+Qj2, hence it is necessary in the first
+place that the effect of the rotation should be to increase N.. The effect on the period is of
+some interest because in generaI the single period and time of damping associated with the
+two conjugate roots cq+i#i and ~ –if?,, will give rise to two different periods and two different
+times of damping; also a new positive or negative oscillation with a long period will arise from
+the simple subsidence associated with the root 1.. The phenomenon of the division of one
+period into two @ somewhat analogous ta that which occurs in the Zeeman effect, especially
+as we may have a compound oedlation buiIt up from positive and negative circular osciUatione of nearly equal period. The curves in Figure II give the horizontal projection of the
+Ca= of compath of the center of gravity of the parachute or helicopter ti two Pathh
+pound oscillations of tie abo~e type. ‘ti the
+first case the two component circular oscillations are undamped, in the second case they
+are both damped, the rata of subsidence being
+the same in each case. A complete discussion of the effect of rotation on stability is
+out of the question at present owing to our
+lack of knowledge of the values of the various
+resistance coefficients, but it may be worth
+while to ascertain the conditiom for stability
+by iimling the conditions that a cubic equation with complex coefficients may have roots
+In& IL
+whose real parts are all negative.
+t
+T& condIii.ion8hat a cubic equation with complex coej%ien$a may have the Teal parts of a?l
+
+. .-
+
+its roots neaaihe.
+The ~ethod given by E. J. Routh’ for finding the conditions that an algebraic equation
+with real coefficients may have the reaI parts of all its roots negative may be extended to the
+cme of an equation with complex coefficients.
+Let us consider the case of the cubic
+
+Let al- xl+ & %= ~ +iyzj %=% +iy*, and let the equation whose roota are –xl +iyl,
+- ~ +iy2, - ~ +iy*, be
+($+PI) (Z+l%) (z+&) =+
+P&+ Qx+R”.
+In Routh’s method the tit step k to fits iy for z and h separate the real and imaginary
+parti of the cubic, thus obtaining two exprmsione
+
+.-
+
+--
+
+@+ P,@–QY-%=i(I/)
+PI??+
+
+!W-TI=&(Y)
+
+The process of finding the greatest co~on
+me~we offl (Y) mdf, (y) must now be carried
+out, the sign of the remakder be% ch~ged at e~h stip j~t ss k Sturm’s theorem. h this
+way we obtain a series of polynomifi wh- fit coticients are
+
+--
+
+respectively where
+E =p,p& – gas p,rl +P1’ql
+-
+
+I=p1+2+?M – r&P~.
+In order thatr.q, ~, and ~ may all be positive .it is nemmry and sufficient that p,, H,
+and K shouId all be positive. The quantity K becomes zero when any one of the quantities
+Zl, ~, ~ becomes zero, it corresponds, therefore, to Eouth’s discriminant in the case of the
+real quartic. In teimii of “+, %, %, y,, y,, Y,, the mprwsiom for H ~d K are’
+H =AX2q +Bx8z, + @%,
+
+lYK=.zlqz,
+
+~w– (W-nA)
+
+(mA –?23)– (nzA-U3) (nB-mO) – (rd3-mC)
+
+B=(Z, +ZJ (2%+%+%)+
+
+c=(% + %)
+
++%)+
+
+(%0+%
+
+l=q(Y2–Y8))
+
+CC–ml)]
+
+(YS–Y,)’,
+(YI –Y2)2,
+
+~=q(y,–yl))
+
+n=%
+
+(Y1–yi).
+
+It is not evident from these expression that x,, x,, and z, are positive when p,, H, and K
+me positive; ~ also W K is of the eleventh degree in the cpntities ZI, zj, %, yl, Ya,YS,and is not
+the simplest function of the coefficients which becomw ~o when. one-f. the quantitim xl, +,
+~ is zero; consequently it will be worth while to find an alternative set of conditions which
+will make q ~, and Zgpositive.
+Let us consider thesprwsions
+
+To=(al +&) (a, +/3) (q +/3,) (% +13) (% +1%)(%+A) (%+&) (se+/%) (%+&)
+=w~w [(%+ze)’+(yz-yg)ll
+[(%+%)2+(%-WI
+[(%+%) *+(Y, -WI,
+S=[(q+/fI,)
+
+(a#+P,)
+
++ (% +6,)
+
+(al +/%)+
+
+(al+&)
+
+(%+ MIX
+
+[(%+Pa)
+
+G%+f%)
+
++ (%+81)
+
+(% +fu
+
+[k% +1%)
+
+(f%+Pa)
+
++ (% +A)
+
+(%+58)+
+
+(al
+
+UYZ-?JJ}
+
+{%+”% +uY&-Yl)}
+
+=4[z#,
+
++x#,
+
++z&]
+
+[{% +%+
+
++{%+%
+
++W8-YJ}
+
+{%+%+
+
+[{(%+%)
+
+–~(Y1–%)}
+
++ (al +m
+
+~(Y1-!/J}
+
+{%+%–~(Y2–Y8)}
+
++80)
+
+(%-+
+
+I%)IX
+
+(%+PI)I
+
++{(%+%)
+
++{%+%
+
++~(Y1–?/J}
+
+{%+%+
+
+~(?/z–Ys)}lx
+
+–~(Yz–Y3)} {%+%
+-i(ys-y,)}
+
++
+
+{%+%-~
+(Y8–YI)} {%+% -~(Yi-Y2)}l,
+S’=[(%+P2) Q%+l%)+ (%+1%) (al+l%) + (%+1%) (%+/%11x
+[(%+68) (%+M +(%+62) (%+s1) +(al+fil) (%+/%)1 x
+[(% +Pl) (% +%)+ (%+8s) (% +62)+(% +/%) (% +1%)]
+~4zJz,
+
++zJ
+
+[4z&+%)
+
++ (z,+%)’+
+
+(%-m
+
++ (%+ %)’+
+
+[4K(%+%)
+
+-f@z+%)z+
+
+(Y2-YJZI
+
+x
+
+(Y1–YM
+
+pi=%+%+%.
+
+It will be noticed that the second ~d third factors of S we conjugati
+compkx
+quantities
+and so their product is a positive quantity. If k“ clem- theri that if p,, S, and T are all positive, the quantities
+%+%+%,
+%%+%%+%%, %%4
+are aU positive.* NOWlet xl, ~, and % be regarded w the dhtancea of a point from the sides
+of an equilateral triangle. This is legitimate since ~ + ~ + ~ is positive. Keeping this
+last quantity constant a pokt cm be Wed to reprment auy possible set of values of A, X2,and
+~ whose sum has this constant value.
+Now when %Za
++“- + zl~” k positive the reprwentative petit ~w wii%.u the circumscribing circle of the trhmgh ~d wh~ Z+IAXS positive the represmtative point lies within
+is
+-..
+lSeanote L
+I h the ease of the quedmtio a-%+%
+
+and zw m both pOdtfVO
+sWhau thfse qtities
+
+H-WI
+
+K%+%)%
+W-PNI-PIIM-%%11%.
+
+W8 PCtiftiV8.
+em W WKMIV8 b also PO?MVfh
+@
+
+old tit
+
+W.WWDtb
+
+ZI fdld
+@
+
+w~
+
+PI ad
+
+H em PcWve
+
+it is evfdenttiwt ZI+M
+
+i
+
+STABIIXTY03’THE
+
+PARACHUTE
+
+AND
+
+11
+
+WCM)PTEB.
+
+one of the four regions bounded by lines making an aoute m$ijlewith one another. It is clear
+then that when %+% +x,, %z2+%%+%% ~d zl%z, are all positive the representative point
+must lie within the triangle and ~, ~, ~, be all positive.
+To express S s.nd 1’ in terms of the ooeflicients we notice that if two of the quantities
+~j %, ~ me ~~rch~ged> or if two of the qu~~~=
+&7 I%,I% me in*~angedJ
+S iS ~-formed inta N. Hence we are justified in assuming that there is an identity of type
+
+t!-@=?cA
+where
+A = (a,–%)
+
+(%–cc,) c%–%) @,–/%) (&–1%) @,–~,)
+
+Comparing coefficients we find that k= -1.
+Writing. S in the form
+
+where
+
+.
+
+.- —
+
+u=(@,+%!3,+48) +%/3 %%) +%/%+%/%)
+(%JZ + (%/%
+
+we resume that
+– U+ ~A =ArR +B(rPQ +Rpq) + O(TP’+I@’) + DPQpq+ EpW + F(p’PQ + P’pg)
+
+“
+
+Determining the unknown coeilicients by putting
+(1]
+
+a’=o, &=o,
+
+(2)
+
+/32=%
+
+(3)
+
+%-%2
+
+(4)
+
+B1=62 =1%,
+
+—
+
+l%=%
+
+91=02
+
+we find that
+
+A=-%,
+
+B=;~
+
+C=–1~
+
+D=-;~
+
+E=o,
+
+F=O.
+
+Hence finally
+
+A’= (p’q’ – 4p%+ 18pqr - 4f – 27P)
+
+(P2Q’–4F’R+ MPQR-4Q’ –27R’)
+
+Writing Tin the form
+
+T= (q’+ Pq2+Qq+R)
+we wily
+.
+
+(q’+pq’+Qaz+R)
+
+(q8+%a+QCY.a+R)
+
+find that
+
+T=@ + R’ + Pr’q+ pR’Q +Qrq’ + qRQ’– 2Qpr’ –2qPR’ i-31W+ 3B2r+ Rgs+rQg –3Rpgr –3rPQR
++P’pr’ + p2PR’ + Par’+ p’R’ + PQpqr + pqPQR + P’Qqr + p’qQR + PQ’pr + pq’PR +P’Rg’
++p;rQ2–2P2RPT– v’TPB
+– WPQ –3B2pq– QRpr – grPR – 2q’QR –2Q2qr.
+
+o
+
+—.
+

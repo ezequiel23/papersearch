@@ -1,0 +1,464 @@
+—
+
+REPORT
+
+No.
+
+109
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS,
+IV
+By ‘W. l?. DU5ANI)
+
+and ~. ~. LESLEY
+
+Leland Stanford Junior University, CaIifmnia
+
+.
+
+.
+
+REPORT No.109.
+EXPERIMENTAL
+By W. F.
+
+DUR.ND
+
+RESEARCH
+
+ON AIR
+
+PROPELLERS
+
+IV.
+
+and E. P. LESLEY,
+Leland Skmford Junior Utivemity.
+
+EW!3ODUUC1ON.
+The purpose of the im-esti@ions
+on the performance of air propellers described in the
+following report -was the e.xt.ension in certain directions of the field covered by the previous
+instigations
+(Reports ATOS.14, 30, 64) and the kst&u of certain special forms.
+The forms included under the present report are characterized as follows:
+
+d
+feet.
+~PIanerivingface 17”-10
+
+~ Plane dri-iingfact 21’40 feet.
+
+It wi.U be noted that propellers 139, 144, 145, 146 are similm in dl respects to hTos. 3,4,
+1, 2 of Report No. 14 except in pitch ratio which is here 0.3. These forms thus ser~e to extend to this pitch ratio the various results cowr~~
+thrust and torque coeficienk.
+and efBcienq-, for the four families represent~o
+the combination of these k-o blade forms and blade
+areas. These results, together with those pretiousl~ tested, thus give a series of values in
+each of the four families for the SLYnomimd pitch ratios, 0.3, 0.5, O.T, 0.9, 1.1, 1.3.
+Propeller 148 is of form No. 2 (Report No. 14), or with cumeii and somewhat tapering
+lts mean width, however, is 0.25r or 25 per cent. greater than the & of Report hTo.
+outline.
+14. Propeller 150 is of form No. 1 (Report ATO.14), or with nearly straight parallel sides, and
+has ako a mea-n ~dth of 0.25r. These two propellers serve, with the two mean -widths preciously reported orL, to give two series of vaIues for vtim
+blade area correspomling to mean
+widths, resipectivel~, of O.15r, 0.20r, 0.25r.
+Propellers 151, 152 are of form and area the same as F, A, of Report h’o. 14, but with
+fzce Hat or umvarpeii.
+For propelIer 151, the blade is set at such an ang~e as to give, at the
+13-inch radius, a pitch of 25.2 inches, or the same as a O.T pitch ratio propeller of 36 inches
+LIia.meter. For propelIer 152 the blade is sek to give simiiarly, at the 13-inch radius, a pitch
+of 32.4 inches, or the same as a 0.9 pitch ratio propeller of 36 inches diameter.
+PropeIIers 142 and 123 have a section and pitch identical -with propeller No. 1 of Report
+No. 14. They have contoum, however, as shown on plates 1, 11, the sections being distributed
+aio~~ a c~cloidal curve instead of a radial IineJ as in the case of No. 1. These forms were
+inte~ded to test certain ideas submitted to the committee by Brig. Gen. H. H. C. Durrwoody
+(retired).
+691
+
+—
+
+682
+
+AhT2iTJAL REPORT
+
+NATIOATAL
+
+ADVISORY
+
+RESULTS
+
+OF
+
+COMMITTEE
+
+FOR AERONAUTICS.
+
+TESTS.
+
+The various results are given in the form of curves of the thrust and torque coefficients
+T tind Q and efficiency p.
+The thrust and torque coeflkients are defined by the equations
+(1)
+(2)
+
+(3)
+The introduction
+of the factor g serves to render the coefficients nondimensional
+and
+thus indepenchmt of the system of units employed, provided they are homogeneous.
+The values of Tc, Qc, and p thus defined are given on curve sheet diagrams Nos. III tu
+XII.
+L
+
+DISCUSSION OF RE~ULTS.
+
+AS WOUM be expected, the efficiencies given by the propellers of 0.3 pitch ratio are so dieplaced relative to the vaIues of lT/ND that for low values of this abscissa the sfliciency is
+higher and for high values lower, as compared with the efficiencies with forms of higher pitch
+ratio.
+The maximum efficiency reached, however, is definite~y less than those for higher pitch
+ratios, thus f alIing in general line with the results for the series of pitch ratios 0.5, 0.7, 0.9,
+1.1, 1.3.
+The wide blade forms 148 and 150 have efficiency curves failing somewha~ below those
+with Iesser area but with similar forms otherwise, thus indicating the increasing influence due
+to skin resistance.
+These efficiency curves have, however, a somewhat lengthened range, corresponding to the increased vake of the dynamic pitch.
+Forms 151 and 152 show efficiencies definitely below those for the most nearly related
+helicoidaI forms.
+Over the workiug range, however, the differences are relatively small and
+the tests indicate the close degree of approach to heIicoidal forms rezdized by these nonwarpcd
+blades,
+I?ropcllers 142 and 143 show efficiency torque and thrust curves very similar to those
+for propeller No. 1, Propeller No. 142 having a convex leading edge, bends uncler Ioad in such
+This operates to give, as it shoulcl, a somewhat lower maximanner as. to decrease the pitch.
+mum efficiency tham for No. 1, but somewhat higher effkiencies for large values of the slip
+(low values of V/ND).
+On the other hand, propeIIer No. 143 with concave Ieading edge increases in pitch when
+under load with the corresponding result of showing a somewhat higher maximum efficiency
+as compared with No. 1, but definitely Iower efficiencies over the working range of moderate
+to small values of V/ND.
+
+EXPERIXE&”TAL
+
+RESEARCH
+
+ON
+
+ME
+
+PROPELLERS,
+
+683
+
+IV.
+
+Sz-wfoa uJw45RsiTY
+AEJ$CA3Y)r!!iC
+iABOh%?TCKY
+PmPEL LER /42
+.9P, S,A,F,
+.Me Promlkr ~o.f
+in0//
+respeci%excepf
+BladeConfm.
+
+PLATE L
+
+ST%AffORL2
+@W@RS17Y
+ALCEzWYN~lCiAB0hXi72Ry
+FROPiELiL5R
+14.3
+.9P,S,
+A,F,*
+L?re
+
+h
+
+ol[r-s
+
+Prop&/ler-hfo.f
+excepf
+
+E&de Cmfwr.
+
+PL.iTE11.
+
+I
+
+684
+
+ANNUAL
+
+REpORT
+
+NATIONU
+
+mmORY
+
+COMMITTEE
+
+TOR AERONAUnCs.
+
+N>
+P L.4TE
+I\’.
+
+PLATE V.
+
+EXPERIXEXTAL
+
+RESEARCH
+
+ON
+
+Ml% PROPELLERS,
+
+N>
+PLATE V 11.
+
+IV.
+
+685
+
+.
+&36
+
+ANTNLTAL REPORT
+
+NATION”AL
+
+AD\71SORY
+
+COMMITTEE
+
+FOR
+
+.kERf3hTAUTI(X; .
+
+I
+
+t
+
+I
+
+I
+
+STANFORD UNAZRS17Y,4L2?ODW4WCLAL9@?A[0/?Y
+.
+
+PROPELLER /.5/
+.
+
+. ~= W
+q. ZjK&
+
+.-
+
+._
+
+AJ= [ffi?!ency
+/9
+
+L9 —
+
+/!8
+
+—
+
+—
+
+[8
+
+–
+I
+8—
+I
+I
+
+L7
+
+I
+I
+k6 —
+
+—
+
+—
+
+—
+
+—
+
+L5
+
+/.5
+
+14 —
+
+I
+I
+I
+I
+I
+
+~
+L3 —
+
+—
+
+“22—
+
+--- . —.— .——
+—.
+.
+
+—
+
+Q“~/ —
+Q
+b
+$ /0
+Ku
+
+—
+
+—
+
+I
+I
+
+1
+.-..
+—
+
+c .9
+.8
+
+8 —
+
+—
+
+—
+
+7
+
+.? —
+
+—
+
+—
+
+.6
+
+.6
+
+,5
+
+5 —
+
+,P
+
+—
+/
+
+.4
+
+.4
+
+.3
+
+3
+
+.2
+
+{
+
+“2
+
+./
+
+./
+k
+
+.0
+
+.0
+
+./
+
+.2
+
+.3
+
+,4
+v
+N7
+
+PLATE
+VIII.
+
+PLATE X.
+
+.5
+
+&
+
+7
+
+‘%\
+
+,8
+
+g
+
+EXPERIXE~TAL
+
+RESEARCH
+
+ON - _
+
+~ROPELLERS,
+
+IV.
+
+68T
+
+.
+
+q
+
+5Q8?-
+
+q
+
+688
+
+AITiWJAL
+
+REPORT
+
+NATIONAL
+
+AD~ISORY
+
+COMMITTEE
+
+FOR AERO~AUTI(’S.
+
+.
+
+EXPERIMENTAL
+
+RESEARCH
+
+ON
+
+AIR
+
+PROPELLERS,
+
+IT.
+
+689
+

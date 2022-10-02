@@ -1,0 +1,940 @@
+FII
+
+L cO PY
+NO 3
+
+I ~V"'"'1 /f'1I
+fl... ~ i_
+~
+r
+
+-'
+
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+TECHNICAL MEMORANDUM
+
+SIMPLE MEANS FOR SAVING FUEL ON TRAFFIC FLIGHTS.
+By
+
+E. Kook.
+
+Translated from
+fllr Flugtechnik und Motorluftschiffahrt.
+Vol. X, Nos. 17 and 18.
+
+II
+
+FILE COpy
+To be returned to
+
+REQUESTS fO~ PUBLIC TIO«
+AS FOllO\\3
+S SHOuLD IJE ADDRESSED
+
+the flIes of the National
+June, 1921.
+
+Advisory Committee
+
+for Aeronautics
+- .
+
+:'0
+"
+
+t
+
+,l,lI\D~ISORY CO"'MITTEE roR. AC'PO.JAUTlr
+TIl' ~T. N ~(,.
+
+WAS., ~. ~
+
+('.c.
+
+~
+
+.,,,
+
+Washington; O. C.
+
+105.3-1
+
+SIMPLE MEANS FOR SAVING FUEL ON TRAFFIC · FLIGHTS. *
+By
+E. Kook,
+Many of the :war airplane s are not suitable for traffic·, because they have been one-sidedly developed for definite war
+purposes (climbing, for e~ple, and flyin~ at high altitudes)
+and are incapable of rendering traffic service with eo·onomy of
+~Uel.
+
+The latter qualificati on was considered important only
+
+for airc-raft, like seaplanes, requiring a large radius of action.
+The follow.ing experiments are intended to show how e»isting airplanes; Quilt for war
+
+p~rposes,
+
+can, by simple means, re ···
+
+duce their fuel consumption and thus become better adapted, for
+traffio purposes,
+
+The experiments described were performed at
+II
+
+.
+
+the seaplane experiment stati on at Warnemunde, and. with the
+ex.ce.pt ion of some of those de scribed.. in Sect ion I, were conducted
+by the· author,
+I. Flying with Throttled Engine.
+By · flying with/" throttled engine a.'1d at less than the maximum
+
+flying speed, the fuel consumption is greatly reduced in proportion to the distance· flown.
+
+Regarding the amount of this reduc-
+
+tion, no exact data · have thus far been available.
+are even ignorant of the fact itself.
+
+Most aviators
+
+They nearly always fly
+
+* From "Zeitschrift f"llr Flugtechnik und Motorluftschiffahrt.
+Sept ember 27, 1919, pp 183-185.
+
+1I
+
+-
+
+wi tj,l a smal l
+· The
+
+m~mum
+
+degl~ee
+
+g -
+
+of ·throttling, but only to spare the er.gine.
+
+utilization of this simplest means of saving fuel is
+
+desirable, in spite of the consequent speed reduction, for many
+traffic airplanes, . in the event of a head wind, for
+
+em3.mple~
+
+and
+
+on long trips to distant regions without rapid railroad:. comnmn ication • .
+F ig. 1 shows,
+(r.p.m.)
+
+n,
+
+i1vi~h
+
+relation to the changed engine sp eed
+
+the flying speed; V
+.
+
+and the hourly fuel consumption
+measure~
+
+by suitable
+
+methods~
+
+at 500 meters altitude.
+
+~
+
+(with relan on to the air)
+
+'B
+
+of a seaplane', which were)
+
+during ca reful
+
+\
+
+hori~ontal fligh~
+
+gives the fuel consumption,
+
+this airpl'ane for one kilometer is still air (Fig. 2)
+
+j
+
+b R,
+br
+
+of
+di-
+
+vided by the total weight or by the useful load (available carrying capacity) gives the fuel consumption respective.ly per total or per useful ton-kilometer.
+According to the eXperimenta, the value of
+
+bR
+
+the highest r.p. m. and flying speed rapidly at fir st
+
+· drop~ . from
+
+(so that
+
+even slight thrott.ling results in a comparat ively large fuel
+saving with only a moderate saarifice in speed) down to the
+r.p. m. and flying speed at Which
+possible and below which any
+airplane to fali.
+
+hori~ontal
+
+~urther
+
+flight · is only just
+
+reduction would Cause the
+
+For the airplane.· tested, this was when
+
+had dxopp e d to about 1100 r.p.m. and
+
+V
+
+n
+
+to 90 km. per hour.
+
+The .throttling should, however .. for the sake of safety and )ease
+in st e ering, never be carried to this l .imit, but . only to a certain higher speed.
+
+(In this instance
+
+n:: 1200,
+
+V:: 110 km.
+
+pe r h ou r .)
+
+At t i1 e lowe r l im it of tn is !!practical
+
+tT
+
+throttl i n g
+
+(with about 20% lower flyin g speed)~ the fuel consumption per
+kilometer of flight is ~7% less than with wide open throttrle and
+m~imum
+
+flying sp e ed.
+
+Similar results were also obtained with
+
+other airplanes .
+For economy pf engine power alone, throttling is disadva..-rltageous~
+
+since the specific consumption
+
+per work unit in-
+
+creases with the decreasing revolution speed, on account of the
+acaompanying dec~ease in load (in about the third power), as
+shown approximately by Fig. 2 (according to bench tests).
+
+The
+
+propeller efficiency suffers no substantial ohange ' from tha
+throttling, since (according to Fig.
+flyill~",'~pe eci
+
+are nearly proportional.
+
+1) tne revolution spe eQ and
+The favorable result can
+
+hence be attributed only to the charaoteristics of the particular airplane and must be due to the fact that its head'. resistance diminishes with its speed.
+
+If the head resistance remained
+
+constant, the en gine effict eno.y would diminish only in proportion to the speed., vlhile the propelle r thr ust and the energy
+consumed per kilometer w.ould remain the same, a o likewise the
+fuel consumption .
+(bR )
+
+As a matter of fact, the fuel consumption
+
+per km. di minishes, with the diminishing speed (Fig. 2') and~
+
+at the same time, the head res i stance:
+
+W must diminish stl 11
+
+more, on acc.mmt of the diminishing efficienqr of the transformation of the " fuel into mechanical energy.
+This real It is in accordance with the fundamental principles of aerodynamics .
+
+With throttling and diminished sp e ed, the
+
+air resistance, would c;3come l ese, out aIm the lift
+portion to the square of the
+
+latter~
+
+andh0ri~ontal
+
+A,
+
+ir~
+
+9:::-0-
+
+ilightt would
+
+be no 1 ouge r po S sib Ie I unle s s , at the s arne time., tho a i rp lane
+were given a greater incidence, so that the lift -,vou1d remain
+the same.
+
+He:::-eby
+
+W
+
+ing, however, like
+
+is further increased., witr:out its attainthe same value ad wi til unt:i.1rottlGci. speed.
+
+A,
+
+The gliding angle
+
+(cp == W)
+A
+
+also becomes more fav orable.
+
+According to experiments with models, every supporting surface and also every airplane' has a most favorable incidence
+
+f
+
+(Fig. 3), for wh ich the lift car! be obtained "vith the leaEt resistance.
+value.
+
+Thus
+
+W
+A
+
+and the angle
+
+¢
+
+in Fig. 3 have a minimum
+
+Any other ~'1g1e of incidence is less .~ f'avor.a1);te.
+
+Fig. 3 shows th e lift curve in the known repre sent at i on
+vlith the indefinite lift number
+A
+
+=
+
+c
+
+cal
+
+with which
+
+:2
+
+xY xFxX
+a
+2
+g
+
+With diminishing
+
+ca
+
+(v is given here in m. per sec.)
+
+the speed. must incre ase according to its
+
+square, so as'ito keep the lift constant (Fig. 4) .
+The most advantageous utilization of power and fuel would
+now be obt a ined, if this most favorable angle of inciQenCffi for
+the normal
+
+~eed
+
+were made the basis for the
+
+traffic aixplanes.
+
+m~mum
+
+speed of
+
+This is impossible, however, for the reason
+
+that then, with lower speeds, the drag and propellex thrust
+would have to be increasedfDr the same lift, according to li'ig. 3;
+slow horiz ontal fli ght wit h throttled engine would be altogether
+impossible on aocount of the
+
+conse~ent
+
+decrease in the moment
+
+- 5 -
+
+of torsion and propeller
+
+~hrust;
+
+power for starting and olimbing;
+
+there would also be no reserve
+and~
+
+furthermore I for readily
+
+understood l'easons, the least loss of speed. (with f) vvould be
+disastrous for landing.
+
+In building airplanes, a
+
+smaller~
+
+less
+
+favorable a.Ylgle of incidence must therefore be ad.opted, in orde :r
+that the most favorable angles of incidence (with diminished
+speed) may be rese rved for landing and climbing.
+
+This relat ion
+
+is the principal source of fuel saving per kilometer, through
+throttling. '
+For climbing and landing, henoe also for angl es of incidence
+near
+
+f,
+
+,only limited speeds are pra.c.tioa.ble, whioh can not be
+
+much higher for swift airplanes than fur slow ones.
+therefo~'e,
+
+The greater,
+
+tile niaxdmum speedt of an airplane is" just so much
+
+less favorable angles of inoidence must be employed in the lower
+part of the curve in Fig. 3.
+tle ' range and
+
+oonseq~ent
+
+For this reason, a greater throt-
+
+fuel saving can be attained
+
+wi~h
+
+swift
+
+airplanes than with slow ones, though with a greater sacrifioe
+' of speed..
+II. Carburetor Adjustment for Most Economical Fuel Consumption.
+Most of the present
+
+air~lane
+
+engines are adjusted more
+
+with referenoe to their greatest possible output, than for economy in
+
+~uel
+
+consumption.
+
+This was demonstrated by the experi-
+
+ments (Fig. 5) in which only the size of the fuel
+
+noz~les
+
+was
+
+changed, wbile the engine speed (r.p.m.) and throttle remained
+the same and the air intake nearly so.
+
+The total fuel
+
+consump~ "' _
+
+- 6
+tion and the r i chness of the carburetor mix:ture increases with
+the size of the nozz;les.
+
+The highest engine efficiency is ob-
+
+tained in the vicinity of nozz·le
+
+a,
+
+with a certain minimum in-
+
+take of fuel, and the engine was adjusted on this basis at the
+factory.
+
+A larger int'ake than this does not further increase
+
+the eff ic.iency > since the intake of air is insufficient fo r the
+combustion of a larger amount of fuel.
+
+Conse~uently
+
+the excess
+
+of fuel is wasted, as shown by the rapidly rising specific consumption
+
+b
+
+pel' HP.
+
+By still further increa.sing the size of
+max~mum
+
+the nozzle and the fuel intake, the
+
+efficiency is again
+
+reduced, for reasons not to be discussed here.
+intake than provided for by nozzle
+
+a
+
+A greater fuel
+
+never comes, therefore,
+
+int 0 pract ical cons ide rat ion.
+On
+
+the contrary, smaller
+
+ably higher efficiency.
+
+noz~les
+
+than
+
+a
+
+give a consider-
+
+The total fuel consumption diminishes,
+
+the quantity of air is unchanged and the mixture is correspondingly poorer.
+
+DOVffi
+
+to a certain limit, the engi. ne efficiency
+
+is hereby increased, simply because the chemical combustion is
+more complete .
+The
+
+m~mum
+
+The fuel consumption per hT
+
+therefor~
+
+falls.
+
+output can, however, no longer be obtained, since,
+
+on account of the smaller total intake of fuel, less is now
+burnt, notwithst anding the sufficient supply of air.
+
+The output
+
+does not, however, drop so muoh on this acc.ount as the fuel intake, since, as already
+nov! improved.
+with
+
+noz~.le
+
+mentione~,
+
+The minimum
+d.
+
+the practical efficienqy is
+
+~ . ecific:
+
+fuel consumption is reached
+
+The reduction in the size of the nozz:les mus;
+
+I
+
+nevertheless.., not be carJ1"ied so fa!.' in practice, since most aviation ·engines. then have a tendency to backfire, as EOmetimes also
+when the engi. ne is cold, and in cold damp weather.
+
+This re sult s
+
+from the intake of new gas into the cylinder while the residue
+of the pre-vious charge is st ill burning, on account of the slow'
+combus.t ion rate of the poor mix:ture .
+
+A certai n safety margin
+
+must be maintaineciL with reference to this. back:lfiring limit, so
+that smaller nozz.les than
+
+c
+
+are not practicable.*
+
+The war-airplane engines are now mostly adjusted for
+
+mi~-
+
+. tures capable of giving the greatest output in energy and with
+. f~el nozzles in the vicinity of
+
+a.
+
+is 'attainable by readjusting them at
+
+A fuel saving. up to 8%,
+c.
+
+The
+
+conse~en~
+
+output
+
+· sacrifice is 9%. on account of the simultaneous decrease in the
+revolution speed of the propeller, which may however be reduced
+to' only 6% by employing a new propeller with the former revolu..
+
+·tion speed.
+
+With
+
+sup~rcompressed
+
+engines, it is possible, and
+
+usually allowable, to avoid this entirely, by a corresponding
+increa's e in ga.s intake.
+This readjustment for a poorer fuel
+
+mi~ure
+
+greater heating of the engine, espeoially of the
+on account of the slower combustion.
+
+reEUlts in a
+e~aust
+
+valves,
+
+For moEt engines, however,
+
+and care a11owabl!i3' limits.
+* The minimum fuel consumption occurs in a mi~ture containing
+1 . 2 times, and the maximum output (corresponding to noz~le a)
+about 0.8 of the chemic~ ly re~uired air ~uantity - according to
+Strombeck, E~periments with Automobile Engines (Untersuahungen
+an Automobilmotoren), "Oelmotor" 19l3-14, and Neumann, Researches
+(Forschungsanbeiten) No. 79.
+a
+
+...J
+
+This readjustment
+from the airplane .
+this connection.
+
+rr~y
+
+8 -
+
+be made, without removing the engine
+
+Consumption increases are not necessary in
+The object may be attained, by successively
+
+trying smaller nozzles (w.ith a cold engine), down to the backfiring limit, and then adopting, for ultimate use, a nozzle
+somewhat larger than the one found to be the limit, for the sake
+of the above menti. oned safety.
+'The behavior of over-compressed engines is fundamentally
+the same (Fig. 4).
+
+The adjustment must be made w:ith the engine
+
+throttled for normal sea-level horsepower.
+Aviation engines correctly regulated for gasoline are in
+all Cases. nearly correct for benzol, as demonstrat ed by many experiments.
+According t
+
+0
+
+t~e
+
+above, there is a goal for progre ss in the
+
+possibility of employing poorer · mixtures without danger of backfiring.
+this.
+
+We can not now go into the methods fo r accomplishing
+Furthermore, according to comparative tests, most carbu-
+
+retors are capable of improvement with respect to the thorough
+mi~ing
+
+of air and fuel, which is essential for minimum fuel
+
+consumption.
+III. Over-compression.
+Most present-day engines, at least nearly all of those built
+since 1917, employ more or· less over-compression, for lessening
+the falling off of engine power with increasing altitude.
+
+Only
+
+because in this connection, on account of the small heat evolution, the temperature of the walls of the combustion chamber
+
+(as \i\ell asthat of the surrounding air) is lower, can the compression ratio be increased, Vlithout danger of pre-ignition.,
+
+The
+
+higher crompression ratio causes a diminution of fuel consumption and an increase of the average pressure, though the latter
+can be fully utilized only above a certain altitude.
+
+On the
+
+ground and at the low altitudes for air traffic, such an engine
+must be so strongly throttled, that the hea'bing of the walla from
+the high compression remains. corresponct.j.ngly low,
+With moderate over-compression ( c ~ 5.8), it is usually
+sufficient to throttle down to the same sea-level horsepower ob'~ained
+
+under normal compression
+
+~
+
+"'" 5
+
+with throttle wide open.
+
+stronger over-compression requires further throttling to a smaller sea-level horsepower.
+
+This is a disadvantage for air traffic
+
+at low altitudea, because the unit weight is thereby increased,
+even when the engine is over-dimensioned to correspond. to the
+smaller maxdmum pre ssure rea.u1 t ing from the smaller middle pre ssure.
+
+In contrast with the increased horsepower and in spite of
+
+the throttling, there is still the advantage of smaller specific
+fuel consumption, even at sea-level.
+
+According to Fig. 4, there
+
+is a fuel saving of 6% with an over-compression of
+as compared with the normal compression of (
+
+= 5.
+
+E:
+
+= 5.8,
+
+Consequently,
+
+even for air traffic engines, the retention of original application (through taller ~ylinders) of over-compression comes under consideration, but only to a certain limit not muoh higher
+than the above-ment ioned value, which can not here be more definitely determined.
+
+Not all engines can stand over-compression,
+
+"" !I.O -
+
+or at least n ot equally v
+/ell.
+
+In types w
+:ith insufficient coo::i.-
+
+lng of the hottest parts of the walls of the oombustion space,
+spark plugs,
+
+e~aust
+
+valves and cylinder bottoms, the permissi-
+
+ble normal aompresmon for complete charging at sea-level can
+only be small and, for this very reasoD. it is, with this type' of
+engines, often raised to the limit where spontaneous
+occurs,
+
+~ombustion
+
+In such a case, even a slight over-aompre s sl on is only
+
+made pOssible by such strong throttling, that its practical applioati on is out of the que st ion.
+The
+
+ben~ol
+
+fuels, which are of preponderant importance for
+
+air traffia, are less sensitive in this way, sino'e they ean
+stand a higher compressi on than gasoline, on account of their
+higher kindling temperature and slowel1 <.rombustion rate:.
+ACQording to war experience, no disadvantage arose from moderate over-compression and there islikewise none to be feared
+in air traffio.
+
+For avoiding exoessive stresses, care must be
+
+taken to render even the temporary delivery of "altitude ga s "
+above sea-level horsepower impossible.
+Engines with strong over-compression are somewhat sensitive
+only to a sudden stopp ing when heated from running under full
+loa~
+
+W
+ith the last revolutions there then occur, in spite of
+
+the switching off of the electric ignition, violent self-ignitions
+which Cause back strokes of the engine with strong stresses.
+This is however prevented when the stop is made gradually, as it
+should be for any aviation engine, after it haSrun empty for
+several minutes and become partially cooled.
+
+- 11 IV. Choice of a Suj.table Propeller for Horizontal Flight.
+t
+
+Many war airplanes have propellers
+sided climbing ability .
+
+~dth
+
+more or Ie ss
+
+0:n6 - '
+
+These wOrk at a disadvantage' in hO:Liz.:m··
+
+tal flight and thereby inorease the fuel consumption.
+In climbing, the flying speed is much slower than in horizontal flight
+wise less.
+
+~~d
+
+the revolution speed of the propeller is
+
+lik~­
+
+For obtaining the greatest climbing efficiency, pro ..
+
+pellers were employed which, even with the low
+
+~limbing
+
+speed,
+
+had, almost the ma»imum allowable revolution speed. and climbed
+with a good degree of efficiency.
+
+In
+
+hori~onta1
+
+flight) these
+
+propellers vlorked with an unfavorably high revolution speeQ., both.
+for the engine drive and for propeller efficiency.
+~
+
+A greater
+
+flying speed and a more efficient utilization of the fuel is obt ained with propellers which, in horiz-ontal flight, have only the
+mahimum allowable revolution speed.:. (about 1400 x.p .. m. for fixmd
+engine s) w.i th good efficiency.
+
+Only suoh propelle rs are aui ta-
+
+ble for air traffic'.
+Summary.
+By
+
+flying \7!ith throttled engine and diminished
+
+speed~,
+
+with-
+
+out reference to the wind, the fuel consumption is lessened and
+all the more with stronger throttling.
+planes with a low
+
+m~imum
+
+In experiments on air-
+
+speed, throttling within
+
+pra~tica1
+
+fly-
+
+ing limits resulted in a fuel saving of 17%.
+Over-compression should be employelli on air traffic engines,
+for the sake of the fuel eoonomy thereby attainable.
+
+- 12 -
+
+.
+
+t
+
+,
+,
+
+A
+
+The carburetor s of ~ost engines can be adjusteQ so as to
+save
+
+. ,
+
+fuel~
+
+with only a slight sacrifice in power.
+
+Speed propellers are the
+
+mos~
+
+economical for air
+
+traffi~
+
+a1rp~anes .
+
+Translated by Nati onal Advioory Committee for Aeronautics.
+

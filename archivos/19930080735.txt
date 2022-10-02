@@ -1,0 +1,575 @@
+,. ...
+
+d
+
+c
+
+r
+
+..
+
+/
+
+-..
+
+,-.
+
+,.
+
+A
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+..-
+
+.-
+
+--83
+
+.,,
+.
+
+----
+
+NATIOHAL ADVISORY C(XCriITTEE ~QNALZIIOS.
+FOR
+
+I
+
+EiESUWI THE THE(XY OF NAVAL AMD JUZUAL PROPULSIVEPROPELLEM
+W
+AND W’
+AIRPL& AS IN RECTILINEARFLIG~ .
+By
+.
+
+A. Rateau.
+
+,
+
+T&ken from 1‘Academle dss
+
+%
+
+Ienoe
+a,
+
+June 7, 1920,
+..
+
+,
+
+.
+
+/’
+Wa-w,.r.k.<
+
+,
+
+n.
+
+. .
+
+..
+
+. .
+
+April, ltiill.
+
+J--
+
+..
+
+..-.
+
+pql~ll’mimiiiJiJfpl
+~
+---—— __.
+-—.
+.-—
+. ..
+
+___!
+
+,!
+
+REs” OF THE .TBERY OF NAVAL AND AERIAL PROPULSIVEPEKWEUERS
+C
+UME
+
+I
+
+1.
+
+A?!’?!’
+w
+
+I
+
+I
+~-
+
+-
+
+-.
+
+-AIRPLANES . ..-,.- . FLIGET.
+IN“
+RECTILIICEAR
+.
+
+“
+
+I
+
+i“
+I have the honar to present and dsdioateto the Aoademy
+the mmrk on the theoq~ of propulsivepropellersand m the
+theory of airplanes tiioh $s about to appear. Though dissimilar, these two subjeotshave been unlteci
+because they I@ve some
+points in Ooamlon,The .computat of the movement of an alzian
+plahe oan only be oorreotlyestablishedif m are in a positim
+to how exactly the thrust and resistingtorque of the propeller for the various values
+
+of slip, whioh may vary greatly
+
+aocordlngto eiroumstanbee.
+In the seoond part I have reproducedthe four Papers present to the Aoademy of Sciences in June and July, 1819, and
+ed
+have added several developments,especiallyon the ohszaoter-
+
+.
+
+1etIp ourves of airplanes. I would oall attentionto two disqontinuit
+ies fairly .of en pre&nted by these oumes, one prevt
+iously mted.~ at large tnoidenoesgreater
+
+tham those used in
+
+.Cpraot
+Me; the other, on the oontrary,at enuill
+inoldenoes.
+. .
+These disoontinuities olwuigee in s=ep, oorreepondto modior
+.,
+
+fications in t&
+
+regime of the airflow abcart
+the wings.
+.. . .
+.
+The first part of the work, agnoerningpropellers”
+(naval
+
+and aerial is almost entirelynew. Founded m- the hypotheses
+)
+and ideas whioh I expoundedIn my Papers read before tha Aoademy
+* Taken from 1’Acad&ie des SoienaesH of June 7, 1920.
+
+m
+
+.
+.
+
+-2-
+
+on Febnumy i9th and Maroh l%h, 19(W, the pzesent thgory is
+pushed muoh further. It leads to formulasand ocmseqpenoes
+%lhioh
+appear tc correspondvery olosely to aotual faots, as is
+olearly shown by the mmparism
+
+‘between
+the theoretio results and
+
+those of the best experimentsptiblished models of naval proon
+pellers, (D. W. TAYLCR and R. E. FRGUIIE)
+and on models of aerial
+propellers, (W. F. DURAND).
+Frcxz
+the begi-mlng I introduoeas a fundsmeatalvaria’hle,
+tinetrue slip 6 with respeot to the ~ffetiivepitoh, tiioh is
+tineadvancepec revolut
+Ion of the propeller corresponding no
+to
+thrust, and i divide the seotion of thg oyllnderof fluld
+
+.
+
+by tiae
+propelles tito two prinoipal. ones: one oentxal,
+z
+
+taokd
+
+of
+
+at-
+
+aotion, the other annul= Of partial aotion. The dis-
+
+total
+
+tinot
+ion betmeen these two zones is based on the c$oeffioientf
+o
+influenoe k
+
+the value of Wioh, in the vioinit of 2, seems
+y
+
+.
+
+to be greater for air than for wat
+er~ Yith aeria2 propellersof
+the usual form, tiie
+aoticm is entIrely partial. But this way
+of taking things is not exaotly in aooordame with the faots of
+the ease, To be more aoourate m
+
+should add two other zones,
+
+one betmen %he two just mentioned,the other, due to margina3
+effeot. This subjeot is extremelyo~lloated,
+
+aad w
+
+shall on-
+
+ly be able to exemine it thoroughly men m are in the possession of very preoise and reliabletest data.
+Ky theory leads to the follomingoonolusions:
+1st - The thrust of a propeller is given in kilograms
+q
+
+by the relat
+Ion
+.
+-_
+
+.
+
+.
+
+.
+
+. .
+
+.—.
+
+..
+
+. ..- ..
+
+. . ..
+
+---
+
+. . .. . . . .
+
+.._
+
+.
+
+----
+
+-.
+.,. -—
+
+---
+
+.. .
+
+..
+
+being the qmcifio weight of the fluid in whioh the propeller is eating, in Icg:m=.
+.-
+
+(0
+.
+
+““’
+
+“-”n
+
+the true slip, with respect to ths effeotlve pltoh,
+
+a meffloient, geners31y small, inoreewing with p, the .=tio of effeotiw pitch to diameter of a value neariy
+2.5 p
+
++ n=
+
+=
+
+~loh
+
+n is the ratio of olrownfereme
+
+to
+
+Ciimeter.
+
+Znd. - The resist
+Ing torque of the propeller, In kllogrsazneters,Is give= by
+
+/-”%””’
+
+(’+6-
+
+e 58)
+
+H
+
+being the efteotive pitch in meters,
+
+.e
+
+a coefficient near
+
+a,
+
+a quanti
+ity equal to —
+
+(2)
+
+0.5 + et,
+4C
+
+,R being the ooeffioi.ent
+(sin 2 u )S
+of slo@.ng down of the ordec of O.G05, but varyIng aos ording to the pmpeller,
+
+a.
+.
+
+angle of inolinat ion of the direot Ion of ths air leaving the blades of mean radius R~ (clef
+Ined In the work) to
+the perpendicularplane of the axis.
+
+the
+
+c
+
+is minimum, and
+
+a
+
+also, for a slip near to that of q
+
+‘~leh glvee maximum effiolenoy;E and a
+.
+.
+
+&bat
+
+propotii-llY
+
+to
+
+( 5-
+
+3rci. l?heeffioienoyof
+expression
+P-l
+
+-8
+6&
+l-~+a
+
+inoreaeefrom the min-
+
+&m?
+the
+
+propellerhas for simplified
+.,
+(3)
+
+-.44th. - Except.inthe ease of very narrow blades,
+fao~or of thrust b
+
+,.-....,
+
+.. .
+
+..-. ..
+
+is of a oampound nature
+
+.“.- -, .
+
+-+,
+
+.Y.F.
+..,uk ..._
+
+on acmunt
+
+oo-existenoeof tm regimes of funotlontig. Its ~enera.l-expression is
+
+RS~
+
+(4)
+
+Sz being the area of the oircle, the radius R%
+
+zone of aotion (total) in square meters
+
+limitingthe
+
+(not’
+oounting the hub);
+
+RS= the mcment, with respeot to the oenter of the propeller,of
+the surfaoe projeoted, on a plane perpendicular to the exis,
+of the
+k
+
+parts
+
+of the blades outside the cirole R%.
+
+the ooeffioient of tifluence provisionally estimated at 1.54
+for
+
+inter and 1.95 to 2.37 for air.
+
+g
+
+the oonst~t of gravity In meters per seoond.
+
+C
+
+a meffioient equal to
+
+1 -
+
+Pa
+
+24
+
+nat. 10g.
+
+TT”
+
+1 + — , pl
+pa
+a
+
+~ being the ratio of pitah tc the diameter 2RI
+
+of the oirole
+
+llmiting the total zone of aotion.
+The faotor b
+
+does not depend on the coefficient c of
+
+the 10BS of relative speed, and it is the same for
+F
+
+the thr.st
+
+of the propeller, exoept for the slight correction givenby
+
+more oompleteformula.
+5th, - If there,1s no sone of total aotiori,
+as is the
+Uase tith the”aasualwo=blacie
+t
+aemial pro~=llers, the expressi~
+is
+.
+
+simplified;
+
+the first term disappears,
+
+.
+
+and there rema%ns:
+
+a
+
+- ——
+
+-!3-
+
+~
+
+being ‘Lhe ratio of the radius of the center of the moment’s
+m>- <
+.
+of the’ stii~c”es’ th’eblades’ projected with “respect to the
+of
+center of the circle of .rotati.on
+to the rim radius.
+
+Z
+
+the ratitiof the surface of the projected blades to the
+face of the peripheral circle.
+
+D
+
+the peripheral diameter in meters.
+k?rbh.
+
+- Provided the propeller is net too izregula~
+
+general formulas can be very
+
+conveniently appl~ed over the
+
+field of possibie variations of
+
+o :
+
+from G to 1; but they
+
+themselves more exactly within the limits of slips occurring in
+practice:
+
+from 0.1 to 0.5; the differences between
+
+these and
+
+R. E. FROUDE’S experimental curves, which seem to result from
+very exact meastl.rements,
+do not exceed a few tilousandtns.
+
+Translated from the French by the Paris Office, N.A.C.A,
+

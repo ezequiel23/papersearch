@@ -1,0 +1,812 @@
+-’%
+
+&
+\
+
+TECHNICAL MEMORAND~S
+,/ .-,
+
+..
+
+““N~T~,ONAL
+ADVISORY COMMITTEE FOR AERONAUTICS
+
+No. 47
+
+.,:SOME R3MARKS CONCERNING SOARING FLIGHT
+By L. P randtl
+From “Flight, “ September 22, 1921
+
+,.,.,.
+.
+
+,..
+
+,
+
+.-”
+
+-
+
+“.”.’
+
+,.
+
+October; 1921
+.,. .
+,.
+
+I
+
+—
+
+o
+4
+
+i
+I
+
+lNnTmT~l
+
+II31176014394770
+II
+
+. .,
+
+~
+
+SOME ~lMRKS—rONC~----SOXRtNG
+
+FLIGHT.*
+
+By.
+
+-—.,...
+.
+.-.
+
+L. Prandtl.
+.,,
+...
+-,.
+
+.
+
+.
+
+The publication of the following details is due to the desire of the editor to have the problems of soaring flight treated on the occasion of the Rhone Soaring ~light
+
+Contest.
+
+In the
+
+main,.these problems are only connected with matters which are
+.,
+more or less known.
+
+For anything wtiich nay be new, I am indebt-
+
+ed to frequent talks with G,”Madelung and A. Betz, who have giv......
+
+en me their permissiori to publish these remarks.
+By soaring flight - in contrast with gliding flight - is
+meant motorless flight without 10S8 of height.
+
+According to the
+
+laws of the mechanics of flight, two sources of energy are available for soaring flight.
+
+One is, air cuzrents having an upward
+
+trend; and the other is, irregularities in.the natural wind,
+Under the iatter head we can dis,tin~isk between two effective
+forms:
+
+(1) Great fluctuations in the strength (and also direc-
+
+tion) of the wind, lasting several seconds; (2) The rapid fluctue.tion in wind direction which is commonly described as “turbulent
+wind, “
+
+The fluctuations of
+
+long
+
+duration can only
+
+be utilized by
+
+effecting considerable changes in the velocity and height of the
+machine.
+
+For instance, by, in one single =mst, climbing at the
+
+expense of relative velocity., and theg~ in the calm which followsj
+,,,.
+,,
+gliding with a dofiward acceleration.
+~,
+
+The procedure to follow in
+
+,’
+
+order to efiract energy from the wind can be condensed into a sim* From “Zeitschrift fur Flugtechni~ und Motorluftschiffahrt, ?I
+July
+30, 1921.
+.,
+
+-2”
+ple rule:
+wind.
+——
+
+One must a.t.t
+empt to equalize the fluctuat ions in the
+
+In so doing, the energy in the wind fluctuations is obvi-
+
+,-.
+>edi~ced,”
+‘and “the‘energy of the machine increased by a corotis’ly
+Thus, for instance, one
+
+reSFonding amount.
+
+i?.1’USt
+
+present great
+
+resistance against a gust, sfiallresistance against a .lu1l; in an
+upward cu~rent the machine
+
+be gradually elevated to increase
+
+ii~ust
+
+the pressure on the wings, in a downward current depressed to decrease the pressure.
+The fluctuations of short duration, on the other hand, can be
+utilized without any substantial change in velocity of the e.g.
+of the machine.
+
+As A. i3etzhas shown in a very
+
+instructive arti-
+
+cle in this journal in 1912,* useful effect is available in sufficiently great fluctuations in i~ind direction even with rigid
+and non-warped aeroplane nings.
+
+With elastically mounted or flex-
+
+ible wings, the force obtained from changes tn wind direction, if
+these be sufficiently great, may assume perceptible proportions.
+The effect may be
+
+imagined
+
+fish-tail propellers.
+range~lent
+
+as
+
+resembling
+
+that of the so-called
+
+This name has been used to designate an ar-
+
+by which the waves of the sea have been’utilized for
+
+the production of power.
+
+The arrangement consists of a number of
+
+flexible plates, rigidly attached with their leading edge to the
+sides of a ship.
+~~
+the
+
+As the waves rise
+
+power
+tai-l-of+.,a.fish.,
+and.produg.e.
+
+and fall the plates bend like
+both when ... ,.
+bent downwards and
+., ..
+
+when bent upwards.
+When we now come to the question of which of these sources of
+-gauxgy do soarin g birds make use, the answer can - at least as re* A, Betz: ““A contritiution to the Explanation of Soaring Flightj~r
+Z.F.M. , 1912, p,269.
+
+-3gards our domestic birds - only be tha,t, if ‘not exclusively at ahy
+.,,,.
+
+rate-mainly, they *take ad~-antage of risirig ai~ ,,.
+—.
+,.., currents.
+
+Rising
+
+air currents are always to be found in uneven country when a wind ~
+is ?o].owing. Tiley are also caused over the plains by meteorological influences.
+
+For their flying practice birds naturally seek the
+
+rising air currents, and as these are frequently not of very ~~eat
+in
+exten~...i
+_s~acece, the birds hav~ to circie in orde~ to rsiflain
+the rising air currents.
+
+By observing the soaring of birds of
+
+prey one may frequei~tly see that they suddenly lose height and
+then conmlenceto fiap their wings, continuing in flapping flight
+until they are seen suddenly to rise.
+they recoilmence to soar.
+
+From this moment onwards
+
+They have again found their rising cur-
+
+rent which they had previously lost.
+
+The soaring seagulls near a
+
+steamer make use of the air deflected by the steamer and comii~ence
+to flap as soon as, for soriereason or otk.er, they have to leave
+.
+their favorable position.
+That a bird intentionally r:lakes se of gusts does not appear
+u
+to occur generally.
+
+In order to do so it would kave constaiitly
+
+to inake jumps up and down, which, .SOfar as I am aware, it has not
+been observed to do.
+
+On the other hand, it does not appear unlike-
+
+Iy that many birds utilize the rapid.fluctuations in the wind beProbably, ho’n~ides,
+W..t”, . . -,after the manner of the fish-tail principle.
+.
+T,,.*. .
+.,,.
+...
+..
+ever, these forces suffice-in no case to cov”er ~fie’&fi”%i2e’
+work of
+flying, so that the axiom “no soarirlgwithout a wind with an up.
+ward trend*lcan probably be accepted as correct.
+
+It might be nen- ~
+
+-4-tidned that in regard to sea birds, each” individual wave gives the
+wind .anupward . .
+of which
+..... ,.. deflection, ..... .. the birds take advantage.*
+. . . .-,.
+..
+In the case of human soaring flight, all the previously mentioned possibilities of making-use of the energy in the air hold
+good in principle.
+
+The fish-tail effect, as I will call it for
+
+the Sake of brevity, may ‘possibly be utilized by a suitable form
+of flexible ~ving-sectionsj although I should”advise experiments
+with crewless (unbemannten) models.
+
+It is quite probable that the
+
+wind flu~.tuations, which such wings vmuld be designed. to utilize,
+might frequently not be of such magnitude as to have a perceptible
+effect,
+
+In view of the probably inconsiderable gain to be expect-
+
+ed one would not like to risk the uncertainty of the flying qualities of such a flexible aerofoil, which might easily lead to a useless,
+
+or even dangerous, machine.
+
+A crewless model, on the other
+
+hand, could more easily be sacrificed.
+The utilization of great mind fluctuations is a“question of
+the skill of individual fliers.
+
+It is conceivable”now and then to
+
+extract a slight gain from these, but too much should not be expected from this source.
+
+There then remains, as the most
+
+important
+
+help to human soaring flight, air currents with an upward trend.
+If it is desired to utilize to the fullest extent rising air
+currents, one must strive to build machines with a slo~ rate of
+,..
+
+\
+
+desc&t (kink&&~h:~~~indi”~k’&~t)”.
+‘ O“ne’’’”is
+%henin’a P osition to util‘<since~~’iting this article I find in Physikalischen Berichten,1S21, some notes by Everling on a work on soaring flight by E. H.
+Hankin (Proc. Cambr. Phil. SOC.,
+20 (1921), pp. 219-227), according
+to which soaring by turbulent mind only is said to be possible when
+the earth is strongly heated, as occurs in the trop$cs, Dr. Hankin
+describes observations of birds, dragon-flies and flying fish.
+
+-5-
+
+ize all rising air currents whose vertical
+
+component ‘“is: greater
+‘
+
+.- than the rate of descent of the machine, provided that, at the same
+time, the upwazd slope of the mind is greater than the best gliding angle of the machine.
+
+On a slope which is steeper than the
+
+best gliding angle of the machine, it is moreover possible to soar
+in winds whose velocity is smaller than that of the lowest gliding
+speed of the machine, provided the rate of ascent of the wind is
+The machine will
+
+greater than the rate of descen”t of the nachine.
+
+in this case soar out horizontally into the free air and will obviously rise in doing so.
+
+It would, however, in time get outside
+
+the region of the ascending wind, but if the slope
+
+has sufficient
+
+breadth the machine can be pointed diagonally to the slope and pass
+across it at the same height or climbing slowly, the sideways displacement giving sufficient speed for soaring.
+
+This method of fly-
+
+ing can often be observed on seagulls over the beach.
+
+Under simi-
+
+lar conditions the method should be possible of execution by human
+beings.
+The conditions for the smallest possible rate”of descent can
+be formulated.
+
+To begin with, the gliding angle c
+
+is given by the
+
+well known relation
+-.
+
+~
+tan c = c&
+
+. .;. .
+
+Further, the.rate’ of descent,
+
+that the weight
+
+G . Ca F~P@
+
+,
+
+Vz = v sin e .
+
+(1)
+If we observe
+
+that is
+(2)
+
+v ‘m
+
+q
+
+1 11
+
+-6.
+
+and that., owing to the fact that the sm.gle is small, sin
+.. .. ..
+
+e
+
+c
+
+and tan
+
+.
+
+can “be-exchcji~e”d,’ “find’ ‘“
+tie”
+
+~~ ~~
+~
+
+~~
+(3)
+
+Therefore, for ~.given wing loading, the rate of descent is
+smallest when the well-known efficiency ratio
+
+Cas/ctTz is a maxi-
+
+We must therefore aim at the smallest possible
+
+muiil .
+
+large
+
+Ca,
+
+Cli with a.
+
+This is obtained on the one hand by a large aspect ra-
+
+tio, or~the other by avoiding all sources of extra resistance.
+“In order to obtain a large
+
+Ca
+
+one would have to choose a deeply
+
+cambered wing s“ection, as is “wual with fast motor-driven aeroplanes.
+If a polar diagram is available the maximum
+found by trial.
+
+Ca3/Cw2
+
+is easily
+
+But if one wishes to obtain the zesults by calcu-
+
+lation - which has t’headva~.tage that one is not obliged to start
+with a previously giver.aspect ratio --one may for instance proceed
+to do so as follows: - Fo~ the range of aii.gles incidence considof
+ered it is frequently possible to express the change of
+chemge of
+
+Ca
+
+Cw
+
+with
+
+by an equation of the following forzn:0 ‘ACa2+B
+*W
+
+The coefficient
+
+A
+
+(4)
+
+is mainly dependent wpon the “induced drag,~’
+
+which in turn depends upon the aspect ratio. As, however, the
+,.
+.!.,,,,.
+,.”.
+It”section’
+dra-g-tl’ fisu~ll~~’ti~bw’s iri5r”ea&#titll
+‘also’
+an
+t
+greater ‘angles
+of incidence$ this earlbe inciuded in t’he coefficient
+A=L+A
+?Tb2
+
+A
+
+by writing
+(5)
+
+-’7-
+
+in which, as usual,
+
+b
+
+indicates span.
+
+B
+
+in equation (4) then
+
+‘indi”d’~te’s constant ~~ortion of the ‘!seotiondr~.gjtl
+the
+including
+all detriinent.al
+resistance of the nachin&.
+3/2
+equation (3) nb~.~ ecorles C~iCa
+b
+
+=A
+
+The second factor of
+
+G’al’2 -t. Ca-3’~
+B
+
+A simple
+
+calculation gives for the minirnur.1 this expression the relation
+of
+A GaA =33,
+(6)
+
+‘dlience
+. c~=m
+Cm/Ca3/2
+
+As will be seen, the iziniuu.n
+of
+
+occurs when the
+
+first portion”of the resistance in equation (4) is Vnree times as
+great as the second.
+
+Cw then becomes equal to 4 B, and
+
+The total
+
+consequently
+
+‘
+
+(’i)
+
+In making this calculation one rmst, of course, make certain:
+that one obtains frofil
+equation (6) a value of
+
+Ca
+
+in the limits for which form.la (4) is valid.
+
+Should this not be
+
+possibl~ the greatest value of
+ma37
+
+be
+
+Ca
+
+which, lies with-
+
+for which formula (4) is
+
+It might be of interest to elucidate~hese
+
+taken.
+
+valid
+
+cal~la-
+
+tions by a numerical example, the figures for which are taken from
+model testsAl=O.01,
+..
+
+Assuming an aspect ratio
+and
+
+Thus
+
+E=
+
+0.025
+
+,..
+Ca
+
+F/b2 of 1/10-, and further,
+
+---–, .
+-.
+=
+r
+we obtain
+
+A ~ 0.0318 + 0,01 = 0.0418.
+
+~~~ 0.025 = i.34,<
+0.0418
+
+r
+
+,..
+I
+
+Imlll
+
+I Hllllll
+
+1111111111 111111111111111
+I
+
+11
+
+I
+
+,,.,,.,,,,,, ,
+,
+
+.,
+
+-8wh.ich figure is attainable with deeply-cambered aerofoils.
+,, ..,,,
+
+... .=...
+
+1
+T
+c Onles ~ 4 B = !). ,’”” -his gives
+
+Cm
+
+be-
+
+C~”/Cwz “z 240.’ If we assume a wing
+
+loading of S kghr~ (1.85 lbs/sq. ft. ) we get
+—
+
+a’”x”~ =
+“-~6 ~ 9 z 12
+f
+p
+~
+~“
+
+/
+4
+Thus the rate of descent becomes
+
+Ca of 1,.2
+
+If a value of
+
+only
+
+CM
+
+remaining as before,
+
+12//%---=
+
+0.’775m/s2.
+
+were attainable, the other constants
+
+would become
+
+cw = 0.0418 x 1.22 ; 0.025 = 0.0855,
+giving. Ca3/ClT2 = 236.
+
+As
+
+the optimum value of 1.34,
+
+Ca z 1.2
+
+Ca3/CVt2 is thus but little smaller
+
+than the maximum value of 240.
+like that just dealt
+For
+
+Ca =1.2
+
+with
+
+is still coiiparativelynear
+
+One can therefore also in cases
+
+ccnfidently use formulae (6) and (7).
+
+the gliding speed
+
+v
+
+is found ‘from equation
+
+(2) to be approximately 11 m/s and the gliding angle is 0.0855 :
+1.2
+
+=1:
+
+On a wide slope of 1 : 5 the rate of descent would
+
+14.
+
+by a wind of 4 ‘m/s, be smalier than the rate of,ascent of the air.
+
+Soaring across the slope would, of cmurse, require a transverse
+velocity of ~
+
+f
+
+112 - 42 E 10.25 meters per second.
+
+E In order to assist those English xeadexs who are not familiar
+of
+1.. with the Qerman system ,.,,expressing lift, resistance, etc. , it
+..a. -. .
+~., ..,,
+.
+. ..
+might be mentioned that in th; “equations‘~rintet aboVe Cw is-the
+drag coefficient, and
+
+Ca
+
+the lift coefficient. .They are
+
+converted
+
+into the ‘labsolute’[nits efilployed y the N. P. L. by being divided
+u
+b
+by two.
+
+Thus when Professo% Prandtl speaks of a lift coefficient
+
+..
+
+...
+
+_$)-
+
+of 1.2, this eoriesponds to “an ‘~absolute” lift coefficient of 0..6.
+
+.
+.
+
+The velocity is, of course, stated in meters per second, and the
+—,
+.
+
+,, —.. . .
+
+letter F
+G
+
+is &ed
+
+the weigh+
+
+a
+
+-
+
+.5,..
+
+,,,
+
+.
+
+~o’cie-note
+‘tiifig
+af”ea”. b
+
+denotes wing spaliatid
+

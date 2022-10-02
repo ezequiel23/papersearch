@@ -1,0 +1,3443 @@
+REPORT No. 47.
+POWER CHARACTEJUSTiCS OF FUELS FOR AIRCRAFT ENGINES.
+
+q
+
+OF
+GMOLINK
+PART I.—powmz&mAOTIMSTI@ AMOK
+PART 11.-PowzE ChMUOrEEISTIOS cm SUMATBA
+AND BOEKEO
+GMOIJNES.
+PABT 111.-PowBE&.mAUrBBIS or 20 PEEChm BBIWOLI&x’rmm.
+mm
+PART L
+
+POWER CHARACTERISTICS OF AVIATION GASOLINES.
+W
+By H. O. DIOKIKSON, . & hams, E. W.
+
+.
+
+ROBEBTS,
+
+V. R. GAex, ad D. R. HAEPBE,Sd.
+
+RESUME”
+The importance of securing the best possible fuel for aircraft enghw led ta the testing of a
+number of fuels in the altitude laboratory of tha Bureau of Standards. The tests were made
+with the carburetor adjusted by hand to give maximum power with mhimum fuel consumption
+for this power, the engine operating with full throttle at various speeds and under conditions
+corresponding to various altitudes.
+It has been customary to judge the “usability” of a gasoline ite volatility. ‘l%: meaning
+by
+of usability of a gaaoline has often been, perhaps wrongly, expanded to include the power
+performance of the engine. Combining the ideas, the distdlation curve of a gasoline has been
+accepted by many as a true critmicm of the power to be obtained when using a fueI in an engine.
+The resuhs of the teste made at the Bureau of Standards indicate that the distillation
+curve of a gasoline gives no indication of the power that can be obtained from an engine using
+this fuel, when the carbureting conditions are sukd to the fuel, and that it is not impracticable
+ta attain these conditions.
+These tests were made to determine the gasoline or gasolines gh-ing maximum power.
+AnaI@s of the data was made in an audeawr to fmd the properties controlling the powerproducing ability of a gasoline. The question of economy is not considered in this report,
+being deferred for a subsequent investigation. The tests proved that any of the gasoIinea used
+can be made, by proper ‘ ‘carbureting,” to give the same power within a range of the order
+of 5 per cent. It is probabIe that the relative nmrite of fuels for commercial and perhaps some
+war uses will depend upon economy more than upon power ability.
+Specification No. 3512 of the Bureau of Aircraft Production for aviation gasoline (export)
+gives a satisfactory fueL More rigid specific&ms apparently do not give appreciably better
+power performance in an engine.
+DESCRIPTION
+
+OF APPARATUS AND 0BJEC7P OF TBSTS AND STUDIES.
+
+The following report is based on tests made in the altitude laboratory of the Bureau of
+Standards. The eugine was a ‘&pe A Hispand3uiaaj made by the Wrigh&Martin Aircraft
+Corporation, New Brunswick, N. J., fitted with pistons giving a compression ratio of 5.3 and
+developing 180 h. p. at 1,800 r. p. m. The eight cyIinders are 120 mm. by 130 mm. (4.725 by
+6.118 inches) and are arranged in two bIocks of four, set at, an angIe of 900. The intake manifold was the regular design, with wa~jacketed
+tee. The carburetor was a CIaudel duplex,
+manufactured in Frame, with a valve between the float chamber and the jets to control the
+amount of fuel supplied. The akitude chamber has thermally imulated walk. The sir may
+be partially ~austed from the chamber by meamsof a blower, reducing the barometric preeaure
+to that corr~ponding ta any altitude up to 30,000 feet. As the air enters the chamber it is
+passed over a series of refrigerating coils which serve to regulate the temperature during the
+trots. The engine is coupIed to an eIectric dynamometer placed outside the chambar by
+means of which the power of the engine may be absorbed and measured. Cumplete description
+of this apparatus and the methods of observation may be found in Report No. 44.
+660
+.
+
+POWFi.BOHAEACTERISTICS OF FUELS FOR A3ROBAFT ENGINES.
+
+561
+
+The purpose of these engine tits was to determine the dative power-producing dues
+of several different kinds of gasoline. Analyses of the data obtained have been made to correIate the results of these tests with some of the physical and chemieal properties of the gasdinea.
+The reds
+of these studies show that the properties considered are not the ones which exert
+the major control of the power-producing qualities of a gasoline. The physical propertb
+which were considered were the distillation curva, the heating vahmszthe densities, the ma=gnetooptical rotations, and the critical solution temperatures with aniline. The ehemictd propertied
+were much 1S carefully studied, because of the considerable time required for chemical analyees.
+
+... . ..—
+—
+. ___‘“
+
+-
+
+-.
+
+SPECIFICATION FOR AVIATION GASOLINES.
+
+Following is a brief summary of the speoitications for the various gasolines as issued by
+the Bureau of Aircraft Production 1918, for seversl types of aviation gasolines:
+Aviation gasoline (dommtic), Specifkation No. 3511–B.
+Aviation gasoline (export), Specification No. 3512.
+Aviation gssoIine (&hting), Specification No. 3513.
+In these specifications certain requirements were given to insure freedom from acid and
+other impurities, these requirements being identical for each grade. In the requirements
+for volatility and distillation range, the specifications vary in the temperature limite for the
+vmious fractions. The foUowing table gives .&e temperature requirements in degrees centigrade as the various percentages of the sample have been recovered in the graduated reeeiver:
+
+.-. .—
+
+-.
+
+P= cent
+IecOver’a
+
+Domestic.
+
+EXPI.YL
+
+-—
+
+mm.
+
+W
+h-okOVEF C.1
+.
+\’otoverm” c..- . . X2tov’erwc . . . ..-.
+. .
+.
+B {Yet under Ml” C.. ----- botundar ~. ~
+A-et Ilnder m“ o.
+~:ot Om SO”C.......
+. . . . XotO= w c.
+. . ..
+&l sot over 105”c. . .
+...
+
+m Xotoverlss”c...... - Kotoverlzsc. . -----
+
+w
+
+Iiot Ovm 175”c.......
+
+YOt over Mar c.......
+
+Kotoverlu”c.
+
+—.
+
+liot w c.
+mm
+
+-
+
+1Sptication
+
+of June 27, 191?. Charged h Octati,
+
+KU& ta 70” C.
+
+It wiJl be noted that the higher Mmperatire at the 5 per cent point in the specifications
+for export gasoline is lower than for fighting gasoline. With this reception a gasoline that
+will meet the specification for fighting gasoline w-N meet the specification for either of the
+others. It wiU also be noted that a gasoline distilling throughout the entire range at temperatures over 50° C. and under those spe~ed would fill the speticationa for domestic and
+export, and one in which all fractions distdled at any temperature over 60° C. and under those
+speoifled would comply with the specification for fighting gasoline. In other words, the specifications do not provide for a lower limit of temperature except for the tit 5 per cent. Attention is called to these points ta show the wide range of gssolines which may be provided and
+yet ful.6Nthe requirement of these spetications
+DESCRIPTION
+
+OF GASOLINES USED.
+
+Ten gasolines form the subject of this report, nine being compared in turn with a standard
+gasoline as a reference fuel. Before describing these fuels in detail, a brief description of their
+general charactaristice will be given. Two of the fuels~one of them the reference standard, were
+representative American straight run gasolines from an eastern refinery and complying closely
+with the specScations for cqort gasoline. A third followed olosely the speoitkations for
+fighting gssoIine, while two others were slight variations of the fighting gasoIine. These
+gasolines, representing the Frenoh aviation gasolines, were imported from Fnmoe, and followed
+closely the requirements given above for export and fighting gasolines, reapecthly.
+Two
+gasdinee representing the average motor cm gasoline as sold at automobile filling stations
+were run se a matter of comparison. One of these was of eastern origin, and the other a CaEfornia gs901ine. Referenoe to the distillation curves (plot 1) will show that these fuels were
+quite outside the area covered by the distillation curves of the atiation gasolines. The rmmbem employed to designate the various fueIs which were tested in the progress of this inveati1670S0--S. Doe.S07, 6~6
+
+.—
+---—.
+—
+
+—
+
+562
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY UOMMITTEE FOR AIWONAUTIC%
+
+gation are the sample numbers given them by the Bureau of Mines, Petroleum Division, which
+collaborated with the Bureau of Standards in selecting and securing aamplea for their teats
+They have no other significance, excapt in
+and in making all the analysea of these sampk.
+the case of “X” which is the designation employed by the Bureau of Standards for the reference standard, it being the refinery abbreviation for “Export.”
+A detailed description of the
+Vlxriousfuels follows:
+Standard X gasoline was manufactured by the Atlantic Relining& as one of their standard products. Two lots of this fuel were employed in these teats, because the supply of tho
+first became exhausted before the series was completid. The fit, des~atid
+ss “o]d X,”
+oomplies with the spetications for domestic gasoline, and was employed as a reference fuel
+when testing gasolines 263, 264, 265, and 266, The second, designated as Now X, complies
+with the specification for export gasoline and was employed as a reference fuel for the remainder
+of the gasolines, namely 186, 191, 261, 262, id mmniercial. The distillation curves of time
+two reference fuels are quite different, although their mean volatilitias are practically the
+same and their power charactaristice were similar. The unavoidable use of two standards
+necessitated an indirect method of comparison, which ia more fully discussed later.
+In May, 1918, the Bureau of Mines requested the Atlantic Ref3.ningCo,, of I%iladelphia,
+to furnish sundry grades of gasoline for examination and teat. These were to be Used for
+guidance in drawing spec~catioW for the ~ghtjng grade. In compliance with this request.
+the Athmtio Reiining Co. submitted four sampka of 100 gallons each as follows:
+Gasoline No, 264 was designed to reprwent-as cIosely as possible a gasoline complying with
+the then existing specifications adopted by the I?etroleum War Sertice Committae in accordance
+with the report on aviation gasoline. These specifications were: 5 per cent above 50° C!., 8 per
+cent below 70° C., 50 per cent below 90° C. and not over 3 per cent of the residue to remain in
+the flask at 150° C. The actual distillation curve for 264 is given tith the curves for all the
+others on plot 1.
+Gasoline No, 265 was prepared to comply with the requirements of the then existing
+specXcations for the fighting grade, which were the same as those of specifications No. 3513,
+excepting that the first 5 per cent must pass below 70° C. instead of 75° C.
+Gasoline No, 263 has about the same average boilingj point as No. 265, excapt that it is
+obtained from the stallwithin a very narrow tamperatwe range. It is what is ter.mcd a 700 C.900 C. cut. It complies with the requirements of SpecMcation No. 3513 of the Bureau of Aircraf t
+Production, 1918.
+Gasoline No. 266 is of the same general quality as the @hting grade, except that it contains
+a considerably larger proportion of material distilling at low temperatures. This fuel compIies
+with the specifications for the fighting grade except that .-tie distillation temperature when tho
+first 5 per cent has been recovered is 54.5° C. instead of being aboye 60° C., as required. Quoting
+from a Iettur from the Atlantic Refining Co. under date of May 23, 1918, this gasol.im was prepared “for the purpose of ascertaining by examination whether the specification, with respect
+ti light ends, has been drawn too rigidly. It is our fear that, by making the spocificatione too
+rigid in this direction, it has resulted in decreasing rather than increasing the efhiency of the
+gasoline.”
+GasoIines Nos. 261 and 262 were imported from France and woro received at the Bureau of
+Standards May 21, 1918. .Gasolino No, 261 was marked “Essence Sumatra,” denoting that it
+was derived from Sumatra crudes. This is a gasoline considerably used for aviation purposes
+in France, It is described quite fully in Part II of this reporj “l?owei Characteristics of Sumatra
+and Borneo Gasolines.”
+Gasoline 262 was received in containers marked “Essence kgere de Borneo,” It is n
+close-cut gasoline, approximately a 70° C.-90° cut, and in this feature similar to No. 263.
+Gasoline No. 185 is a fuel with a“very narrow distillation range, a 60° C.-70° C, cut, and
+close end points. The origimd distillation, from which the curve in plot 1 was drawn, shows
+that tho distillation temperature lies between 60° C., and 70° C. for 80 per cent of the sample.
+A check distillation made from a sample taken from the barrel several months later shows over
+
+POWER CH.4RAOTEEISTmS 0)? FUEM
+
+563
+
+FOE AH&OIMFT ENGDKES.
+
+90 per cent of the sample lying between these two temperatures, with the first 5 per cent going
+over at 61° C. and 95 per cent at 70° C. The check distillation brings the gasoline within the
+requirements of the specification for the fighting grade, but considerably below the required
+temperatures at 50, 90, and 96 per cent. Gasoline No. 185 is, therefore, cIose to the lower
+limit of distillation temperatures that will comp~y with the requirernenta of Sp*cation
+No.
+3513 for aviation gasoline (@hting). This is not an inference that a closer cut can not be made,
+but that No. 185 well represents the lower extreme of the specification just as No. 261 represents the higher Emit.
+Gasoline No. 191-A was shipped to the Bureau of Standards by the Associated OiI Co.
+from Avon, CaIif. The sample used in the test corresponds very cIoseIy in its distillation curve
+with commercial ga901ine.
+CmnmercirdgasoIine is a fair sample of the fuel usuaLIysold at gasobne i311ing
+stations and
+is of a lower grade (higher boiIing point) than X. It was purchased under the United States
+General Supply C-ommittee’s specifications for 1918-19, as foLIows: Twenty per cent must not
+distill under 50° C.; 20 per cent must distill under 105° C.; 60 per cant must distill under 140° C.;
+90 per cent must distiU under 177° C.; “dry point” not above 210° C.
+
+.
+
+PROPERTIES THE l?UIK&
+OF
+DISTILLATION
+
+CURVES.
+
+plot
+I shows the distillation CLWVW the various gasoIines. The distillations were made
+of
+by the United States Bureau of Mines, PetroIeum Division, and are in conformity with the
+method outlined and dasczibed in Bureau of Mines Technical Paper No. 214, entitled “Motor
+GasoIine, Laboratory Methods for Testing, and Practical Specifications.” The bmperaturw
+are observed after equal fractions are recovered in a graduated remiver, and the curva are
+plotted with fractions of the sample as abtiae,
+and temperatures as ordinatm. The temperatures are noted after each tenth of the sample is recovered in the recaiver. For convenience
+of reference, the limiting temperatures denoted in the various specifications for aviation gasolines
+are indicated by raference letters.
+Mmsumments of the properties of each gasoIine are given in Table I. The iirst seven items
+are those regddy
+noted by the Bureau of M&s in connection with the determination of the
+distillation temperatures.
+TABLE
+ArOm-.h.mt@denotIng
+[hBEttUTiOW9:
+Old X.
+
+I
+
+L-Physical and chemicalpropertiesof gaaolintu
+tated.
+the ~isenm OfbmIWJM# mwddcmble qmntity.
+h
+W. w.-wefec
+Wh!t&Lt. hr.d&ht twown.]
+
+New X.
+
+I
+
+—
+
+191.A
+
+w
+
+ml
+
+1
+
+mm
+
+l~”l=l=d%i’?”
+-
+
+,— —
+---.
+““””
+
+,
+
+UM
+
+.-
+
+1
+
+h
+
+1
+
+; rJJtlm_lmto#l&mmy#&nt&I.
+1 l?empmatureoforftieal edution wfth entho.
+4Umetia m@tbu of G=
+m=c=9Ueht, 4SUMISVedet’s u=fa.ut,f.e+the
+n&teUnep9rsqoaro wMmeter.
+
+mtatten In eirederdweea
+
+forl caimeterkugth
+
+end I w
+
+MEAN VOLATILITY.
+The mean volatility is determined by integration of the distillation curve and determi.
+nation of the mean ordinate in terms of temperature.
+
+HEATOr C!U~USTIO~.
+The heat of combustion was determined at the Bureau of Standards. The apparatus
+employed was a specially fitted Junkers calorimeter. The total or higher heat values are
+giYen in the table.
+
+.
+
+564
+
+MMJITTEE FOR
+ANITUAL
+REPORT NATIOIVAL ADVISORY C.O
+
+AERONAUTICS.
+
+CRITIOAL SOLUTION TEMPEEATUEE.
+
+The critioal temperatures of solution with aniline were determined at the Bureau of
+Standards. The upper critioal solution temperature is the highest temperature at which two
+liquid layers can appear. A sudden clouding of the homogeneous liquid takes place upon cooIing
+through this critical tanperature. The subject is one treated in standard works on physica3
+fractionation, it gives ~ approxohemistry,l As applied to gasoline, in connection with C1OSO
+imation of the proportions of the various chemical compounds. Critical solution tamperattiw
+were determined for five typioal gasolines among those being investigated.
+MAGNETO+~IO
+
+.
+
+ROTATORY
+
+POWER.
+
+In determining the properties of various organic mixtures, it has been found that the
+presence of oonsiderable proportions of compounds of the benzene group has a tandency to
+increase the rotation of the plane of polarization, when a beam of mono-chromatic light is
+passed through the substance, in a strong magnetic field. The presence of the benzene group
+hae been thought, by some, to be associated with increased engine power. Thus it was a
+o-onceivable hypothesis that the magnetic rotation might prove a convenient indicator of the
+power-producing ability of the fuel. This hypothesis seemed worth testing, in view of the
+fact that the apparatus for measuring magnetic rotation was in operation at the Bureau of
+Standards and this property of the gasolims could be measured in a few moments. Also,
+the method has value as an aid to chemical analysis. & forecast of an analysis, wherever
+equipment is available, it may save much time by indicating what substances to look for and
+what not to expect. No definite connection between this physicaI property and the engine
+performance of a gasoline w= proved.
+The apparatus employed was a magnetic polarimeter having a maximum field intansity
+of 50,000 lima per square centimeter, and capable of being read to one thousandth of a degree
+of circular arc. The samples b be tested are placed in tubes 20 om. long. Through them is
+projeoted a polarized ray of monochromatic light of great intensity selected from the spectrum
+of the light from a quartz mercury vacuum tube of special construction. By means of a narrow
+mirror the green (546.lwd is seleci%dfrom the spectrum of the tube, and projected through the
+polarimetar. From the rotation, the measured strength of the magnetic field, and the kngth
+of the sample, are obtained the vahms tabulated.
+For the purpose of comparison, the various properties of the principal hydrocarbons
+commonly found in gasolines are given in Table II.
+OHEMIOAL COMPOS~ION.
+
+An effort was made to determine, approximately, the general ohemical character of the
+gmolines twted. The chemical determination of the constituents Qf a gasoline is a long and
+tedious process, aud the amount of work involved prevented such procedure at this time, However, an approximate idea of the nature of the fuel maybe had from Lhecharacteristic that have
+bem determined.
+Gasoline No. 185 agrees quitwgenerally in its general properties with hexane. The specific
+gravity is but 2 per cent higher, the mean volatility is just below the boiling point, the critical
+solution texaperature with aniline slightly higher, the heat of combustion is practically the same,
+and the magnetic rotation slightly below that of hexane.
+No. 191-A and commercial gasoline are not within the range of aviation gasolines.
+Gasoline No. 262 has a low critical solution temperature, possibly indicating napthones.
+The mean volatility is the same se the boiling point of natural cyclohexane. The magnetic
+rotation of this fuel is much higher than that of hexeme, probably due to the benzonm and tho
+higher members of the naphthene series.
+1MY,
+
+A., Phase R@
+
+Rathnmnd, V., SOMllity.
+
+565
+
+POWER 0HAIUOTEMS7Z OS OF FUELS FOB MW3RAFT ENGINES.
+TABU 11.—Physic&Z
+~OP6TtiCJ
+
+Name.
+
+3’=
+
+‘p&Fp*
+
+mcmnla.
+
+-p”Id”
+
+Aromatlm
+...............
+Benzene. . . . . . . . . . . .
+Toluene. . . . . . . . . ..-.
+x@M-o._._..... . . . . . . . . .
+%;Ks.__._.
+mpthuM. . . . ---------
+
+of h ehiqfcomtitumts of guohe.
+
+%-....
+GHs. ----JkHl#. . . . .
+pH___. . . . .
+
+0Ji7S9Er.w -----------7
+fi.10---------13-SOML
+------------OAW L-------------OMIZL . . . . . . . .._-.
+-
+
+~ ~--------=L----------~
+s------ -----ofJ~
+– ~T---------$&j :----------– ~J L----—--– K48L . . . . . . . ..- K7J-O
+T-----------=
+L------ ----do ----+ 15.0L . . . . . . ..-. IW~L -----------!=2;’”
+-----------1=
+L----- “’’%’’’”1
+-----------0.k.
+I
+l----I –ML
+. . . . . . . . . . . . . . . . Be10W-80- L . . . . . SD. ------------L,-=----l..------.-----l
+.... .........
+. . . . . . . . . . .- —----.--—-—.—I lqa!: L.....
+p;:::::
+-R:-.--------—
+Irm L...... .._. ----. . . .. ................ ....... ...................i ..... ....
+.
+
+..._._..~
+
+e:$g”
+
+-------1
+-b----l 0.W-------------4
++ ~~L--------......
+...............
+$EL~.
+~Hl&...
+&7gpJ#=ji.1.
+lemina
+
++
+
+!
+
+AUP~ha~=)--
+
+.
+....
+..........
+gx%?*!%mL
+--- ...........
+He tan.%ncmne3....
+Wi!eptane... . . . . . .
+.
+
+3
+V=9
+
+;!!’!’ %7ib-mm.).
+
+~;~-----
+
+XOIS7
+L::::::
+
+L
+
+y&
+
+c
+. . . . . auzwmm..........r.
+& ,’ . . . . . ~~~:-..--......
+. ............
+GH14. . . . .
+GHu- . . . . 0.z19WM------------
+
+—Mu =. M....-..
+– MCI R.n. . . . . . .
+. . . . .. — ----------— ~-l m.u-------
+
+..—.
+.
+
+,—,
+
+~“
+
+II
+
+4
+
+a~:-.--.- ~
+
+...........low—----~
+. s
+e4hyl%iai)iiE C&:::: : ..-.----.-—----------1 ..-- ....................... ...........—.-..-.........
+................ ....................................................... ...................
+Cg’olcatmle..- s.....
+. . . GHu
+...
+I
+I
+=L-----:::::-
+
+.
+
+..__:::
+
+~
+
+--
+
+~d.n
+6&o
+
+=4 Rag-------,~g.;
+. . . ..j= . . ..=.. . . . . . . . .. . . . . . .
+~:::::
+. . .. ..
+-=-5.Z-FFI;:-T-- u . . . . . . ...11146-7L . . . . ..l.- . . . . . . ..-..l
+Octane-mrmal.--... Ei’i5%’a%x::::
+Okdnea.........gf”-”
+-----~,~=:--.
+‘“----–-–—”---‘-------””-----–
+-“-------: ---------------------l---------–l
+. . . 0.3.., . . . . .:.ti%tii
+..
+s..... . . .
+-------~’~--------I14Ql&--- T------=8
+. ... . ... .. . ..
+H
+lmemmai~
+.------------------------H%fm*normaL..%%:::: am 01 . . . . . . . . . . . . . . . . =0 01. . .. -... . . . . ‘lW
+. . . . . . . 1 . . . . . . . ..
+..
+‘-.
+‘-------. .._.... .._l.......___
+..-..l
+I!x.ooI. . . . . . . . . ---------------. . . . . . . .b------l----------l
+..
+...
+Odyieie-norrnaI..} QIG. ..l Cm2301
+..
+.
+
+---
+
+I
+
+GaeoIine No. 263 can be judged chiefly by ifa low rotatory power, which is slightly greater
+thsn that of pentane. Being an American gsdine, a huge proportion of napthenes wouId not
+be expected. Benzenes might raise the rotation. It would appear, perhaps, to be a mixture
+rioh in pentane.
+Gasoline No. 264 may be judged &et from its magnetic rotation and second from its criticsl
+solution temperature, both of which approach those of hexane. Its mean volatility and speoific
+gravity would indicate an admixture of a considerable proportion of heptane and a small amount
+of octane. If pent.sne ie present, it perhaps forms an exceedingly small percentage of the whole.
+Gasoline No. 265, if judged solely from its physical characteristic, would appear to be of
+much the same oonatitution as No. 264. It has a slightly lower rotation, and lower mean
+volatiht y than No. 264, but the criticsl solution temperature is higher. Examination of the
+distillation curve, however, shows that it h a much ~mg~ proportion of ~o~er bo@
+Po~t
+constituents, aud approaches in this respect very cIoeely to No. 266. On account of its low
+power characteristics, the physical ohsracteristics of this fuel should be psrtiouhdy noted.
+GssoIine No. 266 would appear from its low magnetic rotation to be particularly rich in
+pentane. This is confirmed in a measure by its comparatively low mea+ boiling and the general
+character of the distillation curve.
+METHODSOF TE3TING.
+The engine was operated in reduced pressures, corresponding to_fg_qr _differe@ altitudes
+varying slightly in the difterent tests but averaging approximately as follome:
+5,350 feet (62.5 cm. I&.)
+,
+11,000 feet (50.8 cm. ~.)
+19,000 feet (38.0 om. Eg.)
+25,500 feet (25.8 cm. ~.)
+and at five diffwent speeds at each altitude: 1,300, 1,500, 1,700, 1,900 and 2,100 r. p“.m. The
+carburetor was adjusted by hand for each tE& to secure the mxcimum horsepower for that
+particular speed, altitude, and fuel, with the lesnest possible mixture for -*urn
+power. The
+method of adjustment employed was as folIows: The carburetor was tit set to secure the
+
+-.
+.——
+
+.-
+
+-—
+
+.—
+.—
+
+-.—
+
+1
+
+I
+
+I
+
+1
+
+I
+
+HOR..POWG-?-3PECD
+/?zw17ww
+Af@y/h9A/FhssurW.
+I
+1
+!
+1
+1
+fiispffno - Suiza 180#.PEnghe
+C-pmssian Rotlo$3.
+//u –
+
+49 - .’
+
+I
+
+A/t 5560fi!
+
+I
+
+Fuel
+W -
+
+a55–-o
+--
+
+Ck?ude! Curbure+wAdjuded
+for eochspeed lood&alfiiuu’e.
+
+x~
+
+h
+
+1
+
+1
+
+1
+
+I
+
+HORSEPOWER-SPEED RZ’ZAT/ONS
+At VUrykJ9 dji /%sssumk5.
+/& .
+
+I
+I
+I
+I
+I
+ffkpono-Suizo 180H Ff?ngine.
+/7ffCompression Rotio d’.3.
+I
+1
+Fue/
+W - *.—~—
+/?63--o——
+
+Px~
+
+C/cwde/ Curbum~Aq)L@ed
+foreoch sPe& !/oodt?o/W’utXe. 1
+
+lx?
+
+W “
+
+W
+
+.
+
+I
+
+I
+
+LW.
+rW6cm.
+Pltl IWf f.
+
+4
+
+&#? ~
+/ ?$/
+@,H
+
+-59
+
+“+
+
+/
+
+/
+
+b
+
+l%%?
+99CIZ
+
+Alt
+
+69$?
+
+!
+
+3
+
+$
+J
+
+W
+i
+b
+//
+
+‘MO
+k
+Q
+~~
+
+‘
+
+$
+I
+
+1
+
+I
+
+1
+
+1 -f%+
+
+g
+5
+
+R@
+
+70-
+
+A7
+
+H6
+
+49
+
+- p-
+
+----i
+
+A
+
+6t
+~~ ~~~a
+Am? ff
+9725
+
+J?
+
+/@
+
+lit??
+
+/327
+
+.1
+
+—
+
+m-’
+
+‘
+
+B . 6.Oun
+“ m mfi
+
+/7A9
+
+72s+/2?0.
+
+t?!oiJNo..5
+
+# —
+
+—
+A? E
+
+/%t/Yo.
+
+4
+
+Rewluti-sper4?inu*
+
+AW
+
+2X29
+
+Tes+/Uk
+
+i
+
+m-
+
+i
+
+A? Voryhg
+I
+
+IZ9—
+
+A@ –
+
+W y
+
+W
+
+1
+
+I
+
+A&wwwi+-sf%-m
+I
+
+1
+
+I
+
+I
+
+iz%mm’s
+
+Ay>Pressues)
+
+L
+
+Hispono-Suiw
+MOW? Engine
+C0n7pm~iwk%$b53
+.
+.
+
+Alt 5@Ft
+
+Fue/
+/9/——()——
+x
+
+x~
+
+VW
+
+C/uude/ Curbun+Zild~bsW
+for eG’ch spe~hedtfalhhv!!
+I
+
+~
+
+I
+
+.
+
+~
+
+t
+
+h
+
+I
+
+1
+
+1
+
+t
+
+1
+
+I
+
+1
+
+I
+
+/le
+
+A/t
+
+At WrythgA/>~essures.
+
+1
+
+1
+
+HXr@ono-Suizu
+
+1
+
+1
+
+1
+
+I
+
+OJV!
+
+[
+
+/80A?R Engine
+
+!
+
+d
+
+“!+
+
+H5E
+
+Ii .
+
+I
+
+7U
+
+#-e
+J?
+
+Revo/4t/bnsper#inute
+
+T?sfw
+
+I <m
+
+I
+
+C/uuds/ Carbur8b.
+fld@Shd
+foren?h /oud& o/?))’ude.
+
+[
+
+I
+
+I
+
+CL.
+
+/
+
+l--]
+
+7
+
+1
+
+At VuryivgAirPressunss,
+1
+1
+1
+I
+Hi*uno
+-SUIXQ /80H~Fn
+Compress&
+Rm% 5.3
+/..4 - ,.
+,
+1
+F.ue/
+/# . /; -–g–
+—
+
+k ///1
+
+.-. .
+
+I
+
+W
+
+,en
+
+Pw/vo,
+
+1
+
+ih’0t?SE~WE4-SPEE@ RELATIONS\
+
+“m. L9cm,
+
+AW?SEPUWER-SPEEDRELAZWL5
+/.. -
+
+I
+
+‘ -–
+
+I
+
+fx.=
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I I I
+
+1
+
+I
+
+570
+
+ANNUALRFJ?ORT
+
+NATiONAL
+
+ADVISORY
+
+CQMMI!M!EE
+
+FOE
+
+AERONAUTICS.
+
+maximum possible brake pull regardkss of fuel consumption. The fuel supply was then
+diminished until the brake puIl was reduced, Then the gasoline flow was incrmsed gradually
+until the brake pull reached the maximum obtained in the preliminary trial,
+In these tests the engine was run at the various speeds at one barometric pressure and,
+immediately before or after, corresponding runs were made with the comparison fuel, the
+Standard X. This imwres that the engine is in practically tlmsame condition when run with the
+fuel under observation as when run on the comparison fuel. This method permits the comparison of one fuel with anotharj by comparing the ratio of the performance of each with the performance of the standard.
+METHODS
+
+OF HANDLING THE TEST DATA.
+
+These teeta were alI made at nearly the same air temperatures. In order to correct for
+slight differences in the pmformance of the engine with the various fuels, the horsepowers
+were reduced to n standard or to a mean temperature, The standard temperate used in
+these tests is 0° (2. (plots 2 tJ-8, inclusive). The formula used for the temperature correction
+to 0° C. iE that given in Report No. 45, Part III, Wmiation of Horsepower with Tempcuature.
+After the horsepowera were corrected for temperature, they were plotted againstipeod,
+plots 2 to 8, inclusive.
+There are three major variables entering into these teats, namely, speed, power, and air
+density. The relations between these three must form a smooth surface, when plotted in
+three dimensions. ‘iThen a two dimensional section is employed, such as the reIation between
+power and speed for a constant altitude, such a curve must not be fairod without some regard
+to the relations between another two of the variables. In this way each observation in the
+entire set, regardhss of the speed or density at which taken, becumes a check on s.Uthe other
+observations.
+From the scattering of the points on plots 2 k 8, it is apparent that different investigators
+would necessarily disagree slightly as to the location of the faired curves. By selmting the
+horsepowers corresponding to different altitudw for a given speed, other series of graphs were
+prepared, in which the relation of power to barometric pressure is found to be nearly a straight
+line. Oue investigator favored faired curves which were strictly linear. The values resulting
+from this ~atter assumption lead to the percentage power differences shown in Table III, and
+on plots f) to 12. The percentage differenc~ are computed from the performance of “X”
+gasoline aa a reference standard.
+TABLE
+
+111.-Pow& d@mc#8,
+
+The pemmtege dl!lerenoe in Power develop+d by the engine WIMI %gtherolfuela,eampmd
+
+tithtiw
+
+poW?rwhcnrreIng (fX~$gOmIiness
+
+191
+(10ss)
+
+comy~y
+
+Oeeoline Namher.
+
+&
+2, m
+
+1,ml
+
+1,700
+
+1,5m
+
+1,240
+
+Mrom*
+k om.
+[appr).
+
+02
+
+60
+8s
+a
+0.2
+ao
+89
+2a
+02
+60
+8a
+2s
+62
+60
+
+%
+62
+~
+%
+
+-
+
+(&).
+LjI
+
+:1
+
+0.a
+
+.s
+.8
+.8
+
+0.8
+.6
+.7
+.7
+0.i’
+.7
+.7
+.8
+0.8
+.8
+:!
+
+I
+
+(g%).(g%).(&).
+
+(s4.
+
+(1%.
+
+M
+9.a
+1.9
+L2
+Lo
+La
+
+1.1
+1.!4
+1.s
+L6
+0.8
+.8
+.8
+.Q
+
+l.a
+1.!4
+l.a
+L6
+Lo
+L1
+I. I
+L2
+
+0.7
+
+0.8
+
+o.a
+
+0.4
+
+2.9
+!4.
+1
+s.9
+8.6
+20
+
+.8
+.4
+.4
+0.0
+::
+.0
+
+:!
+
+j
+0.4
+.4
+.4
+.4
+
+Lb
+1.8
+1.s
+La
+
+::
+0.i’
+
+1.4
+L6
+I. 5
+L7
+1.s
+L6
+1.7
+1.8
+L4
+
+:;
+.7
+0:]
+
+k:
+1.6
+L6
+
+SJ
+
+:;
+1.8
+
+.s
+
+(g%).
+
+.L8
+L9
+
+2.0
+&o
+
+N
+
+i?
+9.4
+9.6
+1.6
+9.8
+2.1
+&a
+
+::
+a. a
+2.0
+1.8
+L8
+i!
+1.8
+1.4
+L4
+1.6
+0.8
+.8
+::
+
+1!!
+1.7
+;:
+2.9
+if
+L9
+1.9
+
+POWER OHAMOTEBISTIOS OF I?UIICS FOE AIBOBAFT! EITGII?ES.
+
+671
+
+Since the ho~power observations for both the Old and New “X” vary somewhat with
+the condition of the engine, it was necessary to select a representative X curve. For this purpose two curves were chosen, one from the test comparing 265 to Old ~ and one from the comparison of commercial ta New X. The reason for choosing these particular t&a as the bwt
+tie between the old and new standard fuels is that each wss cunducted after a thorough cleaning
+and overhaul of the engine, when the conditions were most favorable ta identity of engine
+perfommnce in the two cams. The power curves for the two X gasolines were practically
+identicsl. It is unfortunate that conditions rendered impossible a direct comparison of the
+two fueIs, eliminating all assumptions as b constancy of engine performance.
+
+-—
+
+—.
+-—
+
+CONCLUSION.
+
+The maggtude of the ch~me in power developed by the engine when using these dMerent
+gasolines must be considered very cerefully. The data from the tests have been worked up in
+many ditl?erentways by several individuals. When the data ha~e been digested as in securing
+Tables III, IV, and plots 9 to 12, the maximum increase of engine power, referred to X gssoline
+as a standard, is 2.5 per cent at a normal speed of 1,700 r. p. m., and the greatest 10SSat this
+speed is 2 per cent. At the excessive speed of 2,100 r. p. m., where the eflects of uncertain
+engine performmce are greater, the greatwt chmgee of power ehowu me 3.6 per cent above and
+below the X vshw.
+The power values from the various fuels agree, therefore, within about
+3 per cent plus or minus. h ordinary engineering work this is a permissible variation.
+Every known precaution was taken in the testing to insure accuracy, so it may be that the data
+are subject to wh error than 3 per cent. If the test data and subsequent methods of handIing
+give redts of au accuracy better than 3 per cent, then the r=ults may be of a positive nature.
+If greater errors are inherent, then the results are of a negative nature, failing to prove any
+appreciable difference in these gasolinm when carburet@ conditiom me adapted to the fueI
+used.
+By using the data in the manner which Ied to Table III (ploi% 9 to 12), exact numerical
+values may be essigned to the power differences. Omitting considerations as to -whether the
+accuracy of these numbers warrants any aufi r~m
+of the fuels, it maybe of interest to tabulate them in the order of power producing ability as indicated by these numbers. The redt is
+Table IV, which is reproduced h demonstrate that there is very fittie or no detite connection
+between the power ability and the properties considered.
+‘lkBLE W.—ThE gasolines twanged in dir
+m
+
+—.
+
+.
+
+.
+
+.-
+
+of vm”ationof propertiu
+—
+
+- ~
+. ......-.-. -....-—...—%xij%iw&- .......-.-.—. . . . . . . . . . . . . . . ........... cam.’
+- ............................ IW
+w
+tititi~dw~
+.........
+
+(H’
+
+11
+
+u
+3
+m
+
+.
+t .an i ml t
+
+%s l. . . . . . ..l..-..J
+
+. . . . . . ..l . . . . ..t..---.~ . . .._.
+
+It is evident that the best and some of the average gasolines had similar properties, and
+some of the average fuels had properties similar to the poorest. No way was found of predicting the power perforrmmce from any one, or fim any group of properties. Admitting
+appmpriata probable errors in TabIe III, the only unqualified gmeral deduction warranted is
+equally evident fron the or&inal laboratory curves of power vw speed, plots 2 to 8.
+The deflnita general conck+ion fkom this work is that when the necessary carburetion
+Chang= have been made so that “each fueI wss prepared as well as possible for combustion in
+the engine, then one particular g=oline was slightly superior in power producing qualities, a
+krge number of others were nearly as good, and two were slightly but distinctly inferior to tie
+others, the extreme diffenmces being of the order of magnitude of 5 per cent.
+
+.—.—
+
+672
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMI!PI!EE FOR AERONAUTICS
+q
+
+r
+—
+
+P!RCHVTAGEHOR!3Z2WWE8 B/FfE7UiVCES —
+
+4—
+
+Plo+A!a @
+
+With tie sevem/~so/%es
+BUC 62 Cm. @op)
+Alf 5500 Ft@PP)
+
+Revo/ufionsperMlnu
+
+—
+
+fe.
+
+-.—
+
+..
+Re7u/ufibnspWM~;7u
+
+P/otNo. /f
+
+I 1’
+
+I
+
+I
+
+I
+
+I
+
+i
+
+fe.
+
+I
+
+1“
+
+1
+
+PERCENTAGE HORSEPOWERD/FFERENCES \
+
+f?/o+No. /2
+
+Revo/u#/onsper#lhu
+
+fe.
+
+REPORT No. 47.
+PART IL
+
+POWER CHARACTERISTICS OF SUMATRA AND BORNEO GASOLINES.’
+By E.
+
+W. ROBESiS.
+
+R&XJM&
+
+The importance of securing the best possible airylane engine fuds has led to a series of
+experiments on a number of fuels in the altitude laboratory of the Bureau of Standards and at
+various flying fields. Two gasolines extensively used for aeronautical work by the Frenoh and
+therefore of particular interest are those distilled from crudes found in the Islands of Sumatra
+and Borneo. Experiments on gaso%es from those crudea are of additional interest l.xwauseof
+the very exhaustive rasearch that has been made by L. J. Simon to determine their chemical
+constituents. These investigations by Simon were ca.mkd on in Paris, and are the subject of
+an extensive cofidautial report.
+Fkom the rwults of the experbenta oonductad at the Bureau of Standards with a sample
+of each of these fuels, having wiatility ranges of from 50° C. to 130° C. for Sumatra, and from
+50° C. to 100° C. for Borneo, the following conclusions have been drawn:
+(1) The sample of Sumatra gaeoline tested develops slightiy more horsepower (maximum
+L4 per cent) than the United States standard” (exp&t) aviation gasoline (Aircraft Production
+Specification No. 3512) at the altitudes and the engine speeds covered by the experiments.
+(2) The sample of Borneo gasoline tested develops slightly ks horsepower (maximum 0.6
+per cent) than United States “sttidard (eiport) aiiation gasoline, throughout the range of
+speeds and altitudes covered by the experiments.
+(3) Both samplM of Sumatra and of Borneo gasolims dtmdop higher horsepowers than
+cmnmereid gasoline. The maximum increase for Sumatra gasoIine is 4.2 per cent and that
+for Borneo gasoline is 2.2 per cent.
+(4) An investigation of &e heata of combustion of Borneo and Sumatra gaaoIines shows
+these values to be practically identical
+(5) Fractional diatilIation shows-a lower volatility (temperature of .dietWation) for the
+sample of Borneo gasoline than for the sample of Sumatra, although the lattm shows a higher
+horsepower.
+(6) The fuel eoonomy when using the sample of Sumatra gasoline was muoh higher than
+when using the United States standard (export) aviation gasoline, except at the highest altitudes at which observations were made.
+(7) The fuel eeonomy of the sample of Borneo gaaoEn&may be said to have averaged
+about the same as the United Statea“stiiniisrd (export) aviation gasoline.
+~RODUCI’ION.
+The following report is based upon experiments made in the altitude laboratmy of the
+Bureau of Standards. In this laboratory, the engine used ‘h the tests is installed in a eonoreta
+chamber having insulatad walls, from which the air maybe partially exhausted by means of a
+blower. This blower also handb the exhaust from the engine, thus reducing the barometric
+pressure on the exhaust, the intake, and the surrounding spaca, to that corresponding to any
+desired altitude, up to about 40,000 feet. Before the air entara the chamber it is passed over
+a series of refrigerating coils, and by this means its tanperature maybe reduced during the ex1 ‘ma report WaaoonMentIalIy rdmuwd
+
+674
+
+duflus the war M BuruBu of Stanckdn &IIOMUtiO Power Plsnta Re@
+
+No. 38.
+
+POWER OHABACXCEBISTIOS
+OF FUEM FOB AIRCRAFT EI.TQINES.
+
+676
+
+The engine is caupIed to amelectric dynamometer placed outside the chamber, by
+P eriment.
+means of which the power of the engine may be measured. A complete desmiption of the
+vacuum chamber and auxilimy apparatus may be found in ‘I%&nical Report No. 44.
+GENERAL DESCRIPTION OF FUEL9.
+
+The fueLs,the characteristic of which me the subject of this report, are of special interest
+because of their representative character. The gasoline distilled from the crudea found in the
+Islands of Sumatra (Bureau of MimwNo. 261) is very probably similar in proportions of ita various
+hydrocarbons to the average German airphme fueL That derived from Borneo crudea (Bureau
+of Mines No. 262) is partictiarly high in naphtienes (cydica, hydromomatica).
+The standard
+fuel with which both gasoIines were compared during the exp eriments in the altitude laboratmy,
+and referred to hereafter as X, fuMlla the epecifmations of the United States Bureau of Aircraft
+Production for aviation gasoline (export), spedication No. 3512. This is a typical American
+gasoIine, a product of crudes from the Atlantic or Eastern oil fialds.
+Further interest is attached to the Sumatra and Borneo gasolines as they have been the
+subjects of a most exhaustive investigation in France, to determine the proportions of the
+various hydrocarbons of which they are comprised. These investigations were made at &le
+Normale Superieur in Paris, under the mspicea of L. J. Simon.
+Some ten or more homologous series of hydrocarbons have been found in petroleums.
+Gasolines are generally comprised of varying proportions of the following four:
+cnHzm+2= Methanes, also Called parffis, acyclica, aliphatic9.
+C@,, – 6 + ES= Naphthenw, dso called hydro aromatka, Cyclimj polymethelenes.
+CmH,.–6 -Ihnzenee or aromatim.
+~n~. = Olefinea, also c.alkd ethyIenes, ethylenics.
+The sequence in which the compounds are noted above is the order of predominance, and
+the fimt of the names given are those most commonly used. The oleflnw me also lmown as
+unsaturated compounds, and contain lwe hydrogen than the methane group. Benzenes md
+naphthenes me of a more stable natme than the ol&nes. The naphthenea are frequently given
+the same group formula as the ohm,
+of which they are isomers, akhongh diihrent both in
+their phfical and chemical characteristics. The propmtions of these sewmd groups in the
+principal aviation gasolinea are given by Simon as follows:
+TABLE
+
+..—
+
+..
+
+—.
+
+r.
+.-—
+Germsn.
+
+GasoUue.
+
+...
+
+EhuMtrs. Borneo.
+
+Ammicnn.
+
+Nsntedl.
+
+—
+
+Sir&hArmy.
+.-
+
+WW.nes . . .. .. ... . ... . ... .... . . .. .. . .
+.
+Hrnphthsnss. . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+M?lzmss . . . . . . . . . . . . ------------------olOllnes. . . . . . . . . . . . . . . . . . ------------(Un.fted Statss Bureau of Mines.)
+
+PArrIIt.
+—
+
+16.6
+%8
+L8
+
+Pu&lt.
+
+P%cflt.
+
+=2
+6.S
+
+70:8
+2.9
+
+M: o
+7.0
+
+La
+
+L4
+
+Pwn%y.
+
+.
+
+P&ml
+2$-NJ
+
+............ ......... ....
+
+It should be noted that Simon does not give the proportion of unsaturated compounds,
+but includw them in the methmes. TIM percentage of methanes is determined by difference
+after debrmhing benzenea and naphthenes. It is interesting to note that the composition
+of Sumatra gasoline is an approximate average of the two Germm gasolines. It may be considered as probabIe that the performance of Sumatra is an indication of what might be ex’peded
+of German airpIane fuels. The proportions given by Simon for American gasoline are not
+obtained from standard X, but the f@res may be considered sa approximatdy the proportions of x.
+The foIlowing information on Sumatra and Borneo fuds wss furnished by %ury P. Watt,
+the author of several books on petroleum. Sumatra crudea contain about 12 per cent of natural
+gasoline, while Borneo crudea contain about 8 per cent. The gasoline output is further increased
+
+—.
+
+576
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+AEROHAIJTI&
+
+in each case by cracking the resi&a,
+and in the Borruw gaedine by adding casing head gasoline.
+The cracking system in use is that known as the TrumbuIl process. The casing head gasoline
+is obtained by the absorption process. The final percentage of gasoline obtained is approximately as follows: Sumatra, 42 per cent; Borneo, 30 to 32 per cent.
+METHODOF CONDUCI’ING TESTS.
+The engine employed in these experiments at the Bureau of Standards was a 160-hors~
+power type A, HispanoS@za, built by the WrighLWrt@Aircraft
+(!orp,oration, New Brunswick,
+N. J., and fitted with special high-compression pistons. The engine has eight cyhnders in
+blocks of four, set at 900, with the following genend dimensions:
+BoN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+S@h
+
+MOmm.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120mm.
+
+Camprmion ratio
+
+(1
+
+c’~z~
+
+)
+
+(4.7tiinchea).
+(Kl.16incl@.
+
+=5.3.
+
+The engine was operated under. pressures corresponding to four diflerent altitudes, as
+follows :
+6.200ket . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62.7crn. Hg.
+ll.2WfM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50.6cra.Hg.
+
+M.omfwt.......... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3&ocm. Hg.
+M.lMfeet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28.1cm. Hg.
+and at five different speeds at each altitude, 1,3oo, 1,500, 1,700, 1,900, and 2,100 revolutions
+per minute.
+The carburetor was carefully adjusted by hand for each test to secure the maximum horsepower at that particular speed and @titude with the_leanest rn@ure.
+~g md@d of adjusk
+xnent employed was as follows: The carburetor was fist adjusted so that the engine de~eloped
+the maximum power possible regardless of fuel consumption. The fuel was then cut down
+until the power decreased. Then the gasoline flow was gradudly increased till the maximum
+power was demiloped as before. There was no adjustment of carburetor air temperatures,
+which varied between – 10 and –20” (.?.
+In these experiments the engine was operated at the various speeds and at one barometric
+pressure, while on the fuel being tested, and then immediately before and after, corresponding
+runs were made on the standard X comparison fuel. This method of observation gives assurance that the engine is in practically the same condition during runs on both kinds of fuel.
+It also. permits of comparison between one fuel and another by means of the ratios of performance of each fuel to the standard fuel.
+The samples of Sumatra and Bornoo gasolines which are the subject of this report show
+the same range of distillation temperatures m given by Simon for the French aviation gmolines from the same sources.
+The standard fuel referred to as X is manufactured by the Atlantic Refining Co., as one
+of their regular products, and as already noted, accords with specification No. 3512 of the
+Bureau of Ai.maft Production.
+As a matter of interest, the performance of ‘kmunercial gasolhm” has been tabulated
+and plotted with the results obtained from the samples of Sumatra and Borneo and from X
+gasoline. The vahms for commercial gasoline have bimn tabulated by percentage differences
+between tha values obtained for this fuel and X in another test.
+“Commercial gasoline “ is a fair sample of the fuel usually scaldat gasoline filling stations,
+and distills at higher temperature than X.
+It was purchased under the United States GeneraI
+Supply Committde’s Specification for 1918.
+In order that a fair comparison of the p@ormance of the engine, while using the various
+fuels, could be made, the horsepowers in each case were reduced to 0° C, The method of making
+this correction is described in Technical Report No. 45, Part I.
+MEl!HOD OF WORKING UP DATA.
+
+data secured from these tests it was found that the horsepower differences
+were so small as to make the ususl method of fairing curves too uncertain. A study of plot 1
+In working
+
+up the
+
+POWEB CHARACTERISTICS OF FUELS FOR AIRCRAFT ENGINES.
+
+577
+
+fl
+show that at dl altitudw except 11,000 feet the sample of Sumatra gasoEne showed a
+greater horsepower thau X, while at the latter altitude it wss lower b
+X. This is so uuusual
+and has been so seldom found in tests with other fuds that the rwults were open to suspicion.
+Therefore the data were carefully analyzed for the purpose of detwminhg the probable cause
+of the discrepancy.
+By plotting the horsepowers aggimt barometric pressure, plot 2, it is apparent that the
+resuh were obtained at a higher altitude than that recorded. Shiftig all these pointe the
+same distance to the right, or to the ordinate corresponding to 49 cm. Eg., they will be found
+b lie very nearly on straight lime drawn through observed horsepowers at the highast and
+lowed altitude of the test. The new positions are indicated by dots. 1%will be noted that
+in the majority of cssw all horsepowers observed at one spmd lie on a straight line, or very
+nearly so. The points shown on p~ot 2 are obtained from plot 1 by drawirg curv= as
+closely as possible thro~~h the horsepowers plotted from the observations. The intersections
+of the straight linEs of plot 2 with the ordinates representing the four altitudes at which
+observations were talmn were p~otted in ‘plot 1, and any error in selecting the proper line was
+at once apparent. It was in this way that the curves of plofi 1 were obtained.
+One feature of the lines of horsepower plotted sgainst barometric pressure was particubmly
+helpful in @ method of analysis. It was found that the intercepts of these IinEson the axis
+of zero pramua were quite evenly spaced. For example, in the equation of the line
+
+wherein
+
+-.. —
+
+.-
+
+.-—.
+—
+
+y-ax-ii
+y =horsepower, and
+z = barometric pressure in cm. ~.,
+
+the values of ?i increased by evcm incrermzniw
+for evm increments of spaed. The value of b is
+a function of the friction horsepower at that particular speed. Siice the friction horsepower
+is entirely independent of the fuel employed, the vahws of b should be the same for each speed
+regardks of the fueL Roughly estimating the equations of the various lines from the highest
+and the lowmt horsepowers in each case showad that the vaks of h were approximately the
+same for all fueIs. Plotting these values of b against speed and drawing u av-qxge line through
+these points gave the final values of b, which were employed for the lines of plot Z. It is from
+these equations, and not from the intersections in plot 2, that the horsepower values in Table
+III were obtained.
+In the case of commercial gasoline the values are those taken from another test by first
+fairing tie curvw of both X and commercial by the method just described, and than tmmferring to the present test sheets by the ratio commercial bears to X.
+In plot 3 are plotted the horsepower d.if7erencesbetween X and the two fuels under
+observation. In this figure it will be seen that the horsepowers given by the sample of Sumatia
+show a practically constant gain over X for each speed throughout the entire range of altitude.
+The horsepowers given by the sample of Borneo are k
+than the X horsepowers by a tied
+amount for each speed tlmoughout the range of the observations.
+fi plot 4 are plotted the percentage horsepower differences between X and the two fuels
+as compared h X. These curves show practicably the same percentage differences for all altitudes at one speed. In the case of Sumatra the maximum appeam at 1,900 revolutions per
+minute, whiIe the percentage of Borneo below X is practically constant at 0.7 per cent for all
+speeds and all altitudes.
+P1ot 5 shows the horsepower difkmmces betwean the sample of Sumatia and that of
+Borneo as compared to commercial
+Sumatra gasoIine shows au advantage which increases
+as the speed increases, but decre~es as the altitude increases. Borneo gasoIine shows the
+same general rdation, but h a much smaller degree. At 1,700 and 1,900 revolutions per
+minute the horsepower difference is 1- than 0.5 per cent. The only point at which there is
+a marked dit7arencebetween Borneo and cmnmerciaf is at 2,100 revolutions per minute.
+107080-s. Dec 807,~87
+
+——
+. ——
+
+.
+
+.
+
+,.—
+
+MKI.!JUM
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+578
+
+W&v
+
+Altitude
+&w
+
+I
+
+inhe~
+m#-
+
+dwuwbww
+
+I
+
+I
+
+I
+
+I
+
+I
+
+TITUDE
+m
+
+H4SR4N0‘SUIZA 19/G/~
+8 CYL. MOlLP.
+CLA C@&% CAIWURCTEU,
+AuNa AoJuer#w?ff r.
+
+“=
+
+Hot
+
+-z
+
+Revob?om *r.Wnufe.
+
+1.
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+HORSER7WER
+
+&f
+
+0?.
+
+‘Borafrwtric
+
+?iressww~ of
+(Cm.
+
+I
+
+DlfF.9?EhtES
+
+1
+
+z
+
+~~-
+
+$
+$
+AM
+A&k
+
+3d4.
+
+Isw
+
+17eo
+
+Revolu+hnsper4fhu*.
+
+m
+
+f?w
+Rals 5d6
+
+Rm-a/ufiispeP
+
+Mints%.
+
+/ig.]
+
+‘n
+
+POIVEE
+
+CHA.EAOTERLSTIOS
+
+OF ITOEM
+
+Plot 7 shows the distillation curves of
+Sumatra, Borneo, X, and commercial. These
+determinations were made by the United States
+Bureau of Mines. !I%e method employed is
+described in this bureau’s Technical Paper No.
+166.
+The fuel consumption results obtained in the
+engine tests at the Bureau of Standards should
+be interpreted in the light of tie fact that a tide
+variation of fueI consumption is ptible
+tithou~ affecting the horsepower output. The gasoline consumption per hour were fist plotted
+against revolutions per minute and then against
+barometric pressure. FroLu the Consumption
+per hour derived from these curves were computed the consumption per horsepower hour
+given in Table IV.
+The data in Table IV are shown in plots 8 to
+13. Plot 8 shows the gadine consumption per
+horsepower hour for X and the samples of
+Sumatra and Borneo gasolirm plotted against
+speed. Plot 9 shows the same data plotted
+against altitude.
+
+s7xhm4RD
+J
+
+I
+
+FOE
+
+AEKIRMW
+
+I
+
+I
+
+579
+
+E?!TG~.
+
+I
+
+11111
+
+MOTOR FUEL CU5T/ZLA7701Y
+U.~ EURCAU W MIAZ=S.
+ml=!
+—
+
+~k=gpztSy&
+
+cab
+
+w.w.
+o.7m6
+
+sruw”fy
+
+N
+
+w. w
+a%?ls
+
+oww’
+
+1%
+
+L+%
+
+M%
+
+q ac.ume
+
+m —
+
+ukUO’kVUti””L6%
+us
+~———-—.
+Rss/aJs
+
+IL?6—
+
+%
+
+L@hf
+
+Loss
+
+L&ht
+
+L
+
+L,ghf
+L
+
+f.
+
+6S
+I
+
+S?
+
+/
+
+I@
+
+~
+
+[ m
+:9
+@
+
+u
+
+a
+
+se
+
+%16uaa4f4?
+m.
+
+af
+
+m
+I12rcent
+
+H
+
+*
+
+LIWilfsd
+
+&,
+
+7.
+
+-x
+--
+
+! -—
+
+-
+
+m
+
+I
+
+ld
+M
+
+8.
+
+#6v0rufi0m*r#4i7u7’e
+.
+
+M
+
+*
+
+9.
+
+[
+
+I
+m
+
+I
+
+F
+M
+
+Affifudeh
+
+I
+
+I
+dw
+
+Fcek
+
+I
+
+I
+au
+
+I
+J&f
+
+580
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE FOR AERONAUTICS.
+
+The percentage differences between commercial and the fuels under observation are plotted
+in plot 6. Aa in plot 4, the percen~~ea are practically the same at each speed regardless of
+altitude. The greatest diffenmce occurs at 2,100 revolutions per minuti.
+Relative fuel economies determined by computing the diilerences between fuel consumption per horsepower hour of the Sumatra and X and Borneo and X samplw are plotted as
+pwcentagea of the fuel consumption of X in plots 10 to 13. When the fueI consumption is
+~ower than that of X, the percentage is shown as positive, while when it is higher than X the
+percentage ia shown as negative. Eence pointe above the zero line show a higher fuel economy
+than X and pointa below the line indicate lower economy.
+The caloriflc value of Borneo gasoline is estimated by Simon to be 1,o99 kilogram calories
+per 100 grams, and that of Sumatra is estimated aa 1,130 kilogram calorios per 100 grams
+Careful determinations at the Bureau of Standards of the heate of combustion of sampks of
+the fuels tested in the engine were made in a Junkera calorimeter, and every precautio~ taken
+to guard against possible errors. In the caae of Borneo gszoline a large number of runs were
+made to determine the probable error of observation. The variation from the mean of 12
+observation (6 pairs) was less thm 0.4 par cent. Three determinations gave the following
+results:
+TmLZ IL
+[Ef3@BOf00IMXMtiOII l ~O@$ll
+k
+
+c&&4
+
+pOI H-
+
+BrIthh tb?rlllfd UnitSpOIpOUZl&]
+
+High value.
+
+I
+
+.............
+-mm
+
+I
+
+ti
+
+FneL
+
+I
+
+0310rk
+
+British
+tllO#&
+
+I
+
+I
+
+Low value.
+
+Ckkzted.
+
+British
+th0171#l
+
+1
+
+I
+
+The “low” values are those that determine the utility of the fuel in an internal combustion
+engine, and the greateat difbrence in heating mduea of all four fuels is but 120 calories in an
+average of 10,456 or 1.15 per cent.
+CONCLUSIONS.
+(1) The sample of Sumatra gasoline tinted develops slightly more horsepower (maximum
+1.4 per cent) than the United States staxidard (export) aviation gasoline (Aircraft Production
+Specification No. 3512) at the altitudes and engine speeds covered by the experiments.
+(2) The sample of Borneo gasoline tasted develops alightiy 10Mhorsepower (maximum 0.6
+per cent) than the United States standard (export) aviation gasoline throughout the range of
+speeda and altitudes covered.
+(3) Both mmplea of Sumatra and Borneo gasolines develop higher horsepower than the
+commercial gasoline. The maximum increase for Sumatra gasoline is 4,2 per cent and that for
+Borneo gasoline is 2.2 per cent.
+(4) Au investigation of the heats of combustion shows th~e valuw ta be practically identical
+for both gasolinee.
+(5) Fractional distillatiomshowa a lower volatility (temperature of distillation) for the
+sample of Borneo gasoline than for the sample of Sumatra, although the latter shows a higher
+horsepower.
+(6) Bearing in mind the facts in regard to fuel consumption mentioned above, the following conclusions can, nevertheleas, be drawn: The fuel economy when using the sample of
+Sumatra is much higher than when using the United Statea standard (export) aviation gasoline,
+except at the highest altitudes at which observations were made.
+(7) The fuel economy of the sample of Borneo gasoline maybe said to average about the
+same as the United States stsndard (export) aviation gasoline.
+
+IruEIs Fat AIwR4Ec
+
+I t
+
+581
+
+El!mrNEs.
+
+I
+
+,
+
+-8
+-[F
+
+Sm
+
+P/of /3.
+
+m
+
+H
+Alfifud?
+
+m
+in fZeei.
+
+mum
+
+?
+
+582
+TABLE
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE J?ORAERONAUTICS.
+
+LII.-lIoraGpowera hmatra, Borneo, X, and wmm.erciul aaoka at vm%uaaltkka and aped, togtther
+of
+q
+tith
+horsepower q$erencaand percentage
+d
+dif%vnca.
+Alt. ft., WI. H&
+
+R.p. m.
+
+5,ZOC-62.74 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+
+x.
+..-
+
+hlmatin-x
+
+umatr*X
+x
+
+Borneo.
+
+—
+
+. . . . . . . . . . . . .._. _ . . . ..__...
+
+flC&
+
+163.
+s
+
+1:m
+1,txlo
+1,m
+ll,m--w.sb
+
+176.2
+161.0
+141.6
+118.0
+
+116=
+6
+
+143.
+a
+W. 8
+l!47.
+1
+Ill. 8
+m. 6
+
+141.2
+“135.4
+135.4
+110.7
+W.zl
+
+9.1
+
+10Z0
+
+101.0
+97.4
+KL7
+66.4
+67.4
+
+L8
+l..!
+La
+.9
+.8
+
+iii
+
+%;
+n. 8
+67.0
+
+La
+L9
+.8
+.4
+.4
+
+L 66
+L95
+L33
+.77
+.91
+
+63.8
+61.2
+87.8
+bL 4
+43.6
+
+~l&O
+1;700
+i$l%
+
+19,m0-47.87 . . ..-. _.._. . . . . . .._. ._...
+
+9,100
+1,Eoo
+1,703
+
+~lg
+
+64.a
+02.8
+
+1:m
+1,400
+1,300
+
+a.c
+1.1
+L5
+3.4
+1.7
+?:
+
+E:
+63.0
+
+E
+44.9
+
+—..—
+
+3.6
+8.1
+
+?i:
+159.0
+146.0
+
+k:
+3La
+OB.
+1
+
+:; E
+2.9,10-J+Z3.09. ... . . . . . . . . . . . . . . . . . . . . . . . . .
+..
+
+k:
+
+LW
+L36
+1.!M
+L07
+1.24
+
+170.0
+In,o
+156.0
+w. o
+116.0
+
+Lo
+Lo
+Lo
+Lo
+.s
+
+L4a
+L77
+1.36
+LOO
+LX!
+
+140.4
+134.6
+124.6
+1o9.9
+9L 8
+
+:1
+.8
+.s
+
+om.Hg.
+
+R. p.m.
+
+6,300-62.74 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+..
+
+30rne+x.
+
+; U&
+
+IOmmercifd.
+
+1,330
+2, m
+1,933
+1,703
+
+.87
+.07
+.64
+
+k%
+
+ll,m-60JJ5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19,WW7.97 . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+23,10&3&w.
+..............................
+
+mmatra-c
+
+176.1
+170.5
+WI. 8
+137.9
+114.6
+
+%
+.43
+
+:E
+
+!4,loo
+1,903
+1,m
+1,boo
+1,3tm
+
+.59
+.72
+.66
+.74
+.50
+
+.4
+.4
+::
+.4
+
+f&c
+
+Brmmti.
+
+.-.. ~~---
+
+223
+.!49
+. al
+1:%
+
+4.37
+9.M
+
+Zzd
+.=
+.40
+
+1%
+a. 0!4
+
+G
+3.46
+
+t:
+!a43
+%33
+KM
+
+:E
+. 43e
+L 21
+
+4.WI
+%62
+3.m
+a.47
+7.34
+
+4198
+
+---
+
+Borneo-C.
+
+3.97
+
+6L 10
+m. 96
+57.:
+
+:8
+.66
+.77
+.91
+
+iurnatra-c
+4.23
+
+W o
+96.47
+w. &3
+m. M
+66.m
+
+1:700
+1,54)0
+1,aoo
+
+::
+.4
+
+3.76
+~g
+
+W. 8
+W-2
+U44.1
+1011.0
+m. 76
+
+t%
+
+.6.
+.7
+
+-
+
+0.66
+.h9
+
+r
+
+.s
+
+Ioo.4
+
+1%
+L 48
+
+q
+
+AL ft.,
+
+Borneo-X.
+
+L 49
+:r
+1::
+
+—.
+
+.--
+
+—--- -—-
+
+TMmE Iv.—li4.el meu7n@ha.
+.... .
+E4UME0 fud h. p. hr.
+(26?)
+-.
+
+Sumatra (%1) fuel h. p. hr.
+Cm. Hg., AM. ft.
+
+R. p.m.
+
+Stimlard X
+fuel hp. hr.
+
+I
+honk
+
+U%m
+
+........-----------
+
+Em-ll,xlo
+. .................
+
+N!-19JKKL. . . . . . . . . . . . . . . . . . .
+
+7
+
+0.673
+.546
+.&34
+.543
+. 67s
+
+2,100
+L 9W
+I, m
+1,503
+1,300
+
+.538
+. b17
+:610
+.SCrl
+.504
+
+fg
+,
+
+.635
+.614
+.607
+.523
+.664
+
+. b14
+.56
+
+:~
+.o14
+
+.610
+. ml
+
+.Ra3
+.674
+
+.018
+.037
+-. m
+
+~N&
+1:m
+kE
+
+:El
+.623
+
+am
+
+.490
+.50V
+.539
+.67!4
+
+. 6f3
+.4s3
+.m
+
+.4fn
+
+.m
+
+.6U
+.Kf7
+m
+.
+
+:2
+.679
+
+K-almatrl
+
+Borneo.
+
+x
+
+x.4cRnoo.
+
+..!.
+
+—
+
+-+
+
+—
+
+– —----- ---=.
+
+X—Borneo.
+.- r--- .“-
+
+_ 0.06
+
+2, lIXI
+1,W3
+I, 700
+I, m
+I, 3m
+
+tz
+1,300
+26.1-29,100 . . . . . . . . . . . . . . . . .
+.
+
+Ix.-sumntra
+
+.
+
+.06
+.034
+.0!4
+.tm
+
+.“
+
+m.6
+9L 6
+%!
+.632
+
+.036
+.029
+
+4.06
+
+.m
+
+!%
+8.16
+7.$3
+
+.016
+.045
+.Cm4
+.Cm
+
+s%
+
+.78
+i%
+ii!
+:y
+–1:5%
+–b. 14
+-6. Ia
+
+o:%
+.641
+.661
+.4KS
+.634
+.609
+.497
+JIM
+.634
+
+0.01
+-:
+
+w
+
+-.018
+-.034
+
+.m4
+.W6
+.013
+. ml
+.4?3
+
+L 76
+.37
+-L 31
+-8. al
+-6.74
+.743
+i:
+.189
+6.X3
+
+.64
+.517
+.6D9
+.JE3
+.m
+
+-.036
+-.033
+-.(01
+-.001
++.006
+
+- .G3b
+– .lsi
+-.197
+-.192
++LOU
+
+.bf3
+.593
+
+-. 0a9
+–.olf
+-.olb
+-.010
+-.024
+
+-1.31
+-1.9
+-tL64
+-3. ?6
+-s. 62
+
+:&
+.6s9
+
+.—
+
+REPORT
+
+NO.
+
+47.
+
+PART III.
+POTVYIR
+
+CHARACTERISTICS OF 20 PER CENT BENZOL RIIXTURI?.’
+By E. ~.
+
+k)BEETS.
+
+R&3UM&
+
+The importance of securing the best possible airplane engine fucil led to tests of a number
+of fuels in the altitude labomtoryat the Bureau of Stsndards and atvaricms flying fiekls. Among
+the promising fuals was a mixture of benzol snd gasoline, 1,500 gaUons of which were therefore
+prepared by the Gomrnmen t for distribution to the various laboratories for further tests.
+The resulte of the qmrimenta in the altitude laboratory of the Bureau of Standards are given
+in this report.
+From the results of these tests the following conclusions have been drawn: Thie mixture
+shows very Iittle gain in power as compared with aviation gasoline (~ort)
+at the lower akitudw and the lower speeds. There is very little gain in horsepower below 10,000 feet. Above
+this altitude, and at high augine speeds, the engine shows considemble gain in power, which at
+29,300 feet end 2,100 revolutions per minute is 5.8 per cent.
+While the methods of measuring fuel consumption were not entirdy satisfactory, the fueI
+consumption of 20 per cent benzol mixture appems to be about 4 per cent greater than X, at
+speeds and powers where it gives its best performance.
+POWER CHARA(XER19TIOS OF 26 PER CENT BENZOKI BfIXTUIUL
+
+The following report is based upon tests made in the altitude laboratory of the Bureau of
+St.mdards. In this laboratory the engine under testis fitdled in a concrete chamber having
+insulated walls from which the air may be partially exhauskd by mesna of a blowar, thus
+reducing the barometric pressure within the chamber to that corresponding with any desired
+altitude, up to about 40,000 feet. As it enters the chamber the air is passed over a series of
+refrigerating cds, and by this means the temperature maybe regukted during the tads. The
+engine is coupled directly to an electric dynamometer phiced outside the chamber, and by
+which the power of the engine maybe absorbed and aud measured. A complete d=ctiption of
+this apparatus and the methods of observation maybe found in Technical Report No. 44.
+The fuel herein ctdkd “Signal Corps Mixture” @erea-fter referred to as S. C. M.) is a special
+blend of gasoIine and bauzol made, up in accordance to specifications prepared by W.E. Perdew,
+assistant chemicaI engineer of the Bureau of Mines, snd presented to the Science and Research
+Division of the SiguaI Corps, United States Army, w follows:
+Dxmription.-l%e blend shaU cudst of 20 per cant by volume of commercial” 90 per cent
+benzol” and 80 per cent by volume of a special straight run gasoline. The blending or mixing
+shaII be thorough, so that aU the individual containers will contain fuel of exactly the same
+composition.
+“COMMSECIAG
+color,water WhMO.
+Irdtid boilfng pofnt, not Iowsr than 74°0.
+
+90 PEE CBNT BBNZOL
+
+“
+
+90 percentoff at
+
+S6° C. or bekw.
+% PSrmt Offat M“ ~. or below.
+End point,not above 160° C.
+Bureau of Mfnm distihtfon method. (!kh.
+
+Paper No. 166.)
+-,
+
+doring
+1ThismpcdwascmMenNaIIYimdsk.d
+o
+
+the war M Bureau of Skndards Aerom&fo Power _ts
+
+_
+
+XO. 23.
+
+583
+
+\
+
+584
+
+ANNUAL
+
+EEI?ORT
+
+NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+AEROITAT7TIOS.
+
+I!3pecijicdiona 8peci5igasoline.
+for
+Color,waterwhite.
+Odor, not .9peefhd.
+UneEturated, o producte of any cracking procwe (straight run gasoline}.
+n
+Doctor, no requirement.
+KMillation km, not more than 2 per cent.
+Recovery, not lesstham97 per cent;
+DiatilIation, tit drop, not below 50°0. nor nbove 66° C.
+20per cent not above 80° C.
+60 per cent not above 100° C?.
+70 per cent not above 116° C.
+90 per cent not above 1S5°C.
+Dry point not above 17P C.
+Bureau of Mfnm distillation. (Tech. Paper No. 166). “
+
+The engine employed in these testiwasa 180-homepower, typeE, Hispano-Suiza, built by the
+Wright-Martin Aircraft Corporation, New Brunswick, N. J. This engine has eight cylinders in
+block of four, set at 90°, aud with the following dimensions:
+Bore. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..MOm.
+(4.72~inch~).
+Stroke. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..lMm.
+(5.H8inchee].
+Compression
+ratio. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. Totslvol~g=5.3
+Clearance
+
+The engine was operatad underpresmuwacorresponding to four different altitudes, as follows:
+6,236 feet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..62.6 m..Hg.
+11,235feet
+........ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. M.3m. ~.
+18,860feet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..38. Ore.&.
+29,300feet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..26.0a. Hg.
+
+and at four different speeds at each ikitude: 1,5oo, 1,700, 1,900, and 2,100 revolutions, per
+minute.
+The carburetor was carefulIy adjusted by hand for each test, to secure the maximum horsepower at that psrticukw speed and altitude with the leanest mixture. The method of adjustment employed was as follows: Tho carburetor was first set to secure the maximum possible
+brake pull regardless of fuel wmmunptiou. The fuel supply was then cut down until the
+power felI off. Then the gasoline flow was graduaUy increased until the maximum brake pull
+was again secured.
+Iu these tests two sets of runs are made at the various speeds at each barometric pressure,one
+on the fuel being tested, the other immediately before or after, with a comparison fueI, known
+to th~ laboratory as standard X. This method of observation ensures that the engine is in
+practically the same condition during the runs on each fuel.
+The fuel designated herewith M standard X, and manufactured by the Atlantic Rdning Co.
+ae one of their standard praducts, fultllk the specifications of the Bureau of Aircraft Production
+for aviation gasoline (export] Speci13cationNo. 3512.
+As a matter of interest the performance ofcomnmrcial gasoline haabeen tabulated and plottcd
+with the results obtained from the S. C. M. arid X. The values for commercial have been
+tabulated by percentage differancea between this fuel and X secured in another test.
+Commercial gasoline is &fair sample of the fuel usually sold at automobile filling stations
+and is of a lower grade than X. It was purchased under the United Statea General Supply
+Committie Specifktion for 1918.
+In” order that a f air comparison of the performance of the engine with the various fuels
+could be made, the horsepowers in each case were corrected to 0° C. The method of making
+this correction is described in Part I of Report No. 45.
+Ii--working up the data secured from these taste, it was found that the homepower diflerencea, particularly at the lower altitudes, were so small as to make the usual method of fairing
+curves too uncertain, This can easily be understood by reference to plot 1. It will be readily
+seen that sevaral curves could be drawn through the points obtained from the tosia at 5,235
+feet, any one of which might be considered as an average of the results. One set of curves
+
+,
+POWI?I.R
+
+CEARAOTERWL’IOS
+
+OF FTJEL&l EOE
+
+AIRCSEAJ7T ElTGI17ES.
+
+585
+
+,..
+
+—.
+.-._
+...
+
+---
+
+.-
+
+———
+
+-.
+
+—
+
+—.
+-.
+
+—
+—.
+
+586
+
+ANXUALREPORT NATIOX9ALADVISORY
+
+OOIKMITTEE FOR AERONAUTICS.
+
+PfofNa 6
+
+—
+
+flevohn%mspef
+
+.Winufe.
+
+.
+
+L4w”
+I
+Ziw
+
+I
+
+MO~
+
+FUEL LVS+LLATXUV
+U&9UMAUOF M’NES
+wama zsl-d++~a
+7-1>/8
+
+W
+
+~Ypuc.+7AWend+U%
+
+8enzof
+
+—
+
+N%?Fm
+
+. H8
+ta7w.o.K
+COW.
+WW
+o~vl?y.
+a 748.7. q8e.SZl
+m
+
+—
+
+-
+
+Cimot
+
+=3.27. Ooctor “ -
+
+Res!dm.&own
+
+_.
+
+Loss/%
+
+.43
+m
+
+q
+
+4
+-u
+
+--II
+
+Plot No. 7
+
+Altdu& in Feek
+
+m?
+
+flof~a
+
+0.
+
+*mf
+
+O&filled.
+
+mr
+
+POWER CHAR40TERISTICS OF FUEU3 FOR ~ORAl?T
+
+E?XG~.
+
+587
+
+might show S. C. M. higher than X, and another, equally fair, might show S. C. M. lower
+than X. It waa obvious, therefore, that some better method should be employed.
+By drawing fair curves through the observed points the approximate horsepower at each
+speed and pressure was obtained. These, in turn, were plotted against atmospheric pressure.
+In this plot, the points lie very nearly on a straight line. It wss found that three out of the
+four points did actually lie upon a straight $ne and the other very close to it. Repotting the
+horsepower obtained from the straight lines against speed a second time showed the probable
+error in plotting, and by carefully repeated trials, the curves of plot 1 were obtained. In
+this way, the results obtained at one altitude ware used to check the results obtained at the
+other altitudes.
+One feature of the lines of horsepower plotted against barometric pressure was particularly helpful in this method of analysis. It was found that the intercepts of these lines on the
+axis of zero ptessure were quite evenly spaced. For example, in the equation for the line
+y=(zx-il
+wherein y= horsepower
+z= barometric prwsure in cm. IIg
+the values of b increased by even increments, for even dit%rences of speed.
+This method was employed for all three fuels involved, and the rauminder of the data for
+plots 1 to 7, inclusive, was derived from these average curws
+These results are also given
+in t.abuhr form, at the end of this report.
+Plot 1 shows the horsepowers of S. C. M., X, and commercial at various barometric
+pressures, plotted against revohnfions per minute. These curves show a considerable gain in
+horsepower of S. C. M. omr both X and commercial at the higher altitudes.
+P1ots 2 t.a 5 show the horsepower plotted against altitude at diflerent speeds. Plot
+2 shows that S. C. M. and X are praoticslIy the same for 1,500 revohdions per minute for the
+entire range of altitudes. Plot 2. exhibits a slight divergence of the S. C. M. curve from that
+of X with increase of altitude, while in plot 3 the two curves practically coincide at the
+lower altitude, but diverge more than in plot 2 at the higher altitudes. “PIot 4 shows a
+stilI wider divergence at 29,300 feet.
+In plot 6 the percentage gain in power is plottti. against speed for S. C. M. as compared
+with X and with commercial. Plot 7 shows the same results plotted against tdtitude at
+various speeds. Both sets of curves simpiy accentuate the characteristics indicated by the
+curves in the previous *w.
+P1ot 8 is the distillation curve of the fuel obtained by the Uhited States Bureau of Mines
+and according to the method described in Bureau of Mines Toehnical Paper No. 166. For the
+purpose of comparison, the distillation curves of X and commercial are plotted on the same
+plate.
+Plots 9 to 11 are from the fuel-consumption determinations made during the teats.
+Owing ta the unsatisfactory operation of the fuel-weighing device, thwe results should be
+considered as comparative anly.
+Plot 9 shows the actual fuel consumption in pounds pm horsepower hour plotted against
+revolutions per minute. The curves are drawn through the arithmetic means of the various
+points determined.
+In plots 10 and 11 the differences in fuel consumption are pIotted as percentages of the
+fuel consumption when using X fueL The lines are simply to assist in folIowing through the
+various results. These @ures should not be mgsidared as final.
+CONCLUSIONS.
+
+Siial Corps mixture shows very little gain in power ss compared to X below 10,000 feet
+altitude. Above that altitude thare is no gain of consequence at the lower speeds, but a
+marked gain at the higher speeds. It is, therefcwe, to be considered a high-altitude fuel. The
+fueI consumption would be about 4 per cent greater than X at the altitude where the fuel
+gives ita best performance.
+
+.—
+-.
+
+-.
+
+.
+
+588
+
+Pld)va to
+
+AJKN”UASG
+REPORT
+
+.4tiiud% in Feef
+
+NATIONAL
+
+ADVISORY OOIUhUTTEE FOR AERONAUTICS.
+
+,
+
+689
+
+POWER OH.ARAOTERISTICS OF I?DEIS FOB AIBOTiAJ?TEH~.
+llzbk 8hmIIing horsepower nd ho786poto6rratio8@r
+a
+
+cram
+~
+
+dtltude,
+
+feet.
+
+6z6-6J%s . . . . . . . . . . . --------
+
+WI
+y%
+1:EU3
+
+a.su~
+
+. . . . . . . . . . ..-.-..
+
+S/#
+i700
+~600
+
+33.0-18#5!l -----------------
+
+Iwo
+LsLo
+M. 7
+14s.9
+14%
+6
+ML 6
+199.
+s
+II&T
+
+fl&l
+1:700
+1,EJ?J
+
+mm-a3co...-.-.
+—------
+
+9, llxl
+~~
+&501
+
+X, and cinnnwcid at?miou# @8 and altitudes.
+1
+
+T
+‘-?%-’ m%=’
+
+kivdatlom
+
+m UIInuta.
+
+9,
+
+S. C?.hi.,
+
+as
+
+M.6
+656
+ma
+
+lms
+ml.o
+16S7
+Ins
+
+lu.o
+140.0
+IzWl
+UL8
+
+as
+
+LO
+
+;:
+
+L6
+L6
+ki
+
+. . .. . .
+.
+
+Pu cent
+E2,
+x
+
+1
+
+9.6
+
+Liz
+a ef
+
+am
+CL66
+am
+&476
+
+lw.s
+ml-l
+l&s.9
+
+LM
+L071
+
+146.0
+lw.d
+187.9
+118.a
+
+&6
+20
+k:
+44
+2.9
+2.s
+28
+
+4.s3
+lW’
+9.Tr
+9.86
+
+mt
+&17
+6B.
+I
+46.{
+
+h7
+8.9
+8.0
+8.8
+
+lao7
+&w
+&m
+4.69
+
+.—
+
+kg
+
+Ioo.!i
+97.
+d
+CM
+m.’l
+
+_..-
+
+Z41
+L4S
+
+*O
+LX
+
+—..’
+
+0.?76
+11786
+
+W
+6.78
+L77
+H&
+
+1%.6
+
+0.9
+
+;:
+
+.
+
+L 78
+
+,
+

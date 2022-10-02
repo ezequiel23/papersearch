@@ -1,0 +1,4481 @@
+—.
+.._:_ :-,.
+
+=.2-’--,,-.,.
+
+&
+
+,:,.
+
+.
+
+.
+
+A
+
+REPORT No. 63
+
+*
+a
+
+PROPERTIES AND PREPARATION OF
+CERAMIC INSULATORS FOR
+SPARK PLUGS
+v
+
+NATIONAL ADVISORY COM.MITI!EE
+FOR AERONAUTICS
+
+PREPRINT FROM I?WJ!HANNUALREPORT
+
+.
+
+,
+
+wA82mTGToN
+GOVERNMENT
+
+PR2W1’2NG OFFICE
+1920
+
+*
+
+—..
+
+REPORT No. 53
+
+PROPERTIES AND PREPARATION OF
+CERAMIC INSULATORS FOR
+SPARK PLUGS
+v
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUALREPORT
+
+WASHINGTON
+
+,
+
+GOVERNMENT
+
+PRINTING
+1920
+
+OFFICE
+
+REPORT No. 53
+.
+
+PROPERTIES AND PREPARATION OF CERAMIC
+INSULATORS FOR SPARK PLUGS
+Part I.–METHODS OF MEASURING RESISTANCE OF INSULATORS
+AT HIGH TEMPERATURES
+By F. B. SILSF!?JE and R. K. HONAhiAN
+
+Part 11.–ELECTRICALRESISTANCE OF VARIOUS INSULATING MATERIALS AT HIGH TEMPERATURES
+By 1?. K. HONA,MAh’ and E. L. FONSECA
+
+Part 111.—PREPARATION
+AND COMPOSITION OF CERAMIC BODIES
+FOR SPARK-PLUG INSULATORS
+BY A. V. BLXIKIIfGl?R
+
+Part W.-CEMENTS FOR SPARK-PLUG ELECTRODES
+By H. F. STALEY
+
+159827-20—1
+,
+
+REPORT No. 53.
+PART I.
+—.
+
+METHODS
+
+OF MEASURING
+
+RESISTANCE
+
+OF INSULATORS
+
+By F. B. SILSBEE
+
+and
+
+R. K, HONAMAN.
+
+AT HIGH TEMPERATURES.’
+.
+
+>
+
+RJkJMi%
+This report describes in some detail the preliminary experiments which,were made on the
+conductivity
+of spark-plug insulators in order to develop a satisfactory comparative method
+The measurements were made at temperatures between 2000 and
+for testing various materials.
+9000 C, and with both alternating and direct current at voltages as high as 2,OOOvolts.
+The results obtained confhmed the experiments of earlier observers at lower temperatures
+in indicating a very rapid decrease of resistance with increase of temperature
+in porcelain,
+This decrease is, however, a gradual one and there
+mica, fused silica, and similar materials.
+is no definite temperature
+at which the material suddenly changes its properties.
+The results
+of conductivity measurements can be most conveniently expressed by stating the temperature
+(2’,) at which the, material has the arbitrarily selected resistivity of one megohm per centimeter
+cube. Table 1 gives the values of this constant for various substances.
+The measurement
+with direct current showed the presence of. disturbing
+po~arization
+effects which make the apparent resistance of the specimen vary with the magnitude and ‘time of
+This effect can be eliminated by the use of alternating
+application of the measuring voltage.
+current in, making the measurements
+and the later work on a wide variety of substances, the
+“ results of tvhich are given in Part II of this report, was done by this latter method.
+There is a wide field for further investigation of this subject, as the mechanism of conduction
+... ..
+in this class of materials is very complex,
+INTRODUCTION.
+The purpose of this report is to describe some measurements carried out at the Bureau of
+Standards during the past two years, on the resistance of various insulating materials at high
+temperatures.
+This work was undertaken with a view to studying the relative merits of various
+insulators for use in sparkplugs, and in particular to assist the ceramic laboratory of the bureau in
+The method finally adopted as a result
+developing improved porcelain bodies for this purpose.
+of this work for the comparative testing of materials is described briefly in Iteport No. 51,
+Part III, the results of a large number of measurements on a wido variety of materials are given
+in Report hTo. 53, Part 11, and the development of the ceramic side of the investigation is given
+The present report will be confined to a description of the various”
+in Report No. 53, Part III.
+phenomena observed in the experiments which led to the method finally adopted.
+The electrical and thermal conditions under which a spark plug is required to operate
+differ considerably with the type of gasoline engine used. ,Measurements with embedded thermocouples have shown that the temperature
+of the body of the insulator within the metal shell
+The tip of the inner end, however, may reach
+seldom exceeds 250° C. in water-cooled engines.
+temperatures
+as high as 900° to 1,000° C, It therefore, appeared desirable to study the resistivity of the specimens in the range of temperature between 2000 and 900° C.
+1ThisReport
+
+was confiderrtiially circulated during the war as Bureau of Standards Aeronautic Power I’lauts Report No. 1S.
+3
+
+4
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+A13VISORY
+
+COMMITTEE
+
+I?OR AERONAUTICS.
+
+The electrical dresses applied to a spmk-plug insulator by the a-i-erago magneto or bnt tcry
+coil ignition system used for firing gasoline engines are quite peculiar rmd cliificult to duplimt e in
+The cycle of operation (see Report No. 5S, Part 1) following thQ
+any method of numsurmnent.
+opening of the primary brwdmr contacts consists of a rapid rise of the potw]tia] npplicd to tlw
+spark plug from zero t.o a -value sufllcicnt to break down the spark gap in tho engine cylinder.
+The break-clown voltage is of the order of 6,000 ~olts and is reached in a few hundred thouAfter this a compurutively low voltage (S00 volts) nminttiins the electric
+sandths of a second.
+arc between the spark points ancl ltists for K few thowmndths of a second.
+Sinm tho interval
+voltiigc
+ap])lie.cl
+over
+between sparks is of the order of 0.1 second, it will be seen that the average
+a complete cycle is quite low and has been found to be approximately
+150 -iolts. ‘nose peculiar
+electrical condi tions sho LIIC1be kept in mind when considering the various methods of mmsurcment described below.
+The materials studied in this investigation included porcelains, gltiss, st eatite, mira, and
+fused silica, as these constitute the only class of substances sufficiently heat resisting for usc
+While the detailecl studies of polarization, etc., described in this rrport. wero
+in spark plugs.
+made on only a few of the porcelain samples, the same efforts seemed to bo present to grcwtor
+The
+or IGSSdegree in all cases and the process of conduction is probaldy similar in all of them.
+work of earlier invest igatorsl has shown the complex nature of the phmxnena,
+but as y ct. no
+complete and satisf uctory theory has been workecl out to account for them.
+APPARATUSAND SPECIMENS.
+Most of t,lle work reported in this paper wus done on cwp-shaped spwi mcns simihr t(J tht?
+standard test piece NTO. , adopted by tho A. S. T. M., except t htit the side walls were of uniform
+1
+The cross section of this specimen is shown in figure 1. The prinripnl d~atltag~s
+thickness.
+of this type of specimen are:
+(1) The conduction takes place through the bottom of the cup, which is of W_inito
+and easily measured dimensions.
+(2) The large area and small thickness of the bottom insure a relatively large current.
+even with material of high resistivity.
+(3) The path over the rim of the cup for any surftice lealwge is relatively long.
+(4) A satisfactory contact can be made betweeu the specimen and the clectrodw lqimrnersing the bottom of the cup in a conducting fluid (in these exptwiments,
+meltecl solder) and by inserting seine of this fluid inside tho cup to f(ml ~ tho
+upper electrode.
+These. cup specimens wero used in the furnace shown in figure 2. Tlw heating coil insvrtcil
+in the plug below t,he specimen was found necessary to compenwito fw’ the flow of hcut through
+the bottom of the furnace.
+By propw adj ustmenfi of the relative amounts of current through
+the main winding and through this additional coil, tho tempemt urcs it]side and outsid(~ thr rup
+could be equalized.
+These temperatures
+were mmsurccl by two cop]]c~r-c(}llsta~~t~ltlthwnmcouples, one of which was inserted in a closed porcelain tube which dippwl bulow the surfaco
+of the solder in the interior of the cup, while the other was cmbcddcd in the st c~’1
+cup ro]lt ail~il~g
+the solder below the specimen.
+Readings of the resistance were taken only when thcw two
+thermocouples
+showed subst mutitilly equal temperatures.
+In cases where cup spocimms wore not ava.ilablc+ measuromonts wwo mwlo on tisscmblcd
+sparli plugs, and also on spark-plug insulators , and on short piww of tU]JiIl&
+In llll?sc (’asl!s
+the conduction took place between a central electrode amd oithw the shd.1 of tho spark plug
+or a band of platinum deposited arouncl the center of the outside of t,ho insulator or tul )c. Tho
+nmasuremcmts with this typa of specimen wore definite in indicating tho rwistanco of t.hc specimen, but owing to the uncertainty as to the area of contact and the location of the linw of current” flow it is cliffkult from such data to computo with accuri~cy tho t ruo rwistivity of t.hti
+material.
+1~ra~,T., Phil. Meg. ser. 5, vOI. 10, P. 226, 18E0.
+Kinnimn, C, S., Pror. Am. ~eramic SOS.17, p. 422, 191s.
+Haworth, IL F., Proc. Roy. Sot. Land. A 81, p. 221,1908,
+SomemflIe, A. A., Phys. Rev. 31, p. 261,1910.
+Chmphcll, Nm. Phys. I& 11, p. 207,1914.
+
+Poole, H. H., Phil. Msg. 34, p. 1S3, 1917.
+~rw, P. M, Tram, Am. Ekctrechem. SQC.,WY 5, 1918,
+
+—
+
+PROPERTIES
+
+AND
+
+PREPARATION
+
+OF
+
+CERAMICl
+
+INSULATORS
+
+FOR
+
+SPARK
+
+PLUGS.
+
+I
+
+I
+
+I
+
+I
+
+I
+
+g
+/
+—
++ &/ecAx7!e
+
+I
+FIG. 1.—Porcelain
+
+2.!5mm
+test specimen,
+
+..—
+Fig.
+
+3.
+
+.
+
+—
+
+FIG,
+
+4,—Connectione high voltage D, 0, measurements.
+for
+
+5
+
+Oa
+
+1
+6i
+
+7iWW
+
+i
+
+Mu
+
+I
+
+260
+flkhvfne
+/
+
+\
+
+w
+
+604ffm
+
+mwao
+Am-d
+/
+
+.?W
+6
+200$
+$
+
+\
+5ZWM
+
+I
+
+f!
+m .ys
+z<
+16U”;f
+
+z
+
+i
+
+$4J4010
+c
+..
+t
+
+t
+
+11-4
+
+u
+$
+$?
+.2J&#W
+
+Ulu-willl
+
+$
+K
+
+nll
+
+—..
+
+f4_,. [
+
+n
+.-lLLJ_
+7%
+/k57hwn?ds
+
+q
+
+Ma:
+~
+
+/
+
+NCE
+W/T14 TEMPERATURE
+s 00 Vo/fS 60Cyd@ Cup5../.
+Vers. 7Zmp.
+/- ResjsfonCe
+—
+
+/
+
+I
+
+vARlA770/VOF/7i5/SZ4
+
+z-
+
+l-u
+
+\ ,
+
+2- ~ Vers. *mperofure.
+3 - Log,. R Vers. Z+mp.
+
+1208
+b
+
+\
+IM
+I
+
+\
+
+80
+
+\
+
+—
+
+60
+
+I04L?W
+
+4a
+
+\
+
+/
+
+w
+
+\
+
+Led
+
+FIG. 2.
+
+“
+
+4
+
+.
+
+J
+o~
+PlofNo. S
+
+104
+
+w
+Tcmperofu~ ii7
+
+40D
+-C
+
+w
+
+~
+
+PROPERTIES
+
+AND
+
+PREPARATION
+
+OF
+
+CERAMIC
+
+INSULATORS
+
+FOR
+
+SPARK
+
+~
+
+PLUGS.
+
+For specimens of this shape the electric furnace shown in figure 3 was used, and temperatures were indicated by a single thermocouple
+placed in an iron plug which supported the
+9pecimf3n.
+For reducing the results of either type of specimen from the observed resistance to a basis
+of the resistivity of the material the factors connecting these two quantities were computmd
+from the dimensions of the specimens.
+The rc%istivity is obtained
+by multiplying
+the
+observed resistance by the factor K, where for the cup specimen
+.—
+
+T
+
+d2
+
+(1)
+
+‘c–4 t
+and d is the diameter of the bottom
+For the tubular specimen
+
+of the cup and t the thickness
+
+K=
+
+of the cup in centimeters,
+
+“21r1
+2.30 ]oglO~z
+l?,
+
+(approx.
+
+2)
+
+where Z equals the length of the external conducting band measured parallel to the” length of
+the specimen, and R2 and RI arc+,respectively, the external and internal radii of the insulator.
+In most of the work the resistances were measured by reading a voltmeter connocted
+across the specimen and an ammeter in seri& with it ancl taking the quotient of these values as
+the resistance.
+As will be seen from the following, a wide variety of sources was used to provide
+the applied voltage, and the indicating instruments were correspondingly
+varied in character.
+VARIATIONOF RESISTANCE WITH TEMPERATURE.
+The first experiments were carried out with an appli~d direct-current
+voltage of about
+which was obtained by rectifying with a kimotron a 3,000-cycle voltage supplied
+from a step-up transformer.
+The connections used to obtain this rectification and to reduce the
+fluctuations in the resulting continuous voltage are shown in figure 4. This rather complicated
+system was chosen in an attempt to duplicate to some extent the voltages existing in ignition
+systems, a.ncl, although this source of voltage was later abandoned, the data obtained with it
+brought out the salient facts in regard to this type of conduction.
+The most striking of these
+facts, as verified by other measurements made later, is the very rapid clocrease in resistance of
+This variation amounts to approximately 2 per cent
+the specimen with increase in tt~mperature.
+If the results are expressed by plotting resistance
+pes degree centigrade at all temperatures,
+m. tempcratum,
+or conductance VS. temperature
+(see plot 5), the resulting curves are so steep
+as to render it impracticable
+to express the data over an extended temperature
+range by a
+single curve.
+It is found, however, that by plotting the common Iogaritlun of the resistance
+against temperature,
+as is done in curve No .“III, plot 5, and in plot 6 a convenient line of
+slight curvature is obtained,
+It will be men from this plot that if this curvature is neglected,
+the results can be represented approximately
+by the equation
+2,ooO volts,
+
+Log10R=a–5t
+This method of expressing
+resistivity, since combining
+
+the results is very convenient
+the relation
+
+(3)
+in reducing
+
+the data to a basis of “
+
+P=Kx R
+
+(4)
+
+LoglOp a +Iogl, h’– b t = c – b t
+=
+
+with equation
+
+(5)
+
+(3) one obtains
+
+In this equation L and c are constants of the material and are independent of the shape
+and size of the specimen used. Unfortunately,
+however, the values obtained for one of these
+constants depends very markedly upon tho other, so that a slight error in one will cause a compensating change in the other,
+They are, therefore, not well suited for comparing the relative
+merits o~ the ~ifferent materials and for this latter purpose it has been found convenient to
+(T.), which is defined as the temperature
+at which the
+compute an ‘reffective temperature”
+183136—20—2
+
+8
+
+ANN”U&
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+material has the arbitrarily selecteii resistivity
+may be computed from the equation
+
+COMMITTEE
+
+of 1 megobm
+
+T,= c~6
+
+FOR
+
+AERONAUTICS.
+
+per. centinmtw
+
+cube, and which
+
+[6)
+
+This value of T, rangas from 350° in the poorer grades of porcelain up to SOOO
+for fused
+silica, and is a convenient index of the value of the material as an insulator tit. high tmnprwatums.
+An inspection of these resistance-temperature
+cur~es shows a completo ahsonm of any
+critical temperature at which the material undergoes an abrupt chwnge in its resist imco. This
+shows the error of tho commonly accepted idea that, porcelain lnwaiis tiown ami bwotntis conThis belief probably originated from cwpmimcnts in which
+ducting at a definite temperature.
+the temperature of a porcelain sample was gradually raised while being continuously sul~jortcxl
+to an applied voltage.
+The effect of the current flowing through the samplo in such cases
+F
+SIL@kd
+by
+would be entirely negligible up to a certain tcnnpertiture at which the power ~
+()
+the measuring current became comparable with the rate at, which heat could bo dissipatuil tu
+Owing to the very rapid rate of change of resistance with tcmptuwturej a
+the surrounclings,
+very slight further increase in temperature would materially decrease tho rosisttuwo find conloss. L-nlcxs the specimen was in a position to give ofl hmt frwdy
+#
+() .
+.
+to its surroundings the tompcrature would rise rapidly, causing a furthtir derrmso in resist.tmcc,
+thus loading to an unstable state which would rapidly causo tho fusion of tho mut oriid and thu
+passago of an arc.. The rapidity of change of resistance wit~ temperature malws this point. of
+instabiWy quite definite, provided all the condit,if ms of the expmiment arc main taino~l constant, but this apparent critical temperature will depqnd very greatly upon the c.ont act Imtwcon
+the specimen ancl the furnace, upon the applied voltage, and the other conditions, so thtit this
+is in no sense a specific property of the material.
+The magnitude of this heating effect is exemplified by the behavior of u porcelain sample
+tested when hot—for exampk, at 500° C. At this terupertit.ure, the resistance of a centimeter
+cube of ordinmy porcelain is about 100,000 ohms, and if a ~olt age of only 500 ~olts pcr n~illimeter (i. e., only about one-twentieth
+of that required to puncture it while mhij be appliwi,
+the current flowing will be 50 milliamperes and the power dissipated in the smnple will be 250
+Wrltts. This will suffice to raise the temperature of the srunple at, a rate of about 100° C. per
+second and will cause its rapid ciestlruction.
+This heating of the specimen by the measuring current was observed on numerous occasions
+when making tests at 2,000 and 1,000 -rolts, and in each case the samples on remo-ral from the
+furnace were found to contain one or more spots whe!e the porcelain lnui. hcen fuswi inio a
+In the later work at lower ~oltage this eflect was not present,
+glass by the intense local heating.
+and readings were taken only when the current was substantially
+constant.
+sequently
+
+increase the
+
+POLARIZATION.
+The early measurements with high voltage direct current showed a number of puzzling
+discrepancies, such as a Tariation of the apparent resistance with the volt tigc used in nmking
+the measurement
+and with the time of application of this vo~tage. Plot 7 shows this vnriation of resistance with voltage as observed with a porcelain cup specimen.
+Such (iiscrcpancics
+indicated the presence of an additional phenomenon to be reckoned with, which in the ul.wencc
+of definite knowledge as to its origin was called ‘‘polarizat ion,” anti will be so referred to
+throughout this report.
+The fundamental manifestation
+of this so-called, polarization is that if a const+mt (iircct..
+current voltage be applied to a specimen, the resulting current will ciecrease at- first rapi{ily
+and then more gradually, as is indicated in plot 8. lle reduction in current is often equivalent
+to an increase in resistance by a factor of 10 or 20. If the specimen is allowed to remain at a
+high temperature but without applied -roltage for some tirre, the effect gradually clisappmrs,
+but a considerable time is required to accomplish this. The disappearance is rcore mmid at
+
+PROPERTIES
+
+AND
+
+PREPARATION
+
+OF
+
+CERAMIC
+
+INSULATORS
+
+FOR
+
+SPARK
+
+PLUGS.
+
+44
+.81
+
+.
+
+r
+
+,
+
+I
+,
+
+.4
+
+I
+
+\.\
+
+.~
+
+T—–r-rr-’l
+
+,
+
+I
+
+,
+
+LagwR * ZS4‘,0403+. 44*72
+0. Zs4 b -0.0103 c q 943
+~-=o.olgmeoohm~cmcube
+L
+
+1“ ‘- 7=
+, ’3Y”’I“:-r
+
+\
+~
+
+6
+,4
+.
+
+z
+380
+
+\ ,
+
+w
+M
+Tempen7fure Ii7 ec
+
+/00
+
+PlofNo.6
+
+4J0
+
+\
+w
+
+‘m--t-t\
+
+12
+
+!1
+
+1.
+
+PlotNo.7
+
+I
+I
+I
+I
+I
+I
+I
+VARIATIONIJVAPPARENT
+RE~fSTANCE
+WNh O.C. Measuring Yolfoge
+CUP /8A
+CReadthgs taken ;mmed;b+elyofferopp
+
+Volfeqe Applied
+
+fi.
+
+Plof No. 9
+
+Temperature
+
+in “C
+
+9
+
+ANNUAL
+
+REPORT NATIONAL
+
+tiot
+
+ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+..
+
+M 8
+
+The
+
+in Pfinuiss.”
+
+‘
+
+POLARIZATION – —
+With
+ACmd
+O.C
+SUPEfWOSED.
+CUP 288
+mnp. +Zs=c
+.?80voltsD.c
+
+&w
+-. ac.Reveme.*
+
+/
+
+9
+.8
+2
+:7
+
+-At
+
+A4kd
+
+--
+
+–
+
+302
+
+. A C. (.fffutive.)
+
+..
+[ –
+
+g~
+
+7
+
+-
+
+*
+
+C.RSIIWM
+)
+
+“~ 5
+2
+k
+~4
+
+R“
+
+I
+k .%Mantqo.C.- ~
+
+*AL
+
+c
+
+.
+I
+
+k’
+1
+
+2
+
+I
+t
+
+i
+
+A
+
+0:
+e,
+flQf
+
+[
+
+4
+t40,
+
+It
+
+/
+A.CRen-av.?d
+
+I
+a c,Adddi
+
+I
+8
+
+/2
+&
+Ttme m Pfinutss
+
+d
+
+a
+
+Z#
+
+PROPERTIES
+
+AND
+
+PREPARATION
+
+OF
+
+CERAMIC
+
+INSULATORS
+
+FOR
+
+SPARK
+
+PLUGS.
+
+11
+
+high temperatures
+than at low. Plot g gives a record of the variation of the apparent
+resistance of a glass beaker, as measured with 1,000 volts direct current, after various applicaThe course of the experiment is indicated by
+tions and removals of the measuring potential.
+the arrows, and the duration of each period of application or of rest is indicated on the curve,
+The lowest and highest curves give the resistance as observed with very short application of
+the testing -voltage just prior to the polarizing test and on the following clay, respectively,
+The apparent permanent increase of resistance observed with this specimen serves to explain
+some mysterious results obtained at an earlier date, in which one specimen had shown an
+increase of resistance to more than twenty tim.e$ its initial value after several successive tests.
+The fact that an appreciable time is required to obtain a reading, even with quick acting direct
+current indicating instruments,
+and that during this time the specimen is being polarized, is
+probably a complete explanation of the variation of apparent resistance with applied voltage,
+voltage is suddenly reversed after a specimen
+sliown in plot 7. If the applied direct-current
+has become polarized to a considerable extent, t~le initial current in the new direction is found
+to be approximately equal in magnitude to the original current and much greater than the value
+immediately preceding the reversal.
+(See plot 10.) This hplies a counter 11. M. F., and an
+attempt was made to observe such an effect by connecting an electrostatic voltmeter across
+the specimen.
+No residual deflection of this meter was observed when the supply current was
+This result is to some extent
+removed, even after long-continued polarization of the specimen.
+in contradiction to facts mentioned by other observers.2
+A magneto having alternate distributor points of the same polarity connected together
+was also used as a source of voltage and the polarizing effects found to be in every way similar
+to those obtained with a steady direct-current
+source of the same average voltage (150 volts).
+When alternating current is applied to a fresh specimen, there is no polarizing effect and
+the current remains constant indefinitely, except l~-hen the current is so large as to produce
+When alternating current is applied to a specimen which has been
+heating of the epecimen.
+previously polarized by direct current, the polarization disappears at a more rapid rate than if
+the alternating current had not been applied.
+An attempt to throw light on these complex phenomena was made by applying alternating
+This was accomplished by connecting a
+and direct current simultaneously
+to a specimen.
+By opening the primary circuit of the transformer,
+transformer in series with a generator.
+or the field of the generator, either source of E. h~. F. could be eliminated without opening the
+The alternating-current
+circuit or interfering with the current flOW from the other source.
+voltage was measured across the transfornler terminals with a moving iron voltmeter, and the
+direct-current
+voltage by a d’Arsonval type direc~current
+voltmeter
+across the generator.
+The alternating current through the specimen W~S passed through the moving coil of an electroby an alternating
+Current of constant magnidynamometer,
+the fixed coil of which W~S excited
+tude and in the same phase as the alternating voltage applied to the specimen.
+The direct
+current through the specimen was measured by a direct-current
+milliammeter
+connected in
+With this arrangement,
+each pair of instruseries with the specimen and the dynamometer.
+ments measured only its particular component of the resultant current and voltage and was
+Plot 11 shows the variation with
+not affected by the presence of the other component.
+time during the course of the experiments of the resistances as computed from the two comIn this experiment the maximum value of the alternating-current
+ponents of the current.
+voltage was greater than the direct-current voltage, so that the resultant voltage applied to
+the specimen reversed in sign during each alternation.
+Other experiments,
+in which the
+maximum alternating
+voltage Ilras less than the direc~current
+voltage, and the resultant
+the same effects.
+voltage was consequently unidirectional) showed substantially
+Throughout
+the experiments the temperature
+was held as nearly constant as possible,
+but a gradual drift of resistance will be noticed which can be accounted for by a slight change
+It appears from these results that the resistance of the specimen is subof temperature.
+stantially the same for both the alternating
+and direct current for all states of polarization.
+: hfax~ell,
+
+J. C., Electricity and magnetism, $271, vol. 1, p. 393, 3d ed.
+
+-
+
+12
+
+ANh’UALRJ3PORT
+XATIOXALADVISORY
+COMMITTJMlWR AERONAUTICS.
+
+Or, in other words, the polmization produced by the direct current offers resistance to the
+passage of the alternating current and the depolarization produced by the alternating current
+reduces the resistance offered to the passage of the direct current.
+When alternating
+current alone was applied to a fresh specimen, the pcmw factor of the
+If, howe-rer, the specimen had recently been
+circuit was found to be substlan tially unity.
+polarized fiy the application of direct current,, the power factor was somewhat reduced: ~alum
+as low as 0.9 ha~-ing been observed.
+The data described above are quite insu.fllcient for the development of any complete theory
+of this polarization! but it would appear that the assumption of a counter E. M. F. is rulccl out
+both by the rxxperiments of combined tdt.ernating and direct current and by the difhulty of
+imagining a mechanism capable of producing a counter E. M. F. of the order of sev-erd thousand
+volts, which would be required to produce the obsemcd decrease of current-. A possib]c explanation may be developed on a basis of the migration away from orle electrode, of the ions ca~.ing
+the current,, thus lea~ing a scarcity of ctirriers for the further passngc of current in the orl.gmd
+direction, but providing a plentiful supply for cuments in the reversed direction.
+Another
+suggested explanation is the formation of rrsisting films which may COT a coneiderable part
+cr
+of the area of the electrodes but which are rem?ily rrmo~’ed by electrolysis on ‘rcwvsnl of the
+current.
+Tests made using platinized surfaces as electrodes instewl of the n:eltwl sohkw
+It may be noticed in this connection that wl:eu the samples
+showed no difference of beha-rior.
+were’ rernovecl after cooling, the solidified solder }~clhered firmly to both surfaces of the cups
+which h~d been treated with direct current., but COUIC1 very readily peeled off from spccimem
+he
+which had been tested on alternating current.
+
+,
+
+DISCUSSION OF METHODS FOR MEASURINGRESISTANCES.
+As a result of the data obtained in the preliminmy experiments just cl~scribcd, it, was
+decided to adopt as the most satisfactory methocl for the rapid comparison of diflereut. types
+of immlating materials the volt-ameter method, using alternating current.
+under these condit ions the observed resistance is substantially
+independent of the frequency, -roltageJ and t inm
+of application, and the convenient values of 60 cycles and 500 voltti were adopted for the later
+work. PlcJt 6 shows typical results obtained by this method and indicates the ngrecmcnk
+It should be ~cmembcredj howcvor,
+attainable on successive runs even at different volttiges.
+that the results thus obtained are for the nmterial in the unpolarized state, tind, when in M-tual
+use in ignition system, the material may show a much higher rwis tancc to the unidirectional
+impulse from the magneto.
+Of other possible methods for such work, a bridge method using direct current would be
+objectionable because of the variable amount of polarization which woukl occur. .4t.tempts
+were made to use alterrm ting current as a source, but the mcasul ements are domplicnt.ecl by the
+effect of stray capacities shunting the high resistances which are necessary, and the tinw
+required to obtain a balance on the bridge is a serious drawback because of the rnpid chungc
+in the rwistances to be measured with even shght drifts of temperature.
+The megger, while extremely rapid and convenient, is open to the dkadvantagw
+of polmization and to the fact that the voltage supplied varies very considerably with the resis ttmre of
+the specimen under test.
+The use of a magneto in place of alternating current as a source has the great. adn-mtage
+that it approximately
+duplicates the conditions of operation in the engine. The magneto,
+however,.ie very variable in its ouput, both from iktimt to instant tind as a result of permanent
+change in the
+changes m the magnets, contact points, etc. kforeover, there is an fibI’U?J~
+operation of the machine when the resist a,nce of the specimen becomes so low as to cause the
+spark in the safet:y gap to cease, and also the total variation of the current deli-rered with various
+resistances in the circuit is comparatively slight with this type of machine.
+A method involving the measurement
+of the rate of 10SS of charge from a condenser
+connected in parallel with the specimen has been used by Cunningham.
+This method imitates
+the Conditiom of operation much more closely than does tl]c ahernating current nletho~I, but
+
+,.””
+
+PROPERTIES
+
+AND
+
+PREPARATION
+
+OF
+
+CERAMIC
+
+INSULATORS
+
+FOR
+
+SPARK
+
+13
+
+PLUGS.
+
+not as perfectly as the use of a magneto as a source.
+The principal objections are the very
+delicate string eloct;ometer
+which is required and the necessity of recording the results
+photo~ aphically.
+TYPICAL RESULTS AND CONCLUSION.
+The following table gives the results obtained by the use of the alternating current method
+on a number of types of samples, the significance of the various constants being the same as
+those defined previously.
+TABLE 1.
+Material.
+
+c
+
+lb
+
+~e
+
+502” c.
+
+pat
+
+A
+
+Fused silka . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+Bestporcslain tested . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Typical micaplug . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Average of three aviation orcelains . . . . . . . . . . . . .
+Avmagea,utomohi~ePorceTain.............
+......
+
+11.8
+11.2
+12.1
+%!
+
+0.0086
+.0066
+.(JIM
+.0035
+
+.0085
+
+“
+
+“c.
+890
+
+3;;. 106
+
+650
+48il
+
+40
+.30
+
+780
+729
+
+)’
+
+70
+
+7
+
+““
+
+These figures show a wide variation in the resistance of the different materia.ls but a rather
+surprising similarity in the constant 6, which is a measure of the temperature coefficient of their
+resistance.
+It should be mentioned in this connection that while successive measurements
+with alternating
+current on a single specimen give results repeating to a few per cent, yet
+measurements on different specimens of material which are supposed to be identical show wide
+variations in resistivity, amounting in some cases to a factor of 10, This fact tends to indicate
+that the conduction is due to a considerable extent to the presence of small amounts of
+impurities which may vary greatly in amount without appreciably affecting the composition
+of the material as a whole,
+It appears from the above data that the alternating
+current method developed is very
+practical and convenient for comparative
+measurements
+on samples of this “character, but
+there is a very wide field of investigation concerning the phenomenon of polarization and much,
+interesting work may be done in developing theories as to the precise mechanism by which
+conduction is carried on in this class of materials.
+
+“
+
+.
+
+\
+
+REPORT No. 53.
+.
+ELECTRICAL
+
+RESISTANCE
+13yR.
+
+PART Ii.
+
+OF VARIOUS INSL?LATING IWATERIALS AT HIGH
+TEMPERATURES.’
+K.~ONEIfAN
+
+and E. L.~c)NsEcA.
+
+RWJMJ2.
+
+Inveryhot
+high-compression
+engines spark plugsmay fail because t.hecore becomes aeonThe ignition current then flows through the body of the plug instead of
+ductor of electricity.
+The clata given in this report show the characteristics
+of
+causing a spark at the terminals.
+These data include values for a Iarge
+various porcelains and other materials in this respect,
+number of plugs now on the market and also vmious experimental porcelains produced in the
+laboratory and covering a wide variety of compositions,
+To secure definite and repeatable results on this property, it was found necessary to make the
+measurements with alternating current, using a 500-volt, 60-cycle supply.
+In this way the disThe conductivity of this class of materials inturbing effect of polarization, etc., is avoided,
+creases very rapidly w’ith temperature according to the law of compound interest at a rate of about
+2 per cent per degree centigrade.
+The most convenient basis of comparison for different materials is the “effective temperature” ( 2“) to which they must be heated in order to reduce their resistivity to a definite w.due. This
+value is arbitrarily taken as one megohm per cm. cube. A spark plug of normal design with
+material of this resistivity -would have a resistance of about 200,000 ohms. This value is only
+slightly above the limit at which the usual ignition system can be counted on to fwe a plug. The
+effective tempwature thus defined vnries from 870°0 in case of fused quartz (the best material
+tested) down to 280° C. for some kinds of glass, Porcelains have been developed at the Bureau
+of Standards ceramic laboratory which have an effective temperature as high as 800° C. C!ertain
+bodies recently developed for use in aviation engine& have temperatures
+of about 650° C., while
+the majority of spark-plug porcelains have 500° C. A material having T, less than 400” C. should
+be used only when the design of the plug is such that, the insulator is extremely well cooled.
+INTRODUCTION.
+The measurements described below form apart, of the investigation of spark plugs undertaken
+A number of cases were reported of spark-plug failures which ocby the Bureau of Standards.
+curred under conditions suggesting thrtt the insulating material had become conducting at the
+high temperatures
+existing in aviation engkes, an d an extensive study of this phenomenon in
+Later information combined with data accumuvarious insulating materials was undertaken.
+lated in the laboratory indicates that this cause of spark-plug failure is not as common as was at
+first thought, but may occur in very hot engines. The suitability of a material for use in spark
+plugs should therefore not be judged solely on its insulation resistance whilo hot.
+The ceramic laboratory of the bureau, in connection with this work, undertook to develop an
+improved Lype of porcelain which should be more satisfactory for use in spark plugs. As a basis
+for this a large number of samples of porcelains of various composition were made up so as to
+obtain data over as wide a field as possible, with the idea of correlating the physical properties
+of pcircelains with their compositions and heat treatment and of obtaining data of value for
+is described in Part III of this
+many lines of work. The ceramic side of thk undertaking
+report.
+1This Report was omfldentially ciroukted during the war aS Bureau of Staadarde Aeronautic Power Pkmte Report No. 19.
+183136—20—3
+
+15
+
+.
+
+16
+
+AXNUAL
+
+REPORT’ NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+The edy measurements of electrical concluctivity, which were made with direct current,
+showed the existence of vercy complex phenommm, such as polmizat,ion, etc., and it was fmmd
+necessary to develop an alternating-current
+method for test ing the specimens.
+The various
+phenomena observed during the development of this method are cliscussecl in detail in I%rt 1
+of this report, and in what follows only the method finally adoptccl and the rwdts obttiined by
+it will be given.
+METHOD OF MEASUREMENT.
+
+.
+
+The specimen of insulating materitil to be tested is heated in an electric furnace to the desired
+temperate.
+Sixty-cycle alternating current at 500 volts is impressed upon the specimen lwA voltmeter connected between these electrodes and an mmnetw
+tween two suitable electrodes.
+in series with the specimen are read simult aneously and tho quotient of eflecti~e v.jltage divided
+by effective current is taken m the resistance.
+Since the current through the specimen is rather smalI, a very sensitive milliammetw is required and in most of the work it is found most convenient. to use for this purpose a dynamometer
+wattrneter.
+The fixecl coil of this wattmeter is excited by a known current, from t.hc same source
+The moving coil of the wtittmetor is conof supply as the test current through the specimen.
+nected in series with the specimen.
+Such an arrangement provides u higher sensitivity thtin cm
+be attained with commercial milIiammetws, and is also convenient in the great range of currents
+which can be measured by using various exciting cuments,
+The connections used in this twt
+are shown in figure 1.
+Measurements made by this method on the same sample me found to give rw.ults agmwing
+to a few per cent when different. voltages, frequencies, and times of application of the mewuring
+current are used. This method has been adopted by the Bureau of Aircrtif t I?roduction nnd is
+recommended in their specifictition No. 2S,0 17.
+TWO types of test specimen have been used in this work.
+l?or the accurate nwasurcmcnt
+of the conductivity of the material, a cup specimen, similar to the American Society for Testing
+Materials, standard test piece No. 1, is very convenient, though it is not essential that t.h~ side
+walls of the cup be tapered.
+Figure 2 gives a cross section of t-his type of specimen.
+The test cup is filled to a depth of about 2 cm. (0.S inch) with melted solder, which forms one
+electrode, and is in turn set in a slightly ltirger shallow steel cup containing melted solder, which
+forms the other electrode.
+This arrangement insures good contact between the elmtrodes and
+the porcelain.
+To avoicl cracking the cup it is, of course, neccsstiry to insert the solder in the
+solid form and melt it by gradualIy increasing the fumuce temperature.
+I?igure 3 shows tho
+arrangement of the cup specimen in the furnace.
+Two thermocouples protected by porcelain
+tubes are inserted in the solder in the test specimen and in a hole in t,he steel cup, respectively.
+Ideasurements of resistivity are made only when these two couples inrJkate substuntiully the
+same temperature.
+In cases where cup specimens are not available, actuaI spark plu~ insuIat ors are tested,
+using the central electrode as one termimd and the shell of the spark plu~ M the other.
+Jn cases
+where the insulator is removed from the shell, a band about 2 cm. (().LR
+inch) wide nt t-he cent m
+of the length of the insulator was coated with platinum by painting it. with a solution of plat inic
+chloride (PtCIJ in oil of cloves and then heating the deposit to reduce the chlori[le to mchdlic
+platinum.
+This platinum belt is used as the outer terminal, and makes good contact with the
+insulator.
+The specimen is then inserted, as shown in figure 4, in an electric furntice, in which
+the temperature is indicated by a thermocouple placed in contact with tho shell of. tho plug.
+Measurements obtained on these pIug specimens are accurate as indicating the resistw-m
+of the specimen, but owing to the irregukw shape and the uucert ainty as to the mea of outer
+eIectrode in actual contact with the porcelain they are not suitable for accurately measuring
+the resistivity of the material.
+We have, however, computed, from the usual formula L for
+~For eoncerrtric cylindars
+
+of kgtir
+
+L and diameter dl and & the factor mmreoting resistance end redstivity is
+
+‘-(=*)”
+For the cup spscinrezrs of dfameter D and bottom thtokna?s t
+K-F
+
+TW
+
+PROPERTIES
+
+AND
+
+PREPARATION
+
+OF
+
+CERAMIC
+
+xN$ULAT~RS
+
+FOR
+
+SF’ARK
+
+PLUGS,
+
+I
+
+4
+
+,—
+@%m7cm7e*
+
+,
+
++-
+
+T
+
+‘1
+
+I
+
+I
+
+2.!5mn2
+
+lHf3uRE2.
+FIGURE1.
+
+PORCELAIN
+
++E/ecf%e
+
+.:.
+I?IGURE
+4.
+
+TEST SPECIMEN.
+
+17
+
+1
+
+—
+
+I
+
+esLallL_.
+
+J?llimE 3.
+
+I
+
+L-l
+
+plo+ No.5,
+
+Temperui%m?
+
+0C
+
+PROPERTIES
+
+AND
+
+PREPARATION
+
+OF
+
+CERAMIC
+
+INSULATORS
+
+FOR
+
+SPARK
+
+19
+
+PLUGS.
+
+current flow between concentric cylinders, the factor ~, by which the resistance must be multiplied to give. the resistivity of the material, and from this factor have computed the resistivities
+of the plugs, which are given in Tables IV and V. In this computation it has bem assumed
+that contact was made over the entire surface covered by the shell of the plug, and consequenti,y
+the values of resistivity computed on this basis are too high if thk contact be imperfect.
+It
+should also be noted that the path for surface leakage is much shorter in the case of the plug
+specimen, and also that if the glaze is of poorer material than the body conduction through
+In the cup specimen, on the other hand, the
+this glaze will reduce the apparent resistivity,
+a;ea of contac} and thickness of the bottom of the cup are definite and easily measured, and
+any possible leakage path is very long.
+COMPUTATIONOF RESULTS.
+The change of rmistivity with temperature
+for the class of materials tested k so rapid
+that it is impracticable to plot resistivity vs. temperature
+directly, as a scale which is suitable
+at one end of the temperature
+range becomes extremely crowded at the other.
+It has been
+found, however, that by plotting the logarithm of the resistivity against the temperature
+a
+The curvature of this plot is quite small,
+smooth curve slightly concave upward is obtained.
+and the data can be represented within the range of temperatures used with sufficient accuracy
+by a straight line ‘ which most nearly fits the observed points.
+Plot 5 shows a typical curve
+obtained on a cup specimen and also. shows the agreement to be expected on repeating the
+observations on the same sample even at different voltages.
+The points on the straight line give the relation
+Log,J?=a
+
+–6 t
+
+(1)
+
+where R is the resistance of the specimen ii ohms and t the temperature in degrees Centigrade,
+Introducing the factor X mentioned above, we obtain
+while a and b are constants of the curve.
+Log,Op=a +log,OI–b
+where P is the resistivity in ohms per centimeter
+which is obtained from” a by the equation
+
+(2)
+
+t“= –M
+c
+
+cube and c a new constant
+
+of the material
+
+C=a+logloz
+
+(3)
+
+c and b depend upon the material only and not upon the shape or size of the particular specimen,
+and from a knowledge of these constants p can be computed for any temperature
+by equation (2). Unfortunately
+neither c nor t is very convenient as a figure of merit for the material,
+‘“since a slight error in either will greatly affect the value of the other,
+We have, therefore,
+found it advantageous to compute for each material p 5,,, which is the resistivity of the material
+at 5000 C. bother
+still more convenient figure of merit is the temperature at which the material
+has the definite resistivity of one rnegohm per centimeter cube.
+This can be computed by the equation.
+
+T,=?
+This value is given in the following tables for each material, and is the most satisfactory criterion
+of its value as an insulator at high temperatures.
+A physical interpretation
+of the’ fact that the results when plotted logarithmically
+give a
+straight line can be obtained by considering that the conductivity increases with temperature,
+according to the law of compo.ynd interest, at a rate of about 2 per cent (2.3V) per degree
+Centigrade.
+The cumulative effect of the compounding is such that an increase@ temperature
+of 100° corresponds in the average material to an increase in the conductivity of 600 per cent.
+1A slight error is theoretically introduced by this method of repraseutib.rg the results, since the poorer materials are tested
+peratures, where the curve is steeper. This is entirely negligible for the purposes for which the results are to be used.
+
+..
+
+at lower
+
+tem-
+
+20
+
+ANNUAL
+
+REPORT. NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR AE1’10NAUTICS.
+
+TABLES.
+The resuIts of the measurements
+are given in the. tables below. In wtch table the first
+cohunn contains a description of the material, the second column gives a number mbitrtirily
+assigned to the specimen for Iaborfitory references, and the remaining coIumns the value of
+the constants 8, c, T,, etc., defined in the preceding section.
+Table 1 gives the results on the experimental porcelains made up in the ceramic Iaboratoq- of
+The composition, heat treatment, etc., corresponding to each of these spccimem,
+the bureau.
+is given in TabIes 6 and 7.
+Table 2 gi vos simihr data on cup specimens which have been submitted by various pmuelain manufacturers
+in connection with their development work.
+Table 3 gives results on various other materials which were obtained in the form of crucibles, tubing, etc., by the Iabora,tory.
+Tables 4 and 5 contain the results on &nerican and foreign spark plugs, respectively.
+Table 6 gives the compositions and firing temperatures
+(in terms of Orton’s pyrometric
+cones) of the various materials listed in Table 1. The various calcines mentioned in this table
+arc described in Table 7.
+The numerical values in the tables are in each case the average of the results of till the
+t.Tnforsamples tested of the same material, but in mmny cases only one sample wns tested.
+tunately, the variation in Te obscrvecl in different specimens of what was supposed to be the
+same materitil sometimes amounts to as much as JO* C, and this mwiaticm should bu borne in
+mind in comparing the results on different materials.
+It should also be noted that where both cup and plug samples of non~inally the sumc mutuThree explanations for
+rial were tested the latter usually showed decidedly lower resistance.
+this may be suggested:
+First. The material is made up by a somewhat different process, the cup specimens being
+mokled under slight pressure while the pIugs are extruded through a die.
+Second. Ehmface leakage and conduction through the glaze may have been present in the
+plug specimens and not in the cups.
+Third. The cup specimens being especially prepared for test, nmy have been made up with
+greater care than the plugs.
+CONCLUSIONS.
+The following conclusions seem evident from the data giwm in the tddes.
+Quartz is by far the best of the materials tested as far m resistance at h~gh tcmperat.urc is
+concerned, although severzl of the laboratory porcelain bodies, such m 77 and 7S, Lppmach this
+fairly closely. The mica plugs show fairly high resist.ivity, but i t shoukl he noted also that this
+material loses its water of crysta”flization at temperatures
+approaching 1,000° C. and becomes
+very soft and friable.
+Several of the porcelains recently developed in this country for aviation wdi me wry
+notably superior to the majority of the porcelains tested. ‘
+The steatite and Rajah porcelains from Ger~ny
+are not notukdy high in resistivity, and
+therefore the very high reputation M spark plug insulnt ors which these materials had before tho
+The French porcelains are on the whole not tis
+war was apparently not due to their resistivity.
+good as the more recent &nerican bodies. This may account for the preference: fur micti plugs
+shown in the former country.
+
+PROPERTIES
+
+AND
+
+PREPARATION
+
+OF
+
+CERAMI(I
+
+TABLE I.—Bureau
+
+INSULATORS
+
+of Standards
+
+FOR
+
+SPARK
+
+cups.
+RJzisfevi.ty
+
+~
+
+cup iYo.—
+
+b.
+
+c.
+
+I
+O:m:
+
+321 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...’
+
+.11
+.39
+.08
+.32
+.10
+
+10:so
+9.27
+::$
+
+.0108
+.0109
+.0125
+. 00s0
+.0091
+,0105
+.0076
+. 011s
+.0119
+.0090
+.0097
+
+721 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+73. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+741 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7’7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+78. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+;::.: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . ......................................
+941 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+952......., . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+107. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+109. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+116 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...!
+119. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1523... . . . .
+130. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..j.j
+
+I Average two determinations.
+
+.062
+.14
+.42
+. 07s
+;::9
+
+Maker.
+
+10:43
+10.77
+10.35
+10,46
+10.89
+9.64
+12.37
+11.17
+11.21
+11.11
+11.3$
+13.32
+
+.0031
+.0099
+.0065
+“;gil;
+
+.
+
+2:
+13
+.65
+5.4
+~3
+
+10.77
+
+;:
+12
+
+11.58
+9.96
+11.51
+11.03
+
+i%
+
+.
+
+H
+13
+
+10.18
+11.18
+
+.0119
+..0089
+.0083
+.0069
+. 007;
+;
+
+.12
+.10
+.19
+,060
+.066
+2.2
+.41
+.40
+.39
+26
+
+~Avere.ge flvedetcrminations.
+
+a A~erage three determinations.
+
+manujacturera.
+
+‘No.
+
+Jeffer.,- Dewitt . . . . . . . . . . . . . . . .
+Uybl
+Jeffery l?f---’” . . . . . . . . . . . . . . ..j
+
+2
+3
+
+Jefiery Dt
+eylt~y: . . . . . . . . . . . . ..l
+
+~mmp~on ~.gm~!on!
+(i-mm lonlgnmon~ :::::::::l
+~erol $ . . . . . . . . . . . . . . . . . . . . . . . .
+I rer
+lchtown . . . . . . . . . . . . . . . . . . .
+‘PreI
+mhtown . . . . . . . . . . . . . . . . . . .
+FreIwhtown . . . . . . . . . . . . . . . . . .
+.
+FretIohtown . . . . . . . . . . . . . . . . . . .
+FreI]chtowm. . . . . . . . . . . . . . . . . . .
+?herichtown . . . . . . . . . . . . . . . . . . .
+lka[ Ichtown . . . . . . . . . . . . . . . . . . .
+Frexlchtown . . . . . . . . . . . . . . . . . . .
+Frel]chtown . . . . . . . . . . . . . . . . . . .
+~ex lchtown . . . . . . . . . . . . . . . . . . .
+mud ... . . . . . . . . . . . . . . . . . . . .
+..
+
+1 Brunt. . . . . . . . . . . . . . . . . . . . . . . . .
+Jeffery Dewitt (supply Champion Toleio pings).
+
+Titan plugs).
+
+Ii 02
+10.34
+10.84
+9. 2s
+9,62
+1] g2
+
+.0098
+
+TABLE 2.—Cupsfrom
+
+I
+
+6. S
+
+.0064
+
+35. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+36... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+39. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+40. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+471 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+48... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+49. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+50. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+55. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+63. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+70. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+“c.
+
+$;.
+
+megohms.
+1S.58
+9.50
+‘“ ;:
+
+.0070
+.0089
+.0096
+.0035
+. 00s5
+
+Effeotire
+
+tem
+
+P 500
+
+-
+
+16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . . I
+;~..: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..l
+. . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . .
+22. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..[
+23. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..[
+24. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1?
+
+4iiA
+577
+315
+280
+776.
+7%X
+7i5B G
+28BG
+783
+741
+13
+154
+
+#!u
+
+‘:% i $;
+.0083
+.0075
+.0092
+.0076
+.0114
+.0107
+.0080
+.0080
+
+I
+j
+I
+\
+
+.0034
+
+11,11
+10.57
+9.65
+10.24
+10,12
+9.74
+
+::
+.11
+2.8
+.020
+.025
+
+11,10
+11,14
+
+.0087
+.0090
+
+J
+:
+I
+I
+
+I
+
+10.76
+10.10
+10.20
+
+‘;6
+:56
+.50
+
+:gf
+
+~
+
+ljg
+
+~
+
+11:81
+
+I
+,
+I
+
+~;
+
+.0097
+
+9:1
+
+Frenchtown (supply Bethlehem and other plugs).
+
+TABLE 3. —iWiscdlaneous
+
+,
+
+620
+610
+4@3
+560
+S60
+360
+%
+470
+470
+610
+590
+550
+600
+
+Champion Tgnition Co. (snpply A.C.
+
+specimens.
+
+,.
+R&iistmy
+
+kfateriel.
+
+b.
+
+c.
+
+P 600
+
+megohme,
+“1
+
+‘
+
+21
+
+PLUGS.
+
+Fueclay . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+PyrexorucibIe . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Pyrex lssstube . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Sodagazs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+f
+Quartz. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Le.r equsrtz tute . . . . . . . . . . . . . . . . . . . . . . . . . .
+SmalquarW, tribe . . . . . . . . . . . . . . . . . . . . . . . . .
+\
+
+0,00s1
+.0094
+.0092
+.0214
+.0065
+.0049
+.03s4
+
+!
+I
+
+10.43
+9.56
+9.14
+13.5
+H. 7
+10.28
+3.36
+
+I
+~
+
+2.4
+.072
+,035
+. 00+363
+2j& o
+4.5
+
+Effectlre
+
+tery;
+“c.
+~
+
+22
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISoRy
+
+cf)hlMITTEE
+
+FoR AERojiJAuT1cs.
+
+plugs.
+-,-,:
+‘
+
+TABLE 4.—An3er&xzrI
+
+I
+Plug.
+
+ysti:g
+a
+
+lNO”:b
+
+PORCELAIN.
+
+f4T10 ’
+k
+
+me&%e
+
+l!
+I
+
+Be fhlehenr- . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+c
+
+:;;
+
+Bethlehem Avkdlon. . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+T3rrkshire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+(3141)Chom ion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+!
+Ghamplon (od) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Champion (Toledo) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+CIuwu ion, Toledo (3430). . . . . . . . . . . . . . . . . . . . ..B. Sti*piorr,
+‘I!oledo. . . . . . . . . . . . . . . . . . . . . . . .
+. .......................................
+. . . . . . ...!?!!.
+Hard$g’smsu. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+l
+. . .... ... ... .... . .. .. .... .. ... ... .. ... .. .
+Gray:
+%::::::::::::::::::::::::::::::::::::::::
+Hercules.
+Cyn&Rerold . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...=
+. . ................................... ....
+~~.2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+C-3
+Duffy ‘Z . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+l?rcn~gt~wn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Beih. A~-fa.
+. ..................................... ..
+56
+no. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . .
+
+:$?
+
+‘.23
+
+.25
+.15
+.15
+.36
+.51
+.78
+.66
+:$
+.27
+,44
+;~
+.57
+
+1%
+79WM3
+
+:;
+. SW
+.07
+.171
+
+l@h(Empire)z..
+.............. ..............
+. . . . . . . . ...!!
+TW@(Coors) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+..
+T@dHead. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...
+.656
+15.43R
+T1tsu A. C~. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+:%
+.G3
+.61
+
+C3COA.C. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Valve plug . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. 02s
+lV81don-11’0rc* tcr. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+X7
+
+.11
+.$
+
+MICA .
+
+GLASS.
+
+.
+
+Mwtke
+Tcrrr
+
+w. &
+
+1;)
+110
+
+i
+
+. Ce378
+.0378
+.0143
+. 0W3
+
+10.2s ,
+10.79 ‘
+l;% t
+.,
+
+I
+20:
+WI
+655
+
+And;~4n . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...”
+. ........................................
+Do . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..i
+
+. Om
+
+9.33
+
+.0156
+. oUa
+
+H
+
+i
+j
+
+L 20
+i%
+.63
+
+0,36
+
+L 36
+.22
+.74
+
+.79
+3.99
+. 5s
+1. Q
+.51
+.Cd
+1: P
+9.1
+.13
+. 1s
+.44
+&
+12.0
++
+
+.47
+
+. ox
+.02
+.04
+
+L 31
+1.31
+
+i%’
+670
+469
+
+,84
+%19
+.32
+1: ~
+
+E
+400
+
+.29
+.22
+.23
+1.00
+
+:K
+624
+%%’
+
+: Es
+.54
+L 05
+6.8
+.16
+. 6!3
+:$
+
+.46
+1.0
+.IM
+,0%
+.06
+.00!
+.18
+. Iu
+.63
+.!22
+
+%!
+71.0
+19.0
+
+530
+3m
+WI
+
+X4
+,20
+
+.05
+
+.42
+
+Mohnwk . . . . . . . . ..- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Rondstl . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Ra]ah ({:erman)z . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...!.
+
+SpTitdorf. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Splitrlorf, G. J. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . /
+T4ethlchem. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Berkshire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+C.
+RW3
+ncgohms
+
+I
+
+611 ;
+1668
+128:
+221441
+. . . . . . . . . . . ...1
+1812 I
+1823
+3466
+
+Hercules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Wxdcrz. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.. .
+
+Mktanh
+at W“
+
+:&l
+.050
+.072
+. cm
+.01
+:%’
+.07
+
+.::
+.!
+
+:%
+
+‘g
+510
+&xl
+470
+1%
+466
+g
+37n
+?0
+310
+470
+m
+S30
+G14
+GKI
+70Q
+333
+
+.(M3
+.001
+. C(I2
+
+:2
+
+: Ro
+
+WI
+7XT
+
+.054
+&5
+
+4m
+635
+
+LAVA.
+
+Duffy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . .
+G. E . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+X 16
+STEATITE.
+
+. Ootx
+
+.(s)33
+
+&51
+9. 2s
+
+.69
+.92
+
+&?
+
+.53
+.54
+
+.18
+29.0
+
+~
+
+I
+
+Her~~ougic . . . . . . . . . . . . . . . . . . . . . . . . ..’ . . . . . . . ..l
+. . .... .. ... . ... .. ... ... ... .. .. ... .. .. ....1
+
+I
+9.20,
+
+10.17
+
+332
+1327
+
+.0098
+.(M2S
+
+j Average of eight determinations.
+~Average of two determinations.
+TABLE ii.-poreig?zp~eqa.
+
+IO.16 ;
+12.37,
+
+*A\.erageoffmrr determination,
+4Pyresondglsss.
+
+.
+
+—
+-.= .
+..=
+
+.
+AND
+
+PREPARATION
+
+OF
+
+CERAMIC
+
+INSULATORS
+
+FOR
+
+23
+
+PLUGS.
+
+6.—Spark plug compositions.
+
+TABLE
+
+—
+
+—
+.
+
+SPARK
+
+I
+
+I
+!$
+
+i’
+rli
+.
+
+~
+
+i
+i
+g
+j
+8
+6
+— — — .
+.
+—
+c
+>. t. ~.et P. Ct. P. ct. P. ct. P. ct.
+
+ti
+16
+17
+:
+%
+;;
+::
+40
+47
+4s
+49
+50
+,0
+5“
+$
+%
+74
+77
+78
+79
+68
+9:
+1%
+109
+116
+119
+152
+180
+
+—
+P, ct.
+
+11.25
+
+11.25
+
+11.25
+1125
+11.25
+12.50
+12.50
+13.7.5
+13.75
+13.75
+13.75
+15.00
+15.00
+12.50
+12,50
+12.75
+1250
+12.50
+12.50
+9.00
+9.00
+......
+1.25
+2. !50
+2.50
+12.50
+11.25
+10.00
+1:.:3
+
+P. ct.
+
+1125
+11.25
+11.25
+11,25
+11.25
+12,50
+12.50
+13.75
+13.75
+13.75
+13.75
+15,00
+15.00
+12.50
+12.50
+12.75
+12.50
+12.50
+12.50
+:. g
+.
+......
+1.25
+2.50
+2.50
+12.50
+H. 25
+10.00
+13.50
+
+12:50 .ii~ii
+12.50 12.50
+7.50
+7.50
+6.87 27.75
+
+P. ct.
+16.00 39.00 . . . . .
+.....
+18.00 3700
+20.00 35 m . . . . .
+.....
+28.00 27.00
+30.00 %.00 . . . . .
+16.00 3’4.00 . . . . .
+24.(jO 26.00 . . . . .
+P. ct.
+
+P. ct.
+
+14.50 29.00
+20.50 23.00
+22.50 21.00
+28.50 15.00
+16.00 24.00
+30.00 10.00
+24.00
+5.00
+22.co 12.00
+;~~
+......
+13:50 ‘::::::
+16.40
+22.00:::::::
+17,60 . . . . . .
+
+.............
+...
+. ..... .. ....
+
+...’....
+..
+. . . . ..1......
+
+8.00 I 30.00
+17.60 :......
+. . . . ..’ 42.00
+14.00 ; 21.lM
+...... ......
+. . . . ..i 30.00
+. . . . . . . 30.00
+
+... ...1..
+
+....
+
+1.50
+1.50
+1.50
+1.50
+.....
+. ....
+1.00
+1.00
+L 50
+1.50
+1.50
+1.00
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+rgco
+10.00
+.....
+.....
+.....
+rfc5;
+
+“-”...1
+575
+
+—
+
+P. ct.
+......
+......
+......
+......
+......
+......
+.. .. ..
+.... ..
+......
+......
+......
+.. .. ..
+......
+.. .. ..
+.... ..
+......
+......
+......
+
+P. ct.
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+..... .
+......
+......
+......
+......
+. . ...”.
+......
+
+...... .. ....
+
+5.00......
+
+......
+7.50
+5.00
+5.00
+5.00
+5.00
+7.50
+7.50
+5.00
+7.50
+
+P. ct.
+... ...
+......
+......
+......
+......
+. .. .. .
+......
+......
+......
+......
+......
+......
+..... .
+20.03
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+M&g
+
+......
+...I..
+.
+4.00
+4.00
+10.00 10.00
+... .. . .. .. ..
+...... ......
+;%
+5.@l
+4.53
+
+......
+......
+......
+......
+-
+
+TABLE 7.—S’park
+
+P. ct.
+......
+. . ...<
+.....
+.. .. ..
+.....
+.. . ..
+... . ..
+.....
+.. .. ..
+. . ...!
+.. .. ..
+.... ..
+.. .. ..
+.. .. ..
+. . ...<
+.... ..
+20.00
+
+,.. .
+.. . .
+.. . .
+).. .
+.. . .
+.. . .
+.. . .
+.. . .
+,.. .
+,.. .
+,.. .
+,. ...
+.. . .
+,.. .
+,.. .
+,.. .
+,.. .
+,.. .
+L 10
+
+15.oil
+... .. .
+. . ...!
+.... . .
+.. .. ..
+... .. .
+.. . . . .
+,. ...,
+,. ...,
+,. ...,
+.. . . . .
+... . ..
+15.00
+.. . . . .
+,. ...,
+,. ...,
+.... ..
+
+.. . .
+L40
+,.. .
+,. ...
+,. ...
+,.. .
+,. ...
+,. ...
+,. :.,
+,. ...
+,. ...
+,. ...
+,. ...
+,. ...
+,. ...
+
+C4
+.
+
+....
+.:. .
+....
+....
+....
+....
+....
+....
+....
+... .
+....
+.....
+....
+....
+....
+
+......
+......
+. .....
+......
+......
+......
+......
+......
+......
+... ..
+.. ..
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+35.00
+
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.. ...
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.... .
+.....
+.. .. .
+.....
+
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+......
+. .....
+
+2.50
+... .
+... .
+...... .......
+1.50
+... .
+...... ::;;
+...... .
+.. ..
+. . . . . ....... .......
+.. ..
+.. . . i5. 00 . . . . . ...... ......
+... . 30.03 . . . . . ...... .......
+... . 75.oil . . . . ...... ......
+.. .. . . . . . . 12.00 ...... :JKJ
+... . . . . . . . 4.40 . . . . . . .
+,.. . . . . . . . . . . . . 13.00 ,. . . . . . .
+... . ...... ..... ...... .......
+,.. . ...... ..... . ..... t.......
+... . ...... 20.00 ...... .......
+.. .. . . . . . . . . . . . D3. 00 .......
+Al,Os
+).00 . . . . . . . . . . . 20.00
+... . . . . . . . . . . . . . . . . . . 11.52
+
+plug hines.
+
+——
+
+1
+
+B. of S. caldne, No.
+
+3. . . . . . . . . . . . . . . . . . . . . . . . . .
+8A . . . . . . . . . . . . . . . . . . . . . . . .
+ii::::::::::::::::::::::::::
+;:::::::::::::::::::::::::::
+
+hrgco~.
+
+Pe&caJ.
+
+Kaolin.
+
+P;oy;t.
+
+Mrlt.
+
+Per cent.
+
+............
+14:40
+44.30
+41.30
+23.85
+76.15
+............
+13.20
+56. m
+25.60
+............
+70.20
+. . ..ii.ii...
+.
+34.30
+............
+
+~~,;:
+
+Per cent.
+
+. . . ...!
+.......
+.......
+.......
+......
+......
+.. ....
+......
+......
+......
+.......
+.......
+......
+.......
+......
+.......
+.. .. ...
+.......
+
+Boric acid,
+
+Per cwt.
+
+. . .. .. .. .. .. .. .. .. .. .. . .
+............ ............
+............ ............
+-“.. Kiil--- “.--i:if...
+............ ............
+
+Caloining
+te~u;~
+
+C;te.
+;:
+13
+20
+16
+
+16down.
+15down.
+14down.
+14half over.
+13half over.
+15down,
+14hal$ver,
+12dm#.
+[3 d:w”i.
+10down.
+i4 d~on.
+Do:
+14half over.
+[6 down.
+~4down.
+13d~on.
+%:
+Do.
+Do.
+.5 half over
+Mdown.
+10down.
+[2 down.
+.6 down.
+.8 do&n.
+.6 dowi
+!0 down.
+
+.
+
+REPORT NO. 53.
+PART ~.
+
+PREPARATION
+
+AND COi%lPOSITION OF CERANIIC BODIES FOR SPARK PLUG
+INSULATORS.’
+By A. V. BLEININGER.
+
+R~SUM~.
+In airplane engines the porcelain of the spark plugs is subjected to severe conditions,
+involving high temperatures,
+sudden heating and cooling effects, and mechanical stresses.
+To be perfectly suited for the purpose, the material must remain a good electrical insulator at
+the yaximqm
+temperature
+reached, should not be subject to permanent
+volume chaiges,
+shoulcl possess coqstant thermal expansion, a?ld must be strong and tough.
+Porcelains possessing such qualities have been developed in the Pittsburgh laboratory of
+the Bureau of Standards.
+The compositions of the best types me as follows:
+Porcelain No. 16.??.
+Georgia
+
+kaolin
+
+Per cent,
+. . . . . . . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+Flotida kaolin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+10
+
+'OrthcarO1ina
+:
+Delaware kaolin v::.::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Calcite No. 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Calcine No; 14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+The compositions
+Kaolin
+
+of the calcines are:
+
+Calcine No. 19.
+
+...... . .. .. . .. .. . . .. .. .. .. . .. .. . . .. . . .. . .. .. . .. . .. . .. . . .. . .. .. . . . .. . .. .. . .
+
+Alumina.:
+
+56.00
+18.20
+26.80
+
+hIagnesim
+
+carbonate
+
+. . . .......................... ................
+
+27.80
+.....
+
+Potter6fint
+
+... .. . .. . .. . .. . .. . .. . . ... . . .. . . .. .. . . .. .. . . .. . . .. .. . . .. . .. . .. . .. . .. ..
+
+.....
+
+acid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2.00
+
+Boric
+
+.... ...... ........................ ................ ....................
+
+Calcine No. 14.
+
+70.20
+
+(precipitated)
+
+Porcelain No. 194.
+
+.....
+
+.....
+
+Per cent.
+
+Beryl . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Geor@akaolin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Florida kaolin. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+North Carolina kaolin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Delaware kaolin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Potters flint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+35.0
+12.5
+12.5
+12.5
+12.5
+15,0
+
+PORCELAINS FOR SPARK PLUGS.
+The average commercial porcelain does not fulflll the co~ditions required for spark-plug
+service, nor for any other conditions where high-tension currents are employed, and the temFrom the standpoint of the electrical
+perature is considerably above atmospheric conditions.
+resistance at the temperatures reached in airplane engines, the feldspathic porcelains begin to
+break down at a rate rapidly increasing with temperature,
+due to electrolytic effects. This is
+indicated also by the polarization which is observed in using direct current.
+The leakage thus
+taking place may become a serious factor.
+1This Report was confidentially circulated during the war as Bureau of Standards Aeronautic Power Plants Report No, 23.
+25
+
+26
+
+ANIWJAL REPORT NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR AERONAUTICS,
+
+This wrerage porcelain k ~ikewke not constant h vohme;
+and these volumetric changes
+tire greater than can be explained solely by thermal expansion.
+.Asicle from the thermtil
+exptinsion? the quartz content. of porcelain, when heated or cooled, is subject to certtiin modifications in crystalline structure, accompaniecl by definite vohune changes.
+Thus, the f(]rnl
+of quartz permanent at atmospheric temperature is alpha quartz, which inverts t.o beta quartz
+at 5700 C, a transformation
+which is reversed by cooling. C)n the other hand if, in the firing
+of porcelain, the quartz is inverted to its high temperature form, cristobditc,
+them is again
+the transformation
+of the alpha to the beta modification to be considerecl, which t.dws phice
+at 220° C. In either case, -rolume changes are unavoidable in alI porcehtins containing freo
+In a goocl spark-ph~g porcelain, the
+quarti~ in large amounts, due to the inversion noted.
+quartz shoukl be eliminated from the compound and replaced by a subst ante not subject to
+,
+these inversions.
+Another dcfec.t of the ordinary porcehiin is that the coefficient of thmmd expansion is
+It mtiy be 19 x 10-’ between 30=-200° C
+by no means constant at clifferent temperatures,
+and 5 x 104 between 400—5000 C.
+With respect to mechanical strength, also, great variations are p&sible.
+ii series of tests
+of commercial electrical porcelfiins, conducted at the Pittsburgh labornt.ory of the Bureau of
+standards, showed differences in the modulus of elasticity varying from 1,600,000 to 6,000,000.
+J?or the purpose of studying porce18ins from the standpoint
+of their electrical conductivity at the high temperatures
+obtaining ~ airplcne ignition systems, a large number of
+typical compositions were made Up in the form of the test CUPSilhmtrated in figure 2 of Ptut
+These mixtures were usually prepared in 10-kilogram batches, carefully
+11 of this report.
+weighed out and ground wet, in porccla,in-lined ball milk for three hours.
+The- suspmsicm of
+clay was pumped into a Hlter press to remove the water! and then kneaded in a mixing mathinc
+to tlm conshtcwcy required for shaping the mass on the potters wheel. This wtis done by the
+use of phwter molds in which the cups were “ jiggered “ in the usual mtinner in which pottery
+is made. The specimens were then dried, placed in fire-clay containers (saggers) and burned
+in a down-draft kiln tied -with natmal gas to the finishing temperature.
+The la.tte.r wus controlled both by means of thermocouples with the necessmy ga.lwmometers, and pyrometric
+cones, made by Edward Orton, Columbus, Ohio. Each cup w-us examinecl for nontibsorpt.ion
+by the application of ink. The testing of the specimens was done at the Washington laboraThe char~cteristic
+expression for the rcs:stivity
+tory as described in Part II of this report.
+which represents the temperature in “C. tit which a cubic
+of the porcelains is the T~ due
+centimeter of the material still shows a resistance of one megohm.
+REPLACEMENT OF FELDSPAR.
+tTpon comparing the T,values of the diflerent porcelains it was noted that there exists
+no definite relation between the composition and the electrical conductivity.
+On the other
+hand, the higher the maturing temperatures of the porcelains, the higher was the T, due.
+This is practically equivalent to saying that, roughly speak~~, the electrical rcsistmce at
+higher temperatures is the greater the lower the feldspar content, since small amounts of this
+flux make it necessary to carry the porcelain to a higher burning temperature.
+TIN rcintion,
+however, is not well defined, as maybe observed from the resuhs compiled in the fohving tuble:
+TABLE
+
+1.
+
+PROPERTIES
+
+AND
+
+PREPARATION
+
+Ol? CERAMIC
+
+INSULATORS
+
+.FOR
+
+SPARK
+
+27
+
+PLUGS.
+
+It is qui e evident that the micro-structure
+of the porcelains is an important factor in this
+\
+.conru.wtion, since it can not be. immaterial how m“uch kaolin or quartz has been dissolved by
+the fused felds~ar and “how much sillimanite has been formed.
+The evidence, however, was
+considered sufficient to warrant the replacement of the feldspars by other fluxes, the oxides of
+magnesium and beryllium being used for this purpose.
+Owing to the evolution of carbon. diofide during the firing process from magnesite, and
+the artificially prepared basic magnesium carbonate, and the very large shrinkage accompanying their use as a flux, it was decided to introduce the magnesia in the form of a calci.ne;
+that is, a silicate mixture previously fired to a point close to vitrification.
+The mixtures employed for this purpose correspond to the formula: MgO Al,O, 2Si0,; MgO AI,08 4Eii0,, and”
+MgO Al,O, 6SiOz. Of these, the first and the second were most used in this work.
+The preparation of the calcines consisted in dry ball mill grinding and firing the mixture made up into
+After calcination, the materi~ was crushed and ground and”
+balls with just sufficient water.
+introduced into the bodies in this form.
+The beryllium oxide was brought in through the use
+of the mineral beryl (which has the general composition 3Be0 AlzO~ 6SiOJ without any previous
+treatment.
+With the use of ma~-esia ““as”
+the principal. flux; “the electrical resistance and hence the
+value Z’ejwas found to increase quite decidedly, though with no well-clefhed regularity as referred
+It was seen again in this connection, that the structure of
+to percentage content of magnesia.
+the porcelain plays an important part especially as it is known that JIgO accelerates the crysNot only the number but also the size of the silli-..
+tallization of sillimanite most vigorously.
+manite crystals is of significance. in determining the texture of the body, whether it. is to be fine
+The rate “of coolhg the-porcelain is likewise of importgrained, glassy, or coarsely crystalline.
+ance, since a rapid drop in temperature invariably causes the structure to b-e.closer and of more
+vitreous character than when a longer time is taken in cooling down the” kiln. For this reason
+smaller kdns are to .be preferred to larger ones, since they require less time in cooling at a
+given rate.
+The effect of magnesia added in the form of synthetic silicate, is strikingly shown
+by the high T, values of bodies JXos. 77 and 78. See Table .IV.
+It is a fa~t that the magnesium silicates show electrolytic effects .w~ch are .rnuch lessprominent than when feldspar, an alkali-aluminum
+silicate (K,O Al,08 6~i0,) is used as a flu”:
+It like-wise appears that the higher the firing temperature
+of the porcelain the greater its electrical resistance, at temperatures up to 700” C., or somewhat abo-ie this point.
+With reference to the use of beryllium oxide it was found that this flux behaves sti”ilarly
+This is indicated by the
+to the magnesia in showing high electrical resistance and T, values.
+following table:
+
+,
+..: ._
+
+-- .—
+.-
+
+.-.
+
+-. —
+
+TABLE 11.
+I
+
+!
+
+I
+
+I
+
+I
+
+I
+
+I
+
+1
+
+i-l
+
+I
+
+I
+
+.
+
+1’
+
+..
+
+..- ,.
+
+It is evident from these results that beryllium oxide, used in the form of the mineral beryl,
+is a valuable flux from the standpoint here ur@er consideration.
+It requires, however, careful
+temperature
+control in firing, since the beryllmm porcelain is subject to “sudden deformation
+The experiments. have prov& that beryllium”
+as the vitrification
+temperature
+is exceeded.
+oxide is worthy of consideration for the production of”such porcelain, and the high Tt value
+T@ firing tetiperature
+of these bodies is “quite low,
+obtained, 798, is exceedingly promising.
+from cones 11-12.
+Another interesting fact developed with reference to the thermal. expansion of the berylIium porcelain, which was found to be lower than that of the feldspathic bodies commonly
+employed.
+The average coefficie@ was found to be 1,63X 10-’ for the temperature
+interval
+26—200° C.; 2.95 x 1“0–8
+for 200—400°; 3.60x 10–0 for 400-570°;
+aid 2.33x 10–E for 26—400°.
+
+.
+
+..
+
+.
+
+~
+
+—
+---
+
+-
+
+28
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY CO.M.MITTEE FOR AERONAUTICS.
+
+REPLACEMENTOF QUARTZ.
+From ageni$rai study of porcelains, it appears desirable to eliminate the qufit.z, as has been
+pointed out in a previous paragraph.
+Some of the materials available for this purpose are
+calcined kaolin, synthetically prepared sillimanite (&O~ SiOz), and sinterccl or fused alumina
+and zirconium oxide. These substances have been introduced in a number of compositions.
+The effecti
+adding calcined kaolin in general was beneficial; and even with a fcldspw contout
+This ptirt.icular composition
+of 13.5 per cent (body No. 63), a fair T“ value, 540, was. obtained.
+contained 50 per centi raw kaolin, 13.5 per cent feldspar, 1.5 per cent=wdcium carbonate, and
+The maturing temperature of this porcelain was thut correspond35 per cent calcined kaolin.
+ing to cone No. 16. It k evident that by raising the content of ca.lcined kaolin still mom at
+The introduciicm of plastic
+the expense of the feldspar a higher T, value would ba obtained.
+ball clay to replace kaolin, invariably and in aIl types of bodies, reduces the electrical resistance
+within the temperature range here under consideration.
+The use of fused alumina in any extensive work was prohibited by tho lack of material low
+The commercial substance (a.hmdum) is unsuited for this purpose.
+The total
+in iron content.
+amount of white fused alumina available was not more than 2 pounds.
+To bring about the
+necessary impervious and dense structure the use of 17.6 per cent-f feldspar was required.
+A
+mixture consisting of 45 per cent kaolin, 17.6 per ceg-t feldspar, 4.4 pm cent calcine No. 13,
+and 33 per cent of alundum, resulted in a very tough porcelain which showed a T~ value of 620.
+Calcine No. 13 was compounded according to the formula kfg(l ~1,0, 2SiOa from 84 parLs, by
+Here
+weight, of magnesium carbonate and 258 of pkwtic kaolin from Florida and Georgia.
+again the reduction of the feldspar content and its replacement by calcino INo. 13, or beryl, or
+a combination of these two would be certain to raise the T~value considerably ml at the snme
+time would result in a porcelain of excellent mechanical properties. The cost of tho fused
+white alumina would be quite high, but would be justi.tkd under tho circumstances. - Furthermore, a single calcine could be readily produced by combining the raw materials of calcinc
+No. 13, the kaolin and magnesite, with uncalcined ahunina from any corrvcnient source, and
+firing the mixture to a point of constant volume, which_ could be accomplished at ~emperaturm
+not exceeding cone .Nn. 18. At the same time this procedure. would simplify the process of
+preparation very considerably.
+Sillimanite (AlzO&iOJ is a normal component of all hard fired porcelain; and this constituent, if not present in the form of. large crystals, imparts to the mat trial const tincy in
+volume upon heating, lowers the thermal expansion, increases the refractoriness, and the resistFor this reason it was thought desirable to produce
+ance to sudden heating and cooling.
+the mineral synthetically
+and to introduce it in the porcelain composition in place of the
+quartz.
+This was done by combining 7Q.20 per cent=of pl@ic kaolin, 27.80 of anbydrous
+alumina, and 2 per cent of boric acid. After grinding this mixture in the dry state in a ball mill,
+it was made up with watxw to form a plastic mass which was molded into balls calcincd to u
+temperature corresponding to that of cone No. 20, or appro~imately
+1,530° C. At this teKnperature the mass sintered to a dense structure,
+subject to but little additional shrinkage
+tmd containing only a small amount of uncombined alumina.
+The boric acid was addctl to
+assist-in bringing about the necessary shrinkage and closing up of the pores, rmd it is quite
+probable that most of this constituent is volatilized at the iinal temperature of the calcinntion.
+This calcine (hTo. 19) was then crushed separately, passed over a magnetic separator, and then
+ground, together with the other materials of the b6dy with the addition of water} in the ball mill.
+In preparing this type of body the feldspar was eliminated on the basis of the results cliscusscti
+above, and replaced by a calcine corresponding
+to the formula lfgo AIZO* 4SiOZ (No. 14).
+This porcelain (No. 152) was composed of 30 per cent of kaolin, 10 per cent of ball clay, 40 per
+cent of sillimanite calcine, and 20 per cent of fluxing calcine No. 14, and fired to a twnpcra turc
+of cone hTo. 16 or higher.
+The resultant material had excellent mechanical qualit ics and an
+average Te value of 690. The structure of this body should be fine and dense, a condition
+which requires quite rapid cooling of the kiln. Slower coding results in the fmwmtion of conrser
+sillimanite crystals which cause a structure much less resistant to sudden heating and cooling.
+
+-—
+...-
+
+PROPERTIES AFfD PREPARATION
+
+OF CERAMIC
+
+INSULATORS
+
+FoR sP~K
+
+PLuGs. .
+
+29
+
+The preparation of this body maybe simplified by the combination of the two calcines into
+one, thus, by employing the composition of the flux No. 13 “(MgO &O~ 2SiOJ the ‘co’mbined
+calcine would be composed of 75.10 per cent plastic kaolin, 8.77 per cent magnesite, and 16.13
+The boric Ecid content has been eliminated.
+Body No. 152
+per cent anhydrous alumina.
+would then consist of 30 per cent of kaolin, 10 per cent of ball clay, and 60 per cent of the combined calcine.
+TVherever the working conditions permit the ball clay-should be eliminated,
+and an effort made to employ the body containing 40 per cent of plastic kaolin, which can
+usually be done by allowing the mixture to age before mo~d~ng it.
+The tendency of the body to crystallize may be dimmlshed also by replacing the fluxing
+calcine in part by beryl, so that thdse two components are firesegt in the.ratio of 1;1. If, then,
+th~ combined fluxing and sillimanite calcine is employed, the resultant composition would be
+kaolin, 60.94 per cent; anhydrous alumina, 18.39 per cent; boric acid, 1.32 per cent; rna~esite,
+4,58 per cent; beryl, 14.78 per cent. The body, as before, would consist of 60 per cent of this
+The fusion point of this mixture is so low that it would be
+calcine and 40 per cent of kaolin.
+At the same time the vitrification point of
+quite possible to eliminate the boric acid entirely.
+the body is lower and closer to the normal kiln temperatures.
+Attention might be called to the fact that the use of a siliceous porcelain is not objectionable
+from the electrical standpoint but only from consideration of the mechanical strength, resistance to sudden temperature changes, etc. This is shown by. the results upon high silica porcelains, bodies Nos. 116 and 119, which show a very high T, value, namely 730. This type of porcelain contains 50 per cent of clay, 30 per cent of free quartz (flint), and 20 per cent of magnesia
+calcine.
+In No. 116, the calcine- corresponds to the formula MgO AlzO, 2Si0,, and in No. 119
+It is.fair to state those porcelains would give excellent results, considered
+to MgO AlzO~ 4Si0,.
+from the dielectric standpoint, when used under conditions not so-extreme
+with reference to
+temperature and shock as is the case with spark plugs used in airplane engines.
+Zirconium oxide was used only in two porcelains, due to the comparatively limited supply
+available.
+The material at hand was zircon which contained 52;74 per cent of 2rOZ and 42.46
+As received, the mineral was high in iron, which, however, was ‘eliminated
+per cent of silica.
+by treatment with chlorine at a temperature
+of 800° C. In “this manner all but a trace of the
+iron was removed.
+Owing to the fact that these zircon porcelains were produced comparatively
+early in the work, feldspar was employed as the flux. The result was that the electrical resistance, and hence the T~ value, was low, being 500 and 450, respectively.
+With the use of the magnesia or beryllium fluxes much bettex products could undoubtedly be produced.
+The mecharv
+ical strength of these porcelains was excellent in every respect... The composition of these bodies,
+..
+.
+Nos. 72 and 73, is given in Table IV.
+The effect of the quartz in porcelain upon the thermal expansion of the body is shown by
+the results compiled ti-Table III.
+
+..
+
+TABLE III.
+
+.1~
++
+No.
+
+clay.
+
+Pmgrli.
+
+114
+116
+117
+119
+120
+152
+
+~$n;z
+
+Pmg$.
+
+50
+
+::
+
+Per3;enL
+
+30
+
+%
+50
+40
+
+kfgO caltine.
+
+. ...?....
+
+n
+20
+so
+20,
+
+.
+.
+
+..—.
+
+.“.
+
+Coellloient of thermal expansionxlo!
+
+Formula of MgOeal-
+
+Mgo
+MgO
+afgf)
+MgO
+MgO
+MgO
+
+-.
+
+~y~;e
+calcine.
+
+tine.
+
+_
+
+Per cent. .
+
+30-%30“e?.
+
+““,
+
+AI*O*6sios.. . . ...
+A1z082SiOz. . . . . .
+A]@* 2S!09. . . . . .
+AI*084s10g. . . . . .
+AIz084SiOs . . . . . .
+Al~Os4S102.. . . . .
+
+Per cent.
+
+. .. .. . .. ..
+.’. . . . . . . . .
+..........
+. ... .. . .. .
+. ...=...
+
+Z,&Moo “c.
+
+1: #
+
+8:93
+19.61
+1:::
+
+,-.
+
+9.35
+6.11
+4. 4s
+11.13
+5.43
+4,19
+
+. ...=--
+
+.. .j””
+.
+4CC-550“c.
+
+5.52
+4.68
+4.”&5
+8.08
+4.45
+4.78
+
+30-400 “c.
+
+13.99
+6.68
+6.51
+15.03
+7.74
+3.81
+
+.-
+
+It is at once evident from a comparison of these figures that the thermal expansion of these
+magnesia porcelains incremes with the silica content of the body, and, at the same time, is
+subject to decided variation within the temperature
+limits of 30°-5500 C. On the other hand
+the porcelain in which the clay content is lower, and all the quartz has been replaced by sil.limanite, shows both the lowest thermal expansion and the least variation in the value of the
+coefficient.
+However, the composition is not the only determining factor, and the importance
+of the microstructure
+must be realized.
+
+-. ,
+
+30
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+CONCLUSIONS.
+The work, the results of wh@h have been given, has been successful in showing: First, the
+injurious qualities imparted to electrical porcelains by the. use.of feldspar as a flux; and second,
+in bringing out the desirability of replacing the quartz by minerals or synthetically
+prepared
+materials which are more constant in volume when heated.
+The remedial procedures advocated
+are, hence: (1) The replacement
+of feldspar by other fluxes, such as silicnt.cw of the type
+MgO AI,O~ 2Si0,, or MgO AlaO~ 4S30Z, or other silicates of beryllium and the rdkalinc earths,
+either natural or prepared artificially.
+(2) The elimination of quartz and the substi~ution of
+substances not subject- to inversions or other volume chan~s.
+These may be highly cmlcined
+kaolin, alumina, zircon, or sillimanite, ei~her natural or produced syntheticfly.
+.
+The compositions of the most typical porcelains produced in this -work me compihd in
+Tables IV, V, and VI, and the 2’, value is given for eac~~body, so that these tabulations maybe
+conwdted for detailed information.
+All of the electrical measurements, &Swell as the d~t&minations .of the thermal cxpansiin of
+the porcelains, have been made in the Washington laboratories of the Bureau of Standards.
+TABLE
+
+16
+
+Nomber of body.
+
+17
+
+18
+
+Iv.
+
+32
+—
+
+Kaolin...
+
+-. . . ..-- . . . . . . . . . . ..-. -=---------
+
+Feldspar:. . . . . . . . . . . . . . . . . . . . . . . . . .
+... .. ... ... .. .. . .... ... .
+
+[i:,;-
+
+35
+
+30
+
+39
+
+40
+
+Per d.
+
+Pcr ct.
+
+Ptr ct.
+
+s~.w
+22.50
+21.00
+.
+........
+........
+........
+........
+
+=m
+23.50
+M. al
+.
+........
+.. . ... ..
+........
+........
+
+00. ~
+1800
+24.W
+.. ......
+........
+........
+........
+
+. . . . . . . .
+
+. . . . . . . .
+
+‘..”~~
+
+‘... --ii
+
+—.
+
+18.00
+37.el
+........
+.. .. ... .
+........
+........
+.. .. ... .
+--------
+
+20.00
+3s.@l
+-------. . . ... . . .
+........
+. .. ... ..
+........
+--------
+
+23.00
+27.00
+-------........
+....... .
+.. .... . .
+.. .. ... .
+--------
+
+30.00
+25. co
+----::-. . . .. a._
+. ..--.:.
+.- .--i:.
+.. .... ..
+-------
+
+16.00
+24.00
+34.00
+26.00
+. . -------------... .. . .. .... .. ..
+-,
+. . . . . . . . . . ... . .
+. . . ... . . . . . . . . . . .
+.. . ... .. .... ....
+----s---
+
+----------------
+
+--q-
+
+--”--#
+
+----;#-
+
+“----ii’
+
+“-”’:$
+
+‘-”.~
+
+““
+
+14.50 ~ 20.50
+a~g ~ ~.$
+.
+:
+.
+. . . . . . . . .. . . . . . . .
+. . . . . . . . I. . . . . . . .
+. . . . . . . . . . . . . . ..
+........ ........
+. . . . . ..+
+
+‘“--:~”.--.-~~-
+
+~‘r
+
+.. . . . . .
+
+‘-..~~
+
+.
+
+-
+
+.- ,, - ._. :
+
+Per ct. Per ct. Per d, Pert%. Per CL Pe7 CL Pcr et. Per et. J% ct. Per C4. Pcr d. : Per d.
+5Q.~
+50.N
+~.~
+37.00
+37. ~
+00.00 50.03 W.QO 51.~
+lo. oo
+
+. . . ... . ... ... .. .. ... ... .. ...
+. .;.::::::::::::::::::::
+
+2412332
+
+Per ct. Pw CL Per d. Per ct. Per c’. Pel ct. Per ct. Per ct., i% d.
+?5.00
+45.00
+45.~
+45.~
+~.~
+~.oo
+55.~ 1 55.W
+;: ~
+
+Feldspw
+‘.-::::::::::::::::::::::::::::::::
+39.00
+Potters flint
+Wh’t{ng(CaC. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+hJ)
+1 .......
+.
+Bail (lay. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Cakined kaolin. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Cakfne No. s... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+CaIcine No. 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . .
+Crdcine No.20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ~... . . . . .
+Zh-con
+.“--. ”-”. --------: --------------------~Y~/u~ temperature m cones . . . . . . . . . . . . . -“--~g. . . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . .
+‘
+‘“
+
+Ke.olin . . . . . .. . . . . . .. . . . . . . . . . . . . . . .
+
+23
+—
+
+Per d.
+
+:.
+
+.
+20.0)
+
+15.WJ . . . . . . . .
+
+‘---~~
+
+“--->:
+
+20.00
+
+35.oa . . . . . . . . . . . . . . . . . ..i.i<
+
+.-iK5-
+
+::::::::-:::::::::::::::
+;~p;
+
+~. . ...---....---..-”-.---.::::
+‘-”-:$
+...........................
+
+.
+
+::::::::::::::7
+;*
+
+28:50 ::::::::
+~
+
+“--”-iy
+
+----g
+
+----g
+
+. . . . . . . . . . . . . . ..’ . . . . . . . . . . . . . . . .
+
+. . . . . . . . ..__ K..KwL.Ew
+*
+i
+~
+
+. . . . . . ..j
+
+-.--;~-
+
+.. y..,:
+116
+
+Number of body.
+
+152
+.
+
+M
+—
+
+196
+
+19?
+
+1!?5
+
+.
+
+Kaolfn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+&\%$F&i:::::::::::::::::::::::::::::::::::::::
+8.11)
+Caltie
+
+No.13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12.00
+
+::
+..irE
+..ii.m
+..... ...
+. . . . ..-. . . . . . . . . . . . . . . . .
+Io.m
+ZQ.a) . . . . . . . . 10.ao
+.
+.
+.
+.. .. . ... .. .. .. .. .. ... ... ... ... .. .. .. ... . ... . ....
+. . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Calefne No. 20
+
+. . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . .
+
+.
+
+.-.
+
+INSULATORS
+
+TABLE W.-Composition
+
+FOR
+
+SPARK
+
+PLUGS,
+
+31
+
+so fcalcine3.
+
+.
+Mgco&
+
+Per cent.
+
+39.50
+14.40
+23.85
+18.20
+...........
+34.30
+
+Kaoligs.
+
+Per cent.
+30.s
+
+44.30
+76.15
+56. N
+70.20
+... . . .. . ...
+
+F~t.
+
+CaMned
+. . &&
+
+I
+
+Boric acid.
+
+c;&tidcigon
+tura
+
+Per cent.
+Per cent.
+Per cent.
+. ... . .. .. ... .. .. .. . .... . . .. . ... .. .. ..
+41.80
+. . . . . . . ...’. .
+25.80
+. . .. . .. . ... .
+60.70
+
+....-
+
+cone.
+
+... .. .
+.,
+
+10
+Et
+12
+
+. . . . . . . . . . . .. . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . .,
+. . . . ..iyii..
+. . . . . ..i.ti-.
+
+i
+
+::
+16
+
+.. . ... .... . .. . ... .. ... .. .
+
+.
+
+,.. .
+..=,.
+
+.-
+
+.
+
+.
+
+,.
+
+“.
+
+)
+
+.
+
+REPORT No. 53.
+.
+
+PART IV.
+
+CEMENTS
+
+FOR SPARK-PLUG
+
+ELECTRODES.i
+
+By H. F. STALEY.
+.-
+
+.
+
+Rl%XJMg.
+Considerable trouble has been caused in airplane engine work through the breaking of the
+central electrode of spark plugs,
+An investigation of this problem by the Bureau of Standards shows that in many cases the
+cement used to hold the nickel electrode wire in the porcelain is of such a nature that it rapidly
+eats away the wire through oxidization, when exposed to the high temperature
+of the engine
+cylinder.
+A cement composed of silicate of soda and raw kaolin has been found to give the least
+trouble in this respect.
+In cases where the cement holds the wire firmly in the porcelain the latter often cracks when
+subjected to heat due to the difference in the coefficients of thermal expansion of the wire and
+the porcelain.
+The breaking of the porcelain does not seem to be due to leaky spark plugs as
+has often been. supposed to be the case.
+On account of the.difllmdties attending the use of any form of cement between the porcelain
+and central electrode, the elimination of the cement and the-use of a mechanical seal at the top
+In such a plug only a porcelain strong, enough to safely
+of the porcelain is greatly to be desired.
+withstand the resulting stresses should be used. The porcelain recently developed by the
+Bureau of Standards is believed tb meet these requirements.
+CEMEhTTS
+
+FOR
+
+SPARK-PLUG
+
+ELECTRODES.
+
+Considerable trouble has been experienced in the operation of airplane engines due to
+breaking of the central electrode wires in spark plugs at the point where they enter the porcelain.
+Examination of numerous broken spark plugs showed that at the point of failure the central
+electrode wire was oxidized practically through its cross section, this oxidization extending up
+into the spark plug a variable distance, depending upon the permeability
+of the cement with
+In some cases the cement. had melted and run down along the
+which the wire was surrounded.
+wire. It was apparent from the nature of the failures that in order to thoroughly study the problem, the composition of the electrode wire, porcelain insulator and the cement used to secure
+the wire to the insulator, must be investigated.
+The material in common use for central electrodes in the spark plugs bought by the GovThe following
+ernment for airplane service is known as ‘‘97 per cent spark point nickel wire.”
+are typical analyses:
+Analyses of wire.
+
+LaboratoryN o . . . . . . . . . . . . . . . . . . . ..~ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47134
+Nickel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . 97.0$
+, J~mganwe . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.5
+Imn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0.8
+bpper . . . ..~ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0.4
+
+47135
+96.9$%
+1.6
+0.0
+0.2
+
+1This Report was confidentially circulated durfng the war as Bureau of Standards Aeronautic powsr Plants Report No. 35.
+33
+
+.
+
+34
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COKMITTEE
+
+FOR AERONAUTICS.
+
+,
+
+Thmnul expansion ojwire.
+Interval:
+
+Average
+
+251n200° C. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+200h4000C
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..400b6000C
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+wok8400c
+%ti840c
+
+com%cknt.
+
+14X~o+
+16
+16
+
+. . . . . . ..= . . . . . . . . . . . . . . . . . . . . . . . ..? . . . . ..s . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+In the composition “of porcelain insulators sewn-al spark-plug manufacturers
+use modifications of Bureau of Standards body No. 152, the thermal expmsion of which is as follows:
+Thermal expantin of porcelain.
+IntervaI:
+AveragecoeMcicnt.
+3.36X10+
+30 to 200° c . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . -------- . . . . . . . . --------- -------200ti4000C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .." . . . . . . . . . . . . . . . . . . . . . . . . . . ..- 4.19
+~Oti5200C
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.78
+30ti4000C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..- 3.81
+3oti5100C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.06
+
+In the case of the cements used between the wire and porcelain, it developed that most of
+these consisted of a mixture of stlcate of soda with freely powdered solids, which were supposed
+Barium sulphate was the solid used by the manufacturer
+whose plugs
+to be chemically inert.
+gave the most trouble, while another maker, -whose plugs are used in large quant iiies for airplane work, employed finely ground silica. Sihcate of soda cements are advantageous for this
+work because they are cheap, can be worked cold, und are gas tight at low temperatures.
+To determine the effect of various cemenk. on ekctrode wires, mktur~
+were m~dc of
+SmaIl pellets of these mist.ures were worked
+silicate of soda and typical powdered materials.
+around commercial nickel electrode wires and after clrying at 120° C., the wires and adhering
+pellets were heated in an oxidizing atmosphere to 1,000° C., which approximates the temperature at the tip of the porcelain in an airplane engine ii~ operation.
+After cooling, the pellets
+The results are given in Table 1.
+were broken off and the wire beneath them examined.
+From Table 1, it appeals that the solids used do not act simply as inert material.
+In the
+second case in this table, for instance, the reaction probably is as follows:
+Na10. Si02 + 13aS04,= Na,SO, +BaO. S10,.
+The reactions in the other cases are too problematical to be worth discussion here. It is
+sufficient tcnay that raw kaolin wfi.s found to be the best solid for use in spark plug cemente
+since it absorbed the sodium silicate as fast as it melted and produced an impcrviouq mass.
+The oxidation is greatly accelerated by contact with fused alkaline substances.
+Attempts were made to seal the wires into the porcelain af ker heating by means of glasses
+ranging in coeilicient of thermal expansion from that of the porcelain to that of the wire.
+None of these attempts have so far been successful, for_in cooling, the glass pulled away either
+from the porcelain or from the wire. Special wire, with a coefficient of thermal cspaixsion
+about equal to that of porcelain, has been ordered.
+These experiments will then be repeated.
+As a part of this investigation,
+a visit was made by a representative
+of the bureau to a
+spark plug factory where all porcelains were subjected .to a sudden heating test, in which tho
+tip of the porcelain was placed in the flame of a Meker burner.
+_The porcelains were uniforndy
+passing this “test. When it was suggested that p&cektina containing electrodes be tested in
+the same manner, it was fonnd that 45 per cent of the porcelains cracked.
+A the result of
+actual engine tests of. complete plugs at the bureau, it has been found in general that in the
+cracked plugs the cement is holdi~~ well, the fai.lure being due to the difference in coefllcient of
+thermal expansion betiveen the porcelain and nickel wire, which sets up so h~gh a stress between
+the two parta of the plug that one or the other has to give way. This conclusion is confirmed
+by the fact that in the above factory tests, on the 55 per cent-of plugs that did not fail, either
+cement was absent from around the wire near the tip of the porcelain or else it softened and
+gushed out of the hole.
+
+—
+
+—
+
+PROPERTIES
+
+AND
+
+PREPARATION
+
+OF
+
+GERAMIC
+
+INSULATORS
+
+FOR
+
+SPARK
+
+35
+
+PLUGS.
+
+The subject of gas leakage of spark plugs in relation to failure of the central electrode has
+also been studied.
+While considerable work has beefi done in determining the gas leakage of
+new plugs in view of the above results, it appeared advisable to determine leakage on plugs
+that had been used in an airplane engine.
+In Table 2 are giveri the results of examination of a
+typical lot of 40 plugs. The following information will be of assistance ti reading this table,
+Of the 12 broken plugs, 6 leaked badly- and 6 did not leak at all. Of those that leaked badly,
+4 contained loose wires and, in the case of one of these, the wire could b.e pulled out easily.
+It i~ evident that tests for gas leakage on new plugs give no indication of their gas leakage in use
+and that this leakage does not necessarily produce broken porcelains.
+In conclusion it may be stated that on accoullt of the dficulties inciclent to the use of cement
+between the electrode wires and porcelains in spark plugs, the elimination of the cement entirely
+and the use of a mechanical seal at. the top of the porcelain is greatly to be desired.
+The
+rnechunical stress incident to the use of such seals should be lotialized at. the top of the plug.
+The type of porcelain developed by thb bureau has sufficient strength to withst and the necessary
+stresses.
+At least two manufacturers
+of spark plugs are fo~owiqg up the suggestions of the
+bureau along thk line and tests of these plugs are to be carried out as soon as samples are received:
+TABLE
+
+t
+l!
+
+L-Ej’ect
+
+of cements on electrodewiTes.
+
+1:
+:
+
+51 ‘
+
+.,.
+
+I
+
+1—1—1~
+
+~1
+
+30 I Powdered ailfca . . . . . . . . ... . ...] Vwybs.d . . . . . . . . . . ..l Hard
+
+strong, elightly poroue. Part of rnateriai
+had run down the wire.
+
+30 . . . ..do . . . . . . . . . . . . . . . . . . . . . . . . . . . ..do . . . . . . . . . . . ..-.
+Do.
+..........
+2 . . . . . . . . . . Bsriumsulphate . . . . . . . . . . . . . Eaten through . . . . . . Pert of material had melted and run down wire,
+
+lea~$g a hard blue mass behfnd.
+
+41
+6
+
+6
+-7
+
+71 . . . . . . . . ..l . . . . . . . . . .
+30
+30
+1: . . . . . ...!.
+15
+5
+9 i{.
+15
+51
+
+9i
+
+H
+12
+
+::
+10
+10
+
+. ‘ ;I
+.
+
+13 I
+
+:
+
+16
+
+u“.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .Niio....
+...........
+... ... .. ... . .. . .. . .. .. . .
+. . . . . . . . . . . . . . . . Hard, strong, vev” slfghtly poroue.
+. . . ..ao. . . . . . . . . . . . . . . . . . . . . . . . . . . ..do . . . . . . . . . . . ..- Hard, etrong, not porous.
+.
+Kaolkr
+A1. oxi%:::::::::::::::::::::
+~’erybad . . .. . . . . . . . . Soft, weak, porous.
+
+15 Kaolin . .. . . . . . . . . . . . . . . . . . . . . . . . ..do . . . . . . . . . . . . . . .
+Do.
+15 .fi~-~~de . . . . . . . . . . . . . . . . . . . . .
+ao
+.. . . . . . . . . . . . . . . . . . . . . . . I. . . ..do .. .. . . . . . . . . . . . Soft owdery mass.
+80.
+% ‘i&#iiGi12;Z;i”$+- c-”
+‘“- :::”.
+Har~-weak, poroue.
+“c
+30 Kaolb.r calcined at 750< . . . . ..]. .. ..lio . . . . . . . . . . . . . ..l
+.. #
+30 Kaolin calcinedat l,OCw u.... . . . ..ao . . . . . . . . . . . . . . . Soft’%ak poroue.
+
+.....1 ..$2::::::::::::1
+
+;:
+Medium, ~ard, weak, porons.
+::
+30 Kaciinoalcinedatl,250"C...l
+. .. ..do . . . . . . . . . . . . . ..l
+15 lVire dip~ed fn! 40” B& sodium silicate... . . . . . . . . . . . ..”. . . . . . . . ..l . . . ..do . . . . .. . . . . . . . ..l
+16 Clean wfia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .I Slight . . . . . . . . ...+
+I
+
+1
+
+TABLE
+
+2.-Gu3 leakagearound electrodewires
+
+!
+
+in 8park plugs that had been usedfor Ii hours in a Liberty engine.
+
+;M$ = “..
+? 3=
+
+1 Part of these may have been broken while the plugs were befng removed from the engirms.
+
+o
+
+-
+
+~
+

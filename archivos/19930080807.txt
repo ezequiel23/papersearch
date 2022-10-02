@@ -1,0 +1,278 @@
+TECHNICAL NOTES.
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+CASE FILE
+COpy
+No. 14.
+
+INCREASE IN MAXTIl'flJM PRESSURES PRODUCED BY PREIGN:r.TION
+
+IN INTERNAL Cmt.BUSTION ENGINES.
+
+By
+S. W. Sparrow,.
+
+Automotive Power Plant Section,
+
+BUREAU OF STANDARDS.
+
+To be retu I l )
+the fll;:, ,. .;. I
+led
+Advisory Commmee
+for Aeronau ice.
+
+August, 1;:120.
+
+Increase in Maximum Pressures Produced by Preign1.tion in
+Internal Combust ion Engines.
+
+s. W. Sparrow ,
+Automotive Powe r Plant Section,
+BUREAU OF STANDARDS .
+With the high compression ratio of the aviation engine,
+preignition is of
+
+freq~nt occ~ence.
+
+That extremely high tempe r-
+
+atures are a result. is fairly well recogniz ed , but little attention
+seems to have been given to the pressures that prevail in the cylinder under these conditions.
+
+It need scarcely
+
+b~
+
+pointsd out, how-
+
+ever, that accurate knowledge of the maximum pressure in the cycle
+is essential to the design of an engine that shall have a known factor of safety.
+In the course of the investigation of the effect of compressian ratio on altitude performance, which is being conducted for the
+National Advisory Committee for Aaronautjcs at the Bureau of Standards, the curves shown on Sheet No. 1 ware obtained.
+line
+
+sho~
+
+the
+
+press~e
+
+The dotted
+
+obtained with the engine operating
+
+the solid line those obtained
+
+du~ing
+
+preignition.
+
+no~mally,
+
+A change of spark
+
+plugs was the only difference in engine conditions between the two
+runs.
+
+It appears that the charge is completely burned early in the
+
+pression stroke.
+com
+
+It is then compressed and bacause of the loss of
+
+heat to the walls of the combustion chamber the first part of the expansion line falls below the corresponding compression line.
+
+As a
+
+result, the negative work of the first part of the expansion
+
+stro~
+
+is nearly
+
+e~ual
+
+to the positive work at the latter end,
+
+effective work of that cylinder practically zero.
+
+maki~
+
+the
+
+- 2 A.lthough the substance dea.lt with is Il()t a perfect gas, the
+
+equations used in the following computation are sufficiently accurate
+to
+
+a~laiD
+
+the pressurO increase!
+
+Let VI. PI and Tl be the volume. absolute ~essure and ab-
+
+solute tempera.ture at the beginning of the compression stroka, V21
+P2 and T2 cdrrespond.ing values at the end of the compression stroke.
+and. V3 1 P 3 and T3 corresponding values aftsr the oharge has b6"8n
+
+burnsd at constant voluroe.
+
+For the 8.3 compression ratio used,
+
+if we
+
+assuma the value of "nil as 1.3 in tho expressions
+
+Then
+
+If the absoJ.ute temperature at the beginning of tho compression stroka
+
+is 350°0. the final te~perature Tz will thus be 662°0.
+
+Now assume
+
+the firing of the charge to result in a temperature increase in ths
+mixture of 2000°0.
+
+(This value is chosen small to allow for any dis-
+
+sociatioD. heat loss to walls, etc., that may exist.)
+
+(2000 + 662)
+(
+662
+)
+
+P2
+
+=4
+
+• Pz = 4(15.7)Pl
+
+= 62.a
+
+=
+
+PI
+
+In ass\l[lling the charge to be burned at the beginning of 'the
+
+- 3 -
+
+compression stroke, let F3 , V3 and T3 represent the condItion after
+the charge is burned at constant volume, but before it is compressed,
+p
+
+z . Vz
+
+and TZ ' as before, repres&nting the condition after the com-
+
+pression.
+
+P1V1
+Tl
+
+V1
+P3
+
+;::;
+
+T3
+Tl
+
+PI
+
+;::;
+
+;::;
+
+(
+
+V3
+
+;::;
+
+(~OOO
+
+P3V3
+T3
+
++ 3§0)
+
+350
+
+)
+
+PI
+
+;::;
+
+6.7 Pl
+
+No attempt ba.s been made to calculate accwately actual pressuras or temperatures, but merely to show why the pressures obtained
+during preignition should be much greater than those during normal
+Tbe amount of this difference 1.5, of course, S.nfluanced
+
+opel"ation.
+
+by the amount of dissociation, loss to combustion chamber walls,
+Even Curve Sheet No. 1 does not
+
+adeqUatel~
+
+etc~
+
+represent the magnitude
+
+of these pressures because with the high temperatures produced the
+amount of charge taken into the cylinder is somewhat decreased.
+At 15,000 feet altitude where the maxim:um normal pressure
+
+ever obtained was 360 pounds per
+pounds
+
+~er s~uare
+
+s~uar e
+
+inch, pressures of over 950
+
+inch were obtained during preignition.
+
+The importance of making every effort to avoid preignition
+is appcu'ent.
+
+Most important of all, however, is that the engineer
+
+realizes how much the pressures my be increased. from this cause and
+•
+
+governs the engine design accordingly.
+
+- 4 -
+
+The accompanying photograph will SElrve to add slIIphasis to
+this statement and
+
+e~pla1n
+
+ruptad.
+
+July 7, 1920.
+Bureau of Standards,
+Washington, D. C•
+
+..
+
+•
+
+why these experiments were teII!Poraltily inteI'-
+
+•
+
+J
+
+4;1 7 tz.A.S.
+

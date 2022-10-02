@@ -1,0 +1,817 @@
+•
+
+FILE COPY
+
+NO. ,
+TECHN IC AL NOT E S,
+:iAT I ONAl, ADVI SORY COhllUT':'E2 F O
+R
+
+AE ~m! AUTICS.
+
+No . 54
+
+------
+
+'THE FACT ORS TEA't__ :2:RlL I N~ TH'I' MI F DfLJ1·: SPEE D OF AN AIRPL AriE .
+I)ET
+
+By
+
+F . H. Nort on )
+La bora t or y , N. A. C. A.
+
+Ae rodyn ~mic al
+
+~.. """r..... , GUMMIIT£E f.O~ ~
+L' 4 STRfET. N.W,
+V. t '~\J-:-ON 25, !J.e.
+
+•
+,\ '
+
+,( .
+
+f
+
+NATIONAL AJV:;:SGrtY COJ:£GTTEE FGR .AERONAUTICS.
+7ECHN:CAL NaI'E
+
+:~O.
+
+54 ,
+
+THE F AC?ORS THAT :JETEffi.JINE THE MINIlWll SPEED OF AN AIRPLANE.
+By
+
+F. E . Norton,
+Aer odynamical Labora tory, _J, A, C. A. '
+
+A large range between the maximum and minimum speeds of an
+airplane is of undisputed value,
+
+ei~her
+
+to perm:t safe landings
+
+in small fields vlith the mecliul.t1 or slow speed machine, or to
+permit landing at a:l
+
+wi~h ve~y
+
+high speed machines.
+
+tors Dhicn limit the maxinUID s)eed are
+
+~ell
+
+The fac-
+
+understood, but
+
+ratiler strangely the limiting f2,ctOJ.:S of the m:Lnimum speed have
+seldom been recognized.
+
+The '/vhole que stion of minimum speed
+
+has usually been settled by the
+•
+
+stateme~t
+
+that the wings have
+
+reached the point of maximum lift, whereas there a.re very few
+airplanes that can be flown at, or beyond, this point, and a
+great many that can not reach withi:l 50 of it.
+
+Because of
+
+this general misunderstanding of the principles of flight at
+low speed ~here are a large number of machines that could be
+made to fly severc:l miles slower than at present by slight modifications.
+
+In the follo'Ning p2vragraphs, therefore , the factors
+
+that affect the r:linimum speed. 'viII be discussed with the hope
+
+•
+•
+
+that some of the prese ~t uncer-:; s. inty .-;rill be Cle 2.,~3d up .
+
+- 2 TLe wing section has a lar6e effect on the mininuffi speed
+of an airp::'ane becau;3e this deterrniil8s the maXiruUlYl lift coefficicnt
+
+o~
+
+the supporting surface .
+
+U8U3.12..y fonnd from mode l
+
+This lift ooeffioient is
+
+tests in the wind
+
+t1:~nel,
+
+and in order
+
+to show the range of valu0s obtained .s.nd t'le approxima.te se otions for eact, the following table is given:
+
+-_._ - - - Section
+
+R. ,\ .F .: 5
+
+L~-
+
+:'i.P.H,
+
+Lbs jSc: .ft
+
+Snape
+
+-_._---- -
+
+LoAbsolute
+
+'-
+
+--U.S.A.T . S . l6
+
+"-
+
+. OO~74
+
+.538
+
+. 00;:)08
+
+. 604
+
+. 00323
+
+/
+
+'---------~
+
+.7 70
+
+. 00516
+
+1. 00 5
+
+•
+
+~artin
+
+C
+
+.,--------- -
+
+~
+
+rli th flap
+
+Fig. 1
+Of course if ~ lo w speed were the only conside r a ti on , the highes t lift ivi:lg would be chosen; but usua lly it is speed r::nge
+th.s.t is the object, 3.nd the selectj on of a -.-,ring for this pur-
+
+- 3 -
+
+pose
+
+comes beyond the scope of the discussion.
+
+In order to
+
+show how greatly the wing section affects the minimum speed,
+curves are plotted in Fig. 8 against various loadings.
+If a numbe= of lift curves from model tests are examined
+it will be found that the lift fulls off beyond the maximum in
+some oases slowly as in curve (1) in Fig. 3, some rapidly as
+in curve (8) and some, especially the high lift sections , drop
+off suddenly (curve 3).
+
+Now it certainly 1;10u1d be most aWk-
+
+ward when pulling up the nose of an airplane in making a 1anding to have the lift falloff suddenly 85 or 50 per cent, and
+for this reason it was formerly thought unwise to use wings
+that showed a discont inuous lift curve in the model.
+
+However,
+
+more recent t ests have proved that if these sections are run
+at a high enough speed the discontinuity disappears.
+
+Also the
+
+fuselage in comoination with the wings has the property of
+flattening the burble point .
+
+•
+
+These facts are shown very strik-
+
+ingly in Fig. 4, where the lift curves are plotted for a model
+rang , the same Wing in a model airplane, and the full-sized
+airplane. *
+
+The lift values show a close agreement up to 16 0
+
+·.-.-here they begin to diverge, the full-sized ma.chine continuing
+straight on, the model wing falling off rapidly, and the model
+airplane taking an intermediate path.
+The disposition of the wings on the airplane slightly affects the lift coefficient and a few cases will be discussed.
+The aspect ratiO has a slight effect on the maximum lift as
+
+*
+
+in Fig . 5. 'H Ii biplane vy"ill ha--e a maximum lift of about
+N.A. C. A. Report #96.
+
+**
+
+Bairstow - Appl ied Aerodynamics, p.13?
+
+sho~-vn
+
+-
+
+4 -
+
+96~ of that of a ~onoplane3 While a triplane will give only 92%.
+
+:n some cases a
+
+non op~ane
+
+~ift
+
+cushion~ng
+
+due to the
+
+and the wing, but
+H01~leveI',
+
+LO
+
+seems to give an abnormally high
+
+effect of the air between the ground
+really accurate tests have 'been made of this
+
+a model of the IN 'btplane has begn tested in the tun-
+
+11el at varying distances frolT. a flat s1.iIface repl'esenting the
+ground and it was found that the lift and drag at the three
+point landing angle
+
+~vi th
+
+~ere each increased 5%.*
+'i7i th
+
+the wheels just free of the ground
+It would be expected that a monoplane
+
+a wing close to vhe gl'aund would show a
+
+fect than this.
+
+even greater ef-
+
+Stagger also has a slight effect
+
+o~
+
+the lift
+
+as shown ill Fig . 6**, and gap c!1ord ratio has still less (Fig.
+?) • ,~*:;c
+
+It has
+
+bee~
+
+found that the lift coefficients
+
+f~om
+
+uodels
+
+can not be ClJpplied directly to full-sized r.-.achines 3 and t:J.is is
+especially true in regard to the hign values in
+interested.
+
+w~ic~
+
+we are
+
+It is difficult to obtair: values of th . lift coef-
+
+ficient in full flight &t the burble point due to the great
+skill required to fly a
+
+~achine
+
+stead:.ly at this angle.
+
+The
+
+burble point, however, was reached with a JN4h airplane (?ig.4)
+in one case.
+
+I t has been the practice to compute the landing
+
+speed of a machine from the maxin:un lifo coefficient obtained.
+\.
+on the model wing , and by a coincidence this procedure is -very
+nearly correct as the full-sized machine lands at an angle of
+~ttack
+
+much lower than the burble point.
+
+It is necessary there-
+
+fore to make a distinction betvveen landing speed and minirtum
+* Variation in Resultant Pressure upon Lanjin~ Due to Proximity
+of the Earth. A. A. :Aemil - The Ace, December , 1930 .
+** Bairstow - Applied Aeroaynamics, p.l46.
+*** Bairstow - Applied Aerodynamics , p . 14J..
+
+- 5 speed) the forme r occurr ing bet '{{een 10 0 and 14° and "the l L1.t te r
+bet-iv-een 18° and 20° .
+
+As -,vill be shovtJrl lat er this difference is
+
+due mainly to the fact that the controls are not powerful eno-u.gh
+tc safely hold the nose of the machine u:;::> in a glide ,
+There is one
+
+ot~er
+
+factor associated wit h the wings that
+
+has a definite, althou.gh usually slight, effect on the minimum
+speed, and that is the extra lift exerted by the slip stream
+on the wings .
+
+If the we ight of the machine
+
+be supported only by the
+W
+
+:=
+
+1c A"if
+
+w~ngs
+
+VI
+
+is assumed to
+
+-
+
+- m 1c . n f... • ~2 V2 vJhere
+
+1c is the maximum 1 ift coefficient
+
+of the Hings .
+
+A
+
+i s the area of the wings .
+
+V
+
+is the minimum speed.
+
+n~
+
+is the :::-atio of t~le lift ooeffi cient at the angle
+betviTeen the wings and the t~1rust line to the
+maxim-urn lift coefficient .
+
+n
+
+is the ratio of the effective area in the slip
+stream '30 the total area .
+
+p
+
+is the J:'atio of the velocity
+to the ah' speed .
+
+j.n
+
+the slip stream
+
+the n
+V
+
+:=
+
+J
+
+/w
+
+A .
+
+1
+i.
+
+.u C
+
+/
+',,/
+'
+
+1
+
+--=-1 - nmp
+
+The last radical cont ains only those terms affe ct ed by the slip
+stream .
+
+In Fig . 8 are p lotted a fe w curves ;;;ith vari ous value s
+
+of the constants
+
+m
+
+and
+
+n.
+
+On the usual tractor machine the
+
+percentage of effective wing area is very small so that the reduction in speed fro m this cause is at rrost only a few per ce n t .
+
+5 2.7'he!l em airpl9..ne is flying slowly with
+(clim-0in6) the
+
+thrus-~
+
+t~e
+
+throttle :)pe:<1
+
+a..'{is is inclined up ivard several degrees
+
+so that there will be a vert ical component of the tlu"'c:st give:'l
+by:
+Z = T sin
+i-~here
+
+T
+
+e
+
+is the thrust and
+
+the horizontal.
+
+e
+
+the angle of tl18 thrust a:ds to
+
+It is pos s icle to fly a
+
+po~er:ully
+
+controlle d
+
+airpl ane at a very steep angle even when a ccnstant 0.1 t i tucie is
+held .
+
+In Fj.g . 9 is plott;;)d a curve showing tne decrease in
+
+speed due tc the direct li;t of the air screw on a 2000 pound
+mac hine ',"lith a 400 pcund. t'i:uust .
+
+It is :lot iced tha'G with a 20°
+
+inclination - the la:r:gest that ~.s li1':ely to occur - the dec rease in speed is only 4::~ .
+It may happen
+
+t~at
+
+C:l
+
+low pov{ered airplanes the rJinirrru.lli
+
+speed in level flight is determined by tile engine power , that
+is, as the power increases \~th a decrease in speed for low
+speeds, tIl3 power may not be sufficient tc allow reacting the
+min imum speed. .
+
+'!'his j.s s:'lown in Fig . 10 fcr a JN4 with a 150
+
+and a 90 horsepo'lver motor; the latter pc'V',er
+speed 3 m. p . h . greater than the former .
+
+givir~g
+
+a mi nimum
+
+In gliding flight this
+
+:factor -:;;ould not, of course, enter in .
+Every l.:>ilot knows that it is nece ssary to hold the st ick
+':v31l back ~7hen flying at the mininn.A"TIn speed ~ and this is especially true in a glide when the elevato~s are not in the slip
+stream .
+
+In a great many rr.achine8 the controls are pulled bac k
+
+to their greatest extent when flying slowly , and in such cases
+the longitudinal control is tte
+
+limit~ng
+
+fetor of the minirmwm
+
+- 6 speed .
+
+In the major5..ty of the flying range - frolY. 10
+
+1i~ .p.h.
+
+is v e ry slight , but be'low a certain oritioal velocity the st iok
+rr:ust be pulled back ::a}:,idly.
+
+This is sho'vVn clearly by a fe \7 con-
+
+trol !)osition curves from free flight tests plotted in Fig. 11.*
+It is also ev ideEt that as far as the longitudinal control is
+concerned a lo wer air speed
+
+ca~
+
+be obtained by an open throttle.
+
+':'he reason for "Ghis -J}!'eak in t11e contl'ol posi tion curves
+is due mainly to the -:a.ct that the center of pressure travel on
+the Wing c~1ar-ges frOD aT} unsta;:,le to a s"~able direction at this
+speed; that is, at ti:1e lo ;ver ai:::- speed.s the machine be comes very
+stable and
+
+~ttempts
+
+to nose
+
+dO~1 strongly ~
+
+so that only a pow-
+
+erful tail fcrce can hold it in sloN speed equilibriu~ .
+
+There
+
+seems to be no vvay in which this break L"l the control posit ion
+c~rve
+
+can be prevented; so that this factor imposes a serious
+
+obst acle to the safe and comicrtc:.ble a.ttainm.ent of the lower
+speeds.
+
+All tbat can be done, and this is in other ways detri-
+
+mental, is to
+unsta~le
+
+UScl
+
+& 90werful elevator, or a tail heavy and an
+
+machin3.
+
+Tbat the longitudinal control can have ar- inportant ef fect on the minimum
+
+s~Jeed
+
+',vas recently derl,onstrated on an ex -
+
+per imental JN4b with a special tail to provide great stability .
+~Tlith
+
+this tail the mi!limum speed that could be reached was 50
+
+m.p.b . while ',;ith the regular tail tbe minimum speed
+
+~vas 40
+
+m.p . b . , a very considerable difference .
+rie now come to the last and most important
+ing tbe minimum speed, the lateral control .
+:
+...l .~. Ct' A .. Fe:port
+#95,
+
+f~ct or
+
+affect-
+
+The lateral control
+
+- 7 .,..
+
+is seldom associated with tl:!e a.bility to fly at very low speeds;
+but nearly every pilot will say that the reason he can not fly
+more slowly is that the machine stalls, and a stall is falling
+into a aide slip or spin because of
+ailerons and rudder .
+its
+
+minimu~
+
+t~e
+
+ineffectiveness of the
+
+As the speed of an airplane approaches
+
+the actioL of the ailerons is seen to be very slug-
+
+gish; in fact , if the stick is pushed sharply over the
+
+~achine
+
+does not roll , but yaws sharply towarci downward aileron .
+
+The
+
+ineffectiveness of the ailero.ls is shown very strikingly by a
+fe w curves taken from a model test* (Fig . 13).
+
+As the angle
+
+of incidence is increased the 1'o11in6 momer.t grows
+
+s~aller,
+
+-oe-
+
+co:a-.ing zero for no yaw at abo-o.t 17 0 angle of attack, and at
+higher angles becoming neg~tive .
+
+~his
+
+means ~hat at 17 0 the
+
+ailerons could not pToduce any rolling moment for this particu1ar te st, and the condi -:; ions would be nearly -che same for any
+type Qf machine.
+The other mem'.Jer of the latera:;" con-(;rol, the rudder, is
+more effective at
+
+h~gh
+
+angles of incidence than the ailerons
+
+and has tbe additional advantage of being in the slip stream,
+but it can no-:; directly produce a rolling moment .
+however, almost entirely to
+
+p~oduce
+
+lateral
+
+~a1ance
+
+It is used,
+by causing
+
+an angle of ya\7 whioh in turn produce s a rolling moment as sho-.'m
+by the curves in Fig . 13,
+
+A pilot uses the rudder almost en-
+
+t irely when £1y::'ng at ve:>:::y low spe3ds to keep his lateral ba1-
+
+ance , and the more skillful he is the
+
+slo~r
+
+out pulling into a spin,
+* R. &;,,-1. NO , 1- 2 , B:ritish ..\dvisoTY Repo:rt .
+5
+
+oan he fly tith-
+
+- 8 -
+
+The stalling speed of an airplane is usually not any definite figure for a certain
+the pilot.
+
+mac~ine
+
+but is a function also of
+
+As an instance of this a pilot was able to fly a
+
+certain maccine no lo we r than 43 m.p.h. even after repeat ed
+trials.; anothe r pilot on t he same m
+achine and ', vith the same
+we ight, after considerable practice was able to reach a steady
+speed of 40 m.p.h. because of his greater skill in using the
+rudder to prevent the machine from falling into a spin.
+W
+hen designing a machine the preceding conditions for low
+speed should be considered, as they do not in general conflict
+with the other desirable properties.
+
+In particular, care should
+
+be taken to provide a powerful lateral control as most pilots
+quite properly refuse to make full use of the lo w speed properties of their machine be cause of the chance of pulling into a
+spin or sideslip.
+
+A great many crashes or landings can be traced
+
+to a lack of lateral control.
+
+Excessively large ailerons c an
+
+not be used on a high speed machine because they are too stiff,
+that is, it is necessary to slow do'an before it is possible to
+go into a turn wit:i.1 any considerable bank, but it would seem
+possible to increase their efficiency without mak i ng them larger.
+In conclusion, the following list of factors affecting the
+mininmID speed of an airplane is given with the ap:i.)roximate magnitude of their influence in per cent based on the maximum variation of the factors that is likely to occur.
+
+The percentages
+
+given are of necessity quite arbitrary and. are onl y intended in
+a gene ral way to show the relative unimportance of a ll the fac-
+
+- 9 tcrs except Nos . 1,10, and. 11.
+
+The Wing lea.ding is ass-.J...l1led
+
+to be specifiea and so does not come into the discussion.
+1.
+
+Wing Se8t~on - 26% .
+
+2.
+
+Wing Loading - a gi7en condition.
+
+3.
+
+Aspect Ratio -
+
+4.
+
+Gap Chora Ratio - 4% (Compared \7ith Monoplane)_
+
+5.
+
+Stagger
+
+6.
+
+Sca1e -
+
+7.
+
+Slipstream on wings - 1%.
+
+8.
+
+Vert; ical corr.ponent of Ai~ Sere Vi Th:r-ust -
+
+9.
+
+Power in Level Flight
+
+4%
+.
+
+2%.
+
+2%.
+
+./
+
+10 .
+11.
+
+I
+
+Longitudinal Control - 20,0 _
+Lateral Contro: - 157~ -
+
+3%
+.
+
+t
+
+oi ron
+ron
+
+01
+

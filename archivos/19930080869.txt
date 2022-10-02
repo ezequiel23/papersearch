@@ -1,0 +1,3518 @@
+,
+
+TECHNICAL NOTES.
+
+NAT1ONAL ADV1S(RY COiOHTTEE FOR AEROWUT1 CS.
+
+ND. ’71.
+
+.
+
+EXPERI19HTS Will%SLOTTED WINGS.
+q
+
+Translated from
+“Zeitschrift ffizFlugtechnik und kfotorlu;tschiffahrt~~
+June i!j,
+1921
+By the National Advisory COmIitt&e
+for Aeronautics.
+
+q
+
+Ncwember, 1921.
+
+,
+
+.
+
+—
+
+.
+
+NATIONAL ADVHXW
+
+COWITTEE ITORAERCXAUTICS.
+
+TIZ~iiICAL
+NOTE HG. ??..
+EXPERIMENTS WITH SLOTTED WINGS.
+Translated from “Zeitschrift ffirF’lugtechnik
+und lLotorluftschiffahrt,
+l
+June 15, 1921$ by the National Advisory Committee fcr Aeronautics.
+. .
+
+Slotted Wing .Sections,
+By C. Laclmann of Ilarmstadt.
+
+Introduction.
+The idea of increasing the lift of an aerofoil ‘JYsubdividing
+it goes back to gliding flight experiments by the writer before the
+war.
+
+A crash in August, 1317, with a ihmpler C airplane, on account ~
+
+of stalling, caused tineidea to be put into concrete form and presented for a patent in 1918. The patent claim rssds:
+
+“SuppOrting
+
+surface characterized by Zts being divided into a number of tsndem
+components which-together form a wing section.II The application
+‘wasat first rejected ‘aec”ause
+the patent office did not believe in
+the possibility of increasing the lift by dividing the wing.
+
+The
+
+issuing of the Fatent was made dependent on conelu.sve proof of
+i
+,.
+
+such incre~e.
+Already in 1917, a small wooden model of a divided wing was
+made in the laboratory of the school for observers in Cologne (Fig.
+q
+
+1).
+
+This model was expeoted to show the effect of the slots ~on the
+
+air current, with the aid of a smoke bl,~t.
+
+The ratiler
+primitive
+
+-2exj?eriments
+gave however no note-worthyresults, chiefly because ihe
+610ts were too p.aryow.
+lhrther experiments were rendered impossible by my war serrice
+a6 airplsne pilot and subsequent severe wounding, and Sy inzensim
+professional work after the war.
+
+,
+
+The announcezzent the practical experiments of Handle~-P~e
+of
+in 1920~ with a divided wing section, gave occasion for cslling the
+attention of the prcfess%onal world and the patent offioe to the
+German priority of the idea. The principal proof lay i~ the two
+models made according to the instructions of the writer and tested
+in the wind tunnel cf the aerodynamic institute at G&tingen.
+The results of these experiffients here given.
+are
+
+Attention shouid
+
+first be called to t~.efact, however, that the results obtair.ed
+do
+not yet represent the practically attainable opti~mm~ since the arrangement of the slots was only tentative, without theoretical considerations~ =d with the.closest possible adherence to the patent
+drawing.
+
+Any analytical investigation of the air current appears
+
+extremely complicated. The inorease in the lift values of the di.
+vialedwing &rely bears s“omerelation’to the changes in the air
+current, since t-nediversion of t-nestresm lines from the suction
+side of the section and the formation of a I’dead-water
+regionftccur
+o
+at larger angles of attack than in the case of the closed wing
+ssction.
+For showing the effect on the current, a three-part wing section was tested in the hydraulic laboratory of the I!armstadtTechnical High School. The blaok walnut model was 45 x 25 cm., and was
+I
+
+.
+
+-38
+
+instailed at an angle of attack of abo’~t40° in the 40 c~. wide conduit, which was inclosed on one side by a thick gl~s
+
+piate.
+
+The
+
+average velocity of tb.ewater was 1 meter pe~ s~cond- The course
+@f the s tre~l
+
+~ines
+
+cculd be recognized by the air bli~-olesn the,
+i
+
+water and could be made still plainer by admitting a solution of
+ursnine through a smll
+
+pipe.
+
+.
+
+When the slots were open, the
+
+streamlines ran parallel to the cu-rveof the suetion side-
+
+When
+
+the slots were closed, there was a visi-~lelocsening of the streamlines on the upper side of the wing section. The cour~~ of the
+variable layer and the formai,
+ion of the tur-ouienidead-water region.
+showed very plainly, wher~a strip of linen loosely covering the upper side, wss attached to the leading edge.
+.
+
+The loosening of the
+
+Stremlines from the suetion side and ihe formation of the deadwater region also took place with the slots Gpen, when the velocity
+of the water was raised to 4 rtieterser second. These experiments
+p
+are not yet finished and the stream pictures thus far obtained can
+not pass for absolutely cor~ect representations.
+Significance of Form snd Number of Siots.
+Wing section No. 422 was chosen as the baa ic section for su3aivisioi in the G&t ingen experiments. In Figs. 2 and 3 are given
+the polar diagrams derived frw
+
+the results of the measurements.
+
+For comparison, the polar curves of the basic section are given on
+‘ootlz
+diagrams. Model L-2 corresponds to model L-1, even to the
+sharp edges of the o’~tet oper.ngs on the suetion sids. This was
+l
+i
+.
+
+siqly for exact conformity of the ex~eriment model with the draw- ing of the patent.
+
+-4As may he seen froa the disgrams, the result of the division
+is a mxdmm
+
+lift increase of about 60~~for angles of attack whit-n
+
+are about twice aslarge as foy closed wing s9ctions. Fig. 4 shows
+that a cieoreaseof the lift-drag ratio occurs ~ iti=l
+aiviflediving
+sections.
+
+Ourves 422I and La~ were obtained for a compiete air-
+
+plane on the basis af an average fuselage drag C}V= 0.03.
+I
+Wing section L= gives an astor.shing improvement of the lift–
+i
+drag ratio, with only a small loss in the m.xiriiumift ralue.
+l
+geci~lY
+
+for mall
+
+mgles
+
+Es-
+
+of attack them? is a noteworthy reduc-
+
+=
+
+tion in the wing section drag. This phenczenon is p robahly connected
+with the more UnifOrm
+(in
+
+common
+
+Sklape,
+
+Of
+
+the slots of section La,
+
+for which
+
+with the centinuity condition), the increase of the veicc- ;
+
+ity of the current takes place in a more harmonious manner than for
+secticm
+
+L1.
+
+lTelearn from this that in actual construction, tha
+
+continuity of path of the acceleration$ aside from the centrifugal
+accelerations, which are grasped with difficulty, is 3est tested
+graphically.
+From the curve diagrams of the G&t ingen measurements forsingle-slotted wings, it is evident that, with tuneupper outlet completely closed, the wing-section drag, within.cartain small angles ,
+of attack, is nearly equal to the drag of a closed section. The irregular shape of the pressure side accordingly plays i~Orole with
+these small sngles of attack, which is important in the construction
+of slot-closing devices.
+The’shapes of ths individual parts of the wing section,
+‘2:’ are still very unfavorable.
+
+LI and
+
+In particular, these parts are tco
+
+PT5,
+
+thick in proportion to the choxd. The w:dth of the slots also
+s~e~s to be tOo narrcw.
+
+The G&t ingen curves icr single-slotted
+
+wing sections give an idea
+
+the importance of more favorable
+
+shaFes“for the slots and parts of the wing section.
+The differences of tke experimental.results so far obtained
+between wing sections with only one slot and those having two or
+more may he summarized as fOllows:
+1.
+
+Wing sections with two ox r~oreslot~ give grsater lift
+
+values thsn t-hosewith only one s1otj
+2.
+
+The course of the polar ourves is continuous for wing sec–
+
+tions witk .
+two or more slots> while for sections with OPIY one.s.iot
+a sudden increase of tile Clw values occurs in the region of smsil
+angles of attack;
+3.
+
+The pressure q
+center varies more fOr large anglesof attack
+
+in sections wit’ntwo or more slots than in sections with only cne
+slot.
+The question of the signifio~ce of the angle of setting of
+.
+the part sections to the chord of the tGtal wing secticm and the relation between the width of the slots and the velocity of the fluid
+.
+flowing ~th
+rough’them require further experimental elucidation.
+-.
+J
+Influence of7Slots on Power Absorption and Speed in
+Horizontal FliEht.
+For ex”nibitng this i.nf
+i
+luence, a transformation cf t-heknown
+—
+
+equations for t-helift and the coordinated power akscu..ption
+was
+
+-13undertaken, in order to represent the weight per. HP, ‘G/N2
+.
+
+ss a
+
+function of the horizontal speed.
+It is:
+
+..
+
+or
+
+N1 .CWXLX1
+
+F
+
+~~a=
+
+(JWX*.
+
+.
+
+XV3
+
+.
+
+.
+
+.
+
+.
+
+(1)
+
+.
+
+75xq
+
+2g
+*
+
+whereby
+
+A =G=Fx~
+
+2g
+
+XCa
+
+xv=
+
+fOllows
+
+or
+.
+
+if we adopt
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+(2)
+
+Y
+E - +
+
+5Y the substitution of this expression for
+
+v
+
+in equation 1,
+
+we obtain for the weight per horsepower
+
+fYa3/2
+Cw
+
+x
+
+75xq
+4
+
+x
+
+A-
+
+,’
+
+-7By squaring we obtain
+
+The product of the wing loading by the weight
+~
+The change of T proporper horsepower is proportional to
+c~2
+tional to v is hereby neglected.* To equation (3) aorresponda
+Or, stated in words:
+
+the known equation from the p ropeiler theory
+
+or> in wOr$s : The product of the surface utilization and the squaye
+of the power utilization is constant.
+= 0.7, then
+
+3/2
+G = ~a.
+~cw
+
+13
+r
+
+caCw
+horsepower end
+
+The value
+
+power.
+
+—
+
+.(~a) ‘-
+
+G“””-”’-”.
+F
+
+might be deslgnated as coefficient of weight per
+
+.*.
+~al 2
+
+SE speed coefficient of weight per horse-
+
+In Fig. 5 the weight per horsepower is represented as a
+
+function of the speed for sections 422, LI and La . Curves 422’ and
+L21 were thus produced by employing for:the denominator of the ex-
+
+,
+
+pression ~
+
+:
+
+3/2
+
+cm
+
+a mean fuselage drag
+
+(cw-=
+
+0.03).
+
+F’r~
+
+the
+
+.-%vx[m
+‘
+
+*According to Bendemann
+
+ia the propeller efficiency (Z. ffirF. u. M., 1918).
+
+q
+
+-3grap~.o represent”at the following result is obtained:
+i
+ion
+
+I
+I.
+IUthoui Reference to the Tmelage
+
+Drag.
+
+.
+
+Zy the increase Cf the speed beyond the point of intersection
+of the curved &22 and Lz, tiaemaxitiumweight per horsepower of the
+closed wing section exceeds Wnat ‘of the divided section by about
+.
+
+23$.
+
+The speed coefficient for the uexi&m
+
+per horsepower of the
+
+closed section is thereby 48$ greate~ than that of the divided wing
+seotion.
+
+If we take the product
+G?r=
+
+T (Transportation economy),
+
+then the closed secticn surpasses the divided one hy 82%.
+11.
+With Reference to a Mean fiselageDrag.
+The above considerate
+icns are of pure theoretical significance,
+sinee in practice we always have to reckon with a fuselage drag and
+can only fiy with regard to safety and not to the maximum weight
+I per horsepower. By the introduction of a mean fuselage drag, the
+matter assties an entirely different espect. The msmuM
+
+v~ue
+
+of
+
+the weight per horsepower nom exceeds, for the divided section L=,
+.
+the maximum value of seotio~ 422 by about 6$. l?Or reasons already
+kllOVTll,this
+
+value is not practic~ ly attain~le .
+
+rf.aximum value
+
+a:
+
+If, however, tile
+
+of the closed section is chosen for the divided
+
+section, then in the case of the divided section there is the possibility of coming within 9.3$ of the highest speed with constant
+y
+weight per horsepower.
+8
+
+.
+
+-9-’
+The divided seotion accordingly works more favorably than the
+qlosed section for F.ighweights per horsepower, high wing loading
+and relatively low speeds. Since the speed in horizontal flight
+also increases in pro~or%icn to the wing loading> the influence of
+the slots on the horizontal speed must be determined befoze ap@y ing the rule to a practical example.
+III.
+Alteration of the Flight Speed by Mesns of the Slots.
+The previous considerations apply to divided wing sections
+without closing devices.
+
+It is evident that the application of
+
+such a device would serve the pu~ose
+
+of combining the advantages
+
+of both kinds of sections. With constant weight per horsepmer,
+decrease in the speed can-be effected by opening the slots.
+
+a
+
+Tha
+
+minimum attainable speed, which is of especial importance for the
+length of the run in taking off and in lending is out off on the
+axis of the abscissas by the vertical tangent to the ourve ot the
+weight pez horsepower.
+
+In.the foregoing case, a speed decrease Of
+
+about 20~ is possible.
+B.
+
+.
+
+Influence of Slots on Horizontal Speed.
+The horizontal sfieedis given by
+‘~ = +“””””’”’”””
+
+&
+P
+
+(4)
+
+-1ois the speed coefficier~tof gliding flight.
+
+c
+
+‘m
+
+P
+
+=
+
+and
+
+J’Caa
+
++ CW2
+
+the length of the radius vector.
+With reference to a mean fuselage drag of
+
+CIT= 0.03,
+
+we have
+
+the fcllowing representation for the three main forrzis gliding
+of
+f1ight.
+Section
+422
+L-1
+
+Inclination of flight path
+
+.
+AngLe of attack
++1.2°
++8.6°
+
+e 10’
+?0 301
+
+( ~~a>xin.
+(P
+,
+1.20
+0.96
+
+Decresse 20~
+a) Swiftest gliding flight.
+422
+L-l
+
+14° 50‘
+430 201
+
+_~*go
+_40
+
+2.26
+3.02
+
+_-J~
+o
+5.2°
+
+3.16
+3*44
+I
+
+Acceleration = 335
+b} Vertical diving.
+422
+L-1
+
+900
+900
+Acceleration = 8.9$..
+
+The signifio.anteof diminishing the gliding speed for the
+economy of flight, is best illustrated by a practical exsmple.
+
+.~~.
+
+The following data are taken as the basis:
+Total weight of airPlane
+
+.
+
+n = 650 kg.
+u
+
+q
+
+Normal engine power on ground
+
+N = 115 EP
+
+Area of supporting surfaces
+
+F=
+
+Weight per HP
+
+G/N =
+
+Wing loading (kg/sq.m.
+)
+
+G/F =
+
+Propeller efficiency
+
+n
+
+=
+
+15.1 Sq.m.
+5.65 kg.
+43 kg.
+0.7
+
+We shall investigate three cases:
+Case 1.
+a)
+
+The airpl%ne has the normal wing section 422’.
+From formula 3a we obtain for the coefficient of the
+
+weight,per HP, 5.65%
+~a3/a
+
+g-”=
+
+2.Z4
+
+The coordinate maximum speed according to formula (2) is
+vrlax
+
+The #roduct T = G x v
+
+= 18Clkm/h.
+
+q
+
+hereby attains the value
+
+T = 116,960 kg
+
+X
+
+km/h.
+
+,
+
+, The speed for the flattest gliding flight is, according to equatiw
+(4) for Y = 70 = 1.244
+b)
+
+With double %he wing loading, the following values are
+
+obtained
+G/N = 13.3 kg/HP
+G/l?= 86 kg/sq.zn.
+The coefficient of weight per HP is then
+,
+
+C.J’2
+c=
+
+‘8
+
+m
+
+-12From diagram Ro. 8, it follows that for these values, both
+wing sections are atioutre~ally justified in the regim between the
+critical and the maximum speed. With this weight per HP, we have
+~lnax= 43 m/s = 155 kmlh.
+The gliding speed is raised however to
+s
+‘g min = 44.1 rri/
+.,
+such a speed in the flattsst gliding flight being natur&l.y excluded
+l
+in practice.
+!
+
+Case 2.
+a)
+
+The airpl~e haa slots without c1osing device.
+
+We
+
+will again assume that
+G/’N= 11.3 kg/HP
+
+ad
+
+The attainable speed is then
+
+G/F = 86 kgjsq.m.
+.
+
+‘max = 35 m/s = 125 km/h.
+arid
+T = 162,500 kg X km/h,
+or about 39$ more than in
+
+Cabe
+
+la.
+
+*
+
+‘g min = 35*4 m~g
+and the wing loading for the undivided section is raised to
+G/F = 67 kg/sq.m.
+.b
+
+.- the weight per HP to
+:..
+-1
+(2/’N = 8.25 “kg/
+HF.
+
+.
+- The corresponding coefficient of the w~ight per HP is 5.2.
+The speed coefficient is 1.29, corresponding to
+
+.
+
+-u..
+
+,
+/
+-~~-,.
+
+‘Jmax= 42
+
+Ail/s
+
+= 151 km/h. and
+
+T =-152,500 kg X ti,/h.
+In comparison with Caae 1 there is therefore an increase of
+a-nout30~ in transportation economy. The divided wing is accouiingly adapted, even without slot-closing device, for incre~ ing the
+
+I
+
+flight economy.
+The critical speed, in this case, lies at
+.
+
+Vmln 23.4 m/” = 84.5 km/h.
+S
+Hence the cliffrence between the speed limits is qui%e large
+e
+Case 3.
+
+Tineconditions are assumed to >e the sme
+
+q
+
+as in the
+
+foregoing case. The fiivided
+~ii~gsection is h’oweverprovided With
+a closing devics, by mans
+
+of which it is assumed that the same
+
+cor.dit
+ions can be attained as in a completely closed wing section.
+we then have
+t
+v, = 31.4 m/s
+8
+~“aax= 180 km/’h
+T
+
+.
+= 182,0g0 kg X lm/h
+
+or 56$%
+m,orethan in Case la.
+
+c.
+Influence on Ceiling, Climbing Speed and Controllability.
+,
+
+The ceiling Zg
+
+‘g
+
+of an airpiane, according to Kann, is
+
+= 1280 log
+-
+
+358
+[
+
+-14, When the weight per HP, wing loading, propeller efficiency and
+fuselage drag are given, only the value (Ca3/Cw2)ma pla~’sa 2ecisive role.
+
+In diagrsn 6, this value is given as a functiOn of
+
+the angle of attack. The curves 422[ and L 21 vere obtained with
+reference to a mesn fuselage,
+drag, while tt.erem~ning ourves show
+the course of the values for the wings alone.
+
+In practice there
+
+is a consequent superiority of the divided wing section with referenoe to the attainable cei?!ingand thermit h also ,theclimbing
+speed, since all factors which inorease the height linit also decrease the cliw.bing
+time.
+The radius of the narrowest possible curve can, ir~practice,
+be made equal to the radius of the ourve which is flown with the
+angle of s,ttck for the height limit.
+a
+
+The radius of the practi-
+
+cally narrowest possible ourve i6 therefore
+
+V2
+
+‘rein
+
+The divided wing section is also superior to the closed with
+reference to centrollability.
+D.
+I
+
+Si&aificance for Longitudinal Stability.
+The danger of stalling is less with a divided wing section.
+It is therefore especially adapted for school airglanes; because
+—
+
+‘
+
+Qibtzilcea
+
+in steerdng will be uozw evidect to the pu~ii %heu .“L~WUE-
+
+ly, on account of the greater angle of attack. This perhaps offel’s
+a means for reducing the Frincipa~ source of danger in learning to
+fly.
+As a slot-closing device, soznesuck arrangement ti the following is possible.
+
+A !?M@sis connected with the lever :~htchoper-
+
+ates the closing device, with the interposition of springs of suitable strength, in such a way that in the event of a sudden dangerOUS slackening of the airplane speed, it is carried forward by its
+inertia and opens the slots.
+Or a divided surface may be arranged as a horizontal damping
+wing while the main wing is provided with fewer slots CT not any
+—
+—
+
+at all (Fig. 7).
+of the d~ing
+
+If the engine stalls, on the one hand, the lift
+
+wing inoreases relatively more than the lift of the
+
+~Aah wings and, on the other hand, the center of pressure of the
+d~ping plane moves back more, thereby ~roducing a backward turning
+moment- Equilibri.w is obtained when the sum of s2,1the moments
+and Of.all vertio~
+
+ad
+
+horizonta
+Lxt+Dxd–
+S+-+
+
+L+-+
+
+components is zero, th&
+
+is, when
+,
+
+Fxf=c)
+D+-+F’=0
+
+E.
+Adaptation of Divided Wing Sections ‘t Soari=
+~
+
+F1ight-
+
+With the assumpiion of an ascending air current, soaring flight
+may be regarded as gliding flight with increased wind speed. Horizontal soaring flight is possible ‘whenthe resultmt v~
+of the
+
+(Fig. 8).
+
+and.the gliding speed
+
+are both horizontal
+%
+The conditicm of equilibrium for horizontal soariag
+
+wind speed Vw
+
+fligkt is
+V.q
+=— sin ~
+—
+sin c
+‘g
+in which ~ = mgle
+
+of incidence of glidtiigflight.
+
+c = ascending angle of wind.
+BY substituting the values under the hea,dihg B,
+
+for the slowest
+
+practically possible gliding flight, it is found that the divided
+wing section requires less mind speed than the closed wing section.
+Frwided
+
+the ~cending wind offsets the value of ~ of the divided
+
+section and the wing losing
+
+~d
+
+fuael~e drag are the same in koth
+
+cases.
+For a given wind ascent c = 15C
+
+the following minimum wtid
+
+strengths are obtained:~
+.
+a)
+
+Section 422
+v_ sin @
+‘Wl=
+
+‘c}
+
+= 0.499
+
+sin c
+
+Section L-1
+
+‘vr2 = 0.485
+Hence, with reference- the demand for wind speed, Section
+to
+LL1 is about 3% more favorable. Both sections are therefore in this
+respect ehOut equally justified in practice, provided the divided
+wing section can not be furtiierizzprovedin this direction.
+
+“
+
+Fig. 1.
+
+16
+
+r I
+
+I
+
+I
+
+I
+
+I
+
+t
+
+t
+
+J
+
+t
+
+i
+
+8
+
+4
+n
+“-7
+
+8
+
+o
+
+16
+24
+a
+Fig. 4. ~
+.
+
+14
+12
+10
+8
+6
+4
+2
+0
+o
+
+0.5
+
+/
+
+/[
+0.817
+
+i
+LO
+
+1.5
+
+0.93
+
+2-0
+
+2.5
+Ca-l’a
+
+3.Q->
+
+Fi&..5.
+.,
+
+. .-
+
+2:8
+iH)
+120
+.—
+
+-.80
+40
+0
+-40
+
+Fig. 2
+is
+
+3~
+
+50
+
+“o
+
+90
+
+110
+
+cm
+
+2.
+1..
+0.
+-1.
+
+-3.
+—4.
+-6.
+
+L2!?!!Z!!D?Z222S
+Fig. 3
+
+---
+
+t
+
+I
+1
+
+/
+
+~xLd----A--L
+
+I
+
+-.
+
+,
+
+I \l/
+
+.
+I
+
+I
+
+I
+I
+
+1
+
+I
+
+I
+
+1
+
+I
+i
+
+—-
+
+Fig. 6.
+
+Fig. 7
+\
+
+Fig. 8
+
+-X?-
+
+‘
+
+G&t ingen Tests “of Handley-Page Wings,
+By C. Wieeelsberger.
+
+The following preliminary series of twelve experiments was
+carried cut at a wind velocity of 30 ueters per second for the purpose of investigating the characteristics of the Handley-Page wings.
+1.
+
+Testing a ning of the usual Hamiley-Page skape, so far as
+
+the latter is known from the published reports concerning wing No. 1.
+The experiment shows that the lift increases up to ~
+
+aUgle of at-
+
+tack cf 27.7°, the fiaxiriium
+lift being here 196.3 (Fig. 1 smd Table
+
+,
+.
+
+.
+
+l). - From the posi~icm of the parabola of the induced drag,.~11ch
+j
+is drawn for the aspect ratio of 100.3 : 22.9, it is evident that
+the wing section drag is not excessive fOr large angles o~.atta,ck.
+Cn the other hand, for small angles of attack (in tke neighborhow
+
+of a lift of 40), a strong sudden increase of the wing drag
+
+takes place.
+
+The wing, therefore, does riotshow especially favor-
+
+able characteristics for normal flight, but very favorable, on the
+contrary, for landing.
+2.
+
+It was sought to render the sudden increase ‘ofdrag for
+
+small lifts 18ss unfavorable.
+
+For this purpose, starting with a
+
+previously tested wj.ngsection, No. 2a (Fig. 2), the e~~eri~lent
+w=
+tried of dividing the section, so as to form a slot for the passage
+of the air, while retaining the share (section No. 2). With this
+slot filled in, -wingNO.
+section as wing’
+No. 2a.
+
+2 would therefore have exactly the sene
+,
+The measurements show (Fig. 2 and Tables 2
+
+‘
+
+-laand 3) a dimirmtior~in the suddenness of the drag increase, as was
+shown for wizngNo. 1.
+
+In other respects the properties were in-
+
+jured for large angles of attack, since cm the one hand the drag
+of the sectim
+lift of ~ at
+3.
+
+was.increased snd on the other hand only a zasximun:
+l&)
+
+~~
+
+~~~ain~d.
+
+The auxiliary wings were tested in three differen% posi-
+
+tions (Fig. 3, wings 3a to 3c). The me~urement
+
+for 3b, as was to
+
+be expected: shows favorable properties for normal flight, whila
+3c gives a greater lift.
+
+Position 3a, which was first tried, ‘is
+.
+oonsidezably less favorable than 3c. The O1OSing of the slot in
+the arrangement 3c, as indicated in Fig. 3 (the measurement curve
+being designated by 3d), gives quite nomal
+
+results with small and
+
+mediu, lifts. Lifts, drags and moments of curvss 3a to 3d,
+
+axe
+
+all given for the sake of better comparison, with reference to the
+same wing chord of 23 cm. The moment center is the leading edge
+of the main wing (Figs. 3 and 4 ad
+4.
+
+q
+
+Tables 4-7).
+
+The auxiliary wing, as shown in Fig. 5, was made rotatsble,
+
+so that the slot between its rear edge and the main wing could be
+adjustea at different widths. The auxiliary wing zotated about an
+axis passing through the point
+one.with the slot
+5 mm.
+
+CIOSed
+
+and
+
+D.
+
+Four experiments were tried,
+
+one each with a slot of 1.!5$3, and
+
+If the intervening space (with the slot closed) were filled
+
+in, we would have the origin&l.
+section ;?o.387.
+section is drawn with dashes.
+
+The polar of this
+
+The results (Figs. 5 and 6 and Ta-
+
+bles 8-12) show that the wing with closed slot is decidedly 1sss
+favorable with reference to drag, than ae”ctons 38’7,frcm ~hid
+i
+“
+
+it
+
+-
+
+is derived.
+
+19
+
+If the slot is opsned by rotating the auxiliary wing
+
+more and more, the maximum lift is attained with a slot of 3 mm.
+The maximum lift is however not so great here as in some arrangements of the first and third series of experiments. The reason
+for this last phenomenon may, however, under certain circumstances,
+be due to the less fa~~orable
+position of the auxiliary wing with
+reference to the main wing. For calculating the dimensionless
+.
+coefficients, the chord of the original section (20 cm.) was employed.
+It may be seen from the foregoing data that a very high ma%imum lift can be”obtained by utilizing an auxiliary wing in the
+proper position.
+
+On the other hand, there occurred in the field
+
+of the angles of attack for normal flight, a strong, sudden inCrease of drag whioh could only be eliminated by changing the position of the auxiliary wing br by closing the slot.
+.
+
+‘
+
+-2c
+
+-
+
+Tale-~1.
+%i.ng1, section of main wing 398. sp~ 100.3 cm., chord (including
+auxiliary wing) 21.9 cm., total surfaoe 2136.G sa..m .
+c
+Angle of
+attack.
+-SF-“6
+-4.5
+-La
+.
+-;.:
+-0.1
+1.4
+2*e
+4.3
+::;
+il.6
+14.5
+17.4
+20.3
+23.3
+25.6
+2’7.7
+29.2
+
+Lift
+Coefficient
+o~
+
+Drag
+Coefficient
+C;T
+
+Moment
+Coefficient
+cm
+
+-10.0
+– 4.6
+3.3
+14.9
+24.5
+“33.2
+35.4
+36.7
+38.o
+4s.3
+q3.6
+111.2
+132.2
+152.2
+165.0
+184.0
+194.(3
+1S6.3
+195.5
+
+9,92
+5.98
+5.56
+4.29
+3.73
+3.58
+3.?4
+5.56
+7.45
+7.53
+8.36
+11.4
+15.5
+20.2
+25.3
+3G.6
+35.4
+41.4
+45.3
+
+;:$
+6.7
+10.4
+12.5
+13.7
+13.8
+12.2
+14.0
+15.7
+23.2
+29,4
+3.4.0
+38.2
+41.9
+44.5
+47.5
+48.9
+49.6
+
+“
+
+L/D
+(lJw)
+-1.01
+-0.55
+0.59
+
+.
+
+:%
+9.27
+9.46
+6.59
+5.10
+6.44
+10.0
+5.71
+8.W
+?.54
+6.68
+6.(JO
+5.48
+4*75
+4.32
+
+.
+
+‘ ,
+
+-21.
+
+Table 2.
+Wing 2, Span 99.9 =.,
+Ang;lgc:f
+——
+-9G
+-6
+-4.5
+-3*1
+-0.1
+2.8
+4*3
+::;
+11s6
+14.6
+17.5
+20.5
+23.4
+26.2
+29.5
+
+chord (incZ. =x= ~~ing)~0*2 cm~~ tot~
+surface 2018 .
+sq.cm.
+——..
+L/D
+Moment
+Drag
+Lif%
+Coefficient
+Coefficient
+(A/w)
+Coefficient
+m
+cm
+c~
+Ua
+-6.82
+-1.57
+7.26
+16.4
+36-9
+46.4
+49*5
+57*~
+76.0
+98.9
+116.8
+131 3
+143.0
+152.0
+158.5
+146.8
+q
+
+8.40
+5.33
+4.54
+3.52
+3.10
+4.65
+5.61
+6.98
+8.95
+11.3
+14.6
+19a0’
+23.6
+27.6
+33.8
+46.2
+
+-1.16
+2.46
+7*8
+12.3
+16.8
+18.1
+18.9
+21.5
+26.8
+32.6
+39.5
+44*O
+47.9
+50.0
+53.6
+56.5
+
+-0.8
+-0.3
+1.6
+s 5.2
+11.9
+10.0
+8.8
+8.2
+:.;
+8:0
+6.9
+5.1
+5.5
+4.7
+3.2
+
+Tsble 3.
+Wing 2a, section No. 404, Span 100 CKI. chord 20 em., totsJ.surface
+,
+2000 Sam.
+Angle of
+AtiaCk
+-8.9C
+-6.0
+-4.5
+-3.1
+-1.6
+-0.2
+1.3
+2.8
+4.2
+5.7
+8.6
+11.6
+- 14*5
+17*5
+
+Lift
+Coefficient
+-16.2
+2.0
+12.4
+22.4
+~ 32.’?
+43*2
+54.9
+63.3
+?3.e
+83.8
+103.3
+119.2
+231.4
+136.9
+
+Drag
+Coefficient
+
+Konent
+Coefficient
+
+8.75
+4*36
+1.85
+1.83
+2*22
+2.S5
+3.31
+3.88
+4.95
+S*O6
+8.60
+
+-1.3
+7.6
+11.0
+13.1
+15.6
+17.7
+20.8
+23.2
+25.‘7
+28.2
+33*5
+36.5
+38.8
+43.0
+
+11.8
+
+150zJ
+20.3
+
+L/D
+(&’N)
+-1.8
+0.5
+5.7
+11.9
+14.8
+15.9
+16.5
+16.3
+14.9
+13.8
+12.0
+10.1
+8.6
+5.6
+
+%3 Table 4.
+wing 3a,.span 100.1 cm. , chord (incl. ax. wing) 23.7 cm. (calculation chord 23), calculation surface 2302 sq.c~.
+L/D
+Drag
+Moment
+Lift
+tiAg+:cgf
+Coefficient
+(A/w)
+Coefficient
+Coefficient
+cm
+cm
+c~
+
+1:::
+
+14.5
+17.5
+20.4
+23.4
+25.8
+29.3
+32.3
+35.3
+
+-16.0
+- 5.?8
+15.5
+29.0
+29.6
+57.0
+82.0
+
+11.9
+8.51
+6.14
+7.56
+
+-1.3
+-G.7
+2.5
+
+14.0
+
+101.8
+
+118.6
+129.1
+135.5
+144.6
+147,0
+158..0
+169.0
+164.0
+
+0.7
+4.4
+10.4
+13.5
+
+16-1
+20.3
+2s.0
+28.7’
+31.6
+37.7
+43.6
+48.5
+
+21.5
+26.8
+30.0
+32.6
+34.5
+35.1
+35.4
+35.4 .
+38.0
+
+5.1
+7.7
+7.8
+
+M
+5.4
+5.0
+3.2
+4.2
+3.9
+3.4
+
+Table 5.
+??ing3b, Span of main wing 100~’1cm., chord 20 cm. (calculati~
+ch.o~&23”~fi;),
+eal.eulation
+surface 23G2 sq.cm.
+Angle of
+Attack
+-9G
+-6.1
+-3.1
+-0.2
+2.7
+5.6
+1?::
+14.6
+17.4
+20*5
+
+Lift
+Coefficient
+Ca
+-4.~
+t
+13.2
+32.8
+51.4
+70.6
+89.1
+109.8
+127.0
+ld_l.()
+149.2
+126.0
+
+Drag
+Coefficient
+C*
+6.45
+::7m4
+3.77
+5:41
+7.75
+10.7
+14.6
+19.1
+23.7
+36.6
+
+310r,ent
+Coefficient
+cm
+2.6
+8.7
+11.9
+i5.5
+19.9
+24.6
+28.9
+33.4
+37.6
+3e.9
+59.2
+
+L/D
+
+(A/w)
+-0.7’
+5.5
+11.7
+13.6
+13.1
+11.5
+10.3
+8.7
+
+-25Table 6.
+Wing 3c, Span 100.1 cm. chord (incl. aux. wing) 23 cm. (calculation ~
+chord 23 CL.), total surface 230.2sq.m.
+Angle of
+~ktaek
+t
+
+Lift
+Coefficient
+Ca
+
+Drag
+Coefficient
+cm
+
+Mollent
+Coefficient
+&
+
+_99
+-3
+-4.5
+-3.1
+-1.6
+-O*2
+2-8
+5.7
+8.6
+11.5
+14.~
+17.3
+20.3
+2s.2
+251.7
+27.S
+29.4
+
+-5.3?
+0.8
+9.3
+20.5
+3G.O
+36.7
+58.9
+66.5
+94*4
+118.3
+13%.8
+157.5
+1’74.0
+185.O ~
+195.3
+169.0
+134.4
+
+9.25
+5.50
+4.97
+3.91
+3.48
+3.63
+5.19
+6.20
+8.97
+
+3.5
+5.8
+9.5
+12.8
+14.2
+14.7
+13.6
+2s.2
+23.4
+27.5
+31.0
+34.8
+37*5
+39.1
+40.9
+38.1
+33.4
+
+22.1
+27.2
+32.4
+37’.4
+40.0
+41.1’
+
+L/D
+(A/w)
+-0.58
+0.12
+1.8?
+~ 5.25
+8.62
+10.1
+‘7.
+5
+10.7
+10.5
+10.1
+8.13
+7.13
+6.40
+5*71
+5.22
+4.23
+3.27
+
+.
+Table 7.
+Wing 3d. Arrangement the same as for wing 3c, but with closed slot.
+Span 100.1 cm.j chord (incl. aux..wing) 23 cm., total.surface
+23!323cI.cIi.
+Angie of
+A3tack
+-sO”
+-6
+-3.1
+-0.2
+2.8
+5.7
+6.6
+11.5
+1.4.5
+17.4
+20.4
+
+Lift
+Coefficient
+c~
+-5.92
+2.57
+22.2
+40.7
+53.3
+7s.s
+S1.o
+107.3
+127.5
+142.6
+142.0
+
+Drag
+Coefficient
+cm
+
+‘
+
+9.00
+6-01
+3.56
+3.24
+4.40
+5.36
+9.25
+12.8
+17.0
+21.2
+2?.8
+
+Moment
+Coefficient
+cm
+
+L/”
+D
+(&’v)
+
+~ 2-9.
+6.6
+13.2
+15.2
+17.2
+18.5
+20.3
+23.0
+25.1
+28.1
+30.3
+
+-0.66
+0“43
+6-24
+12.6
+13.5
+li.9
+9.8
+8.4
+7.5
+6,7’
+5.1
+
+“
+
+1
+1
+
+-24Table 8.
+Wing 4, Slot O mm., Span 99.8 cm., (celculat
+ion chord 20 cm.) calculation surface 199S s~. m.
+c
+Angle of
+Attack
+
+11.6
+14.5
+17.5
+20.5
+23.7
+
+Lift
+Coefficient
+Ca
+-4.3
+7.2
+27.4
+45.7
+63.4
+80.5
+97.6
+119.8
+131.2
+135.8
+135.8
+87.9
+
+Moment
+Coefficient
+cm
+
+Drag
+Coefficient
+c~
+8.02
+4s36
+2.60
+
+2.4
+9.8
+14.1
+16.9
+19.2
+22.0
+2q.6
+28.5
+31.i
+33.0
+34’.4
+30.2
+
+9.34
+12.4
+15.3
+cJ1.2
+26.2
+39.2
+
+‘
+
+L/D
+(A/w)
+-O*5
+1.6
+10.6
+14.1
+13.8
+llc~
+10.4
+9.6
+::;
+5.2
+2.2
+
+Table 9.
+Wing 4, Slot 1.5 mm., Span 99.8 cm., (calculation chord 20 cm.),
+calculation surface 1996 sq.cm.
+Angle of
+. Attack
+
+-9°
+-6
+-3.1
+-0.1
+2.8
+5.8
+8.7
+li.6
+14.5
+,? 5
+Al’.
+20.4
+23.4
+25.6
+29.’7
+
+Lift
+Coefficient
+c~
+-8.0
+6.?
+26.1
+37.3
+44.4
+64.9
+88.0
+307.5
+126.0
+145.0
+157.9
+166.4
+165.3
+90.6
+
+Moment
+Co-efficient
+cm
+
+Drag
+Coefficient
+Cw
+8.25
+4.50
+2.81
+3.56
+6.35
+7.02
+9.00
+12.1
+15.8
+19.7
+25.0
+31.1
+34.8
+47.1
+
+l.?
+9.3
+13.3
+14.2
+16.1
+18.9
+::.;
+
+.
+
+31:2
+34.8
+38.5
+41.3
+42.5
+32.8
+
+L/D
+(AJl?)
+-1.0
+;::
+
+10.5
+:::
+9.7
+8.9
+8.0
+7.4
+6.3
+:::
+1.9
+
+-a5.
+Table 10.
+
+,.
+
+Wing 4, Slot 3 mm., Span 9S-8 cm. , (calculation choti ~0 ~. ),
+calculation surface 1996 sq.cm.
+~~oment.
+L/D
+Angle of
+Iiift
+Drag
+Coefficient
+Coefficient
+Coefficient
+(A/w)
+Attack
+cm
+‘Cw
+c~
++0
+
+-11.2
+
+-6
+-3.1
+-0.1
+2.9
+
+2::;
+28.8
+34.8
+66.2
+91.4
+113.9
+137.0
+151.1
+164.5
+1?3.6
+176.9
+143.0
+
+:::
+11.6
+14.5
+17.4
+20.4
+23.4
+25.6
+29.5
+
+‘
+
+1.?
+9.4
+12.8
+12.7
+15.4
+19.6
+24.5
+29.4
+34.6
+37.6
+41.5
+44.7
+47.6
+43.8
+
+8.39
+4.33
+3.03
+5.11
+8.46
+6.96
+9.01
+1~-a
+16.3
+20.5
+25.6
+32.3
+36.6
+47.6
+
+-1.3
+1.6
+8.2
+5.6
+4.1
+9.5
+10.1
+9.3
+8.4
+U
+5.4
+:::
+
+Tabie 11.
+Wing 4, Slot 5 mr~. Span S9.8 cm. (calculation chord 20
+,
+culation surface 1996 sq.cm.
+Angle
+
+of
+Attack
+I
+-9°
+-6
+-3.1
+-0.1
+2.9
+5.8
+8.7
+11.6
+14.6
+17-5
+20.5
+23.5 ,“
+25.6
+29-4
+
+Lift
+Coefficient
+c~
+-12.9
+2:::
+25.1
+31.6
+51.7
+76.5
+96.4
+113.0
+126.1
+138.0
+148.5
+155.0
+160.0
+
+Drag
+Coefficient
+c,,~
+8.50
+5.15
+3.71
+6.95
+10.8
+9.75
+10.8
+14.4
+18.2
+23.0
+27.8
+32.3
+36.0
+43.1
+
+Moment
+Coefficient
+cm
+1.9
+
+Cm.),
+
+c~-
+
+L/D
+(A/v:)
+-1+5
+1.0
+
+q
+
+1!::
+14.1
+16.2
+18.9
+24.2
+29.0
+33.1
+36.3
+39.8
+42.2
+44.5
+49.2
+
+6.3
+4.22.9
+5.3
+7.+1
+6.7
+6.2
+5.5 ,
+5.0
+4.6
+4.?
+3.7
+
+,
+
+-26Table 12.
+‘Wingsection 387, Span 1(20cm. , chord 20 cm., total suzface 2COC
+sq.cri.
+L,ID
+Moment
+Drag
+Lift
+Angle of
+(A/W)
+Coefficient
+Coefficient
+Coefficient
+Attack
+cm
+c-,~
+a
+-9°
+-6
+-4.6
+-3.1
+-1.6
+-0.2
+1.3
+2.7
+4.2
+;:z
+11.6
+14.5
+17.5
+
+-1o.~
+3.2
+la.2
+28.0
+3s.o
+46.8
+580~
+63.2
+78.S
+87.2
+108.5
+121.8
+134.0
+135.0
+
+6.90
+1.80
+1.79
+2.01
+2.35
+2.31
+3.5’7
+4.58
+5.31
+6.31
+= 9.21
+12>4
+16.2
+21.7
+
+5.3
+12.s
+14.6
+16.7
+19.2
+21.8
+24.2!
+23.5
+28.8
+31.0
+37’.5
+41.0
+42.9
+45.2
+
+“
+
+–1.5
+4.5
+10.1
+13.9
+16.1
+16.4
+16.3
+15.5
+14.8
+13.7
+Il.8
+9.9
+8.3
+6.3
+.
+
+—
+
+/0 20”30 @
+
+/0
+
+(C—y
+“h~emenf
+
+50
+
+20
+
+cm
+
+40 Cw
+
+, 30
+
+...ct?nter
+I
+
+F/g.
+
+/,.
+
+.
+
+-
+
+F/g. 2.
+
+co
+
+I
+
+160
+
+I
+
+-
+
+I
+
+/0
+
+Moirrcnf
+
+20
+
+curves
+
+OT”
+
+3q.+03d.
+1+9.3.
+
+Fige
+
+,
+
+40
+
+30
+
+4.
+
+c/77
+
+wings
+
+/
+
+, 3mm.
+
+co.
+160
+
+120
+
+80
+
+w
+
++0
+
+t--t
+
+o
+
+o
+
+--W?
+
+—. —
+
+-—-— .—. _
+/“---=
+profile
+
+F/j.
+
+38>\
+
+,
+
+‘F;g.
+
+s.
+
+i“
+
+5.
+
+.
+
+-27-
+
+Experiments with Slotted Wings,
+By R. Katzmayr and L. Kirste of Vienna.
+
+a
+
+About a year ago there appeared the first announcement of 2.
+which was
+new “tiing,
+made by the English firm of Hanciley-Page,
+claimed.
+to have considerably greater lift for a given speed.
+
+On.
+
+account of the &sucity of information, an arrangement 1ike F lg. 1
+was first tested, that is~ a narrow auxiliary wing was added in
+frOnt Of the regular wing so as to leave a slOt.
+
+Later experi-
+
+fientswere tried with two such wings (Fig- 2 ) a.n~finallY with the
+whole wing divided like a window shutter (Fig. 3). The experiments were periorued partly in the wind tunnel ad partlY m
+airplane. The results showed that an increase h
+colfldbe Obtained with me
+
+=
+
+lift uP to ~%
+
+auxiliary.
+wing and corresponding mlllt i
+
+ples with two or more.
+The theoretical foundation for such a lift in~rexe had ~tfahrt 1S20, p.175).
+reaci37 been sOught in various ways (iIuf
+ing to one theory, the slot behind the a-ilia~y
+tinevacuum over the front ps@
+
+Accord-
+
+wtig increases
+
+of the wing, as the result of a
+
+sort of I!
+Venturi action.fl According to another theory, the region
+of str~gly
+
+diminished pressure is extended further back.
+
+In order t o verify the previously published data and also obtain a general view of the phenomena produced by divided wings,
+two series of experiments were carried out in the aerodynamical
+laboratory of the Technical High School in Vienna.
+
+-2i3-
+
+First a normal sjlapedwing which was or~hand, 900 x 150 mm.
+(Fig. 4), was tested in the wind tunnel.
+
+The e.xpeimer.ts
+r
+were per-
+
+iozmed under a pressure of 20 mm. of water !2 grsus per square centimeter) and included angles of attack from 0° to 27°-
+
+The lifi
+
+drag were measured and also, for corroborate
+ion, the lift-drag
+
+aid
+
+c3,tiofor each 3° chsnge in the angle of attack. so far ~
+
+con-
+
+venient and”especially for the l~~ger sngles, the measurements
+were made for each degree.
+
+In the illustrations ~e
+
+given the
+
+~easureu.entsreduc~d to hnit values.II The surface F
+
+of the wing
+
+“modelemployed as the base for calculating these unit values
+(CA= A/F x p
+
+‘&d
+
+c1?= W/F XP)*
+
+w&
+
+obtained from the product
+
+of the span smi total wing chord, wit”ncutreference to t-heslots.
+The original wing was first subjected to the air current in
+zhe wind tunne1 and then the cuts shown in Fig. 4 were made with a
+circular saw and the wing was egain subjected to the air current.
+The cuts extended clear through the section from the top to the
+Jottom, narrow connections being left only on the edges of the wing
+,
+~d’ in about 1/3 of the span. The slots will be designatecias
+a, b, c.
+b
+
+Slcts
+
+a and c
+
+was 2.5 mm. wide.
+
+were
+
+Slot
+
+a
+
+of equal width (1.8 mm. ), end slot
+was afterwards xidened on the lower
+
+siae of the wing, so that its cross-sectioq was wedge-shaped, as
+shown in Fig. 4.
+
+The inlet and exit openings of the slots are par-
+
+allel to the.leading edge of the wing.
+
+All th,evariations of the
+
+thxee slots were tested, up to tliecombinations of d with b and G
+—.
+* The Austrian designations CA and CW are equivalent to the Germ=
+Ca and Cw. [p is the impact pressure. Tr.]
+..
+
+.
+
+-29Tne com~arative values of the polars, reproduced in Figs. 5
+and 6, are given in Table 1.
+Table 1.
+
+u“
+
+o:
+s
+
+6
+9
+12
+15
+18
+21
+22
+23
+
+with
+Slot. :c
+Original
+Wing
+:: Wing
+:
+:1OOC) CA : 100 X CW : 10GO < :: 100 X CA : 100 X CW : lQG@ c
+x
+17.8
+34.4
+53.6
+73.0
+92.5
+107.7
+112.0
+114.3
+114.8
+114.3
+
+132
+72
+64
+‘71.5
+
+2.44
+2.48
+3.44
+5.22
+?.89
+12.2
+18.0
+24.2
+--
+
+1?:
+161
+222
+---
+
+.-
+
+If slot
+
+a
+
+1’7.4
+34.8
+54.8
+?’5.5
+94.7
+111.0
+he. 7
+118.1
+118.1
+--
+
+2.44
+2.56
+3.63
+5.55
+8.11
+12.2
+1s.1
+24.5
+26.8
+--
+
+140
+
+73.5
+66.5
+73.5
+85.5
+109
+155
+2C7
+227
+—
+
+is open, ~thereoccurs a considerable diminution
+
+of the lift values, witlna simultaneous increase of the corres~onding &-ags.
+
+For slot b
+
+alone, tkere is a simultaneous di~inu-
+
+tiOn of ‘Dothlift and drzg, althU@h
+The effect of siot
+
+o
+
+of considerably leSS amount.
+
+alone is, on the other hand, fa-rorable,for
+
+the lift values are grezter than for the original-wing, while the
+drag remains unchanged.
+
+The lift increase is dretiy
+
+small angles of attack, but is rel.ztively
+
+evident for
+
+greater from 12° on.
+
+Combinations of two of the three slots gave the following re–
+Suits:
+
+1.
+.2.
+3.
+
+For
+
+a
+
+and
+
+The sme
+For
+
+b,
+
+for
+
+b and c,
+
+decrease in both lift and dr~.g;
+a and C,
+
+~
+
+but in greater degree.
+
+there was first a very strong increase
+
+in drag for angles of attack below 12°, ~iith simultaneous decrease
+
+-30-
+
+of the corresponding lift values, while above 18° the lift’constantly increased in comparison wi&& that of the ori~nal wing.
+This phenomenon is due to the favorable effect of slot
+
+c.
+
+It
+
+may ~e further gathered from the diagrams that the values for the
+pairs of slots can be obtained frou the values for the single
+slots by addition, and that consequentljj
+the slots exert no mutual influence on one another.
+
+This.also holds true when all
+
+three slots are open, as s~own in Fig. 6.
+The effect of the wedge or nozzle-shaped slot
+erest in so far as the lift values foz an
+
+an@e
+
+of
+
+d
+
+is of int-
+
+attack of about
+
+8° show improvement in comparison with the values for the paral.
+lel-sided slot a, without however attaining the values for ths
+middle S1O% b.”
+,
+For answering the question as to how the slots affect the
+distribution of the press-ue on the wing, the static
+
+pressure
+
+on
+
+the upper side of the wing was measured, for different angles of
+attack, in the midcile
+
+of
+
+the span, at five points of the wing
+
+section marked in Figs. 7a and 7b.
+
+The results are reproduced
+
+h
+
+Fig. 7a for the original wing, and in Fig. 7b for the wing with
+slot
+
+c.
+
+It is accordingly tevident that, with the conduction of
+
+the excess pressure to the top of the wing, especially for large
+angles of attack, an increase of the partial vacuum cccurs over
+t-herear half of the wing and the pressure on the botto~ is only
+
+I
+
+slightly diminished.
+I
+
+A second sezies of experiments ~as instituted with a wing
+combination whose section is reproduced in F;g. 2.
+
+The auxiliary
+
+I
+,
+
+–31.
+wing is attache@ to the main wing by five steel rods.
+the a.uxili& wing on these rods, the distance a
+
+By no-ring
+
+was varisd be-
+
+tween 8 and 40 xrfi.It was again subjected to the air cuzrent at
+~=
+
+20 mm.’ivater
+
+pressuce.
+
+Comparative experiments at
+
+p = 30 aznd
+
+4~ r.nn.xhibited only the usual decrease of the unit drag. A liise
+tmrbance Gf the air current by means of a net ‘with5-cm. rjeshes
+exezted no particular influence. As the surface for the calculation of the ‘nit values, ths product of iks span by the sum of
+both wing chords
+
+(F = 0.900 (C.150 + O.0296) = 0.2617 sq.m. ) was
+
+taken.
+Table 2.
+.
+.
+: 1000xCA
+
+: 10GxCW
+
+14.6
+31. 4?
+.LI_. 9
+65
+81
+94
+
+a“
+
+1.55
+2.01
+~a94
+4.65
+7.0
+
+..
+..
+
+. = Cl-m.,
+.
+.
+
+103
+104
+9’7.55
+84
+76
+70
+63
+--
+
+1:::
+16.3
+21.7’
+23.2
+26.8
+---
+
+a = 28 z-m.
+
+: lGGO c:: 100 x CA : 100 X ‘W : 1000 c
+106
+64
+%
+-1%
+139
+157
+224 255
+275
+--.-
+
+10.2
+23.8
+39.6
+57
+7s
+99
+11’7
+-_-
+
+131
+144
+152
+157 117
+117
+
+3.8
+4.6
+5.6
+6.5
+1:::
+14.8
+---
+
+l~a5
+25.3
+31*3
+58.4
+44-8
+
+--
+
+194
+lQ
+114
+iC6
+110
+126
+--,150
+176
+205
+245 33G
+380
+
+The greatest increase in the uaximum lift took place with
+a =28mm.,
+
+as shorn by Fig. 8.
+
+For this case and for’the wing
+
+aior:e,Fig. 9 gives the two Fclars, smi Table 2 gives tF.ecorresponding values.
+
+It is evident t-hatthe lift diminishes for smali
+
+[
+
+-32-
+
+smgles of attack smd first shows a definite gain above 12°.
+
+The
+
+lift-ckragnatios are considerably pooi’erfor all positions of the
+auxiliary wing, es s“nownin Frig.8.
+In order to answer the question as to how the lift is increased the pressure distribution was measured, as in the first
+seriss of experiments> for the wing alone aridfor tae position
+a = 28nm.,
+
+according to Figs, 10a and 10b. A fu-ther extension
+
+of the diminished pressure region toward the zear was not noticeable, but only an increase on the fore part of the wing.
+As the final result of both series of experimentss the influence of the ‘~auxiliary
+wing!!is quite different from that of the
+slot, as is evicientfrom a comparison of the diagrams. Both
+met-nodstiprove the lift values, but the auxiliary wing does so
+While the latter’seriously decreases
+to a far greater de~ee.
+.
+the lift-drag ratio, a slot c near the trailing edge3 somewhat
+improves
+
+it.
+
+.
+
+..
+
+,.
+i
+
+Fig. 2.
+
+..
+
+.
+
+-—-—
+..(flflf—.— cFig. 3.
+
+“
+
+,.
+
+.
+
+Fig. 4.
+
+120
+
+——-
+
+220
+
+.fl
+
+t
+~ 100
+‘%
+
+. . . . ..-.
+
+B-------------
+
+/
+
+.. . .
+. . .-d
+.
+./
+
+I
+
+o
+0
+!-1
+
+--”1
+
+24°
+80
+
+I
+
+1
+
+23” 2’
+---.>&
+
+1-
+
+250
+
+60
+
+Origk &i. wing
+I —-- Wing 1 ith S1O : a
+n .
+n
+.. . . . . . n
+......
+I —.
+n
+11
+-— n
+:C
+II
+H
+n
+:Ci
+,
+‘—- —
+.
+
+40
+
+!$”
+
+‘“
+
+‘-”
+
+T
+
+20
+
+I
+i
+0
+
+I
+
+.1
+
+1-
+
+20
+
+10
+
+Fig. S.
+120 i
++
+;
+UJoo
+‘x .
+0
+
+2
+6U
+..
+
+I
+
+60
+
+——.—.
+
+40
+
+20
+
+——
+
+‘-TrrT
+
+*O
+
+0
+10
+
+“
+
+20
+Fig. (3.
+
+30
+
+* 100X%
+
+I
+‘ p=201nim. ‘ Wate
+
+-70
+-60
+
+-60
+0.
+
+preks~re
+
+ki ‘i;~@
+
+~
+
+_m
+
+~
+
+-40
+
+19;
+.
+.%d—
+.- — . + —- -1 ~~ ——
+
+f+-30
+$
+g -20
+
+---1
+
+~
+
+“ -lo
+E
+o
+
+mm.
+135
+
+10
+
+135
+
+3.0
+
+Fig. 7b-
+
+Fig. 7a.
+
+1
+
+,
+
+I
+
+a=28
+/
+
+I 270
+240
+
+—-—. 30°
+.
+.
+.
+
+.
+.
+.
+18°
+150
+12
+90
+
+#
+
+8
+
+20
+
+1
+Q
+10
+
+20
+
+30
+
+Fig. 9.
+
+I
+
+.
+
+,
+
+-70
+-50
+-50
+-40
+-30
+-20
+-lo
+0
+10
+
+135
+chord qnii’
+
+Fig.;.o-a.:
+l
+-70
+-60
+-50
+-40
+-30
+-20
+-lo
+.
+
+0
+715
+
+45
+
+’75
+
+105
+
+10
+Chord mm.
+Fig. 10b.
+
+b.
+-.
+:---. .
+
+>
+
+po
+8
+>.
+
+15
+
+20
+
+Fig. 8
+
+28
+
+@50
+135
+
+“.
+

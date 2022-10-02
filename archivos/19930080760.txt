@@ -1,0 +1,2122 @@
+U.S. DEPARTMENT OF COMMERCE
+National Technical Information Service
+
+NACA TM 41
+
+LIFT THERORY OF SUPPORTING SURFACES
+
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS
+WASHINGTON, DC
+
+SEP 21
+
+	
+
+• IL E COPY
+NO t
+_-------	
+
+' /
+
+•	
+
+4 ._1•_
+
+•:	
+
+R3IIfl3
+
+ECHICAL	
+
+NATIONAL ADVISORY O01ITTEE FOR AEROAUTOS
+-	
+
+-l'.	
+
+-
+
+-%?	
+
+-	
+
+'J"
+
+-
+
+-	
+
+CASE FILE
+COPY
+
+No. 41
+—	
+
+r	
+
+'
+
+r.
+
+-::
+
+I	
+
+r
+;
+
+::'	
+
+1
+—	
+
+F SUP?OTIN SUAOS	
+
+k
+
+-
+
+ond Article
+By
+-
+
+vor421es
+
+-	
+
+w-__	
+
+•
+
+2-I
+
+Q	
+
+.,
+
+4
+I
+
+•	
+
+.1
+
+* tg,	
+
+rterbBr. 1921.
+
+%ATIONa ADVMpy COMMITTEE BW
+
+1724 STtEL 14W.,
+WAsHIGTOH
+
+25
+
+DC
+
+REPRODUCED BY
+
+U.S.DEPARTMENT OF COMMERCE
+NATIONAL TECHNICAL	
+INFORMATION SERVICE
+SPRINGFIELD VA 22161
+-'
+
+- -	
+
+-
+
+;c
+
+-2-.
+LIFT MORY OF SUPPORTING SURFACES.*
+Second Article
+By
+R. von lilses.
+This continuation of my remarks on the hydrodynamic lift
+theory of supporting surfaces** relates chiefly to the task of
+finding suitable wing sections for given lift conditions. It is
+based on the formulas. (set forth in my first article for sections in general) for lift magnitude and moment, which make it
+possible to obtain solutions of great simplicity and clearness.
+For instance, every section has a point for which the lift moment is independent of the incidence. The curve inclosing all
+the positions of the lift resultants is usually a parabola,
+which can be reduced to a cluster of rays, Within these limits,
+there are sections, with fixed pressure center, which are consequently removed from the general class of sections by a single
+condition.
+In the second section, I complete and correlate the valuations, proceeding from the modern theory of functions (the circle of ideas of the "distortion laws"), for the parameter determining the lift, and explain their significance in the case of
+the delineation of the arc. The third and fourth sections treat
+of the application of the theory to the case of the Joukowski
+* From "Zeitschrift fir Flugtechnik und ll0torluftschiffa.hrt,"
+March 15, 1920, pp. 6873, and Larch 31, 1920, pp. 87-89.
+4* First article, November 29, 1917 4 pp. 157-163. This article
+will henceforth be referred to as U1
+
+-3section construction and its extension by Von Karman and Trefft.z
+(this publication, 1918, pp. 111-116). The fifth section outlines a common procedure, illustrated later by ex.amples, which
+makes it possible to discover any desired number of parametric
+groups of sections, or of suitable delineation functions. In
+this connection, there is a considerable mathematical difficulty,
+the question of the criterion for the "smoothness" of the delineation, wMch was gotten around by a aimp.e artifice adapted -t.o
+its graphic: execution, in the formulation of which I enjoyed the
+valuable assistance of Dr. L. Bie'oerbaoh in Frankfort. It, moreover, demonstrates in perfect harmony with experience, that the
+S-shaped upward bend of the section, near the foflcwing-edge,
+lessens the variation in the center of pressure, or may eliminate
+it altogether.
+In a third and concluding article, I expect to take up the
+problem of finding the determining parameter for a given wing
+section.
+1. Magnitude and Location of Lift.
+It my first article, among other things, inc.L.uo.ing the customary postulations of eddy-free horizontal motion, the following
+was demonstrated. Given any wing section containing a point or
+angle (Fig. 1). At the angle U with an x-axis rigidly connected
+with the section (angle of incidence), the section is struck by
+an air current which has the velocity u, and the specifia mass
+t that is 7, or approximately 1/8, under normal conditions.
+
+-4There then hold, for the mag1tude and moment of the lift (the
+resulting pressure perpendio4ar to the direction of the air current), simple fomiulas independent of the section shape, into
+which the section itself enters with only a few parameters. The
+equation for the power magnitude (Compare 29 in Art. I,) then
+reads:
+-	
+
+A411u5 a sin (a+) 	
+
+with a, and P as parameers, a 	
+
+.......(j.)
+jo he moznent,
+
+with reference to a given origin M. whose coordinates thus belong also to the parameters of the section (Compare 37 in Art. I.),
+reads:
+with
+
+Mi21T$.Lu2c2 sin
+02
+
+2(a.+y).....(2)
+
+and 'y as additional parameters. The origin for the mo-
+
+ment to which equation (2) refers, was called. the "middle point
+of the section" and that direction of the attacking air (determined by o = -	
+
+or by a= - 'y ) for which respectively
+
+A
+
+or M 1 vanishes, was called respectively "first" or "seoond"axis
+of the section" (Art. I, section 7).
+Still greater simplicity and clearness can be obtained by
+choosing, Instead ef U, a new refe?enee 15eint ?, 'eh Is
+found in the following manner. From U we measure off a distance
+MF =	
+
+on a line which is turned toward the x-axis in the pos-
+
+itive direction by 2'y 	
+
+so that the second axis of the sec'
+
+tion bisects the angle between the first axis and MF. In Fig. 1,
+> 2 was taken and accordingly 	
+- 27 was represented as 
+turning in the negative direction. The moment with reference to
+F, which we may now cal]. U, is obtained by adding to U 1
+
+the
+
+-5moment of any power A considered as affecting M, and hence
+with reference to the direction of rotation.
+2
+
+a
+2
+
+11
+
+.L
+
+[sin (2a + 2y) - 2 sin ( + )cos ( -	
+
+u2 c2
+
++ 27)]
+
+The second expression in the square brackets can be reduced, according to the "identity" .2 sin	
+
+cos	
+
+= sin (+4t) + sin
+
+(cP - *), to sin (2cL + 2ry) + sin (2 - a) hence
+M-2iiiu2 o2 sin 2(-'y) ... . .	
+
+(3. )
+
+This equation, no longer contains the variable incidence m. We
+have hereby demonstrated the proposition that: For every wing
+section there	
+
+certain p int for which the lift moment is in-
+
+de pendent of	
+
+incidence. We will call this point the "focus
+
+of the section."
+From ( j.) and (2) is calculated the lever arm h of the lift
+to	
+
+o sin 2 ( - ry) =
+h- U -	
+A	
+- 2a sin (cc + ) 	
+
+when	
+
+	
+
+sin (a +)
+
+1'
+
+(4)
+
+.
+h0
+
+sin2(-ry)	
+
+...........(4f.)
+
+is taken. Since the lever arm of F must be exteridedi in the direction of the attacking air (Fig. 2), h 0
+
+represents the magni-
+
+tude of its projection on the line perpendicular to the first
+axis. The projection of the lever arm on this line is therefore
+unchangeable, or: The feet of the vertical lines, from the "see-
+
+-6ton focus" to	
+
+atcidnglLies of the lift, lie in a straight
+
+line, which,, at a distance h 0
+
+from F, is parallel to the
+
+first axis of the section and, moreover, bisects the distance MF
+of Fig. 1. Therewith we have reduced, the determination of the
+attacking line for any given angle of incidence to the simplest
+imaginable construction.
+It .	
+
+i weiJ known
+
+C
+
+racterist.1.c cf ordinary parabolas, that
+
+the "foot-point-curve" for their Locus coincides with the verti-
+
+cal tangent. Anyone who is not familiar with this fact may make
+the following calculation. For a system of coordinates with the
+Origin at F and with F 1 F for the x-axis (Fig. 2), the equation for the attacking line A reada:
+x sin (a + ) +y cos (a + ) = = - -,
+and simplified:
+- x cos 2 (a + P) + y sin 2 (a. +	
+
+= -.	
+
+-X.
+
+Differentiated, according to 2 :
+sin . 2 (a + 	
+
++ y cos 2 (a + ) =
+
+and with a eliminated,, frcm this. and the preceding eoj.iat ion by
+squaring and adding, we obtain:
+X2 +
+
+y2
+
+= (2
+
+h0 ± x) 2 or y2
+
+=
+
+4 h (x + h 0 ) . .• ( 5)
+
+Eence: The possible positions of the attacking lines of the lift
+generally inclose a parabola, whose focus is F, whose parameter
+is 2 h0 and whose axis is perpendicular to the first axis of
+the section.
+
+-7With h0 = 0, the parabola is reduced to the bundle of rays
+through F. This is the case of the vanishing variable pressure
+point. There is a fixed middle pressure point, through which
+the resultant lift always passes, the so-called "diving moment"
+(fora. - ) being 0. It is noteworthy that the section with a
+fixed pressure center is separated from all other sections by
+only a single euaticn b = 0. Thereby the disappearance of h0
+(as shown by equation 4) shows that 	
+
+= y, or that the fir6t
+
+and second axes of the section are parallel. In the quantity b0
+we have a definite measure of the pressure point variation (or
+migration). It is readily seen, for example, from equation (2),
+that the straight line drawn through the "center" U in the direction of the second axis and, barring exceptional cases, also
+the straight line drawn at right angles to it, touch the parabola
+2. Section Parameters.
+Only five of the six section parameters, considered in my
+first article, are found to be essential, since c and ey appear
+- y ) . The flving five
+* General principles concerning the location of . lift resultants
+are also given by R. Grammel, in "Die hydrodynamisohen Grundlagen
+des Fluges" (The hydrodynamic principles of flight), Braunschweig,
+1917, p.13. Here the task is reduced to the determination of a
+"moment and center of gravity of the circulation." I cannot understaxid the deductions in this book. It can, however, be demonstrated that a "moment of the circulation," as a quantity independent of the integration method, can only exist, when the integration is made concerning closed stream (or level) line. Now,
+since the lift-producing current comes out of infinity and goes
+into infinity, these considerations are of little value.
+
+only in the express1oL e' sin Z 	
+
+IF
+
+	
+
+-8quantities may be regarded asdetermining factors for the lift
+relations of a section: for the moment of the lift, the length
+and the angle	
+
+(direction of the first axis); for the mo-
+
+ment or location of the lift, the coordinates of the sectionfocus F and the length h 0 or, instead of the last, the location of the first axis (which passes through M) at the distance
+2 h0 from F (base line of par&oola). How these five quantities are to be asoertairLei
+
+ue
+.c.ii '
+
+ivUa aection follows from
+
+my first article, and I will indicate it briefly here.
+If we regard the coordinates 	
+
+and y of a point in the
+
+plane of the section as components of a complex quantity
+z
+
+	
+
++iy,
+
+then there is one, and only one, evolvable complex function	
+z
+
+of
+
+in the form (Equation 7 in Art. I).
+
+z	
+
+- z2	
+
+-
+
+through which any point of a circle is coordinated withevey
+point of the section perimeter and any point outside the circle
+(7), with eveiy point outside the section, in constant and definitely convertible manner. The radius a of the circle and the
+coordinates (contained in m) of its middle point M are through
+k-rn	
+
+=a ............(7)
+
+the coefficients of a, a ...... Cf (6), definitely determined,
+as]ikewise every point B of the circle into which the section
+tip is drawn. Thereby the parameter values are found. The radius a is the parameter referred to above under the same desig-
+
+-9nation. BM is the first axis of the section and, hence P is
+the and. e formed. by BM with its x-axis. The focus F is finally obtained, by making the vector MT equal the comple* quantity - .e -. i (according to Equation 34 in Art. I and the
+above procedure).
+In order to obtain a cursory surrey of the parameter values
+and of the location of the invariable points and straight lines,
+we will next consider the are as the approximation ,, or better, as
+the limit, of a wing section. Strictly considered, the "infinitely thin" are does not fall under our
+
+conception of a secti, be-.
+
+cause it does not possess simply one place of variable tangent
+direction, but two of them. We can only dispose of it in the
+sense of our consideration, by disregarding one edge (the right
+one, for example) and not letting ourselves be disturbedi by the
+fact that the calculated, current is unrealizable on this edge.
+The results are accordingly significant only in that they give
+the approximate position (of the focus, for example) for a very
+thin section, closely fitting the arc, which section has its tip
+in the left corner.
+The complex. process, which transforms a circle Into a doubly
+traversed arc, is known and may be expressed in the form
+C+
+
+when applied to a circle passing through the points
+(B, B.	 in Fig.	 3).	
+
+C
+
+Fig. (8) come under the form (6) desired by ui
+
+since its solution according to	
+the descending powers of
+
+z	
+
+C,	
+
+by development according to
+
+begins with the members.
+
+- 10 -
+
+=
+
+z
+
+-	
+
+. •	
+
+4	
+
+. (8'.)
+
+In the transformation, the end points z = *3c of the arc corespond to the points	
+
+= ±c on the x-axis. To any given point 
+
+A of the circle (Fig. 3) and to the A. on the symmetrical curve
+(Fahrstrahl) (so - that 4 OA, x= 4 x, 0A1 ), there corresponds
+one and the same point A', which is obtained, by the addition of
+the vectors O and O.&	
+
+Fcr, accurding to the principle of
+
+the constant "power of a circle," the length of CA 1 is like
+that of OAR , like
+
+02
+
+through the length of CA, hence with
+
+CA = , as the com-p lex equation: CA 1
+
+=
+
+c 2 : . That, in fact,
+
+the point A', found by this process, falls on an arc, is readily seen from the following,*
+If the length OA is represented by P and the angle between
+OA and the x-axis by
+
+the coordinates of A' are according
+
+r,
+
+to the equations:
+X	
+
+(p
+
++c2
+
+sin2
+
+ir -
+
+)
+
+C OS 'fr, y= ( p -
+
+f-)
+
+sin
+
+from which we obtain:
+X2
+
+y2 005 2 4r = 4 0 s±n2 •4i 0082
+
+On the other hand, the perpendicular MA O from the middle poiit
+M to CA shows that 0A0 , half the difference between OA and
+OA., consequently of P and
+
+has the value s sin
+
+*, when
+
+s OM denotes the distance of the center of the circle from
+
+00
+
+There follows, therefore, from the expression given for y:
+y = 2 s sin2
+and if thisvalue for sin2 fr is substituted, in the preceding
+* nother proof, more closely coineei 1ithheconceptions
+C omplex ccu1ation,cl1os frcii the de.uction given in Sec. 4.
+
+-11eapatiori and simplified:
+x •-.(y -:-
+
+=	
+
+B2)	
+
+• • . . .	
+
+( 9)
+
+as circle equation for position of Al . Thereby, since B > 0
+> 0, y can only have positive values. The arc has
+and j2	
+the camber 2s, the chord 4c, the radius 02 + s which is readily
+.
+constructed, and the half center angle sin 	
+The task of finding the parameter (as also the inverse) for
+• given are B' B", with chord 40 and camber 2s, as the limit of
+• sects. on with its tip at B', is executedi as follows. Divide
+the chord B' B1 ' into four parts at B, 0, B and bisect the
+vertical line OS at M. Then B represents the tip and U the
+center of the section. Therewith the radius a = 1 2 + C2 and
+the directi on BM of the first axis with tg 0 = s:c are found
+and the lift magnitude is thus determined. In order to obtain
+the moment-course, after the location of the first axis is already known, we only have to find F and, for this purpose, according to (81), the distance MF = 02 :a, under the angle
+r
+is measured off or , the line UB 1 . F is found constructively in
+the simplest way (Fig. 3) by erecting at B 1 the vertical line
+a perpendicular to the chordand projecting its terminal point
+on MB 1 . The projected line contains, in addition to the focus
+F, also the center M' of the arc. The straight line BM is
+the base line of the lift-parabola and of the parameter
+
+h0,
+
+equal to half the distance between F and BM.
+In Fig. 4 there are represented several arcs, which are de-
+
+- 12 veloped from the same circle by choosing different starting
+points 0, with their axes, parabolas, etc. If the curve becomes 0, then the straight line" section coincides with its
+first axis. The focus is situated on this line at 3/4 of the
+distance from the left end and the parabola is reduced to the
+bunch of raya, which means that all attacking lines pass through
+F.
+
+The greater tne curvacure, Oust so much farther I moves
+
+from the section surface toward the interior, but always remains
+at about 3/4 of the chord. In Fig. 5 the so-called "pressure
+point migration" is represented with reference to the chords for
+the curvature relations 0, 0 1, 0.2, and 0. 3, in the customary
+I ori. We can see how it increases with increasing curvature.
+SinOe there is an endless number of different parabolas, all possible cases within the series of arcs arein a certain sense
+exhausted..
+For given section forms,: the parameter: values, first
+from the theory of 'ccnsistent imitation," are subjected to the:
+f ol 3 orin c, iei
+
+iiP5 which urnih practic. y r alua5ole refer-
+
+ence points for their determination. If we supplement the data
+in my first article by a restriction for the location, of F from
+the same source (Bieberbach' s "Law of Surfaces") and, further, by
+the adoption of an old l	
+
+(from Landau and Tecplitz) as well as
+
+of a continuation according to my first article, of the hydrodynamic theory by Frank and Lowner nJ, lastly, of a new work by
+G. Pick on "Consistent Imitation," we ther. obtain the following
+determination methods.
+
+- 13 1. For the value of the radius a: The radius of the curve
+of a section determined-by (6) is at lea equal to 1/4* and at
+most to 1/2** of the longest dieter of the section. For the
+lift coefficient, with reference to the greatest width b, there
+are obtained therefrom theinequalities
+TT
+
+sin (a +	
+
+•
+
+	 2
+
+iT
+
+sin (. + ) (10)
+
+In the case of very narrow sections, the lower limit is only
+slightly exceeded,
+2. For the location of the center M: The center of the
+curve of a section ("section center") is located o that the
+whole sections falls within the circle described Ecoout it with
+the radius 2:a**. Fu:theriore, M lies within the smallest amvex space**** inosing the section (like the center of gravity
+of a surface. on the section perimeter). The first condition in
+the case of very narrow sections is exactly fulfilled, that is,
+the ends of the section lie near the perimeter.
+For the location of the' focus F The above defined.
+3.
+focus: of the- section (focus of parabola inclosing the lift .ttackirig lines) lies within the perimeter (Bieberbach, a.a. 0., prin*	
+This statement is contained in the first of the principles
+mentioned wider 2.
+Landau and Toepiitz, Arch. 1. Math. nd Phys. II (19o),
+302-307; compare .a1O Frank and Lowrier, "A uriten a. 0."
+pp.
+L. Bieberbach, Sit.wigsber. d. Berliner Aicad. XXXVIII (1916)
+pp. 94-955,. principle V.
+Frank and Loner, Math. Zeitschr. 3 (1919), pp. 78-86.
+Here the following is demonstrated: If the surface is consideed.
+as un i formly cowered with substance and if, in the transformation,
+each point is allowed to retain its mass, the center of gravity
+then remains at M.
+
+1-14
+
+ciple I). In the case of narrow sections, it is not far from the
+edge of the circle. Its distance from the circumference is greater than r2 : a, when r denotes the radius of the circle macribed. in the section (G. Pick, Sitzungsber, d. Wiener Akadamie, math.
+naturw.'Klasse, Abt. ha, 126 (1917), pp. 247-263, equation 4).
+According to the results obtained by L. Bieberbaoh and G.•
+Pick, the first prnc±ples stated. under 1 and 2 can be made still
+broader: not only the section itself, but every circle which is
+created by concentric du1icatiOri of a circle lying entirely
+within the section, falls in the duplication of the perimeter
+(Pick, a.a.O. eq.9). P\rther, when	 r	 denotes the radius of a
+circle entirely within the section and d. the distance of its
+center from any given point of the section perimeter,then
+a > 1
+4	
+
+.	
+
+(d
+
+•
+d
+
+while the first statement under I only claims substantially that
+a > 1/4 (d±r). (Pic!..., a.a.C. eq. V. and Bieberbach, Math. Anna.
+77 (1916), pp. 153-172). Therefrom, for example, the conclusion
+may be drawn that a thickening of the front end (leading edge)
+of a section raises tha lower limit of the lift coefficient. In
+Fig. 6, where b denotes the greatest width of the section, it
+is possible to construct, in an easily understocd manner, for the
+radius of the rounded front edge, the length b' = (d + r)2 : d.,
+which is greater than b and holds good for a 1/4 b'.
+The parameter value and therewith the lift magnitude and bcation are natural 1Y only incompletely determined by all these
+
+principles. The exact determination, for one of its form according to the previously given section, requires, each time, the solution of the problem of "consistent imitation," that is, the determination of the function (6) belonging to the section. My next
+article will take up this task In the present article, I will
+only take up the inverse task of determining sections for given
+parameter values. We will first consider the known examples theoretioally, that is, sections defined by their de.theatin junot ions.
+S. The Joukowski Section Form.
+The Joukowski section form is known to be produced, whenthe
+transformation (8) is applied to a circle K which passes through
+the point	
+
+= - o (B in Fig. 7) and embraces the point .0 =
+
+near its edge (B 1 In Fig. 7). Since a circle (with center M0,
+dashed in Fig. 7), passing through both points and hence trans-formable by (8) into an arc, can be so placed that it touches
+the given circle at	
+
+= - c, then the image of the latter, In
+
+the vicinity of C = - o must appear as the left end of the arc.
+The Joukowski section has, on the left, a point, which stand.s at
+an angle of arc sin 20 8 to the direction of the chord, , in
+2
+C ±S2
+
+which a denotes the segment 0M 0 of the' straight line EM on
+the axis of ordinates. Moreover,' the section .approaches the arc
+of a circle more closely, the nearer the point B 1 is to the
+circumference.
+For the construction of the section, we note that when the
+point A, as the end point of the vector CA = C, runs through
+
+-	
+
+-
+
+a circle K. also the end. point
+
+A1
+
+of the vector OA, = c :
+
+must move on a circle K 1 . The circle K 1proceeds from K,
+through the transformation of 'reciprocal radii" and the corresponding reflection on the x-axis, and touches. K at the point
+B. Consequently, the center M 1 of K 1 is found immediately,
+by taking the direction 0M 1 . on the left symmetrically to OM
+id locating LL on 	
+
+. The	
+
+A	
+
+(rresording to A) of
+
+the section perimeter is found, as in the case of the arc, formation, as the sum of the related vectors OA arid. CA 1 , which
+again lie symmetrically with the x-ais, but now have their end
+points on different circles. In order to construct the complete
+sect ion, after finding iç, it is only nece scary to draw through
+o a bunch of symmetrica lines, for exam1e, all lines at intervals of 300 and thus obtain as Many points of the section as desired., by simply drawing parallel lines or intersections* (Fig.7)
+Only the points falling on the axes must be taken by the compasses.
+It is often useful to know the tangent direction ofa system
+of points for constructing the curve I will here give the following very simple construction without demonstration. Erect at
+A and A 1 the per;endiculars to the lines OA and CA, and
+mark on them the points N and N 1 so that ON is parallel to
+1A and CIT., is jarallel to
+M1 A1 . Then N N 1 gives the direction of the normal perimeter
+at the point At.**
+* E. Tefftz gave a similar method of construction. See this
+publication, Vol. IV, (1913), p.131.
+** The proof follows from the general theory of "geometrical differentiation, t ' which shows how to find the tangents to any curve
+defined by point construction and which I developedi in Zeitschr.
+f. Math. in phys. 52 (1905), pp. 44-85.
+
+	
+
+.'7
+——
+
+Joukov;ski sotion obtained in this way from its "image 
+cirole (ldkreis) K, the list parameter is immediately deduc-
+
+•	
+
+For a
+
+The radius of K is the length in formula 1, and BM is
+it dLTAQt.Ofl and location with refereXice to the first axis, hence.
+.
+V&th the x--axis ' of the angle	 The secthe angle of this	
+ide.
+
+crid axis has the x-direction, since, o. ac,crnt of the real value
+of C 2 = — a1 , the angle y vanish,-,3. The focus F is found by
+
+taki n 	 iIF = c : a on the line gOing from M to the second in-
+
+•	
+
+tersctiOfl ;int of K with the x-axis. The beet way is to take
+on this line (as also on the line IM drawn. through M parallel
+to the x-axis) the distance MC = C' and then draw CF par=c
+and thereallel to DC t . The base line of the. parabola is 71
+fore the parameter h 0 equals half the distance between F and
+BM.
+If it is desired to fOiiôw up the connection between the presre point migration an the shape of the section, a good way is
+to imagine all those sections which are derived fro= different
+circles through this transfoatiOt process (with fie& c).
+Thereby the "first 5Xi5 BM remains changc1, as likevise the
+', while the distance between F and the axis vardirecticri 	
+a, hence dimi.nishing with the
+ies according to the ratio 02	
+increase in the legth of the radius. Since the section beocmes
+•	
+
+thicker with increasing a (the circuferer1Ce receding farther
+and farther from the point B 1 ), it is evident that a thickening
+of the section lessens the pressure point migration and vice verse
+he arc, the that, the focus
+Ve	 ha7e seen above distance of in t
+
+from the axis grows with iucreasing curvature. We may now saj,
+therefore, that the curvature and thickening of the section exert
+a co1ipensat±ng effect with reference to the pressure point migration. In Fig. 8 there is drvn a series of three Jonkoski
+sections which (even in
+
+their
+
+location) belong to the se lift
+
+parabola. It is seen that, while the thic1ies8 varies greatly,
+the ctrrvRture (underneath) only varias slightly.
+Joukowski sections with fixed center of pressure are obtamed only when the curvature (underneath) is zero. These are
+the club-shaped cross-sections which tome into consideration for
+stays, etc., but not for supporting-sections.
+4 Enlarged. Joukowski Sections.
+Th. v. Karman and E., Trefftz (this publication, Vol. IX,
+1918, pp. 111-116) have., in connecticn with a remark of Iutta
+(Sitzungsber d. bayer. Akad.. d. Wiss. Math.-Physik. Iüasse 19111
+p. .77), somewhat extended the transformation (8) applied by
+Joukowski to. the construction of the section and confirmed, for
+th..i:	
+
+by	
+
+in (1) and
+
+(2)
+
+ccu1atior, the general for1as repeated
+for lift magnitude and moment. Their expression
+
+for the moment is considerably more complicated, simply on account of an unfavorable choice of their reference point.
+Equation (C), by once adding 2c and once subtracting 2o and
+finding the quotient,
+
+may be
+
+brought to the form
+
+z - Cc _	
+z + 20	
+
++	
+
+c•'.2
+
+;	
+
+......... .
+
+(12)
+
+- 18 a -
+
+in which it is seen, even without the calculation given in
+section 2, that there corresponds to the circle going through
+3 and B 1 in the - plan (Fig. 9) a doubly intersected are
+20 (B' and 	
+
+through the points .z	
+
+in Fig. 9). Then,
+
+when A is anypoint (designated by ) of the first-named circle, the complex numbers	
+
+c are represented by the vectors 
+
+BA respectively. 13 1 A, and when A' is 000riate4 with
+
+A in
+
+conformity with 3) and (12), the numbers z 20 are repreented
+
+by B t A' respectively. B' A! Since the quotient of two com-
+
+plex numbers in the	
+
+le calculation has the angle of both
+
+vectors representing the numbers, then (12) signifies that
+B
+
+	
+
+= 2 BLE 1 . Now an are is known to be character -
+
+zed by the property of possessing a
+
+constant angle at the
+
+circumfeerce, so that the arc EAB' is transformed into an
+
+arc B'A'B' 1
+
+of double tne angJe az Tne cirurneree. •i
+
+lowerarc BB of the original circle has the angle at the circuference whiOh sup1ementsthe upper angle to 180 0 , so that
+tiiiig1y combine to give 360° arid lead. 
+
+the double angl	
+to the se arc over
+
+Equation (12) can be chanced so that the reciprocal relation of certain arcs remain the se, without, however, the
+same arc's corresponding twice to the circle
+
+BB,. If we
+
+write, namely,
+Z - C'	
+z +0'
+
+- C)fl ............ .......(13) 
+rC
+
+-19in which c' denotes a still-to-be-determined constant, and n
+one of two different exponents, then to each arc through BB1
+there is a corresponding arc through z	
+±c' with the n-fold
+angle at the circumference. The arcs, which correspond to both
+parts of a circle through BB1 , consequently have anglea at the
+circumference which differ by nn and therefore intersect, if
+n is a little larger.or iial1er than 2, at the acute angle
++ (n - 2)TT . The constant c must be determined f rcm the. condition that (13) assumes the form established; in equation (6),
+namely, that the infinity' in z and C are identical. If the
+numerator and denominator are shortened, in (13) by z re sp. C
+and developed according to I/z.resp. I/c, the first members read
+2c'	
+
+2nc
+
+z	
+
+C
+
+so that a' no must be written in order that z = 	
+to inf inity. In fact, with this value of o (and with C developed according to the falling powers of z, the solution of the problem gives
+2
+'	
+
+z	
+
+• • • •	
+
+(14)
+
+Thus the coefficient a of l/z is real, so that y = 0,
+that is, the "second axis" of the section has the direct.on'of
+the x-axis.
+The crescent, into which the circle through BB, is converted by the transformation (13), represents no sction in our
+sense, because it presents not one but two "singular" locations.
+But we Can, in a very similar manner to that of the Joukowskj
+
+- ao traxsformation, obtain a crreot section, by a pplying (13) to a
+
+circle which contains only B on its circumference and B
+side near the circumferen. These are the sections which Von
+Karman and Trefftz considered. In Fig. 10, a section of this kind
+is drawn, with n
+
+1.95 and with the aid of a calculated. point.
+
+The shape of the p rimeter is, in a general Way, similar to the
+,
+JQuk on ski section, excepting that the left end doesnot represent
+a point but a very acute angle, even with the angle - (n - 2) 11- =
+0.05
+
+TT=
+
+90
+
+The construction of the section j with the small values of
+n - 2 0 is not very simple. It is best accomplished with the
+aid of two groups of circles, as suggested by Kaman and Trefftz.
+Of the parameters, which determine the lift, the length
+as the radius of the base circle; then the "first axis," according to the location and direction of. BM; and, lastly, the direction BO of the second axis (real a 1 ) are given directly.
+In order to find the focus F, we must take the length
+=_:i.=fl2 :1
+21
+a	
+
+a	
+
+a
+
+thus on the straight line,
+from the center M at the angle -	
+which goes from M to the second intersection point of the circle with the x-axis. Thereby the lift relations are fully determined.. Reversed, wecax1 see how (with the asaintion of a
+straight line BM as b.se line and a point F as focus of the
+lift parabola for the given a,	
+and n) to find, the location of
+M and B and from them to construct the section. In Fig. 10,
+the lift parabola is shown for the traced section..
+
+- 21 If we Wish to: estimate. the dependence of the pressure point
+migration on the incidence of the section, we must vary the value
+of N, without v arying the oircle. There then remain stationary both the "first axis" BM and the line MB., on which
+is located, and the parameter h0 of the lift. parabola increases
+in proportion to 1W and consecuent1y to n 2 - I. But now it
+must be remembered that the length of the section increases approximately with n, because with c' no, the abscissas of the single points of the figure vary in this proportion. Hence,
+the comparative change in the pressure point migratIon is determined by n 2 1 and it will be advantageous to let n fall below the Joukoweki value. With an incidence of 12%, we have
+n 2 - 1/15 and therefrom the change of the pressure point migratiori	
+1, corresponding to an improvement of 5.4.
+In connection with the above, we may now conclude that lessening the curvature, increasing the thickness; and increasing
+the incidence exert a favorable influence on the pressure point
+motion. Sections with fixed center of pressure are obtained here,
+however, as in the original Joukowski case, only with the curvature zero, namely, with symmetrical "stay" sections.
+5. General Procedure.
+The Joukowski sectiOn construction, including the above mentioned extension, can only be considered as a very special example of sections, for which the general lap s of lift hold good., as
+set forth in section 1. Three characteristics (curvature, thick-
+
+- 22 ness and lacidence) can indeed be varied at will, but in contrast
+with the possible multiplicity of shapes, only a very limited
+number has been obtained. As sections with fixed pressure center,
+for example, there have been obtained only the symmetrical shapes
+unsuited for supporting surfaces. Finally, its whole development,
+however valuable and fruitful it may have been for building up
+the theory, shows, in	
+
+ltior. to t	
+
+arc portrayal
+
+a one-sidedness which is not grounded in the nature of the problem
+and from which we must be completely freed, if we are to obtain
+the full value of the theory.
+We start out with the supposition that the reverse of each
+delineation of the form (6) applied to a circle (7), if the coefficients a 1 , a, a., . ..... only fulfill certain conditions,
+must lead to the section of a supporting surface. These conditions are: 1. The circle (7) must be converted into a simple,
+closed, double-point free curve, which answers the common 'form
+requirements which may be made of a supporting-surface section;
+2. The portrayal must in the 'whole aa-6sida space of the circle,
+be simple, that is, reversible; 3. To one point of the circle
+there must correspond, in any given case, a point Or angle of
+previously determined opening; 4. The lift-determining parameters must have approximately predetermined., values.
+The last point is most simply executed, after the preceding
+one. For,. when the circle, whose image the section is to be, and,
+on it, the point B, 'which is to be converted into the section
+tip, is arbitrarily chosen, there only remains the location of the
+
+focus, fr determining the lift. This location depends, however,
+according to section 2, only on the first coefficient a 1 :ih
+is thus alone partially determined. With regard to oondtiOn 3,
+it need only be borne in mind that at the chosen point B, the
+deduction	
+
+bust vanish, which signifies an easily prescribed
+
+condition for the coefficients, especially when this disappearance is of a defirite order. The real deciding difficulty lies
+In condition a ,, since it forms a known and not yet fully solved
+problem of the theory of furiôtions, for recognizing the reversibility of the delineation on the properties of the coefficients.
+We can, nevertheless, easily get around this difficulty, and indeed in connection with the consideration of condition 1. Natrally, one can not make sure of the shapé of a section, without
+actually drawing it once. From the nature of the thing, it is
+not possible to give definite rules; without first being obliged
+to try out one or another hypothesis. Therefore it would be of
+no great practical importance for us to be able to know positively, in advance, that the construction will give a double-point
+line. Our solution now consists therein that we, in the decision
+on the reversibility of the diagram, proceed on the assumption
+that the section perimeter, and hence the representation of K,
+has already been drawn and found to be free from the double-point.
+The following statement (whosek simplification, as compared with
+my original proposition, is due to a friendly suggestion of Prof.
+Beberbach) .therefore holds good. As the reverse of (6) let
+
+-242	
+
++	
+
+• • .	
+
+a representation, which converts the circle
+
+.
+
+l5)
+
+C - m = a into a
+
+simple closed, double-point free line. The zero points of
+
+dt
+may all lie within the circle, excepting the one that lies on
+the circumference itself. Then the representation in the whole
+outside space of the circle is reversible, when the origin
+'0
+falls inside the circle.* As to how the princi p le is applied
+will be immediately evident in the description of the whole construction process.
+We will confine ourselves to the case in which the incidence
+is zero. at the rear end of the section, which accordingly constitutes a true point. In this case, the deviations of the entire
+section, in comparison with one having an angle of 6 to 120, are
+praotic&.ly negligible. Moreover, our method can be employed,
+even fbr the more comzon asaimption, as soon as, insteaLL of C	 and
+z,	 the corresponding powers of these variables or their combinations are properly applied.
+The coordinates ar3 so placed in the
+
+plane that the circlepoint B, which is converted, into the section tip, has the negaC
+
+tive abscissa -c and the ordinate zero, a.n the JoukOwski ex.* The principle may be made iiitelligible as follows: From the giv-,
+en condition, in harmony with the fact that in infinity z is opposed.to C, it follows that a sufficiently large circle K', con
+centric with K, is formed with a double-point-free circumference
+F' of any desired size, in which some point outside of K corres•.
+ponds to every point outside of F'. Now, any desired point z,
+which lies between the section outline P and the outer circumference P' can al way sbe converted into a point in the space outside
+of . P t . Thereby the number of. the points, coordinated with z outside of K, cannot be changed, because there are no. branching
+points, of (15) in the space outside of K and because no passage
+of the image point through K can take place, so long as
+not pass through P. n exact proof for the given case canz. does
+be fig-
+
+•	
+•	
+
+-25ample. The circle K which is to produce the section, must.
+therefore, pass through this point C = - c, while inclosing the
+point C = O The delineation function f( C), which above was a
+
+binomial (8), we now write in n + 1 terms'.
+Z
+= C
+
+The f ew limitations,
+
+tc
+
++	
+
+. . . . . . (3.6)
+
+!e fr the
+
+01 ... :,
+
+still leave
+
+sufficient play for their application to the most widely differ-
+
+,
+
+ing requirements. We must next find, the deduction from (16).
+dz_	 I —	
+—
+
+0	
+
+—	
+
+— •• —
+
+a
+CnT
+
+.	 .	
+
+17)
+
+.
+
+The right side is a product of n + 1 factors of the form
+(1 — ), in which one of the
+
+V'S
+
+must have the value -c,
+
+t
+
+while the total of the v s is subject to the limitation, that
+their sum vanishes, so that, in the product, the member with
+drops out. Accordingly, we proceed so that we (instead of immediately choosing the quantities c1 ... c) adopt the points
+
+v1,
+
+v within the circle K with the oontct±cri
++ v2
+
+(Fig. 11 with
+
+11
+
++ . . . v2
+
+=
+
+c . . . . . . . . . (18)
+
+= 2) and from these chosen v's construct the
+
+polynomial (17), as follows:
+(i	
+
++ j •(' — !. (' - j .. )
+
+•c
+
+•	
+
+	
+
+(
+
+...... I	
+nc.
+
+! i	
+
+-
+
+•.•
+
+......
+
+.
+
+(19)
+
+(Continued from p.24)
+ured out by analogy with Bieberbach's demonstration (Yunktionenthe
+one, Sammig. Goachen, No.768, p.56) of a similar proposition.
+
+The values of the individual quantities Q ... 	
+by putting like powers an both sides, for example:
+-0 2 = v1 v2 + ...
+
+v,._ 1
+
+=E
+
+IT1,
+
+are obtained
+
+v --c (vi + v2 + ... v) =
+
+Vk -
+
+c2 . . . . . . . . . . . . (20)
+
+Hereby the following is accomplished.. The point R is converted into a tip and all other junction points lie within the circle.
+Then the delineation function has the form (16), that is, the co-.
+efficient of the linear member is 1 and that of the constant is
+zero. If the amount of the pressure point migration, and hence
+of the parameter h0 of the lift parabola, is predetermined.,
+then the quantities v1 ... v must only be .. subjected to the
+second restriction, in order that the complex quantity 2-i c 131
+(in which a represents the radius ., 13 the " angle -argtent 11 of
+the distance -c + m from B to the center N), drawn from the
+center U to F, may have the desired.. distance 2b 0 from BM.
+Naturally, it is not necessary to tare the circle K and
+distribute the points v 1 ....v within it in advance. It is
+better, namely, when h0 is predetermined, to mare first an assumption for the first values of n - 1 of the v, then to calculate the nth value from (18), and then c 1 from (ao) and lastly choose the circle so that it will inclose the v's and will
+satisfy the conditions with respect to the focus F. If, for instance, we wish to obtain a section with a fixed pressure center,
+then it is only necessary to locate the center N of the circle,
+so that B1& will have the direction of J c 1 (that is, 13ry
+
+- 27 with the first and second axes parallel).
+After the circle IC and all the v's have been determined,
+then the section outline can be located point for point, as the
+representation of K. Thereby it is to be recommended, namely,
+for the first trial, to represent only a few points of the circle
+(measured from 0) about 300 apart. The individual ' 'aummand&' of
+(15) are comparatively easy to determine and to combine, partly
+by calculation and partly by constructions as we will further illustrate by examples. 	
+
+S
+
+The chief practical difficulty always consists in finding
+such values for the v's that utilizable shapes will result
+from them. To this end, a certain skill can be acquired through
+the execution of many examples. A reference point may be suggested by the remark that the crowding of the v' a in the vicinity
+of the zero point (excepting the one which on account of 1118",
+must lie at	
+
+t = c) leads to the Joukowaki forms.
+
+6. Examp i&s. Sections wIth Pressure Center.
+As the first example, we will construct a section of the form
+n = 3, without any previous instructions in regard to the lift
+values. We accordingly choose (Fig. 12), on the real axis, two
+points B and 0, at a distance 0 0.4 (a length of 100 mm.
+was taken as the Unit
+
+in the
+
+original figure) and a circle K
+
+going through B and inclosing 0 with the center M and radius a = 0.44. The angle included between 'BM and the as is
+the angle 0 of Section 1. BL is the first axis of the section
+
+	
+
+-ae-
+
+and. IL its
+
+°center". We choose the three v-values as follows:
+v1
+
+=c,v	
+
+-
+
+so that they satisfy equation (18) and, as shown by Fig. 12, the
+end. points V1 . V and V. of the vectors OV = v etc. lie
+within K. Equation (19) is now converted into
+	
+
+o
+
+I---5-)
+
+202 3
+
+from which proceeds	
+01 = Q2
+
++ v	
+
+= c2 (I +	
+
+cv2	 2
+0, c 3 = - 3	
+
+), c	
+
+c4i
+
+12
+
+Hence the transformation equation reads:
+=	
+
++2.&,2=	
+
++
+
+02	
+
+Sc' i
+
+in which c = 0.4 is to be introduced. The solution of this
+equation is best aocom1iched, partly by calculation and partly
+by construction.
+We next determine the value of c and the direction of
+For this purpose we took, in Fig. 12 0 BC =	
+i, sb
+that OC = - ?L, and bisected the angle BOO, whereby the angle
+r of Section 1 and. therewith the direction of the second axis of
+the section was found. Counting from this second axis, the radial lines C were drawn at every 300 toward the points A of the
+circle K (only one is actual ly traced, simply the terminal
+points of the others being marked). The end points of the radial
+lines c 1 :	
+lie, according to the known characteristic of transformation through "reciprocal radii," again on a circle K 1. Its
+
+-294	
+
+center
+
+lies-on a straight line 0M 1 , whith is situated; sym-
+
+metrically to OM with reference to the perpendicular to the second axis. One point of K 1 is C and another one can eaá ly be
+obtained f roni the proportion
+
+After K 1 has been obtained., the points	
+
+can be located
+by combining the symmetrically situated vectors OA and 0A1,
+just as.n the Joukowski case. In Fig. 12, the construction is
+completely carried out for one point and the rest of the 12 points
+of K 1 are simply indicated, so far as the size relations allow.
+Now each point A' must be shifted 03 	
+. The direction of
+c is that of the negative imaginary axis. Hence the shiutedi
+direction is obtained approximately for the point with the amplitude Y - 30 0 0 by taking the angle 180 - 3 'V from the real axis.
+The construct on is easily completed for the remaining pointa:
+since the direction changes in each instance by 3 x 30 = 900.
+On account of its smallness, the length of the displacement is
+best determined by calculation. It 15 0 3 = 0.00213 and hence
+for the just named. point A, with t = 0.514, the length
+
+A' All = 0.0156 and we must take A' A n = 1.56
+
+according to
+the chosen unit of measure. Thus 12 circumference points are def
+initely determined in Fig. 12, as also, in very simple fashion,
+mm.
+
+both the points, right and left which proceedi from the intersection points of K withtbe real axis.
+If wR draw through M the parallel to the second axis and
+transfer its angle with the first axis to the lower side of this
+
+e
+parallel, we thus obtain the direction UP toward the focus of
+the section, on which M = o : a = 0.375 is to be taken. With
+F ask he focus and BM as the base line, the lift parabola is determined. It is seen that the parabola is very flat (somewhat
+similar to that for the much thicker Joukowski section of Fig. 6)
+and that the pressure point migration is small, Yhieh is connected
+with the -hc• ;'rd bend of the rev end. Had we wished to
+obtain a section with fixed pressure center, it would only have
+been necessary, alter determining c 1 , to draw the line BM parallel to / c, which would have hardly changed the shape of the
+section. We will demonstrate this by a second example.
+From the practical standpoint, the considerable reduction in
+the thickness of the rear end of the section just considered is
+very not iqeable. On account of the requisite thickness. of the
+rear spar, such forms cnot ordinarily be used. We obtain another perimeter which, to a certain degree, realizes the opposite
+extreme of retaining a nearly uniform thickness almost to the rear
+edge, through the following assumption. Still simpler than in the
+first example n = 2 and our statement now reads
+02
+
+Z
+=	
+
+Both v-values which according to (18) must be given the' sum
+
+C,
+
+we choose as
+
+V1	
+
+-	
+
+, v2
+
+=
+
+c -
+
+v1.
+
+By substitution in (19) we get
+C l =	
+
+- V 1 V2 ,
+
+C = - V1	
+
+; V1
+
+V -
+
+-
+
+C2 (i +
+
+3/ 3 i ).
+
+-3.In a similar manner to the above, the radial line BC = .v1 v : 0
+is drawn in Fig. 13, so that 00 represents its length and direction according to .-c : o. By bisecting the angle formed by
+00 with the real axis, the direction of the "second axis" of the
+section is found, which is, now that we wish to obtain a section
+With a pressure center, also the direction of the 11 firet axis."
+We therefore draw through B the parallel to the bisector of the
+angle and choose on it the center M of the circle K, with the
+radius BM = a = 0.5. It is seen that K incloses the endpoints
+V and 112
+
+of the vectors v 1 , v	
+
+and 0. We now construct,
+
+just as&rl the first example, an auiliay circle K1 , which contains the mend points A 1
+
+of the vectors c 1 : C and derives, the
+
+end points A' of the vectors C +	
+
+from the 12 points A of
+
+the original circle K, vith the aid of A1 . In order to obtain
+the ultimate section points A", we must still mare the displacements ; C 2 .
+
+Note here that CB hasthe direction of c2 and
+
+that from this, therefore, by the subtraction of 27 plus entire multiples of 60 0 , all the shifted directions are obtained.
+The 1eng$b.of the displacements are determined either with the
+abacus, whereby the value c 2 0.0211 is to be used, or by calculation by means of the proportion
+
+C2
+Furthermore, it is only necessary to draw a circle with 0 for
+its center and the radius	
+
+in order to obtain (Fig. 13) throu.g:
+
+HH' parallel to OA' the desired length in . A'H'.
+
+The pressure
+
+-32center lies on the first axis at a distance of
+o : a	
+
+-. /108 : 0.5 = 0.435.
+.8
+
+It is seen that this section also, like the first one, has
+an S-shaped curve which shows plainly on the pressure side. In
+contra , however, with the first ex.ample, the thickness of the
+section is much more uniform. Intermediate forms, between the
+two given here, can readily be obtained, by var ying . the value of
+v, whereby the pressure point migration can be either entirely
+eliminated, as in the second, or largely, as in the first example. It is worth noting, further, that both sections are almost
+the same with respect to the lift magnitude, since the determining ratio 4a : b (b = greatest width) for the lift coefficient
+is, in the first case 176 : 163 and in the second case 200:183
+accordingly about 1.09 in both cases. The theoretical lift coefficient is therefore 10 91T sin a
+
+in which o is the effective
+
+angle of incidence 0. + • (According to Bieber'oaoh's estimate,
+the coefficient is larger than
+
+iT
+
+s5ii o
+
+section is drawn in Fig. 14 on the
+same plan as the lait mentioned, but with other values of v1 and
+In the third example, a
+
+v 2 , namely,
+v1,
+
+v2
+
+=	
+
+(
+
+I + / I + 0.16 i)
+
+which might do for propeller blades. This section also has, like
+Fig. 13, a fixed pressure center, but shows a lea.ning toward the
+-Joukowaki shape. The point V 1 is still nearer 0. In any event,
+Fig. 1 and 14 illustrate the manifold variations in shape, even
+
+-33•	
+
+0
+with the maintenance of the pressure-center condition	
+and although we have confined, ourselves to the simplest case of th
+general method. with 11 = Z. On the construction of Fig. 14 there
+is nothing new to say. The values of	
+
+were here determined.
+
+by calculation. The numerical values for the lift coefficient
+and the focal distance are here.
+(1 + 0.4 1), 0 2 = 0.i c i;
+MF 0.375
+C A = 1.1 TT sin (°. +0	
+C 1	
+
+02
+
+If the method were oarried..beyond n = 2, the attainable shapes
+would then become so numerous that it would be impossible to give
+even a glimpse of them within the narrow limits of this fundamental exposition..
+Translated by N. A. C. A.
+
+..	
+
+3	
+
+Z?JL
+iè	
+,i!t1: Aff9	
+I	
+
+r"-V
+
+-	
+
+I
+
+i1,
+
+- '-
+
+, -#..	
+
+L.s	
+p .'.	
+
+-.f.I-• d •	
+
+____	
+
+Pr! ox	
+
+/4iJ •:
+
+k
+
+F I
+
+- I	
+
+•
+
+*ZFait
+
+Iry
+
+T'•.	
+
+•	
+
+r	
+
+2iJ I ;	
+
+•
+
+A
+F'	
+
+f
+
+See	
+
+O.Vis
+
+Ave
+%
+
+1
+
+"4
+
+I
+
+r---	
+
+r	
+•	
+
+-	
+
+•: ;
+
+•
+
+IIç	
+
+rr,mflQewge.	
+
+a	
+
+• •	
+
+I	
+
+_&-iI_	
+
+.	
+
+•
+
+L-	
+
+TJI4
+0
+P'-g
+
+•
+
+1-H-
+
+-t nn
+
+-
+
+1*	
+...t	
+
+:
+
+-
+
+i
+
+:	
+
+.	
+
+.,
+
+:	
+
+I	
+
+:;4.
+3 :;.. :	
+
+g	
+Am
+
+I
+
+-	
+
+dr
+
+fr.
+
+J0 Ar 40
+
+,,5•
+
+It
+oil's
+fir
+
+4	
+
+Pig7
+
+	
+
+• J:';
+
+1;?.	
+.	 •:	
+
+••: i;;.	
+-.	
+
+.	
+
+. ;	
+
+.	
+
+:	
+
+•
+
+.	
+
+•	
+
+;	
+
+.	
+
+...	
+
+.	
+
+-.	
+. .	
+
+..	
+
+:	
+
+-	
+
+.	
+
+..	
+
+.	
+
+.	
+
+.	
+
+-;_	
+
+:	
+
+•	
+
+•.12?1r -.	
+
+..;	
+
+• .	
+
+..'1
+
+..	
+
+.	
+
+.	
+
+iA'
+.	 ' ,	
+
+, . . .	
+
+.	
+
+..	
+
+•• •;••.	
+
+•:	
+
+....	 .	 .-	
+
+•	
+
+.	
+
+•	
+
+.
+
+....	
+
+.-	 ..
+; . 4.
+
+a, •	
+
+.
+
+V	
+A:
+f	
+
+...	
+
+-	
+
+••'-;4	
+
+••	
+
+•	
+
+:. •	
+
+•	
+
+•
+I	
+
+Ai
+
+.
+
+-
+
+I
+
+:i
+t	
+1	
+_,f1 f	
+
+-	
+1	
+
+f
+
+I	
+
+.N,z	
+I.	
+
+I	
+
+••'	
+
+I'	
+
+-. '	
+
+f
+
+:j. - s\	
+
+•r	
+
+..
+
+•-:	
+
+:	
+
+\	
+
+A	
+
+	
+
+1	
+
+\II '-'-
+
+•-;	
+
+:.	
+
+...	
+
+\_	
+
+•	
+
+S I	
+
+-.--__
+
+/
+
+WI,-'
+
+-
+
+Pip/i'
+
+I,	
+
+\
+-
+
+E5"'
+orr
+.I
+
+-.	
+•	
+
+.- • f•	
+
+-	
+
+.•	
+
+-	
+
+-	
+•	
+
+_i_	
+d	
+
+•	 -.	
+..Ai.	
+
+--.	
+I	
+- -	
+W:	
+I	
+
+•	
+'
+•r•	
+
+-.	
+
+.-	
+
+-	
+
+-	 n_i_-!'	
+I- - -)	 	
+--	
+-	
+
+•- -I.	
+I	
+
+First •,,,
+
+-	
+
+•
+I.	
+
+4
+•'
+
+I	
+
+V
+
++	
+
+f:
+
+:
+
+J
+:	
+- P1g/4
+
+op
+-*	
+
+'. , I	
+
+Pigs8,19,/O /1,12,13
+
+Reproduced by NTIS
+National Technical Information Service
+U.S. Department of Commerce
+Springfield, VA 22161
+
+This report was printed specifically for you
+order from our collection of more than 1.5
+million technical reports.
+
+$-i
+0
+
+0 •-
+
+For economy and efficiency, NTIS does not maintain stock of its vast
+collection of technical reports. Rather, most documents are printed for
+each order. Your copy is the best possible reproduction available from
+our master archive. If you have any questions concerning this document
+or any order you placed with NTIS, please call our Customer Services
+Department at (703)487-4660.
+
+'a
+Cs)
+
+.-
+
+1.4
+
+U,
+
+E
+
+I
+•
+.r
+
+Always think of NTIS when you want:
+• Access to the technical, scientific, and engineering results generated
+by the ongoing multibillion dollar R&D program of the U.S. Government.
+• R&D results from Japan, West Germany, Great Britain, and some 20
+other countries, most of it reported in English.
+NTIS also operates two centers that can provide you with valuable
+information:
+• The Federal Computer Products Center - offers software and
+datafiles produced by Federal agencies.
+• The Center for the Utilization of Federal Technology - gives you
+access to the best of Federal technologies and laboratory resources.
+
+C)
+C) U b'a
+
+For more information about NTIS, send for our FREE NTIS Products
+and Services Catalog which describes how you can access this U.S. and
+foreign Government technology. Call (703)487-4650 or send this
+sheet to NTIS, U.S. Department of Commerce, Springfield, VA 22161.
+Ask for catalog, PR-827.
+
+0 a)
+
+Name
+Address
+
+0•
+
+E
+
+2
+
+Q)
+C)
+
+Telephone
+
+'a'a'aE
+-4
+
+u4
+
+•
+
+•
+
+NI1S -
+
+Your Source to U.S. and Foreign Government
+Research and Technology.
+

@@ -1,0 +1,1559 @@
+.
+
+.. —..
+~,-= “-.
+
+..
+
+.!).
+
+Ii
+
+k’,
+
+REPORT No. 56
+
+HEAT ENERGY OF VARIOUS IGNITION
+SPARKS
+.
+v
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINTFROM FIFTH ANNUAL
+REPORT
+
+WASEINGTOR
+PEINTING OFFICi
+1920
+
+GOVERNMENT
+
+<.
+
+,..-’: ;“’:.:”.~”.
+
+,.5<--
+
+mllll~lllllllflflgfi[llllllllllllltll
+~~-’”=’=’”””’” :“’-’’”’”’;’’”””
+““;:,’”’’’!::””’
+‘y”
+
+31176014165428
+
+‘“
+...=”.”””
+
+‘ ““<.””
+
+,
+
+,
+
+~
+
+=-,-,,
+
+--.%”=-;;=.=
+
+.,,:_,,t,
+
+.“’”’.“”:”=:-”~”””””
+‘“-’””””””:’”
+‘“:”’’”””’’:””:”””’..’:””’ ‘“””-””’::’”
+””::”?--:::::;%
+
+REPORT No. 56
+
+HEAT, ENERGY OF VARIOUS IGNITION
+SPARKS
+v
+.
+
+.
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+“
+
+PREPRINTFROM FIFTH ANNUAL
+REPORT
+
+q
+
+Y7
+
+WASHINGTON
+
+GOVERNMENT
+PBINTINGFFICE
+O
+1920
+-.
+,
+
+.
+
+.
+
+i.. . -..
+
+REPORT No. 56
+HEAT ENERGY OF VARIOUS IGNITION SPARKS
+Part I.—METHOD MEASURING
+OF
+HEATENERGYOF
+IGNITIONSPARKS
+By F. B. Silsbee, L. B. Loeb, and E. L. Fonseca
+
+Part IL–MEASUREMENT FHEATENERGY
+O
+PER SPARK
+OF VARIOUS
+IGNITIONSYSTEMS
+ByF. B.Silsbee and E. L. Fonseca
+
+_.
+
+.
+q
+
+.
+
+/
+
+REPORT No. 56.
+PARTI.
+METHOD OF MEASURING HEAT ENERGY OF IGNITION SPARKS.l
+By F. B. SILSBEE, L. B. LOEB,
+
+and E.
+
+L, FONSEOA.
+
+“” -‘“ ““‘“
+
+- ““ ““
+
+RlhXJMl!!.
+This report describes a method developed at-the Bureau of Standards for measuring the
+total energy liberated as heat in a spark gap by an ignition system. Since this heat energy
+is obtained from the electrcmmgnetic energy “stored in the windings of the magneto or coil,
+it is a measure of the effectiveness of the device as an electric generator. It must be borne in
+mind, however, that- this total energy is by no means a measure of the igniting power of the
+spark.
+Use is made of a hollow block of copper and the sparks to be measured are passed between
+nickel alloy terminals in a cavity-in the interior of the block. The heat-liberated raises the
+temperature of the chamber and this temperature rise is measured by a copper-constantan
+thermocouple and a galvanometers. The apparatus is calibrated by sending a known current
+through a heating coil inclosed in the cavity. Measurements reliable to 5 per cent -can be
+obtained in about 15 minutes as the apparatus is usually operated. The runs can be shortened
+to five minutes with some sacriiice of accuracy. A gap length 2.1 mm. (0.082 inch) between
+terminals 1.5 mm. (0.06 inch) in diameter is used, as this makes the breakdown voltage and
+duration of the spark substantially- the equivalent of that occurring in an aviation engine
+cylinder.
+INTRODUCI’ION.
+The method for the measurement of energy dissipated in ignition sparks which is described
+in this report was developed at the Bureau of Standards as a part of the ignition investigation.
+It is recognized that this total heat energy is by no means a measure of the igniting power of
+a spark, since the “latter is affechd by many other factors. The value of this measure as an
+indicator of magneto performance arises from the fact that the energy which is liberated in
+the spark gap i: derived from the ele@ro-magnetic energy stored fi” the magneto or coil, and
+the amount of this energy is to that extent a measure of the effectiveness of the apparatus
+as an electric gaierator.
+Calorimetric methods for measuring this energy have the advantages of greater simplicity
+and freedom from the many sources of error which are liable to enter into purely electrical
+methods of measuring power under the extreme conditions of high voltage and distorted wave
+forms which occur in ignition circuits,, The use of a copper block form of calorimeter avoids
+the inconvenience of liquid calorimeters and has been found very satisfactory for this as well
+as many other lines of work. In common with other calorimeter measurements, the results
+can be conveniently expressed in absolute units and may therefore be compared with results
+obtained by other obse~vers with different. r.nethods.
+-
+
+.
+
+‘
+
+.,
+
+: Tide report wae confidentially droulated during the war w
+
+Bureau of Standards Aeronautic Power Plants Report No. 15.
+
+3
+
+.
+
+4
+
+A
+AITl?TMIJ
+REPORT
+NATIONALDVISORY
+
+COMMITTEE
+
+FOR AERONAUTICS.
+
+DESCRIPTION APPARATUS.
+OF
+The calorimeter itself consists of a hollow copper block, as shown in figure 1, approximately
+3.5 cm. (1.4 inches) in diameter and 5.5 cm. (2.z inches) long, containing a cavity in the
+center. The spark to be measured OCCUIIS
+between the grounded electrode C and a high
+potential electrode B, the latter being insulated from the chambw by a small glass bushing.
+These electrodes are fitted with nickel alloy terminals 1.5 mm. (0.06 inch) in diameter, for
+most work set to give a spark gap of 2.1 mm. (0.082 inch). This gap may be varied, if
+desired, by the micrometi adjustment of the grounded terminal.
+The effect of external temperature chtiges is compensated for by the use of a dummy
+copper block, E (@re 2), which is similar to the workbgdcmimda
+c
+butmnt~ins
+nosp~r~
+gap; and is placed symmetrically with respect to the working chamber inside of a double-vvallcd
+wooden box. This box is lined with sheet copper in order to insure uniform temperature
+over its entire surface. A copper-constantan thermocouple has one junction im?.wdded in
+each of the blocks and by-means of a Leeds & Northrup type 2,400 galvanometers serves to
+indicate the dif!%rencein temperature between the two blocks. The absolute temperature of
+either block is immaterial and is not measured. The galvanometar which has a sensitivity
+of 5 microvolt per division and a resistance of 190 ohms has been found very satisfactory for
+this purpose.
+METHODSOF USE.
+Starting with the two blocka at the same temperature the spark is passed in block A for two
+minutes and the magneti is then stopped for one minute to alIow the temperatures to equalize.
+At the end of this third minute, the galvanometers is read and the magneto again started for
+another period of two minutes continuous run. This process is continued until five or six
+readings have been obtained. These galvanometers deflections are then plotted against time,
+giving a curve stillar to the ones shown in plot 4. This curve is then superposed on the set
+of sirdar curves obtained at the original calibration of the “instrument, and of which plot
+3 is an example, and the average watti corresponding to the observed curves are read ofl directly.
+The heat energy per spark is then computed from the formula
+joules per spark =
+
+watts X60
+sparks per rev. x r. p. m.
+
+Before starting a second measurement, it is necessary to COO1
+the chamber ~ to the
+temperature of the block l?, but this is quite easily done by moistening it with alcohol and
+allowing this to evaporate.
+The advantage: of this somewhat complex s&wn &e that a n&bar of gaIvanomctcr
+readings are obtained so that the results are not vitiaied by a single error in reading, and the
+pauses bet ween runs ensure that the temperatures are fairly equalized throughout the block.
+The time for the entire run is approximately 15 minutes. k cases where the cibipation of
+power is in excess of five watts, it is more convenient to use a cycle consisting of one minute
+running and one minute equalization.
+It is, of course, possible to make a single continuous run of 5 or 10 minutae’ duration and
+take a single galvanometers reading at the end of that time, and accuracy of 10 pcr cent or
+better can be obtained with such a procedure, It is a~so probable that apparatus of this
+general type might be constructed with mercury thermometers instead of a thermocouple
+and thereby avoid the necessity of using a sensitive galvanometers.
+CALIBRATION.
+The calorimeter is calibrated by the use of a coil of resistance wire, which is shown in
+figure 1. A known amount of enery is dissipated in this coil using the same cycle of operation
+as is done in measuring the spark energy and the curves of galvanomet.er deflection against
+time are plotted as in plots 3 and 4. Since the heat is added at the same rate as in tho actual
+operation, this method of calibration eliminates any error due to 10SS of heat from the
+calorimeter. The calorimeter has approximately a heat capacity equal to that of 40 grams
+of water, so that the temperature rise corresponding to 1,000
+joulessabout 6° C!.
+i
+q
+
+HEAT
+
+ENERGY
+
+OF VARIOUS
+
+IGNITIQN
+
+5
+
+SPARKS.
+
+le.
+
+Secfion ?%ru50mb-A
+.-
+
+.
+
+111”
+
+3.
+
+!511
+
+la
+
+1
+
+F.
+=
+
+?&--— ——
+F
+
+= _——..
+=
+
+~
+
+——*
+
+———
+
+.
+
+~
+
+~—
+~
+
+,
+b ------------------
+
+.=
+
+—~-a
+——
+—
+
+-.
+———
+
+———
+—
+
+.
+
+—.-
+
+—~—
+—_——
+_
+
+___
+
+—
+-—
+
+--
+
+.
+
+~
+
+——
+——
+
+..’.
+
+..
+
+.—
+-.-~~,
+
+=-—
+
+——
+
+:_
+
+.
+
+.
+
+. .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+. .
+
+—
+——
+
+—
+
+—_
+
+—
+.
+
+Fig, 2.
+
+v
+
+..
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. .
+
+.
+
+.
+
+.
+
+.
+
+..
+
+.
+
+.
+
+. .
+
+.
+
+.
+
+6
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+I
+
+c-
+
+,
+
+P’omdif.
+
+23+567;
+Tke in#7Awfes
+I
+
+f
+
+I
+
+I
+
+I
+
+I
+
+I
+
+q
+
+16
+
+I
+#E.4TPERSPARK
+
+.14
+
+i90SChf”%.AGAET0
+{Co@fumedmFb?eJ
+ZH6-Z058893
+“ Type
+
+./2
+
+<
+
+Advonced
+
+6 Cy/ “
+
+Z SparkspwRev
+
+ii .10
+g
+$@,
+
+J
+
+Q
+$ .ffd
+i
+-1 ,&
+
+.82-
+
+D
+
+f70iNo.5
+
+(f5u
+
+I’m!??
+
+m
+
+Revolui+>nsper
+
+Zw9
+
+Minufe.
+
+.2ffw
+
+&wt
+
+Jua9
+
+I
+
+I
+I
+
+HEAT
+
+ENERGY
+
+OF Vi4RIOUS IGNITION
+
+SPARKS.
+
+7
+
+SOURCES ERROR.
+OF
+As mentioned above, the heat losses from the calorimeter are compensated for by the use
+of the dummy chamber and the method of calibration. Another possible source of error is
+conduction of heat through the high-tension lead which i: thermally insulated from the block
+by the glms bushing. ~is has been investigated by making use of the fact that-if “sparks
+of the same polarity are repeatedly passed through a gap, one electrode becomes much hotter
+than the other. Measurements were made on a system giving this constant polarity, both
+with the high-tension electrode as anode and later as a cathode, and no difference in average
+energy was detected. This indicates that the heat loss through the high-tension lead, even
+when t-hehigh-tension terminal is much hotter than it becomes with alternating sparks, causes
+no appreciable’ error.
+The passage of the spark through the air causes a formation of oxides of nitrogen and
+nitric acid in the chamber which have some tendency to corrode the interior., Computations,
+however, show that the energy involved in these chemical reactions is entirely negligible in
+comparison with the’ heat, energy dissipated. The change in volume of the gas, due to this
+chemical “reaction, does “not enter into the measurements with this apparatus as it does when
+an air thermometer is used.
+The standard length of gap 2.1 mm, (0.082 inch) was chosen for this work because measurements with a crest voltmeter showed it to have the same breakdown voltage as that of an
+average spark plug in a high-compression engine cylinder. What is still more important, the
+voltage drop across the terminals while the spark continues to pass is also substantiality the same
+as that occurring in an engine. This sustaining voltage is th-e principal factor in determining
+the rate of dissipation of energy and, consequently, the duration of the spark. Since the voltagea above,mentioned were ~easured w,ith the gap in continuous operation, they include the
+effect of any accumulated ionization in the chamber, and therefore the fact that the gap is not
+ventilated is n!ot an objection, but is, indeed, essential to the measurements for only under
+these conditions are the initial and sustaining voltages of the calorimeter gap the same as
+those obtaining in the average aviation engine.
+It is believed that the results obtained with this apparatus and procedur6 may be relied
+upon to 5 per cent, and after the apparatus is once calibrated a determination can be made in
+about 15 minutes.
+TYPICAL
+RESULTS.
+Plot- 5 gives a typical curve of the results obtained “by this method on a shuttle core
+magneto at different speeds. The particular curve shown represents the performance of a
+Bosch Type Z-H-6 taken from a captured German airplane, and is quite-similar to other highgrade magnetos. Battery systems usually give less heat, ranging from 0.01 to 0.03 joules
+per spark.
+159753-20—2
+
+-.
+
+-.
+
+.-
+
+,.
+
+.
+. ...—. .
+.— ~.
+—.
+.. . . .
+,.
+
+....
+
+.,
+
+. ..
+
+. .....
+
+~EPbRT No. 56.
+.. .’, -’:
+”: ----. ,,.
+.. ...
+PART”i. ‘ :
+I
+
+—.
+.:-- :-.--..:>. ----.
+
+,-.
+
+:
+
+.-
+
+.,.
+. ... . ...4—_
+.
+
+..... .
+
+.
+
+MEASUREMENT OF HEAT ENERGY PEIt SPARK OF VARIOUS IGNITION SYSTEMS.’
+-.
+,.,
+BY F.”B.
+
+..
+
+SILSBEE and E. L FONSECAO
+
+.:
+
+“ -.
+
+.
+
+..
+
+.. . . . .
+.
+
+.
+
+,.
+
+‘R@JMl%
+The duty of an ignition system is to ,produce detitely and reliably in the eng~~$cylinder
+)a.spark sufficient y energetic to,gause the rapid and certain cornlmstionwofth,q,,pTplosivemixture,
+T1.& re~ort Qiv& the .Iesidts of direct measurements in absolute units of ‘&e total heat
+... .
+.
+supplied to a spa~l~gap by i~nition- systems of different types operating at various speeds under”’
+.
+conditions substantially. equivalent” to, those. in” the. cylinder of a high-compression aviation
+... .. engine, Values- ranging from 0.16 joules (0.00015 B. t. u.) per. spark in the. more powerful
+magnetos to 0.03 joules (Q.00003 B. “t; u,) iq “the c~e ?$ a battery system are recorded.
+., ,The ~ctual igniting pow%rof a spark depends on &any factors which are at. prtiimt little
+understood, and”the total heat energy is by no means a direct measure of. thk ignit&g ppwer.
+It does, however, give ‘an iqdex of the total power output of each type of machine, and forms a
+basis for a study of the effect of various. features of design upon this outputi Besides the
+systematic data given. in the curves on plots 1 to 16, inclusive, and Table 1, adtltional rueasurements were mti~e which :showed that a“condenser connected “h, parallel with the spark gap
+&ld not ailect the.heat liberate.cL The heat was also found }0 be indepemlent:of the gap length
+until this becomes so ‘short.that the spark lasts until the closing of the b~etiker, I?or still shorter
+gaps the heat dissipated becomes less.
+
+: :“-.,.,..
+..-:-:‘.
+
+__,r.....-.’
+.
+
+‘
+
+........ . . _
+.
+
+.
+
+INTRODUCTION.
+
+—
+
+. # When a spark discharge from an induction coil or high-tension magneto passes. though a
+... - ... ....
+.
+ga~; a v~ry appreciable amount of electrical energy”is liberated which is rapidly dissipated as ‘“
+heat in the &as and fxr sorne”:bxt%rit@ the elec~odes, - This heat energy is derived from the
+c
+electromagnetic energy stored in the-windings before .$he pas:agc! Qf$he-spark aid the amount
+of this energy is to that extent a measure of the #fecti~eness of the “de<Iceas an electric gene“:
+rator. Very l.i~tleis known as to the detailed sequence of. mvmt.s..by which the gas is ignited,
+and it. is unde@m@ne’i!whether the ionization~’which is always present) is an essential factor ,
+or whether the process is merely a therinal effect. due to the high temperature resulting from
+the rapid dissipation of a relatively large amount of energy in a sma~ space.
+Recefit, experiments indicate that the total amount .of egergy ~equired to explode ?.gaseous
+““
+mixture (approximately 0.002 ~
+joules) is much less th~ that supp~ed by evem a-very weak
+ignition system of the .couventional type. It is probable, however, that casee of fm.ilty’carburetion, where ~
+drops Offuel mtt~t-be vapofized by the spar!% requ:re a discharge of very appreciable heat content. In such cases the. larger volyme and the longer dyration of the hotter
+. -. . ..
+.,. .
+spark am also of value.
+This report contains. the resulti Of calorirnetfic fi-easru%jnefit!~ the ggergy content of
+of
+the sparhcproduced under standard co~ditions by various types of Ignition systems. The data ““
+1“ThisReport wae con.ddentkUy oiroulated du@!
+
+. . .. . .
+‘”=
+
+the war F+BUWU of Stmdards AeIoDauiio ~owar Piant~-”Repoit NO. 13.’
+
+...
+,..,, . ... .
+--T
+
+.=
+
+9
+
+*.
+.
+
+,--
+
+10
+
+_——
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY C!~
+
+‘FOR “AEiiOl%AUTItJ3.
+
+are of value both as a general index of the power of_each machine for comparative purposes
+and also as a basis for the more oomplete study of the effects of various features in design upon
+the delivered energy of &ma=weto.
+Regular runs were made on 15 magnetos and one battery system for total anergy output,
+the energy being measured on a specially constructed calorimeter described in a later paragraph.
+Observations were taken on the magnetos at speeds up to 3,5oo revolutions per minute. Preliminary measuzemente have dso been carried out to determine the effect of spark length and
+other variables on the total energy,
+METHOD.
+The calorimeter used is fullv described in Par&I of this report and consists chiefly of two
+hollow copper bombs of appro~mately the same shape and volume, suspended by means of
+hard rubber posts im a dead-air space. The spark is made to pass between nickel aUoy spark
+points in the interior of one bomb and the rate of rise of temperature of this bomb over tho
+other is measured by means of a thermocouple and galvanometers. Previous calibration with
+a known heater resistance and direct current provides means for dete mining the constant of
+the apparatus.
+In the regular rune a standard spark length of 2.1 mm. (0.082 inch) between flat surfacea
+1.5 mm. (0.059 inch) in diameter was used. ThiB gap was chosen because it was fotmd by
+measurement to ha-re the same breakdown voltage (about- 6,000 volts) as that of a 0.5 mm.
+(O.O2O
+inch) gap between spark-plug electrodes in a l&h-compression aviation engge. I?nrthermore the voltage required to sustain the arc across these electrodes is approximately the same
+as that of an operating_ylug. Consequently the rate of dissipation of energy and the duration
+of the spark are sub.%ntidly the same as in act,ual practice. A more detaikd description of
+this method is given in J?ari 1’of this report.
+REGULAR
+
+RUNS.
+
+The principal features of each of the systems tasted are tabulated in Table 1, and the
+observed values of heat energy are plotted again..t maggeto-driving shaft speed in plots 1 to
+16, inclusive. Where the magnetos were provided with variable spark position, the messuremente were made at full advance. The data from these plote are summarized in TabIe II.
+Column 111 gives the average joules per spark over the range from 500 to 2,500 revolutions
+per minute of the ma=~et.os; coiumn IV gives the maximum joules per spark, and column V
+the speed at which this maximum occurs; column VI gives the joules per spark at the speed
+required for operating at 1,5oOrevolutions per minute a 4-cycle engine of the number of cylindem
+for which the magneto is designed; column VII gives the joules per spark at the speed at which
+the system is delivering 100 sparks per second.
+TABLE I.
+
+—
+
+pot
+
+DMributrm
+
+Name.
+
+Modeland Serfal No.
+
+Amaricen Bosch. . . . . . . . . . . . . . . .
+Berkshire M-hand).. . . . . . . . . .
+;errhhJra o~t-hand) . . . . . . . . . .
+J
+S: E: V: No:2::::::::::::::::::
+Berllm& . . . . . . . . . . . . . . . . . . . . . . . .
+,. . ..do . . . . . . . . . . . . . . . . . . . . . . . . . .
+Lencke . . . ... . . . . . . . . . . . . . . . . . . . .
+
+ZR-6,2J331035 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+..
+8sD-4F, mWkl . . . . . . . . . . . . . . . . . . . . . . . . .
+. . ..
+8SD-2F 611&.. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+H-3 34{67 .. .. . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+.
+H-6’27425. .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D6f X2,65214 . . . . . . . . . . . . . . . . . . . . . . . . . ..DSIX’2,65914 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.... ........................................
+
+Amerkan.. .. . . . . . . . . . . . . . . . . . .
+.
+
+----
+
+. . ..
+
+f
+
+.... .. . ... .... . .... . ... . ..... . ... ... .. . .. ...
+
+;einex (lmg cams) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . 300-19235,
+A-1432 . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+SU-6, A-21174L. . . . . . . . . . . . . . . . . . . . . . . . . . .
+$%#&&&&jJ:::::::::::
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+.
+
+Type.
+
+Brush .. . . . . . . . . . . g;b$ .
+. . ......
+Jum
+. . . . .to-::::::::::::
+. . . ..do . . . . . . . . . . . .
+Brmh . . . . . . . . . . . . I SIoare. .. . . . . . . . . . .
+.
+. . . ..do . . . . . . . . . . . . . . . ..do . . . . . . . . . . . .
+. ..-.do . . . . . . . . . . . . Shuttle . . . . . . . . . . .
+mm . . . . . . . . . . . . . . . . ..do . . . . . . . . . . . .
+Bnrst . . . . . . . . . . . . . . . . ..do . . . . . . . . . . . .
+.NGL
+. . . . . . . . . . . . . ..do . . . . . . . . . . . .
+. . . . . . . . . . . . . Inductor.. . . . . . . . .
+Brush. . . . . . . . . . . . . . . . ..do . . . . . . . . . . . .
+. . . ..do . . . . . . . . . . . . Shuttle . . . . . . . . . . .
+Mlrla- . . . . . . . . . . .
+.
+hrductor . . . . . . . . . .
+
+. .. . . . . . . . . . . . . ..—. . . . . D.-51fKMrw2,Delc . . . . . . . . . . . . . . . . .
+o,26736.
+Brush . . . . . . . . . . . . . coil . . . . . . . . . . . . . . .
+Gernian, Bosh . . . . . . . . . . . . . . . . . zH6,2fms!3% . . . . . . . . . . . . . ..’ . . . . . . . . . . . . . . . . ..&.. . . . . . . . . . . Shuttle . . . . . . . . . . .
+............. Inductor . . . . . . . . . .
+B, T. H . . . . . . . . . . . . . . . . . . . . . . . . A V-i2g, 67531 . . . . . . . . . . . . . . . . . . . . . . . . . . . Jump
+.
+q
+
+Sparb
+
+?.hrn&bor
+
+per rewlutkm. cyltndore.
+
+~
+
+~
+
+i
+
+6
+a
+
+2
+9
+
+2
+4
+4
+;
+
+12
+2
+4
+
+8
+
+4
+(1:)
+
+(;$
+:
+
+..-.
+
+.
+
+‘1
+.
+,,
+
+#
+
+_
+
+.16
+
+_
+
+_
+
+_
+
+.14 ..12
+:
+Qfo *
+b
+R
+9
+$06
+3
+
+~
+
+-
+
+k
+
+.#
+.4?
+
+0
+xv
+P/et No.5.
+
+I#o
+
+20(?0
+2500
+/s00
+Revolufionsper
+#/mufe.
+
+3000
+
+300
+
+H&T
+
+.18
+.
+
+P:~.SPARK
+
+./8
+
+AMZRICAIVMAGNETO
+
+_ shuflle fype
+8 Cyt
+7ii77&9 I%w%on Fixed
+
+./6
+
+./6
+.14
+
+,14
+4
+J#z
+
+4 .fz
+&
+
+*
+~ .10
+
+{
+
+“
+
+‘%
+~
+
+x
+
+t
+6.08
+
+L
+
+Q.98
+
+*
+a
+
+u
+
+$
+>.&
+
+-
+
+3
+&
+
+.44~,.02
+
+.02
+,
+
+o
+
+w
+
+‘J
+
+/wB
+
+fievolufions.oer
+
+P/of flo, 9
+
+Miiufe.
+
+SPARK
+
+HEAT P~;
+
+J@
+
+W
+P/oI’No. /0
+
+/Q@
+
+/YZ%
+/?evo/uf/on5
+
+HEA TPER
+
+18
+
+NEWD/X/EP%A&UETC?R.fi
+.16
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+.16
+
+- .z%%:?%z%%@8c”’
+
+@e
+
+4 .12
+&. —
+
+—
+
+—
+
+*,,@
+
+—
+/
+
+k
+~.06
+$
+346
+*
+.04
+
+—
+
+~
+
+—
+
+—
+
++
+
+—
+
+A
+
+} (
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
++
+
+>
+
+I
+
+_
+
+>
+<
+/
+/ _
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+.02
+0
+P/ofho./l
+
+xv
+
+/m
+
+.zm
+@ev%%ons
+
+36W
+
+3500
+
+&%M{i7gfd.
+
+I
+
+I
+,.
+
+3000
+
+SPMK
+
+SIA4MS 0GAGNE70
+W%5.
+A-21)741
+4 Cyk
+f r.,//. . ““ .-, ,. C”.
+-.., a4. .--fie-
+
+i
+
+.#
+
+Z..u
+Zao@
+per Af;nufe.
+
+I
+
+I
+
+I
+
+I
+
+‘1111
+
+m.
+
+.
+H~TI%L5EARK
+
+.fb
+
+HD~V~AAmViZ~
+.M —
+
+—
+
+—
+
+—
+
+—
+
+—
+
+-
+
+/2 cyL
+fully
+
+/fdVOf7C@ef.
+
+&
+J+
+~ ./0
+t
+.&? —
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+-
+
+$
+j
+
+.46
+
+/ <
+
+.4$
+.42
+
+0
+
+m
+AJof No. /3.
+
+/m
+
+mu
+Revo/ufion .c&z%ufe.
+
+.??@
+
+Jaw
+
+3SLV
+kd
+Id
+
+.
+
+..
+HEAT
+
+ENERGY
+
+OF VARIOUS
+!
+
+IGNITION
+I
+
+15
+
+SPARKS.
+
+.,.:...
+
+HEi?TP~/SPARK
+BOSCH MAGNETO
+_ TypeD6 of 800R#-i
+
+6FWA
+
+on J/rig/e gup -no .fnergize~
+./2—
+
+~“f’
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+“
+
+$08
+~
+Q&f
+e
+4.04 “:
+>
+
+02
+.
+
+.
+
+J
+
+Iv
+
+III
+
+I
+Y
+Plot
+
+jo+&$:?%
+Magneto,
+
+revokr~ions
+permirmte.
+
+Joa~y#e ark”
+Speed et
+MmfRmrn
+maximum
+;;O&$;:
+%?%=!::
+Ioulee/spark. ouks/spark.
+.
+:pw%’
+
+I
+bwicu
+Bosch. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+BerksMre left-hand) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Berkshire [ rlghhhad) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+S. E. V. No.l . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+s. E.\'. No.2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . .
+Berlfng (Br.)
+Berllng (J) . .. . . . . . . . . . . . . . . . ..."......"..."..................".. . . . . . . . . . . . .
+. .."
+........................
+Lenoke . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+American . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+~i~~e(lmgwm)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . .
+sires . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...Hebze(ehort) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . .
+Liberty COil . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... . . . . . .
+.
+G.anBmch
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . .
+B. T. H . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+0.132
+.044
+.047
+.074
+.037
+.089
+;::
+. 0S3
+; g:
+.110
+.059
+.024
+.077
+.031
+
+0:;;:
+.062
+. C90
+.075
+.114
+.082
+. leo
+.120
+,103
+.108
+.141
+.075
+.030
+.100
+.033
+
+575
+900
+976
+,950
+1,000
+1,!%
+1,4:0
+1,~
+!3#
+Lowep~5$
+1,m
+
+I—.
+
+,
+10.123
+s .043
+
+1.030
+s .082
+s .070
+1.056
+1.052
+1.136
+:.062
+S.093
+1.089
+1.111
+S.054
+s .025
+1.2+3s
+S.022
+
+1Correspondingmagneto epeed, 3,W0revolutions per mfnut e.
+sCorrespondingma etospeed, l,500revolutions permkrute.
+sCorreepondingdfs F
+rlbutor speed, &.lOrevolutions
+perminute.
+
+Itwill be noticed that all the curves, with the exception of the Liberty battery and coil
+ignition set, have the the same gener~ Chmactwistic shape) rishg rapidly to a maximum value
+at some low speed—generally between 750 and 1,000 revolutions per minute-thm
+slowly
+decreasing toward higher_speeds. In practically every case a peculiar bend in the curve, which
+is shown very markedly in plot 1, is evident.
+The energy curve of the Liberty coil (plot 14) starts with its highest value at a very low
+speed and remains constant up to about 140 revolutions per minute. At higher speeds the
+primary current does not have time b build Up to its maximum value, which causes a decrease
+in total energy as the speed is increased, In order h-give a better comparison the coil system
+curve is replotted ss a dotted line to-correspond to the speed of rotation of a four-spark magneto.
+(The coil as operated gave 12 sparks per revolution.)
+SPECIALRUNS.
+Several different rum were made on ~ypicsJ yagnetos to determine the effect of (a) type
+of distributor; (b) condenser added h primary c~cult; (c) lmge number of secondary turns;
+(d) length of spark gap; (e) added secondary capacity.
+I
+
+““”
+
+16
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY CKMMITTEE
+
+FOR AERONAUTIC%.
+
+(a) A D-81 Berling magneto with demounfiable distributors was used to determine the
+effect of the jump-spark distributor as compared to the brush; plots 7 and 6 show the total
+heat curves of this magneto with the two types of distributor, respectively. Although tha
+general shape of the two curves is the same, the energy obtained with the jump-spark distributor is aboutr10 per cent less than that obtained with the brush over the whole range.
+(h) It is not definitely known whether the depressions occurring in all the curves are of
+electrical or mechanical origin, Plot 4 shows a tiery interesting point that was brought
+out on the curve for S. E. V. No, 1. A 0~5 microfirad paraffined paper condenser was put
+across the primary breker in parallel with the original condenser of about 0.2 microfarad
+in the magneto. This additional capacity did not abr the running condition se far as sparking at the breaker points was concerned, but the whole curve of heat energy, together with
+tbe position of the depressicm, was moved toward the origin by a definita amount. It should
+be noted that none of the maximum or minimum points in the curves was raised or lowered.
+(c) Plot 3, which shows the energy curve for a two-spark-per-revolut.ion Bcrksbire
+ma=-eto of the inductor type, is also of “hterest. T%ia machine gives four flux reversals pcr
+revolution, but the primary breaker cam is so..arranged that only two breaks are made per
+revolution, and, therefore, but two of the flux reversals are used. This magmto is wound
+with a very large number of secondary turns: and it was found that beyond 2,500 revolutions
+per minute, due to the large voltage of rotation generated in the secondary winding, four
+sparka occur per revolution. By leaving the primary circuit open, four sparks per revolution
+were obtained at all speeds above 2,500 revolutions per minute. This accounts for tho apparently increased heat per spark obtained at- the higher speeds. The Dixie 12-cylinder and the
+Heinze 12-cylinder ma=getos also generated sufficient rotation voh.ge to break down a 5-millimeter (0.2 inch) spark gap in air.
+(d) Plot 17 shows the eflect of increasing the calorimeter spark gap. Them runs were
+made using a type D-6 Dual Bosch ma=gneto, fhing all pointa through the distributor. The
+readings were taken at a constant speed of 800 revolutions per minute. The heat per spfirk
+increases in value up to a 1.2-millimeter gap, beyond which it stays practically constant. The
+slope of the curve toward zero is probably due to the fact that with small gaps the suetainhg
+voltage is low, the duration of the spark is correspondingly long, and the cIosing of the breaker
+quenches the spark before the full arnounti of available energy has been expended. Thd average
+secondary current also is larger with a short gap, and, therefore, the 12R lose is greater and
+the spark energy less,
+Plote 10 and 13 show the effect of the length of cam (i. e., the angle during which tho
+primary breaker is heId open). IrI plot 13 the breaker closes before the spark has had time
+to dissipate all the availa.ble energy. This both decreases the fraction of tho total stored
+energy which is Iiberated in the gap and also interferes with the building up of current for
+the next spark, so that the available energy is also reduced. In plot 10 a simjk magneto
+with longer cams, which prevent this interference, shows nearly 50 per cenb greahr spark
+energy.
+Several runs were made at constant speed on the 130ich D-6 magneto, with a condenser
+of 0.0017 and 0.0034 microfa.nd capacity placed across the calorimeter gap. It was found
+that this caused no appreciable change in the total energy of the spark, but the discharge was
+changed from a more or 1sss flaming arc to a snappy white spark.
+
+WAEEIXOTOti : QOVXENbl~NT
+
+PlllNTI
+
+M
+
+WrI~
+
+: lSIO
+
+.-
+

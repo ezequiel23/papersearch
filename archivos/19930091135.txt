@@ -1,0 +1,927 @@
+-
+
+62
+
+.---~
+
+CASE
+REPORT No. 74
+
+r..~~
+
+CONSTRUCTION OF MODELS FOR TESTS
+, IN WIND TUNNELS
+2
+
+11
+
+4~
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+A~~O~f~IJTtr~
+
+WASl:!lNGTON
+GOVERNMENT PRINTING OFFICE
+
+1920
+
+Q Q07
+
+4
+
+REPORT No. 74
+
+CONSTRUCTION OF MODELS FOR TESTS
+IN WIND TUNNELS
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+WASHlNGTON
+
+GOVERNMENT PRINTING OFFICE
+1920
+
+,-
+
+- --
+
+..~
+
+REPORT No. 74
+CONSTRUCTION OF MODELS FOR TESTS IN
+WIND TUNNELS
+BY
+
+F.H. NORTON
+
+144542-20-1
+
+3
+
+REPORT No. 74.
+THE CONSTRUCTION OF MODELS FOR TESTS IN WIND TUNNELS.
+By F. H.
+
+NORTON.
+
+INTRODUCTION.
+
+It is the general tendency of model makers, especially those who are used to working in
+wood, to undere timate the accuracy required in the construction of models for wind tunnel
+tests. In most pattern making an error of a hundredth of an inch is of no importance, but if
+this error occurs on an aerofoil, the model is valueless for testing purposes. The model maker,
+however, is not always to blame for the errol' in the model, for the e are often due to inaccuracies
+in laying out the drawing of the model to a mall scale. Also models that are not of the proper
+size or weight are difficult 01' impossible to test. For these reasons a large amount of time and
+material has been wasted in constructing models, perhaps well fini hed, but unsuitable for
+wind tunnel experiments. It is the purpose, therefore, of this report to describe the methods,
+materials, and sizes that have been uccessfully used in this work.
+TYPES OF MODELS.
+
+The type of model most tested in wind tunnels is the single aerofoil of standard size, for the
+purpose of determining the aerodynamic properties of a certain section.
+ingle wings are also
+tested with varying a pect ratio and plan form, and biplane and triplane combinations are
+often tested without body or struts. The wings, whether tested alone or on a complete machine,
+require the most careful reproduction of any part of an airplane. If the aerofoil i thin it
+should be con tructed of a light aluminum alloy, as thin wooden wings will not hold their shape,
+no matter how carefully made, and it i difficult to fasten a pindle into the end. Thick models
+like struts and propeller sections, however, are best constructed of wood. Metal aerofoils should
+be constructed to within 0.002 inch of the given ordinate, and wooden ones to 0.004 inch.
+The angle of incidence should not vary along the wing more than 0.1 of a degree, but a slight
+curvature along the span of the wing, giving an effect of dihedral or kathedral angle, doe no
+harm. Unless a wing is intended for a special test, such as a pect ratio, it should always be of
+standard size to insure strict comparison between different ections. In 4-foot tunnels a
+section 3 by 18 inches is used, and in larger tunnels corresponding izes. Whenever possible the
+wing should be held by an end spindle, threaded directly into the end of the wing if of metal,
+one-third of the distance from the leading edge. (Fig. 1.) All standard aerofoil should have
+square ends and an aspect ratio of 6.
+Bodies, floats, and hulls are made of wood and need not be as accurately con tructed as aerofoils. The maximum error, however, hould be kept within 0.02 inch on large models and
+0.01 inch on small ones. The spindle i usually attached to the body by cre"ring it into the
+wood, the spindle being made with a wood screw point. If the model i bulky it should be
+made of a light wood, hollowed out to reduce the weight, as every pound added to the model
+means an addition of about 3 pounds to the weight on the pi,oL poin t, for 2 pounds mu t be
+added to the lower part of the balance in order to keep the center of gravity tationary.
+A complete model should have a pan of about 1 inche (not more than 21 inches) for a
+4-foot tunnel, and weigh not more than 3 pound. It mu t no t, hm,e,er, be lightened in uch
+a way as to cl1use deformations at high velocities. The wing~ should be correctly aligned in
+5
+
+.'
+
+6
+
+ANNUAL REPORT NATIO
+
+AI.. ADVISORY COMMITTEE FOR AERONAUTICS.
+
+incidence, stagger, sweepback, and dihedral within 0.1 of a degree. The stabilizer should be
+easily adjustable, and a line hould be marked along the propeller axis on the side of the body,
+in order to facilitate lining the model in the tunnel. It has been usual to attach the spindle
+directly to the body of the airplane a sho,'Il1 in figure 2. Thi type of spindle, however, creates
+a large disturbance of the air flow that is hard to correct for, so that it seems better, whenever
+po ible, to attach the spindle to the tip of the wing. (Fig. 3.) Model should have stream
+lined struts, but the wire are usually omitted, and unless the model is to be used for stability
+tests the control surfaces need not be movable.
+Model propellers are so similar to the full-sized ones that little need be said in regard to their
+construction. They should have the same degree of accuracy as wooden aerofoils.
+MATERIALS.
+
+The materials used in constructing these models should be light and capable of holding their
+shape. Thin parts like struts and wings are best constructed of metal, but the other parts are
+usually made of wood. Wings can be made of pure aluminum, but this material is rather soft,
+and better results are obtained by using a harder alloy having
+better machining ·properties. Magnesium cut easily and
+smoothly and is considerably lighter than aluminum, but at
+pr.esent is hard to cast without blowholes. . Perhaps the best
+alloy for this purpose is the very common one with 8 per cent
+copper and 92 per cent aluminum. If it i desired to construct
+a wing of great permanence for a standard, or for tests at high
+speeds, it should be cut from steel, but this is at present a
+
+FIGURE 1.
+
+FIGURE 2.
+
+FIG1IRE 3.
+
+rather expensive process. An aerofoil for pressure distribution tests is best made of brass,
+because of the necessity of using solder. Wings of a more or less temporary character can
+be made of plaster or wax as described later.
+Wood to be used for thick wings and bodies should be well seasoned and clear. As the
+expense for material is very small compared with labor expense, only the highest quality stock
+should be con idered. The wood for aerofoils need not be light, but rather hard and close
+grained, uch as maple, beech, boxwood, or holly. The maple is the easiest to procure and it is
+quite satisfactory when the stock is elected.
+WOODEN AEROFOILS OF CONSTANT SECTION.
+
+The process of making a 3 by 18 inch aerofoil will be described, the method, however,
+applying to any size of wing. This process h as been successfully used for several years by Mr.
+Edward Tighe, model maker for the Massachusetts Institute of Technology. It should be
+remembered that, althouO'h wood can be worked to a very thin section, it will not hold its shape
+unless of considerable thiclmess, and the use of thin wooden aerofoils is not to be recommended
+.
+where any permanency is desired .
+A i-inch board of well-seasoned maple is cut along the grain into narrow strips that are
+planed i-inch wide. Every other strip is reversed and ten i -inch strips placed together with
+two face strips ~-inch wide. This reversal of strips eliminates any tendency for ·the blank
+to curl, as each strip pulls in the opposite direction from its neighbors. The strips are placed
+in a drying oven and heated to about 100 0 C. , spread with hot glue, and clamped together,
+
+rIo
+
+1
+
+)
+
+oi
+Cl
+
+u.
+
+I
+
+l~ ______
+
+CONSTRUCTION OF MODELS FOR TESTS IN WIND TUNNELS.
+
+7
+
+with heavy blocks on each side so that the total length will be under even pressure. The blank
+is left in the clamps for from 12 to 24 hours. It is then allowed to age for a few· week to take
+up any initial warp (fig. 4). As the hardened glue, adhering to the faces of the blank quickly
+dulls edge tools, it should be removed a far as po sible with a glue craper.
+Both faces of the blank are now made fiat and parallel on a planer. It is of the utmost
+importance in this work to keep all tools sharp, and the importance of always remo,ing the
+same amount of material from the opposite face of a piece of stock should also he emphasized,
+for if this is neglected the material will always curl toward the face from which the larger
+amount of stock is removed. When hoth face are true one edge is squared up on the planer
+and the ends are trimmed off on the circular saw, making the blank ready for cutting to the
+desired section.
+An accurate outline of the desired section is drawn with India ink on white paper on a
+15-inch or a 30-inch chord, using a medium fine line. This drawing is carefully stretched on a
+board and photographed on a process plate to a 3-inch chord. If this negati,e is printed on
+contrast paper a fine black line should result on a white background. The error in length of
+the reduced section should not be more than half a hundredth of an inch, which may require
+several trials in focusing. The print is trimmed and fastened to the end of the blank, pref(Fio-. 5.)
+erably with vegetable glue.
+A saw table is et up with a sharp, rather wide, rip saw, hollow ground but having no set.
+The trued edge of the blank i placed against the saw guide and a light cut is taken along one
+face of the wing, and the depth is gradually increased until the aw just touches the black line
+on the photographed section. The guide is
+moved along about the width of the saw and the
+cut repeated, with a proper depth to touch the'
+section at the new point. A magnifying glass
+is useful to accurately gauge the depth of the
+cut. After a few cuts have been made in this
+FIGUlIE 7.
+manner the blank is turned over and the same
+operation is repeated on the back, in order to prevent warping. This process is continued until
+all the wood has been removed except a few ridge to support the blank on the saw table.
+These ridges are now remo,ed and the blank i ready for trimming. (Fig 6.)
+The wing is held down to the bench by brads in the end and the irregular faces are wedged
+up in order to prevent strain as shown in figure 7. The terraces left by the saw are carefully
+planed down with a fine set plane until the grooves just di appear. A convex plane is required
+for concave surfaces, but should he sharp and set fine, as the maple may be somewhat crossgrained. The surface is next scraped with steel or glass to take out any lumps, is rubbed down
+with fine s(Llldpaper, and the leading and trailing edges rounded off. Alter the ends of the
+wing are squared oir to the proper length, the surface is filled, given two coats of shellac, and
+rubbed down with pumice. (Fig. .)
+If this work is done carefully, the aerofoll wiil nowhere ha,e an error of over 0.005 inch
+and the avel'l1ge error will be much smaller. It should be noted that any number of wings
+of the same section may be cut from one photographic ection by running several blanks
+through the saw at each setting, care being taken to ha,e the blanks of the same thickness.
+
+~
+
+I
+
+WOODEN AEROFOILS OF VARYING SECTION.
+
+Wings that do not have a constant section are much more difficult to construct than the
+usual type. They, may, of cour e, be worked down by template in the same way as a propeller blade, but as this is, at be t, a rather long and inaccurate proce s, a special machine has
+been developed for this purpose. The principle of this machine consists in guiding a revolving cutter along a predetermined curve by means of an adjustable template. A general view
+of the machine is shown in figure 9 and 10. An iron bed plate (a) is mounted on the cro s
+feed of an engine lathe, the overhanging ends steadied by guides (K) which rest on the way,
+but allow the wing bed to be moved laterally and longitudinally in the same way as the tool
+
+8
+
+FOR AERON AUTICS .
+ANNUA L REPORT NATION AL ADVISORY COMMI TTEE
+
+A brass bar (b) is fastene d
+post. The wing blank (1) is scr('lwed to the surface of this bed.
+1 inch on centers. These
+to the front of the bed plate, and carries 25 microm eter screws spaced
+th gear pinned to the lower end.
+screws are i -inch, 40 threads , with a spheric al top and a 50-too
+
+h
+
+f
+
+Machine For C" tCing Mode l AfJrofoil.s.
+
+\' --
+
+o
+
+0
+
+9
+FIGURE 10.
+
+te, a direct readin g counter
+In order to make the setting of so m any screws quick and accura
+saved much time and many
+was geared directl y to each one as hown in figure 11. This device
+
+1M,
+
+Ol'eration of Cutl er
+FIGURE 11.
+
+FIGURE 12.
+
+A steel spring (c) rests
+mistak es, for 410 settings are required for each surface of a wing.
+guide for the sho e Cd), which
+on the rounde d tops of the screws, formin g a smooth adjusta ble
+). A spring i -inch wide and
+has the same radius of curvat ure as the cutter radius C3-inch
+
+\
+
+!
+
+j
+
+I
+
+~
+I
+FIG. 13.
+
+FIG. 14.
+
+I
+
+I
+
+\
+I
+
+I
+!
+
+FIG . 15.
+
+9
+
+CONSTRUCTION OF MODELS FOR TESTS IN WIND TUNNELS.
+
+0.038-inch thick was found best suited for ordinary work. A frame (h), pivoted at (i), and
+holding the ~ -horsepower motor (j) allows the cutter (m) to move only in a vertical direction.
+The cutter is made to follow the curve of the spring by the guide Cel), which rests lightly on
+it. This is adjusted vertically by the screw (e) for cutting wings of uniform section (when
+the spring is horizontal) and for setting the cutter to the proper height after sharpening. For
+cutting wood a two-bladed cutter i -inch wide is driven at 5,000 revolutions per minute by
+a belt directly from the motor.
+The material best suited for making models that are tested soon after completion, just as in
+the case of thick wings of uniform section, is laminated maple, and the blanks are made up in
+the way described for such wings in the preceding section of this report.
+
+-------9'~
+/'
+
+----,
+
+,I
+
+"" \
+
+\
+
+\
+
+J
+jf
+
+,~~----------~l,~c~----------------~!4l-9-----;
+I
+
+MtT/l.OO ·o rCt/TTIlIC WINGS WITH VARY/N6 CHORd
+ANO
+
+STRAIGHT i.lNE5
+
+WITH
+
+F,!;O/lf
+
+CENTER
+
+TO
+
+TIP
+
+FIGURE 16.
+
+The blank is screwed down to the base plate with 5 machine screws and the back is cut
+by starting t inch from the leading edge of the blank and taking a cut across with the micrometer
+screws set for the first row of ordinates . The wing is moved laterally to the next position,
+and another cut taken. (Fig. 12.) This is repeated until the whole surface is cut. Three or
+four ridges should be left on the back of the \ying in order to support it evenly when cutting the
+other face; also a groove should be cut for the spindle. The blank is then turned over and cut
+in the same manner on the other ide. The surface is then an even set of terraces (photographs
+of the blank in this condition are shown in figs . 13 and 14).
+A wing of constant section is made in the same way except that the steel spring is kept
+horizontally on the bedplate and the cutter is adjusted in height by the screw (e) . This
+requn:ed only one-twentieth of the settings used by the varying section wings.
+Figures 15 and 16 show an attachment for cutting wings with a varying chord and straight
+lines from an ordinate at the center section to a corresponding ordinate at the tip. The guide
+144542-20-2
+
+10
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+rests on the straight bar (c), as only one-half of the wing can be cut at a time. The blank is
+screwed to the pivoted base plate (b) swinging about its axis (h). It will be noticed that the
+intersection of the leading and trailing edges prolonged (i) is opposite the hinge (g). With
+this arrangement it is only necessary to set the ordinates for the mean chord, as the others
+are automatically obtained from these by swinging the tip of the wing in the opposite direction
+from the movement of the cross slide when setting the cutter for the mean chord. The scale
+(e) is used to determine this distance. Wings having curved contours and tapering plan form
+can also be cut, but require a large amotmt of computation.
+When the section is completed on the machine,
+the ends are trimmed off, allowing a little extra length
+to prevent rounding off the corners. The wing is
+clamped down on a block of wood and the terraces
+are planed down as described before. The plane
+used for this purpose should be small enough not to
+cover up the part worked on . The plane can be
+ground concave or convex to fit irregular surfaces.
+FIGURE 17.
+The surfaces are then finished in the manner already
+described for wings of uniform section. The spindle is now screv,"ed on, and any holes or errors
+in cutting are filled up with beeswax. (Fig. 17.) This may sound like a rather long and
+complicated process, but a wing can be cut and finished in 6 to 8 hours, a shorter time than
+that usually required to work out the ordinates.
+The ordinates for these wings can be scaled off from a drawing on a 30-inch chord to the
+nearest one-hundredth inch which gives the ordinates for the model to a thousandth inch .
+As this is a rather long process, it is best wherever po sible to make a single drawing and to
+proportion the ordinates of all sections to this with a slide rule.
+The advantage of this machine is that it cuts a wing from the ordinates and requires no
+small scale drawings or templates. The machine described was designed to cut wooden aerofoils, but there is no reason why a stiffer and heavier machine could not be used to accurately
+cut aluminum or steel wings of either constant or varying section.
+METAL AEROFOILS.
+
+The majority of aerofoils are best constructed of
+aluminum and very satisfactory ones have been made of
+this material by the following method. Steel templates
+are made to fit the upper and lower surfaces, from onesLxteenth inch tool steel worked by hand to within 0.001
+. -_______ .
+FIGURE 18.
+inch of the given contour. The two halves are fitted
+together as shown in figure 18. It is well to check the dimensions of the templates on a
+dividing engine before proceeding further. A block of aluminum, preferably rolled stock, is
+trued up on one side to a plane surface. This surface is then clamped down to the bed of a
+small planer, and the upper surface is planed down to within about a hundredth of an inch of
+the finished size of the wing. The upper surface is now worked down by hand with file and
+scraper, using the plane surface as a reference, until it everywhere fits the template. This
+must be done very carefully by a skilled workman, and requires considerable time (from 30
+to 100 hours). The lower surface is now worked dO'wn to fit the second template, using the
+upper template as a reference. In this way the wing is made straight and of uniform thickness.
+The ends of the wing are milled off square, and one end is drilled and tapped for spindle.
+This method should give a wing that is everywhere within 0.002 inch of the given dimensions .
+Another method, applying mainly to brass and steel wings, makes use of a milling machine
+in the following manner: A slab of rolled brass or steel is trued up on one face and soldered
+to a trued heavy block that is fastened on the bed of a milling machine. The cutter is set
+
+FIG. 24.
+
+FIG. 25
+
+f ' ,
+
+\
+!
+
+I
+
+.~
+
+.
+
+.:....-
+
+I
+
+1
+I
+)
+
+!
+
+FIG. 35.
+
+F IG. 34.
+
+11
+
+CONSTRUCTION OF MODELS FOR TESTS IN WIND TUNNELS.
+
+down until it just touches the lower block, and the edge of the wing blank is squared off. rrhe
+cutter is now moved inward 0.05 inch and raised an amount determined by a table of ordinatC's
+for the section. These ordinates are scaled off of a drawing to 10 times scale in the same way as
+for the wooden sections. A series of cuts are taken across the wing until the upper surface is
+completely formed, leaving two narrow ridges to determine the original surface. The blank
+is unsoldered from the lower block, and the cut surface is filled with solder or lead and fastened
+down to the block, with the other face up, taking care that the ridges on the cut surface are in
+firm contact with the block. The squared edge of the blank is now lined up carefully with
+the milling machine ways, and the second surface is cut in the same manner as the first. After
+unsoldering the wing from the block all possible solder is wiped off, and the blank is ready
+for finishing. This is done by filing down the terraces until the grooves have just disappeared,
+which should leave a smooth and accur.ate surface. This method requires no templates nor
+as much skill as the preceding one, but is considered unsuitable for aluminum wings, as this
+metal does not hold solder, nor can it be machined to the finished size without the danger of
+tearing.
+Brass wings can be cut with a one-toothed formed cutter, but it does not pay to mako a
+cutter unless several wings of the same section are to be made. It is also rather diiftcult to
+get a smooth surface with this typo of cutter.
+
+FlGURE 19.
+
+FIGURE 20.
+
+FIGURE 21.
+
+AB the wind speed in which aerofoils are tested is increased beyond 100 miles an hour
+it is necessary to use steel for models in order to prevent exces ive deflection of the wing.
+Although it has apparently never been tried, it is probable that some method could be devised
+for machine grinding steel wings on a surface grinder to a high degree of accuracy.
+OTHER METHODS OF MAKING AEROFOILS.
+
+•
+
+It is sometimes convenient to make aeroifols up in a quicker and less permanent manner,
+when they are to be used only for one test soon after construction. It is also desirable to be able
+easily to make a small change in some particular region of the wing without making a new model.
+The following methods have been used successfully here and abroad, but can probably be
+improved on by more extensive use.
+The following method is used for making complete aerofoils. Two channel-shaped metal
+flasks, with upper edges machined are fitted together with dowel pins, as shown in figure 19.
+Two accurate templates (positive) are made to the sectional form of the wing, with lugs at the
+end to fit on the flask and guides to keep it square. (See fig. 20.) The flasks are now filled with
+well-calcined plaster nf Paris that has been mixed into a rather thick paste. The templates are
+used as scrapers to roughly form the wet plaster to shape. After the plaster has set, the templates can be used to finish the molds down to the correct size. A very good finish can be obtained in this way, but the final finish should not be given until the plaster is dry or the shrinkage
+may distort the molds. The surfaces are now painted with linseed oil and the flask is clamped
+together. One end is plugged and a spindle held in the correct position. The spindle may well
+run completely through the wing as reenforcement. The mold may now be filled at the top with
+
+12
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+a thin mixture of plaster or by some melted wax which possesses considerable hardness and
+strength when cool. After the mixturc is sct the wing is removed and th upper cnd trimmed
+off to the proper length. If carefully made the model should have a good finish and be, initially atl cast, quite accuratc. The wing will not be very permanent and should be tested soon
+after completion. Also it will not possess suiIicient strength to make it available for tests at high
+speeds.
+Another method of making plaster wings has been devised by the Curtiss Co. An iron bed
+having two trued ways (fig. 21) is nearly :filled with a mixture of paraffin and Montan wax.
+When cold the wax is scraped down with a positive steel template to fit one surface of the wing.
+The template is carried on a carriage and can be gradually lowered as shown in figure 22. When
+this surface is completed a thin layer of wet plaster is spread on the wax and a sheet-steel core
+is pushed down to correspond with about the center of the wing, more plaster is added to the top,
+and is allowed to set. Before it becomes completely hard the template for the other surface is
+fastened in the carriage and the plaster is scraped down to size, the template being set to give
+the correct thickness. These wings can be made quite thin, but are not strong and must be
+handled with great care, and it is neccessary to support them with a center spindle.
+When it is desired to make a series of changes in only one face of the aerofoil, it can be most
+conveniently done by taking a metal wing having the desired permanent surface, and with the
+other surface cut below any desired change on this part. Negative templates are made of thin
+sheet metal for all the desired forms, cut to slide over the leading and trailing edges, as shown in
+figure 23. The wing is placed in a shallow trough that fits the plan form of the wing and enough
+melted beeswax is poured over the desired surface to fill it above any desired contour. When the
+
+•
+
+FIGURE 23.
+
+wax has fully cooled it can be scraped down to the required size by template. The template may
+be held by hand, but a more satisfactory job can be done by holding it in a milling machine and
+running the model under it. In this way a very excellent surface can be formed equal in accuracy
+and finish to a wooden one. The wing must be tested within a few hours of the time it is scraped
+in order to be sure that the wax does not deform. The same method can be used with plasticine,
+but this material does not give as good results as the wax.
+BODIES AND HULLS.
+
+The construction of bodies and hulls requires less accuracy than wings, so that it will be
+necessary merely to outline the general methods used in their making. Large models should be
+cut to 0.02 inch and small ones to 0.01 inch of the given dimensions. For a 4-foot tunnel, no
+body should be more than 36 inches long nor 5 inches in diameter nor weigh more than 2 pounds,
+so that it is necessary to hollow all large models. The best woods to use for these models is white
+pine or bay mahogany, woods that are light, easy to work, and not liable to warp.
+Small bodies may be made of one piece sawed out to the correct profile in two planes, as
+shown in figures 24 and 25. The edges cut off in the first sawing arc lightly bradded on to the
+body in order to steady it when sawing the second side. The four sides are then planed down
+accurately to size, and by the aid of templates the corners are worked off with plane or spokeshave. The surface is then scraped and finished with shellac rubbed down with pumice and oil.
+If a fuselage has a spinner on the nose, it is best to turn this part down separately on a lathe and
+dowel it on to the fuselage, working the squared block down to the spinner. Cockpits should be
+cut to at least half the depth of the body, but n o details inside, such as the seat, need be included.
+
+o "STRUCTION OF
+
+~fODELS
+
+FOR TESTS IN WIND TUNNELS.
+
+13
+
+Wind shields, however, should be put in place and knobs representing the men's heads fastened
+to the rear of the cockpit.
+Large bodies (over 18 inches long and 2t inches in diameter) should be made hollow. This
+is best accomplished by cutting out a series of lifts from thin stock (t inch). These are sawed
+out and planed accurately to outline and the whole set glued together with hot glue, being held
+in alignment by dowel pins on the
+base plate as shown in figure 26.
+When the glue is hard the pins can
+be cut off flush and the outside
+surface of the model planed down
+smoothly to the contour lines of
+the lifts. This method gives a light
+and accurate model requiring few
+templates for finishing. A line
+should always be marked on the
+side of the body parallel with the
+FIGURE 26.
+propeller a..--;::is, in order to aid in
+lining up the model.
+Flying boat hulls and seaplane floats are constructed in the same way and require no special
+comment.
+STABILIZERS.
+
+Stabilizers can be worked out of aluminum in the same way as aerofoils and require the
+same degree of accuracy. If the stabilizer is thin
+will not be too heavy if made of brass,
+which is preferable to aluminum in everything except weight.
+Ii is important that the stablizer may be easily and accurately adjusted for angle of incidence.
+A maximum adjustment of 5 degrees is sufficient, but all mechanism for the adjustment must
+be in the body that it may not disturb the air :fI.ow. It is also desirable to have both halves of
+the stabilizer turn together.
+A satisfactory and simple method is shown in figure 27. The two halves of the stabilizer
+are mortised out and fitted into the sides of the brass cylinder (a) with brass pins (b) all filed
+
+l
+
+a
+FIGURE 2.7.
+
+FIGURE 28.
+
+flush with the stabilizer surface. The brass cylinder is a friction fit in the split ring (c) screwed
+into the wood of the body.
+In figure 28 a similar arrangement is used except that a finer and more positive adjustment
+is assured by the two adjusting crews (a) passing from the bottom of the body to the sides of
+Lhe brass cylinder (b). Figure 29 shows a way of adjusting a stabilizer that rests on the top
+longerons. A grooved bra s plate (a) is set in the top of the body, and a rocker on the lower
+side of the stabilizer rest on it. The angle is changed by adjusting screws at (c) and (d).
+Another method, 1igure 30, has the stabilizer hinged at (a) and the upper edge is held up against
+the screws (b) by springs. By adjusting these screws the angle is changed.
+
+4
+
+..
+14
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+A template should be provided with every model to fit the stabilizer in order to line it up.
+The back of the template should be parnllel to the stabilizer cord.
+CONTROL SURFACES.
+
+If it is desired to use the model for stability work, the ailerons, elevator, and rudder arc
+made movable. The simplest and most satisfactory way to accomplish this is to cut the surfaces
+
+FIGURE 30.
+
+FIGURE 29 .
+
+with a very fine jeweler's saw, beveling the inside edges and inserting seyeral pieces of soft
+brass wire as dowel pins . This allows the surface to be held in any position without danger
+of its turning. The size of the wires and tlj~r spacing depend, of course, on the size of the model
+and the velocity at which it is tested. (Fit 31.)
+CHASSIS.
+
+The wheels when mall may be turned out of solid maple, but if the wheel is to be tested
+alone, and is therefore large, it should be glued up of pine laminations and left hollow. The
+laminations are sawed out roughly on the band saw, glued together,
+and then the whole is turned up and polished on a lathe. A cross
+section of such a wheel is shown in figure 32. The spindle is attached
+to the center of the
+~_
+wheel by screwing
+it into a brass
+FIGURE 31.
+socket, let in flush
+with the surface.
+Large struts
+should be made
+with the same degree of accuracy as
+woo den aerofoils
+and can be made in
+FIGURE 33.
+FIGUR E 32.
+the same way.
+Small struts are made of metal, usually brass, in the following way, if great accuracy is desired .
+A rectangular strip of brass just large enough to contain the strut section is soldered to a heavy
+block of metal, and is lined up truly on the miller bed . A series of cut arc now taken along
+the strut with the corner of the cutter just touching the contour of the section, inscribed on
+"the end, leaving a short uncut section at the other end in order to hold the strut square
+when this side is soldered to the block. The cut surface while still on the block is carefully
+filed down until the cutter marks have just disappeared, leaving the surface smooth and true.
+The strut is turned over and the operation rep eated on the other side. If this is carefully done,
+
+CONSTRUCTION OF MODELS FOR TESTS IN WIND TUNNELS.
+
+15
+
+an accurate strut will result, but if greater precision is desired the cutter may be set by the
+micrometer head to a given set of ordinates, in the same way used in cutting aerofoils .
+The axle is usually made like a strut and the wheels are pinned to the ends. Shock
+absorbers are fastened to the axle just inside the wheels with pins or glue, and are of stream-line
+form in most models. (Fig. 33.) Where the shock absorber on the full-sized machine is
+unstreamlined it may be reproduced on the model by winding a hard cord or wire of suitable
+size about the axle.
+RADIATORS.
+
+Although radiators are usually constructed of a solid block of wood, or are omitted altogether, there is no reason why this important portion of the structure should not be represented
+with fair exactness. This is accomplished by using a fine gauze screen, or, better, a perforated
+brass plate having the same resistance in proportion to a flat plate of the same size as has tho
+full-sized radiator. In order to get the proper 1'0 istance the radiator and flat plate of the same
+size are mounted on opposite sides of a freely turning spindle, but at such a distance as gives a
+balance when the proper resistance of the radiator is reached. A short dummy spindle must
+be provided to counter balance the greater length of the spindle attached to the radiator. The
+holes in tho radiator are gradually enlarged until it balances the plate. A model J N 4H radiator
+is shown in fiQ"Ure 34, mounted for balancing. The ratio of resistances between the radiator, and
+a flat plate of the same size ranges roughly from one-half to two-third, depending on the type
+of the radiator. A nose radiator should have a motor behind it and an outlet for the air in
+accordance with tho large machine. A fIispano Suiza motor and radiator model is shown in
+figure 35.
+THE COMPLETE MACHINE.
+
+The completeness with which the minor parts of the airplane are reproduced on tho model
+depends largely on the purpose for which it is tested. For instanco, should the model be used
+only for determining the balance of the machine and the stabilizer setting, all small parts may
+be omitted, as they will not affect the balance appreciably. If, however, the model is used to
+determine the performance of the full-sized machine, or to obtain scale corrections, such parts
+as exhaust stacks, control arms, shock absorbers, etc., should be attached. To have strict
+agreement with the full-sized machine, wires and fittings, which furnish a large portion of the
+total drag, should be placed on the model, but, because of the difficulty of reproducing the
+wires and fittings on small models; and because the small wires do not have a resistence propOl·tional to their size, wires have been omitted on practically all models. With a tractortype radiator, the passage for the air to escape around the engine should be of the same proportions as in the full-sized machine: It would be very desirable to employ much larger models
+than are used now in order that all details might be included. With a 6-foot model it should
+be possible. to very closely determine the performance of any new machine.
+The wings of the model should be made of aluminum or steel by the methods described
+above, but usually with such a chord as to make the model some definite scale of the full-sized
+machine. The size of the model should be proportioned to the size of the tunnel, and the weigh t
+should be kept as low as possible consistent with stiffness at the maximum speed at which
+the model is to be run. Care should be taken on every part of the model to insure accuracy,
+finish, and sufficient strength to allow of handling.
+When the wings are cut to the proper section, the plan form of the wing is laid out on the
+lower surface of each, with a fine scratched line. The outline is sawed roughly to size and then
+filed squarely to the line. By the aid of templates the ends are rounded off in the correct
+manner and Cf "l';PO smoothly into the finished surface of the wing. Wings having dihedral
+can be cut
+-tnurths through at the center section with a fine saw and the wing bent to
+the proper ay . by means of templates. Sweep back, if present, is best accommodated by
+cutting tho wing III the center to the proper angle on the milling machine and halving the pieces
+together, as shown in figure 36. The point of attachment of tbe struts is marked on the upper
+surface of each wing, and by means of tapered blocks the strut holes are bored and tapped.
+
+16
+
+ANNUAL REPORT NATIONAL ADVI ORY COMMITTEE FOR AERONAUTICS.
+
+(Fig. 37.) It is important that the direction of the holes be tapped exactly in the direction
+of the stru t or it will be impossible to line the machine up closely. Also the threads in one
+wing should be right-handed and in the other left-handed. Another method of fastening
+interplane struts is to thread the ends of the struts and drill the wing, holding the struts to the
+wing with countersunk nuts, as shown in figure 38. This allows the use of stream-line struts,
+but they must be cut correctly to length as little adjustment can be made after assembly.
+
+- - - -__ "1
+FIGURE 36.
+
+FIGURE 37.
+
+FIGURE 38.
+
+Interplane struts having no incidence wires on the full-sized machine, as in the pOl'tal, I or K
+trusses, are made of a single piece of brass on the model and formed accurately to fit the surfaces
+of the wing. They are fastened with flat-headed screws passing through the wing, as shown
+in figure 39. This completes the work on the single wings.
+The chassis is fastened to the body, ei ther by pinning the struts into the body with pins
+that are continuations of the struts, or by bending the stru ts sharply as they meet the body
+so that the face of the strut is parallel with the side of the body and is mortised in flush with
+the surface and held by a small wood screw. If the lower wing passes through the body, as is
+generally the case, an accurate section of the wing is marked on the body, and with a fine band
+
+F IGURE 39.
+
+FIGURE 40.
+
+saw the wood inside this section is cut away, with an entrance cut at the trailing edge. The
+lower wing can be slipped into this opening and screwed firmly in place by two wood screws
+inserted from below. Should the wing pa s below the body, it can be held by long, slender
+wood screws passing through the wing into the body . The wing is held away from the body
+the correct distance by stream-lined spacers, a shown in figure 40 .
+The empennage is attached to the body, the leading edge of the stabilizer square with
+the axis of the body, and the fin and rudder parallel with the line of flight. The tail skid is
+usually made from the same piece of metal as the fin.
+The body struts to the upper wing are attached in the same way as the chassis struts and
+are held at the other end by machine screws passing through the wing into the upper end of
+the strut. The interplane struts are made of a piece of steel wire cut to the right length and
+threaded on the ends with left and right threads. It is stream-lined when in place by a brass
+fairing.
+The model is now ready for lining up, a process that must be done with the greatest care,
+in order that it may be relatively as well lined as the full-sized machine. In order to do this
+the fuselage is clamped securely to a plane surface, right side up and with the propeller axis
+
+CONSTRUCTION OF MODELS FOR TESTS IN WIND TUNNELS.
+
+17
+
+horizontal. A pair of similar templates are now made that will go under the chord of the
+upper and lower wings on either side of the body in such a way as to fix the angle of incidence
+of each, their stagger and dihedral. The position of these templates is shown in figure 4l.
+The interplane struts are now put in place and approximfLtely adjusted, and the lower plane
+is set to its correct angle of incidence by shimming where it pa ses through the body. With
+the aid of the templates the upper wing is adjusted by turning the struts, the opposite threads
+on which enable them to act as turnbuckles, until the wings are correct in ali ways. The
+
+FIGURE 41.
+
+brass fairings can now be attached with a soldering iron. They should all be lined up along
+the axis of the body. It is well to check up the alignment of the machine aiter mounting it
+on the balance in order to be sure that there is no error of more than one-tenth degree at
+any point.
+The spindle is sometimes attached by screwing it directly into the wood of the body, but if
+the model is to be used several times a metal socket is best inserted in the wood, as shown in
+figure 42. This type of spindle, however, is rather unsatisfactory aerodynamically because of
+its interference with the wings and becau e it is difficult to determine its effective resistance;
+that is, the resistance which should be subtracted from the total resistance to give the true
+resistance of the machine. A better way is to screw the spindle into the tip of the wing. If
+the forces are large, it is necessary to insert a steel socket into aluminum wings. (Fig. 43.)
+
+FIGURE 42.
+
+FIGURE 43.
+
+AERO FOILS FOR PRESSURE DISTRIBUTION.
+
+It is sometimes necessary to know the pressure on each portion of the surface of an
+aerofoil in order to determine the manner of loading. In order to do this a large number of
+small holes are bored into the wing at right angles to the surface and each in turn connected
+to a pressure gauge. As this requires a long time and the connections must not be allowed to
+interfere with the air flow, the following methods have been adopted:
+A method devised by the ational Physical Laboratory consists in cutting a eries of
+grooves along each surface of a brass wing at right angles to the chord. They are about -h
+inch wide and deep, and are spaced closest together where the pressure gradient is steepest,
+but 10 or 12 rows is sufficient to each surface. A piece of -h-inch steel hypodermic tube in
+each groove and smoothed off flush with the surface with solder. (Fig. 44.) A series of holes
+
+18
+
+ANNUAL REPORT ;rATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+are now bored Along the tubes, on half the span only, as the wing is symmetrical. These holes
+should be spaced nearer together at the wing tip than at the center. They should be bored
+with a o. 70 drill and all burrs carefully removed. The tubes should projeet about t inch
+beyond the wing tip on the side away from the holes in order to make connections with rubber
+tubes and yet not interfere with the air flow on the side where the pressure is being taken.
+(Fig. 45.) The other ends of the tubes arc filed flu h with the urface, but are left open, so that
+a cleaning wire may b e pushed trnouO'h the tube. The wing is placed in the tunnel, and each
+row of holes is connected to a tube of a multiple manometer. Every hole in each row must
+be closed except one, which is open to the m nometer. This can be done with plasticine, but as
+
+FIGURE 44.
+
+FIGURE 45.
+
+this material is rather lifficult to remove better results arc obtained by using beeswax melted into
+the holes with an electric sold ering iron. The iron must be kept at the proper temperature
+to insure good results, for if it is too colI the wax will not close the holes tightly, and if it is
+too hot the wax will run in and fill the main tube. ' Should this happen a fine piano wire
+can be forced through the tubes to elear them. The holes can also be sealed by small disks
+of tissue covered with shellac. Care should be taken at each change of holes, to be sure that
+each hole that should be open is clear and that uU the others are closed. This is easily determined
+by blowing against the wing at eaeh hole with a small rubber tube and watching the manometer.
+There should be no deflection except at the open holes.
+Another method devised in this country, although requiring a little more work on the model,
+has the advantage that it can be used on thinner sections, as ailerons and tail surfaces, and
+gives smoother surface . Two blocks of brass about
+t inch thick and of sufficient size to construct the
+wing, are trued up on one face. These faces are then
+grooved at corresponding distances along the span
+FIGURE 46.
+uncleI' each row of holes. The grooves can be cut
+with any cutter that will give a square or circular hole when the two halves are placed together.
+The blocks are carefully tinned and arc sold red face to face \yith 116'-inch nluminum wires in the
+grooves to prevent the solder .6Jling them. The wires can be removed, leaving a series of clear air
+passages. Holes are now bored through the wing from face to face with a No. 70 drill, as shown
+in figure 46 . The direction of the holes should be closely normal to the finished smiace of
+the wing. The block can now be placed in the milling machine and worked down as described
+before. Small nipples are soldered to the end of the air passages on the opposite side of the
+wings from the holes for the attachment of rubber tubes, running clear of the model. Small
+tube should not be used any further than necessary, as it has a heavy damping effect on the
+gauge.
+When it is de ired to investigat e the pressure on a control surface the holes and passages
+are made in the same way, but it is now impossible to take oIT the pressure on the side of the
+machine opposite from that on which the pressure is measured. In order to reduce the interference to a minimum, fine steel hypodermic tubes are carried out several inches from the
+end of the wing before the rubber tube is attached, as shown in figure 47
+
+I
+
+.J
+
+FiG . 47 .
+
+CONSTRUCTION OF MODELS FOR TESTS IN WIND TUNNELS.
+
+19
+
+MODEL PROPELLERS.
+
+Model propellers are so similar to full-sized ones that the same methods of construction
+apply to both. The method most generally employed consists in making a series of templates
+to fit both upper and lower surfaces of the blade at a series of stations along the radius, The
+position of these templates should be fixed by screwing them to a plate squarely and with
+their proper spacing. This allows aU the templates to be applied to one face at a time. A
+series of laminations is glued to the proper thickness and cut out to the given contour. The
+blades are then worked down by hand to fit the templates, a rather slow and inaccurate
+method, but the best that has been used.
+Another method consists in gluing up laminations that have first been cut to the exact
+size. The blades are then trimmed down to the contour lines, thus determining the blade.
+It is difficult to accurately cut the tip of the blade in this way, as the distance between
+l aminations is large in this region.
+All model propellers are laminated to prevent warping, the best woods being pine or
+mahogany, unless the blade has any thin sections, when a closer-grained wood like maple is
+better. A four-bladed propeller should have each pair of laminations halved together rather
+than to halve the whole propeller, in order to give a more uniform support to the blade.
+Each propeller should be carefully balanced and finished with shellac. A steel hub can be
+bolted to the propeller in the usual way. From the aerodynamic standpoint, it is desirable
+that the full-sized propeller and the model be made from the same material and by the same
+method, as the deformations of the blades of the two at like peripheral speeds should then
+be identical.
+
+o
+

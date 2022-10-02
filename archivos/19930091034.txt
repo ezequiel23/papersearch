@@ -1,0 +1,337 @@
+Report No.8
+
+GENERAL SPECIFICATIONS
+COVERING
+
+REQUIREMENTS OF AERONAUTIC
+INSTRUlVIENTS
+2
+11
+4e
+
+NATIONAL ADVISORY COMMITTEE
+for AERONAUTICS
+
+Reproduced by
+
+NATIONAL TECHNICAL
+INFORMATION SERVICE
+U 5 Deportment of Commerce
+Springf ield VA 22151
+
+.
+
+REPORT
+
+NO.
+
+8.
+
+GENERAL SPECIFICATIONS COVERING REQUIREMENTS OF AERONAUTIC INSTRUMENTS.
+
+BY The NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR AEBONAUTIC9.
+
+..— —
+23
+
+REPORT No. 8.
+GENERAL SPECIFICATIONS COVERING ItEQUIREhfENTS
+OF AERONAUTIC INSTRUMENTS.
+By me
+
+~ATI02TAL
+
+&WIHOEY
+
+oomdrrrEE
+
+FOB h1301tA=08.
+
+.,, . ..
+
+.
+
+. . . ...
+
+.
+
+INTRODUCTION.
+
+For the information of those -yoncernedwith the use or ~mducfion
+of instruments used in the na ation ad opamtion of amraftl the
+follo~
+genersI list and sp3 . cations have been prepa~dwtim~
+view to udicating the Iinea on which developnwnt is
+T
+the restrictions and diflicultk to be overcome in the eeign’ and
+construction of aeronautical instruments:
+Barometeror altimeter.
+km=
+meter.
+Inclinometer.
+Drift meter.
+Tachometer.
+oil gauge.
+oilpe&mra
+gauge.
+Gadine
+uge.
+Oaealinerow indicdor.
+Distanceindicator.
+Barogra h.
+F
+2%%r$&~mEi%icator.
+i
+&?OI&e feed eyetem presalrendicator.
+AirpIarL;director.
+
+GENERAL REQUIEEMEINl!S.
+All indicating insbumfds re uired h the navigation of airuaft
+should be as com act, ruggd, an1 .U t a9is cunsiaknt with accuracy,
+rdiability and t?
+urability, end wiF ease of reading. Su+ iDstrumats must be free from the influence of the following chsturbii
+effeots, except@, of course, those effects on vihich they depend for
+their operatio~ viz, vibration, change of altitude and okmge of temperature.
+BAROWITER
+
+OR ALTIMETER
+
+Baromet-eIs or sltimetm must be sensitive and of open scale, and
+the lag in their operation should be the absolute minimum obtainable.
+‘When operating in a fog it is essential that the distam% above the
+surface should be Imown within very close limits. Such instruments, of cmrse, are dependent on barometric pressure and OR VMitL25
+
+.—
+
+.
+
+26
+
+AERONAUTICS.
+
+tions of barometri~ pressure from the time of the start of a “ ht
+until the completion of a fli ht, which can not be provided for, ut
+%
+aside from this error their inf icatione ahouId be substantially accurate
+onm they are adjusted at the oint of de arture. It is, therefore,
+necessary that the ecale ehouId % e of equ a? divisions, as otherwise a
+change of zero to meet change of barometric height will introduce an
+error. Their location on the airplane must be carefuII~ chosen so
+that their indications will not be mtlmnced by the veloc~ty pressures
+in flight.
+
+COMPASS.
+Compasses should have as high a directive force as is consistent
+with restricted dimensions, Provision should also be made in the
+compass mountiug for compensating for the pr~ence of magnetic
+material in the cons~c~lon of the airphme, partmularly co~pemation for heeling and dl w errors,.. In order that the dmctwe force
+shall not be abnorm H y reduced b such compensation it is, of
+tours?, desirable that the structures i ould avoid the use of magnetio
+matermls in moving parfs near the compass location, such as the
+control columns, shafts, and leads.
+AIR SPEED METER
+An air speed meter shouId indicati reliably the speed through the
+air, and should be free from the efTectsof acoeleratlons, as when the
+machine is banking strongl in a tu~ the ed?ect of gravitation is
+augmentid by the presence of the centrrfugsl force. As the sustaining
+power of an airplane is dependent upon the d~ity
+of the atmosphere, it is comdered thqt air ~ eed meters which are dependant on
+the pressure due to veloclty wd be a safer form of indicator than a
+true ~nemom@43rtype.
+It ISessential that the indicators shall be particularly sensitive and
+have an open scale reading at velocities approaching a stalling speed,
+which is the lower limit of safe flying speed. It m also necessary
+that they should indicatn high s eeds accurately, in order that
+excessive speed may be avoided w1 pn g$.iding. Excessive speed in
+liding in?olv?s dang~ when a machme ISbroumght p }00 sharply, as
+u
+% e combination of h~h s eed and the maxmmm hft factor may
+readily stress the machme %eyond safe Iimite. Also, when flying at
+high speed the angles @ attack ar? small, and there is dan er of the
+airplane ent+ng a cmtmsl condition in which the flow o F air may
+develop radmal chan~es of sta~, and consequently rest than es iu
+the lifting power avadable. AU speed meters shouf d be capa% of
+le
+calibration immediatdy prior to a @ht.
+Air speed meters of the
+Pitot type dependent on a fluid are subject to gravitational errors
+when banking. The are also subject to error due to heeling or
+diving. Unless the L ads from the Pitot tube to the indicating
+instruments are sticiently large, there is also danger of a serious lag
+in indications.
+
+INCLINOMETER.
+Inclinometers of the pendulum or spiritAeveI
+e are inaccurate
+P
+in the resen~ of accelerations and are oil usefu as a general check
+as to & e attitude. of ,the machine when J ying in a fog. It is v
+7
+desirable that an md~cator free from these defects should be deve -
+
+AI?JWNAUTICS.
+
+oped.
+p.~ses
+
+~htmg
+
+27
+
+~scopiq base line is considered desirable not only for
+in+ination but es &@ing
+a base line for
+and for the use of instruments of nawgation.
+
+A
+
+T
+o
+
+udicatng
+
+DRD?I’ MEl!lX&
+
+of two t es-one designed forthepurpose of indi2 ace for u9e in connection with na ‘Uation,
+~!!%&%%rO~%;~;perly
+termed “side slip indicator’bor
+the
+purpose of indicating whet+er qr nqt the machine is flyin square to
+the. wind. we latter dwation
+E ccmsudered~referab f e for imlicatmg the ~ttdmde of the machine. For n~~atmg over the ground
+the course H readi~y determine
+of objects on @e surface, and the same metho IS av
+‘bym”Y+ea%?rL31:z
+gating over the water provided there is a definite object on which to
+sight. One type of &t meter indicates by the streaking of waves
+across the ob]eotive ghs of the instrument as a yarent drift, but. as
+the particles of the waves thamsehs which in& cate this stre
+have a velocity of their own, such indications are subject to error.
+9
+the surface wmd direction or velocity were Imown correction might
+be made but when flying at an altitude of sev end thousand feet it
+is very &sly that the airplane itself maybe in an entirely difierent
+current of au than that present at the surface. k addition to this,
+tidal currents may also affect the velocity of the watar particks.
+Two forma of side slip indicators ~t,
+the simplest form being that
+of the well-known string or pennant, but the latter can not be used
+satisfactorily in the wake of a tractor ro aller. The other type consists of a very sensitive pendulum wW“ indicates whether or not
+lateral accelerations are resent as WU be the case for a machine
+which is not properly b &nmed ~aterall~, but such an instrument is
+subject to the defect that if the machme is side slipping laterally
+at a constants eed, lateral acceleration is no longer present. It can
+only be depd ed on to indicate initial disturbances.
+Drift meters are
+
+‘I!ACHOMEI’FE.
+
+Tachometers should be absolute in their indications, and if &
+trical should not be subject to disturbanin the conductivity of
+circuits from any cause, or to deterioration of magnetism of a permanent magnet.
+OIL GAUGE
+
+Oil .gaugea must definitely indicate the amount of oil present in
+the crank ease.
+OIL-PFUZSSUEE GAUGE
+
+OiI-pressure gauges must accurately indicate the pr-ure
+in the
+oil system and should elm rndicate that the flow of oiI is undisturb&d.
+GASOLINE GAUGE
+
+Gasoline gau es ahouId indicate the amount of
+in the main tar% and should not depend on the
+line in a glass tube, as, due to the transparency
+tank and an empty tank would give the same
+chanical indicators are considered preferable.
+
+gasoline available
+visibili . of gamOf gaso e,,a full
+%
+imhcations. bf’e-
+
+9
+
+28
+
+AERONAUTICS.
+GASOLINE-FLOW
+
+INDICATOIL
+
+(baoline-flow
+indicatim
+should de~d
+on mechanical
+means of
+indicating that the gasohne is being supplied from the main tanb
+to the service tanks.
+DISTANCE INDICATOR
+.
+
+ation at sea or over unknown country it is de&able that
+T distance .flovm through tha air sho~d be available. If
+a ~~
+o
+it were not for the fact that the slip of the propeIler depends
+Iargely on the Ioad of the machine, and whether or not the machim
+is dmb~
+or gliding, an engine counter would serve thie purpose, but lt is considered prefaable to have a cmmter or recorder
+actuated by an anemometer for this purpose. In either case, actual
+distanca over the surface wiH require cmrection for the wind velocity
+and direction.
+BAROGRAFM
+
+Barographs are subject b
+altimeters.
+
+the came general spctications
+
+m
+
+ANGLE OF A’M!ACK INDICATOR
+
+le of attack indicator ehouId be dead beat, free from the
+vitation, and accurately respond to and indicak an
+e@5ti Yo
+than e of r e direction of flow o! a$ to. the supporting surface9. ? t
+ed and its mdmations should be-clearly bgible
+shoJ d be light r
+to the pilot. ft ?oulh be designed for attachment in advance of
+the wings on a tractor biplane and clear of the iniluence of the
+propeller or the body.
+RADIATOR
+
+TEMPERATURE
+
+INDICATOR
+
+A radiator temperature indicatorshouId be readily inserted in the
+top of the radiator and should clearly indicate the beat operating
+temperatures. The thermometer +ould conform tQ best practice,
+and the entire instrument be m.f&mmtly rugged to wltihstand reaeonable vibration and shock.
+GASOLINE FEED SYSTEM PRESSURE INDICATOIL
+Where the gasoline feed is not gravitational, the indications of
+the pressure.available must be accurate. The gasoline feed system
+pressure inchcator must not be affected by vibration or change of
+temperature. It must have a good scale end a dead-beat action.
+
+SEXTANT.
+Sextants should be as light and small as possible commensurate
+with proper accuracy, A sextant for measuring the altitude of a
+heaverdy body above a horizontal lane without the use of the sea
+horizon or an artificial horizon wo u?d be most des.irable.
+DIREC1’tM&
+AIRPLANE
+
+“An airplane director-for the mechanical solution of the coume and
+distance made good, based on the course and speed of the aeroplane
+and the form and direction of the wind, is a desirable development.
+

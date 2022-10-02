@@ -1,0 +1,1185 @@
+i
+
+1
+
+ABSTRACTS FROX TEE FRENCH TECHNICAL PRESS.
+Study of t h e Resistance Offered by P r o p e l l e r s R o t a t i n g on an
+
+Airstream.
+
+BY
+
+.a.
+
+Lame.
+
+Translated from "Aerophile ,I1 January 1-15, 1921
+by
+
+Paris O f f i c i , N . A . C . A .
+
+.
+I
+
+9
+
+ABSTRACTS FRO3 THE FillENCH TECHNICAL PEiESS.
+STUDY OF THE: RESISTANCE O F F E ~
+
+BY PROPELLERS ROTATING IN AN AIRSTEEAH.
+
+The Parachutal Q,uality of L i f t i n g P r o p e l l e r s , h
+
+-
+
+W have shown by t h e o r e t i c a l consideration, i n a previous
+e
+a r t i c l e 4 that the r n a x i m w t h r u s t which could be h r n i s h e d by a
+is
+propeller r o t a t i n g f r e e l y i n an a i r s t r e a z va given by the follo-jiring fornula:
+2 2
+
+( ).
+1
+
+P = q D $
+
+i n which P
+
+represents the t h r u s t ,
+
+the velocity or8 the
+
+V
+
+. airstrear;> D , t h e diameter of the p r q e l l e r , and
+
+q
+
+the l i f t - .
+
+ing quality of a comgarative propeller vhich we c'alled a conjuI
+
+gate propeXLer,
+
+It must also be recollected t h a t ,
+
+q = the r a t i o
+
+a
+
+3
+-
+
+Is
+a and 'p being the usual c o e f f i c i e n t s of thrust and power.
+.5
+
+In order t o verify this data, we have had a campJ.ete s e r i e s
+o f t e s t s executed at the E i f f e l Laboratory
+
+l e r s 80 c m . i n diameter,
+, d i f f e r e n t speeds.
+
+O
+n
+
+d i f f e r e n t propel-
+
+These propellers could be braked t o
+
+By means of the device adopted', it w s possia
+
+ble t o measure the rotary speed, the velocity of t h e a i r f l o a , the
+1
+
+,
+
+brake torque and the thrust produced'.
+s i x propellers were tesked', t h e i r respective values as re-
+
+*
+
+"Aerophile
+
+. SGptepber 1
+
+-
+
+15 > 1920, p-269.
+
+I
+
+- 2 -
+
+gards the ratio of the p i t c h t o the diameter being -0.2,0.4
+I
+
+.
+
+-
+
+*
+
+0 , €3 .
+
+they 'were composed of windmill y a
+y
+
+0-8 1, and 1 2
+.;
+hub.
+
+The following t a b l e s give t h e p r i n c i p a l r e s u l t s obtained
+
+i n the case of Pour of these propellers.
+I
+
+\
+
+I
+
+The yelocity of r o t a -
+
+'
+
+t i o n , i s estirnatid accordling t o the number of revolutions per
+I
+
+second, the thrust values are given i n grams and the torque i n
+gram-meters,
+
+Certain v e l o c i t i e s i n t h e t a b l e s hawe been p l o t t e d
+
+i n Figs, 1 t o 4.
+
+The numbers of revolutions being taken as ab-
+
+scissae', the t h r u s t s and t;orques have been taken as ordinates,
+and the v a r i a t i o n s of these f o r each airstream v e l o c i t y b&we
+
+t h u s been obtained,
+t
+
+TABLE I
+
+- Propeller
+
+r
+
+728
+418
+
+939
+
+0.9
+9.1
+13.4
+14. 3
+16.6
+
+7
+
+850
+. 1070
+984
+895
+49 8
+
+12.5'
+15.5
+16.9
+18.3
+
+9 75
+975
+1165
+
+0
+
+20
+
+12
+.
+4-1
+15.1
+16.8
+19.3
+
+5s. 3
+
+860
+
+0
+2.1
+18.50
+
+48- 3
+44.7
+22.55
+60.8
+52.3.
+6.95
+
+772
+68 4
+508
+
+0
+16.85
+
+I: 8 = l.',
+H
+
+1195
+,
+
+'
+
+866
+577
+
+c
+
+vtl
+
+0.103
+
+65.7
+- . 42.2
+7-69
+68.2
+
+86.8
+
+4..
+83
+7.44
+
+Y
+
+O,L3-
+
+47-1
+80.6
+
+53.5
+50.8
+
+?
+
+1
+
+-3TABLE I- (Cont Inued)
+
+v
+
+N
+
+P
+1370
+1280
+
+0
+
+1
+23
+
+C
+
+3.3
+
+17
+
+1280
+1540
+
+20
+21.6
+
+1235
+705
+
+0
+
+1770
+1635
+
+28
+:
+
+26,lO
+
+3.5
+21.2
+24.2
+
+1680
+
+.
+
+TA3LE 11:
+
+V
+
+ns
+“
+0
+0,5
+2.5
+8.5
+
+1680
+930
+
+H
+fi=
+
+ct
+
+89.3
+84.3
+69-0
+104.0
+68.2
+6.2
+
+0.6
+
+P
+1 7 ‘7
+
+\
+,
+
+119
+97-9
+93
+LO 7
+
+74
+.4
+Propeller I1
+
+c
+
+Q
+
+9.92
+7-94
+8.44
+
+221
+243
+420
+
+14.65 1 ,
+
+11.5
+
+310
+
+5-95
+
+0
+
+8.03
+
+357
+402
+42 3
+622
+5 78
+534
+445
+
+-16.9
+
+459
+525
+5 70
+966
+966
+924
+745
+
+25
+
+2.3
+10.70
+
+5
+13.5
+14
+14.8
+15.5
+0
+
+\
+
+13.10
+
+.
+-
+
+3
+.
+1-5
+12
+15.8
+1.
+62
+17.5
+
+18
+1.’
+87
+
+723
+
+614
+
+1
+
+13-4
+15-9
+24-8
+18.6
+13.4
+5.95
+
+1
+
+*0,136
+\
+
+N
+.
+
+.L
+
+21.35
+21-60
+
+1
+
+45.9
+39.2
+34
+
+016
+.1
+
+19.2
+15.4
+5.95
+
+*
+
+-.
+
+- 4 ... .
+
+*&
+
+'
+
+.
+e
+
+TABLE II (Continued)
+,
+
+0
+1
+16
+.
+9.5
+12.5
+
+14.45
+
+593
+59 3
+637
+
+1035
+1210
+1170
+1120
+1035
+
+54.5
+47.6
+42.6
+
+945
+725
+
+25.3
+6-2
+
+16.8
+17-7
+18.
+1.
+93
+20.6
+0
+1.6
+
+5
+11
+15
+
+1 5 70
+
+15-1
+18,3
+19.2
+19,6
+20.5
+22.5
+
+28
+26
+24-05
+
+37.2
+
+38.4
+
+750
+
+.
+
+750
+970
+
+'
+
+36
+
+29,3
+2.
+98
+
+1470
+1435
+1410
+
+49.6
+67.0
+
+1390
+
+57
+50,s
+
+61.3
+
+1320
+
+,
+
+45,9
+
+1280
+310
+.5
+
+33.5
+6-45
+
+882
+
+t
+
+'
+
+/
+
+TABLE 111.
+
+H
+Propeller 111: 5 = 0 4
+..
+I
+
+V
+
+w
+
+P
+
+C
+
+0
+3.3
+
+10-6
+
+320
+452
+
+10.9
+7,44
+
+16.7
+18.5
+
+850
+
+10.35
+
+717
+
+6.20
+
+18.3
+24.2
+
+481
+924
+1405
+481
+
+16.6
+14.15
+33.7
+
+0
+83
+.
+
+1170
+
+0
+16
+.
+21.6
+
+705
+705
+b 900
+
++ o
+7*5
+
+13.20
+
+1'4.60
+
+cl
+h
+
+*
+
+0e 118
+i
+
+0.143
+
+19.85
+16.1
+22.05
+19.35
+44.3.
+
+9
+
+'
+
+4.74
+
+5 49
+
+'
+
+,
+
+- 5 -
+
+Propeller IV : H = 0.2
+
+TABLE IV:
+' 0
+
+9 75
+9 75
+1370
+
+14
+.
+
+18
+
+5.4
+6-2
+7.5
+
+1320
+1940
+. 1985
+
+25-40
+
+0
+9,l
+
+1883
+
+32.35
+
+28 70
+
+29.55
+
+9.92
+
+2 550
+
+3780
+
+47,l.
+10,2
+
+4000
+
+--...
+
+22,6
+8.68
+
+9.92
+
+0
+21.35
+
+.
+
+18.1
+11.9
+6.45
+
+0
+11.5
+12.5
+
+,
+
+,
+
+t
+
+~
+
+A close investigation of these t a b l e s and t h e folloming f i g .
+
+Qr.e.3.. w i l l
+
+.
+
+show that t h e outline of the phenorxenon v a r i e s in ac-
+
+cordance with t h e size of t h e p5tch of the p r o p e l l e r s i n question.
+With propellers of large p i t c h (Figs. I and I f ) , the thrust
+
+and torque a t t a i n a rraximm almost siraultaneausly and then decrease t o a minimum corresponding t o the l i m i t of t h e velocity
+
+.$
+.-
+
+1
+
+that can be produced by t h e , p r o p e l l e r .
+
+The ascending branch of the curves corresponds, t o a-regime
+t h a t i s unstable i n so far as concerns i t s being impossible t o
+.b
+
+regulate t h e tigkr"cening of t h e brake t o maintain t h e , propeller
+
+at one of t h e corresponding speeds of rotation; it coiistantly
+tends t o slotrr*domand s t o p s completely, o r , on t h e contrary,
+increases, t o reach t h e descending branch &ioh coxresgonds ' t o
+const ant regime s .
+,
+.
+
+In the case of p r o p e l l e r s o f very small pitch (see Fig. I V )
+
+ttie torque diminishes constantly' & i l e the thrust increases reg-
+
+i
+
+t
+
+- 6 -
+
+ularly.
+
+In a d d i t i o n to t h i s , t h e speeds of s o t a t ion a t t a i n e J
+
+as a m&xiaurn by the propeller remain l l o w even tihen t h e veloc:i.;>
+of the airstream is high.
+Qn
+
+considering the maximum thrust produced by p r o p e l l e m
+
+with difgerent p i t c h , at t h e same airstream velocity, xre find
+
+t h a t :-
+
+The t h r u s t i s g r e a t e r i n proportion t o t h e smallness
+of t h e pitch.
+2.
+
+- The
+
+3.
+
+-
+
+corresponding torque is.proportionally lower &en
+t h e pitch is smaller.
+The correspoading number of r o t a t i o n s i s proportionally higher when the p i t c h i s shorter.
+
+Exception must be made, however> i n the case of propellers
+of small p i t c h (Propeller I V ) f o r which the t h r u s t and number
+
+0%
+
+rotations remain low even for high v e l o c i t i e s o f , t h e airstream.
+The conclusions t o be dram frorn these statbments, as re-
+
+gards obtaining the maximum of thrust;, that i s , the maximum par,
+
+achutal q u a l i t y , are as follows:1, 1% i s necessary that the p i t c h should b& small,uthov.gh
+not lower than a minimum of about 0.3 D.
+2.
+
+The propeller must be braked i n such a m-ner
+that its
+speed does not exceed a well determined value, corresponding t o t h e maximum of t h r u s t of t h e propeller,
+
+These r e s u l t s may e a s i l y be compared w i t h t h e t h e o r e t i c a l
+
+results published i n the note previously mentioned.
+If w r e f e r t o t h e gene,ral formla
+e
+
+,
+
+Tt = P V
+
+T , estapP$
+l i s h e d i n that. note, and i f t replace T by i%s
+m
+value .q D
+deduced from Breguet's formula,,v;re obtain:
+4
+
+- 1 -
+
+T t ' , which i s the mork absorbed by the braking$ i s negative
+
+and 'V i s negative; hence we get
+1
+%
+Tt -I- -TI' - -
+
+a_o
+
+-I?
+
+T h i s shoas that for a given value of
+
+P.
+
+veight of the air-
+
+p l a n e , the f a l - l i n g velocity i s proport ionally.
+
+sma,ller, and tihen g
+
+whsn Ti;
+
+i s g r e a t e r , particularly &en
+
+Tt =
+
+is
+
+0,
+
+formula (1) is once aore obtained:
+P =
+
+q2i32V2
+
+Inversely , f o r a given value of
+
+V , t h e thrust
+
+P,
+
+5
+
+that
+
+is, the weight that m y be braked, i s 9roportionGlly greater
+
+when
+
+q
+
+i s g r e a t e r and
+
+Tt
+
+i s maller,
+
+P
+
+w
+
+It ~ u s be observed, however, that these parameters are
+t
+
+not en.t;irely independent one of the other,
+
+'b
+
+In t h e case of a propeller of determined pitch, '"the
+
+vari-
+
+ations of the braking torque modify the rotary speed and i n so
+doing modify the angle of a t t a c k of each element I and conse-
+
+quently t h e q u a l i t y depending on t h a t angle,
+The maximum t h r u s t , i n the case of propellers
+and
+
+I, 13,
+
+111, Lherefore corresponds.-&oa value of the braking torque
+
+which is not equal t o zero-
+
+In the case of propeller
+
+IV,
+
+on
+
+- 8 -
+
+the contrary
+
+t h e thrust increases proportionally as the t o q v c ,
+
+decreases.
+If
+
+however, the p i t c h of the progeiler be a1tered;or
+
+to
+
+i f the blades be acijusted i n a different direc-
+
+be =ore precise
+
+t i o n , the incidence of each element i s again modified and the
+quality i s thus influenced4
+
+Neither i n one case nor the other can a determined incidencz
+
+Be given f r e e l y t o each bladejelement; t h a t i s , t h e pararueter
+q
+
+i s n o t e n t i r e l y independent
+
+St i s therefore possible t h a t the zbsolute maximum of thrust
+I
+
+when
+
+= o
+
+m y not necessarily corres2ond t o a braking torque
+
+the adjustment of the blades and the braking torque are simultanIn order t o elucidate t h i s p o h t , a new s e r i e s
+
+eously a l t e r e d .
+
+of t e s t s has been c a r r i e d out; i n these t e s t s , &td i f f e r e n t vel o c i t i e s of t h e airstream (about 1 2 m.) the p i t c h w s progressive-.
+a
+ly varied, t h e propeller being e n t i r e l y f r e e t o t u r n on i t s a x i s ,
+,
+
+and the degrees of t h r u s t were noted down,
+
+h
+
+'
+
+w
+
+The maximum degrees of t h r u s t correspond t o a ratio of the
+.5
+
+p i t c h t o t h e diameter = about 0.33 and.the ~rq~Q$lobtained,,
+1
+
+mhich are -,-g.iven. : i n Table V , exceed t h e t h r u s t produced by
+
+.
+
+braked propellers with the same airstream v e l o c i t i e s .
+
+I
+
+V
+6-00
+8,13
+10.55
+12.00
+.15*10
+
+u. = 9s
+
+TABLE V.
+a ='
+8
+
+40'
+
+256
+429
+702
+854
+1320
+
+.
+
+324 .
+489
+771
+1079'
+1685
+
+U
+
+=
+
+30'
+
+a=$J
+
+The p r o p e l l e r d0e.s not
+rotate ,
+,
+935
+1370
+2075
+
+.
+
+311
+612
+1174
+
+I
+
+..
+- 9 -
+
+-
+
+P =
+
+'4
+
+'
+V = Tt = P
+SD
+
+The formulas
+
+~2
+
+D2
+
+V2
+
+(&en
+
+Tt =
+
+0)
+
+enable u s t o make an easy calculation of the values of the parachutal quality of the p r o p e l l e r s employed i n each case, p a r t i c u l a r l y i n the case of t h e regimes vhich have given the maximum
+thrusts,
+
+Tfie r e s u l t s of these calculations are given i n the 5th
+
+column of the preceding t a b l e s ,
+The g r e a t e s t values o f
+
+l e r s of l a r g e pitch.
+
+g
+
+therefore correspond t o propel-
+
+The values found are ,,rnorf!over,. far lower
+&
+a
+
+than t h a maximm t h e o r e t i c a l quditry, vhich.O.63
+
+(according t o
+
+Colonel Renard); they a r e also lomer t h a n the values vhich may
+be obtained i n practice and &ich a r e , itccording' , t o Breguet , approximately 0 . 3 5 ,
+Although t h i s quality diminishes simultaneously with t h e
+p i t c h , advantage i s none t h e l e s s t o b e gained by u t i l i z i n g
+propellers of mall p i t c h , as they give the rnaxivdum of thrust;
+by reason of the diminution of t h e braking torque.
+
+In the case
+.b
+
+of the propeller vdiich .gave the maximum t h r u s t , among ?he pro-
+
+pellers test,ed (see Table V )
+
+)
+
+t h e parachutal q u a l i t y was 0.12.
+
+A certain number of considerbt ions giving the theoretical
+
+explanation of these r e s u l t s n i l 1 be presented i n axlother artiI
+
+c l e at an early date.
+(Translated from the French by the P a r i s Office a N&.$, A. )
+;$,*
+
+30
+
+20
+
+/U
+U
+
+N =zp.3.
+No
+
+mg= .4
+0
+
+N=cp.s.
+

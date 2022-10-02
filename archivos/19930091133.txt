@@ -1,0 +1,1013 @@
+.
+
+*
+.,
+i...
+
+*“-.
+
+\
++===+
+,.
+
+REPORT No.71
+
+.
+
+.
+..
+
+..
+
+smwTIu3AM
+
+CORREHIONs IN PERFORMANCE
+COMPUTATION
+v
+
+NATIONAL ADVISORY COMMITTEi
+FOR AERONAUTICS
+.
+.
+. ,..-
+
+.
+
+,
+
+.
+
+.
+
+.
+
+PE@RINT FROMFIFTH ANNUAL
+REPORT
+
+.
+
+..””
+
+““.
+
+:..
+
+.
+
+.-
+
+.-”-.
+
+., .,..
+
+-:,
+‘A
+“i
+.~!5
+->
+
+, “,*:.
+
+..—:
+
+..
+
+.;..*A9=GToN
+“GO-ENT
+PRINTING OFFIOE
+1920
+
+..
+
+.
+
+. .
+
+.
+
+m aui3
+47
+.
+
+REPORT No.71
+
+SLIP-STREAMCORRECTIONSIN PERFORMANCE
+COMPUTATION
+v
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+.
+
+.
+
+1
+
+PREPIUNTPROMFIFTH ANNUAL
+REPOBT
+
+v
+
+WASHINGTON
+GOVERNMENT PRINTING OFFIOE
+1920
+
+.
+,
+
+,
+
+,
+
+REPORT No. 71
+SLIP-STREAM
+CORRECTIONSIN PERFORMANCE
+COMPUTATION
+
+BY
+
+EDWARD P. WARNER
+
+.
+.1445s%-1
+
+3’
+
+REPORT No.71.
+SLIP-STREAM CORRECTIONS IN PERFORMANCE COMPUTATION.
+By EDWARD P. WmmR.
+.
+
+In computing the performance of an airplane, the ‘values taken for the slip-stream correction
+have a very marked eflect on the results, both as regards the speed required for flight at a given
+angle of attack and as regards the horsepower required, and a mistake in edi.rnating the magnitude of the correction factor may cause considerable errors in the prehninmy estimate of performance attainable. Notwithstanding the @portance of the slip-stream effect relatively
+little study has been devoted to it and the proper way of treating it still remains largely uncertain. This lack of knowledge as to the magnitude of the correction and its eflects is amply
+attested by the wide variation among the methods employed by designers engaged in the
+making of performance computations. Some have ignored the correction entirely. Others,
+seeking a slightly greater accuracy but not d=iring to embark on too laborious a set of computations, have made an over-all allowance, increasing the total resktance of the machine
+(imluding
+both
+paraeiti r=ktmce and fig
+drag) by 10 per cent or 15 per cent. Such a
+device is frequently employed when performmce is to be computed directly from a windtnnnel test on a modeI of the complete machin& and when only the total resistance is Imown,
+no data on the redktwme contributed by difl’er@ parts of the structure %eing available. As the
+proportion of the tatal rwistance which Iiea in the slip stream varies @dely between dif?erent
+typ= of machin=, this method can manifestly lead to. nothing more than a very rough approximation. The next step, to further increase tie exactness of the performance computations, is
+to consider the reastance broken up into two parts; that due to members inside and thiit due to
+membem outside the slip stream, and to treat these two parts as having different relative air
+speeds. The speed used in computing the r-istance of the parts outside the dip stream area
+is equal to the air speed of the machine; that Wd for the parts inside the slip-stream is eomewhat higher. The amount of the Merence between the two has been much in dispute, but the
+corrections generally applied range from 10 P@ mt to 20 per cent. That is to say, the velocity
+is considered to be from 10 per cent tO 20 per c@ntgreater inside than outside the slip stream,
+and the resistance of an object k that area iS ther~ore tak~ m from ZI per cent to 44 per cent
+greater than the ra+stsnce of the sue object would be if it were removed from the zone ~f
+.
+influence of the propelIer draft.
+Whatever the value that may be taken @ the correction factor, it is almost invariably
+considered to remti comt~t at a! speeds of f%ht, ~d it is ~ h assumption that the greate@
+eource of error lies. When the mgme is kept ra: full throttle, and aIl the reserve power
+is used in csxsi.ng the mactie ~ climb) tie w speed bem relatively low, the ratio of slipstream velocity to vdmity of adv~ce ~ q~te e~d~tly be c-o~iderably @her than when the
+flight path is horizontal, with a higher speed of adv~ce or with a throttled engine. The exact
+manner of the variation of slip-stream effect d be taken up a little Iater.
+We may attack. the problem of tie sliptream @mection ~ either of two ways, both of
+which we shall discuss. In the fit place, we WY base ou corrections on wind-tunnel tests
+of propeller models. Unfortunately, there k very little data available on the ,velocity of the
+flow of the air behind a propeller under test. Secondly, we may depend on pure theory, determining the mean slip-stream velocity from @wgy considerations. While this is not strictly
+valid, it. affords an bwwt~
+mea~ of obt*g
+data for compation, and of extending the
+experimental results.
+
+144522-2+2
+
+5
+
+—
+1
+\’--”—
+-- ‘ ,.:~
+?\i;““.-%.
+.. .
+, !;W
+
+—
+
+.—
+
+6
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+AJHKXNAUTICS.
+
+EXPERIMENTALESULTS.
+R
+
+q
+
+Measuramenta of slip-stream effect for model propellers have been made by Eiffel, at his
+laboratory near Paris, and by Ria%ouchimky at KouKchino. IIMM”s results are the more
+valuable, ae the propeller used during the t@s was mom nearly like those used on aircrnft tit
+the preeent time than were the mndele employed at Kciutchino.
+It should be noted that-all these @6FWts
+deal with propellers tested with no other
+objects in their neighborhood, and that the results might .be materially modified by the mutual
+/ interference-of the prope~er and the ot~ parta of-the-machine. “ This ti particularly trui o!
+! the body, inasmuch as it is very close to the propeller and is immediately behind the lmst
+~ eflio.ientportion of that member, so that .it has somew@_t the same tiect of streardining tho
+~ hub and guiding the air acmes the mow e%ctive portic+of the blade .m has a sp~ner ~ front.
+: The effect of the body on the propeller would then be such as to neutralize, at least in part, the
+inorease of body resistance caused by the slip-stream. This effect wotid apply primarily to the
+body, the resistance Qf.svhich,if itis well designed, is a relatively small pm-t of the total parasite
+i
+resistance in the slip-stream, The effect of the struts, tail surfaces, and other members on the
+r
+action of the propeller would probably be so small as to be neg~lble, thanks to-their distance
+!
+behind the propeller ~d to the fact that they lie behhyl the c@e@ive portion of the blades
+~
+rather than directly behind the hub.
+The ratio of slip-stream velooity to velooity of advance, like every other factor or propeller
+performance, is, for geometrically similar propellers, a function of the nondimensional ratio
+V/ND. Sinca itisnecessary to apply@ widely di.ilerentpropellers the data obtained by tests
+of two or three special cases we must seek some meaus of comparison, and this means is provi~ed
+by the provisional assumption that the ratio of slip-stream velocity to flight velocity at the
+speed of maximum propeller e.fliciency is the same for all propellers. We may then conder
+the slip-stream eflect to depend on the ratio of V/i’Vl? h ( V/i’VD)’, or, for a given propeller
+whre V is
+“the act~al speed-of flight and” V’ the speed for
+diameter and engine speed, on V/V’,maximum propeller eflloiency at “the same number of revolutions per minute. This is the only
+method open to us if we rely solely on experimental data, but we shall see latar”that the use of the
+momentum theory makes it possible to actually computa the slip-stream effect for a given
+propeller, and that the magnitude of this effect varies somewhat with.blade form, blade width,
+number of blades, pitch-diameter ratio, etc.
+EXffel’sexperiments 1were performed on his propeller No. 9, which has quite a normal blade
+form, with straight trailing edge md leading edge so Cmyed as to give a maximum blade w~dth
+approximately three-quarters of the way out from hub totip. The pitch at all pointe w~ 0.7 of
+the diameter, and the mx&mm efficiency (75 per cent) was secured when V/ND wse equal to
+0.6, corresponding to a speed of flight of roughly 105miles per hour with a Liberty engine turning
+1,700 revolutions per minute and & two-bladed propeller 9 feet in diameter. ThG ratio of
+effective pitch to diameter for best efficiency therefore wae not very far from-current practice.
+The air velocity in the slipstream was determined by pitot tube measurements at fivo
+points, placed at 0.4, 0.6, 0.8, 0.96, arid 1.1 times the radi~ from hub to tip. That is, the last
+point was actually slightly outside of the propeller disk area. To determine the extent to which _
+the air spreads out and the added velotity disappears as the distance from the propeller is
+increased, three such sets of pointa were tried, the tit being only 0,04 of the propeller diameter
+of
+behind the plane of the trailing edges of the propeller blades, the second beiug located 0.2 the
+diameter behind that plane, and the third being sepWa@ from the propeller by a distance equal
+to its diameter.
+The conclusions to be drawn directly from the results of these tesk maybe tabulated briefly
+as follows:
+(a) The slip-stream velocity ~ a maxim~ at a radius of about ().6 of the Warms from
+hub to tip.
+
+r
+
+1~~~vgl~ ~om
+~
+
+~ lams~
+
+de l~Air l’Avle4@’J Q.Eidd:
+et
+by
+W*, 1914;
+P.~
+
+‘“ “‘-
+
+““
+.
+..
+
+.
+.
+
+-—
+
+,.—
+.—
+
+____
+
+__
+
+=-STREAM
+
+CORF3KH!IONS
+
+IN PER30RMAI!KJE
+
+7
+
+OOWUTATION.
+
+(t) At low speeds of advance and large slip percnritages the slip-stream velocity drops off
+very rapidly near the edges of the propeller disk. In the case under examination, @ moderate
+transitional speeds (V/ V’= 0.4 k V/V’= 0.6), the added slip-stream velocity (i. e., the.diil’erence
+between 17s
+and V) at the radius 0.96was from 40 per cent to 70 per cent less than that at ia “us0.8.
+\
+At h~her speeds of advance, a decresee in slip-stream in going out from one of these poin to
+the other is still noticeable, but it is much less abrupt and 1sssmarked.
+(c) At points which are neither very near to the center nor to the edge of the propeller disk,
+the velocity varies very little with distance from the propelIer, at least within the limits of these
+experiments. At the higher
+speeds of translation, there is
+a slight tendency for the
+velocity to incresae as the distance from the propeller increases.
+(d) Near the center of
+the propeller the velocity
+drops off somewhat, but not
+nearly so much or so abruptly
+as it does near the tip.
+~.
+/
+\* !
+t
+(e) At Iow velocities of
+L5
+227
+advance, the velocity near the
+center of the propeller disk
+increases considerably as the
+L4
+distamm from the propeller
+incres9es.
+(j) Near the edge of the
+/3
+slip-stream, the velocity is
+greatest very close behind the
+\ /
+/
+propeller. On going back
+I
+I
+A?
+L4 -“
+1
+from the propeller the velocity
+/23
+decreases quite rapidly for a
+/
+short distance, and then, on
+1/
+/2
+I
+going still farther
+away,
+/J
+shows a tendency to increase
+lightly. (e) and (j), taken
+ftogether, indicate that the
+slip-stream diameter is nearly
+.9 ‘
+/2
+L4
+.M
+.4
+.8
+,/
+U
+.6
+r
+z”
+# independent of distanm from
+$’
+the propeller, but that it conEm. L
+I tracts rapidly for a short dis! tance pa-&ing through the propeller. The point of minimum section having been reached, the
+slip-stream begins to expand in cro~ectionj
+but only very slowly. We shall not go far astray
+if we consider the slip-stream velocity and spction to be independent of me distance horn the
+L propeller.
+summing up, it appeam. that we shall secure reasonable results if we take the slip etream
+as having 0.9 the diameter of the propeller and assume the veIocity to be constant over the
+stream so deiined. Mean values, obtained in this way, of V.’. V and Vi/V’ have been plotted
+against V/V’ in figure 1, V and V’ being the actual velqcity of advance and the velocity of
+advance for best propeller ~ciencyj as before, Vsbeing the velocity in the slip stream. N and
+D are assumed to remain constant throughout. Any change in these quantities will nec.@tate
+a recomputation of V’.
+,
+
+,
+
+I
+
+.. .-
+
+—
+
+!
+
+‘
+
+.
+
+I
+
+-.
+..--—
+
+‘
+
+.——
+
+.
+
+8
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+MWISORY
+00h1mEE
+
+FOR AERO~AUTIOS.
+
+Although the above assumption as to slip-strew diarneter_may be aocepted as mgiataring
+sufficiently cloiely with experimental results, it can bo shown theoretically that thg diameter
+of the stream should vary with slip I%atio,or, for a given &@ne speed and propeller diametm,
+with the speed of flight. R. E. ~oude has shown that the increase in velocity of the fluid
+before it reaches the. propeller should be ~xactly equal to the ad~ed velocity imparted after
+passing through the propeller, or, using algebraic symbols, thati~V- ~-~(V’, V), where V
+–
+is the speed of flight, VI the indraught velocity, and JI the slip-stream velocity. Since the
+same mass of fluid passes eve~ point along the stream in a unit of time, the product of
+velocity and stream area must be the same at all points .if compressibility of the fluid be neglected. We shall then have, assuming the cross-section area of the inflowing—
+current to be
+_.—equal to the area swe~t by the prope~er:
+.—
+,.
+.,
+-s= ..w---c %
+.“
+A,xv,
+
+=yxv,
+
+=yx.
+
+‘
+v,-
+
+p+
+
+—
+.:;.
+
+(]7,+ J7j “,:
+
++i=ww=~”im= ‘
+This ratio would vary from a minimum value of 0.71, under static conditions, to a maximum
+conditions is ever
+of 1.0 at the speecl where Vs= V and there is no thrust. As neither of these—
+approached in normal flight, we can safely say that the theoretical value of-#
+
+will not wander
+
+far from the one (0.9) to which we have already been led by empirical data.
+The most striking thing about the curves of figure 1 is the remarkable degree of constancy
+of 7J v’. It appeati-iliat, so long as the engine speed “iikeptzonst.ant, the slipstream velocity
+is almost independent of the speed of flight, except at speeds well above that of maximum
+
+eflicicncy.
+Since V, is so nearly constant, it is evident that V,/ V will immeaserapidly as V decreases,
+becoming infinite when the macl@e is being held stationary on the ground with the engine
+running, prior to the starting of a flighti The method, which I have ahyady mentioned, of
+computing performance by assuming V’1V to have a comtant value of 1.15 or 1.2 h ticreforo
+manifestly quite incorrect except for a single speed somewhere in the neighborhood of the
+speed of maximum propeller efficiency. To de@nine the correction factor for any other speed
+we must-have recourse to slipstream velocity ”curves similar to those of figure 1. The error
+introduced by the assumption of a wmstant oorreotion factor will obviously be most important
+at me low and moderate speeds which correspond to most efficient climb, and undoubtedly
+accounte for the difficulty which has usually been experienced in computing rate of cJ.imbi
+It is well known that, although the maximum horizontal speed of a new machine can be predicted with a high degree of accuracy from performance computations of the ordinary type
+or from a wind-tunnel test of a model, an attempt to predict c~imbing speed in a similar fashion
+very commonly giv~ a value @tinctly higher than that found in a fredight
+test of the
+completed m&chine.
+
+EFFECTOF SLIP-WI’REAMN PERFORMANCE.
+O
+The method of applying the slipstream correction to the parasite rwistance of the parta
+inside the slip-stre”iunarea b secure the corrected total resistance and the horsepower required
+for flight is simple and obvious, differing in no essential particular from that employed when
+the correction factor is assumed to-remain constant.
+We have been considering so far a ease in which the engine speed @ a~umed to remain
+constant at all speeds of ffight,”a case which is never exactly realized. If the throttle bc+
+kept
+open, the load on the engine will be greatest, and the revolutions per minute will consequently
+
+-
+
+.
+
+SLIP-STREAM
+
+s
+
+CORRE~iOSS
+
+U“ PERFORMANCE
+
+COMPUTATION.
+
+9
+
+be lowest, when the slip percentage is gretit@; or, in other words, when the speed of “flight is
+lowest, and the en@e speed with open tbmttle may be 5 per cent or more lower when the
+plane is olimbing at ag angle of attack of nl;out 8° than when it is flying level at an aggle of
+attack in the neighborhood of – 1°. The vm%tion of revolutions per minute is small, however, and we shall not go far astray if we stick to our original assumption that the engine speed
+remains constant so long as the throttle is wide open. We have now ta consider the effects of
+partially throttling the engine, and the modifications of slip-stream effect which are involved.
+When the throttle is partially closed the en&e speed is reduced and the value of I“/ND, the
+propeller slip function, is therefore increased. It is evident from F%. 1 that an increase in
+V/ND causes a decrease in the ratio of V8 to V. If the engine be throttled to half its original
+number of revolutions, for example, maintaining the same speed of flight and varying the slope
+of the flighkpath, the value of ( V)ND )/(V/h?D)’ will be doubled and the ratio of V, to 17will
+be reduced, for a machine flying at 40 per cent of the speed for which the propsUer was designed,
+from about 2.6 to 1.4. The parasite resistance of park in the slip-stream would then be
+reduced by 71 per cent by throttling the engine, although the speed of @ht would remain
+the same. This, of course, is an extreme case; as the engine speed in level flight -would seldom
+drop to less than 75 per cent of the rabd spc%d. If the plane is gliding with the en$ne cut
+off, the slip-stream eftect will of coume disappear entirely.
+It is of interest now to examine the variation of the slip function and of the slip-stream
+correction when the machine flies at different speeds in the neighborhood of the maximum
+attainable, the engine always being throttled just sticiently to keep the flight-path horizontal.
+When the plane is flying at high speed the angle of attack is small and the coefikient of wing
+drag is near its minimum value. This coefficient .DOwiIl therefore remain almost constant if
+the angle is varjed sIightly, and the total wing drag will be very nearly proportional to the
+square of the speed for small changes in speed in the neighborhood “of the maximum attainable.
+The parasite resistance is always proportional to the square of the speed, neglecting the small
+effect of inclination of the body, struts, etc., and the total resistance will therefore be proportional to the square, and the horsepower required to the cube, of the speed of flight, provided that the slip-stream correction factor remains constant. This relation, it must be remembered, holds only in the neighborhood of the maximum speed of flight (say for angka of attack
+between – 2° and + 3°). It can be shown that, if we assume the validity of the blade element
+theory of propeller design, the power absorbed by a given propeller is proportional to V if
+the slip function be kept constant. Since the ‘horsepower absorbed must vary as 1’ in order
+that it may be equal to the horsepower required for Ievel tlight, it is evident thit the slip
+function will be approximately constant so long as the m@ine flies in a horizontal path at w
+angle close to that of minimum drag. To take a concrete-illustration, if the speed of flight be
+decreased 10 per cent the mkximum power required for flight will decrease h (.9)’, or 73 per
+cent of the original value. In order that the slip function may remain constant the engine speed
+must be decreased by 10 per cent. Since the value of ~’/Nll is unchanged, the ratio of slipstream velocity to speed of flight wilI also remain unchsuged, so long as the flighhpath is
+horizontal and the speed is fairly high. At very low speeds the slip-stream correction factor
+in horizontal flight is larger than at those in the neighborhood of the maximum, as the revolutions per minute decrease 1sss rapidly than the flight speed, and the-slip function co~equently
+decreases at low speeds.
+DEDUCI’IONS
+FR03i THE X1OMENTU~I
+THEORYOF PROPULSION.
+Our deductions to date have all been based, owing to an unfortunate paucity of cuxperimental data, on a single set of tests b which only one propelIer was used. It is now of interest
+to examine the question from another point of view, and see what we can learn by the applica-
+
+tion of pure theory.
+The Rankine-l?roude theory of fluid propfiion is based on the assumption that the thrust
+given by a ptopeller is equal to the skrnward momentum imparted to the fluid in unit time.
+
+—
+
+-.—
+.-
+
+—
+
+-.
+10
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COhiM.ITTEE
+
+FOR AERONAUTICS.
+
+–
+
+,-
+
+’15
+
+~
+
+I
+
+~-:
+
+,
+
+;
+
+If we assume the correctness of this theory, and further assume, as we have already dorm, that
+
+.,:..--’
+
+‘
+
+the slip-stream has a diameter aqual to 0.9 of the propeller diameter and that the velocity of
+the air is uniform all over the slip-streafi, we can readily compute the slip-stream velocity,
+given the engine horsepower, propeller efficiency, propeller di~meter, fi”ndspeed of flight.
+Let P =horsepower.
+T =propeller thrust.
+.’
+v = propeller eiliciency,
+D = propeller diameter (feet). ,
+V = speed of flight (feet Ter second).
+1’, =slip-stream velocity (feet per second).
+
+A, = area
+P
+
+= detity
+
+of slip-stream=
+
+.81~~= .636
+D’.V
+
+of air= .07’608potids per cubic footmnder stsmdard conditions.
+
+M =mass of air paasing through propeller in 1 second=;
+~
+
+Tx
+.—, v
+550x q
+
+550XP xi”
+
+T“~_”
+
+Equating (1) and (2),
+
+‘.
+,., ,.
+
+.
+/
+
+“,
+
+,
+
+.7 o)
+
+.
+
+.-.
+
+-.>.,.. ,,
+,
+
++/
+~,.v’l-~)”
+
+From the momentum theory of fluid propulsion, ~
+– -T=@fx:~V8- V&Ar
+
+x V,x A.~
+
+—.. -. .. >.00151)’x V*X(V8– V)
+:
+‘
+_., .
+550xT7~”=.oo15 Wxv,x (T, – V)
+
+(2)
+
+..- . ..-. .—. _—
+—
+
+It is a well-known fact that, for any given value of the slip function, I’/ND, the power
+consumed in driving a propeUer of any particular typ6 is proportional to VSDZ. WC can then
+writs & VD’ in place of P in the above equation.
+
+(V,– V)X V,=367,000 V%I
+K,
+D~viding through by @
+~–l
+()
+
+x$=367,000
+
+&X~
+
+and solving :
+~=u~
+
+(
+
+1 + ~1 + 1,468,000 K’v
+
+)
+
+(3)
+
+It is evident that any ohange in propeller dea~, such as an increase in the number of
+blades which tends to increase the power absorbed by a propeller of given diametm, will increase
+the magnitude of the slip~tream correction as given by this formula.
+It is of considerable interest to compare the slip-stream correction obtained by this theoretical analysis with that found by actual measurement of the ELirelocities behind a propeller.
+v
+This has been done for Eiffel’s propeller No. 9, the experimental data for which we havo already
+studied. A table of ~, ~, and the theoretical slip-stream correction for various valuea of
+V/ND is given below, and tie
+2 shows the compfi.on between the theoretical and experimental values of V,/ V.
+
+SGIP-STREAM
+
+CORREHIOW
+
+IN PERFORMAN~E
+
+V/AVD
+
+K1xl@
+
+q
+
+0..7
+
+:%
+
+cl~
+
+COMPUTATION.
+
+11
+
+.
+
+V$ V
+
+..
+.503
+.540
+.614
+.W
+.754
+:
+Y7
+
+1.76
+1.36
+.76
+.62
+.21
+.17
+.14
+
+.7%
+.742
+.7E4
+.710
+;;
+
+1.746
+1.484
+:.
+L 178
+LI!M
+1.037
+LM4
+LOM
+
+1
+
+,
+
+.
+
+.,
+
+The coinoidenoe between the two curves h &we 2 is quib extraordinary, especially in the
+neighborhood of the point of best propeller efficiency. At no point in the range corresponding
+to conditions of normal flight do the two valu~ disagree by more than 2 per cent. !l%ia exaotitude of agreement must, however,
+be regarded m largely fortuitous, m 2L?Eiffel’s experiments themselves could
+hardly be accurate to such a degree.
+SL/P-STR64M
+CORRECTIONS
+The slope of the theoretical curve Zo
+is a little less than tliat of the experimental one, but even this slight discrepancy can be accounted for by our [8
+faihm to take account of the -rari~tions in diameter of the slip stream,
+which, M we have already seen, varim L6
+sornewhut in size with changing speed Es
+v
+of flight.
+It appears that the formula (3)
+L4
+can be used without hesitutiou to
+secure the slip-stream correction and
+the correction can undoubtedly be L?
+determined with much greatw accuracy in this way than by any adaptation of the results of experiments on [0
+‘ propellers of type differing from that
+which is to be employed. K1 can
+ahvays be determined for any machine
+whtm the speed of flight, propeller
+diameter, and horsepower ddi~e~
+by the engine under any given conditions are known. The efficiency
+
+—.
+-—-..
+
+Co.q.wfed+ymawm’um fheq+--Foundbyd/Yecfwerhent- —
+e
+
+\
+\
+\
+\
+b\J
+\
+\
+
+\
+\
+\
+\
+
+[~)~
+FIG.
+2.
+
+by the standard blade element method. The
+more tedious than is th%simple process of reading the
+slip-stream correction from the curve of figure 1, and the ohoice between the two methods, whore
+the propeller is close to tho usual form, j~ largely a matter of per&nal preference, with the computation by the momentum theory having the adrantage in respect to ,accuracy.
+
+-.
+
+can be ooruputecl from the propellerdrawings
+
+application of (3) is,however, somewhat
+
+.
+
+—
+. . .. .
+
+12
+
+ANNUM-REPORT
+lJATIOIJALDVISORYO.M.MITTEE
+A
+C
+
+FOR AERONAUTKH.
+
+In order to check the va~iiiity of our original assumption
+factorstit
+tho point of maximum
+
+that the dip-stream correction
+values of this factor
+tested by 13iffel up to lIJ1 .3, and also
+
+cfic.iency t.ho
+is
+smno for allpropellers,
+the
+
+have bceu computed, hy formula (3), for all the propellers
+for some of those teritod by Dr. L)urnnd.~ The vahms of tho c orrcction for tho Tmious propellersaro ttibuM~d Lmlow;
+EiJel.
+
+bad.
+..
+
+. . ——. .—
+-.
+
+-.
+
+v~v
+
+=7=
+
+___
+
+—l—
+1.354
+;
+8
+
+i’z
+L 161
+:
+L 435
+6
+L 361
+7
+L%
+8
+L Im
+9
+L 178
+-1.1s6
+:!
+L 166
+12
+L 140
+13
+1,341
+1.208
+;;
+L ai9
+lW. 1.258
+p; I ::g
+
+L 169
+
+,.,
+
+1.178
+LM
+1.145
+1.169
+L24S
+1.
+m
+1.241
+L %5
+R%
+LWI
+L 161
+L !22#
+1.
+!2M
+L la
+LZ71
+1.
+WI
+
+18 i L 439
+19 I 1.035
+m
+2J:%
+261$?%
+# I :;g
+26, L233
+J
+
+—
+
+.-
+
+.,
+
+—.
+
+The variation in VJ V is greater t.htin might, ha~e been cxvcctcd. IIiffel’s 27 mtivcllcm
+J&t tibove half of t~~erno~ek testrcl h~ve ~alucs
+showing values ranging from 1.~65 t.u 1,439.
+between 1.15 and 1.35, and wc can safely stiy that these viilI be the limiting valurs fcr two-bklcd
+propellers of normal type nnd ~iteh. In the case of the Durt~t)d propcllem, VJ 1’ lay l)elw(Irn
+1.15 and 1.35 for all except 2 of the 18 examined.
+‘l’ho figures obttiined above led to certain genmd conclusion as to the dependrmw cd {ho
+slip-stream effect on the type of propeller empkqmc?. It tippewa that V,/T’ depends primmiiy
+on pitch, being high for those propellers in wbic.h the pitch-diameter rutio is least. Eiiel’s
+No. 1, for examplq which shows a very high VJ 1~,had a pitch of only about one-half the ditimeter, whereas No. 20, for which V,/ F’ was only 1.065, had a pitch of 1.4 times the diameter. .It
+appwys, furthermore, and rather mrprisingly, that the.slip-stream effectis substantiallyindependent of blade %idth and blado form, the propelhm with blades of comt.ant width showing,
+on the whole, a slightly higher VJ T’ than those witdl more rounded blade tips.
+The use of a cambered fuce on the blades incteases V’/ V. Duram? Nos. 5 and 20, fur extimplc,
+tha l~t,ter u cambered, blade face, mid hro.
+are ~xactly dike uxcept that the former has a fliLt,
+29 gives Q consic{ertiblv I@her slip-stream velocity than does No. 5. Tho most pronounced
+I?iffel’s Nos. 15 and 16 ar~ exactly
+effect, however, comes from varying the number of blades.
+similar except thut the former has two blades, the latter fonr (,Nos. 1i and 1R am also fourbladed), yet the t%x~ives a velocity ratio of ] .Y2, the seconc] of 1.37. It is customary, in
+using the Ihewiecki,
+or blade clmnent, theory of propeller deaigu, to assume that two narrow
+blades are exactly the same as one wide ono, but nnalyais of experiments makes it appear that
+that assumption is far from the. truth, and that a given blade area will absorb more power
+wheu it is subdivided among several blades than” when it. is concentrated in two.
+Comdtke
+1Thfrd Amoral Report of NationalAdvisory
+
+0
+
+for Aeronautics; Washing@
+
+1918.
+
+..
+
+—
+
+—. ~.—
+

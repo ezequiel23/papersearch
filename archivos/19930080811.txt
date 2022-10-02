@@ -1,0 +1,1220 @@
+:
+
+,
+
+TECHNICAL NOTES
+NATIONAL ADVISORY
+
+,........
+
+COM~ITTEE
+
+FOR AERONAUTICS.
+
+No.4.
+
+THE PROBLEM OF THE HELICOPTER.
+
+by
+
+"
+
+E. P. Warner, Chief Physicist,
+Aerod¥namical Laboratory, N.A.C.A.,
+.
+Langley Field, Va.
+
+Washingtoq,
+May, 1920.
+
+1800-5
+
+THE PROBLEM OF THE
+
+HELICO~.
+
+Prepared for
+
+the
+
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+by
+
+Edward P. Warner
+
+Chief
+
+Physicist.
+
+March, 1920.
+
+THE PROBL&M OF THE HELICOPTER
+By
+
+Edwa1:'d P. Warner.
+The idea of using a propell er rotati ng about a vertical shaf t to
+give lift and to sustain a we ~ ght by balanci ng it directly with t ha
+thrust is almost as old as the screw propeller itself, and the elements
+of the theory of th~ action of a lifting propeller have been understood for at l east fifte en years. Unfortunately, however, the pr inted
+discussions of this theory ~Te almost all in French, German, or Italian, and those which are available in Engl ish are mostly contained in
+advanced treatise s which are not likely t o fall into the hands of the
+casual student. A Vast number of helicopters have be en invented,
+many have be en built, and a very ) very few have be en successful up to
+the point of raising themselves from the ground. The possible advantages of the he l i copter are obvious, a machine which Can rise and
+descend vertically, and which require~ no large space over which to
+run before taking off and after descending, manifestly being more useful, other things being equal, than the present type of airplane .
+It is regrettable that the inventors of direct-lift aircraft have, in
+many instances, seen only these possible gains and have failed to
+consider fully the problem which they have to meet or to familiarize
+t4eIDs elves with the fundamental the ory on which the action of every
+<
+helicopter must be based. It is felt, therefore, that a broad survey
+of the problem will be of use in making clear the nature of some of the
+o'b stacles which have prevented any helicopter from reaching the stage
+of practical usefulness as yet and may l ead to a saving of SOIDe of
+the time and money which ar e constantly being squandered on attempts
+to demonstrate anew facts which are already perfectly well understood
+without in the least striking at the root of the problem.
+The cruces of the helicopter ~ue stion ar e the securing of the necessary lift to rise from the ground, the assurance of a safe descent
+after complete failure of the engines, the securing of stability and
+controllability, and the maintenance of a reasonably high forward
+speed in the horizontal plane; and each of these points will be discussed in turn. Manifestly, until the f irst problems are solved satisfactorily the others do not rise at all, anQ the discussion will
+therefore be started with the question fundamental to all others, the
+question of t he thrust which can be secured from a direct-lifting
+propeller and of the specifiCations to which the design of the propeller must conform L1 order that this thrust may be a maximum.
+
+~---------~ -------- -------- .--------.---~ -
+
+-
+
+- 3 -
+
+DlBEOT-LIFTn~
+
+THE THEORY OF THE
+
+SCREW PROPELLER .
+
+The charact eristics of p~ opellers can be expressed in several
+different ways, but all of these except one involve the spe ed of advance, which is zero in the case of the helicopter . The only f ormul ae which can be used in investigating th e perf ormance of the directlift machine are then,
+
+T - Tc
+Q
+
+P
+
+= Q.c
+= Pc
+
+L
+
+g
+L
+
+~
+j
+
+N2 n4
+
+(1)
+
+NZn 5
+
+(2)
+
+w3D5
+
+(3)
+
+where T is the thrust, Q the t orque , and P the p ower, and Tc ' pc. and
+
+Q are experimentally det ermined coefficients, functions of V/ND
+c
+
+alone and therefore independent of peripheral spe ed w
+hen applied to a
+helicopter.
+Dividing (1) by {3) t o find the thrust per horsepower, which is
+always the fact or of prnnary interest ,
+
+The. thrust per horsepower is theref ore inversely ~r op o rti o nal tO,the
+pe r l pheral speed. It f ollows that an incre ase in the power app11ed
+to a g iven propeller caUSe s the thrust t o incre ase in a smaller ratio
+than the power, as the increase of p ower increases the peripheral
+speed and this causes a decrease in the thrust per unit power, (3)
+may be written,
+/'
+
+j
+If P and Pc are assum~d t o r emain c onstant, ND, which is proportional
+to the peripheral speed, vari e s inver sely as D2/3
+It is theref ore
+po ssible, by making the d iameter of the pr ope ller large enough, to reduce ND below any deSi gnat ed value ) and so t o i ncrease the thrust per
+horsepower without l~it.
+Since the thrust par horsepower is i nverse ly pr oporti onal t o ND,
+the pr oduct of thrust per hor sepowe r and ND i s a fundame ntal charaC teristic of any given type of prope ller f or heli c opter u se. This
+product is non-dimensi onal , or, r at he r , it would be i f power were expressed in ft. Ibs . or kg. m. per s e c ., and is equal t o the ratio of
+Tc t o pc. The mean value of the pr oduc t for the pr 0peller s te s t ed at
+the request of the National Advisor y Committ ee f or Ae r onautics at
+
+{
+
+- - - -- _ . _ - - - - -.-- .. - --" --.-------~---------------
+
+- 4 -
+
+Leland Stanford Junior University,* the units being Ibs. per H.P. and
+ft. per sec., was 819 for propellers having a pitch-diameter ratio
+of -l.l, 984 when that ratio was reduced to 0.9, 1124 for 0.7, and 1318
+for 0~5. These propellers were all two-bladed. In some experiments
+conducted at the National Physical Laboratory in 1917 a maximum of
+1750 was obtained with a 'two-bladed propeller especially designed for
+helicopter work, the blades having a constant angle; and it is probable that this value cannot be very much exceeded.
+Solving (4) for ND and substituting the value obtained in (5),
+the expression for power consumed becomes,
+p - P
+
+3
+
+.p
+c ;;:~
+
+The produc t of the first three factors is a constant for any family
+of geometrical2y stmilar. peopellers, assuming them always to work under the same atmospheric conditions, and the product of Pc and
+
+(~:)
+
+3
+
+can therefore be used as ~.other fundamental characteristic of the
+type of propeller. Denoting this product by K, and solving for diameter,
+
+p x
+
+K
+
+(~)
+xL!
+
+1
+
+=
+
+Px ... /Kx~
+
+Y
+
+:l
+
+Solving Similarly for N,
+N =
+
+7
+.I
+
+E
+
+K' x 'j
+
+\/~~)5
+
+xP
+
+5.' Tc"'
+Since it is always desirable to
+where K is equal to Pc x \ p I
+c·
+make D as small as possible and N as large as possible, other things
+being equal, in orde~ that the helicopterrmay occupy a minimum of
+space and in order that the gear reduction ratio from the engine shall
+not be any larger than necessary, the best propeller for helicopter
+use will be that one which has the largest values of K and K'. The
+mean values of these coeffiCients for the propellers of several pitchdiameter ratios which have been tested at StCUllord are tabulated below,
+together with the values for several p~opellexs of different numbers
+of blades which we!'e designed especially for helicopter use and tested
+at the Nationa+_Fbysi~al La.~o~~~a~t~o~r~y~._____~----------~----------'
+*Experimental Research on Air Propellers, II, by William F. Durand and
+E. P. Lesley: Report No. 30, National Advisory Committee for Aeronautics: Washington, 1919.
+f
+
+.
+- 5 Propellers
+Stanford, P/D
+
+;:;
+
+1.1, average
+
+P/D = 0.9, average
+P/D = 0.7, average
+P/D - 0.5, average
+
+11
+
+"
+
+K
+
+113,600
+173,000
+
+K' /10 8
+761
+1673
+
+191,100
+
+2418
+
+217,400
+
+3773
+
+N.P.L. Type A, 2-bladed
+" A, 3-bladed
+"
+It
+A, 4-bladed
+"
+
+2734
+
+n
+
+B, 4-b1aded
+
+130,000
+158,000
+146,000
+144,500
+
+"
+
+C, 4-bladed
+
+167,000
+
+2822 I
+
+11
+
+"
+
+"
+
+j
+
+2511
+
+1610
+1401
+
+It is clear that the prop '3 11ers having a constant geometrical.
+pitch of one-half the diameter are, rather strangely, distinctly
+superior to those designed espeCially for helicopter use. Since
+the ~uestion of helicopter desi6n has received only the slightest
+~ttention, no wind tunnel experiments eAcept those tabulated above
+havin3 been run in recent years, there is no doubt that propellers
+better suited for use with direct-lift machines than any that ~e
+now available can be devised. As ~ basis for computation K may be
+taken as 250,000 and K' as 44 x 10 10 . A table can then 110 c"l-.;;ttucted
+showing the diameter and r.p.m. necessary to secure various lifts per
+horsepower with different engine powers. Such a table is given on
+the next page. In applying the table, the power taken should of
+course be the power used on a single propeller. For exam-pIe, i f a
+400 H.P. engine drives two propellers the necessary di~eter of a
+single propell~r will be found in the column beaded 200.
+
+q ....
+\
+
+\
+
+\~
+.;\
+
+- 6 -
+
+Propeller Diameters in Feet.
+
+('It. p.m. in parentheses. )
+
+Horse Power
+'.
+
+20
+
+P-.'
+
+40
+
+60
+
+100
+
+: 150
+
+: ZOO
+
+30 0
+
+::r:; "
+~
+
+600
+
+400
+
+800 :1000
+
+"
+
+: (7740); (5490): ( 4 470) : (3460): (2830); (2450): i,,2000); (1730); (1420): (1220) ; (1100 );
+m; 5; 2.06 : 2.90 : 3.56 ; 4.60 : 5.63 : 6.50 : 7.95 ; 9.19 : 11.2 : 13.0 : 14.5 :
+P<!10:(1370): (966): (786); (612): (500): (432); ' (353): (306): (250): (216): (193):
+~:
+5.80: 8.21 ; 10.1 : 13 . 0 ; 15 . 9 : 18.4 : 22.5 : 26.0 : 31.8 : 36.8 : 41.1 :
+: (495): (351)= (286): (221); (181): (157):(128): (111):(90.6):(78.6)=(70.2);
+15
+10.7 : 15.1 : 18.5 : 23.9 : 29.2 : 33.8 : 41.3 ; 47.6 : 58.5 : 67.5 : 75.5 ·:
+: 20: (242. ) : (In. ) : (140. ) : (108. ) : (88.8) : (76 . 8) : (62.4) ; (5 4 .2) ; (44.2 ) ; (38.2 ) : (3 4 .3 ) ;
+'cD: :16.4 :23.2 :28.4 :36,7 ; 44 .9 ; 51.9 ; 63.6 : 73.4 : 90.0 ; 104. : 116. :
+
+e:
+
+t:; :
+
+~:30:(87.6):(61.8):(50.7);(39.2):(32 .1);( z6. 3) : (22.6):(19.6):(16.1):(13.9):(12.4):
+: 30.2 ; 42.7 : 52.3 : 67.5: 82 . 6 : 90 "5 : 117. :
+:40:(42.9):(30.2):(24.7):(19.1):(15.6);(13.5):(11.0) :
+: 46 . 4 ; 65.6 : 80.4 : 104. : J.~~ 147. : IBO. :
+:50:(24.S);(17.3):(14.2):(11.0): (8.9): (7 . 8): (6.3):
+60.5: 91.1: 112. : 145. : 178.: 205.; 252.:
+
+135. :
+(9.5):
+208. :
+(S.5):
+290 . :
+
+165. :
+(7.8);
+254, :
+(4.S):
+356,:
+
+191. :
+(6.8):
+294. :
+(3.9):
+411.:
+
+214 . :
+(6.1) :
+32B.);
+(3.5):
+459.:
+
+It is not correct to speak of the lifting power of a helicopter
+as its efficiency t as is often doone, s:).nce a helicopter screw which
+is merely sustaining a load in the a:i.r is not doing any useful work.
+Only when ascend5.ng is useful work dene, and only under that condition
+is it proper to speak of propulsive efficiency. The helicopter experiments at the Nat10nal Physical Laboratory were extended to cover ascending and descending flight, and it was found that the thrust per H.P.
+is almost independent of vertical velOCity over a wide range. This is
+particularly true of descent. For example, a helicopter deSigned to
+~,.. ~ r barely sustain 30 lbs. per H.P. (ND
+44) could ascend with a vertiCal
+,. J
+velocity of 800 ft. per min., if the load were reduced to 22 lbs. per
+rated H. P. and if the power were kept c~mstant. The r.p.m., however,
+would be greater during ascent than during level flight, and it would
+be necessary, in order to keep the engine from racing with full throttle,
+to use either a variable-pitch propeller or a variable-speed transmission. If no such mechanism were used, and if the r .p.m. were held con~f
+istant, the load would have to be reduced to 16 Ibs. per H.P., instead
+," ,Q"fJf only 22, to permit the attainment of the climbing speed. specified
+~~~above.
+If the throttle were left wide open and the motor permitted to
+I ;race until its torque was fully balanced by the resisting torque of the
+~ ~ [propeller no reduction in load wo~ld be reqUired, except that there
+~~ would have to be a very slight initial excess of power to produce a
+~
+vertical acceleration and start the upward motion. Once started, it
+//1 would continue of its own accord. It would not be possible to ascend
+/'1 / at much more than 800 ft, peZ'min. with a propeller of fixed pitch.
+~"
+By varying the pitch and reducing the load to about one-half what it
+would be possible to sustain (say 15 lbs. per H.P. in th·J problem
+~~ just discussad) it probably would be possible to cltmb 1,800 ft. per
+1)
+min. or be tter, although there are not enough experime ntal data to
+
+=
+
+#
+-:~\,
+
+.'
+
+')
+
+,
+
+..,
+
+...
+
+make it possible to speak with oer~a1nty on this point.
+It is usually assumed that propellers designed primarily to work
+under static conditions should have the blade sections all set at
+the same angle to a plane perpendicular to the propeller aXis. This
+would be correct 1f there were no indraught, and it is also correct
+indraught existing, if the indraught velocity at every point is directly proportional to the distance from the propeller axis. It can
+be shown by a combination of the momentum and blade-element theories
+of propeller action that this condition is realized when the blade
+has the same sectional form and angle of attaCk at all points and
+when the blade width is directly proportional to the distance from
+the hub (i.e., when the blade has the form of the sector of a circle).
+Such a propeller is of course ~ossible to build, as it would have
+no strength near the hub. It is probable. therefore, that in actual
+practice the indraught velocity near the hub is always considerably
+larger, in proportion to the radius, than that farther out along the
+blade, and the angle of setting ot the elements near the hub should
+therefore be a little larger than that of those in the neighborhood
+of the tip. In other words, the propeller blades should have a little
+warp of the same sort as that which is given to the blades of propellers intended for driving airplanes. The warp of the blades of lifting screws should, howev~r, be much smaller than that of propulsive
+screws. The British experiments already mentioned dealt with helicopters the blades of which had no warp, and the angles of the blades
+were varied during the tests with a view to finding the most efficient disposition. It was found that tM ratio ·of Tc to Pc waS - -,
+largest for a blade angle of ~o for the 2-bladed propeller and ?io
+for the 4-bladed one. The difference is accounted for by the larger
+indraught velocity of the multi-bladed screw. Tbe product K was
+largest for an angle of 9° for the 2-bladed propeller and 11° for the
+4-bladed. The bast angle to adopt would ordinarily be about half-way
+between that of maxirn'Ulll thru.st per horsepower and that of maxim\Jll K.
+THE SAFE'l'Y OF HELICOPTERS IN FORCED DESCENTS.
+The gravest charge brought against the helicopter is its lack of
+means of making a safe descent when the engine has stopped. This
+charge is frequently answered by the inventors and promoters of the
+direct-lift machines with the statement that the blade area of the propellers acts as a parachute to prevent the velocity of descent from
+rising to a dangerous value, but a moment's conSideration -will show the
+fallacy of this. A parachute of the usual type carries a load of not
+more than 0.25 lbs. per sq.ft. of projected area, yet it lands at a
+VelOCity much too high to be safe for a helicopter. In order to prevent damage by excessively rapid deceleration the vertical velocity
+at landing should be kept below B ft. per second, any larger velocity
+requiring the provision of shoCk-absorbers of conSiderable size and
+complexity. However, the l~iting safe velocity may be taken, to be
+generous, as 16 ft. per second. The resistance of a flat plate ~rm~l
+to the wind at a speed of 16 ft. per second is 0.39 lb. per sq. ft. ,
+and this would accordingly be the limiting safe loading of the propeller blades, conSidered as a parachute. Since the area of the pro~
+peller blades is never likely to be more than 40% of the propeller
+
+- 8 -
+
+disc area, the loading calculated on the basis of the whole propeller
+disc would have to be kept down to 0.15 1 bs. per sq.ft. To carry a
+load of 2000 Ibs., and have the helicopter descend safely on the parachute principle after an engine stoppage, it would therefore be necessary to have a total propeller disc area of 13,300 sq.ft., which corresponds to two propellers each 92 ft. in diameter. This is manifestly
+too large to be considered if it is by any means possible to do better.
+To have the propeller blades give a true parachute effect, it would
+be necessary that the propellers be locked after the engine stopped to
+keep them from spinning around, acting as windmills. A possible alternative method is to leave the propellers free, permitting them to spin.
+The direction of rotation when acting as a windmill would be opposite to
+the direction in which the propellers are driven by engine power, and
+the leading ed 6es of the sections would therefore be what are normally
+the trailing edges, The propeller wo~d operate very inefficiently
+under this condition, and the lift resisting the descent would therefore be small. Besides, even if there were a marked advantage to be
+gained from this reverse rotation as compared with the Case in which
+the propeller is held stationary, that advantage would be of no avail
+when an engine stoppage occurred near the ground, as it would take
+Some tline for the force tending to reverse the direction of rotation to
+overcome the inertia of the rotating parts, and the propeller would
+have to pass through all the intermediate stages of decelerating forward rotation, remaining at rest, and accelerating reverse rotation
+before the full effect of the spinning of the blades would be realized.
+If the machine were initially so low as to strike the ground during
+this transition stage it would be no better off, so far as limiting
+speed of fall is concerned, than if the propeller had been locked.
+The remaining possibility is to provide means of changing the angles of setting of the blades, and to set them, as soon as the engine stops, at such a position that they permit the propeller to spin
+around, impelled by the upward pressure of the air against the blades,
+while maintaining the same direction of r.otation as that in which it
+is driven by the engine. It is obvious that this mode of operation
+is superior to the one just mentioned, and a detailed analysis of the
+resistance which the propeller offers to descent when working as a
+windmill will therefore be made. A great deal depends on the frictional resistance, which has the effect of partial braking, and two
+assumptions as to this will be made in turn. In the first case, it
+will be assumed that a clutch is provided to permit the pilot to disconnect the propeller from the en~ine entirely, and that, the shaft
+being mounted on baIlor roller bearings, the frictional torque can
+be entirely neglected. Under this condition, the rate of rotation of
+the propeller will be such that the mean line of action of the reaction on the blades is parallel to the shaft of the propeller.
+f~' "
+
+L
+2 T r-h
+
+o
+
+,.--
+
+Y
+
+'~
+
+, --------__
+
+"
+
+'/ y
+
+--.
+
+----'
+
+1
+:
+
+-
+
+-
+
+zc
+
+, .;,
+
+'
+
+1
+
+Fig. 1.
+
+- 9 Considering any single element, the resultant and component velocities
+and forces are shown in Fi~. 1. V'r is the vector representing, in
+magnitude and direction, the resultant velocity. Since there is to be
+no torque in either direction the equation of equilibrium may bo written
+
+L s in <X = D co s
+and it follows from this that,
+12~
+
+-
+
+tan
+
+(X
+
+cmd
+
+V
+
+L
+
+- 12
+L
+
+Since it is desired to secure the largest possible lift frem each element of the propeller) the blad.es sho".llo. be zet at that angle which
+will give the largest mean value to the product of the lift coefficient and the square of t.hG :n,:: su...1t.e.n~; velocity . Since V is fixed by
+the conditions of safe 1and'i.r.lg , t.h.~ s product may be vn:-itten,
+
+Lc x V2
+r
+
+= Lc
+
+x (211 Y?7)
+
+222
+x sec cc - Lc x V x
+
+x
+
+The term in brackets is always so nea1'ly equal to one that it may be
+disre garded, and the critical function is therefore the product of the
+lift coefficient by the square of the J,/D ratio. The function has
+its maximum value when the angle of attack is approximately 6 0 for
+most representative win~ sections. Since the mean arc tan D/L for the
+whole blade of a propeller at this angle of attack would be in the
+neighborhood of 4?5 the chord of the blo.de should be set at about
+1 ~5 to the plaI':'.e perpenc'. icular to the ax5.s. If LID has a mean value of
+12.5, which corresponds to the assuropt;~.on just made with regard to the
+ar.c tan D/L. the mean peripheral speed for a vertical velocity of 8 ft.
+per sec., which has already been sho·.vn to be the maz~um safe landing
+speed, would be 100 ft. per sec. AHSuro:i.ng th'i.s to correspond to a
+section lying two-th~.r.d ·> of the way ou.t aloI':'.g the bJ.ade, t.he peripheral speed at the blade tips wou.1.d be 150 ft. per sec. and ND would
+be 48. Wb~ the propeEer is being dr-iven by the engine the angle
+0
+of attack of the sections would normaLly be from 4 to 5°, and the
+lift coefficient would therefore be about 22% smaller than when the
+machine is descending without power a,nd with the pitch reduced so
+that the propeller acts as a windnlill. Tne periI,heral speed for the
+same upward force would therefore be a.bout 6% greater in the Case
+wi th power than i:1 that wHhout, and the normal ND would be 51 in the
+first case for a propeller capable of carrying the weight of the
+machine during descent without allow5. ng the velocity to rise above
+8 ft. per sec. This corr'3sponds to a hit of 26 Ibs. per H.P. I and
+it is therefore unsafe to design a helicopter so that it \nll not be
+able to sustain normally its full weight at the rate of at least 26
+lbs. per H.P. , as one which bud less lifting (!apacHy than that
+would have a higher normal value of ND than 51, and would fall with
+excessive rapidity when the power was cut off (it is assumed in giving these figures than the most efficacious type of propeller available is employed.) The real criterion is that ND shall no '\'; ::cceed
+
++
+
+51 undQr normal conditions, and the load per H.P. for which the helicopter should be designed to insure safe descent would vaxy somewhat
+as between different types of prupelle1's).
+The second case that has to be considered is that in which there
+is no means of breaking the cormection between the engine and pro-
+
+peller, and in which the propeller is therefore burdened with the taSk
+of cranki~ the engine against its. friction during the descent. It
+will be assumed that the total friction in the engine and transmission
+is 20% of the brake horsepower, and also (as an initial assumption
+the propriety of which can be checked at a later stage of the work)
+that a 150 H.P. engine is used to drive a propeller 240 ft. in diameter at 5.4 r.p.m. The horsepowar required to turn the engine over
+against friction would then be 30, and the torque applied at the propeller, rotating 5.4 r.p.m., would be 29,170 1bs. ft. Taking the mean
+effective . radius of the propeller, as before, as being two-thirds of
+the maximum radius, the force whi~h it would be necessary to apply to
+produce this torque would be 365 los. Since ND for the propeller just
+specified is 21.6 the thrust would be 61 Ibs. per H.P. and the total
+thrust 9150 los. The ratio of torque force to thrust would then be
+.04. Writing the equations for the elements of these forces and for
+their ratio,
+dT
+
+= (Lc
+
+cos
+
+0<.
+
+i
+
+Dc
+
+sin
+
+x (1 of tan <.X tan
+
+Y' =
+
+where
+
+arc tan
+
+0< ) x Vr
+
+Q,Q,=
+
+dT
+
+Then
+
+(tan ,X
+tan
+1 4-
+
+,-")0(
+"
+
+-
+
+tan X
+
+x d.A x Lo x cos 0(
+
+L
+
+Q(
+
+)
+
+0( -
+
+and, since the mean value of
+
+x Vr Z x d.A = Vr
+
+2
+
+x ciA x Lc x cos
+
+ex.
+
+Y ).
+
+tan Y
+tan y
+
+tan (
+
+= Vr 2
+
+!?
+
+tan
+
+-
+
+x d.A
+
+y),
+
+d.Q :: (t c Sin 0<. - Dc cos
+x
+
+2
+
+tan (0( -
+
+Y ) ;:
+
+y
+
+y )
+
+x - y
+
+. 04
+
+=
+
+293
+
+would. be very nearly 4~5,
+
+()( = 6'?8
+and
+
+tan 0<
+
+:.
+
+v
+
+=
+
+.119 .
+
+Allowing V, as in the first case. to have a maximum value of 8 ft. per
+second, the Ihniting mean peripheral speed would be 67.2 ft. per second, corresponding to values of 101 ft. per second for the tip speed
+and 32 ft. per second for NO. The minimum load. capacity for which a.
+helicopter should be designed if it is to have variable pitch propellers but no means of disconnecting the propellers from the engine is
+therefore 42 lbs. per H.P.:" For a 150 H.P .. engine on each screw this
+
+- 11 -
+
+would require a propeller 138 ft. in diameter turning 14 r.p.m.
+The initial assumption as to propelle~ size was therefore rather wide
+of the truth, but this has no effect on the ultimate result. The
+torque for a given power is inversely .proportional to the r.p.m. of
+the propeller, the torque force for a given torque is inversely proportional to the propeller diameter, and the torque force per horsepower therefore varies inversely as ND. Since the thrust also varies
+inversely as ND, the ratio bet~~en the two components of the reaotion
+is quite independent of the initial assumption as to the propeller
+size and speed, and the problem could be treated in a perfectly general way without making any such assumption, but it simplifies the
+work a little to insert some consistent set of figures.
+In order to keep the propeller rotating in the original direction and at the maximum effectiveness when it has to turn the engine
+and transmission over, the mean chord of the blades would have to be
+set at _1 0 to the plane perpendicular to tho axis, instead of at
++1?5 as in the case where there is no frictional torque to contend
+with.
+HORIZONTAL TRAVEL.
+
+The most important question remaining to be discussed has to do
+with the possibility of progressing at a satisfactory rate in a horizontal plane. To bd sure, it has samet~es been proposed to use captive helicopters to do the work for which observation balloons are
+now used, out ·their use for that purpose would never be very extensive under any conditions, and the helicopter can never be considered
+a practical possibility unless it is capable of making headway against
+ordinary strong winds.
+There are two methods frequently suggested
+for securing a propelling force in a helicopter. The most commonly proposed, and the
+one which is likely to be most successful,
+entails the inclination of the axis so that
+the thrust may have a horizontal component.
+The second, which will not be discussed in
+detail in this report, depends on the use of
+subsidiary prcpellers with horizontal axes
+for propulsion, the transmission being of
+such a type as to permit of the distribution
+of the engine power between the sustentative
+and propulsive screws in any desired proportion. This scheme entails considerable
+structural difficulties, the requisite ·
+being practically two transmissions of
+infinitely variable gear ratio driven from
+~ single engine and remaining continuously
+J.n engagement while the ratio is being changed.
+
+T
+
+'\
+
+I
+
+\
+
+J
+
+(
+
+/
+
+I .
+
+•
+
+- 12
+
+r
+
+The forces acting on a helicopter with inclined axis are shown
+in Fig. 2. The method of throwing the machine into the inclined position need not be considered at present, nor ne ed the moments which
+tend to increase the inclination or to r e store the helicopter to a
+vertical position, as these will be taken up separately in a later
+section of the r eport in conne ction with the ge ne ral problems of stability and control. The e ~uations of e ~uilibrium for steady horizontal trav el are
+
++Y
+sin e - Y
+
+T cos
+T
+
+f3
+
+sin
+
+e =w
+
+cos ()
+
+=R
+
+The a ngle of inclination which the machine assumes depends on
+the characteristic of the propeller and on the s tructural resistance.
+It can best be approximated by examining the conditions under which
+a propeller would work when exposed to a wind at right angles to its
+axis (i.e., at 90 0 yaw). Some tests under this cond it ion wer e made
+by Riabouchinsky at Koutchino in 1906, and the r e sults are summarized
+by M. See in ilLes Lois Experimentales des Helices Aerienne s, It but the
+results are so surprising in some respects that it is difficult to
+give them entire credence, especially as the experiments were performeQ in the very early days of ae rodynamical r esearch, when me thods of
+measurement were rather crude. If a prope ller i s presented to a wind
+of velOCity at 90° yaw, the velocit y with which each blade meets the
+air varies between 2 rr yo /7
++ V and 2 llYn - V. The ane,le of attack also varies somewhat duriTI6 the revolution, as the indraught
+must be nearly constant. The angle of attack is obviously large st
+when the speed is largest . Neglecting for the moment the variation
+in angle of attack, and designating the maximum and minimum, spe ed of
+the blades by vl and V2, r espectively, it is seen that the ratio of
+T to Y at the instant when the line of the blades is perpendicular
+to the direction of the wind, and so when the effect of the yaw is a
+maximum, is
+\
+
+T
+y
+
+_ ( VIZ {' V 2
+Z
+-
+
+Vl
+
+2
+
+-
+
+V2
+
+2
+
+)
+
+6 x
+
+V 2
+1
+V 2
+1
+
+0:
+
+ex
+
+- sin
+-} sin
+
+0<.
+
+ex.
+
+-
+
+V2
+1
+
+v12
+
+I
+
+T
+
+V2
+2
+2
+- V2
+
+f Y ).
+
+x cot ( ct
+This is approximately
+
+L cos
+D cos
+
+e~ual
+
++
+
+to
+
+V 2
+2
+V 2
+2
+
+For high speeds of advance v2 2 is negligible by comparison with v1 2 ,
+and the ratio of T to Y therefore is probably in the neighborhood
+of 6. If it be assumed that this ratio is sustained unchanged when
+the axis is slightly inclined it appears that an inclination of a bout
+100 would be necessary in order that the resultant of T and Y might
+be vertical when the helicopter was advancing rapidly. ThiS, however,
+is not suffiCient, as R is yet to be overcome. The total r e sistance
+
+.. 13 ..
+of fuselage, propeller shafts, and structure (not including the propellers) at 60 m.p.h. should not exceed one-twentieth of the weight
+of the helicopter, and the additional tilt necessary to overcome the
+resistance at this speed would therefore be 3°, making a total of 13°,
+The angle of yaw is then 77°.
+Unfortunately there are no data available for such ~1g1es of yaw
+as this. Riabouchinsky's exper1nents cover (not entirely satisfactorily in the light· of modern practice) the case of 90 0 yaw, and the
+only othvr experiments which have been published are some made by the
+N.P. L. on propulsive screws at angles of yaw up to 25°, The working
+conditions of 'propellers at small angles of yaw and those at 90° are
+entirely different, and it is difficult to interpolate between two
+sets of exper~ents So diverse as those just mentioned. At 90 0 yaw,
+as has just been pointed out, the angle of attack is almost independent of the rate of advance, and the thrust increases steadily as the
+speed of advance increases. When there is little or no yaw, on the
+other hand , the rate of advance has an important and direct effect
+on the an51es of attack of the blade elements and the .thrust falls
+off rapidly with increasing speed, In order that a helicopter may
+be suitable for use in all ordinary weather conditions it must be
+capable of maintaining a forward speed nearly or quite equal to the
+tip speed of the propellers. This is quite hopeless if the thrust is
+to falloff rapidly as the speed increases, and not even the provis~
+ion of a variable pitch propeller would make it possible to secure
+sustentation ~~d propulsion at high speeds under such oonditions.
+It is possible, however, that when the inclination of the axis from
+the vertical is only ten or fifteen degrees the rate of change of
+the angle of attack with changing speed will be small enough so that
+high speeds can be attained. This is a point which can most easily
+be settled by wind tunnel tests on propellers at angles of yaw
+ranging from 600 to 900 , and such tests should be undertaken as
+svon as possible.
+The d~ssymmetry between the blades when the helicopter is adVancing, resulting in one or more blades carrying more than their
+share of the load at any given instant, makes trouble structurally,
+both because of the increased maximum stresses in the propeller
+blades and because of the large bending moment produced in the propeller shaft and frame of the helicopter. This bending moment c~~
+best be taken by placing one propeller above another and keeping
+them as close together as possible . The bending moments induced by
+the two propellers will then be oppoai te and will neutrali.z e each
+other except in the section of shaft betweon the propellers. Th~
+placing of one propeller in the slipstream of the other may make a
+little trouble, at times, in the equalization of torque, but it
+should be possible to overcome any difficulty of that sort by proper
+adjustment of the 'clade angles.
+If two-bladed propellers ~~re used there would be likely to be
+some trouble with vibration of the structure when advancing horizontally if the propellers were not perfectly synchronized, as the total
+moment and force due to each propeller would vary during the revolution. Y, for example, as already noted, would be at a maximum when
+the line of the blade axes was perpendicular to the line of motion
+
+- 14 -
+
+of the helicopter, and would be almost zero when those two lines were
+parallel. By using propellers with four or more blades all t~ese
+difficulties can be avoided.
+
+STABILITY AND CONTROL OF THE HELICOPTER.
+The stability of the helicopter is dependent on the fin action
+of the propeller and of any surfaces which may be exposed in the slipstream. As long as the machine is neither ascending or descending,
+the pr~ary effect of any inclination of the axis from tha vertical
+is to produce a horizontal component of the thrust. This causes sideslipping, which, in turn, causes the propeller and any fin surface to
+be subjected to a lateral force. If the center of fin surface is
+above the center of gravity the lateral force gives a righting moment.
+Control can be seoured by adjustable surfaces placed above the C.G.
+if the damping out of OSCillations as soon as they are started is the
+only consideration. The dynamical stability of helicopters, or the
+rapidity with which oscillations are damped out when once started,
+has been thoroughly investigated by Professor H. Bateman in a report
+so~n to be published by the National Advisory Committee for Aeronautics.
+When the helicopter is moving the conditions are materially altered. When moving horizontally the forces are as shown in Fig. 2,
+the axis being inclined, and there is a moment, due to Y, tending to
+return the helicopter to a vertical attitude. A fin surface above
+the C.G. then has little or no controlling effect, as the force on
+it is always in the same direction as Y and R. A small moment tending to hold the helicopter in its inclined position can be secured by
+setting the control surface above the C.G. nearly horizontal, but this
+would be very ineffective i f the horizontal translational velocity
+were much more than the slip-stream velOCity. By placing a fin surface low down, on the other hand, any desired measure of control can
+be secured, but only with the aCcompan~ent of some structural disadvantages. Such a surface would be set horizontally when it was desired to hover motionless, and would be inclined at an an~le to the
+horizontal in order to go ahead. Once forward motion was started,
+the surface could be set vertical and this position would correspond
+to the max~um moment about the C.G., to the maximum inclination of
+the propeller axis for e~uilibrium, and so to the maximum forward
+speed. As already mentioned, there are constructional difficulties
+in the way of plaCing a control surface far below the center of
+gravity, most of the weight being concentrated in a car which should
+be as close to the ground as possible to saVe landing gear weight
+and reSistance. It may be possible to arrange the control surface
+in two parts, one above and one below the C.G., ana to provide means
+of folding up, just before touching the ground, the framework which
+carries the latter, since the high control surface is sufficient
+during vertical descent.
+During ascent and descent the stability is much the same as when
+stationary, except that any inclination now changes the angle at
+which the propeller meets the air, and a lateral force is therefore
+set up at once, before the helicopter has moved laterally out of its
+vertical path; In the case of ascent this force tends to in~rease
+
+\ ...
+
+- 15 the deviation from the vert.ical, in the case of descent to decrease
+it (always assuming the propeller to be above the center of gravity).
+To secure stability during a climb a large fin surface placed far
+below the C.G. of the machine would be necessary. Such a fin surface would operate rather inefficiently, as the inclination of the
+axis produces a change in dir~ction of the slip-stream which would
+partially counterbalance the effect of the presentation of the fin
+surface at an angle to the relative wind due to the upward motion
+of the helicopter. It would be advantageous, from the standpoint
+of stability when rapidly ascending, to have the fin and control
+surfaces outside the slip-stream, and this might be possible to arrange in those helicopters which have two propellers in parallel
+and rotating in opposite d irections. Part of the fin surface
+could then be placed. between the two slip-streams. It would not
+be safe to put it all there, as there would then be no control
+when poised motionless. In short, there is no single disposition
+of fin surface which satisfies all requirements, but it is absolutely essential, if a helicopter is to travel horizontally, that
+there be enough fin surface low down, to bring the center of
+lateral resistance well below the center of gravity and that the
+inclination of this surface be variable under the control of the
+pilot.
+
+- 16 -
+
+APPENDIX
+To
+Theory of the Helicopter,
+
+Some additional experiments on the thrust and po~~r consumption of propellers working under st~tic conditions have recently
+been carried out by Messrs. Lesley and S~der at the Stanford University wind tunnel. A systematic investigation of the affect of
+v~ing pitch-diameter ratio, the tests covering a family of
+otherwise similar ~ropellers with pitch-diameter ratios ranging from
+0.1 to 1.3, showed that the largest thrust per horse power for a
+Jiven peripheral speed was obtained with a pitch of .32 times the
+diameter. The maximum value of K corresponded to 'a ratio of .6,
+and the maximum of K' to one of .5. In a Similar set of tests on
+propellers with unwarped blades set at various angles the highest
+thrust per H.P. was obtained with an angle of 6°, the best value
+of K with 15°, and tbe largest K' with 1Zo. In nona of these tests
+were the values for ~ny of the coefficients larger than those already reported. A propeller designed by R. Jacuzzi, especially
+for helicopter use, had K equal to 1Z2,000 and K' 3880 x 108 ,
+The latter figure is close to a record, but the former is rather
+poor as compared with the best of the constant pitch propellers.
+
+- 17 During the winter of 1919-20 standing thrust and power tests
+for air propellers were conducted at the Sanford University Aerodynamic Laboratory by Mr. Howard O. Snyder, a graduate student in
+Mechanical Engineering.
+In these tests one form of two blade propeller only was tried.
+This was the narrow curved aDd tapering form with uniform geometrical pitch and non-cambered driving face designated as PI F2 Al 51
+in Reports No. 14 and 30, National Advisory Committee for Aeronautics.
+In addition to re-testing the propellers that had been already tried three additional pitch-diameter ratios, .1, .3 and 1 . 3
+were investigated, making in all 7 propellers Varying in pitch ratio
+from .1 to 1.3 by increments of .2. The results of these tests,
+reduced to coefficients of the form used by Mr. Warner, are shown
+in the accompaqying Fig. 1.
+In the curves as shown Tc and Pc are non-d5mensional.
+
+Tc
+
+is
+Pc
+multiplied by 550 in order to make it comparable to the coefficient
+used by Mr. Warner, in which thrust is expressed in pounds and
+power in horse power instead of foot pounds per second.
+The coefficients K and Kl were derived in th~ same manner as
+Mr. Wa1'l'!er' s.
+As may be seen a somewhat higher value of Tc was realized for
+the .3 pitch ratio propeller than for the one of .5 pitch ratio.
+However, the coefficients K and Xl are both considerably less for
+the propeller of smaller pitch so that to realize the same lift with
+the e~ual power a larger propeller running at a slower speed would
+be re~uired, making on the whole the .5 pitch ratio superior.
+
+Besides the foregoing, tests were made on a flat or non-warped
+blade propeller of the same contour , area, and section as F2 Al 51The blades were fit~ed ... into a spherical hub provided with means
+for adjusting them to various angles. The results of these tests
+are shown in the accompaD\Ving figure 2.
+Tc
+These recent exper~ents indicate that, regarding 550
+as a
+Pc
+measure of efficiency, practically the same may be realized from
+the non-warped blade as from one of uniform geometrical pitch. Howe~er. as Mr. Warner ~as pointed out, it is not enough to attain a
+hlgh value for 550 ~. It is also necessary, in order to ke~
+Pc
+the diameten reasonably small and the rate of revolutions high, to
+secure large values of the coefficients K and Kl.
+Tests at Stanford University on a two blade propeller 6 ft. in
+diameter and about 1 ft. nominal pitch, designed for helicopter use
+by R. Jacuzzi of Berkeley, California, in 1918, determined the following coefficients:
+
+- lS Tc
+
+.0382
+
+Pc
+550
+
+=
+
+=
+
+.0118
+
+Tc
+Pc
+
+-
+
+1785
+122000
+
+=
+
+3880
+
+550 To
+is larger than for any other
+Pc
+teste~ in the Stanford Laboratory~ K and Kl are relatively small.
+
+Although for this propeller
+
+To realize with this propeller a lift of 30 lbs. per horse power
+at sea level air density with 100 horse power input, a diameter of
+nearly 97 feet, and about 37 revolutions per minute would be required,
+whereas with the .5 pitch ratio blada the same lift and power input
+could be secured with a propeller 72.5 feet in diameter running
+at 37.5 r.p.m.
+The form of the Tc curve for uniform pitch propellers between
+p itch ratios of .7 and 1.3 is somewhat surprising. Repeated tests
+have determined its substantial accuracy however J the dotted line
+showing the results of investigations on a similar series of propellers of different blade contour and section but of approximately
+the same area.
+
+w.
+Stanford University, April 3, 1920.
+
+F. Durand.
+

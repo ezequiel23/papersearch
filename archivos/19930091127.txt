@@ -1,0 +1,2110 @@
+21
+
+r.~
+
+: l; 1
+
+REPORT No. 65
+
+THE KILN DRYING OF WOODS
+FOR AIRPLANES
+•
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+1,-- _
+
+'-.." r
+./.t
+
+To be rc'.!M, d
+the me!') of lhe 1'1 • rld l
+Advisory {;<m1mi e
+for AeTonaui~
+as in on, D •
+.
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1920
+
+•
+
+------------------------------------------~----- .-~-----------------
+
+REPORT No. 65
+
+THE KILN DRYING OF WOODS
+FOR AIRPLANES
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PRE PRINT FROM FIFTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+
+1919
+
+-
+
+FOREWORD.
+
+This pUblication is one of a series of eight monographs prepared by the Forest Products
+Laboratory of the Forest Service, United States Department of Agriculture, for publication
+by the National Advisory Committee for Aeronautics.
+The purpose of the series of monographs is to discuss in detail the various requirements of
+wood for use in aircraft, and also to make public some of the results obtained in the experimental
+and testing work of the Forest Products Laboratory undertaken for the Army and Navy
+during the war.
+The subjects discussed in the series will include : (1) Kiln drying of airplane woods, (2)
+the effect of kiln drying on strength, (3) the care of airplane stock, (4) the composition and use of
+glues, (5) the manufacture and testing of ply wood, (6) wood in airplane construction, (7)
+moisture-resistant finishes, and (8) wood airplane parts.
+:I
+
+I
+l '.
+
+I
+,~
+
+REPORT No. 65.
+THE KILN DRYING OF WOODS FOR AIRPLANES.
+By HARRY D.
+
+TIEMANN.
+
+I. INTRODUCTION.
+KILN DRYING UNDER WAR CONDITIONS.
+
+The exigencies of the war and the scarcity of air-dried material necessitated the kiln drying,
+immediately from the green condition, of practically all of the wood used in the United States
+for airplanes. This was a complete reversal of established practice and, from the standpoint
+of commonly accepted beliefs, was a dangerous innovation. England and France specified
+against" kiln drying" airplane woods, but in certain instances permitted (( conditioning," that
+is, allowing the lumber to remain in a slightly heated dry room, usually at 25° C. (77° F.) or
+30° C. (86° F .) . A higher moisture content, however, was allowed there than in this country,
+the British requirement being 15 per cent for most woods and 18 per cent for ash, with an
+allowable variation of 3 per cent.
+Perhaps the term ((kiln drying" has an unfortunate association with lime or pottery or brick
+kilns, in which the material is baked. It must be admitted that the results formerly obtained in
+kiln drying lumber tended to create a prejudice in favor of the time-honored methods of slow
+air seasoning. The application of artificial heat, in the absence of thorough scientific knowledge
+of the principles involved and the development of a correct technique, resulted in much injury to
+the wood in checking, loss of strength, and warping.
+Within the last 10 years the United States has taken the lead in placing the subject on a
+technical and scientific basis. It is now a well-established fact that many species of wood can be
+dried from the green state with better results than can be obtained by the irregular and unscientific method of air drying. While the chief reason for kiln drying in the past has been a saving
+of time, as the methods are perfected the superiority of the results obtained, from a quality
+standpoint, will be an increasingly important consideration.
+Ordinary air seasoning, on account of its vicissitudes due to inability to control the process, is
+far from an ideal method of conditioning, even though the element of time did not enter into the
+question. This is particularly true for the more refractory and the more valuable woods and
+for all woods which are required for very exacting purposes, such as airplanes. It should not
+be overlooked, however, that a very gradual seasoning at air temperature, provided conditions
+are properly controlled, can not be excelled in its effect upon quality. This is true for the reason
+that the moisture difference between the outer surface and the interior is thereby kept at a
+minimum, so that no appreciable stresses are brought about by unequal shrinkages.
+Because of the shortcomings of air seasoning various auxiliary methods have been sometimes
+used, such as preliminary soaking for years in ponds of water (still practiced in parts of Japan
+and Sweden) or burying in the ground or in m anure.
+Although the popular prejudice against kiln drying has not been entirely removed, especially
+in European countries, this m ethod of conditioning lumber is now a scientific art and not a
+haphazard guess. Exhaustive strength tests made recently by the Forest Products Laboratory
+have shown beyond question that properly kiln-dried wood is just as strong, tough, and stiff as
+the best air-dried material.
+5
+
+6
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Kiln drying for special purposes, such as airplanes, should be looked upon as a highly technical art. Lumber can be much more easily injured in a dry kiln than if left to dry in a shed
+exposed to the air, and unless the kiln drying is properly conducted air drying is safer. But
+if the kiln is in charge of a t echincal expert, and the process is carried on in a scientific manner,
+kiln drying is greatly to be preferred to ordinary air drying.
+The exigencies brought about by the war left no choice but to use kiln-dried material. To
+air dry Douglas fir wing beams requires ordinarily from 12 to 18 months. They may be kiln
+dried in 18 to 24 days. To air dry hardwood propeller stock takes at least one and preferably
+two years. The same material can be kiln dried and brought to equally good condition in a
+month's time. Air drying was, under the circumstances, wholly out of the question.
+QUALITIES OF PROPERLY DRIED WOOD.
+
+Whether kiln dTied or air dried, the success of the seasoning process depends upon the
+ex tent to which the following requirements are met.
+The material should be free from surface and end checks. Such checks are not necessarily
+visible. They may develop in the drying process and close up again when it is completed.
+This does not rectify the injury; the checks are still present, though pressed tightly together.
+uch material is unsuitable for airplanes.
+The wood must be entirely free from internal checks, or " honeycombing " (see PI. II). Such
+checks may be invisible upon the surface, but are evident when the stick is cut into.
+The wood must be free from" casehardening." Casebardening is due to internal stresses.
+It is discussed in detail on page 19. Casehardened wood warps and cups when resawed or cut
+into small pieces (see PI. III). Sometimes the internal stresses may be only t emporary, due
+to unequal moisture distribution, and disappear when the moisture equalizes. In that case they
+are not serious, provided res awing does not take place in the meantime. Or they may remain
+in the wood indefinitely. Such stresses are of course detrimental.
+The moisture must b e uniformly distributed. In poorly dried lumber, portions of it may
+still retain some free water while other portions are very dry. Or there may be a wet core in
+the center while the outside is dry (see Plate IV, fig. 1.) Both conditions are extremely bad ,
+as it will requiTe an excessively long period b efore the moisture will equalize, and in the equalizing process the wood is subject to all the dangers which it faced in the original drying. Wood
+should n ever be manufactured into finished par ts while the moisture distribution is unequal,
+since the relative dimensions are certain to change when the moisture finally equalizes, so the
+parts will no longer correspond in size.
+The strength and toughness of the wood must be at a maximum. High temperatures and
+excessive internal stresses during drying cause injury to the strength and toughness. The
+effects vary considerably with different species. Softwoods as a rule are less subject to injury
+of this kind than are hardwoods. Excessive dJ:ying may of itself cause brittleness, even though
+the wood has subsequently reabsorbed moisture. For this reason the drying must not be carried
+too far. The requirements for airplanes are so exacting that material which would be entirely
+satisfactory fOT commercial uses might be altogether unsuitable for airplanes. Visual inspection of the dried wood is inadequate, since injury to strength may occur without any defect
+visible to the eye. Hence the drying process itself must be closely watched and controlled.
+The wood should be free from excessive collapse and free from warping. Collapse is a sinking
+in of the fibers (see Plate IV, fig. 2) much in the same way that a rubber tube collapses when
+subjected to an internal vacuum. Certain species are peculiarly subject to this phenomenon.
+In ordinary commercial work, drying without loosening the knots or causing them to protrude is a prime consideration. In conditioning airplane stock it is of course unnecessary to
+give consideration to this point, since all knots of any consequence are excluded.
+Shrinkage should be the minimum consistent with securing the other qualities. It is not
+an independent factor; in fact, the very conditions most favorable for least shrinkage are also
+those most favorable to the development of internal stresses and casehardening. Shrinkage,
+if not unreasonable in amount, must therefore be largely disregarded.
+
+KILN DRYING OF WOODS FOR AIRPLANES.
+
+7
+
+There is no positive means of determining whether a piece of wood has been kiln dried or
+air dried, if the drying has been properly done, except where the temperatures used have been
+sufficiently high to harden the resins or gums or to discolor the wood. However, the outer
+layer of kiln-dried wood only a few days out of the kiln is apt to be considerably drier than the
+inside, whereas air-dried wood will generally be of uniform moisture content because it has had
+plenty of time for the moisture to equalize, or it may be even drier in the center than on the surface. But after the kiln-dried wood has been allowed to stand for several weeks, its moisture
+may become evenly distributed.
+EXACTING REQUIREMENTS OF AIRPLANE STOCK.
+
+For ordinary commercial purposes a reduction in strength of 15 or 20 per cent below the
+standard is of little or no importance in comparison with honey-combing, checking, and casehardening, which, in the order named, are the most serious injuries likely to occur. Collapse,
+warping, and loosening of knots are also of importance, but 8,re not likely to give trouble in
+any treatment which does not produce the first-named injUTies. As these conditions are all visible to the eye, it is comparatively easy to adjust the drying operation until they are eliminated.
+Moreover, in most cases a slight checking, particularly when these checks finally close up again,
+is not considered detrimental, and for some pUTposes quite severe casehardening is not especially
+objectionable. Unequal moistUTe distribution, however, is always bad, except for the very
+roughest kind of work. Collapse, while quite common, does not occur in sufficient quantity
+to cause trouble, and warping is usually avoidable by proper care in piling. Considerable leeway is therefore possible in ordinary commerical drying operations, which explains the wide
+differences in the methods used. Even so, however, enormous losses exist which might well
+be wholly avoided by more care and intelligence in the treatment and in the design of the kilns.
+Moreover, the more exacting the requirements of the product, as for the best cabinet work,
+tools, musical instruments, etc" the greater refinement is necessary in the drying process.
+For airplanes, however, strength and toughness are the prime requirements, and these qualities can not be determined by visual inspection. This fact renders the drying of lumber for
+airplanes a much more difficult and refined operation than for most other purposes. Actual
+mechanical tests are the only means of determining with any degree of certainity whether the
+material comes up to the standard. Since the dry kiln operator can not be guided by the
+appearance of the material, it is necessary to follow quite strictly certain prescribed specifications as to the drying operations, Different species require different treatments, as some are
+injured by conditions which are not harmful to others.
+RELATION BETWEEN STRENGTH AND DRYNESS.
+
+Dry wood is naturally very much stronge! than wet. The crushing strength of green or wet
+spruce is increased over fouifold merely by dqing 1 . It follows that the question what effect
+any particular process of drying has had upon the strength is necessarily a comparative one.
+From the mere fact that it has been dried, the wood has presumably been made stronger ; the
+question is to what extent, or in other words whether the maximum of strength has been obtained. The answer to such a question can only be given through a comparison with some
+other drying process assumed as a standard. In making such a comparison the degree of dryness obtained must also be taken into account, since the strength increases progressively with
+reduction in the moisture content. For example, air-dried material may be taken as a standard,
+In that case the comparison would be made between kiln-dried material and air-dried wood of
+the same moisture content.
+To make this matter clear and to facilitate further discussion of the general subject it is necessary to have in mind the basic facts regarding the composition of wood and the manner in
+which it dries.
+1 F orest Service Bulletin iO, "The Effect of Moisture upon the Strengi.h and Stillness of Wood," by H. D. Tiemann, 1906. Forest Service Cir·
+cular 108, "'rhe Streng,h of Wood as'lnfiuencedlby Mo isture, "~by same author.
+
+II. HOW WOOD DRIES.
+THE COMPOSITION OF WOOD.
+
+Wood is made up of minute cells, arranged somewhat as the cells in a honeycomb except that
+the cells in wood are very much longer in proportion to their width than in a honeycomb, and
+are not as uniform. In the "softwoods" (gymnosperms) the vertical cells are fairly uniform
+in shape and size; but in the "hardwoods" (angiosperms) they vary greatly, some being fifty
+times as wide as others, the wide ones being termed" vessels" or "pores," and the narrow ones
+"wood fibers." Interspersed between these vertical cells and fibers and lying in a horizontal
+radial direction are the medullary rays, appearing as the "silver grain" on quarter-sawed oak.
+The medullary rays are composed of short, blunt, thin-walled cells, similar to pith tissue, and
+are shaped like two-edged swords set edgewise.
+Plate V is a cross section of a gymnosperm (Picea rubens), and Plate VI of an angiosperm
+(Quercus rubra or borealis), both magnified the same amount, 250 diameters.
+The substance of which wood is composed is half as heavy again as water; its specific
+gravity is 1.56. It is organic and consequently very complex in structure. The cell walls are
+thought to be built up of small particles closely laid together, the interstices being capable of filling
+up with moisture. The foundation part of this substance is known as cellulose. With it is
+combined another material called lignin which adds to the strength of the cell walls and gives
+them a color.
+MOISTURE AND ITS REMOVAL.
+
+Wood in the living tree contains a great amount of moisture, varying from 30 per cent of the
+dry weight in the heartwood of some conifers, to over 200 per cent in some of the hardwoods.
+This moisture content must be greatly reduced before the wood is fit for use for most purposes.
+In order to pass out from the interior of a board or timber the water must ordinarily pass
+transversely from cell to cell and evaporate from the surface. It is true that it can travel
+lengthwise very much more ra.pidly, as is evidenced by the end checking of lumber, but end
+drying can not be counted upon for removal of moisture from the center of a long stick. This
+process of transfusion from cell to cell is very slow, so that in ordinary air drying it takes I-inch
+boards from six months to three years to reach 12 or 14 per cent moisture content, depending
+upon the kind of wood and the conditions under which it is dried.
+In kiln drying, the process is greatly hastened by increasing the temperature and the air
+movement, thus increasing the rate of surface evaporation. This necessarily increases the
+differential in moisture content between the inteljor and the outer surface, since the rate of
+transfusion of moisture from the interior outward is partially proportional to this moisture
+difference. Wbile the increased temperature presumably increases the tran fusibility of the
+wood, it doe not do so in proportion to the increased rate of surface evaporation. This necessary increase in the moisture difference brought about in order to hasten the drying is what
+cau es the main difficulties in the kiln drying of woods.
+These difficulties are due to the changes which take place in the wood itself in connection
+with the drying process after it has reached a certain point. Water exists in green wood in
+two forms- as liquid water contained in the cavities of the cells and pores and as "imbibed"
+or hygroscopic water intima,tely absorbed in the substance of which the wood is composed.
+The removal from the holes or pores of the free water will evidently have no effect upon the
+physical properties or shrinkage of the wood/ but as soon as any of the "imbibed" moisture is
+I An exception to thi s statement occurs in cert.ata species, notablyin western red cedar (Thujaplica!a), in eucalyptus, and in redwood (SegU<Jio.
+selnpe rvirens) , in whlch a collapse of the cell walls takes place in sp ots or bands during the evaporation of the free water. This collapse occurs only in
+excessively wet regions and when the wood is dried at too high a tempera ture. The e:q)lan a tion of this p eculiar phenomenon appears to be that the
+cell wa llS, whlch are practically imper vious to air while wet, but through whlch water m tly readily pass, become soft and plastic when heated.
+Under tbis condition those cells which are completely full of water to star t with are subjected to a u internal suction or tension produced by the
+
+depletion of tbe water in the cavity by its evaporation through the cell walls.
+
+'fhe cells then collapse like rubber tubes, one layer after another.
+
+1\:1 1-,"- DRYING OF WOODS FOR AInPLANE .
+
+9
+
+removed from the colI walls shrinkage begins Lo take place and other chaoges oceur. The
+strcngth also begins to inCl"ease at this time. '1'hc point w'here the cell walls or wood substance
+becomc. saturated is cfill ed the "fibet·- at'U?'Gtion point," and i a sigllificant point in the drying
+of wood. In some c. a"c;~ tbe free water cao easily be rrmo,'ed by heating it above it.' hoiling
+point, but in many cases this wjll injme the wood and in others the waLeI' contained .i.n the
+(jells tbemselves wi11])ot be forced out in this malUlCr, ollly tlhlt from the open H' sels or pores
+passing off in vapOi'. The chief difficulties, however, come in evaporatillg the free water v."h ere
+it has to be removed through it, gradual tran fu ion throuo-h the cell ",,'aIls in. tead of by boiling.
+The probl m lies in the danger of drying the surface helow its fiber-saturation poiJJt while free
+wnter sti ll remains in the interior.
+The fiber-saturation point lies between a moisture condition of 20 pel' ("ent and one of 35
+per cent of the dry weight of the wood, depend ing upon the sp eies.' In the living tree the
+wood is alwaj7 s above its fiber-saturation point .
+AI~D
+
+PROPERTIES
+
+BEHAVIOR OF WOOD IN CONNECTION WITH MOISTURE REMOVAL.
+GENERAL.
+
+Different species vary greatly in the phenomena of drying. This is due to the fact that the
+properties which all possess in varying degree are combined in YC'l'Y different proportions. In
+('on 'equcne-e the response to a given sc t of conditiolls is of a wi(l<.' ly diverse character.
+One of these properties is the capacity to transfuse moisture. The rate of tran fusion
+i very slow in some woo is, as oak, and fairly rapid in others, as pine. The relation hetween
+rate of transfusion and temperature ha already been mentioned in the preceding section .
+Transfusibility i , of course, the fundamental property of wood which make drying possible,
+and the art of drying consists in so controlling tran fll ion, through control of the factors of
+temperature, humidity, and circulation on which its rate depend, that the changps in the other
+propertic of wood which accompany drying are as favorable as possible.
+IIygro copicity is a property of wood closelr related to transfusibilitr. It is the property
+by vir tue of which wood substance absorb or 10 es moisture in proportion to the relative
+humidity of the air, the rate varying slightly according to the temperature.
+Chauge in color occurs in some specie in dr. ing. This is distinct from sap sta.i.n or colors
+caused hy fungus or hacteria. It is notable in hard maple sap,\·ooc! and in sugar pine. In
+the maple a moist, warm atmonphere is conduci,c to this coloration.
+Uuder moist couditions comb.i.ned with high temperature the wood substa nee becomes
+soft and plastic, while, on the other lwud, a the moisture fall below the fiher-saturation point
+the wooel sub tance hardens and stiffens. The effect of tempC'rature. upon plasticity varies
+greatly with different pecic, ome, as, for example, western 1"ed ('cdar, rcch,"ood, oak, and
+eucalyptus, becoming exee i\T
+cly oft, even at temperatures a::; low ill 150 0 or ] 70 0 F .
+Tenacity, or cohesion between the fibers, ea..:ily break down with incroase in tempeI"ature
+in such woods a western larch and the southern swamp oaks, thu permitt.ing int.ernal sko.:-lSOS
+to cause checking with grea,t readiness.
+Bri.ttlenes is produced hy exee sive drying.
+Strength in wood is, of cour e, a Yery comple.· matter. It can not be discussed at lengt.h
+here. It i not a ingle property, nor e\"en trictly poalcing 11 group of properlie , but, is of
+various ki.nd , each kind being the result of more fundamental proper tie of the wood substanco
+and of its condition with respoct, to such matt~rs as int.ernal stresses, checks, and other defects.
+Tho sub ject of t,he strengl.h of woods for airplane t,ock i covered by another contribution t.o
+this series of monographs, entitled (. ED'ect of Kiln Drying ou the 'trength of Airplane ·Woods. '
+Among the phenomena which attend the dry.i.ng of wood arc two of such fundamental importance as to require further consideration . Ther are not independent, for the second is Jargely
+an effect of the first, but must be discus ed independently. Both aflect t.he strength it well as
+t.he f orm of the wood. They are hrinkage and ca, eharclening.
+1
+
+Sec Fore..,t Serdre Circular lOS,
+
+14~188-20-2
+
+trThe Strength of ',"ood
+
+3S
+
+Influenced by 1\fobture."
+
+10
+
+AXNUAL m;POTIT ::>rATlONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+SHRINKAGE.
+
+On page 15 it was stated tha,t shrinkage does not t ake place until removal of the" imbibed"
+water from the cell walls begins. To this statement certain species of eucalyptus, oak, and probably other woods appear to present an exception in that hrinkage begins at a moisture condition of from 80 to 90 per cent of the dTY weight. It is prol)able that thi apparent shrinkage may
+in reality be a form of collapse.
+Wood sill'inks differently in diITerent directions-as a rule it may be considered to shrink
+t wice as mu ch circumferentiaUy as it doe radially, and about one-fiftieth as much longitudihrinkage continues until the substance
+naily, although this al 0 varie in different specie .
+is perfectly dry (" oven chT"), and it begin to swell again by absorption of moisture as soon as
+it is expo ed to moi tail'. Altornate sill'inking and swelling is inevitable with changes in the
+relative humidity of the surrounding air. This causes the so-called" working " of the wood.
+Different specie vary greatly in this respect.
+Wood shrinks more when ch-ied lowly under moi t condition, especially at high temperature, than when ch'ied rapidly. 1
+CASEHAllDENING.
+
+asehardening is a omewhat ambiguous term as commonly u sed. It signifies in general a
+hardened case on the outside of the wood. In metal tempering the same word denotes the condition produced when the outer urface of an iron ca ting is changed to steel by heat treatment
+which removes part of its carbon. Doub tless the apparent analogy led to application of the
+word to conditions developed by h eat treatment of wood. The analogy, howe er, is not a very
+good one and should not be followed too closely.
+In seasoning wood a condition often ari e in which the outer portion has become dry and
+h ard, while the inner portion remain::> wet and loses moisture so slowly that ch-ying seems almost
+at a standstill. This condition is due to the fact th at the outer portion dried out faster than
+transfusion from the interior could take place, with the eventual result that the wood substanco h as b ecome harden ed and has largely lost its capacity to tran fu e moisture. Because
+of the hygro copicity of wood, however, the outer portion may in time, under favorable
+conditions, take up moisture again until a condition favorable to transfusion i again established, and drying may proceed at the normal rate. By steaming casehardened wood in this
+condition the fibers can be very quickly softened so that the normal seasoning process can be
+resumed.
+But caseh arderung involves other factors. A the woo d ch-jes it also ill·inks. If the outer
+and inner por tions of a tick of wood dry unequally, there arises presently a condition in which
+unequal stresses have been set up. Such stresses fl.re manife ted by a tendency to deformation
+if the wood is cut in the manner presently to be described. From the standpoint of successful
+condi tioning of wood in a ch'y kiln the most important aspect of casehardening is that which
+has to do with the unequal stresse which are brought about through unequal rates of sill-inkage
+between the outer and inner portion as moisture is remo,ed.
+These stre ses begin to be exerted as oon as a portion of the wood ch'ies below its fiber saturation point. Since it is impo ible, practically speaking, to season the wood rapidly without
+bringing about a condition in which unequal sill'inkage take place, a certain measure of ca ehardening may be said to be inevitable in kiln ch·ying.
+u ch stre es do not occur, however,
+to any appreciable amount when wood is very graduall. ea oned, a in au: drying under damp
+conditions.
+But to under tand fully the phenomena of casehardening account must be taken of still
+another factor. As soon as the moisture content of wood passes the fiber saturation point it
+begins not only to shrink but also to harden. The result i to et up a condition in which the
+wood has partially 10s Lits capacity to shrink. It has become 111.01'e rigid. This mayor may not
+result in establishing what may be called a permanent differential of sill'inkages between the outer
+and inner portions of the wood- that is, a condition in which one portion is always prevented
+1
+
+P robably this is a secondary result dependent upon the factors of casehardening and collapse.
+
+KTLX J)"RYIXG OF WOODS :FOR
+
+AmpLA ~- ES.
+
+11
+
+If fluch
+a permanen t differenti al is not establish ed, the ca ehal'dening will be temporary; if it i es Lahlished , t,he casehnrdening will be permanent.
+Foul' ariable facLor', then, are presont in cas ehardoninO', and aaod the result., n amciy,
+moi .Lure content of the ,,-ood, degree of shrinkage, intel'nnl , tress, and the period at which the
+fibol'~ become hardene L or set.
+These factors are partly dependent one upon the ot.h er. 'l'empemture is till another factor , hut may be treated 0.. an independent ,ariahle.
+by anoth r po rtion from shrinking as much as it 'w ould if free from a count.eract ing force.
+
+OTHER EFFECTS OJ<' DUYrNG .
+
+VI-m'pin g re ults from UIlC'CIUfll hrinkage or from a warped ciiredioll of the (ihN';. Cupping
+i .. due to unequn,l hl'ink age of lah ('ut hoard radially and eil'e umft't'enlinlly and is simply
+explained by geometl'icalrelaLiolls.
+"Va: h hoarding i· due to unequal ' hrinlmge of adjacent layer ' of the an nna ll'ings of wood ,
+and appears on l'adially sClwcd (qufll'Lcr awed) lumber. (ee P l. VII. )
+Collap e of the cells may occur in orne pecie while the wood is hot and moi t. Tbi
+collapse is dist.inct from the s]Il'inkuge whi·h tuke pl ace in the wood flU hstance and is due to
+a differ nt cause.
+Chockin g ftnd honey('omhing arc ('ftu s('(l by unequal ,.,hl'inkaO'(', crookcd grain , and ('a;;ehm·cloning.
+
+ill. THE ART OF CORRECT KILN DRYING.
+ere it not for the unequal 'hrinkage and the slow rate of transfusion of the moisture from
+cell to cell, the drying of lumber would present no more difficulty than the drying of 'wet cloth
+or clay. The problem of kiln ch'yinO' wood would be merely one of conducting the requisite
+amount of heat to the material to supply that required for vaporization, which at 163° F.
+is 1,000 Briti h thermal units of latent heat per pound of water, plus a small additional amount
+(about 30 B. t. u. per pound of dry wood)! required to overcome the attraction of the hygroscopic material for the moisture. By use of a temperature higher than the boiling point correponeling to the given pre sure, the moisture would pa s off directly in proportion to the quantity of heat supplied. But the process is more complex in the case of wood.
+EFFECT OF THE SURROUNDING CONDITIONS ON DRYING.
+
+There are just three conditions which it is essential to control properly for correct ch'ying:
+(1) Circulation of the air, (2) humidity, and (3) temperature; and it is important that the e
+conditions be uniform throughout the kiln.
+EF~'ECT
+
+OF cmCULATION.
+
+Unle the circulation i~ sufficient to convey throughout the pile of lumber the heat nece sary for evaporating the moi ture, and also suffici nt to carry away the vapor, uniform drying
+is impossible. The humidity of the air throughout the pile is dependent upon the circulation
+For drying an isolated single stick of lumber circulation i unimportant, ince the stick would
+receive heat on all sides by convection or radiation and the moist vapor would pass away by
+diffusion; but for a pile of lumber of any considerable size, a decided movement of the air
+through the pile is necessary.
+Since evaporation involves a consumption of heat and its transformation into latent heat,
+and at the same time an increase in the humidity of the air immediately surrounding the object,
+it is evident that ch'ying in all parts of a pile of lumber can not take place under the same temperature and humidity condition at one and the same time. Where the air passes through a pile
+in a definite direction the temperature is highest and humidity the least at the place where the
+air enters the pile, and the temperature i lowest and the air dampest \vhere it leaves the pile.
+Consequently ch'ying takes place progressively through the pile in the direction of the air circulation. The more rapid the circulation the more uniform will be the conditions through the
+pile, Something of this same condition exi ts whether the circulation is in a definite direction
+or is irregular, only irregular circulation doe not lend itself to analysis and variations are more
+irregular and usually much greater in amount. Variations ot from 30° to 50° F. are not uncommon when circulation is indefillite, and humidity variations are from very dry to saturation .
+EFFECT OF HUMIDITY.
+
+If it were merely a question of evaporating moisture the most economical drying system
+would be one in which the air entered the pile of lumber in the driest attainable cond tion
+and left the pile in a saturated condition.2 But the more important part played by the humidity
+i its phy ical effect upon the wood. There is a natural balance between the hygroscopic moisture
+a sumed by wood and the relative humidity of the surrounding air at a given temperature,3
+For the avoidance of checking and casehardening it is essential that the surface of the piece
+of wood be kept comparatively moi t while the water is pas ing from the center to the surface.
+In other 'Y'ords, the surface must not chT at a more rapid rate than the moisture transfuses
+Unpublished report, Forest Products Laboratory, by Frederick Dunlap.
+'See Departmeht of Agriculture (For t Service) Bulletin 509, " 1'he Theory of Drying," etc., by H. D. Tiemann, pp. 22 and 23.
+a "The Kiln Drying of Lumber," by H. D. Tiemann, pp. 103 to 105 and 263.
+
+1
+
+12
+
+KILN DRYI
+
+~G
+
+OJ!' 'WOODS FOR AIRPLANES.
+
+13
+
+from the center of the stick to the surface. Thi is brought about by reta,inillg a definite amount
+of humidity in the air during the drying operation. This fact is of special significance in the
+drying of green lumber, where the aim is to keep the surface as nea1' its fibe1' saturation point as
+possible unt'il all the free wate1' has evaporated from the center after which the moi ture condition
+of the surface can be gradually reduced by lowering the humidity. Humidity is also of imp or~
+tance in establishing the final moisture con tent before removal from the kiln. As there is
+a definite relation bet'ween relative humidity and the percentage of moisture which the wood
+will retain, it is evident that by regulating the final humidity in the kiln, o-verdrying may be
+prevented.
+EFFECT OF TEMPERATURE.
+
+The temperature influences both the mechanical efficiency of th operation and the physical effect upon the wood. In general, the bjgher the temperature the more efficient is the
+operation; but this is completely and definitely limited by the effect upon the wood. The
+temperature at which drying may be safely conducted without injury to the material varies
+greatly with different species. For example, oak must be dried to start with at not over 1l0°
+F. , while Douglas fir for commercial purposes (not for airplanes) will stand over 225 0 F.
+without appreciable injury.
+The effect of high temperature is (1) to often the fibres; (2) to reduce theu: cohesion in
+ten ion, 0 that slight stres e will cause epara ion or checking and honey-combing; (3) to
+affect permanently the ::ltrength if certain limit t1.re exceeded; (4) to tend to increase the
+hrinkage and produce collapse; and (5) presumably Lo inerea e the rate of transfusion of the
+hemical changes al 0 occur and tho hygroscopicity of the wood
+moisture through the wood.
+is reduced.
+These differ ent effects are produced proportionally very differently in different species,
+so that the re ultant effect of a givon temerature with one species may be altogether unlike
+that with another. Thus, high temperature greatly soften the fiber of oak but it reduces its
+cohesion in a greater proportion, so that checking i more liable to occur at high than at low
+temperature. On the other hand in 1110 t oftwood the cohesion is not reduced relatively
+to so great an extent, con equently they may be dried at higher temperature, normally than
+oak and similar hardwood .
+On account of the softening of the fibel and the inorea ed tran fusion, ca ehardening i·
+less at a high than at a low temperatme if the drying rate i the ame in both ca es.
+
+IV. DISCUSSION OF DRY KILNS AND MEANS OF CONTROLLING THE ESSENTIAL
+CONDITIONS.
+A dry kiln is som(, times thought of as a hot box 01' baking ove n, 01' as a certai n shaped
+buildi)1a; rightly, ]1O"Weyer, it should be consider ed a: an appar atus for conditioning lu mber
+by supplying certain 1e:1l1i tc rcqu iremen t ' . The essential r<'quiremcllt · arc udeq uil te i1 nd
+l
+ulliform cir cul ation tlU'oughout the pile of lumber: control of humidity at all time; control of
+temperatm e; and abi li t~· to sicam the lumber quiclJy and effec i,cly whene,er nece' ar." for
+r emo,al of casE'hrnclen ing and killing of mold . The, e CSSE'lltic 10; ha,c alreacl., bC'('n e!isc u,;sC'd.
+SYSTEMS OF ICIL
+
+OPElUTION.
+
+Ther e are two lis tin ct ways of handling lU ll1ber in kilns . One way i to place the load
+in a chamber where it l'cmfl ins tfltionary tlu'oughout tho oper ation, whilo the conditions of the
+(h ying medium ar e varied as drying pr ogr esses. '1'his is the "compartmollt" or "charge"
+system of handling the lumber.
+Th e other way is to run the lu mber on a wheeled truc-k into one end of a long chambC'l' and
+gl'acl u nJly sho\'"e it along towar d the other end, wherc it i_ taken out when the drying is completed. An attempt i. made to keep t b{ end of th kiln where the lu mber cnters moi,t, lind
+the other encl dr,v. T his i" knowl1 as the" progre sive" system of operation, l1nd i one commonly used in large operation . It is the les sltti factory of the t"\yO, ho\\,eye1', ,yhere careful
+drying is r equired , sin ce the conditions can not be 0 WE'll regulatcd and arc Itpt to change with
+every change of "incl ftncl with eyery new load 01 lumber introduccd . It is not to 1)(' r(,('olTl menae(l for usc with airplnne stock.
+Th e compartment system can be anauged '0 that, it "ill require n ) more kiln :-<pu('e or handling of thelumb cr than the progre '. ive s.,·stem; it docs, howevcr, require morc ittldligent operation, sill 'e the conditions in the kil n mu·t he continually altered according to the progref;s of
+the drying. Either of Lhese two s,Y'tel1ls may be u ed with almost any kind of dry kilt\.
+As a rule the progr cs ' i\'" system employ a imple ycntilated k iln such that the air cnters aL
+the ch'y end (where the lumber is taken out) through ducts placed in the boLtom beneath thc
+heating pipes, is beatee! a it rises between t he pipes, thence passes through thE' lumher in fL
+horizontal direction , oppo"ite to that in wh ich the l umber is being moyed, aIle! i' finally discharged through chimlleys at the damp end. Tho heatin a pipcs usually extend only about
+two-third the length of th kiln from th e ch'y end. Such kiln vary in length from about 60
+to 150 feet a nd in width from 1 to 24 fect, and are about 14 to 16 [eet in height.
+METHODS OF SECURIKG CIRCULATION.
+
+Pressure and sup erh eated ·'toam treatments are not suita,ble for airplane materi al; anu the
+vac uum treatment, though suitablc, i · hardly pra ticablc. It will, thorefore, sunicc to consid or
+oilly atmo phoriC' pro::; m e treatments.
+In general the 'ireula tion is produeccl in tl1l'ee w<1.ys :
+( 1) By extorna.l draught or Ycntilatioll, where the air is tnkcn in fr om the outside, comlitioLled, pa ' ed through the kiln, and allo"'ed to e cape to the outside again.
+(:.. ) By fec,irculating the ail' within the kiln itself and remoying thc xce moi::.;tmc by
+cOllu ensfttion.
+(3) By for cing extemal ail' through the lumber by moun" of a Ltn or blower.
+Oombin ations of these methods may also be used.
+So long as the fundamental r equirement already specili.ed are definitely ' e('m'ed, any onc
+of t he. e systems may be used for drying airplane lumber, but they l1re not all equally atisfactor y . The mecbanical featmes having to do with thc operation of th e kiln, the accuracy
+alld cer tain ty of control of the conditions, and the amount alld uuifonnity of the circulation
+differ gr ea tly in their effectiveness ill differen t types.
+} '1
+
+KILN DRYING OF WOODS FOR AIRPLANE . .
+
+15
+
+VENTILATED KILNS.
+
+In a purely ventilated kiln the circulation of air is usually either entirely too luggish for
+drying green wood if the humidity is uniformly distributed, or if the draft is sufficient for
+drying the green wood the change in the humidity are excessive. Usually the deficiency of the
+humidity in the air as it enters the lumber has to be made up by inj ecting live steam into the
+cun-ent of incoming air. This arrangement is often precarious. Changes in temperature of the
+outside air greatly affect the internal conditions. In general, ven tilated kilns are not suitable
+for drying green airplane woods. They are much more suitable for drying air-dried lumber
+than green. It is difficult to maintain control of conditions in this type of kiln. N eyertheless,
+for certain kinds of drying such as I-inch lumber of easily dried species a ventilated progressive
+kiln is probably the simple t, most easily operated, and most economical design possible.
+REcmCULATION KILNS.
+
+In the ordinary type of recirculation kiln, pipe condensers are commonly used to remove
+the excess moisture from the air. Unless there is some additional means of increasing the circulation of the air, however, its natural m ovem!3nt i apt to b e too slow for the rapid drying of
+green lumber except at high temperatures and low humidities, which are prohibitive for airplane stock. In the Forest Service humidity-regulated water-spray kiln,l which belongs to the
+internal-circulation class, the circulation is greatly accelerated by means of prays of water uniformly paced the entu:e length of the kiln and placed in narrow chambers, one on either side, or
+in a single chamber through the middle. The water sprays at the same time control the humidity of the air. This kiln has been largely used for drying airplane stock. Another means of
+producing the needed circulation i by placing fans directly in the kiln itself, and thus forcing
+the air through the lumber. The main difficulty of this plan is so to arrange the fans that a
+uniform circulation is produced in all part. Humidity control i also somewhat difficult of
+accomplishment, as it depends upon leakages through the wall, canvas curtains or ventilators,
+together with the injection of live steam through perforated steam pipe. This type of kiln has
+been very succe sfully used in drying green airplane stock.
+BLOWER KILNS.
+
+In the third class a blower or fan is u ed to force in new air. This is usually placed outside
+of the kiln proper, and air is sucked out and returned to the drying chamber through
+ducts. Ventilation is secured by admitting more or les fresh air and allowing some of the return
+air to escape. Accurate control of conditions is u tIally difficult to maintain, since the slightest
+change in adju tments of the steam jets or of the dampers very quickly and progressively alters
+the conditions in the kiln. Such an arrangement is in what might be considered unstable equilibrium. Where a battery of kiln is used, a separate blower is required for each kiln, otherwise
+they can not be operated as independent units.
+CIRCULATION CONTROL.
+
+In the design of any kiln and m ethod of piling it should alway be borne in mind that the
+load of lumber itself, particularly when first introduced, act as a powerful condenser. The
+evaporation i of itself a cooling operation, and calculation hows that the effect of evaporation
+is to increase the den 'ity of the humid air in spite of the fact that more vapor has been thereby
+added.2 This means that there j a natural tendency of the air to descend as it passes through
+the lumber, particu larly when rapid drying i taking place. The arrangement of the pile of
+lumber and the kiln, therefore, should be such as not to oppose but to assist the natural gravity
+tendency. Success or failure sometimes bUlge on thi point. Extensive ob ervations under all
+kiJlCls of conditions and in all kinds of kilns have hown that this theory of the dO\\'llward tendenoy of the ail' through the pile i the correct principle.
+I
+
+See Appendix III.
+
+• See Gullet in 50!). '''rhe Theory of Kiln Drying," etc., p. 27.
+
+16
+
+i\"K"KUAL RBPOI1T :C\ATIONAL ADVJ
+
+I1Y
+
+02\1"'HTTBE FOit AERO TAUTICS.
+
+HUMIDITY CO TROL AND STABLE EQUILIBRIUM.
+
+Humidity control is hrought ahout in ,"arious waT, and its aecompli'lnnent is the most
+difli.c.ult problem in regulating the dry-kiln oprration. In ventilated kilns the humiuity is
+u ' ually Yiuicd by thc amount the dnmprL"s arc oprHed, the moisture added to thr air being that
+evaporated from the lumber. \'cry oftrll steam jets are u.'ed ,,"hcre it is ne 'essa!"y Lo add humidity to the air; or Y S 1 of heated waler ar wcd. In conden er kiln the temperature of the
+pipe conuenser is altered, to Cht1nge the humidity, hy altering the .flow of water throu gh the
+pipes.
+team jet arc also used to a l<l humidi t)7 us required. In the blower kilns. imil ar me811S
+are employed and, in addition, the damper admitting he'11 air are adjusted. In the Forest
+n 'ite water-spnty kiln t.he humidity is aulomlttieally control led hy reguhlting the temper-MAIre
+of the spray ,,-ater. Hot water in tbe spraT giv s a high humidity, wh ile cold waLrr act: as a
+condenser and gi les a low humidity. The control is ,cry direct and the water acts in addition
+as a tabilizer, preventinO" any uddrn c.hange. of conditions. The kiln is in a condiLion of what
+might be termed stable equilihrium.
+TEMPERATURE CONTROL.
+
+T his i the simple t probl m with which the dry-kiln engineer has to deal in the de ign of it
+dry kiln. When conditions are fairly uniform, the kmperature may be approximately rrO"ul.tt ccl
+by turning on a greater or less number of steam pip ,if the piping system is ill, Lalled in independ.ent unit . Wherever high-pre sure steltID is availltble, tempera,ture may be largely controlled
+by mean of a pre ure-reducing valve. Both ystems combined increase the range obtainable.
+Very teady temperatures may be thu maintained, but the difficulty i::; th n,t when the temp rature begins to chn,nge it may continue t rise or fall progre siv ly, and. if n ot clo ely watched. \ 'ill
+soon pass the de ired limits. Tlu-ottling steam valves by hand is not recommended.
+The afe t method i to use one of the m any good m akes of thermostat, havinO" a control bulb
+which may be placed anywhere desired in the kiln, and connected to the operating mechani m by
+a long, flexible tube. Any degree of accuracy of temperature control d ired can b e ecured
+by the u e of a suitable instrument of this kind.
+ome are made to act directly upon the team
+valve by the expansion of vn,por contained in the bulb , or by the expansion of a liquid. Oth<'1's
+are made to operate through an au "iliary or r lay system, th motive power of which cOllsi:>ts of
+air pre uro or water pressure, whi h in urn operates <1 motor vah-e on the toam line.
+For the m o t deli 'ate control the aU'-pre ure rrlay S)' tem ha proved the b t, while [or
+certainty action and implicity one of the direct-acting ystem is to be recommended. ~\m'y one
+of these y tem i atisfactory, and no kiln for accurate drying should be operated without ome
+form of thermostat.
+lIeating systems as a rule con i ,t of a ~erio ' of on1inary iron pipes placed nC<tr th e floo r of the
+kiln, In blower kibl the air i oftrn hel1ted eith r by pipe' or b y furnace befol' it is forced into
+the kiln. Sometimes or linary l"<ldiators are used. Whatever the heat r, the main. thing is
+to have it properly controlled and the heat unifolmly eli tributed and constantly supplied.
+A retmn bend sy tom of pipinO" has proved t he mo~t sati factory fol' compartment kiln ) a ' it
+giv uniiorm heating tlt both ond of tho -,;team 'il. Th header ystem, while m ore commonly
+used, is apt to heat ne end more than the ther. 'rhi i particularly so when low-prrssUl"r
+steam i u. ed and in high-pres ' ure y terns when a thermo tat i placed on tho feedlino. If the
+traps fai l to operate properly or the pipes become air bound, the drainage end is cortain to be
+cold r than the supply end. The r eturn bend systrm made up of several sopara,tely controUed
+coils of pipos, i. trongly r commonded. Onr-inch piping i ' very commonly u cd for dry kilns
+and often 1 i-inch and occa~ioJlaUy IJ-inch piping. For w""-pre'sm'e StClWl tb o largrl" pipr is
+preferable.
+Tempenttme onkol is especially imporLantin drying airplane stock , sine if certain limiLs
+arc exceeded the 'trength and toughne ' are affected.
+
+v. DETERMINATION
+
+OF CONDITIONS IN KILNS.
+
+IMPORTANCE OF ACC RATE KNOWLEDGE OF CONDITIONS FOR AIRPLANE STOCK.
+
+For airplan(' , strength and toughness are the prime requirements, and these qualities can not
+be clctf'rmined by visual inspection. Actual mechanical tests are the only means of determining
+with any degr('e of certainty whether the material comes up to the standard. These tests ill
+order to be cleterminatiy(' must be made upon matched ma,terial from the same sticks, and the
+t('sting of the material tllld analysis of results is extremely complicnted and dillicu It. How these
+tests have been mad(' for a number of species at the Forest Products Labora,tory, and the rcsults
+secured, arc set forth at length in another contribution to this series.
+The fact that strength conditions can not be satisfactorily determined by visual inspection
+alone when airplane material is concerned renders the drying of uch material a much more
+difficult and refined operation than that of drying lumber for most other purpo es, and necessitates that tbe operator follow strictly certain pre cribed specifications.
+USE OF THERMOMETERS AND HYGROMETERS.
+
+A single thermometer reading should never be reli ed upon, and it may be nece sary to place
+th(,l'mometers in a dozen 01' more different places in the kiln and take readings of them all frequently tbrouO'hout thc entire nUl until the propel' place for taking the controlling conditions has
+been determinod upon. All thermometers should be checked together occasionally by placing
+t.heir bulbs together and surrounding the set of bulbs with some insulating mn,terial, sucb 8S a
+dry woolen cloth. The kiln should be controlled not by an il.verage of the various readings, but
+according to the conditiOll at some point or points carefully selected, after a study of ull the readings. The succe s of the run may depend largely upon the judgment used in choosing the
+proper plac('s for measuring the condition . If thC' readings at the cliITeront positions in the
+kiln app('ar to be inconsi tent, seis of reading should be taken at short intervals, both at a time
+when the tempel'atme is rising and uO'ain when it i falling, and the thermometers moved about
+until consistent readings are obtainable. It i not always easy to predict where the hottest portion of the kiln 'will b(', and even when this i found it may not nC'cessarily correspond to the air
+temperaturC' entering the pik of lumber. Fmthermol'e, the air may C'ntel' the lumber at one
+place during tIl b('ginning of the run and at another place at the finish, in which case the place
+for mea uring conditions controlling the run must be shifted accordingly. Or the1'e may be no
+apparent place which might be considered a. "entering air". In this case the hottest portion
+of the pile hould be cho ('11 a supplying the condition for controlling the run.
+Since it ig as umed that material f['om any portion of the pile is likely to be 'Ired in manufacture, it i necessary that no portion of the pile he ubjected to conditions more severe than
+those specified . Hence it is necessary to O'overn the entire kiln by the most se,ere conditions
+to which any portion of the pile may be subjected, irrespective of whether oLber portions are
+drying too slo\dy or not.
+In thy kilns wher the circulation of til e au.' i ' in a known direction, the proper plfl,ce at which
+Lo measur(' t('mpe ruture' ,1nd humidities for controlling the drying run i where the air first
+enters the pile of lumber. In the water-spray kiln thi place is in the warm ,1ir flue Coppo ite
+the ~pray chamber ide of the pilt'), abou t half way up the pile and about the midcUe of th flue.
+Ordinarily a thermometer or hygrometer so placed will not need Lo be shielded from radiation.
+RECORDING THERMOMETERS.
+
+While noL m,. ential, recording thermometer are very useful not only in furnishing a permaI1<'nt record of the run but also in indicaLing how to control the conditiolls. 'While optical
+readings of glass thermOlll('i<'rs giyc only points in thC' CUl'\~e of operation, the recorder gives It
+continuo 1S rocord : and it i" very casy to learn from the recorder whether condition are steady,
+variable, rising, 0[' fulling.
+Unfortunately, l' cording tbermometers have not proved a.ltogether reliable and they
+should not be wholly depended upon. Standard gla s thermometers should always be used in
+the kiln in addition to the rccorder
+The recorders llOuld al 0 be checked frequently with a
+standard glass Lhermometer.
+17
+
+18
+
+A "NUAL REPOHT NATIONAl.. ADVISOItY
+
+'OMM:rrTEE FOIt AEItO.!.:rAUTICS.
+
+The recorders mo t useful in dry-kiln work are those in which the measuring bulb is connecte 1 with the recording in trument by a long, flexible capillary tube filled with a fluid. The
+bulb i placed at the point where the temperatut"e is to be measured, and the recording ins rument in a convenient room, which should he at a lower temperature than the bulb.
+The e instrument are of four types, according a whether tl~e fluid in Lhe bulb and tube is
+(1), mercury, (2) some nonvolatile liquid, (3) g<l. , or (4) a volatile liquid which produce. the
+pres ·ure on the operating spri.ng tlu·ough yaporizu,tion of a portion of thc liquid.
+In the fir t thr ee types it is important that tbe Hpri.ng in the re orciing CttHe and that portion
+of the tube not ubjected to the temperature t o be measured be kept a t a fairly uniform temperD tUre, since any change in the temperature of ilny portion of the fluid content will affect
+it pressure according to the r lative volume affected. Campen ating devices are usually
+attached to uch instrument upposed to correct for such change, but experience show that
+they do not always campen ate with com plete satisfaction, e pecially in the case of the liquidfilled instruments.
+The only instrument which is not ubject to change in temperature of any part of the
+ves el i one £ilied with a volatile liquid and its vapor.
+ince tbe action of this in trument is
+produced solely by the pressure of satura ted vapor and Jiot by the expansion of the liquid or
+gas, it is not affected by temperatm es which are lower than the temperature of the bulb. Its
+action is the arne as that of a steam pressme gauge; in fact, the thermometer is in reality nothing
+more than a satm-ate vapor pre sure gauge; and since the pre ure of saturate vapor is always
+the ame at a given temperature, indep ndent of the volume or of the lower temperature of the
+liquid, this form of thermometer is the most accurate and reliable if properly used. The main
+precau tion is that no portion of the tube or the spring mu t be heat d abo,e the temperature
+of the bulb. The tube and spring will then be full of the liquid, and the vapor will be generated
+in the bulh in the pre ence of some of the liquid, which i alway suilicient to fill part of the
+bulb a well as the tube and spring.
+Thi form of instrument may be at once di tingui hed from the other three forms by the
+divisions on the dial, which in the other are uniformly spaced but in the vapor instrument
+,riden out as the temperature increase::;. In one make a patented device is attached which
+comes into action at a pre cribed temperature and narrows down the spacings.
+In the ga -filled instrument it matters not at what height the recording dial i placed
+relative to the bulb; but in the liquid and vapor instruments the vertical height of the liquid
+column exert a pres ure, which requires a readjustment of the hand· when this heigh t is altered.
+PLACEMENT O.E' RECORDING THERMOMETERS.
+
+For the water-spray hili the vapor form of instrument is recommended . Two eparate
+bulbs operating on one dial are desirable, one to record the dew point, the other to record the
+entering ail" temperature. The dew-point bulb hould be placed in the lower opening of one of
+the baffle boxes, on the spray-chamber side, but in uch a manner that it docs not receive the
+direct spray of water nor re t directly on the floor ; and the tubing 'hould extend through the
+spray chamb er it elf to th e end of the kiln and pass directly out through the end wall. Thi
+is to insure that no portion of it becomes heate above the bulb temperature. The ca e also must
+be situated in a room wbich is cooler than the dew-point temperature to be measured. Care
+should be taken to see that the bulb i placed in a " live " part of the spmy chamber and not
+where the conditions of pray or circulation are abnormal from any cau e.
+The bulb for measuring the temperature of the air entering the lumber (dry bulb) should
+be suspended in the warm ail" flue abou t half way to the top of the pile and midway across the
+flue, and the tubing should be carried horizontally on a level with the bulb through the flue to
+the end of the kiln and thence through the wall to the in trumellt. It must not pass near any
+hot pipes. So placed, the bulb need not be shielded from radiation. I t is inlportant that this
+bulb does not lie on line with the space between the ends of two piles, but it should come somewhere n8<\.1' in line with the middle of the pile. 'rhe same appliet> al. a to the dew-point bulb,
+, ince the circulation will he apt to be abnormal between the piles, and the true condit ions of the
+air which entern and leave the pile would not be correctly regi. teredo
+
+VI. HOW TO CONDUCT THE DRYING OPERATION.
+METHOD OF PILING.
+
+In general lumber should be so piled as to afford free pa sage of the air thToughout, and so
+that the air will pass through the pile and not around it. It is frequently advantageou 1,0
+hang ran vas curtains in such a manner a. to prevent the air from short-cirruiting the pile.
+llcmembcl'ing that the drying takes place progressively t]n'ouG'h the pile, it is evident that
+the pile should not b malic 1,00 large, as otherwise ,,,,-haL i gained ill ' ize will be lost in time of
+drying. Thi applie also to the qu estion of how cIo e together to place the stirks. If the pile
+is too cro\\'clecl the incrcased capacity will be lo ' t in slmvless of drying. _\.gaill. if Lhe lumber
+is too openly piled the capacity of the kiln is unduly cut down "'ithouL a compen 'ating gain in
+Lime of drying. It is better to CIT on the side of too open rather than too cIo e piling, sillce no
+harm will re 'ult other than los.;; in capacity, whereas ioo close piling may result in very uneven
+drying.
+The greater the cil' ulation in the kiln; the larO'er and closer may be the pile. For an ordinary conden 'cr kiln without forced circulation it i generally desimblc to aUow about twice as
+mu ch air space as solicllumber in the pile. Thus, for :3 by 4 inch wing-beam material 2-il1ch
+,tickers and 2-illch spacings are preferable. W11 I'e high circulation is attainahle thi· may be
+cu t down to equal ptl,rt::l, or e"l""en to 6 parts soliel to 5 part open. Thus for 3 by 4 inch wing
+beam, 1 or 1 } inch tiekcl's with 1 i to 2 inch horizontal spacings may be used. For I-inch
+boards ] -inch s(,irkers 'houlcl be u 'cd, when there is high circulation and 1i-inch for low
+circula tion.
+In Lhe waLer-spray kiln and in pipe condenser kiln.' th e lumber should be run lengthwise of
+the kiln and Lhe iJldividua l piles :-hould not exceell ) fect in height and 5 feet in width. An
+open Hue of 18 inehes houle[ be left through Lhe cenLeI' of the kiln bet,,-ecn the Lwo 6-£00t. pile,
+and at least J 2 inch(' bC'tw('('n the lu mber and the side wall .
+A suitable mcLhod of piling wing-beam stock i ' illu, tJ'ated in Plate VIII. which show one of
+the kiln' at, the United \ taLeR Signal Corps rut-up mill at Yancounl', Wash .. opc.'necl for Ullloauing. This kiln is loaded wiLh 3 by 5 in ·b Dougla fir wing-beam sLock
+l'nless th drying take place evenl y from both surfaces of the boards Lll£'re is a strong tendency for them to cup. Con equontly the unangement of tbe pile with re ' poct to the movement of the air is of great importance from thi point of view.
+TESTS OF MATERIAL DURING AND AFTER DRYJ G.
+
+For correct drying and the control of the wholo operation it, i ' e. sential to know currently
+the condition of the wood in variou portions of the pile in regard Lo moistUI'f', ca 'ehardening,
+and checkinG', a ' wcll a the temperatures, humidit.ic , and ail' movement. Test of the material
+111U t therefore be made as of Len a required.
+There are t,,·o mean of acquiring thi information ; namely:
+(1) By the direct-test method.
+(2) By the sample-piece method.
+The followinG' te-ts are to be made:
+(1) ~I,.verage moisture.
+(2) 10i ture eli tribuLion_
+(3) Caseharc1ening.
+DlHECT-TEST METHOD.
+
+One mean of lLscertaining thi information is to pull out ti('k~ of the wood from uifferent
+uch test mu ,t be made
+place' periodico..lly and Lo tes t them for moi ture :md co.., ehardening.
+at a considerable distance (2~ or 3 feet) from the ends of the ticks, a other~-i e they are liable
+to give erroneous conclusions due to the ends of the sticks having dried very much fa tel' than
+the centers. It is frequently difficult if not impos 'ible, however, to pull out representative
+material from the piles during the progress of tile drying, and another method mu ' t he resorted to.
+19
+
+20
+
+A:NNUAL REPORT NATIONAL ADVISORY CO.\IMITTEE FOR
+
+AE"RO~AUTlC.' .
+
+SAMPLE·p mCE METH OD.
+
+This method can be be t applied by preparing suitable sample pieces beforehand and
+in erting them into sui table pockets left in the sides of the p ile when the lumber is fir t loaded .
+The amples should be represen tative material, cut from near the center of the chosen sticks
+and not less than 21 feet in leugth . They hould include orne of the wette t as well as the
+average material, otherwi e the load is likely to be considered dry before the wettest pieces
+have reached the required dryness. A I-inch moistUl'e di k should be taken from either end of
+the ample at the time of its preparation and immediately weighed on a delicate balance. The
+sample also should be weighed within a few minutes of the di ks. The end of the samples
+should then be thorouo-hly coated with thiek a phaltum varnish, or be dipped in melted rosin
+100 parts, lampblack 7 parts. The samples are then reftdy to be pIa ed in the load in the
+~o ckets left for them. When amplcs fLJ' thus in place they hou ld lie in exactly the same
+APPENDIX I.
+
+Water pzo
+Temperafurelllo ~d-+-+--I-.+--I--+-
+
+,
+
+'
+
+801--I--f--F- t--+--+--+--t--J- "t--t--+-+-f--t
+80~~+-4-~ -~-r-r-+-1,~~~1~~+--r~-+-+-4~~~+-~ct-~~-+-4~--4
+70~+-+-+-~--I--1-~
+
+l.Jol-+--j--r-j--t--f--+~-f--I --t--lf--t--
+
+Air
+
+fZO !-t-+-++-+-+-t-1-1-t-+-++-t\-+-+~--'f--1-~C+---h-fL-:::l.'4=::::t====11-.j-Jfl-1
+
+Te m peraTure l 110 l\c:l:::::±:::t=-d:;;::t-+
+A ir
+
+Hum Idl t;Y
+
+-i
+
+{ 'OOt.,..:::..b,j,....<::::.p..".
+90 I--ld--I--I--I--h,-J.-J.
+
+::.d:::=t:-l-~~21--~pl~~
+
+~"""',=f==t":':':';;f-'--'~+--t-
+
+Moi.sfure
+
+in wood
+
+3°~=f=~=~==~=~~f=1~~~~f=~~~~~~~~~~~~~~;;:l~::~f:1
+20
+
+10
+
+FI G . I.- DRYING RECORD OF RED AND WH ITE OAl< PROPELLER STOCK. SHOWING METHOD OF PLOTTING DATA
+AND K E E PING TRACK OF COND IT I ONS.
+
+relative positions as the other sticks in the pile, the end being pieced out by the ends of the
+ticks from which they were cut and they must be readily accessible so that they can be re
+moved and replaced as often as desired. By first estimat.ing the dry weights of the samples
+and then weighing them periodically during the drying run, the progress of the drying of the
+load may be kept traek of cmrently.
+H ow many samples to take will re luire judgment. They must he representative, but
+the more uniform and regular the drying con ditions are in the kiln and the more uniform the
+material to he dried, the fewer will he required. Ordinarily aL lea ' t foLU' samples, two placed
+on the entering air ide of the pile and two on the leaving air sido, will be requir ed, and frequently double this many.
+Dry weight of the sample pieces is readily estimated as follow : Let Al and B I be the wet
+weights of the disks, Ao and B o their oven dry weights. Let WI be the wet weight of the sample
+and Wo its dry weight wh ich is sough t.
+
+21
+
+KILN" DRYL"'"G OF WOODS FOR AIRPLANES.
+
+(AI+fl~~~)+Bo)X100=PI
+of oven dry weight.
+
+Wl'llbe the ongma1 mOIS t ure per cen t
+..
+.
+
+0f
+
+th e amp1e, m t erms
+
+Then it,s dry weight Wo will be
+
+100 WI
+]00+P 1 = Wo
+
+IT lVn be its CUl'rent weight at any time, its moisture per cent will evidently he
+
+W - Wo
+n
+
+--Wo
+
+p
+
+X lOO= u
+
+These current values hould be plotted on cro ' -section paper in the form of curves howing the progre of drying; and the temperature, humidities, etc., should be al 0 plot,ted on
+the same sheet, as shown in figure 1.
+AVERAGE MOISTUUE TEST.
+
+T he average moisture is 0-etermined by cutting a di k clear across Lhe stick, far enough
+away from the ends to a void the effect of end drying. One inch is a suitn.ble thickne's for this
+disk, hut the exact thickness i immaterial. The disk hould be weighed upon a sen itive
+balance immediately after cutting, before it has had time to lose or ab orb any mo istur~ from
+the air on the freshly cut surfaces. It i then to be dried in an oven, preforably at a temperature
+between 200° F. and 2:20 ° F., never above 230° F. When the di k has ceased to 10 e weight,
+which will require from one to two days' time for a wood like oak, it i again weighed. The loss
+in weight is the moisture content, and thi quantity divided by the oven dry weight times 100
+gives j,he "moistv1'e pe7' cent" as a standard, a determined by the equation for finding Po,
+gl en Gbove .
+MOISTURE DlSTRLO TIO
+
+TEST.
+
+The moisture di tribution disk should be liced up into an outer layer 34 inch thick and an
+inner core Y2 inch thick. The outer and inner parts should be weighed eparately immediately, and their moi ture content determined in the ordinary way, by drying in an oven at a
+temperature between 200° F. and 220° F., never above 230°.
+CASEHARDENING TEST.
+
+(':1 ehardening as well as moi ture distribution tests should be made from time to time.
+Two d:sks about % inch in thickne should be cut, one of which is to be lotted in the longest
+direction so a to form two outer prongs, each % inch thick, and two inner prongs of the same
+thickness, a shown in Plate IX. The lot should extend to \yithin Ys inch of the oppo ite
+side.
+The indications of casehardening have been fully discu sed elsewhere.
+
+DRYING RECORDS.
+
+The (hying conditions can be bost repr ented by means of a curve on cro s-section paper,
+like tho 0 shown in the pecifications in AppendL,{ 1. The temperatures and humidities in
+the curves arc tho e of the air a it enters the pile of lumber; that is, in Lhe flue in water-spray
+or condenser kilns or in places to be cho en as explained in the discu sion of other kilns. The
+humidity will naturally be higher and the temperature lower where the air i leaving the pile
+on the ides, or at other portions of the pile. Records should be plotted currently in order to
+keep track of the progress of the drying operation.
+TIME OF DRYING.
+
+The time of drying will vary considerably in difi'erent kilns, depending upon the size and
+form of pile and t,he circulation.
+ince the run will be governed by that portion of the pile
+subjected to the most se,ere conditions, it necessarily follows that other portions will be relatively slower in drying; and if the air circulation is poor or the pile i ,ery large or close, it may
+be necessary to continue to hold the final conditions for a considerable time after the material
+in the hottest portion has reached the proper condition for removal. The poorer the conditions of circulation, the longer will be the time required and the greater will be the discrepancy
+
+22
+
+•
+
+ANNUAL REPORT :rATIONAL ADVJSORY C'Oi\G\UTTEB Fon
+
+AJ~ROX AUTICl' .
+
+in final moisture contents in different portions of the pile. It may even be desirable, in extreme
+cases of this kind, to raise the final humidi ty somewhat to prevent part of th e stock from becoming too dry while the lagging mat.erial is dr}.Jna down to the requiTed condition. 'rhe t.ime
+element of the drying curve i therefore not included in the pocification given in Appendix 1.
+Air-dried or partially dried material requires, of course, proportionally Ie s time to dry. It is
+well to start with the drying conditions the same as for green material, but in a few days they
+may be reduced to those given on the curve corre ponding to the actu nl moisture content of
+the wood.
+As air-dried material is very apt to be caseh ardened it is generally de irable to begin wi!'h
+a preliminary steaming treatment at abou t, 160 0 for 24 hOUl in order to remove the surface
+stress and to remoisten the outer surface. Immediately after the steaming, the temperature
+and humidity h ould be reduced to tho u. ed at the start- 120° and 80 per cent for spru e,
+for example.
+REMOVAL OF CASEHARDENING.
+
+Casehardelling, if it develops, may be removed by a steaming treatment at 170 0 or 180 0
+for 72 to 172 hours, according to requirements, either during the drying or at the end of the run,
+a day or so before removal from the kiln. Oak, however, should b e steamed at lower temperatures, not over 160 0 • This may be accomplished by turning boiler pressure steam into perforated steam pipes properly arranged for the purpo e. The -fs-inch holes should be about 6
+in ch es apa,r t and 0 placed as to produce a bigh circulation through the pile of lumber.
+Another means of n.coompli:-;h ing this result is to raise the humidity considerably at the end
+of the run without raising the temper ature, thus allowing the outer surface to reab orb moi tUre.
+This relieves the et condition and allow. normal shrinkage to be resumed .
+Whioh method i the be. t to use will have to b' determined by the operator to suit the
+pecial conditions and specie of the materia 1.
+M OLD.
+
+Mold i likely to form on some woods, especially green oak anll walnut, during the first
+part of the operation . }.sicle from retarding the circulation it does not injure the stock, but it
+must not be allowed to develop. It may be removed by teaming for 1l<1lf an hour or so at 160 0 F.
+or over, providing t.he cire.u lation j uffi c.iell t to carry this t emp erature \yell througb th - pil e.
+
+APPENDIX I.
+DRYING SPECIFICATIONS FOR AIRPLANE STOCK.
+
+At the beginning of the war, the Forest Service was already in possession of knowledge,
+derived from years of experimental study, to enable it to offer immediately a method by which
+it was Lelie ed that kiln drying could be accomplished without injury to the material. The
+Forest Service was in a better position than any other organization or individual to recommend
+suitable methods and apparatus for drying airplane tock. Drying pecifications were prepared
+for the Signal Corps, based on the knowl dge and. experience then available. They were first
+drawn on July 2, 1917, nnd have been employed witlwut ignificant changes.
+The necessity for estahlishing beyond question the safety of the origillal drying conditioJls
+given in the::;e specification s, however, was apparent, a well a the need to ascertain their application to untried species and to establish limiting conditions as to everity of treatment beyond
+which it would be un afe to go. This called for an exhaustive eries of strength te t upon
+material which had been kiln dried under difl'erent conditions and a comparison not only with
+matched green specimens, but likewise with matched specimens which had b('en set aside and
+air dried under most favorable condition. The investigation which was undertaken immediately by the Madison Laboratory of necessity required considerable time before definite eonelusions could be drawn, ince the matched samples had to become thoroughly air dry. Test
+are still in progress, but sufficient results have now been obtained to establi h for a certainLy
+the safety of the conditions prescribed in the original specifications prepared in July, 1917. These
+results are reported in the monograpb entitled liThe Effect of Drying on the trength of Airplane
+Woods."
+The following is the pecification a fmally lightly modified and adoptrd hy the 1
+9na
+Cor]) :
+[ ignal Corps, Uniled Stales Army.)
+
+SPECU?JCATION FOR GENERAL KILN-DRYING PROCESS FOR AIRPU.NE
+
+TOCK.
+
+[No" 20500 and 2().;()()...\ ,)
+
+GENERAL.
+
+1. This specification cover the general requirements of the Signal Corps for kiln-drying of
+
+wood for airplane stock.
+2. The kiln-drying operations hall be 0 conducted that the wood will not 10 e any strength,
+toughness, or other physical property.
+MATERIAL.
+
+;~.
+
+Only one specie and approximaLely one thicknes shall constitute a kiln charge.
+ference of not to exceed 1 inch in thickne 'of single pieces will be allowed.
+
+A dif-
+
+PILL-G.
+
+4. The boards shall be piled 0 that the horizontal width of the space between them will
+be at least 1 inch for each inch of board thicknc , but in no ca e hall the horizontal width
+of uch spaces exceed 3 inches. The board must be held fiat and traight while drying.
+5. For tock up to 4 quarters (1 inch) in thiekues , the eros e1"8 shall be at least 1 inch
+thick and not over 1 ~ inches wide.
+6, For stock from 4 to 12 quarters (1 to 3 inehe ) in thickne , the cro ('rs hall be at
+least, I } inches thick and not oyer 11 inche wide.
+7. For t,oek over 12 quarters (3 ineha ) in thickne the t,hickne of the ero el shall be
+inereased in the above proportion but mu t not exceed 2 inches in any case.
+e. The (TO sers shall be placed direct!
+over one another and not oyer 3 f et apart in t,he
+cour ('s.
+9. The lumber mu t be 0 di posed in the kiln a 1,0 permit of ea y acce on both side of
+the pile and the taking of temperature and humidity reading. whenever required by the in pector.
+IN'l'RUME TS.
+
+10. At least one recording thermometer or recording hygrometer of approyed make hall
+be u ed in each dry kiln compartment.
+23
+
+24
+
+ANJUAL REPORT
+
+="ATJO.lC~AL
+
+."DVJROTlY
+
+UO:\ll\I1T'f'EI~
+
+J<'on AlmO."".\UTICS.
+
+11. Recording thermometers or hygrometers shall be checked at lea t once eyery kiln
+charge, with a standard thermomet~r or a gla s thermometer alibrated to an a curacy of 1 0 P.
+This comparison shall be made with the thermometer. placed so it to l' cord the illl:1.'imum
+temperature of any p rtion of the pile.
+12. Thermometers.- ThermomeLer bulhs must he hielded from dil'ec'L l'I1dinLion of sLeam
+pipe , w t lumber, cold walis or surface, and must receive a free circulation of air.
+13. The inspector may, at his discretion, place other thermometers at any point in the pile.
+14. llygrometer.-Humidity readings hall be made at least three times daily or more
+often as the inspector may de ire, according to standard methods approved by the in peeLor,
+at the same point where the recording thermometer' or hygrometer bulhs are placed.
+APPENDIX I.
+
+ISO
+
+/4 0
+/30
+
+--
+
+~
+
+T
+120
+
+/ /0
+/00
+
+80
+
+70
+
+60
+
+50
+40
+30
+
+-
+
+l
+
+r-- ---
+
+-
+
+~~I--
+
+I":
+
+1-1
+
+"" '"
+"-,
+
+" "-'""
+
+-
+
+.. "-....
+
+J.II
+'-..J "-..,.
+
+20
+
+~
+
+--r-...
+
+246
+
+8
+
+W
+
+~
+
+U
+
+m m
+
+~
+
+APPROX~MATE
+FIG.
+
+'-....
+
+-..
+
+---- ]--
+
+r- :--1-----
+
+/0
+
+o
+
+--
+
+..
+
+---
+
+80
+
+".,...-
+
+n
+
+u
+
+~
+
+m
+
+--
+
+~
+
+~
+
+M
+
+-
+
+~
+
+~
+
+~
+
+DAYS //1/ KILN
+
+2.- SPECIFICATION SCHEDULE. TABLE 1, FOR AIRPLANE WING-BEAM STOCI<. T, TEMPERATURE of.;
+H , RELATIVE HUMIDITY, PER CE NT; M, NORMAL DRYING CURVE, PER CENT OF MOISTURE; ALL ON ENTERING
+AIR SIDE OF PILE OF LUMBER.
+
+15. The follo ving shall constitute a standard method: rse a g]ass 01' recording wet and
+dry bulb hygrometer with di tilled water and with the wick changed at lea t once a week; produce a circulation of air po, t the wet bulh f at lea t 5 f et pel' eeond hefore readin~· .
+16. Hygrometer bulbs must be hielded from direet riLditttion of ,' l ('1tm p ipes, wpC lumher,
+cold wall Or surfaces, and mu t recciy [\, free circulation of ail'.
+STEAMING .
+
+17. At the beginning oj the drying operations.-Grcell wood is to he steamed at a temperature not to exceed 15 0 F . higher than the initial drying temperature sl)oeificd in Tables 1 and 2,
+for 6 hours for each inch of thick-nes. Humidity during Leaming period must he 100 per
+cent, or not beJow 90 per cent, in every portion of the pile.
+
+1--
+
+~~
+
+25
+
+KILN DRYING OF WOODS FOR AIRPLANES.
+
+18. Previously air-dried wood is to be steamed at a temperature not to exceed 30° F. higher
+than the initial drying temperature specified in Tables 1 and 2, for 8 hours for each inch of
+thickness. Hum,idity during steaming period must be 100 per cent, or not below 90 per cent
+in every portion of the pile.
+19. Near the end of the drying.-If on official test the stock shows serious casehardening
+it shall be steamed at a temperature not to exceed 20° F. higher than the final drying temperature specified in Tables 1 and 2, for not more than 3 hours. After steaming it shall be redried.
+TEMPERATURE A D HUMIDITY.
+
+20. Operating conditions are specified in Tables 1 and 2, but lower temperatures and
+higher humidity condition are permissible.
+21. The progression from one specified stage to the next must proceed without abrupt
+changes.
+22. Green wood (above 25 per cent moisture) over 3 inches thick. -Reduce the temperature
+values given in Tables 1 and 2 by 5° F. for each inch increase in thickness.
+23. Air-seasoned wood (below 25 per cent moistu1'e) over 3 inches thick.-Reduce the temperature values given in Tables 1 and 2 by 5° F. for each inch increase in thickness.
+TABLE
+
+1.
+Drying conditions.
+
+Stage of drying.
+
+Maximum MIn1mum
+temperarelative
+ture,
+bumidity,
+Fabrenhei t. per cen t.
+
+At the beginning ............ . .. . ... . .... . .. .. .. . ............. . . . . ......... ... _................................. . .. . .... .
+Arter fiber saturation is passed (25 per cent) .. . . . ~ ...... .. ...... .. ................. ~ .... . ........ .. . . . . . . . .. ..... . ...... .
+At 20 per cent moisture ....... ... ............................ . _. . ..... . __ . . .. .. _•.. . ..... _._ ....... _. .. . . .. . . . _......... .
+At 15 per cent moisture . . . .................. . .... ... .................. _......... . .. . . . .. . ... .. . . ........... . ............ .
+At 12 per cent moisture ...... . .................... ~ .. ~.~ .. ........... . ........................... ~ ................. . .... .
+
+~fn~f.~ ~~~ ~~~~~~~:: ::::: :::::::: ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+120
+125
+128
+138
+142
+145
+145
+
+80
+
+70
+60
+44
+3
+33
+33
+
+24. Table 1 applies to the following woods:
+Ash, white, blue, and Biltmore.
+Birch, yellow.
+cedar, incense.
+Cedar, northern white.
+Cedar, western red_
+Cedar, Port Orford.
+
+Spruce, itka.
+Cypress.
+Pine, sugar.
+Pirie, white (Idaho or eastern).
+Spruce, oostern (red or white).
+Douglas fir.
+TABLE
+
+2.
+Drying conditions.
+
+Stage of drying.
+
+Maximum MIn1mum
+tempemrelat! ve
+ture,
+humidity.
+Fahrenheit. per cent.
+
+~fl~'li~:r~~~tio'; is'passed' {25 'per cent):::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+At 20 per cent moisture . ... .... .. .... . .. ..... . ... . . .. . .. ... . .... _....... • ... . _••....... '" .. .... . ........ ... . . ..... .... . .
+At 15 per cent moisture.. .......... .. ............................. . ..... .. .... .. .. .... .. . .. . ..... .... .. . ................ .
+At 12 per cent moisture.... . ............... .. ...... .... ................... . ............ .... .. . . ..... ... . ... ... .......... .
+
+~itnBJ.~~~~~~.i~~~.... ::::: : : : :::: : : :::::: ::::: :::::::: : :::: ::: :: :::: : :::::: :: ::::: :::: : : : :: :::: :: : :::::::::::: : :::::::
+
+105
+110
+117
+
+129
+
+135
+135
+135
+
+85
+73
+62
+46
+42
+
+40
+40
+
+25. Table 2 applies to the following woods:
+Cherry.
+Mahogany.
+Oak, white and red .
+
+Walnut, black.
+Maple.
+TESTS DUBI "G DRYING.
+
+26. Samples shall be inserted in the pile in such manner that they will be ubjected to the
+same drying conditions as that portion of the pile where inserted. They shall be so placed
+
+26
+
+ANNUAL REPORT NATiONAL ADVISORY COMMITTEE :FOR AERO N AU TICS.
+
+that they can be removed for periodical weighing in order to a certain the average moistur e
+content of the pile at any time.
+27. Three samples shall be u ed for each 10,000 b oal~q feet or less of material in the pile.
+Each sample is to be 2 feet long and shall Dot b e cut near er than 2 feet to the end of one of the
+pieces to be dried.
+28. The original moisture content of the samples shall be determined fr om ections 1 inch
+APPENDIX I.
+
+140
+
+....... ..--
+
+130
+
+/20
+
+----
+
+-r-
+
+110
+l Oa
+
+./
+
+V
+
+'/
+
+90
+
+80
+70
+
+60
+
+50
+
+i'---.
+
+."
+'
+
+H
+
+--.... r-......
+
+~ r.......
+
+i'-. r........
+i'.. M
+.........
+
+40
+
+30
+
+~~
+
+20
+
+--
+
+r--- t--
+
+10
+
+a
+
+2
+
+4
+
+6
+
+8
+
+5
+
+/0
+
+15
+
+20
+
+/0
+25
+
+12
+30
+
+/4
+
+/6
+
+/8
+
+35 40 -45
+
+20
+50
+
+"
+
+"
+
+........
+
+r-. '-
+
+r-- r-- r---
+
+r--
+
+22
+
+24 26
+
+28
+
+55
+
+60
+
+70
+
+65
+
+-
+
+30 32
+75 80
+
+-
+
+3 4 - / " THiel !
+
+85-2Y2"THICK
+
+APPROXIMATE. DAYS IN KILN
+FIG _ 3.- SPECIFICATION SCHEDULE, TABLE 2. FOR PR OP ELLER STOCK AND HARDWOOD S.
+N ome ncl atu r e as in f igure 2.
+
+thick cut from both ends of the sample at the time it is awed fr om the s tick. This determination shall be mad e as provided in specification No. 20504- A.
+29. Befor e placing them in the pile, the ends of the samples must be given a thorough
+coating of asphaltum varnish to prevent end drying.
+30. The samples shall be weighed to an accuracy of one-tenth of 1 per cent immediately
+after cutting the moisture sections and b fore placing in the kiln. They shall be weighed at
+least daily when the time of drying is 10 ays or less, and at least every other day when the
+tinle of drying is more than 10 days.
+31. The samples hall be placed in th pile and distributed so that they will be exposed to
+the average, most rapid, and slowest drying, except that they shall not be placed on the top or
+bottom layers. The samples placed in the portion of the pile where drying is most rapid shall
+control the regulation of the temperature and humidity.
+32. After obtaining the dry weight of the samples, the average moisture condition of the
+pile during the drying shall be determined after each weighing.
+
+KILN DRYING 0 :1" WOODS FOR AIRPLANES.
+
+27
+
+33. The follo'wing example will illustrate the method employed:
+Original weight of sample = 7.35 pound.
+Original moi ture per cent (average of the two I-inch sections) =47.
+Calculated dry weight of sample= 7.35 divided by 1.47=5.00 pound .
+Current weight = 6.23 pounds.
+Moisture in samples = 6.23 - 5.00 = 1.23 pound .
+Current moisture per cent = (1.23 divided by 5.00) x 100 = 24.6.
+34. Continuou and permanent records must be kept of the temperature and h umidity
+observations and the percentage of moi ture in the lu mber in the kiln.
+TESTS AFTER DRYING.
+
+35. Standard moisture content and casehardening tests shall be made before the lumber
+is removed from the kiln. Material for these tests shall be taken from four boards for each
+5,000 board feet or less of material in the pile. Pieces selected mu t fairly represent the dried
+stock and shall be taken from different parts of the pile. At his discretion the inspector may
+select other pieces for tests. Sections for these tests shall not be cut nearer than 2 feet to the
+ends of the pieces.
+36. Three adjacent sections, 1 inch thick, shall be cut from the centers of each test piece
+of stock . Each section must be weighed within five minutes to prevent moisture evaporation.
+37. T he ji1'st section.- (A, fig. 4) shall be dried whole and the average moisture content
+obtained as provided in specification No. 20504-A.
+38. T he second section.-(B, fig . 4) moi ture distribution section hall be cut into an outer
+shell i inch wide and an inner core t inch wide. The moisture content of the outer shell and
+inner core shall be determined.
+39. The third section.-(C, fig. 4) shall be sawed parallel to the wide face of the original
+board into tongues or prong , leaving about ! inch of olid wood at one end of the section.
+For material less than 2 inche thick two saw cuts shall be made and for material more than
+2 inches thick five saw cuts shall be made. In section having six prongs the second prong
+from each side shall be broken out, leaving two outer and two central prongs. The center
+prong shall be removed from sections having only three prongs.
+40 . . The third section shall then be allowed to dry for 24 hours in the drying room and any
+curving of the prongs noted.
+41. If the prongs remain traight, perfect condition of tress and moisture content are
+indicated.
+42. If the outer prongs bend in, conditions of casehardening are indicated.
+43. Only very slight casehardening is permissible.
+FINAL M.OI TURE CO DlTIONS.
+
+44. An average dryne of approximately p er cent, unless otherwise specified, shall be
+required. A moisture content of from 5 to 11 per cent is permissible in individual sticks.
+45. The variation in moisture content between the interior and exterior portions of the
+wood, as shown by the « moisture distribution section" provided for in paragraph 38, must not
+exceed 4 per cent.
+SEASO ING.
+
+46. Before manufacture the wood shall be allowed to remain in a room, with all parts under
+uniform shop conditions, at least two weeks for 3-inch material, and other sizes in proportion.
+STEAMING AND BENDING OF ASH FOR LONGERON CON TRUCTION.
+
+47. The ash shall be cut in the form of rough square ufficiently large to allow for shrinkage
+and finish.
+48. Where it is necessary to bend this material, it hall be steamed in the green condition
+(more than 1 per cent moisture), bent on forms, and then kiln dried a provided in paragraph 23.
+49. Steaming shall be conducted at a temperature not to exceed 212 0 F. for a period not
+longer than six hours, and the bending shall be accomplished while the material is hot.
+
+28
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+INSPEOTION.
+
+50. At all stages of the process the lumber shall be subject to inspe!,ltion by the Inspection
+Department of the Signal Corps tmder its Manual of I nspection.
+.
+APPEN DIX I.
+
+H~4~
+~
+
+c:::
+/'
+
+":!r
+
+\+.
+
+'!1ft.,
+
+-
+
+./\
+fil l 'IJ),Y
+
+~
+
+II
+
+II
+
+.-.:r
+
+~
+
+24"
+
+,
+
+""L1'
+
+Y/I
+"l
+
+A
+
+8
+
+C
+
+SECTION A
+TO BE WEIGHED, THEN QVEN-
+
+DRIED, THEN REWEIGHED TO
+DETERMINE AVERAGE MOISTURE CONTENT OF PIECE.
+
+1; TH. THICKNESS
+
+OF P I ECE.
+
+SECTION B
+OUTER MAR GIN
+
+~
+
+SAWED OR SPLIT
+
+OFF.AS SHOWN.
+!ZZ:Zl
+
+OUTER
+
+OUTER AND INNER PORTION
+WEIGHED,DRIED AND REWEIGH ED SEPARATELY TO DETERMINE DIFFERENCE IN MOISTURE CONTENT.
+
+INNER
+
+PORTION
+
+PORTION
+
+SECT/ON TO B£ DRIED BEFORE
+CONCLUS I ON AS TO CASE HARDENING IS MADE.
+l"-
+
+['\
+f',
+
+f'.
+f'.
+f',
+
+f'f'-
+
+''""
+
+1\
+'\
+
+SECTION C
+THI CK STOel1 SA WED AS f', [\ 1\ i\
+SHO WN FOR CASEHA RD£N- "'''
+ING TEST, PRONGS 2AND
+NOT
+CASE HARDENED SHOWING
+5 TO BE BROKEN OUT.
+CASE HARDENED NOT PERMISSIBLE EFFECT OF
+IN A IRPLANE STOCK OVERSTEAMfNG
+FIG. 4.-SPEC I FICATION NO . 2050G-A . MO ISTURE AND CASEHARDENING TEST SPECIM ENS .
+
+51. The inspector shall mark all lumber with the official acceptance or rejection symbol
+of the Signal Corps.
+52. The inspector shall have free access t o every part of the kiln at all times and shall
+be afforded every reasonable opportunity to satisfy himself that this specification is being
+complied with.
+
+APPENDIX II.
+CONSTANT DEW-POINT SCHEDULE FOR DRYING DOUGLAS FIR, SPRUCE, AND SIMILAR WOODS
+
+An improvement over the schedule in the original specifications for drying species listed
+under Table I of Signal Corps, United States Army, specification 20500-A, was worked out, by
+the use of a constant dew point of 115°, and is shown in Plate III. This somewhat simplifies
+the control of the operat,ion, especially in the water-spray kilns, where the dew point is used
+as the controlling element of the humidity. The schedule here given is equally good with the
+former, and has already been put into use.
+If marked casehardening becomes apparent it should be removed by steaming for two or
+three hours at 160° once or twice near the end of the run, as indicated by "S" in the plate of
+curves. If no very severe casehardening develops, a high humidity for one day just before
+the close of the run, without raising the temperature, may suffice. Steaming at a temperature
+of 160° for not over one hour should always be resorted to if severe casehardening develops
+at any stage of the run, but i not ordinarily necessary if the given schedule be adhered to.
+In figure 5, T is the temperature of the air entering the pile of lumber, in degrees Fahrenheit,
+D is the dew point, H is the relative humidity per cent, and M is the normal drying curve of the
+lumber on the entering air side of the pile, in percentage of the dry weight.
+APPENDIX II.
+
+150
+
+!.
+
+140
+
+--
+
+I-- ~
+
+130
+
+T
+
+120
+
+D
+
+I
+
+~
+
+I
+12o
+
+110
+
+II o
+
+100
+
+10 o
+
+S
+
+90
+
+.........
+
+80
+
+=
+JO
+
+--'0.
+
+t--..
+
+.......
+
+-
+
+H
+
+~
+
+20
+
+.........
+
+r- r--
+
+r-.. ~
+
+~
+
+I
+
+2
+
+.3
+
+~
+
+5
+
+90
+80
+
+r--
+
+.........
+
+70
+
+i'--- t--...
+
+r--.. r--
+
+r-- r--
+
+...-... r--
+
+10
+
+0
+
+S .
+
+6
+
+7
+
+8
+
+9
+
+10
+
+--
+
+II
+
+60
+
+-
+
+f....
+
+50
+
+I....-
+
+40
+
+1=
+
+r--
+
+12
+
+10
+S
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+0
+
+19
+
+DAYS
+FIG. 5.-CONSTANT DEW-POINT SCHEDULE FOR AIRPLA NE WING-BEAM STOCK MAY BE USED IN PLACE OF TABLE
+1 SCHEDULE, WITH EQUALLY GOOD RESULTS.
+
+29
+
+APPENDIX ID.
+THE FOREST SE RVICE WATER-SPRAY KILN.
+
+In figure 6 is shown the cross section of a Forest Service water-spray kiln which has proved
+successful in drying airplane stock. 1 While air plane woods can be satisfactorily dried in
+APPENDI X II I.
+
+1<E-- - - -- - - - -- /2 '-O " - - - -- - - - --7J
+
+-----*)I(~/~~~~·-------
+
+I'
+
+:<;J
+I'
+
+It\)
+
+L-
+
+=
+
+~
+
+S7eQm elplpes
+
+/'
+
+FIG. 5.-DIAGRAMMATIC CROSS-S ECTI ONA L VIEW OF THE WATER SPRAY DRY KI L N.
+
+various forms of kilns, the water spray is recommended for the purpose on the basis of considerable experience. Since many of these are already in use for this purpose only a brief
+description will be given.
+30
+
+KILN DRYING OF WOODS FOR AIRPLANES.
+
+31
+
+The essential feature of this kiln is control of the humidity and the production of air circulation by means of a series of water sprays, spaced short distances apart and running the
+entire length of the kiln and operating in narrow flues about 12 to 16 inches in width and about
+6 feet deep.
+One flue is placed on either side of the kiln, as shown in figure 6; or a single flue may be
+placed in the center. The spray of water is directed downward with considerable force, and
+produces a large movement of air, which, after leaving the baffle plates at the bottom of the
+spray chambers, rises through the heating coils and upward through the central flue between
+the piles of lumber; thence it passes downward and outward to the spray flues again.
+The humidity is regulated by the temperature of the spray water, the air being brought
+to a condition of complete saturation in its passage through the sprays of water. Cold water
+reduces humidity and hot water raises it, since the temperature of the air as it leaves the bottom
+of the spray chambers is the dew point of the air after it is heated in passing through the heating
+pipes. Thus, the humidity of the air delivered to the lumber is controlled by controlling the
+dew-point temperature.
+Zigzag bafHe plates are arranged at the bottom of the spray chambers to remove all free
+particles of water and lcave the air in a clear saturated condition as it enters the steam pipes.
+Condensers are also placed above the spray chambers, to be used near the end of the run when a
+low humidity but not much air circulation is required, and a high-pressure steam spray pipe is
+placed in the spray chambers for use in relieving casehardening. There are no ventilators,
+and the kiln is tightly closed, the same air being recirculated over and over.
+Only these essential parts need be mentioned here, since in this brief discussion a complete
+design of the kiln is not intended and the planning of new kilns or the modification of old ones
+would need to be taken up in detail according to requirements.
+1 This kiln has been pa tented by t he author and dedica ted to the public, No. 1019743, Mar. 5, 1912; No. 1019999, Mar. 12,1912; and No. 1228989
+June 5, 1917.
+
+o
+
+PLATE I.
+
+FIG. l.- STOCK WHICH HAS BECOME SURFACE CHECKED IN AIR DRYING.
+
+FIG . 2.- THE SAME MATERIAL SHOWN IN FIGURE 1 AFTER KILN DRYING .
+
+The checks have closed up, but the injury remains .
+
+r
+
+PLATE II.
+
+BADLY H O NEYCOMBED OAK STOCK .
+
+Resu lt of too seve r e caseha rdening in drying.
+
+,-----------------
+
+PLATE III.
+
+ELIMINATIO N Of CASEHARD ENIN G IN KILN DRY
+RED GUM
+1- NO FI NAL STEAMING
+2 &3-18 MIN. ..
+4, 5. &6-36 " ..
+"
+7- 3 HRS. "
+"
+
+.
+
+CASEHARDEN I NG EVI DENCED BY CU PPI NG OF TH E BOA RDS WH EN SAWED TH ROUG H PA RALLEL TO TH E SU RFA CE.
+
+In Nos. 4, 5, 6 the stresses have been neutralized by steaming 36 minutes.
+
+In N o.7 the stresses were reversed by steaming 3 hours.
+
+J
+
+PLATE I V.
+
+FIG . I.-
+
+PARTIALLY DRIED WOOD W ITH AN AREA OF FREE WATER REMAINING IN THE CENTER.
+T his bl ock is in the first stages of caseha r dening.
+
+3~
+
+by
+
+3~
+
+Inch oak wheel rim .
+
+s
+DOUCLAS fIR
+
+COLL AP SE
+
+s
+REDWOO D
+
+FIG. 2.- EXTREME CASE OF COLLAPSE IN 2 BY 2 INCH STICKS OF DOUGLAS FIR AND REDWOOD,
+PRODUCED BY HIGH TEMPERATURE WHILE MOIST,
+
+PLATE V.
+
+MICROSCOPIC SECTION OF A GYMNOSPERM ("SOFTWOOD"), A PIECE OF RED SPRUCE (PICEA RUBENS) AT
+JUNCTION OF TWO ANNUAL RINGS.
+The vertical lines are the medullary rays (radial) .
+
+The center of the tree is below.
+Magnified 250 diameters.
+
+Two resin ducts are visible in the summer wood.
+
+PLATE V I.
+
+MICROSCOP IC SECTION OF AN ANGIOSPERM ("HARDWOOD"), A PIECE OF RED OAK (QUERCUS RUBRA OR BOREALIS)
+AT JUNCTION OF TWO ANNUAL RINGS.
+The open vessels or "pores" are shown in the summer wood and a large medullary ray (radial) on the right.
+is below. Magnified 250 diameters.
+
+The center of the tree
+
+--~--~------------ ---------~ .- ----------------~--------
+
+PLATE V I I.
+
+<;
+
+- - _* -
+
+"WASHBOARDING"
+
+IN AN
+
+5~ *
+
+Ed 5=
+
+:
+
+d
+b
+
+_0
+
+____
+
+-.
+
+INCH BOARD OF BLU E GUM ( EUCALYPTUS GLOBULUS) DUE TO THE ALTERNATIVE
+COLLAPSE OF THE ANNUAL RINGS .
+
+T his board was perfectly flat when placed in the kiln. as is evidenced by the band-saw ma r ks ru nning across the surface.
+
+PLAT E VIII .
+
+FIG. 1.- 0NE OF THE 24 WATER SPRAY DRY KILNS AT THE SIGNAL CORPS CUT - UP MILL, VANCOUVER ,
+WASH ., OPENED PREPARATORY TO UNLOADING ; SHOWS METHOD OF PILING WING-BEAM STOCK .
+
+FIG. 2 - GENERAL VIEW OF THE BATTERY OF 24 WATER SPRAY DRY KILNS USED FOR KILN - DRYING
+WING-BEAM STOCK DURING THE WAR AT THE SIGNAL CORPS CUT - UP PLANT AT VANCOUVER,
+WASH.
+
+PLATE IX.
+
+A
+.
+
+DISKS CUT FROM CASEHARDENED MAPLE AND OAK BOARDS.
+T he alte rnate ones on the left show the condition of the boards when first dried; those on the right show reversal of stresses brought
+about by steaming the same boards at a slight pressure.
+

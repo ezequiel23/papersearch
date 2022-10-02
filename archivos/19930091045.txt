@@ -1,0 +1,635 @@
+I
+
+I
+
+o. 9
+IN TWO PARTS
+
+P RIODIC STRESSES IN GYROSCO Ie BODIES,
+WITH APPLICATIONS TO AIR SCREWS*
+By A. F . ZAHM
+
+Part I.- THE GYROSCOPIC PARTICLE
+Part n.- THE GYROSCOPIC THREE-DIMENS ONAL BODY
+
+,'.
+
+*Ad aptcd from n noto In the Aerbl Ago Weekly , September 2;;,1916,
+lmd an arLiclo in 'l'ho Journal of the Jfranklin Institute, February, 1917
+
+1
+9
+381
+
+I
+9
+
+JI
+
+20
+21
+22
+
+1
+22
+1I
+23
+
+I
+!.3
+
+1I
+Ij
+
+u
+
+REPO T No. 19
+PART 1.
+
+THE GYROSCOPIC PARTI.CLE.
+By A. F .
+
+ZAHM .
+
+INTRODUCTION.
+
+The usual gyroscopic formul~ apply only to a body having kinetic
+symmetry about its axis of rotation, and hence offering a steady
+resista.nce to steady precession or nutation. To treat the case of
+unsteady gyroscopIC resistance, we may :find in turn the periodic
+stress in any precessing particle, or regular plane group of particles;
+then in any three-dimensional rigid body, whether or not possessing
+kinetic symmetry.
+Particle in a rigid precessing body.-To find the rhythmic stresses
+in n. particle of a rigid gyroscope, first assume this steadily rotating
+and precessing without transln.tion, and let w, fl, be the angular
+speeds of rotation and precession. Also assume the centroid at the
+origin of x, y, Z , as in fig. 1; and let the reference axes X, Y, Z, be
+respectively the rotation axis, the nutation axis, theprecession axis;
+n.nd cn.U by like names the reference planes normal to these axes.
+Then any pn.rticle distant y from the nutation plane has, parn.llel
+to the rotation axis, the linear speed - yQ= -rDcosa, and the linear
+n.ccelera.tion rwDsina = z:uD, r being the distance of the pn.rticle from
+the rotation axis, and zits linen.r, a its angular distance from the
+precession pln.ne.l
+About the axes of precession and nutn.tion, therefore, the moments
+of 2n. particle of mass m n.re - myzwD, mz2wD, and h ave the r esultant
+mr wrlsina n.bout an n.xis perpendicular to r n.nd the n.xis of rotation.
+For a group of three or four particles symmetrically spn.ced about
+the axis of rotation, the resultn.nt gyroscopio moment is easily seen,
+from this expression, to be constant. In general, the gyroscopic
+torque is constn.nt for any particle group having kineti-o symmetry
+about the rotation axis, or whose fundamental 2 ellipsoid is a surface
+of revolution about that axis. For such symmetry J:-myz = zero, and
+- the constant value of the torque is 2:m~;2wD= fwD, where f = 2:mz2 •
+If, now, motion of translation be added to the above specified
+conditions it will not alter the values found for the gyroscopic moments, as may be inferred from the principle of the independence of
+Those nrc (amiliar equations in elomentary mechanics.
+, The (undnmeuLnl ellipsoid is the polar reciprocal o( the momental ellipsoid referred to tho center of
+mnss and is a kind o! space picturo o( the moment o( inertia. In lact, tho radius of inertia (or nny line
+throu~h the
+gent plnno. center o( the (undamental ellipsoid is tho segment cut oU this lino hy the pcrpondlcular tnn.
+
+19
+1[
+
+20
+21
+
+J
+
+383
+
+2.2
+
+I
+22
+JI
+2)
+
+I
+
+384
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+the motions of transbtion and rotation. Also, as is well known,
+neither linear nor angular acceleration produces any gyroscopic
+effect.
+If nutation, as well as precession, be assumed, the ensning gyro!!copic effects can be inferred from analogy to the case already treated.
+nlustrations.-Figure 1 shows graphically for one revolution the
+above values of the linear velocity and acceleration of a particle in
+a gyroscope. The graphs, drawn upon a cylinder are both sine
+curves but with a phase difference of one quadrant; that is, the accelern.tion of the particle is lVeatcst when its speed alon~ the cylinder
+is least, and Vice versa. .dence, referring to the X direction only,
+it appears that every particle of a precessing gyroscore performs
+simple harmonic motion across its instantaneous plane 0 rotation .
+
+.... "'ol"'"
+r'I'/~
+
+P.".p.cli."~ R.r,~.,.I...1,."
+
+Gj, •• c.pic
+
+I
+
+/
+
+~. /ocifj
+
+.f
+
+..
+
+. f • PQot'i;cl. In
+
+Pw_p-.,.·•.
+GJ~-r:.
+
+R..",.. .... I.II... • ,
+
+Ace.I#roli." .1 ... P.,Jir/c. '"'
+
+Figure 2 shows graphically for one revolution the foregoing value
+of the total gyroscopic moment of a particle, as also its rectangular
+components.
+Figure 3 shows graphically, for several groups of particles S'ymmetncally placed about the axis of rotation, both the component
+moments of each particle about the axes of precession and nutation,
+and the added particle moments for each group. The curves illustrate, what was seen analytically, that the component gyroscopic
+moments of each individual particle of the group are represented by
+sine square curves for the nutation axis, sine-cosine CJIves for the
+precession axis; whereas the summation of the moments ahout these
+axes, of all the particles, is zero or constant for each group of particles except the binary one, for which the summation is variable
+about both axes. The two-particle group, or a uniform material
+line joining the particles shown, has the resultant moment "1;mrwQsina,
+whose extreme values are zero and IwQ, I being the moment of inertia
+of the material aggregate about its center, i. e., 1= "'Zmr.
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+385
+
+1<:(;,
+
+.1y,
+rms
+1.
+
+Vector
+
+r i.g.2.
+of Gyroscopl' (!
+
+Dia,9rc.m
+
+T"~"C's.
+
+AJti~ 01 rofaT/o" pq"pu;'C:/icu./o ,.. 10 p1Q"6 01 p ¥ lr
+IN"/. I'0silitnil. di,.~cfi4n I4PWO"J..
+
+Compon~nt 'TO'~"IZS RlZp ..esent",d 'qy Arrows 01\ 1hlZ Ailes
+
+Rosl4ltonf'J
+
+C YCLC 0" GYIIO:.C O"I(. iO~QUC
+
+CA'OU'INCo
+
+0 " P"""TI,L.C
+
+J
+
+MA~~c".
+
+1uo
+!lr
+
+j
+
+,
+
+If
+
+\
+
+:m -
+
+cnt
+on,
+
+eso
+h1u,
+rio I
+lin,
+
+'C tl
+
+CYCLe.
+
+NuT .... T IO N
+
+or GVRO", CQ7 I C
+
+TORQue
+
+AeouT AllS 0,. PRC.CE.~~lo",
+(P"R"TICL~ TOR,Qu£. --m y'Z.t..In)
+
+t.z.
+
+, ...... _-" / I
+
+,---,
+8:
+\
+
+0
+
+lar-
+
+ADOUT AJ~ 0'"
+
+(PARTltl..L TORQUc.. m'Z.:twn)
+
+,\
+
+I
+
+I
+
+)y
+
+,tl
+
+m
+
+19
+
+JI
+
+m·l%.
+
+(l S-
+
+')ic
+
+.... ~- .....
+
+/
+
+/
+
+.. 1hll ObliZU4 Arrclll$,.
+
+..
+
+\
+
+,
+
+$
+
+,
+
+I
+
+\
+
+'-
+
+I
+I
+
+,
+
+'-- ~
+m-I'
+
+/
+
+o
+-2
+
+20165°-So Doc. 123, 6~2-25
+
+'A. ... - ... X ... - :'>'~ -
+
+:z.~.o
+
+. . '-". -..
+
+20
+
+'A ...... ...
+
+_;{. . _,,>~ . . _.,.X. . _"" A.,_ '"',:. . __ ....'';,
+
+',2-
+
+o~~~~_ '__ '~'_-_-_' ____~'
+'_ -~
+_'~' - - '
+
+~
+
+f lG.;os -CY ~ 05COP IC TOROUe:; ro .. ~YMM~TRIC
+
+.,'
+
+3
+
+21
+22
+
+, ... ' ,-",,/ ' .... _- "'" ' .... _..
+
+I
+
+m- 1/4
+
+Z
+
+~4.""
+
+\
+
+/
+
+Rc. :'VLTA"'T TO.O\lL -
+
++:u
+
+1
+
+-.2'
+PAIlTIClE'.
+
+22
+If
+
+C aovp~ ~ f~ TOT",- M~~
+
+385
+
+,~ j
+
+r
+
+!.
+?~
+
+.r.;:
+I.)
+
+ill
+
+,..
+
+386
+
+/
+
+/
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Application to propelZers.- From the foregoing analysis it appears,
+using the same notation, that rigid and steadily precessing onedimensional 1 propellers, and approximately also propellers with
+straigbt narrow blades, are subject to tho following laws :
+1. ~very blade is uro-ed to simple harmonic motion, of the same
+period as that of the shaft, across the instantaneous plane of rotation, and hence sustains a reversal of gyroscopic stress twice each
+revolution .
+2. Every blade sustains a fluctu ating gyroscopic moment whose
+ma~nitude at the hub is '1:.m1.2 w Qsina, which at quadrant intervals in
+eacn revolution has the successive vttlues IwQ, zero, I wQ, zero.
+3. The aggreg te gyr oscopic moment transmitted to the shaft by
+a two-blade propeller is variable and at all instants equal to twice
+that of one blade.
+4. The aggregate gyroscopic moment transmitted to the shaft by
+a steady running multiblade propeller is constant and at every instant
+equals the geometric sum of the varying moments of the individual
+blades. For example, calling the maXImum gyroscopic torque of
+one blade of a propeller unity, the constant torque of a three-blade
+screw is 1.5 ; of It four-blade screw 2.0; of an n-blacle screw n/2.
+Particle in an elastic precessing body.-All ordinary gyroscopes are
+practically rigid and in their ultimate parts are subJcct to the gyroscopic effects heretofore delineated. But propellers, more especially
+nonmetal ones, POSSP..8S considerable flexibility. Their blades consequently yield t o the gyroscopic force so as t o shift the cardinal
+pomts of acceleration and velocity shown in figure 1. Also the
+vibr ations of flexible blades are cumulative under the pulsating
+stresses, until the damping factors-air pressure and internal viscosity-of the blade limit its rhythmic excursions . The damping
+due to internal viscosity is sometimes great enough to raise the
+temperature of the propeller considerably, especially at or near tho
+hub. No method of analysis is available to give an accurate estimate
+of the straining effects in elastic blades. But it is well enough known
+how fatigue induced by rapidly fluctuating and especially rapidly
+alternatincr 2 stresses shortens the life of the material.
+It can be shown by elementary mechanics that the period of
+vibration of each par ticle of a rotating propeller blade, due to centrifu&al force alone, is equal to the period of rotation, whatever the
+radial distance. S This property favors cumulative vibrations when
+the disturbing forces have the same period as the propeller. The
+o-yroscopic force in a blade has been shown to have such a period.
+~he varying air pressure on the blade has also that period in many
+instances; for example, when the air flow toward the screw is oblique
+to the axis, or when the air speed of approach is greater at one pa.rt
+of a blade r evolution than another. For this reason propener blades
+are sometimes designed to have under fiber stress alone a free
+vibrational frequency about 50 per cent greater than the frequency
+of rotation.
+1 A onc-dimensional propeller may be dofined as n propeller composed of infinitely narrow blades symmetrically mdiating from a point on tho axis of rotation. The blades will hero be assumed straight.
+, Sinco tho gyroscopic stresses alternate, tho blade stresses also may alternato when tho air forco slackens
+as at low throttle .
+• Sinco tho radiJll 6CCCleration of any particle is rw', the consequen t frequency of vibration is-
+
+o. 19.
+PART 2.
+
+TIlE GYROSCOPIC THREE-DIMENSIONAL BODY.
+By A. F.
+
+ZARM.
+
+Theory of the equivalent mass.-From the gyroscopic theory of a
+particle follows that of a body. In analyzing the motIOn of any given
+rigid body it is always possible, and sometimes more convement, to
+cm ploy in place of the actual body a kinetic equivalent; that is, a
+m ss distribution which would, under the given system of forces,
+have the same translation and rotation as the actual body. For
+cxample, suppose the given body to be specified by mass .ill and
+princlpal moments of inertia A, B, 0, at the centroid and choose for
+equivalent body the point-mass distribution shown in figure 4, and
+defined by the followmg equations in whicn a, b, c, are distances from
+the origin of the equal point-masses M/6 .
+
+•
+
+2
+
+b
+
++ c2 =3A/ Mj
+
+~:! b: : ~~ ~ ----------------------(1)
+Then, since the right members are given, the massless arms a, b, c,
+unel hence the required space distributions are fully determined, providing the arms be real.
+To show that a, b, c, are always real, note from equation (1) that
+2
+
+=2~lO-A+B),
+
+so that a can not be imaginary unless .A. be
+~rcater than O+B. Now if m be any particle at x, y , z, of any rigid
+body.
+a
+
+19
+]I
+
+I
+
+/
+
+Hence, a2=2~[ (O-A+B)= 1Xm;t2, which is always positive, i. e.,
+a is always real. Similarly band c are always real. Writ~
+2
+:: mx2 = JIx l gives a = ± .J3xl ; similarly b = ± .J3x1; c = ± .J3z
+11
+wh ere XI' YI' Xl are the radii of inertia referred to the principal planes.
+In the most general case of rotation about three axes, each particle
+of the six-point equiValent mass exerts a gyroscopic torque whose
+magnitude and direction may be found by the method employed
+for n. single gyrosoopic particle. The component torques so found
+cnn be compounded in the usual way to obtain the resultant torque.
+.
+
+387
+
+20
+21
+Z2
+
+I
+22
+1I
+2,
+
+I
+1-J
+
+U
+IJ
+
+388
+
+REPORT NATIONAL ADVISORY COMMITrEE FOR AERONAUTICS.
+
+A six-point equivalent mass has been Hsed here as a convenience;
+other distributions comprising fewer or more particles may obviously
+be employed.
+Examplcs .-As illustrll.tion, suppose the model to represent a
+gyroscope rotatinO' steadily about two axes only, say X and Z, its
+centroid being eit'her stationary or in motion . Then the mnsscs :1t
+a, a, taken together obviously exert no resultant moment, for they
+have no gyroscopic acceleration, and any acceleration they may have
+from their translatory motion is, in magnitude and direction, the same
+for both. From this it follows that such a rigid body has the same
+gyroscopic torque whethe its mass be all in the plu.ne of robtion
+Y Z or not-that is, whether a be zero or of any finite magnitude.
+Hence the gyroscopic torques nbout Y and Z, of any rigid solid rotating about X and Z may he derived from the treatment of a point mass
+distribution in the Y Z plane, say, four equal particles spaced as
+shown in figure 1, at h, h, c, c.
+It has been proved above that a single particlo of a gyroscope in
+steady rotation and precession has about the nutation axis a torque
+~roportional to the sme squnre of its angubr distance from that axis.
+Four equal particles symmetrica.lly placed about the rotation axis
+have, therefore, about the nut tion axis a resultant torque which is
+constant and equal to twice the maximum torque of one particle.
+Hence any mass having kineLic symmetry about the rotation axis,
+since it is the gyroscopic equivalent of a four-particle mass, has a
+constant torque equal to twice the maximum of one such particle.
+This generalization can, of course, be derived algebraically from the
+above-mentioned sine square hw.
+Summa1y-The foregoing treatment of the mass equivalent of a
+rigid body may be summ:-mzod as follows:
+Every rigid body has a mass equivalent whose motion under given
+forces is the same as that of the body itself. In particular, any rigid
+body has as mass equivalent six equal particles suitably placed on its
+principal centroidal axes and invariably connected by massless bonds.
+A sIX-particle mass equivalent reduces to foUT particles for a plane
+distribution; two for a rectilinear. The arms of the six-particle mass
+equivalent of any rigid body equal, respectively, its radii of inertia
+referred to the reference planes, multiplied by v'3.
+The gyroscopic torque about its centroid of any rio'id body is
+unaffected by its linear or angular acceleration or by the fuear speed
+of its centroid.
+At any instant the gyroscopic torque of a rigid body is the resultant
+of the torql.).es of its equivalent mass particles .1
+Application to an air screw.-Figure 4 shows the equivalent mass,
+derived from e)...-perimental data, for a standard Curtiss two-blade
+propeller, whose blades are notably deep and broad. From this
+:figure we can judge the comparative gyroscopic value of the distribution of the propeller mass in each of the three axial directions, since
+this value varies as the square of the arm lengths, a, h, c, and as the
+products in pairs of the an~ul:1r velocities, wz , W lI , w., about those
+arms. In fact the ratios of the three maximum gyroscopic torques of
+the pairs of point masses are as c2wz w z : h2W:z;W,, : a 2w lIUJ z ' In practice
+the angular velocities m:1y have the values 150, 0.5, 0.5 radians per
+I As is well known, tho glroscopiC torquo of any particlo equals its angular momentum times its d&vlstion, or tho rate of angular ch:mge of Its pl:mo of rotation.
+
+I
+
+I
+
+I
+20
+
+l '
+1?IG. 5.
+
+3SS
+
+22
+II
+
+REPORT NATIONAL ADVISORY COM:.\HTTEE FOR AERONAUTICS.
+
+389
+
+second, thus making said torque ratios c2wxwz/b 2wxwlI = 65, and
+~2w:rwz/a2wr/wz=23100 . The resulta.nt of the three component torques
+IS a t most, therefore, only vI + (1/65 )2+ (1/23100)2 times the major
+one-that is, about one-eightieth of 1 per cent o-reater. The gyroscopic value of such a propeller, so runnmg, may therefore with great
+accuracy be equated to tliat of a pair of simple particles.
+z
+o
+
+----------~--~~~------
+
+_____ z
+
+v
+
+Q
+
+OoncZusion. -From the foregoing treatment it follows that all
+modem air screws obey the laws found for phne groups of particles.
+In pn.rtieubr the two-bladers exert on the shaft a rhythmic gyroscopic
+torque; the multibladers a steady one; bot!}. easily calculable for any
+given conditions of motion and mass distribution.
+
+20
+21
+2.2
+
+I
+22
+]I
+23
+
+I
+/.;
+
+IT
+I.)
+
+III
+

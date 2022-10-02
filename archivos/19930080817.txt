@@ -1,0 +1,534 @@
+N il 52022
+
+TECHNICAL NOTES.
+NATIONAL ADVISORY
+
+CO~~ITTEE
+
+FOR AERONA
+UTICS,
+
+No.2a.
+
+THE
+
+PHOTOGRAPHIC RECORDING OF SMALL MOTIONS.
+
+By
+
+F. H. Norton, Physicist,
+Aerodynrunicnl Laboratory, N. A. C. A.,
+Langley Field. Va.
+
+-,
+
+.
+
+I
+
+Novemb er, 1920.
+
+NATIONAL ADVISORY COIOOTTEE FOR AERONAUTICS
+
+TECHNICAL NOTE NO. 22
+THE PHOTOGRAPHIC RECORDING OF SMALL MOTIONS .
+By
+
+F. H. Norton, Physicist,
+Aerodynamical Laboratory, N. A. C. A.,
+Langley Field, Va.
+
+The problem of recording small and perhaps rapid motions
+often comes up in research work and instrument design, and the pen
+and lever are often used where an optical method would be far superior. The latter method is not more used, probably because so little
+definite information is available on its design and possibilities.
+For this reason, the present report bas been written fran data obtained at the Field Station of the National Advisory Committee for
+Aeronautics in the hops that it may contri buts some new information
+on the subj e ct.
+The optical method of recording is more complicated and requires greater skill in manipulation than does the mechanical one, so
+that where the latter will do the work satisfactorily, the optical
+method will have no advantages. On the other hand , when it is desired
+to make the instrument more compact or to greatly reduce the friction
+or moment of inertia of the moving parts, the optical method is immensely superior, and in many cases is a necessity. For example, the
+line traced on a film will have about 1/10 the width of a pen traced
+line, thus reduCing the width of the film t o 1/10 f or the same accuracy. and the friction of a pivoted mirror is much l e ss than 1/100 of
+the friction of a lever and pen, designed to do the same work. Also
+a photographic record io much more easily d~licated than a pen and
+ink record.
+The Light Source.
+The positive carbon of a direct current arc is the most
+intense source of light, and is very suitable for laboratory apparatus
+where weight and bulk are of little importance. The best resul te are
+obtained when the image of the arc is focused on a blackened slit.
+A water cell should be placed in the path of the rafS in order that
+the slit may not be overheated by the intense beam. A sketch ot the
+general assembly is shown in Fig. 1, and a cross section of the slit
+in Fig. 2. The width of the slit depends on the fineness and intensity
+of the record desired, .01 to .10 of a' mm. being the usual r~ge.
+
+- 2 Where direct current is unavailable a ooncentrated filament nitrogen
+lamp can be used in place of the arc, but is much less satisfactory, as
+the intensitr 1s less and it is impossible to evenly illuminate the slit.
+For portable instruments the moat satisfaotory light source is
+a low voltage flash light bulb, using the filament itself as a line
+source. As the filaments in the ooromercial lamps are S shaped when
+viewed from the front, some speCial lamps were obtaineadW1th a straight
+filameut and a dull black bead to prevent secondary reflectione. One
+of these lamps 1s shown in Fig. 3. This source of light is very satisfactorr as it gives a narrow and intense image , but in some cases
+where high period vibrations have to be recorded it is necessary to
+burn the lamps above their normal voltage thus reducing their life to
+only a fewminates. The deSign of the lamp holder for a portable instr~ent ie quite important as the lamp must be held rigid, and a good
+electrical contact maintained ~der any condition of vibration or jar.
+The lamp must also be easily changed and the new filament should come
+in the same place as the old. As the filaments are not always in the
+same position with respect to the lamp base, each lamp should be
+mounted in an adjustable socket so that tbe filament will be in its
+correct pOSition, thus allowing changing lamps and sockets quickly.
+The lamp holder should also have means for adjusting the focus. A
+cross section of a holder that fulfills these requirements is shown in
+Fig. 4.
+The Qptical System.
+The essentials of the optical system consist of a light
+source, a mirror or prism for transmitting motion to the emergent beam,
+and a means for bringing the rays to a focus on the film. Any one
+of the methods shown in Figs. 5 to 11 can be ussd, but some have
+greater advantages than others. The deSirable feature8 are obViously
+first,brilliance of the image. aeconi, large magnifioation of movement; and third, a small sized image.
+Referring to Fig. 5. the movement of the image, X = J ,
+2 0: , where ~ is the angle of rotation of the mirror and.R.
+is the distanoe from the mirror to the film.
+
+-1
+
+tan
+
+The size of the image, 51 = S
+size of the object.
+The total light in the image, Ll
+
+'2 - 11
+
+whera S is the
+
+13
+
+= (Xl + HZ) Lz
+
+tan
+
+-1 (
+
+2
+
+leO
+
+d
+)
+:13
+
+o
+
+where L2 is the total caDdle powe~ of the source and Xl is the efficiency of the lens and Kz that of the mirror; d is the diameter of the
+lena.
+
+-
+
+-
+
+--~~~---~- -
+
+-
+
+-
+
+-
+
+- 3 -
+
+In the same way, for Fig. 6 .
+
+x ;;:
+
+(1. 1 +
+
+.i z) tao
+
+2 a
+
+.R l
+PG+.R 3 tan- 1
+L 1 ;;: (K1 + KG) Lz
+
+180
+
+o
+
+In Fig. 7:
+
+X=:(.k\+i.'2) tan '2 a:
+51 ::; S
+
+!l
+£3
+
+180
+
+o
+
+In Fig. 8:
+X
+
+.R 1
+
+=
+
+ta..'l Z
+
+ex:
+
+In Fig. 9:
+
+.x ::
+S1 =
+
+i'2 n tan '2 a:
+S
+
+-fa
+
+-
+
+£1 -1 (d)
+tan
+'2 Jl.
+180
+
+o
+
+1
+
+Where n 1s the number of reflections on the moving mirror.
+
+- 4 -
+
+In Fig. 10:
+X ::
+
+(1? 3 +
+5
+
+-f 4) tan 2 cr
+
+-R4
+
+.e{
+leO
+
+o
+
+In Fig. 11:
+X == £3
+
+8
+
+1
+
+:: S
+
+tan-1(
+
+J_)
+
+2 ~l
+
+----~
+
+180
+
+The val us s of K and. K2 are given in the f 011 om. ng tabl e f.or 01 ean .
+polished surfaces. These values are decreased 10 to 20% b~ dust or
+moist'UI'e.
+For Yellow Light.
+Thin simple Lens
+
+KI
+
+=
+
+Glass backed by silver
+
+~
+
+:: .82 - .Be
+
+Silver Surface
+
+Kz=
+
+.93
+
+Magnaliuw 69Al,31Mg
+
+Kz=
+Kz=
+
+,83
+
+Stellite Surfaoe
+
+~
+
+-.95
+
+,'SB
+
+Method 1 is very ccmmonly used in laboratory apparatus, but
+has the slight disadvantage in portable instruments of requiring a.
+rather loog system for the deflection obtained; The next arrangement
+gives a small image but will allcw only a. slight deflection before
+coming out of the field of the lens. In Method 3 the light passes
+twice through the lens, 90 that the latter need onl~ be of half the
+focal length required in the other methods. If the mirror is placed
+close to the lens, a very compact and satisfactor~ system is obtain9d,
+baving the advantage that the moving mirror can be placed in an a.irtight chamber, with the lena as a window. A modification of this
+method that is considera.bly used consists in moving the whole lens,
+whose r~ plano surface is Silvered, although this greatly increases
+
+the moment of inertia of the moving parts. M
+ethod 4 i9 very simple,
+but the concave mirror is heavier than a. plane one and the definiti on
+is i~erior t o that obtained with a lens. Method 5 can be used when
+it is desired to obtain a record of a very slight angular movement.
+It is not advisable t o use more than four reflections on the moving
+mirror as the definition and brilliancy of the image falloff very
+rapidly as the number of reflections is increased. Methods 6 and 7
+offer no particular advantages over those already described.
+The lenses may be satisfaotorily made of the simple planoconvex type, but if critioal definition is required a corrected photographic doublet should be used. The plane mirrors are satisfactorily
+made of silvered microsc ope c over glasses cut t o the right size with
+a diamond. Recently good success haa been bad with polished stellite
+mirrors. These have the great advantage of eliminating the surface
+reflection fr cm the glass, wh'-ch in the silvered mirrol's is at times
+very annoying. Stellite seams to hold its polish well and although
+it is yat only an experiruant, looks very promising.
+By using a powerful are, illWlination enough can be obta.ined
+from a 1 WID . square mirror to trace a curve with oscillations at the
+rate of several thousand per second.. When using a flashlight bulb,
+a 10-in, distance from light to mirror, and a mirror 3~. square, sufficient il1\lIllination is obtained when burning the lalllp at normal voltage to obtain a readable record when the oscillations are 1 em. long
+on the film, and occur at a. rate of 20 per second, The lamp must be
+burned at 50% over voltage however to obtain a strong enough record
+for satisfactory reprOduction under the ~ame conditions.
+
+As the image fr~ the law~ filament or illuminated slit is
+a line perpendicular to the axis of the film drum, a slit must be
+placed before the film, normal to the image in order that a point of
+light may fallon the film surface, The width of this slit may be anywhere frQm 0.1 to 0.02 of a m.m. depending on the fineness of the desired record and the intensity of the image. The slit should be constructed in the same manner as the one shown in Fig. 2, although it
+will be considerably longer and it should be placed as close as possible to the film.
+The light from the source should be so restricted that it
+will just cover the lens or mirror, as a~ scattered light will fog the
+film. This restriction must be accomplished without introducing any
+reflecting surfaces that would form secolldary images. Fig. 12 shows a
+satisfactory method of doing this by a number of carefully blaCked diaphragms, It is well to keep the angle between the en~ering beam, and
+the beam to the film, as small as possible.
+When a lena is used, its axis must be turned away from the
+light beam enough to throw ihe images from its surfaces awa.y from the
+slit, as they wo~d otherwise fog the film. If, as is usually the
+case, the lens is plano-convex, the angle between the lens surface aDd
+the surface of the mirror is given by the folmowing expression.
+
+a
+
+= . 1 tan- 1
+2
+
+9: + (3
+
+f
+
+(Fig. 13)
+
+I
+
+I
+
+j
+
+I
+
+whe~e
+
+CC
+d
+
+=
+=
+
+.R. =
+
+angle between planes of lens and mirror.
+diameter of lena .
+distance fr om lens face t o slit.
+
+jJ= angle to bring edge of image sli ghtly away fram the slit,
+its value may be 1° to 3°.
+The plane of the mirror is of c ourse, normal to the bisector
+of the entering and emergent beams.
+Mirror
+
+~ounting .
+
+The ori ginal motion whicb it is de sired t o reo or~ is almost
+always rectilinear. so that it must be transfo~~ed into rotary motion
+of the mirror staff. This may be accomplished in many waye, acme of
+whicb are described below. The motion orj.gin3 tee in a. diaphragm in
+the majority of casee, but sometimes it may come from a flat spring
+as in the N.A.C.A. acceleromete~.
+In Fig. 14 is shown the mounting of the mirror in the Knott
+sonograpb which is used to analyze musical sounds. Tbe mirror is
+mounted on a tbin steel strip stretched tightly, and a strut, rigj.dly
+connected to the diaphragm rests on the back of the mirror slightly t o
+one side of the center. The slight motions of the mica diaphragm are
+thus transmitted in an alwost frictionless manner to the mirror. This
+method gives a very bigh natura.l period and is satisfactory for its
+:purpose, but tlle angular deflection is too small for a. ccmpact instrument and the zero i9 not apt to be constant.
+The recorOjng air speed meter used by the National Physical
+Laboratory (Fig. 15) employs a Perry twisted strip in o~der to convert the motion of the diaphragm into a rotary mot ion of the mirror.
+The magnification obtained in this way is quite large, but for structural reasons this method is not as sa.tisfactory as s~~e of the others.
+The airspeed meter constructed by the National Advisory
+Committee for Aerona~tics t o record the fluctuati ons of flow in wind
+t~e18 (Fig. 16) has a mi~ror mounted on knife edges a~d is connected to the diaphragm and beld in place by a light sp:?ing str";~.
+~he position of the mirror is adjueted by mOTing the knife edge s ockets in or out by a screw paSSing through the face of the in6t~t~ent.
+This instr.ument proved very useful for laboratory 'Use but would. not
+stand heavy shocks, as the mirror holder would then be displaced from
+its sockets.
+After this instrument bad been tried out. another one was
+deSigned and construoted f or use in flight, as shown in Figs. l.? and
+18. Here the mirror was mounted on a light staff with 60° conical
+
+,
+pivots at its ends, A short ha!'denad screw passing through a bushing
+in the diaphragm transmi. tted the motion to the mirl"'or. A fine watch
+hair spr ing held the mi:r.ro!' staff up against this screw, the sensitivity being changed by eccentric soCk3t sorews whicb raised or lowered the mirror. This instrU4len·ii workEld very satisfacto2.'::ly, and a
+large nUDlber are nO\'V be:A.flg constl'1.1.c ·~E\d to record. the pl'ess"llX'e at various points on the surfa.ces of an ai!'pla.ne in fEght. This same mirrox mounting is also used in the N.A.C .a. accelei:'cmeter descl'i bed in
+Report No. 100.
+One of tbe most refined optical recording instruments ever
+constructed is the Pbonediek designed by Prof. D. C. Miller, of the
+Case School of Applied Science, for obtaining the wave forma of sound.
+The mirror is fastened to a steel shaft mounted in jeweled bearings
+and a very fine silk or platinum fibre is wound around a drum on the
+staff, one end being fastened to tbe diapbragm and the other to ~:. ,
+light spring. Because of tbe very low weight of the moving parts a
+natural period of nea.rly 10,000 V:;'bl's,tiona per second is ob·i;ained.
+A. diapbrago of this ix:.a~rUllent is shown in Fig. 19.
+Film Holde!'.
+In order to obtain a record from a light spot moving ~p and
+down in a straight line, a seneitized ~~face must be mo~ed, preferably w.itb uniform motion, a~oss tbis line. This can be done, ~G
+in some of the older instrume4ts, by letting a plate cove down under
+gravity, its speed baing contro:A.led by a dasbpot. Wh:~.le tb;;'s method
+is all rigbt for s~ort records taken in the laborator,y, the appe~atus
+1s very bulk7. A long record can be taken by reeling a film from one
+drun to anotber bebj.nd tbe slit, as is cione in tbe R.A,Fo accaleTometer. t'r-iile tbis method gives a long reco~d in a very compact instrument, it is almost imposs;ble to obtain a ~~iform spsed, as tbe
+diameter of the driving drun is always changing. A thi:t'd metbod is
+to place the film smoothly on the sV.l'face of a cylinder wb5.ch is revolved at uniform speed. This cannot give a very long ~ecord on one
+drum without great size and. weigbt, but it will give a smooth azlIi
+unif orm speed.
+After some experimsotiIlg, it was found that a revolving
+film drum encased in a light tight holder was the moat satiSfactory
+as this gave an even speed wi tbout jerks, and at the end. of a f'i1m
+the whole bolder co·\\ld be cbanged in a few seconds. An assem~J.y
+drawing of a drUDl of this type is shown in Fig. 20, and photographg
+in l!'igs. 21, 22 & 23. The film iss traightened and t:i.ghtened hy a.
+pair of rubber rollers, - so that it is unnecessary to touch tbe film
+surfaces with the fingers, a.nd the f1lm is stretched smoothJ.y and
+tightly on the drum. In order to tell bow much film ha.s been used,
+a set of figures is stamped aro'Qlld. the top of the re.olving drun and
+a red window allows them to be seen without fogging the film. AD
+automatic shutter is attached to the slit on the drum and is normally
+closed by a spring. When the dl-un is put in posi tion on its instru-
+
+ment a pin opens the shutter, thus allowing a quick interchange of
+drums without danger of fo gging, or of l eaving the slide in when
+taking a record.
+The h older, as well as the instrument case should be, of
+course, absolutely light tight, even in t he bright sun, and the surface of the drum and the inside of the holder should be coated with
+dull optical black t o prevent reflections. As far as possible all
+fastenings should be simple and quick acting, as any small loose parts
+are hard t o find in the dark room.
+Driving Motor.
+The recording drum is usually driven by an escapement cl ock,
+when the rate of turning is sl ower than once an hour as is generally
+the case in meteorological instruments. The cl ock, for the optical
+method, may be very small, as the pen friction is eliminated. In the
+laborat ory the most satisfactory method is an electric motor drive,
+the speed being easily varied by a rheostat, or if very c onstant speed
+is desired a synchronous motor can be used
+The problem that c cmes up in aeronautics is more difficult
+t o solve, as here it is desired t o have a light, portable instrument
+with a comparatively rapid dri~e (1 R.P. M and a constant speed un.)
+der vibration or extreme changes in accreleration. For the NvArC.AG
+accelerometer a gover.oor-controlled cl ock was constructed as sh own in
+Report No ~ 100. The governor was built as shown in Fig . 24 , s o that
+any downward accelerations, whiCh would tend to increase the bearing
+friction , would at the same time act on the lower friction disc of the
+governor and relieve s ome of the fricti on on the brake. In this clock
+the weight of this part was not great enough t o secure perfect regulation but it is much better than on an uncompensated mechanism.
+While this clock gave perfectly satisfactory service, it required several seconds to r ea ch its steady speed, and required winding f or every record. As it is necessary t o have a sourCe of electricity at hand for t he light, a swall direct current motor was desi gned
+to drive the dr~ through two worms, the motor running at 2000 R.P. M
+.
+An electric governcr of the Leeds and Northrup type is used t o keep
+the speed constant . Only-an experimental motor bas, as yet, been
+c onstr~ted, and complete testa have not beeu made, but so far the resul ts are quite promising, the motor starting and. stopping almost
+instantly. A photograph of this motor is shown in Fig . 25.
+
+- 9 OPERATION AND ADJUSTMENT OF RECORDING
+
+INSTR~~NTS.
+
+The mirror should be p~ovided with an adjustment for bringing the image on the vertical slit, and also for raising the image up
+or down the slit. The lamp should first be moved along its axis until
+the maximum definition of the image is obtained on the plane of the
+film, and the image should be adjusted correctly up and down as well
+as sideways, then all parts should be clamped securel, in place. When
+all adjustments are properly made, a sharp spot of light with no diffusion around its edges should be projected on the film.
+When placing the film on the drum it is better not to touch
+the surface in any way, as abrasion and finger marks are very prominent on such a transparent negative. The jOint in the film should
+be placed opposite the slit in the h older so that a complete record
+can be obtained around the drum. The exposed film can be developed
+in any contrast developer such as pyro. and should be kept in the solution as long as possible without fogging. Prints can be made directly from the films on hard paper, or if a black line is desired the
+record can first be transferred to a proCeSS plate. A record taken
+with a recording yawmeter is shown in Fig. 26. This record is enlarged about eight times fran the original negative, and still shows
+as much sharpness as the usual pen and iIlk record.
+Conclusions.
+Fr.am the work that has been done on ~ptical recording instr1.llllents, it is clear that thi.s method ia far more satisfactory than
+the recording pan, in ccmpactness, in high natural period, and in
+eliminatioD of fricti on. The expense of construction is little more
+in the first case than in the second, and the optical method can be
+made fully as fool proof as the mecbanical oDe ia as far as actually
+taking the record is concerned. The development and reproduction of
+the record is an added complication, but the ease of duplicating the
+records is a. decided advantage.
+•
+
+-------------~~------------------
+
+FIG . 23 .
+
+RECORDING DRUM .
+
+FIG. 18.
+
+RECORDING AIR SPEED METER WITH CAP
+AND LENS REMOVED.
+
+FIG . 22.- RECORDING DRUM CASE.
+
+A,
+
+. ..
+
+FIG. 26.- A RECORD OBTA INED WITH A RECORDING YAWMETER.
+T he r eproduction is enlarged about 8X from the o riginal film.
+
+FIG. 25. - CONSTANT SPEED DRIV IN G MOTOR.
+
+FIG. 21.-RECORDING DRUM HOLDER ASSEMBLY .
+

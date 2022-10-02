@@ -1,0 +1,7115 @@
+.,,
+
+REPORT NO. 14.
+InThreearts.
+P
+
+EXPERIMENTALESEARCHON AIRPROPELLERS.
+R
+BYW’IILU!M F. DUR4ND,
+(!kairmm
+h’idUmwJ
+Adtiaw C%mmiWe Aammtica.
+for
+
+Part
+
+L The aerodynamic laboratory at Leland Stanford Jmdor University and the
+equipment instaUed with special reference to tests on afr propellers.
+Part IL Testa on 48 model forms of air propellers, with analysis and discussion of
+resnha and presentation of the same in graphic form.
+Part EL A brief discussion of the law of similitude as aCfecting.thereIation between
+the resuke derived from model forms and those to be anticipated from
+full-sized forms.
+&
+
+83
+
+——
+
+Page intentionally left blank
+
+INTRODUCTION.
+The purposes of the
+erimental inm&gw50n on the performance
+of air ropelkrs desoribe in the following report were as folIowe:
+Y
+(1) he
+development of a series of dfactors and ooef%eients
+drawn from model forms distributed with some regulari~ over the
+field of air-propeHer design and intended to furnish a baem of cheek
+with si.mikr work done in other aerodynamic Iaboratoriw+ and as a
+point of departure for the further study of special or mdividusl
+types and forms.
+(2) The establishment of a series of experimental values derived
+from modeIa and intended for later use as a basis for comparison
+with similar re+ndtsdrawn from certain sekoted full-sized forms and
+tested in free flit.
+The report oomprises three parts, as folIows:
+1: The ayodynemio laboratory at Stanford University and the
+w ment mstalIed withs eoial refeyxme to tests on air propellers.
+v
+Tests on 48 model ?orms of mr repellers, with analysis and
+disc&sion of results and presentation of the same in graphical form.
+III. A brief discussion of the law of similitude as a.ilecting the
+relation between the results derived horn model forms and those to
+be~mici~ded from full-sized forms.
+of the aerodynamic laboratory desoribed in the present
+report wi r its instrumental equipment, the plann@ of the experiments i work on the air propeUers, the d=ign of the propellers and of
+the equipment for their construction, together with the preparation
+of the report in its present form, are the joint work of the resent
+author and of Prof. E. P. Lesley, of Stanford University. % o the
+latter is due most of the details of instrumental
+uipment and the
+entire supervision of the
+erimentsl work since% pril, 1917, when
+the present writer was cslI to ‘iVasMngton, D. C.
+%!
+85
+
+Page intentionally left blank
+
+t
+
+REPORT No. 14. ‘
+PART I.
+
+THE AERODYNAMIC LABORATORY AT LELAND STANFORD
+JUNIOR UNIVERSITY AND THE EQUIPMENT INSTALLED
+WITH SPECIAL REFERENCE TO TESTS ON AIR PROPELLERS.
+By Wnuu
+
+F. hmAND.
+
+THE AERODYNAMICABORATORY THE IJ3LAND
+L
+OF
+STANFORD JUNIOR
+uNIvERslTT.
+
+at Stanford University was installed
+The amodynamio laborato
+during the fall and winter o?? 1916-17. The immediate purpose in
+view was the proviion of an equi ment for the carrying on of m
+extended investigation on air props%ers, the lhst stage of which was
+planned for the year 1917.
+
+FIG.L
+
+Mm due consideration, and with special reference ~ the fadity
+of making observations, adjustments, etc., the so-cded JMel type
+of wind tunnel W= tiOp ted’ b is well knowu, this consists e9sentislly of thee elements as “indicated in @e
+l—the ccllector A,
+the diffoser B, and the experiment chamber L? At the end of the
+difber is located an eihaust fsn D, which operates to draw the air
+from the Muser and deliver it to the room in which the tunnel is
+located. This draft of air from the difl%ser maybe viewed es produoing a reduoed ressure in the experiment room, which is pra+
+tically air-tight o t%erwise exoept for the entrance through tie collector. In answer to this de re9sion (diilerenoe of pressure between
+the e eriment room and ~ at in the surrounding room on the
+outside , the air flows as through a nozzle, in thro 5 the oollector
+7
+across the experinmnt room to the inner mouth of% e diftuser, m d
+87
+
+.
+
+,
+
+~PORT NA!HONAL
+ADVISORY
+COMMI=
+
+88
+
+l?ORAERONAU~ICS.
+
+thence on to the fan. The column of air thus flowing through the
+experiment room is then available for purposes of aerodynamic
+investigation.
+Tha cross section waa taken circular md the diameter of the
+throat was fixed at 5.5 feet as presumably suited b a propeller
+model 3 feet in diameter, a size large enough to ve not too wide
+a stap in passing by a law of compansog from mo f el results to those
+for full-sized forms.
+The principal dimensions, ~eneral armmgement, and structural
+details of the tunnel and enenment room are shown on the attached
+plane, Plataa I and U, and &ures 3 and 4.
+
+(
+
+&
+
+F’
+
+IF
+
+c
+
+t
+
+A
+
+m+. .
+2
+Aside from structmil details, the chief roblem in the de+
+of
+the wind tunnel related h the forms of t%e collector and # user.
+These were developed as follows:
+Suitable lengths were first chosen for the collector and for the
+diffuser. Th.eae are indicated in figure !2, at A O and 0
+on the
+axis OD. The point ~ represents the throat of the Venturi tube at
+the experiment chamber. Then ta a siitab~e scale the ordinate
+&l was laid off re ~esenting the throat speed, say 60 miles er hour.
+JYeglectingthe L htch+ein
+densit along the patho i the air,
+the entry and exit Speeds A have one-?’ourth this value or 15 miles
+per hour. Theee are laid up as ordinates at c and D. A smooth
+mrve was then drawn in through EBF and continued back to meet
+the axis OD at the point O.
+
+FIG. .
+3
+Ss-1
+
+.
+
+.
+
+..
+
+.-
+
+- -“--’- --
+
+.+
+
+k
+
+Fm. 4.
+M
+
+I
+
+Fm 6.
+Es-a
+
+mmoRT
+
+NmONAL
+
+ADmOEY
+
+aommmm
+
+FOR AERONAUTICS.
+
+89
+
+The curve OEBF was then assumed as a graphioal history of the
+air speed on distarm%the part from O fn A referring to the colleotor
+and the part from A to II to the dif?user. The curve OE for an axial
+distance 0(.7 may then be assumed to refer to the history of the velocity of the air outdo iihecollector and durhg whiohit is yf~lzccti~
+from the low or inoonsiderable speed of return h thes
+per hour at 0. It should be noted that the ourve (7EP Fwas Iaidin as
+a smooth continuous curve showing easy and gradual aooeleration
+and retardation as distributed along the &stance axis CD. It was
+then thought desirable to ju e the same distribution of valooi~
+but on a tune axis. To this en the transformation indicated in the
+%
+di~am WSSd%oted. Ckmsiderhg OEBF as a curve of dxfdt, the
+rem rocal of tbiq curve was laid off as indicated giving a curve of
+The integral curve of this was then run in as
+&/dl on an z m.
+shown at OIP giving x as a function of t,or t as a function of z. OIQ
+thus becomes an ams of time t and the curve E13~of velocity on ihstance is readily transformed into the curve EIBIF1 of velm~ty on time
+by the construction indicated. Any ordinate as AB is oontinued to
+the curve O P and from the point of intersection 1? an ordinate ~Jl
+is set up gi “ the veIoc@
+is drawn anA from At a distance AIB1yg
+Y
+at the time OIA1 from the assumed ongm at O. A simI u construction for the other points gives the ewe E1dlF1 as the time distribution of the veloclty in assing through the tunnel, apart from the
+experiment &amber. T%e form of the curve was again considered
+by the eye, and between the two a M form of curve for velocity on
+ain neglecting change in density, thesevahms
+&stance was chosen.
+9
+of the velooit serve to etermrne the cross sections of the tunnel as
+compared wi J the section at the throat, 5.5 feet diameter.
+n
+Again considering the oollector asalargeozzle into which the air
+is flowing as the result of a reduction of ressure in the experiment
+chamber and under the welI-lmown laws ?or the flow of gases, it was
+found that the dumgas in density involved were too smtill to introduce any sensib~e change in the law of the distribution of velocity
+for the section areas assumed, or in the section areas for the velocities
+as shown by the accepted curve.
+Ik this gaueral man er the curves for the two park of the tunnel
+were determined. Actually, of coruw+,the width of the experimmt
+chamber intervenes at the throat point A, but this fact does not
+introduce any diHemnce in the ohmacter of the curms as showing
+along the
+the pr=um tive history of the wind velocity on its way
+collector an% the diiher.
+At the end of the diftuser.and just before reachin tie ropdler
+%
+erihaustfan, the form of the ddluser was sli tly moth d by %ringing
+the curve of oross-section area9 in & P y so that the areas are
+seusibty uniform just before reaching @ e fan location at the esit
+end of the diffuser.
+In order to secure the desired uniformity in flow at the entrance
+into the chamber from the mouth of the collector a honeycomb
+structure was built in the deLive end com sed of !bexa nal cells
+T
+3 inches in diameter and 10inohes ong (&. 5. These are oY builders’
+r
+roofig tin and me soldered at the edges forming a stifl and true
+structure with thin walls and presenting tie minimum resistance to
+the flow of the air.
+In order the better to celled the air at the entry end of the difhser,
+au inward projecting flaring rim was fitted as shown in the drawings.
+
+90
+
+BEPOET NATIONAL
+
+ADVE40ET CObf$ftWEE
+
+FOR AERONATKI!IOS.
+
+PROPELLER FAN.
+The
+
+exhaust fan at the outer end of the diffuser is of the mwrder
+
+type, 4 blades, 11 feet in diameter and with a mean pitch of ap~mxtern
+imately 5.3 feet. The itch is distributed on the Drzewieckis
+assumm an advance o! 4 feet per revolution with an angle o r incidence of 3°. This gives values of the pitch on radius as shown in
+Table 1. The form of the blade contcmr, sha e and character of
+blade sections, and mode of construction me & suflicientlyshown
+by the drawing, Plate III.
+TABLE I.—l?inmsio m
+
+offan propdkr.
+MaXI.
+
+Pitdl. Jy;g$.
+
+mum
+
+tl
+Fed.
+
+4.Ml
+4.M
+4.74
+
+ii%
+6.24
+8.40
+6.60
+6.78
+
+Indu.
+
+11.0
+11.6
+11.8
+
+H
+18.3
+lz.3
+
+E:
+
+thiok!3M9.
+
+Inchet.
+
+2.60
+206
+1.e6
+L 66
+1.85
+1.26
+1.07
+.9)
+.71i
+
+The propeller fan is ib.iven. through a belt connection from a 20horse ower constant-speed induction motor. Such changes in wind
+Speel se are desired in the pro~am of propeller tests are obtained
+by ohanges in the size of the drwe pulley on the motor shaft. The
+general pkm of the yropeller tds contemplates sensibly constant
+wind speed for an .gwen run of tests and variable revolutions of the
+tat propeller. TKa permits a constant motor speed for the fan propeller fm any “ven run of the model propeller vnth variations in sli
+and other can E“tions scoured by varying the revolutions of the mod 3
+propeller. In the aotud tests as reportad later, the runs were made
+ap roximatdy at two wind speeds, approximately 30 miles per hour
+ani 40 miles per hour and corresponding ap rommately to 220 and
+310 revolutions per minute of the fan prop d er. In order to secure
+extreme slipsj With the power available certain propelkrs were also
+run with a wmd velocity of about 20 males per hour.
+MEKXLL,A.NECWS
+DETAILS CONSTRUCHON.
+OF
+No attempt will b? made to give full structural details of the equiyment. These must m any case be determined largely by the special
+circum.dmcea of the case. A few of the more important structural
+features may, however, be noted.
+The form of the collector and dHuser tubes was determined by
+circular frames made by nailing up a double ring of seven-eighths
+inch board segments, sawn to the proper curvature on one side, thus
+forming a strong ring of wood l% inches thick. These rin~ were then
+faetened to uprights made of 2 b 4 inch scantli spaced about 2 feet
+% e up with the axis
+between centers and so adjuste z vertically as to
+
+REFOET NATIONM
+
+DVISOBY
+
+COMMITTEE FOE AERONAUTICS.
+
+91
+
+0: the tunnel about 8 feet 9 inches above the floor of the room. These
+cncular rings s aced oqt in this manner and each of appropriate
+diameter, give $ us a senee of transverse motions of the tunneL The
+next step was to run longitudinal battens seven-eighths inch thick by
+z inches wide along the @side of these rings spat”
+them equally
+?
+around the circumference. ‘1’ke battens were space about 6 inches
+betwem centers at the small end and doubIe that amount, or 12inchw,
+at the large end. ~
+entire framework when set up, cross braced,
+, roof and floor, made a very stifT and secure
+sta ed to the buil
+forming the shell of the
+sk J eton on which 7 ay the inner 00V
+to
+tunrd itself. This covering was of a T
+goo qutdity of heavy cotton
+each
+sheetin laid on and stretched with cme and secured alo
+T
+Iongitu%mal batten by running on the inside a small “ lan~fon
+“
+ap roximately one-fourth inch thick at the cater b %
+e %att8ns.
+inc wide, thus holding the fabric down on the
+%
+9
+The fabrio was then treated with a standard airp ane wing “dope”
+(celhdoid dissolved in acetone), varnished and rubbed down to a
+smooth iluish. At the pro elk-fan end for a distance of about 4 feet
+the number of longitudm al?battens was doubled and for a distance of
+14 feet the tilde of the tunne~was cgvered @h g#vani@
+sheet iron
+in order to “ve necess
+tips of the b%es of th~&??%~&d~~~e~=?&!$$
+With a smooth, tie and fair surface, conforming ti the law of croaasectional areas as determined, and, as later test ehowec$ stable and
+without sensible vibration or disturbance under the Iughest wind
+veboities employed.
+The e~eriment room was made of matched boarding laid on the
+inside of] oists and studding spaced about 18 inches between centers.
+The highest wind speeds contemplated were not much above 60 miles
+r hour and with a reasonable coefficient of flow thro h the col~tor tu~e this would require a reduction of pressure ir?fhe ~eriment room not much exceeding 10 or 12 pounds per square cot.
+moderate 10+, and no trouble was experienced in
+!#isisav
+carrying it wi ordinary -$rammgcovered with the matched board@,
+%
+t in the experiment room, two window
+es indicated. ‘To give
+swwe fitted and Y e glass was reinforced on tie inaide with
+~Op~&ti&reducing the size of pane to the equiwilent of about 9 by
+The ro;m was made practically air-tight by apering on the tilde
+with heavy builder’s a er laid on with as ci & y hea~ paste.. For
+en~ and exit an air?% was rovided.wi.E doors cl
+cc
+pstips and fitted wi
+contact be-n
+door aud packing.
+‘@-d-!l%J%%!.Tii?’!!l
+construction the experiment room was readil made substantially
+air-tight and of strength sticient to carry the T
+oad due to the excess
+praseure of the outar air above that maintained in the chamber.
+SPECIAL EQUIPMENT.
+The special eqyipment
+itans:
+gedG?2z;
+133vohltiollcounter. “
+Airqmad meter.
+
+for propeller
+
+teding
+
+comprises
+
+&e following
+
+I
+
+92
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE FOR AERONAUTICS.
+
+(1) THRUST DYNAMOMETER.
+The general arran
+ent of this apparatus is shown in the drawing, Plate IV, and wiF be clear with a minimum pf textuaJ description.
+The eneral form of the ap amtus was so demgned as twplace the
+prope er approximately 1+ c?
+%
+iameters forward of any sensible obstruction in the path of the air stream, and even here.tie standard is ‘ven
+a aha~ forward and after edge and stream hue form in orc? to
+er
+miuinuze an -possible reaction on the propeller itself.
+The prope 1 er is carried on the forward end of a shaft 1~ inches in
+diameter, which runs in ring oilin ~cylindrical, bronze bearings. This
+shaft is driven @bout longitu 8 mal constraint through a yoke at
+the rear end ha
+hardenql steal flat longitudinal surfac~s which
+engage with small
+‘d-bmsti
+‘De”
+‘n
+‘mpan+on outcarried b a bevel gear. Tlus eveJ gear runs onaball bearings “e
+side the z ub, which is bored to prcmde freedom from contact with
+the propeller shaft. The driving motor a 7.5-horsepower d.irectcurrent motur is placsd well over at the s~e, entiral out of the wind
+stream and drives the repeller shaft through beve r earing and the
+$
+yokes mentioned. k !his manner the propeller sha t is subject to
+anguhm compukion onIy so far as @e nwtor drive is concerned. It
+is entirely free to move longitudinally as may be determined b the
+other forces in play. Thwe other forces are the pull (or tlyust J due
+device
+to the propeller itself and some form of weighing or mess
+“Send
+calculatad to cuntrol and balance such pull (or thrust). m
+the propeller shaft is furnished with two baU-bearing thrusts which
+connect through hardeged+teel knife-edges With a vertical lever as
+shown in PIata IV. This lever is attached to a shaft which extends
+outside the standard, well beyond the wind stream where it-camiea a
+horizontal scale beam with suitable weights. An adjusting we” ht
+in the casing serves to adjust the center of gravity of the device? or
+sensitiveness of movement, and suitable stops control the range of
+travel of the vertical arm, and hence the horizontal travel of the propeller shaft.
+This arrangement furnishes a bmsitive and reliable means of measuring longitudinal forces develoyed b the propeller and without
+constraint due to the motor drove. & e frictional forces involved
+when the shaft is in rotation are so small as to be quite negligible in
+comparison with the ro eller forces involved but even these, small
+as they are, may ma C&{ e eliminated by suitable calibration.
+y
+DYNAMOMETER.
+(2) TORQUE
+
+eneral arrangement of the tor ue dynamometer is shown in
+The
+Plate f
+The motor shalt is extend & to the cas!ing of the thrust
+dynamometer stand and is cut for the insertion of a s ecial coiled
+spring. ‘lhe turque on the motor shaft is then merism. i by the torsion of this spring. To measure this toreion two fiber ihsks are fitted
+to the shaft, one on either side of the spring, actuall at A and B, as
+a narrow metal strip on t%e edge to serve
+shown. mew disks c
+as an electric contact.%
+e contacts are electrically connected to
+the shaft and hence to each other. A tied brush resting on we face
+of the disk A is carried by the dynamomei%r frame. From thLS
+brush
+is led an electric conductor, first to a battery then to a telephone
+receiver, and then to a second brush motite~ over the disk B, as
+shown in @me 6. It is clear that if the contacts on the disks pass
+
+q
+
+FtG. 6.
+92-1
+
+Fm. 7.
+w+
+
+BEPORT NATIONAL
+
+ADVISORY COMMITTEE FOE AERONAUTICS.
+
+93
+
+simultaneous the circuits wiU be closed for the
+instant and a click will be hearz in the telephone receiver. If the
+do not ass simultaneous , the circuit will not be closed and no clic {
+wiU be Ecard. %ppose ti en, with no torque on the shaft, the brush
+carrier at B is so adjusted as to give simultaneous contacta and a
+click in the receiver is heard- then with a load thrown on and areeikmt torque the sprin ~
+twist, the contacts will no longer be
+%
+simultaneous, and no clic -willbe heard. Then the brush holder at
+id where the contacts wiU again be
+B can be moved around to a
+simultaneous and the click w%’ be picked u again. Obviousl iihe
+angle through which the movable brush hol 1 er IScarried in or J er to
+thus compensate for the twist in the drive s ring wiU measure the
+.bration, as described
+angle of spring torsion, and thus by suitable C&l
+later, is readily translakd into torque moment.
+under the brushes
+
+—
+
+(s) EE~OLUTION
+00ZR?’JZR.
+The revolutions are counted by the movement on a drum, geared
+down by double worm ear tilve and so adjusted in diameter that
+1 inch of travel on the7 ace of a paper strip carried on the drum is
+j~t 50 reyoluti?ns. The drum is appropriately mounted on a frame
+With pencil earner and with electric connection to a seconds beating
+pendulum. h operation the drum revolves and the encil rest.
+on the aper draws a line with jogs introduced by the c1‘ck at aecon
+Y
+&
+A given Ien@ of time is thus translated inti revolutiona
+inter-v
+and the ;evolutions per minute thence readil determined. A gencd view of this apparatus is shown in figure ; .
+(4) Am-sPEnD ?mrrlm.
+The ultimate measure of air speed was based on tie Pitot tubs.
+The type employed is that made by the American Blower CO. and
+known as the A. B. C. tube. In this t~e the static pressure is indicated through air holea of about O.OZ-mch diameter. Exhaustive
+teat for this pattern of tube has indicated that ita coticient may be
+taken as sensibl unity, and for aU experimental work, as dwombed
+latq, such co d ci~t has been sssumed. It ii+ however, no! convementi to make, n connection with each observat~on~ a serms of
+$$ot tqbe readings on air veloci~, and to avoid this a seinesof careful
+terminations were made between the depression (difkrence in pressure outside and withii the experiment.room), considered es an +irpressure head, aqd the red
+within the experunent room. %’Z%c&t213!XXKe&$l$
+efficiency of the collector and honeycomb bdlle, viewed as an orifice.
+The relation thus developed was as follows:
+VeIoci@ head -0.876
+
+(PI- P,)
+
+where Pi and Pa denote the pressure heads without and within the
+riment room.
+indicated by the difference betieen this and 100
+Y he lost ener
+per cent is dish Y uted preaumsbly among the following items:
+FYictioneak+mcef coilr
+o
+snrfiwe.
+2 R&knee duetohoneycomb
+batEe.
+s General
+turbulence.
+4
+[I Someslight qmading of the stream at the JlrQF4er kwatio% with Iowa
+vehcity = comparedwith that jwt at the elnmry end of tie collector.
+
+—
+.
+----
+
+94
+
+REPORT NATIONAL
+
+ADVISORY CO~~E
+
+FOB AERONAUTICS.
+
+W]th this relation between air velocity and experiment chamber
+depression assumed, a sensitiye pressure indicator showing the
+pressure head between the expernnent chamber and the surrounding
+room serves es an instmdaneous air speed indicator.
+Such pressure indicator is secured by the device shown in figure 8
+and weighing to one-hundredth of a poynd &
+s’lu~e foot. y
+device as shown consists of two manometmcce earned each on op osite ends of a sensitive balance. The lower ends of the cells dip un er
+coal oil the space above the liquid bein connected in one case h the
+air in t~e experiment chamber and in $ e other to the air in the surrounding room The zero position of the scale is determined with
+both cups connected to the outer room. With one connected to the
+experiment room, the balance becom?s disturbed, and the weights
+added to restare equilibrmm furmah a chrect measure of the depression
+vnthin the experiment room. These indications calibrated ~ninst
+the Pitot tube measures of speed give then the direct relation &esired
+between the measure of the depression and the airs eed at the propeller position. The weights for the balance were o? such mass as to
+give readinga of pressure directly in
+“r”’
+readings are independent of the fhu usecL KJ’:E2A2’(Z
+it kept the cans wet and there was no variation in the meniscus.
+TESTSM4D CALIB13XI’IONS APPARATUS.
+OF
+Am PBomLlm.
+No matter what the type of air tunnel, the circuit may be considered as C1OSS$.If the circuit is complete and such as to hold the
+air under reetramt.thro bout the entire round, the closed character
+3
+is evident. If as m the ifbl t e the air is delivered to one end
+of a room and drawn froLu the o er, the return outside the tunnel
+%
+may be-viewed as through the room. The room may furthmre
+be consider@ ~ o! any .mze, and in the extreme case we may suppose it infirute m dunensmn, in which case the air may be conmdered
+as delivered at one point and drawII in at another.
+From this viewpoint the problem is, therefore, that of estabkhing
+and maintaining a continuous flow of air in a closed circuit, The
+ener~ re uired wiU then be obyi?usly the energy, die+pated in the
+Circuit. 8 no ener were so chsslp@ed, the air arcmt once set up
+would continue ind% taly. There IS,however, a continual dissipain the form of turbulence due to surface resistance
+tion of ener
+and unavoi ?$ le formation of eddies and irre ar turbulent motion.
+a
+This 10S+S $m or its equ@lent must suppP
+$he
+y.
+In ccmmdermgthe operation of the famwe may most convenient.
+compare the power actuall required at the fan with the kinetm
+epergy m the air flo~~ugh
+the throat of the circuit. This
+gms then a comparison etween the energy dissipated in the total
+@rcuit including the fan and the kinetic energy in the air at the
+throat.
+knuning
+
+normal atmosphere prweure and tem erature in the
+outeide room, and with due allowance for the slig{ tly diminished
+density at the collector deliv
+, we find for the kinetio energy at this
+point the valuea shown in Tab e 2, dunn 3, while test of actual fan
+7
+input showed the values as givau m column 4. The vahxesindicate
+for the speeds employed a relation givti substantially by the following:
+
+.. =.,
+.
+.
+
+-.
+-=
+
+I
+~\
+
+1
+
+-.
+
+-
+
+-. ---- -
+
+1“”
+
+--=
++ ..&
+:—.
+:.A..
+;.:J
+
+-—-—
+
+Fm a
+04
+
+REPORT NATIONAL
+
+ADVISORY OOM3UTTEE E’OR AJ3RONAUTIUS.
+
+95
+
+&ergy dkipaiwd - 0.86 X kinetic energy of air at throat.
+The relation of wind milocity to fan revolutions and of wind velocity to fan horsepower are shown graphically in figures 9 and 10,
+respectively.
+
+9.
+FIG.
+
+T-E
+
+II.
+Kindle
+
+‘%3
+tream.
+FUL
+
+41.7
+ma
+6LS
+64.6
+728
+7S.8
+
+Fm.
+
+EarupaL?cT.
+8.82
+
+6.40
+10.
+w
+IL70
+I(L3S
+2Lm
+
+UNIFORMITY OF VELOCITY OVER CROSS SECTION OF W
+
+STREAM.
+
+Surveys were made over the crow section of the air stream in order
+to determine the variation of velocity in time at any one point aud
+from point to point over diameters horizontal and verticsl.
+These indicated a meen variation of vekwity head on dietance of
+about 2.5 ~ cent or a mean variation of velocity of 1.25 per cent.
+The variation of v-ekni at anyone oint with time-was substantifly
+%
+the same. A Pitot tu e survey o1’ 20 well-diatibuted cells of the
+honeycomb baflle showed just in front of the delivery plane, a mean
+variation of veloci~ hea~ of 0.7 per cent. The time variation of a
+d ml 0.8 per cent. These correspond to velocity
+single cell was s.
+vaxations of one-half J e above values.
+
+96
+
+REPORT NATIONAL
+
+ADVISOBY UOMMI!IYT,E FOB AERONAUTICS.
+
+RELATION BETWEEN DEPRESSION WITEfN EXPERIMENT ROOM AND
+AIR STREAM VELOCITY.
+
+Thie relation wes based on Pitot tube determinations of velocity
+and msnometrio bakmoe messurea ?f t~e difference of prewure acting
+as an airhead. Numerous determinations of ths relation were made
+at the start of the work and the were repeatid daily throughout the
+tests in order to detect auy tenJ ency toward change in this relation.
+.
+
+1
+3$
+
+39
+
+75
+s
+
+.
+
+i?
+
+I
+
+%
+
+$5
+z
+
+E
+
+$
+10
+
+5
+/
+
+o
+
+10
+
+60
+50
+WtiD VELO%Y - Ml~ES PER HOUR
+
+m
+
+FIG. 10.
+
+The relation was found practically constant
+numbers of determinations
+wss taken ss:
+Velocity
+
+head =O.876
+
+and as the result of huge
+
+(1?, -P,)
+
+where PI and P2 denote the pressure hc@ without and within the
+e eriment room.
+T t should be noted that when the modcil propeller is in o ration
+with a velooitysuflioient to give a poeitive slip and henee an z ditiond
+aocelemting effect on the ti, we have in effeet an additiomd fan in the
+
+BEPORT
+
+NAmorrAL
+ADvrsoRY
+
+aommrrm
+
+FOB AEROKAUTICK3.
+
+97
+
+tem and hence must expect an inorease of velocity of air stie~
+??& eftect on the air stremn wiU &o be twofold, as follows:
+“
+(I) Iacal and immediately in front of the model propalkr, where
+there will be acceleration of the sires it approaches the repeller.
+(2) Outeide the immediate local influence of the m 0? cl propdler
+where there will bean increase in air stream velocity due to the greater
+amount of ener~ supplied in the circuit and a corresponding reduction in pressure m the experiment room with consequent general increase in thes eed of inflow. It was, therefore, important to asc=tain whetha & e enertd velocity of air stream as indicated by that
+of the cylindricals% ell about the repeller still remained in the same
+rekdioniw tiefflof~Wmetith
+tie~&ntroon
+Careful tmd repeats teets showed that this was the case and it was,
+therefore, assumed that the combined action of the large fan propeller
+and the model ro dler was to produce a mdoci~ of wind stream in
+the cylindrical &el surrounding the modeI, standing in the given and
+fixed relation ta the depression caused in the room by the joint action
+of the two propdlem. This veloci@ of wind stream then corresponds
+to the indefiuts stream flowing wound and outside of the repeller
+in the case of an airplane in tiee flight and is, therefor~, to ! e taken
+to the velocity of fli& through the W.
+“ Smular y the coal result immediately in front of the model pro@C9T”Y?
+ler is to be taken as similar to the local acceleration of the air unmediately in front of the airplane propeller, causing a local flow of air
+aft to meet the forward moving propeller.
+RWA’ITON BETWEEN DLWETEBS OF WIND STREAM AND DIAIM13133R
+OF MODEL PROPELLER.
+
+It was assumed from precedent and from general qerience
+in
+wind-tunnel work that a propeller model 3 feet in diemeter cotid be
+roperly run in a wind stieam 5* feet diameter without sensible
+&“sturbance at the boundarks of the stream and hence with sensibly
+the same result as though in an indefinite stream.
+The experimented examination of this question was approached
+from thee differ~t directions, as follows:
+(a) Successive reduction of wind-strewn dismetw with comparati~e study of thrust end torque -cients.
+(b) Pitot tube survey of wind stream with model propekr in
+opwation, with speciaI reference to distribution of -reIocity in the
+cylindrical shell outside the tip circle of the repeller.
+(c) Comparison of tit
+and torque co & cienta for four sizes of
+pro el.leraof successive increasing diameters.
+& e rwcdts of these & sc exemirmtions may be briefly indicated.
+The diameter of the wind stream was reduced by 6-inch steps by
+bkmking over the deliv
+end of the collector with suitable flat
+annular ringg. This had %! e ef!iectof closing off an outer zone of cells
+of the honeycomb bsflle, leaving the remainder operative. This ave
+wind streams of diameters, successively, 66, 60, 54, and 48 in % es,
+and within which a pro eUerof 3 feet chsmeter was run. The results
+were then reduead to i e form of thrust and .@rque coeilicients by
+assuming, at equal values of V’/llll, a force variation with the square
+of the speed.
+The torque and thrust ooeilicient curves thus derived give the
+following indications: The torque and thrust of the 3-foot model in
+29165”+3. Dec. US, 65-2-7
+
+—.
+
+98
+
+REPORT NATIONAL
+
+ADVISORY COMMI-
+
+FOE AERONAUTKM.
+
+wind streams of 6 feet snd 6.5 feet in diameter are sensibly identical.
+l?or a wind stream 4.6 feet diameter the torque and thrust were about
+2.6 per cent greater than for the wind streams of 6 feet or 6.5 feet
+diame!ter.
+For a wind stream 4 feet diameter the tmque and thrust were 6
+to 7 per cent greater than for the wind streams of s feet or 5.5 feet
+diameter.
+With the model propeller in o eration and throwing aft a slip
+stream of pronounced velocity tf e wind stream across the entire
+section forward of and about & propeUer waa subjected to survey
+by Pitot tube. The reeultaindicatid a relativel abru t break in the
+influence of the repeller close about the tips oJrthe b ades, and that
+the size of the & “p stream prop w at and just in advance of the propoller was raetically determined b the diameter swept by the ti s
+of the b d es. The velocities in tI e
+lindrical ring lying outai$e
+the blade ti s were &o compared wix -the de resslon mthin the
+chamber anc? found b agree as previously sta J
+(t’hese trots indicate that the special influenw of &a propeUm”in disturbin the
+distribution of velocities through the wind stream extends to %ut a
+alight distance be ond the circle swept by the tips of the bladm.
+The indications oz this @t, therefore, sup ort fulIy the snticipatd
+relation between diameter of ~opeller WI of wind stream.
+8
+Aeatialtest
+inregardtot %s important question, foupro~ellers
+of diameters, successmely, 30, 36, 42 and 48 inches, and smiktr
+eometricfdly, were tested out in r & ar course and the resxdts re%
+uced to thxnst and torque coefEcienta by assuming, at equal values
+of V/lVD, a force variation with the uare of the speed and with the
+s uare of the diameter. The results 7 them tests are shown in @ures
+o
+1? and 12 and indicata substantially the same values of the coefiicients for the same value O! V/iVll for all four ropdlers. This indioatas ap arently that the dmmeter of the prop $1era might have been
+increase$ to 42 inches, or possibly even to 48 inchee, and run in a
+wind stream of diameter 66 inches tithout sensible departure from
+the conditions in an indefinite stream.
+As a mattar of fact, ss maybe noted in the figures, the values of
+the coef6cients for the diameters 30, 42, and 48 inches lie most satiefaotoril on a continuous smooth curve. Those for the diameter 36
+inchee i?e slightly above. This slight variation is apparently due to
+some slight de arture in geometrical similarity between the proPeUerfor 26-in%diameterand theotherthree.
+In any event these results together with the others nohd above
+seem to pdify fully the use of the propeller models of 36 inohes diameter in the wind stream of 66 inches diametar.
+CAUBRA’MON OF TORSION DYNAMOMETW.
+
+The toreion dynamometer was calibrated as shown in @e
+13.
+A Prony brake wss attached h the shaft at the propeller position.
+A load was applied and the corresponding yield of the spmng was
+noted. These tests were made at various speeds, and loads were
+a plied varying from zero to the full capacity of the driving motor.
+!& eae calibrations were conducted daily throughout the tests in order
+to detect any @nge in the ratio of sprin “eld to moment in poundfeet. The ratIo was found to be practic F y constant for aU speeds
+and loads,
+
+PROPELLERS
+
+\
+
+IF7-36’’
+D[AMETER
+49-WN
+DIAMETER
+IIQ
+50-42”IAMETER
+D
+
+55 -
+
+W
+
+5.0
+
+I
+
+.
+
+~Q ~~
+
+W51-48”DIAMETER
+
+,.
+
+4.5
+
+4.0
+~
+
+).,
+
+..! ‘“ ?
+
+%
+
+3.5
+
+El
+
+Q7
+
+e>
+~*3.
+
+b
+*
+
+Z&l
+-Ic “-
+
+25 ‘
+
+/
+
+!? m
+
+.
+
+L
+
+2.0
+(.5
+l.O
+
+v
+!.
+
+05
+L
+~
+
+.1
+
+2
+
+.3
+
+4
+
+.5
+
+.6
+
+&
+‘2916S”+.Dec.I.?&
+&%?.(TO w
+kO
+
+8&)HO.
+1
+
+i?IG. 1.
+1
+
+.7
+
+.8
+
+.9-L0
+
+*
+
+PROPELLERS
+W 7-36 “DIAMETER
+DIAMETER
+
+DIAPK.TER
+DIAMETER
+
+ND291%-4. Dec.q
+
+65-2 (’h hce pagoEIs.) No. 2
+
+I?m. H.
+
+FIG. 13.
+m
+
+.*
+
+..,.
+
+-.
+
+REPORT No. 14.
+PART IL
+.—. —
+
+TESTS ON 48 MODEL FORMS OF AIR PROPELLERS WITH
+ANALYSIS AND DISCUSSION OF RESULTS AND PRESENTATION OF THE SAME IN GRAP~C FORM.
+By WnmAM Dmwco.
+F.
+OF
+SELEOTION PROPELLER MODEL CHABACI’EBIST@L
+
+As a tit stage in the propeller investigation it was proposed to
+try out 48 models with characteristics distributed as neady w
+ossible in a re resentative way over the field of ropelbr deeign.
+!& e purpose o ? this selection was to establish a i efinite series of
+design conetanta and data for these t es aud characteristics and
+sko to furnish a means for check with %’e simiiar work done in other
+laboratories. Ti5th the results thus determined for a set of forms
+and roportions regukdy distributed, further research may be
+direc~d along such lines es appem to indicate the most useful
+-reauh.
+After due consideration of the matter the fo~owing ohmadaristica
+were selected to make up by combination the 48 models:
+Paws.
+Htimtio
+(m.)
+. . . . . . . . . . ..0A10.7. 0.9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Distributionof 't& . . . . . . . . ..Ikuformandva
+riable . . . . . . .. . . . . . . . . . . . . . . . . .
+“1?
+Mean bIade-m timtiol . . . . . ..O.M=d O.~ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Form of blade contour. . . . . ..-. Nearly ehight parallel snd cmved tapering..
+. . . . . . . .. Ptimdwhrd
+. ........................
+~ofbkde*
+u
+
+8
+2
+
+.2
+2
+2
+
+the fixed diameter of 36 inches, the three values of the
+TWI
+pitch become 18, 25.2 and 32.4 inches, r~pectively.
+The uniform-pitoh propellers have this value throughout tie blade
+—
+— —
+surface.
+
+l?or the variable pitch forms, variation amordin to the Drzewiecki
+method was followed. The ande of incidence % OSSn WSS30 and
+the propeIler was given the &i&dard pitch for the uniform pitch
+propellers
+at the 13-inch radius, the pitch at other radii varyin
+according= to the law determined
+by the an#e of incidence sdecte E .
+The bIade-area, or mean blade-width
+ratms were so chosen as to
+“ve for one a rather moderate area and for the other a rather wide
+!! lade or fill area.
+
+The forms were so chosen as to give one a bIade with nearly
+partdIel sides and the other a more rounded and tapering contour.
+The two types of section show for the one a flat driving face and
+for the other a rather pronounced cmnber. The amount of camber
+Hlatiof mermwidth to radlnr.
+99
+
+—— —-—
+
+100”
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE FOR AERONAUTICS.
+
+or maximum
+height of the arc was made one-third the maximum
+thickness of blade at the outer portion and somewhat less near tbe
+
+hub. The maximum thickness and general charactar of the secticmi
+were taken to represent in ~roper geom@rical ratio average practice
+with eir propellers of full. dunension.
+The various charactenstica of these model propellem are shown
+more definitely by Tablea III, IV, V, and figur~ 14 to 24.
+.
+
+‘
+
+.—
+
+!40. Me&.
+
+P&y
+
+wan
+%r
+
+%%%. bhda.
+
+_..
+
+S%.&
+
+—
+Irder.
+
+62.4
+ax 4
+82.4
+az 4
+.25.2
+26.2
+
+1
+;
+6
+6
+7
+8
+
+E:
+la c
+la.o
+la o
+la.a
+$1. -w’a
+O
+S3.2-23.9
+EO.523.9
+66.6-62.9
+
+#
+
+—
+:
+la
+16
+17
+Is
+
+ziwa.a
+226-26.8
+22.2-%8
+22.
+s-26.8
+IK6-19.6
+6
+M.8-1!3.
+
+:
+n
+
+Ih 2-19.6
+15. 19.
+% 6
+824
+8Z4
+32.4
+az 4
+!M2
+
+:
+“24
+26
+z
+26
+29
+
+30
+81
+62
+a3
+24
+36
+66
+
+%
+2&2
+‘R:
+la o
+la o
+
+24.3
+-22.9
+8n.3-a2.9
+36.2-23.9
+me.-w.
+e
+
+g
+40
+41
+42
+48
+44
+46
+46
+47
+48
+49
+
+22,8-!M.8
+!ZZ6-26.8
+228-26.8
+~:~g
+lLW’i 6
+15.6-19.6
+U. 3-19.6
+i%:
+S3.6
+
+E
+
+-
+
+Q9
+::
+.9
+.7
+.7
+.7
+.7
+::
+.5
+::
+j
+.7
+.7
+.7
+.7
+.6
+.5
+.6
+.6
+.9
+::
+.9
+.7
+.7
+:;
+.6
+.6
+.6
+.6
+.9
+::
+.9
+.7
+.7
+:;
+.6
+.6
+.6
+:!
+.7
+.7
+
+&16r
+.mr
+. lm
+.Zlr
+.16r
+.20r
+.lbr
+.20r
+
+.16r
+.K1r
+.16r
+.23r
+~16r
+.!i+)r
+J&
+. llir
+.,20
+r
+.16r
+.20r
+.16r
+.mr
+.16r
+.26r
+.Uir
+.mr
+
+.1ST
+
+.~r
+.15?
+.20r,
+.lbr
+.mr
+.16r
+.mr
+.16r
+.20r
+,16r
+.20r
+.16r
+.26r
+.16r
+..alr
+.15r
+.20r
+.16r
+.rnr
+.16r
+.2)r
+.L5r
+.15r
+. .Mr
+
+Nonum.
+Nmucam.
+Non-cam.
+
+Nom-mm
+Non-mm.
+Non-mm.
+N
+
+l!=
+
+M%&%
+Non-cam.
+
+NonNon+am
+Non-mm
+M?n-com.
+Non-own
+mrlam.
+r!km-mm.
+
+mmmltt.
+
+on-cam.
+Lam.
+Nowmn.
+
+Non—cam.
+Non—ma
+cam.
+
+Cam.
+cam.
+Cnln
+C&
+cum.
+
+cam.
+cam.
+cam.
+Corn.
+cam.
+cam.
+cam.
+cam.
+mm”sm.
+K%%
+
+1
+
+. TABLE IH.-CEARMXEELSTICSor MODELPROPELLERS.
+
+P&%h.-Where a single value is given, the pitch is uniform. Where
+two values are given, they relate to radii at 4 and 18 inches from
+center. The pitch is understood b vary in the D~ewie&i system
+from one value to the other for an angle of attack of 3°.
+Pitch mtio.-For
+the variable itch propekrs the pitch ratio
+relates to the pitch at radius 13 inc?lea.
+
+“.
+
+REPORT NATIONAL
+
+ADVISORY C10kUKtT131E
+FOR AXRONAUTIOS.
+
+101
+
+llimn width of Mude.-’lh
+mean. width of blade relates to the
+beyond radius 0.2r approxiactual blade-normaUy that part 1
+mately. The face area of a two-b F
+ade propeller wiU then be mean
+width +0.8D, and henoe the two values of the face mess employed
+are approximately 0.06Da and 0.08D.
+&31.ape Hude.-The numbers 1 and 2 are employed to designate,
+o
+res ective{ y, the straight or ourved forms, es shown in figures 14, 15.
+%Zade.section.-The terms” cam.” and “non-cam.” are used, res ectively, to deeignata tbe cambered and nomxunbered forms of b i’ade
+section, as shown in figures 10-23.
+of
+p
+lwtiona.
+TAELE lV.—lXmm&ns nloall ?opaller
+FIXDL ~~
+
+kopelIer uea and
+UlmbOm.
+*
+&fa
+
+‘B”
+
+‘“
+
+AC
+g:.
+
+‘Q”
+
+‘H”
+
+I%.
+
+hchm.
+. ... .. ..
+p....
+. .. ... . .
+4J . . . . . . .
+... .. .. .
+1.191 ------
+
+1
+5
+9
+
+<:
+
+25
+29
+33
+
+‘&
+
+Inches.
+..o.la
+. . .. . .
+... ... .
+.. ... . .
+... . . .
+. . . . ..-
+
+8
+
+“
+7a
+R
+al
+41
+78
+
+L 168 .. .. .. . 6P
+.laa .. .. .. . @l
+.133 ... ..-. SI
+.66
+.49
+.lal . ... . .. 43
+L 19 . .. .. .. .
+.20 73
+1.m ... .. .. . . .... . . (%J
+.34 . .. ... .. . .... . . co
+.m . .. . ... .. .. ..- 61
+.
+.49 . .. ... .. ... ... . 4a
+1.19 . . ..iz . .... .. la
+. ... .. . 69
+1.01
+.166 . ... .. . 60
+.84
+.Es
+.X?3 . ... .. . al
+.103 . .. ... . 41
+.49
+:.
+.. .. ... .
+JS
+m
+. ... .. .. . ... .. . 69
+a . ... . ... .. .. .. . 60
+.66 .. .. .. .. . ... ... m
+.49 . ... . ... . ... . .. a
+L 19 .. ..iti. . .. .. .. 76
+LOl
+------- @
+..34 .186 ... .. .. 80
+.Ca
+.IM ... .. .. 61
+. ... ...
+.!aa :
+1% ....:!!.
+l..
+... .. .. . ... ... .
+. ... . ..- .... .. . w
+.66 .-.- . .. . ..--...
+61
+.49 .. .. .. .. .... .. . 4!2
+L 19 . ...ig .. ...-. :
+L 01
+.. .. ..
+.34
+. MO .. .. .. . 80
+.13s ... ---- 61
+.06
+.lm ...—.
+42
+.49
+
+I:&
+
+2
+
+,
+
+‘=
+
+6
+10
+as
+80
+84
+
+-3
+i’
+-11
+27
+31
+a5
+4
+8
+la
+
+!29
+33
+
+aa
+F1denotesform No. 1,89 fn dg’oru14.
+i%%=&%%&
+?R%%dti
+.,00,,
+rarea, meanbMawldthrrtioO&
+& denoh b e eeotkmwith pfainkce, dgmw16,1 etc.
+& denotesbladewxion with camhed fnc&agnre.91?,19,4t&
+
+.
+
+..
+— —
+
+102
+
+REPORT NATIONAL
+
+ADVISORY COMMiTZ’7313FOR AERONAUTICS.
+
+of
+!hmm V.—Nominal and d#nmnit @t.ch ~o@a’
+
+‘w”
+1
+
+i
+.- 4
+s
+
+:
+
+8
+1:
+
+U
+
+12
+18
+14
+.i?
+r7
+18
+
+go
+
+%%w
+
+1.178
+
+L128
+L 198
+L090
+.9M
+
+.010
+.904
+
+.mo
+.756
+.W1
+
+.7b7
+J%
+:.
+L I@
+.M8
+g
+
+;
+
+A31&
+
+~
+
+.072
+.720
+.604
+
+‘ii
+
+I&.
+
+428
+40.6
+
+2:
+&
+24.7
+81.8
+27.2
+24.6
+
+27.2
+
+!44.8
+g;
+E?
+81.2
+82.2
+82.0
+2a4
+24.2
+X9
+2a.
+e
+
+DYn8mt0
+
+~
+‘,&&‘%.h 2’-0.
+hnb.
+
+E!
+a2.4
+aa4
+%2
+!45.2
+2S2
+2s.2
+Iao
+I&o
+
+lao
+
+w
+82.4
+82.4
+624
+M
+!m.2
+X.2
+Ls.o
+
+I&o
+ls.o
+lao
+
+Fitoh-Dx (~
+
+:
+n
+2a
+!ia
+80
+%
+62
+
+84
+
+85
+80
+87
+B
+S9
+40
+u
+42
+48
+44
+46
+46
+:;
+
+L201
+1.w
+L 170
+LOZ2
+
+LOM
+
+.W.2
+.026
+.910
+. no
+
+.671
+
+.76
+.718
+1.148
+L 103
+L160
+L064
+.914
+.8s4
+;&2
+.716
+.690
+.7!23
+,692
+
+modi?a.
+
+&#&? Nfiml&
+“
+I*.
+g;
+80.8
+
+::
+
+?&S
+8L8
+
+27.7
+
+24.2
+
+i%:
+41.8
+69.8
+41.4
+a7.
+Q
+82.9
+U. 8
+88.9
+81.0
+=7
+24.8
+!2JL2
+24.9
+
+rwhea.
+82,4
+22.4
+8Z4
+814
+
+g;
+
+!zaa
+2&2
+
+la o
+
+E:
+la o
+6Z4
+82.4
+82.4
+8!&4
+2h2
+!2%2
+26.2
+2s.2
+
+I&o
+Iao
+
+H
+
+for T-i)
+
+CONSTRIWI’ION OF MODEL PROPELLERS.
+
+The model propellers were made of Pacific coast sugar ine (Pinm
+ul tmt was
+found to retain its form without cha e once well seascned. The
+stock obtained was well seasoned at % e start but was sawn into
+blocks a IittIe larger tluu.the propellers and allowed to still further
+dr out.
+%he propellers were hand formed from hplahs
+laid out carefully
+according to the characteristics desired. ‘I%e generaI arrangement
+of the swinging crab for carrying the templates is shown in figure 25.
+The tern lates carried on the swinging arm or crab were located at
+values o f the radii 4, 7, 10, 13, 16 17.5 inches. ‘I’he roper application of ~hese templa~
+ave six kea across the b] J’ e lying on the
+fhal fimshed surke ant at intervals of 3 imhes, exce t at the tip,
+as noted. The intermediate area was then readily taEen down by
+jud
+ent tmd the face reduced to a smooth continuous surface, fam
+w-i the lines determined by the edges of the tamplates.
+R
+The form of blade contour was then laid out on the helical surface
+thus determined, and the blade reduced to proper contour form.
+Similar tern lates were prepared for the back of the blade and the
+proper distm ution of tlucknees and form of blade section thus deter%
+mined.
+The propellers were then given two coats of shellac and two coats
+of varmsh and rubbed down between coats.
+The 48 models tested are shown in @gures 26 27 and 28. The
+three other models together with No. 7 to whic& key are similar
+geometrically, are &OWll in figure 29.
+
+Lamberbina) a wood light, strong, and which upon c J
+
+.
+
+BEPOET NATIONAL
+
+ADvISORY COMMITTEE
+
+FOR KEEONAUTTCS.
+
+.
+/
+
+1.2=
+
+2.4’
+,
+
+.
+
+?
+
+1
+
+1
+,
+
+FIG. 14.
+
+103
+
+.
+
+AI F2
+FIG.IL
+
+REPORT NAT.IOiKA& ADvISORY CIOM.?i5~
+
+FOE A3RO?7AUTICS.
+
+IF Rd.
+
+17 Rd.
+
+.
+
+I& Red.
+
+7“ Rad.
+
+FIG.l&.Pm@w
+
+model sectimg. (For dimensfmgsee dfagmmsand fabks.)
+
+105
+
+106
+
+BEI?oBT~.4mONA.L
+ADVISORY
+COM=EE
+
+w
+
+FOE AEBON~U!HOK
+
+Ikbd.
+
+*
+
+la” Rad.
+
+lwmd.
+
+7“ Rad.
+
+4’ Iwo
+F, A,&
+Fm. 17.-ProPaUer
+modelwotioon (For dhnendcow
+seadIWW.OS
+undtabku.)
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE
+
+FOE AEEONAUTTCS.
+
+leFIh?.d.
+
+lvlud.
+
+lo-mid.
+
+F’ AZS1
+I?IQ. &-PI!oP&k
+l
+
+modelE4@ODS.@m
+
+dhl19tiOlM
+
+SM dhgr?.m
+
+and tabks.)
+
+107
+
+108
+
+REPORT
+NATIONAL ADVISORY COMti-IKCEE FOR AERONAUTICS.
+
+16”lld
+
+4“ md.
+FI & SS
+Fm. 19. Fropellermodel mctlons.
+—
+
+(For dinumnions
+seedk@nm9~d tabled.)
+
+BEPORT NATIONAL
+
+ADVISORY COMMI-
+
+FOE AERONA~CS.
+
+109
+
+.
+
+4“ Bad.
+
+110
+
+REPORT NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR AERONAUTICS.
+
+15’!Rad.
+
+18”R&d.
+
+10”Rd.
+
+7“ Red.
+
+4“ Rad,
+
+FIG. 21.-Fropellermodelsmtlcms. (For dlmenskmseadk=gmms d tibk.)
+~
+
+BEPORT NATIONAL
+
+ADVISORY CO~T~
+
+FOR AERONAUTICS.
+
+111
+\
+
+w! Ed.
+
+W’-
+
+IV! Rd.
+
+,
+
+112
+
+REPORT NATIONAL ADVISOEiY COEtMITTEE FOR AERONAUTICS.
+
+w R8d.
+
+Wad.
+
+lW w
+
+7’ Wd.
+
+4“ had.
+Fs A9@S
+FIG.?3-PropeJlerRWM1
+sections. (For dlmensione eed@rame andtsblss.)
+s
+
+REPORT NATIONAL
+
+A
+
+ADVISORY COMMITTEE FOE AERONAUTKE.
+
+E
+
+113
+
+B
+
+‘B
+
+A
+
+m?.24.
+
+29165”-s.
+
+Dcu!. 123,65-2-8
+
+114
+
+REPORT
+
+NATIONAL
+
+ADVISORY CO~ITTEE
+
+FOR AERONAUTICS.
+
+METHOD OF CONDUCTING TESTS.
+
+The items involved in a single set of observations are the following:
+1 The wind speed.
+2
+S
+4
+5
+II
+
+‘HM revcdutmns meond or per minute.
+per
+The thruet.
+The torque (moment),
+The deneity of the air.
+
+The wind speed was detmmined by reading, simultaneouel~ with
+the other observations, the de ression in the room. This mth the
+relation established by Pitot tu\ e ccdibration gave the velocit head,
+and this with the density gave the speed. It maybe noted d ~t the
+relation between the Pitot tube measurement of velocit y head and the
+manometer measure of the depression was determined day by day as
+a matter of routine, but was not found to var more than I per
+cent from that given by the ratio 0.876 as note x previoudy.
+The revolutions per sticond were determined by taking the length
+on a strip of paper from the revoktion counter drum covering a
+period of some 10 seconds 1 “qg on either side of the instant of
+was then readily cunverted into
+simultaneous observations. L
+revolutiom through the faotor 50 per inoh and hence the relation
+between revolutions and time determined. It maybe noted that the
+nature of the record waa such as to permit a reading of revolutions to
+on-tenth of one revolution per second.
+The thrust, as has been previously noted was read directly from
+the weights and rider on the scide beam. T!he balance was semitive
+to about one two-hundredth of a pound, and imduding tight perturbations the readings could norrdy be made to one om+hundredth
+of a poun C#
+.
+The torque moment was read from the circular scale as nohd in
+connection with the description of this part of the equipment. The
+reading, inclu “ perturbatio~, could usual~ be made to one-tenth
+of one division o the scale whmh corr=pon L to 0,007 pound-foot.
+9
+The relation between the scale divisions and the torque at the end of
+the propeller shaft was, in the mapreviously.noted, determined
+daily throu ho;&th~nsenes of tests m order to insure against any
+than e in &s
+BeF
+ore starting a p~peller teat a dummy hub was put in phtoe
+of the propeller and the driving motor started. It wm allowed to
+run from 15 to 20 minutes until bearings had attained a running
+temperature and the torque indicator showed no tendenc to change
+from a steady position. The osition of the torque in L‘cater was
+observed for varnousspeeds aud?if found to be sermbly constant was
+noted. The thrust balance was adjusted to read zero. The model
+repeller was then put in osition and driven at various speeds
+L om that required for z- tL st to thrusts of from 50 to 60 pounds.
+Simultaneous observations were made of—
+
+Torque(moment).
+Thruet.
+Room depreiwion.
+Barometer.
+Dry-bulb tamperahre.
+We&bulb temperature.
+Revolution per eeecmd.
+
+-
+
+,.
+‘-.
+
+-.. _
+f
+
+-.. ... .
+
+FIG. 2%
+114-1
+
+37
+
+/
+r
+15
+
+3
+
+114-1
+
+[4
+
+2
+
+4
+Fm. 26.
+
+16
+
+28
+
+40
+
+30
+
+FIG. 27.
+114-3
+
+42
+
+F[G. !?s.
+114+
+
+—
+
+49
+
+50
+
+7
+FiQ.20.
+
+114-6
+
+51
+
+.
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE FOE AERONAUTTffS.
+
+H5
+
+‘When the tat was oompleted the propeller was a ain re laced by
+the dummy hub and the torque zero again observ ed! b &emduction of observations this zero value was subtracted from the observed
+torque, thus eliminating the friction of the meohanism between the
+torque spring and the propeller.
+h the eneral plan of rocedure the pro&Uer fan was run at a
+given uni#ormspeed and&e model propelk wssrun at a series of
+revolutions suited to cover the range m operating conditions desired.
+With increase in the revolutions of the model~ropeller there develops
+natudy some inorease in thes eed of the wmd stream. The actual
+observations were made, there?ore, under a series of determinately
+values of the revolutions and a consequent shght vamation
+v
+in win -stream velocitiw.
+T
+k most cases, rnoreovw, the model propellers have been thus run
+at two or more v-dues of the fan speed.
+AU vahws thus derived are then reduoed h coefficients, as expkined
+in the following seotion.
+FIEDUOTION OF OBSERVATION&
+
+Let V=-velocity.
+N-revolutions.
+
+D =diameter.
+A= density of air.
+T=throst.
+Q =torque.
+Pe=e&tive_
+
+.
+
+power =power
+
+delivered to or absorbed by the
+
+pro eller.
+P%=usef{epower=
+power realiied
+in forward
+movement
+of
+.
+d“
+In &=not~%oc~
+and for the purposes of general dissuasion, we
+assume the unite employed to constitute a homogeneous system
+
+throughout, such, for example, as the foot the ound, end the seoond
+or the meter, the kilo snd the seoond. & a Yater point, and when
+dealing with commercial units, horsepower, speed in mil~ ~e h?
+and revolutions per minute, the corresponding symbols d
+abl defined.
+%3e conditions of any one test as dependent on the relation between
+the wind stream and the speed of the propeller itself are most convenient indicated by the values of the ratio V/ND. The relation
+of this [ unction to prteh and. slip may be nc@d in pssdng. If we
+let p denote pitoh, m the ratIo of pitoh to chameter, and s the slip
+ratio, then we have
+
+V-pi’f
+
+(1–L?) =mlll’f
+
+(1–s)
+
+and
+
+&=nz(l–s)
+Assuming that the thrust (or pull) developed by the prop&r
+vsries directly with the density of the medium, with the area of the
+
+116
+
+REPORT NATIONAL
+
+repeller
+E ave
+
+disk, and
+
+ADVISOBY COMKHTIIE
+
+FOR &ERONAUTICS.
+
+with the square of the wind stream speed, we
+1’- AD2~
+
+T
+
+Hence. ~~z
+
+will be
+
+a dimensionless
+
+measured in absolute units.
+
+cticient
+
+if all.
+
+quantities are
+
+If Tq~ measured in gravity units, the
+
+dimmaiordeas coeilicient will be *~P
+
+--,
+
+Similarly, for the tyque Q, the_two ogresponding dimensionless
+Q
+9Q
+and A~
+Am
+The eillcieucy comes immediately from the equation
+
+‘etimti
+
+a
+
+be
+
+P=&”””
+
+_
+
+Ifl then, these values of thrust coefbient, torque cuticient, and
+etllclenoy are plotted on an abscissa of V/lVD, we shall have a complete expression of aU relations involved in the o
+ation of the propeller, and in such form as to be readily applicar le to any proposed
+or speciiied case.
+In Plates VI to ~
+are shown dkigrams giving values of the
+thrust and torque coefficients and of the ~clency,
+aU for the 48
+models tested. For convenience the actqal scale of ordinates gives
+valum of 100 times the thrust ooefEcio@ and of 1,000. times the
+torque coefficient.
+Let TOand Qadenote the thrust ind torque coeihci&s, as defined
+above. We have then
+
+lo T,V/ND
+‘-=zr
+
+““””““
+
+It should be noted that for convenience of use in English measures the numerioal values of the codicients w @otted cormapond
+to the measure of force in pounds force” that is, m gravit unite for
+2’ and Q. These coefients
+are ther$ ore not dimensio J em so far
+as the scale of ordinates-is involved, but.,may be made so by multiplying by g. It is evident that-the abscwsa V/A!D is dimensionless
+so long as the units are homogeneous.
+ILLUSTRATIVE PROBLEM
+
+Given a propelIer
+1,200 revolutions
+per
+an elevation of 3,000
+power, and efficiency
+
+8 feet diameter simiiar to No. 1 and making
+minute, with a spt%d of 72 rniks per hour at
+feet, what should be the thrust, torque, horse?
+
+REPORT NATIONAL
+
+ADVJ-SORYCO~TSE
+
+FOR AERONAUTICS.
+
+117
+
+We &d immediakJy the value V/ND =0.66. Then from the diagram we &d for the thrust and torque coe%icients, respectively,
+0.685 snd 0.970.* We then have
+~=0.6S5
+
+4!=
+p
+e-
+
+x64 x11,152
+100
+
+xO.071
+
+=347
+
+-. .—
+
+pounds.
+
+0.970 x512 x11,152 xO.071
+=393 pound-feet.
+~ ~ooo
+)
+393 x2r X1,200
+=89.5
+33,000
+
+horsepower.
+
+—
+
+~=0.685 xO.66 XIO=O 742
+0.970 x21r
+“
+.
+LOGA.RtTJillkIIC
+DIAGRAMS.
+
+‘
+
+The thrust and torque coefficients, with the curves of efficiency, es
+“ven in Plates WI — XXI, cent.sin all the fundamental data es
+rimente and maybe used for the solution
+f erived from the model
+T
+of various problems whit ma sxise. They are not, however, the
+most conveniently adapted to d e solution of the problems commonly
+arising, especially when the data invoke horsepower, speed in mites
+er hour, and revolutions per minute. For the treatment of probf’
+ems invol “ the data in this form, it has been found convenient
+ciente or functions
+tousethec %
+
+/
+
+.—-—
+
+plotted on an axis of Y/ND.
+In these expressions the unite emplo ed are still understood to
+constitute a horn eneous system ss m & e precedin section. It is
+also readily seen % at with absolute units for force J!
+gi-re dimensionless coe%icienta.
+@ 22C7$:
+must be multiplied by g in order b give
+ients independent of
+the system of unite.
+To derive the values of these coefficients from those for thrust and
+torque -wehave
+
+_&&&Sx2x(~)0
+
+q
+
+q
+
+q
+
+q
+
+(5)
+
+V3
+
+A+-A&2x~”.
+
+()
+
+.”m
+
+““
+
+(6)
+
+aphical representation of these caeflhients
+The most convenient
+is by means of the llitlel T ogarithmic diaggams.$
+*~zadensf
+at3JY30feetoffL071 und eroubhfoot.
+w-otisr~#-&,mfemmM~hmWsti&by&Ms
+J&#M3stmlo%
+Ikport of theNatfonsIAdvlsorpCommittee Aeronenffcs or 191~p.
+for
+$NmvellesReWrohessor Resfstanca
+b
+del’dret 1’AvIMw P. 309.
+
+.
+
+Pub-
+
+118
+
+REPORT
+~JimONAL
+MM’IMIRY
+C~Mlt$17XFJ3
+~QBm_RoN47JTII=.
+
+To develop these diagrams wa tit,.
+
+for numerical. ccmvenienqe,
+AO for the density of the am,
+NO,Do for the revolutions and diame-
+
+assume a standard or reference
+and standard or ref erence values
+ter.
+We then have
+
+log. &
+
+value
+
+=Iog. P. -log. A/AO–log. AO 10g. h7iV0-3 bg. No
+-3
+– 5 log..V/DO-510g. DO
+-log. P6710g. A/AO–3 log. N/NO– 5 log. D/DO
+
+Denote the left-hand member by y and the last member on the right
+by 1?. We then have
+
+y-B=log
+
+[
+
+7
+
+- =log. P, -log.:
+
+P,x*A
+
+–510g.;
+
+.
+
+.
+
+..
+
+-3
+
+log.+
+
+..
+
+i-......
+
+(7)
+
+o
+
+Similarly we have for the abwba
+
+,.
+
+log.&
+log.% =logo v/ –log. N/NO–log. D/Do”+
+V.
+,
+
+00
+
+Denote the left-hand member.by z and @e Iastterm on the right by A,
+and we have
+.
+‘-A=hg”
+
+[ -&+$’
+
+J
+
+=log.~
+
+–log.#O –log.&.
+
+.
+
+.
+
+.
+
+.
+
+(8)
+
+In terms of vectors each of these e uations ma be inte reted as
+represent@g the equality of a piii o? vectom; tz e two si?’ es of (7)
+represen
+a pair of vectors parallel to Y and the two sides of (8)
+a air par el to X. It further a pears that”N/N. and D/D. appear
+%
+in % oth (7) and (8), that is on bo d the X and Y axes.
+This immediately
+suggeste an inte
+retation of these, each in terms
+of a single vector inclined to X and % and at such an angle that the
+X component will give the value which is laid off in the direction
+of X and the Y component, that laid off in the direction of Y.
+Thus su pose for convenience of dkcussion that A <A. N< N
+D< DO. &en all vectors on the right-hand sides of (7)an& (8) wifi
+
+be essentially positive.
+We have then in figure 30 the folknving vector representations.
+Let O denote-the origirI for vectors and-X and Y ax=. Then:
+
+OG=x–A.
+..
+OA =]0 . V/Vo.
+AF = – 1og, NINO,
+FQ= –10 . D/DO.
+OK= – J
+03=ro . i.. ““”
+~;= –fo . A/L&.
+= – 3 f og.
+
+N] NO.
+
+JK = -6 log. D/DO.
+
+.—
+
+REPORT NATIONAL
+
+ADvISORY COMMIITEE
+
+FOE AERONAUTICS.
+
+119
+
+Noting the value+ of AFand IJ it is clesr that they may be tiewed
+the horizontal snd vertical projections of a vector CZ whose length
+is @ log. Nf NOsnd whose inclination to the horizontal is tan -13.
+Siiarly
+the vectors I’G and J K may be viewed as the projections
+of a veotor ZE whose length is ~2~ log. D/DO end inclination to the
+horizontal tan “6.
+Thus the compound vector C?ZE re resents
+completely the members of (7) snd (8) involving N and D, t{ e horizontal projection giving the N end D terms in (s) and the vertioal
+projection those in (7).
+as
+
+I
+L
+
+~
+
+q
+
+M
+
+.
+0
+
+u
+1
+
+A
+
+03
+
+FG
+
+x,
+
+x
+
+Fm. 30.
+
+These re resentations may be denoted by writing equations (7)
+and (8) as ! O~OWS :
+y-B=log.
+
+P.–log.
+
+x-A=log.
+
+v]vo-
+
+A/i&– $0
+
+$oTO
+
+As a matter of fact it
+horizontal and vertical
+latter for (7), leads to
+therefore, preferable to
+
+k
+
+kg. N/iY.- ~m
+5
+
+N/NO– ~@log.
+~
+
+log.””
+DID..
+. . . (9)
+D/Do--- -. --.(10)
+
+develops that the use of equal scalM for the
+axes the former for equation (8) and the
+an ih-pro rtioned diagram. It is found,
+use a sc r e for the vertical me Ssuremente
+
+120
+
+REPORT NATIONAL ADVISORY COMMITTE E FOB AERONAUTICS.
+
+one-half that for the horimnta3 and to ad’ust the length and S1Oe
+In suck case it is clear that t Ee
+of the oblique vectars accordkvly.
+actwd lengths of the vectors I~andJK,- mm 30, will be on~half the
+lengths mth equal scales thro bout. % e have then lZ+ (3/2)~=
+13/4 and la+ (5/2)’- 29/4, and% nce the length of the vector CZ
+in terms of the unit of X_wiU be (~3ji~log.
+N/~’ agd in terms of
+the tit of Y@
+log. N/No. ~ts “inckation to the axis of X will
+be tan.-’2/2.
+Similardy the le@h
+of the vector ZE in terms of
+, the unit of X will be (~9/2) log. D/DOj ‘imd in terms of the unit of
+to the horizontal will be
+Y, @
+10 . DID.. Its inclination
+$ imilarly, the length of IJ in terms of the unit of X
+~b~$210
+. N/~o, and in terms of the unit of Y 310. -iV/NO,and
+the Is th oY JK ~ tams of the unit of X, 5/2 iog. 5 /DO, and in
+terms ? the unit of Y, 5 log. DID.. It is thus clear that we may
+o
+ex rsss these
+fo 1?
+Ows :
+
+y–B=log.P,-log.
+
+z-A=log.
+
+vector
+
+relations
+
+by writing
+
+3 63
+
+~n
+A/&–—
+
+#og.N/No
+
+equations
+
+(7)
+
+and (8)
+
+_4@log.D/Do
+
+-@i
+
+se
+
+. . . (11)
+
+2
+
+2
+Y
+V/ VO–-= @. log. N/N.–~ 2 @ log. D/Do . . . (12)
+413 2
+
+uations all terms of (12) are measured in terms of the
+ln these
+unit for X. Y n equation (11) log. N/NO and 10 . D/D. will be measured in terms of the same unit as in (12 while t f eother terms~
+be
+measured inlmms of the unit for Y. A e factors 3/2 and 5/2 in (11
+~d ~~ give lengths suited to the scale of Y for the components 1J
+To re”klizepractically these various vector rcdations we proceed aa
+follows :
+(1 Draw axes O,X, and 0, YI accordin to convenience. The
+con d “tions to be observed in selecting 01 will5 e noted later.
+(2) From a convenient point O, lay off a scale of
+
+and place at each point thus determined
+or scaIe division of V/N12.
+
+the cmrwponding
+
+valuea
+
+ActuaIly this operation maybe carried out as follows:
+(a) Take a eerwa of values of V/ND over the range desired, as for
+example from 0.20 to 1.00.
+(b) Select a unit for a logarithmio scale such that the log. over the
+range of these values, viz, log. 1.00 – log. 0.20= log. 5, wdl cover a
+on the axis of abscissa.
+convenient 1
+(c) Locatev e value V/ND= 1.00 at a convenient point and fid
+the distances from such oint-to the left for any other value z from
+the
+uation log. 1.00– ! og. z =Iog. l/z.
+Lay off this distance to
+the 1%’tof the initial point, and at the point thus determined lace
+the number z or its &vision mark for a scale of V/ND. See 4 atee
+
+,. ..
+
+REPORT NATiOITAL ADVISOEY COMMITTEE FOR AERONAUTICS.
+
+XXII-XXXVII.
+1% the diagrams
+
+121
+
+The point 02 will then fall at the value of VJIVJIO.
+of P1ates =-=T’H
+we have Vo= 100 miks
+
+per hour =440/3 feet per second, No= 1,200 revolutions er minute=
+20 revolutions per second, DO= 10 feet, and hence VJ % J). E 0.733.
+(3] From the same point 0, and with the same unit lay off a scale
+of log. V/V, giving to V various values, as desired, and at each
+oint thus &termined place the value of V expressed in miks er
+Eour. ActualIy this is realized by taking a similar scale as for V/ # D,
+locating V.= 100 at 02=0.733 on the scale of V/ND, and then putting
+
+in
+
+the
+
+other
+
+scale
+
+numbers
+
+md
+
+divisions
+
+Plates m-~.
+(4) Again from 0, and with a unit ondmlf
+OIXI, lay ofl on OIYI a scsle of
+y–l?=log.
+
+[
+
+P.X-A
+
+as deeired.
+
+See
+
+that for the scales on
+
+1
+
+and place at each point values of P.JAiWD (lomo eneoue units).
+Actually a scale or regular series of VSIUSS % JAIPD is taken
+of
+covering the desired range, as for exam le from 0.0004 to 0.0030
+Then locating
+(homogeneous units), see Plates 23XII- b.
+any point of this smde on the axis of ordinate according to
+convenience, the remainder is completed acco~
+to the scale
+adopted. Thus the distance from 0.0004 to 0.0005 wdl be log. 1.25,
+the distance b 0.001 will be 10 . 2.5, ete. This locates the scale
+%
+acoording to convenience and wit out the need of speci.iic reference
+to the
+int OSas origin.
+(5) R
+off also from 0,.a scale for values of log. Pd .(homogeneous
+units) ani place ~t each po-mt the value of P~express.e m horsepower.
+To this end wrote equation (7) twice, as follows:
+
+y-B=log.
+
+&NW:+
+
+y-B=log.
+
+P.+log. &#
+
+. . . . . . . . . . . . (13)
+
+log.&~
+
+. . . . . . . . . . . . . (14)
+
+The first of these .ves a logarithn$q smde for PJMPP
+begi@ng
+% from the o
+at a point log. 4NOS OS
+10 anthmic scale of P. b e#nning at~k~~fey=;~=~?.%?<
+OW,at any green point determined by (13)
+o & er terms indicated.
+it is desired to find the corresponding value for Pe if the latter were
+laid off from 0, as in (14).
+At this point we shall evidently have
+
+log. P6=log. Aoi’foaD: +log.
+
+&W
+
+Whence AoN~ D: =AIPP.
+Let y =aa value of the ratio PJA iWD6.
+Then for d e particular point where AIPD = &No8Dt we sIMIIhave
+
+Pe
+Y= W=
+
+P.
+AON08DOb”
+
+122
+
+REPORT NATIONAL
+
+ADVISORT COM=EE
+
+This wiIl give the value of y correapondin
+Other values may be
+assumed value Qf P,.
+
+FOii AERONAUTICS.
+on the scaIe to any
+
+P
+ound snnilmly, or one
+
+thus ~cated on the scale the remainmg scale
+value of P. b
+Y
+points and values or P, may be run in with the scale unitin a similar
+manner as for the scale of y.
+(6) Through any convenient ~oint draw a line No Q as an axis of
+N and inclinwl at an angle tan- 3/2 to the axis of X.
+(7] Draw a similar we Do 1? as an rids of D and inclined at an
+?$~~~~~?~~~~~~~$~$
+X. on the h
+of iVfor origin
+and with the unit of the scales on O X la? off a scale of (@3/2)
+log. N/lVo giving to N various valum as~esmed and at the various
+points determined by the values of (~13/2) log. N/NOmark down
+the comes ondin values of N expressed as revolutions per minute.
+For all v J% of > N. the value wiU be csitive ~d for all values
+ues
+of IV< NOit wiU be negative. Lay off t{ e positive values downward to the kft and then ative valucq upward to the right. ~
+will give a scale of N and3
+downward and to the left ‘k$&?~f?E!&$!!?d-&&%%!!
+The reason f~r this particular dirmtion of the scale of N will appear
+at a later point.
+(9) Sirmlarly and with the same unit Uy off on the b
+of D a
+increasing downward and to
+scale of (@/2)
+log. D DO;_m~
+the left. Sae Platee I&II
+(10) At some convenient point on the diagram lay off an axis S2’
+for values of log. A/AO
+and take any convenient point for or” “ . From
+this point and with the unit of the scales on O Y lay or a male of
+log. A/AO
+tid mark at each point the value of A or altitude, as ma be
+desired. For values of A > & we shall have positive values an J for
+values of A <CAP,
+negative values. Positive valuea should be laid off
+below the ongm and negative values above. This will give a scale
+increasin downward and with AOat the, origin as seen in Platas
+XXH-X%X-VI
+(11) It mustlbe noted that the unit seleoted for the scales of
+O,XJ must be such that for this and for the various resulting scales,
+vertical
+
+and
+
+obli
+
+ue, the range of values desired for the various
+N, D, A, and P, will come within the scope of
+
+uantitiea V/ND,%,
+
+k 6 dia ma.
+(12) %or the various valu+x of
+
+peller the values of PJAWD
+
+b
+
+V/ND ccuqute,
+
+for any given pro-
+
+the rekhon
+
+of equation (5) and
+lot the corresponding point on t II e di
+~.
+The actual coordinate
+z istances from O as origin wiU be (z- T ) and (y-ll)”fi
+in e uations
+3
+With the soaks above noted laid off on O,X, WI 0, Y,,
+(7) and (8).
+
+the spot for any pair of values V/iVD &id PefAiWL7maybe, howover,
+directly dekmnined by suitable interpolation
+on the scales and without the laying off of log~thmic
+coorc@a@s
+as such.
+O and of the axes OX OYisriot newsThe location of the o
+
+Y
+sarily within the sco e o the dia am. AII that is needed is a set of
+Swdas don Olx
+rmgmne*5dti~$Z&3e$.
+v~me$rZ;~~~~&
+the must be of suitable len th to give the swim of values of H/~O
+an2 D/DO needful in practic 3 problems.
+Thus in the dia ame of Plates XXII-XXXVII
+the actual origins
+for the horizont f and vertical scales are not indicated. The hori-
+
+-
+
+REPORT NATIONAL
+zontal
+
+and vertical
+
+ADVISORY COMMITTEE FOE AEEONAUTICIS.
+
+axes are pIaced where convtient
+
+and likewise
+
+123
+the
+
+oblique axsa for N and D.
+(13) b a prmisel similm manner end to the same scales a curve
+is laid off for PJA d D=.
+Taking now the curve for P,, let L denote for any given case the
+location of Von the velo@tyscalq and U the location of the valw. of
+~~?%~;;;$~t%?~!$
+t&?&e%f?~$~~N~
+~on the
+draw a vertical L.BG and take a poinb B represen “
+
+ower
+A/ ~ taken on 5 T as
+Then lay off BC ~ual b the vi!ue of log 9
+the distance from the origin or d. to A (A’ here assumed less than dO).
+Then through c draw a hne parellel to &Q and lay off 02 equal to
+
+scale.
+
+( 13/2) log. N/A?a,taken on N@ as the distance from o “ “ or NOto
+T
+if (N here ass.uned less than NJ. Next draw ZE par el to D&
+until it meets the curve f or values of PJAIPD (D here assumed lees
+than Do).
+Then the follo “ relations are readily seen to obtain:
+Y
+and E must lie on the same vertical, and the
+(a) The points
+determination of one wll necessarily h the other.
+(b) Hence if the value of V/lLD ISgiven (and hence the point ?),
+together with N and D? the construction maybe carried out in the
+reverse sense and a point L determined, which will mark the value
+of v.
+(c) bfore generally the com und vector CZE must necessarily
+give, b v-cals
+drawn througr its extremities, h valuea of V and
+of V/ J D, the former by a vertical drawn through 0, the extremity
+of the N meter, and the latter by a vertical dram though E, the
+.
+extremity of the D vector.
+(d) me
+owcr vector Pe is always assumed to be laid off with its
+origin ss 8X.
+This meam sin@y locating the point 1? in accordance with the value of Pa as lud off on the ower scale Ot Y1.
+(e) The three vectors BC, CZ, and ZEmay \ e laid off in any order
+according to convenience and the resdt wdl be the same. In the
+diagram the full line CZ~”shows the two vectors for revolutions and
+diameter in the order ND, while the dotted line CZ,E shows the
+same vectors in the order DN, starting in each csse from the oint
+C. Similsrl , &d~k;~
+.B3 may be put in between N and 8 , or
+e 31 me shown four different comadj scent to %
+v
+biuatione of a&ebraic S&IS, eac with the six ~erentmsequepces
+in
+which the vectors may be exmnged.
+There are m all aght M-went
+combinations
+of signs, each with the six c?i.ilerent sequences, or m all
+48 different fi~es
+or patterns which these three vectors may effect.
+Those shown-m @m-e al axe simply f or illustration.
+@ According
+to the data given, the actual constriction may p-
+
+teed from L to Z7,or vim vwsa.
+@) The power scale is taken positive upward. Hence LB is the
+From the form of the second memwtive direction of this vector.
+posiBer of equation (7) it is clear that if – log. A/AOis to be essential
+tive; that is if it is to have the same sgn as ?,, then A must i e lees
+than A..
+l%nce if BOis to be laid off upwsrd,lti must correspond to
+
+A<AP This accounts for laying off the sods on STin the chrection
+previously indicated.
+
+—
+
+—
+
+———
+
+——
+
+-—
+
+— ——
+
+124
+
+REPORT NATIONAL ADVISORY COM~TT’EE
+
+FOR AERONAUTICS.
+
+and – 5 log. D/D. are-to be i.ntrineicdly
+similarly if – 3 log. N/i$70
+positive, we must have N< NOand D <qO and hen% the eoalea on
+OQ and (7B muet be laid off in such direction aa to gme, when mess-
+
+a
+
+.-
+
+45
+
+—-
+
+q
+
+c
+
+d
+Pm. 81.
+
+ured from the origin NOor D? a positive or u wmd cornpo.nent @
+N< NOaud D <Dg. This again aocounta for A e direction m w~ch
+these scalea are lad off, aa previously indicated,
+
+BEPORT NATTONAL ADVISORY OOMMITTEE
+
+125
+
+FoE=o~Au’LtOS.
+
+(h) In the general case A, N and D may have any relation to &
+lVO, and 110 and hence the valuea of the vectors rejmsenting
+density,
+revolutions and diameter may be ositive or negative, or, of Cou.mel O.
+If
+ositive, &
+will be laid o
+in the proper direction b t
+
+BCf CZ and Zl%n t@ direction of ~ nema;ve values ~t-%:fi
+demoof A
+mm” :d
+*
+
+-
+
+along the correspon
+in the proper direction
+
+direction of tiati~J~e*;b%%h~!&ytZZ~~Z2
+the scales of A, ~ an 11 are laid off on their res ective axes will give
+the proper direction in which the should be Iai $ off in order to combine properly with a positive v J ue of Pe.
+(i) Hence, if we are able to start with the oint 1? (determined by
+the value of Pe), the remainder of the vectir % OZE should be traced
+out, each eknent parallel to its axis and in the direction in which the
+corresponding
+uantity lies, reckoned from the origin (&, lVO,or no,.
+Furthermore,
+t1 e last or thing
+element of this threefold veotor must
+always end on the curve.
+@
+
+On tie o~erh~d,
+
+if the data m
+
+SU& tit
+
+we must start with
+
+the point U or E and work over to the point ~, then the vectors
+EZ, ZC, and 6!B must be traced thro ah m the reverse direction to
+that in which they lie on the axes of D,% , and A. The reason of &
+is obviousl
+to so trace these vectors that when the diagram is comleted an (? the vectors are traced through in the ptitlve direction
+
+F PP, then the other three will also follow in the same direction as
+or
+that m which they lie on their axes and thus properly combine with
+a positive value of Pa as noted above.
+& a eneral rule or guide in the matter of the direction or sense in
+which t e various vectors should be drawq, it thus reeulta that
+%
+irrespective of the particular direction in whmh the construction of
+the vector may require it to be drawn the fial result must be such
+that when complete and when traced through from B to its end on
+the curve the various vectors must ~ be traced in the direction
+quantity A, ~, or ~ from
+determined by the lay of the correepondm
+AO, A(O, or 11. on the res ective axes for & ese quantities.
+The vsriab~es involv 2 in this Logarithmic diagram are, as we have
+
+P., P=,
+@ connection@&
+m!&#&vy~~;g
+Certain
+
+of! &ese
+
+P,
+
+V[ND, A, V, N, D.
+
+any single construction,
+
+may
+
+be lmown
+
+for example,
+
+and the others
+
+that involv-
+
+unlmown.
+
+The
+
+vaxious cssea thus ariabg ma be briefly indicated.
+In the follo .%lysis
+.~e letters and vector symbols of figure
+as follows:
+30 are used vnth
+L means the point onm-- (F
+,X, determined by V.
+Umesms the point on axis O ~, detmmined by V/ND.
+B means the point on vertic d thmgh L, determined by P..
+l?~means the vector for A, ccmnting from the point B.
+CZ means the vector for N, counting from the point Q.
+CZ means the vector for D, counting from the point C.
+Z&mesns the vector for D, counting from the po~t Z.
+Z, Ii’ means the vector for N, counting from the point Z,.
+Z or Z, means the point of juncture of the vectors for N and D.
+
+126
+
+EEPORT NATIONAL
+
+ADVISORY COMM.IXTE E FOR AERONAUTICS.
+
+E means the point on the curve at
+OZ E End on the vertical through U.
+
+the end of the vector
+
+UZE m
+
+*e have then cases as follows:
+(1) ~~~;~grued
+PCA, V, V/ND.
+
+WMI V find the’ o“ht L, and thence with P, and A find 0. With
+F/ND fmd U and $ . Then from 0 and E draw vectors parallel, respective , to the axes of N and D and extend to the point of intarsection Z? Then OZ gives N and ZE gives D.
+.
+(2) IGIOm or assumed P., A, V, N. .
+Unknown V/ND, D.
+Find 0’ w im roblem 1, and thence with N fmd Z. Then draw
+vector ZE parall% b axis of D to meet curve at E. Then Zl? gives
+D and E givw U and V/ND.
+(3) Known or assumed P,, A, V, D.
+Unknown V/ND, N.
+Find C m in problem 1, and thence draw vector for D, “ “
+Then draw vector ZIEparillel to axis of N to meet curve at %%&
+ZIE “VOS Nand Egives Uand V ND.
+(4~U~&won# yDmed P,, A, 4 /ND, N.
+With Pc and A &d”I, and draw horizontal line 1,1. With V/ND
+fmd U and E and through E draw arallel to axis o! N vector ZIE.
+From Z, draw line paxallel b axis oI’D to intarseotion with 1,1, at 0.
+Then vector 02, gives D and 0 determines .L and V.
+(5) ~~n~
+~~ed
+P., A, V/ND, D.
+
+Same enersl pr&ce&re as for problem (4) with appropriate interohange o5 N for D.
+(6) &Kn~~AisaDmed P,, V,- V/ND, N.
+With Vand P. f&d~ and B. With V/ND iind Uand E. l%rough
+E draw parallel to axis of N vector ZIE and with N find Z,. Then
+thr~ h ZI yaw andlel to axis of D line to meet vertical through B.
+D
+‘%s
+8 Then veotm 02 “VSS and BOgivas A.
+~f)
+#b~~r~~Nued
+& V, V/fi~ D.
+
+Same general pkc&re
+terch
+e of N for D.
+(8)%?!o&om.npw~d
+
+as for proble~
+
+(6) with appropriate in-
+
+A, V, V/ND, N.
+
+With V and V/kD’find L, U, and E. Draw vertical through L
+and through 1? arallel to axm of N veotdr ZIE. Then N determines
+2,. From Z, & aw ,aralleI to ti
+of D line to intersection of vertlCd through L. T&s gives point C. ‘1’k A gives B, B gives Pe
+smd vector CZi gives D.
+(9) ~nw~~P~~d
+A, V, V/ND, D.
+
+Same eneral r&e&e as for problem (8), with appropriate inter.Imngeo$ Nfor!b.
+(10) Known or assumed A, V, N, D.
+Unknown P,, V/ND.
+V/ND follows immediately from V, N, D.
+Then prooeed as in (8) or (9).
+
+BJ3POBT NATIONAL
+
+ADTZSOEY
+
+COMMIT3J?J3
+
+3’OR AERONAUTICS.
+
+12’7
+
+EntireIy similar constructions maybe carried out invohing Pa by
+using the correspcmdin _~~d#ed
+instead of full line, in the
+.
+diagrams of P1ates d
+EFFICIENCY.
+
+.
+
+The value of efllcienoy is given by
+P-
+
+;.
+
+==
+
+ratio of coefficients for the two functions
+
+PdAIWD5 and PJANW.
+Calling these yl and y,, we have then
+log. p=log. y, –log. y!.
+Hence the intercept EIE (@.30
+is equal to log. P, and to ewhate
+the same we have onIy to go to L e logarithmic sde for efficiency
+and b an convenient means step from the origin a distance e u ai
+L
+h ere E falls, the e%iciency may be read. This is rea “ y
+to Elk
+done by dividers or paper strip.
+There are a number of other constructions which maybe worked
+and related to the deout by the aid of these logarithmic di
+termination of various characteristics
+eller performance such
+as the thrust T, ta
+al dimensionlas Ctioients as listed by
+
+‘
+
+DISCUSSION OF RESULTS.
+Thrust &-trekn%nt to @&
+
+?w.&z-As
+
+shown by the curves of thrust,
+
+this quantity
+
+for a given value of V/~~ increasea with
+itch ratio.
+This M enthely in accord with the results to be anticipa J
+Thrust in relation to Ma.& area.—At
+any given value of “V/ND the
+
+thrusts for the narow and wide blades are very nearly the same.
+There is a gemmd tendency for the wide blade to show a greater
+thrust for moderate and low values of V/ND or for moderata and I@h
+vahm of the slip with a lesser thrust for large values of V/ND or
+ve low values of the slip.
+% rust in retatwn to blade orm.-The thrust develo ed for a given
+value of V ND is in enera 1?
+greater for the str~wht % lade than for
+some exceptions
+to this
+f here are, however,
+the cum A forms.
+general indication.
+l%rust in rehtiam
+
+to co?wtuti and variabk ‘&h.-For a given value
+of V]ND there is but s1” t difference in tr e thrust. b a eneral
+v
+rtde, the vahe for variab e pitch is slightly k.ss than that ! or the
+uniform pitch.
+Thust h relution to blade w&.-For
+a given value of V/ND the
+thrust develo ed by the cambered section is in general greater than
+that for the pf ain section.
+PozeT h rehzhh to @h rati.o.-As shown by the curves of t.mque
+and power, these
+with pitch ratio.
+anticipated.
+
+uantities+ for a given value of V/ND, increase
+%his is entirely in accord with the results to be
+
+I See paper
+pnbtfshed Second
+fu
+hmnal Repxt NsthmnlAdvfscqvCaamIttea for Amoneat!ce, . 6S3.
+p
+
+*
+
+128
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Power in Fehtiim to Made a9w.—The” wider
+ropeUers, having a
+smaller dynamic pitch than the narrow ones o?the same form and
+nominal pitch, show a somewhat loss powaer (effective and useful)
+than the narrow propellers at low slips or
+h TahlSSof ~T/ND.
+They show the same values of o-warat v ues of V/ND somewhat
+9
+less than those for maximum e& epc .
+At the lower values of V/ND or
+{ values of dip, the wide propellers show in general more powert Y an the narrow.
+An exce tion to the above statement is noted in cases of the pairs
+29–30 an d? 33-34 in which cases the dynamic pitch of the narrow
+blades 29 and 33 is so much greater than that of the wide bIades
+
+that the. power for the wide blades, at all points within the range of
+the tests, is less than for the narrow blades.
+Power in re.?.ati to bladeform.-!l?he
+wer required for a given
+value of V/ND is in eneral greater for r e straight ~~dp propellers
+than for the curved !!orms. The followigg exceptio~ .,,w,:,Inoted:
+Propeller Nu 2, pmctically equal to No. 4.
+“
+Propeller No. 9, practical equal to No. 11.
+Propeller No. 10, slightly rem than No. 12.
+Propeller No. 18, less than No. 20;
+&
+Propeller No. 26, practically equal to No. 28.
+x.
+Propeller No. 30, practically equal to No. 32. ~
+Power in wlution to cmstati and variuli!e pitch,-The variable and
+constant pitch pro elle~ show little difkrence in ower coefficients.
+For the 0.9 pitA ratio the values are practidpi y the same, two
+pairs showin elightl graater values for com$ant pitch an$ six
+pairs practiw!llyequl
+For the 0.7 pitch ratio one air shows slight~ ‘!1sssfor the cm.wtant
+pitch, two airs show practic al y the same and.J $e pairs show slightly
+more for t f e constant pitch.
+For the 0.6 pitch ratio one air showE IEMfor comtamt pitch, one
+pair shows racticdly same 7or both, six pairs show greater for
+constant pitc% .
+PoweTm relation to Mu& 8ed.on.-The blades of camberwl section
+show effective powers of from 11 per cent to 35 per cent greater than
+the noncambered sections. The difference is more marked in the
+narrow blades than in the wide ones.
+E#&ncy in reldi.on to pitch ratio.—The maximum eftlciency of
+pp
+
+ellem of
+
+“ven form
+
+otherwiss
+
+incrmses
+
+with
+
+the value
+
+of the
+
+ratio. R e same is true for the efiimcy over the usual working range. Broadly speaking, for equal values of T7/ND eiEcienc
+small values of V/N d ,
+increases with the pitch ratio. For ve
+however, the lower pitch ratio pro ellers 3 ow the eater efficiency.
+E &n
+in relahun to ama.— d e narrow prop 3 era show in en%
+era?gi hi er eflicienc throughout the working range, a hig er
+a
+maximum efficiency an K a larger range.
+There are a few exceptions. Certuq of the wide cambered blades
+show a dightly higher efficiency at extreme slips than the corresponding narrow cambered blade. This is the case with 25-26,
+29-30,33-34,37-38,41-42.
+In other cases the eiliciency of the wide cambered blades is equal
+or more nearly equal to efhcienc of the narrow cambered blades
+than is tie caae with noncambere J forms.
+plt &
+
+—:.
+-,
+
+.“
+
+.1
+.1
+
+,.,
+BEPOET NATIONAL
+
+ADVISORY COMMITTEE FOE AERONAUTICIS.
+
+129
+
+Y-
+
+my in relation to ?i?ude
+form..-h
+general the curved form
+of b ade contour shows a hi her efficiency m the working range as
+well as a higher maximum e& ie.mw.
+There ar~ a few exceptions in ‘tie case of maximum eticiency
+~ere
+are no e~ptions
+in the case of
+but these are not marked.
+
+t<
+
+the efficienc
+over the working rmge.
+The rmges of the efficiency
+are not mar z edly different.
+“ ny in Telaticm to unifm
+or
+riali!i pit.ch.-ll%e
+variable
+E
+%
+pro ellers show in general less e ciency than &me of conpi e
+stant
+i & , both as to maximum efficiency and as to the efficiency
+over t% e working rmge.
+‘l%ere are one or two exceptions
+to this statement but these are
+not marked nor are the advantagw
+of the uniform pitch propellers
+over those of variable pitch pronounced
+in character, tiers being
+a number of paira in which the efficiency
+curves are practically
+id~tiec$flfop
+w+form and variable pitch.
+‘range for variable and constant pitch ia practically
+the same. “’H is, of course, entirely possible that some other value of tie
+angle of attack in the Drzemecki
+s@em
+or some other distribution
+of pitch than tb
+here exhibited m@
+show values of the efEciency
+su erior to those m uniform
+itoh.
+8.mtion.-The
+plain section Q“mpelIem
+%~ciwv.xj in relation to bd
+are markedl
+more efficient than those of cambered sections.
+In
+ener J thmt~
+little diilerace
+in the range of efficiency,
+11
+and other pairs varying some one way and
+paim
+aving e ual
+out exception
+alI show that the
+Iain-face
+Some!nother%ut%!%?
+forms are mok efficieut in the working range as well as L wing 8
+
+higher maximum effi$~cy.
+2$2160--s.mm l!z!a65-2---!3
+s
+
+i
+
+.-
+
+.
+
+Page intentionally left blank
+
+REPORT No. 14.
+PART IIt.
+
+A BRIEF DISCUSSION OF THE IAW OF ~E
+As AFFECTING THE REIATION BEI’WEFN THE RESULTS DERIVED FRObI
+RIODEL FORMS AND THOSE TO BE ANTICIPATED FROhf
+FULLSIZED FORIMS.
+By Wmzm
+
+F. DmuND.
+
+THE LAW OF KWEMATIC SIMQJTUD E IN ITS RELA’ITONTO PEOPELLER—
+MODEL EXPER.131ENTS.
+The use of model ropdlers as a basis for the rediction of the force reactions of full+ca 1! repellers raises at once t%e quwtion of the law
+e
+of kinematic similitu L? according to which we ma hope to interpret
+e,
+the results of tests on model forma in terms of J e performance
+of
+full-scale propellem.
+The sub”eot of kinematic similitude h= been adequately treated by
+many auJ ors and no general discussion of the problem is here reIt seem: however, proper to note certain as ects of the
+quired.
+subject with speczal reference to its relation to the pro% Iem of the
+air propeller.
+kits broader as ecta the existence of a Iawof force relation between
+a model and a f J -scale body implies the existence of a functional
+re~ation between the force reactions to which a body is subject and
+the various attendant determining conditions and dimensions.
+These various parameters fall under the following roups:
+(a) All dirmmons and characteristics required to $ e~e the body
+es a geometrical
+and as a hyaical entity.
+(b) AII mechanical
+or i?ynamic charactarietica
+of the medium in
+which it moves.
+(c) The conditions
+of operation
+invohing
+primarily
+the wJocity
+rd~tiiyeb~t~een
+the body and the medium and between the body
+
+q
+
+These various charadaristica,
+or the vmiabks which represent the%
+felI, furthermore,
+into two classes which we may denote by a, b,
+c,. . .?,
+z.
+. .
+or parameters,
+t
+Thevanaksaijc,.
+. . denote characteristic
+the value of whic~ may be $&.itely
+e~resaed
+or-measured for any
+green body thus a geomeimcal
+dimenmon, a %loczty, the density or
+viscosity of’ a medium
+On the other hand, the vsriablm z, y, z.
+. . denote characteristics
+or parameters, the numerical measure of which can not be dire+ly
+determined for an-y “ven case.
+ffuence of geometric ? orm independent
+‘Uch of
+‘&b&%n%?%$kh&%
+quality of surface, or of turbulence in the medium
+131
+
+i
+
+132
+
+REPORT
+KAmONAL
+ADVISORy OMMITTEE F.OR AERONAUTICS.
+C
+
+Then the functional relation referre&to above maybe expressed in
+the form:
+F=f(alqc.
+. .)@(u, b, c,.
+. .Z; g, z,”,
+.).
+. (1)
+Where F~enotes a force reaction betwean the body and th~ surrounding medium (such as thrust on a pro elk) and~represents a known
+or determinable and $ an unlmown ?orm of function.
+The function ~, furthermo~:, contains variables z, y, z. . ... representing parametms or conchtions which .usmilly do not adut of numerit 5 evaluation. Iq any event, the numeral valuea are not determinable in any speafic case, and the form of the function itself is
+unknown.
+The value of this function for an specfic case is, therefore, wholly
+unknown and is not determinable { y any purely algebraic procem.
+It is, howev~, determinable for any specific case by experimental
+procedure. ThIs. plainly implies placing the body under o crating
+or functioning conditions, messurmg the actual force F A tig
+note of the v 3 uea of the parametas a, 7J, . . .
+c
+‘i71th these knowm,the numerical value of the fuction
+is directly
+found and thence that of+. This, let us say, is for a bo i y A. Sup~~ ~tien mother body B with d.iilerant values of the parameters
+, but for which we ma assume tho same numericaI
+v’d~e of ~. “ I~suc.h assumption is “ust” able, we may then find immel??
+diately the value of F for the bo dy B.
+The key to the whole procedure is the use of the same numerical
+value of @for A and for B. Under what conditions may this be done ?
+Awune that the functiom@ is made up of two functions expreesed
+in the form:
+. )43(WZ
+. . . ))
+L(+,(dc
+.
+Suppose furthe~ that 4, is a known function while 4, is unknown,
+as aLsothe numegcal values of z, y, z . . . Suppose further that
+for the two bodes A and B the parameters a, b, c . . . are so
+chosen that @l has the same numerical value for each; also that the
+conditions on which x, y, z . . . axe assumed to depend are the
+same mboth Aand Band henw. zy, ti- . . .“ whatever may be
+their actual vabs am assumed to be the same for ‘both A and 1?.
+Then under these coalitions it is cloar that @ will have the same
+value for both A and B and a value determined experimentally for A
+ma be used for B or tice versa.
+~he conditions for a relation of tJ& charact~ we, therefore, the
+q
+
+.
+
+followin
+:
+(1) T~e existence
+of. a fuuoticm 41 and involving
+measurable
+parameters such as a eometricd
+dimensio?, velocity, density, viscosity, coeilicient
+of e f aeticity, etc., and With numencal
+valuea so
+cdmsen that the numerical value of 4, will be the same for both~ andl?.
+(2) The sssum tion of equal values for A and B of parameters
+
+~ased upon equal conditions or characteristics the
+?,,
+Z...
+d uence of which they are assumed ‘to measure. Thus if x be
+assumed to relate to the influence of the material, texture, or quality
+of the surface, then if both. bodies are given, ~ nearly as may be
+surfaces of the s~e .ma~rud, textme, or uahty, we assume cqu al
+la
+valuea ~f z. Aga.m ti y 1s assumed to re te to the influence of
+geo~etrlcal form as such Wd independent of absolute dimension,
+and If we make the geometrical form the same for both A and B, we
+awme equal values of y,
+
+.—
+
+REPORT NATIONAL
+
+ADVISO13YCIOMMITTER FOR AERONAUTICS.
+
+133
+
+Form as such may, of cuurse, be determined b geometrical
+%
+dimensiop. In detail, however, unless of some defina le ehar~ctirj
+s. form vnll r uire a vast (at the limit an i.niinite) number of &mensione for its 3 extermination. If, therefore, the forms of the bodies
+A and B were dissimilar, a vast number of geometrhal measures and
+dimensions would r uire to be included in the functions under consideration. Due to% is fact, no attempt has been made to deyelop
+or use any such functional relation except in the case of bochee or
+forms which exhibit some considerable degree of geodetical sipi.kwity
+and which permit of detition in terms. of a small number of congeometriwd
+trolling dimensions lus the characteristic invol*
+similar@.
+Thus sp%eres are defined by the diameter phs the
+characteristic of sphericity, cylinders by the diameter and the length
+plus the characteristic of a constant circular cross section.
+A@n with the assumption of com~lete geometrical similarity
+bodes are determined by a single dehng dimension plus the stated
+form.
+therefore, arise as to whether there is anypmuue~~%a$i%!?!~;
+influence of form as such may be related and
+pernntting the ssiumption that for J&p forms we ma assume equal
+valueg of y or, in other words, equal mfluexmeson d e vtdue of the
+function &
+If, then, these general conditions and assumptions are accepted,
+it is clear that between the two values of the force F for the two bodies
+A and B fmmtioning under suitably related sets of conditions, there
+will exist a determinable relatioq, and a value for A found experimentally may be used to determme the corresponding value for B,
+or vice
+
+t
+
+versa.
+
+From this analysis it wilI be clear that the justification of this
+general rocedure WW depend on the following:
+(1) &ether all the variables, pmametms and conditions u on
+which the force relation depends are, as a matter of fact, includ e% in
+thelist ofa,
+b,c.
+..z,
+g,z.
+..represented
+in the
+fornnda.
+(2) Whether, in point of fact, equality ‘of condition between the
+two bodies, such as quaIity of surface or eometrical form, is ~
+justification for assuming equal vaIue9 of the $ unction #a.
+The latter of these two conditions merits some further consideration. It rais= immediatdy the questions:
+Does geometrical form as such, and independent of absoluta
+dimension, constitute an independent
+detamimn g characteristic
+for
+force reIations such m tiose under present consideration?
+Does quality or material, or texture of surface (expressed usually
+in#ms
+of smoothness
+or ro
+huess), constitute
+an independmt
+rminin
+characteristic
+for T orce ? and in pmtictiar,
+to what
+extent is $ e assumption
+of
+eometrical
+form as an independent
+parameter inconsistent
+with 8 e assumption
+of equality
+of surface
+texture or smoothness?
+Regarding
+the latter point, it is clear that, carried to the Iimit
+necessary in order to include molecular or short range forces such
+as those responsible for the formation of fmrbuh+~e near the skin of
+a body movmg in a mobile medium, geometrical clarity
+and equal
+degrees of smoothness are mutually inconsistent.
+Geometrical
+smilarlty implies an increase of dimension in the irregularities
+consti-
+
+134
+
+R.El?oRTATIo~ALADVISORY
+~
+
+COMMITTEE FOE AERONAUTICS.
+
+tuting texture or roughness of surface. E ual degrew of roughness
+or like qualities of taxture in bodies of d erent over-all dimension
+implies a lack of geometrical similarity carried to the limit of surface
+texture.
+Again including forces of molecular order the question may arise
+as to the influence of the actual substance of the surface as between
+the two bodies A and B.
+It seems clear that no course of abst~ct reasonin can serve to -%
+defitiil
+dekmine the extant of inconsistency w “ch may be
+involve i in these considerations. It seems equally olear that we
+must admit that the assumption of equal values of @a resulting from
+is assumed to depend,
+similar qualities or conditions on which
+does not rest on an entirely rational foun $ ation; or otherwise that
+such assure tion can not be justified by abstract reasoning and the
+extent tow L “ch it may be justified must, therefore, be sought ultimately in actual expermuce.
+We &d further, in some casesj ‘fhaK it seems dwirable to omit
+the influence due to certain parameters
+especially
+in the a, b, c
+class.
+In suoh cases a in it is clear &at experience
+alone can
+furnish a guide .as to 8 e extent to whjch the assumptions above
+outlined can be safelv made and a “law of kinematic similitude usefull
+employed.
+“
+d ving in view then the general problem and remembering
+the
+uncertainty whether d the paramehrs of the a, b, c class are included,
+the need occasionally
+of definitely omitting some of them and the
+lack of a cum lete rational basis for assuming e uality in the numer“justification
+iml valuea o ? the & function, it is cIear that & e &al
+for the use of a law of kinematic similitude must be soug i tin actual
+ex erience rather than in abstract reas@ng.
+now more s ecfically
+to the screw
+ropeJler, the ohief
+kJ
+arameters on which
+e operatiort must depen $ may be listed as
+,0 11OWS
+:
+f
+of the propeller w a geometrical and phyeicaf body.
+dimenmon.
+1 The diameter or general de~
+2
+[1 The pitch of the helkoidaf surfwe emploYed forthe driving face, ThiE
+
+(a) @amcterietice
+
+may have two different modes of specification, tiz.:
+
+a The eingle value of the pitch if uniform.
+~
+\] The distribution of vduee if variable.
+(3) Th~Io~d of the contour bounding the bkide or heliccddal eurface em-
+
+4 The area ;f the blade on the drivin face.
+or
+lade. This may have two wodea
+05 The cmee.eection thiclmm of the‘%
+of speufication, viz.:
+a A.rw of crcmeectioneand tbefr distribution radially.
+b
+\] Formaof croeesectiom.
+
+.
+
+(6) The orm and dimensions of the hub or central body carrying the
+bla.dee.
+
+(b)
+The
+
+7 The characterand ffnieh of the bIade surface.
+8 The density of the bIade material.
+9
+of elasticity of the blade material.
+H The c~fliaent
+charactwietk% of the medium.
+(10 Deneit.
+H Viicofnty.
+12 timpr&bility
+(vekit
+of .%xuId).
+M Character and extent o{ turbulence
+[1
+
+or departure
+
+conditions,
+
+<e) The characterieticeof o ration.
+4 Spied of tramE“
+tion or speed of advance.
+15 speed of rotation.
+r]
+
+homogeneous
+
+h
+
+.
+
+BEPOET! NATIONAL
+
+ADVISORY COMMITTEE FOR AEEONAUmCS.
+
+135
+
+Characteristic (12) is most conv@entl
+represented by the velocity
+of sound in the medium which, as ISw d lmown, is jointly dependent
+on the density and on the cc@iicient of elasticity.
+too far into det@ some fifteen variWe have thus, without go
+abkw or conditions any one Y which may ~m
+o
+an importsnt influence on the rwu~ts realized from the propeller.
+These various parameter, fall@ in part m the a, b, c class and in
+part in the?,
+z class we in any case far too numerous to ermit
+of the practlca ii e development of a functional relation of the c\ aracter contem lated. 11~
+however, we assume full geometrical similarity
+3
+then a singe cnntro
+dimension, such as diameter or pitch, @s
+the assumed geometric form, serves to completely define a gin-en
+?
+pro eller, in geometrical form.
+1, 7, 8, 9, 10, 11, l?,
++ e are, therefore, reduced to characterize
+13, 14, 15 plu9 form. Of these 1, 8, 9, 10, 11, 12, 14, 16 belong m
+;h~l~ab, c class of parameter and 7, 13 plus form belorg m the z, y,
+In o~der, therefore, to determine our functional relation, we must
+assume like conditions rqgarding 7 and 13, and this with simh forms
+is then assumed to justify the assumption of
+USI values of the
+variables representing them in the function A. 3 this is indeed the
+case, we may omit x, y, z from the expression of the functional
+relation aud write
+~=~(abc.
+. .)#(@,
+(abc . . .))
+. . . . . (2)
+It only remains now to the development of the form of the
+functions~ snd #,.
+The theo
+of dimensional units, as is well known, furnishes the
+most gene3 method for the determination of such functions and
+functional relations.
+Let u9 assume the following notation:
+Dtinsfon.
+FtimJ3t3Dt),T. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3CL!iW
+
+L
+
+&tiqkb=;&=;~:::::::::::::::::::::::::::::::::::::::::::
+GefSaent
+ofeIestkityc&bladem aterial,E . . . . . . . . . . . . . . . . . . . . . . . . . . . . . XL-:<
+De&~of~A
+. . ...............................................
+Vku!c%ityof maqp
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Mik’1=
+L1’=1
+Vekityofeound
+inmediuq
+~ . . . . ..-. -.- . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+L~l
+Vekityofadl’ant%
+v . . . . . -------------------------------------------tioIutiom.
+N ... .. . . . .. .. . .. . . . .. . .. . .. . . .. .. .. .. .. . .. . .. . .. . . . .. . .. .
+l+
+Then,
+
+applying
+
+the theory
+
+of dimensional
+
+homogeneity:
+
+we reaclily
+
+fid
+
+We have now ti exiuuine the quantities eninto @ in order
+to determine the conditions under which this function maybe given
+the ssme value for two diiferent pro ellem. Obviously, to this end
+the five functions DiY/ V, p/D VA, #E MW,,
+andAJd
+must have
+the same mluee for each pro eller.
+The first conditions
+m~yfd311ed,
+implying as it does that the
+two propellers are operating under equal &p, or, otherwise, that the
+1Sw BucHnghaq ‘f Tramsctiom AmscI= Sod@ of Woh6nical En@neers” 1916.
+
+—
+
+—
+
+136
+
+REPORT NATIONAL ADVISORY CO*~EE
+
+FOR &EROITAUTICS.
+
+ratio between the circumferential
+velocity at the tip of the blade and
+the speed of advance is t+.e same in.each case.
+With the second functlonl assummg each ropdfler working in air,
+we shtiave
+the kiuematm viscosity ~/A & e same (except as the
+value may be modified by difference in ressure change in the air
+while passing through the propellers).
+1’ hen the remain@
+term
+imply equal values of the product 11~, or velocity varying inversel
+with the diameter.
+This is not an easy condition
+to be fulfill J ,
+since it calls for ve~ high values of ~ mth reduced va.hma of ~.
+A sin, if the medmm is air for each propeHer, the value of U will
+be t e same @ each case (exce t again as the characteris~ics of we
+
+~$~~F~~””~d$r~~~:~*~~~~~$ same m the two cases.
+that t ~e ratio /V may be the
+With the fotith
+and iifth functions, assuming air as the medium
+ineach case, & wiJl be the same, and hence Al the demity of the blade
+material must also be the same.
+Then unless the values of E widely
+differ in their relation to d,, it will follow that ~2 and ~ must be the
+same or nearly the same for the two forms ~ and ~.
+The introduction
+of these characteristics
+of the blade material
+1? and Al. implies the consideration of some degree of distortion anJ
+
+hence change of form. The assumption of geometrical similarity
+in the two propalkm impIies either no distortion under load or distor.
+tion to like degree so that when under load the two forms will still be
+eometrically simihr. Taking into account centrifugal force in prof uc@ tension at an given cross section of the blade, the forces acting
+at~f t an$ es to $. e radius in producing. bending stress aud centrifug force m mochfymg such bending stress, it ma be shown that
+‘Eke geometrical forms undar load imply equal v J uw of the two
+functions E/Vdl and A,/A. That is, the conditions fore< ual vsluss
+of @in the two cases are also the conditions which imply & e geomek
+ricsl forms when distorted under load.
+The five conditions, therefore, substantially
+reduce themselves to
+the f ollowin :
+
+(1) .DN/?the
+
+same.
+
+.-
+
+4“
+.
+
+,:
+—
+
+(2) .DV the same.
+(3) V the same.
+(4) E/PA, the same.
+(5) AJA the same.
+Obviously conditions (l), (2), (3) m not independsrk. From any
+two the other must follow.
+Obviously the only way in which these ~ve conditions can be simulthe samti throughtaneously fulflled is by making D, N} V,”? ‘fid
+
+4
+
+out, and thus the two cases become ldentlcal.
+ln model experiments,
+however, we are onl
+interested in such
+cases as will permit the use of diflerent values o ? D, a small value.for
+the model and alar er value for the fdh.tzed
+form,
+If, thsn,~ is not t%e same, we mayhavethechoiceof
+simultaneously
+or
+and (5).
+meetin
+conditions (l), (2), and (5), (1), (3), (4),
+ConL&
+tion (2) would re tie for the model ve
+hi h values of V
+
+and would, therefore, be & cdt of realization. %%n “tions (1), (3),
+(4), and (5) require the same values of V/DN, of V, of DN, of E
+and of ~. These conditions may be met, up to the point at least o#
+the ability to produce, under experimental conditions, values of the
+
+—
+
+.
+,
+EEPOET NATIONAL
+
+ADVISORY 00M.MITTEE FOE AERONAUTICS.
+
+137
+
+wind-stream velocity V and of the product DN, equal to those met
+with in actual practice.
+The omission of condition (2) is furthermore, equivalent to neglect@U the influence of viscosity. IT&me the movemeut i9 so emwsaively
+turbulent as that about an air propeller, this seems permkaible without the danger of involving an error of sensible nmgnitude.
+ham
+event, in order to reach a practical solution of the problem
+we may” omit the influence of viscofity, and the law of comparison
+commonIy employed is then based on the remaining conditions (l),
+!3)., (4), ~d (5), mq~g
+for bofi model and fulkized propeller the
+following:
+(1) Jlqual
+
+v&Ies
+of the ratio
+V/ND.
+(2) Equal values of the wind speed V and hencq
+
+(3) Equal values of the roduct DN.
+(4) The same materiaI ?or both modeI and fulhize
+in any case equal vrdues of E and of Al.
+With this understanding equation (3) becomes
+
+propeller, or
+
+The form of equation (+t) is then equivalent to the asaum t.ion that
+under conditions giving constant va.ks of these functions, & e thrusts
+(or other like forces) on two propelks
+geometrically
+similar are
+related as the densitiw of the media, as the squares of the diameters
+and as the squares of thes
+eeds.
+The forms of equations (3 Y, (4) have been developed on the assumption that the force in question is any characteristic
+force such as
+thrust.
+The same general form and involving
+the same functions
+for the make up of P will obviously hold for any other force.
+Hence
+the tor ue, the effective work, the useful work and the efllcienc
+will
+aLso all % e expressible in terms of the same functions which ma z e up
+the functions Q. Hence the conditions for similarity with reference
+
+to work and efhiency are identical with those for a characteristic
+force such as thrust.
+In particular we shall have for useful work P. and efbctive work
+D
+
+But
+
+the
+
+relation
+
+2rDiV aud V may be readily thrown
+
+between
+
+into ~ and we may thus write
+
+P. =Dz V$a.
+Hence
+Efficiency=p -PJP.
+
+=:.
+
+T’his equation is equivalent
+to the assumption that two p~
+eliers
+fulfillin
+the conditions for equal vahws of the functions + TrJ have
+e ual e k ciencie9.
+% -rmrhnent indicatm that the influence of comm=ibilit~
+~d of
+blade’ distortion
+are on the whole small and ma?, in mfiy
+cases,
+
+:
+
+be neglected.
+With
+indicated by equation
+
+this further
+(3) we have
+
+depa@we
+
+from the conditions
+
+T=dDW@J ~
+()
+
+or
+
+as
+
+it is usually more convenient
+
+to write
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+(5)
+
+This giVSS but a S“ Ie condition, V/DN” the same implying equal
+sli s for model md f 3 sim propeller.
+&he equation in this form is then equivalent to the assumption
+that at e ual valuw of V/DN, or of ~e sfip, Jhe thrusts (or other
+like forces on two pro
+7
+are “a’ed
+the densitiee of the meK’em’ t e s UarCS ad”:’ diameters and M
+a, ss %mm~dy
+of the
+as
+the squares of the speeds. Also t&. at..equal valum of V/ND, or
+of the slip, the efficiencies will k~ equal.
+We have thus thieb factqm, msco@ty, compressibility and distortion the influence of wlu~, m.deti~mmmg the conditions of kinematio
+sim “iitude becomes of practical Importance. As we ha-re already
+seen, the &at of these camnot be rea~ included, while, to a de ee at
+~mt tie fier two can. C?SSES I often arose, however, wr en it
+WJ
+will ~e desired to extend t+e resulti of qmdel experiments tos
+eds
+other than those und~r wlu~h the expernmenti were made, an ~ t he
+extent to which error IS thus introduced becomes of interest.
+A considerable amoti
+of exp@mentd
+data tidicates
+that while
+the influence of these thqse factors IS rpeasurable under careffly
+controlled mrhtioqs
+md ~th -due care m mqwuremsnt,
+the aggegat.a
+error due b theu omlon
+~ ?ften no! ~ous,
+tmd.hate
+for man
+practical
+urposes the comhtions of snmhtude as mdicatcd in (5T
+
+will furnisi satisfactory results. . At-the same time it is undoubtedly
+true that, so far as ma be practicable, tho speeds should be the same
+for both model and f K -ame propmer thus uwludmg the influence of
+com reasibfit~ and distortion under ~oad.
+T%e law of kmomatic similitude, as actually applied, involves, therefore, the possibility of error under two heads:
+(a) Departure from the conditions needed to insure e ual values
+of the function 4 so far as dependent on the a, 3, c class o1 variables,
+and as discussed just above.
+0) Departure from the conditions needed to insure e ual values
+of the function tpso far as dependent on the z, y, z class o1 variables,
+and as discussed at an earlier poin$
+With these two possibilities in me-ivit will be appsrwd that in its
+practical application the law of kinematic similitude must rest its
+8UthOrnt and utility u orI actual experience. To thISend there are
+needed T
+urther carefuU! conducted ex er@ents on models and fuLly
+size fo~msj simdar geometrically, ani under com$tlow calculated
+to furmeh a somewhat more defimtt-measure of the tiuence of thwe
+various departures from the indicaiad conditions.
+With such relation established and expressed in koms of a series
+of factors or percentages, the use of the data derived from model
+experiments would be attended by in~eased cotidence as to reliabtity and general availabtit y for deagn purposes.
+
+PLATE.V1.
+
+1
+
+..
+
+PLATE V1l.
+
+PLATE
+
+VI II.
+
+PLATE IX:
+
+,
+
+.
+
+PLATE x
+
+PLATE
+
+Xl.
+
+PLATE Xl 1.
+
+I
+
+I
+
+PLATE
+
+X111.
+
+PLATE Xi V.
+
+b
+
+PLATE
+
+XV.
+
+PLATE XVI.
+
+PLATE Xvl 1.
+
+I
+I
+1
+
+PLATE XVI
+
+11,
+
+PLATE XIX.
+
+plATE
+
+XX.
+
+.
+
+PLATE
+
+XXI .
+
+NUtudi
+
+1=
+.........
+
+mm
+
+,IWXN3
+
+b
+
+,aooo
+mo
+.004
+
+0EN61TY-A
+
+400
+.0030
+mu
+i
+
+.09
+
+Jo
+
+.0020
+200
+
+&
+
+90
+
+.0015
+
++
+
+1
+
+.0010
+
+100
+
+\g
+
+.ooa9
+
+“-LOB
+L?o
+
+70
+
+1
+
+.0007
+.0006
+
+60
+
+60
+--t-
+
+p
+30
+
+\
+4/
+
+I00004
+
+40
+
+_-
+
+#
+
+NQ 1,,-5, AND 9.
+
+PROPELLERS
+
+~
+
+2
+
+3
+1“
+
+I
+
+I
+
+I
+
+t
+
+Iii,
+
+4
+
+,111,
+
+ND
+.s
+
+a
+
+,li,lfl,lflli,,,ll
+
+50
+
+60
+XXI 1.
+
+9s
+
+1.0
+
+I
+?0
+
+VEW3W - MILES PER HOUR.
+PLATE
+
+7
+
+.6
+
+80
+
+90
+
+100
+
+no
+
+PIII
+
+120 160 140 1S0 160
+
+/’ $0
+
+$
+!
+
+Soon
+
+.0040
+
+OEN$ITY-A
+
+400
+
+,0030
+
+WQ
+
+,0020
+
+200
+
+.0015
+
+~,
+
+“ .0010
+
+JoO,+
+
+.00*
+
+“w
+
+;ooo&
+
+80
+
+.0007
+
+70
+“,0006
+h.’
+
+‘\.
+
+{
+dooo5 *
+
+m
+
+:@”
+
+\
+
+boow
+
+40
+
+\
+
+\.—
+
++
+AN
+
+\lo
+
+NQ e 6, AND 10.
+
+PROPELLERS
+
+R
+Myti
+
+——-
+
+J!
+
+30
+
+:
+
+8
+
+3
+
+,2
+1. I I
+l“’’’’’’’
+30
+
+4
+
+~
+ND
+
+J’I’j’’’’
+40
+
+J’’’’I’’’j’’’
+~ELOCITY-&LES
+
+XXI I I
+
+.6
+
+.7
+
+,8
+
+- .9
+
+1.0
+1
+
+1111
+
+I I I l.1111111111~1
+
+I
+
+PLATE
+
+,5
+
+*’l’””’
+Pi?? H
+
+110 120
+
+11111
+Wo
+
+w
+
+m
+
+1~
+
+,E
+,
+
+Im
+
+.WoO
+
+300
+
+.04
+
+4)5
+
+,0040
+
+A
+.0030
+
+i
+
+$
+!.
+
+.Ocwo
+
+mo
+
+m
+
+DUWITWA
+
+4@
+
+mo
+
+.06
+
+90
+
+,09
+,10
+
+%
+
+d-
+
+3
+
+.0015
+
+,6010
+
+100
+
+.0009
+
+90
+
+.Oma
+
+80
+70
+
+f
+
+60
+
+“\\
+
+‘\
+\
+
+.0007
+.0006
+
+\ll;
+
+.
+
+$
+
+LW05
+
+50
+40
+
+—
+PROPELLERS
+. . .
+
+I
+
+I
+
+1
+J
+
+o
+
+I
+
+1---11111111111111!
+1 .
+. 1 I lm-llll
+
+1 1. I1
+. . .
+
+J
+
+——..
+
+5, 7, AND IL
+
+.25
+
+.2
+J
+
+NQ
+
+4
+
+I
+
+0
+
+PLATE XXIV.
+
+r
+.1.
+111111111111
+
+E!
+
+A
+ND
+Jill
+
+.5
+11[1111[
+
+.6
+
+*; ‘b
+*
+
+.?
+
+.8
+
+.9
+
+Lo
+
+I
+“---J
+
+“\
+.04
+
+n.
+
+.fl@
+
+$
+.0040
+
+w’
+
+.0030
+
+.05
+
+60
+
+,06
+
+60
+*
+
+.0?
+
+800
+
+.0020
+
+/
+
+.Oa
+
+&
+
+80
+90
+
+.09
+,10
+
+i’o
+
+~--------
+
+%
+
+--..*%
+
+.al’o
+
+.0015
+~-.--- —----- ~
+
+w
+
+,0010
+100
+
+w
+
+.Oooe
+
+.Oooa
+
+i
+
+ao
+
+so
+
+\\
+
+\
+
+\\
+\
+\
+\
+\
+
+‘\
+\
+\
+\
+\
+\
+\
+
+.0@7
+
+1
+
+PO
+00
+
+o
+\
+
+,W
+
+.0005 2
+
+\
+
+‘8;
+
+\ ,,2
+
+,0004
+
+40
+
+“+
+PROPELLERS
+
+NL?4,8,
+
+AhfD
+
+—-.
+
+$
+
+--$iF
+A
+~
+J?
+
+b
+
+AD
+
+12.
+
+3
+1 I
+
+30
+
+I
+
+I
+
+4
+
+I 11111111
+I
+
+ND
+
+~
+
+1,,,,
+
+40
+
+50
+..
+
+PLATE
+
+XXV.
+
+.6
+
+.7
+
+s
+
+.9
+
+Lo
+
+Llmi2hf
+
+900
+
+1
+.0040
+
+DWiSiTY-A
+
+Ll(Mo
+
+ao
+
+.
+
+, (0
+
+,0020
+
+-ILL.
+
+-!-
+
+.
+
+.1,!7
+
+%
+
+’200
+
+,0015
+
+w .
+
+/0”
+#*
+//----
+
+;0010
+100.
+“90
+
+,000’9
+
+>.
+p“
+
+,006M
+
+t
+
+a
+
+,0007
+
+n)”
+
+-ooo&
+
+60. } ‘
+~
+
+J-
+
+,0005”
+
+.0004
+-40 :
+
+PROPELLERS 13,
+
+\
+
+$’
+~. _ ~
+
+“-’””
+
+~y”
+$“
+
+*
+
+‘f.l
+
+..2
+
+4
+1.1
+
+,’,’!+l,lll’il,l,l,ll
+
+50
+
+30
+PLATE XXVI.
+
+‘it)
+
+.3
+
+.6
+
+.7
+
+.8
+
+.9
+
+I*O
+1.111
+
+WI
+10!3 110 120 &?loMO 150 1*
+
+g
+
+. 15JO0
+
+E
+g
+
+‘o
+
+4
+“z
+
+-Io,ooo.
+
+4
+
+x
+
+.5000
+
+40
+
+.04
+
+500 —
+
+—.0040
+
+.05
+
+50
+
+i
+
+DENSITY-A
+
+4oo—
+.06
+
+—4030
+iwoy =
+
+.0?
+.00
+.09
+
+,
+—,0020
+2oo— :
+.
+—
+
+,10
+
+$
+70
+
+80
+
+90
+
+.0015
+
+{~”:::’’’’’..,,,,,,l
+~\
+
+0)
+
+100
+—
+90
+
+-
+
+60
+
+—toot o
+. ,0009
+
+\ ,’\ \
+‘\
+
+.0008
+
+$
+
+.Oow
+
+--i/
+
+J
+
+#---
+
+-4
+
+----
+
+—-----
+
+\
+
+\
+
+-k,
+
+‘\
+
+An
+
+18.
+
+22 “
+
+\
+
+\
+
+\
+
+\
+
+’14
+
+\
+\
+\
+
+\
+
+\
+
+\
+\ .-
+
+-w
+
+I
+\
+\
+
+22
+
+—*
+
+PROPELLERS N??M, 18,AND 22.
+
++7
+A
+
+—--“30,
+
+‘ 48
+
+y
+w
+
+.
+
+.2
+
+3
+I
+
+I
+30
+
+I
+
+I
+
+4
+
+‘D
+
+95
+
+.6
+
+.?
+
+.8
+
+9
+111111
+
+I 111111,1
+I
+50
+
+40
+PMTE
+
+XXVI 1.
+
+110
+
+1.0
+I
+
+.
+
+w
+
+.
+
+!
+
+S!
+#
+
+.
+
+‘n
+
+Ld
+
+4
+
+n
+
+‘!
+
+5?
+
+a
+.04
+
+m-
+
+R
+
+60
+
+.07
+
+70
+
+.(M3
+
+m
+
+80
+
+90
+
+.
+
+—
+~
+
+.
+
+50
+
+,09
+
+4a-
+
+*OS
+.06
+
+—,0040
+
+,0030
+
+ao.
+
+—,0020
+
+.10
+
+DENSITY-A
+
+i
+
+2oo:,0016
+.
+.
+-’
+
+~---
+
+-------
+
+-.
+
+“.
+
+\
+
+—.0010
+100-
+
+ao
+
+-
+
+.0009
+
+-
+
+.0003
+
+-
+
+.0007
+
+-
+
+90
+
+,0006
+
+m
+-\
+
+60
+— ,0005
+
+50.
+-
+
+\
+
+\’
+\
+
+I
+
+!9
+
+,Oow
+
+40
+
+PROPELLEj?S N!) 15.”19,
+AND 23,
+.
+
+j-y
+
+30
+.3
+I
+
+I
+30
+
+I
+
+I
+
+I 1,,
+I
+
+,
+
+‘
+
+4
+
+‘
+
+N
+5
+
+,5
+
+,6
+
+.7
+
+.8
+
+*9
+
+,1,,,,1,,,,1,,
+
+m
+LIJl
+I
+
+40
+PLATE
+
+50
+XXVI
+
+II.
+
+go
+
+110
+
+120
+
+130
+
+140 I
+
+I
+
+I
+
+-2
+
+- 15#ooo
+
+- Iaooo
+
+-
+
+5PO0
+
+500
+—
+
+.04
+1
+
+—.0040
+
+05
+
+.06
+
+,07
+
+I
+
+I
+
+I
+
+DENSITY-Q
+
+400 —
+
+3oo—
+
+‘
+
+—.0030
+:
+
+200 z
+
+.08
+
+—.0020
+— ,0015
+a \’
+
+1
+
+.‘:
+“6!4 ~.--”-~--------’-’~.
+
+‘“\ “’”
+
+\--
+
+- .
+—.00
+100 —
+
+.
+
+90
+
+10
+
+.0009
+,0008
+
+80
+.000?
+?0
+0006
+
+‘\
+
+60
+—
+
+\
+
+‘\ \
+
+.0005
+
+30 —
+
+,’
+
+\’
+
+‘\,
+
+.0004
+40
+
+NQ 16, 20, AND 24.
+
+PROPELLERS
+
+&
+
+,, AND
+
+\ 24
+————
+
+*
+
+,,.
+y,
+
+.3
+
+.2
+
+4
+
+I I I I Illldl,
+I
+
+30
+
+ND
+
+j;,l,ll
+
+lllllll,l
+
+I
+
+.6
+
+,5
+
+,8
+
+,?
+
+i,,,
+
+Lo
+
+.9
+Ill
+
+Ill
+
+1111
+Jill
+1111
+
+40
+
+50
+
+VELOCl~
+PLATE
+
+XXI
+
+X.
+
+60
+
+70
+
+MILES PER HOUR.
+
+80
+
+90
+
+100
+
+I10
+
+120
+
+130
+
+140
+
+150 160
+
+IA
+
+UI
+&
+u
+
+$
+
+m
+n
+
+mz
+I
+
+u
+g
+
+0-
+
+d
+
+o
+
+x
+
+.04
+
+5oo.05
+
+—.004(2
+400 —
+
+.Ob
+
+—.0050
+
+1
+40
+
+R
+
+50
+
+DEf@lti-A
+
+//
+
+.—
+
+.07
+
+300 — :
+.00
+.09
+2001
+
+.10
+
+—.0020
+-
+
+— Qols
+
+“aY
+
+—.0010
+
+loo—
+
+-
+
+90
+
+.0009
+.00013
+
+20
+
+-\\
+
+/---”
+
+\
+
+.0007
+
+?0
+
+v
+
+.Omb
+
+\
+
+,,
+
+/\.Q
+
+w
+— .0005
+
+“\
+j=
+
+.-
+
+go —
+
+“\
+
+R
+CINaD5
+
+.0004
+40
+
+PROPELLERS NQ 25,29, AND33.
+
+q
+
+-—-
+
+$
+
+t
+
+L
+w
+
+L
+
+#
+
+‘&cl
+$Q
+
+4
+AN D5
+
+~
+.2
+
+.3
+1..1
+
+I
+
+I
+
+I
+
+4
+
+‘D
+
+.5
+
+.6
+
+.?
+
+.8
+
+111111,11111,,111111111111
+I
+90
+
+ilLES
+PLATE XXX.
+
+P~R HOU%
+
+100
+
+Io
+
+.9
+
+“
+
+~o
+
+tip
+5
+
+i5
+
+v
+
+i;
+
+3
+
+~
+
+!2
+8
+
+Id
+
+i&E
+
+.04
+.06
+
+50
+
+70
+
+.08
+
+80
+
+.09
+
+qooo
+
+60
+
+.07
+
+.
+
+40
+
+.06
+
+‘.
+
+qoo
+— .0040
+
+, IQOO!2~
+
+it
+
+90
+
+.04
+
+,05
+
+.
+
+DENW’Y-A
+
+400
+.0030
+
+.06
+
+803
+
+i
+
+-1-
+
+-1-
+
+.10
+
+.0020
+
+200
+
+i
+
+-1
+
+—
+
+.0015
+
+—nolo
+100— _
+90
+
+.0009
+,0009
+
+80
+.0007
+70
+.0006
+60
+— .0005
+a,0004
+40
+
+PROPELLERS Nt!26,30, AND 34.
+—--
+
+,
+30
+
+,
+
+*
+
+&x
+*
+
+q
+
+2
+I
+
+1 I
+I
+
+30
+
+I
+
+I
+
+I I I I
+
+4
+I I I I 1,,,11,,
+
+NLI
+
+,5
+
+.?
+
+.6
+
+.8
+
+1,1,
+
+50
+
+VELOCII%LES
+PM7E
+
+XXX I .
+
+Lo
+
+Jill
+
+l“’’p’’’ ’’’’
+l ”1’’’l’’’~’’”l’
+40
+
+.9
+
+60
+
+PE~HOUR.
+
+1111
+90
+
+100
+
+I 10
+
+IEO 180 140 100 160
+
+1
+
+.04
++
+
+500
+
+.06
+
+to
+
+.07 _
++
+
+.0030
+500
+
+5)
+
+.06
+
+400
+
+/c
+i’
+
+-J
+
++
+
+.0040
+
+/6
+
+40
+
+1
+
+AID
+
+m
+
+.uO
+
+70
+
+A
+
+Af’
+
+I
+
+DENSITY-A
+
+$
+
+--3-
+
+.0020
+
+ao”
+
+E
+
+..0015
+
+L
+
+100
+—
+
+—.0010
+. ,0009
+
+90
+
+.0008
+
+80
+
+.000?
+
+70
+A(W6
+60
+— ,Ooos
+30
+.0004
+
+—*
+
+4’0
+
+PROPELLERS N9 2731, AND 35.
+.
+
+@
+
+50
+
+‘
+
+:
+
+-.
+
+—ANa
+-%?
+
+YE
+
+‘4$
+v
+
+x
+A!
+
+.3
+I
+
+I
+30
+
+I
+
+4
+
+I I 11,111111111,1,11
+
+.5
+
+.6
+
+.7
+
+~11,,111
+
+1.
+
+.0
+1111111
+I
+
+80
+
+o“
+
+PMTE XXXI
+
+‘D
+
+90
+
+100 110
+
+.9
+
+1.8
+lull
+
+I
+
+1
+
+Igooo
+
+Iqoog
+
+1
+5$loil
+
+500
+
+.0$
+
+i
+
+,05
+
+2--
+
+,0040
+
+400
+
+.06
+
+.07
+
+DENSITY-A
+
+L
+
+-J-
+
+—.0080
+isoo~
+
+I
+&
+
+q
+ICJ -%
+
+—,0020
+2oo—
+
+-
+
+“\e*
+
+— ,0015
+
+./-
+
+*’ .
+
+.Y
+100 —
+
+90
+60
+m
+60
+
+b
+
+’34
+
+‘v
+
+—,0010
+_ ,0009
+
+.0008
+.0007
+.0006
+
+.
+— .0005
+
+50 —
+..0004
+40
+
+PROPELLERS N!!28,32, AND 36.
+
+m
+
+J!&
+
+—-—
+
+$
+48
+OOQ
+w
+
+.2
+
+.3
+I
+
+I
+o
+
+I
+
+I
+
+I 1,1111,,111
+40
+
+PLATEXXX I I I.
+
+4
+
+#D
+
+q
+5
+
+.6
+
+.7
+
+.8
+
+.9
+
+111111!11
+Illlllyl
+
+~“o
+JIJll
+
+I
+110 J=o 130 Ho I
+
+w
+
+R
+DENSITY-A
+
+s
+
+Q
+
+.0020
+
+200
+
+!
+
+,0015
+Q
+
+,0010
+
+100
+90
+
+80
+
+/++-””—
+
+.0009
+m09
+
++
+
+\
+
+-’b
+
+//
+
+++
+
+/.--””
+
+>
+
+\\,
+
+*ooa?
+
+\
+
+70
+,0006
+
+\
+
+60
+— moos
+
+\A
+
+‘\
+\
+
+~
+
+50—
+
+\#j
+
+.ooo4-
+
++
+
+40
+
+PROPELLERS N!l 3741, AND 45.
+!-
+
+w ---
+
+$
+
+x d’+ D
+
+30
+.2
+
+.3
+I
+
+I
+30
+
+I
+
+1 I 1,,
+I
+
+4
+
+rD
+
+.5
+
+06
+
+d?
+
+a
+
+.9
+
+1.0
+
+, ,111,,1,,,,1,,,,
+0
+PLATE
+
+&m
+
+Xxxlv.
+
+90
+
+100
+
+lpl
+110 120 130 Ho 1s0 160
+
+I
+
+5pucL
+!!xlo
+
+.
+A’#
+
+7’
+
+.0040
+
+400
++-
+
+t
+I
+
+k
+
+.04
+I
+
+I
+
+x-v
+
+.W
+I
+
+,.
+
+ti6
+I
+
+.a7\
+I \
+
+00
+
+‘i
+
+‘E”’’”-’
+
+~
+
+#Oo30
+300
+
++
+-+
+
+3--
+
+.0020
+
+200
+
+-1
+
+//--
+
+,0015
+%
+
+~/H
+
+m
+
+.
+
+—.0010
+100— _ .0009
+90
+,
+Oom
+&
+70
+
+142
+
+A-d
+-.---
+
+///
+
+—-’
+
+-..
+
+%
+
+/“””
+
+‘\
+\
+\.38
+
+!
+
+\
+
+‘\
+
+*
+
+\
+
+‘\
+\
+
+b2
+\
+
+\
+
+\
+
+\
+\
+
+.0006
+
+60
+
+so —
+
+\\
+\
+
+.0007
+
+— .0005
+
+‘\
+
+\
+
+\
+
+>
+
+0004
+
+~,
+
+40
+
+PROPELLERS NQ 38, 42. AND 46.
+
+1%
+
+@
+
+AN’D8
+
+m
+.2
+
+.3
+I
+
+I
+0
+
+I
+
+I
+
+I
+
+11,
+I
+
+,”,l
+
+u
+
+~D
+
+.5
+
+,1,,1,,,
+
+,6
+
+.7
+
+.8
+
+.9
+
+Lo
+JIII
+1111
+
+0
+
+110 IW 130140150
+160
+ELOCITY-%ILEEI P
+
+PLATEXXXV.
+
+~
+w
+
+‘lx
+
+Y
+.
+
+:b.1
+CL
+
+1
+.04
+
+40
++
+
+T
+
+400
+
+4
+
+,0040
+
+T-
+
+.06
+
+,0030
+
+DENSITY-A
+60
+
+,07
+.08
+
+*
+
+-3-
+
+m
+90
+
+,10
+
+.0020
+
+200
+
+70
+
+,09
+
+300
+
+$
+
+!
+
+.0015
+
+.
+
+.0010
+
+100
+90
+
+80
+w
+
+\
+/4/-———
+
+,0009
+
+\43
+
+--+-
+
+,0000
+
+1.0007
+
+.
+
+.0006
+
+60
+
+.0005
+
+50
+
+40
+
+J
+
+\47
+
+.%
+
+.
+
+.0004
+
+.
+w
+\.\
+
+30
+
+‘\
+
+.
+..
+
+~
+
+\ \’
+~oo
+w
+
+AND 4Z
+
+NQ 3$43,
+
+PROPELLERS
+
+.-— *
+—
+A
+
+.2
+
+.3
+
+I I I I
+I
+
+I
+
+I I
+
+I
+
+I
+
+I“’’I’’’’I’’’’
+
+50
+
+4
+I
+
+I I I
+
+1,,,1
+
+y
+ND
+111111
+
+,5
+
+‘.7
+
+.6
+1111
+
+,8
+
+.9
+
+111111 111[
+
+1,0
+1111
+
+J’”
+
+00
+
+40
+$ELOCITY-6iILES PE71iouR.
+
+PMTE XXXVI.
+
+90
+
+I(MJ 110 120
+
+130
+
+Iw
+140 160 160
+
+,
+
+.04
+
+40
+
+,05
+
+50
+
+.06
+
+60
+
+.07
+
+70
+
+500
+
+,0040
+400
+.0030
+300
+
+,00
+,09
+
+.0020
+
+’80
+90
+
+010 i
+
+200
+
+1
+
+.0015
+
+!
+
+k
+
+,0010
+
+100
+90
+m
+
+.0009
+,0008
+
+.0007
+
+70
+
+,0006
+
+60
+
+,0005
+
+50
+
+,Oow
+
+40
+.
+30
+
+-1
+
+PROPELLERS N!?40,44,
+
+PLATE
+
+XXXVI
+
+1.
+
+AND 48.
+
+‘\
+

@@ -1,0 +1,916 @@
+1
+
+.
+
+...
+
+5EWNICAL NcY1’!Es.
+
+-.
+
+I%. 9.
+
+—
+
+,
+
+.
+.
+.
+1
+
+.
+
+.
+
+.
+
+,,
+.
+
+,
+
+Translated
+from
+
+the
+
+German and abstracted
+
+.
+
+by
+i?.
+h&gtxdis,
+Aerodynamical xper%,
+E
+A.
+Par$s Office,I!U.C.
+
+.
+
+.
+
+July, 1920.
+.
+.
+
+ZWX)RYOF LIFTINGSURFACES
+By L. Prandtl.
+PART 1.
+
+RESUME
+A. GENERALBASES OF THE TEEORY.
+The prcbleinf the flow of a flui~ about a liftingsufaoe
+o
+of infinitespan was solvedsome time ago for certainof theseprofiles by takingas a basisfor the det8ZTXIiI%3tiOZI lift the fo~of
+lowingformulaof Kutta-Joukow$ki:
+A=~V]~
+where A is the lift,V the velocityof the fluid to infi~itude,
+1
+the span,and /_
+
+the CSRCULATIONOFTHE VEWOITY,
+
+‘lhis
+way of examiningthe problemnecessarily assumes the
+existenceof a polytropic
+funotionof the speedpotential. But if we
+wish to treat the problemof
+
+the
+
+permanentflow of a fluid about a
+
+surfaceof fixed spari,e must admit the existezmeof vortexesin
+w
+the ourrent. As smatter of faot, accordingto the theoryof Stokes,
+the circulation
+along a olosedcontourmoving in a fluid remains
+constant. Now, if a closedoontoursurrounding
+awing leavesit by
+slippingalong the wing itself,the circulation
+alongthis co~to~s
+which had a certainvalue so long as the contoursurrounded
+tie ti~)
+must b8 nullified;
+therefore
+this contourmuet cut VOR’ZEXINES.
+L
+
+,.
+
+The existenoe vortexesin a NW-VISCOUS fluid eeems to
+of
+be in contradiotioza the laws of LagrXe
+with
+
+and Helmholtz. Wt,
+
+as the authorhas shovmina work on IWloti f FluIds in the case of
+o
+a very slightFrictioa,” must considerthe problemof the flow of
+we
+
+-
+
+-3NOX-VWQUS f~tida aiong solidtmdtesas ~hg lim%tof flow of a very
+fluid. Zn this”
+&e
+
+slightiyViSOOUS
+along a
+
+line
+
+the fiuid leavesthe
+
+body
+
+calledthe LINE OF SEPARATION,
+fmming the generation
+
+of a SURFACEOF SCISSIONsuoh that the speedsare not the sane on
+both sides of
+
+the
+
+surfaoe,
+thus forming
+
+a varticallayer.
+
+The olassical
+hydrodynamics perfectfluidsmust thereof
+.
+fore be completed the fo~lowingaxiomsad ocmollaries:
+by
+ioal layersmay take theirri6s at linesof separation.
+AXIOM 1. Vort
+AXIOM II. Along the sharpedges of a body, infinitespeedscan
+only occw
+<
+
+exoep+ionally.
+
+to
+COROLLARY1. In any body, the edgesperpendioulsr the direetion
+of the currentare alwayslinesof separaten and
+i
+are therefore
+the Cawes of the formationof a vor*ical L~er.
+00R0ZLARYH.
+
+The intensity the wmtexas
+gf
+
+in the vortioal
+
+l~er
+
+is suoh that the veloo%tyalong the edge has a constant
+value, or suoh that t& tendencyof the veloeit ies
+to ass=
+far *
+
+infhite
+
+in
+wsl.ues this plaoe is limitedas
+
+possible.
+
+The dsbarmination f the veloeit~es
+o
+due to a certainsys.
+tsm of vortexes
+m~ be siu@ified by assumiqg,in plaoe of the body,
+‘ATTACEEDW
+VORTEXES)the aet
+ion o“f
+wihioh suoh that
+is
+maZns the same as when the body is present,~
+the
+
+the
+
+flow re-
+
+$g then determining
+
+form of the correspondingody.
+b
+The relationsof Euler may then be maintained oondition
+on
+
+of replaoingthe forces actingon the body by a systemef forces
+.
+.
+
+act ing
+
+in the fluid.
+!lhe condition
+of oorkinuity
+
+wan also
+
+be maintained.
+
+4!Uls
+Conditions the limitsmde~sitakhg the co~noidence
+at
+of the normalto the speedwith
+
+iibird
+
+the
+
+to the surfaceof the
+
+body allowsof determining
+the form of the body.
+B. GENERALTEEUIIY F PERMANENT
+O
+mow.
+In an infinite,
+homogeneous,
+and incompressiblekid,
+f
+flowingalongan ensembleof wings sad formingonly one vertical
+layer behindeach wing,, m&
+m
+
+mite for each point of the fluid
+
+the equationof 3ernouilli:
+~4p
+
+=PO+%%PG+
+
+where V and E. are the velocity@
+
+W.;.
+
+.
+
+.
+
+Q)
+
+pressureof the fluid at infin-
+
+itude,and v and p the velocityand pressureof
+
+the
+
+fluid at the
+
+point considered.
+If we introduoe
+the vectorialrwtationsof Gibbs, so that
+the vectorsare designated heavy characters,
+by
+and in which a.b.
+indioates
+the productof scalarvalues,a x b the productof the
+vectors,
+
+Euler’sequationbecomes:
+
+p“~”vv+vdnq=ik “
+,,.
+
+(2)
+
+where k is the force aotingon the unit of volune of the fluid W
+is dw to the systemof wings considered. We know that
+v.
+
+and
+
+that,
+
+t= consecpenoe
+
++v=grtid$-+rotvxv
+of
+
+eqyation(11
+
+Consequently
+k.
+
+~rotvxv
+
+(3)
+
+-5is dti to the attachedvor~e.xas t>
+scd
+
+The speedof ro?iat ion v
+
+the free vortexee;therefore
+..t
+
+v=y+c
+
+(4)
+
+The k forcesdependonly on the attachedvortexes ~
+
+whilstthe
+
+~ove~nt of the ~ vortexesis not governedby ex~r~’ for~~s .
+t
+,l!heelation(3) ie thus dividedinto the twu followi~ relations:
+r
+(5)
+(Sa!
+
+~(~xv)=k
+fxv=o
+sentsthe law of Kutta-Jowowskifor the wit of
+The first repri?
+VOIW.
+
+me SOCOti show that the lines of vorte~s ae i~ntical
+
+with the fluid screw. The resultantof the forces
+wings on the fluid in a liftingspaoe R
+
+The speed v
+
+exerted
+
+by the
+
+is:
+
+is composedof the speed of the fluid at infinitude
+V
+
+end the speed v0 due to the vortexes ~
+
++ f
+
+and which,by the
+
+‘
+formulaof Biot-Savsrt
+is
+
+JYJ
+
+v =V+V*=V+
+
+(7
+
++E)xr
+4Trr3
+
+(lo)
+#i.
++p
+
+J-y”‘-J/j!
+
+x (
+
+(y’+-’?’
+47Tr3
+
+)X
+
+s~
+
+dr
+
+dr’
+
+,
+
+where the valuesaccompanied the msrx”* refer to the integration
+by
+of the expression(9) in spacefilled with vortexes. In the case
+where all the attachedvortexesare parallel,
+“
+
+(11)
+.
+
+-6In order t. simp~ify, is
+it
+
+ttsefui
+to &onei&r
+
+a ‘liftingstrewn
+
+coi’wides
+with the vortexlines of
+havinga section F -oneof which’
+the 7
+
+field.
+
+“
+
+,
+
+We heve then:
+d~
+
+=’dl?.ds
+
+amd“wemay-write,r9plachg v
+
+by its mean value v
+
+in
+
+section F
+
+which”
+constitutes ge:~eralization the law of Kutta-Joukowekior
+a
+of
+f
+.
+a liftingscr8”w.
+The foraa.ticin a systemof vortexasbehindthe liftingsurof
+
+.
+
+faces has the effectof leavingin the fluid a certainquant%tyof
+kineticenergy,correspondingor a unit of volurs to t~ stressof
+f
+.-
+
+the force K
+k
+,.
+
+equal to
+
+. v = -k
+
++7
+. ~o”
+
+xv
+
+. v-p.
+
+~xv.
+
+v”
+
+The totalpower expendedin consequence the totalresistance w, 5s
+of
+K..
+
+V=W
+
+.
+
+v.v”d~=
+<13)
+
+When the lift
+ing vortexesare parallelwe can negle the influence
+et
+of
+~ on v. we then hava:
+
+c.
+
+SIMPLIFICATIONS
+REQUIRED.
+Since in the actual state of mathematicsit @ impossible
+to
+
+fizxl rigorously
+a
+correctsQlut
+iofi the above relations,
+of
+certain
+,
+simpl
+ificat ons ara naces
+i
+ssry. Thaee consistin assumingthat the
+
+force exekted&
+
+the air is very slight,and An retainingonly the
+
+lowestterms in the reZations.
+Thus, in all expressioxm
+co~taining
+the sun of V+ v*, the
+teamv”
+
+will
+
+nat
+
+be
+
+considered. We shallalso suppressthe second
+
+but, on the oontrary,
+will keep thtb
+.
+term in the expression the resistance l?,
+of
+where it preponderates.
+term of the resultant K
+
+in (10)
+
+Another simplificationonsistsinasmming
+c
+
+for
+
+each wing
+
+one singlevortex-sorew
+passingthroughthe c-eatersf gravity of the
+o
+
+differentsections,
+
+the
+
+intensity which ineaoh sectionis equal
+of
+
+to the circulation the seotion.
+in
+Thus, if we admit a singleliftingscrewperpendicular
+to
+the speedV (non-staggered
+monoplane),
+we
+
+shall
+
+obtain
+
+for this case
+
+the following
+relations:
+w(x)
+.
+
+..= ;. *
+.,
+
+(14)
+
+(15)
+
+r?
+whOrO w
+
+is the componentof the speed V* followiugthe normal to the
+
+speed V aad the span of the wing is comprised betweenx = a and x = b.
+These formulasonly hold good when w
+to V; now this involvesthe annullingof~
+
+is smallia relation
+
+at the extremities
+of
+
+the liftingscrew,for otherwisethe epeed’w
+
+would be in inverse
+
+-8propQstioa the disknoe of th6 point considered the tz~ of the
+to
+at
+ti.ng,
+and this i8 not so in faot.
+~ we furtherasm
+
+that the l~t is oonstantalong the
+
+greaterpart of the wing ami diminishes
+raptdlyto zero poiat at the
+tips,
+
+the vortexese.tthe tip of eaoh wing msY be replaoed IW a sin-
+
+gle vortex-screw.
+AU the :irst works of the authorwere based on this consideration tlmee’vartex-screws. his nottonmay be successful.~y
+of
+T
+employedin examiningthe Intsrac%%oz a syetemof wings.
+of
+D. APPLICATIONS A SINGIEWING.
+TO
+
+*
+
+Threeproblemsmay be solved bymesns of
+
+the
+
+considerations
+
+1
+
+ezposedabove:
+1st, Given the distribution
+we~l as ~
+
+apd V~ it is reqyiredto determi~ ths configuz-at~on
+
+and resistance the wing.
+of
+2nd. To determine
+for a given ti.ng
+the resistance
+and the
+q
+
+distribution lift.
+of
+3rd. Given ths total lift, the span,~
+
+h
+@red
+
+and V, it is re-
+
+to determinethe distribution lift affordingthe least
+of
+
+resistance.
+As regardsthe firet two oases,if we know the relation
+
+existingbetweenthe lift
+
+and the angleof attaok of a wing, we ean
+
+at presentonly determinethe angle of attaok required for B given
+chord,&
+
+inversely,
+the chordr8&ired for a given angle of attaok.
+As amattez of fact we rmy assume that,for the lif% of an
+
+.
+,
+
+elementof a wing of finite spsn to be the same as tkt of en element
+cf a whlg of Snfinitaspan attaobd at an angle d{ , the formerel-
+
+.
+
+sment
+
+must
+
+havd
+
+an angle
+
+c“
+
+of at%ark
+= K:
+
+(17)
+
+-tarctgWjv
+
+The authorgives x exampleof the solutionof the first
+two problemsfor a wing of infinitespan where the lift is a rscurririg
+furvstionf the section. A Fowie:
+o
+terms in the form ~
+
+=7
+
+serialdevalopmet gives
+n
+
+cos/cL x. We then have (expression
+14)
+&/
+
+v?=
+
+—
+
+4
+
+= iTtGl ~ where t
+~
+
+and if we as$ume ~
+
+is the chord of the wing,
+
+ooeff
+icientwhich, accordingto Mises
+
+.
+
+E,
+
+is
+
+eqpal
+
+to
+
+“weobtain
+
+.“
+
+K=c
+
+++”
+
+‘a’
+
+1+
+(
+
+,
+
+and the reeistance W
+
+for a given span 1
+
+w.
+
+Fw%L
+
+(20)
+
+8
+
+The inverseproblemwill be solvedby givinga Fourierserial development the given funct
+to
+ion:~
+
+= f (x) and by determining
+
+for
+
+each term of thls seriesthe correspondingaluesof ~
+v
+
+of
+
+,
+
+~
+
+‘ and
+
+, and then takingtheirsun in order to obtainthe values of
+
+total lift and resistance.
+A more impor%ant
+exanplerefers to a singlewing of finite
+span for which
+
+The application formulas14, 15, and 16 gives:
+of
+A=
+.
+.
+
+~
+
+,5 bV (~o+
+
+~
+*
+
+t &+...)8
+
+(~la)
+
+.
+
+‘
+
+-10-
+
++
+
++
+
+.*.
+
+(23a)
+
+Theseforrnulasnableus te deal with the problemof min$mua
+e
+*
+
+resistance
+for a given lift;we srriviat the conclusion
+that the
+
+“
+
+distribution lift along the sp& must, in this case, take an ellipof
+tical
+
+form and that th6 speed w
+
+is then Constmt : % have
+
+w .~
+Rp
+
+(24)
+
+@
+
+(25)
+The plane form of the wing shouldoonsistof two demiellipsesjoine& cm the 2ine of thei~main tie equal to the span.
+For such wings we Cm
+
+thus
+
+bring out the influence t~
+of
+
+Aspe ot Rat io; in fact, we have
+
+(26)
+where Ca = A/@, q = P+
+—
+2’
+
+F
+
+ts the surfaaeof the wing.
+
+The actualresist~oe 1? of a wing is equalto ths sw of i-he
+INDUCED RESISTANCE W1
+
+and the PROFI.IEESISTANCE Wo.
+R
+
+.
+
+-11-
+
+The coefficients resistance
+of
+are respective~y:
+
+..
+
+c~. F
+
+where Cwi =
+
+~ ,b2
+?% csn thus pass from a wing fur $vhichwe know the aerodynamical characteristics
+for a given aspectratio,to the ssme wing
+having any aspect ratio whatever.
+q
+
+MM.
+
+Betz
+
+and I&uk,
+
+tha
+
+mthorqs
+
+collaborators,ave she=
+h
+
+&
+
+that
+
+the abovefoti~
+
+determining
+the influence the aspectratio,
+of
+
+MSY be qplied to all wings,&atever be theirphne form.
+
+lsna
+

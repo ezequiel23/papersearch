@@ -1,0 +1,1189 @@
+TECHNICAL NOTES
+NAT IONAL ADVISORY COMM
+ITTll'...E FOR AERONA
+UTICS.
+
+No.19.
+
+"
+
+THE STEADINESS FACTOR IN ,ENGINE SETS.
+
+By
+
+w
+.
+
+OIlBlICAT ONS S\,\OULO BE.
+
+REQUESTS fO 'v
+fOU,Ows:
+
+NATIO~Al. AD/lsuR" COMP"
+
+Marg oulis t Aerodynamical Expert,
+Pari s Office , N.A.C.A.
+
+~I)BRESSEO
+
+I1H.E fOR ~RONAi.Jl1C'i
+
+1124 t "TRW. fUN.,
+HI GlON 25. O.C.
+
+Dacer.1ber, 1920 .
+
+NATION.AL l..DVISORY CGrlmIT'!'EE FOR
+
+A1!!RO~~"ml'ICS .
+
+By
+
+w.
+
+Margoulis, Aerodynamical Expsl't,
+Par.is Office, N.A . C.A.
+
+The foll owing discussio~ o~ t he Steadiness Factor in Engine Sets
+was prepared by the Paris Office of the Natio~ Advisory Committee
+for AerO::l<'>.utics.
+
+§ 1.
+
+:g'ORMULA. OF THE STEADINESS FACTOR IN ENGINE SETS.
+
+In a paper * liOn t.te Flywheel Eff e cto of Aviatio:"! Engines, If
+1!l. Lecor::lu points out tha t tr.e usual method of determin:·u .g the steadiness factor cannot be applied to Gvi~tion engines coupled to & propeller because, in this case, the resisting tor~ue is a function of
+the angul&r speed of rotation, ~nd n ot of the angle of r otation of
+the cranksha.ft.
+
+For engine sets, the
+
+e~uation
+
+of motion,
+
+~cc urding
+
+to M. Lecornu
+
+is:
+(1)
+
+in whiGh I - is tne mcme~t of inertia of t he fly."v
+heel effect and propelleri
+GJ
+the angular spe ed of r otation;
+
+e Ce o
+
+the angle of r otation of the crankshaft;
+tb e torque of the
+
+~(U
+
+2
+
+e~gine
+
+on tbe
+
+cr~nkshaft
+
+tee resisting torque of tbe propeller.
+
+Integra ting formula (1) we ohta ir:..:
+
+_ 22(}. r e
+e
+
+I C/ /
+o
+
+c
+
+_ 2 Ze
+
+e
+
+--8
+
+2
+
+I
+
+dbl
+
+*See Transactions of the Aca.demie des SCiences, 1909.
+
+(brake
+
+tor~ue)
+
+- 2. -
+
+But in :our-stroke oulti-~ylindered engines. the brake torque
+may be r 9pr eaented with suf:icient approximation by the equation:
+
+Ce
+
+= Cme
+
++
+
+6
+C
+_ _-=e
+
+sin N 9
+
+2
+
+(3 )
+
+2
+
+in which Cme is the mean value of the brake torqUB;
+
+N
+
+the number of cylinders.
+
+e -
+
+angle of rotation of crankshsfts.
+
+Replacing Ce in formula (2) by i~s value taken frem fOl~ula (3)
+and integrating, M. Lecornu obtains as fo~ula of the Steaiiness
+:E'actor:
+
+r..J max
+
+-tJ min
+
+(4)
+
+=
+
+§ Z. - REDUCED MASS OF PARTS IN .OTION OF AVIATION ENGINES.
+(1)
+
+In the equation of motion/ ~ . Lec ornu has n~allowed f or the
+mass of the parts in moti on of the engine itself, such as pistons,
+conne ct~ng rods and crankshaft, whose mcments of inertia cannot be
+ignored. Nor has he t~en i~to acc o~t the variation of the brake
+torque as function of ~he variatio~ of the angul~r speed of rotation,
+nor of the resisting torque of the engine itself. *
+If the reduced mass of the engine parts in motion (that is, the
+mass of the parts reduced t c a peint distant fran t h e axis of t he engine by the ~it of length) were c onstant, the equation of moti on
+would be:
+(I +,;<4)
+
+w
+
+------------------------* In
+
+w
+_d__
+d B
+
+= C.1. - R w
+
+---------
+
+2
+
+(5)
+
+fact, the effective moment depends on the diagram of tbe pressures indica t ed and on the forces of inertia of the pistons and c onnecting rods, ',' !hicb are a function of t h e variation of the a:::lgular
+speed. To ~ete rmine th9 effectiv& moment we generally calculate the
+forces
+i~er~ia by assuming that the speed of rotation is constant
+and t b.at th ,) r a sisti:Jg engine torque is null; but tilis is cnly a
+first approxima ti 0n •
+
+0
+=
+
+•
+
+- 3 -
+
+in. whic.h 1: is, as before, the !D1.'m ent of ina.t"tja of the £ly wbeel ef-
+
+fect
+
+a~1d. 'pl' opeller
+
+is the redlced mass of the other engine parts in motion
+is t1:e tor \~y.a ilJdicated which does not depend. on the
+speed of the ~ng:i.ne
+is the resj.st;.ng torque of the engine and pre.peller; in
+p oint ()f fact , the resisti:ug eng ine torque may be expresl".ed. by the form-r'.J.o. a + b W 2 in which a is very
+small and. may be ignored. Moreover, if we take a intf.\
+account (which we must do in studying low speed regimes)
+the foU o',nng f O
+lmulas will not be modified, on condition that we a~~lt C. = C A - a *
+m~
+mJ.
+WE W.U,L EXAHlNE IN DETAIL l'E]; CONDITIONS REQUIRED FOR THE REDUCED
+
+MASS OJ? 'I'fIE PAR'l'S IN MC'rJON OF AN .AVIA'l'ION ENGINE TO ~IIAIN CONSTANT.
+We know that the mass of eugine parts in motion, reduced to the
+axis of a crank (/f. 1)' is expt'e ssed by the formula:
+v
+
+2
+
+(6)
+
+2
+w
+:i..n which
+
+Ma is t he reduced mass of the crankshaft
+M
+b
+
+t!l€ mass of a c onnecting
+
+~
+
+the mass of a piston
+
+v
+
+t he speed. of. the piston
+
+w
+
+the rim speed of the axis of a cran1:.pin
+
+In this exp~ession the term
+
+~ =
+
+(si::
+
+tv'Z
+
+e
+
+~od
+
+v2/w2
+
++ 2
+
+Z
+
+.
+
+has the value:
+
+SL~l
+
+2 w )'Z
+C)
+
+in which n is tbe ra~io of t.he r adius of the crap$pin to tLe length
+of the connecting :::ood, a x'atio wr.:i. cb. in what f ollows, we ase.ume
+equ"\J to 1/5.
+
+2
+De,l'el oplng the term v'Z/w in a Fourieris series, we obtain:
+1
+;;Z == 2 +
+
+v'Z
+
+* In the
+
+2
+
+Y}'Z
+ne
+1
+/'")
+!l Cos 3 e - !L COS 4{} ...
+8- -1_ 2' os e - Z ('.. os 2 u
+2
+8
+--------------------------------.-----------------------most usual case t~e equation of motion is
+(I +)-L ) u.J
+
+d W
+
+de
+
+= Ci - a - n u.J - .f v.J 2
+
+(7)
+
+-. 4 -
+
+To
+
+P-
+
+t~e
+
+exp~ess
+
+reduc ed
+
+m~ss
+
+we
+
+have there fore:
+(8)
+
+N + A)
+b (0.505
+I = Ma + l~ x 0.75 Mb + (If? + 0.25 M )
+
+in which
+A=
+
+L
+
+[~ CO"
+"t-
+
+2
+
+e
+
+-
+
+e
+
++ Cos ( f) +
+
+- 1. Cos 2{)
+
+nl?- {Cos
+
+Q COS
+
+2
+
+DC
+
+e
+
+-r
+
+n/2 { Cos 3 () + Cos,3
+
+e
+
++ 3 0::'
++
+
+{ Cos 2
+
+- n3 /8 {Cos 4
+
+G +
+
+C05 (49
+
+4e ..
+
+) + Cos ( .9 +2oC )+
+
+9 + Cos(2
+
+- liz
+
+2
+!L Cos
+8
+
+3B
+
+J=
+
+.... -}
+
++ CQ3(2 9 +
+
+40<:: )
+
+40<:· )
+
++
+
++ Cos(3 d
+
+2 0(
+
++
+
+6 0<: )
+
++
+
++
+
++ 80<
+
+Cos(4 8
+
++
+
+-,
+
+"'J
+
+... J
+... -J
+
+the crar~­
+is the angle made at tbe mcmcnt under consi i8rati on by
+wit~ ybe axis of
+pin of any cy11n der taken as ~ refere nce cylin der,
+the strok e
+tilis cy15.nd.er; ,q + c:c 5.s the same angle of tta c.ylinciv:cond.i tion of
+of which prece des that of th8 refere nce cylj.n der, the
+C'C = 4 7r IN.
+equal i ty of tne interv als betwe en t!l8 strok es requi ring
+~
+
+~~FressiQllS
+
+(8) and (9) show t~at the redu~ed masS is equal to
+
+incre asing
+a const~t plus the sum of 4 se~ies cf cosjn es of N arcs
+IN, 8 nlN, 16 71 IN,
+in a:c'i tbmet icaJ. ?l'ogr essi on -j.n the ratio of 4 7f
+by a certa in nUI!land 32 7f IN: e8.cil of these s8:r:ias be:i.ng muiG- lplied
+eri c~J. f nc tor _
+Now, we ~ow that these serie s are rrall or equal to N Cos
+accorc iing as t~e ratio
+N Cos 2 6t
+
+471
+is a fract ion or
+
+a
+
+2?7' ... _
+
+271 ,
+
+N
+
+t1 •
+
+whole number.
+
+We may there fore write :
+
+~ {Cos
+
+-
+
+e
+
+~. (cos
+
++ Cos (e + ~ ) + . _]
+
+2
+
+e
+
++ Cos (2
+
+e
+
+= 0,
+
+J
+
++ 20<:: ) + _..
+
+wr:.en
+
+e
+
+= 0,
+or
+
+n"
+- 2\Co S 38
+
+T
+
+'
+Cos (3 8
+
++3O C) + ..
+
+J
+
+=0
+or
+
+2 r.
+/)
+~ COB 40 -+ Cos (48 + 4 OC )
+? \..
+
+n
+-
+
++ '" )
+
+2 is a fracti on, or =
+N
+!?:N Cos
+2
+
+~
+
+when
+
+=-
+
+!
+
+is a fracb on,
+
+N Cos
+
+2
+
+6
+
+when
+
+N
+
+!!
+=- 2
+
+2
+
+C?
+
+is a fracti on,
+
+N Cos
+
+3B
+
+8 lS
+= 0 wh en - . a f rac t ion,
+
+or
+
+=
+
+N2
+
+g N Cos 4 t)
+8
+
+(9 )
+
+- 5 The maxtmum v~uea of e4ch of th~ series being i n C r _ti c uf
+bs
+1/ 10 t :) 1/2. tv l /lf) t:; 1/200, we Xlcl.Y i Dlore the fourth s e ri e s.
+t.1.US ~ari v .:3
+
+We
+
+s.t tbe follo·..iin5 c cnclusi on:
+
+TEE REDUCED MASS OF THE PBTS LJ ~vJCTION' OF AN AVIAT ION E'.~GINE
+IS CONS~ANT WIiE1I1 TH:d: NUMBER OF CYLINDERS, BEIN3- OFF, IS GEEATER TfLlI....'1
+3 ; .W D ALSO r.riEl~ T~fE NUw.BER OF CYLHTDERS IS FVEN" .Al'ro GREATER 'I'FL'.N o.
+
+E f ol l ows tha.t if thE::; nunfoer 0f cyl::':1dars is 5, 7, or up'::ar i s,
+oJf moti on (5)
+
+the e qllati on
+
+(I -r .u) c.J
+/~
+
+dr..J
+
+_l'u)Z
+
+=C.
+
+d c3
+
+l.
+
+(J.O)
+
+may be strictly appl i eQ .
+THE S'rEADD1l!:SS FACTOR :.fIAY THUS BE DETEaMIWID VJITH SCRUPULOUS
+:EXACTITUDE 6i thJ r b;\1 :llaking <:l. gr aph ical integr ation of t he expression:
+
+GJ2 =
+
+~
+
+-e a
+
+_G_ _
+
+I
+
+r
+IJ
+
+-2':' ,C)
+
+-2 ~e
+
+e
+
+r
+( 11 )
+
+o
+
+or by the apprcximate express:" on :
+
+(12)
+
+in which
+
+C~i
+
+is the merul t orque indica te
+
+AC. =C'( max ) -C. (mln ) ;
+l
+1 .
+
+L..-l::"
+
+I is the SUL 0f t~e ffiomen t of in0rtia of the staeri ng wh~el
+and propel1 3r plus the reduced mass; the value of t be latter
+is, as sb own a bove , for most aviation engines e qual to:
+
+P
+r
+
+=jJ-
+
+lr2
+
+=
+
+r2 {Ma + 0 .876 l'Jrvl b T 0.50 5
+
+being the radius of the
+
+We
+
+~ay
+
+m.~J
+
+c~~Fjn;
+
+r emark that in formula (12) of the
+
+Stea~i nc ss F~ct or,
+
+the
+
+values of Cnli and Ci ar3 obtai n ed dir e(;"t frem tbe d.iagrarn of iruiicated
+
+pr essure s, witr.o-u.t "tak1!..g :'nt r:
+must QO in det0rmini~g erne and
+
+~::;co-;mt
+~ Ceo
+
+t he for c e s 'Jf inertia as we
+
+- 6 C }/, =
+If we corupa l'e expre ssio.u s (4) and (12) we note th""t m
+are, by d.efin iti o!1.,
+GlLi/ I! , f ur :in beth Cases t nG velue s of
+be diff zr ent
+C
+mi ma~T
+propo rtj.on al tc the lLean torq'1. 6S, b\:.t that 6
+of.e diff er \;i th the mec:-;.-a.nical
+from .6 eC a nd t ile t t1.a val.-~es
+le
+effici e!1c,f of t..o o e:::gi::1e, tb~t 5.s, frem 5 to 107°-
+
+I?
+
+§
+
+3.
+
+AND OF ENGINES
+CONPA RI30], OF THE STE.:lDINESS FAC~OR OF ENGINE SETS
+E AS A FUJ:JCTION OF 11'm.: Sl?EED OF
+HAymG A S0}5T l:"N'f BRt..KE TORQ.U
+ROTA'I'10N'.
+
+Stead i1l8ss
+The hypo: ;besis usuaE y admi tt 3Q. in det8rm i. ing the
+resist ance. I will show thC".t in both C::l.ses
+Fact or is tba~ of c ons ~an~
+iness F qctor s, and
+the"l:'e is a very simpl e relati on bet vean the Stea-d
+diffe r ence betwe en
+thC!.t, gel-:e rally sT-3ak ing, tbere is no e.ppre cia·ol e
+the!l.
+
+*
+In the case of an engin e b a vi!1.g
+
+C , the
+mi
+
+I
+
+.
+
+brake torquo
+
+of motio n is:
+
+equatio~
+
+and as
+
+~ COllst~nt
+
+&J ~ uJ
+
+c.
+l.
+
+::; C. - C .
+
+d ()
+
+== C .
+ml.
+
+l.
+
+illl.
+
+Sin
+
++
+
+we obtair .. fer tha value of t he \::itead inGss
+
+w ~n_
+
+Ne
+2
+Fact~r:
+
+(13)
+
+2~Ci
+
+..lbstH uting in expre ssicn (12), a nd. inste""J. L"f
+On the other b anJ. by s v a lue of the Ste~J.i­
+-(/ wri ting its value cmil W 2, we obtain as the
+nesS Fact or when the resis ting t crque is varia ble
+
++
+
+(24)
+
+pr opcrti onal
+:F'Llal .ly, if an e ng ine tas a. r a sist-in g t orque orake
+t of i::1.erti a I
+to the squar e of the sp eed of r o t.atio n , but t h a rr,cmen
+itute a Llt/iIT
+of all t h e parts in moti on i5 Z8!' O, wh ich wo'.lld const
+·for the caS E; 'u.:c.del· c cnsid erat:' on, w ,;; s b.ould h avs:
+rv
+
+•
+
+=2
+
+-/6
+Cm~
+
+c,
+l.
+
+(15)
+
+the Stead iness
+Comp aring tbe expre ssion s (13), (14 ), ~nd (15) of
+h and rv we see t ~at :
+F~t ors : rc t
+who
+* This concl usion is not in agreem ent with that of W. Lec ornu,ng wheel
+the steeri
+says: "Form ula (4) by means of which we calcu late
+t o the ordir.ar~~
+of an cwiat ion engin e, bas no resan blanc e whate ver
+formu la. 1'1
+
+- 7
+J:'h
+
+(16)
+
+=
+
+that is, TOE S'I'EADINESS FACTOR OF AN ENGINE; SET IS EQUAL TO THE SQUARE
+ROOT OF THE Surf OF 'rEE SQU~;RES OF TEE STEtW.I::J.gSS FJ.CTOR OF THE SAME
+ENGINE HAVHiG A CONSTANT TCRQL'"E .AND OF TEE STElillINESS FACTOR OF THE
+Sfl..ME ENGINE S~T FOR ~mICH
+MO~ OF INERTIA OF AI,L TOE PARTS IN
+MOTION IS ZERO.
+
+'l'nE
+
+T~e
+
+Steadine~s Factor is t hus INCREASED by the fact of the v~i­
+of the resistiv~ torgue, whic~ was, moreover, e7id3nt a priori,
+since the propeller acts in the first ?lace as a ST~qlNG WHEEL OJ
+acc·;:nmt of its mass , ana. i::1 the second pla ce it functions as a. RE3ULATdR by causing variation in the resisting t orque. Further on we
+shall see, however, that the increase in "t.te Steadiness F::..ctcr is usu~lly negligible.
+
+~tion
+
+§
+
+4. - QUAN'I'ITJ-,TlVE DETL1MINATION OF TEE DITI'ERWT STEADINESS FACTORS.
+
+Fr om expressions (13)
+
+~~
+
+rv
+rc
+Now, if
+
+~~
+
+t:
+
+~~ich
+
+= 4-e
+
+=
+
+C
+:ne
+
+-~2
+-
+
+r.J
+
+(17)
+
+11"1
+
+neglect tee resisting
+/7
+
+in
+
+(15)
+
+tor~ua
+
+=
+
+of
+
+t~e ~~gine
+
+P
+ill
+
+LJ 3
+
+Pm is t he motive power of the engine.
+
+We know that for a pr opeller having a diameter D
+
+We have therefore:
+
+= f(V/r~)D5 = 0 .04
+
+(18)
+
+iZl which n is t he r _p. sec. and {] is the usual char acteristic c::>ef::icient of the pr op~ ller.
+On the other hand, if the engine has no steering wheel, as is the
+case with most aviation engines, and we c onsider a f~ily of propellers dif::ering only in pitch, we have approximately:
+
+(19)
+
+- 8 Substituting for ~
+
+(19)
+
+we
+
+and I in expression (17) their values (18) and
+
+have:
+4
+
+:(v/nn)
+K
+
+0 .15 /.J
+
+(20)
+
+R.:N'
+
+~J
+
+-Jaj./ ~er; .
+
+.a varies betwee n 0.C05 and 0.01 r.p. sec. m5
+I...J
+or: t he o t he:c band. , K fu!" "he usual two-blade prcpe~ .l.or = 0 . 003
+roass/ro3 ; therefore;
+Now, practicaJ.l j",
+
+er_
+
+e
+
+o .:::'67 to 0.534
+N
+
+Fer N
+
+= 4,
+
+l:v/rc
+
+E~uation
+
+= 0 . 065
+
+t o 0 . 130
+
+(16) may be ~T itten as foll ows:
+
+Frem t h is s tudy \ve may theref ore c onclude t bat:
+THE STE.ADI11ESS FACTOR OF THE ENGINE SETS USED I N PRACTI0M. Wo..'!iK MAY
+BE DETERUNED BY THE USUAL FORMT.-"LA Wrli CH ASSUMES A CONSr:'P-~T RES IS'J:lING
+TORQ,u:!:.
+
+§ 5 . - VARIATIONS OF THE STE!~DINESS
+
+3'AC'2:'OR FOR A GI~ ENGTh"'E.
+
+It i s useful to taka into a cc ount the vaTiatio~ of t~e St ea~ i­
+ness ~actor f or a given eL6ine as function of ~he all5~ar speed and
+of the power when the gas intake is vca-ied.
+
+We have demonstrated above
+r}:
+
+t~a t
+
+<..J 2 N . I
+
+=ra =
+
+2.6. Ci
+
+We may also 'admi t t hat
+.6 C1,'
+
+=
+
+a.
+
+'T
+
+(22)
+
+be .
+
+ml.
+
+Th er efore
+
+r }- =
+
+vJ3
+
+(23)
+
+which s hows that FOR A GIVEU E TGIl~ TEE STEADI1'ESS FACTOR DEPENDS O~lLY
+ON THE SPEED OF ROTATrON J.ND POWER.
+
+- 9 -
+
+As an example we ~ave laj doff (s ee Fig. 1), in tbe pleIls XY.
+t he grJup of characteristics at different gAs admissi ons of a radial
+type, 5 cyH~der engine, of 60 indica.ted horsepower at 1200 r .p.m.
+The r.p.m. are l a id off on the axis of X, the il.dicated powers on the
+axis of Y, and t h e values of rh on the axJs of Z.
+The fig1.U'e shoV'/ s that tbe Gteadinsss Factor is dlruinished when
+the number of r evoluti ons is red.uced and the power increa ses.
+
+Tne variation of the Steadiness F~ct or cf an engine set comp osed
+of the engine in q,uestion and a. propeller wouJ.d be determIned by plotting tbe prcpeller curves Pm
+f (n) in t~e plane XY f vr differ ent
+values cf V/ nD. Ii' the macila.nical efficiency p of tha e:'lg ine is
+admitted to be constant, these curves would be of th~ form:
+
+=
+
+The value of /.9 varies littl e f or a pr ope ller fitt ed on. a given
+airplane; it increase s slightly when the Epaed of tbe ?irplane decreases, as in a climb, for instan~e.
+Fig . 1 and formula (23) sbow ~ba t tbe Steadi ne ss F~ctor of an enm ou.~ted on an airplane decr e~ ses slightly w
+hen the incidence is
+increased without any change being made in t he gas i n take , and increases when intake increases) incidence r emaining c onstant.
+
+gina set
+
+§ 6. - MINIMUM SPEED OF ROTA
+TION.
+
+The minlinUD speed of rotation is of pra ctical imp orta~ce si~ce it
+determines the rnini~um thrust of t he propeller, both in a irplanes and
+ships.
+The minimum Steadiness Factor is equal to 1/2. since:
+0.5 uJ max
+ill
+
+r :::
+
+max:
+
+-W min
+
+= liz
+
+==
+max
+
+For engine sets used on airplanes, we can ignore the term rv
+and dotermine t ne Steadine ss F3ct?r by f ormula (23 ), substituting for
+Pmi its valua i n functi on of W dra.'N Il from formula. (24).
+
+Tne t erm rv c~ only be of practical importance if we wish to d etermine t he char .:::.cte ristics of a.n eng ine fi tted wi th a Rem.1ll'd fanbrake, the dete rruination to be made as fully as possible and at the
+various rates of gas intake. Under these conditions, and especially
+for low r a t e s of r ot a tion and a t f ti l intake , /.3 becomes very large
+and rv can no l onger 00 i gnored (see Formula 20 ).
+
+- 10 Fig. 2 gives the va1ues of r , r ~\nd.!'-rr as fu'(.ct:J.on of uJ and
+h
+of C . '" for a t~' ee cyli:wde;" eng~na g~Ving 30 HP at 12CO r.p.ro.
+(See
+Fig. IDZ, P * 12 . )
+We b.a.ve
+
+ig~1.0r9d
+
+2 . N ( 025 Mi:>
+
+!- ~1»
+
+the var:i..aticn of the re:.".'-'.ced !!lass, for the term
+of the t otul red.-ccGei :n\-1.~S.
+
+= o. '1%
+
+We b2,~f€ takfJn 5.I!.i;o accoU!.'.t t.he constant te:':n of the ras:i..st~.Dg
+eng.~~e
+
+tcnlue (sp-v'O .3).
+
+'l'he fonnulas elQplo~y&d foX' the Si,ep..c:.~.:tess
+
+Jfacto. s are:
+
+=
+
+NT
+
+(25)
+
+2
+
+a " bCrr.i
+
+(26)
+
+rh
+
+=
+
+r
+
+V
+
+2
+
+rc
+
+2
+
++ rv
+
+On the surface rh = f \D. , Cmj) we nave indicated the cur.Vcs AB cc..rr esponding to the coefficient r h = l/2.**
+
+Fig. 2 snows that it would be ei;:l.s:i.er to obtain low spaf3d.s of rota.tion wi tn a fan brake absorbing much po'Vsr, ana tne t in sud:. a ca.~e
+the term r 'y' is 'Of real importance i il INCB.E.A.SING 1'BE STEADINESS FAC'l'OR.
+
+------------------------------------------------*
+In this case it is lliore convenient to
+
+**
+
+US0
+
+Cmi
+
+~han
+
+P
+
+roi '
+
+Sp6<':C of rotu.ticn wO'aId be zsro o~ c on.ii tiD!:'. of employF..3:.<C..1.'ri farc
+-o).' a.k G wit:!:J. infj.Q;;.tely ::'al'ee hrake s1.V'fc:. r;es. Thls is
+e7;_de::,tly a l))~':l.t;til.,,"l impo%ibHi.r,Yj and b,"si.des, we a.\ 'S 210t well
+
+ine;
+
+T~e :ni.r;:.rm:m
+:~
+
+a(,~'lua 5 n-!;':l6, ~'ii th the
+
+of :co ~a ~io-o~
+
+t
+
+7aria.tion ul
+
+~.he
+
+eng;.ne tox'qlle inv-el'Y l ow speeds
+

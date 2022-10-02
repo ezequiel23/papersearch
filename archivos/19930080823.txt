@@ -1,0 +1,4918 @@
+I
+
+FILE COpy
+
+NO.
+
+/-w
+
+..
+c
+T~CHNICAL
+
+NATIONAL ADVISORY
+
+NOTES.
+
+CO~rnITTEE
+
+FOR AERONAUTICS.
+
+No. 31.
+
+CRIPPLING STRENGTH OF AXIALLY LOADED RODS.
+
+By
+Fr. Natalis.
+
+Translated from
+Technische Berichte, Volume III, No.6,
+by
+F. W. P aw 1 O\VS k i ,
+
+University of Michigan.
+
+To be r ltur/lcd to
+the filer. of the National
+Advisory Committoo
+for Aeronautics r
+
+Washington, D. C.
+October, 1931.
+
+NATIONAL ADVISORY COW1ITTEE FOR AERONAUTICS.
+TECnNICAL NOTE NO. 31.
+
+CRI?:21ING STIENGTE OT<' AX L\I LY
+
+~OAD E D
+
+RODS . ~'
+
+By
+
+Fr. N8.talis.
+
+Let:
+Pk = the 10aQ at the
+
+ti~e
+
+of crippling in kg.
+
+E
+
+= the lLodulus of elast iCity in kg/ cm 2
+
+F
+
+= the cross-aect ion of the rod in cm 2
+
+1
+
+= the length of the rod in cm
+
+J
+
+= t !" e moment
+
+i
+
+= f f t h e radius of gyrat ion of the c ros s -s e ct ion
+
+of inertia of the Cross-se at ion in cm4
+in cm)
+
+L
+
+i
+
+(J = i 2F) .
+
+= the slenderne ss rat io of tne rod.
+
+k
+
+=~
+F
+
+ko
+
+= the ultin:ate corlipressive stress of the material
+
+the mean unit co;:rroressive stress at the moment
+of cripplin~ in kg/cm 2
+in k g/ cm
+
+r,r > 1 the s afe-cy factor"
+P
+
+=
+
+the allowa"ole loaci in kg . ) (P k == n:P).
+
+According to Euler's formula,
+
+~.rve
+
+have :
+
+* Translated from Technische Berichte) Volume III) No. 6 ,
+217.
+
+pp .
+
+207 ..
+
+- :3 -
+
+1- > 105.
+
+These formulaE hold good only for slendern e ss rat los
+
+i
+
+However> a series of em;>irical formulas havo been c'.Gveloped for
+3
+l
+7"
+
+1
+
+< 105 .
+
+They govern, howe'ler, only a liIJ1itcci range of
+
+i
+i
+
+values,
+
+as fa r example , the formula of Tetmajer:
+
+l..
+
+k == ko [1 - a
+
+(~
+
++ b
+
+i
+
+<!
+
+,1 /
+
+J,
+
+fOr 10 <
+
+1<
+i
+
+105
+
+and the formula of Ostenfeld:
+125
+
+both of which give too large dimensions.
+
+Further, the formula of
+
+Schwarz - Rankine:
+.k ==
+
+~
+
+1 + a (~)
+1
+
+If in this formula we put
+
+(3)
+
+Z
+
+/
+
+a == ~ so that
+ffz E'
+
+ko 'kQ {-~ )2-
+
+k =
+
+1 + n~E
+
+t h en it covers the ent ire range of
+
+\ 1
+
+J
+
+L
+i
+
+0 to
+
+from
+
+t
+
+correct results fpr the extreme value of
+
+co ,
+
+== 0 and
+
+i
+
+and gives
+co,
+
+inasmuch
+
+as for cases in which
+l
+== 0
+i
+
+k -- ko
+
+and when
+l
+
+- == co • k ==
+i·
+as~n
+
+Euler's fornula, but
+
+~or
+
+112
+
+E
+
+.
+
+<!
+
+(1.
+\ r/ '
+
+the intelwediate values of
+
+l
+i
+
+it
+
+.;tves too large a factor of safety;. for ex.ample, for
+.
+
+- n;;;E
+. =~
+---k
+,
+0
+
+1.
+
+k~
+
+1
+
+l
+
+The value
+
+l.
+
+~ j nO E
+kq
+
+tion of the straight lines
+
+=
+
+2
+
+n E
+
+(i)
+
+ko
+
+has fa r too latex cans;'derat ;.an a spee-
+
+ial significance, fox it is the
+
+k
+
+= 0.5
+
+k
+
+or~inate
+
+= ka
+
+for the point of intersec-
+
+and the Euler's curve
+
+2
+
+it is therefore an. important unit of measUte for the slenderness
+
+with respect to the
+In the case of
+fonnula gives
+
+kJ
+
+mined. a value of
+
+~1= ·/~:~
+
+= 0.5
+
+ko)
+
+k 1 = ~ ko
+
+,
+
+ij~,
+
+of the material.
+
+for which the Schwarz-Rankine
+
+expe rimental investigations have deterfor both wood and steel.
+
+Table 1 contains the values of
+
+tr:;:-
+
+ko and E
+
+cn~raoteristic~
+
+.;
+
+a
+
+f~di:fjferent values of
+
+aCQording to Schwarz-Rankine and Euler'S formulas;
+Table 1.
+
+·
+
+.
+.
+
+1.25
+
+: 0 - 25: 0 • 50: O. 7 5
+
+1.0
+
+:0.94; 0.80: 0.64
+
+.-
+
+0.50: . 0. 3B
+
+·
+
+·
+
+.=\\:'i. ... _
+
+.
+
+.
+.
+.
+.
+: (1.79): 1~00: 0.64
+
+1 50: Slender-
+
+.
+
+. ness of
+rod.
+Schvvarz0.31: Rankine
+
+.
+0.44: Euler
+
+- 4 T 3,b 1 e 1
+
+l
+
+.........
+
+;;~OE
+
+1
+
+1
+
+k
+
++ n
+
+l '
+
+20
+
+E
+
+:2
+
+(i
+
+:2
+
+.
+= :1.75:.
+
+=
+
+( Con t d . )
+
+2.00: 2 .25
+
+2 • 50: 2. 75 : 3. 0
+
+: Slender: ness of
+rod.
+
+.
+
+:0.25: 0 . 20: 0 .17
+
+J.14: 0.12 :0. 10 :Schwarz-
+
+: Rank ine
+
+)1
+
+.:2
+
+= ~ (2.
+ko
+
+0.16: 0.13 :0.11 :Euler
+
+.L ,
+
+In the following, a new formula will 'oe de r i ve d. It corresponds
+1
+and c oinciding
+to a curve of k~ v 3.1id for the en tir ~ range of i
+
+k = 1 with the Sc~warz-Rankine and at t he end
+ko
+with Euler's curves, and appr:Ja(:hlng c losely dur':'ng the -:vnole range
+at the beginning
+
+of the experimental investigatiur..s on strength of rods of ciifferent
+length and const ant cros s section.
+k
+values for positive aDd
+ko
+mus t afpe a r in it only in eve~
+
+As the formula s h ould give same
+neg a't ive
+
+1 the slenderness
+
+ra~
+
+L
+i
+
+ic
+
+powers.
+t~e.leforc
+
+The formula m
+ust be
+
+Fo r very small
+to
+
+b
+
+line
+
+(!;. '\
+l /
+
+:2
+
+1
+i
+
+values ,
+
+C
+
+of the form:
+
+(~ ~
+. l ,'
+
+4
+
+~ecomes
+
+negligi~le
+
+com~ared
+
+If therefore, at thE; beginning the curve approaches th3
+then
+I
+
++ a (
+
+~
+
+1 + b (~
+
+:2
+
+)
+
+\ lJ
+
+=
+
+1
+
+- 5 -
+
+If, on the other hand, for very large value s
+
+neces sit at ing
+
+L
+the c~rve is to agree with that of Euler, then the lower
+i'
+1
+powers of ~ must vanish. Therefore,
+
+of
+
+i
+
+L
+
+~
+
+;:!
+
+i
+~(
+
+=
+
+c ( -:-,\4
+1
+
+n
+
+:2
+k
+
+~/
+
+whence
+
+c
+
+~
+
+k
+
+a~.
+
+E
+o
+
+·
+
+:2
+,.'
+
+The formula oecomes
+1 + a
+
+r
+
+i?~ ( -:-\
+...
+l;
+
+/
+
+.
+
+i
+
+k
+
+2
+
+dete~in6now
+
+th~refore
+
+(~\z
+, J. ,
+
++ a (i\ + a
+
+In order to
+
+(T
+i
+
+the value of
+
+now
+
+(5)
+
+4
+
+a
+
+it will be as su.illpc::.
+
+that the new curve cuts Euler IS curve at the abs ciss a
+where
+
+n
+
+(n > 2).
+
+is any nu.'!lbe r gre a,:ter than 2,
+
+Then
+k
+kO
+
+n:2 E
+
+= ko
+
+~
+
+:2
+
+(t ;
+
+n:2 E
+
+= ko
+
+1 + an:2
+
+=
+1 + anl:l
+
+TT2
+
+E
+
+~
+
+ko
+
+nd n2 E
+IT
+
+:2
+
+=
+
+E
+
+-yQ
+k
+
++ an 4 TTz~~
+
+(TTZE\3
+ko ;
+
+... J.. .. _
+~
+
+n'
+
+2
+n 2 + an 4 _n E
+ko
+
+-r;;£E-
+
+1
+i
+
+== n
+
+J -k;- '
+
+- e.
+an 2
+
+TI 2
+
+E (I
+
+~
+
++r..2
+
+-r;.
+
+2 )
+
+=n2
+
+o.l
+
+-
+
+1
+
+The formula then -:Je comes:
+
+(6 )
+
+If, for example, the curve is to cut Euler's curve at th e orr.r
+
+~
+
+nate
+
+=
+
+zJTT:oE,
+k _
+
+then
+
+n
+3
+
+1+4
+
+= 2 and
+k
+
+t,,2
+
+~- ( -\
+
+TT
+
+Ed!
+
+( 7)
+
+ko
+
+It should be noted that the new formula viII give larger valu es
+2
+1
+~
+t:lanEuler's for i between o JTI E • and -_. This is however un-ko
+objectionable , as the disagreement will not exceed 5%.
+Further, it is evident that the point of
+
+intersec~ion
+
+of the
+
+new curve with that of Euler's can be moved very far off, that 'is,
+'n
+
+Cro1
+
+be 0hosen very large without essentially diminishing the val-
+
+Ji. in the central region of the curve and that the latter
+ko
+than will ag+,ee still better with the test results. Furth:;,;f ono
+
+ues of
+
+considers th&t -the new curve which cuts Euler's at
+
+~::: n
+
+1
+
+TIk 0 E
+
+will touch :.t at infinity, then the condition can be made, that alao
+
+7· -
+
+L
+
+";,,;.:at
+
+~s 0 ~
+
+poin~
+
+he fi rs tint e r3ect ion
+
+is moved of f -:; 0 infinity; in
+
+ot her words, that the new Curve has tnree points in com
+mon wi t:1
+Euler's at infinity.
+From th:i.s follows a s 1mpler and for pract ical applicat i ons es~ecially useful formula (f or
+
+lL =
+ko
+
+1
+
+k F
+
+(L
+i
+
+= k o~H'
+
+up to infinity):
+
+L\.2
+
+k
+
++~ ( r.,
+
+~
+1 + n2 E
+
+n
+
+2
+
+/
+
+I
+
+k
+
++ ( it
+~'\
+/
+
+2
+
+(~ /
+
+4
+
+1
+
+:::
+
+1
+
++A
+A
+
+(8 )
+
+2
+
++A
+
+1 + A
+1 + A + A2
+
+where A
+
+This formula is f urther
+
+disting~ished
+
+by the fact t b at it con-
+
+tains no empirical consta.'1ts but only the characterist ics
+E
+
+Y- o
+
+and
+
+of the material.
+Table 2.
+
+.......
+k according to Euler
+ko
+
+.
+
+..k. according to eQuat ion
+ko
+
+7 (n = 2)
+
+~- .according to equat ion
+-0
+
+8 (n = (Xl)
+
+=:0.25 : 0.50 : 0.75 : 1.00
+
+1. 25
+
+1.50
+
+:(1 .. 7 9): L Oc)
+
+0 .6 4
+
+O. ,=~
+
+. :i'"
+:
+
+.
+
+·
+·
+
+·
+·
+
+.
+
+·
+
+·
+·
+
+=:0.995: 0.963: 0.858: 0.700 : 0 . 545: 0 . 415
+
+=:0.995: 0 . 955: 0. 8 35: 0.667: 0.513: 0. 3 92
+
+Table 2 (O ontd. )
+
+---
+
+.-~-
+
+L~.
+TT E
+
+_
+
+1
+
+k
+
+ko
+
+--.--0_
+2
+
+. .
+
+.
+
+=
+
+according to Euler . ..... .
+
+:1. 75
+
+1
+
+';:"0
+
+k
+
+ko
+
+2 . 25
+
+2 .50
+
+2!75
+
+3.00
+
+0.25
+
+~O •. 33
+
+0.20
+
+0.16
+
+0.13
+
+0 .11
+
+o·zeo:
+
+0.163: 0,135: 0 .113
+
+.
+
+.
+
+:
+
+l
+
+2.00
+
+-,
+
+according to equation :0.319: 0.250:
+7 (n = 2)
+=
+
+.
+according to eQuat ion :
+8 (n =:: ex> )
+= :0.303: 0.238: 0.190: 0.152: 0.130: 0 .110
+For different values of
+
+tne re are grouped i...'1 Table :3 the values of
+Fig. 1 shows the curves of kk
+
+k
+
+ko
+plotted from formula (5) and
+
+o
+
+from these of Euler and
+
+Schwarz-R911kir~e.
+
+formula a seri es of pine ' rods, 4 x 4 cm. 2
+
+In order to verify the ne-IV'
+
+and of dj.ffe rent l engths
+
+was tested.
+The material se 1e cted was as u n iforTc as pcss i",)le .
+F = 16 cre?'"
+
+J
+
+= 21.3
+
+cm.4
+
+,
+
+i == l.15 em,
+
+the results of tests were computed
+
+i~
+
+and E == 130,000 kg/ cm.2 ,
+
+terms of
+
+1.
+.
+l
+
+and plotted in Fig. 1 .
+
+Taking
+
+/,ko and
+n
+
+2
+
+E
+
+A
+ko
+
+- 9 Table 3.
+
+k
+
+l
+
+i
+
+kg/ em. 2
+
+i
+0
+7.5
+10.1
+16
+
+i
+
+525
+523
+524
+508
+479
+475
+430
+362
+(350 )
+309
+244
+218
+(206)
+187
+145
+(125)
+
+30
+
+29
+39
+46
+(49.4)
+54 . 5
+63.5 ·
+71.5
+( 74)
+80
+87 . 5
+(98.5)
+
+J
+
+k(L
+
+n2 E
+
+.0.000
+0.152
+0.204·
+0.324
+0.405
+0.587
+
+0.7 90
+0.938
+(1.08 )
+l.10
+1.29
+1.45
+(1, 50)
+1. 68
+1.78 .
+(2.00)
+
+k
+
+ko
+1.000
+0.996
+0. 99 7
+0 . 968
+0.913
+0.906
+0.820
+0.690
+(0.66'1)
+0.589
+0.465
+0.416
+(0.3 92)
+0.357
+0.8'76
+(0.;;38)
+
+In Table 3 there are included further ( in b r aC ke t s ) the cal 0\.... ":"
+l at e d results for iL/~
+n2 E
+
+=
+
+1.0) 1.5 and 2 . 0.
+
+As Can b e seen from Fig . 1, the test results agree well with tt -.
+ul've from formula (8).
+
+That the test results do not g iYe an e11-;;:.1·8 -
+
+ly s mooth curve, is not surp rising at all, as in such compres sion
+te s ts slight differences in material and its uniformity exe rt a
+sidera~le
+
+001:-
+
+influence.
+
+For a material of unknov,m properties it is sufficient ·to make
+ko and E:
+
+two tests only, in order to detennine the ch a racteristics
+one compression test of a
+strength
+
+ko
+
+s~ort
+
+rod giving the ultimate compre s sion
+
+and one i)ending test of a horizontal rod, freely sup-
+
+ported at tbe ends and loaded in the cen ter, g iving
+from the known load Q in kg. and the observed deflection
+
+f
+
+in em.
+
+- 10 'llhe results of another similar sC3!'ies of tests are giver.. in
+Table 4 .
+
+They refe r to hollow square sectioned rods and are c a: c"t.: ,--
+
+lated for
+
+ko = 525 kg/ cm.a )
+
+J :::: 15.9 cm. 4
+
+)
+
+E :::: 130, 000 kg/ CrIi ,2
+
+and i :::: 1.41 cm .
+
+,
+
+~
+
+;=
+
+7.94
+
+C:'1l ,
+
+.z
+
+,
+
+Their dimensions and the curve of
+
+the test results in c~mparison to the curve give n in formula (8)
+are shown in Fig . 3.
+Table 4.
+
+i
+
+0
+13
+31
+(49.4)
+53 .3
+( 74)
+77
+
+LJ,~
+n E
+
+k
+
+L
+
+kg/qcm
+525
+519
+448
+(350 )
+407
+(206)
+237
+
+ko
+
+0.000
+0 . 364
+0.638
+(:1.. 000)
+1 . 057
+(1. 50)
+1 . 540
+
+1.000
+0.989
+0. 855
+(0.66'1)
+0.'7'75
+(0 . 393 )
+0.453
+
+i
+
+.
+,
+
+k
+
+2
+
+From tests of drawn seamless steel tube s, manufactured a ccording to the standards of the Army hir Service Inspection (Idflz)~
+Table 5 and Fig. 3 were established, showing that formula (8) holds
+also for other materials.
+
+In t hese tests specimens 30 mm. in diarr.-
+
+eter and of varying length were used; the wall thickness varied, between O. 79 and 1.18 mm .
+
+The wall thickne s G of individual tubes \"i' as
+
+not quit e un ifo rm , varying, fOr example, from 1.03 to 1.18 mm.
+shcul d explain the ir!'egul a rities of the curve in Fig . 3.
+
+*
+
+IlIdf l z n means :probably ,
+
+II
+
+Inspektion der Flugzeugtruppen .
+
+n
+
+This
+
+-
+
+11 - -
+
+':' ab I e 5_.
+
+k
+
+L
+
+i
+
+L
+
+-;- ·J
+1
+
+kg/qcm.
+- --
+
+11.20
+13.15
+15 . 10
+18.03
+20 . 96
+24,86
+27.79
+32.66
+37 . 54
+42.42
+51 . 80
+61 . 56
+(61.70 )
+71 . 32
+81. 0 8
+90 . 83
+(92 . 55 )
+100 . 6
+
+lr
+
+TT
+
+ko
+
+------
+
+--
+
+O. :82
+
+5225
+SlS2
+4786
+5203
+4930
+4'720
+4918
+4984
+4500
+4841
+48£:0
+3541
+(3470 )
+3084
+26 98
+2022
+
+l.OC5
+0 . 998
+0.920
+1 . 001
+0.948
+0.908
+0.946
+0 . 957
+0.865
+0.930
+0.932
+'0.682
+(0.667)
+0,593
+0.519
+0,2 ·3 9
+
+0 . ~13
+0.2~5
+
+0.2S2
+0 . 340
+0.403
+0.450
+0,530
+0,608
+0.687
+0.840
+0 .- 998
+(1. 000)
+L 156
+1.614
+1 , 4-'13
+(10 50,J)
+10630
+
+(?,G28)
+
+1655
+
+The value
+
+r~
+2:&;
+
+(C , ~38)
+
+0.318
+
++
+ko::: 5325 2 5192 ::: approximately 5200 kg / cIa,2
+
+is
+
+t he mean value obtained from the compression test of -che two shorter
+tubes.
+
+The 'value
+
+E::: 2,000,000 kg/ cm .2
+
+of the nlOdu1us of elast ic-
+
+it.y is the average of the '::>eno.ing tests of two tubes,
+2,04-1,900 and 2,008,370 kg/cm. 2
+
+hic:1 ga'le
+
+respectively (average 8,025,000)
+
+and of two compression tests giving 1,990 , 000 and 1 , 970,000 kg/cm. 2
+respectively (aver'age
+based. on
+so that
+
+= 0.911
+
+F
+
+t
+-1
+
+:=
+
+=
+
+cm.2
+
+61. 70 and
+
+The calculations w
+ere also
+r.0.959 cm . 4 ,
+i :::
+~
+1. 025 em.,
+
+1,980 , 000) .
+,
+
+J
+
+=
+
+j
+
+L~ l.
+---D- =
+E
+
+-
+
+1
+
+TT2
+
+In the foregoing calculations, besides
+of F) J and
+
+::
+
+L are assumed to be known and f
+
+are calcu l ated; frequently, however,
+
+ko
+
+and
+
+l'Om
+
+them
+
+E,
+
+the value
+
+k and Pk = mP
+
+k o and E also Pk :::: mP and
+
+L
+
+_
+
+r---~---------~~--- ---
+
+-
+
+are given and F and J are to
+
+~e
+
+1.2 -
+
+calculated.
+
+In order to simplify such calcula,t ions, Tables 6 to 8
+
+Cal}
+
+be
+
+useg:.
+Table 6.
+Solid Square
+
+Gross-See~ j on
+
+?ine.
+h
+
+F :::
+
+J 12 -)
+
+F
+
+L
+
+~
+
+1
+
+F
+
+em: cm2
+
+J
+:
+
+J
+F
+
+em4
+
+4.09 J (100)
+
++
+
+cm<l :
+
+cm
+
+em<l
+
+J
+
+0
+
+20
+
+40
+
+(100) ]
+
+60 . :
+'mP
+..
+
+:
+
+kg .
+,2
+
+L =
+
+..
+:
+
+em. ;
+
+3. <17
+
+2
+
+(4.09
+
+i
+
+h
+
+E ::: 130000~
+
+·
+mP = 52 5 F _ _ _~_1_+_4_._0_9-,J~(.-,,1~0,-><0-/-,1__ _ __
+.F·L
+2
+F
+L
+2
+h
+
+_
+
+TOOO
+
+80
+
+100
+
+120
+
+=
+
+:--------------------------------
+
+4: 1.33:0.33:0.577: 2 .10: 1.81: 0.91: 0.45: . 0 ~ 263 : 0 .17 l:0.11 ~
+9: 6 .75: 0.75:0.865: 4.72: 4.55: 3.38 : 2.06: 1.27
+o . 846: O. 59 f,
+4: 16: 21.3 :1.33:1.15
+2.53 : 1. 82
+8.40: 8 . 28: 7.23: 5 . 33: 3.65
+5. 70 : 4.24
+5: 25: 52.1 :2.08:1.44 :13.1 :13.0 :12.2 :10 .1 : 7.73
+6: 36:108
+:3.00:1.73 :18.9 :18.9 :18.2 :16.3 :13 . 4 : 10.6 : 8. 20
+7: 49:200
+:4.08:2.02 :25.7 :25.7 :25 .2 :23.5 :20.6 :17 . 1 :13.9
+8: 64:340
+:5,33:2.31 :33.6 :33 .6 :33.2 :31.7 :28.9 :25.2 :21.2
+9: 81:547
+:6.75:2.60 : 42 .5 :42 . 5 :42.3 :40.9 :38.4 :34.5 :30.2
+10:100:833
+:8.43:2.88 :52.5 :52.4 :52.1 :51.1 :48.8 : 45 . 2 : 40 . 6
+2:
+3:
+
+- 13 -
+
+F
+
+=
+
+h
+
+2
+
+2
+
+em
+
+)
+
+=
+
+J
+
+h4
+
+em 4
+
+;
+
+~
+
+_.
+
+~--i
+k
+
+~ -~ ~
+
+o
+
+=
+
+J
+I
+
+I
+
+k-
+
+h->.
+
+1 + 4.09
+
+mP = 525 F
+
+I.
+
+i
+
+)
+
+F
+
+J
+
+L.2
+
+( 100;
+
+em: em.2:
+
+J
+F
+
+em4;:
+
+em2
+
+=
+
+em
+
+/ L
+
+J
+
+160
+
+1 80
+
+F
+
++ [4.09 J
+
+300
+
+ein.
+
+3.47
+
+J.30. 000 kg2•
+,
+e~n
+
+1,'100/\
+
+~
+
+140
+
+11
+
+,2
+
+F
+
+i
+:
+
+=
+
+526 kg~. E
+err?- )
+
+----------------------.~------------
+
+1 + 4 .. 09
+J
+
+h
+
+J12-
+
+L
+
+~OO
+
+--------------------------------~------------~
+
+h: F
+
+=
+
+103
+
+F
+
+l2
+
+rCc' 1 .
+2
+
+-
+
+kg .
+
+2.2
+
+) ]
+. ~------------
+
+=
+220
+
+_m P ==
+1000
+
+240
+
+260
+
+280
+
+,' : .
+:
+:
+:
+:------------------------- - - - - - - - - 2:
+4:1.33 :0 .33 :0.5 7 7:0.087:0 . 067:0~053:0 . 043:0.035:0.030:0 . 025:0 . 032
+3 : 9:6.75:0.75:0.865:0.444 :0 . 338:0.266:0 .216 : 0.180:0 . 151:0 .128: 0.111
+4 : 1 6 : 2 1. 3 : 1. 33 : 1. 15 . : 1. 3'7 : 1.06 : 0 . 836: 0 . 680 : 0 . 563 : 0 < 473 : 0 . 4.-04 : O. 343
+5: 25:52.1:2.0 8 :1. 44 :3.22 :3.53 :2.08 ' :1 . 64 :1 . 36 :1.15 :0.980 :0. 843
+6 : 36: ' 108:3.00:L73 : 6.41 :5 .0 8 :4.12 :3.38 : 2 61 :2 . 37 :2. 02 : 1. 76
+7 : 43 : 200:4408:2.02 : 11.2 :9.02 :7.41 :6. 10 :6 . 13 :4.3 5 :3 . 72 :3. 23
+8 : 64: 340:5.33:2.31 :1706 :14.6 :12 .1 :10 ·. 1 : 8 ,54 :'7.01 :6 . 27 :5.45
+9: 81: 547:6.75:2.60 : 25 . 8 :21.Q :18 .5 :15,6 :13.3 :1J.5 : 9.89 :8.65
+10:100: 833:8.43:2.88 :35.7 :30.9 : 26 0 :22.8 :19 , 6 : 17.0 :14 . 8 :13.0
+
+- 14 -
+
+Table 7.
+Hollow Square Cross-Section
+
+ko == 525 kg/ cm2
+
+Ji'
+
+525 F
+1
+
+~
+
+Pin~ .
+
+;
+
+E == 1 30 ) 000 kg/ cm.8
+
+L
+
+.8
+
+1 + 4.09 J (lOOt
+.
+I
+F I __L_ .8
+E. _l_\2
+4 . 09 J \ 100 j
++ [4.09 J (100) ]
+
+kg .
+.8
+
+--------------------J------~---------
+
+H : h
+
+F:
+
+J
+
+i
+
+F
+
+em : em: c~ : ew
+
+CrrF
+
+em
+
+o
+
+20
+
+40
+
+60 : 80 :100 : 120 : 1 40
+
+2L
+
+1000
+
+.
+.
+
+.
+.
+
+==
+
+.-----------------------------------.
+
+4:2 . 8:8.16:16 . 2:1 . 9 8:1.41:4 . 28:4 . 2o:3.96:3~26 : 2 . 46:1 . 80:1 . 32:1.01
+
+5:3.6:12.0:38¥2:3.1 7 :1.78:6.30:S.3 9 :6 . 09:5.48:4 . 58:3 . 66:2 . 86:8.24
+6:4.4 : 16.6 : 76.8:4 . 62:2.15:8.71:8.70 : 8 . 36:8 . 07:7.23:6 . 15:5 . 07:4.14
+7:5.2:22.0: 1~1:o.42:2 , 54:11.5:11 . 5:11 . 4:11 . 1 : 10 . 3:9 . 25:e . 04 : 6 o d J
+8 : 6.0:28.0 : 233:8 _ 34:2.89:14 . 7:14.?:14 . 6:14"4:13-7:12,6 : 11.~:10. 0
+9 : G.8:34.8: 366:10 . 6:3 . 26:18 . 3:18 . 3 : 18.2:18.0:17.5 : 16 . 5:15 . 3 : 13. 7
+10 : 7.6:42.2 : 455 : 13 . 2:3.64:22 . 2 : 22.2 : 22.1:21.9 : 2 1 .5:20.6 : 19.5:18.0 '
+
+- 15 -
+
+Tao1e 7 (Contd.)
+~ollOW
+
+Square Cross-Section Pine.
+
+2
+
+c'
+m)
+
++ h
+18
+
+ko = 525 kg/cm 2
+
+mP
+
+=
+
+;
+
+F
+
+1
+
+2
+
+/
+
+F
+
+= 130,000
+
+kg/cm 2
+
+1" + 4.09 F ( _L_ 2
+\
+525 F __________~---_~J~~J=. ~O~O~.~--------- kg.
+1 + 4.09 J (100\ + [4.09
+
+H: h
+
+E
+
+J
+
+J
+
+1
+
+2
+
+J (100 J
+
+2
+
+]
+
+L =
+------------------------------------~
+
+i
+
+F
+
+F
+
+cm'cm
+
+160
+
+180
+
+200 : 320
+
+240
+
+260 : 280
+
+mL =
+
+1000
+
+:
+
+:
+
+:
+
+:----------------------------------------
+
+4:2~8:8.16:16.2:1 . 98:1.41:0~791;0,631:0.514:0 . 424:0 .3 60:0.309:0 . 235
+
+5:3.6:12.0:38.2:3.17:1.78 :1.80
+6:4.4:16.6:76.8:4 .62 :2.15:3.39
+7 : 5.2:22.0: 141: 6 . 42 :2. 54:5 . 74
+8:3 . 0:28 .0: 233:8.34:2~8S:8?()5
+9:3 . 8 :3 4 . 8: 368:10 , 6 :3. 26:12,2
+10:7.6:42.2: 455:13 . 2:3.64:16.4
+
+:1044
+: 2 .79
+:4.84
+:7.45
+:10.7
+:14.7
+
+:1.18
+:2.32
+:4.08
+:6.40
+: 9.43
+:13.2
+
+:0.989:0.834:0.715:0.618
+:1.95 :1.66 :1.42 " :1. 33
+:3.47 :2.97 :2.56 :2.24
+: 5 . 50 :4.76 :4.14 :3.63
+:8.23 :7.21 :6.33 :5.59
+:11.7 :10.3 :9.17 :8.13
+
+In Table 8, only one value of wall thic knes s
+tub e diarr.eter .
+
+As
+
+F and J
+
+'v7 aE
+
+taken for e a ch
+
+are nearly prop ortional to
+
+6 ior thin
+
+-.?alled tu'oes, therefore the st rength of the tuoes is pract ically
+prop ortional to the thickness of the wall and can oe easily estimated for other thicknesses from the values of the table.
+
+,
+- 16 -
+
+Table 8.
+Seamless Steel Tubes! Army Air Service }ns~ction Specification.
+F
+
+,~
+
+J
+
+-
+
+=
+
+=
+
+F
+
+n
+2
+(D
+4
+
+- d
+
+D2
+
+2
+
+=
+
+ko
+
+)
+
+errf3 .i
+
+16
+
+~~.
+I
+
++ d
+
+2
+
+=TT 6 (D - 6 ) cm 2
+
+i
+
+5200 kg/em 2 ; E
+
+=
+
+jD
+
+1
+4
+
+=
+
+2
+
+;
+
+J
+
+=
+
+TT
+
+34
+
+(D"
+
+-
+
+-1,
+
+.A
+
+d ) en~ :;
+
+2
++ d cm;
+
+2 ) COO,0~0 Lg/em 2
+
+I
+
+I
+
+I
+
+I
+
+I*-D
+
+~
+I
+
+mP
+
+D : d
+em
+
+6
+
+=
+
+F
+L
+2
+1 + 2 . 63 J ( - '\
+5200 F________________~~~l~
+O~O~,~)----------- kg .
+~
+F
+L 2
+..,
+7
+2
+2
+1 + 2 . 03 - ( - ) + [ 2 . 63 =:... (-~-) ]
+J \100
+J 1 00
+
+F
+
+J
+
+i
+2
+
+em
+
+err.
+
+J
+em
+
+l
+
+o
+
+em
+
+25
+
+50
+
+=
+
+75
+
+10C
+
+mP
+1000
+
+12 5
+
+=
+
+.
+.
+.
+..
+.
+.
+.
+:0 . 597 : 0.270:0 . 453:0 . 673:3 . 10:2 y 83:1 . 67 : 0 . 889 :0 . 523:0 . ~38
+: 0 ~ 754~0 . 544:0.723 : 0.850:3 . 92:3 . 76 : 2 . 74:1 . 65 :1 . 02 :0.673
+
+..
+
+.
+
+2 . 0:1 . 8:0 . 1
+2 . 5:2 . 3:0.1
+3 . 0 : 2 . 8:0 . 1 :0.911:0 . 959:1.050 : 1 . 025:4 . 74 : 4.63:3 . 64:2.60
+3.5:3 . 3:0 . 1 :1.068 : 1 . 545:1 . 444 : 1 . 203 : 5 . 55 : 5 . 49:4.83:3 . 67
+4.0:3 . 8 : 0 . 1 :1 . 225 : 2 . 331:1 . 90 : 1 . 38 : 6 . 37 : 6 . 32:5.84 : 4.75
+4 . 5 : 4 . 2:0 . 15:2 . 050:4_ 854:2.37 :1 . 54 :10.6:10.6 : 10 . 0 : 8 . 68
+l
+
+o
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+.
+.
+5 . 0: '4 . 7:0 . 15:2 . 286:5 . 726 : 2.95 :1.72
+5.5:5 . 2 : 0~15:2 . 521:9 . 027:3.58 :1.89
+6.0 : 5 . 6: 0 . 2 :3 . 644:15 . 34:4.20 :2 . 05
+7 . 0 :6 . 6: 0 . 2 :4 . 273 : 24.72 : 5 . 79 : 2 . 41
+5 .0 : 7 . 6 : 0 . 2 :4 . S01:37 . 30:7.60 :2 . 76
+S . O:~. 6: 0 . 2 :5.529 : 53 . 55 : 9 . 68 :3.11
+lO . 0 : 9 . 6:J , 2- : 6:158~73~95~12 . 0 :3 . 47
+
+.
+.
+
+:1 . 70 :1.1 5
+:3.55 :1. ~e
+:3 . 54 : 2. 5 7
+:3 . 73 : : . 08
+
+=
+
+: 150 :175 : ' 2CO
+
+225
+
+250
+
+:r.P _
+--1:)00
+
+:11 . 9:5 . 10:3 . 97:3 . 17
+,:13.1:6.47:5 . 13 : 4 .13
+:18 . 9:10.4:8.30 : 6.30
+:22.2:14 . 7 : 13 . 3:10 . 2
+: 25 . 5:19.0 : 13.5:14 . 1
+: 28 . 7:23.3:20.9:18.4
+: 32 .0:27.5:25 . 2 : 22.7
+
+: 2 ... 08
+:2.76
+: 4 . 60
+:7 . 1 6
+:12.1 :10 . 3
+: 16 . 0 : 1-1. 0
+:2~ . 2 :17 . 9
+
+:2 . 54.
+:3.36
+:5 . 55
+:8.54
+
+- 17 -
+
+Table 8 (;::ontd.)
+Seamless Steel Tubes. ArmL.Air2el'viee Inspection Speeificat ion.
+
+;,
+&
+
++ d
+
+b
+
+2
+
+em:
+
+.d
+
+t
+
+I
+
+ko = 5300 kg/ em2;
+
+I
+t
+
+E ~ 3;000,000 kg/em 2
+
+I
+
+*-D
+I
+mP
+
+D
+
+·
+
+[)
+
+d
+
+em 'em
+
+=
+
+F
+L 2
+1 + 2.63 - ( .J ,100/
+5300 F
+[3
+F ( L
+1 + 2.63 ~ 100
++
+• 0,", J 100
+
+( L)2
+
+E
+err?
+
+em
+
+J
+
+em 4
+
+i
+
+em2
+
+J
+
+em
+
+1"' ....
+
+F ,
+
+L
+
+150
+
+17 5
+
+kg.
+
+)2 ,J 2
+
+=
+225
+
+300
+
+350
+
+mP
+
+--:;::
+
+1000
+
+·
+
+.
+
+2.0:1.8:0.1
+
+:
+
+:
+
+:
+
+:
+
+:-------------------------------
+
+:0 . 597: 0 .270:0. 4 53~0.673:0.237: 0 .174: 0 .13 4 :
+
+~.5:2.3:0.1 :0.754:0.544:0. 723: 0 .850:0. 473: 0 .34B :0.238:
+'3.0:2.8:0.1 :0.911:0.959:1.050:1.085:0 . 828 :0. 6G0:0 .469:0.372 :0.301
+.3.5: 3.3: 0 .1 : 1.068: 1.545: 1. 44 4: 1. 203: 1 . 29 :0 . 9'(3 : 0.751 :0.596:0.485
+4.0:3. 8 :0.1 :1~235:3.331:1. 9C :1.38 :1. 8 5 :1 . 43 .1.12 :0.894:0.735:
+4 .5:4.2:0.15:3.050:4.854:2.37 :1.54 :3.78 : 3 .94 :2.30 :1~85 :1.51
+
+- -- - 275
+
+L ==
+
+300
+
+- .----.
+.
+.
+· 7 .0 .15 : 2.3 86:6.726;3. 95 .
+·
+5 .0:4. :
+:1.72
+
+5.5: 5 .2:0.15:2.521:0.02 7 :3.58
+3· 0:5.6:0.2 :3.a44:15 . 34:4 ~ aO
+7<0:6.6:0.2 :4.273:24.72:5.79
+0 0:7.6:0.2 :4.901:37.30:7. 60
+9 .0: 8 .6:0.2 :5.529:53.55:9.68
+10.0:9.6:0.2 :6.158:73.95:12.0
+
+:1.89
+:2.05
+:3. 4:1
+:2 :1 76
+:3 , 11
+:3.47
+
+.:1- 73 :1. 46
+:3 · 30 : J..94
+~ 3 87 :3 . 28
+:6 . 0 6 : 5. 19
+:8 e8 2 ' 7. 59
+:12. 1 :1.0.5
+:10.7 : 1 3 .9
+
+350
+
+375
+
+:1.08
+:1,44
+:2.43
+:3.89
+: 5 .74
+
+: 0 . 945
+:1.2 6
+:2.13
+: 3.40
+: 5.08
+
+325
+
+mP
+1000
+:1.24
+' 1.67
+: 2. 83
+: 4 .47
+:6.60
+: 9 .30
+:12.2
+
+:::;
+
+:8.06 :7.21
+:10 . 8 :9 . 65
+
+•
+
+- 18 Table 8 (Contd.)
+Seamless Steel Tubes. Army Air service Inspection Specificatio~.
+
+~o
+~
+
+I
+
+I
+
+,
+
+I
+
+= 5200
+
+ko
+
+~l>-,
+
+mP
+
+= 5200
+
+kg/cm 2 ; E
+
+= 2,000,000
+
+1 + 2.63
+
+F
+
+E . 2
+
+z
+
+1 + 2.63 -- ( -
+
+100 /
+
+J
+
+D
+
+d
+
+,
+
+,
+
+0
+
+F
+
+em
+
+cm 2
+
+cm4
+
+,
+
+em
+
+em'
+
+·
+
+J
+
+J
+
+.
+
+F
+t
+-(-)a
+J \ 100
+
+em z
+
+Cl"il
+
+kg .
+F
+
+J
+
++ [2.63
+
+i
+
+F
+
+kg/cm2
+
+2
+
+(100)
+
+2
+
+2
+
+J
+
+2 =
+
+: :275
+
+300
+
+325
+
+,
+
+350
+
+375
+
+~=
+1000
+
+:
+
+:
+
+:
+
+:
+
+:
+
+--------------
+
+2.0:1 . 8:0.1 :0.597:0.270:0r453:0.673:
+2. 5:2.3:0.1 :0.754:0.544:0.723:0.850:
+3.0:2.8:0.1 :0.911:0.959:1.050:1.025:
+:
+:
+3.5 : 3.3:0.1 :1.068:1.545:1.444:1.203:0.400: 0 .339:
+:
+:
+4.0:3 . 8:0.1 :1.225:2.331:1.90 :1.38 :0.605:0.508: 0 .438:0.375:0.326
+4.5:4.2:0.15:2.050:4.854:2.37 :1.54 :1.25 :1.06 :0.904:0.778:0.682
+2 ='
+
+400
+
+425
+
+450 : 475
+mP
+
+·
+·
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+
+5.0:4.7~0 . 15:2.286:o.726:2.95 ~1~72
+5.5:5.2:0.15:2.521:~.027:3.58 :1 . 89
+
+6· 0 :5.6:0.2
+7.0 '6.6:0.2
+8. 0 :7.6:0 . 2
+9.0:8.6:0.2
+10.0:9.6:0.2
+
+500
+
+_
+
+WoO -
+
+. - - -'
+
+:O.8aO:O. 736 : ~ .658:0.590:0.534
+
+:1.11 :0 . 983 :0 .882:0 . 791:0.712
+:3.644:15.34:4.20 :2.05 :1 ,88 : 1 ~~ S : 1 · 49 : 1. 34 :1.21
+?,
+:4.273:24.72:5.79 :2.41 : 3,00 : '1. Wi .. ...., 39 : 2 .15 :1.94
+:4.901:37.30: 7.60 :2.76 : 4,~ 7 : 3.89 :3 , 58 :3.22 :2.91
+:5.529:53.55: 9 .68 : 3.11 : 6 .36 ::5. 66 : 5. 09 : 4.60 : 4.15
+:0.158:73.95:12.0 : 3.47 :8.58 : 7.37 : 6 .95 : 0.30 : 5.68
+v
+
+- 19 GRAPHICAL DETEruHNAT 103 OF CRIPP LING LOAD.
+
+In formula
+l"
+pen d s on _ ana
+
+= k o k '. ko and
+F J£..
+o
+
+mP == kF
+
+_E on 1 y .
+
+k
+ko
+
+de -
+
+During the derivation of formula (3) it
+
+ko
+
+i
+
+a re known and
+
+F
+
+~
+--<L ==
+
+1
+-;- ::::
+
+was point ed out t hat the express ion
+
+1 == - ( See
+OA
+
+.)
+F~g.-±-.
+
+~
+n E
+is an i mp ortant unit of measurewent for the slende rness of the rod
+2
+
+for all values
+
+and rr.akes it possible to read off the values of
+1
+of 7"'- and for all materials from a single curve.
+:1:..
+
+cri~~lin6
+
+If the
+
+1
+
+it is necessary first of all to multiply
+
+ordinate
+
+AB
+
+L
+
+load for any value of
+
+T
+
+corresp.onding to t:1e absc i ssa
+
+0
+
+is provided and from the origin
+ferent values of
+
+E
+
+is to
+
+~y ~~oE
+
+determined,
+
+Along the
+
+•
+
+TT
+
+a scale for
+
+1.0
+
+1
+i
+
+radial lines are drawn for dif-
+
+For inst 2n ce, t~e line for
+
+ko •
+
+~e
+
+E
+
+~ == 250
+o
+
+(wo od)
+
+ag re es i'-v it h the 8x:Jerimental results in Table 3, in which
+
+El<q.
+
+13~2~OO :::: 248 = a~proxjL1ately 250.
+
+==
+
+Table 9.
+
+200
+
+r "1_
+i
+
+350
+
+49.7
+
+44.4
+
+300'
+
+54.6
+
+58.9
+
+l
+i
+
+tnen
+
+OE:::: c
+
+X
+
+385
+: (Stahl) :
+
+250
+(Holz)
+
+whe re
+
+AC,
+
+:::: 39 :::: AC
+
+c
+
+~Dd
+
+61. 7
+
+t~e
+
+if
+
+is a constant.
+
+Lust t n erefore have a slope corresponding to c
+section p oint
+ue of
+
+l
+i
+
+F
+
+of line
+
+f or which
+
+~
+l
+
+I
+
+ko
+
+TT z
+
+E
+
+=
+
+1; i. e .
+
+>
+
+450
+
+62 .8
+
+: 66 .8
+
+CDE
+
+is dra:Jm ,
+
+The r adial line
+
+;=. I-rr~~E'
+
+and t he ordinate
+
+OD
+
+line
+
+400
+
+AF::::
+
+AS
+
+OD
+
+T11e inter-
+
+g iv es the val -
+
+t-= If
+o
+
+." gO ••
+
+For
+
+E
+
+=
+
+ko
+
+1-
+
+the refore
+
+250,
+
+=
+
+i
+
+1-9 . 7 .
+
+~
+the values are given in Table 9, from whioh
+ko
+t h e radial lines for th e ohar a cteristios of di f fere nt materi a ls u
+
+Fo:-t other
+
+, J."
+
+b e e asily dram in F ig. 4 .
+If the value of
+
+L ;:ko
+i
+n2 E
+
+~
+
+OE
+
+is onoe determined by means o f
+
+~ =
+
+a prOper radial line for a value of
+
+l
+
+AC
+
+the line
+
+DGH
+
+g ives
+
+l
+
+= . 81 in the exko
+ample, this value is then to "be insert e d in the equation
+i fl1r[,ed1ately the value
+
+D
+m
+..L
+
+-
+
+k
+
+as fOr inst ance
+
+ko '
+
+ko Fkk = .81 koF.
+o
+For another value of
+
+1 Inko n2 E -
+
+i
+
+1
+
+the line
+
+1 5
+•
+
+.392, i.e. mP
+
+7,
+
+=
+
+=
+
+JKLM
+
+74
+
+AF,
+
+>
+
+corres p onding to
+
+should be drawn, g ivi ng
+
+= eM
+
+.392 k oF.
+
+When the load
+
+instead of the OrOss section of the rod,
+
+mP I
+
+13 known , the process must be repeated in order to determine the
+c r OSS sectional dimensions.
+
+TEE ELASTIC CURVE
+
+k
+~D
+
+THE LATERAL DEFLECTION OF THE RO
+D.
+
+The differential equation of the elastio line ,
+
+(Fig . 5)) from
+
+which Euler's formula is d e rived is:
+2
+
+M
+~= - - - =
+E J
+
+dX:
+
+v/c ere
+
+P
+
+p
+
+y,
+
+(9)
+
+x + C cos w x ~
+
+(10 )
+
+E J
+
+is any lO3.d at all.
+
+This e qu at ion is sat i s fi3d by
+y ::: B sin
+
+V7
+
+=
+
+in which
+
+gives
+
+x=:O
+=
+
+B, C and
+
+.O :_fOT
+
+x
+
+2nor3iT
+~:: ent
+
+=
+
+'Iff
+
+y:::: 0,
+
+are constants and are still tc be detemined .
+therefore,
+
+therefo!'e
+
+l,
+
+......
+
+= O.
+
+C
+
+B sin
+
+Wl
+
+:::: 0,
+
+As, however,
+
+w L :;:=
+
+ilence
+
+must
+
+y
+
+a~.s c
+
+iT
+
+2 TI, 3 TI, etc., correspond to a rod
+
+The values
+
+into several waves by fourfOld, ninefold, ........ loads, and
+
+therefore are not to be cons i dered.
+Hence, we have:
+iT
+
+and y := :3 s in n
+
+W := -
+
+L
+
+X
+
+(11)
+
+~
+
+Tne elastic curve is therefore a sine curve.
+As further, for
+
+the deflect ion
+
+2
+
+¥ : : _ a !2
+n
+
+B:= a,
+
+= a sin TI~ and
+
+y
+d
+dx
+
+then
+
+y == a,
+
+(12)
+
+t
+
+2
+
+•
+
+s ~n
+
+TT
+
+x ::::
+l
+
+On the other hand, according to equation (9)
+
+Then there follows:
+
+_
+Pk -
+
+iT :2
+
+E J-
+
+l
+
+( 13)
+
+2
+
+In other words, if a deflection of 'cil!e rod takes~l a ce
+d2~-
+
+:=......i..
+dx 2
+
+load
+
+>
+
+°
+
+a ll
+
+definite
+
+Pk'
+
+Howeve r, the maximur.1 defle ct ion
+
+a
+
+for
+
+1 ated from equation (12) as the equa.tion
+can b e satisfied for any value of
+t~at
+
+~
+
+then it can 9ccur only under th e e f fect of
+
+3.1i
+
+in case of
+
+P < Pk
+
+that for a definite load
+
+there
+Pk
+
+=
+
+a.
+
+x
+
+a :::: a
+
+=~
+2
+S
+
+cannot J e ca lcu-
+
+•
+IT
+J.n -
+
+1
+
+t·
+...
+
+2
+
+=
+
+a sin
+
+Henoe, it follows first
+
+TI
+
+2
+
+I
+
+defle ct ion at all; second,
+the equilibrium of the inner
+
+.... 22 and outer forces is present for any value
+in case of
+
+P > P :<:
+
+the deflection
+
+unt il the rod will bre ale and
+
+a
+
+=
+
+a
+
+~i
+
+a,
+
+tha~
+
+and third,
+
+will continue to i:lc:r-ease
+
+CD
+
+This is, however, not to be taken literally, for the deflec·tion of a rod. in proportion to its length cannot exceed cer-cain
+practical limits.
+
+The conclus ions. of this investigation app:Ly
+
+tfiereiore to comparatively small deflections of the roj and to rods
+which originally were perf e ctly straight, s ymmetrical and of uni-fOrm material.
+
+Wi-;:;h these reservations, the fonnula and th e
+
+C011-
+
+elusions drawn therefrom are unobjectionable.
+That the deflection, according to Euler, for the load
+__ rr2 EJ
+---L~can assume any value~ seems astonishing at firat, but
+is easily ex.plained by the following cons idera.t ion.
+If, at a cert ain definite deflection
+
+there is an equilil:;-
+
+a,
+
+riulli between the outer fOrces and the inner bending moments, 8n:i
+if the def lect ion is art ificially increased to
+inner stresses and
+
+si~ultaneously
+
+n a,
+
+the outer jending
+
+every cress-sect ion will be increased
+fOl'e in an indifferent equilibrium.
+
+n
+If
+
+t ir..1es .
+Pk
+
+the roct. will come :cack to i"(;s original form)
+
+tiL.er: all t:!.. e
+rr.o~ents
+
+for
+
+The rod is the :re-
+
+is s orr.ewhat :ii::iinished.,
+if
+
+Ph.
+
+'lJe slightly
+
+increased, the original small deflect ion will continue to grow
+larger until the rod breaks.
+In contrast ti 0 the above is the state of equilibrium of a hO:rizontal r od supported at the ends and lOaded transversally to
+
+t~1e
+
+ax..is in which case there is a definit3 deflection for every load .
+
+•
+
+- 23 The difference in the two oases is due to the faot that, in the
+t ransvers ally loaded rod t he bending moments are independent of t te
+deflections while in the axially loaded rods they are proportional
+to the deflection.
+The oonolusion drawn from the discussion of 1uler's formula
+that an axially loaded rod should not deflect any measurable amount
+and that no gradual increase in deflection should correspond to the
+gradually increasing load, is, however, not generally oonfirmed by
+experiments.
+
+For instanoe, Fig. 6 shows the lateral defleotion in
+
+relat ion to the axial load fOr two steel tubes.
+No. I, 304 cm. long, 65
+
+rr~.
+
+diameter and 1.46
+
+~m·
+
+wall thiokness.
+
+nIl, 294 cm. long, 80.1 mm. diameter and 1.98 mm. wall thiokness.
+
+It follows f r om the curves that, although the deflections grow
+rapidly with the load, the crippling of the rod does not ooour very
+suddenly.
+This contradiction might be attributed to the fact that the
+modulus of e lasticity
+
+E
+
+does~ot
+
+remain quite oonstant as the
+
+stress increases Or that either the cross-sections of the rod are
+not perfectly symmetrical or the material is not uniform, Or also,
+that the rod was not perfeotly straight before the load was applied.
+Finally, it is not quite correct to assume that for considerable
+usdeflect ions the arc element d s of the rod is equal to d x,
+d:?
+d(GY)
+dx
+in the derivation of Euler's formul a .
+ing d ~2 ins t e ad of
+d s
+"1,
+
+The last point seems, however, unessential as the practically
+admissible deflection of the rod is slight.
+
+Also the variation of
+
+- 24 -
+
+E
+
+is inconsiderable.
+
+On the contrarY, some bends in the rod
+
+~e-
+
+fore the test or nonuniformi ties of the wall thickness (for ex.al'l'lple,
+in a tube) or of t:Ge material) are of essent ial importance.
+It ia evident that even a perfectly straigpt rod will 'oreak
+only at a certain definite deflection
+values of
+
+at
+
+whic~
+
+a.
+
+This deflection for large
+
+the compressive stress is negligible in com-
+
+parison with the bending stress can be calculated in the following
+manner:
+
+J.
+e'
+
+ko
+
+is the distance of the out-
+
+e
+
+where
+
+most fiber from the centerline of the cross-sect ion.
+
+FOr small values of
+
+besides of the bending stress, the
+
+i'
+
+compressive stress must be considered.
+gether should not exceed
+
+ko,
+
+As both stresses taken to-
+
+the bending stress alone equals
+
+ko - k .
+In Fig. 1,
+ue from the
+f Or
+
+l
+
+=
+
+ko
+T1
+-;.eref o re,
+
+~ valko
+b y the distance from the line
+
+is represented by the distance of the
+
+x - axis
+
+ko - k
+-
+
+and
+
+k
+
+1-
+
+Pk
+
+=k
+
+F and a P k
+
+a - ko - k
+k
+
+J
+Fe
+
+=
+
+=
+
+(k o ... k) J
+e
+
+ka - k
+k
+
+This equation give s the same values of
+
+if , as for long rods,
+
+k
+
+i
+
+2
+
+e
+a
+
+(15)
+
+as equation (14)
+
+in the numerator can be neglected and
+
+- 25 Pk is taken equal to
+
+22
+
+Subtracting in equation
+
+a ;:::
+
+(:0 -
+
+1
+J
+
+i2
+e
+
+the value of
+
+~
+k
+
+from equation (8).
+.2
+
+1
+
+(1 6)
+
+e
+
+r 2 . :2
+(~ 52 2 ) i 2
+k
+
+a ;:::
+
+~
+
+1
+
++
+
+'2
+
+TT
+
+l
+~
+E i
+
+(17)
+
+e
+
+EquatIons (15) and (17) lead furtner to the following kportant consideration.
+
+If, ror a certain value of
+
+l
+i
+
+the ratio
+
+k
+
+ko
+is deter:~ined according "to equat ion (8) or Fig. 4 , "then the great es t
+
+admissible deflect ion
+
+a
+
+is propo.rt ional to
+
+Table 10 g.ives
+
+.2
+
+1
+
+e
+
+for s ome solid and thin walled hollow
+
+i
+
+t
+
+n 2 EJ
+
+=
+
+k F
+
+sect~ons.
+
+Table 10.
+.2
+
+1
+
+CrOss-sect ion
+
+e
+
+I
+
+d:2 /16 ;::: d ;::: 0 .125 d
+d/2
+8
+
+~-]-
+
+!Q
+lo<-
+
+2
+
+bcf3
+
+~--..­
+
+d ;12
+d2
+
+12 b d
+
+=d
+
+"6
+
+;::: O. 1 67 d
+
+b-'1>4
+
+-,--f- :
+
+..
+
+1:>' -
+
+___'L.:
+
+0.250 d
+
+8
+
+4 6 d
+
+=
+
+0 .3 33 d
+
+- 26 -
+
+In
+
+aT:
+
+air:r;lane late:::.' al defle c ... icn of rod.s ca..Tl t e produce d
+
+c- ~-
+
+vi".:. :ration or other extern al causes, and Table 10 shows that t h e
+hollow sectioned axially-loaded rods can be allowed to deflect
+twice as n:uch as t h e sol"d sectioned rods.
+
+T2:le s quare section i s
+
+4/3 t ir::.es mOre adv ant ageous than the circular one, due tot he l a r -
+
+ger cross - sectional area.
+
+Now) examining the case of an eccentric load) considering at
+the same time, instead of a straight rod, a rod having an initial
+
+b,
+
+bend
+
+(See Fig. 7).
+
+before t h e load is applied,
+
+the initial bend is unessential.
+
+The curve of
+
+To simplify the calculations, it
+
+can therefore be assume d that the curve of the fnit ial bend is similar to t~e elastic curve of the roa deflvcted under the load .
+trlen
+
+b
+
+If
+
+a the additional elast ic
+
+denotes the initial bend and
+
+deflect ion,
+~
+
+a+b
+
+_b.:::.-_ d:Z Y •
+
+Y' d Y 1 ==
+)
+
+a +
+
+"0
+
+As further
+p
+
+y,
+
+S J
+
+where
+
+P
+
+is any load, then
+
+a + b
+a
+
+P
+E J Y·
+
+(13)
+
+This equation is s atisfied b y
+
+y == ( a +~) sin TI x
+!
+
+(1 9 )
+
+~
+2
+d x
+
+y
+
+=
+
+1
+
+n2
+
+(a + b)
+
+:::
+
+2
+d Yl
+
+-t sin TT x
+L
+
+d.. x
+
+2
+
+=
+
+sin
+
+12
+
+n2
+
+- b
+
+-
+
+27
+
+x
+
+Tf
+
+1
+
+=
+
+-
+
+TT2
+12
+
+2
+
+x
+sin n-::=
+
+P
+
+(19a)
+
+Y
+
+n
+- T2
+
+Z
+
+y
+
+1
+
+(19b)
+
+.
+
+With reference to equation (18) we have t h erefore:
+a + b
+a
+
+The elastic deflect i on however is not
+and it depends upon
+
+"b P
+
+a :::
+
+a
+
+only
+
+p.
+
+and
+
+b
+
+but
+
+a + b
+
+t2
+
+b
+
+=
+
+2
+
+n E J - P L2
+
+TT
+
+(20 )
+
+2
+
+E J
+P 12
+
+- 1
+
+In the case of an e ccentrically loade d rod, the deflection
+depends therefore, upon
+2
+
+P - Pk _ n E J
+l2
+
+P
+
+:::
+
+a--
+
+P.
+
+For
+
+P
+
+=
+
+0;
+
+a
+
+=
+
+and fOr
+
+0
+
+0:>.
+
+nZLJ = P
+is Euler's crippling load.
+k
+12
+it will be found that
+'P k ,
+
+Taking therefore
+
+"I '
+I
+
+a
+
+=
+
+For different values of 'Y
+
+'Y
+b
+
+(21 )
+
+'Y - 1
+
+t he values of
+
+a
+b
+
+'Y
+'Y - 1
+
+are g iv-
+
+en in Ta::) le 11.
+Table 11.
+'Y
+
+a
+b
+
+a
+
+:1.0:
+
+O~9:0 . 8:0. 7
+
+0.6
+
+0.5 : 0.4
+
+:0 . 3
+
+:0.2
+
+:0.1
+
+:0.0
+
+9~O:4.0:2.33
+
+1.5
+
+1.0 :0. 667 :0.428:0.250:0.111 :0 . 000
+
+- 28 The ecCentricity
+
+b
+
+cannot be easily mea,sured as it is com ·-
+
+posed not bnly of the real eccentricity of the IQaC" but also of the
+lack of unifoTInJ..ty of the wall thickness and tbe r:,aterj.al..
+
+If, how-
+
+ever , t his seeming (total effective) eccentricity be calculated for
+one of the experimental results in Fig. 6 (curve 1 gives
+~~d
+
+1.1 cn:
+
+'oJ:::
+
+Curve II as 1.27 cm.) and then for the various loads the corres-
+
+:ponding defle·ctions
+
+a
+
+figured out (in Fig. 6 the vari ous cases are
+
+marked by circles) it will De seen that the calculations agree sUrprisingl y well wi t h the test results.
+
+This proves the statement that
+
+the regular inc reas e of deflection with the load i s due mainly to
+lack of symmetry and uniformity of the nod, both in dimensions and
+material , and that the effeot oan be reproduced by the assumption
+of an eccentric load.
+DETERMINATION OF ADMISSIBLE LOAD WITH REGARD TO ECCENTRICITY.
+
+F·or re l at ively slender rods, in whi ch the mean a:ompressive
+
+1.
+
+stress
+ko - k,
+
+k
+
+is negligible in comparison with the bending stress
+the f oll owing relations are approximately
+
+tr~e:
+
+p (3. + b) ::: ko J
+
+e
+
+k ,..,
+p
+
+a :::
+
+---'-<:.
+
+J
+e
+
+=~b
+
+and with equation (20)
+
+J _ b
+
+e
+I
+
+P
+
+\.
+
+p
+
+:::
+
+,
+
+J
+
+Z2 +- b n 2 E J)
+
+ko e
+n2
+
+4'
+-'
+
+l2
+
+:::
+
+J
+
+ko e
+
+1
+
+J
+1 + b
+
+n2 E
+
+ko
+
+e.·
+
+7
+
+1j2E
+
+J
+
+(23 )
+
+2.
+
+mear~
+
+For stouter rods, where the
+
+compressive stre s s shou:d
+
+be cona idered:
+P (a + b)
+
+k = P
+F
+
+12
+
+b P
+
+=
+
+-
+
+-'
+
+n2 E J
+
+n
+
+2
+
+1i"'
+n 2 ....,
+
+E J -
+
+(25 )
+
+e
+
+and from the equat ion ( 20 )
+
+a
+
+P --
+
+k) ~
+
+= (ko -
+
+J - P 12
+
+r
+
+2
+
+P
+
+= ko
+
+and it will .,: e found:
+
+J - P
+
+J
+
+F
+
+e
+
+e
+
+(26)
+
+( ±
+
+This formula has two roots and if ap:p lied to the steel too:':)€:
+No. II in Fig. 6> where
+k b == 5200 k g/cm 2
+
+;
+
+E
+
+=
+
+1
+
+=
+
+294 em.;
+
+F
+
+2> 000,000 kg/cmz
+
+buckling load will be found either
+
+=
+
+4.9 cru 2
+
+and
+
+b
+
+=
+
+;
+
+J
+
+=
+
+37.3 cm4 ;
+
+1~27 em.,
+
+the
+
+P 1 == 33,275 kg ., and the eorres-
+
+pending elastic deflection according to e quation (80)
+a
+
+1
+
+= -
+
+1, 715 em.
+
+P 1 and a
+t ion
+
+al
+
+1
+
+or
+
+Pz
+
+= 6,635 kg.
+
+and
+
+a z == 4 .14 err••
+
+do not pract ically corr,e into question as t he deflec-
+
+is in a direction opposing the initi a l o end
+
+would b e greater than
+
+ko '
+
+Therefore, 0::111'
+
+root in equation (26) s~ould b e used.
+
+t ~1 e
+
+b
+
+and
+
+k
+
+negative si:?;!1 of
+
+:one
+
+- 30 -
+
+Equation (26 ) can be used in ordeT to determine the b~cklin ~
+
+P
+
+load
+
+according to the idea of Mueller-Breslau*
+
+tricity of the rod.
+to the load
+
+P
+
+The additional deflection
+
+a
+
+ass'~ning
+
+eccen-
+
+corresponding
+
+is given by equation (20); the total deflection is
+
+therefore:
++b
+
+= .b
+
+<:
+
+n2 E J
+
+2
+
+(27)
+
+nEJ-P1
+
+and the bending stress is obtained from equation (25) to
+P (a + b) e
+J
+
+=:
+
+(28)
+
+The foregoing calculat ion be comes ve ry clear 7vhen the moments
+Ma and Mi
+
+of the outer
+
+tfue deflection
+
+a,
+
+for
+
+~nd
+
+inner fOrces are drawn in relation to
+
+ex~ple,
+
+for the weakest section, as in
+
+Fig. 7.
+
+M = P (a + b)
+a
+2
+
+M·~ = -
+
+d.y
+dx
+
+2
+
+d
+
+2
+
+Yl
+
+dx 2
+
+(29)
+E J
+
+(30)
+
+in uhicn, according to equations (19a) and (19~)
+fOr
+
+x = {
+2
+
+and
+
+(31)
+
+The mome.n ts
+lines.
+
+Ma and 1>!i
+
+are represented in Fig. 7 by full
+
+Their point of intersection corresp onds to a deflection
+
+at which the inner and the outer forces are in equilibrium.
+
+a
+
+A
+
+s!"{; aJJe r load P < P would have a corr'3sponding moment line lliat.
+~~~__-,~__~1~__~~________~__~~__~__~__~~__~______~~
+*Mueller (Bres1au), Die neueren Meth oden der FestigkeitlehJe.
+Published by A. Kroener, Leipzig, 1913, Chap. VI) p .360.
+
+- 31 -
+
+dotted and a smaller
+line
+
+Maz
+
+and
+
+the line
+
+MC18
+
+= Pk
+
+P
+
+Ma4
+
+and
+
+a + b.
+
+n E2 J
+L
+
+, .
+
+If
+
+P
+
+This value of
+
+= p,
+
+If
+M,
+i
+
+there "nill ':'e
+
+P inc:ceases
+a
+
+GO
+
+3.
+
+mu.ch
+
+will be equal to
+
+is increased. still further ,. then
+
+will intersect the line
+
+becomes negative.
+
+2
+
+becorr:es pa,ralle l to
+z
+
+==
+
+p
+
+similarly for
+
+and a greater, a
+
+that the line
+Cb
+
+a
+
+-a
+
+M
+i
+
+produced so that
+
+a
+
+corresponds to the unused
+
+root of equation (26).
+The foregoing ought to prOve that although t 'he bend
+
+a + b}
+
+in the case of an eocentrioally loaded rod, grows rapidly with the
+inorease of the load, the break does not occur suddenly.
+
+On the
+
+other hand, it seems possible to eliminate in a oompression test,
+by means of a prOper arrangement, the always present slight eooentrio~ty
+
+in Whioh all the ununiformities of wall thiokness and ma-
+
+terial are included.
+orippling load
+deflection.
+
+Pk
+
+Then for a definite load (namely, Euler1s
+
+= 'IT
+
+z
+
+f2 J~,
+
+there must be an equilibrium fOr any
+
+This means that the curves I and II, Fig. 6, should be
+
+vertioal lines
+
+P,
+
+having the same value for any deflection.
+
+This apparatus may, for example, oonsist of two spherical coml.)ression blocks, with respeot to whioh the ends of the tube, pro'ceot ed by end plates, may "je laterally displaoed by means of adjusting sor,ews until the crippling load reaches a maximum.
+The author had suoh a test ing devioe made.
+
+The tubes to be
+
+tested are closed on both ends by plane pressure plates, and in the
+machine are plaoed two compression blooks whose knife edges, rounded
+off to 5 mm. radius, are adjusted aoourately parallel.
+
+On both
+
+sides of the knife edges are adjusting sorews, by means of which the
+
+- 32 -
+
+ends of the tube may be adjusted laterally with reference to the
+knife edg es, thereby avoiding the turning of the tube about its
+axis, as well as permanent deflections.
+
+In the experiments, tests
+
+were made upon the strut, a steel tube of 8 mm . diameter, 2 mIT..
+\tvall thickness, and. 3030 mm. length) with apparent eccentricities
+varying .-£rom +12 mm. to -2»6 rom.
+
+While the c a lculation gives Euler' s
+
+X 37.3 = 8400 kg. ~ it was found
+303
+that the tube could stand a load of 9500 kg. at an eccentricity
+
+buckling load " P
+
+e
+
+= - 2 .6 mm.
+
+=
+
+n
+
+-~ 2,15)0,000
+2
+
+2
+
+At 9600 kg.
+
+1
+
+without any increase of the load, the de-
+
+flection rOse i rrrnediately from
+
+-1~2
+
+rom.
+
+to a very high value, that
+
+would have led to collapee (Se e Ta"o le 12).
+TABLE 12·
+
+Deflections
+
+II
+
+an in mm. at Various Eccentricit ies.
+
+Eccen- :
+t ric it Y :
+
+Loads in kg .
+
+C
+
+: : : : : : : :
+
+in m :1000:2000:3000:4000:5000:6000 :7000:8000:8500:9000 :9500:9600
+m.
+12
+
+2 ~ 1:
+
+10
+
+1.7:
+
+8
+
+1. 4:
+
+6
+
+1.1: 2.8:
+
+4
+
+0.9: 2.4:
+
+2
+0
+
+..
+.
+
+0.5: 1. 3: 2.4: 4.0 :
+0.1 : 0.3: 0.9: 1.6: 2.7: 4.5:
+
+-2.5
+
+0.0: 0.0: 0 .0 : 0.0: 0.4 : 0.1 : 0.2: 0.6:
+
+-2.6
+
+0.0: 0.0: 0.0: 0.0: 0.0: 0.0: 0.0: 0.0:-0.1:-O.3:-l.2:Buckling.
+
+- 33 -
+
+It foll ows from these tests that a perfectly stra i ght
+
+rod. ~
+
+in
+
+agreement wi t h Euler's theory, does not deflect at all under lc adG
+below Euler I s
+
+cripp }
+
+ing lo ad, and that aft e r the ir 1:.1 t in:a.t e
+
+reaChed , there i s an equili"b rium between the oute r
+
+p.J".·i
+
+108.L'. H'
+
+tr.e i rmf;!:
+
+forces for any deflection within the elastic lilli it of the materi al.
+SUMMARY.
+
+The formulas hitherto employed for calculation of rods sub ject
+to compression, are usually of value only for stout or for $lender
+rods.
+
+They do not cover l as a rule, the whole range of rod lengths,
+
+or they give too great a safety factor for short and mOderately
+large rods.
+
+Therefore, a new em
+pirical formula, equation (8), has
+
+been devel oped, that holds good fOr any length and any material of
+the rod,
+tests .
+
+a~d
+
+agrees well with the results of extensive strength
+
+To facilitate the calculations, three tables are included.
+
+giving the crippling load for solid and hollow sectioned wooden
+rods of different thic'k ne s a and length, as well as for steel tubes
+manufactured according to the standards of Army Air Service Inspection (Idflz) .
+~reaking
+
+Further, a graphical method of calculation of the
+
+load is derived (Fig. 4) in whiCh a single curve is employ-
+
+ed for determination of the allowable fiber stress.
+Finally, the theorY is discussed of the elastic curve fOr a rod
+subject to compression, according to which no deflection occurs,
+and the apparent contradiction of this conclusion by test results is
+att r ibuted to the fact that the rods under cest are not perfectly
+straig ht, or that the wall thickness and thl; material are not uni-
+
+- 34 fOrm.
+
+Under the assumpt ion of
+
+aJl e ccen~
+
+ric roc, having a slight
+
+initial b end accord ing to a sine curve, a simple formula fo r tts
+deflect ion is derived, Nhich SLOWS a sUrpris ing agree:nent -;7i th test
+results .
+na~ion
+
+From this a further formula. is derived fOr the determi-
+
+of the allowable load on an eccentric rod.
+
+The resulting
+
+relations are made clearer by rr.ea:lS of a graptical reiJrese:'1 tat ion
+of the relation of the moments of the outer and inner forces (Fig.
+7) to the def l ect:'on,
+
+and. through the determination of equilibrium
+
+oetween moments.
+
+Translated b~' F . ~ . Pa~lows k i)
+University of 1, ichigarl_
+
+C
+
+1
+20
+

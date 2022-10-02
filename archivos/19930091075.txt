@@ -1,0 +1,3889 @@
+REPORT No. 46.
+A STUDY
+
+OF AIRPLANE
+
+ENGINE
+
+TESTS.
+
+By VmroE R. GAGE.
+.
+
+IWSUMIL
+This report is a study of the results obtained from a kuge number of tests of an HispanoSuiza airplane engine in the altitude laboratory of the Bureau of Standards. It was originally
+undertaken to determine the heat distribution in such an engine, but many other factors are
+also considered as bearing on this matter.
+So many variables enter into the testing of mrdticylinder internal combustion engines that
+even where every eilort has been made to keep conditions constant the remdts of a hwge number
+of tests must be studied in order to reach sound conclusions. This has been done in the present
+case. Graphical methods of expressing the various relations have been used where possible,
+and the results plotted in a wide variety of ways to check their accuracy. The use of logariWlc
+coordinate paper has permitted the plotting of many of the reLationsas straight lines.
+Considering the tasts as a whole, there are three major variables: Speed, altitude, and
+horsepower. Temperatum during the tests wes maintained practically constant. The loss in
+power through friction was assumed constant at any given speed regardless of altitude. This
+appemed to be justified, as will be described latar. Indicated homepmver has been considered
+as brake horsepower plus friction horsepower. Indicated horsepower appears to decrease in
+direct proportion ta decrease density of the air. Its decrease with increase in altitude is due
+only to the fact that a variation in altitude necwariIy imphs an inwease or decrease in density.
+For a given temperature, density is direc*ly proportional to barometric presmre. Hence, the
+graphical representation of the v@ation of indicated homepcnver with barometric pressure,
+when plotted on logarithmic cuordinhs, will be a straight line whcse slope is unity.
+A study of the heat distribution under the various conditions shows that:
+(1) The brake thermal efllciency remains constant at about 24 per cent on the ground at
+all speeds. As b altitude is increased its vahm drops to about 20 per cent; the maximum
+value at altitudes occurring at a speed of about 1,600 r. p. m. The indicated thermal efficiency
+remains nemly constant at 26 per cent for all speeds and ahitudw.
+~2) The heat bst in the exhaust is at a maximum at 1,900 r. p. m. at all altitudes, and
+amounts to almost 60 per cent of the heat supplied on the ground, decreasing to about 40 per
+cent at 30,000 feet altitude.
+(3) The heat lost through friction varies from 2 per cent at 1,700 r, p.m. and 3 per cent
+at 2,100 r. p. m. on the ground to 6 and 8 per cent, respectively, at 30,000 feet a-ltitude.
+(4) The heat lost in the jacket water is about 17 per cent of that supplied at all speeds on
+the ground, increasing to 28 per cent at 2,100 r. p. m. and 35 per cent at 1,300 r. p. m. at 30,000
+fe%t.
+Due to the fact that the heat supplied in the gasoline varies with altitude, the above percentages are not absolutely wxmrata. The heat suppIied appears to be proportional to the
+density of the air up to about 10,000 or 15,000 feet altitude. As the density is further decreased
+relatively more gmohne i9 necessary and the proportionality between heat supplied and density
+caases. The heat utilized and lost appears to follow about the same relation as the heat
+Supplia
+-.< * *
+~
+:-,. ;-”” --~~-— “
+Fuel coimunption varks from a minimum of 0.50 pound per B ~
+FG”?:r.ho%ons:=ound
+to a maximum of 0.69 at 30,000 feet.
+The study of the relaticmbetween power and speed shows that the incre~~ &pb%i’throu@
+b
+gh
+becoming
+lS#I #,tL&
+A%T@@
+~,
+increase of speed is at a mbnmm on the Wund;
+Memf3[iai AW:IJLLILA
+
+-. =
+
+.—
+
+*=*
+
+.=.
+
+—
+
+526
+
+ANNUAL B13PORT XATIOXAL
+
+ADVISORY C6Mti~EE
+
+FOR AERONAUTICS.
+
+creased, until at 30,00Llfeet there is practically no gain in power with increase in speed ubove
+about 1,700 r. p. m. After reaching a sufficient altitude, the curves show that the rmgine
+would stall at from 450 to 500 r. p. m., with wide-opwi throttle, aa there would not be sticionti
+power to overcome the friction losses.
+The power lost in friction is a very important f;ctor in the performance of the engine at .
+high altitudes. While its value can not at present be determined with extreme nccuracy, owing
+to the fact that no satisfactory indicator for high+pced internal-combustion engines is now
+available, a careful investigation was made of all the data bearing on this question. After
+carefully considering these results and the fundamental lawa governing the subject, it is cxmcluded that friction mean effective pressure is practically a constant for a given speed and k
+independent of altitude.
+Considering the matter of carburetion, the resuIts indicate that the optimum proportion
+of gasoline to air for maximum fuel economy is not a constant at constant speed with change in
+altitude. Apparently the leanest mixture could be used at about 15,000 feet with greater
+weight proportions of fuel to air at other altitudes.
+SUMMARY
+INTEODUUrION—
+OtrrMNrNcI
+
+OF CON’I’BNTS.
+
+THB
+PROBLEM.
+
+I. .4V)IRACNNGfisra.
+THE
+Description of the graphical methods used in averaging the resuh of the eeveral teate, m applied to B. H. P.,
+B. t. u. suppIiod, B. t. u. utUzedin B. H. P., B. t. u. in exhauet, and B. t. u. in jacketwater. Usemadeof
+logarithmic curves, plotting the several item W. barometi
+p=ure,
+each speed by ibdf (in these taets
+bmumetric prfxmre is proportional to air deneity).
+Kndicat.ed horsepower computed upon the amumpticm of a conetant friction IOE+J any one speed.
+for
+Plots 1 to 15, inclusive, beIong to thie eection of the report. The average valuee of the cuetornary itemn of an
+engine teat report are given in Tables 1 and 2, and are aiso ehown on the plote.
+Brake torque vsraue speed and vereue barometric premu.re, plots 22 and 23 properly belong to t.bh section.
+PIUWmNTATION DISmmmJN
+OF
+llEAT
+AND
+ENGm~
+CHARAmmmsmcs.
+II. GBAPEUUM”
+Including plots 16 and 17. Curvee plotted with the item being considered veraua epeed, each altitude separately.
+The saved altitudes m arranged that the curves from left to right repra+%nt increasing altitude.
+B~TWIHSN
+Powm AND
+SPEm.
+III. RELATION
+B. H. P. versus r. p. m., plot 19. 1. H. P. vermw r. p, m,, plot, ;0, Indicated torque vereue r. p. m., plot 21.
+Brake torque voreus r. p. m., reeults, plot 24.
+LOSSES.
+IV. FRIOTION
+Tables S and 4. F. H, P. vereue r. p, m.
+A etudy of hiction, etc., Imies on the Hispano-fhiza and other engims.
+on plot 25. Friction torque vereue r. p. m., plot 26. Logarithrne of F. H. P. versus logarithm r. p. m. on pkt
+z7. Amumptione made in Group I apparently juetified.
+T
+hORItA81t Or SPEED.
+V. GAKNOi+ POWB~ HROUGH
+TabIe 5, I. H. P. and B. H. P. vereuc density, plot 28. Gain of poww veraue deneity, plot 29. Per cent gain of
+power verauq deneity, plot 30. The use of deneity in plotting the reimlte of airphme engfne twta is recommended.
+OFCHANGE
+OFDENSITY SPEJJD
+AND
+ONCARBURETION.
+VI. EFBEUM
+
+Plork 92,artd
+W,
+33. .Thecarhuretionpprtrently conefstent
+a
+w=
+throughout.
+theseWI@.
+&WENDIX.
+JkuIteof tests
+usedses brude
+forthiereport.
+INTRODUCTION.
+
+This work wsa undertaken, primarily, to study the distribution of heat in an internal-combustion engine, such as ia need for airplanea. The energy supplied to the engine per unit of time
+can be accuratAy determined by weighing the gasohne supplied and determining ita calorific
+value. Likewise, the mmsures of the energy delivered at the brake, the heat rejected in the
+exhaust, and the heat removed by the jacket water, can be readily ascertained. The amounts
+of energy lost in overcoming friction, in drawing in and comprising the charge, and in expel@
+the products of combustion, are not measurable by my direct means at the present time. The
+future may bring forth an indicator suitable for high+peacl internal-combustion engines, but
+there ie none at prceent. The power required to drive the various pumps and the magneto
+could be, but have not been, determined. Ml of these unknown losses have here been lumped
+together and called friction.
+
+.
+
+A STUDY OF MBPIANE
+
+ENGLN’E TESTS.
+
+527
+
+In order to obtain an idea of the magnitude of the friction losses, the assumption was made
+that the force driving the piston is directly proportional to the might of the chsrge in the
+cylinder. Thermodynamic and “indicated” thermal efficiencies are dependent upon compression ratio, not upon absolute compression pressures. The cm.x&ent resxdte and the checks
+obtained seem to justify this assumption.
+In teat@ multicylinder internakombustion engines there are so mmy factms that influence
+the operation of the engine that the results of two tests under apparently the same conditions
+may not agree as ckdy ss would be expected by a person accustomed to testing steam engines
+or turbines. A few of the many variabl~ that may affect the remdta of tests of internal-combustion engines are: Temporary or permanent -ialve kakage due to carbon deposits or vmrping;
+lubrication changes, slight chaugee in carburetion due to texnperature effects or humidity;
+alteration in ignition by change of spark gap, electrical leakage of porcelain, or by preignition;
+chtingee in weight of charge due to change of temperature of piston and cylinder walls, slthough
+jacket water was so regulated as to leave the engine at about 140° F. in sll tests; etc.
+Of these possible variable factors, lubrication was maintained ss constant as possible by the
+use of a uniform grade of oil and by maintahing the oil temperature as uniform as was practicable. Air temperature were maintained within a rather narrow limit except at ground level.
+Humidity was not controlled but for all observations at other than ground level, the humidity
+was extremely low due to precooking of the air. Spark-plug gaps were carefully maintained
+constant and extreme care was exercised tu avoid all irregularities of ignition, including
+preignition.
+ln spite of the csre exercised h secure uniform conditions, it is neceesary to average a large
+number of tests in order to determine the general laws and the fundamental relations of the
+variables. Graphical methods w~e given preference over other methods. If any dasired
+relation can be shown by a straight line, then the method of averaging by plotting the data is
+exceptionally reliab~e. It ins found that any one small group of tests was liable to lead to
+conclusions .dightly at variance from the amrage of the whole, and it is advisable to consider,
+together, all tests undez simihr conditions.
+Because of the conditions outlined above, the redta of these tests, 390 in number, were
+graphically analyzed in nearly as many difkent ways as could be thought of: Plotting, crossplotting, and repotting the various items. This method of handling furnished somewhat of a
+check on the truth of the necessary aemunption. It also makes strict search into the accuracy
+and consistency of the handling of the data.
+
+-..-—
+.-
+
+J ——
+
+-—.
+
+—.
+
+—-
+
+.—
+—
+.-
+
+L .4YEXL4GING TEE TEST%
+
+The Hispano-Suiza engine upon which these tests were made was a stock airphme engine
+rated 180 horaepowm at 1,700 r. p. m., with 8 cylinders 4.72 by 5.12 inches, arranged in a 90°
+vee, m-th compression ratio of 5.3 to 1. The engine was tested in the altitude chamber with
+barometric pressures such as are normally associated with altitudes of about 5,5oo, 11,5c.0,
+19,200, and 29,500 feet, but with needy constant temperature of about 0° F., on all td,s.
+At
+each “altitude” tests were made with speeds of about 1,300, 1,500, 1,700, 1,900, and 2,100
+revolutions per minute, the change of speed being secured by change of load on the Sprague
+dynamometer, with throttle wide open on all teats. The carburetor visa a CIaudel, and the
+proportion of gasoline to. air was adjusted to give maximum power on the lean side for each
+test. One grade of gasoline (called X) was used for 171 tests, and nine other fuels were used
+during the other 219 tests. The X gsaoline was used as a standard, for the purposes of comparisons, in W of the seven groups into which the tests were divided. It was found that the
+variations in rmult.a using X gasoline vmre of the same order of magnitude as the variations
+between X gas and the other fueIs. Hence all of the data, irrespective of fue~ taken under
+similar operati~mconditions, were plotted togethar.
+Looking at the twts as a -whole,there are three major variables-speed, altitude, and liorsepower. The relation between altitude and power, M&g the various speeda sepsratel~ was
+the first selected for study.
+
+-.
+
+528
+
+ANNUAL
+REPORT
+NATIONbL
+ADVISORYOMMI!M!EE FOR AERONAU!UCS.
+C
+
+,
+
+I 1!1
+
+If
+
+I
+
+I
+
+f,
+
+u
+
+B
+
+I
+
+1
+
+I
+
+I
+
+I
+
+1 1
+
+I
+
+I
+
+WLi
+
+... ,, ,,,
+
+,
+
+R’oth4. 7b. 8orometr/ctissum
+
+FYofNo.3
+
+(Cnz
+of~g~ 13WR.i?fl.
+
+ReIofiw Oensi& of .4w
+
+/300 R.RN.
+
+A STUDYOF AIRPLANE
+ENGIME
+TESTS
+
+529
+
+.—
+—
+
+—.
+
+Ab?fudem het
+
+1670S0-S. DW 80’i, ~
+
+530
+
+ANNUAL REPORT NATIONAL
+
+ADVISOBY COMMITTEE
+
+FOR AERONAUTICS.
+
+i
+
+w
+
+Ma
+m
+
+##s
+
+saw’
+6
+
+.M90
+
+Zw
+
+, , , , 1 ,
+ii
+
+1
+
+,
+
+I I 1
+
+ii
+
+i ‘t--l
+
+~.
+
+P/of No.7b 150rom?f/Y2f3wssum(cr?l.
+orA#j
+
+m
+FLNO.8
+
+Mmwzwv.ww
+Alfifude in Feef.
+
+n& R2?#f.
+
+,-
+
+17mu,en.
+
+A STUDYOF AIRPLANE
+
+ENGINE
+
+631
+
+TESTS.
+
+##$rr12.
+, ,
+
+$%
+I
+Wmfd
+a
+a
+40
+P@fNo.IOa, t%?romefrichssu&m.
+
+ofH~ 190U%I?M.
+A/fifude h Fick
+
+F70ifJa 12.
+
+Re/o/;ve
+Densify of-hir.
+
+19u#
+R.#?#.
+
+532
+
+ANNUAL
+
+REPORT
+NATIONAL
+ADVISORY XMMITTEE
+C
+FORA.ERONAUTIOS.
+
+—
+
+s
+h
+
+4
+
+fYofNo.130 8urome#ric?%essu&lm.
+
+of @)
+
+2100R.PM
+
+H;
+
+A STUDY OF AMPLANE
+
+ENQINE
+
+TEST%
+
+533
+
+Wkh an engine running at constant speed, if the weight proportion of fuel to air is
+unchanged, the weight of charge drawn into the cyIinder VW be &ectIy proportional to the
+density of the air. The power developed by tha burning of the oherge (indicated horsepower)
+will deoreaee in direot proportion to the density. For a given temperature, the density is
+The reIation between altitude snd barodirectly proportional to the barometric pr~.
+.
+metric pressure isB~ornetric p&s&”e-at ground.
+.. .
+A1titude = Constant x log
+Barometric pressure at altitude. ‘
+These teats were made at nearly constant twnperature, henoe if the indicated horsepoww
+for a constant speed is plotted es ordinatea and the barometic pressure is used as abscissae
+upon cross section paper having logarithmic instead of arithmetic spacing, the relation should
+be a straight line with a slope of unity. The brake horsepower would diiler from this only by
+the mechanical and pumping losses of the engine. The values of brake horeepowm at the
+various altitudes are plotted in this manner on plots 1, 4, 7, 10, and 13, each for a ditlerent
+speed. The rehtion is a slightly curved line, suggesting an equation of the form:
+
+--—
+.
+
+B. H. P. – (a oonet.ant friction H. P. for eaoh speed) -1. H. P.
+Generalizing upon the matter of the friction horsepower for Wy one speed, it would seem
+reasonable that it should be nearly a canetant. The fluid pumping 10SM, the power required
+to drive the maggeto, the pumps, and the valve gear shouId change little, if any, with ohange
+of altitude. The bearing friction loss is of the form:
+For the presmt the
+Total friction - (constant x load)+ (constant x viscosity x speed).
+case of constant speed has been seledad. Womity may increase with inorease of altitude
+because less heat is generated in the engine at greater altitudea. An increase of viscosity will
+increase the friction loss. The load factor in the friotion equation is an unknown, in the sense
+that it is a composite of inertia and gas pressure factors, whose relation changes with design,
+speed, altitude, eto. The preseure9 on the bearings may or may not reverse in direction.
+However, a large change of bearing prwsure will causa only a comparatively mall change of
+total friction. On the whoIe, the bearing friction is a small part of the mechanical losses of the
+engge, and maybe assumed canstant. The piston friction is probably the largmt single itam
+of all the losses, and apparently will be nearly mustard for a given speed, depending more upon
+inertia forces than upon fio.id pmsmres.
+Therefor? the assumption was made that the friction horsepower is oonstant for a given
+speed. Combining with this one the other assumption, or fact, that the 1. H. P. is direotly
+proportional ta the density of the air, use was made of the fact that
+
+.
+
+BHP + FEP=IHP.
+ll%o values of B. H. P. were read from one of tha curves, plots 1, 4, 7, 10, and 13, corresponding to any two altitudes. One of the unknown quantikl
+L H. P., was multiplied by
+the relative densities at the two altitudes. The other unlmown, the F. H. P., was thus found
+by algebraic means. This was repeated, using other altitudm, and a genemdmean of the F. H. P.
+for a given speed was thus determined. This value of F. H. P. was then added to the B. H. P.
+curve values, the L E. P. vilues thus obtained were plotted, and a straight line with unity
+slope (45° on this log sealing) was drawn through the poirk
+The fact that the straight line
+with unity elope does pass through ths points indioatas that the two assumptions stated above
+are not inconsistent. Reading from these 1. H. P. and B. H. P. curves, the 1. E P. and B. H. P.
+values were recorded in Table 1 for altitud~ of O (ground), 5,000, 10,000, 15,000, 20,000,25,000,
+and 30,000 feet.
+The test reaulk of heat tits 03. t. m) supplied in the fuel per minuta, discharged in the
+exhaust g-es and in the jaoket water, as well as the B. H. P. exprwsed in B. t. u., are plotted
+on the same plots as the B. H. P. The numerical values of these items tabulated in Table 2
+were read from the curves. The ted results on fual consumption were plotted on arithmetically
+scaled coordinates on plote 2, 5, 8, 11, and 14; together with the mechanical and thermaJ efficiencies u derived from the curves~on plots 1, 4, 7, 10, and 13.
+
+.-
+
+534
+
+ANMUAL REPORT NATIONAL
+
+ADVISORY OOMIWF1’EE FOR AERONAUTICS.
+
+By using relative density of air instead of altitude, many of the relations can be changed
+from sharp curves to nearly straight linas. h a mattar of fact, the density is the controlling
+variable, altitude entars only because of the density associated witi.
+The heat distribution
+at the several speads, plote 3, 6, 9, 12, and 15, are plotted in this way, using relative density as
+absciswe with an altitude scale superposed. One set of curves shows the quantity of heat in
+B. t. u. as ordinates, which was supplied in the gasoline, utilized in the I. IL P., rejected in
+exhaust, and absorbed in jacket water. The other set gives the same items in per cent of the
+heat ~upplied in the fuel (gasoline).
+The heat distribution results of the 2,100 r. p. m. group were &et worked up by plotting
+the perccmtage of heat accounted for in the various items, M originally computed on each test.
+In fairing the curvee an effort was made to keep the total per cent heat accountod for down to
+as low a value as possible, consistent with the data. Later the curves thus obtained were Superposed on the plotted points of the tat valuas, plotted as in the other speed groups, and were
+found to agree quits well. For the other speed groups the heat distribution wae studied by
+This statement will explain why the 2,100 r. p. m,
+plotting heat units instead. of percentage.
+totals of “Heat account8d for” (Table 2) are somawhat lower than those of the other speeds.
+The difference is greater at the higher altitudes. The reeults for other speeds are obtainod in
+the more logical manner. It hardly seems possible that so much of the heat supplied could be
+accounted for in the observed items of the tests as shown in Table 2. SureIy there is considerable
+conduction, convection, and radiation of heat from the engine which was not measured. The
+exhaust gases were not analyzed, but undoubtedly they contained some unburnt g~oline and
+some producte of incomplete combustion. How much heat energy is supplied in the lubricating
+oil is, of course, unknown; but the oiI consumption of airplane engines runs somewhere around
+6 to 7 per cent of the volume of gasoline, or 8 to 9 per cent by weight. The heating value of the
+lubricating oil is substantially the same as gasoline, about 20,000 B. t. u. per pound. Some
+portion of this oil consumption must be burnt with the gtwoline. Perhaps it might be well to
+consider that the heat supplied in the fuel should be 3 to 5 per cent greater on account of the oil
+than is shown by the gasoline measurement. In case the heat in the exhaust is metxmredby the
+rise of temperature of a known weight of water which is mixed with and cools the exhaust gases,
+it is obvious that the higher heating wdue of the fuel must be used in computing the heat supplied.
+In these tests the &mhervalue w- used and correction was made for water vapor in the exhaust.
+When the lower heating value of the fuel is used, the engine is not credited with receiving EIl
+the energy which is actually supplied. The exhaust calorimeter measures this heat, because
+it condensss most of the water formed by the burning of the hydrogen of the fuel. The amount
+of heat thus charged against exhaust and not credited as supplied would be about 6 to 8 per
+cent with gasoline fuel (depending upon which one of the many lower heating values is used).
+IL GIZAPk3iCAL PRIMENTA!tION OF HEAT DISTRIBUTION AND ENGINE CHARACTERISTICS.
+
+Reading valuea from the curvee drawn through the plotted pointq of tcet rgsuh for the
+speeda of 1,300, 1,500, 1,700, 1,900, and 2,100 r. p. m. and for altitud& of ground 5,000,.10,000,
+15,000, Z0,000, 25,000, and 30,000 feet, the I. H. P.’s, B. H. P.’s, and fuel consumption per
+B. H. P. hour were tabulated on Table 1. In this table are also given other results of the
+graphical analysas: Mechanical efficiencies C& H. Pi”= I. H. P.), F. H. P. (ss originalitycomputed; also I. H. l?. minus B. H. P.); fuel consumption per 1. H. l?. per hour, the relative
+‘ ~indicated” torque, relative friction torque, and the brake torque as derived from original
+data on plots 22 and 23. In a similar mannw the vahms of the heat distribution are assembled
+in Table 2, on both a B. t. u. and a percentage basis, as well as the totaI per cent accounted
+for. The last was obtained by adding together the brake thermal tiency
+and the pcr cent
+heat lost in exhaust, in jacket water, and in friction for each speed and altitude. Using the
+values from these tables, the data were aesembled and plotted on the basis of r. p.m. as abscissw,
+each altitude treatad in a separate curve, plots 16 and 17. The three major varnables enfaring
+into the engine performance are power, speed, and air density. The original plottingof tie
+data considered the variation of power with density for constant speads, If pointe are read
+from these curves, and plottad as power versus speed for constant densities, the result should
+
+A
+
+STUDYOF A.DWLANE
+ENGINE
+
+536
+
+TEST%
+
+be a smooth curve. If the three variriblm are plottad on three dimensions, a mmoth surface
+shouId restit. (See Plot 18.) By plotting in this manner, if the points are consistent with
+each other, it means not only that the data -mm consistent, but ako that the various speed
+groups were handled alike in the graphical analyses.
+The brake thermal efficiency, plot 16 (lmsed on power delivered], remains constant ai
+about 24 per cent on tha ground through speed changm of from 1,300 to 2,100 r. p. m. As
+the altitude is increased, the brake thermal efMency drops to about 20 per cent, showing a
+maximum value at about 1,600 r. p. m. and with a tendency to decrease more rapidly with
+increme than with decrease of speed from this ‘ ‘bast speed.”
+.
+Aififudein Feef.
+cm
+
+Q
+-$/@
+
+IH.P
+8.b’.P
+
+R HP
+
+$64++-+++
+
+UttmEkf
+
+111
+
+I
+
+I
+
+II
+
+1
+
+Ill
+
+I
+
+I
+
+II
+
+1 I
+
+I
+
+-kkltkH
+
+3(9
+--t-
+
+The “indicated” thermal sffiiency, plot 16 (based on B. EL P. plus frhion, as equivalent
+to the horsepower that should be shown by an indicator card), remaim nearly constant at about
+26 per cent for all speeds and altitudes. There may be a tendency for the indicated thermal
+efficiency to increase with increase of speed at the ground, reversing b a decrease of efficiency
+with increase of speed at 30,000 feet. This is not shown definitely enough at present, as such
+tendency is hardly more than an allowable difference.
+
+ANNUAL
+REPORT NATIONAL ADVISORY CO~
+
+536
+
+FOR AERONAUTICS.
+
+The heat discharged in the exhaust, plot 16 (found by bringing the exhaust gases back to
+their original temperature and measuring the heat absorbed, neglecting unburnt and incompletel~burnt fuel), is at its maximum percentage at 1,900 r. p. m. at all”altitudes. It is almost
+50 per cent of the heat supplied when on the ground, decreasing to about 40 per cent at 30,000
+feet,
+The percentage 10ssin friction, plot 16, drops very slightly as the speed is increased from
+1,300 to 1,700, -whereit is a minimum at all altitudes, increasing again more rapidly as the
+speed is increased above 1,7oO r, p. m, At a given speed an increase of altitude caum an
+
+—
+
+woo}
+
+1+
+
+1
+1
+
+I
+
+III*1
+
+I
+
+4WU
+
+I I I
+
+I
+
+6
+
+I 4
+
+(t
+
+M%90
+
+,
+
+q
+
+“
+
+Y
+
+,,
+q
+I
+
+mm
+
+q
+
+1
+
+q
+
+)
+
+lffouo
+
+P/of No. /7.
+
+Revoluf;ons~er Min&e.
+
+increase of the perwmtage heat wasted in friction. Friction takes 2 per cant of the heat supplied when the engine is on the ground and turning over at 1,7oO r. p. m. At 30,000 feet, 6
+per cent is wasted, at the same speed. At 2,100 r. p. m. for the same altitude change, the
+increu is from 3 to 8 per cent.
+In making the tests, the jacket water, as it left the cylinders, was constantly kept at about
+140° F. A change of this temperature would certainly change the percentage values for exhaust
+~ossesand for thermal efficiencies. Perhaps friction would be altered, to a minor extent, through
+change of viscosity. The engine pumping work might also be slightly changed, As operabd,
+
+A STUDYOF AJRPLAME
+ENGINE‘lZSTS.
+
+587
+
+the jacket heat 10= on the ground, in per cant, is about constant at 17 per cent, through the
+speed changes. As the altitude is increased the percentage increases at alI speeds and becomes
+a mmiablewith speed for altitudes, so that at 30,000 feet altitude it is 35 per cent at 1,300 r. p. m.,
+dropping to 28 per cent at 2,100 r. p.m.
+Because of the change in amount of heat supphd in the gasoline, increasing with speed
+and decreasing with altitude, the percentage basis do= not give a complete showing of all
+the variations. On plot 17 it is scan that the heat suppIied increases (apparently) dirsctly
+feet it approximate this relation up to around
+with increase of speed at the ground. At 30,000
+with as great
+1,500–1,700 r. p. m., but a further increase of speed is not -ociated
+an increase of energy supplied. From the curves on plots 1,3,4, 6, etc., for constant speeds,
+it is seen that the heat supply is proportional to the density of the air, up to about 10,000 or
+15,000 feet; then, as the density decreases, relatively more gasoline is necessary, and the proportionality between density and heat supply ceases. This can also be indirectly seen from
+other curves, and will be ttakenup more fully later on. Apparently the change can not be
+charged entidy to carburetion.
+The heat (B. t. u’s.) lost in the exhaust, in the jackets, and utilized in indicated horsepower
+seem to foIlow, in a general way, the same relations with speed and with altitude es those indicated for the heat supplied.
+The friction losses shown on plot 17 are shown to such an open smde of B. t. u. that the
+internal variationa are apparently hrge, although refly they are relatively smaI1. Exactly
+the same curve has been drawn through the points for each separate ahtitude, and it seems
+to fit all of them equally well. From th~ it maybe deduced that altitude does not directIy
+tiect the friction 10SSCS.The basic assumptions are that the indicated power of an mgin9 is
+proportiomd to density, and that the friction loss for a given speed is nesrly independent of the
+density. The fact that this one curve does fit all the independently computed points is a sort
+of indirect evidence that the two assumptions are at ~eastfairly ccmsist.mt. Later an attempt
+will be made to check this assumption by indirect means.
+On plot 16 are plotted the tabulated values of mechanical efhiency.
+This is found to be
+a masimum at about 1,700 r. p. m. for all altitudes. M ground level it is nearly constant
+at 92 per cent for speeds from 1,300 to 1,700 r. p. m., failing off to about 90 per cent at 2,100
+r. p. m. As the aItitude increases, the mechanical efficiency decreases, until at 30,000 feet
+the tests show about 74 per cent at 1,300 r. p. m., rising to 77 per cent at 1,500 to 1,700 r. p. m.,
+falIing to 70 per cent at 2,100 r. p. m. There may be a tendency for the point of maximum
+mechanical efficiency to be at Lowerspeeds at the higher altitudes, although this is onIy shown
+as a possibility. It ISperfectly evident, however, that the effect of speed change upon mechanical efficiency is smaIl at ground, but at high levele it is very marked, and the efficiency wiIl
+rapidly fall off when the speed is altered from the optimum. According to Prof. G. B. Upton,
+“Airplane performance determined by engine performance,” S~bley Journal, June, 1918,
+pages 137–142 (reprinted in S. A. E. Journal, October, 1918), the mechanical tilency,
+as
+a function of altitude, is represented by
+Dmnly—Condun.t
+Dens@
+
+.—
+—
+..,. —
+.—.—
+
+‘
+
+—
+.—
+
+—-—
+
+-. —-— .._.
+
+,
+
+The constant for a given engine is density at ground x (1 – mechanical efficiency at ground).
+Applyiqg this to the rmlts of these tasts (Table 1), it is found that when the mechanical efficiency at ground is 0.915, the efficiency to be expected at 30,000 feet is 0.726. The arithmetic
+average of the tabular values at ground is 0.915+0.012, and at 30,000 feet is 0.745+0.040.
+This checks within the accuracy of the methods and data used.
+The fud consumption, in pounda per horsepower per hour, both for L K P. and B. EL P.,
+is aIao plotted on plot 16. When bssed on B. H. P. the effect of change of mechanical efficiency with altitude increasm the best economy from 0.50pound per B. H. P. at ground to
+0.61 pounds (or more) at 30,000 feet. At ground the maximum economy is obtained at 1,500
+r. p. m., possibly shifting to 1,700 r. p. m. at 30,000 feet. Mao the change of mechanical efficiency at high leveIs, with cha~oe of speed, alters the fuel consumption per brake horsepower,
+so that at 30,000 feet 0.65 pound is required at 1,300 r. p. m., dropping to 0.61 at 1,700, and
+
+-——
+
+—
+
+.——
+—.—
+
+538
+
+ANNUAL
+REPOIIT
+NATIONAL
+ADVISORY OMMITTEEOBAERONAUmOS.
+C
+F
+
+sgain increasing to 0.69 at 2,100 r, p. m. (The values are perhaps in error for 1,500 and 1,700
+r. p. m., being, respectively, too high and too low, at altitudes of 25,000 and 30,000 feet).
+On the ground similar speeds ch~~e the consumption from 0.515 to 0.60 to 0.525. This is a
+6 per cant variation from the optimum at ground, compared with a 13 per cent variation (-)
+at 30,000 feet. Tho fuel consumption per I. H. P. per hour, for a given speed, remains about
+constant at around 0.46 up to 10,000 or 15,000 feet; above this it inoreasm with altitude.
+At ground, 1,500 r. p. m. seems the most economical speed, with a maximum variation of
+about 3 per cent for the changes of speed shown. At 30,000 feet, 1,700 r. p. m. appears to be
+
+A STUDYOF AIWZANE ENQINETESTS.
+
+589
+
+the most economical speed, with about 4 per cant variation. The fuel consumption data
+wiIIbe considered later, utilizimgthe B. t. u. supplied as a means of attack, instead of the pounds
+per horsepower hour.
+The tabuIated dues of L K P. and B. H. P. were also plotted on plot 16 in the mrne
+manner as the other values shown on plots 16 and 17. Deduction can be made more rapidly
+if the horsepowers are plotted, one curve for each ahitude with r. p. m. as abscism and horsepower as ordinates, as on plots 18, 19, and 20.
+III. RELATIONS
+
+BETWEEN
+
+POWER
+
+AND SPEED.
+
+Plot 18 is interesting as showing how the relations between power, speed, and relative
+density of the air (altitude) form a warped surface when plotted on three dimensions. The
+B. H. P. would be zero when the relative density of the air became about 0.1 of the
+density at the ground. Also, no power can be secured from the engine, witi open throttle,
+when it is loaded until the speed drops to about 45o r. p. m, For a given density the relation
+between speed end power is the intersection of a phme though b rdfdh
+dasity 00adinates and the warped surface. Suoh curves are shown more accurately on plot 19,in
+the customary manner of presenting engine characteristics. The extensions of the B. H. p.
+curves to speeds much below 1,200 r. p. m. are, to a large extant, specuIatioq hence the ~tinsions are shown in dashes. At ground level a fairly large increase in brake power comes from
+increasing the speed from 1,3oo to 2,100 r. p. m The gain is lass and less as the altitude
+inmeases, until at 30,000 feet practically no gain in power results when the speed is increased
+above 1,700 r. p. m. The totaI gain from 1,300 ta 2,100 r. p. m. at 30,000 feet is about 40 per
+cent, 33 per cent gain being made from 1,360 to 1,700. On the groun~ the per cent kmeme
+of power is the wune (33 per oent) between 1,300 and 1,700 r. p. m., whiIe the totaI gain from
+1,300 to 2,100 is about 50 pSr oent.
+The curves of I. H. P. versus speed, for several altitudes, plot 20, difkr from the B. H. P.
+curves by the addition of a variable friction loss ta the B. H. P. curves.
+The L H. P. curves apparently would ommwrge, and at about 450-500 r. p. m. the engine
+would ‘t stalI” at open throttle, because no power would be available above that required to
+overcoma the fiction of about 10 horsepower at this speed. In the actual engine it is probable
+that carburation would go bad bafore this point was reached,
+IV. FRICTION LOSSES.
+
+On plot 20 is dlso shown the friction horsepcnver, a ccmstant for each speed, which wss added
+to the original B. H. P. altitude curve for each speed in order to obtain the L H. P. The plotted
+value at 1,700 r. p. m. frdls below the curve as drawn, and if the curve were drawn through it,
+the shape would be distinctly ohmged. The friction horsepower at speeds below 1,300 r. p. m.
+was speculated upo~ in the absence of data. On plot 21, speed is used as absoiswe, but the
+ordinates me proportional to the “indicated” torque. A constant times the numerical SCal@
+used will give true indicated torque as the scaling numbas me the I. H. P. times 100 divided
+by r. p. m The smne scaling is used for friction torque. The dash curve, whioh is tie most
+logical admtion of the friction horsepower curve on plot 20, indicated a ckease of friction
+torque with inmease of speed, from 500 to 1,500 or 1,700 r. p. m, increasing again for higher
+speeds. The dotte_dcurve is frankly a constant filction torque line horn lowest speeds to about
+1,5oo r. p. m. It is reproduced on plot 20 in dots. The dash curve (reverse curve on torque)
+is more needy the truth as shown by these tests.
+A plain bearing, with constant load, and using an oil of constant viscosity, will show
+friction torque increasing *& inorease of speed. Iimrease of speed, however, decreases the
+viscosity of the oiI due to heating by the inoreased total friction. In the engine the heating is
+considerably greater than in a pkin besring because of the greater heat from the burning of
+more fuel at greater speeds. This increase of temperature will reduce the viscosity of the oil
+and this reduction of viscosity ti
+reduce the friction, and may be sufEoient to reduce the
+totaI friction turque- The pumping 10SS(low= loop of indicaimr card) would be nearly constant
+with open throttle, even over a considerable range of low speeds. The power required to over-
+
+.
+
+540
+
+ANNUAL
+REPORT
+NATIONAL
+ADVISORY OMMITTEE
+C
+I?ORAERONAUTICS.
+
+I
+.:
+
+i
+m
+
+“
+
+. .
+
+. .
+
+#w I
+
+[
+
+N&
+
+I
+
+I
+
+I
+
+6!$$
+
+I
+
+-.
+
+//V171CATE0 HOIRYEPOWER
+
+.
+
+m
+R.fvOL
+
+I
+
+I
+
+.8
+
+I
+
+z###bW
+F#ofNo. 20.
+
+ffotNaZl
+
+Revo/utm#oU
+
+AzInute
+
+HotAb.24
+
+L--
+
+UTIOM;SMRPVNUTE
+
+--
+
+f
+
+1
+I
+I
+I
+I
+&v
+mlmlmkwmwzwo
+Revolufibnsmer .@hufe.
+
+A!evolufkwsper #hAs.
+
+.
+L
+
+@’fA
+
+I
+
+1
+
+I
+
+A STUDY OF MRPI&KE
+
+EJW31NE TEST%
+
+541
+
+come the friction of the bemings and to drive the gears, magnetas, pumps, etc., would not
+change much at low speeds. Altogether it is suggested that the friction power 10SScan be express~d by a formula of the type
+F-a-f- bN+clV’i-diW,
+in which
+~= friction losses.
+.
+~=r. p. m.
+a, 6, c, and d,= coefficients (not necess@ly constants) which itlchlde variables depdillg
+upon bearing pressures (gas and inertib), pieton rubbing, pump and magneto driving
+power, temperature, oiI characteristics, etc.
+At higher speeds, the friction losses would increase much more rapidly than at low speeds.
+It may seem that too much attention is being paid to this matter of friction losses. The
+reason for endeavoring to discover the fundmnentsl laws controlhg the mechanical and other
+losses is that tie effect of these losses is much magni6ed at high altitudes. The meihanic.al
+efficienq of the engine is a dominant factor in the performance of a plane at high altitudes.
+A knowledge of the amount of the items of mechanical 10SSES therefore a necessary prelude
+is
+to improvements in _
+as well as for use in obtaining information concerning the heat
+distributio~ the fuel consumption, etc. For these reasons, and in lieu of more definite data,
+several indirect methods have been used in the attempt to deduce the trutk
+Some attempts have been made to measure the losses of internal combustion engines by
+measuring b power required to drive them at severaI speeds. hotier
+suggestion is to cut
+off the ignition from each cylinder, in turn, and to note the power 10S when speed is m&taine&
+Perhaps it would be well to repeat these lattar tests wiih two or more oylinders cut out at one
+time. +The errors in measuring friction by &
+methods need not be discussed hem By
+taking the values of friction resulting from such tests, and from such msumptiona se me here
+made, it would seem poasible to know the absolute accuracy of each metiod of assumption.
+A suitable indicator is, of course, the logical solution of the problem.
+The friction horsepower of the Hispano-Suiza engine is shown to a more open scale on plot
+25, using the same values as on plot 20, and also all values shown in Table 1. It seems to increase very slowly from 1,300 to 1,700 r. p. m. and then b rise very rapidly. There is reproduce~ also on plot 25, a curve given in Automotive Industries, January 23, 1919, page 212, for
+a class B war-truck engine. The method of obtaining the data for this latter curve was not
+stated, and is not known, but it probably was obtained by meesuring the power required to
+run the engine at various speds, while still hot from previous operation at open throttle. These
+two curves ha~e been changed to friction torque (friction mean effective pressure) by the devica
+of dividing F. E. P. by r. p. m., and thus shown on plot 26. The scaling is not the numerical
+value of torque or M. E. P. The numericaI values of F. K E. P. are given in Table 33. The
+curves for both Hiepmm-Suiza and ohms B truck engines have the same gegeral clmraoteristie+
+showing friction torque to decresse at first with increase of speed from the lower speeds, reaching
+a minimum value at some intermediate speed (dependent, probably, upon the engine &ii),
+and then inmeasing according ti some function of the spee~ which function may be approximated by raising the speed to an exponent greater than unity. On plot 27 the curves of plot 26
+are reproduce~ plotting the logadhme of r. p. m. against the logeritluns of F. H. P. The two
+curves are seen to be of the same type (form of equation) but with different engine constants.
+With the hmrer speeds the friction horsepower apparautly imressee with r. p. m raised b the
+0.78 powEw,that is, F. H. P. increasing less rapidIy than the r. p. m, After a short transition
+period the F. H. P. seems to increese as the r. p. m raised to the 2.28 powm—not quite the
+cube of speed. It should be noted that there are separate numerical scalings for the two engines.
+The matter of friction losses was considered in a paper “High Speed liternal Combustion
+Engin.eS,)I Mr. H. R. Ricardoj appearing in Engineering (London), May 24, 1918, page 5W.
+by
+Some of the ntunericd estimates from this paper are abstracted in Table 4. The bearinga and
+accessories take about 1.8 pounds per square inch pressure upon the piston (of the mean effective
+pressure], the piston friction about 7.2 poumls per square inch and the fluid pumping 10SS
+(lower loop of diagram M. E. P.) about 3.4 pounds per square rnch. As a check on the accuracy
+
+.—
+
+. .-
+
+—.
+.: ._
+
+.-
+
+Log. ofR.EM. of C\assB Wur Z-Uck Engine.
+
+J%I’27.
+
+@
+
+forHispano -Suizu Engine
+d R.E’M.
+
+en
+
++’
+
+co
+
+1
+
+544
+
+AMNu& REPORT NATIONAL ADVISORY (YOMMH5!EE FOR AEBONAUTIIJS.
+
+of these vahms, some data on the power required to drive the water pumps of the 20&horsepcwer
+Austro-Daimler aero engine were found in Engineering (London) of November 8,191$ page 537.
+By extending the curve thro~h the values there given, according to the law that the pump
+power varies with the cube of speed, it was found that the pump would require from 0.14 to
+0.41 pound per square inch piston pressure at normal engine speeds. This checks Mr. Ricardo’s
+values of 0.3 to 0.6 pound per square inch. It also demonstrates that something besides the
+water pumps causes the F. H. P. to rise nearly with the cube of the r. p. m. at higher engine
+speeda. It probably means that inertia forces at high speeda cause metal-to-metal contact
+between pisinn and cylinder. Inertia forces increase with the square of the speed. Therefore
+the power required to overcome friction from inertia forces will tend to increase with the cube
+of the speed, and it may be concluded that speed is more of a factor than mean effective pressure
+in determining friction of the piston.
+The subject of piston friction deserves special study. If it is possible to relieve the pistons
+in intarmd-combustion engines of their function as a crosshead, it may be possible greatly to
+increase the mechanical efficiency of the engine. Taking the friction losses in Table 4 (Ricardo’s
+losses, the bearing, etc., 10SSOS
+become about 20 per cent
+values), and eliminating the pumping
+of the total, and the piston friction about 80 per cent of the mechanical losses of the engine.
+‘Working upon the idea that the brake torque might shed some Iight upon the validity of
+the assumption that the friction horsepower was dependent upon speed and independent of
+altitude, and in order to furnish a check on the original B. H. P. and 1. IL P, curves for each
+speed group, the original data from tests are plotted on plot 22, “pounds pull on the brake
+arm’! versus r. p. m. This pull on brake mm is numerically equal to the brake torque, times
+a constant, and also to the brake M, E. P., tinu% a “ccinstant.” Curves were drawn through the
+mean of the pointe for each test altitude. Then, for speeds of 1,300, “1,500, 1,700, 1,900, and
+2,1oo r. p. m., the brake torque was read from these curves, and plotted on Logarithmic croassection paper, plot 23, with brake torque versus barometric pressure, using a separate curve
+for each speed. At 1,500 r. p. m., the brake torque is at-its maximum for all altitudes, apparently being a straight line up to about 20,000 feet, with a slope of about 1.17 for its straight
+portion. This means that the brake torque and B. M. E. P, are equal to a constant times the
+density of the atmosphere raised to (about) the 1,2 power, and is not directly proportional tcthe density. The brake torque at 1,700 r. p. m. is the same as at 1,500 from ground up to
+20,000 feet, falling off from proportionality at Klgher altitudes. For 1)300 r. p. m. the brake
+torque is slightly less than at 1,500 or 1,700 on the ground, but Waintains, best of all, the
+relation
+B. m. e. p.= cons. x (density of atmosphere) ‘.’
+even up to 30,000 feet. At this altitude 1,300 r. p.m. gives greater torque thm 1,700 r. p.m.
+and nearly equal to 1,500 r. p. m. The 1,900 r, p. m. torque is nearly as great as the torque
+of 1,300 r. p. m. when on the ground, but at 15,000 feet it begins to fall away from the (density)!. Z
+relation. The brake torque at 2,100 r, p. m, perhaps stark out by varying with (density)ioz,
+but follows it only to about 12,000 feet; when it decreases more and more rapidly as the density
+is decreased.
+From fundamental facts, the indicated mean effective pressure upon the piston must be
+almost proportional b the density of the air except for changes in the carburetion. The indicated mean effective pressure, minus the mem effective pressure required to overcome the
+friction losses, gives the brake mean effective pressure. Plot 23 seems to show the brake mean
+effective prtssure, for a given constant speed, to be a combination of straight line at relatively
+high densities of air with a curve dropping downward for the lower densities. Perhaps the
+straight line is, in truth, not straight, but a curve, so alight as to appear straight within the
+accuracy of the cross-section paper and data as used here. If these are really curves, then it
+is incorrect to assume that the brake mean effective pressure varies with the ~
+density of the
+atmosphere raised to a certain power. If it is a curved Line, then the relation may bean
+equati& of the form
+I.Mo E. P.-F. M, E. P.==B. M.E. Pi
+in which F. M. E. P. maybe a constant for any given speed,
+
+.
+
+A STUDY
+
+OF AIRPLAXE
+
+XNG~
+
+TESTS.
+
+545
+
+It is the bdi.ef of the writer, based on the fundamental kvs end on the data here presentad, that this latter form is very close to the truth, i. e., that the friction metm effective
+pressure is practically a constant for a given speed and independent of the altitude. Plots
+22, 23, and 24 are comparable with the log curves of power versus barometer for the several
+speed groups. But the B. H. P. of plots 1, 4, 7, 10, and 13 are replaced by brake torque in
+plot 22. & this is a slightly diflerent method of attack and is carried out independently, it
+tends to confirm the belief in the correctness of the original assumption.
+In order to present these results in the usual fo~
+the characteristic curves of tirque
+versus spcwdfor ditlemnt altitudes are given on plot 24. Again this shows the maximum tmque
+on the ground and up to 10,000 feet altitude to be at about 1,600 r. p. m. ocxurring at slightly
+lower speeds as the altitude increases (around 1,500 r. p. m. at 30,000 feet). The actual loss
+of brake torque (B. M. E. P.) on the ground, due ta increasing the speed from 1,800 to 2,100
+r. p. m., is twice that when at 30,000 feet aItitude. On a percentage basis, the loss at ground
+for this speed change is about 6 per cent. The loss at 30,000 feet is about 10 per cent. Using
+vslues of indicated torque (I. M. E. P.) read from the curves of plot 21, a loss of about 5 per
+cent of the indicated torque at 1,800 r. p. m. redte from increasing the speed to 2,100, both
+on the ground and at 30,000 feet altitude. Perhaps it is a littIe more at 30,000 feet than at the
+ground.
+V. GAINOF POWERTHROUGH
+INCZUM8E SPEED.
+OF
+The change of power due to a change of speed, at different sltitudes, is a s-ubject that has
+been previously noted several tirmw. These relat.ionswill now be taken up again in connection
+with Table 5 and plots 28 and 29.
+Taking the I. H. P. and B. H. P. values in Table 1, the gain of power was tabhdated in
+Table 5 for an increase of 200 r. p. m. from 1,300 to 1,500, from 1,500 to 1,700, etc., at each of
+the aItitudm previously used. These gains of power are also shown as percentages of the
+power at the lower of the two speeds.
+It tdso seemed desirable to colhct a.11 the original constant speed curves showing the
+of
+relation of horsepower and altitude Cl?able1 and plots 1, 4, 7, 101and 13) onto one sheet, and
+t-o present them On ordinary instead of logarithmic scaling. This is done on plot 28, the or&nates of which are L H. P. and B. H. P., distances upon which are directly proportional to
+horsepower (arithmetic scaling). By using relative density of the atmosphere an abscissae
+(density at ground equals unity) the I. H. P. reldioDs become straight Iines passing through
+zero power at zero density. The B. H. P. relations are nearly stra&ht lines, curving slightly,
+and apparently showing no power deIivered when the density of atmosphere becomes about
+one-tenth of that at the ground. It may be remarked that the curvature of these B. H. P.
+versus density curves is extggeratcd (to the eye) when plotted upon logarithmic cross-section
+paper (compare with plots 1,4, 7,10, and 13). The curvature upon plot 28 is hardly noticeable.
+A scale of altitudes in feetiis supe~osed upon the relative density scale. Altitudes of 6,000,
+10,000, 15,000, 20,000, 25,000, and 30,000 feet are also shown as abscissae. They are logarithmically iq?aced, such spacing being due to the reIation between barometric pressure and
+altitude.
+The temperature of the atmosphere for these hsts was nearly constant. h actusl flight
+the temperature changes with the altitude. A change of temperature not only affects the
+density of the air, but it may also affect carburetion. Ih so far as it altars the density it is
+equivalent to a change of altitude. By the use of density instead of altitude in plotting curves
+of engine perfommnce, the temperature effects are accountid for except as they change engine
+performance through carburetion or engine cuoling.
+The curves of plot 28 show graphically the fact that an increase of 200 r. p. m. mem a
+nmch greatar gain of power at the lower speeds than at the higher, for any ahitude. Ther dso
+altitude incresees a amrdler power gain is secured for the -e
+speed chmge.
+show
+that
+as the
+These gsins are tabulated in Table 5, and plotted as curves (or strsight lines) on plot 29. Using
+percentages instaad of horsepower, plot 30 shows graphically the values of Table 5. At 30,000
+feet it is noted that a @n of 2 B. H. P. made on increasing speed from 1,700 ta 1,900 r. p. m.,
+167030-8.D~ 807,~
+*
+
+-----
+
+,
+
+—
+
+— -.
+.—.
+
+,
+
+q
+
+646
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY UOMMITTEE
+
+Alfii’ude h Fif
+
+#
+
+m
+
+m
+I
+
+E
+
+I
+
+I
+
+d
+
+&wmawm
+
+—
+R
+1
+
+I
+
+1
+
+I
+
+I
+
+ACTUAL /NC&#OFIWW~
+
+I
+
+I
+
+m
+
+FOR -NAWL’ICIS.
+
+‘“ “&
+
+ti-”mtuzwfwv
+
+1,
+
+IHI’’’’’----IH{
+
+&5? C.#T//V~~C55ASE
+
+WfOWER
+
+1
+
+#of ffuti.
+
+RM9f&0emify
+
+Of.4ie
+
+AAVYudcm’Feefi
+
+I
+
+/m
+
+I
+
+,,
+
+‘k
+i
+
+,
+
+h
+.
+
+1. I
+
+,
+
+I
+
+I
+
+.
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I I
+
+I
+
+l\l
+
+I
+
+P
+
+“1‘h. ! ‘??! PA.! !=
+AlfIfude
+
+m
+
+FMf.
+q
+
+1
+
+.
+548
+
+ANN&L
+
+REPORT NATIONAL
+
+MIVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+and 1 B. H. P. from 1,900 to 2,100. It has bean noted that between 1,500 and 1,700 r. p. m.
+the engine is most efhcient. At the higher altitudes the gains are relatively very and for an
+increase of Bpeed above 1,700 r. p. m. The percentage increase of B. II. P. for an increase of
+speed from 1,700 to 1,900 or from 1,900 to 2,100 r. p. m. is smaller and smaller as the altitude
+increases, showing the effect df the constant friction torque at a given speed upon the power
+output, as the weight of charge decreases with the density of the atmosphere combined with
+he more rapid increase of friction torque due to increase of speed at higher speeds (plot 26).
+From 1,300 to 1,700 the friction torque apparently decreases with increase of speed. This is
+the reason why the per cent increase of B. H. P. dub to increasing the speed fionz 1,300 to 1,500,
+and from 1,500 to 1,700 r. p. m, is nearly constant, as is indicated in Table 5. Altitude does
+not change the per cent increme of indi.cutedhorsepower when speed is raised from one definite
+rate to another.
+OF
+VI. EFFECTS CHANGE OF DENSITY AND SPEED ON CAREURETION.
+In studying the distribution of the energy supplied ti the engine, the heat accounted for
+in the various ways, including L H. P. and friction, seems to follow rather simple relations
+untiI the density of the atmosphere is greatiy reduced. Then the relations apparently change
+ti some other less simple law. This may be due to an incomplete application and understanding
+of the fundamental laws, or it may be due to difEcultiea of carburetion. In an endeavor to
+obtain more information on this subject, the heat supplied in the fuel per unit time (this is
+directly proportional to the weight of fueI supplied) was plotted against spmd, using the
+logarithmhdly spaced coordinates on plot 31. The values were obtained from Table 2. The
+engine was operatml with open throttle at all times. The carburetor was adjusted to give the
+best mixture for each change of conditions. Preliminary tests had been made to determine
+the best ignition timing, in which it wcs found that on the whole a fixed spark advance of about
+23 degrees gave the best operating conditions at all speeds and altitudes, and that slight changes
+hardly affected the mxndts. The spark timing was therefore the same for all the tests here
+considered.
+The heat supplied per unit time wss plotted on plot 32 against relative density of the
+atmosphere. This plot is the assembly of the “B. t. u. supplied” curves from plots 3, 6, 9, 12,
+and 16, The. straighi lines on p’fot 32 are frankly drawn through the zero-zero and then wrung
+through this point so ss to fit the other poinb ss well as possible. The dash curves through
+1,300 and 2,100 r. p. m. really fit the data better. The deviation is of the order of about 10
+per cent of the gasoline supplied,. @ich wodd allow for a change of mixture between, say,
+14 and 15.5 parts of air to 1 of gasoline (weight proportions).
+The heat supplied per unit time (from Table 2) w= divided by the revolutions per minute,
+and is recorded on Table 6. These values me equal to a constant times the weight of gasoline
+supplied per suction stroke, These values show the effect of volumetric e.ftkiency in decreaw
+of charge with increase of speed at any given altitude. The vslues of the quotients of B, t. u.
+by r. p. m. are shown on plot 33. Straight lines were drawn through the points of zero densityzero gasoline and then forced to fit the pointMfor 1,500 and for 2,100 r. p. m. The heavy curve,
+shown in dashes, is drawn through the numerical average of the points at each altitude, This
+plot shows, more plainly, the same facts as plots 31 and 32. Another method of attacking this
+problem is by means of the fuel consumption per indicated horsepower per hour,. which will
+eliminate the variable efficiencies, both volumetric and mechanical. Fuel consumption cfivea
+are given on plots 2, 6, 8, 11, and 14, and sometimesindicate the maximum economy at moderate
+altitudes. A a rough check, the average weight of fuel per indicated horsepower at each
+altitude, as computed from Table 1, is given in Table 6, and is plotted on plot 33.
+The deductions to be drawn from plots 31, 32, and 33 are as folIows:
+Assuming 100 per cent volumetric efficiency, the weight and the volume of air drawn into
+the cylinders should be d.irectiy proportional h the 8~
+of the engine. Also assuming a
+constant weight proportion of gascdim to air for all speeds, the values on plot 31 should fall on
+46° lines. They do not, but they show a maximum of 10 per cant more gasoline needed at
+1,300 than at 2,100 r. p, m. The change of volumetric eilickmcy can acamnt for this, because
+
+,
+
+A STUDY OF AIRPLANE
+
+ENGINE
+
+TESTS.
+
+549
+
+of the reduction of weight of air drawn in on each suction stroke at the greater speeds. Valve
+timing (inlet opening 10° late and closing 50° late) and temperature effects may be other contributing factors.
+If the weight proportion of gasoIine ta air were constant at the saveral altitudes, then the
+distances between the plotted curves on plot31 ahouId be equal. This follows from the relation
+between density and iltitude that the log of depsity equak a constant minus another constant
+times ditude.
+Hence equsl increments of ahiitude will causa equal increments of log density.
+The plotted curves of values are not equally spaced for equal inmementa of altitude. As the
+carburetor was adjustid by hand for each test, the points indicate that the proper proportions
+of gasoIiue to air are not a constant when ihitude is changed at constant speed. The 45°
+referenca lines on plot 31 are arbitrarily drawn to pass through the test points of 2,1oo r. p. m.,
+and to be equaJIy spaced, the spacing being the distance between the 2,100 r. p. m. points at
+the lower ahitudes. This spacing is too great for the resub shown at the higher altitudes.
+It has been noted that the appearance of curves on logarithmic cross-section paper are sometimes deceptive, and, for this reason, plot 33 is much better for this side of the problem. Evidently the engineem making ths tests found that the leanest mixture COUM used at around
+be
+15,000 feet, and greater weight proportions of gasoIine to air were necessary at the other altitudes.
+Again, this change is of an order of maggtude, generally much Iess than 10 per cent. Too
+much reliance should not be placed upon the indications or tendencies shown on this plot and
+the two preceding ones. The remarkable features are the consistency with which the carburetor
+It is probable that the pecuhities of heat diswas adjusted at the begiming of each Wt.
+tribution at high altitudes are not entirely due ta carburetiom
+
+-.
+
+ANNUAL
+REPORT NATIONAL ADVISORY (JOMMITTEE FOE AERONAUTICS.
+ddu andradta.
+TABLE 1.—Avaug6il ted
+BRAKE HORSEPOWER (h M-).
+[Prom plots 1 W 16,inoludve,22and S%]
+I
+
+I
+
+I
+
+I
+AUltude.
+
+~
+1,KM
+1,700
+i!%
+I
+
+I
+
+119
+184
+144
+160
+
+W1.’l
+109
+117
+laa
+
+114
+164.6
+160,
+s
+16La
+176
+
+96.2
+Ill
+lx
+
+68.b
+ne
+76
+78
+
+..........
+..........
+..........
+..........
+
+%;
+
+so
+95.8
+Io6
+;~ 8
+
+94.6
+97
+
+ms
+XLs
+1%.9
+m.a
+
+~s
+
+67.6
+96.6
+lM
+
+7#6
+
+146
+166
+177
+1856
+
+z
+an
+22S
+
+7a
+
+..........
+. .. . . . . . . .
+..........
+..........
+.. . . . . . . . .
+
+I
+
+1,803
+1,ix$)
+1,m
+
+if%
+
+ls7
+ml
+m
+197.17
+
+%
+
+164.5
+
+x
+
+an
+
+~RI~ION,
+1,30)
+1,m
+1,m
+
+ETC., EORBEPOWER
+
+25
+
+:
+
+lx 1
+~s
+
+WI
+16.6
+16.6
+gtl
+
+i!.8
+%li
+
+it:
+
+(for d4itndw by dlEererrce).
+16.1
+16.9
+
+lal
+14.8
+
+&
+m
+
+:6
+
+E 84
+
+&l
+
+%1
+
+if%
+
+%8
+
+M.1
+14.7
+1s.7
+
+H. 1
+14.7
+lea
+
+%.:
+
+,%.s
+
+—.
+MECH~ICAL
+
+&
+1,700
+
+99
+9L8
+~6
+
+j%!
+
+90
+
+TORQUE
+
+(B.H.P.+I.H.P.).–
+
+,..
+
+86.s
+66.8
+g:
+
+S&:
+
+:2
+
+74.4
+
+$:
+
+Sk:
+
+y
+
+m #
+
+88.6
+86.6
+sill
+67.6
+85.8
+
+w
+91.9
+89.7
+86
+
+BRAKE
+
+EFFICIENCY
+
+80
+
+76
+
+n. 5
+
+71’dStiV6
+
+B.M.E.P.)
+
+..
+
+.. . . . . . . . .
+..........
+..........
+..........
+. . . .. . . . . .
+
+.
+
+.-
+
+(from oumm).
+
+(PouudJ pull at 21hrob mdhu.)
+1,am
+$RJ
+2;Iw
+
+INDICATED
+1,am
+1,m
+1,700
+ij%’
+FRICTION,
+
+m
+m
+m
+
+!M
+ml
+m
+!w
+%7
+
+SW
+Sta
+659
+846
+930
+
+Ma
+168
+lm
+la
+172
+
+i%
+
+TORQUE XCONSTANT
+
+i%
+lse
+
+(relatlvB I.M.E.P.)
+
+68
+w
+97
+w
+m
+
+876
+
+E?J
+
+HJ
+
+~olo
+
+683
+
+M
+
+591
+
+448
+
+..........
+..........
+..........
+..........
+..........
+
+. . . . . . . ............
+. ...*....
+. . . . . .. . . .
+..........
+
+(rek41ve F.M.E.P.)
+..........
+..........
+..........
+..........
+..........
+
+..........
+..........
+..........
+..........
+..........
+
+.
+
+424 . . . . . . . . . .
+..........
+..........
+g
+. . . . . .. . . .
+409 . . . . . . . . . .
+
+MS
+
+;
+
+789
+746
+g
+
+016
+
+$:
+
+ETO., TORQURXCONSTANT
+
+..........
+..........
+..........
+..........
+......... .
+J
+
+(1.EJ’.+R.P.M.).
+
+1,664
+
+1,906
+1,?03
+1,XC4
+1,242
+1,!n5
+
+1,600 . . . . . . . . . .
+..........
+l,mo
+1,m
+..........
+..........
+i$%
+..........
+
+Ml
+w
+la
+Ils
+100
+
+Ifa
+X64
+
+(frktfou, etc., H. P.+R.P.M.1
+
+..........
+..........
+..........
+..........
+..........
+
+..........
+..........
+..........
+..........
+. . . . . .. . . .
+
+107
+w
+1:
+Us
+.
+
+FUEL
+
+CONSUMPTION
+
+(Lb
+
+per B.H.P. per hour) (from OWVW).
+
+*
+1,300
+1,m
+1,700
+&
+
+0.MS
+;g
+.6s9
+.626
+FUEL
+(Om@ed
+
+asal
+.510
+. Slo
+.599
+.W
+
+0.52s
+A&
+.E34
+.&w
+
+0.540
+.697
+%
+.679
+
+:~
+.849
+J&
+
+0.594
+.i?$o
+.673
+:%
+
+0.649 . . . . . . . . . .
+. . . . . . . .. .
+;~
+..........
+.&a . . . . . . . . . .
+.fm
+..........
+
+q
+
+.-
+
+CONSUMPTION
+
+(Lba
+
+per I.H.P. pm hour).
+
+from B. H. P. wnsumptlon and mechanfml effldency.)
+r
+
+1,8W
+1,5XI
+kRi’
+& 103
+
+0.474
+.469
+.400
+. 4e3
+.475
+
+0.4’iu
+. 4W
+.465
+;%
+
+o.40S
+.4s1
+.461
+.468
+. na
+
+CL4S3
+.E
+. 4n
+. 47a
+
+0.469
+.453
+.465
+.474
+.479
+
+a 47I
+.470
+.407
+.474
+.&a
+
+o.m
+.401
+. 4m
+.475
+.467
+
+..........
+..........
+
+. .. .... .. .
+
+..........
+..........
+
+A STUDY OF AIRPLANE
+TABLE
+
+ENGINE
+
+2.—Atwagui Twt Wribu&n,
+m
+
+651
+
+TESTS.
+
+&a and remits.
+
+plots I ta 15,iItcMn]
+
+B. T. U. SUPPLIED
+
+IN FUEL, PEE UNIT
+
+T=
+
+(framctuwJ).
+
+..
+.—.
+
+_
+
+—
+
+JACKET
+
+LOSSESsR. T. U. (ticuTY@.
+
+-.
+
+B. T. U. IN I. H. P. (B.’T. U. k B. H. P.+me&efL+l@.
+,
+
+T=RMAL
+
+I
+THERM-4L
+
+I
+
+I
+
+EFFICIENCY
+
+EFFICIBNOY
+
+1
+
+r
+
+r
+
+r
+
+I
+
+I
+
+.. —
+
+ON L H. P. (coIupntd).
+
+t
+
+ON B. H. P. ~
+
+1
+
+1
+
+T. U. fII B. = P.Xl~B.
+t
+
+T. U. =WP~).
+r
+
+-...
+
+552
+
+ANNUAL
+
+REPOBT
+TABLE
+
+NATIONAL
+
+ADVISORY
+
+COM3KITTE
+
+E FOR
+
+AEROITAUTIOS.
+
+2.—Awerageti eut riietribution, &ta and remtts--%ntinued.
+h
+FRICTION,
+
+ETC. , LOSSES (@i 66iN).
+(
+Altitude.
+
+(I%?%
+
+I&ot$o
+
+33
+
+y&o
+
+~iyl
+
+.
+
+l—
+1,300
+1,Xu
+L ml
+
+‘J.I
+21
+
+i%’
+
+k:
+!4.7
+
+X6
+2.7
+2.8
+2.8
+8.2
+
+&7
+8.6
+9.6
+8.8
+4.6
+
+8.1
+H
+8.8
+8.8
+
+L6
+
+1,m
+1,5C0
+I, 7!’H3
+
+43.i?
+
+4..9
+hB
+6.8
+..
+
+2:
+49.2
+43.4
+
+:;!%
+
+M
+fa:
+
+I
+
+I
+
+L41SSES fpr cent).
+
+Uo
+
+I
+
+48.9
+43.0
+47.0
+45.4
+45.7
+
+M
+47.8
+47.0
+47.2
+
+1
+
+1
+
+6.6
+6.0
+&s
+tL7
+7.6
+
+;;
+
+::
+4.6
+6.2
+
+i
+EXHAUST
+
+&l&yl
+.
+
+4L 8
+fi :
+;.
+
+I
+
+—
+
+37.4
+
+g;
+
+$:
+
+41.s
+
+.
+
+—.
+
+n“ o
+
+I
+
+I
+
+I
+
+JACKET LOSSES (per cent).
+1
+
+,
+
+I
+
+1 3C0
+1,ml
+1,703
+1, m
+!4,100
+
+1
+
+17.4
+1%4
+17.6
+M. 3
+18.0
+
+I
+
+19.9
+$;
+
+PER CENT HEAT
+
+2;
+%0.0
+
+M
+8Z:
+
+8L8
+27.9
+g:
+
+.2:’
+
+z“ p
+
+%
+
+FOE (B. H. P.+ frkt.+exL+jkt.).
+
+.-.
+
+I
+
+I
+1
+
+~ABIJ?
+
+1,3UI
+
+m. 1
+
+;;E
+
+N
+91.s
+.X6
+
+M%
+
+w. 1
+91.6
+94.8.
+iEL8
+98.7
+
+1.1
+
+D4.
+3
+92.i
+97.z
+C3.8
+98.il
+
+I
+
+... .-—.
+
+w o
+%3.
+1
+81.7
+
+M.1$
+
+R.:
+
+ACCOUNTED
+
+-.
+
+,
+
+‘
+
+M
+
+Ii 8
+19.0
+
+t
+
+%.1
+
+m. 1
+93.2
+e!
+9Z8
+
+I
+
+pi $
+
+K&:
+%!
+92,2
+
+1
+
+E:
+%2.4
+
+I
+
+.—
+
+.
+
+..
+
+. ... —-.
+
+xl
+M.ti
+u?.o
+96.5
+91,9
+
+1. .-- .. . ]
+
+—
+
+3.—lhktwn etc., horaepouw and-,
+etc., mean eff&etirepnwwe
+(k. E. P. equate a constant tame kque].
+[To aooornww PI% 25, !46,and27.]
+
+‘g&’R&%J$%yj8b. Hispeno-Suh drplnne
+4mgin13(amrutedfromme
+ohenieal e$kenoy,
+eto.,
+
+k%’%.#&2a.Azi%&!vi
+
+‘dues KIVeDh Table 1 Of
+thk repd).
+
+R. P.M.
+
+800
+400
+m
+600
+
+E
+1, i%
+1,10+)
+1, m
+
+r. E P.
+
+1.16
+1.4s
+1.76
+
+2.!48
+2.72
+4.m
+6.08
+6.15
+i%
+
+E.P. M.
+
+F.H. P.
+
+1,&m
+1,m
+1,ml
+
+18.1
+14.7
+16.0
+m.zl
+24.8
+
+-, --
+
+7.XI
+&86
+&6z
+‘ 7.10
+7.m
+
+i%
+
+It%
+11.46
+mm
+14.60
+
+-.
+
+I
+I
+
+11.1
+10.8
+10.4
+;;;
+
+A STUDY OF AIRPLANE
+TABLE
+
+&-l%c&n
+
+loam.
+
+end oom@edfram
+
+[Ahtmcted
+
+Eq#nealq
+
+[Toaooom~@s26,
+‘~HK3H-13PIH4D
+INTBRNAL
+
+553
+
+I%ITGDTE !D3STS.
+
+(1.amhm).]
+
+%,and47.]
+
+CO~BUSITON
+llNC3~~~,’ R. EICARDO, Z, lKUS, 5S0.
+‘ H.
+lKAY
+PAGE
+For pefrol engines, Ioeea are aboui%
+
+l.—Beariqq
+
+I. 8 ponn=~ per
+
+etc . . . . . . . . . . .
+
+2.—Pieton
+faction. . . . . . . . .
+3.—Fluid
+PlllllP@]csa. . . .
+
+7.2
+8.4
+
+20.6
+
+I.—h
+
+due to bearings
+
+ardiaika,
+
+inch of
+
+pistonmea.
+
+Do:
+
+Total . . . . . . . . . . . 1.2.4
+Rake M. E. P . . . . . . . . . 118
+Mechanical efficiency..
+
+equare
+
+%
+per cent,
+
+etc.:
+
+a fieeringe . . . . . . . . . . 0.76-L 06 poum$ per equare inch of
+b Vaheg ear. . . . . . . . ~~b.~
+.
+
+pieton
+
+area.
+
+... . . . . . . . .
+.15-:25
+c
+. ........
+11 ‘$&p
+6) Watpump . . . . . . . .20- .50
+‘i’o’kd. . . . . . . . . . 2.00-2.65
+
+2.—Pieton friction:
+Largest eir@e item; due to recipmcding mutioq contaminated oil, etc.; extent proportional
+Empirical formula for which is:
+wane, *tly
+to rubbing vekwity and ~.
+Mean fluid preaeure 2 x meiminertiaprewmre
++
+4
+3
+
+Piston frictionC0~tan:_ti09
+‘“-m’%u%%
+
+from
+
+10
+
+tO
+
+thrwt
+
+ou
+
+_
+
++Ccmtant.
+
+1.5 to 4 pounda per equare inch of piston area.
+
+at UJOfeetpereecond
+~M) velocit~
+poun&perequareinch
+(About es cube of ges veki~
+or R. . .
+
+to 9.2 pounds per equare inch at 24 I
+
+eet per eecond.
+
+“mm 2@l-HOROwO WEE
+Au4iTE0-D~BE
+mno lnumm,” Kov. 8, 1g18,
+PAGE
+
+m.
+
+Power required forwakr pump.
+I
+
+h
+
+.
+
+-----
+
+1
+
+I
+
+..-z
+
+—
+.-
+
+—
+
+“w
+.kL
+
+B.
+
+. ...
+l,IXQ
+1,ml
+i:%
+1,020
+
+Extending
+
+H! .
+so
+87
+4a
+
+curve on amumption
+
+that
+
+aom
+
+.mw
+.0419
+.C4U7
+.Wn
+
+aoa4
++KJ
+. MI
+
++
+
+EM
+m
+740
+84s
+950
+
+—
+..— —
+
+.-
+
+pumppowervaries
+withcubeof epeed.
+
+. .. .
+. .
+I,am
+1,400
+1,600
+1,cw
+
+.
+
+g
+
+Ins
+%8
+
+ml
+
+119.7
+
+O.!m
+;Z&
+.lw
+
+am
+
+.U8
+
+.m
+.m
+
+a46
+.s8
+.8s
+.%
+
+O:
+J&w
+:%3
+
+0.139
+.145
+.Isa
+.Ise
+
+0.164
+gs
+
+.41
+
+.
+
+..
+. . . ..
+.: -_..
+.,. —
+..
+
+ANNUAL
+
+NATIONAL
+
+REPORT
+
+CJOMMI= FORAERONAUll!lOS.
+
+ADVISORY
+
+~ABII19 6,-@Zi?l
+
+Of ~LMM th7’OU@ itWdlS.!
+
+Of 8pCd
+
+[To accmnpmy Pie. !42and WI.]
+INCREASE
+\ chngeofFLP.M.
+
+OF B. H. P.
+
+(fromVOIUW table
+in
+
+1).
+
+. . ..-— -—
+
+AMtude.
+
+]
+
+[“
+
+.PER OENT INOEEAEE
+
+Or B. H. P. (H. P. at lower apeerl-lfll w
+
+—-.
+
+cent).
+
+. .._— ..1,W3°
+1,600
+1,709
+1,6W
+
+1,600
+1,700
+1,900
+2, m
+
+m.
+M
+‘I
+6
+
+#
+6
+6
+
+“7
+
+~..
+
+18
+18
+7
+4
+
+.. g
+4
+
+#j
+a
+8
+
+q“””
+
+4
+
+a
+—.
+
+INCBEAEE
+1,803
+I, ml
+1,700
+1,em
+
+~
+
+m.s
+
+;? 8
+
+i!
+
+16.8
+14.7
+
+%8
+11.7
+
+11.8
+9.2
+
+11.6
+
+IS. 8
+
+IL
+
+.
+
+.
+
+---
+
+;8
+
+9.*
+
+1
+
+8
+6.4
+
+;:
+
+6.7
+6.6
+.
+
+PEB GENT LNCItEASE
+
+.
+
+OF L H. P. (from values Intsble 1).
+
+~6
+
+1,600
+1,700
+1,9C0
+2,100
+
+.
+
+OF L H. P. (H. P. at lower #@-103pm
+
+..—
+
+.
+
+rxmt).
+
+.—.
+1,890
+1,600
+1,7CQ
+1,900
+
+18
+:
+
+i:%
+1,900
+2,ml
+
+T’Arm
+
+18
+1!4
+
+~
+9
+7
+
+7
+
+:
+
+;
+
+7
+
+6,—Relo.tivaamounte oj aw~
+
+wpplid
+
+[To ~!ll~y
+B. T. U. SUPPLDID
+
+FCEL
+
+IN FUEL
+
+CONSUMPTION,
+
+ph. 81,32, d
+
+PEE UNIT
+
+TIME DIVIDED
+
+17
+1;
+
+17
+I!4
+9
+e
+
+1s
+12
+9
+7
+
+7
+
+per afroka.
+
+S8.~
+BY R. P. M. (wIues from tabIe 2)
+
+LBS. P3Ut I. H. P. PEB HOUB (muewl
+
+from tsbh 1).
+—
+
+I
+
+Averege.
+
+0.407
+
+a467
+
+0.460
+
+0.4U6
+
+0.464
+
+a 474
+
+& 451
+/
+
+—-.
+
+.—
+
+555
+
+A STUDY OF
+APPENDIX.
+R=ULTS
+
+OF THE TESTS USED AS A BASIS FOR THIS REPORT.
+2,100 IL P. M.
+
+,.
+8
+
+.-
+
+AMNUAL REPORT NATIONAL
+
+.
+
+ADVISORY (Y3MMITTEE
+
+FOE AERONAUTICS.
+
+m
+‘“
+
+Reault4 of thei%nte
+wedasa bm”a ihiI report-Oontinued.
+for
+
+.
+
+1,900 P. M,
+R
+
+Twt No.
+
+Be~wrn
+
+B.~u.
+
+axllallw
+
+96-$ . . . .
+....
+
+0#0
+{? Q
+
+c .. .. .
+D....
+
+~. 6
+
+E . ... .
+
++7
+
+100-$
+
+..
+....
+
+f.9
+#.8
+
+c . . .. .
+D....
+E....
+loI-A . . . .
+B....
+c .... .
+D....
+E....
+F ....
+G....
+?::::
+J. . . . .
+Kq . . .
+.
+. . ..
+K....
+J.....
+I.....
+:..:;
+..
+F ....
+
+q. 5
+#.6
+f#.1
+:.9
+{’
+c’
+8?.8
+,(
+!’
+a#.o
+“
+‘d
+W. 1
+ma
+“
+pl
+11
+
+,’
+~. 9
+
+B . ...
+
+$8
+
+ICE-* . . . .
+. ...
+
+~1
+
+F . . ..
+116-A. . . .
+B... .
+c .... .
+
+49.8
+“
+67.6
+‘,
+25ei’
+“
+24.8
+6L9
+*7
+~. 6
+,’
+
+D... .
+E... .
+1? . . .
+.
+Q... H... .
+I.... .
+
+L6,6XI
+16,656
+11,9S3
+Ik;$
+8;395
+6,066
+6,82S
+
+U, 280
+M, 40)
+16,OM
+14,020
+la, (K3O
+13 ~
+9: zoo
+8,910
+6,Km
+5,940
+6,W!
+b,810
+
+18 lao
+;$g
+
+B.~IL
+
+B. t. u.
+
+Jflaket. B. H. P; auppw.
+
+H. P,&,
+
+172.0
+170.8
+W:
+
+pg
+
+Ijg
+
+6;110
+6,986
+6,406
+4,96a
+4,8ul
+4,w
+6,765
+
+6;640
+4,290
+4,846
+2,6s0
+!4, 48
+6
+$~
+
+2E
+
+2%
+5,123
+4,4!23
+4,X3
+0,635
+6,970
+
+jM
+5,S30
+6,m
+6,440
+$G
+4,810
+4,616
+4#
+,
+
+W: 6
+98.0
+Ea.3
+69.8
+
+Xdoal
+
+176.8
+17!2.0
+138.6
+m. 9
+96.6
+97.6
+
+%jR
+~g
+
+%%
+
+tz
+2, m
+
+91:W
+M, 203
+16#50
+
+7,240
+7,660
+7,410
+6,925
+6,610
+s, 7m
+4,136
+4,lW
+4,lm
+9,602
+$69!4
+
+?4 E
+80,160
+24,!xlo
+24,950
+!23,
+m
+18,030
+17,700
+qz?o
+18,900
+Is, 10)
+
+2E
+
+%1
+
+170.1
+lm. 2
+170.9
+186.0
+~.;
+
+2E
+
+~:;
+
+48.1
+68.5
+6s.1
+E:
+
+111-A. . . .
+
+ym :
+~5
+
+.619
+:g
+
+Z6ko
+19,646
+19,4-%
+18,440
+
+lm:9
+96.7
+01.7
+~~
+
+.aal
+.S74
+. MO
+.912
+
+$g?j
+
+~;:
+
+;#
+
+a, 694
+?.,644
+a, 644
+4,m
+4,234!
+4,740
+
+a, 4!7!4
+a, 8Q8
+2,ml
+4,680
+a, 6z3
+4,87s
+
+161Q3
+14$
+m
+14,070
+Xl##
+
+m.4
+66.9
+84.6
+lW. 1
+
+t~
+5,M6
+7,610
+
+90:lMfJ
+~&o
+,
+
+1%:
+g;
+
+;~s
+
+$691
+4/4#
+:
+~,g
+
+2: ml
+2,no
+9, M6
+4?,7W
+3,766
+
+‘ ---------. . --- . .”.-... . ‘-”-----”- . . ---------. . .
+........ ... .... ........ ....... .
+
+??. 6
+
+G. ...
+
+;. Q
+,,
+t’
+
+E... .
+
+?f, !26
+
+.
+
+:!%
+
+81,400
+W#:
+
+4:892
+47a4
+
+4:2U4
+f j%
+
+?;.s
+
+:.:: :
+....
+:... .
+....
+
+.S4B
+.610
+.5!U
+. sla
+.643
+.686
+.659
+.C39
+.CS7
+
+16,420
+7,m
+6,S76
+.......... ....... ... ..........
+la, !476
+&m
+11,m
+6,f4a6
+k%
+8,685
+4,Sao
+4,m
+8,166
+4,010
+~~
+$E
+2#
+4!, 70
+7
+11:111
+$%
+g$~
+la, 940
+
+“6~030
+6,786
+6,@Xi
+6,046
+
+6:646
+6,W
+6,CBS
+4,66!4
+~~
+
+8:976
+11,.a15
+6:668
+11,497
+6,636
+. . . . . . . . . . . . . . . . . . . . -..?.!!!..
+
+%7
+
+:~
+
+%$M
+!w,aw
+la,m
+18,8X!
+10,64s
+16,603
+18@5a
+14,740
+11,950
+14,two
+li$lso
+
+.$;:
+
+“
+
+.Mo
+. 61S
+. Ml
+.687
+.569
+.697
+.62!
+All
+
+w
+f~
+
+--”~ig-
+
+,,
+
+J.... .
+
+0.641
+.m
+.674
+.667
+.647
+.691
+.774
+.696
+
+%$%
+30,630
+a, m
+
+rll~
+
+6,W
+7,100
+6,898
+$%
+
+%$%
+!47, oo
+a
+26,WI
+za,aoo
+z##
+
+?E
+7,460
+6,946
+
+u, 440
+U, 800
+
+;? 8
++.9
+
+Fud con~. SUrlp;ol
+
+~.=
+
+177.8
+176.
+S
+Ii% s
+165.6
+la4.o
+184.0
+lam.s
+96.!4
+96.0
+4s.0
+95.!4
+61.s
+61.7
+m. 9
+66.4
+69.8
+
+m: Lo
+
+:.::: :
+
+l!... .
+
+in
+E,460
+
+--j;g;.7
+
+E . . ..
+
+g... .
+....
+
+14,703
+11,600
+11,703
+11,770
+8,810.
+
+B.~~
+
+.... .. ... . .. .. .. .. .. ---------6,650
+6,585
+8, !?S)
+8,675
+11,140
+10,6s0
+10,m
+14,Mu
+la, ‘m
+14,m
+ls, no
+
+~~
+:: Sg
+6:WI
+.6,m
+6,810
+b,WI
+5,740
+s, 966
+6,WI
+
+2,w
+fg
+4;466
+6,010
+6,066
+6,0!M
+7, 6s0
+$%j
+,
+
+3,?%
+- .?.!?-.
+
+.
+
+--------- IS,a60
+U,61O
+M, 570
+19,740
+!46, 60
+2
+29,660
+~ y;
+;;%
+,
+
+164.9
+174.7
+174.7
+@a.6
+97.9
+lJg5
+
+e7.6
+
+:~
+.617
+.481
+.498
+. 6M
+:=
+.661
+.494
+.564
+.M4!
+.67a
+:E
+.w
+
+.679
+:!%
+, EM
+.711
+.667
+.614
+:%!
+.639
+.649
+;g
+.487
+
+-m
+
+ml
+;~
+w
+1o11
+187.9
+U-s.8
+187.8
+m. a
+175.9
+17a.e
+177.8
+
+. Ml
+. 6i19
+.&m
+. 6N
+.WJ
+.44m
+.6M
+.467
+
+. .-
+
+A STUDY OF AIXPLANE
+
+RenLltaof the tw?awed m
+
+a M
+
+EI!$GIME TESTS.
+
+557
+
+fm thisreport-Ckntinued.
+
+L700 E. P. hf.
+
+.—
+
+—..
+.“.
+
+.-
+
+—— .
+.—..
+
+.
+
+v
+
+..-—
+
+-.
+
+-. —
+
+-—
+
+558
+
+ANNUAL REPORT NATIO~~
+
+Reuuh oj tk
+
+ADVISORY COMMITTEE
+
+tiat.s wed w a basil
+
+Moo
+
+I
+
+B=
+
+!Ut
+No.
+
+FOR AERONAUTICS.
+
+jor this report-(kmtinued.
+
+IL P. M.
+L&u.
+
+.ILP.
+
+i.t. U.
+pplld
+
+.EP4
+
+mlmrnption
+~bJB .
+. PJllr.
+0.464
+.. . . . . . .
+.@a
+.616
+.lBz
+.M1
+.s40
+.071
+.651
+
+W-A . . .
+.
+B ....
+c .... .
+D....
+E ....
+
+.m
+.656
+.hn
+. Ml
+.7M
+.m
+. ml
+. em
+
+W-A....
+:.:.::
+D....]
+
+I
+
+E .. ..
+
+.MB
+.537
+.684
+
+1OI-A.. . .
+
+B-”-l
+
+:E
+.641
+.8$3
+.6%.2
+.453
+.62a
+
+c . .. . .
+D . ..E . ...
+F ....
+Q. . . .
+
+%!
+.631
+.618
+.Ma
+.6B6
+.6s6
+
+H .. . .
+1. . . .
+{
+NM-A. . .
+.
+
+1. . . . .
+K ....
+J
+
+---
+
+k:::
+R:::
+E . ..D....
+c . .. . .
+B . ...
+
+.5M
+.......
+.5?7
+.494
+,521
+.......
+.E12
+,499
+.676
+.M2
+.Ea4
+.Q6
+.......
+.Qs
+. ml
+.M19
+.lw
+.C4-Jl
+.647
+.6W
+.Ma
+.0e2
+.EM
+.MM
+.6?8
+.766
+.S16
+,Sxl
+.6M
+.lilo
+.661
+.660
+.499
+.U8
+.685
+.636
+
+106-A. . . .
+B. ...
+D ....
+E....
+J&..
+. ...
+F . . ..
+
+E.. ..
+
+;...:: :
+.....
+J.....
+B. . . .
+
+.477
+.62a
+.ma
+,486
+ASS
+.S15
+
+Ill-g.. -.
+. . ..
+
+:::::
+
+L?.::
+:
+i!::::
+
+:%
+.Kil
+-
+
+.
+
+.
+A STUDY Ol? AIWLANZ
+
+Rwh
+
+ENGINE
+
+TESTEL
+
+of t?Mtests uad as a bodi fm W rqmrt-Cbntinued.
+
+1,300 P. EL
+B.
+q
+
+.
+
+——
+
+.
+
+—
+
+.
+

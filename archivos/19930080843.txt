@@ -1,0 +1,2373 @@
+CASE FILE
+COpy
+
+,
+
+'r'
+
+• &z
+
+52053
+
+TECHrnCAL NOTES
+NATIONAL ADVISORY COMMITTEE :B'OR AERONAUTICS .
+
+No . 53.
+
+SIHILITUDE
+
+T~STS
+
+ON W NG
+I
+
+SECTIO~
+
+By
+H. Kumbruch.
+
+Translat e d from the Gerr.ian
+By D. L. Bacon,
+La.n g ley Hen:: orial Ae ronautical Lab oratory, N. A.C . A. ,
+
+La nbley Field, Va .
+
+April, 1921 .
+l
+
+<.
+
+l
+L
+
+I
+
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+TECHNICAL NOTE NO. 53.
+SIMILITUDE TESTS ON WING SECTIONS.*
+By
+H. Kumbruch.
+Translated from the German
+by
+D. L. Bacon, L.M.A.L., N.A.C.A.
+
+The application of the results of model tests to full
+size construction assumes either that the resistance varies
+as the square of the speed within the range of speeds in question or that the mechanical similarity law is fulfilled by
+the model test.
+
+This latter requires, in addition to geomet-
+
+rical similarity I that the relation of the airflow to the
+model, both geometrically and mechanically, be exactly like
+that for the large machine.
+This relation holds, as Reynolds has shown, when the expre ssion Y..];, the so-called "Reynolds number" is the same both
+v
+for the model test and for actual flight. Here v signifies
+air or flying speed, t
+
+a linear dimension of the body, in this
+
+case the wing chord, v
+
+the kinemat ic viscosity of the mediViscosity )
+um in 'vi'hich the motion takes place ( V = Density
+. If,
+as in the usual case, the model is tested in the same medium
+as that in which the body is later to be propelled; then v
+
+is
+
+constant except for comparatively small changes with pressure
+
+* Sonderabdruck aus
+
+II Ze it schrift
+f{ir Flugtechnik und Mot orluftschiffahrt" 1919, Heft 9 u. 10 .
+
+- 2 -
+
+and temperature, so that the law of similarity is fulfilled
+when the parameter
+
+E
+
+= vt
+
+is the same in both cases.*
+
+For
+
+various sized but geometrically similar bodies with the same
+parameter the same air forces will be developed.
+
+Unfortu-
+
+nately it often occurs that the parameter for full flight can
+not be duplicated in the tunnel, because either the model
+would have to be too large or the required wind speed is not
+attainable.**
+
+In such cases one must be content to determine
+
+the relations between Lift and Drag coefficients and the parameter up to the highest possible values of
+
+vt
+
+and to ex-
+
+trapolate for the forces on the actual machine.
+The law of squared resistances states that air forces
+are proportional to the square of the velocity.
+
+This leads to
+
+the following formulas for lift and drag coefficients: * * ~:
+Drag
+
+= Cw
+
+~V2 =
+F 2 g
+
+Cw
+
+F q
+
+Lift = c a F -'1- v 2 = c a F q3
+2 g
+
+*
+
+The numerical value of the parameter is here taken as the
+velocity in meters per second multiplied by the specified
+linear dimensions in millimeters.
+(The Reynolds number,
+an absolute coefficient, is about 70 times greater.)
+** This method falls down even if very high wind speeds are
+attainable because of the cr~tical ranges governed by
+the compressibility of air and hence by the variable V
+rather than the product VI (See Prandtl's comment on high
+speed research by Caldwell and Fales, and blUe print A5
+from Paris Office, N.A.C.A.) DLB.
+*** c a = lift coefficient
+C w = drag coefficient
+F = wing area in mie
+~
+= specific gravity of air Kg/m 3
+v = air speed m/sec.
+et = -.:L v 2
+2 g
+t = chord
+b = span
+. E(--I!L .mm) = 93 x vt ~)
+sec.
+sec
+
+•
+
+- 3 -
+
+in which
+
+c wand
+
+ca
+
+angle of incidence.
+
+are saen to be constant for a constant
+Several earlier works on the investiga-
+
+tion of the resistance of various
+
+bodies '~
+
+have demonstrated
+
+that this law does not hold for all speeds.
+tinuous variations of the values for
+
+ca
+
+Sudden discon-
+
+and
+
+Cw
+
+at certain
+
+"critical tl air speeds and also gradual changes of these values
+if plotted against
+
+vt are noticeable.
+
+In the first of the
+
+reports referred to examples of each kind are given.
+
+First,
+
+the discontinuous changes were thoroughly investigated and it
+was found that the more slender the body under test the lo w
+er
+the value of the parameter corresponding to the point of critical flow.
+
+Aerofoils are always slender bodies in this sense.
+
+Dimensions of model and speeds of tests must be so chosen
+that at least a portion of the experimental curve lies above
+the critical range so that no serious irregularities intervene
+bet w
+een the conditions of test and those of full flight.
+It is always important to carry out the
+wings ~ to the highest value of
+
+tests~
+
+even with
+
+v t pos·sible so that the rate
+
+of change of lift and drag coefficients may be
+
+~lotted
+
+against
+
+vt for the model and from these the actual full size value
+may be estimated.
+tions here
+
+This purpose is served by the investiga-
+
+re ~ orted.
+
+Five different wing curves were investigated.
+
+* Prandtl IlDer Luft wiederstand von Kugeln, Nachrichten der Sesellschaften der W
+issenschaften zu G&ttingen," Math.-Phys.
+Klasse, 1914.
+C. W
+iese1sberger, desg1. Zeitschrift f. M
+otorl und F1ugtechnik, 1 914.
+M. M
+unk, Luft w
+ider s tandsmessungen an Streken, T.B. Bd. 1, Heft
+4, S.85.
+
+- 1- K.W.W. 354
+
+H.W.F. 355 & 356
+
+M.V.A. 357 & 358
+
+Three sizes of model for each curve w
+ere built, having
+the following dimensions:
+Span 1500 mm.
+11
+1000 11
+11
+720 11
+
+Chord 600 mm.
+11
+300 11
+11
+120 It
+
+The large surfaces which w
+ere built
+
+u~
+
+like uctual air-
+
+plane wings (of ribs and fabric), were tested
+
+be~we3n
+
+flat
+
+walls to minimize interference ~ the others ·were tested in a
+free air stream of circular cross-section.
+
+Using those mod-
+
+m.f sec)
+
+els having a chord of 600 mm. and the Idghest speed (50
+
+no w available (1919) a parameter of 30,000 m/ sec. x nun . c a n
+be reached, with corresponding forces w
+hich
+obtained in actual fl ight .
+
+ap~ roach
+
+The smalle st wings,
+
+700
+
+those
+X
+
+120 mm. ,
+
+correspond in size to those previously used for inve3tigations
+of aerofoil sect i ons.
+These wings were previously tested in the old tlmnel under the former standard conditions of
+E
+
+= 1080
+
+v = about 9 m/se c .
+
+m/sec. x mm., and also in the new tunnel at lO Vier and
+
+higher speeds.
+
+(v
+
+=
+
+5 , 10, 20, 35 m/sec., and
+
+2400, 4200 m/ sec. x mm ~)
+
+E
+
+= 600,
+
+1200 ,
+
+It is thus ltDossible to compcue the
+
+numerous measurements in the old tunnel with those of the new.
+In addition to the several values of the parameter, the differ ences in the air circuits, such as open a nd enclose d
+streams, and varying degrees of turbulence in the t wo tunne ls
+have an appre'J iable ef fect.
+
+The intermediate size of model
+
+(10 00 x 200 mm .) have been adopted as standard for rout ine
+
+..
+
+~
+
+...
+
+wing testi ng in the new tunn el.
+
+Thes e mode ls were teste d at
+
+:farc.., .-'·~~ :,,'
+speed s of 10, 25 and 40 m/se c ., oorre spon ding to a.
+
+0:
+
+2000 , 50 1)0 and 8000 ml seo. x mm .
+I
+
+erOf the six lal"ge wing s, two were supp lied by the Kais
+onfab erft , Vlil he lmsll aven, two by tb.e Hann overs che:.1 1'lagg
+1 ichen W
+. TheEe ~ve:'e
+rik , and two iivere made at the Rese aroh Labo !'ator y
+the front
+buil t up in the s ame mann er as actu al wing s . On
+, the oute r
+s par, a 3/4 inch gas pipe , "iJ1ere faste ned eigh t ribs
+r.hile betw een
+ones space d at 250 and the i nner ones at 160 mm .,
+stiff ened
+each pair of these were two or three faIse ribs , all
+ing edge s
+by diag onal s. The reo.r spar lvaS wood en . ':'he trail
+form ed of
+of_ the two wing s from the Hann over Wagg onfab rik are
+of wo od
+a soal l stee l Wire , those of the rema ining wing s are
+Hann over
+form ed to the requ1 red prof ile. The wings from the
+cove re d ',vHh
+Wagg onfab rik and froffi the Rese arch Labo rator y are
+Wilhe l rr.sha fabr ic '.7hil e of t:10se from the Ka iserl ichen We r ft
+g t~e sa:ne
+ven only one Vias fabri c cove red; the secon d , havin
+ct of this
+prof ile , was cove red with wood en vene er J the obje
+of sag in
+bein g to prov ide a mean s for meas uring the effec t
+made i!1
+the fabr ic. The mocie ls of the two othe r serie s iVere
+. The p~otbe custo mary ma~~er from plas ter over a meta l core
+ents of the
+files for these wings ',vere obtai ned from meas urem
+sured on a
+first serie s . For this purp ose the prof ile was Y.lea
+ge value
+rib and half way b~tween a pair of ribs and the avera
+en"Gs of geom etric al simi larit y betwe en the
+taken . The requi :-erL
+not stri ctl y fulfi lled .
+l~rge dnd s mall ~o dels ~ re there fore
+
+- 6 -
+
+The same objection applies of course to the "surface qualityll
+of the fabric and plaster covered wings.
+
+In this respect ex-
+
+act similarity is seldom reached.
+In testing the two small models no noteworthy departure
+was made from customary practice.
+
+The methods used in the old
+
+tunnel have already been described , *
+
+those of the new tunnel
+
+correspond with them in the most important features.
+
+In both
+
+cases the customary measuremepts of drag, lift and moments were
+made.
+
+The method of testing the large wings is shovm in Fig. 1.
+
+The wing hangs on eight wires, four being attached to the front
+spar and four to the rear spar.
+to a beam
+
+G
+
+All eight wires are fastened
+
+supported on a platform scale by means of which
+
+t he sum of t he wire-pull s, i. e., the total 1 ift, is measured.
+The position of center of pressure of the resultant was not determined.
+
+The wires to the rear spar served as a means to ad-
+
+just the angle of incidence.
+
+The drag VIas measured by means
+
+of the projecting ends of the front spar.
+The large wings had, as stated, a 1.5 meter span and the
+air strea,m had a width of 2.2 meters.
+
+The effect of the re-
+
+stricted width of the air stream on the forces (the law of
+similitude assurnes an air stream of the infinite extent) and
+the small aspect ratio of the wings (2.5) had to be eliminated.
+For this purpose, in order to obtain as evenly distributed a
+flow as possible across all sections of the wing, two vertical
+walls 2.5 m. long by 2 m. high and extending above the air
+stream were erected adjacent to the ends of the model wing.
+* D. L. Prandtl, Die Bedeutung von Modellversuchen ftr die Luftschiffahrt und Flugtechnik und die Einrichtung f~r solche
+Versuche in G~ttingen, Zeitschrift d. Vereines deutscher Ingenieure 1909, S. 1711.
+
+The wing
+
+m~st
+
+-
+
+'(
+
+be brought close to these walls without
+
+interfering with the force measurements.
+plates
+
+S,
+
+To this end t wo
+
+960 mm. in diameter were fastened to the overhang-
+
+ing ends of t he front spars , flat a gainst the ends of the win g ,
+and clearing the side wall and labyrinth plates
+three millimeters on each side.
+
+D by only
+
+Although the difference in
+
+p ressure between the upper and lower sides of the wing tends
+to cause a leakage around the wing tip this is effectively prevented by the smal l clearance and the labyrinth cells.
+The end loss is thus eliminated and if the air stream w
+ere
+unbounded, both above and belo w, the measur ed drag would be only profile resistance.
+
+Ho w
+ever, the available depth of air
+
+stream is only about 1 meter above and belo w the wing.
+
+Because
+
+of the lift produced by the wing) this stre am will be defl e cted
+through a known angle
+
+F3
+
+L *. The re l ations for the 'w'ing
+
+::
+
+, Fl
+
+in the air stream, w
+hich approaches in a straight line, and on
+flo wing off, is deflected at the angle
+same as though the air stream
+
+.
+
+flected through an angle
+then turne d through 13 /2.
+
+* The ang le
+
+v~re
+
+f3 /2.
+
+~
+
+are very nearly the
+
+of infinite extent and de-
+
+The resultant air force is
+
+W thus have, according to the usu al
+e
+
+may be ca lculat ed as follo ws:
+Let the s pee d of the undisturbed air stream be v, the ve r tic al com~one nt of the velocity, produced by the \tu ng (Are~
+F m2 ) w) the cross sectional area of the air influenced by
+the w
+ing , i. e., that port ion of the air stream bet vveen the
+vertic a l walls b o F'. The vertical reaction of the div e rted air is equa l to the lift. The mass of air flo winO'
+o
+per s e cond
+
+M ::
+
+~
+
+Thus
+Hence
+
+~
+
+. F'
+1;1
+
+.
+\IV ::
+
+. v
+'Y
+
+W
+
+C
+
+=g
+
+a
+
+F
+
+F' v .
+v
+
+w
+
+_
+= Lift - caF
+
+~
+
+2 g'
+
+FI 2
+
+and consequently, tan (3 ~ ~
+
+::
+
+w _~
+V
+
+-
+
+2
+
+F
+
+FI
+
+- --8 ' -r~v.. olution
+
+of wind forces) a resistance analogous to edge re-
+
+sistance.
+(3
+= A . sin 2
+
+WI
+
+or, substituting the above value of f3
+F2
+WI = C a 2 . 4 F' . q.
+which gives
+
+in J:)lace of
+C
+
+W
+
+I
+
+=
+
+C 2
+
+a
+
+TT
+
+t
+15
+
+as for edge resistance.
+With the present arrangement (b = 1.5
+stream
+
+= 2.2
+
+m.
+
+>
+
+consequently
+
+F'
+
+= 3.10 5
+
+:ti l . ,
+
+diarr.eter of air
+
+mZ) the reai stance
+
+coefficient is the same as for a wing of 1 : 4 . 4 aspect r a tio
+in the ideal air stream.
+
+A correction is also neqessa ry for
+
+the small wings tested in the · circular air stream (new t~Dnel)
+because of the deflection of the current.
+
+A more thorough
+
+report on this vnll be J:)resented later.
+In order to prevent any possible contact betwreen parts in
+the labyrinth construction, the front spar lms 6U ided by means
+of t wo turnbuckles and ~ spring
+
+C
+
+(Fig. 1).
+
+The discs
+
+S
+
+were built so stiff that they did not bend appreciably under
+the difference in pressure .
+
+The inner sides of the discs
+
+were covered by sneet metal plates
+
+B
+
+in order to minimize
+
+the undesirable effect of frictional resistance.
+
+For the same.
+
+reason the l)roject ing ends of the front spars w
+ere shielded
+from the wind .
+
+The plates were cut away sufficiently to allow
+
+- 9 -
+
+the wing to swing through the desired angle of incidence.
+The results of the investigation are given in Tables I to
+5, and are plotted in Figures 3a to 7a.
+upon the customary
+
+Ca to Bw
+
+axes.
+
+The curves are drawn
+
+All values are reduced
+
+for the sake of comparison to an aspect ratio of
+
+1:6.*
+
+In
+
+Figures 3a to 7a the upper left hand diagram shows the coefficients for the 600
+
+IDm.
+
+chord wing in the new tunnel, the lower
+
+right hand diagram those for the new standard size, 1000 x
+200 rom . in the new tunnel, the lower left shows the results
+from the old
+
+stand~rd
+
+size, 720
+
+~
+
+120 mm.) and the upper right
+
+the comparative tests with these models in the new tunnel.
+In general the curves (Figs. 3a to 7a) indicate that the
+characteristic properties of a section sooner or later undergo
+a sudden change and that this change takes place at a comparatively low value of E.
+
+Measurements corresponding to values
+
+of E belOW 600 m/sec. are the only ones that cannot be used .
+In this region the polar curves assume a new position near
+that for higher parameters.
+
+The effect of the critical point
+
+has not yet disappeared however.
+varying measurements are obtained.
+
+In consecutive tests widely
+In these cases only aver-
+
+age values are shown on the polar charts.
+
+The polar for the
+
+veneered surface of section No. 354 show the same essential
+characteristics as that of the corresponding fabric covered
+Wing .
+
+In Fig. 8 polars for these wings are shown for E = 12,000
+
+and 21,000 m/sec. mm.
+noticeable.
+
+The effect of sag in the fabric is not
+
+Incidentally, the sag on this wing is rather small.
+
+With a more heavily cambered wing -the effect might be more noticeable.
+
+(* See p.IO)
+
+- 10 -
+
+The considerable decrease of the drag coefficient with i n creased parameter is striking though not unexpected because of
+similar results with other bodies.
+
+In order to sho w the manner
+
+in w
+hich this decrease takes place the drag coefficient has
+been plotted against the parameter in Figures 3b to 7b, for
+
+=
+
+constant values of the lift coefficient
+120.
+
+Ca
+0, 40, 80, and
+The ordinates are for the pr ofile resist ance Cwo, i.e.)
+
+the total resistance minus the induced resistance, thus that
+portion of the abscissae of the -polar curve lying bet ween the
+polar and the parabola.
+
+These
+
+c~rves
+
+show clearly the action
+
+of the law of similitude, for -geometrically similar models of
+varying sizes actually have the same r esistance coefficient
+for equal values of the parameter
+
+E.
+
+The discrepanCies at
+
+Ca = 0 and Ca :::
+are easily explained by imperfect geometrical similarity,
+
+low parameters and for lift coeff icients
+120
+
+both in form and in surface - inish .
+f
+
+These part icular condi-
+
+tions however are of but small practical importance .
+The curves show that the parameters used in current practice yield somewhat too high values of the resistance coefficient.
+
+A general expression for the value of the resistance
+
+coefficient in terms of
+
+E
+
+is not yet available.
+
+As soon as
+
+more data are collected the relation between these two quantities will be more carefully investigated.
+
+It is noteworthy
+
+that the profile resistance coefficients measured for high values of
+
+E
+
+are noticeably smaller than the frictional resist-
+
+ance coefficients no w being used.
+
+One might try to explain
+
+this by assuming that the discs and labyr i nths near the ends
+
+*
+
+A. Betz. Einfluss def 8pannweite und Flachenbelastung &uf
+Luftkr&fte von Tragflachen. T.B.I. Heft 4, 8.98.
+
+- 11 -
+
+of the wings gave rise to an up wind force because of the pressure difference, thus causing too low resistance measurements
+to be made.
+
+This explanation is unsatisfactory ho w
+ever fo r a t
+
+the angle of zero lift, where, because of the absence of pressure difference between the upper and lower surfe.ces there can
+surely be no such up wind force, the p rofile resistance remains
+just as small, at least as long as the air stream along the
+pressure side is not turbulent.
+
+See for example profile 358
+
+hich are doubtful.
+which is the only one the results on w
+
+It
+
+is also possible that in evaluating the customary frictional
+resistance coefficient an accurate distinction was not succes's fully made bet w
+e0n profile and frictional resistance.
+
+In sim-
+
+iIi tude experiments no w being prepared this phenomenon will be
+more fully investigated.
+
+Preparations are like wise being made
+
+for research on the frictional resist ance of smooth surfaces.*
+The lift coefficients depend on the value of the parameter to a much less degree than do the resistance coefficients
+(See Figs 3b to 7b).
+
+For angles of incidence from 0 0 to 9
+
+0
+
+,
+
+which is the range of practical interest, and for a parameter
+greater than 4000 m/sec. mm. the lift coefficient may be assurned independent of the parameter.
+
+Below this value the be-
+
+havior of the different profiles varies.
+
+For most of them Ca
+* These friction tests have been completed and have confirmed
+the accuracy of the usual friction coefficient. The cause
+of the abnormally small profile resistance lies in the fact
+that the induced resistance (see page 7) caused by the deflection of the air stream was calculated some ~hat too
+large as the influence of the small clearance between the
+Wing and the nozzle (about 1.1 m.) had been neglected. The
+relationship between Cwo and E shown in Figs. 3b to 7b still
+holds except that the absolute value of Cwo is some w
+hat
+increased.
+
+- 12 decreases with increase of the parameter, while for one (#358 )
+it clearly increases.
+
+The law of similitude also applies to
+
+this variation in
+
+exceptir-g for profile #355.
+
+Ca
+
+The trail-
+
+ing edge of the large model of this profile was very weak and
+flexible so that there was a possibility both for incorrect
+measurement of the angle of incidence and for deformation of
+the profile under Wind pressure.
+
+The angles of incidence are
+
+less accurately held for the large models than for the medium
+sized ones because the wires supporting the trailing edge are
+longer and pass over several pulleys and hence stretch more under load, allowing the wing to turn under the force of the
+wind, so that the angle of incidence during the test is not exactly the same as that to which it was adjusted in still air.
+With the smallest models it is not always possible to prevent
+a small change in angle because of the bending of thin trailing
+edges.
+
+While these errors mean little in themselves they
+
+n~v­
+
+ertheless largely explain the discrepancies between the curves
+for the different sized models on the
+
+Ca - E
+
+charts.
+
+The moment coefficients, depending as they do mostly on
+the lift, are nearly independent of the parameter.
+Finally, it will be noticed that there is a variation in
+the values of the maximum lift coefficient obtained for various
+va~ues
+
+of the parameter.
+
+This is shovm on the polar curves
+
+and more particularly in Figures 30 - 7c.
+
+The large models es-
+
+pecially show an increasing maximum for high values of the parameter.
+
+A comprehensive explanation can not yet be given for
+
+this phenomenon, which is in practice of no importance.
+
+K. W W.
+.
+
+: ~ :
+E
+:m/s:m/s . mm:
+
+~r o f i le No . ~54 : 5
+~ooo
+r~ode l No . lOtl-9
+:1 0
+6000
+b = 1 500 mm. : 20 : 1.2000
+t =:; 500 mm . : 35 : 21000
+
+New Wind
+
+T~nne l
+
+: 50
+
+M de l No . 1031 : 5
+o
+b
+720 mm : 10
+
+TABLE I
+Cwo fo r Ca
+
+6
+
+2.9
+
+12.6
+
+37 ·1
+
+58 . 0
+5S.6
+
+1.1
+
+13. 0
+12.3
+
+SO
+
+2· 3
+
+0.S5
+0.75
+
+:30000 . 1·5
+
+O . ~5
+0 · ~5
+
+a
+
+3
+
+40
+
+1. 9
+1 .7
+
+Ca for
+
+0
+
+0
+
+2 .1
+
+=
+120
+
+13 · 3
+
+2.2
+1.4-
+
+0·4-5
+
+35~O
+
+3) · 5
+
+13.. 2
+
+1 .0
+'-~
+
+35·5
+37·5
+
+2!~.
+
+8
+
+4') , 8
+
+IS
+
+[5
+
+;·9.6
+
+59. 8
+
+8'L5
+
+99 ·0
+
+105
+
+5~ . g
+
+77. 8
+
+h ~) •
+'-'
+J
+
+( S .!;)
+
+9') ,7
+93,2
+
+76.0
+
+93 . 0
+
+95
+99
+
+51,5
+)6.Si
+
+:,8. b
+
+Model No . 10gl
+Cld Wind Tunnel
+
+9
+
+1080
+
+2.7
+
+1.45
+
+2· 3
+
+1 9.8
+
+-c
+) ,~
+
+ldodel No . 1135
+b :: 1000 mrr.. : 10
+t::::
+200 mm . : 25
+New Wind Tunnel :~O
+
+2000
+5000
+
+2·7
+
+1 .45
+
+3· 2
+
+16.0
+
+-7
+:; ~
+
+2·5
+2 .2
+
+15· 2
+
+3000
+
+1. 9
+
+1 . 15
+0 . 35
+
+15· ].
+
+·36·3
+36 . 1
+
+99
+
+6~-, 2
+
+14-.2
+
+2·3
+
+l1q.
+
+"( S' 3
+77 . 8
+
+2.2
+
+.7
+
+3~ ·,
+
+105
+110
+11.3
+
+101
+103
+
+0 · f,5
+
+.1.
+
+'1
+
+. U
+
+II
+J/'~
+
+2 .1
+
+~
+
+n_
+
+.1-\) )
+
+max.
+
+93 . 0
+92.6
+S~2 . 9
+94 . 1
+
+New Wind 'funnel : 35
+
+#
+
+..,
+
+61. 9
+7g -z.
+.,
+
+2.8
+
+1 )t2
+
+Q4.s
+
+h"3,O
+60. ~
+
+2 . 05
+1 . 0S
+
+2·3
+
+100.0
+
+02 , 0
+
+2.6
+
+120 m;n : 20
+
+70.6
+f5Q 2
+33 2
+
+4- 1 05 . 1
+e7 ·6
+
+1 . 25
+
+=
+
+12
+
+SlL7
+'/ '
+L
+
+2·9
+3·5
+2· 3
+
+t
+
+;Cn.
+
+9
+
+600
+1200
+2400
+4200
+
+=
+
+=
+
+~o
+
+4
+
+57 . 2
+
+./
+
+96
+
+99
+
+TABLE
+H .1'7. F.
+
+:
+
+V
+
+:
+
+E
+
+:mLs:mLs.mm:
+
+CWO for Ca
+
+0
+
+40
+
+2.
+
+=
+
+Ca for
+
+:2
+
+8.4:
+6.4:
+4-.7:
+3·9:
+
+38.8
+36 . 8
+
+3
+31.
+
+'4
+
+60 . 0
+60.0
+61.1
+60 .0
+53·7
+
+96.7
+79.0
+81. 3 100.6
+84-.~ 103 , 5
+83.9 103·9
+33. 0 105·7
+
+109,8;
+116.6:
+120.6:
+119.4-:
+
+54 .0
+59 ·9
+55·0
+53. 1
+
+83. 1
+76·3
+7 1i-.2
+
+95. 1
+97.7
+92.2
+91·3
+
+104·3:
+10 .1:
+10 ".3.
+106.4-:
+
+3.6
+3·43·0
+2.7
+2.4
+
+1.45
+0.95
+0.75
+0 · 55
+0·35
+
+2.6
+1.7
+1-.1
+0.8
+0·9
+
+1082 : 5
+b = 720 mm . :10
+t = 120 mm. : 20
+rew Wind. Tunnel :35
+
+600
+1200
+24-00
+4200
+
+3·43·2
+2.9
+2·9
+
+2.75
+1. 35
+0.95
+0·95
+
+3.0
+1·5
+1·5
+1.5
+
+28.2
+3~.6
+3 ·3
+32.1
+
+r 3"
+,V
+
+~:r.Jde l
+
+No .
+
+Ca
+
+1;:>
+
+0
+
+: 300 0
+: 6000
+:12000
+:21000
+: 30000
+
+.
+
+=
+
+120:
+
+355: 5
+1050:10
+~ . = 1500 mm. :20
+t = 500 ~~.:35
+Wind Tunnel : 50
+
+F ':)£ile ~!o
+1 ,-:el No.
+,_
+
+Ct
+
+gO
+
+3~.8
+
+6
+
+3~·3
+
+.-2
+
+--- :
+
+4
+
+max" '
+
+120
+121
+12 3
+125
+10 5
+110
+10 5
+110
+
+.
+
+li.odel No. 1082 :
+Ol aI-· Wind Tunnel : 9
+
+1080
+
+3·3
+
+1·55
+
+1.8
+
+34 .6
+
+60.2
+
+82.+
+
+99·2
+
+111. 9:
+
+Model No. 1136 .
+b :: 1000 mm .: 10
+t = 200 mm.:25
+New Wind Tunnel :40
+
+2000
+5000
+8000
+
+3·3
+3·5
+3·5
+
+1.15
+0·95
+0.95
+
+1.1t
+1.6
+1.4-
+
+34 ,8
+---: 32,8
+30 .9
+
+54 .8
+54 .2
+53·5
+
+75.473. 1
+73·7
+
+90.6
+90.2
+91.3
+
+100.7:
+102·3:
+101
+i-.5
+
+:
+
+115
+10 5
+106
+109
+
+TABLE
+
+H.W,F,
+
+v .
+
+E
+
+:mLs:mLs.mm:
+
+cwo for Ca =
+40
+30
+0
+
+: 5
+:10
+:20
+:35
+:50
+
+: 3000
+: 6000
+:12000
+:21000
+:30000
+
+5.7
+5.6
+5·3
+5·3
+5.5
+
+1.75
+1. 95
+1.65
+1.65
+1. 35
+
+1.3
+1.5
+1.1
+1.0
+0,8
+
+MO'del No. 1083
+: 5
+720 mm;10
+b ::
+120 mm:20
+t ::
+New Wind Tunnel :35
+
+600
+1200
+2400
+4200
+
+4.1
+5·3
+5·1
+5·2
+
+2.75
+2.95
+2.05
+1. 95
+
+6.0
+
+2.75
+
+1.7
+
+Ca for
+
+120:
+4,0
+2.3
+1.9
+1.3
+1.4
+
+2.2
+2.0
+1.4
+1.2
+
+1030
+
+3·
+
+Pr'ofile No, 356
+Model No. 1051
+b
+1500 mm.
+t - 600 mm.
+New Wind TUIlr.l!e1
+
+=
+
+Model No. 1083
+Old Wind Tunnel
+
+.
+
+: 9
+
+Mo·de1 No . 1137
+b - 1000 mm. : 10
+t : 200 mm. :25
+New Wind T~nne1 :40
+
+0
+
+~ .
+
+(Ii
+
+6
+
+=
+
+; Ca
+
+9
+106.~
+
+12
+113.6:
+120.6:
+127.0:
+127.7:
+
+122.0
+
+101·5
+101.8
+10 3.7
+100,3
+
+116.1:
+115.0:
+115,3:
+113.9:
+
+116.0
+113.5
+119.0
+119.0
+
+113.4-
+
+126.6: 130fO
+
+36 .3
+36.2
+36.4
+35.3
+32.2
+
+60.0
+61. 3
+63.2
+62.1
+59.9
+
+33· 3
+85.0
+86.9
+87.0
+86.3
+
+105·
+103.8
+110,0
+105. 3
+
+27·3
+41.3
+39.3
+37.0
+3.1
+
+maX:'
+
+58.6
+62.6
+61.7
+59. 4
+
+86.0
+84,2
+83·7
+8L7
+
+46.4
+
+69,4
+
+92.3
+
+1~5.0
+
+1 3.0
+141. 0
+
+.
+
+,
+
+2000
+5000
+8000
+
+5. 0
+
+~.O
+
+.9
+
+1.85
+1 . 55
+1.55
+
+1.3
+1·3
+1.3
+
+4.2
+
+44 1 0
+40.9
+39,2
+
+64 .8
+59.8
+62.3
+
+86 .0
+84 . 8
+84 .3
+
+104, 8
+10 3.9
+10 3.7
+
+115.4~ 117,0
+115.2: 119.0
+116.5: 122.0
+
+I
+
+f-'.
+
+TABLE
+M.V.A.
+
+V'
+E
+: / : /:
+
+:m s:m s.mm:
+
+0
+
+Profile No. 357
+M
+odel No. 1052
+b
+1500 mm.
+t
+600 mol.
+New Wind Tunnel
+
+: 5 : 3000
+:10: 6000
+:20 :12000
+:35 :21000
+:50 :30000
+
+3·8
+3.6
+
+Model No. 1084
+b = 720 mm.
+t = 120 mm.
+New.ind Tunnel
+
+: 5
+:10
+: 20
+:35
+
+=
+=
+
+Model No. 1084
+Old Wind Tunnel
+No. 1138
+1000 mm.
+b
+t = 200 mm,
+New Wind Tunnel
+
+l~del
+
+=
+
+4.
+
+Cwo for Ca =
+4
+0
+SO
+120
+1. 55
+
+1.4
+0.9
+0.7
+
+5.8
+3.3
+2.8
+1.9
+
+Ca
+
+for a
+
+=
+
+:C a max.
+
+0
+
+3
+
+6
+
+9
+
+26.7
+26.8
+27.3
+27.2
+27.4
+
+47.8
+49.5
+49.7
+50 .8
+52·5
+
+74.9
+7S.8
+76.5
+78.5
+
+115· 7
+11].0
+114.9
+126.0
+
+122
+126
+128
+142
+
+81. 8
+
+93.2
+96.2
+9S.7
+103. 1
+95.9
+
+35.5
+37.0
+
+57,8
+5S. 4
+
+89 .4
+98.2
+98.0
+95.6
+
+104.3
+114.4
+112.6
+113. 4
+
+107
+115
+120
+120
+
+12
+
+3. 4
+
+1.35
+1.05
+
+3.1
+
+o. 5
+
+0.4-
+
+600
+1200
+2400
+4200
+
+3.6
+3·1
+3.6
+3·7
+
+2 ·35
+2.15
+1. 75
+1. 75
+
+2,2
+1.4
+2.0
+
+6.2
+
+5. 4
+
+29·5
+
+30 .3
+
+2
+2.6
+4.9
+
+77.6
+83,0
+75· 7
+67.0
+
+9
+
+1080
+
+4.7
+
+2.15
+
+2.0
+
+4.4
+
+33.8
+
+56.4
+
+81.0
+
+10 3.2
+
+120,0
+
+122
+
+:
+:10
+:25
+:40
+
+2000
+5000
+8000
+
+3.S
+3. 4
+3. 4
+
+1.95
+1.35
+1.25
+
+1.6
+1.2
+1.1
+
+30.0
+28.6
+28.3
+
+52.5
+51.2
+50.8
+
+75.3
+72.0
+72.4
+
+92.8
+92.2
+92.4
+
+104.5
+105.8
+107.4
+
+107
+111
+113
+
+3. 4
+
+0.~5
+
+O.~
+
+3·3
+
+J
+
+TABLE
+v .
+
+H.V.A.
+
+ewo
+
+E
+
+:mL s ; m/ s , mm ~
+
+0
+
+Profile No. 358
+ModEll No. 1053
+b = 1500 mm.
+t = 600 mm .
+New W
+ind Tunnel
+
+: 5 : 3000
+:10 : 6000
+:20 :12000
+~35 :21000
+:50 :30000
+
+1.
+0.7
+0.4-
+
+Model No. 1085
+b = 720 mm.
+t - 120 lJlql.
+New Wind Tunnel
+
+: 5
+:10
+:20
+: 35
+
+600
+1200
+2400
+4200
+
+Model No. 1085
+Old fUnd Tunnel
+
+9
+
+1080
+
+.
+Model No . 1139
+b = 1000 mm. :10
+t = 200 mm. : 25
+New Wind Tunnel :40
+
+.
+
+4.3
+
+5
+
+for Ca
+40
+80
+
+14 05
+0175
+0.65
+
+Ca for .a
+
+120
+
+0
+
+-2
+
+3. 0
+2.1
+1.4
+1.3
+1.1
+
+37 .~
+37.6
+36.2
+34 ,8
+31.1
+
+o. 5
+
+1.9
+1.2
+0·9
+o.g
+0.4-
+
+4.3
+2.6
+2·3
+1.3
+
+3·25
+2.25
+1. 55
+1.15
+
+7.6
+2.1
+1.9
+1.7
+
+3·9
+2·9
+2.6
+
+20.1
+29·5
+33·5
+33·2
+
+2.9
+
+2.25
+
+2·3
+
+2.9
+
+34 .7
+
+3.~
+
+0.~5
+
+=
+
+:ca
+·
+
+max.
+
+:2
+
+6
+
+:2
+
+61.4
+60.7
+60.7
+60.2
+57.7
+
+82·3
+83,7
+83.4
+84.2
+83.2
+
+102.9
+105·9
+107.0
+106,g
+107·3
+
+121.1:
+123.6:
+127.0:
+128.2:
+128.2:
+
+47.2
+54-.0
+56.1
+55·2
+
+71.7
+74.2
+78.2
+76.8
+
+71. 6
+98 ,0
+99.3
+98·9
+
+77.8: 95
+115· 3: 131
+119.7: 128
+118.3: 128
+
+60.0
+
+82.9
+
+105. 0
+
+127.0; 141
+
+142
+150
+154
+165
+
+·
+
+I--'
+
+.~
+
+2000
+5000
+gOOO
+
+2.9
+2·3
+1·5
+
+1. 55
+
+1 .15
+0. 95
+
+1.4
+1,4
+1.1
+
+2.4
+2 ·9
+2.1
+
+37.6
+36.6
+35. 4
+
+58.9
+57. ' 7
+56.9
+
+80.8
+80 .4
+79.6
+
+100·3
+100.9
+101.1
+
+·
+
+117.7: 126
+116.8: 127
+117.6: 131
+
+~~--~------------~---------------------------------~--~~-------~----------
+

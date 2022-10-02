@@ -1,0 +1,4948 @@
+REPORT No. 36.
+THE STRUCTURE OF AIRPLAN3 FABRICS.
+By E. DEAN WALItN.
+
+This report waa prepared at the Bureau of Standards for the National Advisory Committee
+for Aeronautics. The Third Annual Report of the National Advko~ Committee for Aeronautics
+report
+by the author
+on the ~evelopment
+of cotkm airplane fabrics, in which
+contatied a progr~
+it was concluded that cotton fabric could be made which would be suitable for airplane fabrics,
+notwithstanding the fact that previous experimenters had believed that it was imposaibie to L%e
+suceesafuHy airpIane fabrics made of cuthn.
+Since that time it has beau demonstrated practically that cotton airphme fabrics me satisfactory, and they are giving service re@ts equal to
+if not better than the conventional linen fabrios. It is thought that a brief history of the
+development and service of the cotton airplane fabrics may be of interest.
+On request of the National Advisory Committee for Aeronautics the Bureau of Standards
+began experimenting as early as January, 1916, to determine the feasibility of substituting
+oot ton for the linen airplane fabrics. A thorough study of the properties of the I&n airplane
+consideration of the distribution of
+fabric was made, together with a more or less general
+skesee in an airplane-wing covering. It was not u.@ March, 1917, that we were able to
+issue instructions for the manufacture of experimental fabrics, which proved to be very satisfactory. The first fabrics of this serias were received on or about the first of April, 1917, ~d
+as the series progressed changes were suggested; and during the early part of May, 1917, a
+fabric had passed the req*nts
+of our laboratory tests. The next important problem was
+to determine the actual performance of these fabrics. To that end, sampk were placed on
+hruY a~lanw at Langley field and on Navy airplanes at Pensacohdurhg Au~t) 1917.
+SimiIar fabrics were later sant by the Signal Corps to the Canadian Aeropla.ne Co.j of Toronto,
+Canada, and they were placed on airplanes by the middle of Ootober.
+The remdts of the setice tests demonstrated that the fabrics were satisfactory and that
+service reeults could be Aiably predicted in the laboratory. In view of this, we feIt justified
+in chatging the structure of the experimental fabrim; and the result is the present grade A
+cotton fabric.
+On August 24, 1917, a conference held between the military authorities and reprmentatks
+of the bureau remdted in the Signal Corps equipment division ordering that the Bureau of
+covering tie purchase of M0,000 yards of eottan
+Standards supply the neeessary speciktions
+~irpkme fabric. The specifications were transmitted by the Bureau of Standards on September
+5, 1017, co-icring the fubri~ known as grade A and B. A few days later the bureau supplkd
+the necessary information regarding the apparatus and methods of testing and inspecting.
+The Depart.mmt of Agriculture was invited to as+t in further development of cotton
+aiqdane fabrics; and they began their wcperiments during September, 1917. In April, 1918,
+the Siggal Corps submitted aampka which were umktood
+to be the result of these invwst@tions; these dealt with the use of the various cottons end the.results are appended.
+It is understood thtit the British Government is now using the grado A fabric with a good
+ckgree of satisfaction.
+The study of aircraft fabrics, which has be-en an entirely new one, may be divided inta
+three parfs:
+1. The determination of what properties ahouId be studied.
+2. The development of methods of determin~m the desired properti=.
+3. The determination of the facturs of manufacture, which influence the properties, together
+with the magnitude of the inliuence.
+362
+
+. ---
+
+._
+
+-—
+..—
+—
+. ..
+.
+—.
+.
+
+,.
+
+THE STRUCYIXJEEOF MRPLANE
+THE DETERMINATION
+
+FABBICS.
+
+OF THE PROPERTIES
+
+363
+
+TO BE STUDIED.
+
+A consideration of the method of covering an airplsne wing and subsequently treating it
+with dope, together with the consideration of the airplane in @t
+under nornud and abnormal
+conditions, leads to the conclusions that the following properties should be studied, and that
+the most admmtageoue cumbimttion of the properties is the most satisfacto~ fabric.
+1. The weight (maximum allowable being 4 to 4.5 ounces per square yard).
+2. The factor of ssfety of the comxing:
+(a) When subjected to pressure.
+(b) When subjected to tear stresses.
+(c) When subjected to vibration.
+(d) When subjected to wing deffeotion.
+(e) When subjected to combinations of (a), (J), (c), and (d).
+3. The preservation of the conilmr lines of the wing.
+4. The surface friction.
+5. The tightnm to air.
+6. The dope consumption.
+7. The ease of application to the wing.
+8. The ease of manufacture.
+The problem of constructing apparatus to determine aff time properties experimentally
+hss by no means been solved, but it is thought that the test methods discussed, together with
+a consideration of the mechanica of the problem, me sufficient to predict with a reasonable
+degree of certainty the relative value of the fabrics experimented with.
+
+.-
+
+TEST METHODS.
+Moisture.—It is a well-known fact that the properties of aU textile maferiale are influenced
+by the moisture conditions to which they are exposed; for instance, the vegetable fibers increase
+in strength with an increase of moisture content, end the animal fibers are influenced in the
+reverse direction. For the purpose of laboratory testing, it is considered best to test these
+materiak after they have been exposed to a cm.etant condition of atmosphere which may be
+taken b be representative of the average conditions throughout the year. In this paper all
+physical determinations are made after the material has been subjected to an atmosphere of
+65 per cent relative humidity at 70” F. for a period of three hours. It has been found that at
+the end of this time the moisture content of the material is sensibly in equilibrium with that of
+the atmosphere.
+The effect of moisture on the doped fabric is not so pronounced ss on the undoped fabric
+in the case of both linen and cotton, but the effect of moisture on the doped silk fabric produces
+a very marked loss of tightness. Linen, when thoroughly soaked, is increased in strength by a
+Iargerpercentage than ia cotton; and, inasmuch as “thematerials are ordy occasiordly in approximatdy this condition, it appears that the rwmlts are less misleading if detmmined from trots
+made upon materials which have been tasted under nornd conditions.
+The effect of humidity upon the strength of linen and cotton has been published in the
+British Reports on Aeronautical Fabrics, but it is believed that the foregoing discussion is
+sufficient for this paper.
+The properties of textiIe matariala which have been determined in the past end which are
+of interest to this discussion me weight, thread count, yarn number, twist, and tensile strength,
+and for completemm these wiIl be given brief consideration.
+WeigM.—The weight was determined by cutting several samples of 4 square inches by
+mems of a die, and these samples were weighed on a torsion balanca caIibrati to read directly
+in ounces per square yard. The method of hand brushing of dope onto the fabric prevents the
+accurate determination of doped weights, and accordingly the weights given are only indicative
+of general tendencies.
+
+—.
+
+—
+
+-.
+
+—
+
+364
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Z7mead count.-The thread count is taken to mean the number of threads per inch in the
+warp or filling, and was determined by actually counting the threads with a suitable counter.
+—
+The yarn number. The yarn number is the weight per unit length of the yarn, but it is
+expressed in terms of the number of stsadard length to weigh 1 pound. It was detarminod by
+weighing a known length of yarn and the number was subsequently calculated.
+Zbid.-’lhe twist is the number of turns of twist which have been put into the yam, and,
+in this paper, was determined by untwisting the yarn, and the turns per inch expressed in terms
+of the twisted length.
+Tsn.d.e stren@ii.-The tensile strength is the breaking load of the material, and has in the
+past bmn determined according to many dMerent modifications of two methods-the “grab”
+and the “strip.” The kinds of machines used maybe clsssed according to the method of applying the load, constant increment of load machines, and constant increment of stretch machines;
+and again further subdivided according to the type of Ioad indicating head, those which have
+
+L!
+
+l,!
+
+/0
+
+I
+
+!!
+
+!~
+
+IllI-R
+,,, ,
+.
+
+4
+
+M’
+
+,..s.&iiLi‘.
+.““
+
+E+’k!
+
+Km
+
+extremely hwge i.n&ia errors such as the inclination balance, and those which do not, such as a
+spring. The tmsile strength determinations have been further complicated by various rates of
+load application and various rates of stretch increments. Inasmuch as there has existed a wide
+diversity of opinion as to method of determining tensile strength, it is proposad to discuss the
+reasons for adopting cartain test methods before the sensibility properties of textile material are
+discmed.
+Stripand grab te#.-The grab testis the oldest of test methods and has a large number of
+adherents in this country. A very general form of grab test, as illustrated in figure 1, has one
+clamp much wider than the other. In this particular case the width of the upper chunp was 2
+inches and the lower clamp was varied in width from 4 to 2 inches. Lines were drawn on the
+specimens before being subjected to hmsion and the outside dimensions of the specimens and
+the distanca betwden cIamps kept constant. Figure 2 represents the distortion of tha lines just
+before the rupture and shows very graphically the stress distribution. It wiI1 be notad that
+there is a concentration of stresses at or near the line 10; and, se would be expected, the samplo
+
+THE STRUG17URE OF AIRPL&W
+
+365
+
+FABRIOS.
+
+ruptured at this line. The position of this line of concentration of stress approaches the line
+midway between the clamps as the width of the lower chump is increased, and hdIy lies midway when the two clamps are of the same width. Hence, this test has a tendency to produce a
+fiber rupture rather than a fabric rupture. The curves shown in @ure 3 are composita curves
+taken from tests on various fabrics. Curve D represents the relation between the strength and
+the width of lower chmp as outlined above. The strength is divided by the width, and the
+result, caUed the unit strsngth, is plottad against the width of strip. The curve H is the unit
+strength calculated from Curve D. It is seen that the relative strength of the fabric is a function
+of the dimensions of the clamps, and that it is approaching asymptoticallya constant unit tensile
+
+-.
+
+strength.
+
+#
+
+I
+. C- S+rfpD- Grub-
+
+‘1
+
+*
+“
+“ LowerChmp
+
+d
+
+o
+
+I
+
+“
+X ZS..
+/
+
+/
+R
+
+d
+
+3
+
+/
+\
+
+E-Unif 7Ewsi/efmn? A
+NB
+“2
+F
+“
+G-4’:”
+C
+~-..o-o
+‘
+
+4
+
+i
+
+/
+
+/23$567
+
+%9.3.
+
+8 (23
+
+Widfh.
+
+;
+
+The curve A was obtained from plotting the result of tende strength against the width of
+strip, using the strip test. The strips were prepared as shown in figure 4, and their appearance
+just before rupture is shown in iigure 5. It will be observed that there are several threads, 1
+and 2 (fig. 5), which become detached from the rest of the strip. This suggests that these threads
+do not carry their proportionate part of the load. An examination of the curve A shows that
+a straight line ratio etits between the width of the strip and the tensile strength, and that the
+unit strength is constant and independent of the specimen dimensions as shown by curve E.
+It was found in testing strips of widths between 1+ and 2 inches that it was extremely diflicnlt
+ti pIace the siunpks in the ckmps evenly, and that very slight changes in the alignment of the
+chxmps caused the strip to break at much lower strengths than is indicated, but if extreme care
+was used, the straight line ratio was praserved. From this it was concluded that the personal
+
+-
+
+—
+
+..
+
+366
+
+ANNTJAL REPOET NATIONAL
+
+ADVISORY
+
+COMMIIT’EE
+FORAERONAUTIC%.
+
+equation was so great in the cam of the 2-inch sample that it was best to use a l-inch
+sample.
+The straight line ratio between width of strip and tensile strength does not hold for all
+fabrics. The curve C may be taken to represent tho width of strip and strength relations of
+tests made upon tha warp of a heavy duck. The curve (A) may be taken to represent the
+width of strip and strength relations of tests mado on the same duck in tho warp direction with
+the end threads held in place by tying thorn in with the fWng fringe, It will be seen that, as
+would be oxpectod, tho two linos are parallel, and that the distance (K) is the correction factor
+to be added b-the tensile stro~gth of such matirials. This condition will only occur in fabrics
+having a radically diffcmmt crimp in one system of threads as compared with the other system
+of threads. For tho class of matwial which is being considered in this report tho condition will
+not occur.
+The curve (B) represents the width of clamp and tende strength relations of fabric tested
+by using a grafi test having the upper and lower clamp of the same dimensions and increased
+
+m
+
+?
+
+I
+
+I
+
+i
+
+1
+
+1
+
+IJVL+
+like amount. It will be observed that the line is parallel to the curve (A) and that the
+p&pendiculm distance between them is a measure of ti~ constant force transmitted from one
+clump to the other by the fabric surrounding the ftibric between the ckunps. The distance
+between the curves (A) and (B) depends not only on the width of tha specimen but also upon
+the distance which the sample protrudes into the clamp.
+ThQ grab test in rillof its modifications gives results which are a function of the dimension
+of the test specimen and clamps, and the results approach asymptotically the reaulta of the
+strip trot. The strip test gives a constant value for the strength of the material, provided it is
+of such dimensions thtit the personal equation is eliminated. The strip test applied to fabrka
+made of extremely nonuniform ymns will probably give a lower unit strength using a 2-inch
+strip than if a l-inch strip were used. Such fabrica should not be considered for airplane-wing
+cover-;
+and, if they me considered, a frequency curve of tensile stnmgth plotted from tdS
+made on considertibly mirrower strips would be of much greater value than testsmade on the
+wider strips,
+
+!CHES!I!RUOIXEIE MEFLKNE
+OF
+FABBI03.
+
+.
+
+367
+
+Testing muckhw.-l%e tende strength of fabrics depends somewhat upon the rate of load
+application. It has been observed that there are limits betwem which a change in the rate of
+of the mattial.
+This condition
+load application produces a Vq slight chmge in the properties
+is attained by stressing the specimcm at a very slow rata; and, provided the rate of stress application is kept beknv the upper J.imitlthe results wilI be the same whether the sample is stressed
+in ecpud increments of load or is stressed by causing it to be stretched d. a constant inorement
+of stretch. WWin the Imitations of the mechanical features of the testing machine the sIow
+application of load is the most severe one.
+The inertia errors of the indicating head are reduced in value so as to be within the variations of the fabric, if the head is operated at very slow speeds. An inclination balance type of
+testing machine equipped to cause the sample ta be stressed by stretching it at a constant rate
+and operated at a sped of 6 inches per minute was used to determine the sensibility properties.
+&imp.-The
+orimp of a yarn is the increased length of the yarn taken from the ftibric
+over the length of the fabric. The difkenoa is caused by the interlacing of the yarns. The
+kngth of the yarn taken from the fabrio is determined from the load+tretch diagram of the
+yarn. ‘l%e yarn is stressed in smaU increments and the stretch plotted against the load. The
+time allowed between the increments is such that a further ineresse of time of apphcation will
+produce only a very slight increase in the elongation
+It was found that, after the crimp of
+the yarn and fibers wsz taken out, the load-stretch curve followed a strsight line. This line
+was projected to intersect the zero load coordinate and that Lmgtih taken b be the length of
+the yarn when straight and under no tension,
+Te’lwibizity
+pTopertie8.
+—The te.nsibillty properties of textile material maybe dafined as the
+behatior of the material when subjected to tensiIe stresses acting paraIlel to and at the center
+plane or line of the material. These may be divided inta the following: (a) Load-stretch reltitions; (b) tensile strength; (c) restitution and hysteresis.
+The determinations were made on an inclination balance type of testing machine operated
+at very low speeds and having a d
+anguhm displacement of the balsnee arm. The machine
+was fitted with an autographic device for recording the load-stretch relations of the specimen.
+The devim consisted of a drum revolved by the pendulum arm and a dotting pa moving in a
+vertical line parallel ta the center he of the drum. The dotting pen WSE
+given ita motion from
+the lower or pulling clamp of the testing machine. Correction for the motion of the tip clamp
+was made by the use of skew coordinate paper. The drum wsa mounted in conical ball bearings, and the motion-transmitting parta were of flat brass ribbons. With these precautions it
+was found that the device contained no mechanical backlash or instrumental hystemis.
+The samplea of fabrics were prepared by cutting strips 25 cmtimetem (10 inches) long by
+3 centimeters (1+ inches) wide and raveled to 2.5 centimeters (1 inch) width. The samples of
+doped fabric were prepared by cutting the samples directly to 2.5 centimeters (1 inch) width.
+The distance between the chunps was 20 cadimeters (8 iruihes) and th. pulling clamp was
+operated at the speed of 13 centimeters (5 inohes] per minute for the more careful work of
+hysteresis and at 30 cantimetera (12 inches) per minute for the ordinary teusile strength and
+elongation tests.
+Tear resistance (tmahlity
+met7iod).4pecime.uE
+25 centimeters (10 inches) wide and 36
+centimeters (14 inches) long were clamped in the testing machine with 30 centimeters (I2
+inches) between chimps. Slits were previously cut at the centar perpendicular to the Iine of
+pull; the fabric was stressed at the rate of 13 centimeters (5 inches) per minute; and a record
+made of the load necessary to start the tear. This method was not rigidly adhered to, as in
+many cases time and circumstances made it necessary to deviate therefrom. This method of
+test is more carefully defined in the British Reports on Aeronautical Fabrics and is refwred to
+m the wound test.
+Tear reaiatance (rip 7Wt~LOd).-The
+rip tear, or sometimes cahd the tongue test, has several
+modifications. The Engligh investigators favor a tongue test mhde on the doped fabric detached from the frame. A rectangle is cut on three sides at or near the center of the specimen.
+The tongue which is produced is turned down and clamped in the pulling jaw, and the other
+
+J -—
+
+. .
+
+-.
+
+.L
+
+-
+
+-.—
+
+,. -..
+
+-b
+
+—
+
+—.
+—
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+KNN’UAL
+
+368
+
+1-
+
+1
+
+-l-IL
+
+end of the specimen is clamped in the
+other jaw. The jaws are caused to
+separate and the maximum resistance
+recorded.
+It is belhcd that this method as
+performed does not give information
+which is of great value, for the fabric
+detached from the frame turns back
+from the point of tear, thereby rcdu~
+ing the torsional stresses in the yarn
+and increasing the area of the tear
+stress distribution. It is of interest to
+kuow the maximum forces necessary
+to start the tear, but it is of more importance to know the behavior of the
+material after the tear has started and
+the behavior of the material under
+combiied conditions of tear and pressure stresses, It is rather diflicultito
+construct such an apparatus, but the
+behavior may be predicted from several teet8 of diiRmmt character.
+The rip or tongue teat used in thii
+discussion consisteinplacing the doped
+frame with the cut tongue directly in
+the clamps of the tesking machine,
+and the tension necessary to tear the
+material plotted against the motion
+of the pulling chimp. It was fouud
+impossible to use the inclination balance t~e of tdng machine for thk
+test, w the large inertia eflects induced
+by one thread breaking and throwing
+the load quickly onto the next gave
+reeults of questionable character. A
+constant incremmt of stretch machimr
+with a spring recording device, as
+shown in figure 0, was used. The
+spring has a wry small motion and is
+connected to an autograpbic recording
+device shown at the right. There is a
+small inertia tiect in the recording
+device which may be considerably reduced by a few alight changea in
+arrangement and by careful manipulation. It was not thought that the
+eflecta were hi.rge enough to give results which were exaggerated, excepting the overrun of the recording device
+after the threads abruptly picked up
+the load, and this effect is shown by
+two perpendicular linw which lie
+actically over one another.
+
+q
+
+THE
+
+S!caumulm or ~
+
+l?ABFuc&
+
+869
+
+These results, tigether with the consideration of the rcaults of the other tests described,
+are thought to be sufficient ta predict with a reasonable degree of certainty the performance
+of the fabric when subjected to tear under flight conditions.
+l?asidance to uniformly dhtributed prewure .—The material is clamped over a rectangular
+container and subjected to air pressure. The apparatus is shown diagrammatically in @me 7.
+The deflection of the center point of the fabric is plotted against the unit preskure under the
+fabric by means of an ordinary stea.m-@ne indicatir. The shape of the deflected surface iS
+determined by measuring the vertical displacement of a series of rods placed at various points
+over the surface and free to move only in the vertical plane. The rate of flow of air into the
+chamber under the fabric is vmy S1OW
+and is regulated by passing the air, which is under a pressure of 10 kilograms per square centimeter (140 pounds per squme inch), through 110 centimeters (44 inches) of l-millimeter tubing. A sheet of rubber dam is placed under the fabric
+to prevent air leakage. (considering these precautions, it is reasonable ta assume that time
+.,
+
+Da
+f!!AN
+
+w
+
+. .
+
+.
+
+f@A/Y’
+
+I
+
+t?
+
+k
+
+I
+
+I
+
+\
+
+Id
+
+I
+
+—
+
+*
+
+.
+
+is a very uniform distribution of pressure under the fabric. As there is practioall~ a zero rate
+of flow of air into the indicator, ii is reasonable to assume that thexe is n; pressu& drop in the
+connecting line. The rate of load application in this apparatus is adjusted by the definition
+of the prwwre and dimensions of the capillary tube in such a manner that the variations in the
+load application caused by the several fabrics having differant stretch ratios produce only a
+very sIight diihrence in the recorded tensibtit y properties of the materiaL
+Bursting tear te8t.— The procedure is similar to that followed in the determination of the
+resistance to uniformly distributed pressure, excepting that slits are cut in the fabric at various
+parts and the pressure neceassry to start the tear is recorded, together with the deflection at
+the time of the tear.
+Prepamtion of doped mnpZw-The
+fabrice were stretched and tacked on frames under a
+tension of 80 grams per centimeter (0.45 pounds per inch) of width, and doped in a room maintained at approximately 65 per cent relative humidity at 21° C?. The framm were 30 by 30
+centimeters (12 by 12 inches) inside dimensions for the preparation of specimens for the deter16’70S0-S. Dec. 807,~24
+
+.._
+
+870
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY (JOMMJ!I!TEEFOR AERONAUTI(IS.
+
+of sensibility properties and 18 by 61 centimeters (7.2 by 24.4 inches) for the determination of resistance ta pressure.
+Films of dope were made by painting the dope on glass plates; the films subsequently were
+psded off, and determinations were made of sensibility and resistance t.apressure.
+Expowre tests.-The fabrics, after tacking on frames and doping, were placed on the roof,
+and determinations were made periodically of their phywical properties.
+mination
+
+VALUE TESTS.
+OF
+Thte made upon wdoped and dopedfabric8.—~
+Btudy of the adaptability of a particular
+fabric to wing coverings is confined entirely to the study of doped fabrics, as the character of
+the fabric is materially changed by the application of dope. There are some instances whare
+the dope does not radically change the characteristics, such as the very compact fabrics and the
+heavier and more dense fabrica. The cousidexation of tie properties of the undoped fabric is
+limited to the tangible expression of desired properties, which finds ita greatest application in
+conveying to the manufacturer the structure of fabric most suitable for the purpose intended.
+n
+Veig%t, yarn eiti, thread count, and temile. stmngth.-These determinations, amed in the
+title of this section, have been considered in the past the only requisites necessary to define
+mechanical fabrics, but the study of airplane fabrics has added ta these the defining of the
+sensibility properties. Apart from the definition of the fabric from the maxmfadming view
+point, these values, when one is famihr with them, convey a mental picture of the fabric and
+allow one to judge such things as dope absorption, probable crimp, limitations of distribution
+of load-stretch.relations and character of surface, fatigue efkta, and change of efhctive yarn
+stiength after weaving.
+—The determination of sensibility properties indicates more than any
+Temibility ~OptWti48.
+other test the performance of the matarial under flight conditions. It has been observed that
+the tightness of a wing covering is dependent upon the support which the fabric in its doped
+condition lends to the dope ti.
+The phenomena of the fabric tightening after the appliction of the dope maybe considered to be caused primarily by the dope constraining the yarns
+in their crimped condition. An examination of the shape of the load-stretch diagram indicates
+the manner in which the bond is disturbed when the doped material is stressed. The behavior
+of the doped fabric is entirely different from the behavior of either the dope or the fabric, and
+the shape of the sensibility curve detarrninee the degree of permanent distortion which may
+be expected of any fabric and whether it will become loose or mushy. The tangibility properties, particularly those of elongation and tensile strength, together with the consideration of
+the numbm of yarns being stressed, is of value in predicting probable tear resistance.
+An analysis of these properties very often indicates the particular phase of the manufacturing processes which should be changed in order to produce a desired result.
+Twr t.ats.-The bar test affords practically the only means of detmminkg the relative
+factor of safety of the wing covering after ita continuity has been disrupted. The tear conditions may be chesed into two kinds, (1) in which a hole is punctured in the covering which
+may be large enough for a tear to start in the weakest direction because of the surface tension
+induced by the pressures of ilight; (2) in which a section of the wing covering protruding from
+the surface is subject to stresses which tend to dislodge it from the body of the cover, such as
+a tongue exposed in t@ slip stream. The two kin&of tear twti, the bursting and the rip
+tast, are a measure of the resistance of the material to such stresses. The factors of vibration
+and sensibility in the case of the rip test are not considered directly, but from the general con.
+cepts of vibration and surface tension comparative reeults may be obtained.
+Bumtiw te.ste.-An observation of a strip of doped fabric being stressed in tmsion reveals
+the fact that there is a lateral contraction of the sample which is necessarily accompanied by
+an increased elongation in the longitudinal or stiessed direction, The yarns in a wing covering
+are under constraint, and it is logical to assume thatg constrained SampIe may give different
+tast “rwults from one which is not. The exact magnitudes of the constraining forces are not
+known, but from a study of the changes in ourvature of a deflected wing it is evident that the
+
+“
+
+.
+
+THE S’D3UC?ITJREOF MIWLANE
+
+I?ABEU29.
+
+371
+
+constraining forces are not of the same magnitude over the entire surface, even under the conditions of uniformly distributed prassu.re. It is cliflicult to integrate the eflecta of the warp
+and the filling properties of a fabric froI.Ran examination of the load#retch diagrams of the
+warp and the fillbg. The study of curvatures gives an index h the relative eilects,but it is stilI
+difbult to form an opinion as to the magnitudes of the efhcts. For these reasons it was thought
+advisab~e to subject a doped panel to uniformly distributed pressure and to study the contour
+of the deileoted surface in the hope of arriving at some logical basis for detmminkg the stress
+distribution in the fabric and of providing a convenient method of obtaining a single figure
+which might be taken as the relative factor of ssfety of the material and at the same time
+might be a measure of the tautness, deflection under pressure, and a test of a stripunder condition of proper cunstrsint.
+The bursting test does not give i%strwulta which will be comparable with the strwes induced by wing defections, or rip tsar under combined conditions of proper surface tansions
+sad strws k rip; but it is believed that these maybe predicted more readily from 5 consideration of the pressure deflection relations of any particular fabric, and the general concepts of
+surface tension.
+TESTREXLTS.
+Propen%.r of Enenaipphzw fW
+(stundad A grade)—
+Weight per square yard, undoped, 4 ounws
+Threads per inch-warp, 94; Hling, 97.
+Weight per square yard, doped, 6.9 ounces.
+Tensile strength, 85 pounds per inch, undoped.
+TensiIe strengi% doped, 90 to 120 pounds, depending on the kind of dope.
+Resistmce to prasurep~ure,
+14.7 pounds per square inch; defection, 0.78 inah.
+Tear test, rip, 3.82 pounds average.
+Tear test (bursting)-pressurej 2.7 pounds per square inch; deflection, 0.50 in~’
+Refer to @ures 8, 9, and 12 for tensibilit.y, pressure, and tsar tests.
+The Linenfabric is not uniform in yarn structure, and the sensibility curves vary somewhat,
+but it is thought that the above results are a fair average. The kind and make of dope used
+change the propertk of the doped fabrk; an~ so far w is poasibie, a lmomn fabric is tested with
+a new group of fabrics.
+The Zm&tretch diqnwm of wndoped falmb.-The
+load+tretch diagram of the undoped
+fabric must be influenced by the charactsr of the fiber, the structure of the yarn, and the method
+of weatig.
+The diagram maybe divided into three parts; (refer to @g. 15) fim ZmO tO (A)
+is almost entirely the crimp of the yarns; from (A) b (B) is the crimp of the yarns dominated
+by the stretch of the yarn in its crimped condition; from (B) to the breaking load is the stretch
+of the yarn in its crimped or constrained condition. The curve (D, O) maybe taken ta be the
+curve of the same number of yarns, but not intarlacad. The line (~, l’) may be taken to b~
+the curve of the yarns in their canstiained position after the removable crimp (O, B) ha been
+taken out. It will be noted that the line (17, n has a greater elope than (D, 0) and that the
+wmp (G, H) has even more. From this it is secmthat as the crimp of the yarns is reduced, the
+slope of the curve approaches the eiope of the ysam curve. It then may be concIuded that that
+part of the curve is very largely influenced by yarn charactemtice.
+The distances (O, F) and (O, H) maybe termed the removable crimp, zmd the sum of the
+two is dependent upon the weave structure and thread diameter, and to some cuctentupon the
+comprtibiIity of the yarns. The ralation between (O, F) and (O, H) is a function of the tensions of weaving. The fabrics shown on ilgures (16) and (16) are of the same weave sticture
+amd of the same yams, but the weaving tensions are diffarent. The sum of (OF) and (OH)
+practically equals the sum of (OF’) ud (OH’); but the ratio of (OF) to the total is very different
+fkom the ratio of (OF’) to the total, or to (OH) and (OH’), respectively.
+The two casss discussed are fabrics woven in the plain weave. It would be expected from
+the above that these yams woven into a basket or mat weave would decrease the sum of (OF)
+and (OH) proportionally to the decrease in the number of interluings, d
+this is very largely
+
+.
+
+!2
+2
+i?
+
+THE STRUCECUEEOF AIBI?LANE FABEI~.
+
+373
+
+true. The limitations of adjusting the weaving temions to chmge the relation of (OF) to (OH)
+are considerably reduced, due to the fact that the yarns are not bound and are more free to
+take up whatevar position the internal stresw.s may demand in their tendeuoy to equality of
+shessw. AEa result, the distancw (OF’) and (OH) are nearly equal. It is therefore conceivable
+that h particular weave in quastion may have Iess total crimp and still have the crimp of the
+filhg larger than that of the plain fabric. Inasmuch as the tautness is dependent upon the
+support which the system of yarns having Ieast stretch gives to the dope, the plain fabriu having
+more total crimp may hsve a greater tautness h
+the basket fabric.
+The dlect of changing the diameter of the yarns is of much the same tied as changing the
+weave structure. For any given weight of fabric an incrwe of yarn diameter, within fairly
+large rangw, is accompanied by a tendency of the load&ret& diagrams of the warp and tiling
+to be the same. The lower limit of decrease of yarn &meter is defined by the limits of wea~
+diflicultiea. The corollary to this is, for any givem yarn diameter, a decrease in the number of
+yarns is accompanied by a tendaucy of the Ioad+tietch diaggam of the filling to be the s-e
+aS that of the W&Kl?P.
+The efl!ectof wea~
+tensions is interesting; and it maybe stakd generally that m incresmd
+warp tension is accompanied by an increased filling crimp, or that a decreased width of cloth
+at the templm is accompanied by an increased Nling crimp.
+The controI of the load+tretch diagrams by hoId@ the number and diameter of threads
+constant in one system and varying the other system is not at presemt subject to a gened
+statement excepting that the factors discussed above are the controlling once; and it can not
+be defmkdy anticipated, with the present Imowledge, which will have the dominating influence.
+The stiffness of the yarns has a great influence upon the control of the load-stretch relations.
+The stifhess is taken to be the dongation of the yarn at any particular load. To illustrate, the
+curves shown in tigure (19) are those of a doped unmercarized fabric, and those in figure (20)
+are those of the same yarns mermrized and woven with the swne number of ends and picks.
+In each case an attempt was made to obtain the minimum crimp in the Hling. From an examination of the curves, figure (19), it is concluded thpt the fabric is of fairly open structure, and it
+is constructed of 3/80’s yarn 68 by 71. The stretch of them ercerized yarn is much less than
+that of the unmercerized yarn at any load, and henca wiU not balance in crimp es easily as the
+unmercerized yarn. The characteristics of the undoped curves are reflected in the curves of
+the doped fabric.
+The curves shown in iigure (18) are typical com~bmk Ioops. The partictiar fabric is very
+compact and has no transition from crimp to yarn characteristics. This is true of all closely
+woven fabrics and such fabrics when doped always show a breaking away of the dope from the
+fabric.
+The zero load point of the hysteresis loop approaches a line tangent to the load+tretch
+diagram at the point when the loop leav~ the curve. The difference between the area and
+portion of corresponding loops for the several fabrics is noticeably large, and it is believed that
+they are a fair index of fatigue failure. Provided the dope remains with the fabric as evidenced
+by the Ioad+tretch relations, the question of fatigue is relatively unimportant. A break in
+the doped curve is always accompanied by a decreased amount of recoverable energy and
+fake in service. For these reasons this phase of the investigation has not been completed.
+From the above discussio~ it is obvious that the numbar of variables entaring into the
+equation of the Ioad+tretch diagram are very Iarge, and that the machines used in the manufacture of textiles do not lend themdves tQ an easy analysis of the magnitude of their inbmce
+on the properties of the yarn or fabric. Such a study would be of great value, but it was thought
+a general lmowkdge of the factors wouId be sufticientiin view of the axigency of the case. With
+this in view, many fabri= were constructed of widely different structure, so as to establish end
+points, in order that the performance of intermediate fabrim might be predicted
+The treating of fabrics by subsequent finishg procasms offers many interesting possibtities. The processes to which fabrics are subjected in the tihing
+operations are less controllable than those of the manufacture of the fabric. It is desirable to have the wings of uniform
+
+5
+
+“6
+
+I
+
+.
+
+1
+
+5
+
+7L8
+
+.
+
+THE STBUOTURE OF AJllPLKNE FABBIOS.
+
+8’75
+
+tautness and of uniform safety for any one type of plane. To accmnpiish this most successfully
+it is necessary onIy h control the load-stretch diagram of any particular fabric decided upon.
+From the consideration of uniformity of product, it appeared desirable to cxmstruct a fabric
+which would be ready for application immediately after weaving. After producing a fabric
+directly from the loo% the performance of which was as good if not better than the satisfactory
+linen, it became necessary to give attention to the many other problems of military fabrics.
+.Load-eiretch
+diugrum of tie dopedfabim.-A
+doped fabric is a composite matarial made up
+of two separate materials interlocked in such a manner that the resultant material doea not act
+like either one of the components or like what maybe krmed the sum of the two materials.
+The load+tretch d&ram of the undoped material is characterized by a very h.rge stretch
+at the low loa&, as is shown in @me 15. The load+treti diagram of a dope film is practically
+a straight line up to from 1.6 to 3 per cent extension followed by a very rapid increment of
+stretch per unit of load increased; and the rupture occurs after an extension of 8 to 12 percent.
+There appears to be wide variation in the physical properties of the dope film; and, for this reaao~
+it is necessary to test new fabrice against old ones of known value. The Wed of weather exposure
+on a dope Hm is to reduce its ultimate elongation without a material change in the position of
+the yield point or the slope of the curve below the yield point. Further exposure (afbr the
+ultimate elongation is in that part of the curve, any point of which maybe the yield point) has
+the effect of reducing the eipngation at any load below the yield point.
+The load-stretch diagrams of doped fabrics maybe classed as:
+1. Those having the characteristics of the filling-doped curves of figmw 8 md 1S.
+2. Those having the characteristics of the a-doped
+curve of i5gure 16.
+3. Those having the characteristics of the wsxp-doped curves of 8 and 16.
+4. Those having the characteristics of the filling-doped curve of figure 17.
+From a study of a pressuredeflected doped fabric, it is evident ,tiat the system of yarns
+having the least stretch at any load carries the greater proportionate part of the load. 13knce
+the characteristic of the system having the least stretch are of the greater interest and govern
+the performance of the material.
+The diagrams of figure 8 me those of the standard A linen, and those of figures 15 and 21
+are of a 2/60’s mercerized yarn 78 by 83. Both of these dope to satisfactory tightn- and have
+the necesmry pSrmanency of tightmx?s. Experience has proven them ta be satisfactory.
+The fabric described in @ure 16 does not give the kngth of service which the cotton of
+@e
+15 wilI give; it becomes qnite loose after continued service.
+The fabric of ilgure 17 is very unsatisfactory, in that it may be permanently dented, and,
+after a comparative.Iy short time, becomes mushy, and deteriorates very rapidly both in strength
+and tautness.
+The above examples are typical of tie performance of fabrics having the general characteristics of these curves, tmd they wilI be taken up in detai
+1 (figures 8 and 1S). The fllLingcurves are practicality straight lines, but it is evident that
+the yield point of the dope has been excaeded. The penetration of the dope was good, and it had
+the effect of binding the yarns together sad of taking away the efkt of the removable crimp
+to a huge extent. This is particuhdy true of the part of the curve which is under streM during
+practically all conditions of flight. The _
+doped curve wouId coincide with (110 if the
+effect of the removable crimp was entirely diminated. It hm been noted that the strip is not
+under lataral constraint dtig
+test, and that the elongation is exaggerated. The curve is considerably reduced in slope if the elongation is plotted against surface tension aEcalculated from
+the bursting test. Under these circumstances the two curves just referred to will coincide.
+2 (me
+16). me-curve
+of this fabric exhibits a break in its continuity, and, aIthough
+it is practically paralkl to the curve (l&), there is strong evidence that the dope is becoming
+detached from the fabric. The penetration of the dope was the same as for the previous cotton
+fabric.
+3 (warp-doped curves of 8, 15, and 16). The curves show a radical change of direction of
+curvature and in the case of 16 the doped curve crosses the undoped-wmp curv~ It is evident
+
+—.
+
+—-
+
+,.—.
+
+I
+
+.
+
+3
+4
+:
+0
+
+w
+
+IQAD-WRETCH DIAORAM
+
+mun -a
+
+BUREAU OF STANDARDS IHW
+F/q.
+44’
+
+-
+
+LOAD.-~
+
+**
+
+DIAORAM
+
+BUREAUOF STANDARDS
+/7
+/%/$?,
+
+378
+
+&KNUAL
+REPOM! ATIONAL
+N
+ADVISO13Y
+fYOMM~
+
+FOEAERON’AUTIC#.
+
+that the dope has beoome entimdy detached from the yarns and no longer binds the fabric
+together. Under suoh conditions the fabrio is as easily and permanently deflected as the
+undoped material, and the dope will soon orack or dust off, exposing the raw fabrio ta the
+weather.
+4 (figure 17). The undoped filling curve practically coincides with the undoped filling
+curve of figure 16. The filling doped curve shows a very marked break in the curve which
+may be interpreted as the fabric separating itself from the dope. This fabric wilI become
+mushy long before that of figure 16. In this particular case the dope penetration was not good
+and the dope film is merely a surface mating, and becomes easily separated from the fabric,
+whereas the penetration of the fabric f5gure 16 was very good.
+From this discussion of typical weathering and service tests, it iE evident that the life of
+the oovering is very largely a function of the shape of the Ioad-etretoh diagram, and to some
+extent of the penetration of the dope. This sswunes that the light protection is the same in
+alI cases. It may now be assumed that the charackrietics of the Hling of figures 8 or 16 are
+the oorrect limitations to be plaud in judging the performance of a fabric in so far as ite life
+and tautness is concerned. It is comparatively easy to design a cottm fabric which will dope
+to satisfactory tightnow and weather well, provided one is not interested in any other property
+of the materhd.
+has already been pointed out that
+Bwwting reshhce to unifmly d&tribtied premure,-lt
+this test gives a load+tretoh diaggam more nearly correot than the temde method, and it permits a more complete study of the functions of the warp and filling. From measurement.ait is
+found that the greatwt stress in the fabric is in a zone extending from about 12 centimeter from
+one short side of the frame to alike distance from the other end, If the filling is put on parallel
+to the short axis of the frame, it carriea practically all of the load, and the stress in the warp
+is VOryslight.
+The supposedly balanced fabrice plaoed on the bias and oaused to be burst do not develop
+the looked-for high bursting pressures. It is probable that they are noi really balanced, and
+that it is dif6euIt to place them on frames and still preserve the condition of balanced stretoh.
+~om this it may be concluded that a biased balanced fabric oan not be used to its fdl advantage in practice.
+From the study of the fabric under pressure, it would appear that a fabric p aced on with
+the warp parallel to the short axis of the wing or the long axis of the panel woul J , if it had the
+balance of the yarn imthe illling, most etlickmtly satisfy the stresses in a wing covering. It is
+assumed that the *
+stretch is very low as oompared with the warp, and it is therefore under
+muoh greatm draw. Under these conditions the warp strength may be only enough to provide
+satisfactory tongue tear resistance. The tear resistance (tongue test) of the warp is in a
+square fabric suoh as &e standard A cotton 60 per cent greater than that of the filling; and
+under conditions of flight it is probable that it is nearly 75 per cent greater. A fabric having
+the baIance of the yarn in the filling could not be laced according to the method using lacing
+cords though the fabric alone, but it is thought that the use of a corded reinforcing tape would
+satisfy the stir-es at the lacing points. The reaulta of bursting testi on such fabrics are
+appended.
+The curves of preaeure deflection shown in &we 9 show the relation between the pressure
+and deflection of the undoped fabric, thdope 61m, and the doped fabric. An examination of
+these curves with particular reference to the break in the curvature of the dope film curve
+indicatea that the yield point is exceeded at a point very close to the breaking load of the doped
+fabric. Thb substantiates the previous contention that this lateral constraint modifies the
+chaxacterietics of the strip test. From this it ia evident that the value of the strip&t is only
+to obtain an index to the performance of a fabric and should only be thought of in connection
+with the probable change due to lateral comtraint such as is produced in the bursting apparatus.
+The magnitude of the lateral constraint varies with the properties of the fabric, and, ss
+w.ilIbe pointed out under the consideration of tear, the eflect may be to reverse completely the
+opinion based on the strip test.
+
+I
+Zi
+
+I
+
+I
+
+m
+I
+
+i
+
+I
+
+I
+
+II ‘
+
+1“ I
+
+Z3URST74LG
+TEST
+~howihy - Ui7dqued& &yxm’Fu&k.’ “
+“
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+mYi!snm 7KST
+
+I
+
+I
+
+‘“
+
+- Dow film.
+t7mmeDimensihs
+18x6/cnzinsk&e.
+
+?1 /
+
+I
+
+,4
+
+J
+v
+
+0
+
+Fig. 9
+
+1
+
+I
+
+1
+
+2
+
+4
+
+6
+
+1
+
+1
+
+1
+
+I
+
+J
+/0
+IZ
+#
+Pressure - Lbs,pek-+wh
+
+1
+
+Is
+
+1
+
+/’8
+
+;
+
+Ftg. u
+
+R-=$-
+
+wLbs,persq. in.
+
+-
+
+I
+
+S80
+
+MNIML REPORT NATIONAL ADVISORY 00 MMITZEE XOR AERONAUTICS.
+
+The pressure-defkction relations of the 2/60 or linen fabric, figure 22, may be taken as
+the maximum allowable amount to be cmeiatant with the -mum
+life of the dope and permanency of tautness.
+TEARRESISTANCE.
+The tesr resistance coDEtituteaone of the mosttimportant determinations in the study of
+the adaptability of a fabric of an airplane wing. The tem resistance of an undoped fabric
+diflers so radicdly from that of the doped fabric that this phsse will be discussed only in so far
+as it is interesting to know why the diiTerenceexists.
+It hse been observed that the yarne in an undoped fabric when torn slip a considerable
+amount, depending upon the weave structure, assuming any one yarn and thread count. The
+slippage is then. a fW.tion of what may be termed altiesa.
+The amount of slippage in a
+doped fabric is so smalI as compared with the slippsgi of Y*
+in the undoped miterial that it
+may be ccmsidered negligible. The yarns may be considered as being held more or less rigidly
+in their relative positions.
+The tar resistance of a doped rnaterisl may be considered se the integration of the stresses
+in the direction of the plsne of the fabric within the zone of tear. The distance to which the
+streeees exist either side of the point of tear is a function of the elongation of the matelisl, and
+the magnitude of the stresses is dependentipon the eflective strength of the individual yarna.
+To illustrate more clearly the factors influencingthe tear resistmce the foIlowing fabrics
+are coneidemd.
+Tlmad taunt.
+
+Wedght
+
+Yarn nnmber.
+
+.-
+
+Saniplemaik.
+
+. . .. .....................................................................................
+&j$~AA
+
+90
+80
+
+.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+I
+
+.
+
+s.5
+4.!4
+
+94 . . . . . . . . . . . . . . . . . . . .
+
+so
+
+88
+8s
+n
+
+. ...........................................................................................
+g73 .. . . .. ............................................................................. .........
+....... ......................................................................................
+
+92
+g;
+
+I
+
+!s1
+
+?/%
+g
+
+‘0
+
+I
+
+i
+
+;;
+
+t
+
+.. -.
+
+..-.
+
+.
+
+(i-ti:~ii%,
+
+Etretall (per cat),
+Illtinlatq
+doped.
+
+Yarnn=ctew
+
+Thrundnpelrindl.
+
+San@.
+
+w.
+Linm A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Cotton . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A .
+
+‘WP
+16SB::::::::~:::::::::::::::::::::::::::::::
+S774 . ......................................
+. ..
+
+,
+
+‘~
+
+‘~
+
+-
+
+‘j
+
+*
+
+,__j.k:+j
+
+;,
+
+Tear
+tats.
+Rip
+
+d
+
+RIXti&@@
+
+tear
+Qmunda).
+
+Smple.
+w.
+L&en A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+00#
+A .. ......... ............................ ..........
+
+!
+I
+
+——
+
+!
+
+F.
+
+w.
+
+w.
+
+F,
+
+97
+L&s
+. ‘1.12
+78
+............
+W
+............
+$LM
+LLc?l
+70
+&f14
+............
+an
+1%
+.8
+~MJ ............ ............ ............
+............ ............ ...........- ...........- ............
+
+$:
+
+M
+...................................................... ............
+""".. -"-"..------------"
+-"--------"=--" -------------“----..ti:ir
+.......................................................
+i%4B
+I
+
+F.
+
+Wound
+test(WUXW
+SingIeby 2,
+
+I
+
+The wound tests were made according ta the following:
+1. Sample, 4 by 6 inches.
+2, Distance between jaws, 3 inchee.
+3. Jaw width, 3 inchee.
+4. slit, 1 inch.
+6. Movement of pulling clamp, 12 inches per minute.
+
+1
+
+,.
+
+,
+. ..==-
+
+STRUOTUEE OF AMPLANE
+
+T=
+
+The following results were ob W
+
+from premm
+
+Barat W
+
+381
+
+FAJ3BKEL
+
+tmta on a doped frame:
+teaMIA
+moo#ht.
+
+Burst
+
+Bnrsttwr, SJm2hwt.
+
+Ssmpb
+wk.
+
+%&&
+P.
+
+LfmnA. . . . . . . . . . . . . . . . . . ...
+ga&nL
+. .......... ..........
+266By:::::::::::::::::::::::.
+
+Y=
+
+D.
+
+It 9
+
+:.
+
+H
+%a4
+
+L 81
+Lll
+
+B. T.
+IfJ4
+IIa
+lx
+Ia4
+
+EL
+6.6
+&8
+!2;
+
+D.
+
+P.
+
+S.
+
+:%
+H
+&z
+Z4
+
+:s
+
+T.
+86
+a
+3)
+B
+
+D.
+
+P.
+
+i.
+LS
+2.s
+2.4
+L&
+
+4.4
+6.6
+::
+
+WQ
+.64
+:~
+
+LM
+L 41
+L39
+L 46
+
+P. =Prsssmre, pounds per square inoh.
+D. =DefIection of oenter point in inohe-s.
+S. T. -Cahmkded eurface tansiom
+E. ==
+Elongation of rnaterisl in per oent.
+Burst tear = l-inch oross slit (*).
+Cross dita were cut at various parts of the fabric.
+Unmeroerized Wmp.
+Fabrio 266P is woven in the plain weave—mercerized fig;
+Fabfio265B tiwo=2by2htiewmp
+=dlbyli
+n@filling+neroerized_
+;unmeroarized warp.
+I?abrio ootton A is a plain weave of meroerhd y&zL
+Fabric 8774 is a phin weave of Unmeroerized yarn.
+The general”chmacterietica of the fabrics for the purpose of this dismssion are:
+The eflective ymn strength vties somewhat and the oharackr of the ymns is d&rent.
+The fabrio 8774 tibita
+radical reverds of curvature in the load+tretoh diagrams, indicating
+that the dope hss a great tendency to beoane separated from the fabric. The fabric 265 B,
+when torn aoross the a,
+shows considerably more yarn slippage or rather more yarn distortion than the other fabrics. The tear reaistsnoe ~es
+the fig
+will be considered largely.
+The resuh noted in foregoing tables were obtained from tension tests and rip-tear tests:
+A comparison of the tisnde stimgth and stretch surface tension and the value of (E) is
+interesting and substantiates the statement that the strip test is subject to lateral oontraotion,
+whioh influences the magnitude of the resnlta.
+The rip test proper was made according to the test outlined, in which the matmid was
+torn when subjected to the Iataral constraint of the fabric doped on a panel.
+The single rip tad was performed on unconstrained material and having only one point
+on the line of tear. It is observed that iwica he single unccmdmined testis greater than tihe
+double ocmtrained tat.
+This shows olearly the tied noted earlier thd a fabric detached
+from a frw.ne turns back from the point of tear and increases the apparaut tsar resistance.
+Considering tie faot that a wiqg fabric is constrained laterally, it is evidaut that tear teata
+should he made on the panel.
+The values of rip tear were taken from the autogmphic records shown in figures 10 to 14,
+inclusive. The variations of tension are plotted against “time. They show maximum tensions
+nemssary to start the tear and minimum tansions at which the bar strops. The values of
+average maximum tear are of importance and me listed in the tabks. However, it is necessq
+to Imow how the material behavea aftm the tear stark, and the graphs are sufficient to indicate
+this. The Iinen has a slightly higher average tkar; a much lower *UM
+bar and a lower
+average tear than the grade “A” ootton. A comparison between theirregulmityof thetesmxmes
+for cotton and the stretch is of interest. The warp and filling tear of grade “A” cotton illunumber of threads and strength
+stratesgraphically the @sot of stretch or tear resistance. ThEI
+of the yarns are the same, and the increased stretch of the warp materially incremed the tear
+rmistance as weli as the irregdarity.
+The tables may be more easily visuaked by referring to the figures 30 and 31, which m,ay
+be ooneidered as graphic tables. Figure 30 refers to rip tear alone.
+From cm examination of the ourve l-F, which represents the rip or tongue tam test, and the
+ourve 2-F, wM” repreeenti”the yarn stren@, it is observed that with the exceptiori of fabric
+
+—
+
+ANNUAL
+
+,
+
+REPORT NATIONAL
+
+ADVISO13Y00~
+
+FOE AERONAUTICS.
+
+TIm
+
+STFLUOTURE MRPLUTBIUBBK!S.
+OR
+
+984
+
+Hum
+
+ElmOm!l!LulxoNAL
+ADvr90EY
+coMMrm!EE FOR AEROITAUTIOS.
+
+8774 the eilective single yarn strength dominates the tear resistance, and that the elongation
+or stretch (3-I?) has considerable influence. The fabric 266 B has yarn dippage to a greater
+degree than the others, which would tand with the greater effective strength to increase materially the tiar resistance. This is not the casa,Rs the tear resistance is lower and is made lower
+by reason of comparatively little stretch.
+The fabric 8774 is of interest in that it is apparently contradictory of the above-noted
+tangencies. It was noted that the load-stretch diagram exhibited a radical change of curvature, which indicates a great tendency for the dope to become separatad from the yarn. This
+condition is exaggerated in the tear test due b torsion of the yarns, and the eflective strength
+approaches the strength of undoped fabric yarns. The increase of strength due b doping is
+much greater in the case of unmercerized yarns than in the case of mercerized yarns, which
+further exaggerate me value of tie tiec~ve strmgth as found by ditiding the tensile strength
+the
+effective
+strengfh
+doped by the number of threads. The dotted line of curve 2-F indicates
+
+of the undoped yarns. The curve ought to be more steep. From this consideration, it is seen
+that the noted tandaucies are true.
+The cm%es On figure 31 me plotted from values obtiked fmm burnt teat. The curve
+6-I? is the surfaw *don
+at the time of *r md correaponde ti the tensile wound tast, the
+resulte of which are plotted in curve M’.
+The results me radicdly ditlerent, due to difference
+in lsterd constmint. The dongation in the burnt tam at the time of tom is shown by curve
+7-F. The elongation at the burst is parallel to this curve. It will be observed that the relative
+amount of stretch is reversed in the two methods of test, and that the curves of eilective tansile
+yarn stmugth (2-F), stretnh (3-F), and wound test (4-F) are fairly consistent in themselves.
+The effective surface tension yarn strength (8-F), elongation (7–F), and surfaca tension at
+time of tear (5-F) are consistent. The differences between the groups are therefore due to
+lateral constraint. It is observed that the wound test without” lateral constraint may lead to
+conclusions which are not correct,
+
+I
+
+1
+
+B
+
+fobric
+
+r
+
+I
+
+m
+
+I
+
+I
+
+D
+
+I
+
+F(+3U
+
+s
+
+I
+
+I
+
+I
+
+I
+
+I
+
+986
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR AERONAt’TICS.
+
+The curve 9, figure 31, is a more nearly truo index to wound tear resistance, for the factor
+of safety in an airplane wing covering is the relative pressure which the material is capable of
+withstanding before tear starts from a wound. The value of surface tension as determined by
+a tension wound teat is apt to be misleading and can not be used to calculate pressures.
+The elongation influences tear, and from the considerations of the above discussion and
+burst tests it is possible to predict change in performance due ta wing deflections.
+From the fact noted that tho elongation may be considerably reduced in the burst trot, it
+is logical ta assunm that the interpretation of the load-stretch diagrtun may be misleading, and
+therefore, in judgiqg performance, it is best b consider the pressure deflection curvw rather
+than the load-stretch diagrams.
+It was noted that the elongation influenced tho tear resistmme,in that a decreased elongation caused a decreasa in tear resistance. It is assumed from this that an inc.reamdamount of
+lateral constraint perpendicular to line of tear will reduce the Mar resistance. The surfam
+tension, or lateral cm.straint, is lem in the cotton “A” than in the linen for any ghren prossum,
+as far as tear is concerned. From this it may bo concluded that, although the rip tww tests
+show the same vahms for “A” cotton and “A” linen, the factor of safety is greater for tho
+cotton than for the linen.
+The consideration of bursting pressures lead to the same conclusion.
+Tabulation of teds .—The following groups of fabrics have boon tested ta givo enough
+information from a consideration of the foregoing to allow one to draw his own conclusions as
+regards the suitability of any fabrics of the group.
+The values of yarn number were given by the manufacturer. The values of weight and
+thread count are actual determinations made in the Iaboratmy, and it is possible that in some
+cases the three values will not chock.
+DISCUSSION OF GBOUP A.
+
+The fabrics of group “ A“ me miscell~~us fabrncgwhich have been considered. Service
+tets were made on several of these and the results maybe summarized.
+The fabric No. 7 of 2/40 unmercerized yarn gave satisfactory service on many planes.
+The same material of mercerized yarn, fabric 17, gave very good service, The dope absorption
+was excessive.
+The fabric (5o) of 3/80’s yarn gave fair service on training planes, but became mushy in
+spots and loose after continued use. The same material made of mercerized yarn, fabric (22),
+gave ~cellent service. The dope penetration was excessive, which reduced the tear rcsistanca
+mat+wially.
+The fabric (51) of 2/50 and 3/80’s yarn gave questionable service.
+The fabric (26) of 2/60’s mercerized yarn gave excellent service and the dope penetration
+was not greater than was considered consistent with good service. More extensive tests on
+this material are given elsewhere in the report under “ A“ cotton.
+It was concluded that this fabric had the most advantageous combination of dcsirabie
+quaffitiea,and that it was the best fabric for use immedititelr after wea~ing.
+
+q
+
+THE STEUGtlXf&3 OF AIm?MNE
+
+I?ABBIOS
+
+&oup A.
+—. ... .__. .
+.—.
+.,.-
+
+EIm@un.
+Yam number.
+
+Thread CGuIlt.
+
+Tatsilmtra@h.
+
+-:J ~
+
+w.
+
+w.
+
+F.
+
+w.
+
+F.
+
+1o.6
+
+k:
+6.0
+
+k:
+;:
+........
+
+- .-
+
+ha
+
+r.o
+S.6
+IL5
+
+H
+;!
+
+N
+z o
+6.6
+t6
+a6
+&s
+;:
+
+3.4
+L%
+46
+4.%
+........
+........
+-. . . . . . .
+4.9
+
+io
+9.6
+&s
+
+q
+
+I
+
+BURSTING
+SM
+
+.—
+
+Ik$
+
+.::
+3.8
+
+I
+
+w.
+
+w.
+
+F.
+
+6.8
+4.s
+
+I
+TEST-
+
+I
+
+hiorcdmd.
+
+I
+GROUP
+
+I
+
+I
+‘B”
+
+wing- Tuufness of Febrk
+*
+-Relof~ve
+PessureRi?skfonce
+
+Fwn?e
+
+7xZ4/>ches
+Dimez@Zv?s
+Comd/f~o@ - Doped
+Subm;#edby
+Weilimgfonseura
+
+A
+
+m
+
+m
+
+klplo.
+
+1
+
+1
+
+t
+
+inside.
+
+Fubric
+
+Co.
+
+i
+
+t
+? A- L~nen.
+
+1
+
+i
+
+,
+
+fi9.z3
+
+LLJ/8
+
+fz~i
+
+#2+6d’~u
+
+Pressures
+
+Lhs.persq
+
+20
+
+h
+
+22
+
+388
+
+KNNTJALEPORT NATIONti
+R
+
+ADVISO’EY CO~MITTEE
+
+DISCWS1ON
+
+OF
+
+FOR AERONAUTICS.
+
+GROUPB.
+
+The fabrics of group B were all made of 3/80’s mercerized and bleached yarns, excepting
+those referred to as A and B cotton. The grade A cotton is the standard 2/60’s mercerized
+cotton fabric, and the B is the 3/80’s mercerized cotton fabric.
+The experiments were based on the general knowledge that a 3/80’s mercerized and bleached
+thread yarn is the strongest per unit of weight, and it was thought advisable ta conduct a few
+experiments on fabrics made up of these yarns. The values listed under the heading “unit
+strength” were found by dividing the tensile strength of the warp and filling respectively by the
+weight per square yard. This valbe appeared to be the best common basis to be used in do,
+
+z
+
+,
+
+I 6UZW%’VG
+
+1
+
+I
+
+)
+
+1
+
+TEST-GROLWL9’]
+
+1
+
+I
+
+Ii
+
+I
+
+I
+
+.6 ‘
+
+fig.Z6.
+
+Pressure
+
+- Lbs.persq
+
+in.
+
+termining the relative values of the strengths of fabrics of different weights. It will be noted
+that the unit strength is greater than that obtained from the experimental 3/80’s fabric and that
+it is somewhat less than the unit strength of the experimental 2/60’s fabric. From this it was
+concluded that although the yarn strength is greater per unit of weight the fabrioa are not
+stronger. Assuping a plain weave fabric of fairly close structure such as 2011, it is evident that
+the strongest yarn will not produce the strongest fabric. The tensile strength iE a measure of
+the vertical components of stresses parallel to the line of stress. For the same stress in the
+yarn, the measured component is reduced in proportion to the manner in which the yarn is
+interlaced as compared to the straight yarn. The interlacing of the yarn serves to impart
+to the fibers an additional bond, and hence has the tendency to increase the yarn strength.
+
+THE STBUOTUBE OF AmPLUKE
+
+The elements of fiber crush@
+interlacing.
+
+From
+
+FAERICW
+
+and radial slippage enter into the consideration
+
+these considerations,
+
+it is observed
+
+889
+
+‘“-
+
+of stresses at the
+
+that a yarn weaker than the maximum
+it is possible to utilize advantageously
+
+strength may give t~ ShOngW fabric, for in such a case
+the forces expended at the points of interIacings. The yarns of these fabrics have little stretch,
+and it is observed that this has the ef?e.ctof induci~mstresses at the bending of the yarns at the
+inter?acingg. This is evidenced from a consideration of the unit strength of the plain weave
+count, and in the basket weave fabrics.
+fabrics of low and high tired
+I
+
+I
+
+1
+
+I
+
+I
+
+I
+
+I
+
+i
+
+I
+
+i
+
+1
+
+i L?URSTfNG
+TESFGROUPW
+shmwng-undupe~
+
+~OpPdUnd
+
+Spruyedfubrk.
+Frume Dim. 7x2+inches h.x>e.
+/= Wurwick- sized- Llk@bped.
+Z=
+q flof
+at - Doped.
+~8
+e
+,8
+“ - S@royed.
+
+)
+
+7
+
+fig
+
+27
+
+Pressure
+
+-LAspersq.A.
+
+The bursting pressures and pressure defection curvm of these fabrim imlicate that they
+would make very desi.rable airplane fabrics. The tear rwist-ante is considerably reduced by
+ex~ive
+dope penetration into the yarns and into the intemticea of the fabric. The bleaching
+of the yarns make them more absorbent, and it is thought that it allows excai+sviedope penetration to the detriment of the kmr resistance. Three fabrics may be treated to prevent dope
+penetratio~ but it is believed that fabrics of equal strength can be made of 2160’s or other
+more essily produced yarns.
+These yarns would find their principal application in a fabric of gray or mercerized warp
+and a filling of the mercerized and bleached filling, with considerably more picks than ends.
+
+.
+
+390
+
+ANNUAL
+
+BEPORT NMHOIYAL ADVISORY COMMITTEE FOR AERONAUTICS.
+GrtouP B.-Stieti
+
+reld.ow WUA@.
+-...=—
+
+r
+Fmfng.
+
+warp.
+At pxmla. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+=2= -
+
+10
+
+8.2
+::
+
+4-0
+
+. . . .. .. .. . .. .. ... ... ... ... ... .. ... . .. .. ... . .. ... .. ... .... . ... .. ...
+#yL&31 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8.S
+6.0
+.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ----------- -. --- . - . ----- .-..’---- ---. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ------------ ---------------g~~ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . .. .
+y&s . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+l6~------------------------------------------------------------------
+
+~81
+
+~~
+
+ie
+
+1.%
+T
+10.78
+no
+
+~ p
+
+-—
+
+M
+10.8
+17.8
+18.0
+14.5
+I&o
+
+u
+
+j~
+
+-- —-.. .—
+
+I
+
+lFilllngstccWh graetc.rthanww.
+mstomlsamm
+ttik.
+!Mlland2011Sare @dnlWZWli
+6-wa?p
+
+Slmd.
+
+GRouPB.-Tensilc
+
+m.doped.
+
+.:
+Wefght
+
+Thl.amwr
+
+J&
+
+SampIemarb.
+
+7T
+
+(0=),
+imdo~
+
+ws
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..-
+
+-r
+
+-4J
+
+%4
+6. e
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . .. . . . . . . . . . . . .
+
+.
+2039 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+‘“’WYP
+tendlodlota(i
+
+Temgs.ytfi
+
+Ramarka.
+
+w.
+
+l?.
+
+w’.
+
+1
+
+F.
+
+.......................... ....... ...............
+#;fs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+..................................................
+.
+.Y)118 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Da
+Do.
+_
+~;
+Pfafn.
+Do.
+m. o
+Do.
+17’.8
+Do.
+18.4
+Do.
+2d2
+m. 7
+I&6 16%wbrokcn
+
+X
+8.8
+4.8
+
+-.
+
+‘“
+
+S2s
+
+8.8
+4.s
+~.
+
+# C9tt:mw . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . .
+. . . . . . . ..- . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+* e~llUO&t# . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+“’g’”
+
+H
+91.8
+
+M
+
+~oa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+twill.
+
+II
+
+—
+
+..=-..
+
+@OUPB.—Tenaikf@Mi.
+W
+,
+
+r
+
+wOi#
+SmI@
+
+r
+Thm&
+
+PEI
+
+r
+
+d
+%$’
+
+Tffil’#d!
+
+gti:%
+by wdght.
+
+square
+
+mark.
+
+*
+
+indq!el.
+
+F.
+
+w.
+
+W.
+
+1?.
+
+84
+
+k: . . ...?. . . ...?..
+z
+6.7 . . . ..ti. . . . ..ii.
+a. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . ----—.
+. . . . . . . . . . . . . . . . . ---------76
+74 ::::::::
+!mXls. . . ... . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+w------------------------------------------------..........
+72
+70 ....-.-. . .. . .. ...+
+.. .
+S-swd warp.
+
+GROUPB.—BurAng
+Bm!attnstast.
+
++’”
+-.
+
+l9w-------------------------------------------------f . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+I
+
+—
+
+1
+
+I
+
+h%
+
+w.”
+
+Remarks.
+
+17.2 Plabl.
+fS.O Sbybbaakct.
+1%
+&:
+!4L2 6b 6bwket.
+I!iq
+92.8
+Pl&ovmvc, lyay yet-n.
+:::::::
+::::::::::::::::::::
+Do.
+-.-.-~-. -------------------.
+. .. -
+
+dopd.
+
+Wdght (C4mom).
+
+Tearfnsttut.
+
+Thread count.
+
+Number.
+P---
+
+m“”........................................... ...
+p#
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..-. -...-.
+..............................................
+go&s . . . . . . . . . . . . . . . . . . . ..--. . . . . . . . . . . . . . . . . . .
+..
+.... .. .. ... .. .. .. . .. .. ... .. ... .. .. .. .... .. . .. .
+#l)fs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+..............................................
+p#. . . . . . . . . . . ..- . . . . . . . .. b. . . . . . . . . . . . ..-...
+-.
+.. .. ... ... . ... . ... ... .. .. .. . ... .. ... .. .. ... . ..
+w468 . . ..- . . . . . . . . . . . ---------------------------..............................................
+fhde A COML . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+q
+
+P.pm3um fmpolmda parawam In@.
+D=dafIwtbm in inehw of renter poiut of fabrlo.
+
+16.1
+#~
+fa: 6
+!&Q
+
+7mlopadlDoP&
+fly
+.46
+.ff
+.8!4
+.68
+
+;!
+Z&a
+g.:
+
+lie
+14.‘f
+
+.
+
+F.””
+
+:;
+.48
+. 6s
+
+.14
+
+I
+
+W.
+
+I
+
+F.
+
+-iv@are.
+..
+
+, .—
+
+--9
+
+391
+
+THE STEUOTURE OF AIRI?LAKE FABRICS.
+DISCUSSION OF GROUP C.
+
+The fabrics of group (C) were constructed t-o mmt an urgent demand for fabrics of twice
+the strength and twice the tear resistance of the standard A cotton fabrim. There was no
+limit placed on the weight, and it was necessary to us~ immediately available yarns. As a
+result, the fabrics may appear to be illogical, but the group is interesting.
+IJany of these fabrics, as seen from the structure, are very closely woven, and the dope
+penetration was not good, and those fabrics failed to tighten. The degree of tightness is
+rather misleadi~m,for the reguhw “ pirg” ted does not give the desired noise in the case of
+the heavy fabrim, but actual tautness measurements showed that many of these fabrics were
+very satisfactmy. There ia an element of stiffness in the heavy and thick fabrics which gives
+a better tautness than would be expected from a consideration of load-stretch diagrams This
+faotor has no appreciable influence on the thinner fab[ics.
+of the grt)llp the fabric 3092, N–12, P-5, G-X3, A-3000, A-3ool, G-23, and similar ones
+were very satisfactory. It will be observed that the tear test used is a radical modi6cation
+of the wound test. The samples were cut 4 inches wide by 6 inches long, and clamped in the
+tasting machine with 3 inches between the jaws. A &inch dit was cut perpendicular to the
+line of pull midway between the clamps. Five coats of acetata dope mm used in all casea.
+The demand for this class of fabric stopped as suddmdy ti3 it had miscn, and the group
+wa~ not completed.
+Tat
+. .
+
+of group
+
+1,ansue, ondopsd. / Str&tQdc@.
+
+I
+
+#up-----------------------P-2::::::::::::::::::::::::::
+Pa . . . . . . . . . . . . . . . . . . . . . . . . . .
+P-4. . . . . . . . . . . . . . . . . . . . . . . . . . .
+P-5 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+P+ . . . . . . . . . . . . . . . . . . . . . . . . . . .
+P-7 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pa . . . . . . . . . . . . ..-. -.- . . . ..-.
+Pa.. . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(C?).
+
+:::::;;:
+12.6
+w
+---------..........
+..........
+
+..........
+
+0-25 . . . . . . . . . . . . . . . . . . . . . . . .
+(3-%
+... ... ... .. .. .. . .. .. ... .
+4HZ7.. . . . . . . . . . . . . . . . . . . . . . . . .
+wad. . . . . . . ..-.. -- . . . . ..--...
+.
+C-s
+. .........................
+. .. .. .. .. .. . .. . . .. .. .. ... .
+
+..........
+---------..........
+------------------.. .. . .. . ..
+
+X34
+Ma
+ml
+
+107
+
+::::::::::
+
+a-a.. . . . . . . . . . . . . . . . . . . . . . . . .
+---------G-G
+. . . . . . . . . . . . . . . . . . . . . . ..-. . . -------G-MX.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..-
+
+GX117S . . . . . . . . . . . . . . . . . . . . . .
+Q-AC1176. . . . . . . . . . . ..--.. -..
+..
+:$;77
+. .......... ...........
+. .......................
+Am
+Am; :::::::::::::::::::::::::
+
+------------------. . . . . . . ............
+::::::::::
+
+. . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+AH4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . .
+A!WSL
+
+Borwnzw.
+
+95
+9a.07
+L ti7
+so
+.......... ..........
+1% . . . . . . . . . . . . . . . . ..- . ...-..:. . . . . . . ..- ---------- . . . . . . . . . . ---------- ---------~g . . . . . . . ..- . . . . . . . . . . ---------- ---------- ---: -:---- -----------------------.......... ..........
+lw . . . . . . . . . . . . . . . . . . . .
+m
+E
+. . . . . . . . . . . . . . . . . ..144
+.......... ..........
+z
+:;
+141
+E
+. . . ..EK
+..........
+2i2
+141 . . . . . .._i. . . . ..K..
+14s
+~
+14a
+LM
+!M5
+R9
+143
+.......... ..........
+%
+148
+.76
+225
+g
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..- . . . . . . . ..- ---------Q.1
+L 10
+Ml
+I&
+Ls7 . . . . . . . . . . . . . . . . . . . .
+li6
+191 . . . . . . . . . . . . . . . . . . . .
+Km
+la
+m4 . . . . . . . . . . . . . . . . . . . .
+lsa . . . . . . . . . . . . . . . . . ..- . . . . . . . ..- . . . . . . . . . . . . . . . . . . . . ---------- ---------- ---------136 . . . . . . . . . . . . . . . . . . . .
+--------lea . . . . . . . . . . . . . . . . ..190
+179
+la . . . . . . . . . . . . . . . . . . . .
+149 . . . . . . . . . . . . . . . . . . . .
+X41
+. . . . . . . .. . . . . . . . . .
+152
+166 . . . . . . . ..- . . . . . . . . . .
+Iis
+226 . . . . . . . . . . . . . . . . . . . .
+~
+E41
+7.0
+Ml . . . . . . . . . . . . . . . . . . . .
+m
+.90
+;:
+m .......... ..........
+H
+:%
+m .......... ..........
+g:
+ao
+LOO
+146
+m .......... ..........
+Is
+229
+112
+.......... .. ........ .......... ----------.........- -----------------------------9.6
+LOZ . . . . . . . . . . -..-..%.
+.......... ..........
+% .......... ..........
+134
+IN
+118
+Ml . ...+
+. ...+.
+“--= --:j- .“-”--;g. . . . ..iii. -.--.-iii.
+::::::::::
+::::::::::
+
+. . . . . . . . . . . . . . . . . . . . . . . ----------
+
+G+::::::::::::::::::::::::::
+
+~
+
+1!!
+112
+141
+m
+lW
+.lw
+LM
+m
+Ml
+Isa
+168
+
+GA-MZ-6 . . . . . . . . . . . . . . . . . . . . ---------Gxa...-
+
+Tmrteshwound.1
+
+-. ..- ,..-.
+...-.
+.-—
+-.
+.-
+
+.....
+I
+
+e-lo.. ........................ ..........
+
+cm...-.. . . . . . . . . . . . . . . .
+
+l’I’aertest,burs@.l
+
+LIA.1llkls43-.l-l..........
+
+7.0
+
+AH&l.. . . . . . . . . . . . . . . . . . . . . . . . .---..ai.
+~:;; . . . . . . . . . . . . . . ..-.. ------1L2
+?&u::::::::::::::::
+-:::::-”
+0-=. . . . . . . . . . . . . . . . . . . . . . . . . . . . ...?-!a-m.. . . . . . . . . . . . . . . . . . . . . . . . : ..- . . . ..-.
+.
+
+Am
+
+raulia
+
+. . ..—
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..- -
+
+....
+1; E 143 .............. .-..
+m
+I
+
+g!
+jgl ~
+m
+
+In
+
+m
+m
+
+. . . . . . . . . . . ...1......!!-
+
+. . . ...?.
+
+:::::!!3
+
+.. ..----
+
+:::::?3!
+
+14.s
+~.
+J& ‘-”--”---” . . ‘-------. . . . ‘--------. . . ‘--”-”””-- . .
+........ ......
+..... ..
+........
+6.0
+.......... .......... .......... ......... .
+129 ::::::::::
+::::::::::
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..-.. i..
+149 . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..--. .—. . . . . . . . . . . --------. . . . . . . . . . --------* l..... ___ . . . . . . . . . . . . . . . . .. .. . . . . . . . .. . . . . . . . . . . . . . . . . . . . . - . . . . . . . . . . . . . . . . . . . .
+Xc4
+S44 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . - . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . --’--------------- . ----------------- . ---------. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+g
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . - . . . . . . . . . . . . . . . . . . . . -------- . . . . . . . . . - . . . . . . . . . .
+146 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ---------- . . . . . . . . . ---------- ---------- ----------.......... .......... ......... .
+E37 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . -:- . . . . . . . -------m . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . - . . . . . . . ..lm . . . . . . . . . . . . . . . . . . . - . . . . . . . . . . . . . . . . . . . --------.......... .........- ..........
+m . . . . . . . . . . . . . . . . . . . . . . . . . . . . . - . . . . . . . . . . . -------- - . . . . . . . . . . . . . . . . . . . . ----------
+
+.=-
+
+-.
+-
+
+.--—
+_---
+
+.
+..
+-4-
+
+—
+..
+.— -. ,., .—
+_-_.—_
+..._
+
+—.
+.—
+
+392
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE FOR AERONAUTICS.
+
+.. .
+SempIe
+
+W*
+
+merk.
+
+pm
+
+equal
+
+‘l&n
+
+kunt flll-
+
+Thmid
+-.
+
+Wema.
+
+W.
+
+w.
+
+i
+- .. ............. ............................ ........
+
+Ouocu.
+
+Ei...................................................
+...................................................
+H ...................................................
+
+80
+
+1%!
+186
+16s
+MS
+163
+168
+Ma
+Iea
+163
+76
+
+;2:::::::::::::::::::::::::::::::::::::::::::::.:::::
+
+P4
+P4
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . .
+
+P4:::::::::::::::::::::::::::::::::::::::::::::::::::
+P-lo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A-8780
+N-n
+‘.-”” .”. ”.-. -”-. -.-.” ”.. -”.. -.- . . . ..---””. ”.-.”N-l9::::::.;.:::::::::::::::::::::::::::::::::::::::::
+N-1a
+Gn"-..
+".""" ".""" -."" -."" -.." -.. "".." -"."" -."" --"...G%::::::::::::::::::::::::::::::::::::::::::::::::::
+&M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+nmnlxr.
+
+........
+........
+
+84
+83
+34
+83
+34
+78
+78
+82
+
+“i!!
+2/80
+!J#m
+9/60
+2/80
+
+m
+76
+.......... ..... ......
+......... . .....
+
+%!
+
+103
+
+ma
+%!
+$$$
+
+n
+
+gx~~:::::::::::::::::::::::::::::::::::::::::::
+:
+. . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . .. . . . . . Gx4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Q x41 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ------ Q X42. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Q x4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ------------ -
+
+Ka.b.
+
+B9x2..
+
+12
+134
+
+ML4X4.
+
+Y00
+
+4
+102
+
+*ii;i:::::::::::::::::::::::::::::::::::::::::::::::
+:
+M.l176. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+M.l177. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . J
+A.87W . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A-Hi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A-H2
+A-m::::::::::::::::::::::::::::::::::::::::::::::::
+:
+A-H4 . . . . . . . . ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A-Eii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A%!?53x . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+wwvc.
+
+DoI
+iMefebric,sll+u3.
+BT.
+Double fdlric.
+Double OJmic,l/3 WI.
+DonbIefebrlc, pIo WCWW.
+t
+.- Do.
+
+?
+
+IR
+71
+72
+72
+
+... ... ... .... .. .... .... .... .........
+~z-.. . . . . -"... ".-. . """.. ""-"". .-.. ".".. . "-.-. . -."." . -""-------- . .
+.. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+B 4.x L
+B9x4.
+BT.
+T!ZX2.
+BT!4x2.
+;; .
+
+D#bIef8brIc,pleIn
+
+7!4
+70
+
+.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..Ga"".. . . . "... . "".. . ".--" . "-.. """.. m"-"-"-". . """-. . "--". --"-"--- -
+
+;;XZ
+
+T.3X2.
+
+w.
+
+F80
+40
+40
+WE
+
+u
+118
+e4
+76
+7.2
+79
+71
+72
+72
+64
+
+BT!2x2.
+ML.
+ML.
+B8x3.
+:
+.
+
+;
+w
+w
+-%
+——
+
+BT==rclmnTwiU.
+w,=Mcuk Lane,
+
+h-khof~abriagroup
+
+(C).
+—
+
+I
+Semple mmk
+
+i34rekh,~oentundqmd.
+
+]al
+
+t
+
+Stmto&percentdoped.
+
+70
+
+.
+
+--l
+w.
+
+.........................................
+
+6.0
+
+F.
+7.0
+
+w.
+
+A
+11.0
+
+1.2.o
+6.0
+la.o
+$:
+R:::::::::::::::::::::::::::::::::::::::
+9.0
+11.0
+Q7B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+8.0
+6.6
+
+g....
+
+.....................................
+8.0
+. . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+AJXW...... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .?:.
+A-W31. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...{
+
+7:0
+4.0
+,.. . . . .
+,.. . . . .
+
+96A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+~B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.. . ........................................
+a. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+a. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Iww........; . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A-2951 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+; .... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+‘a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+24. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26
+26::::::::::::::::::::::::::::::::::::::::::
+27. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+29::::::::::::::::::::::::::::::::::::::::
+24
+40::::::::::::::::::::::::::::::::::::::::::
+42. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+k:
+21.0
+11.0
+!M.O
+17.0
+7.0
+
+9.0
+
+k!
+8.6
+&o
+Lo
+Lo
+%o
+k:
+!4.0
+8.0
+4.0
+a. 6
+‘4.0
+a. o
+::
+Ua:
+
+M
+
+11.s
+6.6
+
+Lo
+7.0
+Lo
+4.0
+7.0
+k:
+0.0
+
+r.
+
+13.o
+lz o
+.. . . . . .
+.. . . . . .
+U.o
+8%:
+30.0
+16.0
+23.0
+!a.o
+28.0
+la. o
+14.0
+I&o
+IL o
+16.0
+;::
+28:0
+Q.o
+w
+10.0
+n.o
+U. o
+
+k:
+12.0
+16.0
+9.5
+
+10.5
+
+M
+10.0
+11.5
+U. o
+.. . . . .
+.. . . . .
+16.o
+9.0
+6.0
+8.0
+M
+4.0
+%6
+4.0
+4.0
+6.4!
+6.0
+6.0
+6.0
+4.6
+6.0
+u? I
+11.0
+1::
+6.0
+1?:
+&o
+&o
+S.o
+
+w.
+IA o
+la-o
+I(I.O
+f%o
+ld.b
+
+;!.U .--”-i!x. . .-“-iir. . . . . . . . . . . . ----63.
+-“iY--”ii:{
+{ --”-;:6- . . . .
+....... ......
+. .. ... .
+.......
+.Ql .......J. ..ry ........l........l........
+........l. . ..Lr ........l. . ..yF . . . . . . . . . . . . . . . .
+i4. o . . ..rf
+.
+U.
+
+14.0
+33.0
+14.0
+9:6
+9.0
+ao
+6:0
+.. . . . . . . . . . . .
+lt 1
+1?:
+.. . . . . . . . . . . .
+&o
+6.0
+3.s
+13.o
+2.0
+J.!
+8.0
+10.0
+1,6.o
+Iki
+13.0
+.. ..-.
+?:
+68.0
+3.0 . . . . . . . . . . . .?:. . ..?...
+. ...:!.
+. ...:!.
+. . . ....!
+~.
+1::
+........ ........ ........ ........ ........ ........
+33.0
+%:
+36.0
+m. o
+w. o
+17.0
+17.0
+2:
+12.o
+14.0
+33.0
+11.o
+2;
+18.0
+al. 5
+19.0
+14.0
+12.o
+E.!
+11.o
+
+..
+................................................
+::......I........I........
+I
+............................................:*.
+.6
+
+5.6
+6.0
+7.0
+7.0
+7.0
+ao
+6.0
+7,0
+
+........ ........
+........ ........
+........ ........
+........ ........
+. . . . . . . .. . . . . . . . .
+........ ........
+.. ..... ........
+........ ........
+........ ........
+$[
+. . . . . . . . . . . . . .......... ........
+........ ........
+M
+........ ....... .
+7.0 . . . . . . . . . . . . . . . .
+7.0 . . . . . . . . . . . . . . . .
+....... ........ ........
+9.0 . . . . . . . . . . . . . . . .
+9.0 . . . . . . . . . . . . . . . .
+9.6 . . . . . . . . . . . . . . . .
+
+.. .. .. ..
+........
+........
+........
+........
+........
+........
+........
+........
+........
+........
+........
+........
+........
+.. .. .. ..
+........
+........
+........
+........
+
+. . . . . . . . . . . . . . . . . . . . . . .. .
+. . . . . . . . . . . . . . . . ..-it.-.
+........ ........ . .......
+........ ........ ........
+........ ........ ........
+........ ........ ........
+. . . . . . . . . . . . ..-. . . . . . . . .
+........ ........ ........
+........ ........ ........
+........ ........ ........
+. . . . . ..- . . . . . . . . -. . . . . . .
+........ ........ ........
+........ ........ ........
+........ ........ ........
+........ ........ ........
+. . . . . . . . . . . . . . . . . . . ----........ ........ ........
+........ ........ ........
+.. .. .. . . .. .. .. .. .. .. .. ..
+
+. .
+
+S’rRUOTURE OF AIWL&TE
+
+THE
+
+i?tretio/jalrh
+
+393
+
+l?ABBICEk
+
+(Cl)-Oontinued.
+.
+
+8tretc&per cent mldo@d.
+
+Otretd&pfzcalt
+
+.—...—
+
+doP3d.
+
+.
+SunIph mark.
+
+-45 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . .. ... . ... . .. . . ... .. .. . ... .. .. .. . ... ..
+
+M-1176 . . . .. . . . . . . . . . ..- . . . . -------------.
+l&Iri7$--
+
+‘+
+0. s
+
+a:
+
+10.0
+
+14.6
+Is o
+11.0 8.6
+
+M. o
+
+‘+ ‘--‘F
+. . . . . . . . . . . . . . . . . . . . . .. . . . . . . . .
+1?.0 . . . . . . . . -----10.0 .--.- . . . . . ..-.-..- . ...>. . . . . . . . . . . . . . . . . . . . . . .
+S.o . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+“
+
+I 1!111
+
+. . . .. ... .. .. . ... .. .. .. .. . ... .. .. . .. .
+.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . ................... .................
+kc-1176 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ML . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+AH-1 . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+AH-x . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+AE-8 . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..A4 .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .
+
+M H
+16.0 &o
+u.
+o
+140
+
+R
+&o
+
+Ii:
+4.0
+
+17.0
+m.o
+
+la:
+
+4.0
+7.6
+
+W
+6.0
+7.0
+9.s
+
+W
+
+4.0
+
+:!
+
+k:
+4.0
+5.0
+6.0
+
+ao
+
+%!
+14.0
+7.0
+
+1::
+10.0
+%6
+
+A-2963x . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+WEB-. . ....... ... ......................
+.
+
+lti
+
+H
+
+k:
+
+15.0
+17.5
+
+........ ........ ....... ...... ..
+....... . ......
+.-- . . . . . . . . . .
+E!
+M
+L1.6
+...... .. ........
+IL 6
+::
+‘--”-”-””---”----”---”32.0
+........ ........
+Ia.o
+
+I&o
+17.o
+.....
+Ii?
+
+loo
+loo
+la. o
+18.o
+4.0
+
+-----........
+. . . ..-.
+------........
+
+. . --
+
+.-..
+
+........ .. ...
+----. . . . . . -. .
+.
+........ ....... ........ ........
+.. . ... . . . .. .. . . . .. .. . .\. .. . ... .
+.
+
+..—
+
+.-
+
+. ...=
+
+. ... .... . . . . . .
+
+. . . . . . . . ‘------ . . . . ”--”-----”--””--. . . . . .
+....
+........ ..
+.. . ... . . . ... .. . . ... . ... . . .. .. .. .
+
+------.
+-----. . . . . . . -------........ ........
+---------------........ ........
+
+.-l-r.
+
+—
+
+........ ....... ........
+-----------------------....... ........ ........
+....... ........ ........
+. . . . . . . . . . . . . . .1
+---------
+
+>,
+
+.-
+
+k,.
+
+—-.
+
+..—.
+
+-.. —
+
+DISCUSS1ONOF
+GROtlPD.
+
+The fabrics of group D me made of mercerized yarn of a number in the vicinity of 2/25’s;
+and the grade of cotton is a long sk~ple. Tlmmfabricshave no immediate value, but it was
+thought advisable to study the possibilities of utilizing the spinning capacities of tho mills
+Lf
+
+t
+
+1
+1
+LZJR5T/fiG7[S1-
+
+I
+t
+GROLF”i?”
+
+I
+
+7-
+
+[? - Show/rig - Tautiss&fo&i&
+*
+
+funce
+-&/ui/vePre=u=Res&
+AsVe.
+Dimensions 7xZL#ik@I.55
+g [~ –
+/%&lc Gwdifkn - @o@d.
+~
+s*mlwd@w&f&y/sfmA4
+fg.co.
+J
+c [0
+N
+
+3[[
+
+/
+
+f~me
+
+,.
+
+c
+‘<
+>
+
+.$.6
+2
+$A
+c1
+.
+..?
+
+Z468@~~
+;g.24
+
+[~
+16
+Fkessure = Lbs.persq.in.
+
+B
+
+22
+
+~
+
+=.
+
+28
+
+30
+
+which were hung up to make the lower cuunts of yarn from long-staple cottons. The structure
+is muoh too open in the case of the lighter weights, and allows an excessive dope penetration;
+and their structure is too open to alIow the cIosing of the interstices by flnishi~~ pro-es
+such
+as calendering or beetling, although the finishing would help much.
+Experiments were mada to determine tie feasibility of spraying a surface coating of dope
+on such fabrics. The spraying apparatus was not all mat couId be desired, but the redh
+It WaS okened
+that in my
+cssss
+were satisfactory within the limits of the VASS desired.
+the dope fihn shrank to such an extent as ta break the frame upon which the fa&ica were doped.
+when spray doped
+Tho bursting tear tests on this material indicate a higher bursting p~
+are accompanied by an increased deflection.
+than when brush doped, and the higher pressures
+The tllrn of dope does not bind the yarnB in their crimped condition, and hems allows a“I@her
+
+,.—.
+
+-.—
+
+..—..-
+
+394
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMhKITTEE
+
+FOR AERONAUTICS.
+
+deflection, which will &cCount the higher burstixg pressures. A brush doping of very viscous
+for
+dope covers tho fabric well, but is extremoiy hard to apply.
+Tha very opon structure fabrim when doped by n brush become set in a distortod position
+and present a surface which maybe termed bfiggy. From this it is assured that brush doping
+is not tho proper method for open fabrics, and that, if the demands are grcnt mough, the open
+fabriw may bo satisfactorily doped by moans other than brush doping.
+Of this group, it is thought that the fabric 3092 is the best of the lighter ones, find that
+3106 is the best of the heavier fabrics. An oxwnination of pr~urc deflection curves for this
+group will show that there are peculiarities which are not cQmmon to the other groups. For
+instance the preasum deflection curve of 3106 shows a very rapid incre~se of deffcction at the
+
+BL4RS7NG TESFG/%WP “E”
+Zff –
+
+Show1h9- 7oufm95sof&5ric.
+m
+
+18 –
+
+‘I?eh%e
+Pmssureflesisfonce
+FmmeLMmensions
+43x6fcm. I#sk?&.
+Fobric Codi+ion
+-L20-d
+
+Submi#edby
+Mf
+
+\
+
+\
+
+1
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+. ..
+.—“
+
+1
+
+Wesff70yls#onMf~
+
+I
+
+I
+
+I
+
+I
+
+b-i
+
+I
+
+/.
+
+?8=
+
+Co.
+I
+—
+
+30%
+
+13477 /&%o,i
+
+J(ULJ
+I
+
+I
+
+‘1 Akz’f J’-’APIPI
+
+4M
+
+.2
+
+/Tg.t?5
+
+%sssure
+
+-
+
+Lbs, 59
+per
+
+m,
+
+fig. 28.
+
+Pmssure - L&.persq.in.
+
+lower pressures, and that the upper part of the curve is normal. This is probably due to the
+manner in which the dope has adhered to the fabric. The union between the dope fiIm and fabric
+of a heavy fabric is quite different from that in the lighter and thinner fJxics.
+The difference
+lies in the fact that the second and third coate of dope do not penetrate as thoroughly as they
+do in the thinner fabrim, and hemm the yarns are not bound as well. This condition may be
+overcome to a large exkmt by change of weave structure, such as a mock leno, which allowa the
+dope to pmmeate to the other side of the fabric. The heavy fabrica of the group are fairly
+dense even in the basket weave, and a four by four mock leno would open the shmctwe but
+very slightly. Fabrice of this nature may be corrected more advantageously by leaving out
+quite a few warp ends and if necessary the fabric maybe calendered.
+
+THE
+
+m
+.
+
+STRUOTURE
+
+bWi!S?7A4G
+TEST m
+
+-/WoAi4e
+
+OF
+
+AHU%KNE
+
+GROUP
+
+Pressure
+
+395
+
+FABBI~.
+
+“E”
+
+&s&i7nce
+
+F&me5imemYbns/8x6/cm. /hside.
+/6- FubrA Condit)bn-U@ed.
+Fubri<sfmm Schwrzeni5ach Ha5erCo.
+f!! g
+~/2
+~
+g/...
+c
+.?
+%J
+*
+8.6 L
+4‘
+
+A
+
+{
+> ~
+
+“?
+
+U246t7k?L?lf
+Pressure -L6.spersq.l..
+
+fig.Z9
+
+D.
+GROUP
+
+Bursting
+
+test.
+
+BurWiW tern.
+
+xark.
+Undoped. Dope&
+
+W.
+
+F.
+
+P.
+
+D:
+
+P.
+
+.+..
+
+I
+I
+
+—
+
+-: ..—.
+
+?.me.&.
+
+-- --
+
+D.
+
+3103 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . .
+. .
+
+I
+
+—.— .—.— —._ .——
+
+..-
+
+:49
+3!4&4
+
+%4
+
+O.m
+
+-74
+
+7.0
+k:
+;;
+
+9445
+44
+6048
+5470
+
+i7
+5.7
+7.1
+7.8
+
+3L11::::::::::::::::::::::::::::::::::::::
+3U9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+3100. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+viol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+31m . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..-...-m
+3107. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+31W . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+~eo&l
+. ............... .... ...
+. . ...... .. ... . .. .. .. .. .. . . .. .. .. ..
+3096
+3097:::::::::::::::::::::::::::::::::::
+
+A cotton . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+UJS4
+
+7. !4
+114
+6.6
+
+3W?
+3C!16:::::::::::::::::::::::::::::::::::::
+......................... ......... ....
+. . . . . . . . . . . . . . . . .. . . . . .. . . . . . . . . . . . . . .
+y% . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . .
+.
+
+6.8
+
+rh47P34
+
+.~—
+
+.
+
+..T—_
+s
+.—.
+
+.-
+
+A——.
+
+m
+
+---—.
+—., .
+--– -.+_
+:. ..- —
+.:
+.. -—.
+
+6.7
+4.8
+7.1
+4.3
+Lo
+ma
+::
+3.e
+3.2
+2.4
+7.0
+9.6
+
+44
+
+I
+
+.
+
+-.
+
+:;
+
+63
+
+:
+
+.5:—
+
+wait,
+
+7.9
+6.4
+
+%40
+3349
+4446
+244
+
+ki
+L4
+7.4
+7.6
+
+B~bIJ&4
+
+“5*
+
+. ..*..
+.+-----
+
+--
+
+iu~
+94
+W49
+3ZM
+9a.s
+
+L60
+
+..:
+8p)&
+
+doped
+
+Fieetate
+
+-.
+
+REPORT
+ANNUAL
+
+396
+
+NATIONAL
+
+ADVISOBY
+
+COMIUY-TEE
+
+FOE AEEONAUTIW.
+
+DE30USSION GROUPE.
+OF
+
+.
+
+The fabrics of group II were made of silk fibers, both schappe and the natural length fibora.
+idea, it is vmy incdastic.
+The silk fiber is extremely interesting, and, contrary to the general
+Up to about one-fourth to onehalf of h full load the load-stretch relations of tho silk fiber
+follow a Straighbline ratio, and the silk is fairly elastic-up to this region of yield. Beyond
+this region the pmrmnent set is very large. The strength per un.itof weight is much greater
+than for the other fibers, but becmw of the yield region the effective working strength is
+comparatively low. It is very possible that this condition is good, considering that under
+extreme conditions of loading the silk fabric would stretch a large amount and materially
+decrease the tension in the fabric and preserve the desired factor of safety. An examination
+of the pressure deflection curves will give a better impression of the actual performance in this
+respect. The wing would have to be m.verecl anew. after such a condition of loading. The
+yield region is hidden in the achappe fabrics, but ., is shown by a gradual change of curvature
+of the load-stretch d@ram.
+TIM silk fabrics doped up very well and had all the outward appoarancce of successful
+fabrics. It was observed that they became loose when exposed to humid conditions, and that
+they detmiorated very rapidly on oxposuro to woatlmr, probably due to tho devctlopmcmtof
+m internal rot. The schappe fabrics did not hav~ as great a tenhmcy to become 100so on
+exposure to humid conditions. It was found that if the silk fabrics were tentored to excood
+the yield point they did not exhibit the largo stretches por unit load increase, and that they
+did not loosen materially on exposure to humid conditions. Tho manufacture of schappe has
+probably caused the yield point of the fibrea to be exceodod, and is a possible explanation of its
+performance. The r-n
+why the exceeding of the yield point would give bettar performance
+under humid conditions is not clear. The prevention of rot by chmnical impregnation is
+entirely feasible, and it is believed that a further systematic study of silk fabrics would lead to
+the conclusion that they are entirely possible. Very satisfactory fabrics were constructed
+of selected tyssah, and fabrics constructed to weigh about 4.3 ounces per square yard of schappe
+yarns 2/100’s metric were very promising.
+GROUP E.
+
+,——.
+
+----
+
+— .-
+
+-—— —,
+.---—..
+
+-r’
+
+Weight, ounces.
+Sample.
+
+i ‘“””’
+
+---’”’
+Undoped. DOPKL
+
+TTTl““
+~‘
+w.
+
+F.
+
+w.
+
+F.
+
+. . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . ..Z
+H? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6m7m
+. . . . . . . . . . .._. e
+4.4
+%-6
+WWm330:::::::::::::::
+
+ml . . . . . . . . . . . . . . . . . . . . .
+mu . . . . . . . . . . . . . . . . . . . . .
+. . ...................
+%4... . . . . . . . . . . . . . . . . . .
+5046 . . . . . . . . . . . . . . . . . . . .
+.
+5046 . . . . . . . . . . . . . . . . . . . .
+.
+
+ae
+
+%
+..........
+..........
+..........
+..........
+
+~+
+
+5.~
+
+H
+........
+........
+---------------
+
+!E=::’::::’-
+
+I
+
+%
+
+~
+
+%
+
+g
+
+%
+
+g
+
+smffJ70~;
+........ ........ ........
+.. . . . . . . . . . . . . . . . . . . . . . .
+-------- -------- --------------- -...:-, - --------
+
+1%
+
+.P.
+
+D.
+
+. ..!.-
+
+P.
+
+D.
+
+d
+
+........ ........ . .....
+. . . . . . . . -------:...:..4.
+
+i$
+
+.. ... . ..
+. ......
+
+w.
+
+....
+
+i$
+
+>~
+.5.6
+.:5.6
+
+. y?
+
+i%
+
+$.6 i
+
+W]
+m.4
+.23
+
+L71
+
+:;’
+
+:E
+
+.- -.
+
+w.
+
+.-.;:.
+
+. +a
+
+8.Q
+
+$;
+
+Lb
+
+La
+
+F.
+
+:::::;;
+
+::
+
+:!
+
+................
+1.
+
+~ .-:.~; -.-.:% ..-~-g:.--~,jg
+.
+
+-------........
+--------.--=---
+
+F.
+
+~:
+
+Lo
+
+.-.?:
+
+-
+
+~’
+
+........ ........ ........ ........
+. . . . . . . . . . . . . . . . . . . . ..-. . . . . . . . .
+. ..
+
+.
+
+..
+
+..
+
+DISCUSS1ON GROUPF.
+OF
+Group F comparas the properties of several fabrics purposed for use as airplane wing
+coverings. I?rom an examination of the tablca it is evident that the 2/60’s and 3/80’s fabric
+me tQ be oompared with linen. The “H” fabrics are capable of withstanding higher pressures,
+but the deflection is large and the dope adhwion at .increwed loads iS poor; ~d it ~ co~idered that they will not give satisfactory service.
+The curves, figure 22, show the pressurmdefiection relations for the grade ‘ ‘A” linen,
+grade “A” cotton, and the grade “B” cotton.
+
+.
+
+THE
+
+STRUOTURE
+
+OF AIRPLANE
+
+397
+
+FAHRK?S.
+
+GEom F.
+UNDOPED
+
+FABEIO.
+
+p31qUehunit.]
+
+IAOratory
+
+No.
+
+&UUDk
+
+.—
+
+merk.
+
+Relnnrks.
+
+-l—
+m.
+
+Stmdard’’A’f
+em~&
+
+..........................
+........... ...........
+.. . ... .. . .. ... . ... ... ..
+Stmd.twd . . . . . . . . . . . . . . . . . . . . . . . .
+l’A’’
+
+1’. L. 36. . . . . . . . . . . .
+P. C.74 . . . . . . . . ..-.
+(!. p.s . . . . . . . . . . . .
+Sig. m... . . . . . . . . .
+M& m... . . . . . . . .
+M& K.41 . . . . . . . . . .
+.
+Sig. 151. . . . . . . . . . . .
+. . . . .. . .. .. .
+&J;:
+. ...........
+. .. .........
+
+..
+
+Do.
+Linen.
+
+Amerfesa cotton.
+Englfshcottan L@@).
+_mthn
+FountsIn).
+EngUsheotb3n 1WIldfog).
+Ain@an eottq meredmd ~
+
+I
+
+.—
+
+Do.
+
+DOPED
+.
+
+..
+LhleIL
+Ame@cen cotton.
+
+wmw&”:v.BY::::::::::::::
+. . ..do . . . ..~ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.. JO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+S. c. uv~m
+. . . . . . . . . . . . . ..- . . . . ----B. C-deliwry,~m
+tton,N236...
+.......
+
+—
+
+wm.
+
+FABRIC.
+
+[En@h
+
+mit.1
+
+(g
+Lab.natory
+
+Sample mark.
+
+No.
+
+Remnrks.
+
+---
+
+I
+;:.
+
+.
+
+y.-.....
+
+Stsnderd’’A’’ . . . . . . . . . . . . . . . . . . . . . . . .
+...... ............
+. ,. - . . . . . . . . . . . . ~Mxws
+. . . . . . . . . . . . . Sy6’A’’...
+... ...............
+:g HA . . . . . . . .
+.
+s
+. . . . . . . ..8Q. ~lg! . . . . . . . . . . . . “yaYmY:!?.Y.?..
+.
+. . . . . . .. .
+Wg. 151 . . . . . . . . . . . . t. . . ..ao . . . . . . . . . . . . . . . . . . . ...
+
+:;
+
+Cotton 31&l, 2?4
+N
+timy~ful{
+NZ3k::::::::::::::::::
+
+g
+
+6.1 i
+
+.. . ........ ...-.ti . . .. ....................------- J
+
+%2?:... . . . . .. .
+. .. ......
+..
+2%.%.
+. ...........
+
+w
+
+:;
+
+. . ..-...l
+
+Lfnen, 4 emt.sDuPont No. Z o.
+Cottq~4mets
+D1
+umt No.m.
+IAncn, 4 mats Dupont No. 6074’4.
+%
+Cottan, bmerf
+4 eoets Du ont No. ~49.
+@ttoq En$I$%),
+4 coa?sDqnurt No. 60749.
+g
+Itton
+En@h (Fc.nniQ 116 E), 4 costs Dnponi h-o
+Iwlul
+
+$1
+w
+
+1C5 [
+
+#
+
+Smd.
+
+&ll m41~
+
+5.8
+
+!
+
+:;
+
+............. ............
+
+~
+
+al
+
+BURSTING
+
+‘ Englfsh (WiIdfng), 4 mats Dupont No- 60i49.
+
+1
+1s9
+
+Do.
+
+Linen, 4 mats Miss li39C dope.
+
+PRESSURE.
+
+per unit of wefght.
+
+Dopadfsbrfc.]
+Preesoro
+
+Mmratory
+
+6fUJl@0
+
+*. W . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+sfg. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+z41.
+s~.m..........
+
+. .. . .. . .. . . . . . . . . . . . .. . . . . . . . . . . .
+
+6SIU@0
+
+............. %%-
+
+.........
+
+Sfg. am.... . . . . . . . . .
+
+-S
+
+nrerk.
+
+Olrnm
+of (Onmw).
+Wefght.
+
+................................................... :;
+2s=%
+titon.N~
+
+a ~mt~nJ.Nm .
+~tA @e
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..-
+
+BUESTIN13
+
+Laboratory No.
+
+w~t
+
+y&$.g-e
+
+No.
+
+2.0
+
+—
+
+5.6
+6.s
+S.I
+
+TESTS.
+
+..
+
+merk.
+
+Remsrks.
+
+delimry2JEQmm.._.
+
+g:
+
+Si@~A:eIfvery
+SLJNZW. . . . . .
+.................. .....
+Stsndm
+
+---- —.
+--..=
+
+:=
+
+142’
+
+/
+
+RESISTANCE.
+
+premure method.]
+
+taborstary
+
+No.
+
+I
+
+Ssn@e
+
+$RJ&‘&!i&y’
+
+mark.
+
+4
+
+Uw’eingleysrn.
+
+Remerke.
+-- ———.
+
+Amarfcsq ~ . . . . . . . . . .
+~1#
+. . . . . . . . . . . . ..A............
+.. . . . . . . . . . . . . . . . .. .
+. . . . . . . . . . ..- Standnrd’’A’’ linen, BngLfsh. . . . . . . . .
+..... ..
+au: la . . . . . . . . . . . . . ..--do . . . . . . . . . . . . . . . . ..u..Sfg.lm... . . . . . . . . .
+. . . . . . . . . . . . . KR#?J%%%%JJ&i:::::::::
+. . . . . . . . ..
+BE
+... ..........
+Sf&!441 . . . . . . . . . ..q NZ3Pmttnn . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+
+m . . . . . . .. . . . .
+.
+
+— . . --
+
+Presmre
+
+sfg.lras . . . . . . . . . ...’N!4S6 mtkq
+
+1
+-L
+
+CL8J
+
+:E
+.69
+.09
+.66
+.36
+
+lee#&tercut
+parsllelto warpJtesracrOss ml@.
+5centhneters cutarsllelto wp
+tesrmrmsdiIfn& Englfsh
+
+. .. . . . . . . . . . . . . . . . . . . .
+
+7.1
+
+l%#lOggY&:&werP;
+
+T.4
+
+—
+
+1 csmtimeterent PamIlelto warp; *mrm4SlI@.
+
+Alffahrfc put on tmdertensfonof 0.45pcunds perlneh or SO_
+
+—
+
+1 centimeter cut persSeI to q
+tsuaorwsa.
+5 centimeters cut parsUeI ta warp. team
+wrms ~.
+Icsntfmetercnt paraSeltoqisarmross
+SII@.
+6 mntlxneterscut smUel to warp; tearscrm
+Mllng.
+2cs@metsrs ent~- to warp; *scrms SII@.
+
+9t&16L. . . . . . . . . . . . . . . . ..do . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sfg.
+
+. . ---.-.. ---
+
+.7s
+
+-—..
+
+TEARING
+
+~.. -------
+
+tearmrma-El@sh
+
+pereentImeterand d.0pi3dwMh4eoetsMess IZ49CnItrstc dope.
+
+.——
+
+398
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR AERONAUTICS.
+
+.
+
+DISCUSSION OF GROUP G.
+Fabrics
+
+of group
+
+(G) were
+
+designed
+
+derived from the bursting test.
+is be.limwd that they are subjeot
+ation
+
+of the bursting
+
+restit,
+
+the illling
+
+pressures
+
+stretih
+
+from
+
+a consideration
+
+of the distribution
+
+of stress ss
+
+These are more or less extreme in thair construction, but it
+to satkfaotory
+development,
+as will be noted from a ocmsiderand the weights.
+
+is greater
+
+The
+
+than is desired,
+
+yarns
+
+are all unmercetieci;
+
+and, as a
+
+and much more of the load is carried
+
+by
+
+the warp yarns than would be if the filling yams were mercerized. The warp yarns gave way
+first near the short edge of the frame where the curvature in the direction of the warp is a
+finite value, The filling gave way immediately after the warp, and in many cases it was extremely difficult to determine whioh aotually did give way fist.
+The fabric 11OC,because of the availability of mercerized 2/60 yarn, was made up in the
+plaiiand 2x2 fiUingwithlxl
+warp. These resuIta are given at the end of the table.
+It is not intended that these fabrics are the ultimate ones to be desired, but it is of interest
+h note that there is a great possibility of de~eloping fabrics which have the balanoe of &o
+weight in the dirmtion OFthe &eatm a&saes.
+- GBOUP Q,
+r
+
+Ih+
+Thraad count.
+
+Mark.
+
+K#,
+
+w.
+
+l?.
+
+lIOA . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+lob. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Ire . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+uSA . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+lllB . . . . . . . . . . . . . . . . . . . . . . . . . . .
+~11: . . . . . . . . . . . . . . . . . . . . . . . . . ... . ...........................
+. .. . . . . . . . . . . . . . . . . . . . . . . . . . .
+%6B . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+I
+
+le.
+
+w.
+
+Utw
+
+70
+
+so
+
+1/53
+
+90
+m
+
+1/68
+lpo
+
+I
+
+1
+
+2f50
+g
+
+~m
+-
+
+l@3
+[
+
+2/40
+
+WJ
+qoo
+apl
+
+;%’
+g
+
+f
+
+I
+
+--l
+
+Bursting plWmre.
+
+Yam nmnher.
+
+S&
+
+0. L?J
+
+2i:8
+.9s.
+e
+X8
+16.0
+
+Yam~mker
+.
+
+L&l
+La
+
+1.60
+i%
+l.m
+
+Lal
+
+2:
+2a.4
+
+L 19
+
+,..
+
+—
+
+!I&rOd&l.
+
+The dill
+
+ye,m.eof 206Pand Z6SB era mereerhed, and mom mmprehenslve tear ti
+
+dku9sfon of ar.
+‘%
+
+ere given onder the
+
+DEPARTMENT F AGRICULTURE TESiTS
+O
+ON COTTONI?IBRE
+FOR MRPLANE
+FMIRIOS.
+~BOUP
+
+H.
+... —--
+
+i~e&
+Weuve.
+
+-~,
+
+TenW&ti&y
+
+Yarn U!ztng.
+
+Weight
+(mmoee
+w
+~.
+
+‘m%
+
+p.
+
+w.
+
+R.
+
+So’a.
+
+also’s,
+my.
+
+Yern breakage.
+
+S@I’s,
+maroar~
+
+so%.
+.
+
+Fanny pfma Ariiona EWP-
+
+a.9
+
+SakeliL K. L . . . . . . . . . . . . . . . . . . ..&.. . . . . .
+Sakel F, V. S. . . . . . . . . . . . . . . . . . ..do . . . . . . .
+See Ieland . . . . . . . . . . . . . . . . . . . . . ..do . . . . . . .
+
+“m
+
+70
+
+81
+
+a. 91
+
+Plebl......
+
+is
+~
+
+70
+
+w
+
+4,00
+L 01
+
+70
+70
+
+&Lii
+
+83.5
+7a6
+
+.{:
+
+mead
+
+Weave.
+
+sa%J~.
+
++_......
+
+-S
+
+Eww
+
+~b.I . . . ..-
+
+_ . . . . ..d& . . . . . .
+
+. . ................. ...
+q
+1:
+SmIeIand . . . . . . . . . . . . . . . . . . . . . ..do~~.::
+Weetm.....
+. . . . . . . . . . . . . . . ..do .. . . . . .
+
+—
+
+%!!
+!46.62
+
+9a!4
+
+la
+
+ag.
+
+~S7
+
+16a.1
+144.7
+la !2
+
+97.8
+
+LIRl
+
+4
+
+Ma. 6
+
+14ao
+
+14a 9
+‘
+
+H
+
+mlmt. TS@AT
+
+w.
+
+4.aa
+
+m
+
+Yarn Sic@.
+
+.
+
+“:
+
+.
+
+- -.?
+
+Yun braak~a
+
+~
+
+r.
+
+w
+
+WL6
+
+9s
+
+so
+s9s9
+
+We.
+
+yg, .
+
+:h~+
+
+w%.
+
+W&L
+.
+
+m~$.
+
+—
+s-l
+
+4. U!WWI
+4.9!4@ls3
+
+4.00
+6.$)
+
+w.
+
+F.
+.
+
+P~~
+
+!4&Sl
+m 14
+ahm
+
+%%—.
+
+On&e
+‘%%
+
+W
+
+X94
+
+7s.0
+76.4
+7&7
+
+I
+w-
+
+7P,8
+
+8JW’S,
+
+;m’n,
+~.
+
+so
+
+9L 6
+.“
+sl#
+
+;!
+
+Q4
+
+ma
+
+am
+
+am
+
+47.9
+
+m
+
+ma
+
+6
+
+IL
+6
+S8L1
+9R
+mm - 46.%
+~~
+MWa
+, 70
+““--:
+X.69
+la 32
+4il o
+66.2
+lIS.b
+........ .......... .......... ........ .......... ..........
+6h4
+56.9
+
+!uPa
+
+23.04
+
+4m5
+
+.-
+
+.-4
+
+THE
+
+STRUCTURE
+
+OF
+
+AIRPLANE FABBICS.
+
+399
+
+BU?4MABY.
+
+The oatton 2/60’s fabric made of mercerized yarn is equal to or better than the standard
+linen. It has the best combination of desirable properties whioh may be obtained for use
+direotly from the loom, with the possible exception of the heavy illling fabrics.
+The possibilities of finishing fabrios open up many interesting possibilities. The faotms
+i.nfiuenoing the variable, and the cnntrol of the variables, should be thoroughly studied to
+insure uniformity of output.
+The burst test giv~ valuee which are more nearly cmreet than tensile teats, by introducing
+the element of lateral constraint, The vahe obtained from the burst test serves M a basis for
+calculation of probable performmme of wing fabrics with referenoe to pressure, wing deflection,
+and rib SpMhl&
+The tear tests on undoped fabrios are of IittIe value in the study of airplane wing ooverings
+The rip tear test made on a doped ptmel gives more nearly oorreot results than those made
+on a detached pieoe of doped fabrio. The results may be reversed and are always exaggerated
+in the case of the loosa fabric.
+Any tear test on a doped fabrio is a funotion of the efleotive yarn strength, the number
+stressed in tear, and the load-stretch relations of the material.
+The pressure of rupture, either in the case of the wound tast or bursting test, is a more
+correct indication of relative factors of safety than the results of a tensile test.
+At the present time it is not possible to arrange the variabh of menufaoture in an eqyation
+so as to calculate mathematiodly the performance of a hypothetiod fabrio.
+The field for further researoh is very wide.
+
+-—
+

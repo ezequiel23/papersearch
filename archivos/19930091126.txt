@@ -1,0 +1,3872 @@
+I
+
+/V/iCA
+
+/1\ 6Lj
+
+REPORT No. 64
+
+EXPERIMENTAL RESEARCH ON AIR
+PROPELLERS, III
+•
+NATIONAL ADVISORY COMMITTEE
+FOR AERO~ AUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+T[C~ :NI' AL LIBRARY .
+
+AIRESEARCH M,\fWFt.CTURING CO.
+
+9851·SS51 SEPULVEDA BLVD.
+INGLl'IOOO
+CAfl FOR NIA'
+
+APR 13 1942 \
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+
+1920
+
+REPORT No. 64
+
+EXPERIMENTAL RESEARCH ON AIR
+PROPELLERS, III
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERO~ AUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1920
+
+I
+
+/
+
+/
+
+I
+
+REPORT No. 64.
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, III.
+By W. F.
+
+DURAND
+
+and E. P.
+
+LESLEY.
+
+SCOPE OF THE INVESTIGATION COVERED BY PRESENT TESTS.
+
+The investigation described in this report was conducted for the National Ad visory Committee for Aeronautics at Leland Stanford Junior University, Palo Alto, Calif.
+The investigation on air propellers carried on during the two years 1917-1 and forming
+the subject of reports Jos. 14 and 30 1 of the National Advisory Committee for Aeronautics
+covered the following general characteristics of form and design:
+Four nominal pitch ratios, viz, 0.5, 0.7, 0.9, and 1.1.
+Two forms of blade contour, (1) with approximately parallel sides and slightly rounded
+tip and (2) curved and tapering in accordance with the common saber form.
+Two mean width ratios, viz, 15 per cent and 20 per cent of the radius of the propeller.
+Two forms on the driving face, viz, plane and cambered or hollowed.
+Two forms of distribution of geometrical pitch, (1) uniform and (2) increasing radially
+as determined by the assignment of a constant theoretical angle of attack.
+In the study of the hollowed or cambered driving face, all combinations of characteristics
+otherwise with a degree of camber measured by one-third the thickness of the corresponding
+straight-face section were tested, while si.'C y,r:ith a degree of camber one-half the preeeding
+were tried.
+In the study of propellers with radially increasing pitch, this feature had not been extended
+to those of nominal pitch ratio 1.1.
+In addition to propellers with combinations of characteristics as indicated above, a
+considerable number of tests were carried ou t, as recorded in report o. 30, covering a variety
+of forms of blade contour combined with one or more combinations of other characteristics.
+In continuation of this general program of investigation, it seemed desirable to examine
+in particular the influence of the following characteristics:
+(1) Nominal pitch ratio 1.3 combined with a certain number of the more common or
+standard forms and proportions.
+(2) Driving face slightly rounded or convex.
+(3) Change in the location of the maximum thiclmess ordinate of the blade section.
+(4) Pushing forward the leading edge of the blade, thus giving a rounded convex surface
+on the leading side of the driving face.
+(5) A series of values for the constant" angle of attack" in forming propellers with radially
+increasing pitch.
+In accordance 'w ith these purpo es tests have been carried out on some 2 propellers,
+figure 1, having characteristics as follows
+Four propellers of nominal pitch ratio 1.3; uniform pitch, straight face, and with four
+combinations of form of blade and area as shown in Table 1.
+Five propellers of nominal pitch ratios 0.5,0.7,0.9, 1.1, and 1.3, all of uniform pitch, one
+area and one blade form, and with the driving face made slightly convex by adding a crown of
+one-sixth the normal thiclmess of the corresponding straight-face sections, as shown in Table I
+and in sections, figure 2.
+1
+
+See Third .\nnu aJ R oport, 1917, a nd Fou::b
+
+A~nnuaJ
+
+R e port. 191 .
+
+3
+
+-l
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+TABLE
+
+No.
+
+ominal
+Diam- N pi teh
+eter.
+ratio.
+
+---
+
+-
+
+112
+113
+114
+115
+11 6
+117
+11
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+13 1
+132
+133
+134
+135
+136
+137
+138
+
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+
+Nominal
+pitch.
+
+Mean
+blade
+wid th.
+
+Inches .
+1. 3
+1. 3
+1. 3
+1. 3
+.5
+.7
+.9
+1.1
+1. 3
+.7
+.7
+.7
+.7
+.7
+.7
+.7
+.5
+.5
+.7
+.7
+.9
+.9
+1.1
+1.1
+1.1
+1. 3
+1. 3
+1. 3
+
+Form or
+contour
+No.
+
+8ection
+o.
+
+Dynamic D vnamic
+piteh
+p itch.
+ratio.
+
+- - - - - - - - - - --
+
+---
+
+I 'fIches.
+ll !
+
+I.-Characteristics oj model propellers.
+
+46.
+46.
+46.8
+46.
+18.0
+25.2
+32. 4
+39. 6
+46.
+25. 2
+25. 2
+25. 2
+25.2
+25. 2
+25.2
+25. 2
+12.32-21. 29
+9. 16-23. 00
+20. 1 -28. 45
+16.31-30. 13
+28.29-35.57
+25. 24-37. 23
+33.5 -4 1. 1
+36. 71-4 2.6
+34.09-44. 2
+46. 6 -48. 18
+45.52-49.6
+43.55-51. 2
+
+0.1 5T
+
+F,
+
+. 20r
+
+F,
+
+.15r
+
+F2
+F,
+F,
+F,
+
+. 20r
+. 15r
+.15r
+.15r
+.15r
+.15r
+.1 5r
+
+. 15r
+. 15r
+. 15r
+.1 5r
+. 15r
+.15r
+. 15r
+. 15T
+
+.15r
+
+. 1ST
+. 15r
+.1.5r
+. 1ST
+.1 5r
+. 1ST
+. 1ST
+. 1ST
+• 1ST
+
+1
+',
+F,
+
+F',
+F,
+F,
+
+F,
+Y,
+F,
+Y,
+F2
+
+F,
+F,
+F,
+Y,
+F,
+1',
+F2
+1",
+1",
+1",
+
+F!!
+
+F!!
+
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+
+S.
+
+8,
+8,
+8.
+1',
+S"
+SIl
+S,
+S,
+S,
+
+,
+
+8,
+8,
+8,
+8,
+8,
+
+,
+
+8,
+8,
+
+Inches .
+1. 637
+1. 51
+1. 623
+1. 52
+. 735
+. 934
+1. 139
+1. 371
+1. 55
+.865
+
+.903
+
+.901
+.997
+.965
+. 991
+1. 013
+.6i 5
+.656
+.912
+5
+1.126
+1. 099
+1. 39~
+
+1. 37.7
+1. 351
+1. 67
+1. 637
+1. G06
+
+58. 97
+5 J.64
+5. 41
+5~ . 72
+26.47
+33.62
+4 1. 00
+49.37
+55. 8
+31.14
+32.5
+3~ . 6
+35. 9
+34. 7~
+35 . C~
+
+36. 47
+24 . 30
+23. t>2
+32.83
+31.87
+40. ;;,;
+39. 57
+SO. 20
+19. GO
+48.65
+GO. 13
+5 .97
+57. 82
+
+Four propellers of nominal pitch ratio 0,7, uniform pitch , one blade form and area, and
+four locations of the maximum thiclmess ordinate of the blade section, as shown in Table I
+and in sections, figures 3, 4, 5, and 6.
+Three propellers of nominal pitch ratio 0.7, uniform pitch, one blade form and area, and
+with three degrees of deformation of the leading edge by pushing forward , as shown in Table I
+and in sections, figures 7, 8, and 9.
+TW'elve propellers distributed over the five pitch ratios 0.5, 0.7, 0.9, 1.1, 1.3, all with one
+blade form and area and with radially expanding pitch derived from the assumption of varying
+theoretical "angles of attack," as shown in Table I.
+The foUT propellers 111, 112, 113, and 114, of nominal pitch ratio 1.3, fall in as the last
+members of four series formed by the propellers having corresponding combinations of form
+and area and with the other pitch ratios as tested in previous years.
+The five propellers 115, 116, 117, 118, and 119, with the slightly rowlded driving face,
+give a series representing a single blade form and area carried through the five nominal pitch
+ratios as shown in Table I.
+The f oUT propellers 120, 121, 122, and 123, with four difl'erent positions of the maximum
+thickness ordinate of tho blade section, all of one pitch ratio, blade form and area, form with
+the corresponding propeller ( o. 7) tested in 1917,1 a series of five propellers with five positions
+of the maximum thickness ordinate, viz, 33 per cent, from the leading edge for No.7 (which
+closely represents standard practice) and positions on either side as follows:
+0.120, maximum thickness of ection 0.17 per cent of width from leading edge; No. 121,
+25 per cent ; o. 122, 41 per cent; No. 123, 49 per cent. The combination of characteristics
+otherwise (pitch ratio, form and area) selected for this serie was intended to represent an
+average or typical case.
+The three propellers, 124, 125, and 126, with leading edge pushed forward, give with o. 7
+a single series with three successive amounts of such deformation, all of a single-type combination otherwise. I n No.7 the driving face is straight ; in Nos. 124, 125, and 126 the leading
+edges are moved forward 25 per cent, 50 per cent, and 75 per cent of the maximum thickness
+of section, respectively.
+The 12 propellers, 127 to 138, show in T able I a single value for nominal pitch ratio and
+two values for nominal pitch. The former is the pitch ratio of the driving face at 13-inch radius
+, 8ee Thi rd Annual R eport, 1917.
+
+.P ,
+
+l
+
+r
+1
+
+if.
+
+a:
+
+w
+
+...J
+...J
+W
+
+a.
+
+o
+
+a:
+
+a.
+
+...J
+
+w
+o
+
+o
+
+~
+
+I.
+
+ci
+LL
+
+5
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, III.
+
+16" radius.
+
+1611' mdius .
+
+13" radiu .
+
+13" radius.
+
+."
+
+10" radi us.
+
+7" radius.
+
+~
+
+~7"radius.
+
+4" radi us.
+FIG. 2-Sec. 4. Prop. Nos. 115,116,117,118,119.
+
+4" radius.
+FIG. 3-Sec. 5. Prop. No. 120.
+
+16" radius.
+
+~
+
+16" radius.
+
+1~'
+
+13" radius.
+
+10" radius.
+
+ION radius.
+
+~
+
+radius.
+
+10"radiu· .
+
+7" radius.
+
+4" radius.
+
+4" radius.
+
+FIG. 4-Sec. 6. Prop. No. 121
+
+FIG. 5-Sec. 7. Prop. No. 122.
+
+6
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+16" radius .
+16" radius.
+
+~
+
+13" radius.
+
+~~
+
+i3"radius .
+
+10" radius.
+10" radius.
+
+7" radius.
+
+4" radius.
+FIG. G-Scc. 8. Prop. No. 123.
+
+4" radius
+FIG. 7-Sec. 9. Prop. No. 124.
+
+16" radius.
+
+13" radius.
+
+~
+
+16" radius.
+
+13" radius.
+
+10" radius.
+
+i" radius.
+
+~
+
+~~~"{LLLL==~-
+
+4" radms .
+FIG. 8-Sec. 10. Prop.
+
+0. 125.
+
+10" radius.
+
+7" radiu'i.
+
+4" radiu s.
+FIG.9-Sec. 11. Prop.
+
+~o.
+
+126.
+
+7
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, III.
+
+and the latter are the pitches of the driving face at the 4 and 18 inch radii, respectively. These
+propellers were given a radially increasing pitch according to the Drzewiecki method. For all
+blades showing the same value of nominal pitch ratio the pitch of the driving face at the 13-inch
+radius equals the diameter multiplied by the value of pitch ratio given. The following table
+shows the assumed constant" angle of attack" which gives rise to the variation in nominal
+pitch tabulated:
+TABLE
+
+H .-Assumed constant "angle of attack."
+Pr~eller
+
+Nominal
+pitch
+ratio.
+
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+
+0.5
+·5
+·7
+.7
+
+o.
+
+·9
+
+.9
+
+1.1
+1.1
+1.1
+1.3
+1.3
+1.3
+
+Assumed
+constant
+"angle of
+attack."
+
+Degrees.
+6
+9
+
+6
+9
+6
+9
+3
+6
+9
+3
+6
+9
+
+The contour, area, and section of propellers 127 to 13 are the same as for 3,7,11,15,19,
+and 23 of the 1917 report ; 82 of the 1918 report; and 113 of the present investigation. The
+20 may then be arranged in the following five series:
+Nos .
+
+0.5
+.7
+.9
+1.1
+1.3
+
+nominal
+nominal
+nominal
+nominal
+nominal
+
+pitch ratio..... . .. . .. .. .. . .. . . .. . . .. .. .. . . . . . . .. . . .. . . .. . .. . . . .
+11, 23, 127, 128
+pitch ratio.....................................................
+7,19,129,130
+pitch ratio........................... .......... . . ..............
+3, ]5, 131, ]32
+pitch ratio.... .. . . . . .. . . . . . . . . . . .. . . . . . .. . .. .. . . . .. .. .. . .. . . . . . 82, 133, 134, 13·)
+pitch ratio ............... . .. . ......................... . ........ 113,136,137,138
+
+The first of each series has a uniform pitch; the second has a radially expanding pitch
+produced by the assumption of a 3° "angle of attack"; the third one for a 6° "angle of attack";
+the fourth one for a 9° "angle of attack."
+All propellers in one series have the same geometrical pitch at the 13-inch radius. It
+should be noted that the effect of an assumed constant" angle of attack" varies inversely
+with the nominal pitch ratio. For instance, with propeller o. 127 (6°, 0.5 pitch ratio) the
+pitch changes from 12.32 to 21.29 inches, a variation of about 43 per cent of the maximum,
+while for propeller 137 (6°, 1.3 pitch ratio) the change is from 45.52 to 49.60 inches, a variation
+of less than 9 per cent of the maximum.
+CONSTRUCTION OF MODELS.
+
+The model propellers were carved from single sticks of well-seasoned Pacruc coast sugar
+pine (Pinus Lambertiana) in the manner previously described. A departure was made from
+previous practice in the method of finish. After carving and sandpapering, the smooth bare
+wood was given one coat of orange shellac. This wa rubb ed with fine sandpaper and the
+surface given three to four coats of fiat gray vaint, put on very thin with a; camel's-hair brush.
+Each coat was thoroughly dried and rubbed smooth, small surface d-efects being corrected with
+a filler. The propellers were then given two coats of rubbing varni h, the first being rubbed
+to surface with pumice and water and the second left glossy. The resultant finish is smooth,
+thin, and hard. For photographing, a single coat of fiat gray was applied after tests were
+completed.
+AERODYNAMIC LABORATORY.
+
+Tests on the present series of model propellers were conducted in the aerodynamic laboratory at Stanford University, California, during the month of eptember, 1919. The wind
+tunnel is of similar form and proportions to that previously described/ but considerably larger,
+1
+
+See Third Annual Report, 1917.
+
+8
+
+ANNUAL REPORT :NATIO NAL ADVISORY COMMITTEE F OR AERO AUTICS.
+
+having a throat diameter of 7.5 feet . It is of somewhat mor e substantial construction, being
+solidly framed, and planked wi th i -inch thick tongue-and-groove flooring.
+The wind fan is 15 feet diameter, with eight blades of 12-foot pitch. It is driven by a
+laO
+-horsepower, 220-volt, variable-speed, direct-current motor, with which, at 25 per cent
+overload, a wind velocity of 80 miles per hour m ay be realized.
+TESTS.
+
+The tests were conducted in a similar manner to those described in the 1918 annual r eport.
+Somewhat greater wind velocities were used, it b eing the practice to star t the test with a wind
+velocity of about 45 miles per hom. After the safe limit of thrust (abou t 50 pounds) or the
+power limit of the driving motor (12 horsepower) was reached with this velocity, observations
+were made at higher slips by reducing th e wind velocity until the useful range of slip had been
+covered.
+.
+The thrust-torque dynamometer and other device used in 1917 and l D were employed
+18
+in these present tests. The thrust b alance, torque springs, and wind-sp.eed meter were subjecteJ to frequent careful calibrations as previously.
+REDUCTION OF DATA.
+
+The observations of thrust, torque, r evolu tions, velocity, and density were combined and
+reduced to the coefficients
+
+V
+ND'
+T _ 100 X thrust
+e-
+
+P=
+
+/:::,.
+
+PD2
+
+'
+
+efficiency,
+
+_ WOO X torque
+Qe /:::,. V2D3
+'
+
+an
+
+d
+
+Pe
+Qe (V)2 2
+/:::"NsD5= 1000 ND X 71".
+
+Coefficients
+
+TQ
+e,
+
+e,
+
+and p were plotted on abscissre of
+
+cmves drawn through the points de termined.
+V
+0.1 of ND'
+Likewise log /:::,. ~~D'
+
+~ndlog
+
+:D
+
+for each observ ation and fair
+
+T he curves were checked for consisten cy at each
+
+/:::,. ~~ D5 were plotted for eac..l observation on log :D' and
+
+fair curves drawn and ch ecked for consistency with Tel Qe, and p for each 0.1 of
+
+::D'
+
+While English units were used in making observation, the re ults a presented are
+metric units.
+V = velocity meters per second.
+N = revolutions per second.
+D = diameter in m eters.
+T= thrust in kilograms.
+Q = torque in kilogram meters.
+/:::,. = density in kilogr ams per cu. ic meter.
+b
+P u = useful work in kilogram meters per second.
+P e = effective work in kilogram meters per second.
+1 metric horsepower = 75 kilogram meters per second.
+
+III
+
+9
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, III.
+
+All the coefficien ts are thus the same as thoso used in tho 1918 report. Coefficients
+
+6.~~V5'
+
+T e, Qe,
+
+and
+
+6.~:V5 of the 1917 report are comparable to those of this investigation when
+
+multiplied by 3. 28 .
+The results are presented in the form of curves of Te, Q e, and
+XVI) and of log 6. ~~V 5 and log 6. ~~ D5 plottod on log
+
+j\~V
+
+P,
+
+plotted on
+
+:n
+
+(PIs. I to
+
+(PIs. XVII to XXIV) . The use of
+
+these diagrams h as been described. About one-half the obser,ation actuall~' made are plotted
+on the curves of T e and Qe, it being thought desirable to avoid confusion of the diagrams by
+mul tiplicity of points. Those shown are typical.
+1
+
+DISCUSSION OF RESULTS.
+THRUST.
+TIIRUST IN RELATION TO PITCII RATIO.
+
+The curvos of T e for propellers 111, 112, 113, and 114 comparcd with those for propellers
+with similar characteristics except pitch show that in general for a given value of
+increases with pitch r atio.
+
+At the lower values of
+
+:V tlu:ust
+
+/:D' however (below 0.5), it appears that the
+
+incr ement of thrust i less than that of pitch ratio and that the limit of thrust is soon reached.
+This is shown most clearly by curves of
+
+6.~~V5 on Plates XIX, XXIII,
+
+and XXIV.
+
+THRUST IN RELATION TO BLADE SECTION.
+
+(a) R ounded f ace.- T he thrust of propellers 115, 116, 117, 118, and 119 for the same v alue
+
+of
+
+::v
+
+is less than that for the same form, area, and nominal pitch, straight-faco blades 11, 7,
+
+and 3 of the 1917 report, 82 of the 191 report, and 113 of the present series. A part of this
+reduction of thrus t m ay be accounted for by the smaller dynamic pitch.
+f
+(b) Position o maximum ordinate.-Propellers 120, 121, 7 of 1917, 122, and 123 show that
+for a given value of
+
+-:Vthe thrust increases with the movoment of the maximum ordinate of
+
+section away from the leading edge, lmtil about 33 per cent of the width is reached. Beyon d
+this there appears to be li ttle change in thrust, No. 122 showing lightly loss than No. 7 and
+No. 123 nearly the same. The variation in thrust is perhaps not greater than would be expected
+from the variation in dynamic pitch.
+(c) Leading one-thi1'd of face rounded by moving leading edge fU1'Wa1'd.-Pushin g the leading
+edge forw ard docreases thrust for a given value of
+
+::v
+
+except at low slip, whero 125 gives
+
+somewhat greater thrust than 124 and 126 greater than 125.
+greater than any of ab ove.
+
+The thrust of No.7 (1917)
+
+IS
+
+THRUST IN RELATION TO RADIALLY INCREASING PITCII .
+
+For propellers 11 , and 23 of 1917 and 127 and 128 of the present series, at a given value of
+
+::v' the thrus t varies inversely with the" angle of attack."
+
+The variation is not greater than
+
+would be expected from the variation of dynamic pitch.
+The same is true of series 7, 19, 129, and 130.
+For series 3, 15, 131, 132; 82, 133, 134, 135; 113, 136, 137, 138; the differences are less
+marked. In some cases it is in one direction and in some in the other. This is accounted for
+by the fact that with the larger pitch ratios the variation of pitch is less than with the smaller
+pitch ratios for the same" angles of attack."
+1
+
+144375-20-2
+
+Report 14, Third Annu~l Report 1917.
+
+10
+
+AN NUAL R E P ORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS .
+POWER.
+
+POWER I
+
+RELATION TO PITCH RATIOS.
+
+As would be expected, the larger the pitch r atio, the greater the power absorbed at a given
+V
+value of ND ·
+P OWER I
+
+T
+
+RELAT ION TO BLADE SECTION.
+
+(a) R oundedface.- The r ounded-face blades 115, 116, 117, 11 , and 119 absor less power
+at a given v alue of
+
+};Dth an the corre ponding straight-face blad es
+
+Jos. 11, 7, 3, ."2, and 113.
+
+(b) Position of maximum ordinate of blade section.-At a giv n value of ::D power increases
+as the maximum ordulate of the section is mov-ed away from the leading edge until abou t 33
+per cent of the width h as been tr aversed. Beyond this point there is comparatively little difference in the models tested.
+(c) L eading one-third of f ace rounded by moving leading edge forward.-Po,yer absorbed for
+a given value of
+
+::D incr eases as the leading edge of the propeller blade i
+
+An exception to this appears in pr opeller 126 where for va lues of
+the power absorbed by Jo. 126 i
+
+lightly les than that for
+
+l~D
+
+pus ed forward .
+
+between 0.55 and 0. 75
+
+o. 125.
+
+POWER I N RELATION TO RADIALLY INCREA ING PITCH.
+
+The two series 11 , 23, 127, 128, and 7, 19, 129 , 130 show the same general relations of power
+absorbed as of thrust develop ed; that i , power varying inversely with the" angl of attack."
+Also, as with thrust , the differences in the larger pitch ratio are small. In the case of series
+113, 136, 137, 138 ther e is lit tle difference between the tor que curve. It is sometimes in one
+direction and sometimes in the other.
+EFFICIENCY.
+
+EFF ICIENCY I
+
+RELATION TO PITon RATIO .
+
+The 1.3 pitch ratio propellers how a lar ger range of efficiency and a slightly higher maximum than similar forms t est ed in 1918 (1. 1 pi tch ratio) . There is a marked decr ease in efficiency at the higher slips, some bl ades showing an efficiency curve which i slightly concave
+V
+upwar d at the lower value of ND · This was not unexpected fr om tests on the variable pitch
+propeller No. 96 in 1918.
+EFFICIE N CY I N R ELATION TO BLADE SECTION.
+
+(a) R ounded f ace.-Pr opellers 115, 116, 117, 118, and 119 have practically the same efficiency curves as os. 11, 7, 3, 82, and 113 (s tr aight face) . Although the thrust developed is
+less for the former , the power absorbed is pr oportionally less, so that the efficiency is little
+affected. H aving slightly less dynamic pitch, a slightly less maximum efficiency for the r oundedface series is to be exp ected. It appears, however, that the str ength of blades may b e considerably incr eased by slightly rounding the face, and with little or no corresponding loss in effiClency..
+(b) Position of maximum ordinat e.--Cross curves of efficiency for propellers 120, 121, 7
+of 1917, 122, and 123 show highest efficiency for Jo . 7, whose maximum or dinate of section is
+one-third of the width from the leading edge. No. 121 appears superior to No. 120. Ther e is
+little difference between os. 122 and 123, but bo h are distinctly less efficient th ,n No. 7.
+(c) L eading one-third offace rounded by pushi leading edgeforward .-Pushing the leading
+edge forwar d increases the maximum efficiency a tained but decr eases the efficiellcy over the
+working r ange. The incr ease in m aximum efficien y is not more than would be exp ect ed from
+the incr ease in dynamic pitch .
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS} III.
+
+11
+
+EFFICIENCY IN RELATION TO RADIALLY EXPANDI -G PITCII.
+
+The :five series of propellers, 11,23,127,128; 7,19,129,130 ; 3,15,131,132; 82,133,134,
+135; 113, 136, 137, 138, seem to indicate that no advantage in eiliciency is to be gained from a
+radially exp anding pitch prQduced by the method of design followed. Although these series
+show with incr easing" angle of attack" slight increa es in efficiency ovor the usual working
+range, ther e is an accompanying reduction in maximum cffieioncy, both of which results are
+to be expected from the -decrease in dynamic pi tch.
+As wi th tbTust and power, the differences for the small pitrh ratios arc more marked thai!
+tho e for tho larger ones .
+
+-.
+
+12
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+PLATE
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, III.
+
+PLATE
+
+II.
+
+13
+
+14
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS,
+r'
+
+----.-
+
+T
+
+I
+
+,I
+
+I
+
+~
+
+..
+PLATE
+
+III.
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS,
+
+PLATE
+
+IV.
+
+m.
+
+15
+
+16
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+PLATE
+
+V.
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS} III.
+
+PLATE
+
+14~ 3 75-2o-3
+
+VI.
+
+17
+
+18
+
+A NUAL REP ORT NATIONAL ADVISORY COlVIl\lITTGE F OR AERONAU TICS.
+
+PLATE
+
+VII.
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, III.
+
+PLATE
+
+VIII.
+
+19
+
+20
+
+ANNUAL REPORT N ATIO NAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+PLATE
+
+IX.
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS,
+
+PLATE....X.
+
+m.
+
+21
+
+22
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+T -
+
+1+-+
+
+PLATE
+
+XI.
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS,
+
+PLATE
+
+XII.
+
+m.
+
+23
+
+24
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+PLATE
+
+X III.
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, TIl.
+
+25
+
+26
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+~'u
+
+~
+
+I
+
+::::j
+
+f
+t!
+;~
+
+'f
+
+~,
+:n ti\ii'#
+
+i!11J
+
+iiT ,
+
+~\j' ~
+1j'
+!
+
+•
+
+11
+
+L,
+
+~
+
+:tty
+
+;m
+!u
+
+'l'ri~";
+
+;
+
+PLATE
+
+XV.
+
+:
+
+~
+
+•
+
+EXPERIMENTAL RESEARCH ON AIR PROPELLERS, III.
+
+PLATE
+
+XVI.
+
+27
+
+,
+r
+cr:
+w
+w
+
+>-1Uz
+
+>- .
+
+Li: 0::
+
+I-
+
+L
+
+t::::l
+U)u
+Zo::
+
+7000--
+
+ZUJ
+
+Wu
+
+u
+
+(/)
+
+lJ..W
+
+I-
+
+~ 6000
+
+we..
+
+~ 5000
+
+r;;::,r;;::,
+
+IC
+
+WUJ
+
+Do... .-30
+
+~ 4000
+
+a
+
+<!:i
+~
+
+~
+
+.02
+
+400 ---:::::L
+300
+
+200
+
+---=r
+=E
+
+.6
+.7
+.8
+
+.9
+1.0
+1.1
+
+2000
+
+:>
+
+1000
+
+50
+
+I
+
+;..".
+0
+..)
+
+.6001 500
+
+3000
+
+6
+c:(
+
+.4-L-40
+.5
+
+~
+
+00
+
+60
+
+I
+.9
+
+I
+
+.8
+
+I
+
+I
+
+1.0
+
+1.1
+
+""""
+
+8'
+
+----- ---.
+---.--: -----=~-- ---.-
+
+------
+
+---,../'
+
+/
+
+~
+>-<
+
+o
+':z:
+
+~
+
+. . . . . . . "'"
+
+' /11)
+
+~
+.......... ~
+
+§
+
+"'-
+
+'\.
+
+\~
+\\
+\\
+
+/
+
+/
+
+I'd
+
+':z:
+
+113.).. ---
+
+1.2
+1.3
+
+fg
+
+~
+
+III.
+
+Q
+
+1.2
+
+~
+o
+
+IIZ ~
+
+.t
+
+90
+
+.7
+
+.6
+
+~
+
+70
+80
+
+I
+
+/
+
+//
+
+\\
+
+//
+
+\
+\
+
+100
+90
+80
+
+Ul
+
+o
+
+~
+
+o
+
+o
+
+~
+~
+
+>-<
+
+1-3
+1-3
+t.=l
+t.=l
+"=J
+
+o
+
+~
+
+PI(OPLLLLR5
+
+~
+
+III , 11.2
+
+70
+
+o
+
+60
+
+~
+~
+
+P
+.a
+AN!I[) 3'
+
+P ..
+
+50
+
+o
+
+LJN!lO ~
+
+fIl
+
+40
+V
+
+40
+
+ND
+
+.3
+
+.2
+
+50
+
+60
+
+.5
+
+.4
+
+70
+
+80
+
+VELOCITY -
+
+90
+
+.6
+
+100
+
+KILOMETERS PER HOUR
+
+.7
+
+150
+
+.8
+
+.9
+
+200
+
+1.0
+
+1.1
+
+~
+
+1.2 1.3 1.4
+
+300
+
+u
+a:
+~
+
+r:o
+z
+
+a:
+
+0.. '"
+
+uJ
+~
+
+<l
+
+i ros
+uJ
+
+UJ
+
+>-~
+!:==>
+(f)U
+
+Za:
+
+~~
+
+~.
+
+0..
+
+~~
+zZ
+
+7000.-(/)
+
+wW
+U
+
+u
+
+~ 6000
+
+U::a:
+u.w
+
+f-
+
+~
+10
+
+we..
+
+~ 5000
+~ 4000
+
+,-30
+
+Cl
+
+<!:i
+
+~
+
+2000
+1000
+
+.5-1-50
+
+600 -~
+
+.02
+
+L
+
+l'=.j
+
+]FO
+
+~
+
+~1/4
+
+~
+q
+
+/1~7
+
+---/"'--
+
+H
+
+-----~
+
+1.1
+
+1.2
+1.3
+
+=E
+
+p.1
+
+'"d
+
+.8
+80
+. 9 - - 90
+1.0
+
+300 -::r
+
+l'=.j
+
+.6
+
+.6-1--60
+
+400 ~
+
+200
+
+3000
+
+6
+<{
+
+~
+
+.4-1-40
+
+1/4
+
+/,....-/'"
+/'"
+
+/"'/
+
+---
+
+/-
+
+/
+
+~
+
+--....
+
+><-/15
+
+//
+
+/
+
+~
+l'=.j
+Ul
+l'=.j
+
+~
+
+----...........
+
+""~
+
+//
+
+~
+
+~
+
+o
+
+~
+
+~~
+
+o
+
+~
+
+~
+
+e;
+~
+
+\\
+
+\\
+
+'"d
+
+~
+
+o
+
+'"d
+
+l'=.j
+
+100
+
+~
+
+l'=.j
+~
+
+PROPLLLLI(5
+
+80
+70
+
+.Y'
+~
+......
+
+II,,). 114
+
+60
+
+P.u
+
+AN~O '
+
+p"
+AN'O?
+
+50
+
+40
+V
+
+~r::::,
+
+ND
+
+~
+
+.3
+
+.2
+
+40
+
+50
+
+60
+
+.4
+
+.5
+
+.6
+
+70
+80
+90 100
+VELOCITY - KILOMETERS PER HOUR
+1 LATE XVII [.
+
+.7
+
+.8
+
+.9
+
+1.0
+
+l.l
+
+1.2 1.3 1.4
+
+I
+lSO
+
+200
+
+300
+
+~
+
+c:D
+
+l
+
+~O
+:z
+
+u
+a::
+
+Cl. '"
+
+w
+1:
+
+. <l
+
+II
+
+a::
+w
+
+~
+
+uJ
+
+Uz
+
+>-~
+t::::J
+
+!!:!u
+
+(/)
+
+iL:a::
+U-u,J
+w a..
+
+l-
+
+uJ
+
+(/)u
+
+~
+
+tia::
+
+n.
+
+>-1-
+
+I-
+
+o~
+
+7000--
+
+Z lLJ
+
+~ 6000
+
+U
+
+~ 5000
+
+\;;)\;;)
+
+10
+
+r- 3O
+
+~ 4000
+
+(!)
+
+0
+
+~
+
+~ 3000
+
+.4-1-40
+
+500
+
+4 00
+300
+
+5
+c(
+
+.02
+
+7] ;E
+0
+7
+1
+
+.6-/-60
+
+.8
+.9
+1.0
+1.1
+
+80
+90
+
+~
+
+2000
+
+~
+
+c:j
+
+1000
+
+.5-1-50
+
+600
+
+D:>
+
+o
+
+/
+
+I
+
+~
+~
+
+l
+.6
+
+~0
+
+I-d
+
+o
+
+i>
+
+~
+
+~
+
+~
+
+$
+Q
+
+...--
+
+~
+
+~
+_ _ _ _ _--:~:::-____ _ _ ~
+,;:Y
+/ / ...-
+
+..........
+
+~--...-
+
+---- ------------
+
+__ -110)
+
+--
+
+---
+
+50
+
+117
+
+.......... "
+
+40
+V
+
+.2
+
+40
+
+60
+
+"'"'"'\
+
+115
+
+,,/
+'\
+
+\
+
+\
+
+~ ')
+
+\
+
+/ /9)
+
+'"'"
+
+""
+//iJ-~
+
+117
+
+"'" '"
+
+//8
+
+\
+
+~
+
+'\
+
+\
+
+o
+o
+
+\
+
+'\
+
+~
+
+\
+
+\
+
+'\
+
+\
+
+o
+
+/
+
+\
+
+/'
+
+~
+
+rn
+
+\
+
+~
+
+l':l
+
+\
+
+I,j
+
+\
+\
+
+~
+....
+y
+
+o
+
+~
+
+~
+
+\
+
+~
+
+o
+
+\
+
+PROPLLLCR.5
+\
+
+//5. //0, //1. //8, //9
+
+\
+
+A,
+
+LJNJ
+O"
+p
+~
+
+\
+
+LlNJ S
+O
+
+NO
+
+.3
+
+so
+
+------ '-..,.
+
+//7,
+
+I~
+
+-.f.
+
+~
+
+~
+
+-~
+
+- - ___
+
+...-
+
+/......-
+
+__
+
+- ----
+
+- - - - - - - - - -- ------- ...---------~--
+
+200
+
+60
+
+o
+
+II~J
+
+1. 2
+1. 3
+
+100
+90
+80
+70
+
+~
+....
+
+.5
+
+.4
+
+70
+
+80
+
+90
+
+.6
+
+100
+
+VELOCITY - K ILOMETERS PER HOUR
+PLATE X IX.
+
+.7
+
+150
+
+.8
+
+.9
+
+200
+
+1.0
+
+1.1
+
+1.2 1.3 1.4
+
+300
+
+~
+
+c:j
+
+~
+
+o
+Pl
+
+•
+
+a::
+uJ
+
+>-1-
+
+~
+
+Uz
+
+)-L
+
+i}U
+
+':::)
+
+U::a::
+lL.W
+we.
+
+uJ
+
+(n U
+
+~a::
+
+7000--
+
+ZUJ
+
+CJ)
+
+Il:
+
+f\t
+
+w 6000
+
+£~c
+
+Q!E30
+<!:i
+
+.4
+
+~
+
+ruJ
+L
+,
+
+5000 '-
+
+w 4000
+
+0
+
+~ 3000
+
+40
+
+6
+
+2000
+
+c{
+
+5001 - .02
+
+6 60
+
+3 00
+
+----=r
+
+1
+
+.7
+.8
+
+I
+
+1000
+
+.6
+
+/</ /............ _<:::J
+
+t'l
+
+.7
+
+;/,
+
+I-d
+i:'J
+
+80
+
+.9
+
+400 --=r
+
+/-..........
+
+/
+
+. 5- + -50
+
+6()0
+
+70::;
+
+90
+
+~
+H
+
+~
+
+i:'J
+~
+
+~
+
+1.0
+1.1
+
+~
+
+1.2
+
+200
+
+-E
+
+i:'J
+
+Ul
+
+1.3
+
+PROPLLLLR.5
+120,121. /22.12,)
+---~
+AIVV'"
+
+PE
+A N"O'"
+
+............ ............
+
+---
+
+...................
+........................
+
+~ '"
+
+P>H
+~
+~
+
+o
+
+I-d
+t<l
+
+~
+
+,",,'
+"",,
+
+~.
+
+~
+
+12;'
+
+(\-'
+
+'\ \
+\
+
+o
+
+I-d
+
+--:;:;.:;:~-=--~
+~~~__
+_~~'Z)/
+~ ----~~--::.----- ;::--.: "~
+
+t<l
+
+Ed
+o
+P1
+
+/22
+
+\
+
+.J'l
+~
+
+H
+H
+
+\
+
+/2"\ \~
+~\
+
+V
+
+NO
+.4
+
+.5
+
+.6
+
+.7
+
+.9
+
+1.0
+
+1.2 1.3 1.4
+C>:>
+I-'
+
+40
+
+50
+
+60
+
+70
+80
+90 100
+VELOCITY - KILOMETERS PER HOUR
+P:'ATE
+
+XX.
+
+_
+u::
+u
+fw
+
+.
+
+r
+
+a
+'"
+0.. 2
+<l
+
+ex:
+
+W
+f-
+
+w
+>- L
+f-:::l
+Viu
+
+:LI
+
+~ex:
+
+>-1-
+
+u2
+ZUJ
+
+(/)
+
+u
+
+5
+
+~u
+
+Li:o:
+
+wo..
+
+O
+!£30
+.4
+
+~
+
+~ 4000
+
+a
+
+~
+
+'\
+
+50
+
+.6
+
+60
+
+.7
+400 ----=C
+
+.8
+.9
+1.0
+
+300 ---::::r-
+
+1.1
+1.2
+1.3
+
+200~'~~~
+
+'
+
+70
+80
+90
+
+3000
+
+5
+<{
+
+40
+
+.5
+
+2000
+
+I>
+
+2t
+2t
+q
+
+1000
+
+~~ h
+
+' ::>
+
+0:>
+t.:J
+
+~ 5000
+
+r :::::::':
+;
+
+6001500
+.02
+
+6000'-
+
+f-
+
+£~
+
+LLW
+
+7000
+
+L
+
+~
+
+.6
+
+t:;j
+
+~
+
+I-d
+
+((j
+
+~
+
+o
+
+~
+
+~
+
+e: ,t:" ~
+
+Q
+
+2t
+
+~
+
+0>,
+
+H
+
+o
+
+2t
+
+~
+
+j ~
+
+~:t~
+Q;-<V
+
+PROPCLLCR5
+
+~~
+
+r::::,r::::,
+
+....
+
+_
+
+/Z4. /25. /20
+
+IZ~L
+
+P...
+
+- - - AN"O$'
+
+llu
+
+P..
+- - LJN"OS-
+
+1;
+
+<
+
+H
+
+Ul
+
+o
+
+~
+
+o
+
+o
+
+~
+~
+
+H
+
+------~--- - -
+
+H
+H
+
+--~~---
+
+It~...------_____
+------ ----;
+/t{Y./' ~u
+
+-
+
+~"',
+~
+
+t:;j
+t:;j
+
+"'J
+
+o
+
+"''' "\
+
+'"\\~
+
+i;>j
+
+~
+
+i;>j
+
+\~
+
+/
+
+\\
+
+o
+
+2t
+
+I>
+
+q
+
+H
+H
+
+\
+
+o
+
+Ul
+
+\
+
+V
+
+~
+~
+
+ND
+
+.3
+
+40
+
+50
+
+60
+
+.4
+
+70
+
+80
+
+VELOCITY -
+
+.6
+
+90
+
+100
+
+KILOMETERS PER HOUR
+
+P LA1'E
+
+XX].
+
+.7
+
+150
+
+.9
+
+200
+
+1.0
+
+1.1
+
+1.2 1.3 1.4
+
+I~
+:z
+
+U
+
+a:
+f-
+
+a:
+
+Cl '"
+
+UJ
+
+I-
+
+<j
+
+UJ
+
+i 1-05
+n..
+
+~ .
+
+UJ
+
+>-fUz
+ZUJ
+
+t:::=>
+
+G
+iLcr
+
+za:
+
+we.
+
+>-~
+
+(flU
+
+Ww
+
+7000
+
+If)
+
+U
+
+IJ..W
+
+~ 6000
+f50 00
+
+E
+
+r§
+10
+
+on.. , - 30
+
+~ 4 000
+
+(!j
+:lI:::
+
+°
+~
+
+3000
+
+6
+c:(
+
+4 -1--40
+
+2000
+1000
+
+.S- l -SO
+
+600J
+500 ..02 6 60
+1
+
+I
+
+I
+
+I
+
+.7
+
+.6
+
+.8
+
+.9
+
+1.1.
+
+1.0
+
+1.2
+
+A - DENSITY
+
+1.3
+
+t>:J
+
+~
+
+.7
+
+400
+300 --:::r
+
+200
+
+-E
+
+70
+
+t>:J
+
+.8
+.9
+1.0
+1.1
+1.2
+1.3
+
+80
+90
+
+t>:J
+
+~
+~
+
+Z
+
+1-3
+
+,..,- ,..,/'"
+
+/ ----- ----~----
+
+~
+
+t>:J
+t>:J
+
+if)
+
+(:f~
+
+//
+
+.......... ..........
+
+"- \
+
+/?'
+
+~
+
+~
+
+- - - ----.. . . ,,-........yd
+
+//
+
+\
+
+/33
+,./
+
+\
+/\
+
+/3~
+
+/
+//
+
+100
+90 -
+
+~
+
+o
+
+\
+
+p:j
+
+\
+
+o
+Z
+
+\
+\
+
+\
+
+~
+
+~
+'tI
+
+t>:J
+t-'
+
+\
+
+~
+
+80
+
+~
+
+PI(OPfLLLI(..5
+j.)j ,
+
+/J6
+
+~
+
+.....
+~
+
+-- - iJ N~O $'
+~
+p"
+
+LlN~o.~
+
+V
+
+.2
+
+.3
+
+NO
+.4
+
+.5
+
+.6
+
+.7
+
+.8
+
+.9
+
+1.0
+
+1.1
+
+1.2 1.3 1.4
+co
+co
+
+40
+
+50
+
+60
+
+70
+80
+9 0 100
+VELOC ITY - KILOMETERS PER HOUR
+PLATE XXII.
+
+150
+
+200
+
+3 00
+
+--
+
+u
+it: 2
+I- Q. '"
+
+~o
+
+Q:
+
+UJ
+
+<l
+
+UJ
+
+UJ
+
+I-
+
+~ ros
+~
+a..
+
+~IzZ
+UJ
+wU
+
+Zo::
+
+0::
+
+U:cr
+
+Wa..
+
+cnU
+
+~~
+
+".
+
+Cfl
+
+G
+
+>:L
+!:::l
+
+co
+
+UJ
+
+u.w
+
+fI>..
+
+l-
+
+rS'
+
+~ 5000
+
+\0
+
+~ 4000
+
+,-30
+
+(!:j
+
+0
+
+:s:::
+
+~
+
+3000
+
+6
+c(
+
+2000
+
+.4--1--40
+
+° 1
+1
+
+500
+
+.6
+
+.02
+
+300 ----:::r
+
+~ , .. - - ~
+
+200
+
+.
+
+g:;
+
+.6
+
+~
+l"j
+
+'tI
+
+o
+
+70
+
+.8
+.9
+1.0
+1.1
+1.2
+1.3
+
+400
+
+q
+
+L
+
+60
+
+.7
+
+~
+~
+
+1000
+
+.5--1--50
+
+60
+
+II>
+
+80
+90
+
+~
+~
+
+~
+
+H
+
+o
+
+- -----.........
+
+/""
+
+"A A
+
+.........-:~--- -­
+,
+
+~"../'
+
+------- -........"'"
+
+-------------~«
+
+,//""
+
+/
+
+,/./
+
+-----,/
+
+100
+90
+80
+
+------
+
+--------------~--
+
+" rS'
+
+---------
+
+60
+50
+
+___ _
+
+-----
+
+............
+
+~
+
+---------. --- -.. . . .-. . .
+
+"'" "-
+
+\
+
+"'" / 27
+
+\
+
+\
+
+~
+
+.2
+
+\
+
+\
+
+40
+
+50
+
+60
+
+70
+
+80
+
+-4r\~
+
+____________
+
+~
+
+______________________________
+
+~
+
+__
+
+~~~
+
+~
+~
+1-3
+1-3
+H
+
+\
+
+\
+
+\ 137
+
+\,r'
+
+____
+
+~
+
+\/
+
+\:;1
+
+A N-V 5'
+
+.6
+
+.7
+
+ISO
+
+.8
+
+.9
+
+200
+
+1.0
+
+~
+
+g.;
+o
+
+P
+ROPLLLLR.5
+
+\
+
+0'J:j
+
+o
+
+~
+
+\....-'
+
+P
+.u,
+
+100
+XX IIl.
+
+l"j
+l"j
+
+\
+
+/27, 12.9. /j/ • /,)4./.)7'
+
+KILOMETERS PER HOUR
+P LATE
+
+\
+
+PE
+
+.5
+
+90
+
+~
+
+o
+o
+
+LJ.N~O'
+
+.4
+
+VELOCITY -
+
+\\
+
+\ 13 -1"
+
+ND
+
+.3
+
+r.n
+
+o
+
+\
+
+V
+
+~
+
+~
+
+H
+
+\
+
+\ /J/
+
+"
+
+4\
+
+~"'\
+
+'-..",
+
+I
+~I
+
+K"
+
+'"
+
+g:;
+
+"'-'\\
+
+129
+
+""
+
+- / 27
+
+~
+
+----___________
+
+~
+
+------ ~
+
+1.1
+
+1.2 1.3 1.4
+
+~
+
+d
+1-3
+H
+
+o
+
+VJ
+
+.
+0::
+u
+~
+
+~
+'2
+
+0::
+
+Cl. '"
+
+a..
+
+>1-
+
+UJ
+
+~ .
+
+Uz
+
+I-
+
+<J
+
+i ros
+UJ
+
+Zw
+
+UJ
+
+).l:
+!::=>
+Zo::
+
+!Jl
+
+G
+
+WCl.
+
+U
+
+UJ
+
+IJ...W
+
+U'lU
+
+~~
+
+a::
+
+...
+
+Li:a::
+r:::,r:::,
+
+~ 5000
+
+10
+
+,-30
+
+~ 4000
+
+(!)
+
+0
+::J
+
+500
+
+400
+
+300 -==r
+
+2000
+
+...
+
+.4 -l--40
+
+600J
+
+3000
+
+6
+
+~
+
+c(
+
+60
+
+1000
+
+.5----1- 50
+.02
+
+6
+1
+
+.7
+.8
+.9
+1.0
+1.1
+1.2
+1. 3
+
+l
+
+.6
+
+l'1
+
+~
+
+70
+80
+90
+
+t:J
+
+~
+
+~
+t:J
+
+/ ./'
+--....--./' ....---
+
+/
+
+/'
+
+---
+
+~
+
+-----
+
+--
+
+Z
+
+--.....
+
+i:d
+
+t:J
+
+en
+
+"'-
+
+l'1
+
+/3.5_"
+
+-----------.. .
+
+'\
+
+---==->--- -----... -~ """" "'""- \
+
+"./~ / '
+---- ~
+.../"':;d' _____
+
+~
+
+/-'~
+
+[;
+
+o
+P:I
+
+\
+
+1.3_
+"'
+
+/
+
+--'....------
+
+--'
+~ ------
+
+---- -
+
+-- ~
+
+------ ---- -
+
+----------
+
+............
+
+\\
+.........
+
+/3~
+
+\'~'
+
+""" '\
+
+\
+
+\
+
+z
+
+~
+
+\
+
+\ / 35""
+
+f'
+
+\
+
+/ 317
+
+o
+
+\
+
+/
+
+\
+
+\
+
+\
+\
+
+>tI
+i:d
+
+o
+
+>tI
+
+~
+~
+
+i:d
+
+'\
+
+~en
+
+\/3~f
+
+'\
+\
+
+~ "-...28
+/
+/
+
+'"
+
+PROPfL Ll R5
+1 /.50, /.52.1,)5. /:;8
+28,
+
+.....
+.....
+~
+
+P
+.u.
+
+- - - LlN:Jp?
+
+\
+
+p,
+Ll N3[)~'
+
+V
+
+.2
+
+NO
+
+.3
+
+.4
+
+.5
+
+.6
+
+.7
+
+.8
+
+.9
+
+1.0
+
+1.1 1.2 1.3 U
+~
+
+40
+
+so
+
+01
+
+60
+
+70
+
+80
+
+90
+
+100
+
+VELOCITY - KILOMETERS PER HOUR
+PLAT E
+
+XX IV.
+
+150
+
+200
+

@@ -1,0 +1,399 @@
+• 52 52030
+
+c
+TECI~N IC A L
+
+i~ATIONLL
+
+r OTES .
+
+ADVISORY COM:lITT KS F OR
+
+P..E RO~~AUTIC8.
+
+No. 30
+
+DESIGN OF RECORDI NG W
+IND TUN NE L BALM!CES.
+
+By
+F. H. Norton, Physicist,
+Aerodynamical Laboratory, N. A. C. A.,
+La~l ~ y Field~ Va.
+
+Dec ember, 1920.
+
+•
+
+NATIONAL ADVISORY COUMITTEE FOR AERONAUTICS
+TECHNICAL NOTE NO. 30.
+DESIGN OF RECORDING WIND TUNNEL BALANCES.
+By
+F. H. Norton, Physicist,
+Aerodynamical Labora~ory, N. A. C. A.
+Langley Field, Va.
+
+The fOllowing description of the design of. a reco:cding
+"ind tunnel balance was prepared at tne Langley Memorial
+Aeronautical
+
+Labo~atory
+
+of. the National Advisory Committee
+
+for Aeronaut ies ~ as the use of sue!: a 'oalanee will greatly
+increase the efficiency of operat ion of a wino. tunnel by increasing the capacity of the wind tunnel with a decrea-se in
+personnel.
+Wind tunnel tests may be divided into two classes: com-
+
+•
+•
+
+mercial testing, where great accuracy is not important, but
+where rapidity of testing a more or less standard type of model is essential, and scientific work where the tests are of
+various kinds and accuracy is more important than speed.
+
+A
+
+balance for the .first class of \,ork need not be universal,
+but it should have a means for recording lift, d.rag and pitChing moment, preferably plotting them continuously against
+angle of incidence.
+
+The second class of work demands a bal-
+
+ance capable of supporting conveniently any type of model,
+and should hold them rigidly even at high speeds.
+
+All three
+
+moments and three forces on the model should if possible be
+
+-- 2 -
+
+recorded simultaneously and pJ.ottect el ther against angle of
+incidence or angle of yaw.
+
+It might seem that such an elab-
+
+orate recording mechan .i.sm would be too gl'eat an expense, but
+wD.:m it is realized tha"t it v
+vould save the t :i.me of thJ:'ee men,
+and would at leas t d.ouble the capacity of the tunnel there
+will be no doubt of Hs e.c1.vamiage.
+The qualities desired in a
+
+sc~entific
+
+balance may be sum-
+
+merized as follows:
+
+1. It should we:i.gh aJ.l fOJ:'ces and moments simuJ.taneouslY9
+
+2. It shoulc1. allow an incic1.ence change th:rougll 360 0
+
+•
+
+3. It should allow the use of any type of spinrUe o:r w:i.re
+support.
+I
+4. I"t should. allow a. yaN of r.
+
+20°.
+
+5. Forces and moments should be (;ontinuoul'31y :cecord.ed against
+angle of incidence .
+6. Models sho'\.:j,ld. be easy to install an.d adjust
+
+~
+
+7. Computations should be reduced. to a minimum.
+6. The weighing mechanism shoulci. be simpJe a.nei posit . ve.
+i
+9. The bc;1.ance shoulci. be stiff enough to use a.t high speed.s.
+
+10. The balance shouJ..d be
+
+sj
+
+mple and lnex.pensiye to constJ:'uct.
+
+In orde:/? to choose the type of baJ..ance best suited for
+sclentific wo:r:k, the characterlsttcs of the nost successiul
+balances will be considered.
+The N.P.L. type of balance (Fig. 1) allows a ready adjustment of the angle of incid.ence, and the lift clrag and
+moment readings are com.reniently read.
+
+Its greatest disad.-
+
+vantages are the difficulty of supporting thin ended. wings,
+
+- 3 -
+
+or any model at high speed, and as moments and not forces
+are read, spindle corrections are difficult to make.
+
+It is
+
+also impossible to simultaneously read all forces and moments.
+The wire balance as used at Gottingen (Fig. 2) has the
+advantage of being inexpensive and simple, but it does not
+allow large angular
+
+ch~nges,
+
+and it is not universal.
+
+The new Washington Navy Yard balance, w
+orking on the
+parallelogram principle, is the highest development in wind
+tunnel balances at the present time, and although it is selfbalancing, it is not recording.
+incidence is from
+
+i 360
+
++ 90 0
+
+The range of the angle of
+
+to _90 0 with the usual set-up, and
+
+by a special set-up.
+After a careful study of the preceding types of balances
+
+had been made, it
+
+~as
+
+decided that the most satisfactory ar-
+
+rangement would be a rigid ring completely surrounding the tunnel or wind stream, so that the model could be supported from
+it by W
+.ires or any arrangement of spindles.
+moments acting on
+
+t~is
+
+The forces and
+
+ring can then be recorded by suitable
+
+weighing apparatus.
+A diagrammatic sketch for a balance of this type is shown
+in Fig. 3 .
+
+The weight of the balance is supported on a long
+
+torsion wire, with a mercury or w
+ater float to carry most of
+the load, and the lift on the model is measured by a simple
+lever.
+
+The drag and pitching moment are measured by two arms
+
+connected to ball bearings at the upper and lower side of the
+ring.
+
+The difference of the weighings give the moment and
+
+- 4 -
+
+their sum the drag.
+and rolling moment
+~ngles
+
+In the same
+a~e
+
+v~y
+
+the cross-Wind force
+
+measured on two similar
+
+to the air stream.
+
+~rms
+
+at right
+
+The yawing moment is measured at
+
+the bottom of the balance through a flexible jOint.
+
+All
+
+weighing arms have corresponding counter weight arms to keep
+the systems in tension, and as the movement of the arms is
+restricted to a very small amount l the problem of stability
+does not arise .
+t
+
+The methods available for recording the forces on the
+arms consist of the following:
+1.
+
+A motor driven sliding weight, in the manner of a test-
+
+ing machine.
+
+This method requires the mounting of the record-
+
+ing drum on the balance arm, thus making it impossible to record the sum or difference of two weighings which, as will
+be shown later , is quite essential.
+2.
+
+A spring or Toledo type of balance has been suggested
+
+but the deflection required is much too large, as the arm
+
+•
+
+should not have a movement of more than a few thousandths of
+an inch, or there will be interference between the different
+weighings, and the stabIDlity would have a serious effect.
+3.
+
+The forces could be recorded by a mercury filled sylphon
+
+as shown in Fig. 4.
+
+The pressure is recorded by the height
+
+of a mercury column, which covers a slit before a moving strip
+of bromide paper .
+
+Let us assume that the maximum pressure
+
+to be read is one kilo, with an accuracy of 1 gram.
+
+As the
+
+height of the mercury could be recorded to 1/10 mm. the total
+height would be 10 cm.
+
+Assuming that the area of the mercury
+
+5 -
+
+column could be made as small as 4: sq.mm . , the a:.ea 0-:: the
+~ould
+
+sylphon
+be .5mnl.
+
+be 7.4 sq.cm. and its maximum deflection would
+
+While this cieflection would not be objections.ble
+
+on some arms, it would be very much too large in most cases.
+This method is very simple and positive, ')ut there would be
+considerable temperature corr3ction 'N hich would be objectionable for recording
+4.
+
+wo~k.
+
+A more complicated fluid device is shown in Fig. 5
+
+vvhich will keep the deflection dO.Vll to a -very small value.
+The force on the arm is simr;ly bCilanced by the flu.id pressure
+in a sylph on or diaphrc:.m.
+
+The fluid is pumped through the
+
+chamber and its escape is regulated by an electrically controlled valve, operateo, by contEl.cts on the balance arm, and
+the pressure in the chamber is recorded in the same way as
+before.
+
+This device would require considerable developing
+
+and Nould be
+5.
+
+r~ther
+
+expensive to construct.
+
+The simplest and most satisfactory device is probabJ.y
+
+an adjustable chain weight as used in chemical balances, (Fig.6).
+This is simple, accurate and allo rt's the recording pen to be
+easily attached.
+
+This method has been tested out and it is
+
+found that machine-made commerCial chain is
+
+o~fficiently
+
+uniform to give good results.
+In Fig. 7 is shown a method of using this chain i7eight
+on a recording balance.
+
+One end of the chain is attached
+
+to the balance arm and the other to · a slide driven up or down
+by a screw which is operated by a reversible electric motor.
+This motor receives its current through the contact pOints
+
+on the balance arn, so tba1. it will aU1.on;atically
+force .
+
+bala~ce
+
+the
+
+A pen is connected to the slider by a steel tape in
+
+order 1.0 reduce
+
+~he
+
+m
+otion, and this pen records the force
+
+on a drum which is dr iven synchronously with the ffiodel.
+
+It
+
+is possible to use a heavy enough chain to take care of all
+ordinary force s 1
+
+b~t
+
+i1hen runs are made at high speed, it
+
+.'Vill be necessary to add unit weight s, and
+GO
+
+c:Lllo~1
+
+the instrument
+
+reb4a.nce.
+As it is very deoirable to plot actual forces and mom-
+
+ents, the fo r mer are obtained by mounting a pen on an equaliZing bar so that th e
+
+SU:il
+
+of the forceE,) are recorded (Fig. 8) ,
+
+and the lat1.er by mounting the drum on one slider and the
+pen on the other (F i g . 9) sO that the difference of the forces
+are given.
+In conclusion, the proposed type of oalance will support
+the model rigidly i n a variety of ways, w
+ill make a complete
+test without attention, and Will plot the results so that
+all computations are c:.voided.
+
+While this balance is more ex-
+
+pensive to construct than the usual type, it would certainly
+pay for itself in a short time, by the large volume of work
+
+it could turn out and by the re duction in the w
+ind tunnel
+pay roll.
+

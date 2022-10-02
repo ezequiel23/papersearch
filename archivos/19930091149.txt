@@ -1,0 +1,2754 @@
+FILE COPY
+NO. I-W
+
+REPORT No. 86
+
+- PROPERTIES OF SPECIAL TYPES OF
+RADIATORS
+•
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1920
+
+lobe rctu 'ned
+t ~l'
+ri
+
+'r
+
+·0
+
+atlOhal-
+
+,ittea
+tor Jlcronautks
+
+Wcrshlllgtun, D. C.
+
+REPORT No. 86
+PROPERTIES OF SPECIAL TYPES OF RADIATORS
+By S. R. PARSONS
+Bureau of Standards
+
+REPORT No. 86.
+PROPERTIES 0
+
+SPECIAL TYPES OF RADIATORS.
+By S. R.
+
+PAR ON S .
+
+PROPERTIES Ol!' FLAT PLATE RADIATORS.
+
+This report describes an investigation of properties of special types of radiators, conducted
+for the National Advisory Committee for Aeronautics at the Bureau of Standards.
+In respect to the relation of power absorbed to power dissipated, flat plate radiators have
+been found to be markedly superior to other types commonly employed, for use in unobstructed
+position on airplanes flying at the higher peed .
+For such u e, a pitch of on -half inch (1.27 cm.) between plates gives a higher figure of
+merit than the closer spacings.
+The depth of such a radiator should be con 'iderably greater than of the honeycomb types,
+and the most efficient depth is greater with the higher speeds. For a radiator of one-half-inch
+pitch to be used at a speed of 120 miles per hour (53.6 meters per second), the most efficient depth
+appears t o be about 13 inches (33 em.) . A mall increase above this depth has but a slight
+effect, however, on the figure of merit, and if it is desirable to reduce the frontal area of the
+radiator to a minimum, the depth may be increased to 20 inches (51 cm.) or more without
+se:rious r eduction of efficien cy .
+Equations and plots are given, by mean of which the properties of flat plate radiators
+may be obtained for various depths an d spacings.
+The plates should be con tinuous from front to rear of the radiator, in order to avoid excessive head resistance caused by eddies in the air stream.
+In the course of the investigation of airplane radiators, being carried Qn at the Bureau of
+Standards for the National Advisory Committee for Aeronautic , it has become evident that
+careful consideration should be given to a type of radiator consisting of water tubes which are
+thin flat hollow plates placed edgewise to the air stream. In regard to the relation of heat
+dissipation to absorption of power, r adiators of this type have been shown to be markedly
+superior to other types now commonly employed for use in unobstructed positions on the faster
+planes. These conclusions are based on a comprehensive series of tests made to determine
+what properties such radiators may be expect ed to pos ess.
+For the study of heat di sipation, three radiators were used, each 9i inches deep and with
+plates one-sixteenth inch thick, spaced one-fourth, three-eighths, and one-half inch respectively,
+center to center. They are the types E- 6, E - 7 and E- 8 of Teohnical Report No. 63, Part I,
+and their properties ancl characteristic are given in that report. The curves are reproduced
+in plots 2, 3, and 4 .
+For th e study of mas flow of air through the core and of head resistance, a set of 22 dummy
+radiators were constructed, using clepths of 2, 4, 8, and 12 inches, spacings of one-fourth, threeeighths, one-half, three-fourths, and 1 inch, and thicknesses of one-sixteenth and one-eigh th inch.
+The plates were made by covering cardboard of the proper thickness with thin sheet copper, and
+were u ed again and again. They were 12 inch es long and with the exception of the one-fourth
+inch spacing, enough were used to m ake a radiator 12 inches wide, so that the frontal area was
+1 square foot. Since the copper was thin it was not possible to obtain as smooth a surface as
+2
+
+PROP E RTIES OF SPECIAL TYPES OF RADIATORS.
+
+3
+
+might have been desired, but the condition was fairly represen tative of wh at would be found
+in commercially manufactUTed radiators.
+Extrapolations for depths of r adiators not covered by the laboratory tests were m ade with
+the use of three empirical equ ations, given below. All quan tities are ba ed on one square
+foot frontal area of the radiator an d an air density of 0. 0750 pound per cubic foot.
+Mass flow of air is given by the .equation 1
+
+M=0.110-J~t(V) (1_e-10.95~)
+
+(1 )
+
+where M = mass flow of air in pounds per second per square foot fron tal area of radiator;
+V = free air speed, in miles per h our;
+t = thickness of plates, in inches;
+p = pitch, in inch es;
+x = depth of radiator, in inches ; and
+e = base of natUTallogarithms.
+Heat dissipation is given by the equation
+Q= 34.
+
+M (l-e-!:)
+
+(2)
+
+where Q = heat dissipation in H. P . per 100:> F . temperature differen ce and A and B are empirical
+constants.
+The constants A and B were determined from actual h eat tests on the three r adiators
+mentioned above, and are as follows:
+i-inch pitch: .11.= 0. 24; B =0.0616 ;
+i -inch pitch : .11.= 0.11 ; B= 0. 0283 ;
+t -inch pitch : .11.= 0.23 ; B =0.0258 .
+I The basis lor the empirical equations (1) and (2) may be briefly stated as follows:
+The air flow is found to be proportional to the free air speed, and may be expected to be proportional to the density 01 the air p, so that
+
+M-bp V
+
+(1')
+
+In which b may be expected to be a lunction 01 the "Iree area" a, the depth %, and the distance between plates (p-t). From the Corm o{ the equation, b must be dimensionless, and therelore", and (p-t), each having tfic dimension o{ a length, must enter as a ratio, and b may be o{ the Corm
+
+b-/
+
+(a p;t)
+,
+
+~~~:g: f~~ ~:fa':,~d
+
+(2')
+
+p-;:8.
+
+These conditions are satisfied by the equation
+
+b- .,fa( l -e
+
+p-t)
+
+-k
+
+Z
+
+(3')
+
+and tests on about 60 types 01 radiators give lor k a value 0110.95 {or the unlts used. Substitution o{ equation (3') in (1'), with proper unlts and the
+assumed value 01 air density give equation (1).
+For heat transfer, extendi'Dg the abOve notation, let
+T-tern:{lerature diirerence between water in the radiator and air passing through it
+c-speClfic heat of the air
+!I-totf\l perimeter o{ the air tubes (in unlt (rontal area) around a section perpendicular to the direction of air flow
+q-heat transler per unlt surlace per unlt time per unit temperature difference
+To=value of Tat Iront face of the radiator.
+II it is assumed (1) that the heat transfer varies as the temperature difference, (2) that the transfer ooemcient q is independent of the depth r,
+and (3) that the tempera ture change in the water with depth of core is negligible in comparison with the temperature difference T, so that the change
+in Tmay be regarded as due entirely to the rise Ln air temperature; then equating tbe heat gained by tlie air to that dissipated [rom the surface
+gives
+Mc d T- -~
+
+T y dr
+
+(4')
+
+which integrates to the form
+(5')
+
+where
+The heat transfer Is given by the equation
+
+Q-
+
+f
+
+q T ydz
+
+(0' )
+
+which gives the form
+
+Q- c M T.
+
+U-e-ax )
+
+Experiment shows that q varies as M I--A, where A is about 0.2, but varies witb different types of radiators.
+If T. ls taken as l OO°F., and proper units are used, equation (7') reduces to equation (2).
+
+(7' )
+
+4
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+It was assumed that the head resistance might be regarded as made up of two parts: (1)
+that due to the impact of air on the edges of the plates, including suction on the rear; and (2)
+that due to skin friction of the air passing over the plates. The results were very well represented by the equation
+R=n P (0.00016 t+0.0000025 x)
+(3)
+where R = head resistance in pounds per square foot front~l area; and
+n = number of plates per foot width of core.
+The values given by this equation are a little low when n equals 48; i. e., with one-fourthinch pitch, but for spacings greater than one-fourth inch, the resistance per plate was found to
+be constant for a given speed and air density.
+The weights of the radiators and the water contained in them were estimated from
+geometrical considerations and the densities of copper an d solder, assuming the Lepere type of
+construction. The weight is given by the equation
+W = 0.0557 n x
+
+(4)
+
+where W= weight of core and cont ained water, in pounds per square foot frontal area.
+A lift-drift ratio of 5.4 was assumed for the airplan e, and the horsepower absorbed (per
+square foot) is
+(5)
+
+Figure of merit is the ratio of the power dissipated t o the power absorbed.
+
+Q
+F. M.= H.P.
+
+(6)
+
+The following example illus~rates the use of the equations. Let it be required to obtain
+the figure of merit of a r adiator with plates one-sixteenth inch thick, one-half inch pitch , 16
+inches deep, and at 120 miles per hour.
+In equation (1) for mass flow of air,
+M = 0.110.JP;t( V)
+
+(1- e-lO.95-J~)
+
+P = pitch = 0.5
+t = thickness = -h = 0.0625
+x = depth = 16
+V =speed= 120
+M = 0 . 110.J-=- 5--°-06 2'"""'
+0.-""' -00 ~ 5(120 )
+.5-=-
+
+(1-
+
+e-IO.95-J°.5
+
+-;'~.0625)
+
+M = 0.110"",0.875 (120) (1 - e-1. 81 )
+M = 12.35 (0 .83 6) = 10.33 1b: per sq. ft. per sec.
+In equation (2) for energy dissipated,
+
+Q=34.8 M ( l-
+
+e-~)
+
+A=0.23
+R=0.025R
+
+A = 34 .8(10.33 )[ 1 - e
+
+(0.0258) (16)J
+10.33'"
+
+Q = 359 (1 - e- 0 •241 ) = 359 (0.215 )
+Q=77.3 H. P . pel' sq. ft . per 100 e F .
+
+PROPERTIES OF SPECIAL TYPES OF RADIATORS .
+
+5
+
+In equation (3) for head resistance,
+R=n V 2 (0 .00016 t+0.0000025 x),
+n=24
+R=24
+
+(120)2(0 . 0~~16 + 0.0000025
+
+(16) )
+
+R = 24 (120)2 (0.00001 + 0.0000·1)
+R = 17.27 pounds per square foot.
+
+From equation (4),
+W=0.0557 (16) (24)=21.4 lb . per 'q. ft.
+From equation (5),
+
+11. P.
+
+=( R+ ;~) (3~5)
+
+H. P. = (17.27 +
+
+25~44) G~~)= 6.80
+
+II. P. per sq. ff
+
+From equation (6),
+Q
+77 .3
+F. M.= H.P .=6.80=11.4
+DESCRIPI'JON OF CURVES.
+
+Plot 1 hows figure of merit computed with the aid of the abon ef),l laLions for variou depths
+and for speeds of 60, 90, and 120 miles per hour, and for, pacino- of fH1c-folU'th, three-eighth
+and one-half inch between plate. The ('UlTe illustrate the f Uowing point :
+(1) The one-half inch pitch give, in general a higher fiO'ure of merit than those of closer
+spacings .
+(2) For high speeds the radiator ma.~ be om what cl epel' than for low peed.
+(3) For the higher speeds the most efficient depth is con 'iclerahl!' gn'atel' than tho1'e in
+common use with the cellular types of core.
+(4) For the higher speeds, the fiO'ure of merit i, practically at it maximum ,all e oYer a
+considerable range of depth, so that if consideration of compactness make it desirablc to reduco
+the frontal area to a minimum, a rea onable increa c in depth beyond the optimum will han
+but a small effect on the figure of merit.
+The properties of the three radiatol t ted f r heat tran fer arc reproduced from T echnical
+Report No. 63, Part I, in plot 2, 3, and 4.
+The effect of depth on the properLie.<; of the radiator i shown in plots 5, 6, and 7. The ,alueR
+of "area required pel' 100 H. P." in 'fllot 6 arc 100 times th reciprocals of the COlT pondinf!:
+values of energy dis ipated (in H. P ./ q. ft .) of ploL 5.
+The following example ilh, trate one wa,v in which the CUl'ye'l mar be used. For a radiator
+with one-half inch pitch, to he u eel at 120 miles per hour, the maximum figure of merit is given
+on plot 1 as 11. 7 at 13 inches depth. From plot 6, the frontal arca of radiator required with 13
+in cheR dppth iR ] .55 quare fe0t pPl' 100 hor"lepowcr. If, in order to reduce the frontal area,
+a depth of 20 inc-hes . honld be u ed, the area required would be 1.10 quare feet per 100 hoI' cpower (from plot 6), and the figure of merit would be 11.0 (from plot 1). The horsepower
+absorbed would be increased from 5.6 to .1 pCI' square foo (plot 7).
+ince, however, the
+I
+
+frontal area may be reduced in the ratio
+
+~:~~,
+
+the actual po,Yer ab orbed that should be com-
+
+pared with the value for 13 inche depth would be
+summarizrd aR follows:
+
+~:,;~
+
+( .1), or 5.75.
+
+These res 11
+
+may be
+
+13 inches.!20 inches. ChanJ;9.
+
+---------Al'earequiredbSq.ft./lOOH. P.............. ....... . .................................. . ............................
+Horsepower a sorbed, per square (oot required at 13·inches.......................................................
+Figureofmorit . ....... ........ ... .................................................................................
+
+I..;;;
+.1.6
+11.7
+
+110
+5.75
+11.00
+
+p" cent .
+-2!l
+
++3
+- 6
+
+6
+
+REPORT NATIO N AL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+I
+
+I
+
+COMPARATIVE r/6t/R£S
+orMERIT
+ofFlolPlolr! Roololors.
+---- - '/4 pilch.
+
+_ -_ 3/6 .
+'/£
+
+4
+
+==:.- 1---
+
+,.-
+
+~- 1:":::.-
+
+----
+
+I
+
+6drn."J
+-- --- - t-- t-- r---- --- -- - -t---
+
+90m.p.h.
+
+o
+
+I
+
+I
+
+I
+
+I
+
+J
+
+r--- 60 I - -
+
+I
+
+CIVC!fGY OISSlf7llTEO
+by
+rlolPlote Roololors.
+Oepth. gJ/ Inches.
+4
+
+-
+
+I
+
+I
+-
+
+-
+
+'I"'p ilch.
+
+-
+
+_
+
+I
+I
+
+I
+
+I
+
+I
+/
+
+I
+
+20
+
+I
+
+I
+
+I
+
+L/
+
+I
+
+/
+
+/
+
+/"
+
+/
+
+12
+
+_
+
+,~
+
+'!ZW
+
+i
+
+"
+/
+
+I
+I
+I
+
+/
+I
+
+I
+
+/
+
+L
+
+1/
+
+/f
+
+/
+~?
+
+?if"
+
+// /
+
+"I
+
+I
+I
+
+2
+/
+
+I
+
+Q
+
+l'fotJ.
+
+I
+
+//
+
+I
+
+/
+
+</ /'
+
+1/
+
+'J; ~ ~;;; p
+~ -::~
+1
+00
+
+I
+
+I
+
+/
+
+/
+
+I
+
+/
+
+V
+/
+
+.-
+
+o· L
+
+!3d/
+
+'?
+'O/
+
+y
+
+.,le~1
+
+I
+
+/
+
+V-
+
+/
+
+y'V
+Y
+
+~
+IJO
+
+,/
+
+~
+
+/;.. t=/'
+
+40
+60
+rreeAIi-Speed -mijhr.
+
+,,
+
+:Q(!jl
+
+L
+
+{~I
+>(.0,
+
+,,
+
+,
+/
+
+e ~/
+
+/
+.-
+
+V
+
+/
+
+!
+
+~
+
+#,1
+
+{II
+
+/
+
+I
+
+~~I
+
+/
+
+L
+
+I
+
+I
+
+/"
+
+40
+60
+{JO
+rree Ali- Speed- rT71.jhr.
+
+I
+
+,
+
+,~ /
+V
+
+zo
+
+I
+
+/
+I
+
+I
+
+o
+
+I
+I
+
+.
+-
+
+_ _ .1/8-
+
+_ _
+
+/0
+
+~/oI2,
+
+/
+
+I
+
+IIEAO RESISTAlVCE AIYO
+/lORSEPOWEIU/IJSOfltJEO
+ror fioll'lole Rooloiors.
+Oeplh.9'lhnches.
+--- --'/4-pilch.
+
+/
+
+~,/
+
+./
+
+20
+
+I
+
+I
+
+V
+
+--
+
+,:
+
+/
+
+I
+
+I
+
+/
+
+/
+
+/
+
+/
+
+I
+
+- - -
+
+I
+
+/
+
+Vol"es ror one
+s q"ore roolor
+lrontolo/1!!O:
+
+-
+
+I
+
+I
+
+- - '/i . .
+
+-
+
+---
+
+I
+
+I
+
+- --'/8 - .
+
+-
+
+I
+
+I
+
+-
+
+{J
+12
+16
+Depth orRoololor - Inches.
+
+, 4
+
+Pioll.
+
+70
+
+'--
+
+-- :==--
+
+1---
+
+120m-p.h.
+
+- -
+
+0
+
+t-
+
+~+---
+
+---
+
+100
+
+7
+
+P ROPERTIES OF SP ECIAL TYPES OF RADIATORS.
+
+/ '
+
+!?
+
+,.,.
+
+\
+
+60
+
+fi6UR£ or M£RIT
+oJ'fioll'loleRodlolors, f - I Oeplh_ 9~/.. inches.
+. ----- 1/4Ptlch.
+-·_.Ils'
+f-f--
+
+\
+
+\\
+
+.
+.
+
+- - liz"
+
+£r
+rt:CTOrO£I'Ttf
+f- ON£N£tfGYOISSII'ATCO
+I-al1 m i!esperhovr.
+20
+fioll'lak Radlolor.s.
+------ 'l4;.pi fcl1.
+120 I - - f -
+
+-
+
+- -"Ia
+
+-
+
+-
+
+-
+
+/
+
+/
+
+/
+
+,.,.
+
+/1
+
+I
+
+I
+
+\~\
+
+I
+
+\~;,
+\
+
+0
+
+."
+
+I
+
+,~
+
+I
+
+'0
+
+I
+
+I
+
+,:~
+"
+
+, l/
+,/
+
+~
+,
+
+,
+
+~
+
+'0
+
+40
+6Q
+I/(J
+rree AIr Spee<f-n7I/hr.
+
+100
+
+/ /
+
+I
+
+/
+
+I
+
+/
+
+/
+
+[7
+
+I
+
+/
+
+/'
+
+I
+
+'~
+"
+
+I
+
+I
+
+(-
+
+\'~
+
+o
+
+/"
+
+/
+/
+
+\\
+
+l'Yol~.
+
+.,./
+
+1/
+
+\~l\
+
+""
+
+/
+
+\\,\
+
+'0
+
+"
+
+/
+
+.
+
+-
+
+'Iz'
+
+/
+
+V
+
+1
+/
+
+/"
+
+,.,./
+
+V
+
+V
+
+V
+
+V
+20
+
+o
+
+4
+
+Plot S.
+
+8
+Ii!
+16
+Oeplh oJ'Rar:liQlor - thch~s .
+
+40 1 -
+
+1
+\
+
+EFFECT OF OEPTtf >-ONFRONT.ilL AREA
+r<>qUlr.-d olli!Omp.h.
+rloll'l al.-Rodlolor$. I -----'14- pilch.
+
+\
+\
+
+,
+\
+
+\
+
+_ _ _ .:1/8 -
+
+'"
+
+t
+
+l -I - -
+
+rronlaIA~R~qt/lr"",:
+
+In s q .J'l.p erlOO!f.P.<ft:s si.
+pale:fo llOO -r./emp ero-
+
+lure di'/ r ence .
+e
+
+--- - --1-- r- r--I-.........
+
+----
+
+I
+4
+
+-
+
+•
+
+"f'.-.
+,, ".
+, , '" ',- I'b-,
+\
+
+i
+a
+
+-
+
+- - 'IZ'
+
+'"
+
+1'1
+0/6.
+
+..
+
+-
+
+8
+
+1
+2
+
+Oeplh oJ'Radli:Jlor - Inches .
+
+16
+
+- -- -
+
+20
+
+o
+
+1'1017.
+
+4'
+
+8
+1
+2
+16
+Oeplh oJ'Rod
+iolor - inches .
+
+2'0
+
+8 .
+
+REPORT
+
+ATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+A careful distinction hould be made between radiators whose water tubes are smooth,
+flat plates and other type u ing perforated plates, or deep and narrow tubes placed in rows, one
+behind the other. Holes ill the water tubes, or spaces between them in the direction of the air
+flow, cau e very great increase in head resistance and decrease in mass flow of air; and although
+the heat transfer per square foot of cooling surface may be increased by the great turbulence
+cau ed, it i at a very heavy cost in head resistance, and with a decrease in figure of merit.
+The effect of holes in the water tubes, and of paces between them in the direction of the
+air flow is taken up later in tbjs report under " Properties of whistling radiators," in which the
+properties of six such types are given.
+PROPERTIES OF FIN AND TUBE RADIATORS.
+
+Radiators of the" fin and tube" types are characterized by high h ead resistance, and low
+heat transfer at high speeds. With the possible exception of certain compact types for use in
+the wing they are unsuitable for airplane use.
+The properties of "fin and tube " types of cooling radiators are distinctly different from
+tho e of the better cellular types and warrant special mention.
+In general, the :fin and tube types are characterized by high head resistance and by low
+heat transfer at high speeds. The low heat transfer is accounted for by the small flow of air
+through the radiator and by the large amount of indirect cooling surface. For radiators as
+ordinarily m ade, with depths of 5 inche or less, h ead resistance has been shown to be due
+principally to the impact of the ail' on the front face and suction on the rear, and only to a small
+degree to skin friction on the wall of the air passages. With the :fin and tube construction the
+effects of impad and suction are exaggerated; for each separate water tube is subjected to
+impact on one side and suction on thc other, with the result that the total (proj ected) area
+subjected to impact and suction- on all tubes-is much greater than that necessitated in a
+radiator of the same size but of cellular construction. To the effect of this impact and suction
+must be added the effect of skin friction on the:fin .
+Exce sive h ead resistance, accompanied by low heat transfer, make the fin and tube types
+unsui table for u e on an airplane where they would be exposed to a current of air at a high spe d.
+The more compact types, however- notably F -4, which has large water tubes with crimped
+spiral fins nearly touching each other- show a relatively high rate of heat transfer at very low
+speeds, w·hich justifies their e -tensive use on trucks and lower speed automobiles. Indeed
+the type F-4 would doubtles di sip ate a considerable amount of heat with convection currents
+only.
+The accompanying curves show the heat transfer (energy dissipated) for five types of core
+in terms of the m as of air flowing through the core. The heat transfer is ex.'})ressed in horsepower per quare fo t of frontal area, for a difference of 100 0 F. between the mean temperature
+of the water and the temp erature of the entering air. Mass flow of air is expressed in pounds per
+second per square foot of frontal area. Energy dissipated is also shown in terms of free air speed;
+that i , the speed of the m achine on which the radiator is mounted. Plot 3, reproduced from
+T echnical Report No. 63 , Part I, shows also the figure of merit of the r adiator, which is the
+ratio of the horsepower di ipated to the horsepower absorbed.
+The attempt to determine the relation b tween the mass flow of air through the core and
+free air peed was unsuccessful in the case of the type F-4 (with spiral fins); for the air flow was
+too small to be measured with the instrument used on the other radiators_
+In general, it may be stated that fin and tub e radiators are unsuitable for airplane use,
+with the possible exception of a type similar to F-4, placed in the wing, where the mass flow
+of air m ust be very mall (even less than for the nose position), and consequently head resistance
+is not necessaril a detriment.
+
+9
+
+PROP E RTIES OF SPE CIAL T YP ES OF RADIATORS,
+
+CltARACTCRISTICS I'CR SQ, rr.rli'OlVlJIL AIi'CA
+---r-I
+i!~/4 'deep, 15.9 sqftsurface,J? 9 7. dtrect $urfoc<" I. 71Ds. _Ir9r.
+IIt7/<'r tubes Jlhs "x sl ,,; Core .J lub<,s de<'p. TIns spaced 'Iz ~
+----r-2---2 Jl4aeep, Z50sqft.surface,2J.tJ % dtr<'ctsurfore, I.SIb. wat<'r.
+Waler tubes ' 116X sl,,: Car e.J tubes deep, TIns spaced '14 ~
+----.r - J - -4 'ls·d<'ep, 49.7sq. fl.surface,1¢.6 7.dtrectsurloce,til
+b$.waler.
+M7ter lubes '14 'round, sto9gered. r h s spoced .1116 ~
+
+/-------- r -
+
+-
+
+4 --------
+
+jSl s·deep,4J.O",!!?.fI. surloce, I(J.2 %dtrect$urfoce,ZtJID
+.waler.
+Wolerlubes JI" round,s~ered, with '1,,'heltCo l f ins .'
+crimped . rii7s n early loue Ing.
+/"
+
+,
+/
+/
+
+,
+
+I
+
+I
+
+/
+
+/
+
+/
+
+: ,/
+I
+
+./
+
+/
+/
+
+,/
+
+V V
+...........-
+
+./
+
+V
+
+/'
+
+/
+
+/'
+
+o
+
+/ '
+
+,/
+
+/
+
+I
+
+,./'
+
+~,/
+
+, /
+
+/
+
+I
+I
+
+/,./
+
+, ,/
+
+/
+
+2
+
+Plot I.
+
+4
+6
+tJ
+Moss r tbw 01A I,. • Ib$./sq.ft./sec.
+
+o
+70
+
+n:
+
+CIt
+ARACT
+CRISTICS I'Cfl Sf;,
+r RONlJIL ARL;4
+---.r -I
+2-'/4 'deep./ sq.f s urfoce,J7.9 7.dtrecl.surToc<: I.7 /bs. ~
+59
+l
+Water l ubes "
+nc:rx"l4; Core J lub~s deep. Fins spoceo' l/z :
+----.r-2---ZJI4de",p, Z5.0sq.lt. s urloce,2J. tJ 7. dti-ecl svrk 7C<!, I.Slb. woler:
+Woler lubes ,J/16xs/ C~J luhe 3 d e ep ./'ins .:spaced '/"'" ~
+8;
+
+----r-J ·- - -
+
+4 'I.id",ep,49. 7.sq. I t surroce.#.6 7. dtred sur-IoCO'. 1..5l .woler.
+b
+Wolerluoes '/4 rounct..sto9ger e d. rins spoct!!!C7'JlJiS ':
+
+--------- r -
+
+4 ---------
+
+J .s/ d.....p.4J.Osq.fl.svrfoce.18.2." dt~svrloC<'.ZtJlD.woIer.
+4
+Wolt!!r Iv bes "'Itt round,slc9ger ed. w /i'h ~c1.henco/ lins
+cri mped. rins n early fovchln9 .
+i
+
+40
+
+I-I--
+
+~
+
+/$0
+
+1--...........
+
+- ,./
+
+,,' ~
+
+,
+v
+
+,./
+
+o
+
+Plo l i! .
+
+l7~
+
+,~ -:.-;:::. ~- V
+/"
+
+...........-
+
+V
+
+~ ...-
+
+Vf-""
+
+/"
+
+V
+
+20
+
+4(J
+60
+<10
+.rrtf'e A,r Speed - /71';/17r.
+
+V
+
+I~;;~'
+
+J 'I"
+
+11
+
+Jttf.Ssq.I'tsurl'oce.
+12 ..3 'lITo (flreel ..
+
+f--+_-+
+
+7.6 It)s.empty.
+1.6 - water.
+
+/
+/-
+
+-l--li--1--i ;:8
+
+/
+
+60 ~-4-1--+--~--1---+--rr--i---+---t--~ ~
+
+\
+
+~~
+
+I
+
+~
+
+/
+
+r-
+
+~ ~ SOI--i-\I-t-+-t--t-t/-t-1 ~~.- .cO
+
+\
+\
+
+~~
+0,; \.
+
+~~
+
+i
+~ .!:l
+~
+
+.~~
+'h
+
+~
+
+0
+
+•
+
+0
+
+•
+
+/
+
+I
+
+/1
+
+1
+\
+
+---l.---- n
+
+30
+
+\
+
+-()~_
+
+. I-
+
+I-- 10 r -
+
+O\~·
+
+~~ L,.
+
+\.~. ~li
+
+/
+
+~~
+12
+
+l(
+
+J
+
+~.-I---t--J'-t--t---t--r--i
+I
+
+'\.
+.
+
+/
+
+---,.4--I--+--!---I--I4
+
+~
+
+r--
+
+~~' l
+
+.....-
+
+\ yv ,/ /
+
+ltl
+
+~t
+
+16
+
+~ 201--j1--j--\l"f--t---t--t;f--t---t--t---j <1
+
+~
+
+~
+
+~~
+
+>c.: ~ : ~
+
+/
+
+40 I---I--\j-+-t--f+--t-j ,tf3lJ:£
+
+~c:)
+
+V
+
+10
+
+~a
+
+I~
+
+10
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+PROPERTIES OF WHISTLING RADIATORS.
+
+The construction of some types of radiators is such that at certain air speeds they produce
+a whistling somid. These so-called "whistling radiators" are characterized by the following
+points:
+(1) Unusual conditions of air flow, resulting in irregularities in the relations between
+different properties. For example, mass flow of air through the radiator is not proportional to
+free air speed as in ordinary radiators, and head resistance is not proportional to the square of
+free air speed.
+(2) High heat transfer for a given mass flow of air through the radiator.
+(3) Very low flow of air through the radiator for a given free air speed.
+(4) In many cases, low heat transfer for a given fr ee air speed.
+(5) Very high head resistance and horsepower absorbed.
+(6) Low figure of merit.
+If water tubes made of smooth flat plates, continuous from front to rear of the radiator, are
+substituted for the rows of tubes of the whistling radiators described, the figure of merit will be
+greatly increased.
+Certain types of cooling radiators that whistle in an air stream show peculiar properties,
+and while radiators of this construction are not recommended, they are being used to some extent, and appear to be worthy of special mention.
+TYPES OF CORE TESTED.
+
+The whistling radiators tested at the Bureau of Standards fall into two general classes:
+(1) Plain water tubes, and
+(2) P erfOTated water tubes.
+The photographs show the forms of construction. In each case the radiator is made up of
+separate water tubes about 2 inches deep (in the direction of air flow), arranged in rows. In
+addition, the plain tube type has fins spaced 2 inches apart.
+The test sections included one of the plain tube type, designated as E-9, and five perforated
+tube types, made up in different depths, and with different spacings between rows of tubes.
+These sections are designated as follows:
+E-l, -h-inch pitch, 2 tubes deep.
+E-2, -h-inch pitch, 3 tubes deep.
+E-3, -h-inch pitch, 4 tubes deep.
+E-4, !-inch pitch, 4 tub es deep,
+E-5, i-inch pitch, 4 tub es deep.
+CA USE A ID EFFECT OF THE WHISTLE.
+
+The form of construction leaves continuous air passages across the radiator ; that is, perpendicular to the direction of the air stream. In the plain tube type these air passages occur
+b etween the water tubes, and in the perforated tube types not only between the tubes but at
+each perforation. All through the radiator there are short columns of air, across the ends of which
+air is blowing, with the result that vibrations are set up in the short columns and perpendicular
+to the air s tream. The re tuting whistle will of course vary widely in intensity and in pitch as
+the speed of the air stream varies, and conditions of resonance have very marked effects, not
+only up on t he sounds, but upon the properties of the radiator.
+By the vibrations of the cross columns, air is alternately being forced into and withdrawn
+from the fast moving stream. Air drawn out of the stream will be retarded and air forced into it
+will be accelerated, thus acting as a drag on the stream. These two effects cause a great decrease
+in the flow of air through the radiator and a great increase in head resistance.
+At the same time the very great turbulence caused in the air stream results in a high
+heat transfer per square foot of cooling urface f or a given mass flow of air through the radiator,
+and this increase in heat transfer may be so great as to counterbalance the decrease in air flow,
+but is not great enough in any case observed to overcome the disadvantage of the increased head
+resistance.
+
+PROPERTIES OF SPECIAL TYPES OF RADIATORS.
+
+11
+
+DESCRIPTION OF CURVES.
+
+The accompanying curves show the properties of the six type of radiator, expressed as
+follows (all values have been reduced to an air density of 0.0750 pound per cubic fo ot) :
+Free air speed, in miles per hour.
+Mass flow of air through the radiator, in pounds per second per square foot frontal area.
+Energy dissipated, in horsepower per square foot per 100° F., difference between the temperature of the entering air and the mean of the temperatures of the entering and leaving water.
+Head resistance, in pounds per square foot frontal area.
+Horsepower absorbed, in horsepower per square foot frontal area.
+Figure of merit is the ratio of the horsepower di sipated to the horsepower absorbed.
+Plot 1, reproduced from Technical Report No. 63, Part I, shows the properties of the plain
+tube type, E-9 . Its heat transfer is high, but its head resistance is also high, and the figure of
+merit is low. The great weight of the radiator accounts for its very low figure of.merit at low
+"peeds.
+The relation between the mass flow of air through the radiators and free air speed is shown
+for three of the perforated tube types in plot 2. For ordinary radiators this relation is linear,
+and it is practically so for the plain tube whistling type. The irregular form of these curves
+shows clearly the effect of the peculiar conditions of air flow in the radiator, the udden changes
+in slope of the curve corresponding to sudden changes in tone of the whistle.
+Plot 3 shows energy di sipated (heat transfer) in terms of ma s flow of air. The curve
+for the type E-4 was determined by interpolation,! since the water boxes had been removed
+in order to measure its head re i tance. Too much importance should not be as igned to the
+fact that some of these CUI'Ve how a high heat transfer with a given mass flow of air, for Plot
+4 shows that the highe t curve of Plot 3-that for E-3, four tubes deep, five-si:x:teenth inch
+pitch- becomes low when heat tran fer is plotted against free air speed. About 70 radiators
+tested at this bureau have been graded from "A" for very high heat tran fer for a given free
+air speed to ' E" for very low heat transfer, and these perforated tube types are graded ··D"
+on such a scale.
+Plots 5 and 6, reproduced from Technical Report o. 63, Part I, show the complete properties of the type E-4, in terms of mas flow of air, and in terms of free air speed, re pectively.
+The curves are reliable within the rango covered, but the irregular relation between ma
+flow of air and free air speed make extrapolations extremely doubtful.
+Head resist~nce of ordinary radiatOl . is nearly proportional to the quare of free air speed,
+but the irregularities in the head resistance curves of Plots 1 and 6 show that this is not the
+case with the whistling types.
+COMPARISON BETWEEN WmSTLING RADIATORS AND FLAT PLATE RADIATORS.
+
+The foregoing statement should not be interpreted as applying in any degree to radiators
+whose water tubes are flat plates with smooth surfaces, and continuous from front to rear of
+the radiator.
+The whistling types ar characterized by low air flow and often low heat tran fer (for a
+given free air speed), by high head resi tance, and by a low figure of merit; but the flat plate
+type are characterized by high air flow and heat tran fer (for a gi,en free air speed), by low
+head resistance, and by a high figure of merit. The following comparative tabl show the
+superiority of the flat plate type over the whi tling type .
+1 Types E-3, E-J, and E-5 arc each (our tubes deep, and are fivt7sb,tecnths, ont7haU, and IIvt7eighths inch pitch, respectively. The heat tr8Dl!fer for E-3 and E-S was found to be proportional to the number of tubes per (oot width of front, and this proportionality was used in interpolating
+for E-4.
+
+12
+
+REPORT NATIONAL ADVISORY COM MITTEE FOR AERONAUTICS.
+TABI, E
+
+•
+
+I. - P erforated tu be tY1Je and flot plate type of the same pitch and practically the same depth.
+E-4,
+
+E-4 ,
+
+Type.
+
+pcr(or-
+
+' I'y pe.
+
+perlora·
+ted t ube.
+
+BLed t u be.
+
+~~g~h,~~he:s:: : ::::::::::::::::::::::::::::::::::
+
+Cooling surlace, s quare leeL, per sq uaro 100L Irom ..
+Mass flow 01 air, pounds per secon d per square
+loot .. .. .. .. ... .... . .. ....... . .. . . .. ...... . . . . . . .
+
+0.5
+9. .;0
+29.5
+3. 70
+
+I
+
+0.:'
+0.7.1
+30. 2
+5. ·,g
+
+Energr dissipated, horsepower per square 100L
+per 100· f'.......... .. ........ .. ................
+H ead resistance, pounds per squaro loot..... .. ...
+Horsepower absorbed per square loot. . . . ..... . ...
+Figurcolmcrit............................. .. . ...
+
+30. 8
+6. i3
+1. 75
+17.6
+
+E-8,
+flat
+plate.
+
+29.
+3.12
+.92
+32. 4
+
+Test dat a are n ot available for a direct comparison of plain tub e and flat plate types of
+radiator of the same pitch , bu t the plain tube whistling type E-9 of three-fourths inch pitch
+may be compared with flat plate types of one-half inch pitch. It was previou 1y shown that for
+flat plate types a pitch of one-half inch i better a t high speeds than the closer spaoing , and
+th ere seems to be n o reason to suppose that a pitch of three-fourths inch would be less efficient.
+A comparison of th e two types would appear t o give an advantage t o th e one of three-fourth
+inch pitch . Two depths of the fl at plate type ar e considered, giving approximately the same
+dir eot cooling surface (not including fins), and the same actu al depth of tubes, respectively,
+as the whistling types. A plain tube whistling type H- 3, described in a French repor t, is also
+included.
+T AB LE
+
+n.-Comparison of fla t plate and plain tube radiators.
+F RE E AIR SPEED, 120 MIJJE
+
+PER HOUR.
+
+n at
+plato.
+
+T ype.
+
+F lat
+plate.
+
+E - 9,
+
+plain
+tube.
+
+--------------.------------------------------------------------------ -----
+
+Er;11'!~I~fi~ii~L:.:. :::::::::::::::::::::::::::::::::: ::::::::::: ::::: :::::.:::::::::: :::::::::::::::::::::::::.
+Mass now 01 air. ..... ................ ... .. . ..................................... .... . ...... . ....... . .............
+Energy di ssipated .. ............. . .... ... . ...... . ............ . ................. . .. . .. . ... .... .... ..... .. ..... ..... .
+H ead resistance . ... ..... . . . ...... . ........ .. ......... .. .. ........................... . . . ....... . ..... ............ . .
+Horsepower abso rbed . . .. . ..................................... ........ .. ............. ... .. ........... . . ......... .
+Figure 01 merit ............... .. ...................................................... . .................... . ...... .
+
+0.5
+16.
+61. 9
+10.33
+77.4
+17. 1
+6. 7
+11.5
+
+0.5
+20.
+SO.5
+9. 91
+90.5
+20.8
+8.2
+11. 0
+
+0. 75
+23.25
+61. 7
+8.96
+81.5
+25.9
+11.2
+7.3
+
+FREE AIR F
+'PEE D, 90 MI LES PER flO R.
+
+I fu\':.
+-~,
+
+F la t
+plato. I
+
+T ype.
+
+If
+
+I plate.
+Flat
+
+E-9,
+plam
+tube.
+
+- t~:: 1t~:r 1 ~:: - - ~g:~
+~:{~\!f~;li::::::::::::: :: ::::: :::::::::::::::::::::: ::: ::::::::::: :::::::::::::::: : ::::::::::::: : : :
+I
+CONCLUSIO S.
+
+The above tables seem to show clearly tha any increa e in heat transfer caus d by perfor ations in the water tubes or spaces between them in the nirection of air flow is at the expen"e
+of a great inorease in head resistance and is accompanie<l by a decrease in the figure of m erit.
+The same result has been foun cl in the oa e of turbulence van es in cellular racliator , ann indeed
+no type of radiator is known to this bureau in which an artificial increase of turbul ence is not
+accompanied by a decrease in figure of merit. For use in ob truoted po~itions, such as the
+n ose of the fu elage, it may be necessary to sacrifice figure of meri t of the radiator core for
+the benefit of heat transfer, but for unob tructed po itions it appears th at sm ooth traight
+air p assages through the r adi ator should be pro\ided.
+
+12-1
+
+I
+
+r-
+
+12-2
+
+13
+
+PROPER TIES OF SPECIA L TYPES OF RADIATORS.
+
+rree AIr Speed- milhr.
+100
+so.
+
+o
+
+I V
+
+I
+
+70.
+
+/
+
+70
+
+2.3'14 "deep.
+68.9 sqfl.surfo ce.
+89.S'l.o'tr ecl "
+.J910s.em ply.
+9.8 • woter.
+l'Iom lUbe Type.
+
+I-I---
+
+I
+
+II
+I
+
+10
+
+r~
+
+~
+
+o
+
+~(
+
+~~
+16 ~ ~
+
+~~
+
+I
+
+I
+
+H
+·f
+
+I
+
+12~
+
+I
+
+~~
+·l~
+~{
+
+I
+
+~ti-
+
+I
+
+I
+
+f
+
+"
+"
+
+I
+
+......
+
+I
+
+.p.p
+P
+
+,,~
+
+~~
+
+I
+
+~
+
+/
+
+fl
+
+/
+
+/
+
+(I
+
+I
+
+/'
+
+~
+
+I
+
+~
+
+.) sec/Ions deep.
+
+II
+
+SI/6pilch .
+,]7.2sq.ll surloee.
+--£-.] - 9 J /-ideep.
+4seclion:; d<'ep.
+
+J
+
+./
+
+Ii I/i'
+
+P
+
+S/16 pllcll.
+
+49.6sqfl surlocl!'.
+---£-4---
+
+,/
+
+/
+
+~
+
+-,
+
+~
+
+.~
+
+~30.
+
+I
+
+9'1£deep.
+
+,';
+
+/
+
+~ -10.
+
+4seclion3 deep.
+Ilz·pilch.
+29.5 sqJl.surlo ce.
+......... £ -5---·9 J I(J"deep.
+4section s deep.
+SI,,"pilch.
+2.5.Ssq-fl. surfo~.
+
+/
+
+/
+
+7 1 / 1/ ,
+/ 1
+
+~
+~
+
+.s
+
+I
+
+i
+
+l 7 7 .7 .
+! II: / /;
+[71 . '
+, 7
+
+~
+<\;
+
+1/ I i;~
+
+20.
+
+r!) "
+/
+
+/
+
+WhI3///'1o dk7lors.
+
+,,/
+
+F'<!rroro led Tube
+
+,,-pes.
+
+/
+
+rTf
+
+-- --
+
+•
+
+10
+
+4
+,
+
+o
+
+0.
+P/ot3.
+
+10.
+
+8
+
+6
+
+4
+2
+I'1oss now
+
+0'A/r -Ios,;sq. fl.jsec.
+
+I'lot I .
+
+II
+
+~
+I)-
+
+/
+
+"-.. ....",/
+
+~el;>J
+
+~So.
+
+I
+
+I
+
+/
+V
+
+/
+
+~
+
+I
+
+/
+
+I--
+
+60
+
+I
+
+I
+
+/
+
+24
+
+20.
+
+II
+
+f--
+
+I
+
+I
+
+J
+
+f7
+
+/
+
+I
+
+/
+
+II
+
+.
+_,/0
+
+2tJ
+
+/
+
+£-9
+
+--£-1-4 J I"deep.
+2 sec lIOns deep.
+SI16·pdch .
+2S.o.sq.fl- 5ur loee.
+--£-2-7.318-<1'....P.
+
+2
+
+tJ
+6
+4
+Moss now ofAir -los.lsqfl. /se<:.
+
+10
+
+so
+
+I
+
+I
+
+!---I
+
+--£-1--
+
+*
+
+SI"'"P~':!!.fs!!.c1~_deep.
+
+/
+
+8
+~ J - -f - - f - s/~~~~:~,;.s~c;~~~::P. I-+--f-~
+'Iz pilch 4s~ct;0rJ.5 ~p .
+Whl$llin? !foo'tolors .
+r>~rforoted lUbe .ypes.
+
+~
+
+?,6
+.:.;
+I
+
+.~
+
+.
+
+1--I--!- --1
+\-. -
+
+-~
+/
+~ 41--+--+--+--+-+.-,..,--1Vhr'::....b>-<~+---+----1
+~
+
+/
+
+~-·V
+~
+~
+"'I)
+~2~-+--+--4~;~~~~~~~~-·---+--4--4
+
+/'1012
+
+20
+
+r.:...~r~·40.
+
+60.
+
+rr~AirS~M-m//hr.
+
+V
+
+V
+
+Ie - 1
+4JI.id~ep. 2 sec/ions cf~~p.
+S/IIJpilch, 25.0sq. fl.surfoce.
+--.--.£ - .3 ' - - - r9.1/·; deep,4.sec lion.s deep#
+
+~
+
+o
+
+)7
+
+! II
+
+--
+
+~-+--~--~-+--~--~-+--~--+
+
+..
+
+v/
+
+St;tt!jg~:!~t::/r:::;e'l--
+
+(10.
+
+100
+
+o
+
+Plot 4 .
+
+i'O
+
+60
+40
+rreeA"ir Spewd-m ./hr.
+
+80
+
+100
+
+14
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+60
+
+..
+
+e4
+
+U
+
+9'/.e~deeA- C"-4
+4sectionsdeep,
+'/zpdch. 29.SsQ. IZsur/oce:
+Perl'oraled lUbes.
+
+I
+
+i50
+
+J
+
+cO
+
+~.10
+
+..,
+
+/
+;:::
+
+/
+\
+
+/6:::: ~
+
+~t
+
+/
+
+1\
+
+\
+
+~*
+~~
+
+/
+
+Ie
+
+V
+
+>--JLpyll
+t-- {,V,
+
+~7
+
+~~V
+
+8
+
+"'-
+
+4
+
+_~ ~ &Y
+
+~~
+
+~tl.:
+:::::~40
+1$.'
+~~
+
+~~
+
+'" \~ /
+
+o
+
+'Q '~
+
+~
+
+:h
+"',
+
+2
+
+4
+
+6
+
+8
+
+~
+
+~e~·
+
+"
+~
+it 10
+
+II
+
+o
+
+,01016.
+
+20
+
+---I--
+
+V
+
+l--t:JbS
+~
+
+40
+
+/
+)::/
+
+i'
+
+t>.~
+
+o
+
+10
+
+"&~ /
+"~
+
+IL
+
+('~
+
+G:~eO
+~~
+.s~
+
+./
+
+l'7ossrlowofAir -Ibs./sq.fl./sec.
+
+/
+
+\
+
+:t~
+,~
+
+l--~rI~
+,01015.
+
+Ic
+
+II
+
+~ ·!!-jO
+
+h
+'\)~
+
+20
+
+~~
+
+U ~*
+.~ ~
+
+C"-4
+
+U ,/;[deep, 4sedions deep,. 1
+'/i>.'plkh. 29.5 sq. fl.surfoce.
+Perroroled Tubes.
+
+V
+
+60
+
+V
+
+80
+
+4
+
+o
+
+/00
+
+Tree Air Speed - n"jllr.
+
+EFFECTS OF YAWING AIRPLANE RADIATORS.
+
+Different r adiators how different effects on being inclined at an angle to the direction of
+the air stream, but in general the r esults (for angles up to 30°) are as follows:
+. (1) Decrease in air flow through the core;
+(2) Increase in head resistance;
+(3) In some ca~e slight increase in the heat transfer, for angles up to 20° or 25°.
+Wind-tunnel te ts on radiators for aeronautic engines have usually been made with the
+face of the radiator normal to the direction of the wind, so that although local eddies might be
+set up, the general direction of the airstream was straight us it passed through the radiator.
+If the axes of the air pa sages are inclined at an angle with the general direction of the ail'
+stream; or, in other words, if the face of the radiator is not normal to the air stream, the properties of the radiator will be somewhat changed, and it is the purpose of this report to show the
+general form of these changes.
+The effect of inclining the radiator at an angle with the air stream, or yawing the radiator,
+is of interest in connection with the following conditions:
+(1) Radiator mounted in the propeller slip stream, where the air strikes the radiator at
+other angles than normal to its face .
+(2) Radiator mounted in any position (such as the wing) where the axes of its passages
+for the air are not parallel to the direction of motion of the plane.
+(3) Radiator pivoted about an axis perpendicular to the direction of motion of the airplane. This construction represents one method that has been suggested for the regulation
+of cooling capacity.
+The effects of yawing a radiator through angles from 0° to 45° fall into three classes, namely,
+the effects on (1) air flow through the core, (2) heat transfer, and (3) head resistance.
+( 1) EFFECT ON Am FLOW THROUGH THE CORE.
+
+For ordinary types of radiator the mass flow of air through the core is directly proportional
+to the free air speed (that is, to the speed of the air stream in which the radiator is placed)
+when the face of the radiator is normal to the air stream. MeasUl'ements of air flow have been
+made on two sections in yawed positions and the results obtained with one of the sections are
+shown in Plot 1, which indicates that the relation between mass flow of air through the core
+and free air speed is still linear .between 30 and 90 miles per hoUl', but the line points below
+
+(
+
+15
+
+PROPERTIES OF SPECIAL TYPES OF RADIATORS.
+
+15~
+
+the origin. The two types tested are of square cell construction, about one-fourth inch in
+diameter.
+A similar effect, but much more pronounced, was observed in the case of a single type of
+core when in its normal (not yawed) position. The r e ult of this te t is also shown in Plot l.
+This type, which is the type G-4, of Technical R eport No. 63, Part I, i made up with irregular
+shaped cells inclined at an angle of 41-° to the normal to the face, alternate rows of cells being
+inclined on opposite sides of the normal It is illustrated in the accompanying photograph.
+The type G-4 and types that whistle in the air stream are the only radiators noted in which
+the air flow through the core is not directly proportional to the free air speed.
+(2) EFFECT ON HEIlT TRIlNSFER .
+
+No tests have been made at this bureau to determine the effect of yawing the radiator on
+heat transfer, but a French report mentions a section (type not specified, but probably cellular)
+which showed an increase in heat transfer as the angle of yaw increased from 0° to 20° and
+then a decrease, bringing the heat transfer b ack to its normal value with an angle ~f about 40°.
+The maximum increase over the normal value was I1bout 7 per cent. The French report further
+states that" with radiators of water-plate type the increase in heat transfer is not s o clearly
+shown, but the decrea e in effectiveness is hardly perceptible below 40°."
+A British report states that three honeycomb types, each 12 inches square, showed a maximum increase in heat transfer of somewhat over 20 per cent with angles of yaw of about 45°.
+A large honeycomb section with 4.8 square feet frontal area gave a maximum of about the
+same per cent at 25°.
+(3) EFFECT ON BEAD RESISTA CEo
+
+This effect has been treated in Technical R eport o. 61, Part I , "Head resistance of radiator cores," and the accompanying curves are taken from that report.
+Plots 2 and 3, for one-fourth inch square cell (No. 81) and three-eighths-inch elliptical cell
+(N o. 73), respectively, .are given a typical of ordinary cellular types. The head resi tance
+increases rapidly with the angle of yaw up to at lea t 30°.
+Plots 4 and 5 are for special types which show the variations in the form of the curves.
+The type No. 80 has spiral air pas ages, and its head re istance shows very little change for
+angles up to about 30°. The type No. 79, shown in the photographs, is the type whose
+peculiar air flow is mentioned above. This shows a large increase in head resistance with
+increase in angle of yaw, and in particular it how a very sudden increase with small angles.
+10
+
+I
+
+I
+
+I
+
+I
+
+-
+
+H9S/
+- - 0 - - - Rodtolor normal
+
+_
+
+-
+
+10oirslreol71.
+
+lIC -Yow /2'/z·.
+
+_........ _. "
+
+Z5~
+
+(;-4
+
+-
+
+------ Rodiolornormol
+to air stream.
+
+~f;
+
+I
+
+If,
+'-"'
+
+b
+
+lL
+
+e; /,/
+./V
+
+A t;:'
+~/
+
+.d '.?
+
+~'
+
+/
+
+/
+o
+
+V
+
+PIOI/.
+
+/'
+
+V
+
+V
+
+,/
+20
+
+40
+
+60
+
+Fre~Alr.5peec'-'"/:/l1r.
+
+80
+
+I(J()
+
+16
+
+REPORT NATIONAL ADVISORY COMMITTEE F OR AERONAUTICS.
+
+r\
+
+-
+
+~
+
+I
+
+'\ 90mi. I I'r. 1
+1
+
+\ [7/
+'\
+
+~
+
+1\
+
+~
+
+8
+
+'\ 75mi. /hr.
+
+-
+
+/
+I
+
+'"
+
+«IJml:
+
+N~80-SPIlft:X
+
+IZ ·:.o.: Z4 -X.3 "/a ~
+
+V4 " S<1~ore
+
+II--
+
+O~-4--~--+---~-4--~--~--~-4---r~
+
+c ell
+
+60mi/hr.
+
+IZ " XI6 . X.3 J),, "
+
+I-
+
+V
+./'
+
+r--...
+
+~
+
+Nt;! (JI
+IWM£-TU!?N£Y
+
+/
+~ 60mi /hr. 1
+I ~l/
+
+- r- r---....
+
+V
+
+/
+
+~
+
+\
+
+~
+
+6
+
+4
+
+/
+
+,
+
+!.--- I--
+
+Ihr. V
+./
+
+;;;.;:::::: JOmi. /hr. I----
+
+l
+
+'-
+
+D
+
+ZO
+
+0
+
+\
+1\
+" 1//
+301'111:
+
+IZ
+
+1
+\
+
+\
+
+"
+8
+
+1"'-
+
+6
+
+1
+
+D
+hotJ.
+
+/hr.
+
+N9 73
+SPA./?I(S -WITtfIN6TON
+..)/8" e lliptical
+
+C~/I .
+
+IZ"XIZ·· X.3Vz "
+
+/
+
+75m,:I/hr.
+
+~7
+60mi
+
+V
+
+I/hr_
+
+/
+
+~V
+
+'\.
+4Sm/
+~ }... /hr. V
+
+'"
+
+An;le "t' YG''''' ( 0)
+
+f'1l1f " .
+
+II
+
+\.
+
+10
+
+4
+
+OL-~4O~-L--~ZO~-L--~O---L--~ZO~-L--~40.--L~
+
+40
+
+ZO
+
+An9/e of Yaw (oj
+
+Plot 2 .
+
+"
+~6~-+--~--+---~-+--~--+---1---+---r--- 1
+.~
+
+1/
+
+~
+
+~4L--+--~ · -+-.--~~--~--+---~-+--~---1
+-~
+
+~
+1-
+
+I'----..
+U
+
+/'"
+JOml.
+
+Ihr.
+
+J(Jmi·lhr.
+
+-
+
+V
+
+0
+14
+An'll/!! 01 Yaw- (0)
+
+O~-40~~L--l+'O~-L--~p---L--ZO~--L--4O±'~L-~
+Anglt! "t' Yew (0;
+
+41J
+
+Plol5 .
+
+o
+

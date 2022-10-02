@@ -1,0 +1,680 @@
+.
+MUFFLERS
+
+REPORT No.10.
+FOR AERONAUTIC
+
+BY PEOF. E
+
+DIEDEEICHS
+
+ENGINES.
+
+and PROP. G. R UPTON,
+
+w CCuneummwlty.
+
+q
+
+99
+,
+
+q
+
+REPORT No.10.
+MUFFLERS
+By PEOF.
+
+FOR AERONAUTIC
+
+ENGINES.
+
+H. DIEDEEIOHS kLOF. G. B. UETON,
+and
+Of COTIW
+
+Unimr8ft#.
+
+L TEE PROBLEM.
+The necessity for muilling the exhaust of ahmhme emines is
+OpeIl t:
+e.ut.
+The
+objects in vie-w ar&” he mi%nizh
+t
+7
+of no~ to dela T eteetion in military wrvice, to protect the genera
+puMic, pmtic u?arly those living new aviation fields, and lastly to
+give the o erator a better chance to know what the r~ of his ower
+pIant is z oing. The last point is perhaps even now of Iit? e im~ortance, as au exhaust pi e long enough ,to end behind the operator
+IS quite enough to make t. exhaust noise less promirmt. than some
+%s
+other rackets.
+A study of the gmeral problem of sikncing the airphine power
+phmt, not onl in the laboratory but also by mof observing
+airplmesinzi~ge
+n@rof
+jlights#asledto
+mrtainconchioq
+the tit phme the exhaust
+none of which are, however, new.
+noise is not the only disturbance to be dealt wi~ zdthou h perhaps
+the most important, because the staccato barks of open ex%met carry
+to greater &stances than the other attendant nok
+It is, however,
+not a matter of great dMiculty to so far suppress these barks that the
+exhaust noise ceases to be the most rominent in rekdiion to some
+others. As a matter of fact, a simp1? pipe of sufficient len
+e
+will
+do this for the high-speed multicylinder enginq and we un Perstand
+that some hmrican and German pkmes are uwng this scheme. It
+serves at least to protect the operator, even if it does not go a great
+way toward actually suppre&ng the pulsations as far as an observer at a distance is concerned. The very fict that the impulses
+follow so rapidI upon one another seems to make the problezn of
+taking off the U; ark” easier, for we found it much harder to mu5e
+single-cyIiuder slow-speed _.
+Assuming, however, that a successful device for completely muffiing the e@aust can be found we should still have to deal with
+other noises such as the hum oi? the pro eller, the singing of gears,
+and the rat~e of the valve gear. It will %3admitted that all of these
+sources of noise can be mimmized, but elimination does not seem to be
+in the reahn of possibiliq.
+On the 8-cylinder engine usd for our laet experiments the propelIer of the fan brake caused a deep, more or less musical note,
+which ap ared to come from the crank case. This noise disappeared w r en the blaiks were removed from the fan q
+and the
+engine was operated at speed under its own power, swinging only
+41
+
+. hardy
+
+—
+
+42
+
+AERONAUTICS.
+
+the arm. The same sort of humming note can be identified in connection with planes in flight at considerable altitudes and distances.
+To silence tlus disturbance presents a problem on which at present
+the writers have no suggesho~ except that slower speed (geared)
+propellers might heIp...
+&other source of noise is in the valve gear. In the case of the
+engine under test this consisted in a sort of rattling hiss at high
+eds It can be easily identified when the obser-rer is close by.
+Tn lanes of flight at some distance from the observers the noise
+wo $ d appear tmbe drowned in the exhaust roar and in the hum of
+the propeller. In any case this disturbance can be minimized by
+accurate adjustment. But it is dMcult to see how the valve slap can
+be entirely eliminated.
+The last source of noiw is in the gears. This can be partly suppressed at least by the use of spiral gearing and by accurate machine
+work and mountmg.
+These four sources of noise are the principal ones requirin attention. We would place them in order of importance: (a) l!!xhaust r
+noise, (b prope~er noise, (c) valve-gem noise, (c?) ear noise. We
+believe t 1! it is most important to su press the S4 aust noise, beat
+cause its staccato barks will undoubte1ly adver~ise the rising of a
+plane sooner than the other three b reason of As water carrying
+wer. But the problem of the oti er noisw remams; and we are
+K rther of the opinion, based on our experience in the past year, thtit
+the exhaust noise can be so far suppressed with comparatively simple
+means that itiforms the mnallest source of the ihsturbance of th~
+four. We will not ~enture to predict complete aup~ression. Amy
+muiller construction in connection with its manifold wdl have to take
+in some one of ita parte the full force of the original blow, and since
+lightness of construction is one of the requirements calling for thin
+-walls the chances are that there will always be more or less of a
+puhiating roar, at least near the engine. We have so far not reached
+the eta e of considering this part of the problem.
+Co n& ing our attention now to the articular problem in hand,
+the silencing of the exhaust, a successL device will have to meet
+three requirements: (a) Satisfactory my ression of noise with least
+back ressure, (b) Ii htest possible wel&t, (.) greatest durability.
+For t f e last year we f ave.confined our attention to the first of these,
+believing that the other two could be successfully met if the first
+requirement were satisfied.
+II. PRESENTDEVELOPMENTOF MUFFLINGDEVICES.
+The state o.f erfection at rwent reached in the muffling of autoengines is well L! OWL As ? ar as this pr~blem is concerned, it may
+be consid~red. salved as regar+ suppression of noise. Not a greatdeal of sae?tdic data are avadable. Some tests were carried on at
+the Univerdy of Michi n, an abstract of the.re ort being published
+in the Horseless Age for% ay, 1915. Five types o $ mufllerswere tested
+and invwti ted as to back prwsure, horse~wer 10ss, and rnuflling
+ability. O r the five, the cme given the lughest rank on all three
+counts has the construction shown in figure L The engine used was
+a nominal 25 horsepower automobile engine (Hudson 6-54, 43 by 5*
+inch~), the ted sped ranging from 750 to 1,300 re~olutions per min-
+
+AERONAUTICS.
+
+4s
+
+ute. At the Iatter speed the brake horsepower reached 40. The
+mutlier weighted M.5 ounds, which is equivahmt to 0.36 pound ~
+horse owe!, based on ti e maximum power, andhad a vohnne ca acnty
+of 84{ cubm inch- -which is approximatel~ nine times the o-y“ der
+L
+displacement. All of the other muftlers w
+ed more, so fiat 0.36
+pound per hompower may perhaps be consi ered the present mini%?
+
++--————””——————+
+
+FIG. L
+
+mum in automobile practice. This is a feat% however of not as
+great importance as it would be in airphme practice. Tkis mtier
+showed a back pressure of only slightly over 1 pound at the maximum speed, the 10SSof horsepower being only 1.4 per cent at the
+maximum. For automobile practica this must be considered an ex-
+
+I
+
+II
+
+I
+4!—
+
+OP#w!.vs
+
+Fr6. 2.
+
+We were fortunate enough ta obtain the lea? of two muillers
+ecially designed for an 8-cyIinder V-@pe en
+e and commercia y
+Y
+manufactured. The sma~er one of these m3? ers is intended for a
+single cyiinder and G 5 inches in diameter b 12 inches long. It has
+shown in fi~e
+2. The ?’
+arger one, ~~d~
+for
+the COI&rUCtiOn
+four cylinders, is 5 inches in dmneter and 28 inches long. The inter-
+
+DRONAU!lX4Y&
+
+44
+
+md construction is probably made up of a multi licdion of the elerneuts of the smaller muffler. Both of these mU&
+era were tested by
+connecting them direetl ta the ends of the side manifolds by rnemns
+of slip ‘onk
+Speed 2 anges were noted by forcing the mufflers on
+and puli ing them off by hand. This method of testing puts a heavier
+load on the smaller mufller than it is deskned for. but since we did
+not have eight of them this was the onl m-ethod availabl~
+The tests on the smaller mufllers reJ ted as follows:
+Bfickmm
+
+‘TIg
+
+~$~~g
+‘
+
+Xmlmeia.
+ThrOwe pc61t10n SCaIfh
+on
+
+sped
+
+drop.
+
+Brck
+E%#
+
+off.
+
+on
+0
+0
+o
+
+$“...... ........... ...... ...””-””
+. . ---..-..---.----.. -.” .. ..
+8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+OK.
+
+Rwc4a-
+
+on
+
+0..86
+1,!%
+A
+1, s7
+2
+
+tionll Per cent.
+Mlnuf%
+azs
+
+1,%
+1,148
+
+0
+0
+
+l%
+
+o
+: 6!4
+
+7
+
+-
+
+ThrottIe pdt.bn on fide.
+3PZ’
+
+Ioff.1on.1
+=8
+48.4
+6Q8
+
+4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8. . . . . . . . . .. . . . . . . . . . . . . . . . . . . .
+
+o
+0
+
+%.8
+&:
+
+L6
+
+—
+
+The larger mufller gave the followinfpemlts:
+BackgE2sE2s~
+‘m
+Throttle pdtion
+
+~
+
+‘&‘R%Rw’uti’
+~
+
+S*
+
+on WaIe.
+
+E&%
+of?.
+
+4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+::::::::::::::::::::::::::::::::
+
+0.m
+.026
+o
+
+on.
+0.04
+i::
+
+Bmk.a.afa’weq
+
+Throttle podtlca cmscale.
+
+off.
+
+On.
+
+w%
+iii%
+
+h--l
+
+Phwer:t
+ymm
+
+off.
+
+428
+k::::::::::::::::::::::::::::: !X.8
+72.1
+8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+on.
+
+%8
+
+Per olmt.
+t&iC#u
+j
+r, ~
+
+a08
+
+o
+
+4.0
+
+2!
+
+1,48
+
+,140
+
+Brake mean effectke
+presure {poundqpec
+k!qume inoh), mllfUere.
+
+Ou.
+
+on.
+
+ys&f
+13imw-+u
+P~
+
+-
+
+o
+
+H
+
+~wdu
+.
+
+,%
+
+-+
+
+drop,
+
+k:
+
+It will be noted from these figures that, in spite of the une ected
+load, the smaller mutllergives the better resuhk. & a matter ? fact,
+o
+the horsepower 10S at rated output for the larger mufiler is prohib-
+
+45
+
+URONAUTIOS.
+
+itive. On the other handl serera~ observers @&ed that the Iarger
+muflier more e.electivelyqmeted the exhaust nome. The two, however,
+are so close together regarding this point that it became W%cult to
+judge of the &fference in connection with the other noises. Our conchmon is that both mdilers are good with resyect to uieting and
+that the greater eficienc~ of quieting in the Iar er mu3?er is bo~ht
+at too great an increase m the back pressure. $ e hare no hesitation
+in saying that the smaller mfler is as good a schtion of the problem
+as we have yet seen.
+III. T3E EXPERIMENTS.
+Experiments -withdevices constructed by us were carried out partly
+on a. singIe-cyIinder slow-speed machine, partl on a 60-hormpcrwe.t
+4-c linder kkirn engin~l and lastly on an
+L- der Curtis engine.
+h e principle underlying the action of m “ g is simple. At the
+%
+moment of opening of the exhaust valve the pressure conditions are
+such that the gases issue at mlocitks of approximately 2,000 feet per
+second. The problem is to reduce this velocity ‘beIow that of sound
+~~~k~o~~e~er second) without causing undue back pressure. The
+exhaust is due to the ming of the gases at mlocities higher r an that of sound, and the main disturbance is suppressed as soon as the ~&locitiesare brought below 1100 feet per secend. The means at hand to accomplish this are: a) Ckding of the
+gases to reduce volume, (b) gradual expansion, (c\ internal frktion
+and eddy currents in the gasl ~d (d) frictional resistance bet-iveen
+gases and containers and bafk
+Of these the first mentioned is
+practically n ligible, as the degree of cooling can not be great in
+5
+the time availa le.
+TO bring into Ia the other three means would require a construction having the !03 owing essentials: (a) An mtra.nce chamber se-reral times the cyIinder volume, to allow of the unrestricted transfer
+of the ~ases from the cylinder to this chamber, for the purpose of
+pre-wntmg undue back pressure, and (b) one or more expansion
+chambers so provided with bdlles as to break up the gas currents in
+such a manner as to cause decreasing ~e@ity by means of both expansion and friction.
+& far as application to the en “ e is concerned, three solutions are
+ossibk. The &t is to use in%?
+“viduaI mtiers for each cyIinder.
+$ his ~heme at first sight @ a good deaI.in its favor, but n on
+analy= se-remdprohibiti~e disadvantages wdI appear. h. the A&4
+place, there is no doubt that, sa~, 8 snd mufilers will vregh more
+than 2, each taking care of 4 c Imdem Ih the case of the commercial muffler above mentioned, ti e weight re~ation is 15 pounds for 4
+individual mtiers to 6 pounds for the singIe muftler doing about
+the same work Further, the adrantage that a 4-oylinder manifoId
+wiII in itself act partl as a mutBer is lost, and we vvould have the
+individual bark of eaci @rider to deaI with. And, fiaIIy, where
+the scheme had been tied k w-asfound ve~ diilicult to properly stay
+so many muillers as to ~revent dangerous mbrations.
+The second scheme IS to combine manifold and nmfiler, i. e., to
+internal$ construct the manifold to convert it into a com Iete mufsight; but in o rl er to pro.
+fir. This. scheme aIso Iooks good at first
+tide dcwnt
+vohum a mamfoId so constructed would be of large
+
+.
+
+—___
+
+.
+
+--
+
+—
+
+46
+
+A.ERONAU~&
+
+diameter, since the latial distance between cylinders is restricted,
+and it is a question whether it is desirable to place so large a heatradiatin surface next to the cylinders and the structural members
+of the p7 ane. The question of adding weight at that height from
+the base to the side of the cyIindera is aIso of importance with relation to possible excws-ive vibratiom We tried one scheme of this
+kind on the Maxim engine, as below noted, but with doubtful success.
+The third scheme is to use a regdar manifold and to connect this
+by means of flexible hose to the mtier pro er. This allows of any
+convenient lacing of the muftler with re?erence to engine and to
+operator. A e len h of exhaust hose is of no importance consistent
+onl with low bacF pressure, and, given this a considerable length
+of z oae or pipe is a ~ositive help to the mu~er. We believe on all
+counts that this combination is the best sciution.
+The fist experimental construction embodied the idea of making
+the entrance space a Centrifugal whirl chamber in which the gases
+were to lose part of their kinetic ener~ by mutual interference
+before passing out through hoIes or slots m a central pipe. It vms
+made up out of a 4-inch tee, the side branch o! which was ~pped
+and the cap then bored and threaded for the l+mch exhwst pipe, of
+a 6-horsepower oil engim” The opening from this pipe was placed
+eccentrically in the cap, so that the gentered the 4inch tee tan-~
+gentian . One of the strai ht-run o~qn.mgs o: the tee was Iuggyd,
+%
+while t Ke other w-as bushe to receive a 1~-mch pipe. +’he pipe
+could be extended varying distances,igto the tee by a long thread.
+Tests were made with this central pipe not perforated in any w?y,
+but open at the end. The best reaultk -were found when th~ lpe
+extended to within + inch of the op oste plug. Later the en% o~
+the central pipe was plu~ed and t{ e pipe perforated with holes,
+a second one was then treed rforated with slots. In these cases
+the g% after whirling arounr in the .&amber found its wa into
+the central pipe through the holes or. sIots anA So on out. i 11 of
+these devices were only moderatdy successful and did not seem to
+promise much.
+It was then thought de.sirable to improve +e entrance conditions
+to the whirl chamber by gradual~y br~deru~
+the entrance pipe,
+thus introducing the gas tangentially m a mde band. Figure 8
+shows the construction. Three concentric central pip% a 4-inch,
+a tl-inch and a 2-inch were used, the lattgr being open to the air at
+both en~
+The central ipes were slotted, the 4-inch and S-inch
+ipes as in fi~re Vat tEe Zinch pip as in figure &b. It was
+r ound that the direction of the slots m the inner pi~ caused the
+gas to move out of one end of the pipe, creating a d~tinct suction
+cm the other end. This device ehovr@, up much better than the
+crude first construction. It was estimated to cut out 80 per cent of
+the noise. Back-pressure readings -were not taken, as we were as
+yet mainly interested in noise reduction.
+The succew of this device on the particularly vicious bark of the
+oil engine on which it was used led us next to construct a combined
+manifold and muffler of this type for the ~faxim engine. The main
+features of this muffler were: A.n expanding, flattened nozzle from
+s tangentially into the shell, a common
+each cylinder to lead the
+annular chamber between t e largest insded pipe and the sheIl into
+T
+
+AERONAUTICS
+
+47
+
+which the exhaust from all cylinders &t entered, a series of four
+pipes 2, 3, 4, snd 5 inch, with perforations ~ arrangd- that the gas
+must &t pass through the wtdl of the 5-Inch pipe n a slanting
+direction, and having attained a certain velocity m this direction
+must turn and pass th.rou.ghthe 4-inch in the opposite direction bes. bother turn was neqry
+to pass
+cause of the sIotted op
+through the 3-inch, andY
+fins y through tha 2-inch to the atmos~here.
+We did not succed in
+tting a very good idea of the action of
+this manifold mrdller, as tr e Maxim engine, which had been loaned
+us, was recdkd.
+The trial run made promised fairly well, but the
+end joints between the pipe were not tight and considerable gas
+escaped. & built, with a cassiron jacket, this mdler proved esceechngly heavy.
+
+.—
+
+.-
+
+.—
+3b
+
+We have not done anything more with the manifold mfle~
+but
+intend to try out one or two other ideas, which, hoverer, hare so far
+reached onIy the design stage.
+The last work was done on-an entirely di&went type from thet
+above described. The underl
+idea in this typ is to provide an
+am le receiving chamber, and
+%
+n as the gases work toward the
+ouJ et, to promde gradually increa.tig resistance, until the pulsations are toned down and the gas &es in stre~
+of f airly eotiant
+velocity at
+@
+bebw that of wind.
+This should substitute for
+the bark a %ss like that of esca ing steam of low =
+~~
+might be pointed out that the wd -known W&n mU&
+chamber is
+generaI type. Only in this mufller the circular recei Y
+foIIowed by an ammlar space surrounding the former, w “ch space is
+acked with baf3e @ates of spiral form. The ~aes here be ve?ocity by internal fr~ction and surface friction. ho attempt is made
+to utilize the idea of a gradually increasing resistance to the flow .
+toward the outleh
+
+— ——
+
+——
+
+———
+
+48
+
+&ERONAU!MCS.
+
+The scheme was tried out on the 8-cylinder Curtiss engine, Two
+manifolds of lightweight steel were cross connected by another manifold, so that we finally had a sinde discharge and only one experimental mufller had to be built. The construction of this is shown
+in figure 4.
+We adopted for this ~utller the prismatic form for two reasons.
+In the first place, it is easier to construct than the circular form; and
+secondly, we beheve that this form may have some advantages o-rer
+the circular form for stowim away on an airplane. The essential
+features are as follows: Gra f urdl~ expanding entrance nozzle ~, a
+receiving chamber B, two expanding and retarding chambers C and
+
+T
+$
+
+.-
+
+[
+L’-FIG. 4.
+
+D. About half of the two expansion chambers are filled with closely
+packed wire gauze of decremmg mesh, in the following order going
+toward the outlets:
+Layers.
+3+ inchesof 2 meshsa per fnch ---------— 28
+23 inchesof 3 meshes fnch
+per
+_______
+—26
+—-—
+2?$
+2 inchesof 4 meshes inch
+per
+_____
+1+fnchasof 5 meahm inch_______
+per
+-——
+ls
+20
+-—
+la inchesof 8 meshes Inch-----——
+per
+.—.
+—
+2s
+1 inchof 12 m~heaper inch----------—-—
+This muffler was connected to the outlet of the cross manifold by
+a short piece of flexible metallic hose and in parallel with a quickclosing gate valve. By this means the exhaust could be instantly
+changed from mu@er to open air and back again, A+ electric
+tachometer, carefully calibrated, was used to nok-hanges m speed,
+and the back pressures mere observed by means of mercury manometers connec~d ta the side manifolds near their connection to the
+cross manifold.
+Trials with this mutller showed the following:
+(a) The application of the side manifold and of the cross manifold alone served to tone down the barks considerably, The back
+
+AEEONAUTIOS.
+
+49
+
+~ressse
+observed with only the side manifokls was negligible and
+with the cross manifold showed about 0.3-iuch Hg. at rated output
+of 70 horse~ower.
+(b) The-a plication of the mufiier raised the back pressure only
+%
+about .. . O.1-inc Hg., which is a very good resuk. The power km is
+negEgible.
+(c) & far as mding is concerned, three observers judged that
+the exhaust noise was cut out to the extent of about 50 per cent.
+We believe that the mutllirw eticiencv of this construction can be
+improvedl and -wehave alrea~ started lo -work out an improved d+
+si=gn. The virtual absence of %ack pressure is the most encouraging
+feature. Objection has been made to this desi~ on the score of carbon clogging of the tie gauze. OnIy a sermce run of some hours’
+duration can pro-m this point.
+At present -ireha-ie not used any quantitative schane of nudging
+degree cif noisesj but htme de ended upon Several indepen dent ob1
+ser~ers. This scheme is not -w oily successful on account maid of
+the other noises present beaides the exhaust. & a matter of f act,
+to get any idea at sII of this matter in connection with the Cur&s
+engine, it became necesary to extend the pipe throu h a window and
+to place the mtier outside of the building. In t f e Thrkwsity of
+hlicbigan tes@ abo-ie quoted, besides using independent observe~, a
+telephone was used, the observer in a room some distance away noting
+the distance between himself and the telephone at which he faiIed to
+d@nguish the exhaust noise. The receiver was placed near the ene. What such a scheme wouId show in our cass is problematical,
+r ut we intend to try it out the coming year. We wish gratefull to
+ackuowkd e in this connection the active heI of Profs. V. Il. L
+and C. & % eirce, of the Sibley College fac 3 ty, aud the a&stance
+and facilities suppIied by the Thomas &romotor Co., of Ithaca,
+If. Y., and the Curtiss &ropIane & hfotcm Corporation, of Buffalo,
+K. Y.
+Further experiments wiII be made on this type of muftler construction and the determination of the laws affecting feed back ressure
+power loss me aIready being inmkigated and wiU be the & ject of
+a future report.
+728050-s. Dec.559,w~
+
+—
+.—
+
+—
+

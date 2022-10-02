@@ -1,0 +1,397 @@
+	
+
+7
+— 1irv
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+CASr :TE
+cc
+7:
+
+2'7.
+
+TIN SOLDERING OF ALUMINUM AND ITS ALLOYS. 
+By
+Prof. Gino Gallo.
+
+Trayislated. from
+T Rendicont j. deli' Istituto Sperinenta1e AeronauicO, ii
+February, 1921.
+
+L
+0.
+??iv-j
+Ito	
+bOual
+
+October, 1921. 	
+db
+pC
+
+NM
+
+TIN SOLDERING OF ALUMINUM AND ITS ALLOYS.*
+By
+Prof. Gino Gallo.
+As is known, aluminum and its alloys can only be welded autogenously or by other very special means, with recourse to fusing
+and the interposition of alloys with other metals.
+Aside from the fact that the autogenous weldings of aluminum
+and its alloys have intrinsic defects inherent in their nature,
+like blow-holes, blisters, etc., they cause a deterioration of
+the mechanical properties of the metal and, In the event of the interposition of other metals, the latter become the seats of electrolytic reactions, with continuous and rapid change, in addition
+to the othr important circumstances that these weldings are only
+possible between pieces of the same metal alloy and are therefore
+impossible with other metals. Consequently the field of application of the light metals is necessarily much restricted.
+The author considered the possibility of rendering general
+the joining of the light metals, by having recourse to soft
+
+sd-
+
+dering with tin, as practiced with all the other metals.
+But, as every one knows, aluminum cannot be soldered in this
+way, since tin, or the alloy of tin and lead, will not adhere to
+* From "Rendiconti deli' Istituto Sperimentale Aeronautico,' 1 Febrary , 1921, pp. 43-50.
+A recent article by L Guillet and M. Gasner, published in the
+"Revue de Metallurgie," (Vol. XVII, 1920, p. 351) on nickel-plating
+aluminum, influenced me to publish the present article on a process patented by the author in 1916 and which, in its fundamental
+part, was inspired by the same principle as that adopted by the
+above-named authors.
+
+-2its surface. On the other hand, in order to render possible in
+every instance, the replacement of steel or of other heavy metals
+with light metals, it was necessary to find the method for
+
+joining
+
+with soft solder the various members of different structure, which
+are now employed especially in technical aeronautics, without recourse to profound modifications in the fundamental principles now
+serving as the basis for such constructions. Herewith, it was
+possible to obtain automatically any considerable reduction in the
+dead weight and consequently much increase in the efficiency of
+the airplane.
+The method adopted for solving the problem consisted in the
+galvanic
+
+application to
+
+thesurf ace of the light-metal parts to be
+
+soldered, of a layer of another metal, which, without re-acting
+electrolytically on the aluminum, adheres strongly to the surface
+to which it is applied, and is, on the other hand, adapted to receive the soft solder, thus making it possible to solder together
+two pieces of aluminum, or to solder aluminum to some other metal,
+in the ordinary way.
+After various trials, it was found that the metal answering
+these conditions best, as well as being the most economical, is
+iron. But the electrolytic deposit of this, as well as of other
+metals, on aluminum, in the form of a uniform and adherent layer,
+does not give good results with the ordinary methods of cleaning
+the metal with acids or alkalis.
+Only when, instead, recourse is had to a mechanical process of
+
+- 3 scouring the surface, is a well adhering deposit of another metal
+on aluminum or its alloys rendered possible, because, under these
+conditions, the adherence is due exclusively to the "grappling"
+properties of the metal deposited in the cavities mechanically prcduced on the surface of the aluminum.
+It was found convenient to produce the mechanical abrasion by
+roughening the metal with emery cloth of medium fineness (No. 0),
+preferably in two directions normal to each other. After simple
+washing in running water, it was immediately immersed in the electrolytic bathe*
+A suitable electrolytic bath may be prepared by dissolving 20
+grams of ammonium oxalate in 500 cc. of hot distilled water, and
+10 g. of iron sulphate in another 500 cc. of hot water. The hot solution of iron sulphate is then poured into the solution of ammoniu'e
+bxalate, giving a volume of one liter, and allowed to cooL
+The solution may be used even after it becomes turbid and is
+only discarded when the electrolytic deposit is no longer satisfactory.
+The solution must be prepared and kept in a container of glass
+Or porcelain or enameled iron and must not be left in contact witI
+the iron of the anodes when not in use, since it is no. longer serviceable, if it becomes too heavily charged with iron.
+* L.
+same
+sand
+sure
+
+The intensity of the current must not exceed 0.5 ampere per
+Guillet and M. Gasner, in the work referred to, arrived at the
+conclusions and employed a sand blast for roughening, using
+sifted through a sieve with 0.2 mm. meshes, and under a presvarying from 600 to 1500 grams per sq.cm.
+
+-4,.square decimeter of the cathode, with a difference of 4 to 6 volts
+in potential.
+The anode consists of ordinary soft iron. In order to obtain
+a uniform deposit, it is important for the positive iron electrode
+to be symmetrical with reference to the piece of aluminum Or alloy
+serving as the negative pole, so
+
+as--to
+
+maintain a nearly uniform
+
+cLi.E.
+
+tance between the anode and cathode. Thus, for example, in order
+to deposit iron on the inside of an aluminum tube, it is sufficient
+
+to introduce into the latter, as anode, an iron wire, held in place
+by a cork at the top of the tube. For making a deposit on the out
+aide of a tube, recourse is had to a spiral of the same iron wire
+outside the tube. Lastly, for objects of various shapes, -it is best
+to make a sheet iron container of a shape- similar to that, of the
+object to be plated, in which case the container itself is the poeitive pole.
+Vhen the object of light alloy, to be soldered, can be immersed
+in the bath with its principal axis vertical and has;-no outside projections, it can be hung directly in the bath and subjected to the
+
+the ease of irregular objects or when they must he
+immersed horizontally, the precipitate formed in the solution set-
+
+electrolysis. In
+
+tles on the surface to be plated, thereby preventing, at some points..
+the eletrolytio deposit. In this event, there must be a continuous
+circulation or a suitable agitation of the liquid.
+For suspending the object, iron or aluminum wire is used, but
+never copper. The operation is performed at the ordinary
+ture.
+
+tempera-
+
+- 5 When the surface of the cathode has acquired a dull gray iron
+color, which takes from half an hour to two hours, the piece is
+removed from the bath, jmrdiately washed in running water and
+dried by wiping.
+If the surface, instead., shows yellow streaks Or shiny black
+spots, or bare spots of aluminum, the operation is not successful,
+which may be due to a too intense current or to the exhaustion of
+the solution.
+The surface of a light alloy, after being plated.- in the above
+manner, can be soldered with tin, either to other pieces of the
+same metal, treated. in the same manner, o f to other metals.
+For this purpose, the surface- of the electrol y tic deposit is
+moistened with hydrochloric acid completel y neutralized with ainc,
+Or better by smearing the surface with a thin coat of one of the
+
+ordinary soldering pastes existing in commerce.
+After this is done, the objects to be tinned are dipped into
+melted.. tin (or a soldering alloy of about 40 parts lead and 60
+parts tin), until they have acquired the temperature of the bath,
+and then, if possible, the surfaces to be joined are clamped together until the alloy hardens, without cooling by water. For soldering a soft metal tube to a steel pipe, after immersion in the
+tin, the steel pipe is pushed inside the tube and allowed to COOi
+If, instead, successive solderings must be made, after dipping
+the
+
+the points described,
+surfaces as to be soldered are moistened
+
+with spent hydrochloric acid or with paste, and the soldering is
+
+-6-then done with a blowpipe or gasoline torcL vrith the application of
+ordinary soldering alloy.
+
+When the soldering has been well done, it will withstand a
+pull equal to that of soldered iron.
+If the surfaces are to be simply tinned, it is sufficient to
+immerse them, after pickling, in melted tin and then wipe off the
+excess tin with a rag.
+The results of these experiments were summed up in a patent
+granted in Italy, May 18, 1916, and extended successively in France
+England, Belgium, America and Japan.
+The accompanying illustrations show some of the results easily obtained by this process of soldering: the construction of a
+fra2nework consisting of parallel tubes of light metal connected by
+an obliquely bent tube of another metal (Fig. 1) and how it is pos
+solder tubes of light metal to steel pipes (Fig. 2). In
+
+sible to
+
+the latter case, an innovation was introduced by the writer in the
+method of attaching the tubes to the pipes, in that the tube of
+light metal surrounds the steel pipe and not inversely, as had been
+the custom. The tube, forced on by conressiofl, rests against a
+suitable shoulder on the outside of the pipe, so that, after it is
+on, it forms a continuous surface, with the consequent elimination
+of any projection, as in ordinary unions which, on account of the
+great speed now attained by airplènes, exert considerable influence
+on the head resistance. This method of joining also has another
+advantage. On account of the larger coefficient of expansion of
+
+- aluminum in comparison with steel, the aiuminum, which is expanded
+more by the heat required for soldering, hugs the steel pipe hard.e:
+on cooling and thus assures a still better adhesion. In fact, tensue tests with 30 .x 27 rmi. tubes of light metal, with a breaking
+strength of 48 kg. per sq.m. and a ductility of 12%, soldere& in
+the above manner for a distance of 30 mm. to pipes of 0.5 mm. steel,
+resulted. in tearing the steel pipes, instead, of separating the sQldered, parts.
+For illust±ating some applications of this method of soldering
+in the field of aeronautics, we can show how, by this process, it
+is possible and easy, without fundamental modifications of the present construction methods, to substitute light metals for other materials in constructing, for example, the framework of airplanes
+md airships, in soldering sheet metal for the cockpits, in making
+and repairing craxikcasee, and, lastly, instead of wood, for wing
+spars and ribs with suitable sections for increasing their moment
+of inertia, improving the penetrating properties of the machine
+and reducing the head resistance from friction to a minimum.
+In Figs. 3 aid 4 is shown an airship girder made of duralumin
+tubing and braced with iron tubing, tin soldered,- by the method in
+question and then subjected: to compression tests;.
+The principal characteristics of this girder, in comparison
+with a similar girder of steel tubing, are given in the following
+table:
+
+-8-
+
+Characteristics
+
+Girder of all steel
+tubing with braces
+of steel tubing;
+tin soldered.
+
+Girder of duralumin:
+: tubing with braces
+:
+of steel tubing; 	
+:
+tin soldered. 	
+
+Main tubes
+
+Equilateral triax;: Equilateral trian: gle 200 mm. on a	 : gle 200 mm. on a
+: side
+side
+: Steel,	 30 x 0.5 rfm
+: Duralurnmfl,
+1.2 im.:
+30 x
+
+Bracing tubes	
+
+: Steel, 10 x 1 mm.
+
+Length of girder	
+
+:
+
+Shape of girder	
+
+Total weight of girder
+Weight per running meter:
+:
+Breaking strength by 	
+compression
+
+Steel, 10 x 1 mm.
+
+4 m.
+
+4m.
+
+5.95 kg.
+1.49 kg.	
+6190 kg.	
+
+8.47 kg.
+2.12 kg.
+5875 kg.
+
+:
+:
+
+Lastly, the possibility of covering aluminum and its alloys
+with a uniform coating of tin is of considerable practical importance. It is known that when two different metals come in contact
+with each other in the same solution, there is established. between
+them a difference of potential, just so much the greater as the
+metals themselves are more distant from each other in the so-called.
+electro-chemical series of the elements ) whith begins at the positive end with the alkaline metals and then becomes negative toward
+the non-metals. Given thus, the following electro-oheiflical series
+of the elements:
+K •	 +	 .:.
+1.24
+Mg
+1.03
+Al
+Mn "	 0.82
+Zn n.	 0.51
+0.16
+Cd.
+IT	
+It	
+
+11	
+
+Volt
+
+Fe + 0.09 Volt
+Co - 0.02
+Ni
+0.02
+Sn It 0.09
+Pb 11	 0.10
+IT
+
+it
+It
+It
+
+It
+
+1
+
+H
+it
+
+it 0.25
+
+Sb - 0.38 Volt
+Bi" 0.50
+As	 IT 0. 55	
+Cu " 0.59	
+Hg 1 1.03	
+It
+II
+
+II
+
+Ag '
+
+1.06	
+
+11
+
+-9it is obse rved that
+
+aluminum and copper are very far from each other
+
+and, while aluminum
+
+is strongly electropositive, copper is electro-
+
+negative. It folloi
+
+s., therefore, that whenever aluminum comes in
+
+contact with copper
+
+or any alloy of copper in the presence of any
+
+solution, which may
+
+even be simply the moisture in the air, an
+
+electrolytic couple is formed., in which the aluminum functions as
+the positive pole, that is, as the soluble metal, and will (as likewise its alloys) undergo rapid corrosion . This fact has been confirmed many times in practice, in cases of simple contact of an
+alloy of aluminum with brass or bronze.* It attained considerable
+Proportions when the metallia contact took place in the presence
+of sea water. Now, covering aluminum (or one of its alloys) with a
+strongly adhering coat of tin, asby this process, completely eliminates this harmful electrolytic action, since tin is electronegative, like copper, and these two metals do not react electrolytically on each other. It is accordingly necessary to take account of
+these phenomena in practice and of the posaibility of using the
+light metal, even in contact wiith copper alloys, when the light
+met al has been properly tinned.
+* Aluminum radiators, supported on bronze brackets, have, in some
+cases, been completely perforated. Aluminum fuel tanks with brass
+lugs rapidly corrode at the points of contact.
+
+Translated. by the National Advisory Committee for Aeronautics..,
+
+Fq./.
+
+,Ci•g
+
+.c)
+

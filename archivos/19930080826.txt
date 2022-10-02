@@ -1,0 +1,2132 @@
+•
+•
+
+TECHHICAL KOTES
+
+NA'::'IGNAL ADVISORY
+
+COMi~iITTEE
+
+FOR AERONAUTIOS .
+,
+
+•
+
+No . 32
+
+•
+
+CAusrs OF CRACI:ING OF IGlHTION CAB:UE .
+
+By
+
+F . B . Silsbee,
+Aerc:nau.t ic PO~';er Plant s Section ,
+BUREAU OF STANDA.::-:D8.
+'. I
+
+'..
+
+1
+
+i
+
+•
+•
+NATIONAL ADVISOR! COHkITTEE F'OR .AER0iJAlif!CS.
+
+TEcmnCAL NOTE NO. 32.
+CAUSES OF OR/.OKING OF lGITITION__QAJ3LE.
+
+By
+
+F-. B. Silsbee,
+Aeronautic .t'o·,ver Plants Section,
+BUREAU OF STANDARDS .
+
+•
+•
+
+Resume.
+
+NOTE:- 7he object of this resume is to present ifr brief
+and convenient forl:. the salient facts of this report for
+the benefit of those ',/ho may ',- ish to utilize the results
+;
+of this jLvestiga-i:iion without studying the more detailed
+description of apparatus and methods.
+The experiments described
+
+i~
+
+this report
+
+sho~
+
+that the
+
+cracking at sharp bends, observed in -Ghe insulat ion of high
+tension ignition .vires after service, is due to a cher::ical
+
+•
+
+•
+
+attack upon the rubber by the ozone produced by the electric
+discharge ":;hich takes place at the surface of the cable .
+This cracking does not occur if the insulating material is
+not under tension, or if the cable is surrounded by some
+medimn other than air; but does occur even if the
+
+insul~tion
+
+is not subjected to electric stress, provided the atmosphere
+near the cable containc ozone .
+
+The extent of this cracking
+
+varies greatly with the insulating material used; and can be materially reduced by using braided cable and by avoiding
+•
+
+•
+
+sharp benda .
+
+- 2 -
+
+•
+CAUSES OF CRl\.CKING OF IGNITION CABLE.
+
+High tension ignition cables, used to connect the
+spark plugs with the distrioutor blocks on internal combustion engines, occasionally give trouble by cracking of
+the insulation; which is
+sharp bends in the cable.
+
+particula~ly
+
+likely to occur at
+
+It has been found by manufac-
+
+turers of ignition systems that a convenient test of the
+
+•
+
+ability of a cable to give satisfactory service is obtained by '.VTapping the cable firmly around a metal mandrel and
+applying VOltage f_offi a magneto or spark coil between the
+core of the
+
+c~
+
+Ie and the
+
+~andrel .
+
+Inferior quality cable
+
+will in the course of a few hours show cracks which begin
+at the outer surface and
+
+ra?id~y
+
+become deeper
+
+~~til
+
+a
+
+puncture of the insulation finally occurs through one of
+these cracks .
+The Bureau of Standards
+
+I~S
+
+request3d oy the Bureau
+
+of Aircraft Production to locate more
+
+defi~itely
+
+the cause
+
+of this trouble, and for this purpose an extensive series
+of tests was made on three samples of ignition cable.
+
+Sam-
+
+ples I and II were very kindly supplied for the test, by
+the Kerite Insulated Wire and Caole Company and ITere insulated with their Kerite compaQlld.
+
+Sample III
+
+\~s
+
+rJboer
+
+insulated with a mineral filler and had been furnished under Signal Corps Specification 28
+cable .
+
+The properties of tile materials are given in the
+
+following table:
+•
+
+003-A for High Tension
+
+- 3 TAB:E 1.
+
+Sample Numoe r
+
+I:
+
+o
+.1.
+
+Insulation
+Braids
+Cond-Jctors
+Diam. over rubber
+Diam. over all
+Dielectric constant.
+Set
+Ultimate elongation
+Eff . Dielectric Strength
+
+III
+
+Kerite
+None
+19 #= 26
+
+Kerite
+T:.vo
+12 # 26
+
+7.35 mm.
+7.35 mm.
+3.4
+5.7
+
+6.29 mm.
+7.64 mm.
+3.7
+4. 6
+
+3<
+20
+
+%
+
+%
+
+56 500 v.
+
+Rubber
+Two
+
+19 #= 29
+
+5.70 mm.
+7.07 mrn.
+3.6
+16 %
+
+%
+
+310
+
+%
+
+360 7~
+
+40 600 v.
+
+43 800 v .
+
+•
+
+•
+
+The maj ority of the test s i.-iere endurance !Uns, during
+whi ch the spe cimen was subjected to a combined mechanical
+and electrical stress for a certain period of time.
+the end of each of these tests, the samples
+punctured were
+
+irr~ersed
+
+whic~
+
+At
+
+had not
+
+in vater for approximately 24 hours
+
+and then subjected to a breakdolID test using 60 cycle A.C.
+vOltage.
+
+The results of this test are given in Table II
+
+attached.
+In this table, column II or III, gives the length of
+
+•
+
+time that the sample was subjected to the ele ctrical stress
+from either a magneto, running at about 2000
+
+r~p.m.
+
+and
+
+firing a 6 mm. 3-point spark gap; or from a transformer,
+giving the voltage indicated in column IV at 60 cycles.
+Column V gives the medium surrounding the cable, and column VI the diameter of the arbor on which it was wrapped.
+Column VII states by "yes ll or Hnoll "lVnethe r or not failure
+occurred during the
+
+endur~nce
+
+test, and also the number
+
+of samples to which this statement applies.
+
+Column VIII
+
+states vmether or not cracks were visible
+
+the insulation
+
+i~
+
+- 4 -
+
+at the end of the endurance test.
+
+Column IX gives the
+
+total length of time that the material had been soaked in
+water previous to the breakdown test.
+
+Column X gives the
+
+value of the effective 60-cycle breakdo "n voltage and is
+the average of results obtained upon the number of breakdown samples indicated in column XI.
+
+This table contains
+
+only data on failures w
+hich occurred in the center portion
+of the samples.
+
+All cases where there was any possibility
+
+)
+
+•
+
+of failure being produced by undue mechanical or electrical stress at the ends of the sample or at the surface of
+J
+
+the
+
+v~ter
+
+have been omitted.
+
+It appears from this work that cracking is produced
+in substantially the same manner, but
+
+so~e what
+
+more rap-
+
+idly; when the samples are testeu on 10000 volts alternating current, than when tested on a magneto.
+
+The amount
+
+bf the cracking is very materially reduced by the pres-
+
+ence of the braid and is much less in the material having
+Kerite insulator than in that with the rubber.
+
+The
+
+cracking is entirely absent if the sample is left straight,
+or if no electrical stress is applied, or if surrounded
+by water or paraffin.
+
+The cracking is evidently a pro-
+
+gressive phenomenon, requiring a combination of several
+factors, i.e . , mechanical stress, eleotrification, and the
+presence of air.
+The the ory of this action, w
+hich successfully eXplains
+nearly all of the phenomena,
+
+~as
+
+originally suggested by
+
+- 5 -
+
+Mr. Harris of the Kerite Company as follows:
+
+The electri-
+
+fication produces a brush discharge at the surface of the
+cable, whicn. in turn produces ozone and. oxid.es of nitrcgen .
+
+This is
+
+sho~n
+
+by the noticeable odor after the endur-
+
+ance test has been run for some time and the
+surrounding the vYires '[men in the dark.
+
+vis~ble
+
+glow
+
+This glow is more
+
+prominent on the A. C. test and Figs . 1 and 2 are photographs of this taken with about 15 minutes' exposure at
+13 000 volts.
+
+The electrical stress in the air at the
+
+surface of the cable, as computed from the d.imensions of
+the wire and the dielectric constant, comes out much in
+excess of the breakdovm strength of air and indicated that
+corona is to be expected .
+It is well known that ozone actively attacks rubber;
+and when the rubber is under mechanical stress the products ' of the reaction are pulled apart , thus exposing at
+each incipient crack a fresh surface of rubber, Which is
+in turn attacked .
+
+This effect doubtless is responsible
+
+tor the fact that the action is localized in definite
+cracks when the material is under tension but does not
+penetrate the material when the rubber is unstressed .
+That the presence of air is required. is shown by the
+fact that no cracking occurred in any of the samples tested under water or when coated with paraffin.
+
+A series of
+
+tests were made to demonstrate the effect of the ozone
+by inserting samples of the cable in the bottom of a glass
+
+jar which 'lIas provided at -Ghe top with a pair of elec-- --trodes from -,vhich a high vOltage brush discharge could be
+produced.
+
+The jar was sealed tightly and a discharge
+
+from the points maintained a copious supply of ozone.
+
+The
+
+results obtained with this apparatus are as follows:
+
+Kerite Tape:
+
+No tension; no effect notioeable.
+
+Kerite Tape:
+
+100% elongation; deep cracks on exposed side, particUlarly near edges.
+Sample broke at grips .
+
+Para Tape:
+
+No tension; softened, became stickY3
+and curled slightly.
+
+Para Tape:
+
+50% elongation; ~~apped on cable;
+cracked badly and fell apart .
+
+Okonite Tape:
+
+No tension; no effect.
+
+Okonite Tape:
+
+50% elongation; wrapped on cable;
+cracked badly and fell apart.
+
+Three types of ignition cable laid straight in bottom of jar;
+no cracking.
+One sample of each cable wrapped on 3/8 11 diameter arbor.
+Kerite braided:
+
+No cracks except at ends.
+
+Kerite bare:
+
+Badly cracked and rubber entire l y
+stripped off.
+
+Rubber:
+
+Deep and regular cracks.
+
+One sample of each cable wrapped on 111 diame ter arbor:
+Kerite b r aided:
+
+No cracks except at end .
+
+Kerite bare:
+
+Small cracks on surface. One large
+crack which al1o~ed half of insulalation to peel away.
+
+Rubber braided:
+
+Many rather shallow' cracks.
+
+- 7 138 HOUR RUN.
+
+One sample of each cable wrapped on 3/16" diameter
+arbor a.nd subjected to ozone:
+Kel'ite braided:
+
+Cracked deeply and uniformly except
+i1here paraffin covered braid.
+
+Kerite bare:
+
+CrackeQ and broke in small pieces,
+stripping from cable.
+
+Rubber braided:
+
+Cracked deeply anQ
+
+u~iformly .
+
+Physical tests of samples of cable which had been
+resting loosely in the ozone tank for 138 hours
+
+shov~d
+
+no
+
+appreciable change in permrulent set or in ultimate elongat:on as a result of the treatment.
+
+The
+
+breakdo~m
+
+strength
+
+(at the end of this ozone treatment) is given in the following table:
+TABLE III
+
+Before Ozone Test
+: Vol t .s.ge
+J"o . Sampl e s
+
+Sample
+Keri te braid.ed
+Kerite bare
+Rub"oer braided
+
+47 200
+50 100
+39 300
+
+7
+4
+6
+
+43 800
+56 500
+40 600
+
+After 13B h r s . in Ozone
+Vol tage
+No . Samples
+3
+3
+3
+
+It will be noted that in specimens Nos. 1-4-9-1 8 -21
+(Table II) failure oc curred during the endurance runs w
+hen
+there were no
+
+visib~e
+
+such that no cracks
+
+crac ks and when the conditions vre re
+
+i:~ere
+
+to be expected .
+
+The maximu.'1l vol t-
+
+age applied to the specimen in these tests probably did not
+exceed 18 000 volts, which is a
+
+relatively small fraction
+
+of the breakdown strength of the unaffected cable, and
+these results imply a progressive deterioration of the mat-
+
+r
+- 8 -
+
+erial other than that due to cracking .
+
+These failures oc-
+
+curred only when bare sacnples were wrapped on the arbor,
+and did not occur vnth tne craid.eci material.
+Nos. 67 and. 68 as compared
+
+VJi
+
+t:1
+
+ber cable ind.icate that such a
+with this insulation.
+
+l\~o
+
+Specimens
+
+. 50 for the mineral ru-;)-
+
+deteTiorat~on
+
+A comparison of
+
+takes place
+
+s ~:>e cime ns
+
+Hos. 26
+
+and 27 with No. 25 show little) if any, effect of this
+nature in the Kerite.
+A comparison of specimens Nos. 65 and 66 with No. 50)
+and Ho . 13 and No. 14
+
+wit~
+
+No . 25 see m to indicate a deter-
+
+ioration in both classes of material rmen subjected to
+prolonged mechanical stress.
+
+The time required to ?roduce
+
+these effects is long compared wi th that in wh ich cracking
+develops in air, and they are therefore of less importance.
+It was at first thought that the simultaneous application of mechanical and electrical stress might be the
+cause of the failures; but this is n ot
+
+t~e
+
+case, as shown
+
+by Table IV, which was obtained on lerite insulation in
+the form of strips, and which shows no change great enough
+to account for the failure of the specimen at the lo w
+voltage applied during the endurance test.
+TABLE IV.
+Without Tension
+Elongation
+Thickness
+Volts
+Volts per mil.
+No. of samples
+
+W
+ith Tens ion
+
+o
+
+100
+
+.080
+33 400
+420
+12
+
+.056
+26 700
+480
+9
+
+%
+
+-
+
+~
+
+-
+
+-
+
+-~
+
+--'-- -~---...--.~--
+
+- 9 ,...
+
+A po ss ible
+
+for trlis
+
+::.~emedy
+
+t~o1..:ble
+
+\i,'()uld be to co'rer
+
+the c able with a close:y adherinb coatir.g of COllducting
+uaterial such as conducting
+
+or water soakeQ braid.
+
+pain~
+
+This will prevent the tend$ncy to
+in the photographs .
+
+It is ,
+
+fo~m
+
+howeve~ ,
+
+corona, as is shown
+
+oo:e c: iona~le
+
+o~
+
+a c-
+
+.Jount of the increase in the electrostatic capac:.i.ty 'of the
+l eads wfiicD r esults i n a
+
+reductio~
+
+cf the maximuu voltage
+
+produced by the ignition syst em , ar-d also because most
+for ms of conducting paint
+
+~re
+
+liabl e to crack
+
+a J the cl'ac ks an exce ss i ve amount of corona .
+c
+
+a~d
+
+produce
+
+The use of
+
+an insulator having as small a value as poasible for the
+diele ctr ic c onstant is advisable as the voltage gradient
+i n the air outs i de t he cable is t he re by reduced .
+seems to be considerable
+
+differe~ce
+
+There
+
+in the rapidity wit h
+
+·Nhich different ill sul at ions are at.tacked chen:i cally
+t he ozone.
+
+b~T
+
+The ordinar y impregnated braids he l p very mat -
+
+erially i!l preventing crack ing, probably oecause they a re
+nearly
+rubber .
+
+~ir
+
+tight and prevent th e ozone f r om reaching the
+
+After muce bend ing , howeve r, they ;iill :;:>roba".Jly
+
+lose their efficacy .
+
+Support ing the cables on insulating
+
+materials at a distance from grmlnded conductors is bene ficial in reducing tie corona and a lso reducing the ele ctrostatic capacity .
+ductive effects
+
+It is ,
+
+betv~en
+
+h o v~ ver,
+
+liable to c ause in-
+
+the Qifferent cable s, whi ch may
+
+lead to the production of
+
+s~arks
+
+in the wrong engine cyl -
+
+inder,- unless the cabl es are placeQ
+
+~part f~om
+
+one an ot her,
+
+- 10 -
+
+as
+
+well as from the ground.
+
+The iffiportance of carefully
+
+avoiding sharp cends in the i>7iring is very obvious .
+It is to be concluded fro!"{ this
+1
+
+investigat~on,
+
+~hat
+
+the failure is caused by a chemical attack on the rubber
+by
+
+the products of the corona discharge; 'but is localiz.ed
+
+in.
+
+c:::-acks only
+
+ical tension.
+
+;;,~ere
+
+the insulation is S'.l0ject to mechan-
+
+Failure a's the result of other causes, such
+
+as the combined application of mechanical and electrical
+stress, or the prolonged application of electrical stress
+alone, are shOwn to be absent or of minor importance .
+
+- 11
+
+-
+
+TABLE II.
+SUMMARY OF TEST. OF HIGH TENSION CABLES.
+KE R I T E
+II
+
+I
+
+Spec imen
+No .
+
+B
+
+AR E
+
+III
+
+IV
+
+ENDURANCE TEST
+On TransfoTr.:l8 r
+On _Magne to
+T irr.e Run
+Time Run
+Hours
+Min .
+Min .
+Hours
+
+4
+
+2
+2
+31
+0 .0
+
+5
+6
+
+2.
+
+None
+
+None
+
+Surrounding
+Material
+
+Vol tage
+
+Wata.r
+
+0 .0
+30.
+0 .0
+25 .
+0 .0
+0.0
+
+7
+
+V
+
+1
+,..,
+
+.:::;
+
+3
+
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+33
+33
+24:
+25
+35
+37
+28
+
+7.
+
+II
+
+Straight tube
+Water
+Air
+II
+
+J\one
+43
+0 .0
+O.
+l.
+
+5.
+l~one
+
+None
+
+None
+11
+
+0
+0
+0
+1.0
+33 .
+33 .
+25 .
+15
+
+O.
+16 .
+
+None
+
+30.
+45 .
+30.
+
+None
+
+None
+
+None
+
+"
+
+13 , CiOO
+50
+30
+0
+0
+
+"
+tI
+
+"
+
+11
+
+It
+
+Water
+
+11,0')0
+
+tI
+
+II
+
+~Tone
+11
+
+8
+9
+19
+0
+0
+
+Air 158 hrs .
+
+None
+13,000
+
+II
+
+tI
+
+Air
+
+11
+
+11
+
+11
+
+If
+
+II
+
+II
+
+G
+
+11
+
+"
+
+II
+
+°
+
+II
+
+II
+
+11
+
+Helix ,l:araffin
+Helix, air
+II
+
+None
+156 .
+326 .
+326 .
+
+II
+
+11
+
+None
+
+II
+
+None
+11,OJO
+
+"
+11
+
+Water
+11
+
+Air
+
+12 TABLE II (Cont1d)
+
+.§UMMARY OF
+
+T~ST
+
+OF HIGH TENSION CABLES
+
+KE R I T E
+
+I
+
+VI
+
+Specimen
+No.
+
+Diame t er
+of
+Arbor
+
+1
+2
+3
+4
+5
+S
+7
+8
+
+One inch
+II
+
+11
+
+Infi!lite
+One inch
+II
+
+II
+
+!:
+
+II
+
+II
+
+II
+
+n
+n
+'-
+
+9
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+
+II
+
+?oli
+_
+
+25
+26
+27
+28
+
+VIII
+
+Failure
+with
+NO.of
+Samples
+Yes~
+
+1
+
+No,
+No,
+Yes,
+Yes,
+No,
+
+3
+3
+1
+1
+3
+
+- -
+
+>
+
+II
+
+Cracks
+---No
+!I
+!I
+
+Yes
+No
+
+No,
+Yes,
+No ,
+No ,
+No,
+
+2
+1
+1
+1
+
+II
+
+Yes
+No
+
+II
+
+II
+
+II
+
+3/32
+3/8
+5/8
+13/16
+One
+
+II
+
+II
+
+II
+
+1 7/8
+
+II
+
+fI
+
+7/8
+
+n
+n
+II
+
+I!
+
+Infin:ite
+Infinite
+II
+
+II
+
+Yes,
+Ye 3,
+Yes:
+Yes,
+
+3
+
+2
+
+2
+2
+1
+No .
+1
+No,
+1
+Yes, 1
+No, 1
+Ye;:; , 1
+No . 2
+
+No,
+No,
+No,
+
+3
+3
+3
+
+No. of
+Samples
+Shot
+
+42,400
+
+3
+
+45~100
+
+42,900
+
+3
+3
+
+42,300
+50,300
+
+3
+3
+
+18
+18
+17
+117
+18
+18
+
+43 ,100
+49,000
+58,800
+49,OJO
+47,700
+37,JOO
+
+2
+1
+1
+3
+3
+2
+
+40
+
+47,400
+
+1
+
+40
+24
+156
+326
+30
+
+45 , 500
+56 , 500
+48,900
+
+1
+4
+3
+
+52,000
+52,400
+
+2
+
+2.0
+92
+40
+24
+None
+
+No
+
+II
+
+II
+
+Water
+
+II
+
+II
+
+n
+
+Breakdown
+Vc1tage
+
+XI
+
+II
+
+II
+
+II
+
+X
+
+ing ir..
+
+II
+
+II
+
+IX
+Hours
+Soak-
+
+Il
+
+' ,II
+
+'-J
+
+VII
+
+BAR E
+
+II
+
+Yes
+!l
+II
+
+No
+fI
+II
+II
+II
+
+Yes
+Ii
+
+°
+
+No
+II
+
+II
+
+3
+
+- :L3 --
+
+OF JEST _O? HIGH TENSION CABLES
+
+SUMMA~Y
+
+KERITE
+
+COVE::tED
+
+II
+
+I
+
+IV
+
+III
+
+ENDURANCE TE ST
+On Transformer
+On Magneto
+Ti::.:e Run
+Time Run
+Hours
+Min.
+Hours
+Min.
+
+v
+
+----'
+
+SpeciDen
+rTo .
+
+None
+
+None
+
+30
+31
+
+None
+.8
+
+38
+31
+19
+
+'J
+
+33
+34
+
+35
+36
+
+Water
+II
+
+o
+o
+o
+
+'7
+
+Straight tube
+Water
+Air
+0
+
+37
+
+J
+
+38
+39
+40
+41
+
+16
+90
+366
+156
+
+42
+43
+
+336
+
+326
+.i
+11 -
+
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+
+}Jone
+
+N ERA
+None
+
+.8
+
+(
+(
+
+50
+30
+0
+0
+0
+
+l~.)OO
+II
+
+11,000
+n
+n
+
+II
+II
+
+W
+ater
+II
+
+Air
+Water
+
+0
+
+II
+
+0
+
+11
+
+11
+
+0
+
+11
+
+Air
+
+R U B B E R
+
+L
+
+. .Jone
+
+none
+
+None
+"tJat e r
+
+0
+
+30
+31
+19
+7
+
+Surrounding
+,1aterial
+
+None
+
+C)
+
+32
+
+None
+
+Voltage
+
+0
+0
+J
+
+"
+
+Straight tube
+Water
+Air
+
+0
+
+30
+55
+45
+
+I
+
+13 , OCO
+
+n
+
+II
+
+11
+
+II
+
+11
+
+30
+
+(
+(
+
+16
+90
+
+II
+
+4:
+
+\
+
+fI
+II
+
+!1
+
+18
+C
+
+II
+
+II
+
+o
+5
+
+156
+
+11,000
+n
+II
+
+11,000
+
+326
+
+rr
+
+386
+
+n
+
+Water
+II
+
+Air, no braid
+Water
+
+"
+
+Air
+
+- 14 '!'ABLE . I I (Concluded)
+8mJmARY OF TEST OF HIGH
+KERITE
+
+Specimen
+No.
+
+.
+
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+
+No,
+No ,
+No,
+No,
+No,
+No,
+No,
+No,
+.No,
+No,
+
+One inch
+II
+
+11
+
+11
+
+11
+
+II
+
+II
+
+II
+
+II
+
+11
+
+II
+
+"
+
+Infinite
+11
+
+"
+
+11
+
+Infinite
+One inch
+
+"
+II
+
+"
+
+II
+
+II
+
+II
+
+1\
+
+II
+
+II
+
+"
+
+"
+
+II
+
+11
+
+II
+
+II
+
+\I
+
+If
+
+If
+
+II
+
+3
+3
+1
+3
+3
+3
+3
+3
+3
+9
+
+No
+
+3
+
+11
+
+3
+3
+
+"
+"
+
+NE R A L
+
+One inch
+II
+
+Cracks
+
+No,
+No,
+
+"
+
+11
+
+11
+
+No,
+No,
+No,
+No,
+No,
+Yes,
+Yes,
+Yes,
+No,
+Yes,
+Yes,
+No,
+liTo,
+Yes,
+
+3/32 ,158 hrs.
+1 ",158 hrs.
+
+3
+3
+1
+3
+3
+2
+
+J.
+
+Jl
+
+n
+f1
+II
+II
+
+n
+II
+
+II
+II
+
+No
+II
+II
+
+11
+
+Yes
+
+II
+
+II
+
+No"
+No,
+No,
+
+No. of
+Samples
+Shot
+
+43,800
+39,600
+40,800
+427900
+44,300
+36,800
+43,100
+40,800
+47,800
+45,500
+46,000
+41,100
+43,000
+45,100
+
+7
+3
+3
+2
+3
+2
+2
+3
+3
+3
+9
+3
+3
+2
+
+24
+2
+92
+40
+19
+24
+
+40,600
+35,600
+32,900
+37.1 900
+36,200
+23,600
+
+6
+3
+3
+3
+3
+3
+
+18
+18 )
+18 \J
+18 )
+17
+117
+
+29,600
+
+;3
+
+)
+34,500)
+)
+32,500
+37,000
+
+18
+18
+156
+326
+30
+
+28,000
+37,200
+3J. ,800
+25,500
+43,700
+
+24
+2
+92
+40
+19
+24
+18
+18
+17
+117
+30
+156
+326
+30
+
+11
+
+n
+
+1
+1
+1
+
+11
+If
+II
+
+3
+
+No
+
+3
+1
+
+II
+
+3
+3
+2
+
+Breakdown
+Voltage
+
+II
+
+3
+3
+3
+
+Yes
+
+11
+
+Infinite
+
+Hours
+Soaking in
+Water
+
+RU B B E R
+
+"-
+
+<:)
+
+CABLES.
+
+C 0 V E. RED.
+
+No,
+
+11
+
+Infinite
+One inch
+
+MI
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+
+Failt!.re
+with
+No. of
+Samples
+
+Diameter
+of
+Arbor
+
+TENSlm~
+
+No
+
+"
+"
+
+2
+3
+
+....
+
+"
+3
+3
+
+,,-
+
+I"
+
+FIG. 2.-Corona on ignition cables on I-i nch arbor.
+artificial light 5 seconds to sho w location of discharge.
+
+E xpos ure to co rona only I5 minutes at 13200 va lls A. C. and to
+
+Upper nlandrel fro111 left to right : Kerite bare, mineral rubber, kerile uncovered.
+Lower n13ndrel from left to right : Kerite bare, kerite covered, mineral rubber .
+
+:.
+
+·
+
+c
+
+F IG. I. - Corona on ignition cables on I - in ch arbor. Expos1tre to corona only 20 minnles at 13 2 00 valls A. C.
+U p per m andrel from left to right : K erite bare, m in eral ru bber, kerite covered. A ll th ree specimens covered with cond uctin g pain t, except at
+lower ends where corona appears.
+Lower mandrel fr0111 left to righl : K eri lc ba re, kcri le covered, mi nera l Tu bb er. Specinlc .ls un treated.
+

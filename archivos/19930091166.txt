@@ -1,0 +1,4791 @@
+REPORT No. 103
+PERFORMANCE
+
+OF A 300-HOItSEPOWER
+AIRPLANE
+By s.
+
+w.
+
+SPARROW
+
+HISPANO-SUIZA
+
+ENGINE
+
+and EL S. ‘WHITE
+
+Bureau of Standards
+
+57$
+
+.
+
+Fuwoqr
+PERFORMANCE
+
+OF A 300-EIORSEPOWEIt
+
+No.
+
+ML
+
+HISP.4TT0-SUIZA
+
+AIRPLAW
+
+ENG~TE.
+
+By ~. W. SPAREOW and H. S. _it’EITE.
+Bureauof Standards.
+
+R=U3L%
+The fallowing report of a eompIet.e performance test of a 300-horsepower Hispano-Suiza
+engine was suh~fited for pub~ca~ion to the A’ationd Advisory Committee for Aeronautics by
+the Bureau of Standards.
+The test described in the report was conducted in the altitude
+chamber of the Bmwau of Standards under the joint supervision of the technical staff of the
+Bureau of Standards and the E@neering
+Division of the Air Service.
+The program of tests
+TVaSplanned in cooperation -with the Engineering Division of the Ah Sertice of the United
+States Army so as to yield enough data to determine adequately the characteristics of the
+engine for atiation purposes without operating it for so Iong a time as to prevent extem=i~e
+flying tests from beirg carried out with the same en=tie later. -The particular engine used in
+these tests was assembled by the En=tieering Division at McCook Field and subjected to the
+standard dynamometer
+test for operation at ground level, thert shipped to the Bureau of
+St ancTards and mounted in the altitude chamber without overhauT. After the altitude test it
+was returned to McCook Field for such flight tests as might be desired.
+A prime requisite of the aviation engine is durability, but it is evident that the long runs
+necessary to detertine
+this are more properIy ma,de with less costly and elaborate equipment
+than that of the altitude chamber.
+The folIowing tests were made:
+1- A fuIl power run at ground altitude at speeds from 1,4oO to 2,200 r. p. m.
+?. An altitude-power run at full throttle and at speeds of 1,600 and 1,S00 r. p. m. from
+the ground to 25,000 feet (7,620 meters) in steps of 5,000 feefi (1,520 meters).
+3. PropeHer load runs, in which the dynamometer load was so adjusted as to produce
+approximately
+the same engine load as would be imposed by the propeller at
+speeds from 1,400 r. p. m. to the normal prope~er speed of 1,S00 r. p. m. These
+were taken at aItitudes of 5,000, 10,000, and 15,000 feet.
+(1,520, 3)050, 4~570
+meters.)
+4. Friction horsepower runs at the ground and at 15,000 feet.
+(4,570 meters.)
+RESULTS.
+Some of the outstanc@
+rew.dts are given in the tabIes accompan~g
+this r&wm6.
+Corpre.=we
+of ~~.g ~~hes
+06.0
+cm. ) of merc~
+~VeS
+recting the results to a standard barometric
+a brake horsepower at 2,200 r. p. m. of 352 (357 metric horsepower), and a maximum
+brake
+mean effective pressure of 128 pounds per square inch (9 kg. per sq. cm.) at about 1,600 r. p. m.
+The raechanicaI efbiency
+varies from SS per cent t.o S3 per cent from speeck of 1,400 r. p. m.
+to 2,200 r. p. m., while the brake thermal efficiency, based on the lower calofic
+value of the
+fuel maintains a constanti value of 26 per cent over the same ramge.
+Due to lack of an adequate aItitude controI on the carburetor, the mkture became extremely
+BeIow this altitude, where the air
+rich at aItitudes of 20,000 feet (6,040 meters) and higher.
+fuel ratio could be adjusted to give mitiwn
+fuel consumption consistent with maximum brtike
+581
+
+.
+
+.—
+
+582
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+cQMLM.ITTEE
+
+FOR
+
+AERO~7AUTI(?S.
+
+horsepower, the brake horsepower and brake mean effective pressure were found to bear a
+At 1,800 r. p. m. and at a density of 0,040
+straighi lirie relation to carburetor air density.
+pounds per cubic foot (0.64 kg. per cu. m.), the brake horsepower is about 42 per cent of that
+at the ground and the indicated horsepower is about 47 per cent of that at the ground.
+CONCLUSIONS.
+The information in such a report as this wiIl be of most vmlue when compared with results
+It then serves as a basis for comparing the relative merits of
+of similar tests on other engines.
+the two engines and as a means of explaining the superiori~y of one engine to mother in any
+particular phase of performance.
+The test shows the inadequacy of the carburetor altitude control of air-fuel ratio for heights
+It also shows how the relative importance of high mechanical
+a,bove 20,000 feet (6,040 meters).
+efficiency increases with altitude.
+TABLE A.—English units.
+Ground runs.
+
+I Apprrlxirmt,
+altitude
+in feet.
+
+500
+500
+500
+500
+500
+
+;i~kei:.,
+. . .
+
+R. P. M.
+
+,22,
+
+1,420
+1,640
+1,840
+1,980
+2, No
+
+124:7
+122,9
+117.4
+110.0.
+
+B. E. P.
+
+~
+
+I?ull power.
+
+F
+! Lb. of fuel . ~ar~, air
+per btih p. I temp. “F.
+,,.
+~ ,2
+
+292
+317
+330
+342.
+
+:51
+.52
+.51
+,52
+
+I
+;
+,
+I
+I
+
+;::
+
+Tgg;~
+
+\ Thyrnal
+e~;:;p
+
+per centl’
+
+‘.
+%MM:
+
+0.075
+.075
+.075
+.075
+.074
+
+~
+59
+
+-59’
+
+90
+89
+
+I
+,
+
+::
+.87
+
+;
+
+-1.
+
+;:
+26
+
+‘
+
+;:
+
+14.6
+14.5
+14.3
+15.2
+
+!
+.!
+
+R. P. M.
+
+Ground.
+Ground.
+5,000
+5,000
+10,000
+10,000
+15,000
+15,000
+20,0Q0
+20,000
+25,000
+25,000
+
+Sq. n. #
+‘T
+124.5
+123.6
+105.1
+103.1
+84.7
+84.0
+68.3
+66.6
+46.1
+51..4
+29.9
+31.5
+
+1,600
+1,800
+1,610”
+1,790
+1,600
+1,810
+1,590
+1,790
+1,620
+1,820
+1,780
+1,600
+
+B. H. P.
+
+283
+316
+241
+264
+193
+216
+155
+170
+107
+133
+76
+72
+
+.b. of fueln
+h. p. hr.
+
+twits.
+
+Csrb. air,
+temp. V’.
+
+59
+60
+58
+#
+.>6
+.:22
+H
+11
+12
+11
+
+TABLE C.—English
+
+kir density
+lb.jw. ft.
+
+0.072
+.075
+.064
+.066
+.056
+.056
+.047
+.047
+.039
+.040
+.033
+.033
+
+iJOlumetric
+e~ciency,
+percent.
+
+Thermal
+e5ciency,
+percent.
+25
+25
+25
+25
+23
+24
+22
+23
+16
+19
+11
+12
+
+91
+91
+91
+R
+89
+91
+E
+88
+89
+91
+
+units.
+
+Ground rum.
+
+~
+
+B. H. F.
+
+F. H. P.
+
+I ,400
+1,600
+1,800
+2,000
+2,200
+
+243
+284
+315
+334
+343
+
+X
+53
+62
+72
+
+:
+
+Full power.
+
+0.53
+.54
+.53
+.54’
+.60
+.56
+.61
+.59
+.86
+.69
+1.18
+1.12
+
+R. P. M.
+
+:
+
+:21
+
+.
+
+.
+B.I&. eirp.,
+
+:
+.;
+I
+
+=5,
+
+T.4BLE B .—English
+Altitude runs.
+
+Air density,
+lb./cu. ft.
+
+I. H. P.
+
+277
+328
+368
+396
+41.5
+
+kfeehrmical ii~$.e;j;ty,
+efficiency,
+percent,
+cu. ft.
+88
+“z
+84
+83
+
+0.075
+.075
+.075
+.075
+,075
+
+,
+:
+
+L&p;
+fuel +&.
+14.3
+13.9
+14.2
+14.7
+13.6
+14.6
+14.2
+14.2
+M o
+13.5
+11<5
+U.. 6
+
+PERFOR31ANCE
+
+OF
+
+A 303-HORSEPOWER
+TABLE D.
+Altitude
+
+runs.
+——
+
+,
+~ Afrdemity, ~ .B. ~ ~
+~lh. percn. ft. ,
+. .
+I
+
+,
+
+T4.BLE A.—Xc&ic
+
+Ground runs
+Approximate
+attitude in
+m?ter%.
+
+units.
+
+FuII power.
+
+I Air
+Carb. air, ~ density,
+\ temp. “C. I kg. per
+cu. m.
+1
+I
+
+Kg. of
+B. H. P. ~ fuel per
+b.$~.p.
+
+~ B.m. e.p.
+R, P. M. ~ kg. per
+~ sq. cm.
+
+I
+
+t
+
+‘ rohrj metric
+! efficiency,
+; per cent.
+—
+26
+26
+
+~
+I
+
+26
+26
+26
+
+“;
+/
+
+14.6
+14.5
+‘14.3
+15.2
+15.2
+
+;
+,
+
+-—
+
+i
+
+.
+TABLE B.—Xctric
+.\ Ititude
+
+rum=.
+
+!
+
+~ Apprmimate
+~ algfi:r::n
+
+i
+‘ R. P.M.
+,
+
+B.m. e.p. t
+,
+B. H. ?.
+kg.~r
+sq. cm.
+
+Kg. of
+fuel per
+k&., p.
+
+units.
+
+FuI1 power.
+I
+.
+
+I
+
+~
+
+Kg.air per
+kg. of fuel
+*6,2.
+
+Carb. aw, ~ damity.
+temp. “C. , kg. per
+Cu. m.
+
+—l—
+0.24
+
+~57
+
+4.8
+4. i’
+3.2
+3.6
+2.1
+2.2
+
+.27
+.26
+. 3s
+.31
+.53
+.50
+
+173
+109
+135
+77
+73
+
+15
+
+‘
+
+–
+_;[
+
+,
+
+–11
+_~
+–11
+–12
+
+;
+
+1.16
+
+-;:
+;
+;
+!
+
+S7
+
+Ss
+
+:63
+.64
+.53
+.53
+
+33
+w
+91
+
+23
+16
+19
+I.1
+12
+
+14.3
+13.9
+14.2
+14.7
+13.6
+14.6
+14.2
+14.2
+E2. o
+13.5
+11.5
+11.6
+
+..—_
+—.—
+
+.—
+,=
+—
+.
+
+TABLE C-.—&&ic units.
+&orind
+
+R. P. X.
+
+: B. H.P.
+
+-—l
+1,403
+!
+1,600
+1, Soo
+2,000
+~, ~~
+
+I
+! F. H.P.
+
+I
+
+j
+:
+j
+
+246
+233
+319
+339
+
+~
+~
+~
+
+I
+
+34s
+
+I
+
+I
+
+34
+44
+54
+63
+73
+
+runs.
+kfechmied
+e~ciency,
+permt.
+
+1. H. P.
+
+2s0
+33?
+373
+432
+&J
+
+~
+I
+I
+
+,
+
+Air density.
+kg. per
+m. m.
+
+.
+
+584
+
+ANTN”UAL REPORT NATIOh’AL
+
+ADVISORY COMMITTEE
+
+FOR AEROhT.4UTICS.
+
+TABLE D.— Metric units.
+
+AItitude rune.
+——
+Ai~~nrt
+
+y,
+
+cu. m.
+
+F. H. P.
+
+B. E. P.
+
+—..
+
+l—
+1.20
+1.04
+.88
+.72
+.64
+.56
+
+I
+\B. h.p.+(b.
+efficiency, R. Z’.M. lh. p.atl.2U
+[ density).
+percent. ,
+
+Meihqnid
+
+L H. P.
+,.
+
+54
+50
+47
+44
+42
+41
+
+322
+267’
+213
+160
+133
+97
+
+376
+317
+260
+204
+175
+
+:
+]
+
+86
+84
+82
+
+.1,800
+1,800
+1 1,800
+
+1.00
+.83
+.66
+
+—.
+OBJECT
+
+OF TEST.
+
+The test wi.s made to determ&e the performance of a 300 horsepower Hispano-Suiza
+engine and was typicaI of the class of tests usualIy run on a new type engine in that some completeness was sacrificed in order to restrict the actuaI running time of the engine to an amount
+which would leaw the engine in good condi~ion for actual flight work.
+DESCRIPTION
+
+OF ENGINE
+
+AND APPARATUS.
+
+(A). Engine and supplies.
+The engine used was a 300 horsepower Hispano~SuizaJ S. C. IYo. 13481. This is a J’ee type
+It has a bore of 140 mm. (5.51 inches), stroke of 1.50
+motor with eight water-cooled cylinders.
+mm. (5.9 1 inches), ancl a compression ratio of 5.3. The Stromberg carburetor used is provided
+-with a manually operated valve for controlling the air-fuel ratio at tbe different altituc~=.
+MobiIe B oil was used for lubiicatio.n. and X gasoline for fuel. The X gasoline conforms to the
+Aircraft Production Board’s Specification 3512 for Export Aviation Gasoline for the A. E. l?.,
+1918. A distillation curve of the fuel is given on curve sheet 15.
+(B). Appa~atus.
+The engine -was tested in the AItitude Chamber of the Bureau of Standards.
+This chamber
+and apparatus is described in report No. 44 of th~ lTationaI Ad~isory Committee for AeroProvision
+is mtide
+nautics (Bureau of Standards Automotive Power PIants Report No. 52).
+for reducing the pressure of the air in the chamber to that of the altitude desired, while at the
+same time its temperature may be reduced to correspond with the temperature that prevaik
+at that aItitude.
+Outside the chamber there is arnpIe equipment for measuring power, fueI
+consumption,
+
+and various temperatures
+
+and pressures.
+
+PROGRAM
+
+OF TESTS.
+
+(1) A run was made with wide-open throttle at ground altitude at speeds from 1,400 r. p. m.
+The
+to 2,200 r, p. m. The spark advance was adjusted for maximum power at each speed.
+carburetor was adjusted at each speed to give the least fuel consumption possible with maximum
+To secure this result the carburetor was first adjusted for maximum po-iver and then
+power.
+the mixture -was leaned untiI the torque dropped appreciably.
+The mixture was then again
+enriched untiI maximum torque was restored.
+(2) A run was made with wide-open throttle at speeds of 1,600 r. p. m. and 1,800 r. p. m.
+at altitudes of ground, 5,000, 10,000, 15,000, 20,000, and 25,000 feet (1,520, 3,050, 4,570, 6,040,
+and 7,620 meters).
+At each speed and altitude the spark and carburetor were adjusted as for
+the ground run.
+(3) A series of runs were made at altitudes of 5,000, 10,000, and 15,000 fee~ (1,520, 3,050,
+and 4,57o meters) at speeds of 1,400, 1,500, 1,600, 1,700, and 1,800 r. p. m. In these runs the
+dynamometer and throttIe were so adjusted as to put a load on the engine at each speed equal
+to that which would be imposed by a propeller whose normal speed was 1,800 r. p. m. In runs
+of this type it is assumed that the horsepower of a propeller varies as the cube of the speed,
+
+~
+
+pERFomwwcE
+
+OF A 300-HORSEPOWE~
+
+HISPANO-WIZA
+
+585
+
+EXGINW.
+
+Thus, if 1,800 be the normaI r. p. m. of the propeller, that is, the r. p.m. obtained with full power
+of the engine, then the horsepower
+
+14003
+
+at 1,400 r. p. m. VW be w
+
+times the horsepower
+
+r. p. m. In these runs the spark and carburetor were adjusted at 1,800 r. p. m.
+runs, but these adjustments were not altered for the other ]oads.
+(4) A series of friction horsepower runs were made at speeds from 1,400 r.
+In these runs
+r. p. m. at aItitudes of ground and 15)000 feet (4,570 meters. )
+operated under power until oil and -water temperature became normaI.
+It my
+the dynamometer and the power input measured.
+METHOD
+
+OF O13TAINNG
+
+at 1,800
+
+as in the above
+p. m. to 2,200
+the engine was
+then driven by
+
+RESULTS.
+
+The re.wdts of the tests are given in Tables 1 to 9. .4 deiaiIed record of the complete test
+procedure of the Laboratory, both in securing data and computing results, is @ preparation, so
+The run numbers are those that -were @ed on the
+that a brief explanation here will sutllce.
+original sheets to designate the clifferent runs.
+Altitude vm.s determined from the cume sheet, number 16, using the barometric pressure
+measured at the carburetor entrmce.
+The er@e
+torque was measured on a 2 l-inch arm on
+the dynamometer, and from this vaIue the torque in pound-feet, brake mean effecti~e pressure,
+The brake horsepower calculation, of cour~e, required
+and brake horsepower -were calculated.
+the speed which was obtained with a re~olution counter.
+Temperatures were all measured
+with thermocoupks
+and presmres with U type manometers.
+The -roIume of air used per unit. time was measured -with a Venturi meter calibrated in
+place against a carefu~y tested Thomas meter.
+From mewurement=s of temperature and
+pressure air density was figured, and then the weight of air used.
+The volumetric efficiency is the ratio of the -rolume of air which the engine actuaIly takes
+in per cycIe of two revolutions to the total piston displacement of the engine.
+The air volume
+is computed at. the temperature and pressure existi~~ at the entrance to the carburetor.
+The brake thermal efficiency is the ratio of the heat equi~alent of brake horsepower to the
+Since the temperature in the engine cyLinder is so high as
+heat equivalent of fueI supphed.
+to prevent the condensation of -water vapor resulting from combustion, the heat. that wouId be
+liberated in such a case (the difference between the upper and lower heating value of the fueI)
+Hence in caIculatidg thermaI efficiencies the lower heating
+can not be used by the engine.
+value is used which for X gasoline is 1S,940 B. t. u. per pound (34,100 caI. per gram).
+In calculating the heat distribution in TabIe 2, howe~er, the higher heating ~alue of the
+fuel (20,320 B. t.. u. per pound (36,600 cal. per gram)) is used because ig the calorimeter used for
+obtaining exhaust heat the water vapor resulting from combustion is condensed.
+Residual
+It includes, and in fact its chief element is, the heat equivalent
+heat is obtained by differenceof the unburned fuel which goes out of the” exhaust.. lt w-ill be noted that no consideration
+has been gi-ren to the power developed by the lubricating oil burned.
+The difEcuIties in determining jusi how much of ihe oil consumed is actually burned on the p’oviers troke, together with
+the probability that this percentage is not greatly different. for engines of simikr type, h~-re made
+it seem best to iggore this factor in heat baIances up to the present time.
+The brake horsepower and brake mean effecti~e pressure obtained on the ground run are
+converted to vaIues for standard barometric
+pressure by mnllipl.ying the -ralues ac tuaIly
+obtained by the ratio of .29.9 to the actual barometric pressure in inches of mercury.
+The results shown in Table 9 are taken from the curves at e-i-enspeecls. The indicated horsepower is obtained b~ adding the brake horsepower to the friction horsepower. . The mechanical
+efficiency is obtained by dividing the brake ho~epower
+by the indicated horsepo~er.
+In
+obtaining the ~alue of friction horsepower at different densities, its ~alue at the ground and at
+15,000 feet (4,570 meters) was taken and it was assumed to ~ary linearl~ between these points.
+Previous tests justify this assumption.
+
+.
+
+586
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+AERONAUTICS.
+
+RESULTS.
+
+The more important results of the ground tests are shown on curve sheets 1 to 5, inclusi~-e.
+Curve sheet 1 shows the maximum measured brake mean effective pressure to have been 124
+pounds per square inch (8.7 kg. per sq. cm.) at a speed of about 1,600 r. p. m. The maximum
+brake horsepower measured was 343 (348 metric horsepower) at 2)200 r. p. m., with the indication that this would have increased slightly at higher speed.
+The atmospheric pressure was
+such as would be equivalent to an altitude of about 500 feet (150 meters) and the slightly higher
+results that would be expected under standard barometric pressure are given on curve sheet 2.
+This shows a maximum brake mean effective pressure of 128 pounds per square inch (9 kg. per
+sq. cm. ) and a maximum brake horsepower of 352 (357 metric horsepower).
+Curw sheet 3
+shows indicated horsepower, that is, the horsepower obtained by adding to the brake horsepower the friction horsepower at that speed, plotted against r. p. m. The lower cum-e shows
+the dependence of power upon charge weight b y presenting at each speed the ratios of tJ~e
+indicated
+horsepower and pounds of air per hour at that speed to their ~alues at 2,200 r. p. m. The mechanical efficiency is shown to vary from 88 per cent to 83 per cent over the speed range tested, while the
+brake thermal efficiency, based on the lower calorific value of the fuel, maintains a constant value of
+26 per cent over the same range.
+In studying the curve of pounds of air per pound of fuel on
+sheet 4, it must be remembered that the carburetor was adjusted for each speed so that the
+Cum-e sheet 5 shows the beat
+shape of this curve does not indicate a carburetor characteristic.
+At 1,800 r. p. m., the normal speed of the engine, the heat in the fuel supplied is
+distribution.
+about 4.1 times that realized in brake horsepower and the heat in the jacket is shout half
+cTnder
+the same conditions
+the heat in the exhaust is
+that developed in brake horsepower.
+
+q
+
+about 1.7 times and the residual about equal to the heat equivalent of the brake horsepower.
+It
+should be remembered that the residual heat is the difference between the heat in the f ueI and
+Hence the
+that which appears in brake horsepower , in the jacket, and as heat in the exhaust.
+residua I heat includes and is chiefl]’ composed of the heat value of the unburned fuel in the
+exhaust.
+The curve sheets 6 to 8, incIusi~e, show the effect of change of altitude on engine performance.
+Since it is the change in density caused by change in altitude that is the fundamental
+cause of these changes, it is against air density tl.nit curves are plotted.
+That the results may be
+conveniently interpreted from a pressure standpoint vertical lines ha~e been drawn upon which
+approximate barometric pressure are noted.
+Prior to any careful analysis of the altitude cur-res the curves of pounds of fuel pm brake
+horsepower hour on curve sheet 6 and pounds of air per pound of fuel on curye sheet 9 should be
+examined.
+The mixture wil~ be seen to have been very rich at altitudes of 20,000 and 25,000
+ft. (6,040 and 7,620 meters) due to the fact that the carburetor adjustment was not sufficient
+to permit the necessary decrease in fuel flow at those altitudes.
+Extreme richness, of course,
+manifests itself both in a reduction and fluctuation in speed and torque. Cur-w sheet 6 shows
+the brake mean effective prmsure and brake horsepower to vary linearly v7ith density up to the
+Curve sheet 7 shows that at 1,800 r, p, m, and
+point where the mixture becomes abnormal.
+at a density of 0.040 pounds per cubic foot (.6.4 kg. per cu. m.) the brake horsepower is about 42
+This curve sheet also shows the percentage decrease in indicated
+per cent of that at the ground.
+horsepower for a reduced density to be considerably greater than the decrease in pounds of air used
+On curve sheet 10 it should be borne in mind that. it is the carburetion that is
+by the engine.
+directIy repsonsible for the high” heat in fuel over heat in brake horsepower” and “residual heat
+-values, and that indirectly it is responsible for the finaI high
+over heat in brake horsepower”
+values of ‘(heat in jacket over heat in brake horsepower’ ~through the resulting low power.
+Those curves on propeIler load work on curve sheets 11 and 12 which show mixture ratios
+or fuel consumption are influenced primarily by carburetor characteristics, since its onIy adj ustment was at the maximum speed, 1,800 r. p. m.
+
+PERFOR31AA-CE OF A 300-HORsEpO~R
+
+HL~~AA’0-si31zA
+
+EX1313~E.
+
+CONCLIX310N’S.
+
+The information
+
+in such
+
+a report
+
+as this
+
+wilI
+
+be of most
+
+value
+
+when
+
+compared
+
+tith
+
+results
+
+It then serves as a basis for comparing the reIati~e merits
+of the t-w-oengines and as a means of expIa.ining the superiority of one engine owr another in
+rmy pa.rfiicular phase of performance.
+The test shows the inadequacy of the carburetor altitude control of air-fuel ratios for
+It akio shows how the relati~e importance of high
+heights above 20,000 feet (6,040 meters).
+rnechau ieal efficiency increases with altitude.
+WMEINGTOXZ
+D. C., Uay 1.2, 1920.
+of simikr
+
+tests
+
+on other
+
+engines.
+
+TABLE L-Engtish
+
+units.
+
+(hound runss. FuI1 ~wer.
+Approximate 31titnde in ft.
+
+RJJn l~o.
+
+Lb. of fuel
+Whb.l. p.
+
+Lb. of fuel
+per hour.
+
+R. p. ‘n.
+
+4
+2A
+3 -%
+4 .%
+5A
+!
+
+1,420
+1,640
+1,840
+1, 9s0
+z, ~go
+
+500
+500
+Xnl
+530
+mo
+
+1 .%
+
+b
+
+!
+
+I
+
+I
+
+Temperature, degrees F.
+
+t
+
+0.52
+.51
+.52
+.51
+.52
+
+m
+14s
+166
+169
+179
+
+Oil Jre.ssrm,” kfanifdd Barometric ~
+
+Run Xo.
+Oil ioIet.
+
+“OiI outlet.
+
+rachte~:te) watel Carburetor
+&et
+outlet.
+
+air.
+
+lb. per w..
+auction,
+inch.
+: inches hg.
+
+pressure,
+inches big.
+
+I
+
+----
+
+i E.
+;?
+3 A
+4A
+5 A
+
+1%
+124
+. . . . . . . ... . .-..-...1
+
+136
+159
+170
+162
+.166
+
+87
+8S
+88
+87
+g~
+
+Ho
+106
+110
+Ho
+107
+
+TABLE 11. —Eng&sh
+
+Ground runs.
+
+65, L0
+63 1.2
+63:L5
+65 , 1.S
+63; L9
+,:
+
+z.
+LO
+L1
+1.3
+1.5
+L8
+
+!
+29.4
+29.3
+29.2
+2% I
+29.0
+
+.—
+
+;
+;
+!
+
+units.
+
+Full power.
+
+—
+
+ANNUAL
+
+REPORT fiTATIOtiAL ~DVISORY
+
+CWUWIIKCEE FOR AERONAUTICS.
+
+TABLE III .—English
+Altitude runs.
+
+R.p. m.
+
+11 A
+
+: Ground.
+
+12 A
+13 A
+14A
+15A
+16 A
+17 A
+18A
+19.4
+20 A
+21 A
+22 A
+
+I Ground.
+:
+5,000
+/
+5,000
+10,000
+10,000
+15,000
+!
+15,000
+20,000
+‘
+20,000
+25,000
+25,000
+
+Torqi~ lb.
+.
+.
+
+1,600
+1, Soo
+1,61.0
+1,790
+1,600 /
+1,810
+1,590
+1,790
+1,620
+1,820
+1,780
+1,600
+
+930
+938
+784
+772
+632
+628
+511
+499
+345
+383
+224
+235
+
+unils.
+
+FuI1 power,
+
+B. m. e. p.
+.,
+1E2Z5
+123.6
+105.1
+1U3.1
+84.7
+m. o
+6&3,
+66.6
+46.15L 4
+39.9 ~
+31.5
+
+Lb. of fuel
+per hr.
+.
+
+B. h. p.
+
+Lb. of fuel !
+per btih. p.
+
+--------283
+316
+’241
+264
+:193
+216
+. l&j
+170
+-.107
+133
+76
+-72
+
+“i
+
+0:;:
+
+~
+
+.53
+.54
+.60
+.56
+.61
+.59
+.86
+.69
+L 18
+1.12
+
+:
+
+i50
+171
+129
+142
+E:
+1:!
+92
+::
+80
+
+:
+,
+
+I
+I
+
+:
+
+I
+Temperature, degrees F.
+Run No.
+
+.—
+I
+Oil inlet.
+
+1
+
+oil ~ut,et
+
+Jac;~eyter
+.
+
+Jaclie~ ~vater Carburetor,
+I outlet.
+air.
+\
+
+Oil pressure,
+Ib. per sq.
+‘n’
+
+Manifold
+suction,
+I inches hg.
+[
+
+Ilarometri
+i%%d.
+
+.
+
+PERFORwiNcE
+
+OF A 300-HORSEPOWER
+
+wtits.
+
+TA.BLE IV.—English
+
+Altitude
+
+Heat
+distribution
+
+I
+Run
+
+3’0. Hea’t in fueI ~ Heat in
+
++heat fn ~j+rkef+heat
+kh-p.)
+\ mb. h.p.)
+
+I
+
+21A
+22A
+
+rum.
+
+FuU power.
+
+based on b. h. p.
+I
+
+3e3t
+in
+
+589
+
+HISPA.22Y0-SUIZA ENGINE.
+
+Heat dktribut[on bassd on heat in iueI.
+
+I
+
+;fiamt,
+JRtidu,l
+
+ex-
+
+mst+(heat
+
+1’
+
+cenL
+
+in h. P.)
+b.
+
+P,
+writ.
+
+[
+
+‘
+
+9.4
+8.9
+
+I
+
+:
+
+.2.0
+L8
+L3
+18
+L8
+L8
+L9
+L9.
+L9
+2.1
+2.3
+2.0
+
+.96
+. 9s
+
+I
+
+14
+24
+21
+24
+28
+24
+28
+25
+46
+32
+55
+56
+
+z
+43
+43
+3s
+41
+39
+40
+28
+38
+24
+22
+
+!
+
+1
+
+& density,
+ll&p#
+
+Run No.
+
+=~. ~ ~ec
+hr.
+
+Thermal
+e&iency,
+per cat.
+
+VOIumetric
+
+eficiency,
+per cent.
+
+f Lb. air per
+lb.~~ ~1,
+
+1
+
+I
+
+11A
+12A
+13 A
+14 .%
+15 A
+16A
+17 A
+18 A
+19A
+20 A
+21.4
+22A
+
+0.072
+.075
+.064
+.066
+.056
+.056
+.047
+.047
+.039
+-040
+-033
+.033
+
+:
+i
+!
+I
+
+i
+;
+,
+
+91
+
+2,150
+2, 3s0
+1,840
+2,090
+\ 570
+1,790
+1,340
+1,440
+1,100
+1,240
+~ 030
+930
+
+I
+
+25
+
+M 3
+
+. .—
+—
+
+.,
+—
+
+“ ‘T_ABL~ \’.—English
+
+1
+
+, Run Ko.
+
+lB
+2B
+3B
+4B
+
+units.
+
+‘III&%i%d:
+
+=b- of ~el
+per hr.
+
+R. P. m.
+
+in [t.
+
+!
+!
+i
+
+15,000
+15,000
+15,000
+15.000
+
+75.3
+67.5
+59.3
+5L7
+102-2
+92.1
+8L 4
+74.4
+62.2
+I
+
+168
+142
+117
+100
+78
+214
+183
+155
+
+1,790
+1,680
+1,530
+L 500
+L 390
+
+,
+;
+‘
+;
+~
+
+187
+160
+126
+
+100
+S6
+
+I Lb. cd fuel 1 Bzmmetric
+: per ~rh. p.
+prcsmre,
+,
+inch- hg.
+‘
+\
+
+74
+72
+l!;
+93
+89
+;:
+w
+110
+92
+S5
+78
+
+I
+!
+/
+;
+
+;
+;
+,
+
+I
+
+0.59
+.60
+.63
+.72
+.84
+.55
+.51
+.57
+.57
+. 6~
+.51
+-49
+.49
+.53
+.62
+
+‘“
+;
+
+:
+:
+,
+
+,
+,
+}
+
+i
+
+17.2
+17-2
+17.1
+17. ~
+17-2
+20.7
+20.8
+20.7
+20.7
+20.7
+24.9
+25.0
+25.0
+25.1
+25.0
+
+A2GTUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORS
+
+GOM311TTEE
+
+TABLE VL-English
+
+FOR
+
+AEROhTAUTI(X
+
+unite.
+
+Propeller load rum.
+. Temperature, degrees F.
+Run No.
+OiLinl.eL
+
+“Oiloutlet.
+
+acket wak
+inlet.
+
+mate
+outtet.
+
+‘acket
+
+lB
+2B
+3B
+
+114
+1~()
+122
+119
+111
+108
+
+112
+112
+Ho,
+108
+110
+114
+H3
+113
+108
+106
+118
+111
+111
+108
+105
+
+152
+157
+155
+150
+146
+157
+158
+157
+151
+147
+158
+162
+157
+150
+144
+
+20
+19
+19
+
+0:9
+2.7
+3.7
+4.8
+5.5
+1.1
+2.7
+4.6
+5.9
+7.1
+1.3
+3.3
+5.7
+7.0
+8.2
+
+‘“- ?;
+27
+27
+27
+- 27
+2?
+43
+41
+:
+41
+40
+41
+
+Lb. of air
+per hr.
+
+Lb. ofair
+f%, ‘207;,
+
+—— —-—
+
+.
+
+I
+
+15 B
+
+hir density
+;; p#
+
+Manifold
+suction,
+iuches hg.
+
+Carburetor,
+air.
+
+0.048
+.048
+.047
+.047
+.048
+,057
+.057
+.056
+.056
+.056
+,066
+.066
+. .066
+.066
+.066
+
+0%
+2.7
+4.0
+4,7
+5.4
+L]
+2.9
+4.5
+5.8
+6.5
+1.2
+3.4
+5.5
+&7
+8.4
+
+1,450
+1,180
+990
+870
+770
+1, 6L?0
+1, 4~()
+& 230
+1,030
+900
+1,990
+1,680
+1,450
+1,250
+1,030
+
+14.5
+13.7
+13.4
+12.1
+lL 7
+14.4
+15.3
+13.9
+14.3
+12.7
+15.2
+15.2
+16.7
+14.8
+13,1
+
+I
+———
+TAELE VII .—En~ylish
+
+fiction
+
+unfts.
+
+horsepower,
+--F
+
+ApprOxiRun h’0, : mate altitude, feet.
+
+R. P.m.
+
+~r;ctioll
+‘Barometr
+
+pressure,
+inehes hg
+
+h. p.
+
+I
+15,000
+15,000
+15,000
+15,000
+15,000
+Ground
+Ground,
+Ground
+Gxound
+Ground
+
+1,420
+1,600
+1, Soo
+1,990
+2, 170
+1>390
+1,610
+1,780
+1, 9s0
+2,180
+
+Temper&ture,
+
+29
+35
+42
+50
+58
+33
+43 !
+52
+;;
+
+degreee
+
+17.0
+17.0
+17.1
+17.0
+17.1
+29.3
+29.2
+29.1
+29.1
+2$1
+
+Air riensky, lb. ,
+per cu. ft. :
+.—
+0.044
+.0<4
+.044
+.044
+.044
+.076
+.075
+,075
+.075
+.075
+
+F.
+
+.—
+Rurl No.
+
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+B
+B
+B
+B
+R
+B
+B
+B
+B
+II
+
+Oil inlet.
+
+113
+115
+117
+119
+123
+124
+
+126
+124
+127
+129
+
+Oil outlet.
+
+]43
+139
+142
+146
+153
+151
+147
+147
+14!?
+154
+
+p=:::t
+
+Jacket
+outlet.
+
+116
+120
+122
+126
+129
+121
+115
+103
+10s
+113
+
+m
+121
+124
+128
+131
+12’3
+117
+1(X
+108
+115
+
+%rburetor,
+air.
+
+%
+57
+56
+5?
+53
+53
+54
+Z
+
+!
+:
+
+...
+
+—
+
+TABLE WII.-Eny&h
+
+Units.
+
+Ground and aIntude rum.
+
+[ecknkal
+E6ciency,
+per cent.
+
+F. h. P.
+I
+
+I
+
+I
+
+0.075
+.065
+. OZi
+.045
+.040
+I
+
+!
+i
+!
+
+gg~
+235
+1s9
+141
+116
+
+325
+~i6
+227
+177
+150
+116
+371
+313
+257
+201
+173
+136
+
+43
+41
+3s
+36
+34
+33
+53
+::
+
+1
+
+.040
+.035
+
+‘
+
+MI
+96
+
+z
+40
+
+}
+
+-_-j
+1.00
+. S6
+.73
+.6U
+..53
+.46
+L 00
+.S6
+73
+:59
+~~~
+.46
+
+R.p. m.
+
+de&ity).
+
+[
+
+,
+,
+
+—
+
+1.00
+
+Loo.
+- &i
+
+;
+
+3.h. p.+
+b. $;E at
+
+.s3
+.67
+.50
+.41
+-29
+1. (xl
+.%?
+.66
+-50
+.41
+.30
+
+::2
+.46
+.36
+L 00
+. S3
+.66
+::
+.30
+
+. .
+
+I
+lTnits.
+T.4BLE 1.— Metric
+Ground runs.
+
+~ Run Xo.
+
+.!pprOxinmte a!ti~de ~
+meters.
+150
+lm
+150
+;%
+
+11.p.m.
+
+Torqw.
+;g. meters
+
+Full power.
+3. m. e. P.,l
+B.h. p.
+[g. per sq.
+cm.
+I
+
+.
+
+1,420
+1,640
+1, s-lo
+1,980
+z%
+~go
+
+——
+
+1!
+
+I
+
+Temperature, degrese C.
+0 il pres~e,’= ~r
+sq. cm.
+
+Mm”k.ld WC- B3mmetri~ :
+pze.smre,
+tion, cm. hg.
+cm. hg.
+
+t
+‘L(3
+4.4
+4.4
+4.6
+4.4
+
+2?5
+3.0
+3.7
+46
+4.~
+I
+
+:4
+2.9
+3.4
+3.8
+4.5
+
+74.7
+
+74.4
+74-3
+74.0
+73.7
+
+.
+
+-—
+
+592
+
+.4
+NNUAJL REPORT
+
+NATIONAL
+
+ADVISORS
+
+T~BLE
+
+CUM M’lTTEE FOR AERONAUTICS.
+
+11. —Metrk
+
+Ground runs.
+
+wd.s.
+
+Full power.
+
+Heat distribution
+basedonb. h. p,
+
+Heat distribution
+breedonhmt in fuc1.
+f.
+
+Heat in
+fg$:fyp:;,
+
+‘Un ‘0”
+
+;%:
+1=%2:-!
+%%?]
+~h~;$
+~ ~Jh:t~ , (heatiu
+.
+.
+. . b.h. p.).
+
+,A
+~
+
+4.1
+
+;
+‘
+I
+
+$8
+~1
+
+/
+
+4’2
+
+I
+
+0.41
+.40
+.48
+.55
+
+L 9
+1.?’
+1.7
+
+0.8
+
+24
+251;~142,;~
+24 i
+11
+24\13,4J
+24
+t
+
+1::
+.6
+.8
+
+k:
+
+!
+
+L 20
+
+1.20
+1.20
+L 20
+L 19
+
+850
+970
+1,080
+1,170
+1,260
+
+-
+
+,
+
+20
+
+40
+;:
+
+“1
+
+~ 90
+89
+~ S)0
+89
+87
+
+26
+26
+26
+26
+26
+
+;TABLE 111. —Mettic
+Altitude runs.
+
+46,1
+
+‘ill
+
+l-l—
+
+Run ‘0:
+
+Exhaust, , Residual, :
+pm cent.
+per cent.
+I
+
+““39
+
+~ Approximate
+
+Jrwkct,
+per cent.
+
+,-
+
+‘
+1A
+2A
+3A
+4A
+5A
+
+B. h. p.,
+per cent,
+
+I
+
+14.6
+14.5
+14.3
+15.2
+15.2
+
+,
+{
+
+1
+!
+:
+~
+
+units.
+
+Full power.
+
+1
+Torque in
+
+i ~lti~~d~
+
+“p’ ‘“ Ikg. meters.
+
+~in meters.
+
+B.rn, ‘1
+c.p.
+k& p?r [ B. h. p.
+sq; cm.
+
+‘b
+h
+Kg. of fuel]
+
+;:,;;:l
+
+p. h;.
+
+.i
+—
+
+I
+H A
+12 .J1
+13 A
+14 A
+15 A
+16.4
+17 -’i
+18A
+19.4
+20A
+21 A
+22 A
+
+I
+
+f
+~
+;
+I
+
+]> 5~13
+1, 520
+3,050
+3,050
+4, 570
+4,570
+6,040
+6,040
+
+128
+130
+10s
+107
+87
+87
+71
+
+1,610
+~ 1,790
+~
+i
+:
+;
+~
+
+;: :!8
+1,590
+1,790
+1,620
+1,820
+
+8:8
+.8.7
+7.4
+7.2
+6.0
+5.9
+4.8
+-z 7
+3.2
+.$;
+
+::
+
+1
+
+237
+320
+-;:
+195
+219
+157
+173
+109
+135
+
+~
+;
+I
+
+~
+
+1
+
+::
+
+i ‘:::: 32. Z2 ‘;
+.I
+
+7) 620
+I 7’620
+
+m
+7s
+
+\
+
+~
+::
+52
+55
+43
+46
+42
+.
+
+:
+I
+
+l—
+
+Oil
+
+I
+
+~ Jacket
+
+I
+
+I
+
+I
+1“
+
+36 ‘;; !
+..
+
+I
+
+Temperature, degrees C.
+oil
+inlet,
+
+024
+.24
+.24
+.24
+,27
+.25
+.27
+.26
+.38
+.31
+
+::
+
+.—
+
+1.
+Run No.
+
+Ground , I, 600
+Grouud ~ 1,800
+
+,,
+
+lacket wator outIet.
+
+Oil
+~
+pressure,
+kg. per
+sq. cm.
+i
+
+Carburetor air.
+
+“Ut’e’” !=
+
+34auifoId
+suet ion,
+cm. hg,
+
+Bare.
+met ric
+prcssun.,
+cm. hg.
+
+I
+61
+73
+66
+69
+67
+70
+69
+69
+66
+
+33
+33
+31
+33
+33
+34
+35
+36
+34
+37
+36
+34
+
+47
+
+15
+
+4.6
+
+44
+42
+42
+44
+44
+44
+
+16
+14
+5
+
+;;
+4.6
+
+“:;
+44
+42
+41
+
+---
+
+\
+!
+
+:;
+–6,
+–7
+–11
+–12
+–11
+–12
+
+f
+;
+1
+
+::;
+4.5
+4,5.
+4.6
+4.6
+4.4
+4.4
+
+‘ 3:4
+3.8
+; 2.7
+; 3.1
+, 1.6
+; 1.5
+;
+;
+.2
+;
+.4
+
+:0
+3.6
+2.7
+3,1
+2.0
+2.5
+
+;
+
+:::
+1.3
+
+I
+
+::
+.4
+
+H
+1.6
+
+74.6
+74.4
+63.3
+63.3
+52.5
+52.5
+43.7
+43.2
+35.6
+36.0
+29.8
+29.6
+
+I
+
+PER FC)i?M.lA-CE OF .4. NO-HORSEPOWER
+TABLE
+
+distribution
+
+bastd
+on
+
+units.
+
+IJ-.—31eh”c
+
+.iltitude
+rt~ns.
+Heat
+
+HISPL2”0-SLWZA E3-GINE.
+
+F1.111power.
+
+h. p,
+
+b.
+
+Heat dktribution bad
+
+on Mat in fue~.
+
+.
+T
+
+_——
+[
+
+Heatin km]
+Run Xo. : + (heat in
+i b.h.p.).
+
+Residual, !
+:
+per .tmt.
+r
+
+--
+
+15A
+
+!
+
+16 .% ;
+17.4
+‘
+18 .% I
+
+4.s
+4.5
+4.9
+4.7
+
+-m
+
+-.%
+
+‘
+
+L s
+1. s
+L 9
+L 9
+L 9
+2.1
+
+.64
+
+L 3
+
+-.
+
+Kg. air
+p k..
+of iue7,
++02.
+
+%0
+710
+Slo
+610
+650
+500
+
+1.06
+.00
+.w
+. i(i
+.76
+.63
+.N
+.53
+.53
+
+;
+
+“S3:
+83
+
+nis9:
+420 I
+I
+
+T.LBLE V. —Jfdric
+
+;
+
+—
+—
+
+12.0
+13.5
+H. 5
+H. 6
+
+16
+19
+;;
+
+91
+
+~
+
+units.
+
+PropeIIer Ioad runs.
+.!pproxi- ~
+Run
+
+SO.
+
+mat e
+
+altitude
+in mews.
+
+.1
+R. p. m.
+
+,&~$~&.
+
+t
+
+‘If. m.e. p.,
+kg. per w.
+C.n
+
+—.——
+
+—
+;;
+:; B
+4B
+5T3
+)j B
+7H
+SF3
+
+1,790
+1, 6s0
+1, 5s0
+1,500
+1,390
+1,790
+1,690
+-L ~zo
+
+4,570
+4, 570
+4.570
+4, 570
+4,570
+:3,050
+3.050
+: .3.050
+
+I
+—
+
+K&fge.1
+
+B. Il. p.
+
+’39
+35
+31
+y;
+Z&
+45
+40
+35
+
+‘
+‘
+,
+
+[
+——.
+
+4.;
+4.1
+3.7
+3. ~
+2.s
+5.9
+5.3
+4.7
+4.2
+3.6
+7.2
+6.5
+5.7
+5.2
+4.4
+
+170
+144
+119
+101
+so
+217
+
+‘ fuel per
+‘g” 0f
+1).h.p. hr.,
+,
+;
+
+45 “:
+39
+33
+33
+
+.23
+.26
+.26
+.30
+.23
+
+Lm
+!
+,
+;
+I
+
+Es
+106
+263
+~i
+100
+162
+12s
+
+& 9J
+.27
+- ~g
+.3?
+. 3s
+
+.25
+
+1s5
+!
+
+Bar~met rjc 1
+pressure. ~
+-hg.
+,
+
+L
+
+.
+
+t
+
+1-
+
+,
+
+A2WilAL
+
+REPORT
+
+ATATIONAL ADVISORS COMMITTEE
+TABLE VI.—.Wetrr2
+Propeller
+
+un{ts.
+
+load runs.
+
+Oil idet,
+
+)iI outlet.
+
+Jacket
+rater inlet
+
+!
+
+I
+
+~emperature, degrees C.
+Run No,
+
+FOR AERONAUTICS.
+
+AU
+
+dimsit y
+kg. per
+CL m.
+
+acket wa.
+,er outlet.
+
+Kg, air
+of
+Per hour.
+
+IQ,ofair
+
+!
+
+per kg. O(
+fuel, +0.2.
+
+—–!
+lB
+2B
+3B
+“4B
+5B
+6B
+7B
+8B
+9B
+10 B
+11 B
+12 B
+13 B
+14 B
+15 B
+
+,
+
+:!
+
+51
+49
+
+.2:
+50
+50
+47
+46
+49
+::
+44
+42
+
+’67
+70
+68
+65
+63
+70
+70
+70
+66
+64
+70
+72
+70
+65
+62:
+
+45
+45
+43
+42
+43
+46
+45
+45
+42
+41
+48
+44
+44
+42
+41
+
+35
+36
+35 ‘
+34
+35
+37
+36
+35
+34
+33
+36
+34
+33
+33
+Yz
+
+–7
+–7
+
+1
+I
+
+—7!
+
+–51
+–lo
+— 31
+–3~
+– 3 [
+–3,
+– -3
++6:
++51
++51
++5j
++5,
+
+Right.
+2.4
+6.9
+9.4
+12.2
+14.0
+2.8
+&911.6
+M. 1
+I-8.O
+3.4
+8.4
+14.4
+17.8
+22, 5
+
+LejL
+2.1
+6.9
+10.6
+12.0
+13.6
+2.8
+7.4
+11.4
+14.7
+16.4
+3.0
+8.7
+14.0
+17.1
+~~. 4
+
+VII
+
+Friction
+
+altitude,
+meters,
+
+Irorsepower.
+
+R, p. m.
+
+_
+29 B
+30 B
+31 B
+32 B
+33 B
+34 B
+35 B
+36 B
+37 B
+38-B
+
+Ground.
+Gxound.
+Ground.
+
+Ground.
+Ground.
+
+1,420
+1,600
+1,800
+1,990
+2,170
+1,390
+1; 610
+1,780
+1,980
+2,180
+
+3,10metric
+
+FXction,
+~p
+
+II
+4.570
+4; 570
+4,570
+4,570
+4,570
+
+~
+
+14.5
+13.7
+13.4
+121
+11.7
+14.4
+15.3
+13.9
+14.3
+12.7
+15.2
+15.3
+16.7
+14.8
+13.1
+
+.— Metric units.
+
+A&p;;exiRun.h’o.
+
+“
+:
+:
+~
+
+660
+540
+450
+390
+,350
+770
+640
+560
+470
+410
+900
+760
+660
+570
+4G0
+
+!.
+
+I
+TABLE
+
+t
+!
+I
+;
+
+0.76
+.77
+.76
+.76
+.77
+.91
+.91
+.90
+.90
+.90
+1.05
+1.06
+1.06
+1.07
+1.06
+
+-“ “
+
+i ‘:Z2
+
+29
+
+I
+
+I
+
+.41,
+density,
+‘:K;
+
+I
+
+I
+
+43.3
+43.3
+43.5
+43.3
+43.4
+74.3
+74.2
+74.0
+73.8
+73.8
+
+.“X
+51
+59
+34
+44
+53
+62
+. 76
+
+Temperature degrees C.
+
+—
+Runhro.
+
+d 29B
+30 B
+31 B
+32 B
+33 B
+34 B
+35 B
+36 B
+37 1?
+38 B
+
+Oiliulet.
+
+Oil outlet,
+
+45
+46
+47
+48
+50
+
+6260
+61
+63
+67
+66
+64
+64
+65
+68
+
+51
+52
+51
+53
+54
+
+p::t
+
+47
+49
+50
+52
+54
+%
+40
+42
+45
+
+I
+
+Jacket
+outlet.
+48
+49
+51
+53
+55
+51
+.47
+41
+42
+46
+
+‘ Carburetor air.
+
+13
+14
+14
+13
+11
+12
+12
+12
+12
+12
+
+PERFoR31AxcE
+
+OF A 300-HORSEPOWER
+TABLE VIII.-Metti
+
+Ground and altitude
+
+mspAxo-smzA
+wits.
+
+rum.
+
+B. h. p.
+
+R. p. m.
+
+B. Lr.p.
+
+kg, percn. m.
+
+—1
+
+4—
+
+i
+1,400 ‘
+1, Oao
+1.800
+
+Air clemity
+
+595
+
+EA~GIA~E.
+
+I
+
+0.66
+
+246
+~s$
+319
+
+:2
+.$4
+L 00
+
+~. h. p.
+
+L hp.
+
+I
+I
+
+~f~a~ti+per r. h .P. +
+kg. air per ‘“ ‘A” “
+10IU 1.22 density).
+at
+density).
+
+M<chan&c?,
+percent.
+
+1.
+
+~o
+
+L 04
+.ss
+
+!
+/
+
+:;;
+.56
+
+/
+
+1. g-j
+
+,
+
+L 04
+.ss
+72
+:64
+
+:
+i
+
+2S6
+23S
+192
+143
+118
+84
+322
+267
+213
+160
+133
+
+44
+41
+%
+35
+33
+54
+
+50
+
+47
+44
+42
+41
+
+330
+279
+231
+179
+153
+117
+376
+317
+260
+204
+175
+13s
+
+1.00
+.86
+73
+:60
+.53
+.46
+L 00
+.86
+: Z;
+-52
+.46
+
+‘1 L 00
+.85
+:Q
+.46
+.36
+L 00
+.83
+.66
+.50
+.41
+.30
+
+8,
+S5
+83
+so
+77
+71
+a6
+M
+62
+m
+76
+71
+
+1,600
+1,600
+1.600
+1; 600
+1,600
+I, 600
+1. Soo
+1; Soo
+1, Soo
+1: Soo
+1, Soo
+1, Soo
+
+F
+!
+!
+
+L 00
+.83
+.67
+.50
+.41
+.29
+L 00
+.s3
+.66
+50
+:41
+.30
+
+;
+,
+1
+
+596
+
+A.17NUAL
+
+I
+
+REPORT
+
+NATIO17A1J ADVISORY I? LflIITTEE FOR .4
+O
+EROX’AITTICS,
+
+~~
+
+/Yb!!hd&z2+&=
+Altitude
+
+HISPANO-SLYZA “300 “
+
+x
+
+300 Ff. Approx.
+
+/000 $
+
+[
+
+4’
+
+900 q
+y’
+
+m
+
+360
+
+—
+
+8.h!R &B./%?C.~
+Correcfed
+fo
+Sfundord
+8orome?hc
+Pressure
+-29.9’’Hg.
+
+~ 340
+3
+Q 320
+$
+g 300
+
+k$280
+
+~
+
+P
+Q 260
+L
+240
+f bs, Fuel.
+
+L&L
+fig. /.
+
+11’t
+/600
+
+/8QQ
+
+2000
+
+I
+2200
+
+R. P. /+.
+
+/800
+R. P. /+4.
+
+/600
+
+/400
+f[g. 2.
+
+I
+
+I
+/400
+F&+.
+
+1
+
+A
+
+L’+?’ I I
+I
+
+1
+
+2200
+
+2000
+
+I
+
+1
+
+I
+
+(
+
+I’-”!i
+/40 <
+
+/20 $
+/600
+
+/800
+R. P. M.
+
+2000
+
+2200
+
+PERFOR3M>-CE
+
+OF A 300-HORSEPOWER
+
+HISPAN”O-SUIZA
+
+597
+
+EXGIXE.
+
+II
+
+Ill
+
+HfSPANOz.SU/ZA“300 *
+AifLfude 500 Ff. +$+ /-ox.
+,EL
+
+.
+
+Densify.075
+
+‘
+
+111
+
+I
+
+I
+
+1’
+
+Heaf Ih Fue/
+
+5.00
+400
+.300
+
+0.60
+II
+
+I
+
+Residua/Heof
+Heuf lb B.H.F
+
+/400
+
+/600
+
+F/g. 5
+
+/feaf in 5.H E
+
+/800
+
+20(?0
+
+2200
+
+R. P. M.
+
+&7romeA-;c Pres-wre
+Ih~- Offfq. 4PPOx63.29
+52.5/
+43.43 358f 29.74
+74.5/
+
+x
+$300
+Y
+~ 260
+.0
+$220
+t
+
+50
+
+x
+$ /40
+
+40
+
+P
+g /00
+
+b— -= 8.H9?
+
+30
+
+1[
+
+.ti-=”~~oo
+!
+
+...
+B.h’.f?ai 075&t_?sifY
+
+11111
+
+t
+a
+0
+.080
+
+fi9.6.
+
+t
+
+It
+.070
+
+.060
+
+.050
+
+.040
+
+ALri%nsify/~
+L5sper cuff
+
+.Ce30
+F;g.z
+
+. 07U
+
+.060
+.4r Qensify/h
+
+[ !1[
+
+.050
+L6sper
+
+I
+
+.040
+cu,fi
+
+I
+
+‘.030
+
+598
+
+AX~TUAL
+
+REPORT
+
+Pressure
+
+Bo.ome+ic
+
+NATIONAL
+
+ADVISORY C.OMMITTEE
+
+A cm. OfHq.4,0.arOX.
+
+FOR AERONAUTICS.
+
+Pressure
+63.29
+52.5/
+
+Burome+ic
+
+74.5/
+
+A
+
+cm. of//g, Awrox.
+#3.43 35.8/ 23! 74
+
+I
+
+90
+80 —
+
+—
+
+—
+
+—
+
+70
+60
+<—
+$/00
+b
+L 90
+t
+
+/800 R. PM.
+
+80
+—
+30
+
+),
+
+20 —
+
+—
+
+—
+
+—
+
++
+!
+
+/0 -
+
+fig. 70,
+
+A/i DensifyA
+
+I
+
+Lbs.per
+
+t
+
+.080
+F/g. 8.
+
+cu,ff
+
+I
+
+I
+
+.050
+.Lbsper
+
+.0.40
+cu.ft
+
+.030
+
+/eo
+
+H/SPANO-SU/ZA “300”
+!
+I
+
++,1(
+
+.070
+.060
+AI> Oemj?yth
+
+/60
+
+;
+
+k
+/@ ~
+
++4..1
+
+I
+
+\\
+
+I
+
+1.-s
+
+I
+
+i
+
+I
+
+I
+
+I
+
+—
+
+—
+
+—
+
+I
+
+I
+
+/000
+
+2600
+
+9.00 —
+r\.
+
+—
+
+—
+
+—
+
+-
+
+—
+
+–
+
+I
+8.oO Zou
+6.00 —
+s 00
+
+h’euf A Fue/
+
+,,
+
+F
+J
+
+2.00
+
+[_l
+
+... ,- ,
+
+I
+,“
+
+.
+
+I Jf’GJ:L4-[
+,,
+
+I -.
+
+0.00
+
+1
+
+.080
+fig. 9.
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+,050
+
+.040
+
+A(PDensLfyJAlbs~e~
+
+CU.
+f~
+
+.070
+
+.060
+
+I
+
+1/0:
+.03
+
+I “1In-l
+
+.080
+F/g. /0.
+
+/+”/
+
+I
+
+A 8. H E
+
+i I“--I”””i”
+,
+
+.
+0s0
+.070
+.060
+Atti Den.+y in L.5s.per
+
+I”
+
+.040
+
+cuff
+
+.030
+
+PERI’ORXAXCE
+
+OF A 300-HORSEPOWER
+
+HIWAXO-SUIZA
+
+599
+
+ENGINE.
+
+1 1 I
+H/SPANO-.SU/ZA “300 “
+
+[1111
+300
+
+i
+Fu>[ TAOff/e
+-47sifLn.1.1
+
+$ ~6~
+
+—
+/ .
+
+k
+$=0
+? /30
+
++
+-k
+
+,
+
+1’1. \
+
+~
+
+[500
+
+/400
+Ff@”
+
+/600
+f?. P. f+.
+
+/700
+
+/?.P.m.
+
++ A7SPAt@ -.WMZA
+a“.?~o”
+
+.1
++
+
+%
+
+/800
+
+/600
+
+/400
+
+II
+
+I
+
+2200
+
+2000
+
+ILL,
+
+/%/5.Ah@-SU/ZA “300 “
+11
+
+“
+
+~ /6
+Q.
+
+/800
+
+___!_
+
+—
+
+.
+
+-
+
+80
+J
+70
+60
+
+—
+
+$
+
+A—— 5000
+.-..-./oo~o
+
+—
+
+.—/’5000
+
+Fit
+“.
+
+‘
+
+50 —
+
+—
+
+-.
+~ 40
+
+>0 I
+
+$
+~ 20
++_
+.5
+
+~
+qloo
+2
+
+45 ~
+—
+4 o~
+30
+
+/400
+F19.12.
+
+/500
+
+/600
+R. P. M.
+
+/700
+
+‘
+
+/8&@
+
+.080
+
+/?+. f3.
+
+.060
+.070
+A,> Densify{h
+
+.050
+Lbs.per
+
+.040
+cuff
+
+.030
+
+’600
+
+AFTIHJAL REPORT
+
+SATI03’AL .ADWSORY COMMITTEE
+
+A,+ Den9ify h f bs..oer
+
+.080
+
+.070
+
+I
+
+cu
+
+.5s0
+
+.(760
+
+I
+
+%.
+
+.030
+
+.040
+
+I
+
+FOR AERONAUTICS.
+
+I
+
+ff/SPANO-SU/ZA “300 “
+Manifold De~essiOns.
+
+2
+/ ~
+
+Ful/
+
+o
+
+Tbro(f/e
+
+o
+
+i.
+
+I
+
+/60 -
+
+I
+
+I
+
+,
+
+,
+
+I +-—-+--+-
+
+T0fc7/HeOf/hg Vo/ue203ZOB.iu.per
+— Low
+,,
+specific Grov;fy
+. 7/0
+
+/m
+
+/40 —
+
+--.-+
+.~~.
+
+—
+
+—
+
+I-J
+f b.
+
+.-
+
+/30
+d
+Q, /20
+
+U-3
+
+b
+$//0
+b
+~/uo
+$
+&
+
+$90
+~
+
+QJ
+
+/3-q
+00
+
+/500
+
+~ ~
+
+/600
+
+/700
+
+80
+
+4
+
+?
+/4
+
+/k —
+
+8$
+
+\
+
+/
+
+—
+
+70
+
+/
+
+2
+
+—
+
+/
+~{esiduc-J57.
+
+60
+
+o
+
+/800
+
+/
+
+~OSS
+
+=2.57.
+
+50
+
+t.
+
++
+q.
+a
+
+/0 20 30 40
+
+o
+
+I
+/400
+/4.
+
+o~
+fig.
+
+I
+/600
+
+per
+
+F/g. /5.
+
+I
+/800
+
+2000
+
+2200
+
+R. P. m.
+
+30
+.28 —
+
+—
+
+I
++ H/3F%lMo
+-su/zA ‘’300 “
+
+24
+
+for Curve.
+
+150,-r77u/0
+
+26
+
+;:E9::W
+p =+essure/>
+
+1
+I
+
+cm. Off/g.
+
+“
+
+2’?
+x
+~ 20
+
+/‘
+
+~ /8
+b
+,$ /6 ~~
+
+\
+
+/
+
+$
+~ /4
+,,
+g /2
+~
+* /0
+Y
+
+/ ‘
+/
+
+8,
+,
+
+6
+4
+2
+0
+
+I
+
+II
+
+75 70 65 60 55 50 45 40 35 30 25
+Pressure & cm. Off/g.
+fig.
+/6.
+
+50
+
+60 70 80 90 /00
+
+cenf Dkfi//ed.
+
+—
+

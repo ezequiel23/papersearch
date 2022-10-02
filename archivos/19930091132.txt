@@ -1,0 +1,3392 @@
+REPORT No. 70
+
+PRELIMINARY REPORT ON FREE
+FLIGHT TESTS
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+THiS DOCUMENT
+
+or
+
+LO/;;l FROl.! THE FILES OF
+
+NA'TIONAl ADVISORY CO, ,MITTEE FOR AERONAUTICS
+LANl'lrY AEP..o.iAUT:CAL LAOOnA'TO"Y
+LAN'JlEY fiELD. f,Al rION. VI GINIA
+~fl~_TO'
+
+THE A Vf_ "ESS. .
+Ay,
+1 '-
+
+REQIJESTS FJ.l P l..L::AT ONS SiIOUlO BE ADDRESSED
+AS FOLLu\~ :
+
+NATIONAL ADVISORY COMMIT'
+1724 SiREET. N.W ••
+I' ~~WNG.,.ON
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+~)
+'"t?o AUTICS
+
+"r
+
+'"1i D.C.
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+
+1920
+
+REPORT No. 70
+
+PRELIMINARY REPORT ON FREE
+FLIGHT TESTS
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1920
+
+REPORT No. 70
+PRELIMINARY REPORT ON FREE FLIGHT
+TESTS
+BY
+
+E. P. WARNER
+
+A
+
+0
+
+F. H. NORTON
+
+3
+
+REPORT NO. 70.
+PRELIMINARY REPORT ON FREE FLIGHT TESTS.
+By EDWARD P. WARNER and F. H.
+
+ORTON.
+
+DESCRIPTION OF AIRPLANE EMPLOYED.
+
+In a series of tests which have been made by the advisory committee's staff at Langley
+Field during the summer of 1919 with the objects of determining the characteristics of airplanes
+in flight and the extent to which the actual characteristics differ from those predicted from
+tests on models in the wind tunnel, and of studying the balance of the machines and the forces
+which must be applied to the controls in order to maintain longitudinal equilibrium; two airplanes have been employed. Both are advanced training machines of the JN4H type and
+both are equipped with Hispano-Suiza 150 horsepower engines, but they are somewhat different in structural details. The most important differences in connection with the aerodynamic
+characteristics of the airplanes are the use of an oil radiator suspended below the body and a
+reserve gasoline tank mounted in the center section of the upper wing on one of the machines,
+these accessories being lacking on the other. The machine carrying the oil radiator and the
+reserve tank will be referred to in thi report as o. 1, the other as o. 2. In addition to the
+differences just noted, airplane No.1 had the aluminum doOI in the sides of the body, just
+forward of the wings, removed in order to permit of a freer flow of air through the radiator
+and past the engine, while No. 2 was flown with these doors in place. No cowling over the
+upper part of the engine was used on either machine, this being freely exposed to the air in
+order to dissipate as much heat as po sible directly to the slip stream as it passed over the cylinder heads. Despite all precautionary measures adopted to prevent overheating, great difficulty was experienced in keeping the engine cool during the summer, and it was seldom possible
+Lo climb with the throttle fully open for more than a few minutes without raising the water
+temperature dangerously near the boiling point.
+The two machines used are shown in figure 1~ and general arrangement drawings of the
+JN4H are given in figure 2. The more important areas and the weights are tabulated below:
+Areas.
+
+Square feet.
+
+Upper main plane, including ailerons . . .......... ... .............. ... .. . . . . ... ... ..... 203.0
+Lower main plane. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 150. 0
+Ailerons (total)... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34.6
+Stabilizer. .. . .. . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2. 5
+Elevators. . ........... .. ... .......... .... . ......... ... .... . ... .......... . ............ 21.8
+Fin.. . ........ .. . ........... .. ........ ... ... ... .... ........ .. . . .. .... ..... ... . ... ...
+3.7
+Rudder . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11. 8
+Weights.
+
+Pounds.
+
+Airplane No.1, tanks and radiator full, seats empty .. . ....... . .... .......... .. .......... 1,906
+Airplane No.2, tanks and radiator full, seats empty .................... .... . . .. ....... . 1,844
+
+The difference in weight is due to the larger amount of gasoline and oil carried by o. 1
+and to the extra tank and oil radiator provided on that machine.
+The propellers used on the two maohines were nominally exactly alike, both being made
+from the Air Service's design .r o. 13,279, having a diameter of 8 feet 6 inches, and being designed for an effective pitch of 5.22 feet. Actually they were quite different, the propeller
+which was used on maohine No.2 in most of the work having warped so that the pitch was
+5
+
+6
+
+AN
+
+UAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+I
+
+1
+
+L-2_,,-=,' ' I _ _ '."
+"'=-1
+_
+
+Il 1i
+
+,..
+
+FIG . 1.
+
+L _____________________
+
+7
+
+PRELIi\lIN ARY REPORT ON FREE FLIGHT TESTS.
+
+u
+
+:
+
+I .- "
+
+e:
+..
+Ol
+
+'"
+
+P
+
+I
+
+i
+I
+
+I
+
+I I
+I
+
+8
+
+R
+
+-0
+
+t
+
+~
+
+'"
+"
+;>
+'"
+0
+
+~
+
+8
+
+ANNUAL REPORT
+
+ATIO N AL ADVISORY COMMITTEE :FOR AERO NAUTICS.
+
+considerably less than it was supposed to be. The other propeller checked extremely well with
+the drawings, the mean blade ana-les for the two blades being oorrect within 0°.1 at all radii
+except within three inches of the tip, where the angle of setting was too large by 0°.35. The
+effect which this. difference between the two propellers had on the results of the tests will
+be discussed elsewhere.
+The most important factor from ' an aerodynamic standpoint is, of course, the type, form
+and arrangement of the main supporting surfaces. The wing section was accordingly checked
+u;p by direct measurement at several points on each machine, a frame being used which encircled
+the wing and provided base lines for measuring the cambers on both the upper and the lower
+../0
+
+~
+
+/'
+
+.00
+
+~
+
+1/
+,;/
+
+~
+
+-
+
+--- r:.:::
+
+rO.l'fM or WING SECTION
+
+-
+
+~~
+~~
+
+~
+
+//
+
+I
+
+--
+
+---
+
+~
+
+(Scale orordinates exaqqeroledS t Imes)
+--N<?on win9s<?clionol ZJN4f1.s.
+
+----- E/rre! .36.
+
+~
+
+,tV
+
+'~""
+
+I
+~-~
+
+.00
+
+o
+
+,
+
+!~
+
+',""
+,
+
+,/
+,,
+
+,~
+
+/ ;::- ::--!-/
+
+.2
+
+-
+
+- ---
+
+~--
+
+~-
+
+--
+
+---
+
+--
+
+--
+
+r=-:- -.::.::..:: ~ --
+
+~
+,
+
+'~
+
+,
+
+-
+
+I------"
+
+.3
+.4
+.5
+.6
+.7
+Distance I'ral77 lead,ngedge f in l ennsol'chord)
+
+.8
+
+R R
+.9
+
+'~
+
+'0
+-1.0
+
+FIGURE 3 .
+
+surfaces. The section employed was nominally an Eiffel 36. Actually it varied from that
+curve by having a smaller camber on both surfaces. The maximum discrepancy between the
+Eiffel 36 and the mean wing section for th e two machines was 0.006 of the chord, or approximately three-eighth inch, on the upper surface, and a very little less on the lower surface.
+The actual curve on the upper surface was considerably moother than that of the Eiffel 36,
+the latter section having a rather abrupt change of curvature one-third of the way back from
+the leading edge. The mean section for the actual wings and the Eiffel 36 are plotted in figure
+)((
+
+<:i
+
+~
+
+I
+
+~
+0
+
+!Q
+~
+
+~
+
+.o.i75 .075 .I
+
+--~-
+
+2
+
+I~
+~
+
+..]
+
+~
+<!5
+
+~
+
+:R
+
+~
+
+~
+~
+
+~
+
+12
+
+"'i
+
+I~
+
+--'-.4
+
+5
+
+-._~
+
+-
+
+.6
+
+7
+
+--'----.8
+
+I'fEAN WtWG SECT
+IONOr JN4'i.
+FIGURE 4.
+
+3 with the ordinates very much exaggerated, such distortion of the plot making it easy to detect any unfairness of the curves or any difference between them. The true form of the section used is given in figure 4.
+The difference between the mean sections for the two machines was negligible, being less
+than 0.002 of the chord at every point, and less than 0.001 at most points. Airplane No.2
+had a smaller camber than No. 1 on the whole upper surface and on the larger part of the lower
+
+PRELIMINARY REPORT ON FREE FLIGHT TESTS.
+
+9
+
+one. Although the differences happened to counterbalance each other 0 that the mean se('tions were nearly identical, the extreme divergencies between the cambers at corresponding
+points on the di[erent wing were by no means negligible. For example, the ordinates for ono
+lower wing on No.2 were uniformly greater than tho e for the other lower wing on the ::lame
+machine, the difference ometimes amounting to as much a 0.004 of the chord. It is improbable that 'wings can be manufactul'ed by ordinary produetion methods ,yith a greater uniformity
+of section than that found in these two machines, and, even if they could be made originally
+with greater accuraoy, wooden rib. will not bold tbeir curvature exactly when submitted to
+varying climatic condition. Wind tunnel experiment indicate that the effect of changing
+the camber of an aerofoil by 0.004 of the chord is seldom 'erious, so long ,'IS the surface retains
+a smooth curvature, except in very thick ection uch as are used in propeller blades and in
+internally braced airplanes such a the Fokker biplano and triplane. It appears to be fair to
+assume that the differences in section among the wing used on these machines will have no
+effect on their characteristics and that the mean section, a shown in figure 3, can be assumed
+to exist at all points.
+The discrepancy between the actual form of the wing section and the curve on which it
+was supposed to be based points a dual lesson. In the fil'st place, it dl'aws attention to thf'
+need of making wind-tunnel models to represent the airplane as it is actually builL, or to be
+built, not merely according to specifications which the shop may find itself quite unable to
+follow. It is of little use to construct model aerofoils accurato to within 0.002 inch if the fullsized wing which they represent departs by as much as three-eighths of an inch from the section
+which it is supposed to follow. Secondly, these measur ments should serve to remind experimenters engaged in the design of wing sections of the futility of drawing forms which it is impossible to construct by ordinary methods. For instance, no airplanf' wing is constructed with the
+upper and lower surfaces running out until they intersect in a perfectly sharp trailing edgf'.
+Indeed, it is practically impossible to construct a model aerofoil for the wind tunnel with such
+a trailing edge, yet aerofoils are repeatrdly dnnm up in such forms. The result is that the
+model maker exercises his own judgment as to the extent to which the trailing edge should
+be rounded over, the airplane builder introduces a strip of wood or of steel tube for a trailing
+edge, and the iliawing, the model, and the full-sized wing are likely ultimately to be of thref'
+quite different forms.
+In the JN4H, the thrust line is parallel to the top longerons and the stabilizer, which is
+flat on its lower surface, lies directly on the longerons. A detailed discussion of the actual
+form and setting of the tail surfaces is of interest primarily in connection with the longitudinal balance of the machine, and it will be I' served for treatment in connection with that
+subject. The wings are nominally set at an angle of 2° to the top longerons, but the mean
+angle of incidence in both of the machines used in this work was somewhat grea.ter than tha.t
+being 2°.25 in o. 1 and 2°.4 in o. 2. The variation 01 incidence along the wing, due to
+warping, to slightly imperfect rigging, and to the droop provided in the left wing to balance
+the propeller torque, was about 0°.3. The ailerons were rigged as nearly as possible to form
+a continuation of the upper wing, so that, when the stick was centered, the angles of incidenc.e
+of the portions of the upper wing which carries the ailerons were very nearly the same as for
+the inner par t of the wings. A small chang in the rigging of the ailerons when in the neutral
+position has a marked effect on the lift and dTag eoeilici nts of the wings.
+CALIDRATION OF INSTRUME 'TS.
+
+The first step in the making of any test is necessarily a study of the accuracy and a determination of the calibration curves of the instruments employed . The standard instruments,
+used in all tests, are the altimeter, the tachometer, anel the aiT-sp ed meter. The altimeter can
+ince the altimeter was used, in most of
+readily be calibrated in the laboratory under a bell jar.
+t hese experiments, only for determining the density correction, and since most of the work was
+carried out at less than 4,000 feet altitude, the permissible percentage error in altitude determina144189-20-2
+
+10
+
+ANNUAL B.EPORT NATIONAL ADVIS ORY CO MMTTTEE "FOB AERONAU TI S .
+
+tion was quite large. An errol' of 130 feet in the altimeter reading, 01' more than 4 per cent at 3,000
+feet , affects the density determination by only one-half pCI' cen t . The effect of such ;minor fflCtors
+as the decrease of static pressure in the cockpit, due to the slip-stream velocity, can therefore .
+be neglected. It is usually possible, at the t ime of calibrating the albmeter , to adjust the
+instrument so that the errors are negligible in such work as this at altitudes of less than 4,000
+feet, and the scale readings can therefore be used directly VI'ithout resort to a calibration curve.
+The tachometers used were made by the Van Sidden Co. an d were of the chronometric
+type. No caJ,ibration of these instruments was adjudged necessary, as the read ings of the
+instruments in the front and rear checked, and as a cm'onometric t achomet r can generally
+be counted on to give readings very nearly correct so long as it gives any l' adings at all. If
+anything goes wrong the instrument usually stops recording entirely.
+The calibration of the air-speed meters presents a much mol' serious problem than does that
+of either of the instruments just discussed, for several reasons. Thore are several possible
+sources of errol' in the air-speed determination. In the firs t place, the motel' itself may be
+in error initially or may go wrong after some use. Errors of this type can be determined by
+calibration of the meter in a wind tunnel. In the second place, the pitot or venturi tube
+used for measuring the velocity head being located close to the machine and in air disturbed
+by the passage of the wings the velocity of the air past this tube is, in general, different from
+the velocity of the airplane relative to the undisturbed air. For example, the vortex theory of sustentation declares that there is, superposed on the rectilinear flow of air relative to the wing, a
+cyclic flow around the wing, so that the relative air speed above the wing is higher, and that
+below the wing lower, than the speed through undisturbed air. An air-speed meter having
+its head placed close above the wing would therefore give too high a reading, no matter how
+closely the instrument might have calibrated in the laboratory. Finally, the air-speed meter
+will not give a perfectly corroct reading if the axis of the head is not parallel to the relative
+wind direction at that point. Inclination of the head to the relative wind results from the
+diversion of the air flow by interference, a diversion which ext ends to a considerable distance
+forward of the wings, and also from the changing attitude of an air-speed meter head fixed
+in the machine as the angle of attack is altered.
+Since practically all free-flight testing requires the determination of the air speed from a
+meter the accuracy of that instrument is of great importance. In the determination of lift
+coefficients, for example, an error of one-half mile an hour in the measurement of the air
+speed at its mean value (about 65 miles per hour for t he IN 4H) has as bad an effect on the final
+result as would an error of 400 feet in the altitude determination. It is essential, therefore,
+that the instrument be calibrated in place on the airplane and that the calibration be repeated
+at intervals to guard against changes in the meter.
+The air-speed meters used in these tests were Bristol instruments. They were graduated
+with a division at each mile, but the scale was uniform enough and open enough so that it was
+easy to estimate the reading to h alf a mile an hour. The heads were pitot-venturi tubes
+of the standard Army type, and were mounted on the left inner forward interplane strut, about
+18 inches above the lower wing. The inner strut is preferable to the outer one because of the
+smaller leng th of tubing required to make connection to the meter and also because the flow
+of air at the inner strut is more nearly parallel to the plane of symmetry of the airplane, the
+relative air velocity at the outer strut having a considel'able component parallel to the Y axis,
+which would cause the air to strike the tubes obliquely and so give false indications.
+There ar e two classes of methods used for calibrating air-speed meters in position. The
+first, much used by the British, involves the use of a camera obscura for the determination of
+speed over the ground. The speed wi th which the image of the airplane crosses the field of
+view can be measured with great accuracy, but the ground speed for a given rate of travel of
+the image is directly proportional to the altitude, and the altitude must therefore be determined
+within one-half per cent or better, an accuracy beyond the reach of any altimeter. The altitude
+can best be determined by the use of a second camera obscura or of a theodolite in conjunction
+
+PRELIMIN AnY REPORT ON FREE FLIGHT TESTS.
+
+11
+
+with one camera obscura, the vertical angles of the plane as seen from two different points at
+the instant when it crosses a line connecting those two points giving the necessary data for
+computing the altitude. The effect of the wind can be determined and corrected for either
+by measuring the velocity of a puff of smoke fired from the airplane or- by flying across the
+field of view in three different directions, one after the other, and measuring the ground speed
+in each direction . 'fhere is only one camera obscura at Langley Field, and it was not deemed
+advisable to secure another. The camera obscura therefore has not been used for calibrating
+the air-speed meters in these tests.
+The second method, and the one so far used in the work of the Jational Advisory Committee, is simpler and more direct, requiring only the timing of the airplane over a measured course.
+The course laid off at Langley Field is 5,600 feet long, and two horizontal wires, one directly
+above the other and about 3 feet apart, are carried on poles at each end. One of these observing stations is shown in figure 5. The air-plane was flown over the course at an altitude of from
+200 to 1,000 feet, the higher altitudes generally being used at the lower speeds, where there
+was some danger of stalling or side slipping or starting a spin. The pilot kept the speed a
+nearly constant as possible and the observer recorded the air-speed meter reading every 5
+seconds. Two or three runs were made in each direction at each speed, the speeds at which
+the meter was calibrated being spaced about 5 miles per hoUT from the maximum down to the
+mllllmum. The ground speed of each run is determined by observers at the ends of the course,
+the two stations being in telephouic communication. The effect of the wind is eliminated,
+assuming that its direction and velocity do not change between runs, by computing the mean air
+speed for successive runs made approximately at the same speed and plotting it against the
+mean ground speed for the same runs. This method is much more satisfactory, when the
+pilot is skillful enough to make his runs at
+air speeds very nearly uniform and close
+to the desired speeds, than any attempt
+to measure the component of wind velocity
+w
+w
+along the course and correct each run
+for the effect of that component, as both
+direction and velocity of the wind are so
+subject to change with altitude that measurements within 50 feet of the ground give
+A
+G
+little information as to the conditions existing at three or four hundred feet. If the
+wind is blowing across the speed course, or
+at an angle to it, the machine should be kept
+pointed along the course and allowed to drift
+rather than being headed into the wind in
+(a )
+(b)
+such a way tha t the path over the ground
+will be parallel to the course. The right and
+CORRECT AND INCORRECT WAYS
+wrong methods are shown in figures 6a and
+OP HEADING MACH INE ON SPEED COURSE
+6b, where W is the vector representing wind
+velocity, A the airspeed, and G the resultant
+speed over the ground. In figure 6b the air
+FIGURE O.
+speed is greater than the component of
+ground speed parallel to the course, in whichever direction flown, and the timing over the ground
+of a machine flown in this manner would thet'efore give too low a mean true speed. In
+figure 6a, on the other hand, the two quantities just mentioned are exactly equal.
+The calibration cm'ves found in this way for the meters in the rear cockpits of the two
+machines are plotted in figure 7. It will be observed that they follow the same general form,
+the relative displacement between the two curves probably being due to an error in one of the
+instruments. It might be expected that the meter would read low at very low speeds and
+large angles of attack, due to the inclination of the head to the relative wind, but it actually
+appears to read high. This result has been obtained in tests on both airplanes, and there is
+
+12
+
+AN.r UAL REP ORT :rATIO
+
+AL ADVISORY COMMITTEE F OR AERONAUTICS.
+
+little doubt of its accUTacy, although the error in calibration at low speeds is greater than that
+at high, both because the effect of wind variations is more marked at low speeds and because
+it is difficult for the pilot to hold a
+straight course over the ground while
+,/
+AJ.~oS?'G)/>fCTa?C/'UfJIIAT/ONS I
+flying at large angles of attack. In
+60
+.....-: V
+figure 8 the corrections to be applied to
+7.l
+I
+the air-speed meter reading are plotted
+/'V V
+~~
+against indicated speed, these CUTves
+/ ' ~L
+serving to give a clearer idea of the ex~V
+tent of the errors involved in the direct
+.~ /"
+application of uncorrected meter readV V
+ings than do those of figure 7.
+J
+/.,v /
+0
+When tests are made at high altiV
+JJ
+tudes, where the difference between
+80
+7.l
+60
+6J
+70
+the indicated and true air speeds is
+'5
+M("kr
+large, the meter calibration correction
+FIGURE 7.
+should be applied to the indicated
+speed first, and the result thus obtained should be multiplied by the density correction to give
+the true speed. This order of procedUTe
+is necessary because the flow of air about .J
+,......
+f!2!.
+the wings, and therefore the interfer- _
+,
+V
+"L
+ence effect on the instrument readings, ~ .,
+depends on the indicated, not the true, ~ 0
+It'o.l
+I
+air speed. The meter calibration CUTve }.,
+I
+/ " lvaries somewhat with changes in the ~o,
+/
+loading of the machine, as such changes j-J
+I
+alter the relation between the angle
+AIR'SPCCOMCTt:fl CORReCTIONS
+!'rom
+/
+of attack and the indicated speed,
+but the effect of any ordinary varia- .•
+., JO JJ 60 oj '"
+10
+tions in flying load is too small to be
+taken into account.
+FIGURE 8.
+'rotn~COVr.1~
+
+8)
+
+Jj
+
+A.r .1p(!ed
+
+R~~s
+
+-
+
+l'
+
+s~~drour..s~
+
+oj
+
+/J()
+
+Nr'~dM~'~rlf~"'9
+
+DETERMINATION OF LIFT AND DRAG COEFFICIENTS: METHODS EMPLOYED.
+
+It is very de irable that data be obtained on the lift and drag in free flight of full-sized airplanes and parts thereof, in order that the de igner m ay gain ome knowledge as to the corrections to b e applied to wind-tunnel results and as t o the extent to which those results can be
+trust ed. The problem is an extremely difficult one for m any reasons, some of which will be discu sed in detail later on in this report, and the work which has so far been done leaves much that
+is uncertain and many questions the solution of which can not even be attempted until new
+types of instruments and more accurat e experimental methods have been devised.
+There are three methods which have been suggested and employed to ome extent for finding the lift in flight. The first two permit of the determination of the lift of separate parts (in
+particular , the wings) , while th e thll'd, the simplest, and th e only one which has been used in the
+work done at Langley Field, gives only the lift coefficients for the airplane as a whole. The first
+and most obvious of these methods proposes the measurem ent of the lift of any part by the
+interposition of weighing devices between that part and the remainder of the airplane. For
+example, the wing hinge might be att ached t o the body through the medium of springs.
+There h as been a great deal of discu ion of the possibilities of this method, but the mechanical
+difficulties are considerable, and not much actual work h as been done. The second method
+depends on the measurement of the pressure at a large number of points on the surface of the
+wings (and, if desired, on the t ail of the body) and the determination of the tutal lift by the
+integration of the e pressUTes over the whole surface. This has been used to some extent
+in England, and similar work is planned for Langley Field dUTing the coming year. The pressures can be measured, once the apparatus is satisfactorily constructed, with great ease and accu-
+
+PRELIMIN ARY REPORT 0
+
+FREE FLIGHT TESTS .
+
+13
+
+racy, and the only errors to which the method i. subject are tho e inherent in all free-flight
+measurements.
+The third method is, as was ju t noted, the simplest, in that it requires the least special
+apparatus.
+
+In the equat.ion L = L c x ~ X V2 it is kno\>\'ll that L is equal to the weight of the mag
+
+chine when the flight path is horizontal, and that it departs only very slightly frt>m that figure
+ince p can be computed from
+for any ordinary inclination of the path ( hOl'L of 11 steep dive).
+measurements of the pressure and temperature, the determination of Lc requires only the mea urement of V. As a matter of fact, since the air- peed meter records not the true speed but the
+product of V X -J plpo, the term pig can be eliminated by the substitution of indicated for true air
+speed, and the equation above can be written:
+L=L oCV21
+Where C is a correction constant taking into account the gravity constant g and the conversion
+factor changing VI from miles per hours to feet pel' second. Although a small part of the lift is
+due to the body and the tail surfaces have a ub tantial effect at some angle, it is convenient to
+divide the lift by the wing area and write the above equation in the form
+L = L cCAV 21
+With a good meter and careful calibration the air speed can certainly be determined with an
+error of less than 1 mile per hour and probably Ie s than 1- mile per hour, and the lift coefficient
+at any given in tant during a flight can therefore be computed very accurately. In substituting for L in the characteristic equation, nJlowance h as to be made for the progl'es ive diminution of weight by the comsumption of fu el and for the direct balancing of part of the weIght
+of the machine by the vertical componen t of the propeller thrust.
+Since the lift coefficient is a function of angle of attack, it is of very little u ' e to compute the
+value of the coefficient at any instant during a flight unless this angle at the ame in tant is
+known, and it is in th e determination of thi angle that the greatest difficulties arise. The conventional type of "incidence indicator," embodying a pivoted vane and two P itot tubes at a con iderable angle to each other or a sphere pierced with two holes, is usele unle~ ome other mean i
+employed to calibrate it in po ition, as the instrument ha to be placed in air disturbed by the
+passage of the airplane, and the motion of the in ·trumcnt relative to this di turbed air, as already
+noted in connection with the calihration of the air- peed meter', may be of quite a different
+nature from its motion relative to the air at a great distance. The di tUl'bance of the au'by the
+wings extends to 0 great a di tance (three or four chord lengths) in front of the leading edge
+that it is impracticable to carry the incidence indicator far enough forward entu'ely to e cape
+this disturb ance.
+Since the angle of attack is the incrn1ation of the wings to the rclativ-e wind, it is equal to
+the difference between the inclination of the wings to any fixed reference plane and the inclination
+of the relative wind to the same plane. In particular, the angle of attack can be determined if
+instruments are available which will give the angle between any line fixed in the airplane
+and the horizontal and between the relative wind and.the horizontal. The first of the these angles
+is given, provided that the machine is in steady rectilinear flight, by a liquid longitudinal inclinometer. The second can not readily be determined directly, but the inclination of the flight
+path to the horizontal is given by a rate-of-climb meter in conjunction with an air-speed meter,
+and this is equivalent to the inclination of the relative wind if the movement of the air is
+exactly horizontal. In the par ticular ca e where the flight path i level the rate-of-climb meter
+can be replaced by a statoscope . The large t error in the determination of angle of attack by
+this method ari es from the as umption that the air moves only horizontally. An a cending
+current having a velocity of only 1 foot per econd change the angle of attack, for a given
+attitude of the machine relative to the earth, by nearly 0°.7 at an air speed of 60 miles per
+hour. This is a very gentle a cencling cUlTent, and it will be hown later that vertical currents
+which have actually been encountered dming the e experiment have affected the apparent angle
+of attack by more than 1°.
+THe statoscope used is sho wn in figure 9. The tube was kept separate from the vacuum
+flask, instead of mounting both in one case a is customary, in order that the flask might be
+
+14
+
+ANNUAL I:EPORT NATIONAL ADVI SORY COMlVIlTTI':E li OH AEHONAUTlCS.
+
+placed behind the instrument board and the space occupied ou the board be kept down to a
+mmuuum. The u e of th e stato cope makes it practicable to keep the mean rate of climb or
+descent down to 20 feet per minute except at Yery large angles of attack, and a rate of climb
+of 20 feet per minu te affects th e angle of attack at 60 mile per hour by less than 0°.25.
+The ordinary commercial type of longitudinal inclinometer proved unsatisfactory, fu'st,
+because the !'cale was not op en enough to permit the angles to be read as closely as was desired,
+and, second, because the face of the in trument was perpendicular to the in trument board. The
+observer's eye being well above the board, the observer looked down on top of the meni cus and
+across it at the scale behind, and the parallax error was large. An in trument was designed to
+obviate these difficulties, and is shown a sembled in figure 10. Fio-ure 11 illustrates the tube
+removed from the case. The front tube and sca.le ma.ke an ano-le of 20° with the surface which
+rests against the instrument board. The mean distance between the two urfaees of the column
+of 'l iquid is 8 inches. The scale i divided in degrees, the divisions being roughly one-eighth
+inch apart, and it is easy to estimate to 0°.1. The liquid is a mixture of glycerin and alcohol,
+colored with red ink. The damping of 0 cillations depends on the visco ity of the liquid, and
+this can be controlled by varying the proportions of alcohol and glycerin. The tu be is constricted at one point to increase the clamping. Parallax was avoided by mounting a mirror
+be ide the instrument, the ob erver bringino- the reflection of his eye in line with the meniscus.
+It unfortunately has not been pos ible to base the mea urements of the drag entir ely on
+data obtained in flight, as no . atisfactory means of measuring the propeller thrust is available
+as yet. It is therefore necessary to rely on a wind tunnel test for the propeller characteristics.
+A par tial check can be obtained on th e wind tunnel re ult by measuring the slip-stream velocity, as described in another section of the report. Knowing the revolutions per minute and
+
+~--k£FFlCI£NCV ~.
+L~ I
+
+I
+12
+
+I
+
+-
+
+r
+
+I
+
+\\
+
+10
+
+1
+\
+
+ANOTIfRUST
+COEFFlCID VT
+for propeller
+No. 13279 ,
+
+!-
+
+\
+
+8
+
+I
+
+rc\
+
+);
+
+/'
+
+-
+
+-
+
+LET!.
+.........
+
+1\
+
+i
+
+-
+
+I~ I.0
+1
+
+i-'
+- - .8
+I
+
+7
+
+the true air-speed, the value of V , the proD
+. peller slip function, can be computed, and the
+thrust can then b determined from a curve
+.
+of'l' c agamst V ' The equation for thrust is:
+JD
+T='l'c X pig X V2 X D2
+2
+
+ince, as in the case of the lift p V i equal to
+Po
+V1l, this may be written:
+
+T = T c x C xV\2
+where C is a constant including correction
+I
+/
+factors for units and D2, which is constant for
+I
+a given propeller. A model of the propellers
+~
+4
+used has been tested at the Leland StanJ
+ford Jl'. wind tunnel, and the curves of Tc
+and efficiency are reproduced in figure 12.
+\
+2
+z
+P lotting the thrust against the angle of attack,
+and dividing the total lift by the horizontal
+component of thrust, a curve of LID can be
+o
+o .I .2 .3 .4 .S .6 .7 .8 .9
+obtained .
+V
+Serious a are the errors which ascending
+iVD
+and descending currents produce in the lift
+FIGURE 12.
+curve, they are trifling compared with those
+which appear in the thrust compu tations, due to the same cause. An inclination of
+the relative wind has the effect of rotating through a corresponding angle the axes of
+lift and drag, so that the drag of the airplane is opposed not only by the thrust but also
+by a component of the weight. An ascending current having a velocity of 1 foot per second
+diminished the thrust required for level flight by 9 per cent if the LID for the complete airplane is 8 a!ld the machin~ is flyi!ll5, at 60 miles per hour. The error is directly proportional to
+6
+
+V
+
+V
+
+/
+
+II
+
+1-- '6
+
+frL.
+l'
+
+/
+
+/
+
+I
+
+\
+
+"'"
+
+1i}=
+
+l
+
+ci
+
+u:
+
+W
+
+0..
+
+o
+
+U
+
+(/)
+
+o
+f-
+
+)
+
+<{
+
+f(/)
+
+I.
+
+ci
+u.
+
+\
+
+I
+
+I
+
+FIG. l1.- INCLINOMETER TUBE.
+
+FIG. 13.-COCK PI T AND INSTRUMENT BOARD OF NO . 1.
+
+PRELIM I
+
+AllY REPORT ON FREE FLIGHT TESTS.
+
+15
+
+the velocity of the vertical current and to the LID ratio, inversely proportional to the speed of
+flight. If the rising current had a vertical velocity of 11 feet per second, the air speed and LID
+being the same as before, no thrust would be required and the machine would soar without
+engine power. Such currents as this eldom if ever exi t, but rising and falling currents of
+smaller velocities are almost omnipresent. They account for many seemingly wild results in
+this and other similar work, and the only way to eliminate their effects i to run a great number
+of tests of the same sort, under all light and weather conditions and over as many different types
+of terrain as possible, and then avemge the result.
+Figure 13 shows the instrument board in thc observer's cockpit of o. 1, with inclinometer,
+air-speed meter, Itltimeter, and tachometer installed. The altimeter does not appear in this
+photograph, being hidden behind the cowling at the right. The arrangement in No.2 is practically the same.
+The tests were carried out at altitudes varying from 1,500 to 4,000 feet. It was not considered safe, in view of the danger of falling into a spin when flying at large angles and of the
+possibility of a forced landing, to work below the former altitude. The altitude chosen on any
+particular day depends chiefly on air conditions, the climb being continued far enough to escape
+the ({ bumps" frequently found near the grou nd. -Each ({ run" continued for from 1 to 2 minutes, the pilot being in tructed to fly level (using the statoscope to detect changes in altitude)
+and at a constant air speed during that period. The ob erver read and recorded the readings of
+the air-speed meter, the inclinometer and the tachometer every 10 seconds, and noted the altimeter reading and the ail' tempemture at the beginning of each run. The pilot' task was a
+very difficult ono, for he had con tnutly to watch the statoscopo and ail'- peed meter, in addition to holding the machine steady laterally and watching out for other airplanes. Besides
+all this, when flying over the speed course to calibrate the meter the pilot had to steer a traight
+course over tho ground between the two ob ervinO' tations. T est flying i a very highiy specialized branch of work, the difficultie. of which are noL O'enerally appreciated, and there is no type
+of flying in which a difference between the abilitie of pilots thoroughly competent in ordinary
+flying becomes mOl'e quicldy apparent. Most of the piloting for the committee has been done
+by Mr. E. T. Allen and Lieut. H. M. Cronk, but seven other pilots have been used on one or more
+occaSIOns.
+In order to determine the minimum peed in teady flight and to secure data for comparison
+with wind tunnel te t over the whole range of angl cu tomarily covered by the latter, it was
+necessary to fly horizontally at an angle at loa t equal to the angle of maximum lift and a much
+larger as possible. The procedure in attaining the e high angles wa to throttle the engine to
+the lowest speed at which level flight could be maintained, and then open the throttle gradually.
+drawing the tick back at the arne time. The airplane can thus be flown level in a very badly
+stalled condition, the action of the longitudinal controls being rever ed (i. e., if the machine i
+losing altitude it is nece sary to decrea e the angle of attack, pushing the stick forward, in order
+to ascend) . Furthermore, the airplane is very un table laterally at angles in excess of 12° or
+13 °, and it i prone to fall off into side slip. Most pilots in trying to fly at extremely high
+angles for the first time, arc unable to keep the machine in equilibrium for more than a few
+seconds. One of the pilots flying for the committee, after considerable practice, became very
+skillful in this work and found it possible, given favorable weather conditions, to maintain
+steady level flight for an indefinite period with the throttle wide open and the Irh'1.chine stalled
+to an angle of attack of 1 ° or a little more. The ailerons alone are very ineffective in maintaining lateral stability at large angle, as any raising of one aileron greatly dirnini hes the drag
+on that portion of the wing, while drawing down the other aileron correspondingly increases the
+drag there. The result is that a large yawing moment, nearly if not quite sufficient to overcome
+the effect of the rolling moment due to the aileron , i produced and tends to force the machine
+into a spin. It is necessary constantly to use the rudder in conjunction with the ailerons to a
+considerably larger extent than is nec~ ary at normal angles.
+
+16
+
+ANNUAL REPORT
+
+:rATIONAL ADVISORY CO.vrMITTEE FOR AERONAUTlUS .
+
+RESULTS OF THE TESTS FOR LIFT COEFFICENTS.
+
+A number of tests (about 10) were Il1.£1,de on each airplane. Some of these have not been
+'
+plotted up or included in the averages, either because they were not extended over a large
+enough range of angles or because they contained results which were self-contradictory or because it was found, wh en an attempt was made to work them up, that essential data were lacking. I n selecting test to be incorporated in the final tabulation no attempt was made to pick
+those which would check well with each other, and the results were not even compared until the
+final choice h ad been made and the computations complet ed. In order to indicate the degree
+of consistency obtained among the various factors on successive observations in one typical
+flight, the angle of attack, as determined by the inclinometer, is plotted against the indicated
+air speed in figure 14. As already noted, observations on the two instruments were taken
+every 10 seconds, and each
+pair of readings is plotted
+I!i"f-..!r--I-- I-+---+--I--I- +---+-- I - - I - f--+--+--I- I---t---+--Ias a separate point. Where
+two or more readings corre/rf-+-+-+-t-&::-!;;~=!:::-:~~~=~~+'d-t--+--I--J.-j sponded to exactly the same
+OF INCLlNOM£T£R R£ADIN65
+ICOMPL£T£ SET~~n~~~Ar~~~~0=~MrO'~/.--r~__~_~~-+~ point the fact is indicated by
+M·~~e-r~._~~-,-T
+m~r~Mre~
+6r-~iW~_-+-+~~~r-~~+-+-+-4-4-~~~-+-+--1 the proper number of conThere are
+centric
+H'r-r\++-+~r-~~+-4-~-r-+-+~~~1--+-+-4-~~ about 50cil'c.les. represented
+points
+IJ·I--t~Q\\-l--l-I--t-+-+-+--+-+-+-l--+--+-+---t--iin figure 14, yet there are
+l
+a'~+-~-+--~+-~-+--~+-~-+--~+-~~'--~~-+-+~
+only two or three which de00
+\
+part from a smooth curve by
+more than one-half degree.
+Figure 15 gives the curve
+of Lc against angle for No.
+2, with all the points computed ,from four tes ts
+marked. At angles of attack up to 10° the agreement
+among the four curves is
+fully as good as would be
+expected for a like number
+of wind-tunnel tests on the
+same model. Beyond that
+angle they begin to diverge.
+but three of the four sets of
+F1GlJRE 14 .
+points stay close together
+th l'oughou t . The very large discrepancy between these three and the fourth a t large angles may be
+explained by the failure of th e pilot in the July 30 test to hold the path level. In seeking to fly
+at the lowest possible speed, he proba,hly allowed the machine to settle 01' "pancake," so that
+th e true lift was less than the weight of the airplane.
+The mean lift curves for No . 1 and No.2 are brought together in figure 16. The difference
+between the two is unfor tuna tely not so small as that between the eurves for the various tests on
+a single machine, and the reason for the discrepancy is not apparent. Th e difference between
+the two machines certainly is not great enough to account for it, although the reserve tank in
+the upper wing of No.1 might affec t the lift by a small amount. However, even if the difference between the two lift curves be regarded as wholly due to error in the experiments, the two
+are nearly enough alike to indicat e th e general form of the curve and to permi t of in teresting
+deductions.
+
+17
+
+PRELIMIN ARY REP ORT ON FREE FLIGHT TESTS.
+
+The mos t importan t result that can be drawn from such work as this rela tes to the comparison between free-flight an d wind-tunnel results. It has not been p ossible as yet to have' an
+accurato model of the JN4H made up for wind-tunnel test , bu t a great deal of work has been done
+on the JN2', and this can be used as a basis of comparison. The JN2 h as an Eiffel 36 wing-section, like the IN 4H, but it differs from the lat t~r in that its wings are of equal span and in a number of other details. The JN2 has a larger down load on the tail than has the 4H, as will be
+shown in connection with the discussion of balance, and th e actual lift of the wings must therefore be gr eater. It would then be expected, other things being equal, that the lift coefficients
+here compu ted, which ignore th e tail load entirely, would be ' a little smaller for the 2 than for
+the 4H, but the difference would hardly exceed 3 per cent .
+at}
+
+a8
+Lc FO!? AII?I"LANENO.2
+(r
+our Tes tsp/otled)
+o July30
+
+a.7
+
+"
+
+E:>
+
+0.6
+
+Sepf!J
+
+-
+
+V
+
+~
+
+0. J
+
+V
+
+%
+
+I
+
+0.2
+
+w"
+
+I
+
+VI
+
+Y
+
+/
+V, V
+
+f--
+
+"....-- I-
+
+~V
+
+lZ
+
+g~
+
+Lc
+
+03
+
+j
+
+I
+
+02
+
+./'"
+
+//
+
+04
+
+y-
+
+I
+
+IV
+II
+
+0.1
+
+01
+
+a°
+
+~y
+
+OJ
+
+)'
+V
+
+-
+
+~-"~
+
+~
+
+aJ
+
+LIFT COUnCIt:NTS
+
+de/erm ined Trom TreeI'llq171 exper il77enfs. for
+0. 7 -' 2 JN4/iA irplones .
+
+~t-2..
+
+~
+
+Lc
+
+f-
+
+~
+
+- L~
+
+t---
+
+r---
+
+.31
+
+o Aug.Z6
+X
+
+.--
+
+r--
+
+2
+
+. . .
+4
+
+6
+
+t)"
+10' lZO
+A n91e of attock.
+FIGURE 15.
+
+14
+
+. . . zoo
+16
+
+/8
+
+00
+
+Zo
+
+4°
+
+6°
+
+tr 10° Ilo /40
+Anq/eof' attock .
+
+16 °
+
+1 ° ZO ·
+8
+
+F IGURE 16.
+
+The lift coefficient for the J N2 model and the mean coefficient for the two full-siz ed machin es
+are given in figure 17. The coefficients for the model, like those for the full-sized machine, are
+based on the lift of the whole airplane and not on that of the wings alone. The two curves run
+fairly close together up to 6°, although th e lift of the model is distinctly the larger, even when allowance is made fo], the effect of th e difference in tail load just m~ntioned . The model lift coefficient at angles below 6° is larger th an that given by the free-flight tests for either o. lor J o.2.
+At angles in excess of 6° the model lift coefficient begins to drop off rapidly by comparison with the
+free-fligh t valu es. The burble point for the former come at an angle nearly 4 ° smaller thftn that
+for the latter, and its m aximum lift is about 15 per cent Ie s, so that th e minimum speed, or, as itis
+usually called, landing speed, computed f rom th e model t est, would be three miles an hour high er
+than that found by experiment. Actually, however, the model ·test gives the practicable lancl1
+
+Third Annual Report, National Advisory Committee Cor Aeronautics, p . 278 et seq.
+
+144189- 20- 3
+
+18
+
+ANNUAL REP OltT N ATI O AL ADVISORY COMMITTEE FOR AE1WNAUTlC .
+
+ing speed more closely than d oes the fI'ee-flight test, for the customary angle of attack in a good
+landing is about 12°, an angle at which the lift coefficienti almost exactly equal to the maximum
+lift coefficien t of the model. In order to land the machines which were til subject of the e tests
+at the lowe t speed at which they can be flown, the tail skid would have to touch the ground
+while the wheels were still 16 inches above its surface (assuming the downward lope of the
+flight path at the inst ant of m aking contact to be 2°). As every pilot will recognize, a landing in
+such an attitude would be distinctly unu ual,to say the least. A has a.lrearly been pointed out,
+it requires exceptional skill to fly at nngl s of 15° Or more, and it wou ld not be safe for any pilot
+to attemp t it near th e ground.. I t is, therefore, evident that the burble point is of very little
+prn,ctical interest in airplane design, as i t is improbahle that any pilot vel' flies his machine at
+that angle voluntarily except for a very brief interval in the course of a stunt 01' when testing for
+minimum speed. Whethe r or not the rule hinted
+at above, that the lift coefficient at the largest
+angle practicable for steady and afe flight is
+appro.-imately equal to the maximum lift coefficient of the model is justified for general use
+can only bc det rmined by tests, similar to those
+-,~-described in this report, on many different
+o.J~-+--~--~-+;:-/~/qL--r
+'--'i--~'~_-_-_--_--_machines using wing sections of different forms.
+The methods now used eem to give a good approximation to th e landing speed, at least in
+~~-+--~--~-+--~--~----~---.--V
+I
+this ca e, but it should be distinctly undertood in applying them that the machine when
+Lc ~-+--~~~-+--~--r--.---'-----­
+'1
+'1
+landing is not flying at 01' very near to its
+O,JI----+----'¥(---+----+-----+---1r---I
+critical angle. In view of thi fact, it is prob//1/
+able that the menace of an "unstable lift
+~-+~
+f~/~-+__+--4~-+------~_-­
+IV
+curve" which breaks sharply after passing the
+I
+burble point, ha been exaggerated, as the
+unstable portion of the curve is unlikely eVer
+,
+to be reached in normal flight, jUdging from
+all--+-+---+-+--+- +---r,I- -',-,j'--l
+the indications of these te ts as to the changed
+!
+position of the burble point and the behavior
+~-+--+-~--~--~-+--1--4'---~
+I 1 I
+of the airplane in that neighborhood.
+Q'
+z . ~. 6' 0' )0' /2" 14" /6' 18' 20'
+One of the tests for lift coefficient on No.2
+Angl e ot'ottock.
+incidentally gave some intere ting data on the
+magnitude of vertical au' currents.
+ome of
+F IGURE 17.
+the runs during this flight were made over the
+water (H ampton Roads) at a maximum distance of about a mile from the land and others, at
+nearly the sarile spe'eds, over the land . Whi'm the results were worked up it was found that the
+J'W 1S over th e water and those over the land gave two di tinct sets of curves, and that the angle
+of attack for a speed of 78 miles per h our was greateT by 1° on the 11l'St set than on the second.
+This leads to the conclusion that the ai r was descending over the water or ascending over the
+land or both , and that the vertical velocity of the air in one place relative to that in the other
+was 120 feet per minu te. This is undoub tedly an exceptional condition, as ubsequent tests,
+although they frequen tly sh owed a difference in angle with the kind of country over which the
+machine was passing, indicated no other vertical velocities as large as that just mentioned. It
+sh ould be noted that the flight just descri bed took place in the morning, on a unny day, and that
+all the observations Were taken at a height of 2,700 feet. Since the results obtained on the runs
+over the land ch ecked well with the other tests on the same machine it i probable that the
+\Terticnl velocity there was not very large, and that most of the relative movement deduced was
+due to a downward motion of air over the bay, or at least over that portion of it covered by
+the flight.
+
+A'j/ :
+
+I
+
+;
+
+/
+
+L
+
+- - -
+
+1
+
+PRELrMIN ARY REPORT 0
+
+•
+
+FREE FLIGHT TESTS.
+
+19
+
+A much disputed qne tion rela e to the effect of the slip-stream on the lift of an airplane.
+Although no a tempt at <fuantitative m a urements in inclined flight ha. a yet been made, the
+minimum peed attainable has been observed under vaTiou condition of engine operation, and
+no indication of a marked slip-stream effect on lift ha been apparent.
+ome such effect probably
+exists, but it is certainly mall. The minimum speed with throttle wide open is, to be sure, omcwhat les than the minimum peed in aliding, but the difference is not too large to be accounted
+for by the lesser total lift in the first case, due to the vertical component of the thrust-balancing
+part of the weight of the machine directly.
+RESULTS OF TH,E TESTS FOR DRAG COEFFICIENTS.
+
+In working up the results of the tests for drag the procedure followed was in general analogous to that just described for lift. The primary curve, corresponding to the plot of inclinometer
+readings against speed, was one of Nri against angle or speed (usually the latter).
+
+Such a CUTve
+
+for a single flight is given in figUTe 18, each point repre enting a single pair of readings (of airspeed meter and tachometer). It will be noted that the points do not lie on the curve with any
+such exactness as do those in figure 14, and that they separate into little groups. Each group
+of points includes the readings taken dUTing a run in a straight line and at an approximately
+constant speed, and each group defines a little curve of its OWll, the slopes of these short subsidiary
+curves being considerably greater than that of the mean curve connecting them. This apparent
+discrepancy is due to the inertia of the airplane, which causes it to delay appreciably in responding to changes of condition. For
+0
+,
+example, if the engine speed drops
+.Q,
+I ~
+slightly from any cause, there is a
+I
+I I
+I I
+VALues OF m, FO!;, A SINGLfFLl6liT I .- -. - .Jdistinct interval oefo1"e steady con- .14
+--+
+ditions are restored by a decrease
+..56
+in air speed an I an increa e in an~o l
+gle of attack, and if the engine
+/
+speed retUTn to its original value
+II / . 0 0,
+0
+V
+after a few seconds the air speed
+.J-(
+I
+A
+I I
+will hardly have changed peI'cep1 oj,
+/ 1°
+I I I
+l
+J
+tibly in the meantime. II, on the
+.1/. /
+other hand, the air speed changes,
+0/V
+I I I
+the engine speed responds almost .JO
+I
+£.
+instantly. II, for example, the air ~I~
+i
+speed increases, the angle of attack
+/.
+J
+I
+/
+of thc propeller blades against the
+i
+air falls off, the resi ting torque
+i
+II
+.~
+of the propeller decrea e, and
+I
+there is an unbalanced torque
+/
+t
+.#
+tending to peed up the rate of
+h4/
+rotation.
+ince the moment of in-~
+I
+I
+p•
+ertia of the rota ting parts is small,
+I I i
+i/
+/I,
+the response to this accelerating
+I
+., 'i.
+torque is, a already noted, very
+/JQ
+jJ
+60
+5.f
+70
+10
+rapid. The resu.lt is that
+can
+~~O
+Indicated
+make considerable momentary
+changes, producing a correspondFIGURE 1 •
+
+--I
+~
+
+5: . .,. .-.
+
+I
+
+I
+
+I
+
+.
+
+Il' I 1"1=
+
+A lr·.$p~~d (m.p.h.J
+
+ing efl'ect in
+
+~,
+
+without appreciably affecting V, but that any change in V is promptly fol-
+
+lowed by the corre pondin a change in
+
+,and the points obtained during a short run with the
+
+conditions nearly but not quite constant therefore plot as a line nearly parallel to the axis of Nri.
+
+.
+
+20
+
+.
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERO.r AUTICS.
+
+The difference between successive tests was, as would be expected, greater than in the case
+of the lift coefficient, both because of the very large effect of vertical Clf!l'l'ents and because of the
+failure of the pilots in orne cases to keep the path level. The extreme results for a given angle,
+however, seldom varied by more than 10 per cent. The elTors in the determination are much
+greater at very large and at very small angles than at those in the neighborhood of tho maximum
+L ID, partly because there were few tests which extended to very large angles. Even those test
+which covered the full ranO'e of angles spread ou t widely at the ends of the curves, although very
+closely hunched in the intermediate portion. There wa ,a will be seen n. littl e later, a marked
+difference between the results for the two machines, exceeding 10 per cent for a considerable
+range of angles. This difference can be attributed largely to the difference in the propellers, a
+difference already noted in the first part of the report, and it is probable that, since the propeller
+used on No.2 wa the morc warped, the result given for the drag and LID on No.1 are more
+accurate than are those for No.2. A test was made with the propellers interchanged, and the
+results obtained from o. 2 on that occasion checked very well with the mean curve for J o . 1.
+The mean curves of thrust for the two machines are given in figure 19. These curves call
+for no special comment, their O'enel'al form being evident. The thrust for a given angle varies
+.f4Q
+
+I---l-J
+
+~
+
+'-Ir--'
+I
+
+I-- 0500 1
+-
+
+I
+
+-: '
+I I
+~ r
+'
+
+1
+
+i
+
+.~
+
+~
+~
+
+.\
+
+-
+
+.
+
+--j-.
+
+-
+
+I
+,
+
+e
+
+-1----1--1- - -
+
+'- 4201---+--+-·_j-
+
+L
+
+I
+
+-
+
+-- I~
+
+-
+
+1-
+
+1- -
+
+1I
+~ -'
+
+I-
+
+t---.
+
+460 f--I--+--t-- - -
+
+I
+
+I
+
+I,
+
+MLAN THRUSTCUR VCS I
+for 2 JN4Its .
+I
+
+-/--+-1--- _I_
+
+I
+
+l
+1 -J I !
+I
+H r- - i 1 I
+t--·I,L-f' 1- r-- - ~. I:
+-
+
+J' -.
+1
+
+',J'l
+
+.~
+
+---+--+-+--t--t---j--.!i~~ - .- L
+I
+//// J __ -+._- I
+J_
++-1
+
+~~\~-I--~~·-+--+--+--r-r--r~~~~7-1t--T--
+
+\
+
+/ /
+
+I
+
+i
+
+FIG URE 10 .
+
+with the loading of the airplane, and the curves therefore are somewhat indefinite, but they
+represent the average condition in the IN in level flight satisfactorily. The thru t given in these
+CUTves is that corresponding to tandard atmospheric den ity.
+.
+The curves of horsepower required for level flight at standard density are given in figure 20.
+The curve for horsepower available is plotted on the same sheet, its form being based on the
+efficiency curve for the propeller, as determined at Leland tanford Junior, and on the computed
+variation of engine speed with airspeed, the throttle remaining wide open at all times and the
+engine torque being assumed constant. In order to make the inter ection of the curves check
+with the maximum speed as determined by test it was necessary to take the engine horsepower
+as 130 (a value which appears reasonable, a the engine had seen a considerable amount of
+service and would not turn up beyond 1,530 revolutions per minute in level flight with the propeller
+normally usen on No. I , or 1,570 revolutions per minute with that used on o. 2). It will be
+noted that the curves of horsepower available and required have their second intersection at an
+angle a little smaller than the bUTble point. This checks very well with the observed fact that,
+
+21
+
+PRELIMIN AnY REPORT ON }'REE FLIGHT TEST .
+
+with the throttle wide open and the miLchine flying level, it was not quite po ibJ e to reach the
+bUTble point. This is shown by the mean lift curves, which stop just short of the critical angle.
+This coincidence of computed and obserTed result at the lower end of the horsepower curve
+affords additional reason for confidence in the validity of the method employed for using windtunnel data on the propeller in conjunction with measurements on the complete airplane in free
+flight.
+
+The air speed for best climb is deduced from the ho1'sepow r cun-es to be 36 miles per hoUl".
+No thorough test.son climb have been made, hut the air speeds adopted b.vthe pilot dlOhave flown
+Lhese machines, ,,-hen they desired a maximum rate of ascent, ha\'c ranged from 4 to 57 miles per
+hoUl", ,,-ith the most skillful and experienced pilots, in most cases, choosing a speed nearer to 4 thall
+to to 57. It appears, theIl, that the a.ir sp ed which would be recommended as are ultof the studyof
+the CUlyeS of figUl"e 10 is ,ery nearly correct, but probably a little on th hiO"h side. This is rather
+sUl"prising, as the effect of the increased slip- tream velocit)- with tho machinr climbing "ith
+"ide-open tln-ottle would presumably he to rai e the speerl for minimum hor cpowcr required,
+and the speed for besL climb predicted from the e CUl"ves would thereforc be expected to be a
+little low. In any Cilse, however, the discrepancy i mall, and the climbing peod is so nearly
+the same for all speeds from 50 to 60 miles per hour that the differenre 'nn harcUy be detected.
+The climbing peed for o. 1 is computed from the horsepower eUl"ve to be 5 5 feet a minu c.
+9
+
+I
+
+I
+
+I
+
+.'=. FOR ZJN4If$ ,11/1/0 FO.'? JNc MODt:L
+
+:
+
+I
+
+r-
+
+I/~Ltj~ ,
+
+7
+
+'t,J
+
+~/
+
+j
+
+I,,~
+
+~
+
+,,/t!
+
+/,:/
+
+.'
+
+J
+
+I
+i
+
+~ .'.
+
+"" ,
+
+i,
+
+"
+
+/v
+
+I
+
+,,-: ,
+
+i'
+
+~
+
+"'~~
+
+/
+I
+
+I~ ~-J
+
+I I
+
+.""'~
+
+I
+
+I
+
+J0
+
+. .
+l
+
+J
+
+"
+
+.
+
+.1
+
+6
+
+. I. .
+7
+
+I
+
+8
+!J
+10
+An91" afottock .
+FlGURB 21.
+
+1/
+
+/1
+
+. I. . . . . .
+/3
+
+/4
+
+IS
+
+16
+
+17
+
+/8
+
+11'
+
+22
+
+ANNUAL REP ORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTI CS.
+
+Although, as already noted, no accurate determinations of the ra,te of climb have been made, such
+observ ations as have been taken indicate a maximwu r ate somewhat less than 585 feet a minut e.
+T his is what would be expec ted, the difference being due to the increased slip-stream effect with
+open throttle. The curve of horsepower r equired computed fr om the JN2 model test, with due
+allowance for the difference in weight between the JN2 and the J 4H, is a]so plotted in figure 20.
+I t checks well wi th the free fligh t curves except at extr eme h.igh an llow speeds. From the curves
+of thrust those for L ID can be derived, and the mean cur es for the two machines, together with
+that for the J N2 model referred to in conn ection with the lift coefficients, are givon in figure 2l.
+Tho curve for No. 1 and No. :2 are nearly parallel excep t at small angles, where there appears
+a marked difference of slope similar to t hat which characterized the lift curves. Bearing in
+mind the Jact t,hat the curyO for No. 1 is un doub tedly mor e accw'ate than that for IO. 2, it is
+appar en t th at the correspondence between the L ID fo r the J :2 model and that determined
+in free fligh t for the JN4H is reasonably good. It is r ather dangerous to ·dra,,- fine conclusions
+from this correspondence, in view of the difference between the JN2 and the JN4H, but the separation b tween the curves is h ar dly greater at any point than the combined possible experimental
+orrors, and the m axima diffor by only :2 per cen t (if the curve for No . 1 be takon as correct) .
+Tho indication i that the slip- tream effect and the variou crudities of construction on the modol
+(such a. t he use of round wire interplane tr uts) ar o almost exactly eounterbalanced by the
+"scale effect " and by the offect of the omissions of wir es, fittings, etc., from the modol. In
+order to obtain quan tita tive lata on the slip-stream effect test in inclin d flight "ill be necessary.
+VELOCITIES IN THE SLIP STREAM.
+
+I n or der to meaS Ul'e the velocity in the slip stream and compare it with tho velocity compu ted from the r esults of modol tes ts on the propeller a pitot-venturi head, oxactly like tho one
+used for measuring th ' air speed, was at tached to tho for war d left center soction strut. The
+mouth of the tube was 3.92 feot behind the trailing edge of th' pr opeller, and tho axis of th o venturi
+was 2.72 feet radi ally from tho propeller axi
+The regul ar uir-speed head and the one in the
+
+\
+
+1 1 1 1+--+----+-j
+.50 --+-{\
+-
+
+--
+
+1.40 ~ -
+
+~~
+.
+
+\
+
+I •. '\
+
+-
+
+V
+ARIATION OF V£L OCITYIN SLIP-STREAM
+0 1400r.p.m. al 60 m.p.h.
+1
+-+-+--t-+---1
+£1> 1t?60
+"
+,, 60 "
+[;) IZ4 0 ..
+u
+60 ..
+x 1050 ..
+.. 60 ..
+0/ 700
+..
+.. 60 ..
+1- - , - - # Deri ved from rnornenlu l77 theor y
+
+I
+
+l~---r~r--r--r--r--r-~~~
+I-~--~~\\-+----+-+--t--r-+----+-+--t-+-r--+-~-t-~
+
+', \
+
+i ~\
+
+I
+
+i
+
+I
+/. /0
+
+I
+
+- ~~
+x ~. ~
+
+j
+I
+
+I
+
+x
+
+I
+
+OJ
+
+I
+
+o.S0o.L~-~~~-L-a~
+04
+. J~-L~ . 6~~~
+O~
+a~7-vL--O~~-L~
+.8
+O~~~~-'/.~0-~~/'/~~~/"Z
+
+fib
+~
+'lGUll E
+
+22.
+
+PRELIl\UN ARY REPORT 0
+
+FREE ]<'LIGHT TESTS.
+
+23
+
+slip stream were both connected to the same meter through tho medium of two valves, which
+made it possible to change readily from one to the other, and to read the air speed or lip-stream
+velocity, as might be desired. The readings secured in this way are, of course, not highly accurate, a the lip- tream velocity includes a considerable tangential component, the magnitude of
+this swirl varying \\-ith the air speed and engine speed. The air therefore meets the tubes obliquely, and the reading of the meter i probably lower than the true velocity. The error in
+velocity should not, however, be more than 5 per cent, and the results obtained will at least
+erve to give an idea of the relation between slip-stream velocity and the factors which control it.
+The procedure in these tests was to set the throttle at a fIXed position, and to fly the machine at a number of different air speeds without moving the throttle (these flights, of co tu'Sc ,
+were not level). The air speeds used for each throttle setting ranged from 90 to 42 miles per
+hour, with an occasional dive to 100 miles per hour or a little more. The ratio of slip-stream
+velocity-to air speed for a given propeller depends only on JD and these quantities can therefore
+be plotted against each other. This has been done in figme 22, and it "ill be noted that nearly all
+of the points lie closc to a smooth curve and that there is no distinct break between the sets of
+points taken at different throttle openings. The only points which do not Elt the curve are those
+which were taken with the engine throttled down to a ,ery low speed, so low that the propeller
+was giving no thrust. The slip-stream velocities tulder this condition were lower than they
+apparently should have been.
+The dotted curve in figure 22 repre ents the velocity ratio computed from the thrust coefficients by the method described in Report o. 71. This curve checks very welj with the other
+one, and this check indicates that the thrust coefficient as determined in the wind tunnel
+held for the full- ized machine, and that they are not very materially affected by the pre ence
+of the body. Of com e, thi check i only a rough one. To ecure an accurate comparison
+between the theoretical and actual values it would be nece ary to ound the slip-stream thoroughly, mea w·jng the velocitie at many point, but previous experiment (by Eiffel and others)
+indicate that the velocit.y is nearly con tant over a large portion of the propeller di k area, and
+readings at a single point therefore give some indication of the average condition. It appears
+that interference between the propeller and the other part of the airplane can not have a very
+large effect, as any very notable increase in thrust due to the pre 'ence of the body would lead
+to an increased slip-stream velocity. Experiment at the Royal Aircraft Factory I on a pusher
+biplane, have hown a similarly excellent check between the calculated and mea ured sliptream velocities.
+The maximum lip-stream velocity 'w ith the machine ' tationary on the ground and the
+engine tmning 1,400 revolution per minute \Va about 0 miles per hour. The velocity was
+very unsteady under the condition, the meter r eading varying by about 6 miles per hoUl"
+almost instantaneou ly. Thi irregularity of flow was no doubt due in part to interference
+of the ground, but the flow in the lip-stream wa in general more irregular, and the velocity
+fluctuated more rapidly and through a larger range at low peeds than at high,
+LONGITUDINAL BALANCE.
+
+The factor on which the longitudinal balance of an airplane primarily depends, and to any
+variation in which it i always highly ensitive, is the position of the center of gravity of the machine. The first step, then, in any study of balance and of the action of the controls is to determine as accmately a possible the position of the C. G. with regard both to its vertical and it
+horizontal co-ordinate.
+The method used in finding the location of the center of gravity was the usual one of
+weighing the machine on three pairs of cale, one under each wheel and one under the tail
+skid, first with the tail skid and wheel on the same level and then with the tail raised . The
+I Experimental Determination of the SUp·stream Behind the Air·screw of a Pusher: British Advisory Committee for Aeronautics, R . . M.
+No. 382. 1916.
+
+24
+
+A NUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS .
+
+tail can be raised enough, without overbalancing the machine, to rotate it through an angle
+of about 15° when the pilot and ob erver are on board and through 10° when the seats are
+empty. From the weights thus obtained the center of gravity can be computed with a probable error of les than 0.01 foot in the horizontal co-ordinate and less than 0.03 footin the vertical.
+With a pilot weighing 125 pounds in the front seat and a 1G5-pound observer in the rear
+(this being the crew with which most of the tests were conducted), the center of gravity of No.1
+was 1.04 feet behind the leading edge of the lower wing, 2.50 feet behind the leading edge of
+the upper wing, and 0.28 foot above the thrust line, the axes of reference being taken parallel
+and perpendicular to the top longeron. The center of gravity of o. 2 was 0.99 foot behind
+the leading edge of the lower wing, 2.44 feet behind the leading edge of the upper wing, and 0.2
+foo t above the thrust line. The ob erver in .r o. 2 weighed only 125 pounds. If the mean chord
+be taken a 60 per cent of the way from the lower to the upper chord to allow for the larger
+area and larger unit lift of the upper wing, the line through the C. G. and perpendicular to the
+wing chords cuts this mean chord at 39 per cent of its length from its leading edge on No.1 and
+35 per cent on o. 2. This is materially far ther back on the wings than the usual location
+for the C. G.
+Since the balance depend on moments about the C. G., a small change of force on the tail
+planes, acting as it doe at a large moment arm, has an important effect, and the angle of the
+stabilizer is therefore of primary importance. As already noted in the general descriptions of
+the machines, the stabilizer is supposed to lie flat on the upper longerons . Although the stabilizers were warped the mean chord of the surface was parallel to the top longerons with.iD
+0°.2 on both machine .
+In order to determine the angle at which the elevator was set at any instant, a sector carrying a scale wa fL'(ed to the elevator rocker-arm shaft in the rear cockpit of No.1, and this sector moved under a pointer fixed to the eat rail. No means of mea uring the control position
+were provided on No.2, as the arrangement of the cleva tor-control linkage was different on the
+two machines, and an entirely new and somewhat more complicated device would have had to
+be designed. The elevator control wires were adj usted somewhat more tightly than is usual
+in order to prevent any backlash. The elevator po ition indicator is hown in position in
+figure 2'3.
+The force applied to the stick was measured by the instrument illustrated in figure 24 .
+The knob which normally caps the stick was removed, and the lide held between two springs
+wa slipped over the head of the tube. The pilot read the forces directly from the cale. The
+force indicator was originally fitted with two springs of equal strength, but, a it was found
+that the force was practically always in one direction, the springs hown in the cut were
+substituted.
+The elevator po ition for a variety of air speeds and engine speeds are given by the curves
+of figure 25 . The e curves were obtained in the same way as were the points on the slip-stream
+curve (fig. 22), each one relating to a fixed throttle setting. A fixed throttle setting, rather
+than a fL'(ed engine power or number of revolut ions pel' minute, is the criterion to which longitudinal balance and stability should be r elated.
+Indicated air-speed (with the speed course correction made) is used directly as the basis
+for plotting the curves, and variations of air density during the test are entirely neglected:
+The elevator angles and for ces depend primarily on indicated air-speed, since the angle of attack
+and the flow of air about the machine are functions only of the indicated air-speed and the
+slope of the flight path. The air density affects the controls in two ways, but both are of minor
+importance. In the first place, the slope of the flight path for a given throttle setting and
+indicated air-speed varies with the air density. This factor i insignificant. Secondly, the
+velocity of the slip-stream and its effect on the controls depend on the true speed and so on the
+density. This effect, although it is of greater magnitude than the one first mentioned, can
+safely be neglected except for the large changes of destiny experienced in mounting to great
+altitudes. All the test described here were carried out at between 1,500 and 4,000 feet .
+
+r
+
+~--- ---
+
+--- - - - - -- --- -
+
+FIG, 23, - ELEVATOR ANGLE INDICATOR.
+
+FIG. 24.- ElEVATOR FORCE INDICATOR.
+
+-
+
+- -- ,- - -- -- - -
+
+!
+
+25
+
+PRELIMINARY REPORT ON FREE FLIGHT TESTS.
+
+Curve No.1 relates to flight with wide-open throttle, o. 5 to gliding descent with the
+engine throttled down to idling speed. The eJevator angle is referred to the top longerons as a
+datum line, and is taken as positive when the trailing edge of the elevator is pulled down. It
+will be observed that the curves all have the same general form, and that the positive angle of
+elevator setting for equilibrium at any given speed decreases progressively as the engine speed
+decreases . Thi is due to the slip-s tream effect on the stabilizer and to the location of the
+center of gravity above the t,hru t line, both of these things tending to cause the an'plane to
+nose down to a smaller angle of incidence as the throttle is closed and therefore requn'ing that
+the elevator be pulled up in order to maintain the same angle of attack and the same an'-speed.
+Translated into practical terms, this means that, if the stick were locked in position whilfl the
+0
+
+0
+
++2<>
+
+y
+/
+
+--.
+
+)' ~ -............ ~
+
+I
+
+.
+
+./
+
+7
+
+I
+
+L~
+
+•
+
+r
+
+I
+
+-.........
+
+~
+
+~
+
+,
+~
+
+~ .........-..;; ~
+-.c:,J
+
+~
+
+...... -............
+
+I
+
+/
+I I/J
+!
+I II
+
+x
+
+~ ~ --....:0
+
+--.,
+
+~
+
+-
+
+-~ I- r---+-
+
+........
+
+Q
+
+I
+
+I
+
+I
+I
+
+II
+
+I
+
+ELEVATOR AN6LES ON JN4H I- f or various speeds and various
+Throttle selfi nqs.
+o 1400 r.p.rn. of60177.p.h.
+x 1260
+"
+"
+- G 12.30
+.. " ""
+"
+~
+
+.
+
+11,1060
+'V
+
+I
+40
+
+710
+
+.."
+
+.. "
+. ..
+
+"
+..
+
+-
+
+1
+so
+
+I
+60
+70
+dO
+Ai
+r-speed (l77.p.h.)
+
+90
+
+100
+
+FIGURE 25.
+
+machine was climbing with open throttle, 0 that the ele.vator setting could not change, whatever might be the forces acting on the control surface, and the throttle were then closed the
+nose of the an'plane would drop, and would continue to go down at lea t until the speed of t.he
+dive reached 90 miles per hour, and probably until the airplane pa sed the vertical and attained
+an up-side-down position. It is, of course, desirable that the nose should drop when the engine
+is throttled or cut off completely rather than that the machine should stall, but it i also desn'able that the nosing down process should stop at a de terminate point ins tead of continuing
+indefinitely. An airplane ideally balanced and ideally stable would continue at some speed
+within its normal range and at a normal inclination of path, with the longitudinal control locked
+whatever might be done to the throttle. The condition of locked control, of course, is only one
+of several which may occur. Others, even more important, will be discussed later in this
+section.
+
+26
+
+ANNUAL RJ<JPORT :YATlONAL ADVJSORY
+
+'OMMlTTEE FOR AERONAUTICS.
+
+It is characteristic of the curve of figure 25 that they have n, maximum point, and that
+their slopes at high and low air-speeds are accordingly of opposite sign. The effect of this
+change of lope can best be illu ·trated by two concrete examples. If an airplane is flying with
+the throttle setting C01'1'e ponding to curve No.3, and at a speed of 65 miles per bour, and if
+the stick i then suddenly pushed forward by an amount sufficient to increase the elevator
+angle by oo.~ and locked in this new position, the primary effect will be to nose the airplane
+down, decfea ing the angle of incidence and increasing the speed, since the pulling down of the
+elevator sets up an unbalanced upward force on the tail, and this gives rise Lo a diving moment
+about the center of gravity. By the time the speed has increased to 0 miles per hour tbe
+proper elevator setting for equilibrium is 0° .7, but the surface is locked at 1 o .~. There is,
+therefore, still an unbalanced diving moment, larger now than before, and the speed continues
+to incl'ea e with a constantly steepening path. Manifestly this is an unstable condition, and
+it may be dangerou if the pilot is not vigilant. Suppose, on the otber hand, tha,t the initial
+speed was 50 miles per hour, tbis being less than that corresponding to the maximum elevator
+angle, and that the elevator was pulled down O. 2° and locked as before. The fu'st effect, just
+as in the other case, is to decrease the angle of incidence and increase the speed. By the time
+the speed has increased about 1 mile pel' hour, however, a point is reached where the machine
+is in equilibrium with tbe new elevator setting, and it will then continue in steady flight at this
+slightly higher speed. Gusts which change the u.ngle of attack of the airplane have just the
+same effect as a sudden change in the angle of the elevator. 1£ an airplane wbich is flying
+with the control locked at 11 speed corresponding to the negatively sloping portion of the elevator
+position curve is struck by a gust which decreases its angle of attack the angle will continue
+to decrea e without limit. If the speed is low enough to lie on the positively sloping portion
+of the curve the airplane willl'eturn to its original speed and angle of trim as soon as tbe effect
+of the gust has passed. A positive lope tberefore makes for longitudinal stability. It will
+be noted tbat the range of speed for table fligbt with fixed controls and iL'{ed throttle setting
+becomes wider in general as the engine speed is decreased, and that, for tbe lowest curve (engine
+idling), tbere is no sbarp negative slope at any point. Witb tbe throttle wide open, on the other
+hand, the machine is unstable for practically the whole speed range.
+An ideal set of elevator position curves would have a small positive slope at all points,
+and the curves for different throttle settings would be parallel and close together.
+uch a
+set is shown in figure 26 for comparison with the actual curves of figure 25. It is not desirable to have the positive slope very large at any point, as a machine characterized by such
+curves is difficult to control quickly, requiring the application of a larger force, and the moving
+of the stick through a longer arc, than is desirable to change the angle of attack. The stability with fixed controls can always be controlled by movement of the center of gravity, the
+stability being greatest when the C. G. is farthest forward with respect to the wings.
+The sudden reversal of the slopes of the urve in figure 25, and the rapidity with which
+the elevator setting changes at low speeds, are due to the change of the center of pressure travel
+on the wings. This travel becomes Ie s unstable as the angle increases and the effect, when
+combined with tbe movements due to the tail, is to give to the whole machine a high degree of
+statical longitudinal stability at low speeds.
+At all speeds ordinarily used the elevator angle decrease a the angle of attack decreases,
+so that it is necessary to hold the stick farther back to fly at high than at moderate speed.
+Of course, it is not possible to go directly from one condition to the other, as, for instance, to
+decrease the angle of attack by pulling the stick back while flying in equilibrium at a moderate
+speed. Tbe effect in that case would be the oppo ite of the one de ired, and it is nece sary,
+when the angle is to be decreased, first to push the stick forward , nosing the machine down
+until the desired angle is reached, and then to pull it a little farther back than its original position in order to keep the machine in the attitude thu assumed.
+
+27
+
+PRELIMINARY REPORT ON FREE FLIGHT TESTS.
+
+For the sake of comparison the curve of elevator angles for 0. JN2 has been computed
+from tests made at the wind tunnel of the Massachusetts I nstitute of Technology 1 and is given
+in figure 27 together with a reproduction of the curve for the JN4H with the engine idling.
+In computing the curve for the model the center of gravity was a sumed to be in the same
+po ition with regard to the mean chord of the wings as in JN4I-I No. 1. The differences between
+the JN2 and the JN4H are not of a nature which would be expected materially to affect the
+bala.nce and stability, except that the stabilizer on the former i et at - 3° to the wing chord,
+while that on the latter is at - 2°.3. This u.ccounts for a part, but only a part, of the relative
+displacement of the two curve. It will be noted that the model test would have led to a prediction of tail-heaviness, the opposite of the condition exi ting. This difference can be attributed
+
+MG><; I
+
++6
+
+/
+
+·
+
+V
+
+/
+
+·
+-
+
+-.
+
+.tl, k:;:::: ~ ~
+
+1
+11'(0
+
+~ ~P
+ea '
+
+-:/
+~~
+
+-;::::- r:;>-
+
+·
+
+f'"
+
+~
+
+V
+
+I
+FIGURE 26.
+
+I
+
+ff-
+
+A/'IGLES 0/'1 Tift: IN
+
+t'or various speeds os determined by wind funnel eKper- l //nem' onomodelondby
+rrl!!e-flighf fesfs(gl,din9)' f-
+
+I
+
+./
+
+An ideolseloTcurves
+Tor sloble High! ot oil
+speeds wtlh locked
+canlrols.
+
+COMPA/i'/SONOFELEVA TO/i' l -
+
+I
+ii
+
+-:;:::; ~
+
+~ ~~
+
+Je. tl'
+
+·
+
+I
+
+I
+
+rre<!! FI'l/.
+11,;o" lf.
+
+/"
+
+I
+
+I
+
+1
+
+I
+I
+
+I
+
+I
+
+.50
+
+.-1ir-
+
+60
+
+70
+
+speed (171 p . h . )
+
+FIGUR E ?:I .
+
+to the fact that the tail of the model was made up as a fiat plate cut from sheet metal and the
+difference between inclinations of the zero lift lines of the stabilizers in the model and the fullsized machine was therefore much greater than was the difference in the settings of their chords.
+The large error in balance resulting from this error in tail construction points again to the
+necessity of minute accuracy in constructing the sustaining and control surfaces of wind tunnel
+models.
+The two curves of figure 27 are of almost exactly the same form and it appears probable
+that, were it not for the error noted above, they would be close enough together so that the
+balance of the u.ir plane and the control position in gliding flight, when there is no slip-stream
+effect, could be closely predicted from the model test. The present experiments and otherii
+of a similar nature on many different types of machines will provide the necessary data for
+I
+
+Bulletin Airplane Engineering Dept. U . S. 4 ., lune 1918, p. 89
+
+2
+
+A .r UAL REPORT NATlOKAL ADVISORY COMMITTEE l?On AERONAUTICS.
+
+correcting the wind tunnel re ults for slip- tl'eam effect and so for predi ting the balance of an
+, airplane at full power before it is built.
+The discus ion so far has been confmed to the case of stability with locked controls. Thi
+of course, i rather an uncommon case at present as very few machines, especially of nonmilitary
+type, are fitted with means for locking the stick in position. The pro\'1. ion of a device for this
+purpose is highly desirable from ome standpoints, and may become the usual thing at ome
+future date, but there are other cases which, as already noted, are of more importance at present.
+If the elevator is left free and uncontrolled it will take up a position in which there i a
+small moment about the elevator hinge, due to the air forces acting on the urface, tending to
+decrease the angle. This corresponds to an upward force on the elevator and is required to
+balance the weight of the member, which produces a moment tending to increase the angle
+of setting. In the machine used in the e te ts a force of 8, pounds at the top of the stick,
+corresponding to a moment about the elevator hinge of 206 pound-inches, was required to hold
+the" flippers " up in the neutral po ition. A force of 1 pound at the upper end of the stick
+balances a moment of 24.2 pound-inche about the elevator hinge. In plotting the results of
+the tests the force on the stick and the momen t about the elevator hinge have both been plotted
+as ordinates against air peed. Since the ratio between the forces and the moments is fixed
+a single urve suffice for both by a proper adjustment of scales.
+Before discussing in detail the curves of con trol force , a digression on the definition of nose
+heaviness and tail heaviness is appropriate, a.s these terms constantly enter into any question of
+longitudinal balance. An airplane may be, and has been, defined as in perfect balance (neither
+nose heavy nor tail heavy) either (a) when the pilot does not need to apply any force to the stick
+to keep the machine in equilibrium under the particular co nditions in question, (b) when there is
+no moment about the elevator hinge, or (c) when the airplane flies in equilibrium with the
+elevator forming a prolongation of the stabilizer. The first of th ese definitions is generally the
+most satisfactory, and will be used here, as it relates to what the pilot is primarily interested in,
+the muscular force required to fly the machine steadily . Its only important disadvantage is
+that it makes too much depend on the weight of the elevators, a very minor and easily changed
+factor of design, to be really desirable from a scientific point of view. The second of the three
+definitions suggested would be better from this standpoint.
+The curves of force and moment on the elevators of o. 1 for various throttle settings are
+given in figure 28 , those for No.2 in figure 29. The positive sign corre ponds to a pull on the
+stick, holding the elevator up against a downward force. The curve marked " level flight"
+gives the forces for that condition with both air speed and throttle setting varing. In all cases
+the force is a pull on the stick, or, in other words, the airplane is nose heavy. This nose heaviness
+could be remedied, at least for any particular speed, or reduced to any desired extent by changing the stabilizer setting, or, what amounts to the same thing, by rigging the wings at a larger
+angle of incidence. If the stick on either one of the machines used in these tests is released,
+it will move forward from the equilibrium position and the machine will go into a dive with
+the throttle wide open. Releasing the stick during gliding de cent also throws the airplane
+into a dive, the speed and steepnes of which rapidly increase, apparently without limit.
+With free controls, just as with the controls locked, stability is indicated by the slope of
+a curve, but it is the curve of control forces in this case instead of that of control positions .
+When the slope of the curve of forces is negative, as it is at low speeds in figures 28 and 29,
+the machine is stable with free controls, provided that the line of zero force on the stick
+intersects the curve of force, as any change of speed would set up moments which would cause
+the elevators to move in the proper direction to restore the machine to its original attitude.
+When, on the other hand, the slope is positive the equilibrium is unstable and can only be
+restored, once it is upset, by the intervention of the pilot. It is evident from the curves that
+with free controls, just as with the controls locked, the statical longitUdinal stability is greatest
+at low speeds of flight, that the machine becomes unstable at speeds in the neighborhood of the
+maximum attainable, and that the stability is greater in gliding than with the throttle open.
+
+29
+
+PRELIMIN ARY REPORT ON FREE FLIGHT TESTS.
+
+14
+
+I
+
+I I
+I
+
+.~
+
+~
+
+12
+I
+
+I
+
+~ r--.....
+
+I
+
+I
+
+-
+
+~
+
+I
+
+\
+
+I
+
+1\
+
+,
+
+I
+
+i
+
+I
+
+~
+
+I
+
+8
+
+,
+
+~
+
+I
+
+-1
+
+Lev
+
+'"
+
+!
+
+I---'
+
+x
+
+L---l----
+
+0
+
+10
+
+15
+
+v-
+
+Vi
+
+~0
+
+55
+
+50
+
+"
+
+-
+
+I
+
+./
+
+~ - -
+
+I
+
+- -
+
+I
+
+I.
+
+I
+
+- -150
+-- 175"
+
+!
+
+75
+
+70
+
+- -
+
+I
+
+I
+
+65
+
+~ _
+
+I
+
+I
+
+I
+I
+
+!
+
+I
+
+I
+I
+
+/
+
+- -
+
+I
+
+I
+I
+I
+
+- 5
+0
+
+-
+
+V I
+I
+
+!.----'"
+
+I
+-
+
+!
+
+V
+
+V
+
+-
+
+I
+
+-fI()()
+
+I ~-
+
+A
+
+V
+//
+
+I
+I
+
+/
+
+I
+
+L---L--
+
+I
+
+J---
+
+V
+
+./
+
+I
+
+..
+
+I
+
+I
+
+I
+
+...ft
+
+I
+
+In raM. I
+
+"{
+
+z
+
+-
+
+I .,.- /I
+,
+
+~
+./'
+
+-
+
+~
+
+I
+I
+
+I
+
+-- ~
+
+V V I
+
+i
+
+[')
+
+-n'
+
+'"
+
+\
+I
+
+I
+
+..
+
+I
+
+I
+
+I
+
+i
+
+.
+
+..
+
+I
+
+I
+
+I
+
+I
+
+I
+
+fO
+
+I
+
+I
+
+~ :--.....
+
+I
+
+~
+
+CONTROL rORCt:5 ON JN4HNO,!
+o 1400r.p.m.aI75m.p.h.
+X 1200
+" 65 "
+"
+6:> 90.0.
+" 55
+8 600
+" 55
+"
+Vl Level 11/9.171.
+
+I
+. j.
+
+IJJ
+
+80
+
+Indicated A I/-·sp eed(rn.p . h.)
+FIGURE 28.
+
+IZ
+
+cavTROLrO~50NJNbl~- :
+II
+
+10
+
+~
+
+o 140.0 r.p.rn. 017S m p .h .
+x 1200
+
+El
+
+.. 65
+.. 55
+
+.
+_
+
+600
+
+.. .
+...
+
+"" "-
+
+~f....
+
+V
+
+V
+
+2
+
+°"0
+
+\
+
+/
+
+V V
+
+50
+
+./'
+
+V
+
+V
+/
+
+/
+
+Y
+V I
+<
+/
+
+f-
+
+I
+
+i/ /l
+
+V
+
+l/
+
+V
+
+~
+
+-
+
+-
+
+./
+
+../'T
+
+/-- +.50
+
+[7~
+
+-
+
+-- f---
+
+-
+
+i
+
+!
+
+-
+
+---
+
+I'----- I - -:::: ~V
+4.5
+
+/
+
+I
+
+1--/lL v
+
+I
+
++75
+
+I
+
+V
+
+1 '
+/
+/'
+
+/
+
+/V
+
+~
+
+/'"
+
+x
+
+-
+
+~'
+
+I
+
+I
+
+I'...
+
+"-
+
+-
+
+/
+
+M
+
+M
+
+~
+
+Indlcaled Air-sMed (m.p.h.)
+FIGURE 29.
+
+~
+
+85
+
+90
+
+30
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERO AU TICS.
+
+The chief difference between statical tability with locked and free controls is that equilibrium
+can be e tabli hed at any speed in the former case by locking the controls in the proper position
+while there is only one po sible speed of flight and angle of attack with free controls (for a
+given weight of elevator). The stability with free controls is therefore uffi ient if the curve
+of forces cuts the line of zero force at one and only one point, the force being negative at all
+peed higher than that corresponding to the point of equilibrium defined by the intersection
+of this curve and axi , positive at all speeds lower. It therefore does not matter if there are
+one or more" kinks," involving changes in the sign of the slope, in the force curve, provided
+only that they do not rcach or cross the axis. For completely satisfactory stability with
+locked controls, however, tho slope of the curvo must be positive at every point throughout
+the range of peeds likely to be reached.
+As ha been pointed out, the machine used in these tests were nose heavy under practically all conditions, but this can ea ily be corrected, if desired, by setting the stabilizer at a
+larger negative angle relative to the wings. If greater tability or stability over a wider range
+of peeds i required it can be secur d by moving the center of gravity forward, just as in the
+ca e of fixed controls. The natural tendency, when a machine i no e heavy, is to seek to
+cure it by moving the center of gravity farther back. Where, however, as in this case, the
+nose heavine is a companied by in tability, moving the C. G. aft will only serve to aggravate
+the latter difficulty. If the C. G. is moved at all it should be moved forward. Changing the
+stabilizer setting so a to give an increased downward force on the tail, on the other hand,
+improves the balance and, a will be shown later, also has some beneficial effect on the stability
+with free controls. The exact effect of changing the stabilizer setting is difficult to predict
+unless an exhaustive series of tests on pressure distribution over the elevator is available (such
+tests have never been made except for one machine), as the moment about the elevator hinge
+depends laro-ely on the position of the center of pre ure on the elevator, and this is a very
+uncertain quantity. If the center of pres ure position is assumed to be unaffected by the
+changes in elevator angle to ecure equilibrium at a given speed with a changed stabilizer
+etting, the alteration in moment about the hinge, due to the different stabilizer angle, is almost
+exactly proportional to the quare of the peed, as the change in elevator angle for equilibrium
+is very nearly the same for all peeds. The slop,e of the curve of forces on the stick, under
+the e condition, would decrea e in algebraic value if the stabilizer angle were decreased, and
+the tendency would be toward stability. From this the deduction can be drawn that stability
+with free controls can not be obtained at any given speed merely by changing the stabilizer
+setting unle s the machine was originally nose heavy at the designated speed and all lower
+speeds of fligh. Furthermore, an airplane the curve for which is unstable (i. e., has a positive
+slope) throughout the range of normal speeds of flight can not be made stable with free controls
+at any speed whatever by changing the stabilizer setting unle s it is initially nose heavy at all
+point of its speed range. Although the e deductions are ba ed on an a sumption not strictly
+true they check well with experiment and furnish a fair basis for reasoning. It follows from
+the foregoing conclusions that the maximum positive angle to which an adjustable stabilizer
+can be moved should depend on the behavior of the machine in a steep descent with the throttle
+open. For stability, the force on the tick under those conditions should always be a push.
+When it becomes a pull it is a sign that the stabilizer angle is too large.
+If the conditions laid down in the la t paragraph are not observed it will, as already
+noted, be impossible to secure stability ,"lith the stabilizer alone, and the center of gravity
+will have to be moved forward.
+It will be noticed that the curves of control force for the two airplanes in gliding are
+nearly identical, while the negative momen ts about the hinge with throttle open are considerably larger for No.1 than for No.2 . This difference i at least partially due to the difference in the vertical coordinates of the center of gravity, the C. G. of No.1 being higher than
+that of o. 2 becau e of the reserve tank in the upper wing. The center of gravity being
+farther above the thru t line in No.1, the thrust on that machine produces a stalling moment
+
+PRELIMINARY REPORT ON FRl!lE FLIGHT TE TS.
+
+31
+
+about the C. G. , and this has the efJ"ect of making the machine le ' nose hea\"y than it would
+otherwise be.
+It is de irable that the pilot of an airplane hould be able to relea e the controls at any
+time without causing the IDfl.chine to go into a steep dive or to stall badly. In order to fulfill this
+requirement the center of gravity hould be matorially farther forward with respect to the
+wing than it wa in the particular airplane~ which were the subjects of the e te ts, and the
+stabilizer should be set, at such an angle to the wings that the machine will be ill equilibrium with
+the controls free and the engine tlu'ottled at a speed well within it. normal range (60 miles per
+hour would be a good figuro for an airplane of the type and performance of tbo JN4II). Exact
+recommendations as to tho position of the . G. can not be made without further te ts, but it is
+probable that 28 pel' cent of the way back from tbe leading edge on the mean chord of the wings
+will be found a satisfactory location. The negative angle of the stabilizer with respect 1.0 the
+wings should be larger in these .lnachine' tban intho e in which the stabilizer ection is symmetrical about a horizontal plane. A stabilizer with a flat lowor aud a camberod upper surface,
+su ch as that ont he J 4H, has it zero lift line at an angle of from 2° to 4° to its chord, and it is
+the zero lift line which should be considered in choosing the etting.
+In order to pu t to the te t these thoories as to the cause and cme of instability and pOOl' balance, airplane No . 1 wa rerigged with the stagger reduced by :3 inches, and with the rear of the
+tabilizer blocked up so that it chord was at a negative angle of 1°. 6 to the top longerons, 01'
+4° to the wing~. The reduction of the stagger by moving the upper wing backward has pract ically the ame effect a has moving the center of gravity forward.
+Altbough the tests wij,h this new alTangementhave not as yet been cunied far enough to make
+it pos ible to plot a set of curve, it wa very apparent that the nose heaviness of j,h e machine was
+much diminished and that the tability, bo th with free and fixed controls, was improved. The
+machine wa still unstable at high speed, but much 1 s 0 than before. It wa dived to a speed
+of 115 miles per hour with the throttlo half closed, and Lhe pull on t,he stick at, thi 'peed was
+only 10 pounds. There was no difficulty in taking orr 01' landing, and tho performance of the
+machine wa not modified in any othor respect. It is believed, as are uIt of the e te ts, that it
+will be found po sible by further change of the arne nature to secure complete statical stability
+of the J 4H at all peeds without incurring any counterbalancing di advantage. .
+Longitudinal balance of the De Haviland.
+
+In order to have data on another airplane for purpose of comparison, and al 0 to 'ecure definite information on the eil'ect of an adju table stabilizer, the experiment which have been decribed abovt' were repeated on the Do Haviland 4 with Liberty engine. The method pur ued in
+the fu'st series of tests on this machine wa identical with that alroady de cribed, and the curv
+of control position, force , and moment for vil.rious throttle setting are given in figure 30 and 31.
+The force required at the top of the tick to balance the weight of the elevator wa 34 pound ,
+and a force of 1 pound on the stick corre ponded to a moment of 24.6 pound-incha about the
+elevat.or binge. The "gearing " of the control wa therefore practically identical with that in
+the J J. The scale of ab ci sm may no t be strictly accurate, a the air-speed motel' on this macnine wa never calibrated on the speed co lU'Se , bu t it prohably would not be in error by more
+than three or four mile an bour at any point.
+It appear from these curves tbat the DH4 posse e statical longitudinal stability both with
+fixed controls and with freo controls, and that the trimming peod for any given condition increases a the engine speed decrease . If, for example, the elevator i locked at +3° with the
+thro ttle open the machine will fly at 2 mile per hour, and will automatically retum to that speed
+if any disturbance causes a momentarv deviation from it. If the engine i then throttled down
+to the idling condition, leaving the control till locked at + 3°, the no e will drop and the teepne s
+of the flight path will increase until the peed of 11 4 mile~ per hour is attained. The airplane
+will then continue to de cend steadily at this speed on a flight path of constant lope. Tbere
+will be no tendency, as in the otber airplanes which have been discu ed, to dive more and
+more steeply without limit.
+
+32
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS .
+
+Much the same statements can be applied to flight with free controls, except that in this
+case there is only one trimming speed for a given stabilizer anglc and throttle setting. Here,
+again, the trimming speed increases as the thro ttle is closed.
+It is obvious that the airplane of the future
+I
+must have a high degree of inherent stability,
+ELEVATOR ANGLES ON Oli4
+f---f- for Ilt9htot various speeds lso that it can be flown Ii hands off" for considand variOus IhroH/e setl/n9s
+010")
+erable periods in calm air. Since it is not desiro 1700r.p.moIlZOmp.h .
+:
+)( /0300
+..
+7S .
+able that the machine be limited to a single air
+o 700 ..
+65 ..
+speed for a given throttle setting, some m eans
+~J..--- ~: f---must be provided for changing the trimming
+;·
+~l - V l->speed. This can be done either by a device for
+!7
+locking the controls in any desired position or
+...-- ~ e- V
+/"
+by making it possible for the pilot to adjust the
+V
+Vf-"
+L'
+stabilizer angle while in flight. The first of
+,/
+//
+·
+these altcrnati,es has tho advantage that it is
+,/
+easy and quick to operate, as the stick can be
+/V
+made with a lock instantaneously operable by
+the pressure of a finger. The locking should ap/
+V
+ply only to the fore-and-aft motion, the stick
+·
+being left free to move from side to side in
+order that the pilot may correct disturbances of
+transverse equilibrium without releasing the
+90
+I/O
+'ZO
+A ir- speed (m.p .h .)
+lock, and, also, so that the ailerons may be free
+FIGURE 30.
+to move when struck by gusts, so giving a certain degree of Ii automatic warp. " If an adjustable stabilizer is provided, it takes longer to
+change the angle for a new trimming speed than it does to move the stick and lock it in
+a new position. The adjustable stabilizer has, however, the very great
++ZSO
+advantage that the stick is left entirely i'14
+1'----1"-. I
++ZOO
+free for control, and it can therefore be f/Z
+1'(
+used to reduce the strain on the pilot , 10
+Nsb
+, "",- ~
+even when the air is too rough or
+I
+'8
+when the machine is too near the
+I
+, I
+",so ~
+ground to permit of releasing or lock- "'6
+;:::
+~
+~ ~
+o !;.
+ing the stick.
+~ '4
+r-----.- :---....
+~
+-i:
+The effect of the adjustment of the ~ ~z
+........,
+= -SO <.U
+~
+-l?
+stabilizer is shown by figures 32 and ~ 0
+", I I
+~
+- -/00 ~
+"'-...
+33, which give the curves of control S
+q;
+\
+~
+-ISO ;;
+forces and moments for level flight ~-z
+I
+~
+I
+I'---.
+"\.
+with three different stabilizer settings. -4
+- -zoo ~.
+..
+"\
+~
+~
+i'Figure 33, giving the control forces -6
+- -ZSO ~
+\
+required and the trimming speeds with -8
+~
+-.JOO
+free controls for the several settings,
+CONTROL FORCES OY 01f4
+Tor
+Yl7rtOUS speeds
+is the more important of the two. It -10 andfli9htolIhrolt/e settings.
+- -3S0
+vorial.'s
+( stabllizerolOj
+~
+appears from the curves there given -12 o 1700r.p.rn.oIIZOmph .
+- -400 '
+..
+7S ..
+~
+that the statical longitudinal stability -/4 x /.JOO ..
+6S ..
+" 700
+with free controls diminishes rapidly
+I I I
+130
+6IJ
+70
+tJO
+90
+lOa
+IlO
+/10
+as the stabilizer angle is increased,
+Ifl,.
+(m.p.h.)
+and that, when the neutral line of the
+FIGURE 31.
+stabilizer is set at + 10 3D' to the wing
+chord, the machine is statically unstable at low speeds. Figure 32, on the other hand, indicates
+that the degree of stability with locked controls is substantially independent of stabilizer setting, the three curves being very nearly parallel to each other. This is wbat would~be expected
+
+rl'-
+
+(stob;/;z.~r
+
+~
+
+-- --- -.
+
+IQ(J
+
+"""
+
+.~
+
+'"
+
+'"
+
+'"
+
+~ .3p~ed
+
+'"
+
+"
+
+'"
+
+\
+
+1\
+
+()
+
+PRELIMINARY REPORT 0
+
+33
+
+FREE FLIGHT TESTS.
+
+from model tests and from theoretical considerations, some of which were developed in the
+preceding section of this report.
+The trimming speed increases as the stabilizer angle increases, slowly at first and then
+very rapidly. A change of angle from -1 ° 30' to 0° only raises the trimming speed with free
+controls from 71 to 86 miles per hour, but only about 0° 40' further change in angle is required
+to increase the trimming speed from 86 to 120 miles per hour. Since so small a change of
+angle has so large an effect it is necessary, in order to gain the full benefit of an adjustable stabilizer, that the adjus tment be through a screw or other slow-motion device with a minimum
+of backlash, so that the angle can be regulated with great exactness. The backlash on the
+DH4 t ested was about 0° 15'.
+
+• ~ ,E LeVATOR AN6L £S ON DIM
+Tor level rIJ9h1ot vonovs spt-eds
+on ct w /lh var/ou ,s srobil/zer
+
+s etti
+n9S.
+
+V
+
+·
+
+"V
+
+./
+
+~
+
+V
+
+V
+
+.J~
+
+..-----;..--'
+
+[...4'
+
+--- ----. '--.--
+
+'--
+
+--........
+
+?
+~
+
+~
+
+-..-..., ~~
+
+a. tJ:.; ~
+
+,---1-
+
+!-"'"
+
+'0.
+
+90
+
+ItKJ
+
+A;r-sp~d
+
+'...,
+
+~
+
+I/O
+
+IZO
+
+!lO
+
+ItKJ
+
+- - 800
+
+- -900
+
+~
+
+ror levell'I19h1ol vorious
+speeds and w il h v4/70us
+slobtl/zer selti
+ngs .
+
+A'r- ~~d ( /17.,0
+
+o
+
+- 600
+
+CONTNOL FORCeS ON OH4
+
+IJ()
+
+-
+
+/10
+
+litO
+
+n .)
+
+FIGURE 33.
+
+FIGURE 32.
+
+The provision of an adjustable stabilizer on the DH4, and the range of angles chosen for
+the adjustment, were largely due to the distance between the center of gravity and the observer's cockpit and the gasoline tank, a small change of weight in the rear cockpit having a
+large effect on the balance of the machine. For the conditions existing when these tests were
+carried out C170-pound observer, no heavy instruments, guns, photographic apparatus, or other
+equipment in the rear cockpit, and gas tank two-thirds full ) the maximum positive adjustment of the stabilizer would never be required.
+
+o
+
+~
+
+~
+~
+
+~
+
+r
+"
+
+~
+
+~
+
+- 700~
+
+\
+
+lD
+
+( m .p .h .)
+
++100
+
+~
+- - ~
+"
+I'e -- «XJ~
+"
+- -SOO ....
+~
+
+I'----
+
+-30
+
+·
+
+-
+
+300
+
+"\
+
+-JS
+
++ZOO
+
+- l Oa
+
+-lJ
+
+V,,/
+
+(JO
+
+-
+
++.100
+
+-
+
+-/00
+"-
+
+~
+k-:
+
+.:.::. ~
+
+f'..- i'--..
+
+,/y
+
+V,/
+
+~
+
+I
+
+..> ..-----
+
+/
+
+70
+
+- :---,
+
+v-
+
+~
+

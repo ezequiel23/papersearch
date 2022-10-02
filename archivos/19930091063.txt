@@ -1,0 +1,809 @@
+REPORT
+
+~0:
+
+33.
+
+SELF-LUMTNOUS MATERIALS.
+By N. E. DOESEY.
+
+A limited mimeographed edition of the following notes was issued August 10, 1918, as
+Luminous Material Circulm No. RI&6 of the National Bureau of Standards. The cumbrous
+title of that circukir-’’Notes
+and Recommendations regarding Specifications for the IUuminating of ArticIee by Means of SeIf-Luminous Materials Containing Radioactive Excitanta” indicates its purpose and scope.
+The circular was prepared with special reference to the ilhuniuation of military and of
+nmd instruments. In its preparation the numerous quwtions propounded to the Bureau
+during the preceding 12 months in regard to such illumination were kept constantly in mind,
+the greater portion of ita contents bearing directly upon these questions.
+1. Basis of qxx%feati&ns.-As the object of ilhnninating articles with self-luminous materials
+is to secure a suftlcient brightn~ combined with a satisfactory life, it is most desirable that the
+specifications be baaed upon the brightness at deIivery and upon the rate of decrease in the
+brightness rathar than upon such a subskliary consideration as the amount of radioactive
+mattiaJ contained in the preparation. T& becom~ at once evident when it is recognized
+that the brightness of a given specimen of self-luminous material depends not only upon the
+amount of the radioactive constituent, but also upon the age of the material and Upori the
+propertiw of ita phosphorescent responsive base. It is emphasized by the fact that the brightness of the applied material variw greatly with the method of application.
+Came of lumi7wseence.-Self4uminous radioactive materials
+2. iYe~hnin.4u8 material-(a)
+consist of mixturm of a reeponeive base, usually zinc sulphide, with smfl amounts of radioactive substances. Lmnimxmce
+is caused and maintained by the bombardment of the
+responsive base by the alpha radiations accompanying the disintegration of the radioactive
+constituents of the material. Other things being the same, the br&htness of the m@erial
+increas= as the intensity of the alpha radiation imreases. The actual brightness depends upon
+the responsiveness of the base as weIl as upon the intensity of the bombardment.
+(b) 8ecd.ar changesin alpha ~adiution.-!l%e decrease in alpha radiation due to radioactive
+disintegration in six months is 0.02 per cent for radium, 2 per cent for radium-D, 6 per cent for
+mesothorium-1, 16 per cent for radio”thorium, and 60 per cent for polonium. Th= values
+aesume practicaI equilibrium between the elements named and their complete series of radioactive derivative.
+This assumption is fulfilled for polotiurn (it has no such derivatives),
+for radiothorium, for radium after a month if the preparation has the equilibrium amount of
+rdium-D and of polonium, for radium-D from which no polonium hss been removed for at
+kast four ye-,
+and for mesothcrium from which no radiothorium has been removed for at least
+15 or 20 years.
+If radiothorium has been removed from the mesotihorium within the preceding 15 or 20
+yeus, the secuk decrease in the alpha radiation WU be 1- than 6 per cent. To be exact,
+after a complete remov$d of radiothorium the alpha radiation of a mesdhorium preparation
+is zero; it at once begins to increase, and continues to grow for between four and five yeme; it
+a89
+.
+
+.—
+
+---- -——
+
+_ _.,
+, .—
+
+.-
+
+..
+—-
+
+340
+
+ANNUAL
+
+REPOBT
+
+NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+AERONAUTICS.
+
+then decreasea at a rate that is at first very S1OVV, fhlly after 15 or 20 years becomes pracand
+tically 6 percent in six months. From the third year to them iddle of the fdth year the intensi~
+increases by a total of 7,4 per cent and by the seventh year it has fallen about 2 per cent
+below what it was at the third year.
+After a compIete removal of polonium, the alpha radiation of a radium-D preparation is
+zero; it at once begins to increase, and continues to grow for a period of about two yews. It
+then decreases at a rate that is at first slow, and finally, after the fourth year (counted from
+the time the polonium was removed), becomes practically 2 per cent i.msii months. From the
+eighteenth to the twenty-fourth month the intensity increases by a total of 2 per cent and
+by the thirty-sixth month it has fallen to approximately what it was at the beginning of the
+nineteenth month.
+In the preparation of material containing radium there is a considerable escape of radium
+emanation,i there is also a loss of radium emanation during the application of the matmial
+to the article being illuminated. This reduces the intensity of the alpha radiation. As the
+radium emanation again accumulates the intensity increasea; the recovery is half completed
+in 3.85 days and is practically complete by the end of a month.
+If the radium. salt when incorporated with the material contained no radium-D or
+polonium its alpha radiation at the end of a month will be about 20 per cent less intense than
+if it had contained the equilibrium amounts of these substances, and will slowly increase for
+over a hundred years. The rate of growth, beghming at a very small value, increasm rapidly
+for the first few months, then more slowly until at the end of two years the rate of growth will
+be about 0.4 per cent in six months, and will then gradually decrease h-zero in about 115 years,
+at which time the total alpha radiation will be about 16 per cent greater than it was at the end
+of the first month.
+If material containing radium, meaothorium, or radiothorium is not hermetically sealed,
+any increase in temperature will cause some of the air contained in it b escape, carrying with
+it a portion of the radium, or thorium, emanation. This WN reduce the intensity of the alpha
+radiation; on keeping the temperature consttmt- there will be a recovery. For radium tlm
+the recovery will proceed as just described, being half completed in 3.85 days. For the thorium
+products the recovery is very rapid, being on-half completed in less than a minute. Not only
+is the recovery of the alpha radiation of the thorium products very rapid, but, on account of
+the extremely short life of thorium emanation, the initial reduction is less than for the radium
+producte, most of the thorium emanation disintegrating before it can escape from the material.
+A reduction of pressure produces an effect of the same kind m an devation of temperature.
+Exclusive of such subsidiary @ecte as those of temperature and pressure, the secular
+variation in the intensity of the alpha radiation of self-luminous matmials may be briefly
+described as follows: If the radioactive constituent is mdhnn with ite equilibriti amounts
+of radium-D and polonium, the intansity will increase for a month, rapidly at first then more
+slowly; after a little over a month the intensity wiIl decrease very slowly, about 0.02 per cent
+in six months, If initially there was no radium-D nor polonium, the intensity wiU continue
+to increase after the first month; the rata of increase slowly decreasing, but for many ymrs
+being about 0,4 per cent in six months. If the radioactive constituaut is radium-D, the intansitpill oontinua.llyincrease until about two years have elapsed since the removal of polonium,
+then the intensity will decrease, the rata of decrease never exceeding about 2 per cmt in six
+months and attaining this value only after four years have elapsed since the separation of the
+polonium. If the radioactive constituent iE me.sothorium-1, the intensity will continually
+increase until about 4.5 years have elapsed since the removal of the radiothorium, then the
+intensity will decrease, the rate of decrease never exceeding 6 per cent in six months and attaining this value only after 15 or 20 years have eIapeed since the separation of the radio thorium.
+If the radioactive constituent is either mdiothorium or polonium, the inhmsity till continually decrease, the rata being 16 and 60 per cent, respectively, in six months. AU these
+values assume that the radioactive materials mentioned are not accompanied by their radioactive predecessors.
+1R8dlnm
+13manation,
+dsoMMnWm,a radhctiw
+in
+tiom
+
+Whklh
+
+m
+
+Wllittd
+
+during
+
+IEdkdiVO
+
+dkillt+@hI1.
+
+KMformal by the dMntn@fon
+
+of mdfum.
+
+It ahcudd not be mfustd
+
+with tha radk
+
+.
+
+SEL&LUiWIXOUS
+
+MATERuw.
+
+,
+
+841
+
+(c)Secdar change8 in wpm”ve
+he. —under the action of light, air, humidity, aIpha
+ray bombardment, etc., changes take place in the responsive bsse. These changes are acoomptmied by a change, usually a decrease, in responsiveness. The most striking of these ohanges
+is that due to the alpha bombardment. under continued alpha radiation the responsiveness
+deoreases, very rapidly at fist, then more and more slowly as the responsiveness becomes less.
+Other things being the same, the more intanse the radiation the more rapid the decrease in the
+responsiveness. Whether the responsiveness will ultimately become zero is an open question.
+The nature and extent of the changes just described are functions of the responsive base and
+vary with the latter; the base generaIIy employed is zinc sulphidej and it is this that we have
+in mind throughout these notes.
+(d) flecular cikngea in hig?ttne88. —The secular variation in the brightmss of seMnninous
+matarials is due i% the two causes just considered, viz, (1) the variation in the intensity of the
+alpha radiation, and (2) the secularchanges in the responsive base. For praoticel purposes
+the resultant effect may be regarded as the sum of the changes due to these two causes.
+If the matbd contains radium, the initial increase in the intensity of the alpha radiation
+more than offsets the effect of the decrease in the responsiveness. As a result, the brightness
+increases rapidly for about three weeks, then deoreases for about two weeks at a rate much
+greater than @at which later prevails.
+If the radioactive constituent is one of the other substances mentioned, the brightness
+shows no initial growth,l but decreases continually from the start; first rapidIy, then more
+slowIy.
+In general we may say that the brightness of a self-luminous material undergoes marked
+ohsnges during the first four or five weeks after the radioactive constituent is incorporakd
+in it. Mar this period, the brightness decresses at a more moderate rate. Of material cataining the ssme responsive base h brighter the mattitd the more quickly does ita brightn~
+drop to 50 per cent of ita former value. For this reason it is dmirable h design the illuminated
+portions in such a manner that a material of low brightness can be used.
+No exact Qure can be given for the rat-e at which the brightnew of applied material may
+be expected to decrease. Wide variations in the rate are found even among dials illuminated
+at the seine time and with the same material. No explanation of this variability can now be
+given.
+Dials of 5 microlamberk ihminated with radium material have been observed to deorease
+to 2.5 in six months; others have decressed to only 3 or 4. Similarly diaIs of 8 may decresse
+t.030rto 6intJmsame time, and those of2tol.3ort.ol.9.
+Dry material containing radium and sealed in glass tubes may be expected to decrease
+approximately as shown in the following table:
+Tuu
+
+L-Decraee
+
+in ihightne.w
+
+of dry materigl
+
+in 180 @n.
+
+(e) Brigiitness reduced by adhesive.-The brightness of material that has been mixed with
+an adhesive and painted upon an object is usually only 25 per cent, occasionally 40 per cent,
+of that of the dry material. We have already seen that dry material decreases in brightness
+at a lower rate than does painted material of the same brightness. It is, therefore, desirabla
+that dry material be used wherever possible.
+.—By the brightness of a surface is meant the luminous intensity per
+3. Unit of Zmi@tne89
+unit area of the surface as projected on a plane perpendicular to the line of sight, it be@ assumed
+horn
+IMesothorfum freed mdfothorfmn wVI ghe em fnltfal hexussn h Mghtness; the rata and duration of thfs Incmesa will depend
+~Y
+ut~ he tit ~ e@*
+h
+tie eewation of W mdiothminm. It fn mry fmwobeMe that such fresh mesothorimn will ever be oaed In
+the pwparatfon of mmmemhl Itunhtom mateufd.
+
+.—
+
+.
+
+__
+
+___
+
+—.
+
+342
+
+)
+
+ANNUAL
+
+REPORT
+
+~ATIONAL
+
+ADVISORY
+
+CIOMMI!17EE
+
+FOR
+
+AER037AUTIOS.
+
+=
+
+that the linear dimensions of the portion of the surface considered is negligibly small as compared with the distance at which itis viewed. It is evident that the brightness as thus defined
+is independent of the area of the luminous surface.
+As in measuring a length we choose for our unit a length that is exactly defied (foot,
+meter, etc.), so in measuring a brightness we choose as our unit the brightness of an exactly
+defied bright surface.
+For the measurement of the brightness of selHuminoua materials a suitable unit is the
+brightness of a perfectly dif?using md completely reffect~g surfaco when illuminated by a
+source of unit candlepower placed at a distance of 10 meters. This unit of brightness is called
+a microi!umbt bmause it is the onwmillionth part of the lambert; the lattm is a well-known
+and accepted unit of brightness, The microlambgrt is equal to 0.00093 ‘{ equivakmt footcandlos” and to 0.000 000 318 candles per square centimeter (3,18 millicandles per square
+meter).
+is
+4. Total ligliL-It necessary to distinguish between the brightness of a huninous surface
+and the totrd amount of light the eye receives from it. The former is determined by the luminous
+material, while the latter depends also upon the argg -of theluminous surface. When the huninous area is small as compared witJ.@ distance from the eye it is the total light that givee the
+impression of brilliance md determines the ease with whicldlw hunimme area can be men,
+Position mark8.— Marks that have to be soon, but of which
+5. Brighhass ofmarEng8.-(a)
+the shapes do not have to be distinguished, require only a low brightness if they are to be viewed
+against an extended black background. Lines 1 millimeter wide and 4 millimeters long upon a
+black metal surface in moonlight are not readily man in all positions at a distance of 75 centimeters (3o inches) if they are no brighter than 2 microlamberts. If the surface and the
+obeerver’e eyes are shaded from the moon then such lines are soon without difllculty,
+(b) Legible character.—U the luminous markings (numeraIsj letters, etc.) are of euch a
+character that their.shapes have to b.e distinguished, the brightmss must be greater than that
+required for the mere seeing of position marks. Complex characters require a higher brightness
+high with line width of 1 miUithan simpler ones of the smne sire. Numerals 8 -eters
+meter can be readily read Uhe moonlight at a distance of 75 centimeters (30 inches) if they
+have a brightmss of 6 microkunberts.
+(c) Relution of brighhe88 to & .—There are at least four distinct phenomena that limit
+the distance at which a hnninous character can be tid:
+First. The resolving power of the eye. Unless the angle the character subtends at the
+eye exceeds a certain value, the shape can not bo recognized, however bright the character may
+be. This limiting angb variesgreatly from eye to eye.
+Second. The sensitivity of the eye. This also varies over a wide range and depends upon
+both the past and the present history of the eye. h eye that has recently beem exposed b
+light is far 1SSS
+sensitive than if it had been kept in total darlmess for some time; aIso, if the eye
+is illuminated by an extraneous source of light ita sensitivity is diilerent from what it is when
+the eye is illuminated by the luminous character alone.
+Third. Contrast. It is evident that the character can not be distinguished if there is no
+contrast between it and the region bounding it. The percentage contrast in brightness that
+can be just distinguished increases as the bri@mse is reduced. For the range of brightnoas
+covered by articles illuminated by self-huninous matarials this limiting contrast varies approximately from 6 to 20 per cent. That is, very faint markings will not be seen unless they are at
+least 20 per cent brighter than the surrounding surface. Ih most practical cases the lines am
+illuminated by the same light as the surface on which they are painted; their effective brightness
+is therefore enhanced. This, however, may not offset the ill effect of the light from the main
+surface of the article. For example, a white dial illuminated directly by the full moon might
+have a brightness of 20 microlsmberts. If the marks upon it had a brightness of 1 microlambert and a coefficient of reflection as great as that of the dial their effective brightness would
+be but 21 microlamberts. This is but 6 per cent greater thui the Imightnws of the main surface of the dial, and the marks would be ahuost if notantirely indistinguishable.
+
+SEW-LUMINOUS
+
+MATEIUM.
+
+343
+
+Fourth. A fourth limit is set by the total amount of light mtering the eye from the character. &wning that the conditions are such that this fourth %it is the only one operative,
+then for-the same surface brightmsa a given character can be distinguished twice as far if all
+its dimensions are doubled; if its size is kept the same its brightmas must be multiplied by 4
+if it is to be distinguished at twice its former dietame. Exprmsed otherwise, this fourth limit
+states that the distance at which a given character can be distinguished is proportional to its
+linear dimensions multiplied by the square root of its brightrmss. As he determining factors
+are the brightness and the angle which the object subtends at the eye, the effect of increased
+size can be secured by the use of a magnifyng lens.
+One result of this fourth Umitiug condition is that neighboring luminous marks may appear
+to blur together although they are much farther apart than is necessmy to enable one to see
+them as distinct under usual conditions of illumination. For ready seeing at low brightness
+luminous characters should be not only large, but open. There should be a~few smalI inclosed
+mdhuninated areas as possible; for example, unlem the 3, the top of the 6, and the bottum of
+the 9 are welI opened, there is danger of mistaking these numerals for 8’s.
+(d) Gwidm to required high.tnem.-The brightness needed in any particular case shouId be
+determined by actual experiment. Objects of the required form should be illuminated to various
+brightnesses and examined qnder conditions of illumination that areas nearly as may be identical with those met with in servb.
+Frequedy a stencil illuminated from the rear serves
+admirably. When the object is illuminated with luminous material it is de&able that it be
+made too bright and then dimmed down by the use of absorbing screens.
+In such tests at least two values should be determined: (1) The lowest usable brightness;
+(z) The brightums that is considered the most desirab~e. If there is a maximum brightness
+that must not be exceeded this should be determined also.
+The various dues of the brightmesadetamnined by these tests should be measured in terms
+of an established unit, preferably the miorolambert.
+The following conclusions, drawn from observations made by various observers under a sky
+lighted by a full moon, may serve as a rough guide to the order of brightm.ss that probably
+will be required. These conclusions apply to huninous lines on a black surface. They are but
+rough approximations, d&rent. observers and diflerent conditions of general illumination
+leading to diilerent comiluaions.
+Division marks of one microlambert are too faint W&S the lines are very broad, those
+of 1.5 microhunbsrta am usable, but 2 microhwnberta or over is to be preferred. If the lines
+are 4 millimeters 10WW
+and 1 millimeter wide, and have a brighk
+of only 2 microlamberta
+there are some positions in which they can not be readily seen at 75 catimetin moonlight.
+NumeraIs 7 milhmeters high with a line width of 0.6 millimeter and a bnghtiess of 2
+microlamberts can be read at a distawe of 30 centimeters (1 foot), but a brightness of 4 is
+much better. Numerals 8 milhneters high with lines 1 millimeter wide are readily read at
+75 centimeters (2+ feet) if they have a brightness of 5.
+A circular strip 6.4 millimeters (~ inch) wide with outside diameter of 38 millimeters (1}
+inches) is tilble at 9 meters (3o feet) if it has a brightiws of 6 microlamberts.
+6. i%rnmuy.-lh
+des&uing an article to be ilhnninahd, and in drawing spec.Mcations
+for the illumination of it, the following poiRts should be considered:
+(a) The characters should be large sad of simple design; usually they should be as large
+as is consistent with the other I’eqnirermmti. Published reaulta indicate that when the ratio
+of height of character to width of line is equel to 8 the best condition for legibility of such
+letters ss N, S, E, and W has been secured.
+(b) The spacing should be open. It is unddrable to reduce the dwtance between adjacent
+huninous areas t6 1sss than 2 millimeters.
+(c) The number of luminous markings should be reduced to a minimum.
+(d) Pointers can advantageously be huninous from pivot to tip, but the tail should never
+be illuminated. In many cases it is unnecessary for the luminous material to cover the entire
+width~of the pointer.
+
+.- --
+
+&NNI%U.i
+REPORT
+
+944
+
+NATIONAL
+
+ADVISORY
+
+00 WJXI?IWE
+
+FOR
+
+AERONAUTIC%
+
+(e) .Unilluminated areas.that can be seen by the observer should be dull black.
+(f) The brightness required should be determhed h. each case by an actual trial under
+service. conditions of illumination and distance.
+(g) The nature of the radioacti~e constituent of. the material will be de-.ed
+by the
+life requirements. If the life is to exceed six months, polonium unaccompanied by an equilibrium amount of radium-D should not .be used; and only under special conditions would
+radiothorium be sitidactory; there would be but little choice between mesothorium-1 and
+radium. If a short life of high brightness is desired, radiothoriurn, radium-D, and, in certain
+cases, polonium, might give satisfaction; the life of very bright materiaI is in any case short
+on account of the rapid loss in the responsiveness crfthe base.
+(h) The secular decrease in the brightness of the material is very perceptible and must
+be allowed for.
+(i) The specifications should be so worded as t.o—
+Prevent the use of undesirable radioactive. .ccmstituent.a. (See caution, p. 9.)
+Specify the brightness of each part on delivery.
+Specify that the brightness shall not decrease by more than a specified amount in a
+specified. time. When dtite
+limits of this kind can not be given, it should be
+specfied that the brightn= shall require the longeet period practicable to decrease
+to one-half its value on delivery.
+Require that the material, especially if it contains radium, shall have been completdy prepared for several, preferably at least five, wealm before dalivery.
+Provide for inspection an delivery, and for the selection by the inspector of spccimene for submittal to a life test.~
+Require that the manner of application shall be suitable for the purpose.
+State clearly the size, design, and position of each luminous mark.
+Require the bidder and the contractor b stata b every case (1) the trade name and
+grade of the material used; (2) the manufacturer of the matarial, and (3) the firm that
+applies. the material.
+7, Appendix.— (a) Caution.-Since the only function of the radioactive constituent of a
+self-luminous material is to furnish an alpha ray bombardment for exciting the huninosceuce
+of the responsive base, the effective measure of any constituent is not its weight but the intensity of the alpha radiation furnished by it. The intensity of the radiation from a short-lived
+material is much greater than that from. an equsJ weight of a long-lived one. Illustrations
+of this difference are given in the following table.
+TABLE2.-Conapm+on oj the rah of ernieeian of alpha portkks.
+[-w-&aim
+
+radic-elemento u compsrerf with thair rati of emhatonfrom redium with M derivatives to and Inchdxq mdlum-c.]
+Radio+.lement.
+
+ltwdl~mm.otiofi.l.
+titidwIWm
+ltruemiutgramrad io-thorium
+tithtitilvw
+i trw millkpam poloninm (mdiun-lr) .......
+
+Rfuffuro.
+
+mwqramk
+
+. . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+------------------------------------------------------------------------------------
+
+.......................................................................................
+
+-1,030
+-I,lul
+
+I
+
+.
+
+On account of this fact it-is most necessary to exercise extreme. care in the wording of
+those portions of specifications and other discussions of luninoua materkds that deal with
+the relative amounts of different radio-ekunenk contained in the material.
+For example, the statement that “ 75 per cent of the radioactive constituents shall be
+radium” is most ambiguous. In order to be of value in determining the properties of the
+hnninous material the restriction should state explicitly that” 75 per cent of the alpha radiation
+of the material shall be due to radium. ” Otherwise the restriction ma~ be interpreted as
+meaning 75 per cent by weight. It is evident from the table that the presence of 25 per cent
+by weight of polonium will give the material practically the same charactmistics as if activated
+entirely by polonium.
+Bur@u of Stmdsrda fs prepared to oonduot suoh Ilfe teats for the Grmrmrrrent, sndj on requwt, ~
+! The
+tests for the pubk
+
+wmsfdm the undertakfrq of stmlIar
+
+.
+
+.
+
+SJHYF-LUMINOUS
+
+MATEUMA.
+
+345
+
+(b) Alphu radiution-Thne cwwtx.-Figures 1, 2, 3, and 4 show the secular variation in
+the alpha radiation from materisl containing mesothoriun-1, radium-D, radiothorium, and
+polonium, respectively.
+The constants used in the computation of these curves are those given by Rutherford
+in his ‘f Radioactive substances and their radiations.’ J
+(c) Brightness-fime curve8.-Figures 5, 6, and 7 represent the variation in brightness
+of four tubes of dry radium luminous materiaI studied at this Bureau. The four specimens
+me believed to differ only in the amount of radium contained in them. The radium was added
+to the zinc sulphide only a few days before the first observation, somewhere about the thirtieth
+day from the origin of time arbitrarily chosen for these curves. Throughout the period covered
+by these curves the tubes were protected from external light.
+of ah”cles by meam?of selfhmhws
+muti(d.) Form of 8peci@ztion8 fw th ikninatbn
+
+—
+
+riala cantuini~ radioactive excituni8.
+GENERAL.
+
+1. These specifications cover the requirements of -----for the illumination of -----2. When luminous -----ordered, the luminous material used must cunform to these
+specifications. The markings must conform ta those indicated in the specifications for the
+individual articles.
+3. The manufacturer of the luminous mticdes shall furnish the following with his proposal:
+(a) The trade name and grade, and the mune of the manufacturer of the luminous materiai
+he intends h use.
+(lJ) The name of the company that will apply the material.
+(c) Samples of the proposed illumination. These sampks will be subjected ta examination and tests, and may not be returned to the bidder.
+4. The manufacturer shall notify ..---of my change in the luminous material from
+that accepted.
+5. Whenever the word “brightness” occurs in these specifications it shall be tmderstood
+ta mean the surface brightness of the part after it has been cxmtinuously protected from alI
+external Iight for the immediately preceding period of eight hours.
+MATERIAL. ,
+
+6. The luminous materiaI shall consist of a suitable compound containing radium or
+mesothorium-1, or both. No radioactive materkd of a shorter average life than mesthorium-1
+(7.9 yearn) shall be prwmt unless accompanied by at Ieast the equilibrium amount of its immediate predecessor in the same radioactive series. (See p. 9.)
+7. No radioactive substance shall have been added to the luminous material during the
+five weeks preceding the inspection for the acceptance of the illuminated artichs.
+8. TIM quality and the composition of the luminous material shall be such that during the
+months following the acceptance inspection the br&htness of the illuminated article
+-----shalI not decrease under service conditions by more than ------ per cent of its value at the time
+of such inspection. (Or, the quality and the composition of the luminous material shall be such
+as under service conditions to require the longeat period practicable for the brightness of the
+ilhminated reticle to decrease to om+half its value at the time of the acceptance inspection.)
+
+—-
+
+BRIGHTNESS.
+9. At & time of the inspection for acceptance the brightness of each part shall be as
+stated in the following schedule:
+schedulef in’ightnm.
+o
+and
+Artfd13 plllt.
+.
+. . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+........
+
+............ ....
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+
++--
+
+‘“””--
+
+‘“
+
+""-""" ----""---.
+"--"
+--"""---"--------"------"----"-----------------+"-"-------------------i--------------"-----------------------"--"""""-""
+
+...................... . .. ...... ........... .... ......................... ..... ................... ....................... .... ......... .. .............
+
+,—
+
+FOB AERONAUTICS.
+ANNUAL REPORT NATIONAL ADVISOBY CIQIKMXl?ZEE
+
+346
+
+APPLI(IATION.
+
+10. The luminous material shall be applied in such a manner that it will not bmome
+loosened or detached under normal service condit!o~.
+11. Upon huninous parts that are to be immersed in a liquid, the kninous matmial
+must be so applied that it will not deteriorate from exposure to the liquid.
+12 The surfaces to be covered with the luminous materitil will preferably be recessed
+or depressed, the material being plac~ in the cavities thus formed.
+13. The surfaces to be covered with the hnninoue material will preferably be white, and
+shall be so fhished as to prevent deleterious chemicaI action upon the luminous material.
+14. Whenever practical, dry material (i. e., material unmixed with adhesive) will preferably be used, the material being kept in place by means of a transparent covering or container.
+(The contract for the illumination of the arlicke
+ing proviekms.)
+
+will
+
+include in dlkion
+
+to the foregoing specifications the follow-
+
+INSPECTION.
+
+by an agent deaigM. AII luminous parts shall be subject to inspection at . ----------natedby ------------16. The inspection of the luminous parts will imdude workmanship, brightness, uniformity, and such other points as may be deemed desirable.
+TESTING.
+17. The inspector shall select for further tests such sampl= as may be deemed desirable,
+This testing will cover the brightness, life, and durability of the illumination. Three samples
+shall be sent to the place designated for such test, the expense of transportation being borne
+by . . . . . . . . . . . . .
+PENALTY.
+
+18. (No recommendation.)
+
+100
+
+$0
+
+60
+
+40
+
+20 -
+
+0
+
+2
+3
+4
+6
+5
+,, . lyearS “
+FIQUM
+L--Curveahewfng eeonlar
+the
+rarhtion in the alpha radiation him ~~--l
+Time
+
+~
+
+of tie smwth of radioWrfom.
+
+‘rho timum
+
+Menuity 0! the
+
+7
+materkl.
+
+8
+
+9
+
+10
+
+The time h eotmted from the
+
+dphe rridietion erbitrarlh ahmense KC.
+h
+
+SEW-LUMINOUS
+
+347
+
+MATEBKAl&
+
+.
+
+a
+RQmB Z~
+
+&&ng the
+
+LWUIIU
+mrfatkm inthe
+the growth of the pOIOdq
+
+.—
+4
+
+‘6
+
+5
+
+alphamihtfon hmn radfom-D. TM timek countedfrom the k@mf.nc of
+and tha Jn=Immn
+
+omlfmita fsohosenal
+
+loo.
+
+—
+100
+
+so ,
+
+60
+
+40
+
+q
+
+5
+w
+~
+%
+$
+0
+Tfme . . . YuKs
+Fmu-BS3,-CurW
+
+2
+
+3
+
+*
+
+SMwingthes
+mIarvWkt Ionfntlleatpha
+
+5
+
+6“
+
+Ladfatfonkoln xndlothodmn.
+
+‘
+
+ANNUAL
+
+REPORT
+
+N&HONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+.. .. .. .
+
+AERONAUTIC%
+
+.
+
+,
+
+Ud
+
+PoLONIUM
+
+40
+
+\
+
+\
+
+1
+---
+
+---
+
+d
+‘rim
+
+. ..
+
+---
+
+%00
+
+DJY’
+
+5(W
+
+-.
+
+-..
+>m
+
+*U9
+
+la”
+owl
+
+-. /l
+fUv
+
+FIomm 4F-Curve sbowtng the swubm vartatfon fn the alphe rw%atfon fmm polontum.
+
+I
+
+1
+
+\
+
+/
+
+CQ
+
+ii
+
+I
+FrGUXE6.-CUI’VU ehowing the varfatton in the brightness of two tubes of dry radium Iumfnoue mstertal. ‘l’hematti
+repr
+by curve lE mnteinecl
+resented by corve X3eontalmd 0.10 mg. of radium (eknwnt) por gram of mat- thateprewntcd
+0.16
+In& of radium per gram.
+
+a
+
+SELF-LUMINOUS
+
+MATE~.
+
+it
+
+‘a
+
+k
+
+(0
+
+.
+
+nm’!ax 6.-Cncve showing the vacfation In the hrfghtn~
+
+of a tuba of dry radluut Inmhons ~
+terfalcontwllngoar ofradfnm~grrm
+ng.
+
+/v/’cro
+
+z&d&#6
+
+030 D.lg. ofmdfuInp3rgmIL
+

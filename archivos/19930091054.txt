@@ -1,0 +1,329 @@
+REPORT
+
+NO.
+
+26
+
+THE VARIATION OF YAWING MOMENT DUE TO ROLLING
+I
+
+By hWIN
+
+BIDWBLL~I1801i’
+
+Contribution, 1919, No. 1, from the Rogers Laboratory of Physics Msssschnsetts
+
+PREVIOUS
+
+Institute of Technology.
+
+WORK
+
+The aerodynamical constants of an airphme necessary for the discnwion of stability are
+partly observed and partly calculated. Among the calculated coefficients is A?fl,which is the
+variation of yawing moment due ta rolling. In the Technical Report of the Advisory Commit tee for Aeronautics (London), 1912-13, Itkporte and Memoranda No. 77, being an Investigation into the Stability of an Aeroplane, etc., by L. Bairstow and others, on page 157 it is stated
+that “for the wings it wi!l be seen that whilst Lp is proportional to the slope of the lift curve,
+[P is proportional ta the slope of the drag curve. Hence NP will be one-tenth of Lp d anglcs
+shghtly above that giving maximum lift/drag, and may become zero, or evan slightly negative,
+in a machine flying at about the angle of minimum drag. The effect of the rudder and body will
+be appreciable in most machinas. N’ wilI be variable between the limite O and 40.”
+In a contribution on “Dynamical stabiLity of aeroplanes,” by Jerome C. Hunmker,
+Smithsonian Miscellaneous Collections (Washington), vol. 62, No. 5, June, 1916, pagw 55-57,
+the calculation of NP is carried out in detail along the lines laid down in the above quotation
+and vahnw for the machine under discussion (a d@gu by Capt. V. E. Clark, United States
+Army) run from O to 57.
+An essential argument in these derivations of a vahe for .VPis that the roll produces an
+increased line of attack on an ele~kry
+area of the right wing and a diminished angle of
+attack on the corresponding element of the left wing; and that, consequently, the variation of
+the yawing moment should be calculated from the slope of the drag curve. Now, as a matter of
+fact, this would be certainly correct @ case the wing were a flat plane to which the resultant
+pressure remained always normal, independently of the angle of attack; but it is by no means
+certain that the argument is valid in the case of cambered wings, where a &ange in the angle
+of attack produces a change in tie direction of the resultant force as well as a change in its
+magnitude. It would seem to be more likely to be correct to take account of the change in
+direction of the resultant force, as is the case in the calculation of XW, the variation in the X
+force due to vertical velocity. In the case of the flat plane X. is a negative quantity,
+owing to the diminution of the redtant pressure (ite direction remaining invariant) when the
+angle of attack is diminished; but the change in direction of the resultant force on the cambered
+wing is so much more important than the diminution in its magnitude (owing to the large value
+of the Iift reIative to the dreg) that the value of X= for the airplane beconws actually positive
+instead of negative.
+A NEW
+
+CALCULATION
+
+It would seem that in calculating N. the change in the X force (not in drag alone) should
+be used. It would be possible to make the calculation on this basis in the following manner:
+Let dy be an eIement of length along tlm wing, and S its span. If m is the mass of the
+airplane in skqgs,mXWw is the variation in the actual X force, due to w; and for the ekment dy
+79
+
+..
+
+..-—
+-.-—
+...==
+—
+--.
+
+.—
+
+.-. —
+
+80
+
+ANNUAL REPORT NATIONAL ADVISORY COMMZM!EE FOR AERONAUTICS.
+
+The moment of this change is the change itself
+the proportional part would be mX.wdy/S.
+multiplied by ite mm y, viz., mXWwydy/S; and the total value of the variation in the moment
+
+s
+
++19p
+
+mNPp== _tnnXuu@y/8.
+The value of w is negative, and equal to –yp.
+
+On substituting this value, we have
+
+s
+
++9/’2
+
+Np=
+
+– Xwywyfs -.–XJ’712.
+-m
+
+When the vaIues for the Clark design
+are found:
+u - –112.6
+.
+.
+0°
+;.=+
+.366
+Np = – 47.5
+
+are substituted, in which S -40,
+– 78.2
+30
+
+– 65.3
+&
+
++ .249
+–33.2
+
++ .245
+–32.7
+
+the following results
+
+– 54
+12”
+0
+
+o
+
+whereas, according to Hunsaker, the values of NP are
++33.5
+
+ivp=o
+
++ 57.0
+
+It will be observed that NP by this calculation is negative, instead of positive, and that the
+numerical vahs are large for small angles of attack, small for huge angles. Not only the sign
+of iVPis changed, but the general trend of numerical values is reversed.
+EFFECTON STABIIJTY
+Fortunately the value of NP is not of very serious moment in the discussion of stability.
+The exprcwion in which it is most important is the approximate form of the damping in the
+type of motion which Hunsaker (lot. cit., p. 71) calls the Dutch roll, and which corresponds to
+the quadratic factor of the biquadratic that governs the lataral motion, namely:
+
+“+(w”+d%zr’o”
+2-2”%($-3
+The value of ~ ti negative. That of No is also negative, and those of Lo and ~ are positive.
+If, therefore, NP be positive, m found by Bairstow and Hunsaker, the expression in the parenthesis is the differenm of two quantities; and in order to insure stabili~, it is necessary that this
+diilerence be positive-that is, we must have NJ L. greatm numerically than NJ Lp. NOW, M
+and LOoccur in the expression which determines spiral stability or instability, and the ratio N./ Lois desired small for spiral stability, whereas it is d&red large for stability in tho Dutch
+roll. Thus, there arises the necessity for a very fine compromise in the relative magnitudes of
+No, L,,Np,Lp,inorder that the machine may be stable both spirally and in the Dutch roll.
+If, however, the vah of NP be negative, as is indicated by my calculation above, both
+–
+are
+terms in the parenthesis (Np/Lp Ng/LO) positive for most attitudes of flight which have
+been examined, and the machine is stable in the Dutch roll without the necessity for any fine
+adjustmeniuas compared with the spiral case. This should be a matter of some relief to the
+conscientious designer critical of the dynamic stability of his design.
+CHECK ON THE CALCULATION
+
+In so far as my argument for the calculation of NPis just, a similar argument could be given
+of
+for obtaining a calculated value of Lp interms 2., with the result:
+~ =zJY/EL
+
+.—
+
+VARIATION OF YAWING MOM13N’J!
+
+The values of ~ as calcul~ted by this formula would be:
+
+u = – 112.5 – 78.2 – 65.3 – 64.0
+~o
+
+(jO
+12°
+3°
+ZU= – 5.62 - 3.77 – 2.92 – LO
+-133
+LP= –749
+– 493
+-389
+
+i==
+
+—
+
+whereas the values given by Hunsaker are
+
+LP= –631
+
+–224
+
+–319
+
+The values of& are obtained rather easily by measuring the damping of the modeI when
+oscillating about the X axis, and, consequently, the measured values should be fairly trustworthy. The only two cases in the table in which a comparison can fairly be made are those
+in the fit and last cohmms cmresponding to highest and lowest speeds; for the integer in the
+third cohunn is not an experimental value, but one obtained by interpolation. At the highest
+nearly 20 per cent too high; whereas at the lowest speed it is
+speed the calculated value of Lp is
+.
+distinctly tOO IOW.
+It would not be surprising if a calculated value based on 2. should be b high, for the
+experimental method of determining Zu is to compare the Z forces for the model when set at
+different angles of pitch relative to the fixed direction of the air current. Now, it is a common
+observation in our wind tunnel at the ?d.assachusett.sInstitute of ?J3cbnology that when the
+orientation of the model relative to the wind is quickly changed, a very considerable time elapse-s
+It appears as though it took a reasonable amount of
+before the forces reach their shady vahe.
+time for the stretun lines in the fluid to change from one steady direction b another.
+If this be so, it would be impossible for the stream lines ta accommodate themselves to
+the oscillatory motion in the experimental determination of LP = fully as they accomm odate
+themselves to the changed orientation in the experimental determination of Zti. The result
+would be that the effective value of Zu, which should be used in the calculation of LP, might
+be a considerable amount below the measured vahe of Z.. No such explanation could be
+given for the discrepancy between “tie values as calculated and observed of LP at the lowest
+speed, for the direction of the change is reversed. There is, howem3r, the possibility that the
+value of 2. as calculated from the experiments should be considerably in error, because this
+value must be obtained either by an interpolation in a table of values, or by estimating the
+slope of an experhnentally determined curve, and either of thsse procawes is one in which it is
+difEcult ,to obtain accuracy, because the experimental errors or an error of judgment in fairii
+a curve are extremely effective in vitiating the value obtained for the rate of change of the
+ordinate in the vicinity of any particular pornt on the curve.
+A comparison maybe made for the C?urtissJ. N. 2., from Hunsaker’s data (loo. cit., p. 78)
+and these reports, First Annual Report, 1915, pp. 47-49:
+U
+–115.5
+– 63.8
+
+i
+1°
+150.5
+
+Zu
+–3. 95
+–.673
+8
+
+LP(obs.)
+–314
+– 78
+
+Lp(calc.)
+
+–427
+– 73
+
+Zu
+
+.162
+–. 292
+
+NP(new)
+–17.2
++31. 5
+
+-.
+
+;..=—
+
+—.—
+
+—
+-
+
+—
+
+-.
+.-
+
+NP(old)
+O
++37. 7
+
+Here the calculated LP at low speed checks vary well with that observed, but is again considerably too high at high speeds. The reversal of sign of X. for this machine has brought the
+two vahms of iVPfor low speed near together.
+EXPERIMENTAL
+
+CHECK
+
+In the British report (1912-13), Reports and Memoranda No. 78, being the Experimental
+Determination of Rotary Coef6cients, by L. Bairstow, etc., on pages 177-179 there is outlined
+an experimental method of measuring the value of Lr, the vmiation of the rolling moment due
+to yawing by a somewhat intricate experimental procedure, based on the theory of forced
+oscillations In a similar manner, the variation of yawing moment due to rolling, N.., could
+1670S0-S.
+
+Doe.807,
+65-S.-.6
+
+..—
+
+82
+
+ANNUAL REPORT NATIONAL ADVISOEY COMMITTEE FOR AERONAUTICS.
+
+be determined. It seems, however, that the measurement of the amplitude of the forced oscillation would determine on.Iy the numerical magnitude, and not the sign of L, or NP ss the cme
+might be; and that for the experimental determimtion of the sign it will be necessary to
+observe the phsse difference between the forced oscillation and the periodic applied force.
+This should not be a difficuIt thing to observe, but it is quite possible that if one knew, or
+thought he knew, in advance what the sign of the result should be, he might overlook the
+mattar of checking the sign by an observation on the phase difference of the two motions.
+It is probable that before any great dependence can be put upon the calculated value of
+NP or similar aerodynamic coefficients, an extended comparison of calculated values with
+experimentally determined ones will be necwssry; and I have not offered the above discussion so much for the purpose of attempting a definitive determination of the value of Np w for
+the purpose of finding out the po=ibility of making a calculation which would seem to be just
+as reasonable if not more reasonable than those before given; and which does, as a matter of
+fact, lead to a value of iVPof negative sign instead of one with a positive sign. The hportant
+thing for the discussion of stability is not so much the numerical value of N@, unless NP be
+positive, as the assurance that NP is negative, if, indeed, it be negative,—(lihtmct jmm lectureg
+
+given d t?k?ihwadbuwtta hditde of Technologyto a specialcwr8e
+fw Amy and i4awy ojkeT8, May to Septender, 1918.)
+
+in
+
+aeronwticd
+
+en@eering
+
+NoTE.-h a hok on Aeronautic by Oowley andLevy, which has just come to Imnd, there is foundon page 201
+a table in which the value of NP (in a notation different from that of Baixatow and IIuneaker) iE negative; but the
+detsfls of the calculation which lead to the value are not given, m that it can not be determined whether or not the
+negative value is intinded or fs a typographical error.
+

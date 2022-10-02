@@ -1,0 +1,5235 @@
+i
+
+REPRODUCED
+BY
+
+NATIONAL
+TECHNICAL
+INFORMATION
+SERVICE
+U.S_ EPARTMENT
+D
+OFCOMMERCE
+SPRINGFIELD, 22161
+VA.
+
+REPORT
+
+No. 24
+
+AIR FLOW
+THROUGH
+
+POPPET
+
+VALVES
+v
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT
+
+FROM
+
+FOURTH
+
+ANNUAL
+
+WASHINGTON
+GOVERNMENT
+
+PRINTING
+1919
+
+OFFICE
+
+REPORT
+
+REPORT
+AIR FLOW
+
+A paper
+double
+
+in which
+
+poppet
+
+_Submitted
+
+are
+
+No. 24
+
+THROUGH
+
+dlscussed'the
+
+comparative
+
+POPPET
+
+continuous
+
+to the National
+
+Advisory
+
+Committee
+
+for Aeronautics
+
+t
+
+J_,._b,E. M. _O._d O. .
+N
+W
+
+LEWIS.
+
+i
+
+'l
+
+/I I,'
+4:
+
+cha_actedstlcs
+
+of single
+
+valves,
+
+_Sr_RC_.
+;
+
+flow
+
+VALVES
+
+,J
+
+:
+
+by the
+
+CLARKE
+
+THOMSON
+
+and
+
+INTRODUCTION.
+In the problem
+of airplane engine design, the question of the
+number of poppet valves, loc_tion of valves, and the valve lift p.lay
+an important
+part in the power charteristics
+and life of the engine.
+The Clarke Thomson Research in conducting
+experiments
+on an air
+scavaging
+engine, under
+the direction
+of the National
+Advisory
+Committee for Aeronautics,
+attempted to locate data on valve flow
+characteristics.
+Very little data was obtainable,
+and in connection
+with the scavaging
+engine problem
+the experimental
+data in this
+paper was obtained.
+The number and character of the experiments
+is not such as to render them final and conclusive, but the results
+afford a direct comparison
+of valves singly, in pairs, and of different
+sizes.
+Further ana more extensive data bea_m_ upon the subject
+should be experimentally
+obtained and publishea.
+P i CLA_X_ T_oMso_ RES_RCU. 1
+September23.
+1916.
+Mr. Thomson's
+object
+in founding
+by the investigation
+and development
+of devices
+_lseful
+of the Research
+at the disposal
+of the National
+A_visory
+ties of the Research
+are under
+the directmn
+of th_Nstional
+
+•
+
+the Ressarcn
+was the aavaucemen_
+ol aviation
+to the art.
+Kr. Thomson
+placed
+the resources
+Committee
+for Aerouautms,
+and all the activiAdvisory
+Committee
+for Aeronautics.
+
+i!
+
+i!
+i
+
+! .....................................
+
+J, receding ageblank
+P
+p
+
+3
+
+.
+
+REPORT
+
+No. 24.
+
+By CT.ARK_.
+THOMSON
+RESEARCm
+
+AIR FLOW
+
+THROUGH
+
+POPPET
+
+VALVES.
+
+This discussion
+deals particularly
+with the merits
+of inlet valves
+l in pairs,
+as compared
+with the single inlet perhaps
+more commonly
+used.
+The exl_erimental
+data presented
+affords a direct compa.nson
+of valves
+singly and in pairs_ o3 different
+sizes, tested,
+m. a cylinder
+designed
+in accordance
+with current
+practice
+in aviation
+engmes.
+Unfortunately,
+necessity
+limited
+the _vestigation
+to measurements
+taken under conditions
+of continuous
+flow.
+This investigation
+was Undertaken
+after a wholly
+unprofitable
+search for accurate
+information
+upon
+the comparative
+flow characteristics
+of single and double inlet valves,
+based upon actuat measurement
+rather
+t_nan upon some hypothesis,
+itself largely
+a matter
+of
+opinion.
+By way of preliminary
+analysis,
+the application
+of the. law. of
+geometrical
+similarity
+presents
+a strong
+case _or valves
+m pairs.
+For example,
+at a given pressure drop and the same lift, one valve
+would require a diameter
+of 4 inches to provide
+an area of opening
+equal to that of a pair of valves
+each of 2 inches diameter.
+The
+supel_cial
+area of t_he one 4-inch valve is twice the combined
+area
+of the two 2-inch valves,
+and if opened
+against
+a pressure
+in the
+cylinder,
+this is a measure
+of the comparative
+forces involved.
+The
+4-inch valve would weigh four times the combined
+weight of the 2-inch
+pair, and the necessary
+spring tension would differ in that proportion,
+for the same lift and the same engine speed.
+It may be noted here
+that, while
+the above is correct upon the assumption
+of geometric
+similarity,
+the effective
+valve
+areas d'._er from the actual,
+.as thef
+coefficient
+of effiux varies at different
+lifts; also, ma_ me welgn_ o
+a well-designed
+valve increases
+somewhat
+less than the third power.
+of the diameter
+would indicate.
+Mr. H. L. Pomeroy
+1 in a discussion
+which he states
+is wholly
+analytical,
+reaches a conclusion
+decidedly
+at variance
+_vith the above.
+1 "Engine Design," H. L. Pomeroy, in Automobile Engineering,
+Consider one 2_-inch valve and two l_-inch valves of equal area.
+Let radius of port =r
+valve lift
+=h
+pert area
+=vr 2
+Valve opening_27rrh
+If
+V=velocity of gas through port
+and Vl=velocity of gas through valve opening
+then
+
+l_, lzr2
+V
+..._=
+
+3une,
+
+1912:
+
+Yr
+2h
+_- ............
+
+lFootnotecontinued p. 6.1
+on
+
+=Precedingageblank
+p
+
+(1)
+5
+
+6
+
+REPORT lCATIONAL ADVISORY COMMITTEE FOR AER01_AUTICS.
+
+Briefly
+stated,
+he assumes
+that two valves
+of 2.83 inch diameter
+should be substituted
+for one of 4-inch diameter
+(equal cross-sectional
+port area which requires
+that the smaller diameter
+be 0.707 of the
+Iarger
+diameter)
+ancl that the valves
+in each case are lifted
+31.65
+er cent of their respective
+diameters,
+He then
+computes
+the
+ydraulic
+mean radii for the two cases, applies the laws of friction,
+and reaches the conclusion
+that the two varvcs would have a frictional
+resistance
+39 per cent greater
+than the single valve.
+The contrast
+is sharp.
+The tentative
+conclusion
+geometrically
+derived
+is that two valves
+of one-ha/f
+the cross-sectional
+port area
+and equal opening
+area, as compared
+to the single valve
+would
+afford the same flow.
+Mr. Pomeroy's
+tentative
+conclusion
+is that
+two valves
+having
+the same cross-sectional
+port
+area as the single
+valve,
+and the same opening
+area with a lift 0.707 that of the single
+valve,
+would have
+a _rietional
+resistance
+39 per cent greater,
+and
+therefore
+less capacity.
+This discrepancy
+seemed
+to afford ample
+ground
+for experimentally
+determining
+the relative
+flow in similar
+combinations
+of valves.
+This work was cam'led on by the Clarke Thomson
+Research
+in
+connection
+with problems
+involving
+exhaust
+gas scavenging
+at the
+Bureau of Standards
+and under the general
+direction
+of _he National
+Advisory
+Committee'
+courtesies
+extended
+acknowledged.
+
+for Aeronautics•
+"by the
+Bureau
+
+Appreciation
+of Standards
+
+of the man_
+is gratefull_
+
+APPARATUS.
+
+•The apparatus
+consisted principally
+of a.centrifugal
+blower, a model
+cylinder,
+and U-tubes
+for measurements
+of pressure.•
+The blower was one of special design with a balanced
+rotor 11.25
+inches in diameter,
+composed
+of 10 forward
+curved blades.
+An electric motor furnished
+the power, rheostat
+control permitting
+speeds
+from 3,000 to 6,500 revolutions
+per minute,
+corresponding
+approximately
+to pressures
+of 9 to 32 inches
+of water.
+The numlJer
+of
+impulses
+varied
+from 30,000 to 65,000 per minute,
+affording
+p_raetically continuous
+flow.
+The blower was connected
+to the cylinder
+with rubber hose, care being taken to see that the alignment
+of the
+hose remained
+perpendicular
+to the face of the cylinder
+at point
+of entrance
+throughout
+the tests.
+Frictional resistance is proportional to the square of the velocity.
+V2
+•
+Frictionffi F= "JaLS_"
+A
+Where S=Perimeter
+A=Area
+L-_Length
+V----Velocity
+_ KL V_2_f -/2L l_\
+.'. for the portf-__-_(--_--)
+• . KL V124_rr T_/'2LV12\
+for the valve opomngji----_
+=/£ _)
+iff----ft
+• 2KV2ffi _
+
+or V 2 r
+_-_2ffi_
+
+AIR
+
+FLOW
+
+TIEEOUGH
+
+POPPET
+
+VALVES.
+
+The cylinder is shown in longitudinal
+cross section in Plate 1.
+The cylinder head was carved out of white pine by an excellen_
+pattern maker, and carefully finished as to its .interior in accordance
+with dimension drawing.
+At the entrance end, the passages leading
+to the valves were cylindrical in form with axis perpendicular to the
+cylinder axis and 2.5 inches in diameter, the passages then curved as
+shown to the ports.
+The approach to the large valve, which had a
+
+•
+
+.f_'8"
+
+,
+
+PLATZ1.--Cro6s through eyUnder model.
+
+diameter of 2.5 inches, was circular in cross section at all points.
+The approach to the pair of valves on the opposite side of the cylinder
+became narrower in the plane of the cross section shown, and widened
+laterally to smoothly divide, about 1.5 inches from the ports, intotwo
+passages of 1.75 inches diameter.
+The angle between the valve axis
+and the cylinder axis was 15 degrees.
+No valve guides or bushings
+extended into the passages.
+from equation
+
+(1)
+V
+
+2h
+
+. V 2 4h _
+
+r
+
+or 4 hS:r s
+or hffiffis-_ffi=.633 r
+Assume
+
+both valves
+
+have
+
+a lift of .633 z
+
+Let
+
+L----length of pipe of pert
+V=velocity
+of gas through pert
+.4=area of pert
+8=perimeter
+of port--2 _ r
+r=radius of port--l.125
+
+=K2L
+
+g. 2
+T
+
+KL
+=_
+for 1_ in. valve,
+
+L and Vare
+
+V2
+for a 2}in.
+
+valve.
+
+the same as before but the hydraulic
+2_rr 2
+==_-_-=ffi
+.405
+
+in lbs. per sq. in. is, therefore,
+KL V 2
+-.405
+Friction of Double Valve
+Hence Friction of Single Valve.=
+or about 40 per cent more.
+
+mean depth A/8
+
+The friction
+
+.562
+._==-i
+
+1.39
+--
+
+78458---18-----2
+
+....
+
+8
+
+REPORT
+
+NARTO_AL
+
+:ADVISORY,:
+
+COMMITTEE
+
+FOR
+
+AEROI_'AUTICS.
+
+The diameter
+of the counterbore
+was 5.75 inches
+and of the
+cylinder
+proper,
+5 inches.
+The valves
+were seated
+with
+a bevel
+el30
+de ees in the two .planes
+forming
+the cylinder
+head.
+_The
+diffuser _s_o_wn was constructed
+of thin brass soldered
+together
+"and
+inserted
+so .as to divide thewhole
+area of the cylinder
+at that point
+into
+rectangular
+passages
+about
+seven-eighths
+inch square
+and 2
+inches tong,
+....
+"
+.....
+The jet at the opposite
+end of the cylinder
+was likewise carved out
+of white pine as shown,
+and was connected
+to the cylinder
+head by
+a length
+of 5-inch wrought-iron
+pipe, smoothly
+galvanized
+inside,
+used to obtain
+sufficient
+length for rectification
+of the air current.
+Gaskets and shellac were useaat
+the joints and the assembly
+drawn
+together
+with four long bolts extending
+from end to end, outside
+the
+cylinder.
+In addition
+to the single valve with a diameter
+of 2.5 inches
+and
+the pair of, valves
+with diameters
+of 1.75 inches already
+mentioned,
+anot_her pair with diameters
+of 1.25 inches
+was tested.
+False seats
+were used with this smaller pair, consisting
+of turned hardwood
+rin_s,
+carefully fitted to the 1.75-inch seats and beveled to receive the smaner
+valves
+as shown at Plate 4, Fig. 2.
+These false seats obviously
+left
+a circular shelf or proiection
+0.25 inch wide immediately
+above the
+.ports.
+As a matter of interest,
+two readings were taken with these
+shelves
+projecting
+above the port, but before running
+off the main
+test on these 1.25-inch
+valves, the lines Of the passages
+were smoothed
+off by filling in above these projections
+with putty, giving the approximate stream lines shown.
+The valves
+were all designed
+on similar
+lines with the exception
+that the smallest
+pair had stems five-sixteenths
+inch in diameter,
+to fit the guides used for the larger pair, this dimension
+being 40 per
+cent larger than true proportion
+dictated,
+equivalent
+to a reduction
+of 0.022 square inch or 1.8 per cent of the port area of the smaller
+pair.
+The Pitot tube shown in the iet in Plate 1 was clamped
+in position
+at the axis of the iet throughout
+the tests, velocity readings
+berg
+taken
+as later
+described.
+The dimensions
+were
+three-sixteenths
+inch outside
+diameter
+and about 2.5 inches
+in length.
+The impact
+end was gradually
+rounded
+and the static holes were four in number,
+about 0.02 inch diameter,
+smoothlyperforating
+the outer wall.
+A static tube of one-eighth
+inch diameter
+penetrated
+the central_
+portion
+of the cylinder,
+reading
+static
+pressure
+of the air column
+Mter passing
+the valves
+and the diffuser.
+This is for convenience
+termed[ the "lower
+static."
+Static tubes of one-eighth
+inch diameter
+also tapped the flow where
+the air column entered
+the passage leading
+to the valves.
+These are
+for convenience
+termed "upper
+static," only one being used at a time,
+as indicated
+by its position
+with respect
+to the valves.
+All statics
+were slightly
+roundest on the inner periphery,
+and the end kept flush
+with the inner surface of the cylinder
+or passage, and so located as to
+be perpendicular
+to the direction
+of air flow.
+The upper and lower statics were connected
+to the two legs of a
+O-tube t_ read directly the pressure drop through
+the valve, and also
+connected
+to other U-tubes
+to readthe
+upper static and lower static
+head separately.
+
+'..AIR _-.OW T_tOUOI_
+
+POPPET
+
+VALVES.
+
+:
+
+9
+
+All U tubes had an .inside diameter
+.of about 0.25 inch and were
+vertical
+with the exception
+of one, which was inclined
+at a slope of
+10 to 1 to read with greater
+accuracy
+velocity
+pressures
+of 3 inches
+or" less.
+A centigrade
+thermometer
+was clamped _with its bare b_b in the
+air jet at a point about 1.5 inches outside
+the apparatus.
+A similar
+:thermometer
+was hung on the wall for readings of room temI_erature.
+The moisture
+content
+recorded
+is the average
+for the period indicated,
+as taken from a recording
+hygrometer,,
+the variations
+being
+but slight,
+as were those of the barometer.
+All readings were completed within
+a period of seven and one-half hours, on bIay 23, 1918.
+MEASUREMENT
+
+OF AIR FLOW.
+
+The method
+used for measuring
+the velocity
+and quantity
+of air is
+based upon the principles
+of the impact
+tube and the jet. 1
+Briefly, the impact
+tube, when helc[in and parallel to the air stream,
+registers
+a pressure
+corresponding
+to the total energy in the air at
+f_hat point.
+In Case of continuous
+flow through
+a pit)e of varying
+cross section, if the impact
+tube is moved up the _txis of the air stream,
+the pressure
+registered
+is constant
+at all points,
+except
+for friction
+losses.
+The velocity
+pressure
+and static pressure
+vary with every
+change
+of cross section,
+but the sum of the two, which the impact
+tube reads, is constant
+at all points,
+as the law of conservation
+of
+energy indicates.
+This is similar
+to Bernouilli's
+theorem
+in hydraulics.
+• Where'the
+section of the pipe is smaller, the velocity
+of the air must
+be higher,
+as the quantity
+passing all sections of the channel in _t given
+time is constant
+under
+conditl"ons
+of continuous
+flow. Hi"gher
+velocity
+means greater
+kinetic energy in the moving
+air particle,
+and
+this increment
+can only arise out of a corresponding
+diminution
+of
+the static
+pressure. 2
+The jet here used for flow measurement
+carried this case further,
+contracting
+the air column to about one-sixth
+of its area and discharging into atmosphere
+at a static pressure equal to atmospheric
+pressure,
+or zero U-tube
+reading,
+all energy in the air being ]_netic,
+read as
+velocity
+pressure by the impact
+tube.
+This requires
+that the theo• 1 An excellent discussion of the use of the impact tube and jet may be found in a
+pa_perentitled not be understood that by Mr. S, A. Moss, energy (from staticS.to velocity
+M. E.
+It should "The Impact Tube," this conversion of vol. 38, Trans. A.
+pressure and vice versa) takes place with 100 per cent efficiency, as there is always a
+conversion loss due to generation of heat by surface and internal friction.. In the_c.ase
+of convergeace or reduction of area, the conversion loss is relatively much tess, and the
+an_le of convergence and "stream lining" of the conductor much less important than
+in _ase of divergence or increase in area. Convergence reduces static pressure and surface friction and produces a jet effect which rectifies the lines of flow and reduces, or
+at least does not increase, eddy effects and internal friction. Divergence, on the other
+hand, increases static pressure and surface friction, and unless the angle of divergence
+be very small, results in conversion losses so large as to indicate great internal fr_ction
+or eddying, probably in the nature of a rolling motion caused by large velocity differences at different radii. When the angle of divergence reaches 30 degrees on each side
+of the axis, the theoretical static gain is entirely eliminated by the conversion loss.
+An excellent discussion of conversion losses with experimental data and efficiency
+curves may be found in Fan Engineering, pages 120-126, by Willis H. Carrier, member
+A. S. M.E.
+bluck of the foregoing is quite elementary in character, but it appears
+that the characteristics of air flow are perhaps less generally understood than most
+branches of engineering data, and their treatment often seems more complex than
+illuminating, considered with respect to the average needs• ot me engineer..
+
+10
+
+REPORT
+
+I_ATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+AERONAUTICS.
+
+retical orifice be wholly convergent, i. e., that the ratio of absolute
+pressure of the region into which the jet discharges to the absolute
+pressure of the region from which the let discharges be greater than
+the critical value, 0.5272, for air.
+After verifying
+the fact that throughout the range of velocities
+used, the impact side of the Pitot tube at any given velocity showed
+constant readings for various positions in the jet, the Pitot was
+clamp_ed in position, and readings from the impact side only recorded
+as v_locit_y pressures.
+At frequent intervais
+during the runs the
+static side of the Pitot was tested, but invariably showed zero readin.g.
+The velocity in the jet roughly equaled the velocity through the
+average valve opening, being about six times the mean velocity in the
+cylinder proper.
+In actual magnitude,
+the velocities ranged from
+1,500 to 19,000 feet per minute, or 25 to 320 feet per second, covering
+about the extreme range of mean inlet velocities
+encountered
+in
+practice.
+Table 1 shows actual and comparative dimensions and areas of the
+three valve combinations tested.
+Tab_ X.
+Circumference
+of ports
+inches.
+
+Valve
+
+eomblnations.
+One
+valve,
+
+2 valves,
+I valve,
+2 valves,
+
+1.7_Ineh
+diameter
+...............
+2.5.inch
+diameter
+.................
+1._-inch
+diameter
+...............
+
+5.498
+7.854!
+3.9'27
+
+Total.
+
+10.99
+7.85
+7.8,5
+
+in
+
+Total in
+per cant
+of 2.5inch
+valve.
+
+10C%
+
+Cros_ sectional
+In square
+
+One
+valve.
+
+2.4_
+4.9_
+1.22
+
+area of ports
+inches.
+
+Total.
+
+4.81
+4.90
+2.45
+
+Total in
+per cent
+of 2.5inch
+valve.
+
+97.8%
+
+Diameters
+and port areas are computed
+upon the least diameter
+of the valve or port.
+In the case of the larger pair, it should be noted
+that the diameter of 1.75 inches, used for convenience,
+gives an area
+about 2 per cent less than that required by the geometrical
+relation
+for equal area, namely, D_r0-_ -- 0.7071 D = 1.768 inches diameter, for
+the pair to equal the area of the single valve.
+T_e lifts used with •each combination
+of valves were as follows:
+0.05, 0.10, 0.20, 0.30, 0.40, 0.50, 0.75, 1.00, and 1.50 inches.
+These
+Valve lifts were carefully laid off and marked on the stems, and the
+settings made against fixed indicator
+points attached to the head
+of the cylinder.
+No screw thread or micrometer
+arrangement was
+used, and the probable
+error was relatively
+much greater at lower
+lifts.
+However, independent
+settings at low liftschecked
+within the
+limit of error of about 2 per cent contemplated
+_or the investigation
+as a whole.
+Adjustable
+clamps were usedto hold the valves in position when set, and readings
+taken
+covering
+the pressure
+range
+available,
+After increasing the lift up to 1.5 inches with each valve combination, the valves were reversed; that is, the stems were clamped in the
+guides so as to project slightly through the ports, the valve heads
+remaining entireIy outside the cylinder, and readings taken to determine the flow through the ports, eliminating the effect of the valve
+heads as baffle plates in the cylinder.
+It is often stated in works on
+design that lifting a valve about one-quarter
+of its diameter develops
+
+/
+
+AIR FLOW THROUG_ur POPPET
+
+VALVES.
+
+11
+
+a valve area equal to that of the port.
+This is correct if l'._ted
+to
+geometric
+relations,
+but seriously
+misleadmg
+if interpreted
+as proriding
+a substantially
+equal
+effective
+orifice,
+as will later be developed
+in the experimental
+results.
+Dr. C. E. Lucke, in his paper on "The problem
+of aeroplane
+engme
+design,"
+;)resented
+at the May meeting
+of the American
+Society
+of
+MecBanlc'al
+Engineers,
+1917, makes the following
+statement
+concerning valve lift:
+Coming now to the question of valves, everyone knowsthat _iis. of noconseque_e
+to lift a poppet valve more than one-quarter oI l_s ammeter.
+It is atso true ma_ t e
+valve will work better, and the volumetric efficiency and mean effective pressure
+be better, the larger the diameter of the valve and the smaller the let; that is, the
+valve should not approach the quarter diameter lift. That condition conforms to
+good principles of gaseous flow.
+EXPERIMENTAL
+
+DATA.
+
+Tables
+2, 3, and 4 contain
+the data rQcorded in the tests of the
+three
+valve
+combinations.
+_They_ are similar
+in form
+and refer,
+respectively,
+to the 1.75-inch
+valves,
+the 2.5-inch
+valve,
+and the
+1.25-inch
+valves.
+The pressure
+readings
+are printed
+as read,
+in
+inches of water.
+•
+The readings
+Of velocity
+pressure in the first column were partly
+taken on a U-tube inclined
+at a slope of 10 to 1, to facilitate
+more
+accurate
+readings
+of small
+quantities,
+but the decimal
+point
+is
+recorded
+so as to show pressures
+in inches of water, vertical
+head.
+Readings
+taken on the inclined
+tube are given to.thr, ee.places
+after
+the decimal point.
+After reaching
+the limit of this reclined tube at
+about 30 inches, or 3 inches actual head, the remaining
+readings
+were
+taken on the usual vertical
+tubes.
+This column represents
+velocity
+pressure in the jet.
+The second
+column
+shows the square root of the corresponding
+reading of velocity
+pressure
+in the first column, computed
+by sane
+rule.
+These
+amounts
+represent
+the relative
+velocities
+in the jet.
+The third column or lower static reading refers to the static pressure
+in the cylinder.
+_here
+these readings are small the probable error
+on account
+of capillarity
+or inequality
+in the tubes is rather large,
+but they were merely used for a rough chec]_ on the pressure
+drop
+through the valve tested,
+shown in the fourth
+column,
+which was
+read from _ tube connected
+to both upper and lower statics.
+The square root of pressure drop through
+the valve, computed
+by
+slide rule, appears in the fifth column
+and is proportional
+to
+the
+theoretical
+mean velocity
+through the valve.
+A separate
+reaamg on
+the upper static appears in the sixth column,
+an_ the seventh
+and
+eighth columns
+show in degrees Centrigr_de
+the considerable
+variations of temperature
+with the velocity.
+The ninth column gives the
+valve lift, and the tenth column the coefficient
+of et]tux, computed
+on valve areas equal to II Dh and assuming
+that the density
+of the
+air was atmospheric.
+GRAPHICAL COMPARISON OF FLOW.
+The data in Table 2, covering
+the test of the pair of 1.75-inch
+valves
+at various
+openings
+and at various
+pressure drops,
+are shown
+_raphically
+in Plate 2, the data in Table 3 on the single 2.5-inch valve
+m Plate 3, and the data in Table 4 on the pair of 1.25-inch
+valves in
+
+12
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+AERONAUTICS.
+
+Plate 4.
+The purpose
+of this investigation
+was primarily
+to. secure
+comparatively
+accurate
+comparisons
+as between
+the capacities
+ot
+the different
+valve
+combinations,
+rather
+than to secure
+absoh te
+quantitative
+determination
+of the flow in any case.
+It will readily
+]_e seen that the velocity
+and quantity
+of air flowing through
+the jet
+at the outlet of the system wilI be proportional
+to the square root of
+the velocity_ pressures
+read by means of the impact
+tube in the jet.
+The vertical
+scale of many of the following
+graplns is taken from the
+second columns
+of Tables 2, 3, and 4, and is termed
+for convenience,
+"Proportional
+flow."
+It is equally
+obvious
+that for accurate
+quantity determinations,
+corrections
+should
+be made
+for temperature,
+ressure;
+and humidity
+by the application
+of well-known
+thermoynamic
+formulae,
+but this would appear an unnecessary
+and perhaps
+misleading
+refinement,
+considering
+the general degree
+of accuracy
+here obtainable.
+Table _.
+[Kind
+:
+
+of measurement,
+continuous
+
+Velocity
+pressure,
+
+air flow through
+flow; date, May
+
+Square
+root
+velocity
+pressure.
+
+Lower
+static.
+
+poppet
+valves;
+instrument
+tested,
+two valves
+1_ inches
+23, 1918; humidity,
+55 per cent; barometer,
+755 mm.]
+
+"Pressure
+drop.
+
+Square
+root
+pressure
+drop.
+
+Upper
+static,
+
+Temperature.
+,
+
+'
+Room.
+
+et.
+
+°
+0.250
+.360
+• 475
+.630
+• 950 !
+1._0!
+1.710 •
+2.880
+2.68
+3.65
+4.50
+6.35
+4.00
+&20
+0.35
+8.95
+11.20
+4.80
+6.15
+7.50
+10.50
+12.75
+.5.5O
+7.65
+8.70
+11.75
+14. 30
+5.70
+7.45
+8.90
+13.15
+16.20
+6.25
+7.90
+9.90
+14.10
+17.20
+6.40
+8.30
+9.90
+14. 50
+18.05
+6.20
+8.20
+10.50
+14. 3,5
+17. 55
+
+0.,500
+.600
+.689
+.794
+.975
+1.233
+1.3,1
+"1.69
+1.64
+1.91
+2.12
+2.52
+2.90
+2.28
+2.,52
+2.99
+3.4.5
+2.19
+2.48
+2.74
+3.24
+3.56
+2.34
+2.66
+2.95
+3.42
+3.78
+2.39
+2.73
+2.98
+3.12
+4.02
+2.5O
+2.79
+8.10
+3.70
+4.15
+2._
+2.88
+3.14
+3. 81
+4.25
+2.49
+2.86
+3.24
+3.78
+4.1S
+
+0.20
+.30
+.45
+.90
+I. I0
+1.5O
+1.95
+2.7.5
+2._i
+3.50
+4.35
+6.20
+
+/
+
+.
+6.10
+8.60 I
+10.80 I
+4.60 !
+&95
+7.30
+10.20
+•
+12.45
+5.30
+8.90
+8.40
+11.55
+14.15
+5. fi0
+7.30
+8.65
+12. 95
+16.00
+6.00
+7.7S
+9.25
+13.80
+16.90
+6.20
+8.05
+9..55
+14.10
+17.,50
+6.0 g
+8.90
+9.65
+14.10
+17. I0
+
+12.40
+16. 65 i
+22.00 i
+_& 30
+11.05
+14.90
+19.2_
+26.95
+8.45
+11. 30
+13.95
+19.15
+22.40
+6.80
+8.90
+10.75
+1.5.00
+18.80
+5.7O
+7.40
+9.OO
+12. 3.5
+14. 90
+4.0.5
+6.40
+7.55
+10. 3.5
+12.90
+3.55
+4.65
+5.40
+6.00
+9. 85
+3.05
+4.O0
+4.7,5
+6.80
+• 8.30
+2.80
+3.55
+4.20
+5.85
+7.20
+2.1,5
+2.80
+3.40
+4.a5
+5.90
+
+3.52
+4.09
+4.69
+5.33
+3.33
+3.86
+4..39
+5. 19
+2.91
+3.38
+3.74
+4.38
+4.73
+2. 61
+2. 98
+3.28
+3.87
+4.33
+2.38
+2.72
+3.00
+3..51
+3.86
+2.22
+2._
+2.75
+3.22
+3.55
+1.89
+2.10
+2.32
+2.83
+3.11
+1.75
+2.OO
+2.18
+2. 61
+2.88
+1.67
+1.88
+2. 05
+2.42
+2.68
+1.47
+
+1.5_1
+1.84_
+2.20
+2.43
+
+12.7.5
+17.10
+22.65
+29.10
+12. 30
+16. 50
+21.45
+29.85
+11.30
+15.00
+16.50
+25.30
+29.65
+10. 85
+14.0,5
+16.95
+23.65
+22.90
+10. 50
+14.45
+18.40
+22. 65
+27. 30
+10. 40
+13.45
+15.7,5
+22.20
+26.90
+9.30
+12.05
+14.15
+20.95
+2.5..70
+9.20
+11.90
+14.10
+20. 85
+2_20
+9.0,5
+11.70
+13. 85
+20.0,5
+24.90
+8.40
+10. 85
+13.1,5
+19.0,5
+23.90
+
+1
+!
+
+Valve
+lift.
+
+diameter,
+
+Coeffi.
+cient
+offlux.
+
+26.2
+2e_7
+29.0
+31.6
+
+*
+[_hes.
+23,1
+0.05
+23.11 ..........
+7-3.3 ..........
+23.5 , ..........
+
+29.1
+30.8
+34. 3
+29.1
+
+23.8
+23.0
+24. 0
+24.,0
+
+27.o
+
+29.,5
+
+. io "..... :_
+
+_.7
+
+i...,
+
+....
+
+0.887
+
+..
+
+..........
+..........
+..........
+.20
+° .....
+
+30.3
+
+........
+
+32. 5
+34.1
+29. 3
+
+....................
+24.0
+24. 0
+
+..,
+
+_
+
+.,o,o,...,o
+
+30. 0
+
+....................
+
+32.0
+
+..o
+
+.818
+
+o---
+
+.........
+
+..........
+..........
+.30
+....
+
+....
+
+ooo
+
+, 7_,5
+
+.o.o.
+
+o..o.
+
+.....
+
+_o._
+
+.......
+
+343
+24.0
+..........
+29.0
+24.0
+.40
+29.,51
+...................
+30.1 ....................
+31.9
+....................
+33.4
+24.0
+..........
+28.0
+24.0
+.5O
+29.3
+
+. _5.4
+
+.6O8
+
+....................
+
+30. 0
+31.6
+33. 5
+290
+29.0
+
+....................
+....................
+24, 0 ..........
+24.0
+.75
+.....................
+
+31.4
+33.5
+28.7
+
+....................
+24.0
+24.0
+
+..........
+
+29.0
+
+..........
+
+..........
+
+22.4
+
+........
+
+31.3
+33.0
+28.1
+28.9
+
+.....................
+24.0
+..........
+24.0 i
+1.,50
+..........
+;..........
+
+29.3
+
+....................
+
+31.0
+32.5
+
+..........
+
+28.8
+29.4
+.31. 0
+32.7
+
+..........
+.,._ ......
+
+o.:..,
+
+24.0
+
+_....
+
+_'2"
+
+489
+
+.418
+
+1.00
+.......
+
+.296
+
+i..........
+..........
+
+_
+.........
+
+..j
+
+0
+
+,-I
+
+_0
+
+_mSg
+_,
+
+_
+
+_
+
+.......
+
+.
+
+-"
+
+.
+
+____o___
+
+°
+
+_
+
+a_
+
+F_
+.....
+
+0
+
+i
+0
+.
+.
+,
+°
+
+.
+,
+•
+°
+•
+
+°
+.
+•
+°
++
+
++
+*
+.
+0
+•
+
+.
+•
+°
+.
+°
+
+0
+
+!iii
+
+_
+°
+°
+0
+°
+.
+
+_
+
+ii_{
+
+{{il
+
+i!{_
+
+:::::::::::::::::::::::::::::::::::::::::::
+::::
+:::
+: ::::
+::::
+
+!il!
+
+ii{:
+
+::ii
+
+ill
+
+!ii
+
+::::
+
+::::
+
+:::
+
+i_i
+
+_
+
+_-_
+
+...g
+: ::
+
+:
+
+•
+
+•
+
+._
+
+.
+
+°
+
+ii i!
+....
+
+._
+
+°
+
+0 • 0_
+
+0 0 ._
+
+•
+
+°..
+
+0.0 °
+
+i iiili
+.
+
+°
+•
+
+0
+.....
+
+o
+
+o
+
+o
+
+P
+°
+
+<
+o
+
+o
+
+1.-4
+
+•
+
+._-_
+
+,_
+
+!i! ili_!i
+
+NN_g_NN_N_NNNN_NN_NN_NN_NN_NR
+
+_
+
+-0 .....
+. ....
+
+_
+
+i
+°
+
+AIR
+
+FLO:W
+
+THROUGH
+
+POPPET
+
+VALVES.
+
+15
+
+results
+so obtained
+may,
+therefore,
+be directly
+compared,
+owing to
+the use of this jet as the common medium of measurement
+in all tests.
+As to these plates 2, 3, and 4, it is true that the scale issmall,
+and
+that plotting
+to square roots tends to reduce the magnitude
+of any
+irregularities
+in the points obtained,
+but the close coincidence
+of the
+points with the straight
+graphs passing through
+the origin seems to
+warrant
+the conclusion
+that the actual velocity
+through
+the valve at
+any given
+lift varies directl_
+with the square root of the pressure
+drop, at least within the limits of these tests, as does the theoretical
+velocity.
+It further
+follows
+as a general
+rule within
+these limits
+that the coefficient
+of efflux does not vary with the press_ure drop.
+Certain
+limitations
+upon this 'conclusion
+may be reqmred,
+however,
+and will be discusse(t
+in connection
+with the graphs
+showing
+the
+variation
+of the coefficient
+of efltux with the lift.
+Curves
+of equal
+velocities
+have
+been
+superimposed
+upon
+the
+gr_aphs of plates
+2, 3, and 4 to show the approximate
+velocities
+through
+the valves in feet per second.
+At about the average
+conditions
+of the tests, namely,
+80 ° F., 55 per cent humidity,
+68 ° wet
+bulb,
+and
+29.72 inches
+barometer,
+air weighs
+0.0717
+pounds
+per
+cubic foot.
+Inserting
+this value
+in the' equation
+V= 18.275_/p/w
+gulives 17=68.2_fp.
+In other
+words,
+assuming
+air at this density,
+tiplying
+the vertical
+scale by 68.2 gives actual
+velocity
+through
+the jet in _eet per second,
+and applying
+the same correction
+to_e
+horizontal
+scale gives theoretical
+velocity
+through
+the valves.
+T e
+actual velocity
+through
+the valves may then be obtained
+either by
+applying
+the ratio of areas to the vertical
+scale of jet velocities
+or
+by applying
+the proper cQefficient
+of eCflux to the ]aorizontal
+scale
+of theoretical
+valve velocities.
+Curves
+representing
+actual velocities
+of 100, 200, and 300 feet per
+second through
+the valves
+have been laid off by the former method
+and a_ree fairly with results obtained
+by the latter method,
+except
+as to Irregularities
+in some of the points used for plotting
+the coefficient curves later presented.
+These
+curves
+may be used to approximate
+the actual
+pressure
+drop necessary
+to l_roduce a given velocity.
+For example,
+in plate 2
+it isseen
+thatthe-pair
+of 1.75-inch
+valves with 0.20 lift indicates
+a
+Velocity of 200 feet per second at the ordinate
+corresponding
+to 3.55
+in the horizontal
+scale or 12.6 inches
+of water or 0..455 pounds
+per
+square inch as the required
+pressure
+drop.
+It should be noted that
+these velocity
+curves are merely approximate
+and that
+errors up to
+5 per cent or so may be found.
+In plate 4, figure 2, will be found an illustration
+of the manner
+in
+which
+a pair
+of 1.25-inch
+valves
+were seated
+in the cylinder
+for
+testing.
+The closely shaded sections represent
+the false seat of hard-
+
+16
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+i
+
+COMMITTEE
+
+_ -
+
+F
+
+FOR
+
+AERONAUTICS.
+
+"
+
+!I
+
+_
+
+-5-_
+.'
+
+44- r,
+
+k
+
+0
+
+/
+
+,2
+
+,._
+_Tm
+
+2.
+
+4
+
+\
+
+/
+
+• AIR
+
+/
+
+Q
+
+FLOW
+
+THROUGH
+
+POPPET
+
+VALVES.
+
+17
+
+18
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COM'_IITTER
+
+Pr,AT_ 4.
+
+FOR
+
+AER0_AUTICS.
+
+/
+AIR
+
+FLOW
+
+THROUGH
+
+POPPET
+
+VALVES.
+
+19
+
+wood,
+and the dotted
+sections
+indicate
+the putty
+used to join the
+ports of the false seats smoothly
+to the passages.
+Before making
+the putty joint as shown,
+two tests of purely
+collateral interest
+were made at 0.3 inch lift, to show the effect of the
+sharp ledge in the passage.
+The results
+are shown
+by the dotted
+line x-y,
+the flow being 13 per cent less for any given pressure drop,
+than with the passage
+stream-lined
+as described.
+It is, therefore,
+evident
+that any projections
+or sharp angles in the passage
+tend do
+greatly
+reduce the flow, as might well be anticipated.
+The very common custom
+of finishing
+the inlet passages
+with two
+bores meeting
+at an angle of about
+110 degrees
+eermimy
+purs, a
+heavy
+restriction
+upon valve efficiency,
+but doubtless
+constructional
+convenience
+may be held to justify thepractice.
+Interesting
+experimental
+work
+could be done on the design
+of
+valve guides,
+possibly
+joining them to the wall of the passage
+with
+a Web of stream-line
+section.
+Valves
+with
+an extremely
+heavy
+fillet have been used in the R. A. F. 3a engine,
+doubtless
+with the
+idea of guiding
+the air current smoothly
+to tim valve opening.
+Yenturi effects in the passage .immediately
+above
+the va_lve might
+be
+productive
+of excellent
+results.
+The use of the putty as_above
+described
+to reduce the size of the
+passage
+to the diameter
+of the small valve, introduced
+a converging
+nozzle effect which doubtless
+tended to direct the air stream inward
+toward
+the valve stem and thereby slightly
+impair
+the efficiency
+of
+this small pair of valves.
+It is evident
+that the intercepts
+on any ordinate
+onplate
+2, 3, or 4
+will represent
+the variation
+of the flow with the vaIve lift, at the
+pressure
+drop corresponding
+to the ordinate
+selected.
+Plate 5, figure 1, presents such curves for the three valve combinations,
+plotted
+from. intercepts_
+on the ordlnates,
+corresponding_
+to a
+pressure drop of 16 inches of water,
+the ordinates
+numbered
+4 in the
+square root scale.
+The relation
+would have been the same had any
+ot_her ordinate
+been
+chosen,
+but the quantities
+would
+have been
+different.
+The curve of flow for the single 2.5-inch valve lies between
+those of
+the pairs of valves
+at all lifts.
+_It is found to be very nearly equal to
+that of the smaller
+pair for low lifts and approximates
+that of the
+lar_er pair at the higher lifts.
+]?hese curves are plotted
+against
+valve lift in inches,
+but for convenience
+the points equal to one quarter
+and one-half
+diameter
+have
+been marked
+on each curve.
+By interpolation
+between
+these point,s
+and others similarly
+located,
+the approximate
+curve of flow for two
+valves of 1.5 inch diameter
+is presented.
+This indicates
+a flow cjuite
+closely
+equal to that of the single 2.5-inch
+valve, up to a lift of about
+• 0.6 inch.
+
+0
+
+L_,
+
+90
+
+REPORT
+
+:bTATTOlsTAL
+
+ADVISORY
+
+GOMMITTEE
+
+FOR
+
+._'EROlSTAUTICSo
+
+• The vertical
+intercepts
+of these four curves
+on
+spo] tding to various
+vaIve lifts are compured in Table
+of t:ze flow
+! the single valve.
+|_llli'L
+
+......
+......
+
+I:
+II
+
+ii,lnlt
+
+|rllll
+_111111
+
+.....
+.....
+
+I
+
+alnlJ
+
+II"!I;,
+II"I,,
+
+IIIII
+IIIII
+
+"'"
+
+I
+I
+i
+
+IIIIII
+
+llliii.
+
+IIIII
+II[ll
+
+...]:_iI
+::;
+-''
+
+II1[11
+
+iiilf!!
+......
+
+IIitl
+
+Ill
+PI
+
+ii"li,,
+
+II
+
+jl
+
+II
+
+i
+
+i;;_
+
+III
+[
+
+i! _i iiii
+
+I
+
+I
+
+II
+II
+
+II
+
+IIII
+
+i
+
+Ill
+
+,,,,Ii! i.,,
+
+.i!
+
+!!
+
+•
+
+Ill
+
+I
+
+1 "i
+
+Ir[_'l'_t
+
+I
+
+I
+
+I
+
+I
+
+:;:;:::
+
+,,i,,
+
+_,!!!l!;i
+
+[[iiii
+
+i;i41
+
+iiiiiil
+
+iiiiill
+
+[Lb
+
+'I_TI
+............
+
+I
+
+I
+
+IIII
+
+.
+
+....
+
+:::::
+:::::
+
+i!!!!
+
+rl
+
+_!!i!!l
+
+;iliIi_
+
+iiTi i
+
+ill-till
+
+I
+
+I
+
+I
+
+I]
+
++
+
+II
+
+lii!!
+
+i ill
+
+I
+
+I
+
+I
+
+_J
+
+I
+
+I
+
+J
+
+[
+
+It
+
+frIll
+
+i¢i,:i
+f,,:
+Ill
+
+,lllll
+
+I
+I
+
+I1111.!!
+
+I]]111
+I i il
+
+,
+
+II
+
+I
+
+I
+
+_P:',i]l!l
+
+I i.
+.11
+
+iiiill
+
+I
+
+_
+
+ii ii"'.!::':_
+
+!iaa:l
+
+I
+
+,
+I
+
+!!iiiiJJJ
+
+l_ ii_? i
+
+i
+
+Lt.i-'_l
+
+i_i:;il
+
+!
+
+)[filll
+
+liL._'T
+
+iiiiJ
+
+._
+
+iiiiJ.4-4
+
+I
+
+IIIIt]
+
+!!!!
+
+ii"."
+i:
+
+I1.111
+
+I
+
+]
+
+iiii!!
+
+iiiii
+
+itt
+
+I I
+
+.....
+.....
+
+I
+
+'
+
+I1,1....
+
+!LI
+•
+
+::::::
+
+IIill
+
+,,,,,Ill
+
+',III I
+ll_i
+
+1111
+Illl
+II
+II
+
+I
+
+ordinates
+corre5, in percentages
+
+i
+
+[IJ.',1
+
+lJ_,<-"r_l
+
+Y!!!!
+
+lilli
+
+!1!!!]]
+
+iiiiill
+
+,,,,,,illiiiii
+
+I
+
+:";,_::i !,ill tlllliiii
+
+iiiiii
+
+iiiiii
+
+lilll''''
+
+IIIi I ,
+I [J
+illli:lil
+Illl[llll
+
+ilili!
+! Ililf
+
+:::::
+li
+
+II[ll
+
+"I
+
+iiii]
+
+;llli_
+
+_ i_
+
+i
+
+7
+
+i'i;i'_i
+
+; iiiiiii
+
+ii[ii;[
+iiiiiii
+
+.,
+
+•
+
+I
+
+!
+
+.
+
+II'_"M'I
+...." ill
+
+_H-_+
+
+I
+
+I
+,
+
+I
+
+!_
+i]I
+
+iii
+
+i;ii
+
+if:fill
+
+i:'!
+I
+
+•
+[
+
+[i
+
+I Iiii
+I
+
+I
+
+:ii I ......
+]1/I
+
+_
+
+I_lfl
+J"l
+
+,,ii
+•
+
+i
+
+',
+I,f_
+
+' i ll,_lL_,_
+
+LIIIIII,
+
+.... 'f
+
+LI
+.=-_ _..
+
+_,_rlllli_i
+
+il
+''
+I
+
+I
+
+-
+
+I--
+
+i
+
+ijl_'_
+
+.......
+
+II.'b_lilll:
+_'_
+
+i
+
+i
+
+II
+lllll
+I I IIIII
+III
+Llli
+,J"_ "i111111
+
+I
+
+"Jill
+
+_llil,i
+
+!1
+
+"!',1!;;11;
+
+I
+
+iiiil;iiiil
+i
+
+I
+
+r"l'-f
+l
+
+I
+
+'':
+
+_
+
+i
+
+I
+
+I
+
+I
+
+i
+
+I
+
+i
+
+t
+
+I
+
+i_
+
+llll
+
+II
+L
+IIIIIlililll
+
+....
+ilil
+
+li
+
+b
+I
+
+i I._r
+
+IIii
+Ifll
+
+IIIIIIiIIiIIit
+Ilillllllillll
+
+II
+
+I
+
+,l,,l
+
+.fl;il]
+'
+
+i
+
+_L-
+
+qllillll [A.
+i i
+
+i
+
+ii
+
+I
+Ii
+i[
+I_
+
+IIII
+'.1];
+IIII
+
+!!
+
+•
+
+......
+
+!!!!!!!!!!_!!!
+
+. !!!!
+{
+ill
+i :;,
+
+I.I
+II
+
+_ !_!!l!!
+
+ii
+
+iiii
+iiii
+
+ii
+!!
+
+i !!!!!!i
+! l!iiiii
+
+i!
+
+.ii i iiiiiil
+
+l iili
+
+..!
+
+!llill
+
+ill
+
+!,:_
+
+I
+
+_
+
+!
+
+i
+
+................. _
+":' .....
+,,i,: .... ,
+ltllllllllilli'
+
+fill
+
+II
+II'lllllillll
+
+I
+
+IIII
+ilil
+
+Ilillllllllllll
+li
+tlillllilll,
+
+itilllllill
+
+I
+
+.
+
+I
+
+;I
+
+'
+I_ltil_
+
+0
+
+pt.aT_.
+
+I--,_..t-
+
+;lillil,
+
+Ilil
+
+i
+
+iiliii
+
+l
+
+I!llll!ilil}lli!ll
+
+IIII
+
+iliiii
+iliiil
+
+iill
+
+i
+
+.._'l!i[l!l!!!
+li ...... _:_i_
+
+" .... "TI .......
+•
+,-,-..n,,,,, i! IIII
+
+.L_" 1,11
+
+'. i
+
+I:I
+
+I_i ':I .....
+:I ii,._
+L4
+
+.....
+
+II
+
+illl
+lill
+I
+
+IJllill
+
+'lll::lll
+
+i[i_
+
+i
+
+II"I
+
+,''ill
+
+.
+
+i _ii.,b-_
+
+s
+
+--
+
+V.,,,,_l./.,, D/.._h_,
+l,,,',z_"
+
+:;lllil
+
+_
+
+"_
+
+IiII1"1]1]
+
+l!!i!!
+
+;iii ii i :i_i!!!
+il:ii_
+......
+;I _,
+iiii ii, _ i;"i_: I "i i
+Iii
+I_
+.... M ii
+' !
+
+II
+
+lli;lllll
+Illllii!
+
+• ,,_'0
+
+l/,4 # v,,_'//,#'T,_ER_-_-/Vp
+
+l
+,I;;
+
+I
+
+llllil
+
+_
+
+I-
+
+G.
+
+Table 5.
+,lit in inches
+
+0.125
+
+.............................
+
+valves, 1.75 inches ............
+. ..........
+137%
+2 valves, 1.50 lneh_ ......................114%
+100%
+valve, 2.5 inches .........................
+valves, 1.25 inches .......................
+85_
+
+0._5
+
+77%
+
+t
+
+S ln_rpo_ted.
+
+0.375
+125%
+101%
+100%
+72%
+
+0.500
+
+119°7o
+94%
+10o%
+65%
+
+I
+
+0.625
+
+11_%l
+
+1_i
+59% I
+
+0.750
+
+I13_
+100_87_
+54_
+
+AIR FLOW THROUGH
+
+POPPET VALVES.
+
+,
+
+.
+
+2i
+
+Thepoints
+connected
+to the curves by broken lines indicate,
+to
+vertical
+scale only, the flow with the valves
+reversed.
+This might
+be considered
+equivalent
+to the flow with the valves
+at an infinite
+lift, whiQh agrees with the horizontal
+trend of the curves, but more
+practically,
+these points represent
+the maximum
+limit of flow through
+the respective
+ports at this pressure
+drop.
+These curves, comparing
+performance
+upon a basis of equal lift in inches,
+are particularly
+applicable
+where it is conceded
+that •mechanical
+features
+generally
+limit the possible lift regardless
+of valve diameter..
+On the other hand, it is often asserted
+that the proper limit of
+valve lift is a function
+of t.he diameter,
+and for purposes
+of comparison
+on this basis, figure 2 of plate 5 has been prepared from the curves last
+discussed,
+changing
+the horizontal
+scale to read in per cent of the
+diameter
+of each valve.
+In the case of pairs of valves,
+the flow of
+both is plotted
+against the lift, expressed
+in per cent of the diameter
+of one valve only.
+The result of this transposition
+is at once apparent.
+The intercepts
+on any ordinate
+very
+closely
+agree with the proportionate
+cross-sectional
+port areas of the several
+valve combinations,
+and in
+the case of the two curves
+corresponding
+to valve
+combinations
+with equal cross-sectional
+port area, the curves coincide
+within
+the
+probabIe
+error of the work.
+Up to a lift of 0.5 diameter
+the coincidence is all the more exact if l_t be remembered
+that the two 1.75inch valves
+have an area about
+2 per cent less than the single 2.5inch valve.
+From this it would
+appear reasonable
+to infer that under fairly
+similar
+conditions
+different
+valves
+or combinations
+of valves
+have
+capacities
+in proportion
+to their respective
+cross-sectional
+port areas,
+when the lift in each case is same per cent of their respective
+diameters.
+It also seems logical to infer that the theory of the hydraulic
+mean
+radius
+has but little application
+ito the losses in poppet
+valves,
+it
+being more properly
+applicable
+to what may, for convenience,
+be
+termed surface _rietion,
+or actual rubbing of the moving
+fluid upon
+the surrounding
+wall, whence
+its derivation--the
+relation
+of cross
+sectional
+area to perimeter
+in contact with the moving fluid.
+In the case of continuous
+flow through
+a pipe or conduit,
+pressure
+losses may be classified as friction losses and dynamic
+losses, although
+no sharp distinction
+can be drawn.
+Dynamic
+losses are due to change
+in direction,
+either of the whole column or its lesser parts, as atelbows,
+nozzles, or offsets;
+and friction
+of the fluid against the walls undoubtedly causes a rolling motion with change of both direction
+and velocity
+in the adjacent
+particles.
+The change in directionat
+an elbow will
+cause a .greater pressure with greater friction on the outer side.
+An
+easy-radius
+elbow is ordinarily
+estimated
+to cause a pressure
+loss
+equal to the friction loss in 10 diameters
+of straight
+pipe, but a rightangle or mitered
+joint in the pipe will cause a loss equal to the friction
+loss in nearly 50 diameters.
+1 It is thus evident
+that where marked
+changes in direction
+take place in a length of but two or three diameters, the dynamic _losses may be many times as great as the losses
+due to friction,
+and the case of the inlet passage
+terminating
+in a
+poppet valve fails in this class.
+1 "Loss of Pressure Due to ElbOws," Frank'L. Busey, Proc. of Am. Socl of Heating
+and Ventilating Engineers, 1913.
+
+_2
+
+REPORT
+
+ICATIOlCAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+AERONAUTICS.
+
+As a rough compa.rison of probable
+friction
+loss and dyna_nic loss.
+it may be assumed
+that the friction in the passage
+and at the lip oI
+the valve is equivalent
+to that of 5 diameters
+of straight
+pipe at the
+_n.e
+velocity.
+From
+Mr,
+Busey's
+experiments
+dynamic
+losses
+might be expected
+equal to the friction loss in about 8 diameters
+due
+to the curvature
+of the passage,
+and further
+dynamic
+losses equal to
+the friction in at least 30 diameters
+due to the sharv chan_e of direction at the valve seat, - 60 degrees
+at low lifts with a 30-degree
+seat.
+If this comparison
+is within
+the limits of fair approximation,
+Mr.
+Pomerov's
+39 per cent _reater
+friction loss is only applicable
+.to about
+15 per c'eut of the totaI loss, or about 6 per cent less capacity
+would
+be expected
+from a pair of valves having 0.7 the diameter
+and 0.7
+the lift of a single valve.
+From the data here obtained,
+it appears
+that the two valves have only about 2 per cent less capacity
+at 0.7
+the lift.
+For ready comparison,
+Table 6 has been prepared from the vertical
+intercepts
+on the curves of figure 2, plate 5, sho wh__g the relative
+crosssectional
+port areas and capacities
+in per cent of the area and capacity
+of thesingle
+2.5-inch
+valve,
+each valve
+being lifted
+the same per
+cent of its diameter.
+Table
+
+6.
+
+Relative
+Re_t_e
+a_a.
+
+2 valves, 1.75 inches diameter .......................
+2 valves, 1.50 inches diameter _ ......................
+I valve, 2.5 inches diameter .......................
+2 valves, 1.25 inches diameter .......................
+
+0.1
+diam-
+
+0.15
+diam-
+
+t
+
+0.20
+diam-
+
+I
+
+0.25
+diam-
+
+[
+
+9o
+l(X)_ [
+
+96%
+10_/o [
+
+69%
+1_
+
+46% [
+
+..
+
+_
+100_
+
+I
+
+flow at lift equal to--
+
+45% ]
+
+45% ]
+
+45%
+
+By interpolation.
+
+It is evident
+from an inspection
+of the curves on plate 5 that a lift
+equal to one-quarter
+diameter
+develops
+less than 67 per cent of the
+full capacity
+of theport,
+and that a lift of one-half
+diameter
+develops
+80 to 90 per cent of-the full capacity.
+The coefficient
+of effiux is taken as the ratio of the observed
+mean
+velocity
+throug h the valve to the mean velocity
+which would
+theoreticall3r result
+from an equat pressure
+.drop.
+Assuming
+that the
+temperature,
+density,
+and humicIity
+of the air are the same at the
+valve as at the jet, this coe_cient
+may be obtained
+directly
+from the
+relation
+of the areas and the proportional
+velocities
+set forth in
+Tables
+2, 3, and 4.
+The proportional
+velocity
+at the jet multiplied
+by the ratio of the jet area to.valve
+area gives the proportional
+velocity through
+the valve.
+If the ratio of this velocity
+to the square
+root of the pressure
+drop be taken,
+the result is the coefficient
+of
+effiux.
+To be more exact,
+this should
+be multiplied
+by 0.99, the
+coefficient
+of the jet.
+The above short method
+may be. justified
+by developing
+the usual
+equation
+V= 2_/-_]_ in the units here most convenient:
+Vffi velocity
+in feet per second.
+g ffi acceleration
+constant
+of gravity in feet per second.
+ffi head of air in feet causing the flow.
+
+' AIR
+
+Substituting
+
+PLOW
+
+THROUGH
+
+the head in inches
+
+v=
+
+2gpl-i
+
+POPPET
+
+28
+
+VALVES.
+
+of water:
+
+2gp
+
+where w isthe weight ofwater in pounds per cubicfoot,
+62.31'
+i_the
+weight of water in pounds per cubicfoot,
+and p isthe pressure
+head
+in inchesof water.
+This equationisdeemed sufficiently
+accurate
+forthe low pressures
+here subjectedto examination.
+Now, ifA--the jetarea,and
+a = the valve area,
+the mean velocity
+velocity
+The
+
+through
+
+A4_--w where
+the valve is 18.275 a
+
+p is the
+
+pressure and w the density of the air at the jet.
+theoretical
+
+mean
+
+velocity
+
+where P and W are, respectively,
+of the air at the valve.
+"The Coefficient
+
+through the valve
+the pressure
+
+of Effiux =
+
+18.275
+,
+18.275 _/_
+
+is 18.275
+
+drop and the density
+
+or
+a_/_
+
+where the density of the air is the same in the jet and in the valve
+In computing the coefficient the valve area has been taken as _rD h
+for all lifts.
+It is realized that for small lifts the aid of trigonometrical
+formulae may be invoked to determine
+accurately
+the least area of
+opening, but the same formulae are not applicable at higher lifts.
+Moreover, they are only justifiable upon the theory that the lines of
+flow are parallel to the slope of the valve seat, a condition which
+certainly does not obtain for any except the smallest lifts:
+In plate 6 the coefficients of effiux will be found, plotted against
+valve lift in inches in figure 1, and against lift in per cent of diameter
+in figure 2. These coefficients are considerably
+higher at low lifts,
+a feature somewhat difficult to explain satisfactorily.
+Both friction
+and dynamic losses should, be greater at low lifts, as the ratio of
+perimeter
+to area is then greater and the angular deflection sharper.
+It seems probable that there is an approximation
+to a jet action at
+low lifts, the discharge taking place into a region of relatively
+low
+pressure, somewhat after the manner of the true jet used for measurement at the outlet end of the cylinder.
+The comparatively
+high
+discharge
+efficiency of any such jet seems to make this the most
+probable explanation
+of the high coefficients.
+If such jet action takes place, the pressure in the valve area should
+approximate that of the cylinder itself, and the theoretical
+velocity
+through the valve should be computed upon the lower pressure rather
+than Be higher.
+This would reduce the error involved in computing
+the theoretical
+flow and coefficient upon the assumption
+of atmospheric density in the valve, as has .been done.
+The maximum
+statm pressure in the cyl_-der was 17.5 inches of
+water.
+As a pressure of 1 inch of water is equal to a pressure of
+
+Ik
+
+24
+
+REPORT _ArIO_AL
+
+_VISORY
+
+C0_MITrS_.
+
+FOR _R0_AUTICS.
+
+0.5768 ounce per square inch, this would equal a pressure
+of 10.0_
+ounces,
+or 0.631 pound, per square inch, or an absolute
+pressure
+o
+15.23 pounds
+lger square inch, 755 millimeters
+observed
+atmospheric
+9ressure
+being equal to 14.60 pounds per square inch.
+The density
+of the air varying
+withvthe
+absolute
+pressure
+and the ratio of abso!i!!
+
+'_..
+
+::::.:.:
+::::::
+:::::"
+
+i:::i
+
+!i!!i!ii
+iiiiiiii
+iiii'iiii
+iiii!!!!
+
+i
+
+":::::
+
+::::::
+::,:,:::
+
+iiiii!!i
+iii!!iii
+iiiiii!i
+lii!!!ii
+iii!!!!!
+
+;i ;ir4
+I_!lil
+
++-l_ 11
+) li_ll
+iIIi_,
+
+_!!!!3
+
+iiiiiiii
+
+'::::'
+::::::
+
+iiiiii
+iiiiii
+:::'::
+[::::_
+
+iiiiiiii
+iiiii!!!
+iiiiiiii
+iiiii!!!
+i!iil!!!
+!!!ill!!
+
+iii!ii
+
+!!i!!i
+i!!!!!
+!!!!!!
+iii!!!
+::::::
+
+liii-_il
+IIIIIl'l.Jl_
+
+:11111
+::::::
+
+i T_[i!I]
+
+!!!!!!
+
+;;;;]_ii
+
+::::::
+
+i!iiiiii
+iiii!!!i
+]iii_iii
+
+::::::
+
+iiiiii
+iiiiii
+iii;ii
+
+6O
+
+0
+
+-"
+
+IVI"
+
+,11
+
+II
+
+Ill
+
+III"I
+II
+
+illtlllillliilli
+
+..........
+IIIIIII
+
+_I,t_,_]_J
+
+l;
+
+I
+
+i i
+III
+I I
+i ]
+
+,'11
+/
+i
+11
+
+IIIIIIIIIIIl_/
+_lillllllllllllll
+i_ttlltllllll
+
+I
+I
+I
+
+"1t_,.#11 I I I
+I',lil'l
+Illi
+I,*l_'_12TJ'lJ_l_lll
+rlli_._'l I I I t
+
+II
+,,,-,_
+
+J-H-H-H-t-_-i-t-r_i:,,_l_lllllltl
+
+-
+
+-I-Pt=_,,......
+.
+
+IIIil
+IIIII
+
+I'll
+
+IIIIIIII
+
+LLLIIIII
+
+IIIII
+
+.............
+
+IIIllll_r_t"4-Lliili
+
+Illll
+
+IIIlilllllllllll
+
+_11111
+
+IIIII
+
+I I I I I I
+il
+I I II
+II_llj_Jj'l'j_'iq
+I I I I I't
+I
+
+I I
+III
+
+I_
+
+I
+
+I
+I
+
+t
+
+I
+i
+
+I
+
+iiiiiiiiiiiiiiiiiiiiiiiiiiii
+iiiit11111tl1111#11111111111
+_1111111111111111111
+
+NIIIIIIIINI
+
+IIIIIIII
+
+I.D4
+......
+I
+
+iiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+II
+
+IIII1_
+
+Iq
+LI
+I I
+I 11"11
+lll
+-'l_-i,_!,'i,'l
+I i"l? t I I
+
+I111111111111111
+
+P_tlll
+
+IIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIII
+
+_
+
+-
+
+'+'"+"_
+
+.....
+[_,ATE
+
+II
+II
+
+I Illilllll
+IIIIIIIIIIIlilil
+
+II
+
+ii!11111111111111111111tllll
+
+IIi,,,
+
+;i;
+
+i_
+
+I
+
+6.
+
+lute pressures
+being 1.046, the error involved
+under the above assumptions would be about 2.2 per cent as the density
+of the air enters the
+equation
+Under the radical
+sign.
+This error would be materially
+less
+at the lower lifts, the pressures
+in the cylinder
+were then being considerably
+less.
+No appreciable
+error would
+appear to be introduced
+\
+
+AIR
+
+FLOW
+
+THROUGH
+
+POPPET
+
+VALVES.
+
+25
+
+by assuming
+equal temperature
+and equal humidity
+at valve and jet
+for any given valve opening
+and pressure
+drop.
+Refermng again to plate 6, it will be noted that in figure 1, where the
+coefficients
+are compared
+at the same absolute
+lift, the differences
+betweez_ the three valve
+combinations
+are quite considerable,
+and
+that at the very low lifts the'points
+plotted present some irregularities.
+The curves have been drawn to conform
+to the greatest
+number
+of
+points reasonably
+possible,
+and the curves m figure 2 have been plotte
+from those in figure 1.
+The points for the two larger combimations
+so
+nearly coincide
+in figure 2 that but one line has been drawn.
+The relative
+intercepts
+of the coefficient curves in figure 1 at various
+absolute
+lifts, expressed
+in per cent el the values for the single 2.5inch valve,
+are presented
+in Table 7.
+Table
+
+7.
+
+Relative
+
+coefficient
+
+O.25
+Valve lift in Inches i ...........................
+
+......
+
+2 valves, 1.75 inches diameter ........................
+1 valve, 2.5 inches diameter ..........................
+2 valves, 1.25 inches diameter ........................
+
+O.375
+
+of effiux.
+O.50
+
+0 625
+
+0.125
+96%
+94_
+91%
+89%
+lOO_ lO@o lOO_ _oo_
+
+i
+I"
+i
+
+ST_
+
+79%
+
+73%
+
+69%
+
+s6_,
+1_
+64_
+
+In fi_.re
+2 it will be Seen that when compared
+on a basis of equal
+valve lifts, expressed
+in per cent of diameter,
+the coefficients
+are much
+more nearly equal, the curves for the two larger combinations
+coinciding, and that for the small valves being but little lower.
+It seems
+entirely
+probable
+that even this small diherence
+is largel_ caused by
+the converging
+lines of the passages
+leading
+to these small valves,
+as
+before explained.
+The comparative
+values are here shown.
+Table
+
+_
+
+._
+
+Valve lift in per cent of diameter .....................
+2 valves,
+1 valve,
+
+8.
+
+1 75 inches diameter
+
+................
+
+2.50 inches diameter .........................
+
+____--Relative
+coefficient
+0.10
+
+. .......
+
+0. 20
+
+of effiux.
+0. 25
+
+0. 30
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100% [
+
+100% [
+
+100%
+
+100%
+
+100%
+
+2valves, . inehesdiamoter
+......................... °3 1
+I
+GENERAL
+
+0.15
+
+CONSIDERATIONS.
+
+The only experimental
+investigation
+of the flow of air through
+poppet
+valves
+of which record was found in the technical
+publications was carried out as a thesis by Mr. R. M. Strong
+and Mr. F.
+W. Hollman,
+and laterpublished
+by Prof. C. E, Lu_ke under
+the
+title,
+"Pressure
+Drop Through
+Poppet
+Valves,"
+Vol.
+27, Transactions
+of the American
+Society
+of Mechanical
+Engineers
+(1905).
+Prof. Lucke seems
+to have been the first to call attention
+to two
+noteworthy
+characteristics,
+which
+are found to be supported
+by the
+data here presented;
+first, that the coe_ _ient of efliux, computed
+
+/
+
+\
+
+_6
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+_OI_INIITTEE
+
+FOR
+
+AERONAUTICS.
+
+for air at atmospheric
+density,
+is nearly
+constant
+for all pressure
+drops;
+and, second, that
+this coefficient
+is much larger
+for low lift's
+Tests
+were made both with continuous
+flow, and intermittent
+flow,
+the latter
+bein_
+as nearly
+as •possible
+similar
+to actual
+operating
+conditions
+for the two gas engines
+tested,
+and it was found _hat the
+coefficient
+of effiux for continuous
+flow was not the same as that
+for intermittent
+flow, even at the point
+of zero acceleration.
+It is patent
+that extreme
+care should
+be exercised
+in any attempt
+to apply the results
+of continuous-flow
+experiments
+to flow under
+operating
+or intermittent
+cond__tions,
+since
+inertia
+and resonance
+effects
+in the inlet manifold
+will obviously
+make
+great
+differences
+in the. absolute
+quantities,
+and these effects will vary with the type
+of manifold
+used.
+l_oreover,
+the pressure
+drop,
+velocity,
+and coefficient
+will obviously
+vary
+with many
+other
+factors
+as between
+different
+engines,
+different
+speeds
+for the same
+engine,
+and as to
+instantaneous
+values
+at different
+points
+of the stroke
+for a given
+engine at a given speed.
+However,
+m the question
+of design as to whether
+two inlet valves
+or one should
+be used, it is believed
+the comparative
+results
+here
+presented
+may be made to serve a real purpose.
+It is difficult
+to
+perceive
+any reason
+why the comparative
+relations
+obtaining
+between
+these
+three
+valve
+combinations
+for continuous
+flow should
+not find some parallel
+in the comparative
+relations
+between
+the same
+three combinations
+for intermittent
+flow, if no other variables
+are
+permitted
+to affect the comparative
+results in the latter case.
+Only
+inherent
+differences
+between
+the three
+clmbinations,
+effective
+with
+intermittent
+flow and noneffective
+with
+continuous
+flow,
+or vice
+versa,
+would
+appear capable
+of affecting
+this parallel,
+and it is improbable
+that such differences,
+if any, are of great
+magnitude.
+It is hoped that these modest experiments
+will arouse interest
+in
+the question
+of multiple
+valves,
+and certainly
+the discussion
+of any
+direct comparisons
+obtained
+in practice
+would
+be very interesting.
+Aeronautic
+engines of today have so nearly approached
+the theoretical
+limit of efficiency
+that even small improvements
+may be well worth
+while, but it seems probable
+that the mechanical
+advantages
+oi auai
+or multiple
+valves may be of even more importance.
+The dimensions
+of the cylinder
+model used for these experiments
+offer a ready basis for discussion,
+and are commonly
+encountered
+in
+aviation
+engine practice,
+the bore being 5 inches
+and the diameter
+of combustion
+chamber
+5.75 inches.
+A combustion
+chamber
+of
+this size permits
+the use of two valves of 2.5 inche_ diameter,
+or four
+valves
+ot'1.875
+inches
+diameter,
+inclined
+at 15 or 20 degrees
+to the
+cylinder
+axis in both cases.
+Four 1.75-inch
+valves
+can. be placed
+in a 5.5-inch
+cylinder
+head inclined,
+or a 5.75-inch
+cy.,lin_der head
+vertical;
+and four
+1.5-inch
+valves
+are even more readily
+accommodated
+in a 5-inch cylinder
+head, or a cylinder
+having
+the combustion
+chamber
+the same diameter
+as the cylinder
+proper.
+These
+valves
+may be placed
+vertically,
+and the cylinder
+is much more
+easily
+machined.
+The combustion
+chamber
+will have better
+proportions,
+and the slight increase
+in cylinder
+height will be more than
+offset as to over-all height
+by the saving in spring length.
+Two 1.5-inch
+valves
+will have
+a flow capacity
+equal
+to _e
+2.5inch valve at the same pressure
+drop and the samelift,
+will present
+
+AIR
+
+FLOW
+
+THROUQ
+
+1_
+
+POPPET
+
+VALVES.
+
+'37
+
+but 72 per cent as much area to any pressure
+in the cylinder
+at the
+time of opening,
+and will weigh but 56 'per cent of the weight
+of
+the single valve,
+assuming
+that the weights
+vary as D 2"6, wlfich!s
+approxtmately
+correct
+for these
+sizes.
+Assuming
+any reasoname
+pressure
+in the cylinder
+at the time of valve
+opening,,
+andspring
+tensions
+in proportion
+to valve
+weights,
+it is evident
+that the Cwo
+small valves will require less than half the power to open them, and
+this will be a direct saving
+of mechanical
+loss, _ valve .action is not
+the type of reciprocating
+motion
+which can re_urn aurmg
+one portion of the stroke
+energy stored during another
+portion,
+excepting
+only the energy stored [u the spring.
+Et has been said that valves in pairs are more difficult to cool than
+single valves,
+but this does not appear to stand analys:is.
+The proportion
+of the 5-inch cylinder
+head occupied
+by thesmall
+valves is
+only about 95 per cent of the proportion
+of the 5.75-inch head occuplea
+by the large valve.
+The circu_erence
+of the two valves
+is 20 per
+cent greater
+than that of the single valve,
+and although
+the seats
+wouk[ have somewhat
+less width,
+the distance
+of heat flow in this
+direction
+would
+be but 60 per cent as great.
+As to the portion
+of
+the heat which flows to the guide, the conditions
+are also somewhat
+in favor of the small valves,
+the distance
+to the water-cooled
+_or51on
+of the guide being less and the proportion
+of water-coole_
+guide
+greater.
+.
+In one example
+of. foreign .engine design dual valves
+of aboutthis
+size are lifted
+to one-half
+diameter,,
+ana give entirely
+s_lsIac_or_"
+oReration
+at speeds up to 2,200 revolutions
+per minute.
+The possibilities
+in this direction
+are largely
+untried,
+but the negative
+work
+used in overcoming
+valve resistance
+to inlet flow might
+be reduced
+with small valves at hig h lifts and the volumetric
+efficiency increased,
+without
+introducing
+serious mechanical
+difficulties.
+T_s,
+of course,
+is contrary
+to the principle
+of using low lifts to secure a higher coefficient, but still the over-all reset
+might be beneficial.
+The comparison
+of a single 2.5-inch
+valve to a pair of 1.75-inch
+valves
+may be analyzed
+in much the same manner,
+and as _o heat
+conditions
+the result would
+seem slightly
+in favor
+of the pair.
+If
+lifted 0.375 inch, the capacit_
+will be 25 per cent _reater
+than that
+of one 2.5-inch valve, according
+to the experimental
+results shown in
+Table 5, or the resistance
+will be but 64 per cent as great, the resistance
+varying
+approximately
+with
+the square
+of velocity
+or capacity.
+This sliou[dr result in higher
+volumetric
+efficiency,;
+The su_erfic!al
+area of the two combinations
+would
+be practicauy
+equal, Du_ me
+weight
+of the pair would be but 82 per cent of that of the single valve,
+with correspondingly
+reduced
+total
+spring tension
+and slightly
+reduced mechanical
+loss.
+Interesting
+comparisons
+may be drawn from
+data published
+by
+the Automobile
+Engineer,
+London, Volume VII, Nos. 105-6-8-9
+(1917)
+covering
+Benz an_ Mercedes
+engines,
+each make being constructed
+in both 2-valve
+and 4-valve
+models.
+Except
+for the valve
+chan_es
+and an increase
+in compression
+ratio from 4.50 to about 4.90, the
+design of the 4-valve models is much the same as that of the respective
+
+28
+
+REPORT
+
+I_'ATI0_bTAL
+
+ADVISORY
+
+COMMITTEE
+
+:FOR
+
+AERONAUTICS.
+
+2-valve types.
+The data are represented in Table 9, the ratio of
+volume t_)-horsepower and brake mean pressure being given for the
+rated power at 1,400 revolutions per minute for eac]_ engine.
+The
+_'valve factor" is one-half the product of inlet-valve
+opening area
+by the number of degrees open divided by the displacement
+of one
+p_ston, affording a ready index of relative valve capacity.
+Table
+
+9.
+I
+
+Engine.
+
+Benz
+4-valve.
+
+Bore, inches ............................................
+Stroke,
+inches ..........................................
+Piston
+displacement
+per cylinder,
+cubic inches ........
+Piston
+displacement,
+total cubic inches .................
+Valve port diameter,
+inches ............................
+Valve lilt, inches ........................................
+Inlet valve
+opening,
+square
+inches ......................
+Rated horsepower
+..............................
+: .......
+Rated revolutions
+per minute ..........................
+_raximum
+hor'oepowor ..................................
+Maximum
+revolutions
+per minute ......................
+Infat-valve
+opening,
+de_q_s ............................
+Area inlet pipe, square
+inches.,
+......
+.. .................
+_ubic
+inches
+piston displacement
+per norsepowor
+....
+Compres_on,
+ratio .....................................
+Valve factor ............................................
+Brake,
+mean effective
+pressure
+.........................
+
+_ercedes
+2-valve.
+
+) Mercedes
+
+5. 71 [
+7. 48 I
+191.38
+1,148. 30
+2.04
+465
+2.99
+(
+230
+) 1,400
+I
+250
+[ 1,650
+I
+245
+[
+3.65
+'- -I
+4.99
+m
+4.91
+3. 80
+113
+
+_-_a_e.
+6. 30
+7.09
+220:82
+1,324. 90
+2.17
+.398
+2. 72
+260
+1, 400
+270
+1,650
+228. 3
+6. 85
+5.10
+4.94
+2. 82
+107. 5
+
+5.12
+7.09
+146. 05
+876. 30
+2. 42
+
+3._ 3
+160"
+4OO
+164
+4110
+
+2_ _
+5_ 4S
+4.50
+102 . 70
+
+5. 51
+6. 30
+150. 20
+901.20
+2.67
+• 440
+3.70
+160
+1,400
+162. 5
+1,400
+213
+3.54
+5.63
+4.50
+2. 62
+102
+
+The valve factor for the 4-valve Mercedes is but slightly larger
+than that of the 2-valve, and the mean effective pressure is increased
+only 5 per cent, which is practically
+accounted for by the increase
+in compression
+ratio from 4.50 to 4.94.
+In the Benz 4-valve, the
+factor is increased 35per
+cent and the mean effective pressure increased 10 per cent, only about one-half of which can be due to the
+increase in compression
+ratio from 4.50 to 4.91.
+In plate 7 a comparison is made of the power output of these four
+engines plotted against gas velocity through the inlet valve.
+These
+velocities are computed for this comparative purpose, as the ratio of
+piston displacement
+per explosion to one-half the product of valveopening area by the time of t h e ope nm__. The broken curves repre"
+sent the 4-valve Benz and Mercedes, respectively,
+reduced approximately to compensate
+for difference in compression
+ratio.
+In conclusion, a summary
+of the results experimentally
+derived is
+•presented.
+It should be borne in mind that the number and character of the experiments
+is not such as to render them final and conclusive.
+It is earnestly hoped that further and more extensive data
+bearing upon this subject _
+be exper'._entally
+obtained and published, and it is believed that the results here presented will be found
+substantially
+correct in the light of later research.
+Caution should
+be exercised in the application of these results, for apparent similarity
+with respect to air flow is often most deceptive.
+
+AIR
+
+FLOW
+
+_ROUGH
+
+::::::::
+
+i!L_!!i!
+!!!!i!ii
+
+Jii!]]ii
+!!ijjlj!
+
+iiiiiiii
+i iii; _!.]
+i!!ii!i!
+
+iiiii!ii
+i:::iiii
+
+i!iiiii!
+iiiiiiii
+_iiiiii!
+!!!!!!!!
+!!!'!!!!!
+
+iiiii!!!
+!iiii_.!
+!!!!!_!!
+IIIIIII!1
+
+!!!!!_!!
+
+!!!!!!_]
+:::::::'
+:::::::
+::::::::
+
+iiiiiiii
+iiiii_!i
+!!!iiiii
+_o
+
+/_ro
+
+POPPET
+
+VALVES°
+
+29
+
+f
+
+30
+
+RF_0RT
+
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+CONCLUSIONS.
+
+1. The coefficient
+of effiux is practically
+constant,
+for all pressure
+drops (at least below
+1 pound
+per square inch)
+where _ the lower
+pressure is approximately
+atmospheric,
+and the theoretical
+flow is computed upon air at atmospheric
+density.
+2. U1ider conditions
+of general
+similarity,
+the coefficient
+of effiux
+is very nearly
+the same for valves
+of different
+sizes, at equal lifts
+expressed
+in per cent of their respective
+diameters.
+3. Lifting a valve one-quarter
+of its diameter
+may_develop
+an area
+of opening geometrically
+equal to its port area, but affords a capacity
+less than 67 per cent o_f that of the unobstructed
+port, a_ the same
+pressure
+drop;
+a lift equal to one-half
+diameter
+develops
+80 to 90
+per cent of this maximum
+capacity:
+4. At the same pressure
+drop, one valve of diameter
+D and lift h
+is e_ual in capacity
+to:
+First. A pair of valves
+of diameter
+and lift 0.707 h.
+Second.
+A pair of valves
+of diameter
+of h not exceeding
+about 0.25 D.
+
+G
+
+0.707
+0.6
+
+D
+
+(equal
+
+D and lift
+
+port
+
+area)
+
+h, for values
+

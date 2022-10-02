@@ -1,0 +1,2605 @@
+REPORT No. 84
+
+c,3
+DATA ON THE DESIGN OF PLYWOOD
+FOR AIRCRAFT
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM SIXTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1920
+
+REPORT No. 84
+
+DATA ON THE DESIGN OF PLYWOOD
+FOR AIRCRAFT
+BY ARMIN ELMENDORF
+Engineer in Forest Products Laboratory
+
+1
+
+REPORT No. 84.
+DATA ON THE DESIGN OF PLYWOOD FOR AIRCRAFT.
+By
+
+ARMIN ELME
+
+DORI·'.
+
+PURPOSE OF THE ST DY.
+
+This report makes available data which will aid the designer in determinlllg the plywood
+that is best adapted to various all'craft part. It gives the results of investlgations made by
+the Forest Product Labor tory of the United States Forest Service at Madison, Wis., for the
+Army and Navy D epartment, and is one of a series of reports on the use of wood in aircraft
+prepared by the Forest Products Laboratory for publication by the National Advisory Committee for Aeronautics.
+The object of the tudy was to determine, through compr ehensive tests, the mechanical
+and physical properties of plywood and how these properties vary with the density, number,
+thicknes , arrangement of the plies and direction of grain of the plies. While the data were
+sought primarily and immediately with a view to obtaining llllormation needed by aircraft
+designers, the results have a broader field of application.
+USE OF PLYWOOD IN AIRPLANES.
+
+Plywood i being used extensively in all'planes for fuselage sides, bulkheads, engine bearers, wing rib webs, gus et and thru t plates, flooring, diaphragms, and at times for partially
+covering wings, in partic-qlar at the leading edges. In some machines stabilizer, elevator, and
+rudder smfaces are covered with thin plywood. Its u e as a substitute for linen in covering
+wings has, however, not yet found favor, chiefly on account of the excess weight over linen.
+From the standpoint of general engineering design the selection of Veneer species and
+thickness introduces elements quite distinct from those involved in the design of an ordinary
+structmal member of wood. More variables are invo.lved, for in addition to the properties of
+the various species there are added unique properties due to number of plies and thickness and
+direction of the grain of the various plies. For the designer of aircraft certain further and
+special considerations enter into the problem. In the first place, strength with a minilnum
+weight is requll'ed, while in the design of most stationary structmal members weight is a minor
+consideration. Again, the forces acting on the different parts of an all'plane are usually very
+complex, and both their magnitude and direction can in many cases only be approxilnated.
+The position and magnitude of the loads for which stationary structural :r,nembers must be
+designed are, on the other hand, usually known with greater precision.
+The complexity of the forces acting on airplane parts usually makes the designer's problem
+one of determining relatively superior constructions rather than of exact computation of
+requll'ed dimensions. Nevertheless, the actual size of some plywood parts of an airplane may
+b e worked out with a reasonable degree of accuracy by using the strength data included in
+this bulletin. An example of comparatively exact design is afforded in the construction of
+large trussed wlllg ribs in which it is desll'ed to know the dimensions of the tension members
+of wood. The table of tensile strength of veneer will serve for this pmpose, although the details
+of fastening also require consideration.
+2
+
+DATA ON THE DESIGN OF PLYWOOD FOR AIRCRAFT.
+
+3
+
+DEFINITION OF PLYWOOD.
+
+Much confusion has been caused by the indiscriminate use of the terms "veneer" and
+"plywood." The formcr term should be restricted to the relatively thin sheets of wood cut
+with special veneer machinery from the urface of a log revolving in a massive lathe or by slicing
+or sawing from the face of a log, known, respectively, as rotary, liced, and sawed veneer. "Plywood," on the other hand, refers to the combination of several plies or sheets of veneer glued
+together, usually so that the grain of anyone ply is at right angles to the grain of the adjacent
+ply or plies.
+PROPERTIES OF ORDINARY WOOD COMPARED WITH PLYWOOD.
+
+I
+
+Wood, as is well known, is a nonhomogeneous material, with widely different properties
+in the various direction relative to the grain. This difference must be recognized in all wood
+construction, and the size and form of parts and placement of wood should be such as to u'tilize
+to the best advantage the difJ'erence in properties along and across the grain. It is the strength
+of the fibers in the direction of the grain that gives wood its relatively high modulus of rupture
+and tensile and compressive strength parallel to the grain. Were ita homogeneous material
+such as cast iron, having the same strength properties in all directions that it has parallel to
+the grain, it would be unexcelled for all structural parts where strength with small weight is
+desired. As it is, the tensile strength of wood may be 20 times as high parallel to the grain as
+perpendicular to the grain, and its modulus of elasticity from 15 to 20 times as high. In the
+case of shear the strength is reversed, the shearing strength perpendicular to the grain .being
+much greater than p'arallel to the grain. The low parallel-to-the-grain shearing strength
+makes the utilization of the tensile strength of wood along the grain difEicult, since failure
+will usually occur through shear at the fastening before the maximum tensile strength of the
+member is reached .
+The large shrinkage of wood across the grain with changing moisture content may introduce distortions in a board that decrease its uses where a broad, flat surface is desired. The
+shrinkage from the green to the oven-dry condition across the grain for a flat-sawed board is
+about 8 per cent and for quarter-sawed board about 4} per cent, while the shrinkage parallel
+to the grain is practically negligible for most species.
+It is not always possible to proportion a solid plank so as to develop the necessary strength
+in every direction and at the same time utilize the full strength of the wood in all directions
+of the grain. In such cases it is the purpose of plyw·ooa. to meet this deficiency by cross banding,
+which results in a redistribution of the material.
+In building up plywood a step is made in obtaining equality of properties in two directions,
+parallel and perpendicular to the edge of a board. The greater the number of plies used for
+a given panel thickness, the more nearly homogeneous in properties is thefini hed panel. Thus,
+in an airplane engine mounting made of IS-ply veneer, the mechanical properties of the panel
+parallel and perpendicular to the grain of the faces are almost the same. Broadly speaking,
+what is gained in one direction is lost in the other. For a very large number of plies we may
+assume that the tensile strength in the two dil'ections is the same and that it is equal to the
+average of the parallel-to-the-grain and perpendicular-to-the-grain values of an ordinary board.
+This is not always exactly true, since the maximum stress of the plies in both dil'ections may
+not be reached at the same time. Internal stresses due to change of moisture content may
+also tend to unbalance the strength ratio.
+
+.
+
+SCOPE AND METHOD OF TESTS.
+
+Q
+
+The results and conclusions which follow are based on tests of about 34 species. In
+general, 8 thicknesses of plywood were tested, as follows: 3/30, 3/24, 3/20, 3/16, 3/12, 3/10,
+3/8, and 3/6 inch.
+Most of the tests were on panels composed of three plies of equal thickness of the same
+species, with the grain of successive plies at right angles. In addition tests were made on plywood of various numbers of plies; having various ratios between the core and the total panel
+
+4
+
+REPORT
+
+ATIO AL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+thicknes ; having the plie glued at angles other than 0° with each other; and on plywood
+in which the core and the face were not of the arne species.
+B ending tests.- As a rule bending tests were made on specimens measuring 5 by 12 inches,
+although some of the thinner pecimens were cu t to a length of 6 inche. In half of the tests
+the grain of the face was parallel to the dir ction of application of the load, and in half perpendicular.
+Figure 1 shows the method of conducting the column-bending test. The ends of the test piece
+weI' rounded to approximately a emicircle. Deflections were mea ur d at the center of the
+specimen as shown in the photograph. The product of the load and the corresponding deflection
+was recorded as the bending moment. For orne of the thicker pecimens it wa not satisfactory
+to test in column bending on account of eparation of the plie. These specimens were tested
+as a beam in ordinary cross bending.
+The formula for computing the column-bending modulus is given at end of report. The
+re ults of the tests are in cluded in Table l.
+In most case in column bending the direct compr ssive stress at the maximum moment
+i only a small fraction of the bending or flexural stress, 0 that the column-bending modulus
+may be used with little error in all computations in a capacity similar to the bending strength
+or modulus of rupture of plain timber to ted in cro s bending. Like the modulu of rupture,
+it i not an actual stre but a measure of the strength in bending.
+Tension tests.- T est were made to determine the tensile trength of plywood both parallel
+and perpendicular to the grain of the face. Specimen 3 by 12 inch~s in size were used, the
+center por tion being trilluned down to approximatel. an inch wide. They were held by
+ordi.nary flat grips, and tested in direct tension to rupture.
+PlyviTOod tension member, while not very common, are in use and the data may be applied
+111 computations.
+The tensile strength is the average stress over the secti.on at failure.
+The results of the tensile tests are included in Table 1 and 4 .
+Splitting test.-For splitting tests quare pieces 31 by 3i inches were used. Upon the
+center of the test piece a conical spear ( hown in fig. 2) was :fir t dropped from a height of
+one-half inch. The spear was inche long and 2 inches in diameter at the upper end and
+with the rod weighed 11 .22 pounds. Carrying the test piece upon its point it was then dropped
+from increasing heights with an increment of one-half inch until failUl'e due to plitting occUl'red.
+The resi tance of the material to splitting i represented by its "splitting energy;" the formula
+for its computation is given near end of repor t.
+The plitting energy is a measUl'e of resistance to splitting at the screw or bolt fastenings
+a numerical
+of veneer panels. It is merely a factor for comparino- different panels, and
+quantity can not be used in de ign.
+A comparison of the relative re istance to splitting of various three-ply panels will be
+found in Table l.
+Warping tests.- W arping may con i t of cupping or twisting, or a combination of these
+two actions. Piece of plywood 12 inches square were used for warping tests.
+To determine cupping, a straightedge was placed over a median line drawn on the specimen
+perpendicular to the grain of the faces (see fig . 3), and the recession of the point deflected
+farthest from the straightedge was measUl'ed. This rece sion was recorded as the cupping
+of the panel.
+To determine twisting, the panel was placed upon a flat sUl'face so that three corners
+Ul'th corner was measUl'ed
+were resting upon the surface. The distance from the sUl'face to the fO
+as shown in figure 4 and recorded as the " twist in 12 inches."
+Information of the kind obtained in this t est is of value in selecting a panel for structural
+parts where flat, undistorted Ul'faces are important. The results indicate roughly the comparative resistance to external conditions that tend to warp or distort a panel. The smaller
+the cupping and twisting under test, the more desirable the panel for flat work.
+
+as
+
+FIG.
+
+l.-COLUMN-B~NDING
+
+TEST.
+
+•
+
+FIG. 2.- SPLITTING TEST.
+
+FIG. 3. - METHOD OF MEASURING CUPPING.
+
+FIG. 4.- METHOD OF MEASURING TWISTING.
+
+8
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Thickness facto?' Kw.- Thi factor serves to obtain the thi.clmess of a ply of any 'pecies
+equal in weight to a ply of yellow birch of unit thickness. It i obtained by dividing the density!
+of birch by the density of the pecies for wh ich the thickness is desired. For yellow poplar,
+for example, lhe thi kne s of a ply equal in weight to a 1/1 6-inch ply of birch i 1.54 X 1/ 16 =
+0.096 inches .
+Uses and properties of va?'ious species.- On the ba is of their mechanical properties, the
+veneer specie commonly u ed for the face tock of plywood for airplane may be grouped as
+follows :
+Group I.-Beech, birch (sweet or yellow), hard maple, black walnut.
+Group 2.- White elm,2 red gum, soft maple, mahogany (African or true), sycamore.
+Group 3.- Ba wood , Spanish cedar , fir (grand , noble, or sih'er), cotton "'um, western hemlock, sugar pine,
+white pine, yellow poplar, redwood , spruce (red, white, or Sitka).
+
+Where a fl at panel, high bending trength, or high column strength with minimum weight
+are desired, species of gr oup 3 should be u ed as face tock.
+ome of these pecie , uch a spruce,
+can not be fini hed properly wi thou t a con iderable amoun t of sand ing, and all but light sanding
+is undesirable b.ecause it may unbalance the con truction. In fuselage bulkheads or other
+hidden part where finish is secondary, any of the spe cie~ of OTOUP 3 hould be satisfactory for
+face veneer as well as for core stock.
+Hardne s, resi tance , to abrasion, and 'trength of fastening increase con iderably with
+inerea ing density of wood, so that where anyone or all of these factor are of importance the
+h eavier woods beginning with group 1 hould be used.
+Where fmish i desired specie of group 1 or group 2 should be u ed.
+Where the plywood must be steamed, or soaked and bent into a form in which it i to remain,
+species of group 1 or group 2 hould be used.
+Where failme of an airplane part i likely to occm from buckling, a in plywood fu elaae
+in which the hell carrie considerable tress, it is recommended that the plywood be made
+entirely of low-den ity pecies, uch as those in group 3. N umerou te t on plywood columns
+have hown that three-ply column of low-density specie ', such as are illcluded in group 3,
+carry from 2 to 2.5 time the load of three-ply columns of the same weight of species included
+in group 1. Buckling is a form of column failure, and for that reason greater reoi tance to
+buckling per unit weight would be expected from the use of low-den ity veneer.
+SIZE, WEIGHT, AND TlllCKNESS OF COMMERCIAL VE EER.
+
+The aver age length of sawed veneer heets is about 14 feet, and the maximum 24 feet;
+the average length of sliced v neer is about 10 feet, and the maximum 1 feet; rotary-cut veneer
+averages about 6 feet, with a maximum of 16 feet.
+awed vene I' is seldom cut Ie s than 1/2
+inch thiclc Sliced veneer of some specie may be cut as thin a 1/ 100 inch, but is eldom cut
+thicker than 1/ 16 inch. Rotary-cut veneer of some species may be cut from 1/ 100 inch to almost
+1/2 inch in thickness .
+awed and liced veneer heets are limited in width by the diameter of
+the log, whereas rotary cut yeneer may be any width con istent with easy handling.
+Except for the 1/100 inch veneer, all the thicknesse Ii ted in Table 3 are commercial.
+Table 3 may b used in computing the weight of veneer heet of any size and thicknes , and of
+plywood made of any compination of the specie~ list d. A sfl.mple computation i gIven
+near end of report.
+JOI TS IN PLYWOOD P ANELS.
+
+There are three type of joints commonly u ed for joining plywood panels: (a) Riveted
+joints, (b) glued joints in individual plie , and (c) glued joint extending through the entire
+thickness of plywood. These \-vill be con ider ed in detail.
+Riveted joints .- The most ati factory joints of the ri veted typ are made with tubular
+rivets . Tension te ts have shown quite conclusively that it is ery difficult to obtain more than
+1 Tbe density data for tbe domestic species used in computing K ware those given in United States Department of Agriculture Bulletin
+556, "Mecbanicall'roperties of Woods GrO\n1 in tbe United tates," and do not include the" eight of tbe glue.
+j White elm sbould not be used wbere a bigh finish is d esired.
+However, it bas exceptional bending qualitie ,
+
+9
+
+DATA ON THE DESIGN OF PLYWOOD FOR AIRCRAFT.
+
+50 per cent efficiency with a ingle row of rivet. Efficiencies omewhat higher than 50 per cent
+may probably be obtained if two or more rows of rivet are u ed. In such cases the rivets
+hould bc staggered . The size of the rivet eems to have little effect upon the trength of the
+joint, providing the proper pacing i used. The distance betwe n center of rivets should be
+about equal to twice the out ide diameter of the rivets. It is obviou that for such spacing
+very many rivet are required, and that the labor in making the joint i very great.
+Joints in individual plies.-Two pieces of plywood may be fastened together by means
+of glued joints in individual plies. Joints in individual plies take a variety of forms. (See fig.
+7.) Strength,' ease of manufacture, and efficiency con idered, the simple scarf joint appears
+to be the most desirable of the group. The simple butt joint should not be u ed where strength
+is important. The edge joint is sati factory if carefully made. The slope of the scarf in the
+simple carf joint hould be within the range of from 1 in 20 to 1 in 30.
+The use of joints in individual plies has an advantage over the other type, in that the joints
+in the plies may be staggered, so that a single defective joint only partially weakBns the entire
+panel. The preparation of a joint of this type requires less time and labor than a riveted joint,
+bu t more than a scarf j oint extending tlu:ough the entire thickne s of the panel.
+Joints extending through the entire thiclcness oj plywood.- Two types of scarf joints extending
+through the entire plyw'ood thiclme are shown in figure . The e are known as the straight
+scarf joint and the Albatross scarf joint. It will be seen that in the Albatross joint the face
+ply of the one panel does not meet the face ply of the second panel, or only partially meets it.
+
+--
+
+/
+
+/
+
+/
+/
+/
+
+------/
+
+/
+
+/
+
+1
+.
+5i~PR SCc7d Joht
+
+Dioqonol SCarl' JoinT
+
+5 im pie L5u""-
+
+JOi '1T
+
+-
+
+Dloqonal B vrr JoinT
+
+5<:7w-roorll
+
+LJI./f'f'
+
+JOint
+
+FIG. 7. Joints in the [ace veneer o[ 3-ply p an els. Arrows indicate dir ct ion 01 face grain.
+
+In place of being glued to wood that has the grain running in the same dire tion, the face ply
+of one panel i glued to the core of the other panel, the grain of the core being at ·right angles
+to the grain in the face. Joints in which the grain of the two piece joined i at right angles
+are not so trong as joint in which the direction of grain in the two pieces is the same.
+Te t indicate quite con Iu ively that in tension the traight carf joint i superior. An
+efficiency of over 90 per cent may be obtained with thi type of joint for a slope of scarf as low
+as 1 in 10. On account of the variations in the eff ctivene of the gluing by different manufacturers it i recommended that a slope of scarf greater than this be used. A slope between
+1 in 20 and 1 in 30 is recommended.
+
+10
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTIOO.
+
+Severe weakening of scarf joints is often cau ed by sanding the face plies at the joint
+Observations on joints thus sanded showed that in some cases more than half of the face ply
+was ground away. Inasmuch as the strength of a three-ply panel when bent parallel to the
+direction of the grain of the faces lies almost entirely in the face plie , it is obvious that a reduction
+in the thiclmess of the face plies will materially affect the strength of a panel. Consequently,
+it is recommended that the scarf joint be lightly sanded by hand if at all, so as not to decrease
+the thickness of the face veneer.
+
+r
+
+1
+
+L
+
+)/iZZ77izmzswZ«?@7/d~ l
+STRAIGIfT SCARF'
+
+( I·
+_ - - - PJre&tlon "f r'Q&e tlro.-'n_
+
+_ __
+
+fzzz00//aw»»»~)>A)>~SSS}SSS:~
+ALBATROSS
+
+SCARF'
+
+L
+FIG. 8. Joints extending through the panel. Slope of scarf='T '
+
+For scarfinG' plywood a jointer, sanding machine, or hand plane i ordinarily used.
+Figure 9 show the method used at the Forest Products Labora tory for pre sing glued
+joints in plywood. The board above the panel should be relatively rna sive and flat, so as to
+distribute the pressure from the screws. Two or three layers of blotting paper furni h sufficient
+paddingl to accommodate irregularities in the urface.
+PreJ~
+
+Screw
+
+Press Screw
+
+Caul
+
+FIG. 9. Method 01 pressing glued joint.
+
+Press Screw
+
+DATA ON THE DESIGN OF PLYWOOD FOR AIRCRAFT.
+
+FORMULAS USED I
+
+11
+
+COMPUTATION OF STRENGTH DATA.
+
+Oolumn-bending modulus.-The term "column-bending modulus " applies to the stress
+obtained by adding the direct compre sion stress at the maximum moment to the flexural
+stress at the maximum moment. The following formula applies:
+-
+
+P 6M
+S=]l + bd2 where
+
+S = Column-bending modulus.
+A = Area of cross section of test piece.
+P = Load at maximum moment.
+M = Maximum bending moment.
+b = Width of test piece.
+d = Thickness of test piece.
+
+Modulus of rupture.-The modulus of rupture is the computed stress in the outermost
+fibers of the plywood, when tested in cros!!bending as a simple beam. The following formula
+applies for center loading:
+1.5P x L
+MR =
+bd 2 where
+MR = Modulus of rupture.
+P=Maximum load at center.
+L = Span of test piece.
+b = Width of test piece.
+d = Thickness of test piece.
+
+Tensile strength.- The term "ten ile trength" applies to the stress obtained by dividing
+the load at rupture by the minimum cro s-section area of the specimen.
+P
+S=]l where
+S = T ensile strength.
+P = Maximum load in tension.
+A = Total cross-sectional area at minimum ection.
+
+Modulus 01 ewsticity.-The moduli of ela ticity of all column-bending and cross-bending
+specimens were computed by substitution in the following formula
+For column bending,
+For cross bending (center loading),
+
+PlD
+E=-- where
+4
+
+11
+
+E= Modulus of elasticity of the plywood.
+P = Maximum load sustained in column bending.
+p I = Any load within the elastic limit of the plywood.
+L = Length of the plywood column or the length of the pan in ero
+1= Moment of inertia of the cro section of the pecimen.
+1 = Deflection corresponding to pl.
+
+bending.
+
+Splitting ene1'gy .- The total work done or the splitting energy W was computed by adding
+together the di tances through which the pear fell, hlJ hz, etc., and multiplying by the weight
+(11.2 pound ) of pear and rod.
+
+12
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+E XPLANATIO N OF TAB LE
+
+1.
+
+The da ta of this table may be used to compu te the thickness of three-ply wood members of
+various specie when the forces actina on these members are known. The strength in bendi.ng
+is given b the column-bending lllodulu ) which may be used in compu tation in a capaci ty
+similar to the modulu of rupture of ordinary wood. The direction in which the external
+forces act on the member r elative to the direction of the face grain of the plywood mu t bo
+taken into con irleration in using the data. The strength valu es correspond to the moisture
+contents listed.
+T ABLE
+
+l.-Strength oj variolls spedes oj three-ply panels.
+
+All plies in anyone panel were of t he sam e thickness and of the same species-grain of successive plies at right angles. In most cases eight
+thicknesses of plywood, ranging from 3/30 inch to 3/6 incb were tested.
+
+Species.
+
+Column bending.
+Aver·
+age
+Tensile strength.
+specific
+Modulus of
+gravity
+Column-bending modulus.
+Splitting
+elasticity.
+of ply- Averresistance.
+wood
+age
+based moison
+t ure
+ParalleL'
+Perpendicular.' • Paral- ri~~~~;
+ParalleL'
+Perpendicular.'
+(per
+leI.'
+ovendry
+cent).
+--weight
+and
+l )er
+1,000
+1,000
+INo.Of Lbs. per No. of Lbs. per Ibs. per Ibs. per No. of Lbs. per No. of Lbs. per No. of cer.t of
+volume
+tests. sq in . tests. sq. in. sq. in. sq . in . tests. sq. in
+tests. sq. in. tests. bi ,ch.2
+at test.
+
+I
+
+- --
+
+-- -
+
+-- - -
+
+- -- - - -
+
+- --
+
+- -
+
+----- ---
+
+---
+
+Ash, black ........... . ....
+Ash, co=ercial white . ..
+Bass'.ood ................
+Beech . . ..................
+Birch, yellow .............
+
+0. 49
+. 60
+.42
+.67
+.67
+
+9.1
+10.2
+9. 2
+.6
+8.5
+
+120
+200
+200
+120
+195
+
+7,760
+9,930
+7,120
+15,390
+16,000
+
+120
+200
+200
+120
+200
+
+1,770
+2,620
+1,670
+2,950
+3,200
+
+1,070
+1,420
+1,210
+2,150
+2,260
+
+96
+143
+85
+167
+197
+
+120
+200
+200
+120
+200
+
+6, 180
+6,510
+6,880
+13,000
+13,210
+
+120
+200
+200
+120
+200
+
+3,940
+4,350
+4,300
+7,290
+7,700
+
+Cedar, Spanish ....... .. ..
+Cherry' . . . .. . ......... . ..
+Chestnut ............ . ....
+Cottonwood <.............
+Cypress, bald . . .. ........ .
+
+.41
+.56
+. 43
+.46
+.45
+
+13.3
+9.1
+II. 7
+8.8
+.0
+
+115
+115
+40
+120
+113
+
+6,460
+12,260
+5, 160
+8,460
+8,890
+
+115
+115
+40
+120
+113
+
+1,480
+2,620
+1,110
+1,870
+1,850
+
+1,030
+1,630
+740
+1,440
+1,220
+
+84
+152
+75
+109
+95
+
+115
+115
+40
+120
+113
+
+5,200
+,460
+4,430
+7,280
+6,160
+
+115
+115
+40
+120
+113
+
+Douglas fir ' ...... . ..... . .
+E lm, cork .......•.. _... ..
+Elm, white .. . .......... ..
+
+.48
+.62
+. 52
+.40
+.54
+
+8.6
+9. 4
+8.9
+8. 5
+10.6
+
+176
+65
+160
+24
+40
+
+9,340
+12,710
+8,680
+9,200
+,090
+
+200
+65
+160
+24
+40
+
+1,940
+2,500
+1,970
+1,811
+1,920
+
+1, 530
+1,9 a
+1,220
+1,580
+1,280
+
+126
+136
+109
+100
+113
+
+200
+65
+160
+24
+35
+
+6,1~
+
+,440
+5, 860
+5,670
+6,960
+
+ii:~~~~i.:: :::::::::: : : :
+
+Gum, cotton. ... ... .......
+
+H emlock, western ........
+Magnolia · ............... .
+
+.50
+.54
+.54
+.47
+.58
+
+10. 3
+.7
+10.2
+
+80
+182
+80
+119
+80
+
+7,760
+9,970
+,100
+9,250
+10,830
+
+80
+1 2
+80
+119
+80
+
+1,580
+2,070
+1, 880
+1,960
+2,600
+
+1,300
+1,590
+1,150
+1,580
+1,700
+
+111
+120
+99
+112
+138
+
+80
+12
+80
+119
+80
+
+Mabogany, Arrican · . .....
+Mahogany, Philippine 10 ••
+Mahogan Y true ... . .... . ..
+Maple, sofl ll . . . ... .... ...
+Maple, hard n . .... .... . . .
+
+.52
+. 53
+.48
+.57
+.68
+
+12.7
+10. 7
+11 . 4
+.9
+.0
+
+20
+25
+35
+120
+202
+
+,070
+10, 160
+,500
+11 ,540
+15,600
+
+20
+25
+35
+120
+202
+
+2,000
+2,310
+1,940
+2,420
+3,340
+
+1.260
+1,820
+1,250
+1,750
+2, 110
+
+144
+169
+117
+145
+J89
+
+Oak, co=ercial rcd ......
+Oak, commercial whitc .. .
+
+9. 3
+9.5
+9. 4
+5.4
+9.4
+
+115
+195
+
+~e:~; ~~i~:: :::::::::::: :
+Poplar, yellow ........... .
+
+. 59
+.64
+. 42
+.42
+.50
+
+40
+165
+
+,500
+10,490
+8,050
+10,130
+8,860
+
+115
+195
+70
+40
+165
+
+2,070
+2,310
+1, 670
+2050
+1; 920
+
+1,290
+1,340
+1, 310
+1,570
+1,540
+
+120
+118
+90
+
+Redwood.............. . ..
+Spruce, Sitka.............
+Sycamore... ... . . ... . . ... .
+Walnut, black ............
+Yucca species .. .. . ..... . ..
+
+. 42
+.42
+. 56
+. 59
+. 49
+
+9. 7
+8.3
+9.2
+9. 1
+7.3
+
+105
+121
+163
+110
+33
+
+8,230
+7,710
+11,040
+12,660
+2,960
+
+105
+121
+163
+110
+33
+
+1 550
+1;690
+2,340
+2,770
+900
+
+1,180
+1,370
+1,630
+1,740
+
+~~~~~.'''''.: : :::::::::: : :
+
+n
+
+65
+
+560
+
+240
+400
+400
+240
+400
+
+3
+71
+63
+94
+100
+
+3,340 .
+5,920
+2,600
+4,240
+3,980
+
+230
+230
+80
+240
+148
+
+60
+0
+74
+85
+49
+
+200
+65
+160
+24
+35
+
+3,910
+5,500
+3,990
+3,770
+4,320
+
+374
+130
+320
+48
+70
+
+63
+99
+75
+60
+55
+
+6, 260
+7,850
+6,920
+6,800
+9,220
+
+0
+182
+80
+119
+80
+
+3,760
+4,930
+4,020
+4,580
+5,730
+
+160
+364
+160
+238
+120
+
+60
+80
+84
+63
+85
+
+20
+25
+35
+120
+192
+
+5,370
+10,670
+6,390
+8,180
+10.190
+
+20
+25
+35
+120
+202
+
+3,770
+5,990
+3,780
+5, 380
+6,530
+
+115
+
+115
+195
+70
+40
+155
+
+5,480
+6, 730
+5,430
+5,720
+7,390
+
+115
+195
+70
+40
+165
+
+108
+105
+130
+141
+44
+
+105
+121
+163
+110
+33
+
+4,770
+5,650
+,030
+,250
+2,210
+
+105
+121
+163
+110
+33
+
+III
+
+I
+
+.. . .. . . ... . . ...
+
+50
+
+90
+
+..... .. ........
+
+106
+114
+
+3,610
+4.200
+3,690
+3,340
+4,720
+
+I
+
+240
+404
+230
+390
+140
+80
+330
+
+70
+85
+47
+31
+51
+
+2,960
+3,410
+5,220
+5,260
+1,700
+
+210
+224
+326
+220
+66
+
+4
+78
+77
+77
+14
+
+, Parallel and perpendicu lar refer to t be direction of the grain of thc faces relative to the direction or tha application of the force.
+2 Tne rcbtive splitting resistance of the various panels tested depends largcly On t he holding strcngth of glu e.
+< Probahly (common) cottonwood.
+, Coast type.
+' Probab ly white fir.
+• Probahl y black cherry.
+1 Probably black gum.
+8 Prol)ably (evergreen) magnolia.
+• Probably Kbaya sp.
+"Probably tanguile.
+II Probably ilvcr maple.
+" ugar or black maple.
+NOTE.-Insome of the species I.isted above the t9Sts aro rathor limited in number. Sinca there is considerable variation in the strength of wood.
+further tests on additional material would be exp'cted to modify the values appreciably in some cases.
+
+J
+13
+
+DATA ON THE DESIGN OF PLYWOOD FOR AIRCRAFT.
+EXPLANATIO N OF TABLE
+
+2.
+
+When substituting one species for another in airplane plywood it is desirable to know the
+thickness of veneer which will give either the same bending strength ~)l' the same weight as the
+original material. The thickness factors Ks and Kw given in Table 2 will be found useful for
+this purpose. For instance, the thickness of basswood veneer required to afford approximately the same bending strength as one-tenth inch yellow poplar, may be obtained by multiplying the thickness of the yellow poplar by the ratio of the thickness factor (K s) of basswood
+to that of yellow poplar. The factor Kw may be used in a similar computation to obtain the
+thickness of one species required to equ al the weight of another.
+TA·BLE
+
+2.- Thickness factors for veneer.
+
+Giving: (1) Veneer thickness ror the sarnO total bending strength as birch (K,); (2) Veneer thickness ror the same weight as birch (K .. ).
+
+s
+
+D
+
+A verage
+specificgravity
+of spccies 11
+based on ovendry weight and
+air-<lry
+volume.
+
+Species.
+
+K.
+
+Specific gravity
+of glued ply. t
+wood as tested MOiS ure con- Unit bending
+based on oven- tentofpl ywood strength comdry woight and
+as tested .
+pared with
+birch.'
+volume at t est.
+
+ASh, b lack ................................. · .. ·
+Ash, commercial white ...................... ..
+Basswood ................. . ................. ..
+Beech .................................. · .... · ·
+Birch, yellow ... .... . . . ....................... .
+
+0.50
+
+0.49
+
+.38
+.63
+.63
+
+. 42
+.67
+. 67
+
+Per cent.
+9.1
+10.2
+9.2
+8.6
+8.5
+
+~:n~~:~~~::::::::::::::: :::::::::::: :::::
+Cottonwood .................. .. .............. .
+
+.34
+.51
+. 44
+.43
+. 44
+
+.41
+.56
+.43
+.46
+.45
+
+13. 3
+9.1
+11.7
+8.8
+8.0
+
+.4
+
+~~~E~~.:::::::::::::::::::::::: : ·: ::::: :::::
+Gum' ......................... · .... ........ ..
+
+.51
+.66
+.51
+.38
+.52
+
+.62
+.52
+.40
+. 54
+
+:::::::::::
+
+.52
+.49
+.54
+.42
+.51
+
+Mahogany, African 7 . . . . . . . . . . . . . .. . . . . . . . . . . ..
+Mahogany, Philippine . ......... ............. ..
+
+.46
+.57
+.49
+.48
+.62
+
+Per cent.
+52
+72
+48
+94
+100
+
+Thickness
+factor for the
+samo total
+bending
+strength as
+birch.
+
+-J1~
+
+K"
+Thich-ness
+factor for th o
+
+sa~eb~~tht
+.63
+
+D
+
+Douglas fir
+
+3 .................................. .
+
+~~~Je~~~.~:::::::::::::::::::::::::
+
+li:~g~;,.~~~~~~r.~:::::::: : :::::::::::::::::::
+
+~m!:!~:l~~::::: :::::::::: :::::::::: :::::::
+Oak, commercial red . ................... ..... .
+Oak, commercial white ...................... ..
+
+!t~t~*,~~~:::::::: ::::::: ::::::::::::::: :::
+
+.63
+.69
+.37
+.39
+.41
+
+1.39
+1.18
+1. 44
+1.03
+1.00
+
+1.26
+1.09
+1. 66
+1.00
+1.00
+
+43
+0
+34
+56
+57
+
+1.52
+1.12
+1.72
+1. 34
+1.32
+
+1.85
+1.24
+1. 43
+1.47
+1.43
+
+8.6
+9.4
+8.9
+8.5
+10.6
+
+60
+
+1.29
+1.13
+1.31
+1. 32
+1.35
+
+1.24
+.95
+1.24
+1.66
+1. 21
+
+.50
+.54
+.54
+.47
+
+10.3
+8.7
+10. 2
+9. 7
+8. 8
+
+49
+64
+55
+
+1.43
+1.25
+1.35
+1.29
+1.16
+
+1.21
+1.29
+1.17
+1.50
+1.24
+
+.52
+
+56
+68
+57
+
+.57
+.63
+
+12.7
+10.7
+11.4
+8.9
+8.0
+
+1.34
+1.21
+1.32
+1.16
+1.00
+
+1.37
+1.10
+1.29
+1.31
+1. 02
+
+.59
+.64
+.42
+.42
+.50
+
+9.3
+9.5
+9. 4
+5.4
+9. 4
+
+1.30
+
+1.00
+
+.42
+.56
+. 42
+. 59
+.49
+
+Cypress, bald ................................ ..
+
+.58
+
+9.7
+9.2
+8.3
+9.1
+7.3
+
+.60
+
+.58
+.53
+.4
+
+78
+
+58
+
+57
+55
+
+60
+
+74
+
+74
+
+100
+59
+69
+51
+64
+
+58
+50
+71
+
+50
+83
+23
+
+1.20
+
+.91
+
+1.40
+1.25
+1.31
+
+1. 70
+1.61
+1.54
+
+1.41
+1.19
+1. 41
+1.10
+2.09
+
+1. 7~
+1. 26
+1.66
+1.10
+----------_ ... . -
+
+, Average of the column bending moduli parallel and perpendicular to grain compared to birch, based on tests of 3-ply wood, each ply one-third
+of the total panel thickness.
+• Probably black cherry.
+, Coast type.
+• Probably white fir .
+• Probably black gum.
+S Probably (evergreen) magnolia.
+7 Probably Khaya species.
+• Probably tanguile.
+• Probably silver maple.
+10 Probably sugar or black maple.
+11 Values of domestic species taken from U. S. Department of AgrIculture Bulletin 556, Mechanical Properties of Woods Grown in the United
+States.
+" Based on tests not included in Bulletin 556.
+
+r
+
+l
+14
+
+R.EPORT NATIO orAL ADVISORY COMMI TTEE FOR AERONAUTICS.
+EXPLAN ATI ON OF T AB LE
+
+3.
+
+This t able gives th e approxim ate weigh t of individual sheets of veneer in ounces p er square
+fo ot, making possible the compu tation of the weight of plywood built up of any combination
+of thicknesse and ven eer species listed and of any numb er of plies. The approxima te weights
+of two common water-resist ant plywoo d glues in ounces per squ ar e foot of glued surface are
+also given.
+It should b e r emember ed th at th e weight of wood is quite variable, and th at large differences from the figures are t o b e expected, particularly with small quantities of ma terial.
+E xample : T o ge t the weigh t of a squ ar e foot of 5-ply wood consisting of I -ply of 1/12 inch basswood, 2 plies of 1/ 16-inch b asswood, and 2 plies of 1/20-inch yellow birch for faces,
+at 12 per cent m ois ture, glued with casein glue.
+W eight = [(1 X 2. 64) + (2 X L 98) + (2 0 2.62)] 1.12 + (4 X 0.4) = 14.9 ounces.
+The example above is slightly in error through n eglecting the ch ange in volume b etween
+th e m oisture content at 12 per cent and the moisture list ed in the t able.
+TABLE
+
+3.- 0 ven dry weights of 'veneer of veneer of various speeies and thicknesses.
+[In ounces per square foot of I -ply; ven ecr thickness in inches.]
+
+Specific
+g ravity
+based
+on
+
+Species.
+
+Airdry
+m oisOYCDt u re 1/100 1/ 0 1/64 1/60 1/55 1/48 1/40 1/32 1/28 1/24 1/20 1/16 1/12
+1/10
+dr y
+con weight t en t
+and
+(per
+air- cen t).
+
+1/8
+
+1/6
+
+3/16
+
+1/4
+
+--
+
+--
+
+~~[
+
+uune.
+
+- ----- - - - - - - - -- 0.42 0. 52 0.65 0.69 0.76 0.87 1. 04
+.48 .60 . 75 .80 .~~ 1.00 1. 21
+.32 .40 .49 .53 .58 .66 .79
+.52 . 66
+2
+7 . 95 1. 09 1. 31
+.52 . 66 :82
+7 . 95 1. 09 1. 31
+
+Ash, b lack . .. . . ...... .. ......
+Ash, co mmercia l w h ite .......
+Basswood . .. .................
+B eech .. .. .. ........ .. ...... . .
+Birch, yellow .................
+
+0. 50
+. 63
+.63
+
+10.'1
+.9
+8.4
+11. 2
+9.6
+
+Butt ernut. .. .... . . .. .. .. ... . .
+Ceda r, Spanish . .. .. ..........
+Cherry, black ............. . ...
+Chestnu t . . ... .... .... ........
+Cottonwood (common ) . ......
+
+.39
+. 37
+.51
+.44
+.43
+
+7.6
+7.3
+9. 2
+8.6
+4.7
+
+. 32
+.31
+.42
+.37
+.36
+
+.3
+. ~~
+
+.4 l
+
+. ~~
+
+. 53
+. 46
+. 45
+
+.51
+.48
+.66
+.57
+.56
+
+.54
+.51
+.71
+.61
+
+.60
+
+- - - -- -
+
+-- -
+
+- - -- -
+
+1. 30
+1. 51
+. 99
+1. 64
+1. 64
+
+1. 49
+1. 72
+1.13
+1. 87
+1. 87
+
+1. 74 2. O~ 2.60 3. 47 4.16 5. 20
+2.01
+3. 02 4.02 4.82 6.04
+2.64 3.16 3.96
+1. 32
+2. 19 2.62
+4. 37 5.24 6. 56
+2.19 2.62 3.28 4.37 5. 24 6. 56
+
+6. 94
+.05
+5.28
+8.74
+8.74
+
+.59
+.56
+. 77
+.67
+.65
+
+.68 .81 1. 02
+.64 .77 .96
+.88 1. 06 1. 33
+.76 . 92 1.14
+. 75 .90 1. 12
+
+1. 16
+1. 10
+1. 52
+1. 31
+1. 28
+
+1. 35 1. 62 2.03 2.71
+1. 28 1. 54 1. 92 2. 56
+1.77
+2.65 3. 54
+1. 52
+2.29 3. 05
+1. 49 1. 79 2.24 2.98
+
+q~
+
+i: ~~
+
+~:?~
+
+n~
+
+3.25
+3.08
+4.25
+3.67
+3.58
+
+7. 81
+9.05
+5.94
+9.84
+9. 84
+
+10.41
+12. 06
+7. 92
+13. 12
+13. 12
+
+4.06 5.42 6. 09
+. 12
+3.85
+5.77 7. 70
+5.31
+7.97 10.62
+·1.58 6.10 6.87 9.16
+4. 47 ~ .9 7 6. 71 8.96
+
+Cypress bald . . . .... ... .......
+Douglas fir ( Washington a nd
+Oregon) ... ........... . .....
+Douglas fir (Monta n a a nd
+W yoming) . . . . . ... .. .. .. ...
+E l m , wh ite ....... ..... .......
+Guun, black .. . . ... .. .. . ......
+
+.44
+
+9. 0
+
+. 37
+
+.46
+
+.57
+
+.61
+
+. 67
+
+.76
+
+. 51
+
+6.2
+
+.'12
+
+.53
+
+.66
+
+. 71
+
+. 77
+
+.88 1. 06 1. 33 1. 51 1.77 2. 12 2.65 3. 53 4.24 5.30 7. 08 7.96 10. 6
+
+. 44
+. 51
+. 52
+
+9::
+7.2
+
+. 37
+.42
+. 43
+
+. 46
+. 53
+. 54
+
+. 57
+.66
+.68
+
+.61
+. 71
+. 72
+
+. 67
+. 77
+.79
+
+.92 1. 15 1. 31 1. 53 1. 83 2.29 3.05 3.66 4. 58 6. 10 6.87 9. 16
+1. 06 1. 33 1. 52 1. 77 2.12 2.65 3.54 4.25 5.31 7.08 7.97 10· 62
+. 90 1. 08 1. 35 1. 55 1. 80 2. 17 2.71 3· 61 4.33 5. 42 7. 32 8. 12 10.82
+
+Gum} cotton. '" .. . ... . .. _.......
+Gum, red .. . .. . . ..... .. ...... .
+H ackberry . ...... ..... . ......
+H emlock, wes tern . .... . ......
+Magno lia (evergreen ) . . . ..... .
+
+. 52
+. 49
+.54
+.42
+.51
+
+6. 1
+11.3
+9. 2
+
+.54
+. 51
+. 56
+.44
+.53
+
+. 68
+.64
+. 70
+.55
+. 66
+
+.72
+.68
+
+:~
+
+.43
+.41
+.45
+.35
+.42
+
+:. ~~
+71
+
+.79
+.74
+.82
+. 64
+. 77
+
+.90
+.85
+. 94
+.73
+8
+
+1. 08
+1. 02
+1. 12
+.87
+1. 06
+
+1. 35
+1.28
+1. 40
+1. 09
+1. 33
+
+1.55
+1. 46
+1. 61
+1. 25
+1. 51
+
+1. 80
+1. 70
+1. 87
+1. 46
+1. 77
+
+Ma hogany, Centra l Amer ican .
+Mahogany, African . ... . _.....
+Maple, s iI ver . . . ... ..... .. .. ..
+
+. 49
+.46
+.48
+. 62
+. 64
+
+7. 9
+.0
+8.2
+10.5
+10. 7
+
+. 41
+. 38
+.40
+. 52
+.53
+
+:;~
+
+. 65
+.60
+.62
+
+.68
+.64
+. 67
+.86
+. 89
+
+. 75
+5
+.70
+0
+. 73 .83
+.94 1. ?~
+. 97 1. 11
+
+1. 02
+.96
+l. 00
+1.29
+1. 33
+
+1.28
+1. 19
+1. 25
+1. 61
+1. 66
+
+1. 46
+1. 37
+1. 43
+1. 85
+1.90
+
+1.70 2. 04 2. 55 3.50
+1. 59 1. 91 2. 39 3.19
+1. 67
+2.50 3. 33
+2. 15
+3.23 4. 30
+2.22 2. 66 3.33 4.44
+
+.~~
+. 66
+. 37
+.54
+. 41
+
+11. 0
+9. 2
+11.4
+11. 0
+10.8
+
+. 57
+. 55
+. 31
+.45
+.34
+
+. 71
+.69
+.39
+. 56
+. 43
+
+.88
+. 86
+. ~~
+
+.70
+. 53
+
+1. 03 1.18 1..11
+. 92 1.00 1.15 1. 37
+.51
+. 6·1 .77
+.75 . 2 .94 1.12
+.57 .62 .71 .85
+
+. 39
+
+9. 9
+6. 1
+.9
+9. 2
+
+. 33
+.34
+. 32
+.42
+
+. 41
+.43
+. 40
+. 52
+
+.51
+.53
+. 49
+.65
+
+. 54
+. 57
+. 53
+.69
+
+.59
+. 62
+.58
+.76
+
+11. 8
+4. 8
+
+.45
+.47
+
+. 56
+. 59
+
+.70 . 75
+.74 ~ 79
+
+. 82
+.86
+
+MaE1 sugar " . . . ... . ....... .
+e,
+."
+
+Oa , commen ca I red . .. . .. .. .
+Oak, commorical white .......
+
+~~~: ~~~~~c~r~~::: : ::::: ::~ : : :
+
+Pine, shortleaL .. . ..... . .... ..
+P ine, wes tern yellow .. .......
+Pine, wtute ... . .. . ............
+Pop lar, ycllow .. . . ............
+Spruce, Sitka .. ...... .. ..... ..
+S ycamore . . . . . . . . ............
+T anguile (Phi li ppine mahogany) ..... ... . ..............
+W alnut, black ... _.. .. .. ......
+
+:~~
+
+.50
+
+.54
+. 57
+
+.50
+. 65
+. 67
+
+. ~~
+
+.83
+
+. 92 1.14 1. 31 1. 52 1. 83 2.29 3.05 3.67 4. 58 6. 10 6.86
+
+9.1 6
+
+:~
+
+.9 ~
+
+: ~f
+
+1. 77 2.02
+1.72 1. 96
+.96 . 1.10
+1.40 1. 60
+1. 07 1. 22
+
+.68 . ~1 . 1 02
+.71 . 85 1.07
+.66 . 79
+99
+. 871 1. 04 1. 30
+
+1. 16
+1. 22
+1 13
+1. 49
+
+2. 17
+2.04
+2. 25
+1. 75
+2. 12
+
+2.71
+2.55
+2.81
+2. 18
+2. 65
+
+3.61
+3.40
+3.75
+2.9 l
+3.53
+1
+
+~:~
+
+2.36
+2.29
+1. 23
+1. 87
+1 42
+
+4.33 5.42 7. 32
+5. 10 6.~0
+4.49 5.63
+3.50 4.37 q~
+4.24 5 .30 7.08
+
+4 .0~
+
+8. 12
+7.66
+8. 44
+6. 56
+7.96
+
+10.82
+10.20
+11 . 24
+8.74
+10.6
+
+4.Q~ 5. 10 6.80 7.66 10.20
+
+3.83
+4.00
+5.16
+5.32
+
+4.78
+5. 00
+6.46
+6.66
+
+6.38
+6. 66
+8.60
+8.88
+
+7. 17 9.57
+7.50 7.00
+9.69 12. 91
+9.99 13.3
+
+U!n~
+
+5.66 7.08 9.43 10.61 14. 1
+2.83
+1
+2.75
+13.75
+6 . ~~ 9. 16
+1. 54
+3. 85 5. 14 1~: ~~ 7.70
+2.25 ~: 9tl
+4. 49 5.62 7.49 8. 43 11 . 2
+1 71 2 13 2 84 341 4.27 5.69 640 8. 54
+
+UI n~
+
+1 35 1. 62 2. 03\ 2. 71
+1. 42 1. 71 2. 13 2.84
+1. 32
+1. 98 2. 64
+1. 73
+2.601 3 47
+.94 1. 12 1 40 1. 60 1. 7 2.25 2. 81 3. 74
+.99 1. 19 1. 48 1. 70 1. 98 2. 37 297 3.96
+
+U~
+
+3 25
+3 41
+3. 16
+4.16
+
+406
+4.27
+3.96
+5.20
+
+5.42
+5. 69
+5. 28
+6. 94
+
+6. 09 8 12
+6 40 8.54
+5. 94 7.94
+7. 82 10.41
+
+4.49 5.62 7 49 842 11. 20
+4. 75 5. 94 7.92 8.91 11 . 7
+
+1
+
+Weight of glue per square foot of single glue line, blood albumen ab out 0.3 ounce; casein
+about 0.4 ounce.
+
+I
+
+15
+
+DATA ON T HE DESIGN OF PLYWOOD F OR AIRCRAFT .
+EXPLANATION OF TABLE
+
+4.
+
+This table lists th e tensile trength of three-ply woo d of varIO common veneer specIes
+US
+and the approximate trength of single-ply wood. The strength figure, given in pounds per
+square inch, corresp ond to the moisture contents listed.
+Sample compu tation: T o obtain the ten ile strength of three-ply wood consisting of two
+1/20-inch bir ch faces and a 1/16-inch ba wood core.
+T ensile trength parallel to face grain =2x 1/20 X 19, 20=1,9 2 pounds pel' inch of ·width.
+Tensile strength perpendicular to face grain = 1 X 1/16 X 10,320 = 645 pounds pel' inch of
+width .
+This computation neglects the tensile trength of th ply or plies perpendicul ar to the
+grain, which is comparatively small, and th e results are therefore slightly in error.
+The mechanical pr oper ties of wood are quite variable, and the strength of individual
+pieces may b e expected to differ consider ably from the aver age values given .
+TABLE
+
+4.-Tensile strength oj plywood and veneer.
+Tensile
+Specific strength'
+Moisture gravity 1 Of3-ply
+Number content
+wood
+of tests. at test.
+~{,tdf EaralIel
+
+Species.
+
+o~ram
+
+of aces.
+
+Tensile
+strcngth'
+ofsingleply veneer
+
+I; (d) .
+
+-----Per cent.
+(b)
+
+~i~~\~~~~~~ci~i ~vh:i~e::::::: :::::::::::: :::::::::::::::::~::::::::: :::::::::::::::::::::
+
+(a)120
+
+Beech ..... __ ... __ ... . ..... ........ ... ....................... ....... ... ......... .. ....... .
+Birch, yellow ........................................................................... .
+
+200
+200
+120
+200
+
+9.1
+10.2
+9.2
+8. 6
+8. 5
+
+Cedar, Spa)lish .......................................................................... .
+Cherry· ...... . .. ........... . ............ .. ...................... ... .. . . .. ............... .
+Chestnut .. __ ....... .. ... ............... ..... __ .................. __ ...................... .
+Cotton wood' ......... __ ...................... . . . . . ..... ... ........... . ....... .. . . ...... .
+Cypress, bald ................... . ...... . ...... ............ .............. ..... . ...... __ . __
+
+115
+115
+40
+120
+113
+
+13.3
+9.1
+11. 7
+.8
+.0
+
+Douglas fir ' ..... ............... .... ........ __ ... . ...................................... .
+Elm,cork ..... . ......................... . ............................................... .
+Elm, white ...... . .. ... ... .. ......... ............... .. __ .. .... ... ... __ .................. .
+Fir, true 1 .. . ......•...••.......... . ...... . ..•• __ .•..•..•...•..........•........•.....•..•
+
+200
+
+65
+160
+
+GUlD S .... . ............................................................................. .
+
+(c)
+
+0.49
+.60
+.42
+.67
+.67
+
+Pounds per Pounds per
+square inch. square inch.
+(d)
+(e)
+
+6,180
+6,510
+6,880
+13,000
+13,210
+
+9,270
+9,760
+10,320
+19,500
+19,820
+
+.41
+.56
+.43
+.46
+.45
+
+5,200
+8,460
+4,430
+7,280
+6,160
+
+7,800
+12,690
+6 640
+10; 920
+9,240
+
+35
+
+.6
+9.4
+8.9
+8.5
+10.6
+
+.48
+.62
+.52
+.40
+.54
+
+6,180
+8,440
+5,860
+5, 670
+6,960
+
+9,270
+12,660
+8,790
+8,510
+10,440
+
+GUlD, cotton ........... .. ......... .. ......... .. ... ... . . .... ... ..................... ..... .
+Gu1ll,red .... .... . ...................................................................... .
+Hackberry .... . ........ . ................... . ............................................ .
+
+80
+1 2
+80
+119
+80
+
+10.3
+8.7
+10.2
+9.7
+8. 8
+
+.50
+.54
+.54
+.47
+.58
+
+6,260
+7,850
+6,920
+6,800
+9,220
+
+9,390
+11,780
+10,380
+10,200
+13,830
+
+~~~~~~~~; ~giil~~~:~e i,·.... :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+20
+25
+35
+120
+192
+
+12.7
+10. 7
+11 . 4
+8.9
+.0
+
+.52
+.53
+.~~
+
+:~~
+
+5, 370
+10,670
+6,390
+8,180
+10,190
+
+,060
+16,000
+9,580
+12,270
+15,290
+
+Oak, commercial red . . . ................. _...................... ~ ........................ .
+
+115
+195
+110
+40
+155
+
+9. 3
+9.5
+8. 0
+5.4
+9.4
+
+.59
+.64
+.42
+.42
+.50
+
+5,480
+6,730
+5,530
+5,720
+7,390
+
+8,220
+10,100
+,300
+8,580
+ll,080
+
+105
+121
+163
+llO
+33
+
+9.7
+.3
+9.2
+9.1
+7. 3
+
+.42
+.42
+.56
+.59
+.49
+
+5,650
+8,030
+8,250
+2,210
+
+4, no
+
+7,160
+8,4 0
+12,040
+12,380
+3,320
+
+ii:~g~~,.~v..~~~~n:: : ::: : :::: :::::: :::: ::: : ::::::::: ::::::::::::::::::::::::::::::::::::::
+
+M:~rr~!!l{~:~::::::::::::::::::::: ::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+
+f~~!~*I~:::~t::v:~:t~:.:.:.: ~ ~~ ~~ ~ ~ ~ ~ ~ ~~~~~ ~ ~ ~ ~ ~ ~~ ~~ ~ ~ ~: ~~~~ ~ ~ ~ ~: ~~~:: ~ ~ ~: ~~~ ~:: ~ ~: ~ ~~: ~ ~ ~ ~
+Redwood .................................................................••......••.....
+
+~~~~~b~~~~·.:::::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::::::::::
+~~~~~p~~fis~·.:::: ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+24
+
+, Spocific gravity based on oven-dry woight and volume at test.
+, Based on total cross-sectional area.
+, Based on as3umption that oenter ply carries no load.
+• Probably black cherry.
+'Probably (common) cottonwood.
+6 Coast type.
+, Probably white fir .
+s Probably black gwn .
+• Probably (evergreen) magnolia.
+10 Probably Khaya species.
+II Probably tangu.ile.
+"Probably silver maple.
+" Sugar or black .
+Data based on tests of 3-ply panels with all plies in anyone panel same thickness and specIes.
+
+o
+

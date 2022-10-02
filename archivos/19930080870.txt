@@ -1,0 +1,1339 @@
+-FILE copy
+
+NO .
+
+\-w
+
+1
+
+Ti!:CaNICAi. KOTES
+
+NATIONAL AD7I20RY COl:UTTEE 70S. AER01'lALJTI CS.
+
+•
+
+n~
+~
+..=s
+
+No . 40
+
+EFFECT OF T:1E RSV-SF,SAL OF-.b l n F 1.0·'v
+
+UPOl~
+
+THE DISCiiARGE
+
+COEFF I:] IE NT OF DURLEY ORIF I CE S •
+
+By
+
+M3.r sden l.1Jare)
+Lc:.,ngley I:er.i0r ial Aeron.al..:.ti Gal Labora-c ory ,
+La ngley Field, Va .
+
+f"'Q;
+
+t....
+
+.. -
+
+:;;t
+
+\0...
+
+I
+
+t
+
+February, 1921.
+
+.......
+
+~
+
+~
+
+:7-" ''''
+
+NATIONAL ADVISORY COMMITTEE FOR AERonAUTICS,
+TECHNICAL NOTE NO. 40 .
+EFFECT OF THE REVERSAL OF AIR FLOW UPON THE DISCHARGE
+COEFFICIENT OF DURLEY ORIFICES,
+By
+
+•
+
+:,iarsden Ware)
+Langley Memorial Aeronautical Laboratory ,
+Langley Field, Va .
+
+~ntr oduction.
+
+In lay ing out apparalius for the la.boratory testing of
+superchargers for aircraft ' eng ines ali the Langley Memorial
+Aeron~utical
+
+LaOol'atory, i t was found most cOi.1V enient to
+
+rr.easure the air on the inlet side by drawing the air from
+the atmosphere through thin pla- orifices at lOi-V" veloci te
+ties into a box and thence t hrough a thr ottle into a large
+re servoir which in turn ',-,ras in free communicat ion wi tb. the
+supercharger .
+
+The crifice coefficients for this condition
+
+were unknown, as the desired type of orifice had been calbrated with the flow from the box into the atmosphere, instead of the reverse direct ion which would obtain with this
+apparatus .
+
+The presen~ experiments were therefore under-
+
+taken in order to
+
+obtai~
+
+information re garding the rela-
+
+tionship between the coefficlents for flow in the two direct ions .
+
+•
+
+- 2 -
+
+Method.
+The apparatus used for these experiments is shom diagrammatically in Fig. 1.
+
+When the flow
+
+1JilaS
+
+fror:; 4 to I
+
+(s ee F~g. I ), the blo ~re r maintained ~n air pressure of about
+5 II Hg. in the large tank, which
+
+~'JaS
+
+throttled into the small-
+
+er tank and led j.nto the orifice box through a restricted
+passage forced by a short
+air through the box
+
+i"1a.S
+
+le~gth
+
+of 1/2" pipe.
+
+The flow of
+
+thus freed from the pressure pulsa-
+
+t ions that existed at tbe blo'v\'8r.
+
+Runs With the flow from
+
+1 to 4 (see Fig. 1 ) were macle by reversing the blower, and
+consequently the air direotion, by reversing the direction
+of rotation of the driving motor .
+The method
+
+follo~ed
+
+was to take a series of observa-
+
+t ions with the flow from 4 to 1, and then to take another
+similar series with the direction of air flow reversed and
+the orifice plates inverted in their places .
+
+With each size
+
+orifice runs were made With the flow in both di rections such
+that the pressure drops over the reference orifice, and consequently the rat i os of pressures on the two sides of this
+orifice were very nearly identical.
+
+By invertin6 the orifices when the di rection of flow
+was reversed the effects of inaccurate orifices were eliminated, since the air always flowed through each orific e in
+the same r e lative cirection.
+
+As the orifices were very care-
+
+fully made, this pre caution was
+Change
+
+v~s
+
+al~ost
+
+superfluous, but the
+
+easily m
+ade and it removed all possible suspicion
+
+•
+
+of error
+
+d\~e
+
+,..,
+,)
+
+-
+
+to o..ny trregularities in the orifices •
+
+Considerable difficulty was experienced in securing
+steady air flow, and the apparatus
+
+~~s
+
+modified several times
+
+before a satisfactory degree of steadiness was obtained.
+Readings were not taken for record unless the range of osci11ation of the meniscus in the undamped manometers was less
+than 0.4 of 1% of the tead.
+
+The
+
+fi~a1
+
+data consisted of not
+
+less than four Bets of rAadings, for each obtainable combination of the three orifice sizes with four pressure drops,
+in addition to a number of
+
+r~ns
+
+made for check purposes, mak-
+
+ing a total of mrer one huncired sets of readings.
+therefore believed that
+
+t~e
+
+It is
+
+field was satisfactorily covered
+
+for t1:.e range intended and that the data is truly representative.
+As the ratios of pressure on the two sides of the reference orifice> and consequently the coefficients of' dis-
+
+,
+,
+
+Charge, were very nearly the same for flow in both directions, a direct means of comparison
+
+v~s
+
+obtained .
+
+When the
+
+flow was from 4 to 1, the amount of air passed could be computed by asing
+
+kr~own
+
+coefficients for the standard orifice.
+
+From this, the coefficients for the reference orifice could
+be determined.
+
+By usj.ng these reference coefficient s w
+hen
+
+the flow 'n as reve rsed, the coefficients for the standard orifice could be obtained for the reversed flow,
+
+~
+
+procedure
+
+which w correct because the box and baff:;"es 1,Iv ere symmetrias
+c~l
+
+\rith respect tc the refere nce orifice.
+
+Ho ~ever,
+
+as only
+
+- - - -------
+
+~ ~--
+
+- 4 •
+
+the ratio betwe e n t'e cOcfficieLts for the standard orifice
+under the two conditions of flow
+
+VB3
+
+desired, the int ermed-
+
+iate steps of deterrJining the coefficients for the ref'3reYlce
+orifi ce were elirr.inated.
+this work
+
+~ere
+
+The standard orifices
+
+use~
+
+in
+
+like those reported by R . J . Durley in Vol .
+
+27 of the Transactions, American Society of Mechanical Engi-
+
+neers .
+The follow:n s
+
+nota~icn
+
+is used throughout the ensuing
+
+cii scussi on:
+WI _. weight of ai::' flowil g in Ibs . per se c.
+
+e
+
+= orifice discharge
+
+d
+
+=
+
+coeff~cient.
+
+orifice diameter in inches.
+
+i = pressure d.rop across orifice in inches of
+T - absolut e
+
+temperatu~e
+
+v~ter .
+
+F~hren~eit .
+
+in degrees
+
+A = orifice area in sq . ft .
+K = ra-cio of specific hee.ts)
+
+(1 . 406) .
+
+Qh:.:pressure on high side of orifice in l'os. per sq . ft .
+~
+
+=pressure on
+
+10","1
+
+side of orifice in Ibs . per sq . ft.
+
+P = pressure in Ibs . per sq.ft.
+B
+
+= barometric pressur0 .
+
+D
+
+= density in Ibs . per c1;.. ft .
+
+Subscrii.:t
+~hile
+
+r
+
+s
+
+is
+
+v.sed to refer ·cc the st::mdard orifice
+
+is used for the reference
+
+are use d. when
+
+t ~'l 8
+
+o~ifice .
+
+Pri~ed
+
+flo ",v is from 1 to '± ·.7hile unprimed letters
+
+are used for £10,-' in tte reverse direction.
+~or
+
+his
+
+l e tt e rs
+
+orif~c e J
+
+Durley dev eloped
+
+t~e
+
+formula:
+
+-
+
+--
+
+-----~-----...-...---- --~
+.
+
+- 5 -
+
+•
+
+:7 =
+
+I
+
+c
+
+. 6293 d.8
+
+.
+
+, 1
+
+1_
+
+,,! T
+
+For tbe r e ference orifice, use was nade of the theore t iCd.l fOTr.1Ula:
+- - -. - -
+
+- - - - - - - - - - - - - - -- -- ---- -
+
+-- -
+
+Then under condition of flow fro:n -1 to 1
+
+for tte standard
+,
+HR
+
+=
+
+a nd
+
+o~ific8,
+
+.
+
+OR AR
+
+J
+
+/
+
+K
+
+13g - - P
+
+K-l
+
+~
+
+4
+
+r
+
+IP ,-
+
+D
+
+for ttl'" reference orifice .
+
+_ 3) K
+2
+
+~P
+
+4
+
+)
+
+-
+
+W
+hen the floN is from 1 to 4
+
+,r
+
+\JR
+
+for the
+
+1
+
+_
+
+-
+
+C
+
+/
+R
+
+1
+
+.
+i
+
+refere~ce
+
+R
+
+1
+
+J
+
+/
+
+2
+
+I{
+
+g X-I
+
+P
+
+D
+
+1
+
+3
+
+orifice, and
+/.
+
+\if s
+
+1
+
+=
+
+CS
+
+1
+
+1
+
+3
+
+.6299 (d s
+
+1)
+
+8
+
+/
+I
+
+tV
+
+1
+
+lo
+
+-:::,-l
+1
+
+S
+
+f or tte standard orifi ce .
+Then 4iv~ding equation (2) by equation (3)
+
+1
+
+'R
+
+also by divLiirlg equatior. (1) by equation (4)
+
+(2 )
+
+- 6 -
+
+,«;
+
+\ \.L s)
+
+=
+
+I
+
+"
+
+f.:j
+
+'
+
+f.
+
+J. 8
+
+,J -m-,::;-
+
+-----
+
+- ::>
+?
+
+;
+
+i
+
+'T'
+
+-
+
+1
+
+C 1 . 6239 ( d 1); / ~
+
+s
+
+'
+
+S
+
+/
+
+"
+
+= l'l.R_
+1
+
+lIT"' == ';1 Sl A:c
+'
+~t
+. l
+
+p rac'tic a:ly equal t o
+
+-8
+
+,
+
+=
+
+a. s
+
+.
+
+a.~
+
+1
+
+;:,
+
+CH I .
+
+--- ---- -~---- - ------------- - --------- - -
+
+/
+
+1
+
+C
+;]
+
+Cs
+
+==
+
+J
+
+I
+
+/
+
+I
+
+I
+
+r (:2
+.
+I
+
+/
+P
+
+3
+
+1
+
+D
+
+I
+
+:J
+
+;
+
+T~
+;:,
+
+'- s
+
+1
+
+~
+
+/
+PIl.
+
+D?
+
+is
+
+1
+
+T~
+;:,
+
+2
+
+)K
+I ( _4_)
+(P 1
+I , 3 J
+I
+
+(~
+
+I )
+
+(p
+
+)
+
+~p>;
+
+,
+
+f(p
+I( ?
+~P)
+3
+
+I ,- 4
+
+L
+
+2
+~(
+
+1 '0
+
+l
+
+,. J
+J
+
+( 5)
+
+Tr
+Z+l
+
+I
+
+i~
+
+(~ )
+~
+
+K:~l
+
+'
+
+'" 4, i
+
+Sinc e consicierable t irr.e occ as ionally elapsed be t ween
+c or re spol1d:ng r"C..ns w:.th o)p cs i ~e di ::ect ions of flow
+
+d ' ffer-
+
+J
+
+er-ce;] iYl i1i r densi tie s c ::t used by d i fference s in air t ea,peratures a~~ pressure s should be cons idered .
+takes into
+
+ac~ount
+
+E1uation (5 )
+
+temperature differenc ec but the factor
+
+. E:399 in Durlej-- I s equat ion is depe ndent upon a constant pre s
+
+sur3 of 31 17 ?ounds pe r square fcot ,
+e~uation
+
+( 5) is re p laced b y
+
+Ds
+D 1-
+
+Consequently
+
+T 1
+Ts
+
+_s_
+
+in
+
+in order to allo w for preG-
+
+S
+
+sure chanGes , givlng for the f i nal forffi of the rat i o
+
+~.
+
+..,
+I
+
+.-
+
+Orifice s of th:cee d.i.ffe rent diamet e:::s, 1 T!, 1/2 T! and
+~/
+- l' 'o~ \I 'rr·ade
+"-'
+
+O-.L~
+
+al '
+.... u:':_.!'"lu,m i:J 1 a:;e
+
+/Ve.L'e
+
+'
+useu.
+
+The standard ori-
+
+fices were burr_ished \";-i"t1: plugs within . 0003 11 of size .
+
+No
+
+plate of "the standard D',uley thickne ss (0 . 05'7T!) be :'ng avail a"ble) the orifices vvere made of 1 /l6 T! plate ; w1:ioh
+
+~7aS
+
+t1:en
+
+machined to the standard tl:ic'£;.n6ss fel' a distance of about
+1/2" fror.-. the orifice edge .
+
+'1.' he reference orifi8es were very
+
+carefully bore d in 1/16 11 aluruinu:J plate .
+very close to
+
+-~hose
+
+Their sizes were
+
+of the s"tandard orific es but were not a c-
+
+curately dete=mined as :he ab solut e sizes
+
+~ere
+
+of no con-
+
+sequence .
+The b ox wU.s Yilade of 7/ST! maple and the inside dimensions
+were 4 11 :\: 4" ) giving a :'at io of box area to orifice area fol'
+the 1" or:"'fice of some'.vhc4t over the 20:1 recomrr:ended by Durl ey .
+
+Rubuer
+
+e~1Sl.i.re
+
+.
+
+~as
+
+~t8
+
+were placed a j acent to the or ifices to
+
+ai r t ib.ht j oir!t s ',I1"1e n
+
+the four bol:s running its
+
+tl~e
+
+8n~ire
+
+'oox was pulled together by
+:eLgth .
+
+Wire scree ns iliserte d as sho ',vn on the sketch, served to
+dii:use uhe
+
+a~r
+
+st=e&m discharged by the orifice and t ended
+
+to make the veloci ty
+
+un i~orm
+
+across the box before the next
+
+or lfice ,vas rea.ched .
+The pre saure d rops '·ve re measur e d by a lcohol m(J.nometa rs
+of
+
+2"
+
+type
+
+ences .
+
+~ifhich
+
+is ser_sitive to very slight pressure dif fe r-
+
+~ ver~ical
+
+scre~
+
+carries a short inclined glass tube,
+
+one end of Rhich is connected by rubber tubing to an alcoho l
+
+- 8 reservoir.
+
+Ii zero reading is take!"l by observing the height
+
+of 1;l.1e tube, as i11d.ica1;eci by a mi.Jl'crneter head. on the sore iV,
+'1::.t~
+
+',";lleL t:18 menic'.., i ,,_ tee tube 0oincid.es
+thereon.
+
+a reference mark
+
+The pre3sure drop is determined by the difference
+
+'0"3[, ileen t~:..s ye8 .di~ lg
+
+and a reac.ing
+
+simll~rly
+
+obtained after
+
+e18 free end of the inclined tube and 1;he top of -:;he reservoi r are
+
+con~1ected
+
+by r'ubber tube s wi tl1 the pOint s bet ween
+
+.vhlch tile drop is depired .
+
+3s~ i ~.ating
+
+B:!
+
+t;J the tenth of a
+
+division on tl e micromet"'r head 3.t the top of the screw , readings could 03 r.lade to ',7ithin .00J5 11
+
+•
+
+Hor.ever, slight fluctu -·
+
+ations in pressure preve nted such precision in the readings
+taken durjng these experiments.
+The manometer connections at the box c onsisted of brass
+tubes inserted through the side of the box and flush with
+the inside
+~e~cury
+
+surfac~.
+
+cfiemica]
+
+Tempera'cure s :7ere obt ained by bare bulb
+
+~her~;J~eters
+
+inserted through the sides of
+
+the box 1.7el:::' into the a:;'r body .
+
+7he thermometers vvere grad-
+
+uated to 1° 3' .
+Results .
+Fig . 2 sho'f's the results obtained .
+as a fIDlction of the head across
+
+t~e
+
+I~
+
+plotting
+
+orifice, the curve s for
+
+the 1" and the 1/2'1 orifices a!'e d.e finite l y determined .
+For t h e 5/16 11 orifice , hOviever, th 3 points determine a curv3 ,
+shown by the dotted lineo, which ib not only inconsistent
+iuth both ctn8r curves but also not in accord lnth the natur~l
+
+expectat~on .
+
+Conse quently a curve has been dravID imich
+
+Cl:.l'VtJE fo:;: th~ J /2 11 ond In 0:-.:.fic3 .
+
+The li~ited nUrJ'ber of
+
+cheok-·rU::1S pOds:'..ble ciid
+
+~10t
+
+a!lprec iably al te:::- any of tl1e
+
+poi.nts sho:m fOl' an:: o£
+
+~t.e
+
+curves 2,:ld the reasons for the
+
+a?~Fl.rent
+1:0
+
+i.nco:'1sjs"t<;ncy of the J: ,Oi:lts for the 5/16 11 curve are
+
+t kno Wll.•
+~'ig .
+
+Fr0m these curves
+,.,,, f.. llC.l.en t
+~. .
+
+V'A~
+
+r~,
+
+2 was ot>tained .
+
+cs 1 as a ..unct20n o f·
+. c' •
+Os
+
+t '20
+.
+
+li h
+
+oJ.
+
+This sho:vs the
+
+e ro. t io __ b ox_ar 8 a__ .
+orifice area
+
+Err-rs.
+The equ2.t:on used a s suznes the equa::'ity of
+Wnile this is net absolutely true
+
+v: 1ir~ f10 ',7 in one
+
+direct~on
+
+i
+
+i:l
+
+J
+
+CR
+
+i
+
+and CF\. '
+
+since the preSS"llre ratio
+
+not abEolltely the same as
+
+lin th
+
+flow in the 0Pfouitc direotion, the ratios were so nearly
+al:l~e tlk;,t it is quite pl'obable t:::at the ratio of CR
+o~
+
+1 : 1 as used
+
+dO~8
+
+not
+
+~iffer
+
+frOD
+
+t~e
+
+1
+
+to CR
+
+aotual ratio by more
+
+than . 03.'. of l~.
+T:1e te:"!lpcratu.::es as obt.J.ined were used to determine the
+densitie c of the air i~side tee bO~:J thLlt is, 'D3 i
+
+and D4
+
+in tl:e formula .
+T~e
+
+therwo~eter
+
+sistent, a
+solutely
+
+re~dings
+
+oonsidel\~.tion
+
+sati~faotory
+
+appeared to be somewhat inoon -
+
+of 1i1:e oonciitions leading to no ab-
+
+ex~lanation .
+
+As the thermometers
+
+1:ero inse rt . . d :in the ai_ stream whi oh had some, although very
+little, velooity past the bulb, the readings obtained may
+jiffer slight y from
+
+t~e
+
+true temperature of the air, suoh
+
+- 10 ~mld ~e
+
+ab
+
+given oy a
+
+ity a3 the air) due
+:'.. 8
+
+~o
+
+th~rcome~er
+
+moving at the same veloc-
+
+the effects of impact and eddies .
+
+hardly probable) nowev8r, tnat this effect is very
+
+It
+
+COi'l-
+
+sideraule , espe.:::ially as t:lere was little opportunity for
+-'-he jets to impinge d.irectly
+
+0~1
+
+the "thermometers.
+
+'rhe tempera-:ur3 "Jhanges ob3erved do :::l.ot
+
+cor~'es~)ond
+
+to
+
+tLose of ajiabati0 expansion as determined by the relation
+(p)K,:-l 'I = cons·~ar"t, being very r,1aterially smal:er .
+
+It is
+
+evident frolu t:1is fOl'rul.J.la th&..t the exponent of the ratiO
+of pressure of . 29 riil: res'0.1t i n temperature ratiOS much
+nearer unity tha:1 the ccrresf-0nding
+of this fact and because
+
+t~ e
+
+press'~re
+
+ratiOS .
+
+Beca'.lse
+
+actual temperature changes are
+
+less than those of adiabatic expansion the temperature r a tiOS
+will
+
+~e
+
+very much nearer unity than the pressure ratiOS .
+
+Since the densities enter the final equation as a ratiO of
+·~he
+
+density of the air inside of the box to that outside,
+
+t~e
+
+temperatures and pressures which determine the densities
+
+enter as rat:.os and the effect of temperature s on the result
+will be very consideraoly less than the corresponding pressures .
+The temperature changes observed were quite small and
+it is thought that any error that n:ig ht re sul t from the ir
+u s e is v e ry small
+
+~ndee~;
+
+difficult to obtain.
+
+tnough a nume rical estimate is
+
+In a ny case, the difference bet~een
+
+temperatures corre spondin g to adiabatic expansion and the temperatures actually obtair..e d would give an error in the temp-
+
+.. ' 1.1 ."
+
+eratvres which in the ',vo::st ce,se '.'leuld not exceed . 7 of 1 %.
+CO ';1puta'~
+
+ions , of cOr:1plete runs w
+here the difference bet ween
+
+adiabatic tempf ratur es and the observed temperatu:-es a:'e
+greatest, result in a ,jaximum difference of . 002 in the ratio
+C 1
+of __
+s_ by using :irst adiabatic anj ~hen observed tempera-
+
+Cs
+
+ture s.
+
+1\.8
+
+the re suI t is affected s o little by asing temp-
+
+eratures probably much greacer in error than those observed
+it is thought that the e rror due "'vo using the observed tempera ture readings is ve:::-y small indeed .
+sence of a real value of the error in
+
+Howeve r, in the ab ~he
+
+temperatures, . 7
+
+of 1% nas beel taken as the maximum possibl e error, a1though it is highly probable that this is much larger than
+actually existed .
+The pre ssure readings were in all case s correct to wi th in J.ess than . C2" alcoi.101, resulting in a ~ o ss ible error of
+less than 2 .0% with a 111 d.ro:;J over the orifice.
+
+From consid-
+
+erations of the limitat ions of the a ppar atus and of the ~ethod,
+the maximum possible error pr obably does not exceed 3 . 2% with
+the 5/1 6 11 orifice at the cne inch head and 2 . 7% with the 1"
+orifice at the six and one-half inch head.
+computations fl"Oill the observations of the probab l e error
+of "'vhe ratio esl to Cs resL:.l t
+
+in . 47% for the 111 orifice at a
+
+six and one - half ;inch head. and .08% for the 5/16" orifice at
+a one inch head .
+ficient obtained
+
+It is ~hought that the rati o s of the coefreliable to within less than
+
+110 .
+
+Conclusions.
+The
+
+~esults
+
+indicate that the ratio of tho orifice dia-
+
+ctarbe cOefficient frcm standard orifi ce C s
+charge coefficient
+
+f~om
+
+1
+
+to the dis-
+
+reverse flow C s is al ways less than
+
+unity , but approaches uni"ty v.'ith increasing ratio of box
+area to orifice area, and that even for a ratio of areas as
+low as twenty "the
+
+ra~ics
+
+less than unity.
+
+It is probable, however, that v
+vhen the
+
+of the coefficients is not much
+
+ratio cf ~ox a~ea to orifice area is much less than twenty
+the ratio of
+ed .
+
+Sin~e
+
+disc~arge
+
+for the
+
+coeificients would be greatly reduc-
+
+g ~eater
+
+part of the range of these ex:er -
+
+irl:ents the discharge coeff::'cient is not reduced by !!lore than
+one per cent by the reversal of flow, and the probable reliability of Durley's experiments is of about the same order,
+it a9pears that the reuuct ion of discharge c aused by reversing the dire ct ion of flow could be properly neglected in
+a ll but the
+
+~ost
+
+accurate testing when the ratio of box area
+
+to orifice area is greater than 20 :1 and the pressure drops
+across the orifice is limited to 5" :vater .
+

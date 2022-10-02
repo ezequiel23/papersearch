@@ -1,0 +1,286 @@
+-
+
+• SZ 52035
+TECEN leAL NarES.
+
+NATIONAL ADVISORY COMMITTEE .:FOR AERONAUTICS.
+
+No. 35
+
+THE OPT lCAL WING ALIGNING DEV ICE OF THE
+LANGLEY FIELD TUNNEL.
+
+By
+F. H. l:orton and D. L. Bacon,
+Aerodynamical Laboratory, N. A. C. A. ,
+Langl~y Field,
+Va.
+
+January, 1921.
+
+,
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS
+TECHNICAL NOTE NO . 35
+THE OP'2:'ICAL WING A LIG~I l'JG DEV ICE OF
+THE LANGLEY FIELD TUNNEL.
+By
+F. H. Ndrto n and .D. L . Bacon,
+Aerouy ndlulcal La Dur.at ory, N. A. C. b. .,
+Lani!.ley. Field., Va.
+
+In conducting tests on aerofoil models at the Langley
+Memo rial Aeronautical Laboratory, the technical staff of
+the Natio nal Advisory Committee for Aeronautics have
+
+d ~ v~s~d
+
+the follo;ving conve nient and accurate method. of aligning
+the wing c hord with the air flow.
+This device has been developed to permit rap id and a c curate alignment of aerofoils and models
+•
+
+passing tnrough the tunnel.
+parts:
+
+Id th
+
+"the air stream
+
+It consi st s of thr ee main
+
+a projector, a reflector and a target, and these
+
+parts are arranged as shown in Figure 1.
+
+The p rcjector is
+
+mounted at the same height as the axis of the tunnel and
+projects a beam
+
+throu~h
+
+a vertical slit and l ens against a
+
+narrow mirror clamped to the c110rd of the aerofoil, fron:
+which the beam is reflected back to a target, consisting of
+a white ground on which is ruled. a vert ical l ,ine , x.oun ted
+directly below the projector.
+
+I: the chord of a wing is
+
+correctly a ligne d with the air stream the projected band of
+•
+
+ligh~
+
+~i ll
+
+be superimposed
+
+u~on
+
+the black line of the target .
+
+-
+
+A movement of the
+reflected
+
+bea~ t~o
+
+.8 -
+
+~irror
+
+degrees
+
+of one degree, deflects the
+
+~itn ~
+
+resulting displacement
+
+on the target of Stan 2i, S being
+
+t~e
+
+distance
+
+mir-
+
+ror and target aLd i the angle of
+
+movemen~
+
+The defleo-: iO:1
+
+to as low as 1/50 o f an
+
+easily be
+
+r~a~
+
+of
+
+bet~een
+
+~he
+
+wing .
+
+inch and as 1 0 movement of the WiDg gives about 2 inch deflection on the tar:?;et,
+
+~;:;
+
+is obvious that the correspond.-
+
+ing error in cnord alignment need not be greater than 1/100
+•
+
+of a degree .
+The actual
+
+of th3 individual parte is
+
+const~uction
+
+shown in Figures 2 and 3.
+
+The illuminator, a concentrated
+
+filament nitrogen filled bulb, is rr.ounted in COEmon with
+the slit, lens and target on a
+
+si~gle
+
+cast
+
+base
+
+iro~
+
+~hich
+
+slides on horizontal iron ,,;ays bolted to the wall of the
+experimental chafuber.
+
+Th~s
+
+permits the entire device to
+
+be moved fore and aft to acco:umod.ate various locations of
+the mirror inside the tunnel .
+the
+~ays
+
+instr~ent
+
+for, as
+
+Rill rema in
+ular t
+
+Obvio1..<sly the accuracy of
+
+does not depend on the alignment of these
+
+lon~
+
+as thay are straight, tne projected beam
+
+~ara:lel
+
+to ita
+
+the air dtraafu.
+
+i~iti~l
+
+Aujustment
+
+~csitioL
+~f
+
+~erpendic-
+
+Gr
+
+the zero pcsiti0n is
+0\
+
+•
+
+\
+
+!Lade by changing the lateral pusition of the s..:..it until t.he
+lif"t d.rag values obtained frof:_ the san.e aerofoil n-olL.'1ted
+,
+in erect and inver"Ged pos::' tion on t;he balance shof; "the same
+magnitudes at equal indicated angles of incidence .
+
+•
+
+The
+
+- .3 -
+
+mirror may be t i1 ted ir. it s clarnp about a horizontal axis,
+allowing it to be used in various positions along the span
+of the aerofoil if
+against the
+~irror
+
+targe~.
+
+90
+
+ciesired, and still reflect the beam
+This axis is set horizontal when the
+
+is clamped to the wing, by the aid of a small spirit
+
+level buil\:; integral with the cla::uping d.evice.
+This arrangement has preven satisfactory in operation
+and is far
+
+,
+
+~ore
+
+expeditions than
+
+~he
+
+old method of
+
+s~ghti~g
+
+across a long batten, as the operator of the balance may
+see the target and dJ.rectly j·:..l.d€;e of the accuracy of his
+aligrment .
+
+Whe:-eas the old method required two opera"tcrs
+
+and. several rr.inute s ' t i me to align
+
+wi thin 1/10 degre e ,
+
+"GO
+
+this method enables one operat or to align a wing to within
+1/100 of a ciegree in a few seconds.
+the advantage of being able to
+
+This method also has
+
+meas~re
+
+the angle of the
+
+wing while the tunnel is running, thus showing
+gle of inCidence.
+
+~he
+
+true an-
+

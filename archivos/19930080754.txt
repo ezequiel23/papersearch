@@ -1,0 +1,1370 @@
+J , ““w
+V.,
+
+*
+
+:,
+
+,
+
+.—-w.. .,”,<~e,,,.,,, ADVISORY COMMITTEE FCR AEROifAUTICS,
+.,,.,NATIONAL .-*.
+,
+-*’,.
+--..
+,.,
+,,.,.
+,,
+1,
+,,
+
+,TE(X-MIC!AL
+MEJ!ORANDWL
+w
+
+@. CJ.JLATION WING SPARS.
+L
+OF
+By
+H. M~ller-Breslsu.
+
+Translated from
+“Zeitschrift ffirFlugt”echnik
+und Motorluftschiffahrt
+~’~
+.@ril 30, 1920.
+
+FILE
+returmlh
+
+—
+
+———
+
+.. ..
+.-.
+
+1~”
+f’
+
+—
+
+—— —
+
+—
+
+I Illllllllllllmmllml
+I
+1)i‘–-31176014399944....~
+CALCUL.YI’I OF ~vINGSPARS.
+ON
+-—-—---—...—.
+– .
+.—— _
+\
+
+,.
+
+By
+
+M&ller-Breslau.
+,,.
+
+,..
+
+.
+
+,, .,.
+
+,, .,,,
+
+....
+.. ..
+.
+.2)
+In the same issue of this magazine, Mr..Ratz&rsdorfer
+refers
+
+to
+
+my article in the October, 1919$.
+number and ‘l&adsme to
+
+CCQ are and combine the nwnerical and geometricd. determinations
+of the maximum M.
+The object of my 191S articld, which ;-:as
+inspired by Mr.
+Pr~ll, was the simplification, not only 0$ the approximate but
+e,
+also of the exact calculation of the maximum bay moment, r~hereby
+especial importance is attached (even with a very low Euler
+
+safety
+factor) to the rapid and accurate calculation of ~ =HZ E J/S Ss .3)
+The geometric representation of tilebay moments consists in
+
+multiplications, prescribed by formulas, of lines with circular
+functions. Mr. Ratzersdorfer starts mith the formulas in my
+4)
+Wraphische StatikJ‘awhich have often been given in this magazine.
+I will now use formulas developed in my 1919 article, p. 200.
+From ‘:eitschrift f~r Flugtechnik und Motor
+Z
+luftschif fahrt,‘1
+APril 30, 1920, pp. 102-105.
+2
+See N.A.C.A, file 1116.2-67.
+3 1 The case of lower values of r is especially important, since
+it is customary in airplane construction to calculate with
+loads near the breakirw strerwth.
+I will soon gi~e a-reportwon.
+the experiments which support this r~ethod. They were made, according. a plan worked
+to
+out by myself,
+in the Prussian rtaterial-testing
+office, fot
+both bending and breaking, ~tit two bay noeden spars furnh
+former ‘IFlugzeugmeist
+ereilI(Aircraft Inspection
+,,. , ish@ by ,,~he
+and Engineering D&p&m6nt ): ‘
+‘--~‘
+~~~
+~~
+4)
+IlzurT’neori~der Biegungsspwnunge~. in
+;:h::;;t;~:;;at ~:: the “Theory of Bending Stresses in Truss
+Girders)’,Allgemeine Bauzeitung, 1885.
+1)
+
+. .. .
+
+—
+
+r
+
+‘___
+
+“L
+
+1.
+Ftom the formula
+
+.... -. ,.. -- —,-m...
+.
+
+..
+
+.
+
+..
+
+. . . ,, ..,..,,.
+
+,,-,.
+
+,
+
+for the moment at the dist~ce
+
+.. . .. . ,.,
+..
+.
+& from the ““middle f the bay
+o
+
+(Fig. 1), it directly follows that
+
+M + g k2 (Fig- 2) can be rep-
+
+resented by the projection”a ~d of the’right angle abc;
+formed by
+
+Cl and Ca,
+
+on a straight line whioh, with
+
+C*,
+
+in-
+
+closes the angle
+,------“L=aL
+0 =
+k
+
+a=s
+
+s
+
+/E
+
+J
+
+A/
+
+It follows from the formulas
+C2 =
+
+MA - MR
+
+=—; (MA - MB) cosea ~
+
+2 sin ~
+c1 = D sec ~
+D=
+that
+b~’
+
+thrwgh
+
+Ca and Cl,
+
+= ~ (MA - MB)md
+
+gk2+
+
+* (MA + MB)
+
+their projections
+
+WIT=D
+
+are determined on a straight line whidhz with
+“lx
+1)
+angle,
+
+C ~~ forms the
+
+.5”
+
+: K&nost without exception ~=.
+.,.,
+
+will now be required. It
+
+the??
+:Uf,f}.ces, .1,)the right angle triangle a b c whose hy,todraw
+,
+,,.
+,, .,
+..,,,,,
+,./
+potenuse ~
+
+gives the value
+/
+g
+
+kz +
+
+%nax.
+
+1) M ad MB are positive when} according to Fig. 1$ they act in
+h e sam direotion as g. In my 1919 articlq in agr:emqnt
+~i&rn~:8
+,~ls I represented. MA and MB as pm ~~ive :rel levmg
+—
+
+,
+
+F’
+
+.
+
+.
+
+If the absolute value of’zk,sz.~~gl.e a b is greater than ‘L
+c
+z
+,
+then MULa. equals the g~eate~ of the end mome,nts MA and MB.
+,,
+
+.-. ,,...,
+
+F.ormulas (16)... .(.17)
+and
+-onp.200 (1.919)
+can be combined into
+
+the following formula
+-----
+
+M max. =
+
+-= ----
+
+-----
+
+--—
+
+“C2+’02-g.ka
+2
+2
+
+. . . . . ..
+
+/’
+
+which may also be obtained from Fig. 2.
+
+USti&lly Mmaw
+
+(I)
+
+lies so
+
+near the middle of the bay> that we may write
+%eX.
+
+‘Cl+$
+
+in sgreement with formulas
+icle.
+
+-gk2
+
+. . . . . . ...(2)
+
+3
+(11), (18) and (20) of my 1919 art-
+
+If a lies in the neighborhood of
+
+n,
+
+then
+
+C 1 must be
+
+cal.ulated. The formula
+o
+see
+
+g=~+c
+
+2
+r-1
+on p.198 (1919) end the table on p.200, for very small safety
+factors> lead quickly and accurately to the goal. For a low value
+of.r we may write:1)
+
+1) Point d (Fig. 2) lies on a circle, whose diameter is a c.
+Mr. Ratzersdorfex detemines this circle by means of the conditions M = MA for x = O and M= MB for x = s. If a varies
+only a little from TT, then the three points determining the cizcle 1ie nearly in a straight 1ine. I give the calculation the
+preference and call the attention of readers, who likewise prefer
+to caloulate, to two tables:
+J. Hrab&$ ‘iPraktsche Hilfstabellenn (Pratt
+i
+ital.Tables) (Published by Teubner in Leipzig). Table V, “Trigonometrische,Linien
+von Minute zu Minute,“’also centains the often used secants and
+oosecants. . ,
+C. Burrau, *l
+Tafeln der Functionen Cosinus und sinus mit den
+nattiylichenZahlen ah Argument~’ (G. Reiner} Berlin).
+The secapt table with the argument r (1919, p.200) also en- ..
+ables the caloulation of Ca2, since
+sec2
+cosec2 =
+sec2 - 1
+
+.. <, ...>
+
+=--accx.irate
+
+a
+
+c~ipar~so~
+
+pms.i’bleof the results obtained by the
+
+as.
+
+different formulas. I will therefore give still another example
+for the accurate determination of
+
+~m.
+
+together with the round
+
+numbers to be recommended. practice.
+in
+Let “J= 314cm.4,
+
+~=
+
+64 ~m,~, F=
+
+28 ~.z,
+
+s = 3840 kg., g = 2kg/cm., E= ‘‘120,000kg/cm.2,
+
+s = 305 cm+,
+MA=
+
+--44-8
+~kg.m.
+
+MB ~.- i24i4.’kg. , ~ (l;A $~B) - 184.6 kg.m. 1
+m.
+.+. ‘=
+(MA - MB) = 140
+~
+z
+kg.m.
+We obtain:
+g k2
+
+=gr
+
+r
+
+=+
+
+EJ
+
+=
+
+9812.5 g = 196.3 kg m.
+a
+1.041 + 0.272 = 32.~
+‘ec z =
+0.041
+
+= 1.041,
+
+s
+
+c1 = (196:3 - 184.6)32.0 = 3?4 kg m.
+-----
+
+M tnax =
+
+_____
+
+02 = 143 kg rn.
+
+___
+
+~ 3’742+ 1402 - 196.3 = 203 kg m.
+
+q
+
+o
+
+~
+
+20300 ~ 384Q = 454 kg/cm.a
+64
+. 28
+
+For the determination of the flenre,
+
+according to the calcu-
+
+lation of
+JAo=g~=
+
+232.6 kg m.
+
+(Ccupare 1919, p. 198, formulas (7) and (4).) “Thefollowing formu.,.
+
+“ ‘1* ser~e: ‘ ~~
+
+c.
+
+.,,.
+
+..
+
+.
+
+.
+
+,,,
+
+. .
+
+.
+
+.
+
+.
+
+Y.=. <
+
+203 - 232.6 + 184.6”= o *Q
+.
+3840.
+
+~
+
+F>
+- max.
+
+3’74- 196.3 - 232.6 + 184.6 = o 034 m
+*
+. ,.
+3840
+.
+
+.
+
+-.. .
+.
+—._ ._—
+
+1-
+
+-5If the safety factor r is very large and a is consequently
+small, then the moment g k~ = g s2 /az becomes inconveniently
+1)
+)large forge~met rical--representation. ..
+.
+
+..
+
+... ., .......
+.
+.
+
+.- ,.
+
+For example, let
+
+MA. - 0.628, MB .
+- 0.096, MA
+
+,,
+
+q
+
+g-
+
+‘A - ‘B = _ 0.2~6,
+2 M.
+
+r =25>
+
+;
+
+=&=18°
+
+= 3.236}
+
+J
+
+6
+
+=+=8
+r
+a ,7
+0
+We obtain for 110= 1
+
+cos.ec
+~
+
+‘MB=
+2 II.
+
+@
+
+-036Z
+.
+
+)
+
+sec ~ = 1.0515,
+“
+
+= 20.264,
+
+c 1, (20.264 = 0.362) 1.0515 = 20,927, C2 = - 0.266 X 3.236 =
+=
+- 0s861,
+
+Mma
+
+= 20*927
+
++
+
+0.8612
+a ~ 20.927 - 20.264 = 0.681
+
+.
+
+1) For small values of u , ‘Lhevalues used for determining the
+supporting moments of spars uith several bays.
+
+are calculated with the for~,ulascb’~@nea fr~~ia series development
+
+for ~~hose
+usefulness the statement vouches, that for~,,=20°
+(a = 0.34907) they still ”givethe values 0.33604, 0.16904 and
+0.04217, which differ only in the fifth decimal ’platie .iorn
+f
+the
+exact values 0.33607, 0.16907 and 0.04218.
+,,
+. .
+In the introduction to the article YZur Knickungsbiebgung,
+”
+by Konig, in this r.~azine, 1519> No. Z1 I remarked that the case
+of very small values ofu (including”= 0~ is treated in miy
+‘ l?~~aph~sche’
+Statik’l
+Vol. 11$.0hap.2J. .~.+
+.289%,, ... ,.
+,, .,,
+. ...
+...
+.
+
+.
+
+,...
+
+-f3*
+
+If we disregard the inflmnce of I’ on the moments, We’haK-e
+
+Mmax.’l-
+
+0.s62+
+
+(+)’=
+
+0.656
+
+The calculation gives the result quickly and exactly for all
+. . .,,,..
+-,,-... . ..,....,,,,, .... . ,,, .,,
+....
+,,, ,. ..
+,
+.
+,.
+‘safety factors, but presupposes the use of tables.offunotions.
+II.
+h
+
+a
+sec ~ = *.
+
+the limit case a = n,
+
+If the moments libre-
+
+G
+
+main finite, D must equal O.
+
+Sndcl=oxm.
+
+This gives
+
+At leaxk one o~ the moments
+
+MA and MB
+
+must be
+
+a function of ~ .1)
+A generaJ investigation of the valUe
+
+will be given in a special article. Here I will confine myself
+to a simple example.
+
+I will t~e
+
+abeam
+
+(Fig. 3) ce~trally 10ad-
+
+ed and resting on three rigid supports$ and to whose ends are apIf O au=
+then may a > n .
+?.
+2
+This may happen, without exceeding the proporticxml.ity
+limit.
+
+plied the moments MA ~dMB*
+
+when, for abbreviation, we write
+,,/...
+
+,,
+
+,,.
+
+,., ,
+
+there follows
+% = ‘g’s’’u’’” - :::’::
+U’:’;1) $eent?xt p~e.
+~~
+
+‘Au’”- ‘ov2°
+
+y
+
+-’i’The introduction of thi:;vd~.~eiEto the expression
+
+..- ... .
+
+..
+.,..
+,..,
+
+i.~.(~JA MB) ] se~”~.
++
+u
+., .-, .
+
+c% = [q$
+.’,.
+.
+.,... .
+
+Bec
+=
+
+[g,
+
+~
+
++
+
++
+
+(~d~ + k$j)]
+
+2
+
+a
+2
+
+~
+
+calculation}
+gives, after a simple ifitermediate
+a’c~u~
+3
+
+sin aa) =
+(sin 0, - al cos a, + ~,‘,-v:
+
+From this follows
+
+c‘i =
+
+-. . ..
+
+-+
+
+Numerical.example.~A
+
+=
+
+%
+
+= 3.0 kg/cm.
+
+SI = 330 em.,
+
+-25,000 kg/cm., hence, g,S3 = 237,8~0 kg/~”
+
+and for a = n
+
+1) See my articles
+in this magazine, 1918, Nos. 17 and 18, and in
+“;Zentrabblatt
+der Baaverwaltung,w 1919, No.84. In the latter,
+the influence of a permanent uneven load is considered.
+
+..- . . ..— —
+
+=.-
+
+:!
+,,
+,.
+
+v
+
+.(J..
+..
+t%f
+
+k12 =
+
+‘x:+””’ ‘32,068kg/cm.
+=
+
+MB = -2gq - k~z - MA = - 19$136 kg/cm.
+I
+
+,..,
+.,
+..-----.
+.. .
+....
+~
+
+c=~~
+=
+
+MA - li5
+= g; k12 +MA = - 2932 k$/cm.
+2
+
+The values
+
+‘B and C2 are independent of ~ , Sa, & , Mc. ~
+The only condition is al > c$. in order that we may have @ > n .
+Y
+If now
+------J2=J~$
+~.~’
+~.l*44,then,$=~
+3 %/1’44 = 0“8’
+St
+3’ S1
+7
+
+7
+
+= s%St
+
+25
+
+,
+= 0,8 IT= 2.5132741 (144°)
+
+%
+
+E&s2 = z’
+
+7
+V2’= 4045992250, V;’= 3.2’758378, v;‘~ (). 245714
+and we obtain
+
+c, = 0.52328 &S32
+=
+
+-
+
+0,24140 ~
+
+61090
+
+-
+
+S22 + 2.11518 MA - 1.09139 Mc
+
+11684 ga - 1.0,9139 c.
+M
+
+The following table shows the great influence of
+the makimutnbay moment
+.
+q
+
+f%? :
+(kg/ cm)
+
+:::
+3.0
+2;0
+
+ga and MC
+
+on
+
+SI .
+,
+
+
+
+:M maw
+
+:
+: Bay SY:
+
+‘~
+: %
+; (kg/m) : (kg/m) : (kg/m)
+,
+: 347.7 : 128.2
+-80
+; “40
+: 304.0 : 84.8
+: 260.4 : 41.4
+: 0
+: 0
+: 3’7?.2 : 157.6
+
+%ti
+Bay
+
+q
+
+S~
+
+: (kg/m)
+
+: 80;8
+: 3.48.1
+: 215s9
+: 58.6
+
+,,
+
+We can also determine the true value of
+culatingthe value of
+possible to that of n
+
+Cl = O x *
+
+by cal-
+
+CII for the value of u lying the nearest
+
+-— ,... .
+
+-9We take al = 180° 50’,
+
+~a= 0=8
+
+Ux= 144° 40’ @d Obtain
+
+= - 215.9847, q“ = - 218.0077, VI’”
+‘:
+.~a~~+-4;56~-7>-V21S= .+ 3.3659, Va”$
+
+,.
+
+=
+
+k12
+
+g,
+
+y;—
+~
+
+=“ i-
+
+0.7435
+
+a“
+sec Q! . - 137.512.
+2
+
+= 21864.83 kg/Cm.
+
+For the loading case &
+
+= - 44-068~
+
+= 3 kg/cm. and MC = - 80,000 kg/cm.,
+
+there follQws
+19236.95kg/cm.,
+
+MB=-
+
+D = g,kt2 +
+
+M
+
+c1 = 2.5364 X 137.511 = 348.8 kg/m.,
+‘max. .Cl+g
+
+-tM
+
+A ~
+
+&
+
+‘=
+
+- 253.64 kg/cm.
+
+28.8 kg/m.,
+
+= ‘A a %=
+
+- g,k32 = 131 kg/m.
+1
+
+This result varies but slightly from the value 128.2 kg/m.
+obtained for
+
+al = rr.
+
+In this comparison, no account is taken
+
+of the fact that, with increasing values fox u and
+
+S,
+
+the
+
+loads ‘“g and the end moments also increase somewhat.
+Whither leads, therefore the valuation of the moments in the
+limit case a = n,
+
+as given by Mrt Ratzersdorfer in his second
+n
+
+figure?
+The three points
+whose raye
+a en,
+
+0 c
+
+a3, O, h,,
+
+which determine the ciicle~
+
+represent the moments
+
+g k2 + M z
+
+c
+in a straight line’ “The..enter of the circle then only
+
+remains finite, when the points a, and b3
+CUXS, when
+D = 0.
+
+lie, when
+
+g @
+
+-t-MA= - (g k2 + MB)
+
+Opposite the indefinite form
+
+definitet~.o’f~dra~i~
+
+a“~~*
+
+coincide,. This 06-
+
+~rees” with the condition
+c? = O x -
+
+st*ds
+
+‘he ‘n-
+
+‘Q~owh$:*o~Yt~Q-:Poi~”~~-0~ ~d
+
+*
+
+%
+
+ba
+
+are given.
+
+.
+
+1.0
+-
+
+-
+
+.
+
+. \
+
+In his”1919 treatise in the l’Osterr.
+Flugz.eit-
+
+schrif Mr. Ratze
+t‘t
+rsdo’r”fe~
+talms
+
+{,
+[
+
+the distante
+
+as the diametex of’the circle and obtsins the demonstrate reion
+peated here in Fig. 4.
+
+TMs
+
+gives, for the bay
+
+s,
+
+of our exam-
+
+ple, moments which are independent of the lo’adingof the bay
+
+~
+
+i
+,
+
+and of the moment Mca
+
+The foregoing investigation presupposes a ~niformly loaded
+bay with a constant end load ‘S. In reality, the air pressure is
+,,-
+
+Further-
+
+solvedby the ribs into a number of individual loads.
+
+“-.
+
+,...
+
+more, the inner tension”
+between the two wing;spars results in the
+applica~ion
+
+Of
+
+oblique
+
+~it~in,he bay Of a SPar.W The
+t
+‘
+
+s~-ses’
+
+,,”
+,.
+,.,
+
+bending stresses generated in the sp’ars
+were, to the best of my
+
+.-
+
+-
+
+i
+
+knowledge, first considered in print in my treatise on the
+strength calculation of airplane spars in the Augwt, 1918, num,
+be~ of the Technische Berichte (Technical Bulletin) of the .yFlugzeugmeisterei”
+
+(Aircraft Inspection and Engineering Department.)
+,,,-
+
+I was principally concerned, through the application of genemil formulas~ practicable for every case of loading, in investigating, with a few.exsmples, as to whether the customary as-
+
+!.
+
+!., ’,.
+..
+
+sumption, in practice, of a const”~t pressure and uniform
+
+10ad-
+
+ing, instead of individual loads, is sufficiently accuratej but
+\
+
+‘.
+
+,...
+.,.,.
+.-
+
+t
+.
+~.
+
+. .
+., ..,=.-
+
+-..:..,,
+
+,., ...>.
+
+.,.+ ! ,. :’,
+
+.+
+
+,
+
+:“, ‘.;, :..
+
+~.m.,---.w:-.
+
+-..,.~,., 1..,
+
+, :. ..:....,
+
+~.yyx>. y7y----
+
+-,
+
+.,
+
+,
+
+.,
+
+. . .. . . .
+
+f. .,; ,-:.:~
+
+.,.-
+
+, -+ ,~, -. ,.,
+
+. ...
+
+.,.
+
+.’,,
+
+-,. .
+
+~
+
+.e—
+.
+
+,,
+.
+
+. . .
+
+.
+
+.
+
+.
+
+.
+
+..
+
+I “—--—--
+
+——
+
+-11-
+
+a
+also in demonstrating, on an iv.portnt specimen$ the great influence of the direction cf the stresses resulting from the inner
+~.~. ens ion. I will go.
+--.-t
+,more
+“
+
+special.
+
+t.h.or.ou@ly,
+
+into
+
+the,s,,,
+e questions
+
+in
+
+a
+
+treatise.
+
+(Translated by the National Advisory Committee for Aeronautics.)
+
+.,-.
+
+,,, .
+
+.,,
+
+,-. ..,,
+
+..
+
+.
+
+,=
+
+-*.-
+
+., ,,,
+
+..’,
+
+.
+
+. .
+
+,.
+
+.
+
+r-
+
+7,.
+
+.,,
+
+.--L.
+
+“Fig.+
+:----
+
+~
+
+‘
+
+-.
+
+Fig.
+
+45,
+
+2
+
+-
+
+11111111
+1111111~
+-
+
+s,
+A’?
+q i+———
+
+Fi9,3
+.
+
+. .
+
+,., .,.,.,..,
+
+,, ..,,,
+
+,,,
+
+.,.,,
+
+.,..
+
+,,.
+
+,,.
+
+.$
+

@@ -1,0 +1,1905 @@
+,
+
+.
+
+-.-- _-----
+
+- --:... -...:..-=-~ ~ --- ~
+
+-=-- --_ . -"-.-- -
+
+FILE COpy
+NO. ~
+
+TECHNICAL lI)TES
+NA!IOIW. AlNISORT cc.lrrrEE FOR ~O~U!I~S.
+
+1
+
+, to
+
+.".... 1
+
+:'.}
+
+" ..;.... JIII¥A,~)t.
+i
+
+' -c1~"
+
+~! '.1IIrt ,
+
+tmE§ ON LO$ITUDINAL SUJULW
+
+AND BAIANCE.
+
+E. P. Warner, Chief Physicist,
+Labora~ory, N.A.C.A.
+La~leJ Field, Va.
+
+Wa.shi~ton,
+
+/-
+
+".......'6ri : Mf N I
+.. nr'! .i,,,,,f\1t
+
+------- ----
+
+,.
+
+.
+
+.,~. --
+
+No.1
+
+April, 1920.
+
+t
+
+_~~~ 24 • 9~l:::~ ~tf~~I~
+
+,
+
+Aerodynamical
+
+.,...._A_.- - _ .~
+
+~"" t • .)f·
+
+.
+
+R)TES ON I.cNGITtmI~<\!.I STABILITY
+k'm BALAW..;E .
+
+By
+Edward P. Warner.
+More or less complete studies of longitudinal stability
+have now been made oc five ai!"planes, - the JN4H, DH4, VE7, USAC-ll
+and Martin Transport.
+
+fications have
+
+bedD
+
+In audition to these tests, numerous modi-
+
+made in the design of the JN4H and the effect
+
+on stabUity aDd balance investigated.
+The tests on the DH4 a.nd on the JN4H as normally used are
+described and discussed in Report
+
+No. 70 of the National Advisory
+
+Committee for Aeronautics, and the methods of
+
+maki~
+
+Interpr€lting the results are also taken up in
+
+SOJr.8
+
+report.
+
+the tests and
+
+detail in that
+
+The conclusions ~awn may. howe-.,or, be sUllin3.l'izod here.
+The balance of an airplane, and its degree of nose-heavi-
+
+ness or tail-heavi~ss at any speed and throttle setting, can man- '
+. !.festly be cieterminad by measuring the force whi ch the pilot must
+apply at the upper end of the stick in steady flight . . This force
+,
+
+can al~s be modified in either direction and in aQY deojred degree by changing the st,abUlzer setting, and. th:l.S means of correction should be chosen inprererence to moving the C.G. relative to
+the wings unless there is special reason for adopting the latter
+plan.
+
+The balance, as eXpressed by the force !'equired on the stick,
+
+Page 2
+
+ie GllICh affected bj" the weight. aDd c.bord of the elevators.
+JN4H. for
+
+ex~le,
+
+1s very nose-heavy when normally
+
+e.G.
+
+this is not because the
+
+r~gged,
+
+'I'he
+
+but
+
+is too far forward (it is, on the con-
+
+trary, too far back) but because the statio moment of the elevators
+about. the hinges. due to their own weight, is abnormally large,
+
+Ai
+
+and a large pull (about
+
+lbs.) on the .tick is req,ulred to hold
+
+the flipper's up, even when there is no downward air load on them.
+
+Machines with adjustable stabilizers can, of course, be made to balance at any sp9ad by adjustment of the surface .
+The stability with free controls can best be determined
+by measu't"ing the force on the stick at a fiXed throttle setting and.
+
+a number of different air-speeds and
+
+plott~ng
+
+the forces as ordi-
+
+nat·es (a pull on the stick being taken as pos! tive) against the
+air-speeds as absc::'esae.
+for
+
+stab~lity
+
+with free
+
+The necessary and sufficient condltS.on
+con~rols
+
+at any speed is then that the curve
+
+of forces shall have a negative slope at that speed, and the steeper
+the .negative s ).ope the greate!" the stability.
+
+The machine cannot,
+
+o£ course. be flown w:I.th f!'ee controls at a1V speed except the one
+at which the cur.ve Cl'osses the horizontal aT.is, but this axis
+
+~an
+
+eaoily be shifted verUcalJ.y if desired by attaching a cotlI".terweight,
+
+sprir~,
+
+o~
+
+elastic to the st t ck in such a
+
+~y
+
+as to change
+
+the "effective we igb:ii" of t}1e elevat ors, and so the pull on the
+stick due to tbat we'.ght.
+
+Thl) a<:tual measurement of the
+
+fo~ces
+
+at
+
+severcl different 9pf'eds and the plotting of a curve is far more
+accurate and sat i ~fa(.toA·y as a means of determln!ng longi t,\ldil".al
+8tability than is the customary method of recording the pilot's
+impres.ions on the subject, as it practically eliminates the per -
+
+:.' .
+
+~I
+Page 3
+
+sonal equation, and gives a definite quantitative result in place
+of
+
+vague phra.ses as: "Stabllity very good"; "Sta.bility poor";
+
+lS~h
+
+"Stick pushes strongly against the hand at low speed",
+DISCUSSION OF EXPE.ttIMENTS.
+I
+;,
+
+The forca curves for the five machines which have sq far
+
+I
+
+been studied, with data taken at three or four different throttle
+settL'l6s for
+izer on the
+
+ea.ch mach.i .na,
+DH4
+
+of the wings.
+
+are plotted in Figs. 1 to 5.
+
+!
+I
+
+The stabil-
+
+,
+
+was set with its center. line parallel to the chord
+
+There was no means of determining the stabilizer set-
+
+ting on the Martin TranspClrt while in fHght, but it was adjusted
+,
+
+to
+
+tr~
+
+I
+
+•
+
+at 100 m.p.h. with the throttles open, and this setting
+
+I
+
+was maintained throughout the te s t s.
+There is no very consistent rule for the variation of staI
+
+I
+
+bility either with throttle setting or with air-s!?eed. although
+
+i ,
+I
+
+the general tendency is to be more stable when gliding than with open
+throttle.
+I
+
+than at high, whHe just the reverse is the case wi til tlle
+I,ePere.
+
+I
+
+Tile Martin and Cut-tiss are more stable at low air-speeds
+
+!
+I I
+
+DH4 and
+
+The Vought 1s extraordinary in that it possesses the same
+
+degree of stabiJ.:i:ty, and just about the ideal degroe. at all engine
+speeds and all air-speeds.
+
+!t will be noted that the
+
+J~
+
+stabil-
+
+izer is flat on the lower surface; that of the Vought slightly convex, while those of the
+
+DH4 and
+
+LePere ar.e
+
+nea~ly
+
+symnatrical.
+
+It
+I
+
+appears the n, that all of those machine s except tile Martin follow
+
+the rule that a convex camber of the lower surface of the stabilizer
+is favorable to stability at bigh
+
+~eds,
+
+and that, in order to
+
+secure the same degree of stability under all conditions of flight
+anc1
+
+to keep the force on the stick comfortably small at all times,
+
+,
+
+(..
+I
+
+ent ex cepti on t o
+
+t hi~
+
+1'1'le :::i..low.ci. not, be x·ct;s?.1 dsd too z9 ?" :ion:l y , a:J
+
+the frict i on j.n t he c ontr·o ls on tb2.i:· mac h5.ne wan so
+g r e a t; t hat the
+
+force readi ngs canno t be depen ded on t o be ac cur a te
+withi n t wo or
+three pou':ld.s.
+
+;.
+
+i
+I
+
+I
+I
+,
+,
+
+·
+
+Fu-rthel' te::;t s on the I N h a ve sho wn that the stabH
+-
+
+ity at high spesd a
+.' plane io
+
+~s ~h
+
+impro ve d
+
+wh~n
+
+t he stabi lizer or tail-
+
+inv~ted.
+
+The degre e of s t abi.'li ty in an airpla ne
+stab~lizer
+
+!.
+
+'lfj, th
+
+an adjus table
+
+or .tail- plans depen ds large ly on the setti ng of that
+
+member ani such a mschi ne will, from this causs alone
+, be more sta.ble when glidin g than with throt tle open.
+
+The curve s for the Marti n
+
+for examp le, wo~ld be much more stabl e (larg er negat
+i~e slope ) i f
+the staeil ::"zer or tail·· plane had. been set to trim at
+100 m.p.h . while
+glidin g, :rathe r than
+
+wh~.le
+
+opera t ing at full power .
+
+I
+
+I,
+I
+
+If thors is inste bility in an
+
+it maJ be
+
+cor~ect ed by:
+
+UIlpleasa.nt~y
+
+l arge degre e,
+
+(a) movin g the cente r of gravi ty farth er
+
+forwa rd; (b) settin g the stabi lit.er or tail-p lane at
+a large r negative angls to the 'Rings ; or.. (c) using a .!.arge r stabi)
+.izer or tail-
+
+plene .
+
+These concl usion s are not only the resul t of theor y,
+but
+
+they have also boen check ed by actua l tests on the
+JN4H, in the
+COUl'5 e
+
+of which tests the stagg er was decre ased (this be:: ng
+equiv a-
+
+lent to a forwa rd movem ent of the cente r of gravi ty
+rBlat '.ve to the
+
+wiDgs ) t • tbu C. G. was moved both horiz ontal ly and verti
+cally by the
+attach ment of weigh ts at vario us point s, and the stabi
+lizer or
+
+. plana
+
+~e
+
+was alter ed seve!" al times .
+
+t&il-
+
+In order. that the machi ne
+
+m&¥ not be mad.e exces sively nose- heavy or tail-h eavy
+it is usual ly
+
+I;
+
+DBC8.aar,y· to canbi ne (a) with eithe r (b) or (c).
+
+The effec t of in-
+
+p~(>
+
+c:", o a ~ il'lg t~e
+
+:')tal)il' z. e~
+
+Sizfl of the
+
+ar.y IJl6ar..s which. stCf:PSTl.s t he lii't
+
+oX' ta.il - p l ane
+
+Cl~lI'"
+
+creass'3 it s sta.l :li!:i.v.:.ng e:ffi c'.ency.
+
+be
+
+accCI.Tlpll ;;i h~ d
+
+by ;.ncr e Cl.'liTlg t o e
+
+tail-plane ox- ny Ils i r g e. t:l0t' 3
+ef'f:'c:i.ent ly prese nt~ d..
+
+In
+
+of
+
+~an
+
+be Se C\11" 6(\ by
+
+t rot surf3(..! o and 00 ! n-
+
+PL..:- ~. ~. cu1ar ,
+
+a.~pe o t
+
+S
+
+this object ma.y
+
+ra.t i o of the stab:U i zer or
+
+off :i.'3en~ sact~,. on
+
+or a seci; ::" on mo.e
+
+Fo r' cxampl ~) t here i~, ~der all ordi nary
+
+condi tions of fl:' ght, a d.ownward load on the stabil:t.zsX' or tail-
+
+plane, am a
+on the IN, is
+
+conditicn
+
+~
+
+sec~~. o n
+
+f l et on the lowf.r sud'ace, like that employed
+
+th~re.f ore
+
+wo;-killg at a regativa anglo of: attack, a
+
+n which the lift curYe
+
+than it bac; for 1)os5.t-ive e.Dg~. es.
+
+~~
+
+a materiaJJ.y f"maller slope
+
+It. m:\g!lt. , t.h~refore, be expected
+
+t·ha~ tho stElb5.!:hing eifact of the t.an p).e.nes of the IN would 'lie
+
+iDprovec b~ imar1.ing ~he se~~ioll, mak~ tho U£l{ler surfa~e flat and
+tra lowe-r
+
+OP9
+
+ca::tbe:..:fld, a.nO. this ha.s been f'Jurd to be the case.
+
+It
+
+bas al~~a.dy beEn sbw
+v:n, h')\~v r;.r I tbat the sa ct ion of the tail should
+Uf:uaUy be controlled "'t)7 tl:e con~ilklratiO!l of seCUJ.'ing the saros de-
+
+gree of
+
+stnb:i. .\' H~
+
+at e..".1 spcr;}tis.
+
+If the eleyator ~~re ~ightloss, or if its weight were balancad, alli if the;; e \"lC~e
+
+DC !Il:J~snt (\~~:.;!.t.
+
+'ijhe f!l :.3va.t or h5~ w1:.3n
+
+thsrq 13 n') fo!"co on tae eleys ·i-· or, s t a:o:'lHy with free contrcls at
+
+the trinming ~eeo_ (t,bs 5poe.i a~ wh~. ch th!.' tIL"\cbine would ,fly if no restraint of any sort VJCrb p:_s.ce~. UPCll t!le stick) co~'.o, be satisfacto-
+
+rily 1nrestlgat6cl !on tb9 wi nd t '..u lIl.zl by removing the elevato::- s from
+the mod.el and testing i t for ~.ongltlldj,r18J. sta.biUty wi~h only tt.e stabilizer or t a il-plane ir. pos:\' t~ on, and a test of. this sort furnie:hes
+
+a fairly sati9facto:":'y 2i>~,:,orimetiou to tbe truth ul1c.e!' the conditions
+
+actually exist i ng.
+
+Unfortunately, however, nei t,her of the. condi-
+
+t iona stat ed above are I 1n general, observed. and the problem of
+
+an~ys1s of the tail forces,
+
+t heir d i stri~ ~t ion hetwcen the f :Aed
+
+~ movable port i ons arrl the~r effect on s t abi lity hecomes one of
+
+great ~le.xitYt USU&.V .y solubla
+
+04
+
+uy di!'ect experiment on i'ull-
+
+sized machines in free f light .
+For a section, symmetr i cal about its center line, the angla
+of attack at whit!b the pitchi ng mO.cJ.9nt at-out the leading edge 1s
+sero is of course idont i cal with the atlg.l e of
+
+ZIiIl'O
+
+lift.
+
+For
+
+uns~
+
+metrical sections. sU(!h as are ve!:y coamonJ.y used in stabilhers aDd
+elevators, the moment abont the leed::ng edge d i s&ppsars when there
+1s
+
+a cons'.dera!Jle
+
+negat i ve :I.ift, and, cOI:1Ye.:'se!y there is a moment
+
+tending to raise the trai ling edge of the e levat 01' when the net
+11ft of that member is zero.
+of a weightless
+
+elevato~
+
+!t is then evident, if the assumption
+
+be ab~docad and i f the interference be-
+
+tween stabilizer. and elevator be neglected for. the moment, that, with
+the controls
+
+f~ee,
+
+there will have to be a larger
+
+the elevator, in oX"c.er. to
+
+b~e
+
+the
+
+moroen~;
+
+u~wa~d
+
+I
+j'
+
+force on
+
+about i t s hinge due to
+I
+
+its
+it
+
+o~
+
+weight, i f tho s'uface is nat a bo'va and cnmb€!rad bela ... than
+
+tb~ mOl 'S 1)~uaJ. rF·Vi;.\rSe
+
+disposit i on
+
+iG
+
+force on tt.a G)' ov s.1
+;vT.' xequ i .:" flS a couut.er '
+downwa
+~d,
+
+adopted .
+
+Si nce
+
+~
+
+ba:~ M(; ~. ns ~_ditio!l
+
+'UlJward
+
+to t~
+
+force on t be s tabil i zer , this i s a pOint, although not a
+
+ve!}y impol:tant one, in favor of the tail·-&
+u::-faces flat, bslow and
+cambered above.
+
+For a
+
+s ~11fJl'
+
+of the elevator or in the
+hi~8
+
+is very benetici al.
+
+reaf."on, a7\Y
+
+d.~\. at ance
+
+from
+
+Hi S
+
+dec~ease
+
+h .. the weight
+
+center of g:l.· avity to the
+
+The design of contro;, aru1 stabilizing
+
+surfaces offers, both from the stl."I1.Ct iil·al, and
+
+'~he
+
+aer odynamic stand-
+
+pointe, a frui tful fiala, fo!' expeJ:' i l7lental and. t heo r etieal res9a.rch,
+and there 1s no point at which auch reGeaz-ch is mol'e
+
+nee~_ed.
+
+Machines properly balanced with open throttle are all nose~aV7 ...men gliding, and , conversely; those which are p~'(jper ly bal-
+
+"
+
+------
+
+--~------
+
+-
+
+-
+
+-
+
+-~-
+
+--
+
+anced when glidil'l6 are tail-heavy with full power.
+
+--
+
+-~--
+
+----
+
+--~-
+
+- --------
+
+This is due to
+
+the effect of the slip-stream on the controls, and it is interesting
+to note that this effect exists in a marked degree even on the Martin, where only a small part of the tail-surface lies inside of
+the slip-streams.
+
+The most obvious means of counteracting this slip-
+
+strecm effect is to raise the thrust-l5.ne, thereby Jiving rise to a
+diviD6 moment when the en6 ine is on full which will counterbalance
+the stalling moment due to the downward. b last of the slip-stream
+
+on the stabilizer.
+
+chan~e
+
+The
+
+in elevation of the thrust-line which
+
+would. be required for complete balancing would, however, be too
+great to be practicable on machines of ordinary type.
+
+In a IN, for
+
+example, the thrust-line would. have to be raised. a little more than
+I,
+
+a foot with respect to the center of gravity in order that the
+
+terae
+
+C~8S
+
+With open and
+
+close~
+
+throttle mi ght Qe identical.
+
+It
+
+is probable that one reason for the unusually small separation of
+
+tha
+
+$eva~al for~e out~e
+
+in the Vought is the telat1vely low
+
+poei.
+
+tion of the C.G. in that machine, although the e.G. is not low
+enough, relative to the thrust-line, to balance the slip-stream effect very completely.
+
+In flying boats, where t he
+
+e.G.
+
+is far below
+
+the thruBt-line, it is reported by pilots that the moment d.ue to
+eccentricity of the thrust is more than sufficient t o balance that
+due to the slip-stream effect, and the boats therefore tend to stall
+when the throttle is cl osed and
+
+div~
+
+w
+hen it is opened.
+
+ThiS, of
+
+course, is more objectionable than the oppo site tendency, but the
+ideal condition would be half-way betwe en, one in which the airspeed with free controls remains constant at a speed slightly in excess of the speed of minimum required power.
+
+Progress towards this
+
+ideal condition can be made by tilting the e ng ine down a t the front,
+
+as on the JN4A, or, on a s i ngle-el1t;,ired machine, by incre a si ng the
+
+t
+
+I
+
+I
+I
+I
+
+Page 8
+aspoct ratio of the tail,
+
+Tilting the engine-bed causes the angle
+
+at which the air strike3 the stabilizer to be diminished at the same
+time that the speed is increased.
+I
+
+Here, again,
+
+~he
+
+effect
+
+is
+
+rather small if the change is kept within reasonable limits,
+the engine-bed on the IN 2
+between the
+
+was not
+
+fo~ce
+
+o
+
+Tilting
+
+had a distinct effect on the spaCing
+
+cuxves with open and closed throttle, but the effect
+
+s~f i cio nt
+
+to
+
+b~i r
+~
+
+the curves to coincidence.
+
+Increasing
+
+tho aspect ratio of 't he teil is he:'pf1.'l in that i t increases the
+kroportion of
+
+t~e
+
+which is outside of the slip-stream.
+
+stabilize~
+
+In a twin-engined macllinA, the effect of the slip-stream
+f Ol~ ces C~'1
+
+on t.he control
+gines so
+
+the
+
+tha~j
+
+be redlJ.ced oithei" 'hy "toeing in" the en-
+
+the i:.: s1..ip-st:t:'ea."ns WAll t:c'&.vel outwards and escape
+
+stabi~ her,
+
+"tly
+
+Ee '\; ting
+
+~he 8
+
+L6 :i.. ne G l01 ther apart, or 'hy having
+
+the engines rotate in cpposHe r.i - ectiono, the up::?er propeller
+"
+a\"7l;'J.y
+
+bl~.B ID075.ng
+
+that the
+
+7rOTIl t~:l6 cen~er
+
+tangen~ia~ c~mp~ne~~
+
+tion, win bo
+nearest t!le
+
+\lI)\"!'a.: ~ d ic tba~
+
+c!;'n"/;e .~
+
+of t.he machine in both cases, so
+
+in the
+
+sli~s i ream,
+
+or the race rota-
+
+part of 'li he sl.i,p-stream (the part
+
+of t.he machine) which impinges on the sta.bilizer
+
+and will tem to cvnnterar-t the dOWD,ward direction taken by the
+slip-stream as a whvle and due to the downwash of the wings,
+
+The
+
+first of these three remedies c&uses some loss of efficiency, although that loss need not be very prono11l1ced, the second. inyolves
+constructional difficulties
+
+e.nd
+
+and the third makea
+
+for the engine manufacturer, requiring
+
+~:c'ou;le
+
+the makil.l6 and stock'ng as
+shafts.
+
+In viaw of
+
+~ha
+
+inr.reases the stresses j.n landing,
+
+~pa::e8
+
+of an additional series of
+
+ease w-j.th which an
+
+e.dj\1s ·~able
+
+~am-
+
+stab i lizer can
+
+be incorporateu on these large machines, it is not probable that
+aqy
+
+of the devices meutionad above will come into cammon use.
+
+There
+
+Page 9
+
+ia, howeT er. no reaaOJ)
+
+~
+
+the tall surfa ces on B1Zlg1e eDgin ed ma-
+
+chim a of IIDall aDi mode rate abe shoul d not have a somew
+hat highe r
+
+aapec t ratio than 18 tbe case on many such airpla nes at
+the prese nt
+time, - mate rially higbe r, for examp le, than on tbe .IN•
+. Much, i f
+not most, of the extra ordin ary contr ollab ility, man8 UTera
+bility ,
+
+.tabi llty,
+
+~
+
+ieD8r al
+
+ascrib ed to tbe sectio n
+
+facIl ity of handl ing of the Vought ma¥ be
+
+am
+
+plan form ot ita tail IUl'fa eea ,
+
+By
+
+jU4io loua abolc e of the secti on and by incre asing the aspec
+t ratio
+of tbe _tabl U,ser , Ua efficie DCY maJ be
+tbe
+
+area
+
+CaD
+
+be consid .erabl 1 reduc ed.
+
+80
+
+much incre ased that
+
+We mq tben achie ve, at the
+
+Balle time, a reduc tion in total weigh t, a reduc tion in
+the force s
+
+on tbe 'atlck au1 in the oontr ol leada , an incre ase in aerod
+ynami c
+ettloi eDQJ , aDd a graat tmproTpment in stabi lity.
+The p08it ion ot the cente r
+
+1I1qJ8 la, a
+
+'ot gravi ty with respe ct to the
+
+alreac b- mentl oD84. a Tary impor tant tacto r in dater -
+
+JD.inlns tbe loqJi twlllJ al atab1 11 t7 of an airpla ne, a forwa
+rd mo..-ement
+ot the C. G. 1Dore..1Di tbe atabi lUT. The C. G. on tbe
+Vough t,
+the .tabU !ty and. bala ".. ot which lM¥ be con8i dered
+as ideal , 1.
+
+~ of tbe wq back on the mean chord .
+
+That on the DH4 with the
+
+load oarrle cl dw1Zl g the t.8ts ... 2~ of tbe wa.7 back,
+and the ~- '
+chi_ ... stabl e ucep t ~t verT low apeed s.
+
+On the JN4H, with nor-
+
+mal r1gg1 Ds aDd a heaV OD88 "er, the C. G. was about
+3~ of tbe
+
+...,. back on the mean c~rcl am the mac:b1aa was marke dly
+unata ble.
+1
+
+~pat
+
+chazls•• baYe recluDecl tbe C. G. pod tion coettl~1ent to
+
+•• 1IIIWr whioh COD11tlOl1 the
+it 1.
+
+IIIQCb
+
+lnata bUlty atl11 perd ata, altbol lgh
+
+r.c1ucecl in magn ituda.
+
+ar.1 t7 on tile LePer . aD1
+
+1(azo-~ln
+
+,
+
+The lo~atlona of the cente r of
+
+are not determ ined.
+
+It h prob-
+
+able $hat tl» C. G. po8it ion coeff icien t on the IN would
+have to be
+
+-
+
+--
+
+-
+
+Page 10
+reduced to about
+
+zB%
+
+to secure a satisfactory average of stability.
+
+The C.G. must be farther forward on the IN than on the Vought in ordel" that stability may be satisfactory.
+efficiency of the tail
+
+s\~faces
+
+Th is is due to the greater
+
+on the Vought.
+
+SUIlIDarized, the conclus5.ons to be drawn from the results of
+
+,
+
+,j
+
+.',
+
+these experiments and from the theoretical analysis are:
+
+I
+
+1.
+
+That tail surfaces should be of large aspect ratio.
+
+2.
+
+That the stabilir.er. or tail-plane should be larger thaJ:l
+
+.j
+,!
+
+the elevator, and that the elevator shoa\d be as light as it can sa!ely be made, it3 center. of gravity
+
+be~.ng
+
+kept as near ae possible
+
+~,I
+
+~
+
+i
+
+I
+I
+
+I,
+
+to the hl.nge.
+3.
+
+I
+
+'!'hat the tail should be cambered both above and below,
+
+the upper camber usually being greater tha.ll the lower.
+(, 4 •
+...
+
+1<-"1
+
+That
+
+the center of gravity should be from 2&% to 30%
+
+1
+
+back of,\the mean chord.
+S.
+
+,--
+
+1'ba.t the thrust-line should be as high as it
+
+c~~
+
+con-
+
+ven1ently be placed.
+Although no scale for
+
+lndicat~ng
+
+the elevator angle at an1
+
+instant was fitted to any of the three machinee tested in Dayton, some
+idea of that angle in no]ma). flight could be gat ned_ in the case of the
+lePere b.1 observing the position of the balanced portion of the e1evator with relation to the adjacent edge of the stabilizer, and, in
+the case of the Vought, by recording the pOSition of the stick in the
+front cockpit (by
+
+~asur~ng
+
+the distanC3 fr.om the head of the stick
+
+, to the instrument board) and determinlng after landing the elevator
+angle corresponding to the observed stick
+
+pos ~. t;. on.
+
+Stabili ty w;. th f:\xed or locked controls is deduced from
+the 8'101'8 of a curve of elevator angle against sIleed, the method
+of analyzing thia curve being discussed in f'llll in Report No. 70.
+
+II
+
+--
+
+-
+
+---------------------~
+
+Page 11
+I
+
+wbere i t ...... shoe alao that the DH4 bad a stable curve of elevator
+
+, anglo. at all speed.s, while that of the IN was stable at low 8peeda
+
+am
+I
+
+'W18taOle at high.
+
+While 1t was impossible to make a:tJ3 exact
+
+meaauzoemante in the cases of tbe
+
+Vo~t
+
+and LePere. i t was evident
+
+; tbat tba tirst ot these machines would. poaseas a small, but smpll'
+I
+
+.artlcieDt dagr.. ot
+
+a~billtl'
+
+with locked, as with free, oontrols.
+
+I
+, !be LePere WIOuld. be aubatant1al.ll' neutral with locked controls and
+
+! open
+
+I .
+
+throttle, .\able with olosed throttle, as the poSition of the
+
+I .t1ck tor .tra1&bt t11&ht
+
+I COuld. be
+
+with open throttle is, as nearl, as
+
+cSeMcted, the .... tor all air-speeds.
+On the VOUSbt, tbe ans1e ot the eleyator to .tabil1zer,
+
+I n\h opeD throttle, ranpd
+
+tr~ .. 1 0 at low spelds to of 3 0
+
+In &l1c11JJg, the elevator ... palled ~ to a negative allgle.
+I
+
+at high.
+
+On the
+
+LePere, on the other ham, the elevator waa in line with tbe stabUla .. with throttle open and aet ~bout _40 to tbe t1.xed surtace when
+tbe throttle .. . o1088d.
+
+The.e tigures have an 1nter,sting bearlns
+
+on the t&1l-beaY1De.. of tbe LePere.
+TaU-heaylDBs. ord,inarl11' means that tbara is an
+
+'UpWU'd
+
+aU torce on the e1aYator, and that the moment 01' this force about
+\he ~ 18 more thaD eutflcient to bel anoe that
+
+MaTT
+
+J..
+
+ot
+
+the we1gbt of
+
+Thi., al80, i. 111 spite ot tbe tact that the angle of
+
+aero litt tor the Jlf tall surtace. would be analler than tor tbe
+.,...trloall7-ce~
+
+tail of tbe Le})ere.
+
+T9 tab another instance,
+
+- - - 1;
+
+Page 12
+
+Ithe
+i
+
+DH4. with a taU having nearly the same section as that of the Le
+
+I
+lPere, is nose-heavy at all speeds if the stabilizer be so adjusted
+
+Ithat the elevator allglea are equal to
+I
+
+those on the LePere.
+
+With the
+
+! stabilizer adJusted for proper balance, the ~levator has to be pull-
+
+I
+
+l ed down to a positive angle of from 2° to 4°, whereas on the La
+
+I
+\
+
+, Pere it has to be pulled up to a negative angle to the wings and
+
+I
+I
+
+the machine is still tail-heavy.
+
+The stiok forces required to balance
+
+I
+I
+
+, the weights of the elevators are substantially equal (within l ' lb.)
+
+I on tha DB4 aDd LePere.
+I
+
+I
+
+The conclusion is that the measurements of forces and an1
+I
+
+isles on the LePere. if interpreted in the ordinary wa.y, lead. to
+: diametrically opposite conclusions, and that the two sets of data
+I
+
+1
+
+I can
+
+only be reconciled by taking account of the balancing portion
+
+!
+
+lot the elevator hitherto ignored.
+1
+
+I
+I cally
+
+Since the center of pressure of a flat plate or
+
+s~etri-
+
+cambered surface approaches the leading edge as the angle ap-
+
+proaches zero, it is evident that, if such a surfaCe be hinged anywhere back of the leading edge, the curve of C.P. travel will eross
+the line ot the hinges at least twice during the range of angles
+· normally used.
+
+Such a surface is used on the LePere, and, wh<3n it
+
+is observed that the balanciIlg portions are in a pOSition where
+
+they carry a much larger unit pressure than a.D¥ other part of the
+elevator, it
+
+~ears
+
+highly probable that the elevator is overbal-
+
+aneed under some conditions.
+acoount for the seaming
+
+ot tail-heaviness
+
+m8¥
+
+If this be the Case, it would fully
+
+ano~y
+
+in the control forces, a8 the effect
+
+be produced by a down load with the center
+
+ot pressure forward of the hinge, quite as well as by an up load
+
+Page 13
+applied behilld the hinge.
+
+In view of the difficulty experienced with the balance
+of the LePere fighter and of the considerations just stated, I
+strona1y recolImend that the effect of eliminating the balancing
+part of the elevator and adding that area to the stabilizer be
+tried.
+
+=-----.~~- --
+
+- - - --
+
+- -
+
+-
+
+- - - -- --
+
+- -- ---=:1
+
+/1{;4
+
+-+-
+
+,
+
+.-
+
+,
+....
+
+-
+
+.
+
+-1----
+
+I
+
+~t
+i..
+
+--+
+
+-/P
+
+/ / 04 - / 8 .
+
+!
+i
+
+!
+
+I
+
+I
+
+I
+I
+
+I
+
+I
+
+I
+
+,
+
+~
+
+i
+
+et- /l lro ~
+
+Fo/ ces
+0 'H- ..
+
+I
+
+- - - .....
+
+~/l
+
+.,..
+
+I
+"l "L
+
+I
+
+ra. ~
+
+~
+
+, /0
+
+.;- 8
+
+!
+I
+
+~(L
+
+~4
+
+~
+
+,
+
+~
+
+v ... s:>
+
+--
+
+I
+!
+
+I
+
+I
+
+I
+
+~
+~
+
+I
+
+~
+
+-5
+
+. ~
+
+I
+
+I
+
+k
+
+~
+
+~
+
+I
+
+~
+
+I
+
+I
+
+""-
+
+10
+
+'\!\.
+
+'" ~
+
+I
+?~
+
+8r;
+
+I
+
+.9()
+
+Ie '/0
+
+u
+A /r S"oet O"( ~ H.)
+I
+
+/. 0
+
+-
+
+1\
+
+~
+
+~.
+~/4_
+
+~\
+
+~ - t-~
+
+~ PA
+
+I
+
+.........
+
+9...<v
+
+I-
+
+I
+
+.....
+
+'"~
+
+--P.,<:)
+
+~A:>
+~
+
+I
+
+~
+
+. ~
+
++ .........
+,>:
+
+I
+
+~~
+~~
+
+I
+
+!
+
+·4
+
+~
+I
+
+,
+
+Vco
+
+I
+
+. ..-0
+
+'
+
+,
+
+..........
+
+f)
+
+8
+
+I
+
+~
+
+\
+~
+
+!\+
+\
+~
+
+I~ ')0
+
+Sl'iclr (L IJs.)
+
+....
+
+Q)
+
+..
+
++
+
+-
+
+- --+
+
+.-
+
+6
+-- -X . ~ 0 ~
+
+~
+
+~~
+.... .))
+,...
+"
+Ct)
+CD
+
+\:)
+
+....
+...
+
++-
+
+...
+
++
+
+-
+
+•
+
+•
+
+~~
+
+.1 :....
+~~
+~.
+
+.~ 6'
+~
+
+f7
+
+')
+
+~
+
+C)
+
+~~
+'SCi)
+1~ ~
+
+b
+
+o
+
+7
+
+St/ clr (Lbs.)
+"i-
+
+f\)
+
+•
+
+-
+
+.
+
+II
+
+.
+J
+
+-.
+
+r
+
+1--/-
+
+..I
+
+t-
+
+t
+
+I
+
+-1-[
+
+--
+
+.-
+
++-+
+
+x
+0)
+
+-
+
+--+
+
+I
+
+I
+
+I
+
+(!)
+
+I~ C)
+C'\
+
+t
+
+0i U)
+. 01 .
++
+
+~
+
+'i()~
+~~
+
+~
+~
+
+(U
+
+Ch
+
+~t
+
+,
+
+t
+
+~~
+
+L~
+
+"t-
+
+I
+
+;-
+
+Cll
+
+-
+
+-
+
+'"
+
+~
+
+For e
+
+0 '7
+
+stick(LiJs)
+
+I
+
+I
+
+ru
+
+~
+
+.
+
+..+
+
+i
+. e
+
+--1---+
+
+-.---r-I---+ -
+
+---+--t-- -
+
+-
+

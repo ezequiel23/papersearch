@@ -1,0 +1,1448 @@
+1-
+
+?
+
+..
+
+.,.
+
+T~cHJJI CAL
+
+,.
+
+]f?-iJ~JOR~D~s
+
+NATIONAL ADVISORY COIWITTEE FOR AERONAUTICS
+
+No. 43
+
+..
+. ..
+
+THE SMALL DIESEL ENGINE AS AN AUTOMOTIVE ENGINE
+By Dr. Ernst Frey
+I
+
+I
+
+From “Der Motorwagen,” January 20, 1920
+
+!.
+
+TO retmwi 10
+ba
+the fll @wR%+m#ey
+
+,
+
+M~mwid Aeronautical
+Ldwatwy,
+
+,..
+
+... .
+
+.,------ .. ..
+
+. ....—. .
+
+Washington
+Septem”~er, 1921
+
+v;.
+
+,’
+
+.....
+
+.—
+
+.:
+“, .
+... .
+
+,“,
+
+THE EMALL DIESEL ENGINE AS AN AUTOMOTIVE ENGINE.
+*
+.::.
+.
+By
+
+,“.,:
+
+Dr. ..
+Frey.
+,,
+.,,.. Ernst ....,.,.,,
+_.,._,
+. .,..,.,,,.,
+., ...
+—
+
+-,, .-..,
+
+The scarcity and high cost of the light hydrocarbons has led
+to a great variety of experiments foy utilizing’ heavier fuels, like
+pet roleum, crude oil,
+gines
+
+without
+
+and even tar oil, f OY d~iving
+
+making anY irl~ort
+ant thaw=s
+
+~utomot ive en-
+
+in t~leengines ~t
+hem$elves
+
+q
+
+It was t o be fore seem that this kind of experiment iilgWould bring
+no satisfactory re suit.
+
+Aside from the excessive fuel consumpticm,
+
+which was generally over 300 grams per ~-hourj
+
+the Inlain
+fault Con-
+
+f
+sisted in the rapid fouling of the eng’’in.erom inG~Wlete
+
+StI
+C 13M”DU iOil
+
+Since, up to the present time, the cowplete combustion of the
+heavier hydrocarbons has only ‘been possible in the Diesel engine
+(aside from engines with much higher compression md
+
+hot-bulb en-
+
+gines, which can hard~~ be considered fcr motor-cars) , nothing
+seems ~Lore natural than to fit out moior-cars with small Diesel eng ines
+
+Still, there lC tc(iay no serviceable
+
+avail able .
+
+si~all
+
+Diesel engine
+
+There is, ‘;he~e~ore, a vvide-spread opinion tkat the
+
+Diesel engine in small sizes is not feasible, on account of a serieE
+,
+It should be remembered, however,
+of insurmountable difficulties.
+a
+t’hatthe reason for there be irig-nopract ical sw. ll Pie sel engine
+available is that no large firm wit h sufficient experience in buildil
+ing Diesel engines has ~ tint recently> given the matter serious
+attention.
+
+These firms not only lack work-shops for producing moto~
+
+*Translated from. Ilderl~OtOr~vwenj
+
+“
+
+January 20: 1920. pp. 30-33.
+
+-?-”’
+car engines, but often also any ~~derst anding of the coming impOrt;.:J
+:,. ,
+..,.,.
+.,
+ante of light engines= On the other hand, automobile firms lack
+the valuable experience in building Diesel engines.
+.,, . . ..
+.
+.
+,..
+‘,,
+
+In this re-
+
+.
+
+spect, and partly on account of the war, there have been many
+changes, so that in the opinion of the author, within two years at
+the latest the small Diesel engine will gradually replace the hitherto common automobile engine.
+
+It is assumed that the future en-
+
+gine will be fully adapted to the new purpose, which will require
+various structural. changes in the regular Diesel engine.
+
+The main
+
+character stic of the ~ie sel engine, that of intreducing the fuel
+in the most finely divided condi% ion possible into the highly heated air charge, must howeve~ be retained, since it is to this very
+character stic that ijb.e
+co-replete
+cor~bust
+ior~is to be attributed+
+Whether the imt rociuct on ani spraying of the fuei is accorui
+plished, as customary, by mlesns of compressed air, or, as has recently been successfully done, by purely mechanical means
+
+(by the
+
+pressure Srcm a pump.! i.S li..iiifi’ere?lt
+. Either method is aaapted
+to the small 13iesei engine in question, as has been demonstrated.
+In experiments by the author on an ordinary engine and also on a
+comopressorless engine (by mechanical
+
+spraying) .
+
+be used.must be determined. for each case.
+
+Wlnichmethod is to
+
+,
+
+s
+Warning must be given against 11emi-Die se111engines and the
+II
+simi,lar-~
+o-Diesel “
+
+engines.
+
+Engine swith incomplete. cycles are i“m-
+
+practicable. as automotive engines, for wiiichthe best is none too
+good.
+For obvious reasms,
+
+not aZl the structural details of both ex-
+
+-5-’
+,.
+perimental engines can be given here.
+
+We will give, however, the
+
+essential principles for ‘building Sma,llDiesel engines, and also
+‘.. .
+structural details, so far as f’e
+asible.
+.,, .,,
+,. ,... .,.
+.,,
+-.,.,.,,,,,, .,,
+!,.....~.,....,
+.. .
+.
+.
+1. Crankcase, – The pressure in a Diesel engi.nd”is’
+about one- ;
+third greater than in an explosion engine.
+tions, 40 atm. are taken. )
+
+(For strength calc-Gla-
+
+A comyle’ie Diesel engine is therefore
+
+15 to 20~ heavier than a regular automotive engine.
+
+Hence weight
+
+must b e saved, especial ly in the ‘crankcase. This renders it”necessary for the upper part of the crankcase and the cylinder block
+to be cast together (of aluminum or cast-i~on) .
+
+This increases
+
+the strength. in proportion to the smaller weight and at the same
+time reduces the cost of production.
+vantageous to insert steel liners.
+
+l?ort’ne cylinde~s it is adIn the one case, the danger of
+
+wearing out is thereby dimini shed and in the other case, as a resuit of the bette r cooling, the efficiency is greatly increased;
+that Is to say, assumi~~g the balance of heat to remain the same,
+the efficie~cy c~anbe increased, (by increasing the r,p ,h,.mmd, so
+far as~ract icable, the fuel charge ) in proportion to the effica~
+of the cooling.
+2.
+
+C.ranksha,ft. For raising the rather low mechanical effic–
+-
+
+iency in Die sel engines> iz is desirable to place the crankshaft
+pn roller or ball bearings.
+narrow,
+
+Since this kind of bearing is made
+
+we then obtain at the same time broad connecting rod bear-
+
+ings corre spondirigto ‘the high pressures.
+
+l?orthe sake of security
+
+there is a bearing on each side of every crank (for example, five
+bearings for a four-cylinder engine) .
+
+The customary pressure lubri-
+
+~;,.
+
+cation of the driving mechanism mu$lj, nevertheless-, be retained.
+-r
+s. Pistons .- Each piston has $ deep hollow in the middle, so
+,,
+
+that the air for the combustion..w+l! be compre sseti.ncle the fuel
+u
+r
+int*e
+
+valve, a~ear
+
+the middle as @ossible.
+
+F“orthe high compres-
+
+sion here required, the piston iher~‘has ir~its upper dead center,
+on its outer circumference, only a small amount of play (about 2
+min. ) ojjpositethe cylinder cover.
+4.
+
+Compressi on.- The exponent of the compression line cli:~’os,
+
+indeedj with the r.p.m. , bat on the other hand, for the small size
+of the engine, the heat-radiating
+to the cylinder capacity.
+
+surface i.slarge in propo%t ion
+
+The best values are:
+
+For n = 800 to 1000, G = 1.8;
+For n = 1000 to 140C), c = 20.
+5.
+
+Valve t iiaing. Example (four-stroke cycle) .
+-
+
+f,~et C“~dead center to 40°
+Fuel in-t
+ake valve is open froii 50 ‘~e
+after top dead center.
+Air intz&e valve i~open from !3°after top dead center to 40°
+ai-~erbott cm dead. ce.rj.ter.
+E~aust val ve is open f~om 45° before bottom dead center tc 10°
+after t cp dead cen’; r.
+e
+‘~-.l’~e open from 2° before top dead center to 120°
+is
+m=ter top dead center.
+
+St! art -h:
+
+6.
+
+Compressor for engines using compressed air.- A compressor
+
+(with two or three stages) must be lmilt with especial care.
+
+For’
+On ac-
+
+the sake of simplicity, we wil 1 cho ose o-newith two stages.
+
+count of tb.ehigh condensat ion (ahout ninefold within One stage)
+the installation of an interiiedia.te
+cooler is absolutely necessary.
+It is be stto install the cooler concent ric~ ly aro-cmd.he compresst
+ion cylinder.
+
+At the boitom of the cooler, an Outl%
+
+COCk
+
+or
+
+Valve
+
+must be provided for drawing off the oil and water from time to time.
+In regard to the size and the, ghoice of the st~e-rat io, we
+will illustrate by means of an example: a lm+’o-st truck-engine” of
+age
+40-50 HP, 4 cylinder, 125
+
+@ x 150 stroke,
+
+n = 800-1000, Compressor
+
+,.
+
+drive at flywheel end of engine, with fifth crank.
+
+According to ex-
+
+perience, the woluue of the part of the compressor oylinde r swept
+by its piston
+
+must be about 1/8 t o 1/’7 of the part of the
+
+(= VQ)
+
+work ing cylinder
+
+(= VA)
+
+swept by its piston.
+
+The compressor can
+
+then Sufficiently complete the reserve supply of air in the flasks,
+
+‘A’2
+‘c=T”
+
+1-l
+~ 4 ~ 1.252 ~ x 1.5 = 3.675 liters per revolution.
+
+3.675 ~ 3.675 ~ 0.525
+8
+
+~ 0.46
+
+,,
+
+!1
+
+1!
+
+In order not to obtain too small cylinlex diameters, the stroke
+is tsken at 100 mm.
+
+The compression cyiinder doss not then attain,
+
+even with a long piston red, the height of t‘neworkir.g cylinder.
+At 90 mm. @
+the high-pressure
+
+of the norua,l-pre
+ssure stage and at 30 rr;m.
+@
+stage
+
+of
+
+V. = 0..565 liter.
+
+TM receiver pressure would hereby be,’under apposition of
+,~-i
+equal clearance volumes in both stages> 8 atmospheres, but only sc
+
+11
+
+lozig ad~he low pressure
+
+stage is exerting full suction} that is, on-
+
+lY during the filling of the air fiasks.
+
+If, on the contrary, dur~’
+
+ing the normal drive, the air intake is throttled!, this is then, in
+it’se ffe ct, equivalent to”a reduction of the low-pressure stage.
+The receiver pressure will therefore, with the above given diameters of both stages, fall about G atm. in.its normal operation,
+that is, the normal pressuxe wil 1 work with only.,
+sixfold condensa-
+
+.
+
+,..
+
+.,
+
+..
+
+..-6 r:’;’
+tion and the high press.uze, on the Q~ntrarY>~with about ‘;relve ‘0
+“,,
+In order to obtain n~kirly equal..condensat
+iOn in both
+thirteenfold.
+desirable; to make the high p res~uxe
+stages, it would accordingly be ,,,-.
+.... .
+. ...-, -.,
+.
+.,
+.
+.. . .
+..
+,., ..
+stage still smaller than 30 mm. Q . This is, however, not possible
+in practice} since already a piston diameter of 30 mm. creates.diff iculties in preventing leakage resuiting from the exi raordinaxily
+high p ressure.
+
+Instea~of tnis, it is advisable to work with a pur-
+
+posely large clearance volume in the high pre~,
+w.@ stage and to increase the diameter of the high pressure cylinder correspondhgly.
+In proportion to the effect, the high pressure stage wil~ then be
+smaller, without any re suitirigdi sadvantage from this expedient.
+Foz the above case, the high pressure cylinder cam be conveniently
+‘!-l
+made with 40 mm. @ . ‘fCthen bec omc?s (0.32 ~ – 0.4 2 :) x 1 = 0.513
+liter per revolution, that is, it is large eno’~gh”
+It is still important to de.teri~ine
+the clearance volume of the
+high preswre
+
+stage whioh ma;’here be ca~ried. out for the a’oove
+
+example,
+(Normal pressure)
+(High
+
+II
+
+)
+
+ND 90 @/40@ )
+) 100 stroke
+I$D 40@
+)
+
+d
+
+If, for example, the nornal pressure stage has 57;clearance
+volume and the receiver pressure is to be 9 atmospheres [with un,
+
+throttled. intake ), then the voiumet ric’efficiency of the normal
+p ressure, without taking acccwnt of the losses end heat ing of the intake air, is
+q vol. ND = loo% - 5 (9 - 1) “= 60~
+the isothennia course of the re-expansiom line being taken for “
+granted.
+
+—
+
+. ,“
+.“
+
+-7-
+
+The actual air intake of the normal pressure st~~e then becoms
+
+For the —,.
+xeceiver pxessuye. to be 9 atmosphere s..,
+,, ,.
+. ...., ,,.,.
+V~ actual = ~
+= 34.2 cm. 3, or, siiicethe part of the cylinder
+by the piston of the HD (high pressure) stage is 125 cm.3,
+
+swept
+
+it becomes
+
+‘i’his
+requires a cle a.rancevolume ‘for the high pressure & age)
+~
+‘
+
+of
+
+v.
+
+q?-D
+
+100 - 2’7.4
+g_l
+
+=
+
+= 9.8~,
+
+in case the high presm re stage i .sto pxoduce a nifi.efold
+condensateon.
+Ii ‘~hle olytropic re-e.xp=ansion
+p
+is as~~meti, @ r instance
+n=
+
+413,
+
+then the clearance volume of the high pressure
+
+v actual
+‘D
+T volume~
+
+Hence:
+
+=
+
+40(3
+=
+
+‘T
+SF,D
+-
+
+The assumption
+
+45.1
+
++ 9 = 45.1
+‘+ 125
+
+X
+
+stage
+
+cm.3 , or
+100 = 35.08fi
+
+= 100,-,36.08 = 25 ~3fi
+3/4
+9
+-1””
+
+n = 4/3
+
+for the re-ex--~.
+sion line agre%s ap-
+
+proximate ly with the re~~itof the experiment carried out .;:ith
+air
+pumps and m~~ be taken as~he basis f.ozthe determinant
+ion of “the
+
+-8-.,
+
+c1 e aran GA?olume.
+
+It is n.atura ly ~~~thin one! s power to adjust the
+,,
+clearance volume in te ~+ing the mac@ine (best by means of a screw
+,,
+,,
+cap closing the high pressure cylin~er, which may at t-ne same t ime
+contaifithe high pressure valve) .
+
+~t is even possible to adjust
+
+the cleakance volume in the working !pfthe intake air and also the
+end pressure, so as to obtain any desired pressure i-nthe receiver.
+For the adjustment of the intake pressure the amount of the intak=
+air is regulated by a hand throttle
+
+(or autonatical~~) .
+
+Herewith
+
+there may be simultaneously regulate& the amount of air drawn in
+from the high pressure and also the pressure in the receiver.
+In the foregoi~g it was shown tha-~an intentional enlargement
+of the clearance volume in the high pres~ re.stage may have its acivantages. under some circumstances.
+
+It will ncw be shown that, aside
+
+from the cylinder enlar~enlent de sired in -the above itistance, the
+clearance
+
+volume
+
+of
+
+the
+
+high pressure stage an.d~in general, the
+
+clearance volume of an air i~UmPproduces no disadvant age, since the
+size of the’ clearance volum> ha~~o influence on the energy required
+for condensing a given amount of air.
+
+(According to HtitteXX, Part
+
+I, p. 329, the cent rary might be expected, but in reality’the clearance volume exerts no influence on the work requirement,.
+)
+
+,.
+
+One may satisfy himself in regard to tb-is in a simple msmne’r, “oy
+drawing two diagrams for clearance volumes of different sizes. and
+finding the relation of the di~ra
+surface to tile actual am,ountof
+.
+air sucked in. As will be shown, the same value is obtained for
+this ratio in both cases.
+In Fig. 1, diagram 1 2 3 4 1 corres~ionds to the clearance vol-
+
+-9v~ = O
+
+ume
+v~
+
+= 0.2 V
+
+I Ii IiI IV I
+
+and diagram
+stroke.
+
+to the cleararicevolume
+
+The condensa.~ion lines 1 and 2, as also I and
+
+II, are drawn a+isotherms, as like-wise the re-expansion lines
+III and IV.
+
+The 1’ troke-volume 11 VH
+S
+
+is assumed to be 10 cm., the
+
+irlitialpressure 1 c~fi,
+and the end pre ssure 2.5 cm.
+The energy requi.
+red witbout the clearance volume is equal,’
+.(
+to the surface. 1 2 3 4 1 = surface 1 2 2’ 1’ = A = <v’ p dv .
+~
+With pxv.=
+C”’
+1.
+
+A =c
+
+{v’
+
+$=
+
+c x
+
+v
+#-
+
+Iti
+
+~
+The intake amount
+cm. , and the rati.o ~
+
+V~g
+
+A
+
+=
+a
+
+2.
+
+1?
+
++
+
+II
+
+P“
+v=
+
+I
+
+x
+
+1 x
+
+in
+
+2.5 = 9.i63 cnl.~
+
+equals the tiisiance 4 + 1, d.h. = 10
+S .163
+iO
+
+The energy required” with
+
+is equal to the surface
+
+Al=
+
+= 10
+
+2
+
+= 0.9163.
+the clearwce
+
+v olurne v’s= 2.Ofi
+
+11 111 IV I = A’ == Al + AZ - Aa - AA.
+
+II 111 111’ TI’ = -i-m
+A <.
+-J-II
+
+.3 dv = 12 tn. ‘A
+‘T~I
+
+Iv
+
+Ivl 1~11 =’_
+
+&
+
+= 12 x ??rl.5 = 10.9956 wl.2
+2
+
+A4 =lx’7=’7cm.2=A2
+A’ = Al - As = 10.9956 - 4.58145 = 6.41415 cm.a
+v ~g becomes
+
+0.7
+
+VH = 7
+
+cm. and hence
+
+—
+
+.
+..
+;’
+,.
+
++-
+
+.,,
+
+“
+
+,.
+JV=
+
+!!.s&
+
+6. 414i5
+--T-
+
+Without
+
+=
+
+0.9163,
+
+jus~ the same as in Case 1.
+
+a numerical exanple.~.. ,,proof.”msy...,be
+the
+ca~?ied out as
+
+follows, the designations being the same as abo:ua “.
+1)
+
+.Vs=
+
+Q
+
+pxv=c
+
+=P1V1=P2
+
+VI
+‘A=
+
+V’*.’”,,
+
+absolute work of condensation
+
+“iI=Al=
+42
+
+.A
+—forv~=O
+v Sg
+
+.
+
+v1.
+pdv = PI VI ~
+‘.,+ = ,pl vl ?,rl
+‘e.
+V
+= vl, hence .
+Sg
+= p, v, in
+
+>.
+
+=
+
+PI In
+
+2
+
+‘1
+2)
+
+Vs”=
+
+.,
+
+a x v stroke = a. x v,,
+.
+
+(l+cdpivp-l
+
++
+a.
+
+abso~ute exhaust work = - AA = absolute intake work.
+re-expansion work = J
+
+‘III ‘III
+
+h.
+
+v
+— IV
+“rIII
+
+%pdv=
+.L -l
+L
+= pa’vs ~,n
+
+axvlxkxtn
+
+P&
+p
+= pz v~ in
+3
+v~
+<
+
+Hence At = Al - Aa =(l+a)plvlM~.
+a. xy~-x~
+
+x b.
+
+v
++.
+2
+
+-uSince V ~g = vI ‘VIV. =V1
+
++ ‘VI
+
+-
+
+(l+a)vl-a~l},
+.,—
+
+. .
+.
+
+.
+
+1
+
+. . .
+
+.
+
+Therefore
+
+~
+v Sg
+
+for V~=ax
+
+1
+
+~
+
+.T
+vSg
+
+forvs=O.
+
+This is the general pro~f thht the clearance volume hasno influence on the energy consumed.
+
+The above mentioned means
+
+(the
+
+ar-t ficiai enlargement of the clearance volume in the hi~l’pressure
+i
+stage) may therefore be applied,without hesitation to those mat-nines in ‘which, in cent rast with the engines here ‘considered, emphasis is laid on the energy requirement.
+
+The ene rg~ requirement
+
+fcr the compressor of the Diesel engine is somewhat less than 10%
+of the engine output and thereioze plays no important role.
+
+. .
+
+-
+
+12
+
+-.,
+
+‘“ Instead of the above menti,oned’ioeansfor enl&ging the high
+.,
+.
+,.
+compression stage, a“ smaller r.p.m. way be chosen for the compressor.
+~ong-, -however, as the reel?=,!!:. ,,. engine.,.,
+..
+-..s0
+of ,.
+tie
+does not exceed 1?00,
+
+it is better} for the sakq of simplicity; to drive the compressor
+directly from a crank of the crankshaft.
+As .*o the purely structural form of the compress >,, piping
+between the’tfio stages and the iece iver should be avoided ‘oil
+‘fixed
+eng”ines. By suit able construction, all”piping can be avoided, ~iith’
+.
+the “exce~t ion of the normal,pressure intake pipe and the high pressThe “air intake”cock is located near the en~ of the nor-
+
+ure pipe=
+
+mal pyessure intake pipe, within reach of the driver’ s seat, and
+..
+“corresponds to the desired” hand intake pressure
+matiq ,adjustment is provided) .
+
+(in case no autO-
+
+Small poppet valves.may be employed
+
+as “’compressorvalves, two or three for no>mal pres=wre and only one
+for high pressure.
+,,
+
+All poppet valves, including both suation and
+
+p,re
+ssure valves, can be used interchangeably with each other and
+also fcr 9ther purposes, isr instance, as non-return valves, etc.
+‘7.
+
+f w“ s:
+
+tiit
+
+Starting device. - In most
+—.
+h+
+
+,.
+
+the
+
+engine.
+
+cases, compressed air is used
+
+In order to maintain as large a supply of
+
+compresse& air as possible, the flasks are charged up to 80 or 90
+~
+atm. and, by means of a pressure reducing valve, the sta~”~ .ngPre Ssure is reduced t o about 20 atmospheres.
+for exa&le,
+
+The true starter consists,
+
+of a device by which at first all the cylinders are
+
+connected, with ‘firlt and, after sufficient increase of the r.p.m.
+a
+~Vith‘the “air compressor intake. “
+
+In order to inorease the safety
+
+in starting, the cylinders may be switched, one after the other,
+
+.
+
+I
+
+-13;
+.
+from “air[J to ‘Icow.presser, as is o’fen done on marine engines.
+1’
+t
+In this connect iqnj it is assumed that”“each cylinder has its’own
+,. .
+
+’,,.
+
+..
+
+.
+
+.
+
+intake valve.
+
+Iii’ase the-” t“akt”ing
+c
+s
+valves ~re operated by cow,-
+
+presseci air’ (by tieans of so-called “starting-valvesl’”
+and “dist’ribio-nof t’heerlgi-ne required,
+is
+uting pistonsll)
+,’no special m.odificat
+it being rnucb. ore sat isfactCzy t 5 ‘
+m
+e-mpl”oy s-t rte~:,nhic’h Shoald
+a
+a
+pre,
+ferab ly be located within reach of the driver! s seat.
+
+it wili
+
+not then be necessary to leave the driver 1s seat for thf?pL12pOSe
+of crank.
+ing tb-e engine.
+
+For sto~~p
+ing the engine, the starter is
+
+cb.tk
+brought to the stopping pcsiiion, at wti.i
+
+air intale is inter-
+
+In the case of a compressorlass Diesel engine, We csx.dis–
+.
+device by giving the
+pense ~~ltli the compressed air or any amtiiliarj~
+ss
+engine, with disconnect ed com~~re ion> the higke s-iFOSS ikle revolut ioilspeed by hand, ~andtki~n
+cylinder at first.
+
+ressio-min only one
+.bj’
+giving ful 1 cof~lp
+
+This requixes, however, considerable exPendj.
+-
+
+ture of, energy, so that, in case there ie no eiectria starter prOvidedi the employinent of a’disconne ctable compre ssed air starter is
+t o be recommended, especially as the compressed air can also be useti
+for the pneumatic ti?es.
+.
+
+_
+
+14’:.
+.
+
+8.
+
+.,
+
+Fuel pump with valve Rear and spraying nozzle. - The fuel
+
+pump and the ‘spraying nozzles are the most import ant parts of the
+
+...
+.
+Diesel en”gine. Tli’e
+”
+experiment “s-n-dert
+u
+&en
+
+in this connect ion, and
+
+still more the suggest ions made for the construction of these parts,
+are innumerable, notwithstanding that there is only one possibility
+for poly-cylinderengines,
+
+especially for swift -running engines.
+
+The fuel (however small in amount) required for each combustion
+must be measured to each cylinder by a special metering valve.
+Since the fue 1 pump cannot exert any real suction, the fuel must
+led to it from the cent airierunder moderate compression of about
+O. 3 atmosphere, v?hich can be generated by a small special air pump.
+In this connection, care ~iustbe taken t o admit no air into the fuel
+pump and, since small air bubbles cannot be prevented from flowing
+with the fuel toward..
+the pump, provision must ‘oemade for ,removing
+this air.
+
+Above all, the pump itself must be so const rutted that
+
+not the smallest air bubbie c-anremain in it.
+Fuel- pumps for poly-cy linde r engines with only one rcet ring
+e
+4
+
+valve and W+th so-called l’distributors,
+Itfor delive ring the fuel
+equal quantities t o the different cylinders, have been abandoned
+as iupracticable.
+
+Just as impracticable are the pumps in which,
+
+stead of ‘measuring the fuel, the spraying pressure is regulated.
+For poly-cylinder engines, such regulating, which may indeed answer
+for a one-qylinder engine, always gives unequal fuel cli tribut ion,
+s
+since the flow-resistance of the different nozzles is never the same,
+even with the most carefi1 adjustment.
+For
+
+int ske valves
+
+(so-called fuel valves) , needle walvea with
+
+- 15:strong springs have proven
+
+the
+
+best,
+
+their cylindrical stems
+
+witfi.
+
+made t ight.with stuffing boxes.
+If the spraying is done by me”,ans compressed air, then the
+of
+valve i’sforcibly opened (by &“’-c’till)
+during the spraying peri O&!and
+the air current injects the fuel which is located back of the valve,
+The so-called open nozzles, through
+
+intc the coxnbust
+ion chamber:
+which only air is delivered
+
+(the fuel being delivered by means of a,
+
+low pressure pump through an opening located between the air irit!se
+Q
+valve and the combusti on chsmber) are not so suit”ablefor high revolution speeds, such as are here involved.
+If the engine,
+
+on
+
+the
+
+cent rarys
+
+is
+
+equipped wZth a mechanical
+
+fuel sprayer, then the needle valve does not need tc be operated
+independent ly, but opens automatically under the pressure of the”
+fuel ‘pump and receives for this purpose a
+piston
+
+ciistri’buting
+
+(or
+
+metering)
+
+(similar to the needle %.alve of the qngli sh Rust on-Prokt or
+
+four-st ~oke hot-bulb eng ir~e .
+)
+
+Since the distributing piston cannot
+
+be kept,perfectly air-t .L@~ aX.U since leaks, however, moul-d cause
+~
+unequal distribut ion t o the different cylinders, it is desirable
+t o provide the distributing ~i$t on with an ab~olutely t $~ht stuffing
+b OX,*
+
+(Translated
+
+fr~
+
+/
+
+‘lderMotormagenl! January 20, 1S20, by N. A. fl.A.)
+
+. . .. . .
+
+“
+
+“
+
+——.—
+
+-
+
+. ..
+
+.
+
+<—...-- —.—---.+ +--”
+
+.
+
+.
+
+\
+
+-.
+
+‘H =.1: -——-”—---–––––
+
+‘-i
+I
+
+‘.–
+-
+
+!
+
+t
+
+t?. 23
+
+;
+
+Vp- .
+-4
+
+I
+
+I
+~–
+
+1,
+~.-.
+
+.-
+
+1
+
+I
+
+2.5
+
+..”
+
+,
+
+,“,
+
+(
+
+,,
+
+CM.
+
+!
+
+1
+
+I
+
+I
+
+3
+–~—-——————————
+—-.–
+“+- — ‘0. VT3.-.
+I
+
+..
+
+G.~VH—
+
+.“
+
+i
+i
+>!
+/
+
+~.,
+,:
+
+I
+
+1
+
+.
+v
+
+.Fig. 1
+
+.
+
+—
+
+.. ‘
+
+!.
+
+‘-’-i-”” ‘-“’‘
+
+,;,
+
+-
+
+L’.
+1,
+
+:’,’
+,;
+
+!:’,”
+:.,
+
+..
+
+!,3.
+
+~r..”,
+,!,
+.. .
+,:.
+
+.-”
+
+;-”.
+
+.
+
+(
+{:,
+,..
+;.,
+
+.
+,
+
+I
+
+.
+
+.
+
+.
+

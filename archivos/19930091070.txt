@@ -1,0 +1,217 @@
+REPORT
+
+NO.
+
+41.
+
+TESTING OF BALLOON GAS.
+By Jmrm
+
+DAVID EDWARDS.
+
+TM report was prepared at the Bureau of Standards for the National Advisory Committee for Aeronautics.
+In the generation, storage, and use of hydrogen for balloon purposes it is necessary to be
+able to determine, first, its lifting pow~, and, secondyj its purity. The lifting power may
+be determined directly from the specifk gravity. Contamination by other gases maybe d~
+termined by analysis ‘for oxygen, o-~bon dioxide, etc., by the
+usual methods of gas analysis. The detmnimdion of omen
+is importmt, since the presence of o~gen in amounts beyond
+certain limits wiU make the compressing, handling, and use of
+the gas particularly hazardous. If the specidcgravity of the ga9
+is known, however, it may not be necwsary to analyze the gas
+for oxygen and other gasee, beoauee the spediogravity itsell is a
+delicate criterion of the purity of hydrogem
+The -Ion
+method of dekmninkg the specific gravity of
+a gas is probably the simplest method available. It is based
+upon the fact that the times of mape of equal vohunes of two
+ga9ea through the same smill orifice are approximately proportional to the square roots of the densities of the two gases.
+This method hes been extensively investigated by the author
+and the full details of this work are given in Bureau of Standard
+Technologic Paper No. 94 on the “EYlueion method of deterIt was shown in this report that the ~. L_a~_
+~PI@.mining g-m de~ity.”
+forgwa.
+tna
+tiuaion apparatus as commonly made and used may give very
+inaccurate results, particularly when used with hydrogen,’ since hydrogen shows the largest
+errors of any of the common gems when tested by this method. The limitations of this
+method were pointd out and the principks which should govern the construction of sFLtiefactory apparatus were demonstrated.
+With this work as a basis, the Bureau of Standards designed a simple portable apparatus
+for testing hydrogen. The novelty lies not so much in the general form of the apparatus but
+in the size and shape of ita vtious parts, parthkdy
+the orifica, which me selected empirically
+to give a close approximation to the correct result.
+Demripiion of apparatus.—The general pkm of the apparatus is shown in @ure 1, which is
+approximately one-fourth size. The apparatus consists of a gas chamber (0) connected by a
+rubber tube at the bottom ta a movable reservoir (Z), which maybe held at a tied height in a
+support, as shown. The volume of gas whose ef7usiontime is to be measured is d&ned by marks
+on the tubes just above and below the gas chamber. The gas chamber is surrounded by a
+water jacket, to keep it at a constant temperature, and is coynected at the top to a three-way
+cock, which permits it to be connected with either the gas irdet (I) on the left or the tube (0),
+containing the o*,
+on the right. By lowering the reservoir L and connecting the gas chamber
+with the gas inlet through the three-way cock a sample of g= may be drawn into the gss
+439
+
+—
+
+——-
+
+.—
+-—
+—
+,-. —
+
+470
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMITJ!EE FOR AERONAUTICS.
+
+chamber; tho cock is then closed and the reservoir replaced on ita support. The effusion time
+is obtained by connecting the gas chamber with the orifice and measuring, with a stop watch,
+the time of passage of the water meniscus between the two marks. In brief, the method of
+making a testis to measure the time required for the measured volume of air to flow through the
+orifice under the pressure of the head of water in the remrvoir, and then to measure the time
+required for the same volume of tha hydrogen to flow through the orifice. The operating details
+and precautions to be observed % explained in detaiI in Technologic Paper No. 94, previously
+referred to.
+Certain features of the design are wsential to securing satisfactory results. The orifice
+itself is the most important part of the apparatus. It is made in a stiff platinum-iridium plate,
+The orifiw% 0.25 millimeter in diameter and is made by a
+0.04 millimeter in thickn-s.
+small punch am-ldie. The edges of the ofice on the side of the plate through which the punch
+entered are necessarily somewhat rounded. The edges on the other side are polished down quite
+sharp on very fine emery paper. The orifice is then sealed into a ghea tube, which is cemented
+into the metal holder. It is absolutely essential that the orifioe be attached in suoh a position
+that the sharp-edged entranoe of th~ orifice be on the side toward the effusing gas. If the
+entrance to the orifice is appreciably rounded, the apparent specific gravity of hydrogen as
+determined with it will probably be high.
+Very low effusion pressures, at which the Iargeet errora occur, are avoided by placing the
+leveling bulb some distance abovw the gas chamber. The three-way cook is made of metal to
+avoid breakage; the barreI is made large and accurately machined to prevent leaka and for
+convenience in setting. A pin is arranged to stop the cock always in exactly the same position
+when connecting the gas chamber with the orifice.
+Cc&u&z#ion 8pecijo gravity. —The specific gravity of a gas may be deiined as the ratio of
+of
+the weight of a given volume of g= to the *eight of an equid volume of air measured at the same
+temperature and pressure. The specific gravity of a dry gas referred to dry air is, for all practical
+purposes, the same for any temperature. But the specific gravity of dry”hydrogen compared
+with dry air is always diflerent from the speoific gravity of saturated hydrogen referred to
+saturated air. Moreover, the latter value is different at different tcmperaturm and pressures
+The spec~c gravity of the hydrogen under the conditions of tit is the ratio of the square
+of the time for hydrogen effusion ti the square of the time for air effusion, i. e.,
+(1)
+
+The following equations show the relation between the specific gravities of saturated hydrogen compared with saturated air and the specitlc gravity of dry gas referred to dry air. Tho
+derivation of these forrmdae is given in Technologic Paper 94.
+(S+k)
+
+1+”~-8-s,
+
+---
+
+,
+
+(l+k)–lc
+
+(2)
+(3)
+
+S-Specific gravity of dry gas refereed to dry air.
+& =Speoific gravity of saturated hydrogen referred to saturated air.
+The values of k for gas at 760 millhnetara’ pressure, and at various temperatures are
+as foUowe:
+~ABLE
+
+~.—vaked
+
+of h at
+
+760 nd~hn+?hwa nd variow
+a
+
+m
+
+tmperatureu.
+
+“:”:”’” :: ““”.“
+-
+
+TESTING
+
+OF BALL0019
+
+GA9.
+
+471
+
+Either the Iifting power or the purity can be calculated from the specific gravity of the gas.
+If the purity is to be calculated, some assumption must be made as to the composition of the
+contaminating gsses. It is USUdy satisfactory tO sssume that the contamination is air unless
+there is resson t.abelieve otherwise. The purity can then be calculated from the epeciflc gravity
+by mesns of equation 4.
+Purity (per cant hydrogen] -107.6 (1 –&)
+(4)
+If the purity of the gse contained in an inflated enveIope is ta be estimated from a determination of the oxygen content, it is usually incorrect to assume that the impurity is air,
+becsuse rubber is more permeable to oxygen then nitrogen, snd the air which penetrates the
+fabric (Bureau of %andsrds Technologic Paper No. 113, p. 25) is richer in o~gen than the
+atmosphere. Consequently the total impurity, oxygen and nitrogen, would be less tlitm corresponded h air of the s~e oxygen contant. Because of the sndl difkence in the densities of
+oxygen and nitrogen this faotor can be neglected in cahdating tie purity from the spedc
+gravity. However, it may make the purity calctdated from the oxygeu content as much as
+6 to 10 per cent 10W.
+Accuracy of metlod.-Wit.h reasonable care in the operation of the apparatti successive
+determinations should egree within 0.1 to 0.2 per cent hydrogen. The per cent hydrogen ss
+calculati from the speciiic gravity is usudy within 0.2 to 0.3 of the correct*.
+The method
+of making the orifices h= dted
+in great uniformity and the performance of different pieces
+of apparatus is correspondingly satisfactory.
+
+.—
+
+---
+
+APPENDIX.
+NOTEON THEEFFEC1’ WATER VMOR IN EYDIZOGEN UPON THE LIFTING POWER OF THE CM%
+OF
+h connection with the discussion of the purity of hydrogen it is interesting to note the
+effect of water vapor upon the Ming power of hydrogen. The specific, gravities of hydrogen
+
+r
+
+and water vapor sre 0.0696 and 0.622. The reduction in lifting power of hydrogcm when satuis shown by plot 2.
+rated with water vapor at ~erent temperatures
+If hydrogen is compressed in cylinders and the cylinders contain some water in the liquid
+form, then the hydrogen will be saturated with watar vapor at the tmnperature of the cylinder
+and each vohme of the high-pressure hydrogen will contain the same vohuue of water vapor
+as it wouId if under a pressure of one atmosphere aud at the same temperature; hence when it
+is withdrawn from the cylinder and expanded ta the lower premre it conti
+only a relatively
+small amount of watar vapor per unit volume. The gss is, therefore, comparatively dry if it
+hes been expanded from a high pressure. The magnitude of the loss in lifting power at one
+temperature (30° C.) md different pressures is shown in plot 3. The data in pIot 3 are computsd on the assumption that the gas will be expanded from the high pressure to atmospheric
+
+—.
+
+472
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+pressure without either mechanical entrainment of liquid water that maybe in b high-pressure
+oontainer or absorption of water vapor from this liquid during the period of expansion of the gas.
+In considering the advantages of using dry hydrogen for inflating balloons the fact should
+not be overlooked that rubberized balloon fabrios are somewhat permeable to wafar vapor.
+
+‘l%erefom, even though the gas is put into the balloon dry it will become partialIy saturated
+with water vapor which penetrates the fabric and will ultimately approximate the moisture
+condition of the surrounding atmosphere.
+

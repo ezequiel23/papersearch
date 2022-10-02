@@ -1,0 +1,1424 @@
+N GZ
+
+52033
+
+TECHNICAL ?i01'ES
+
+NAT:::mIAII ADVISORY aOM1iITTEE FOR P3RONAUTICS.
+
+No . 33
+
+THE EFFECT OF '!'HE NATURE OF SURFACES ON RF:SISTAHCE,
+AS_ TESTED ON STRUTS.
+
+By
+Dr. lng. C. Vneselsberger .
+
+11
+
+Transl3.teci from
+
+:13eitschrift fur F1ugtechnik und 11otorluft schi ffahrt ,
+febru~TY
+
+28 , 1930 ,
+by
+Paris Office , N. A. C. A.
+
+February J 1921 .
+
+NATIONAL ADVISORY COMMI'rTEE FOR AERONAUTICS .
+'
+
+•
+
+T~CHNICAL
+
+~OTE
+
+THE EFFECT OF THE NATURE OF
+
+No, 33.
+
+SUR!~AC.ES
+
+ON
+
+R~SIS1'ANCr:,
+
+AS TESTED ON STRUTS. *
+By
+Dr. lng. C. Wieselsberger.
+Translated from
+"2eitschrift f{lr Flugtechnik und Motorluftschiffanrt,"
+February 28, 1920,
+by
+Paris Office, N.A.C.A.
+It has been ShO 'NIl by measurements previously , aken of
+t
+model balloons, ** that comparat ively sl ight al tel.'at iona in
+surface may have considerable effect upon the resistance of
+a body.
+
+Reference need only be reade to the very striking
+
+results obtained by those tests as regards the resistance of
+a model balloon covered with fabric.
+
+The raised threads of
+
+the fabric ha',ing been scorched with flame, the resistance
+of the oalloon more than doubled in value, contrary to any
+procedure hitherto observed, when the REYNOL!)S
+
+sy~bol
+
+in-·
+
+creased frorr. about 100000 to 250000.
+In testino struts, similar observatj,ons have been made
+and are briefly reported as
+
+*
+**
+
+follows.* ~ *
+
+The struts in ques-
+
+Note3 com:nun:i.cs.ted by the aerodynamlc model testing laboratory at Gljt; ·~ ~ .::::, ge.fl.
+\
+Co~pa~e C. WIESE1SBERGER'S "Similitude TGsts of Model Balloons a.nd on"the Effect of the Nature of Surfaces," Bul .
+.80, of th~ Go-r.tingen La"ooratory.
+Published in the "Zeitschrift fur Fi.ugtechnik ti.nd Motorluftschiffahrt) 11 1915,
+p.l.85.
+
+-
+
+*** The first series of measurements was made durlng the War on
+behalf of the Deu~schen Flugzeugwerke, Leipzic. The strking nature of the results obtained led to further measurements being taken in a second series of tests carried out
+at the Laboratory.
+
+- 2 t ion ;vere mostly of great thickness> like those used in
+constructing gi ant aircIe,ft.
+are given in Fi g . 1 .
+d
+
+= 177
+
+mm.
+
+Their shapes ana. dimensions
+
+t~ickne
+
+':'he
+
+ss of the lct rge s"'j strut Nas
+
+The wind -,re:i.oci ty being raised to 45 m/ s, char-
+
+acterist~c 7alues of
+
+E
+
+~rere attained up to about 8000 m/sec
+
+malo, ti:1at is, the product of t he veloci ~y of the
+thickness of the struts.
+They were measured at
+
+?~ir
+
+The leng-'.;h of the struts
+
+~hat
+
+and the
+
+~vas
+
+2.5 m.
+
+length for resistance, and as the
+
+dian,eter of the airflow was only 2.23 m., tile stnlt s projected out of it, at each end, . into the still air.
+
+To what
+
+extent such airflo tl conditions resemble those corre sponding
+to unlimited :Length of stl'ut, that is, to uniform airflo.v,
+was
+
+estab~i8hed
+
+by
+
+mea~s
+
+of special tests
+
+whic~
+
+are to be
+
+reported later on.
+As we are at p resem; cniefly concerned l"lith
+~ions
+
+varia-
+
+of resistance brought about by the nature of the sur-
+
+face, tne
+
+meas~re m ent
+
+jected to any
+tioned
+
+the~t
+
+somewhat
+
+0=
+
+par~ icular
+
+s~ch
+
+resis t anc e Wil: not be sub-
+
+regu:i.e.t ion.
+
+It need only be men-
+
+the method of testing employed evi.dently produces
+
+hig~ e r
+
+fectly uniform.
+i~
+
+~he
+
+resistance than when the air£lon is per- ·
+The direction of
+
+~he
+
+airflow was parallel,
+
+all cases, t c the line of symmetry of the profile.
+
+In
+
+calculat ing the re sistance C w, only the large st strut surface
+affected by
+rectio~
+
+~he
+
+airflo N - that is, perpendicular to the di-
+
+of the wind - was alway s employed.
+
+The struts were s panned with linen (aviation linen), and
+then covered wi. th one coat of varnish.
+
+The top surface
+
+i-YaS
+
+...-=::;;::=;;r- - - - - - - - - -
+
+.
+
+-
+
+-
+
+-
+
+-
+
+- - -- - -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+- - -
+
+- - --
+
+--
+
+-
+
+-
+
+- 3 -
+
+not perfectly smooth after this treatrrent, being slightly
+rough owing to the thread.s and raised fioere of the fabric.
+The results of the me asurements of the surface of such nature are snown oy the dotted li!1e e of the curves plotted in
+Figs. 2 to 8, (PI.B.18 ) the resistance being given in terms
+of the chal'ac"teristic value.
+
+It is astonishing to :find that
+
+the resistance increases again , after first diminishing
+with the decrease of characteristic value, to more than double the quantity of t he lowest resis t ance in many cases, as,
+for instance, in struts
+
+3
+
+and
+
+7.
+
+The decrease that takes
+
+place at the outlet corresponds to the passage through the
+region of critical velocity. as has be en previously pbserved
+in the case of spheres and bodies of other shapes.
+
+The fact
+
+of there being little or no rising tendency on the part of
+struts
+
+4 and 5
+
+may be due to the accidental presence of
+
+less roughness in the fabriC.
+The surface was then alt e red by the removal of any roughness on it by means of fi l ing w
+ith sandpaper.
+
+The measure-
+
+ments of surfaces thus treat e d gave values represented by
+the extended lines.
+
+The increase of resistance vnth increas-
+
+ing characteristic varue, more or less marked in the first
+series of measurements, was no longer observable.
+
+Resistance
+
+always decreases with the increase of characteristic value
+excepting in the case of strut
+
+7,
+
+•
+
+w
+hich ehows a slight ten-
+
+dency to rise again.
+
+,
+
+The reasons for this phenomenon have not yet been fully
+explained.
+
+A
+
+theore~ic
+
+treatment of the preceding matter
+
+- 4 ...
+
+has not yet beer.
+
+p~ssible.
+
+The
+
+va~iatioj
+
+cf yesistance de-
+
+.
+
+pends, as is well known, upon the change of position of the.
+point of separation of the air filaments, which is, agaj. n ,
+in close relation to the turbulency conditions of the s epa rating air layer.
+
+When "there is a turbuler!t separating a?r
+
+layer, bodies of the shape in question usually offer less resistance than in the case of a lamina surface of sep arat icn.
+The . factors that come into play in the renewed resistance
+should therefore be thoroughly investigated.
+It may be as Rell to ffiention the low absolute value of
+that resistance, which decreases, under the most favorable
+Circumstances, to Cw = 5
+
+in the case of strut
+
+3.
+
+- 5 -
+
+tv'cv.Jc 'h.r. 1.
+
+W th
+i
+
+s~
+
+ightly rou8'h
+
+Ve loci"ty
+
+:Re s i s"tance : Coe i f j, cia r:t of
+Re s i starlce
+Press'\.tr~
+q kg/m ....
+Wg
+Cv
+V
+
+Dynamic
+
+0.3
+13 .8
+25.0
+38.7
+56.0
+76.0
+10J.0
+125.5
+154.0
+
+118
+14'7
+268
+39'1
+
+5- A
+0 _
+
+802
+1096
+1335
+1693
+2.
+
+6.2
+14.0
+24 . 9
+39.1
+56.5
+76.8
+100.0
+
+149
+169
+269
+402
+503
+749
+970
+
+15 . 5
+8. 85
+8 . 80
+8.55
+8,30
+8 .79
+
+surfac~ .
+
+m/s
+
+V
+
+Cha ract eris:ic
+v a~ue :
+E
+
+rom
+
+. m/s
+
+1 0 .1
+14 . 9
+80 . 0
+2 4 .9
+3 0 .0
+~ 4 .9
+
+.
+.
+
+546
+30 5
+1080
+13 4.-5
+1 6~30 '
+
+9~12
+
+4C .O
+
+8 . 33
+9.16
+
+44.9
+49,6
+
+1885
+2160
+2 488
+2676
+
+10.0
+15.0
+19.9
+25.0
+30.0
+35.0
+40.0
+
+539
+909
+1077
+1 3 50
+1 6 20
+1 8 91
+.8160
+
+'
+
+With smoothed surface.
+19.9
+10.0
+8.96
+8.54
+8.86
+8 , 08
+
+8.05
+
+E
+
+-
+
+~
+
+;::,. -
+
+T ::.. b 1 e
+
+Thickness
+
+STRUT No . 2
+1.
+
+Wit~
+
+?
+
+'-'.
+
+slign~ly
+
+14 .2
+25 . 0
+38 . 7
+5e . 1
+76 . 0
+100:0 ,
+125 . 5
+154.0
+
+18 . 7
+
+198
+
+8 . 25
+7 . 1'J
+
+198
+
+397
+4-81
+
+7.4'1.
+
+1330
+
+?71
+7.83
+7. 97
+
+1705
+2153
+
+8.1:3
+8 . 35
+
+722
+
+987
+
+2.
+
+6.4
+6.3
+14 . 0
+
+25 . 1
+39.0
+56.5
+
+76 . 8
+100 . 0
+
+221
+2.59
+194
+304
+
+441
+609
+801
+1036
+
+Wi1ih
+
+75 mm.
+
+rough surface.
+
+Coefijcient of
+Dyna!!ilc .
+R3sistance
+Pres3ure : Resistance:
+/ m2
+Cw
+a. kg /
+g
+W
+6.3
+
+d
+
+Velocj:ty
+v
+
+m/s
+1.1.1 -1
+15.0
+20 0
+
+24.9
+30 (:
+34.9
+4-J.O
+
+44- c
+v
+
+49.6
+
+Ci:a:r2cteristic
+va:!..uc:
+
+E mrr:.
+
+mls
+758
+1135
+15:)0
+1838
+2 2 5')
+268')
+
+30QJ
+3370
+
+3720
+
+smooti1ed surface.
+20 . 7
+15.1
+8.23
+7.23
+6.74
+
+6.42
+6.23
+6 . 19
+
+10 . 1
+10.0
+
+15.0
+20,0
+25.0
+3J.1
+35.0
+40.0
+
+758
+1753
+
+1125
+1500
+:t.873
+
+2255
+2628
+3C0 J
+
+7
+
+Tab 1 e
+
+ThickLess d
+
+SI'ti.UT No. 3
+
+1.
+
+Coefficient of
+
+Prel3su;t:e :Res1su2urlCe :
+1[[
+
+= 85
+
+lli~.
+
+With slightly rough sur:ace .
+
+Dyna!nj.c
+
+q kg/m'::;
+
+3.
+
+ry
+0
+
+Resistance
+
+CharaGt a ristic
+;,Tal a e
+
+Velocity
+v
+
+r S
+l'!/
+
+r~
+
+Cw.
+
+6 .3
+14.2
+
+206
+358
+
+1 :;" C
+7 . 64
+
+193
+
+25 . 0
+38 . 7
+56 .1
+76 .1
+100 .0
+127.5
+155 . 2
+
+639
+1163
+1 775
+250 6
+3505
+4333
+
+7 . 40
+
+..
+
+8 . 70
+::;' 0.9
+1. 2 . 2
+13. 2
+
+14.5
+1,±.7
+
+2.
+6.7
+14 . 4
+25 . 6
+39.7
+56 . 6
+77 . 5
+leO . S
+12? . 2
+
+16.6
+7.74
+6.30
+5 . 46
+5.36
+4 . 44
+';.79
+4 . 40
+
+1275
+17']0
+2118
+25;:)0
+
+±I>....J
+
+396:5
+
+3 tl0 J
+3830
+
+tr240
+
+W th smoothed surface .
+i
+
+210
+211
+
+753
+
+10 .1
+15 . 0
+20 . 0
+2' 0
+30 . 0
+3 -±. 0
+40.0
+:15 . 1
+49 . 9
+
+305
+
+410
+574
+652
+910
+1060
+
+10.3
+15 . 2
+2).5
+25 . 4
+30 . 2
+35 . ;3
+40.1
+45 .1
+
+.
+.
+
+E
+
+. :nls
+
+880
+129G
+J f"l42
+2130
+2565
+2990
+
+3410
+3830
+
+- 8 -
+
+STRUT No . 4
+1.
+
+: Res),stance:
+
+q kg!m :
+6 .2
+1 4.0
+24 . 8
+38 . 9
+56.6
+76 .0
+99 . 0
+1 25 .1
+154 .1
+
+Wg
+
+IG (~2
+
+2064
+
+329
+24-8
+378
+545
+752
+884
+1;;67
+
+r.OUg~l
+
+.
+
+= 94
+
+mm.
+
+surface .
+
+Cha:v-anterj. st ic
+value E
+mm . m/s
+
+Velccj.ty
+v rr..! s
+I
+
+23 . 3
+7.98
+7.45
+6.61
+6 . 13
+6.28
+6.24
+6.87
+6 . 36
+
+301
+2(:4
+278
+52·8
+729
+1005
+1305
+
+~
+...,
+
+6 .2
+14 . 0
+24 . 9
+39 . 2
+56 .5
+76.8
+100 . 0
+
+Wj,th 81 tght1y
+
+Coefflci ·_nt of
+Resistance
+:
+C '{I
+
+Dynamic
+Pressur~
+
+Tt.ickness d
+
+9.92
+15.0
+19 . 9
+2:5 . 0
+30 . 0
+34.8
+39.8
+44.7
+49.6
+
+9""'"
+00
+
+14G5
+
+'.
+
+18'70
+2345
+3820
+3270
+3"140
+
+4210
+4665
+
+vii th smoothed surface.
+25.2
+8 . 4,3
+7 . 22
+6.62
+6.34
+6.11
+6 . 03
+
+10 . 0
+15 , 0
+20 , 0
+25.0
+2.0 . 1
+35.0
+40.0
+
+938
+1405
+1875
+2345
+28;7
+3? '::11
+""'\..1
+3760
+!~.
+
+- 9 -
+
+T a b 1 e:
+
+Thic~Lless
+
+STRUT Ho. 5.
+
+1.
+
+a kcr/m
+....
+01
+
+J
+
+6.2
+14.0
+24.8
+38.8
+56.2
+76.2
+99.6
+101.5
+~S5.0
+
+Coeff~,-cj.ent
+
+of
+
+W g
+
+Re s j. 8 tan:)e
+Cw
+
+Velocity
+Yrl
+V - ,/ S
+
+159.6
+305.5
+507.0
+792.0
+1169.0
+1655.0
+2286.0
+2576.0
+4118.0
+
+8.90
+7 .50
+7.04
+7 c04
+7 . 15
+7.48
+7.91
+8.45
+9.1S
+
+9 . 96
+15 , 0
+19 .9
+25.4
+30.0
+35.1
+40.0
+40.3
+49.8
+
+.
+•
+
+2.
+6.5
+14.3
+25.2
+39 .0
+56.5
+76.8
+100.0
+
+d = 130
+
+Wi -:-;11 31 ~ . ghtly rough su:riace
+
+Dynamj.c :Resistance:
+Pressur~:
+
+5.
+
+306
+500
+749
+1064
+1411
+1842
+
+m:ll .
+
+0
+
+Characteristic
+value E
+rols
+,
+mm
+
+.
+
+J.294
+1950
+2587
+3290
+
+3900
+4560
+5200
+5230
+6.;75
+
+With smoothed surface.
+8.55
+7.37
+6.84
+6 , 61
+6 , 42
+6.32
+6.34
+
+10.2
+15.1
+20.1
+25.0
+3 0 .0
+35 . 0
+40 ; 0
+
+1323
+}.964
+3608
+32~7
+
+3900
+4550
+5200
+
+- 10 Tab 1 e
+
+6.
+
+STRuT No. 6
+
+1.
+
+Wi th
+
+.
+Dynamic .
+Pressure:Resista~ce:
+
+q k g/m 2 :
+
+s~j .g h t ~y
+
+rougt surface.
+
+Coeffic i ent of
+Resist ance
+
+Ve1oc:!.ty
+
+W g
+
+6.3
+14.2
+25 .1
+39.2
+56 . 4
+76 .5
+100.0
+
+•
+
+194
+424
+875
+1572
+2428
+3645
+4606
+6135
+7523
+
+8.9
+8.4
+10 . 2
+11.9
+12.6
+13.9
+13.4
+13.8
+14.2
+
+2.
+
+6.3
+14.8
+25 .0
+38 .7
+56.1
+76 . 0
+100 .0
+125.5
+154 . 0
+
+Cw
+
+v
+
+m/s
+
+Cl~aracteri
+
+v a .l:..:.e E
+mm ,. m/s
+
+W
+ith smoothed su=face.
+
+201
+397
+656
+969
+1363
+1 819
+2367
+
+9.26
+8 . 13
+7 . 61
+7 . 19
+7 . 02
+6.90
+6. 88
+
+10.1
+15 . 4
+80.0
+24.9
+30.0
+34 . 9
+40.0
+45.6
+49 . 6
+
+1555
+2372
+3080
+383 4
+462C
+5375
+61 60
+7020
+7640
+
+10.3
+15.1
+20 . 0
+25.0
+30.0
+35.0
+40.0
+
+1586
+2320
+3080
+3850
+4620
+5385
+6160
+
+st ic
+
+- 11 T
+
+Ci
+
+STRUT No .
+
+b Ie
+
+I,
+
+1.
+
+7.
+
+Thickness
+
+247.2
+494.5
+1104.0
+2324.0
+4058.0
+5935.0
+7981.6
+:::"0835.0
+:1 4003 . 0
+
+2.
+6.3
+14.3
+25.2
+39.2
+56.7
+
+76.7
+100.3
+128.2
+
+246
+458
+751
+1114
+1629
+2120
+2965
+3870
+
+= 177
+
+mm.
+
+With s ligntly rough surface.
+
+DY:larLic :Resistance: Coe:ficient of
+Resistance
+Pressuro
+W g
+q kg/m 2
+Ow
+6.2
+13. 9
+24.6
+38.4
+56.3
+7 8.0
+99.0
+125.0
+154.1
+
+d
+
+Velocity
+'oJ
+
+rr.ls
+
+10.1
+9. 00
+11.4
+
+9 .92
+1 4: . 9
+
+J. 5 .3
+
+2'; ,8
+30.0
+34.8
+39.8
+44:8
+49.c
+
+18.3
+19.5
+20.·1
+31.8
+23.0
+
+19.8
+
+:Characteristic
+value E
+mm .
+
+mls
+
+1 760
+2638
+3510
+439()
+5310
+e160
+7050
+7930
+8770
+
+With smoothed. s'lrface.
+9.87
+8.06
+7.55
+7.19
+7 .37
+7.00
+7.49
+7.66
+
+10.0
+15.1
+20.2
+25.0
+3 0. 1
+35.0
+4040
+45.3
+
+1780
+2630
+3575
+4435
+5330
+6195
+7090
+8010
+

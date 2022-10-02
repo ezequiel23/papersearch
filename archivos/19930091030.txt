@@ -1,0 +1,225 @@
+CASE FILE
+coe~
+
+•
+
+REPORT No.5.
+RELATIVE WORTH OF IMPROVEMENTS
+ON FABRICS.
+By THE GOODYEAR TIRE AND RUBB ER COMPANY.
+
+131
+
+. ..
+
+';'
+
+REPORT No.5.
+l
+
+RELATIVE WORTH OF IMPROVEMENTS ON FABRICS.
+By
+
+THE GOODYEAR TIRE AND RUBBER CO.
+
+If one seeks to determine the qualities which offer the best chance
+for improvement, without knowing as yet the exact means for effecting
+such improvement, the procedure is as follows:
+Assume that in a theoretically perfect fabric each of the following
+qualities would be reduced to zero:
+Weight (per unit strength) .
+Diffusion.
+Rate of depreciation (dollars per year).
+Heating coefficient.
+In terest and insurance.
+Moisture absorption.
+It may be admitted that, in practice, certain of the above qualities
+can not possibly be reduced below the well-recognized minimum of
+terrestrial materials, but this minimum is in every case so near zero,
+compared to the figures for ordinary balloon fabnc, that the point is
+of no practical importance.
+Applying the results to a dirigible and taking the items one at a
+time: If tlie weight of fabric is reduced to the assumed minimum it
+will save ; of the total running expense of the dirigible; where W is
+the total weight of fabric saved and D is the useful load carried.
+If diffusion is entirely eliminated it will save the entire cost of gas
+(including labor and overhead) except that which escapes through
+the valves, the interest on the original inflation, and liability to accidental deflation.
+If the fabric is made infinitely durable it will save all the depreciation of the gas bag except that due to accidental injury.
+If the heating coefficient is reduced to zero it will save the running
+expense of that part of the control system which serves to correct the
+effects of heating, plus w' of the total running expense of the diriu
+gible; where w' is the weight of app'aratus saved.
+If cost is entirely eliminated it WIll save the interest and insurance
+on the fabric (exclusive of building up).
+If the moisture absorption is reduced to zoro, it will save the cost
+wI!
+
+of apparatus to correct it, plus - of the total running expense of the
+u
+dirigible, where wI! is the weight of apparatus saved.
+13:'1
+
+134
+
+AERONAUTICS.
+
+Asswne now a modern nonrigid dirigible of 500,000 cubic feet
+capacity and speed of 40 miles per hour. Other data could be reason6-bly expected as follows:
+W= weight of fabric = 5,000 pounds.
+U = aver~ge useful load = 6,000 pounds.
+10,000 miles per year.
+Gross running expense, $100,000 per year.
+Gas leakage, 0.5 per cent per day.
+R einflation every three months.
+Gas and inflation cost at $0.01 per cubic foot (plus allowance
+of $10,000 for idle time), MO,OOO pOl' year.
+Depreciation of gas bag (fr om weathering and ordinary wear),
+$20,000 per year.
+w' = weight of heat-control apparatus (planes, fuel, and ballast), 1,200 pounds.
+Interest and insurance (military) on fabric, $15,000 per year.
+wI! = weight of apparatus to counteract moisture absorption
+(planes and ballast), 500 pounds.
+The above data works into th e following figures which show the
+gross expen e chargeable to each of th e items named:
+Per year.
+
+Weight ______ - __ ______ ______ __ _______ __ __ ___________ ____ ____ $82,000
+Diffusion ____ _______ . ________________________________________ 40, 000
+
+~~~~~i~~______~ :: ___________ :::::::::: ::: :::::: :::::::::::::::::: ~g:ggg
+
+Interest and insurance ________________________________________ 15,000
+Moisture absorbtion __ ------ - - - _- _- _- _________________________ 8,000
+
+(These figures are of course largely overlapping and can not be
+summed up into a total. )
+Expre sed on a percentage basis for tho various qualities sought for,
+we get roughly the following:
+Quality:
+Relati\'e importanoo_
+Lightness ... _________________________ . __________________
+44
+Gas tightness __ ____ ______ ___ ___ _____ ____ __ . ____ __ . ______
+22
+Durability (dollars per year) ______________________________
+11
+Low heating_ ____________________________________________
+11
+Cheapness _________ __ ___ _____ ____ ________ ____ __ ___ . ______
+8
+Low moistUl'e absorbtion __________________________________
+4
+100
+
+For proportional improvement it will be seen that lightness is by
+far the most desirable quality, while mere cheapness of fabric 18
+almost the last thing to be sought.
+The table also furnishes means of determining whether a proposed
+change in the design of a fabric is worth while.
+In effecting a certain improvement other qualities are generally
+affected at the same time, sometimes adversely. To determine the
+degree of not improvement multiply the per cen t improvemen t in each
+quality by its qu ality gauge number, and add up the products. If
+the result is I?osltive a net improvement has b een effeoted proportional
+to the magmtude of the figure. For instance a 5 per cent saving in
+weight woUld he worth wliile even if accompanied by a 20 per cent
+increase in cost, other things remaining the same.
+It should be carefully noted that this p articular scale of improvements is strictly applicable only to a ship of approximately the characteristic ahove n amed, and to that only under certain fixed condi-
+
+;
+
+135
+
+AERON AU TICS.
+
+J.
+
+tions of operation. It is only taken as a rough guide to present day
+dirigibles III general. Whenever the fabric, the dirigible or its conditions of use are much changed, the fabric improvement scale must
+be changed accordingly.
+It h as been argued by some that the economic basis of design can
+not be applied at all to military work. With this I decidedly do not
+agree. It is true only to the extent that certain items of cost such
+as initial investment are often of small, sometimes negligible, importance compared with other items. But if the analysis IS complete,
+It may be put squarely on an economic b asis, it being only necessary
+to estimate the t1'ue saving for each of the possible improvements
+above nam ed, applied to the particular requirem ents and conditions
+governing the case in hand.
+It is evident from what has been said that for a dirigible of certain
+required specifications a definite equation exists connecting all the
+major qualities of the fabric, from which the fabric m ay be rigidly designed with respect to maximum ultimate economy.
+The same prmciples apply to balloons and aeroplanes. For an
+80,000 cubic root spherical balloon (the Goodyear), the following order
+prevails if used for p assenger flights (1 d ay trips) .
+
+i1J!~ili~y: ::: ::::::::::::::::::::::::::::::::::::::::::::::
+flli:a~::~~.· ..'.' ::::::::::::::::::::::::::::::::::::::::::::
+.
+
+misturea sol'b tion.............. ........................
+o b
+
+Low
+Gas tightness. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+~~
+
+ig
+8
+2
+
+For a 100 horsepower tractor biplane the same six qU8,lities run
+approxim ately :
+
+~J!~ritY::::: : ::: : ::::: : : : ::: : : ::::::::: ::::::: :::: :::::::
+
+Cheapness. . . . . . . ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . •• .
+Low
+
+~g
+
+15
+5
+g
+
+misturea sol'btio.............. ............. ....... ,...
+o b n
+t~ti~:a~~s.,,,,,,,,,.: ::::::.' ::::::::.::::::.:::::::::: ::: ::~: :: triflin g
+' '
+
+AUGUST
+
+17, 1915.
+
+."
+
+.
+
+S. Doc. 268, 64-1.
+
+;
+
+S. Doc. 2118, 04- l .
+
+1 36- ~
+
+\
+
+.' . nne . 2(;R. 64-1.
+
+_J
+
+R. Doc. 2G8, G4-1.
+
+•
+
+Cotto""
+
+S. Doc. 2GS, G4-1.
+
+r
+
+Cot to ,on, 0 0 F ed I r s li t
+1S6-G
+

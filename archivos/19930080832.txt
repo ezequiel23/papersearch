@@ -1,0 +1,681 @@
+FILE COpy
+NO. \-w 1
+
+TECHNICAL NOTES.
+
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+No.26.
+
+!LVAR.IABLE SPEED FAN DYNOt\1OM
+ETER.
+
+By
+Karl D. Wood,
+BUREAU OF ST&IDArtDS.
+
+December, 1920 •
+
+.
+
+NATIONAL ADVISORY
+
+COM~ITTEE
+
+TECHNIC~ NOT~
+
+A VARlAOLE SPEED
+
+FA~
+
+FOR AERONAUTICS
+
+NO . 20.
+
+DYNAMOMETER .
+
+Karl D. Wood ,
+Bureau of Standards .
+
+.
+
+The following Technical Note descri:ptive of a Vari abl e Speed Fan
+Dynamome ter, was prepared under t he supervi s ion of t he Aut omotive Power
+Plant Sect ion of the Eur sau of
+
+Standa~d~,
+
+and submitted
+
+t~1r ough
+
+the
+
+Subcommi ttee on Power Plantd for Aircraft t o the National .Advisory Commi etae for Aeronautics f or publicati0H.
+Fan brakes are widely used as absorptiun
+
+dYl~ometers
+
+in te sting
+
+internal combustion engines because they are c omparatively simple, inexpensive, w1d flex ible.
+
+They have, hmTever, the disadvantage t hat a
+
+given fan will run at only one speed when t he engine is delivering
+full power, tbat speed. being determined by the size, proportions, and
+environment of tbe fa.n, and t):].e density of the air.
+
+In order to be
+
+able t o vary the speed at which a given power will be ab sorbed, English
+manufacturers have for some time been u s i ng a cylinlrical housing around
+the fan with one or t wo variable openings in the periphery.
+
+The te s ts
+
+here reported were undertaken by t he Automotive Power Plant Section of
+the Bureau of Standards to determine how grea t a range of speed
+cbtai ned v:i t h such a device.
+
+The tests made show tbat a
+
+pO'Ner
+
+C~1
+
+be
+
+ra.tio of
+
+5 to 1 can be obtained, power rati o oeing def ined as t he r a tio of t he
+
+,.
+
+power absorbed by thd fan at a given speed with the outlet open to tte
+
+- '2 -
+
+power absorbed at the same speed wIth the outlet closed.
+
+Since the power
+
+abs ·:>rbed by the ian v:.\,rles as the cube of the speed at whioh it runs,
+the speed raUo (uefined similarly to pmver ratio) obtainable with such
+3
+a fan is
+{5 or 1.7. The J.ata show that improvements in the design
+of the fan brake can make the speed ratio approach but not exceed a value
+of 2 to 1.
+
+The meaning of the terms power ratio and speed ratio is more
+
+clearly seen frore t he dia.graos.
+
+Data of the B. F. Sturtevant Com2any snow that the power ratio of a
+•
+
+centrifugal blower, which i s essentially the same as a fan brake, is indeFenient of the speed and size of the blower, depending only upon its
+shape and pr.oportions,
+
+an~
+
+it is supposed t hat this is also true of fan
+
+brak.es.
+A brief outline vi prev:1.ous
+
+wor~
+
+on fan brakes, descript1 cn of the
+
+experimental apparatus and methods used in the tests,
+
+~~d
+
+a more de-
+
+tailed statement of r9sults are given below.
+
+It has often been shown
+
+exper~enta11y
+
+that for a given fan brake,
+
+the relation of power (hp) to speed (N) is expressed by an equatien of
+the form
+hp
+
+= kN 3 . O
+
+The constant k in this equation depend.s upon the size, proportion, and.
+environment of the fan and toe density of t he air.
+
+In order to obtain
+
+another desired relation of speed to hcrsepower, one or
+quanti ties c ontrolling tne constant k must be varied.
+density
+
+inv ~ lvas
+
+such elaborate apparctus as to be
+
+ffi~T.e
+
+Control of air
+
+disca~d.ed
+
+Control of size of fan generally necessitates stopping the
+I'
+
+of the
+
+at 0nce.
+
+~~gine
+
+in or-
+
+der to get a different constant, yet this metnod is usee:. t o a consid-
+
+erable extent in commercial engine t ·a sting in spite of its inconvenience,
+as in the Fran1:lin Fan Dynamometer, specifications and calibra.tions for
+'nhich are given in the S.A.E. Handbook, Vol. II, p. 45.
+design
+
+~
+
+dia~eter
+
+device which will change the
+
+It is possible to
+
+of the fan bla.des or the
+
+angle at which they s trike the air vri thout stopping tb.e engine. but such a
+de\'ice is necessarily rather ccmplex, and. may be f o\md unsui ted t o highspeed work,
+
+Fans of t h is type are, nevertheless, used by several French
+
+engine manufacturers.
+
+.
+
+By
+
+eltminL~tion.
+
+it is seen that the control of
+
+fan envir onment is the simple st a..'1d easiest method of controlling the
+horsepower-speed relation of t ha fan.
+
+M
+organ and W
+ood (see bi bliograpby,
+
+item 6) give some data on the influence of the environment of a fan on
+i t-s horsepower-speed relati on.
+
+The~-
+
+a wall in the vicinity uf a fan
+
+~d
+
+around the
+
+f~l.
+
+Concerning
+
+give diagrams showing the effect of
+t he eff ·3ct of putting a square box
+
+rep~od~cibility
+
+of results, they point out
+
+that ordin1:iry weather cb3.nges may affect the pOY a'jer osorbed by the fan
+by as much as 2:l%, an':' express the opini on t hat a fan brake is of little
+use in exact scientific tests unless s eme means of mea suring the t orque
+is used in c onjunction wi th it.
+Although English manufacturers have long been using the method of
+altering the environment. they are not
+
+knov~
+
+to have published any in-
+
+formation showing the range of speed c ontrol available.
+
+Hence, these
+
+experiments were undertaken wi th a view t o a.nswering the following two
+questi ons:
+(1) .
+(2).
+
+What range of speed control is obtainable with a fan brake?
+Given the rated horsepower an~ speed of an engine, what is
+the diruueter of fan b~ake necessary in order to obtain
+complete tests of pewer va. spee ~ ?
+
+L
+
+- 4 -
+
+The general procedure of the experimental wor k was to mount a twobladecl pa,ddJ.e-wheel fan on a small electric dynamometer, bu:tId. a cyl-
+
+inO.ri.cal housi.ng
+t:;:-ol1.able
+
+area~
+
+ar'mlD.d
+
+it, tne inlet and outlet of which were of
+
+COD-
+
+and meal'lure Sim1.1J.taneous values of speed and horsepower
+
+vrl th c!.iffei'ent sizes of inlet and ontlet.
+
+This gave sufficient data to
+
+de'i.,ermine the speed ani power ratios obtaiI"l..a.bJ.e by opening and closing
+the ou.tlet, and the size of inlet for maximum speed control.
+The fan consisted of two square pieces of 3 mm
+
+(1/8 11 )
+
+sheet alum-
+
+inum abou.t 28 em (11") on each side, bolted to a steel arm 10
+
+(3/8" x 3") by means of steel angles.
+
+mID
+
+x 76 rom
+
+The diameter of the fan meas-
+
+ured from tip to tip of the blades (the nominal diameter) was 1.1 me tars
+(4411).
+
+The proportions of the fan brake are shown in Fig. 1, which is
+
+a section tru.'ough the fan blades lo oking toward the inJe I:; end of the
+br~e.
+
+The two ends of thd housing were sawed out of slabs of cleated
+
+tongu.e and g!'oove pin
+
+and a 45 em (18") strip of galvan;. ."ed iron nailed
+
+around the per5.phery of the ends completed. the fan brake except for the
+sli~ing
+
+shutter.
+
+The estimated
+
+maxL~um
+
+cost of
+
+suc~
+
+a fan brake in
+
+January, 1920, labor included, is $25. 00.
+The fan brake was mounted on a 50 horsepower Sprague electric dynamometer.
+
+Data for horsepower-speed curves were taken wi th inlet diame-
+
+ters of ~6 em, 50 am and 40 em (26, 20 and 16 inches) respect~vely, and
+wi th inlet closed, the circumferential outlet open1.ng being changdd by
+
+steps of 2 inches up to 30 inches (76 em) open for each setttng of tho
+inlet.
+
+The outlet uncovered ab out 75° of the periphery of the hou&ing
+
+when the circumferential opening was 76 em (30 inches).
+
+Readings of
+
+static air pressure in the hOV$ing and air velocity through the outlet
+
+5
+
+were a l s o t aken with a vi ew t o astaol ishing a re a sonable basis for the
+c omput a'tion of t ile horsepower nec:es sa.t";y- t o drive a. fa!l brake of different
+pI'cport5. ons f-r. cm the one t e sted , but n o sa tisfa ct m.' y f ormulas were obtained.
+Plot 2 shows t he exparil1ler.:tal h cr sepov;er-·speed ctu:ves f or the fan
+brake t e sted , plotted on t he same shee t wi th a
+
+ho r sep owe~-speed
+
+of the fan in free air and curve s of s everal well-kn own motors.
+s erved pOints are shc;JlN in cil'cles and
+n
+
+•
+
+tion.
+
+The sl ope of t he
+
+l~nes
+
+~o t ted
+
+curve
+The ob-
+
+lines indicate extrapola-
+
+is 3.0; thi s differs fr em sane other
+
+servers l r e sults by as much as 0 .1.
+
+o~­
+
+The horizontal distance between
+
+curves Band C, mea sured with a logarithmic sca le, is the speed ra.tio of
+the fan brake,
+
+For t he brake tested t he spe ed ratio was 1.7.
+
+The hori-
+
+z0ntal distance between curve s A and C gives t he maximum speed ratio that
+could be obtained by any Unpr oveffients in the de sign of t he fan brake .
+It wUl be noticed t hat A cut s t h e 1000 r.p. m. line .:It about the same
+
+horsepower t hat C cu ts t ha 2 000 r, p .m. line, s o t he maximum speed ratio
+obta inable is 2 to 1.
+
+The vertj.cal distance be t ween the t wo lines gives
+
+the power r a ti o of the f an brake, and is naturally t he cube of the speed
+r a ti o, or 5 t u 1.
+
+Since t he line s ara parallel, t he speed ratio is in-
+
+dependent of t he speed at which the fan is run.
+
+T'.nj.s means, of c ourse,
+
+t hat t he speed. r an@ is gr eater at hi gher speeds.
+
+At 3 00 hp, a speed
+
+range of 1600 r. p .m. is availa ble, which is more than enough to t ake a
+ccmplete f'ull-tbr ottle r un on a 3 00 hp
+a speed range of only 650
+
+r.p. ~ .
+
+Hispano-Suiza engine.
+
+is available,
+
+a~
+
+t his is not
+
+At 18 hp,
+~uite
+
+as
+
+great a speed r ange a s i s usually used in running tests on Ford motors.
+Curve D is a t ypical full-thr ottle For d motor curve.
+
+W
+nile the charac-
+
+teristics of a f an brake give it grea ter speed range at hi gh speed than
+a t l ow, it must be ve r y cl:I.r efully builtin (·rder t o be run wi th aafety
+
+L
+
+- 6 -
+
+over 1500 r.p.m.
+a~
+
+Plot 3 shows in heavy lines the curves of horsepower
+
+lOOe r.p.m. against fan diameter for Sturtevant Steel Plate blowers
+
+plotted. frem data. giv-en in "their catal ogue N;). 2.'34.
+
+These curve9 in-
+
+dicate that fo;:' fans of di:ffe:::-ent diemeter having other dimensions proportional to the d.iameters, the power absorbed by the fan varies abou'l;
+as the fifth power of the diameter, since the slopes of the curves are
+5.3 aD:! 5.1 respectiyely.
+
+•
+
+The fact that the J.ines for St'\U'tevant blow-
+
+er.s open and closed. are parallel, shows that the speed and. power rati os
+are independent of size of fan, and it is assumed for the purposees of
+this work that tIllS is als o true for fan brakes.
+for the type of fen brake shown in Fig . 1.
+obseTved point with a slope of 5 to 1.
+
+Ea~h
+
+The dotted lines are
+is drawn through one
+
+They can be used to detennine
+
+the size of fan required t o run a test on a given engine provided an
+approximate horsepower-speed cw-ve f oX' the engine is known, b11t a fan
+buil t wi th the ncminal d.iameter indicated. on the cm've may absorb as
+much as 10% more or 10% less power than indicated on the cu!"ve.
+Plot 4 shows how the diameter of the inlet affects the power abs orbed
+by the
+
+f~~
+
+and the speed ratio.
+
+Curve H shows that the power absorbed
+
+by the fan with cutlet open varies nearly directly as the inlet diameter.
+and
+
+CL~ve
+
+G shows that the power absorbed with the outlet closed remains
+
+constant until the inlet diameter becomes greater than the inside diameter ox the blades, when it increases.
+
+The ratio of any two ordinates
+
+on the curve gives the power ratio, which is the cube of the speed ratio,
+and the speed ratio ia plotted as
+the horsepower c;u.t:ves.
+
+~:ve
+
+K to the same numerical scale as
+
+C'u'tVe K shows that if the diameter of inlet is
+
+rD (where D is fan diameter), the best value for ris about
+
+1/2.
+
+which
+
+makes the inlet diameter j'\lSt equal to the inside diameter of the fan
+
+- 7 -
+
+blades.
+
+It might be possible to get a greater speed ratio if the blades
+
+were made obl ong instead ot square, with the axial Jength greater than
+the rauial depth.
+Theoretical ani mathematical consideration, which need not be explained hare in detail, bave been developad to
+
+ShO'N:
+
+(l)
+
+bp ;:; k~D5 with proportional dimer.sions.
+
+(2)
+
+In the empirical equation for head resista.nce in rectilinear
+
+air flow, F ;:; kuSv 2 , where F ;:; force of head resistance, u =
+density of air, S;:; area. exposed to ail' flow, and v;:; a.ir
+
+velocity, tbe constant k for thase tests, assuming the reaisting t orqu<3 of the fan to b8 due only t o the , lir resistance
+'
+of the flat plate fan blados, agrees wi thin 20% wi th Eiffel's
+value as
+(3)
+
+c o rr e cte~
+
+by Duchemin,
+
+In the empirical equation for skin friction in rectilinear
+air flow, F
+
+= kuSv2 ,
+
+where F
+
+= force
+
+of skin friction
+
+and the other symbols are the same as before, the constant
+k was calcula.ted from the runs with the fan outl e t closed
+on the assumption that the entire resistance to the motion
+of the fan was due t o the skin friction of the cylinUdr of
+air on tbe housing.
+
+This constant was of the same order of
+
+magnitude as that given by Zahm for rectilinear air flow
+past a smooth board .
+(4)
+
+Equations a.re given in i terns 4, 5, and 6 of the bibliography
+for
+
+predete rmini~
+
+sions.
+
+the performance of fans from th eir dimen-
+
+While ea.ch of these e quations was probably true for
+
+the particular conditions under which tbe tests were made, it
+has already been pointed out that no equation which does not
+
+- e consider air dansity and fan environme nt as well as fun
+dimensions can be generally true within less than 20%.
+'l'he conclusions uf this i nve stigati on
+
+(1)
+
+~re,
+
+oriafly:
+
+A fan brake oan be made to give a powor ratio of 5 to 1
+or spe ed ratio of 1. 7 to I, by means of a varia.ble shuttered
+hou~ing.
+
+(2)
+
+Pe~formance
+
+of a fan brake of the same proportions as the
+
+one tastad but of differer.t diameter can be predetermined to
+about 20% (ie.
+given.
+
+For
+
+± 10%
+
+fram nominal) by means of the curves
+
+~ccurate wo~k
+
+a means of measuring torque must
+
+be used in conjunction wi th the fan brake.
+
+- 9 -
+
+Bi bliography.
+1.
+
+Eiffel, G. ,
+
+Resistance de l'air.
+
+2.
+
+.K.inealy, J. H ••
+
+Centrifugal Fans .
+
+3.
+
+Marks, Lionel S . ,
+
+Mechanical Engineers' Handbook.
+
+Aeronautics and Centrifugal Fans.
+4.
+
+N. A. C• . A.
+
+Report No. 55, on Mufflers.
+from Fifth Annual Report.
+
+5.
+
+S. A. E.
+
+Handbook, pp. 45a and 45b.
+
+6.
+
+S. A. E.
+
+Trans. 1913. Vol. 8, Part II, p.llO.
+Prof. W. Morgan and E. B. Wood.
+The Measurement of Horsepower.
+(See discussion for formulas.)
+
+Preprint
+Appendix.
+

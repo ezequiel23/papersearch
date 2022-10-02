@@ -1,0 +1,700 @@
+:.
+
+TECHNICAL NOTES •.
+}t\TIONAL ADVISORY COMMIT~ FOR AERONAUTICS.
+
+No. 12.
+
+~NT
+
+EFFORTS AND EXPERIMENTS IN THE CONSTRUCTION
+
+OF A TION ENGINE-2.
+VIA
+By
+
+Schwager.
+
+Tra.nslated from
+Technische Bdrichta Vol. III - Sec. 5,
+by
+
+Paris Office,
+
+.,
+
+September.
+
+-----.-.--------~----.--~------------~--~--------------------
+
+3001-29
+
+NATIONAL ADV150RY COWldITTEE FOR AERONAUTICS.
+TECHNICAL NOTE NO. 12 .
+EECENT EFFORTS AND EXPERIMENTS IN THE CONSTRUCTION OF AVIATIQN ENGINES,"
+
+by
+Schwager.
+Translate~
+
+from Technische iericbte, Vol. III, Sec. 5,
+by
+
+Paris Office, N.A.C.A.
+
+When war broke out in 1914, the mean power o£ the aviation engiDes
+a.t the disposal of the Gel'lllan Air Force \V9.S 200 to 120 H.P. on ~he
+ground. The unit weight of these etlgitss. including tjhe we:t-er and oil
+contained in them, wss trom 1.8 to 2. kg. per H.P. The fly;.ng efficiency
+a.t tained with u1.1.c h power was suppo !3ed to be more tb.e.n sa.-iiJ.sl nctory, them
+being still belia~ed to be absolute safety at an ~1titude Df 1200 to
+1500 m. from ~ho ·i;s fired on the ground. At this period, se:dal combat
+had not ye·:; been tho\'.ght of. Even competent authol'it:i.ee sC3l'cell' considered it erodible that the arming of aircraft would aver be a matter
+of grave importance.
+It soon became eTident, howeTer, that ever-increa~ing dema.nd~
+would be made on tbe climbing powers of a.i rcr aft , in p!'oportion to the
+p~ogr.ess achiuTed by the defensive artillery in the t9ch~ : cs ~f firing.
+Not c.nly was i t requisite that climbing efficiency should reach the
+highest possible point; climbing speed would also have to be rais$d
+higher and higher in proportion. With this end in View, increa!!Jad. Emgina po'~r wa.s the first point taken into considera.tion. Engines with
+150 and 160 H.P. on the gr.ound were conseq\tently obtaiod and there
+are many Cases, even at the present time, in which such eI'.gilleS give
+results that may be considered to be satisfactory.
+Another difficulty then arose. The increasing numbar of the dutiel
+devolving on the pilot led to a corresponding increase ;.n the weight
+of the load carrie~ by the airplane. We need only mentiun, for instance,
+armor consisting of ona or more machille-guns with atml1mition, bombs and
+bomb-dr0llPing devices, photographic apparatus and ra.d.ic, according to
+the functions of the ma.cbjpe in question; and it WB,S essential that good
+climbing power and speed should be attained notwithetallding S'\lch e.dditional weight. This .led to too .
+..Dasd for still highe!" engine p~_we_r_s=-,_ _
+• Extract from a leeture given a.t the General Meeting of the Scientific
+Associatien for the Technics of Aviation, at Bamburg, April 19, 1918.
+
+If."
+
+-~and angines with 180, .. 200, 220 and 260 H.P .. were produced. The unit
+of weight of these engines was reduced, in the case of those with 100 and
+120 H..P. , by 1.5 kg. to l.a kg. per H.P. Flyi ng efficiency did not,
+however, keep pace with increas i ng .... engine powsX' to the extent generally
+
+eLpected, in spite of the effort that was made to COnstr\lct ~pecial ~ir­
+craft for each pa.!'ticular purpose an.d to equ.i.p such aircraft for tha.t
+pill'pose alone, so as to reduce its weight and loa.d to the lowest pOSSible amount.
+The ever-increasing demands created by aerial warfare causing the
+need for a still htgher degree of flying efficiency, it became more and
+more evident that the development of avia.t ion engines must be carr.ied
+out along new., lines. and that increased efficiency alone would not
+suffice to enS'In'e the desired end, the more . so because high-~owered. engines were incor.venient from a flying viewpqint, by reason of\their
+heavy weight and great le!l..gth, which were unfavorable to the turning facility of aircra.:ft equipped w.ith such engines. Recent efforts in the
+constr.uotion of aviation engines have been da"feloped alo:lg two different lines, which may be defined as follows: "Light-weight Construction n
+and the nAdaptation of the Aviation Engine to the Requirements of its
+Utilization. If
+
+In the spr.ing and swmner of 1916, the flying efficiency- attained ,
+through the reduction of the n~1mb&r of revolutions of the propeller used
+on the engine from 1400 to about 900 r .p.m. t by the Mercedes 220 H.P #
+engine was so good that it seemed desirable that all aviation engines
+should be equippad with similar gear. This idea was justified , as propeller effi cisney can be co r~sidera.bly jmproved. by means of such reduction gear. It was most effective on the Mercedes 220 H.P. engine with
+its 8 cylinders placed tandem-wise, but it gave rise to so much difficulty on 6-cylinder enginBs that the exps .... riments made on the latter,
+with the gear, had to be given up for more urgent tests.
+In spite of this, the Aviation Inspection ~Depa.rtment still pushed
+the use of reduction gear in Aviation c.,;engine factoX'ies. As early as
+autumn, 1916, the Department decided ~n the utilization of high piSton velocity and a high number of revo!~tions as the standard for geared
+engines. Cons';;:ructional work was then zealously started. on all sides
+and the a-cylinde~ Vee engine, with power from laO to 240 H.P., was Qrdered at several factories asthe best high-speed engine from the flying
+standpoint. The uni t weight of this engine. including the water and oil
+carried, was e8tablished at 1.25 to 1.35 kg. par H.P., - figures which
+can. be ohta5.ned. without difficulty, as has been seen in the case of differe nt engines of the S8!lle oonstr.uctional type now ready for quantity
+product ion.
+o~
+
+The enemy hacl also been pushing :. engine development along similar
+lines, at a somewhat earlier period. In the winter of 1916-17, the
+Fre-nch produced their first Vae high-speed engine at the Front, although i t had long been known among German aviation experts. The engina
+in question is the a-cylinder Hispano-Suiza from which the French, according to accounts given by prisoners, expected marvelous achievements.
+The early models of this engine were not yet supplied with gear. Their
+
+H.P. wall 140, with 1400 r.p.m •• and their unit weight was 1.295 kg. per
+H.P., including water aDd. oil. This engine gives an excellent impression
+at the first gl8l;lC8, with regard to its constrwtion. It was also so
+e7.ceptionally highly finisbed t.ba.t i t attracted a good -:'Ci9e.l of e.ttention
+in German aeronautical circles, Many efforts were made to ensure the
+furtber pro(.tuction of the engine without other alteration, but this was
+not done on account of various weak points in its construction, an~ because German high-speed engines bad slre~ been in process of ccnstruction before the capture of the first of the French engiDas.
+The examination of the above-menti.oned engine at the test-bench
+(see Fig. l)gave re mat'kable results: Tv begin with, the eng iDa proved
+to. be a distinctly high-speed type, its ~imum power being at about
+2400 r.p.m. and consequently by no mea.tlS fully utilized With 1400 r.p.m.
+and 140 H.P. as at the outset. 5eCO%)d.ly, however, too engine was found
+to have considerable constr-u.ctive shortcomings.. Mention tlged only be
+made, for instance, of the defective cooling ot tbe exhaust valve, which
+was burnt up each time at the end. of 6 or 8 hours. The construction of
+the ellgine was, nevertheless, most instl"UCtiv6 and. interesting to German
+manufacturers, and it soon became accessible to them, as it was captured
+in large zmmbers. The carburetor. which has already been described in
+TECBNICAL REPORTS, (Vol. lIlt No.4, p.1l2) is particularly interesting.
+
+The
+
+pos~ibility
+
+of constructing high-speed internal combU$tion en-
+
+gines depeIlds more upon piston. velocity aDd. inertia stresses than UPOll1
+the cross-section of the valve. The piston velocity can ea.sily be carried up to 10 and 15 m/sec., engiIl6s baving already been constructed
+successfully with about 17 m/sec. !liston velocity, as, for instance, in
+the case of the FrenCh Despujol racing boat engina. The possibIlity of
+
+adopting the largest cross-sectional area of gas-passage is, on the other
+
+band, limited. especiall¥ if great importance be attached to the advantageous form of the combustion on account of too high piston velocity, so
+that the valve must be suspended at the tottom of the chamber. It is
+desirable that mean gas velOCities of 40 to 60 m/sec. should be obtai.lled
+in the fully opened valves. In such Cases, when the inlet pipes are
+well made and the engiDe otherwise satisfa.ctorily constructed, a mean
+effective pressure of 8 to 9.5 may easily be obtained. 'l'ba powel! curve
+of a 6-cylinder ]anz aviation eDgine ~ be taken as an example (see Fig.2)
+with ISS nominal H.P. With 1400 1" .p.m., tM.s engim produces 197.5 H.P.
+no~ efficiency at a mean effective pressure of 8.4 and 1150 r.p.m.
+with 8.75 as ~irwm value of the mean effective pressure.
+A noticeable feature of this 8Ilgine is that its unit weight, ineludwater and. oil, is only about 1.36 kg/HoP. with perfect safety in
+working, although it is not a so-called high-speed engine. In contrast
+to the fil'st high-speed eZlemy engiIlB& produced at the hont, which had
+no gear at all and a ~ratively 10wn~1er of revolutions. our 8cylinder high-speed Vee ellgines were all designed with gear from the beginning. Tests made with the first working models GOon sbowed that the
+gear itself caused serious difficulties. It was therefore also decided in
+France that the engine ebould be constr'\lCted without gear for the time
+beirJgi and. forei(gl high-epeed engiIl6s still show tbe ClllBstion of gear to
+be by DO means satisfactorily solved. a.s almost every facto17 licensed
+to construct the Hi spano-Suiza bas different dimensions for the spw
+wheel gear selected for their engines.
+itlg
+
+-4The fact of e. utilizable high-speed engim neea..,iXlg almost ODe ya~
+aIld. a half for its developrJ.l6nt in 0\1r C·Ma is in DO respect o .u a to a.
+
+lOIRer p:,:,odl.~tive capacity on the partli o£ C-al'm8I1 eng.i.1J9 menufactu:rers.
+b1:t is the result of the f~ b.igr..sr stend.e.rd of worklng safety re..,..q.uired
+by 'is. Not a. siDgle foreigll e:og:i.:ua bas so far been able to s ·tend the 60
+hoU!'8' du,,:,a.tion test whil}h mu.st be passsd by eyery:· German fixed eXlgiIl8
+before it is considered fit for service at the Front.
+
+The first h.i.gb-apeed eogine iasv.ad in '!:uantity production in Germany waG the 13anz 195 H.P. 8-cylinder hiBb-speed Vee ellgi:oe with 125 mm.
+bore, 140 mn .. stroke, and 1100 r . p.m. at the CTaJ:lkshs.ft, produciflg 225 1i.P.
+With a view to
+ble, the idea. of
+
+b~inging i~
+
+~·"d.tlCing
+
+to
+
+te~hnical
+
+perfection as soon as possi-
+
+1 t only when equipped w-ah
+
+gGal"
+
+haa been aban-
+
+doned, as in the ca2e of the Hl~~no-Ruiza 'G~gioe, and it bas aecordi~ly
+been moun·lied. without geax, in a limited IItllD.ber. on mDdel airplanes. It is
+especially suitable for the ~ ose on a.ccount of its h5.gh POW6::r at 1400
+;p
+to 1500 r.p.m., as may be seen f'rQLl the power cu--:r-ve given in Fig. 3.
+In the meantime I a rotary gfJa.x- w:i.th a eat;.s:t'actory safety factor
+bas been s\1CceBsfl1.1~,Y' cons truct ed. for t b :i.s eDg:i.ne, Us maximmn e.fficiemcy
+being increa.sed, a ·, the ea:ne time, to . 260 H.. Pr. :'be COllBt:'1..1.ctlon of
+this gesr somewbat resombles that of tbe Rolls Royce, wh5.ch appeal's to be
+the best of All the eIlemy goar. The Eil:i.gb,t ly e~ceRsi.e weight of the
+structure m~ therefo~e be adopted without hesitation in consideration
+of the si!D.pl:'..(;i ty of the Sp'llr wheel ge8.l!ing ..
+W sr and oU iDc~,u1Gd, the er>.,gim lJ5ighe abQut :335 kg., which
+&t
+corresponds to 1.25 kg. :pel' II.Po .ll~bo1..1gh tb.1D is not less than the unit
+weight of too ZOO H.P" B:i. spano Suiza eDg~ with gea::, the advantage is
+still on the sica of the Lenz ongiue if we co~~e it to the total engir,e plant of a Spad air~lam wUn ZOO Ii.P. Hispano Suiza. er.gine, including fwl for I- J./~ b.o1.2Z's, and to the equh·a.lant er"g~tJa plant of a
+fighting monopla;~9; and the c·oL119&.l'ison is even mo!'e favo!'ai::J.e to the l3enz
+eogiLS in flights of lODger d~aticnt on account of its lo~ cons~ption
+of fusl.
+Another high-speed Gel'1lleJl eDgine of good power and 1'Jeight, and V?hich
+p:r.oba"JJ,y alao been isemd in q')Q;ltity pr.od~.c·tio1.l by this time, is
+xCRTI NG IDO- . f a~cyJ. inder High-epeed Vee eng~.n~. Its fOl'Dl is pe.:;:o'c;icuS
+laxly plea.sing. With 2 lfJO :::.:pom. at the c;;-e.nkehatt, i~ prod·lJ!!ss 185
+to 195 IL.P .. at the shaft of the ~p~1l' geru: an~. \re:tghs ab!)ut 252 kg.. with
+water and oil, - that is, about 1.33 ke. per HoP.
+he.~
+
+A':;co!'d.ing to sta"'etnents m~de at the facto:1:'Y, the gear caused no special diffic1.'.l~1', being in that respect unlike other engiDe~ in which £ven
+s:!IDJ?le spur gear could not be made to WOI'l:. perfectly al~h'mgh the dai-·· .
+mands ma.d.e 'Upon the teeth were geoorally lass than in the case of foreign
+engiXlBs.
+The eontttructive methods of DUMI;ER and. ARGUS resemble that of
+No reports can as yet be given of their results.
+
+the
+
+KaRT!NG engine.
+
+The ADLER Works have selected a cylinder system differing from the o~­
+In order
+
+dinary met-hod, in the cQustruction gf their high-speed En:lgine.
+
+~
+
+5 -
+
+to obtain a more compact style of construction, two crankshafts are 10oated in Olla gear box. They rotate in opposite directions., baing geared
+together by toothed 19haels, and. they wOl'k on four oylinders each. Tbe
+engina works remarkably emoothly and ite power output is 225 H.P. at
+the propeller shaft with 2000 to 2100 r.p.m. a.t the crankshaft. The
+prop~ller runs at 1050 to 1150 r.p.m.
+The locatiDg of both crankshafts
+in ODa ca.se entaila no actual increase in weight, as th& united weights
+of the crankshafts is 01'll7 24 lrgs.. whereas the HlspaDO Suiza crankshaft
+weighs 21 kg. The unit ~ight of this engim atDOvnta to about 1.24 kg.1
+H.P. GeatiIlg difficulties were also origiDally found in this engine,
+but the,. were dam away with by a speCial construction of tbe toothed
+wbeels.
+In addition to the above-lleIls d factories, tbe Om:RURSEL Works are
+also constructing a hig~6peed engina designed by EDgineer Dr. Eecker.
+Assistant Profe$sor at tbe Imperial Technical High Scbool in »arlin,
+which shows soma novel details. It diffe~s from previo~ly known mod·
+els. particularly with regard to the mechanism driving the c~baft;
+too inauguration of such mechanism would bring the maximum power to the
+region of 2eoO r.p.m. The unit weight of the ~lIgitLe.. is also a very
+good feature. With 240 DOrmal R..P. t relatively equal to 2100 to 2200
+r.p.m.. at the craDksb.aft, it weigbs 260 kg •• tbat is, only 1.08 .kg. par
+H.P. This is not dw to the utUization of specially high-class mat~r ..
+ial, but is attained solely by tbe dispOSition. a.nd selection of dimensions of the eng11Je. b
+total stress va.lue 1s ev&n lower than the usual values. He further details can be given, test reports not being
+available.
+In all
+is attached
+reason, the
+with a view
+
+these a-cylinder high-speed engines. too greatest imp.c rtance
+to the reduction of their ccnatructioDal lellgth. ",or this
+magestos are usually located in front, over the gearbox,
+to utillziXlg that space, and economiziDg space in the rear.
+
+Altho\1gh the 8-cylinder Vee engina may not be quite equal to the
+6-cylincwr engins series in equilibrium, tbe latter serieo being perfect
+in that respeet, the ill6l'tia forces, which ehiefly occur in a borizontal plans. caused no noticeable derangement with the dimensions selected.
+The compensa.ting device which was proposed for the · ellgi:ce was theref~re dispensed with for weight-saving r&asons, without any detriment to
+the smooth J'llmliDg of the engine.
+For higher powers. the 12 or 10 cylillder Vee engine should certainly
+be the given method of construction because of the free inertia forces of
+the B-cylillder Vee type. Considering the great importance attached t~
+facility in turniDg airplatles, it will be necessary that the engim
+sbollld be still further shortened for combat otIS-seaters; for this reason,
+the B-cylinder e:cgine has a successOl' in the fan engine, which 1s beillg
+~erimentally constructed in a three-radii tY,PEI wi th 9 cylinders, by
+OPEL of RUsselsheim. The next step should be fl'om the fan type · to the
+star engine with a View to obtaining the perfect fiXed high-speed ellgine
+for siIJgle-seater airplanes. This type also gives promise of future
+developments in respect of higbsr 'powers. The star eIlgine also has til.& ·. ·
+
+- 6 -
+
+great. advantage •. now that ~e '. a.:~o"T of aircraft is eYer on ths incraase.
+of belIlg armed vnth the lllst weigh~ possible.
+The endee.~or to obtain a high nunber of revolutions in connection
+with gearing bas also been extended to the rotarY' engina.
+Atter ha..~lDg
+already brought out eo 110 ILP. rotaryengina with transmission gear,
+SIEMENS & IlAISKE latel1' issued a. 160 R.P. l1-ql1nder rotary engillo6.
+The reduction of the number of revolutions in the propeller is attaiDSd
+in the latter type by making the cra.nkshaf't and ~ylinda~ .hM:>ek work in
+opposi~ dir0ctions.
+They both revolve at 900 r.p.m. in oPPosite directions, so tha.t t~ cylinder block attains 1800 r.p.m. as compaJ'ed to the
+crankshaft. This tn>e bas the advantage over earlier rotary engioos
+not only on a.ccount of its low unit weight due to high liter power, but
+also because the low number of revolutions of the cylinder star diminishes the unpleasant gyratory motion usually found in powerful rotary
+engines, so that the effect isne lo~er disagreeable. The exceptionally
+short climbing time attained b7 this engi~ (see Fig. 4) is due I10t only
+to ' the transmission deVice, but also to . other q~ities which will be
+described later on.
+The effort made to obtain the higlle.st possible power wi. th the lowest cylinder capacity, that is, with the least possible weight. has also
+led to the bestowal of more attentioD ~n the two-cycle stroke. In spite
+of the evident advantages it offers, the development of the two-stroke
+cycle system has been neglected in comparison to the 4-stroke cycle engiDe, chiefly because of the great supply of heat in the cylinder and
+the high n~ber of revolutions to be considered • which caused serious
+difficulties. The quantity of heat supplied to the cylinder wall and
+the piston head at the time of combustion is surprisingly large. Calculated on the base of the area unit. i t is, for instance, ten times as
+great as that of the fire-box of a locomotive. This explains the necessity for such a high degree of durability in the cylinder and piston
+of ma~ types of engiDe. In the two-cycle engine. these difficulties are
+even greater, twice as many combustions taking place with the same n"Umber of revolutions. so that twice the amount of calorific heat must be
+applied to the same cylindrical dimensions per unit of surface. Prof.
+JUNKERS has llCw developed the portions subjected to the influence of the
+hot gases in such a way that those portions can be ef£ectively cooled.Another difficulty to be encountered is the scavenging of high-speed twocycle ,.engines. Mixed scavengi~ is not successful in most cases.
+Pure air scavenging necessitates, on the other hand, the direct injection of the fuel into the cylinder. The constructive difficulties thereby entailed have been overcome by JUNKERS' high-pressure fuel pump.
+which regulates the quantity of the miXture.
+Prof. JUNKERS I a~ia.tion engine is constructed with pistons placed
+in opposite directions, as in the case of the well-known JUNKERS oilengiJl8s. Two pistons mo....e in opposite directions in one cylinder, the
+courbUstion chamber being enclosed in their inner dead center. Near the
+outer dead center, the pistons control ports -in the cylinder wall, through
+which fresh combustion air is let in and the cOnG'\1med gases exhausted.
+Several cylinders of this kind. lie parallel to one another. All the pi.stons lying in the same direction dri'Ve a common crankshaft. The regular
+
+,
+
+.
+
+- 7 -
+
+working of the pistons and the accuracy of their intake and exhaust control is ensured by coupling the crankshafts by means of spur wheels. The
+engine power is s~pl ie d through the projected sbaft of the middle spur
+wheel, on which tbe propeller is generally fUed. This arrangement has
+the addHioDal advantage of enabling the 'c est number of revolutions to be
+given to the propeller shaft, by alteration of the transmission in the
+spu"C' wbeel.a, indepeJldent of the nunber of revolutions Q.f. the engine.
+The crank gear is disposed in two cases. which fill up tb& outer longitudinal side of the machine. The spur gear is entirely enclosed in a
+sepa~ate case closely adjoining the ch8sging punp, which is projected to
+form a gyratory l?~. ston !lump for the . a.dmission of fresh air. The pipes
+for the inlet of scavenging and charging air and for the outlet of exhaust gases also extend over the cylinders, the first-named pipe being
+constructed on the case of tbe chargiIlg-punp.
+The pistons are equipped with a singular cooling device. The cavity
+of the piston is partly filled witb heavy oil fluid which is not renewed
+in working and is ~iolently dasbed baCkwards and forwards by the motion
+, of the pieton. The fluid thereby absorbs tbe beat of the piston head
+and discbarges it on the cylindrical portion of the piston, which conducts
+it into the cooled cylinder jacket.
+The efficacy of this piston cooling has been proved by measur"m~nts
+taken wi th thermo-elemeIJ,t s. Fig. 5 shows how. the temperature of the
+piston-bead gradually rises and attains the inertia condition after 19 min.
+This cooling system held good at speedS amounting to ZOOO r.p.m. and
+also during longer periods of working.
+The JUNKERS engine has another peculiarity, namely, that all the
+valves that Cause great difficulties in high-speed engines with increasing cylinder capacity and thereby limit the working of the cylinder to
+Bome extent, are avoided ' by means of distribution through port-boles.
+The valveless method of constrUQtion thereby makes it pOSSible to
+construct reliable light engines with high cylin~er power.
+The balancing of the masses attained by the disposal of. the p'. stons
+,in such a manner that they work in opposite directions 1s of impo~tance
+with regard to the utilization of tbe light-weight engine, and it can
+easily be brougbt to perfection by the re~u1site disposition of the pistons. Combined with tba good condition$ under which the cylinder charge
+1s renewed, it becomes pOSSible , witb such favorable balancing of the
+masses. to obtain a high zromi)er of revolutions and to reduce tbe unit
+weigbt still furthe~: ,in consequence. AS compared to other two-stroke
+engines. the JUNKER has the advantage of being able to attain bigh mean
+pressures and J in consequence. higb powers witb given dimensions. This
+is seconded by the complete scavenging of tbe cylinders and the hi~h co~
+preSsion of the charge. whiOh can, by reason of the absence of overheated portiOns of the combustion chamber, be admitted to the advance ignition without risk. Another favorable point is the slight loss of heat
+due to the smallness of the cooling surface of the combustion chamber.
+
+- e :!.: Sallmuth HmTH is now making tests with an engina tbat is quite
+unique in its way. It is a twO-Q?,cle engina, which has no actual scavenge
+or charging pump. The exhaust gases are drawn off through the hollow steel
+ptopaller, its peripheral ~eed being utilieea for the production of a
+vaCuum. This vacuum not only carries off the exhaust gases, but also
+s~ultaneoUsly inducts the fresh charge into the cylinder. The obstacles to be over cane in the case of the engine consisted in the construCtion of a suitable steel propeller and in the transmission of the hot
+.g ases f:rom the stationary cylinder to the rbtating sera.. Both points
+have been cleverly disposed of by HIRTH. The cylinders, disposed in
+sta,t" form, and the control are fundamentally 'similar to those of the
+JUNKERS engine, excepting that the cylinders are curved around the combustion chamber in such a manner that the courses of the pistons are parallel. The mechanism is so di~osed that the pistons first expose the
+e~baust orifices and then the intake orifices.
+The cylinders being
+charged only by the vacuum produced by the periphe~al ~eed of the pro- :
+peller, it might be concl~e~ that there woul~ be ~ifflculty in starting
+the engine. This is not the case, however. The screw is simply turne~,
+at starting, in the direction contrary to the usual ona; a depression
+is thereby produced, in the combustion chamber, which enables the comb:ustion mixture to enter through the inlet orifice thereby ez;:posed.
+This engina, too, is supposed to run at high speed with gear, with 2400
+r.p_m. at the crankshaft. The ~ight of a 300 to 400 H.P. eDgine should
+amount to 0.75 to 0.8 kg/liP including the water and oil in the engine.
+The method of abducting the exbaust ga.ses through the propeller may also
+be applied to 4-cycle engines. A better degree of admiSSion can be obta.ined "by this means, and higher mean pressure and po?o-er are attainable
+in consequence.
+Although conside~able improvement in flying efficiency may safely
+be expected, on account of the low unit weight of the above-named engines, the light-weight engine is not, in itself, a perfect aviation engtue, as the latter would be required to supply conSistently uniform
+power ~ to those altitudes in which the greater part of its existence
+is spent. In the case of the aviation enginas hitherto constructed,
+power always decreases With altitude until, finally, no excess cltmbing
+power is available for the airplane and the limit of its climbing altlt'Ude is thus reached.
+The reason for such decrease of power lies, above all, in the decrease of atmospheric pressure with increased altitude. The rotary imp\'~se and the power depend upon the weight of air admitted. into the engine, and upon the efficien~y of the t~ansformation of fuel energy into
+engine energy. If such efficiency were the same for all aviation altitudes, t~e engine power would actually depend ~on the useful load of the
+engine and. would foJ.low the course of the atmospheric pressure~ With constant horizontal speed on the part of the airplane, the number of revolutions of the engl.ne would necessarily be the same ·at all altitudes.
+As it is, the number of revolutions decreases more or less with increased
+flying altitude. The efficiency of the transformation of the fuol energy
+into engine power is thereby necessaril;y lowered. Until quite recently,
+the decrease of power in its proportion to atmospheric pressure was conSidered to a sufficiently accurate baais. Recent tests have proved., hOwever, that the actual decrease of po",-et: :. is considerably greater •.
+
+- 9 ...
+Further details -were supplied by tests ma.da in the vacuun chamber
+cf the ZEPPELIN aircraft works at Friedr1ehshafen, as already reported in
+Technical Reports, Vol. III, No.1, p.l. These tests gave striking proof
+of the fact that the po'fV6r of engines does not keep proportional pace
+with the decrease of atmospheric pressure with increased altitude, and.
+that fuel consumption inc;t:9e.sas with increa.sing al.ti.tuda. The increase
+of fue~ conn~tion ~haref or a gives the course of the po~r c~a.
+Eigh altitude tests made with a Daimler, a Maybach and a Benz engine - the results of which were published in Technical Reports, Vol. III,
+No.1, p.1S - have shown how the increasing fuel percentage of the roixtnre affects the transformation of £\1.81 energy into engine pO?>e:r. They
+also showed that the wor.king of the engine deteriorated with increasing
+altiil.,.d.e. This leads to the conclusion that in developing altit1.\de en- ·
+gines, the carburetor and, whenever possible, the efficiency of the transformation of energy should be 5.mproved, and that the air inlet should
+always take placl3 at the same degree of pressure. The object of the improvement of the ca:rburetor would be to supply a mixture of air and fuel
+that would remain constant under a:..l conditions. In order to be able to
+do this, however, it would first of all be necessary to give some explanation of the manner in which the carburetor works. It may be assumed,
+as a leading prinCiple, that air and fuel flow ~formly through nozzles
+working without friction. This is the case with short nozzles as well
+as with tapering nozzles, also with throttle valves with suffiCiently
+large orifices. When the fluid passes through long na-.:-row grooves and
+pipes, such conditions are no longer fulfilled. If special attention
+were paid to this point in const~ucting carburetors, it might at any ra.te
+be possible to ensure onJ.y a slight decrease in the number of revolutions of the engine at altitudes, such as is unavoidable on account of
+
+tho li~l.t cp:?ra:~ing lend:
+So far as the improvement in the transformation efficiency of fuel
+energy into engine po~r is concerned, such efficiency J.argely depends
+upon the thermal efficiency. 'rbe lattel.· rises with the comp:-ession, that is, with the proportional cylinder volume of the engine + the volume
+of the compreSSion chamber, as compared to the volume of the compressi.on
+chamber. The compreSSion ratio is, however, lDnited by the final temperature of compreSSion and the temperature of the cylinder, · if spontaneous
+combustion is to be a.voided. For separate methods of engine construction, this limit depends upon the disposition of the cooling-water pipes
+and more particularly still "Pon the cooling of the ignition sparks.
+These considerations entail the r~s~ng of the ratio of compression
+from normal 4.6 - 4.9 to 5.8 - 6.6, and to the introduction of the BOcalied over-compression engines. With such high-ratio of compreSSion,
+spontaneous combustion occm-s even belo\\" ?OOO m. I so that the engines must
+be throttled up to that altitude in order that they may not be worked
+at m~imum power and that their temperature ~ be reduced.
+In comparison with engines with normal. comp:c-ession, these engines
+attained considerably better clDnbine time. The first of the type was
+the Maybach 260 H.P. engioo. Its success led to the subsequant construction of other engines for over-compression. Conclusive tests wars made
+on several Benz 200 H.P. engines with regard to the effect o£ various
+
+"
+
+- 10 -
+
+,
+
+ratios of compression (S96 Figs. 6 to 9). In Figs. 7 and 9, a comparison
+is drawn between the registered increase of the mean pressure
+.6.Pm
+relative to the Itean pressure
+
+PmS'
+
+the ratio of compression being (s = 5
+
+and the increase theotetically calculated by raising the ratio of compression by means of the formula:
+
+k - 1
+
+k - 1
+~E:
+
+1-
+
+(
+
+, 100
+
+k-l
+5
+
+The result of this test is remarkable by reason of the fact that
+the maximum mean pressure increases when the numbej:' of revolutions increases (see Fig. 8). tt may tberefore be concluded that increased
+COMPP];SSION DATI() is particularly propitious in the Case of high-speed
+engines. The increase in the rapidity of consumption is also dus to the
+fact that tbe meaD effe ctive pressur.e actnaHy increases I w:·.th higher.
+compression ratios, more than might be ~pec~ed from the theoretical
+standpoint. In Fig. 10. the power. turning moments and fU13). cons'oro:p'liion
+of the Benz 20:':> E.P .. engim, No. 32534, are shown with d:1.ffe.r ent compression ratios in terms of the numbe~ of revolutions. ~hey show that
+the engina gives bad results with the max~nrl1Dl cOID;PresAion re.tio 6, such
+res\ll ts being due to spontaneous comb\.\£ltion end al.t 'eao.y. ~ignalled by the
+variable running of the engine and excessive fuel consumption.
+Even the adoption of super-compression in connection with carburetors
+constructed for high altitudes does not f.inally settle the Q.u.estion of
+the adaptation of tbe e.viation eng:i.ne to its workivg l'ellui:!'ements. An
+effort must '00 made to prevent any lOGS of power at aJ.1 i.:p to the customary f2ying alti~udas. T'aore a!;'e two waya iu which th5.s might be done,
+aDd which amoun~ to praoUcally the same thing: bY' :lndllct:i.ng fresh air
+in~o the engine at cons-:'nnt pressur.e, - tha.t ia, at ground level prefsure or at the pressure prevailing at the altitudes up to whi~h the power is
+to remain invn~lable. The first metbod entails the conetrllct!on of a preliminar.y compressor in the fo:rtn of a tW.'bo or posi ti7e blow8:J:"; the second
+entails the con:3tx-1.l.ct ion of an engir.e in which the cyUnd.cr dimensions
+are propor.tionally too large for the gear, and wHh its power tmot·ii'.ed
+do\m ..to its nO:.il~.na.l H.P. up to a certain altit\1de. This type of engine may
+be oaUed "over-sized", or sa.id to have dimensions specially a.dapted to
+high a1 ti tudes.
+P:relim5.na.:-:y compressors for aviation enginas, in the form of tUl'bocorop:ressors. a.J~e either being constructed or being tested in differ-ent.
+places. The furthest adVanced is that of BROWN, ' roVER~ & CO," who baye
+constructed an installation for giant airplanes of 1000 to 1100 total H.P.,
+at the request of the Board of Directors of the Air Service. The compressor
+was driven by a special Mercedes 130 H.P. engine of such dimension~ that
+the total power of the installation remains constant ~ to an altit~de of
+about 5000 m. Complete tests were carried out with rega.:-d to the ~o'IllJ i!l.Bd
+working of a Mercedes 260 H.P. aViation engine and. a prelimina..~y comp:1:'essor.
+in the va.cmun chamber of the ZEPPELIN Airship Works at Friedrichshafen, and
+
+- 11 it wa.s proved that the desired end could. be petlectly well a.ttai:cad.
+FlyiDg tests made since that time ha.~e also proved the utility of the instalJ.at ion.
+
+About the tlme that the Administra.tion of the Air Service ent.6 red
+into negotiations with BOVER!, BROWN & CO. concerning preliminary compressors for aviation eDgines, SCHWAnE & CO., of Erfurth, bro~t out deSigns for a turbo-compressor to be directly coupled with a MBrced&s 260
+BP engina, ancl, it bas since been tested at the test-bench. The blower is
+worked from the rea.~ end of the crankshaft, by means of centrifugal
+coupling, with 10000 to 11000 r.p.ro. Such high wheel velocity is requisite in order to obtain th~ b~.ghe6t possible peripheral speed and to red'llCe, in conseq1lence, the nUllbe:- of wheels; considering the slight quantity of air exhausted by the compressor, small w
+heel diameters must be
+selected to obtain wheels of the necessary practical size. The quantity
+of air supplied by the compressor is such that the engiD9 power remains
+constant until an altitude of 3500 to 4000 m. bas been attained. It waS
+not considered advisable to proceed farther at the t~e, as it would have
+necessitated the use of propellers with adjustable blades in o~der to ob~
+tain the full benefit of the improvement, a.nd it was not yet known if they
+could be successfully app).ied. In the case in question, propellers of
+larger pitch ~~re to be used, running at low wheel velocity on the ground
+but gaining such a high torque that the angine should be as fully charged
+as at 1400 r.p.m. It is intended that the engina sh01ud be correspondingly
+overloaded by the super-compressor. The wheel velocity should increase
+with increased alt i t "
+ude and should at "
+tain 1500 to 1550 r.p.m. at the altitude at wbir.h the power remains constant. Tb& advisability of such an
+overload depends entirely upon the strength and pressure of the surfaces
+or upon the frictional energy of the gea~t by which the ~peratures of
+combustion are not affected. The proof of the possibility of such overloading has been furnished by tests since carried out at different places.
+The SCHWAnE blo'A"6r was installed on an AEG-G-airplane for testing in the
+air. It is unfortulla'~e t.ba.t the machiw was lost in a flying accident
+which was in no respect due to the location of the blower.
+" With a view to avoiding oscillations that might arise at the rear
+end of the crankshaft, in driving high-speed blowers, and which might
+threaten to cause the utility of the whole installation to be doubted
+undor certai!l com;i.tions t a blower of 6'l\"tally high power was simu.1taneously ordered at the StEMH:NS':'SCHUCKERT Works, to be dri\'en by the screw
+end of the crankshaft. Tests made since that time with the SCHWAnE ulower
+show that it is e"ll"idently possible to avoid the i.nfh16nce of oscilla;~ion
+on the gear in us5.ng hand-coupling or coupling by cent:rifugal force, although the OSCillation itself will not be dona away with.
+As in the case of fixed engines, tests are also made with turbo-com. .
+pressors on rotar~ engines.
+
+In order that the carburetor may be subjected to conditions s~ilar
+to those of the sea level in the combimd wor-king of compressor and engi ne,
+the float chamber must be placed wder blast pressure. When the gasCl.1 :i.ne
+~s s~lied under pressure, the tank is subjected to the pressu~e of the
+compressor as well a.s to the usual pressure of 0.25 to O~3. It is prefe~a­
+ble I however, that the tanks should not be subjected to press-ure and. that
+the ga.soline should be sUllplied by means of p-umps.
+
+-lZFig. 11 shows tha power absorbed by the above-mentioned turbocompressor. In order to maintain constant engim power up to an altitudG of 6000 m., e.e% of the engim powsr was reCluired. Being rela.tiYely
+small, that quantity can be taken from the ensine without any diff'icl.~~ty,
+by means of' overloading9 Consideration must also be given to the fact
+that an inC!"ease of powex> at 6000 m. is added to the eDgiDe llower on
+the ground. because the engine only exhausts at an a.tmosphere of about
+0.5, While it becomes charged at a pressure of 0.5, that iS t during the
+tim$ that the suction stroke acts as a compression eDgine. If, therefore,
+the pressu:ra in front of the cnrburetor is to ~ema.in constant until high
+a.l.ti tudes are reached, by 1!I'elimina:ry cOIIRJression, the engina power
+m'vst not merely rexr.a.in consta...'li. but must also increase. This has been
+posHively proved by too results of tests carried out in the vacuUD
+chamber at the ZEPPELIN Works at Friedrichshafen.
+Over-sized etlginas prove to be more simply adjusted than those with
+preliminary compressors. All complementary building parts a r e unnecessary with the exception of a regulating device to be installed in t'ront
+of the car b'l\retor . TOOl'e can be no doubt but that this eogina will
+come to the fore in the future, altho-ugb the pralimiDaX'Y compressor may
+have th& preference for its comparatively high power at altitudes of 6000
+and 7000 m. At the present early stage of developnent. it cannot yet be
+dofinitely stated at what altitude the preliminary compressor baa the
+advantage as ragards ~!ght. Up to 4000 m. t ' however J the over-sized
+engina is certainly preferable in respect of weight and. constructor.
+The circumference of the cylinde= stroke naturally increases with altitude in the Case of the over-sized engina, until the altitude is attained
+at which tba power is to remain constant (see Fig. 12) .
+In this figure, the necessary increase of volUIne of stroka is shown
+without the possibillty of ~ additional super-compression being t aken
+into c oneiderat ion. If super-coD'lpl"s ssion is etq>lo7ed a.t the same time.
+the volUJ:La of the strokes is me.tol'ially diminished. .Eelow 4000 rn •• the
+increase of weight thro~h increaeed straka volume, and the lengthening
+of the total construction thereby necessitated, would appear to exceed
+the weight of a preHminary compressor . 'l~ question cannot, however,
+be determined by considering the weight alone. Fo~ the Dresent. greater
+safety in worktog a~d more convenient inb\uldlng may ratner be expected
+of the over- sized engine than of the engioo wi.th prel!ml.nary c ompressor,
+as the latter requires to be driven with bighly sensitive spur gear with
+high tooth velOCities .
+The ~bach engine was not only the first super-compres s ed engine,
+but also the first over- sized engine, although its ovel'-size was not so
+highly developed as in more recent types. ~ne BAVARIAN ENGINE WORKS, Lt d.,
+want a ste:9 further with their 185 H.P. !t resembles the Mercedes 160
+H.P. engiIle in weight and. constructive parts, and its dimensions are such
+that its power remains constant 'UP to almost 3000 m. The h i gh degree of
+cOIITpression of this engine is remarkable. I t attains 6.7 without the
+creation of aQY diffi culties. This fact is probabl y to be ascribed to
+skillful inCI.uction of the cooling water into tbs cylinder-head. The
+SEMENS and GoEBEL engines are examples of ov er-Sized rotary enginas. I t
+wae Professor JUNKERS who first re Qogni~ed the advantages offered by
+over-si.~ing and obtaill9d a patent for the same. *
+
+* D.R.P.
+
+No. 300007.
+
+- 13
+
+&.
+
+Enginee With prel'mScary coaxpres8ors aDd. over-sised engines require
+constant regulation of the pressure in £ro~t of the carburetor while
+climbing . For et1g1~s with preliminary compressors, the inlet air ~r ," .-r:
+in the Case of turbo-compressors, the air forced into the carburetor f
+can be throttled down or allowed to escape through a pressure-valve. In
+over-sized engines, the inlet piping must be equippad with a throttling
+device which so regulates the pressure in front of the carburetor that it
+alwa¥s corresponds to the pressure of the altitude at which the power
+is to remain constant. It may be dom by hand, according to readings of
+the altimeter, or it mq be regulated automatically. The latter method.
+is preferable in so far that there is then 0.0 risk of d.amage to the engine,
+at low altitudes, by inexpert handliDg.
+
+These automatic regulators are constructed like barometric installat!ons. Figs. 13 and 14 show a utilizable plan of the lORENZ type ~ propeller, which consists of an unloaded double-seated valve. It is worked
+by means of a caoutchouc membrane filled with air at the pre ssure prevaili.ng at the altitude i~ question. This membrana is placed in the spacs in
+front of the carburetor, in which the pressure is to remain constant. As
+equilibrium always prevails while the gear is in action, tllere is similar
+pressure on both sides of the membrane, inside a.nd. outside, and consequently no stress is ~o"Ugbt to bear upon it.
+
+In the same way that the float Case of the carburetor muBt be connected with the pressure chamber of the blower in the Case of engill6s
+with preliminary compressors, so rauat the float case be connected with
+the space in front of the carburetor when the engina 1s an over-sized one.
+In the same ~r, over-sized engines may be overloaded at the start,
+for a short time. If over-sized engines are also over-compressed, the
+overload. can evidently only be carried to such a. point as is compa.tible
+with safety from sponte.neous combustion.
+The construction of variable pitCh propellers goes hand in hand with
+the development of altitude engines. Here, too, satisfactory progress
+has recently been made. A deSign has been furnished by Prof. REISSNER
+in which the pitch is regulated by hand and which bas been shown to b~ .utiliza.ble when tested with overloading. The LORENZ PEOPELLER type gives an
+automatic variable pitch propeller, in which a caoutchouc membrane inflated with air at 1 0 absolute temperature ca.uses the pitch variation
+corresponding to the given altitude. This type of barometrical device
+bas the advantage of enabling the requisite regulating pov.er to be easily
+obtained by the ralative dimensions of the membrane. To keep this power
+as low as possible, the axis of rotation is placed as nearly as possible
+in the center of pressure •Flutta.rlr.e .of the Wades is prevented by an
+oil cataract.
+The firm of GARUDA bas also taken up the construction of variable
+pitch propellers and has a most interesting improvement now in hand, the
+
+pitch being so adjusted, by me~ of a. centrifugal force regulator and a
+fore-coupled hydra.ulic Servo-engine, that the number of revolutions remains
+constant. The constructive system 1s extremely clear and sumary. Such
+variable pitch propellers should be an acquisition on normal engines, as
+they render it possible to ,fly with a normal Il\Jmber of revolutions during
+the climb and thus to utilize the engine power to its full ca.Facity. In
+
+- 14 -
+
+time of war, the speed of the airplane can be accelerated by compression
+~ite of the constant m;mber of revolut tons, the propeller betng simply automa.tically
+adjusted for larger pitch.
+
+at the moment of danger just as well as at present, in
+
+SUMMARY.
+The development of a.viation eDglne construction during the War will
+be fully d.eso:r:-i bed later on, the progressive adapta.tion of the aviation
+ellgine to the deme.nda br.ought to bear upon it being espeCially pOinted.
+out as the main object to be attained by suell development. The means
+aVailable for that purpose wi2l be stated and the results so far obtained
+will be disc~sed. In conclusion, reference will be made to the influence
+of engine construction on the development of the propeller.
+

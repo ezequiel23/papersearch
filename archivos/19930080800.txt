@@ -1,0 +1,1462 @@
+TECHNICALNOTES.
+q
+
+NATIONALADVISORYCQMMI’I’TEE AJZRONAUTICS.
+FOR
+
+No.
+
+‘5.
+
+SPECIFICATIONS
+.“
+.
+
+“ by
+
+. .
+
+E. P, Warner,Chiaf Physicist,
+Aerodynanical
+laboratory,
+N.JLC.
+A.,
+LangleyField, Va.
+
+Washington,
+
+.
+
+Jtiy,
+1920.“
+
+——
+
+m
+
+L
+
+<
+
+use of statictesting~or, as i% 5s more cumonly aalled,
+send loading,has been very much extendeddazr:ng he war, and St
+oountr
+ies now require a sand load of every new t=
+accepting it
+
+for
+
+of machinebefore
+
+generaluse by theirair se~ices. A statictest
+
+admittedly
+canmt repkce a stressanalysis,
+especially
+if, as is
+usuallythe case, sand loadingis only to be carriedoat for me CO*
+dition,but %t is usefulas a &eck and as a means of datecting
+SS9S in f%t%ingsand other
+and Qnsuspectsd
+vmaium
+
+fssalt ~rhsZ&@
+y
+
+smallparts zmt read%lysuecept~ble analysis. The sand load
+of
+shouldbe considered,
+therefore, a checkto be ap@ied ofiy afas
+a
+ter tha stcess”zdysis has been carriedthroughwith all possible
+refinement method, sad not at all as a substitute
+of
+for the calcuIations or as an excuse for shirkingthem.
+Statio testsfall into two groups,ths first of which is
+designedto load all the members of the structure
+approximately
+in
+q
+
+accordance with
+
+the
+
+worst loadswhich they carry in flight, while
+
+the secondis direotedto the test%ngOZ certainspecific
+members
+9
+%
+which are suspectedof weaimsss ami which are tiiff cultto analyze
+mathematically.The nature of the loadingin the secondtype is
+different
+for every cliff
+erent test, but the purposeof the first is
+clearlyenoughdefinedto permit ef the adoptionof some standard
+at
+set of loading speciftcatiuns, leastfor airplanesof =rmal design. In the pages which follow,
+thrQugh an analysis
+
+an 4tempt is made to carry
+
+leadingto such a stadsrd, the go= being the
+
+dsterminat ef a load whichwill simultamouslyimposeon every
+ion
+
+.2.
+
+member of
+
+the airpkne
+
+strtiature strgeseqti
+a
+
+ever oa~riesin f15ght.
+
+to the worst t-t %*
+
+-
+
+It is manifestlyimpossible
+literallyte attain
+
+this ob~ect,as the conditions
+encountered ths air are various
+in
+
+.enmgh to oauss. eversa~s stressin _
+r
+of
+
+members,particrikrly
+in
+
+q
+
+the front Mflttruss, and it is obvioust’hat singlesand load,
+no
+t
+howeverIngenioueiy
+devised, can set up tensiled
+’
+
+compressive
+
+stressesin the ssmemember a% the same tima. However,some approximation to the worst loads in most of the mexbre can be secured.
+WHl?Il?SF CELLUIE?3.
+O
+For a normal%est, the airplaneIs inver%ed, the fuselage
+being supported poin%s close znough
+at
+
+to
+
+the
+
+points of a%%aohmen$
+
+of the wing hinges So insureagairs%any r%sk of fail~~eof the fuselage.
+
+l?he
+load %s appl%edby aeans of qziltedbags filledwith
+
+dry s-,
+
+ad is suppo~ted Jacks at each panel petit during%hs
+by
+
+applioatiozz eaoh increment load, in order that theremay be
+of
+of
+no local stressesset ~ by application 8 load to one part of
+of
+the wings beforethe corresporriing
+Zoads are qppMed elsewhere. Afof
+ter the application of eaoh inoremerlt
+
+kz.d
+
+the
+
+‘
+
+verti
+oal cleflee-
+
+tion shouldbe measure~at every point of supportani half-wayWtween each two points of sqgmrt s2.ong
+each ~ar.
+
+‘We deflection
+
+shouldalso be measuredat oorrespotiingoints along eaoh trai15X
+p
+edge ami at pointsmidwq betweenthe sparsas an indexof the
+dechangeof form of the section. At the wing-tipsthe horizontal
+flectionshouldbe measured,as well. the vertioel. Tests are
+as
+sometimes
+
+made
+
+with
+
+the
+
+cel.ltia
+
+right-side-up,ep~esenti% the oonr
+
+Ution of upstda-down
+flight,but theseare les”s
+frequentand Zess
+important
+‘than
+those for
+—
+
+the normal
+—
+
+omiit
+—
+
+icm.
+
+“
+
+.
+
+,.
+
+3“
+
+DISTRIBWI!IC3N IXMI)JWMG
+W
+It is
+
+THE CEORD.
+
+necessary to adopt sane arbitrarycomnmticm for
+
+this distribution;irst becauseit wwuld be impossible distribf
+to
+ute the load to exact dqlioate the rather irregulsx
+Q
+pressured%etribut~onon the wingsat any given angle,and secondlybeoausean
+airplanehas to coatendwith ea almostinfiniteVarZa*yof condi.
+
+tions,each Uf which oorreepcnxis a diffarentdistribution air
+to
+of.
+MEtd.
+
+.
+
+The Meal methodwould be to & as the &itish have done
+with a seriesof ‘3!hcmas
+biplanes,
+testinga mxnberof identioal
+maohinasunder dif~erentcondith3s of IoadZng. Om, for exampla,
+
+.
+
+could be testedwith the oanterof gra..tyof the load far backs
+oorreaponiing high-speed
+to
+conditions,
+one with the e.g. in its
+farthest forwar~positioq ad
+
+stillanotherwith the longitudinal
+
+.
+
+there is no Zif% and a largepart of the weightof the s@@ane
+
+.
+
+balanosdby the dreg of
+“
+
+tha mings.
+
+it is ~sirable
+
+Sinoe
+
+~
+
+is
+ns-
+
+t
+UaUy quite Smgraeticable o breakw more than one airplaraof a
+given type, s-
+
+other sol~tioahas to be
+
+betweenoounselsof perfection
+“Sadb3e
+t
+..
+
+into
+
+adopted
+
+as
+
+of axpadienoy.
+
+The oustomary
+method has been to mark the
+
+twoor
+
+three
+
+saotions
+
+form withinaaoh of
+
+those
+
+a compromise
+
+and to assunethe unit
+
+wingOhcma off
+
+loading
+
+to be uni-
+
+sacticns,the tmit loadings”n the sevi
+
+ara3 sectionsbeing so ~oportioned that the centerof grav%tyof
+the lo~ is fsom .35 to .4 of the chord baok of the lead3w edge.
+An attemptwill be made here, as alreadynoted, to buildup from
+as
+fundamental
+data a ~thod of sand-loadi~ which will correspond
+
+.
+
+-4-
+
+.
+
+nearly as possibleto all of the wors% conditions
+experienced
+in
+
+fl%ght. Dursngthe derivat
+%oa and elaboration that method
+of
+presentpractioe*U
+
+the.
+
+be entirelydisregarded, order that there
+in
+
+may be an I?xiependentcheek on the empirical rules for loading
+authorities
+and which
+technical
+
+whioh were devisedby the *z=E
+
+are now generally used in herioa.
+
+me
+.
+
+mitted
+
+two
+
+worst bad
+
+credit
+ions to which a oelltieis eub-
+
+are:
+
+o
+(%) the case of oorning at of a dive or performing any
+violentmanoeuvrein whtch the angle of atta~ passes c30s8to th6
+angIe of maximunlift ooefficie=t
+while the speed stilleemainsin
+speed Sraa vert
+ioal dive. Under
+the ne@hborhood of the limit
+i“ng
+force on the completeoelluleis usuthis oondit
+ion the resultant
+
+ally inolineddightly forwardof the perpendioubr to the WSX%
+chord, and the lod on the drag %rues is therefore
+negativeunless
+there is a tige
+
+anount
+
+of stagger.
+
+(b) the oa~ of a vertical,or rnarlyvertical,dive at
+..
+the
+limit
+ing speed. In this instenct3 weight of the airpkine is
+completely
+balanosdby its dreg, the propslle=thrustbeing inef
+high speed. In most airplanse,
+fective at ‘suoh
+the wing drag and
+the parasitereeistszx% the inte=plan3
+of
+bracingmdze up from 50$
+to 65* of the total resist-e
+
+at the angleof zero Uft.
+
+The fig-
+
+ure will be taken as 6* in this analyais. Sin* the angle of- zero
+lift does not co%ncidei~~th that of zero wing moment there 5s a COP
+siderable diving moment on the -s
+u
+
+during a Qerti%od desoent.
+
+This is balanced by a downwardforoe on the tail, and gives rise to
+
+.
+
+an upwsrd10Sd ori
+the rear wing truss,a downme%dload on the front
+om.
+.
+
+-—
+
+.
+
+.
+
+-5As a first step, it is mcessary
+
+of the msximun stresses which the airplane
+go in flight@er
+
+that some estimatebe made
+will
+
+be
+
+reqyired to under-
+
+the two oriticalcotiitions
+just described. Any
+
+load in exoessof the f
+
+tgures
+
+thus
+
+determined
+whioh is.
+sustained
+on
+
+as
+sand-lore
+can then be considered a materialfaotor,
+
+or true fac-
+
+tor of safety. In (a) the maximun loadingCan he detes?minai
+by
+measuringthe normalaccelerations flight. A large mmber af
+in
+
+“
+
+tests cm pursuit planes, made at the Royal.
+~ircraftEstablishment
+have failedto show any ameleratims %= exoess of 4.2 g, and Zt
+may fairly be assvaiedhat this valua would rmt la exoeededin any
+t
+
+nwoeumres Mkely to be oarr3edOU% by the or~%narypile%, although the theoretical
+limit of tha dynmtc luad faotorwhen the
+elevatoris pulled q hard very suddedy tS muoh hi@er
+rangingfrcm 7 to U
+
+than 4.2,
+
+in different
+machinesani by dif$strent
+methods
+
+of compntatou. The oenterof Eressureis okse to its farthest
+i
+fomard positionat the instant_
+
+the @nsmie lead attainsits
+
+.
+
+maximum
+valus,
+.
+
+the angle of attaokthan &iag close to the burble
+
+point, and th%s pos%tion may bO %abn as .3 Of
+
+tb
+
+Ch02?d
+
+frOi5
+th8
+
+leading edge, th%s being the mean figurefor a nunberof coamonly
+
+used wir@ . The front Mft truss thereforeoarsiesthe larger
+forcew
+part of the lift laad. The vectorof resrdtant
+
+be con-
+
+2°
+to
+sideredto be inclined forwardof the perpendictiar the ohord
+of the wings. The compo~at of load in %he plane OZ the winge is
+
+thea direetedforward,and is
+less there is more
+
+than 2°
+
+carried
+
+by
+
+the anti-drag
+wires,
+
+un-
+
+positivestagger. Sincemst airplanes
+
+built at the present timehave some positkves%agger,the forion any
+ward thruston the wings at large anglesneed seldomocoas
+
+.
+
+-6-
+
+under which there is a forwardth%ust
+cunoern. The on3y condition
+on a wing iz a maohina with @
+
+,
+It
+pos~t~vestagger S31d is then
+
+dus %0 the fcrwaracomponents the staggerwire tensionswhioh
+of
+distribute
+tha vertio@ loads betweenthe two ItPt trusses,
+pears only
+
+and ap-
+
+the u~.er wi~.
+
+in
+
+In a dive at limitingvelocitythe dmg actt~ direotlyon
+
+the wing trues~,
+
+as alreadynoted,ba tsken as M@ of the w3ight
+
+q
+
+equally
+of the airplane,this 66 beingdistributed
+approximately
+
+.
+
+~a the parasiteresistbetmen the drag of tb3 wings themselzms
+anoe of the intarplane
+bracing. These figuresapply only to biplanes and triplams
+
+in which
+
+the
+
+intaiplane
+
+bracimgis of normal
+
+type, ami they shouldbe materially modified for madkdnes in whioh
+
+there is littleor no axterns2 bracingcf the celhks
+
+ad
+
+also
+
+for thosa i= tiicJithere is a multiplicity bodiesor nacelles.
+of
+The moment coefficient a bipkm,
+of
+
+referralto the
+
+.
+
+leadingedge ~f the mesa chord, may ba taken as .03 (ih absolute
+units ) at the angle whare theze is no nomnd force on the ccmbina-
+
+tidn, this valw of the ooef ioient seldcm beingexceededtier
+f
+
+the
+
+drag coefficient
+#or this angle was simconditions
+specified. l!h~
+Uarly found te “be.02. Sinoe,as noted above,the wing dreg is
+
+about o=-third of the totaldrag, the ooe5f ient of total drag
+ic
+magbetekanas
+
+.06.
+
+I&e eqwtion of’
+motion along the Iozlg%tudinal
+
+the airpl~ awi the equationfor moments aboutthe front
+axis C)f
+.
+spar af each wing (assuning
+tha moment coef
+ficiantsto be the same
+for
+
+the
+
+qpper and lower wings) my than In3 written:
+
+/+v2
+M=
+
+=
+
+w
+
+z .06 x .00238JYF
+
+I!&x c x/%’v2
+
+.
+
+= .000WW2
+
+.030x .
+00238A@ = .
+OO007CAV2
+——
+
+-7where D: is the drag coefficient for the airplaneas a whole,A
+the totalarea of s-porting surface,V ths limitingspeed0$ di~e~
+C the chord of the wings,andW the weightof the airplane.
+Solvingfor AV2 fremthe first of theseequatiensande@mtittiing
+.
+the
+
+value thus obtainedin the second,
+
+This is the equationfor moment about the leadingedge, but, sinoe
+there is no nmmal force,the moments about all points lying in
+the chord&
+
+tlm wing will be equal, and the equation Just given
+
+can squallywell be takenae’
+represent* the moment about the
+frent spar. h“ this is done the loads and reacttons in the front
+trues will have no effeoton the mment about this ssis,and the
+totalmoment can be quated to the produot of the total lead carried by the rear
+
+truss W
+
+the diaknoe betweenthe spars. If b be
+
+taken as representing
+the distancebetweens~ns and F is the total load in the rear Hft trusa
+F Z.5WX:
+E@ncs there is no resultantnormalforca on the wing eelluleexcept the very zma13 one (about.15W) required*O covntsrbalanti
+the down Zoad on
+
+the
+
+tafil
+the downwardload on the front truss ia
+
+nearly eqpal Sn magnitudeto the upward load just fmmd for the
+rear system
+The maximum ugward 3md
+
+on the rear lift trussmay not
+
+oocur exactly at the angle of zere normal foroe, but 5* is usually
+
+very closeto it. It &
+
+readi~y be shown that, if a vector
+
+gl?am plottedfor the cellulealma, M a
+be
+
+line
+
+dia-
+
+be drawn con-
+
+.
+nsctingthe front spars m the two wings,ad if a point be found
+
+On that line which divides,t Into segnents
+i
+whose lengthsvary inversely
+
+as the =eas of the wings to whioh they are @j scent,the
+
+force in the rear trus~ is grea%est,
+awwning the speedalways to
+be that of steadymotirm,for that anglewhose veotor is at the
+greatestperpendicular
+distancefrom the pofnt so found.
+
+This oon-
+
+dition is generallysatisfied an angle about one-half
+by
+degree
+‘between
+largerthaa that of zero normal force, but the difference
+.
+the maximwnload and that found by the formtiaalreadygivenfor
+the angle of zero normalforce is only a few perceat- not enough
+to take into account. If, on the other‘hand,
+the speedremains
+oohstant,the msxinmn force in the rear truss would be fowi at an
+angle raear
+the burblepoint.
+In actualfact, the speed neitherremainscons
+tantno=
+does it very in suoh a manner as always to correspond the speed
+to
+of steadyflight. AS the a~le of attaok increasesin flattening
+out of a dive the speedfalls off, slow~vat first and then, as the
+drag coeff
+ioientruns up with fnoreasing
+angle,more ami more
+rapidly. For sxsmple,a theoretical
+analysis,
+made by the Airplane
+Engineering
+Department,
+U.S.A., of the motion of a JN in flattening out showedthat the speeddeoreasedonly fran 1?9.95ft. per
+see. to 379.89 while the eagle of at$aokrose frcm -3° to +3°.
+
+A furtherincreaseof angle to 9° was accompanied a drop of
+by
+speed to 1’79.00,and, by the time the angle reachedMO, the speed
+had fallen to 174.2 ft. per see. The actual&anges in speedwould
+on
+undoubtedly more rapid than this, the asmxaptions which the
+be
+
+canputatin was based being quite cliff
+o
+ereutfrcm the conditions
+which normallyexist in flight,but the proporticmal
+variationof
+
+.9*
+
+the
+
+rate of change of veloc~tyis probably substantially
+correct.
+
+TkLS
+worst load in t% rear truss therefore comes shortlyafter the
+flattening
+out begins,when there has been a distinctchangeof
+angle from the divingatt%tude but very 1it
+tle drop of speed. It
+would not be easy to compute the magnitudeof the msximumforce in
+the rear txuss or the angle at which it eccura,and an approximate
+allowance
+must be reads.
+by
+Sincethe sparsare usuallyseparated about 55 percent
+
+.
+
+of the chord lengththe maxim= load carriedby the rear ta’uss
+
+*
+
+,
+
+duringh verticaldiva is a~reximately equal to .9W,where W is
+the totalweight of the atrpkne, in most types. Tot
+
+the
+
+reasona
+
+statedin the precedingpar~raph it is best to a130w as an absolute maximum *ha%
+*
+
+the
+
+lift load h the rear tnum may rise to two
+
+a half times that given by the formula,but any such rise will
+
+be accompanied a reductionin the load in the drag truss. The
+by
+latterwill never exceed the value which it has in the limiting
+verticaldive, and whichhas been taken as .6%?. This fi~e
+
+iS
+
+stillfurtherreducedby the fact that the weight of the wing truss
+acts in directopposition the drag tie= diving. ?&kingthe
+to
+
+weight of the Cellule as 15* ofthe total weight of the machine,
+the net longitudinal
+force is reducedte .45W.
+With the normal spacingcf the spars (frontspar at aboti
+.12, rear one at about .65, of the chord from the leadingedge)
+the front lift truss will Carry 66$ of the total loa~ whSn the C .p.
+is .3 of the way baCk on the chord. If the maximumtotal load in
+that conditionis 4. the load on the frozit
+2W
+truss will he 2.8W.
+TO get the net 10ads i~ the Mft trusse~must b
+
+allow for the weightof
+
+the
+
+CSUUG.
+
+reducedby 15$ to
+
+“
+
+-mScamrizing, then, the me@rmxnnet loads to ‘be
+encountered are:
+2.4 w in the front trU3s.
+2.2W in the rear lift truss.
+
+O.45W in the drag truss (plusq
+loadswhichresult
+fzom the inclination the lift braoingin a
+of
+st~ati’ed
+maohina
+). 0.45 is strictlyoorzect
+only for an orthogonal
+cellule.
+& a si~le semi-loadtest is ‘tobe made the load should
+be so distributed
+%hat all three of these truss eystemewill reaoh
+theirm~imum normal loadsat tha same th8, and any diitio?ld
+load which tha structure
+earriesafter reaohingthis point is a
+true margin of’
+proteutiouin
+
+ail
+
+the trusse againatdeterioration,
+e
+
+non-hcmogensity,r initiallyinferiorqyalityof someof the merrlo
+bers enteringinto the struotureor of the manner o??
+their assembly. ~
+
+imposition the maxima load in all trussesat the sof
+
+actua3tetiency,when one eystima is a vary severetest, as the.
+tsm of trussingis heavily st&ssed and anothar is not, is for part
+of tha load to be transferred from the heavilyto the Mghtly
+
+loadedportionsof th~ structure
+throughthe staggerwires d
+othsr secondary bracingmembers. It 5s, however,the bee% that can
+be done if only a singletest is to be made, and it is better that
+ione of a sand-load test should err on ‘the side of severthe condit
+
+i+y rather than on
+
+that
+
+of Ienienoy. The only othar seriouserror
+
+which arisasfrom this attemptto combineall loads on a si~e
+tast lies in the combination a load in the drag trusswith the
+of
+-imum
+
+force on the frent 1ift mernbars, mmbination whioh never
+a
+
+occum in gract
+isa. Me reeult is that the stressesimposedon
+the lowarfrent spar are greater,those on the upper frent spar 3ess,
+—
+
+—
+
+—
+
+-13, -
+
+.
+
+,’
+
+than they shouldbe, but this is a
+
+fault
+
+wMch is inherentin the very
+
+nature of a sand-load
+test and ;?hich
+cannot be entirelyavoided.
+
+The most that can be done is to bear in mind the natureof the error and to be partZcularly watohful for any signs of yieldingof
+
+the up~erfrent spar, sinceany wdcness ‘which
+that membermay manifest in the sand-load
+test will be aooentuateci flight. A tearin
+ing out of the lowcm frost wing hinge at slightlyless than the desired lgad factormay, en tha other hand$ be regardedwith some
+leniency, as the force at that po~nt duringthe sand load is greater
+
+than it ever would be in flight.
+Havihgdecidedwhat combination loads is to bS sti~.
+of
+taneouslyimposedon the varioustrusses,it remainsonly to determinein detailthe distribution the sand along the chord to
+of
+accomplish
+the desiredend.
+If the sparsme assumect,s befcre,to be at .12 and .65
+a
+
+of the chord,the centerof gravityof the appliedlosdmust lie
+e
+at .37 of the chordfran the leeiiingdge. This positionof the
+Oenter of gravityis given by the load distribution
+shown in Fig. 1,
+a distribution
+ap~roximating
+the mean pressuredistribution
+over
+
+the wings.
+
+.
+
+.
+
+~
+
+w
+
+is’s
+
+fstor determined give the oorrecttotal loadper running
+to
+
+fpot.
+So far, tha load distribution which this reasoning
+to
+hadS is C~OS8~ySilBi~~to that whichhas baenmost coumonlyused.
+
+;
+
+-U$”
+
+It is necessaryto consideaaext the angle at whioh the c@lnZ@ must
+be inolinedduringthe test in order that the m~imtm load specif
+
+ied for the drag trussmay occux at the esm time ae the maxima
+
+in the lift trusses.
+The totalnet load to be appliedto the lift trusses Le
+4.6 W, assuming that the celluleweight is 15% of the totalweight,
+
+while that in the drag trues,neglecting
+the effecbaof !skgger
+on the drag ?mming, is 0.45 ~,
+
+The cellule should thareforebe
+
+inclinedat anamgle whosa tangentis 0.45. Th%s angle 5s 5?6.
+This immaterially3%ss than that sanctionmi preseatpracttse,
+by
+which usually,almostuniversal.lyt
+embodiesan angle of 15°. The
+choiceof 15° is based on the assunptionof a& L/D of 3.8 for the
+odlule
+
+at the angle of meximm horizontal
+
+speed. me assumption
+
+is substantially mreot, but the oonolusioaas *b tha nacessa2y
+c
+
+inclination falsa, as it mast be remmbered
+is
+
+that,
+
+while the
+
+drag load %n horizontal
+f~ight at maximunspeed ‘isvery neax to
+the maximun which eanever be anoouatsred,
+the lift load on both
+front d
+
+rear trussescanbs verymmh
+
+then expeEienoed. Znfa@,
+
+inoreased
+over the VS2US
+
+as has alreadybeen pointedout, if the
+
+pilot couldflattenout of a dive so abruptlythat
+
+the
+
+limiting
+
+velocitywae maintainedundlminishad while the whgle range of angles
+of inohienoe was coverad the maximum loads on the front and rear
+
+lift trusseswould occur almost simultaneouslynd veryne=l~ at
+a
+tha angleof attaokgiv%ngthe maximm lift coefficient. It is recommended,in viewof the reaultaof this ariklysis,
+that all cell1
+
+ules be se% up for testingw%ththenman wing chordat anaa@
+to the horizontal,
+the trailingedges of’thewings being lower
+
+of 6°
+
+-13tx
+
+the leadingedges. k mac4ia9e@ich ara emtirelyintmnally
+
+braoedthis angle maybe reduoedto 4°, as the dreg of the wing a9sembl$ in stwh a case is a snwd.ler
+proportiofi the totaldrag than
+of
+when there is iaterplm
+
+.
+
+braoing.
+
+In applyingthe sand, deduction
+has to be made to allow
+for the fact that the lift of the wings in flight is partially
+baknosd directlyby the weightof the eellule,and that the %ppar.
+J
+
+ent weight of the c83iuieincseases, general,a% jtist
+n
+in
+%ha sam
+rate as does the lift. When the dynsmieload is 4.2 W the oallule
+will be presseddownwardwith a ferm equal to 4.2 times its awn
+weight,and this kad will always M distributed
+betweenthe spars
+in the cameproportion,
+whateverma g W the ar@e of attaok. TM
+assumption
+has thus far bean made that the oelluleweight is 15$
+of the total,but this assumptionshouldbe abandoned~
+
+the ac-
+
+tual weightof the oellulebe taken into accountin computing”
+the
+
+amouzlt f sand to be used . Since a sand load of 5.4 W, distribo
+uted
+
+in the manner which has been specified,
+has the sane effect
+
+on the frmt truss as baa a dynamiclift
+
+load of 4.4 W at a large
+
+angle of incidenoa,
+the sffeet of the dynamic load m
+
+the
+
+oa13v3e
+
+%tselfoan be simulated redueingthe applied sand load by the
+by
+amount 4.2 W‘, where ?P is the watght qf the ce~lule. l%is method
+rests 011 the assumption, which always approx$m.stes dose~y
+
+to the
+
+truth, that the ~.t% of the Oedltie 38 at th3 sam distance baok
+from the leading edge (37)%)
+~
+
+is the C.G. ef the sand load.
+
+equals 1.29,the formtiafor
+
+the
+
+amount of mnd to be
+
+added to give loads in all trusseswhioh will be equal to those
+corr8spond~ to a dynamicfactor of ene is:
+1? ~ 1.%X? - WY
+*
+
+-1.4Whri3 f?S iS the tOta.1 wei#lt Of S-
+
+US8d.
+
+k
+
+&3@ying
+
+the f il?st
+
+load ~ furtherreductionof W? is made in the amountof sand, ~ime
+the invertedcelluleitselfthrowsa load on the lift bracing.
+These figures,as alreadynoted,applyprimarilyto fast maneuverable single-seater
+O.
+‘ In ganera3,the procedurefn decidingos the anountof
+t~e must carry m
+load whichan airplane of any particular
+
+static
+
+test is, first to decideO* the maximumdynsmicload which the mataking dua aocaunt
+ch$ne is likelyto be calleden to withstand,
+of
+
+the
+
+probableuses and conditions operation,
+of
+w-ther or not
+
+stunt
+tng will be necess~-y,’
+etc., than %0 %ncreaset~s by a proper
+factor of safety,materialfactor,or depreciation
+factor,the magnitude of whioh dependson the natureof the structure
+and the cou
+alitionsnder which it M
+
+lildy
+
+to be used, and finallyto apply
+
+the formulagiven above %G find the actualweight of sand ~ioh
+must be used.
+JXSTRIBU!I?IO?J
+OF ZOAD ALONG TITS
+SPAN.
+The method whioh has sometimesbaen used, of carryingtha
+full load out to near tl@ tips of the wings and then rsmov$ngthe
+load entirelyfrom the tips, is ansatisfast~ry that it reducas
+in
+the bendingmoments in the overhanging
+portionsof the spars below theirproper values,although%hs shearsat ths last panel
+point are probablya~roximately aorzect. If, on the otherhand,
+the load is adjustedto make the bendingmomentsright the shears are
+wrong.
+
+It is more accurate to make a moderatereductionef the
+
+load at some distanoefrom
+
+the
+
+wing-tips. It is recomnendsd,
+
+in view of experiments
+which the Britishhave condv.ted the
+on
+.
+
+/
+
+pressuredistribution
+over the wings of models,that the unit Xoading in eachportion of the chord shouldb% reduoadby one-third.
+on
+
+.
+a portionof each wing extendingone-halfchord lengthin from the
+.
+
+extrerceip.
+t
+HEER?OSED
+DISTRIBUTION OF LOAD X!ZTR!EEN
+.
+
+h
+
+S-ilRl?AGZS
+.
+
+biplanes,
+the unit lmdhg
+
+on the lowerwing (lowerin
+
+normalfZight,upper when in positionfor sard-loading)
+shouldbe
+8@ of that on the upper. In triplanes,
+the unit loadingon the
+lower wing shouldbe S@ of that on the ~per, that on the middle
+wing shouldbe ?5% of that on the up~r.
+
+These ratios~e based
+
+on the e~riments carriedout at Mass. Inst.Tech,, by Comdr.
+Hunsaker,and on somemore recentwork at the NationalPhysioal
+are the mean ratiosof the lift
+Laboratory[R.AM. 196, T. 1127), and.
+of
+coefficients
+
+the
+
+several
+
+wings at the angle of maximun
+
+Mft.
+
+AILERONLOAIM.
+\,
+In order to sUow for the effectof the use of ailerons
+AmCm!ANm
+
+~
+
+when manoe=ering the mean loadingon the ailerons
+
+sail, on the por-
+
+tions of the wings irmnediately frent of tham, clearto the leadin
+ing edge, shouldbe 2@ greater than it would be if the ailerons
+ws~e not there.
+
+The aileroneffect at high angles is more than
+
+this when coming out of vert iqal banks,but this need not be taken
+.
+into acoount,as the aileronload fa13s almostentirelyen the rear
+truss,and the rear truss is worst stressedduringvery steapdives,
+when aileronmovementsand loads would In small.
+
+:i6-
+
+~A.%fJkT:
+OF ‘MPEHED WINGS;
+Each elementof a taperedwing shouldbe treatedas if the
+
+winghad a constantchord eqyal to the chord at that element. That
+is the whg shouldbe dividedinto stripsby lineswhich are everywhere a distancefrom the leading edge equ&l to a certain fixed
+proportion (.35, .60, etc.) of the chord at that point.
+
+In making
+
+the reduction of load for one-half chord length at the tips the
+chord length should be taken as that at the inner end of ~he strip
+on which the loading is reduced. The area of reduced loading should
+therefore be trapezoidal inform
+
+if the wing-tips are sq~re, and
+
+should have an altitude equal to half the length of its kk@r
+
+base.
+
+TR@lTl@NT OF MULTI~ENGINED MACHINES OR THOSE WITH
+MORE THAN ONE FUSEMGE OR NMEILE .
+Wherever there is a concentrated weight outside the fuse18ge, as at an engine nacelle, an qyvard load, proportional in meg-
+
+nitude to the product of this concentrated weight by the load fac-
+
+tor, must be applied by passing a rope from the point of ap@ication of the concentrated load q
+
+over a pulley and attaching
+weights
+
+at the end of the rope. These weightsmust, of course,be increasedby a properlyproportioned
+increment each new load is
+as
+method sometimes used, of supadded on the wings. The alternative
+porting a twin-engined mach~ne at the two nacellesand applying an
+upward load by a rope attached to the centerfuselageis not correct,
+as
+
+the nacelle~, Stending by themselves, mst
+
+plied at their centersof gravity.
+
+have all loads ap
+
+The resultant force on the fus-
+
+elage, on the other hand, may come whersver the su,pmt ing reactions bring it, as q
+
+torsional moment applied to the fuselage by
+
+-17-
+
+the wings while in flight Is resistedby the tail attached to the fus-
+
+has threefueelagas, tsv fusebges and a
+or
+
+elage. If the maohim
+
+nacelle,with the tail c=ried by the outer two, these outertwo
+shouldbe rigidlysupported
+duringthe sand-load
+test and the Wwami force appliedto tha central me.
+%0
+
+load applied at the points ofsconcentrated weight
+
+should no% act vert$cally$ bat should be inclined to allow fov the
+
+longitudinal
+force actingon the naoellasor fueekges.
+
+1= t-
+
+ca5e
+
+of nacelleswhioh carrye~ines, the directionof this lmg%tudinal
+foroe is alwaysthe szmeas ths dirsotion of flight, -n
+
+fly~w
+
+horizontall~ the propeller thrust furniehss the forward component.
+Doring a dive,
+
+this oomponentis
+
+provided
+
+by the weightof the na-
+
+celle and its contents,the weight always be~ng greater than the
+drag.
+
+The resistance of a typtcelenginenaoelleat limitingspeed
+
+is very nearly3C@ of
+the% the residuary
+the
+
+of
+
+the me$ght
+
+longltud@al
+
+the nacelleand power plant, so “
+
+foroe i8 70$ of that weight. since
+
+maximum normalforce to wh$oh the ~lle
+
+may be supposedto bq
+
+subje
+oted is 4.2 times its own weight,the rope throughwhich the
+apwerd load is appliedwhenmaking a Statictest 8hou3dbe inClinSd
+fo~wardof the perpendicular the chord by an angle which has the
+to
+tangent~
+
+.
+
+. Thie angle ia 9%.
+
+the rope should
+oenter
+
+lead
+
+Since the ohord is inolined6°,
+
+upwk-dand forwardat an angle of 395 from the
+
+of gravi%y of the nacelle.
+As in the ease of the might of the Celluleproper,the qp-
+
+ward ~Oti appliedto allowfor the dynamicload on the nacelles
+shouldbe only 8@
+
+of the actual produot of thetr weigh% by the dy-
+
+nemie load factor,since that faotor is $norease& 2$
+the abnozma~ly
+even dlstributon of
+i
+
+the load.
+
+to allow for
+
+.
+

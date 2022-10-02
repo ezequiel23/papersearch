@@ -1,0 +1,3038 @@
+TECHNI CAL NOTES.
+NATIONAL ADV!SORY
+
+CO~~4ITTEE
+
+FOR AERONAUTICS.
+
+No.15.
+
+TESTS
+
+OF THE DAIMLER D-IVa ENGINE A A HIGH
+T
+!J.LTITUDE TEST BENCH.
+By
+
+W. G. Noack.
+
+'l'r ansla t ed fr em
+Technische Berich te Vel. III - Sec 1,
+by
+
+Pari s Off ice, N.A.C.A.
+
+Oct ob er. 1920.
+
+NATIONAL ADVISORY COMMITTEE FOR AEROUAUTICS.
+
+TECHNICAL NOTE NO. 15.
+TESTS OF THE DAJMLER D-IVa ENGINE Art A HIGH
+.ALT1TU..>E TEST :SElJCH.
+By
+W. G. Noack.
+Translated from Technische Berichte. Vol. III,
+
+•
+
+No.1 .
+By
+
+Paris Office, N.A.C.A.
+
+The following translation was made by the Paris Office of the
+NatioDal Advisory Commi ttea for Aeronautics in view of the general interest that bas been ev:1.denced in connection wi th nunerou.s engine tests
+con~u~ted, for. the National Advisory Committee for Aeror~utics in the
+Al t5. tude Chamber of the Bureau of Standards. tbe resul ts of which have
+appeared in tbe Co~itteels reports.
+With a view to in~estigating the power decrease of a 260 H.P.
+Daimler engine at alt~twies, 8nC_ the behavior of tbat engine when
+fresh air :'s inductpd, tests were made at the high a1 ti t,xle test bench
+(vacuum chamber) at Fr.ied:d.cbshafen from November, 1917. to Febru..".I'Y.
+1918. Th~ last few tests were specially intended to decide what increase of power may be gai~ed and what conditions of work are realized
+\vhen fresh air is suppl.ied to the engine through a blower. The present author first, made the proposal in January, 1917. that normal aircraft should be equipped with a centrifugal blower for that purpose
+and that it should either be directly coupled or - espec~ally in the
+case of giant airplanes with several engines - be worked by the main
+shaft or by a special engine.
+The vacuum chamber, which enabled the above-mentioned tests to be
+made on the ground under conditions considerably like those at a certain al ti tvde, was lent for the PT!1.'pOSe by the Zeppelin Ai::-craft Works
+at Friedricbshafen. The inbuildiug of the engine and the entire preparations and measuring gear were taken care of by the Experim~~tal Department of the Zeppelin Wo~ks, under the direction of E~ginee~ Leitmann, whose invaluable support and collaboration are hereby g~ateiully
+aCknowledged. The engine was furnished by the Rea Equipment Depot
+
+- 2-
+
+at Doberitz. The idea of supp17ing fresh air by external pressure, or by
+means of a blower, originated with the present writer, as also the alterations entailed, i~ conseq~nce, in the engine and in the fuel s~p17.
+The centrifugal blower was one of those intended to be mounted, by way of
+ex~eriment, in the 1000 H.P. giant aircraft.
+It was constructed by Brown,
+Boveri & Co., in close collaboration with the writer.
+I.
+
+!-HE VACUUM CHAMBER.
+
+The vacu~ chamber of tha ~ppelin Dirigible Worksat Friedrichshafen
+is constructed for the purpose of experimenting on engines and radio
+equipmen.t with regard to their suitability for high altitudes, and also
+for investigating the adaptAbility of the crew in that respect.
+
+•
+
+It consists of a ferro-concrete building with a groUDd. area of 8.5
+by 4 sq.m., 3.4 m. at its highest pitch. A vacuum is created in the chamber by an ENCKE'S positive blower driven by electriC power. The pressures
+are obtained by means of two autanatic regulating vaJ.ves which are subsequently replaced by an ordinary stop-valve. The exhaust gases are taken
+off through a capacious passage, where they are cooled by running water
+and exhausted by the positive blower. The test chamber ccmnnmicates wi th
+the exhaust passage by small, adjustable orifices, so that there is equal
+pressure in both. The engine-power is measured by a water-brake, the fuel
+consumption by a calibrated measuring reCipient. Waen the power is furnished by outside air and blowers, the fuel is weighed. The number of r~v­
+olutions is recorded by an ordinary aircraft tachometer, and its work is
+repeatedly checked by a hand-tachometer. The temperature of the cooling
+water is re~ated by the addition of fresh water. The exhaust pipes, and
+afterwards the under-side of the crankcase were cooled by means of water
+sluicing to enable duration tests to be made. The cooling water for engine and brake is likewise removed by means of a positive blower driven by
+ele ctrici ty.
+The chamber is provided with double doors and a. sluice, thus supplying
+a means of exit when vacuum prevails in it. A dial telegraph serves as a
+means of communication from the inside of the chamber to the outside. As
+the centrifugal blower must be installed outside the vacuum chamber, orders
+are passed on by flash signals.
+When a 260 H.P. engine is working and taking in its fresh air from the
+chamber, about 340 mID. mercury absolute, corresponding to an altitude of
+about 6500 m., may be maintained. If the whole of the fresh air for the
+engine be perm
+itted to flow in from the outside, about 450 mID. mercuryab.solute only (about 4500 m.) can be attained. When tests were made in extremely rarefied air, the workers wore oxygen maSks, and a large flask of
+oxygen is always kept in the chamber, near the fire grenades, for use in
+case of emergency.
+It may here be mentioned that the chamber, in its present condition,
+is the result of long and costly experiments. Cdnsidering that it would
+scarcely be worth while £or the majority of aviation engine manufacturers
+to construct altitude benches of their own, though future needs will make
+
+- 3 -
+
+•
+
+it urgently advisable to investigate engines with regard to altitude rethe Zeppelin Dirigible Works have offered their vacuun chamb,e r
+and its measusing installation, for rent for such purposes.
+qu~remp.nta,
+
+II.
+
+THE ENGINE AT
+
+DECREAS~NG
+
+ATMOSPHRlUC PRESSURE.
+
+The D, IVa engine, No.29609, was mounted on the test-bench for investigation, without any alterations. For the first series of experiments,
+fresh air was taken in from the expeTimenta.l chamber a.l'ld indmted thrr)ugh
+the air-passage of the crankcase ig the usual manne::-. ~'he engine ran wi th
+light gascline, \j =: 0.708 kg/ dc at 15°C. The time of cons'lIDption for
+every 3 dec. 3 was registered by a s~op-watch, the pre3s~~e 1n the chamber
+by two dirigible barOOleters. Whenever a vax-iation in p.cessure was cansed
+by the open ~vg or closing of the re~11~ting press-~'o valves in the chamber, norma.l l'egime condi tiens were set up e:o.d. each reading waS repeated
+sevez-al times. The powers v.ere f),xed. for 1450 and 1550 r.p.~ alternatively.
+The results of these tests are collectively given in Table 1. The
+same values, j.n terms of al tit\l.d.e, ar e shown in Fig. 1 (meastU'ed on the
+d~.rj, gi bl e barometer) t and in F;.g. 2 in terms of atmospheric pressure
+(Cu,;:,ve 1).
+
+There is a striking decrease of power at high altitudes. The tests
+were conAeq...uently made Ur...d.er altered CODditioll~. The fresh air was again
+taken from the E;x.peX':i.mGnta:'. chamber, but it was no lo:oger i.!ld.uc ted to the
+crankcase by the passage, being directly i~ected into the carburetor.
+Table 2, and the plotting of curve 2, Figs. 1 and 2, show that the powers
+resulting on this occa~ion were considerably higher and the consumption
+lowe~, and the explanation of this must be sought for in the different temperatures of the inducted air. The temperature of the air directly in
+front of the carburetor was not, unfortunately, measured at the first test,
+but we may safely assume that the air is heated to some extent by passing
+the hot crankcase; the more the atnospheTic pressure deoreases, and the
+mass of air in consequence, the moro heated does the air become. As the
+crankcase was cooled by the intake air alone, during the first tests, it
+became hotter and hotter in proportion to the duration of the test and
+the decrease of atmospheric pressure, and this again increased the heating
+of the air still more. There was also a difference in the temnerature of
+the air of the chamber from which the engine inducted air for the two
+tests: it amounted to 16° to 20 0 at the first test and 120 to 14 0 at the
+second.
+If it were necessary to draw a conclusion from these testa as regards
+conditions d~ing flight, the effect of temperature on the power or charging coeffiCient would have to be known, as also the chem~.cal and thermal
+efficiency of the engines. up to the present time, it was general11 considered that the power might be set dovnl in terms propo~tj~na1 to the temperature of the outer air.
+This supposi tion is suffici ently accurate so
+long as the differences in questi~are slieht, but if the air becomes
+strongly heated on the way to the intake valve, it is only the temperature
+in front of the intake valve that can be taken as a standard. The dependency of the power on the temperature of the outer air, as resulting from a
+
+\
+- 4 -
+
+number of later tests with the D Iva engine, is shown in Fig. 3, which
+th~s gives an apprc x~at e idea of t he 9uw8r cu~ ~es at diffe~ent t6WperatureG wi th increasing atmo"l-phel'in pres sure.
+The outside temperatures ar.e h~re marked beside the test points,
+and the Dunber of the tel';t i.s also sta.ted , i n b~ackets. Although the
+values for highe~ and lower tewpera~~~e8 a=e distinctly different, these
+tests by no means suffice fer the establisbment of a perfectly fau.ltless
+standard, owing to the fact that othe:c ~31:"iable fa~to::-s ent9l' into ae...:
+count in the above-named c 0mbi.natio:'l of t est va,lu.e s. and that tbeir influence on the engine power bas not yo '.; been expJa:'.ned and cannot, in consequence, be suppressed. Tbese fact-<;>rs are, abO'~e all, the increase of
+temperature of the air, whic·b varies w'i. th the density of the air and the
+temperature of the cooling water anct. affects the ef'ficiency of the carburetor; and also the effect of diife~ences between the intake and exhaust back-pressure.
+
+•
+
+Fig. 3 gives positive proof, bowever, of the fact that the engine
+still functions perfectly wlth an air temperature of 0 0 'in front of the
+carburetor, and that it attains j ts highest power with very slightly increased fuel consumption. (see Teble 3). Considering that the air is
+cooled from 20 0 to 25 0 - according to the richness of gasoline in the mixture - through the evaporation of the gasoline, it must be assuned that
+the carburetor heating, the w-axmth of the bvxnt gases remaining in the
+cylinder, the compression and the hot walls of the cylinder and valve
+suffice to evaporate the fuel. We must here observe that the intake pipes
+were thickly covered with ice during the tests, although the temperature
+of the surro,mding air was +10 0 or more. In the a:~rplanef the air was
+always inducted through the engine casing and was thus wanned again. By
+this means, the air should seldom reach the carburetl)r colder than in the
+tests in question, even in the case of the lowest temperatUl'es, while the
+formation of the mixture and the burning should be faultless with sufficient carburetor heating.
+Although there may be little difference hetween the conditions for
+actual airplanes and for tests, it appears to be desirable that a mean
+power curve should be plotted for various flying altitudes, in proportion
+to the absolute temperatu~e, Curve 3, Fig. 1. It was assumed, in this
+Case, that the air in the crankcase passage had been heated to 20°. The
+mean annual temperatures given by the Wagner Meteorological Tables for
+corresponding altitudes were taken as the temperatures of the air.
+In establishing engine power for a given altit~e, consideration must
+be given to the fact that such engine power is practically dependent on
+the atmospheriQpressure, which may, however, vary greatly at a given alti tude in the course of a year. More accurate values may therefore be
+deduced from the power curve if the powers be expressed in terms of atmospheric pressure, and the temperature and atmosph9rlc pressure, at the
+al ti tudes in question, be calculated at a given time. Fig. 2 shows the
+powers in terms of pressure, and Fig. 4 repr esents tests 1 and 2 with the
+Daimler engine, the number of the tests being also set down. The upper
+curves are those of the same powers calculated at 760 IDm. barometric pres-
+
+- 5 -
+
+sure and 15 0 as induction ta:nperature, according to the well-k.l'lown formula.!
+273
+
++ t
+
+288
+
+If the eogine power were merely proportional to the pressure, that
+is, to the pressure and. absolute temperature of the outside air, the
+above curves would result in hor~zontals. The rapid decline of the curves
+as compared to the straight lines, provides a. standard for the "altitude
+characteristics" of the engine. In the tests in question, this rapid
+decHne is due to the heatj.r:Ig of the intake air. Tbe hotter the cra..'lkCase becomes, and the lower the pressure, the greater is the influence
+on the efficiency of the engine.
+The inadequate working of the carburetor is another factor, though
+influencing it in a secondary degree. It has been previously stated·
+that the supply of fuel in the carburetor diminishes less, wi th increased
+altitude. than the weight of air taken in with every stroke of the propeller. The result is an over-rich mixture, in which a large proportion of the fuel leaves the cylinder in an unused state and is consumed
+outside as exhaust flame. The thermal efficiency of the circulation is
+thereby considerably lowered, as may be seen from tbe increased speoific
+fuel consumption represented in Tables 1 and 2. Improvement in this respect migbt be obtained by the use of a carburetor that could be regulated by means of an automatic or band-worked nozzle-spray, according to .
+the weigbt of inlet air.
+
+Decrease of engine power is further influenced by mechanical efficiency. When tbe number of revolutions remains constant, the light running
+wo:rk of the engine scarcely diminishes at all, except for its being lessened by the decrease of working pressure. altbough its proportion to tbe
+brake power increases with altitude.
+The future alone can show to what extent the altitude power of tbe
+normal Da~ler engine may be improved by other carburetors, or bow closely
+such decrease woulu app~oach a proportional decrease of pressure.
+By way of cmmpari son, the power curves of the Ma1ba.ch Mb IVa and Mb
+H S Lu engines with 1450 r.p.m. a~e plotted in terms of altitude in Fig.5,
+on the basis of measurements previously taken at the Zeppelin Works. In
+Fig~ 2, the values are also inscribed in Curves 3 and 4.
+In Fig. 5,
+Cu~ves 1 to 3 relate to the Mb IVa engine. as follows:
+Curves 1 with light
+gasoline power ( ':J = 0.708), Curves 2 working with heavy gasoline ('! =0.750)
+and Curves 3 to benzol power t in whicb case tbe carburetor might remain constantly open. Curves 4 refer to the Mb H S Lu e!lgine with. ligbt gasoline
+power. In Fig. 2, Curve 3 relates to the Mb IVa eDgina, and Curve 4 to tbe
+Mb H S Lu engina.
+
+* "Technische Beriebte, n Vol. II, No.1; "The Decrease of Engine Power
+"
+
+Altitude," by H. C. Bader.
+
+wi tb
+
+- 6 -
+
+.1
+
+III.
+
+THE ENGINE WITH DECBEAS!NG OUTSIDE TEMPER.ATURE AND CONSTANT
+PRESSURE IN FRONT Ob' THE CARBURETOR.
+
+These tests constitute a series preparatory to the working o~ the
+engine with compressors. Fresh air. was inducted to the carburet.or by outside piping instead of be5.ng admitted through a blower. The air :;l)ressure
+was therefore constant, while the press~e in the experimental chamber
+and the exhaust ba. ~ preSSllI'e ware cape.ble of being regulated. The fuel
+tank and the float chamber were connected with the air passage of the carburetor by a pipe about 6 rom. in d:i£lm eter. A receptacle couta:l.ning about
+1/2 1i tel' was attached to the overf1.fJ~'V pipe ()f the float, and fi tted wi th
+a pet cock thro'l1gh which the oveI':flcw gasoline was drawn off. A cowl
+that can be sere',ved and unscrewed was fitted on the outlet of the £loat
+needle, and the valve spindle of the mixing tb~ottJ.e was rrade taut by
+means of a leather washe:J:. The air is admitted d..Lr.ectly unc1.er the carburetor in order to avoid i 'l;s ueing ileated 'by the crankcase. The air passage is not tav~, however, as it comrn~~icates with the inte~ior of the
+crankcase through the oil vapor exbaus~ ports. Air cooling being impossi ble on account of limi. ted space, water was sp:-ayed into the air passage
+to cool the c~ankcase.
+These preparations were so adjusted practically that the engine worked
+satisfactorily from the cO::rJl1lsncement of the tests onwal'ds. When there
+was depression in the chambe..l' 1 fresh aiz- could be let in, and the pressure gradually raised in fZ'ont of the c:.al'.... buret ol", by means of a valve
+located in the air passage leading to the carburetor. T:'le enILine showed
+no disturbance with abrupt increase of p~essuxe, nor with gradual increase,
+such change being marked only by a.."l increase i:1 the number of revo:_utions;
+that is, by increased power.. ~ne mean pressure in front of the carburetor
+was about 720 rom. (Friec'richshafen is si t1lated at an al tHude of about
+400 m., mean barometr.ic pr.ess1.1re 730 mID.) :'200 HP was the maximum brake
+power attained at an altitude of 4000 m. (see Table 3). The main object
+of this test was that of investigating the behavior of the engine and
+of the fuel supply with super-pressure.
+
+IV.
+
+ENG1.NE WITH BLOWER.
+
+A turbo-compressor was attached to the outlet airpipe. A detailed description of this compressor will be given later on. It was driven by a
+D II-engine, 120 HP, and it compressed 5200 kg. per hour with a total compression ratio of 1.75, corresponding to the quantity of air requir.ed
+by fOt~ 260 HP engines with a maximum of 1600 r.p.m., and by the turboengine. The compr.ession ratio o£ 1.75 should be effec~ed as soon as the
+airplane has reached an al tj, tuae of 4500 to 4800 m. and when the compr e ss0
+ion in front of the cal'buretoo:' amounts to 1 constant absolute temperature.
+Only one engine being attached at the tests, and the blower being located
+outside the vacuum chamber, the compression ratio waS obtained by throttles
+in the intake pipes.
+In these tests, too, the working was faultless from the beginning so
+far as the combined working of engine a.nd blower were concerned. The results of the tests (see Tables 4 and 5) and any sta.tement of conclusions
+were put off for the time being, until a clear understanding could be ar-
+
+.
+
+,
+
+,,
+
+~",
+
+- 7 -
+
+rived at on certain points.
+
+The
+
+power of an engine may be influenced in
+
+90
+
+many different ways that it is ext=emely difficlllt to distinguish single
+
+influences. In addition to the effect of the mixing temperature, heat of
+the cooling water, etc., the effect of the difference between the intake
+and exhaust ba.ck pressure must also be taken into account. During the
+compression of the blower, the engine functions in this case as a compressed air engi~a, and the compression wo~k of the blower is regained, the
+exhaust back pressure diminishing wi th a1 ti tude, so that the useful diagram surface is notably enlarged. At the same time, the exhaust back
+pressure is proportionally lessene~. The cy~inder efficiency is improved,
+and a sort of sc:a.venging is vbtained when the openings of the exhaust
+and. inlet valves coincide.
+All these conditions must necessarily bring about the increase of
+engine power with altitude.
+An investigation was maO.e of the manner in which the Daimler ,·ellgine
+works when charged with fresh air, of its overload capacity, and also
+of the possibility of find.ing some snbsti tute for the adjustable bladed
+propeller in the constant power engine.
+
+,
+.
+
+.,
+
+The writer has proposed that propellers specially constructed for
+mean altitudes and for the atmo6phe~ic conditions and flying speeds
+therein prevailing should be used instead of adjustable bladed propellers.
+Larger pitch, and also, when it is possj.ble, larger' diameter, is thus
+obtained for the propellers than in the case of ordinary propellers with
+similar power. It is a known fact, however, that the power absorbed by
+the propeller varies with the thtrd power of the nunber of revolutions. while
+the power of the engine varies, in the proximity of the maximu:n. with the
+first power of the number of revolutions.
+In order to obtain constant power from a propeller in the region of 0
+to 5000 m. altitude, the number of revolutions of the engine must therefore be altered from about 10% below the average to 10% above it. To obtain total power from the e~ ina with this diminished number of revolutions, the blower must suppl;r higher pressure, and a greater mixed charge
+must be injected through the blower.
+Fig . 6 shows the course of curves of power. torque and consumption of
+the Daimler 260 HP engine for three different admission temperatures, pressures b, and exhaust back-pressures Pa in front of the carburetor.
+The values of Curves I are as follows: b = 830 rom. mercury, Pa = 736 rom .
+mercury, t r-' 40 0 Cj Curves 2: b = 760 !DID. mercury, Pa = 736 IDID. mercury,
+t ~ 30 0 ; and Curves 3: b = 720 zrm. mercury. p = 728 IDID. mercury, t ~ So.
+This shows that low compression suffices to prodftce considerable increase
+of power, so that increased torque can be realized without difficulty.
+with the reduced number of revolutions. There we~e no Cases of breakdown,
+even with frequently repeated overloading, nor were there any sparking
+plug breakages observed. as in the case of super-compressed engines. The
+work of the engine was somewhat hard with powers of 300 to 320 HP, but
+there was no disturbance even with a duration test of half an hour.
+Its capacity for overloading is of special advantage at starting in
+
+- 8 -
+
+the case of heavily loaded aircraft or when there is a short starting run.
+The duration of overloadi~ is a short one in both cases, ~~d no danger
+is incurred, in conse~uence, by the engine.
+The
+
+~uestion
+
+of temperature is particularly important when working
+~th co~resao~~,
+The compreSSion and internal losses (friction and
+leakages in the blower) al~e mostly converted into heat, so that the air
+is conse~uently more or less heated in propo~tion to the compression
+ratio. If fresh air is suppl ~ ed thr ough a blower driven separately, the
+pressure corresponding to the altitude of the time ba i ng must be produced
+by al ter ing by haDd the number of r evol uti ons of the bIow:i.ng engine.
+The highest compression ratio is then re~uired at the highest altitude,
+and. generally when the temperature of the air is lowest. The temperature
+of the ai~ in front of the carburetor thus remains within acceptable
+limits. This is not the case for compressors coupled to the main engine
+or to the central gear, because the compressor always revolves at the
+same multiple of the number of revolutions of the engine. The pressures
+produced are therefore too high for the lower flying altittmes, and must
+consequently be throttled. As the highest temperatures generally prevail
+at these low altitudes, the compressed air reaches the air in a strongly
+overheated condition at low altinmes. It may be neCessary, in such
+cases, to insert a;_
+r-coolel's between the compressor and the engine. The
+gain in power resul ting from such cooJing may be considerable, as has been
+seen from tests. Less stres~ is also put upon the cylinder, when better
+cylinder charging is effecte~ by cooling, than by increase of pressure.
+SUMMARY. Reports of tests of a Dai~ler IVa engine at the test-bench at
+Friedrichshafen, show that the decreas.e of power of that engine, at high
+al ti tudes, was established, and that the manner of its wOl'king when air
+is supplied at a certain pr.essure was explained. These test~ were preparatory to the installation of compressors in giant aircraft for the purpose of maintaining constant power at high altitudes.
+SUPPLEMENTARY NOTE. While the above report was in the Press, the Zeppelin
+made further tests with regard to the dependence of engine power
+on the temperature of the air, at different pressures in front of the
+c~buretor, and valuable figures were thereby obtained. The results are
+collectively stated in Table 6, (tests Nos 150 to 158). In Fig. 7,
+those values are given with those of eal'1ier tests. The numbers inscribed
+in the figure refer to the number of the test: Curve 1 to 730, Curve 2
+to 760, and C\U've 3 to 777 mID. mercury absolute in front of the carburetor.
+In all three cases, the e~ust back pressure amounted to 730 mm. ~ mer­
+cury. Straight line 4 shows what the curve of power would be if it decreased in proportion to t he increase of tempel'ature.
+Wo~ks
+
+Since that time, the first flying tests have also been made with a giant airplane of the Staaken type, with four D IVa engines, equ.ipped wi th a
+compressor. The airplane attained almost 6000 m. on that occasion, as compared to its previous maEimum altitude of less than ~OOO m.
+
+- 9 TABLE
+-'
+
+D IVa ENGINE:
+..
+
+---_
+
+FRE-Sif ,~.tfl.. INDUC1'£.tf '!'ImOUGR AfR 'PASSAGE OF CRANKCASE.
+
+~ . --
+
+:
+
+...
+
+-
+
+.
+: Temp- : Fuel consumption.
+: Br ake : Brake: eta- :'
+n
+load: H. P . : ture :4 1.=2. 83
+- kg.
+: of
+:coo1 ed:
+.
+.
+.
+wate r:
+.
+.
+:R.P.M./
+HP
+OCt ;consumed in~kg/hr. ;g!HP!hr.
+min.
+kg .
+:
+
+Tests:Alti-:Barom- : R~om :
+:tude . : e ter :tempera~:
+read-: ture
+ing. :
+No.
+1
+2
+
+~
+
+~
+
+7
+8
+
+9
+
+10
+11
+12
+
+i~
+
+15
+
+16
+
+m.
+: 400
+:1000
+:1000
+:2000
+:2500
+: 3000
+:3000
+:3000
+:3700
+00
+
+;J7
+
+: 500
+
+:4500
+: 5200
+:5200
+:5000
+:6000
+
+mm. :
+to
+Q
+,.-S.:oc.
+726
+67 2
+672
+5~5
+5
+526
+587
+27
+
+°
+
+a
+Sa
+482
+
+~S~
+400
+400
+361
+361
+
+14 50
+1450
+1450
+1 4 50
+1450
+14 50
+1550
+
+l S .~
+
+1 50
+
+17·5
+
+lEL 3
+
+Air
+Density.
+
+•J
+
+16
+17·2
+17 .2
+16·5
+19
+17,8
+19.5
+20
+18.2
+18·5
+18, 6
+18L 7
+l S.
+
+I ,
+
+1~50
+
+1 50
+1~50
+
+1 50
+1~50
+1~50
+
+1 50
+155 0
+
+171
+159
+157
+138
+128
+118
+114
+113
+105
+99
+90
+85
+76
+70
+
+a~
+
+24 9
+232
+228
+200
+186
+171
+178
+
+175
+152
+154131
+132
+110
+lOS
+74 :
+72 ' :
+
+57
+51
+59
+72
+71
+73
+66
+72
+68
+
+6s
+
+:2'57"
+: 2 1 59"
+
+: 3'10 11
+: 3 l~. 6 11 '
+:3'2 . 211
+: 3 1 12.6 11
+f
+
+: 3 1 31"
+:3 1 25 11
+:3'4-1 .8 "
+: 3 ' 36 ft
+:31~6.6f1
+
+!
+
+61
+56
+
+57.6
+
+231
+
+56.8
+53·6
+
+249
+268
+279
+28 5
+296
+
+:
+
+3 1 5.6"
+
+'~~.8
+
+52.8
+
+l.j.8.4
+
+~~
+
+47.2
+43. 2
+45
+41
+
+318
+325
+350
+357
+
+~92
+
+16
+555
+
+kg/m 3
+1.165
+1,075
+1.075
+0.955
+0.8
+0,8
+0.838
+0.836
+0·77
+0.76~
+0.69
+0.696
+0.64-
+
+4
+
+0.639
+0· 57g
+0·577
+
+- 10 TABLE II.
+D IVo.-~NGtUE: .. FRESH AIR DIRECTLY INJECTED INTO THE CARBURETOR.
+
+Tests: Vac~um ~~~~ber
+Car?ureto 1,
+:Alti- :Baror.1- : Room:Differ- : ' .. .-:Temp-:
+:tude : eter :Teop-: ence :Aps,: eta-:
+:read- : era-: of
+:pres-:ture
+ing :ture : pres- : sure:
+
+:Fuel co~sumption.
+:Brake:Brake: Temp-:
+load: H.P.: eta- :
+ture :
+: of
+. : cooled:
+water:
+3 1. :
+
+.
+.
+
+n
+
+SUl'e
+
+No.
+
+140
+14-1
+142
+
+m. : Q. ~ffi:
+
+400
+
+: 400
+:2000
+143 :2000
+
+14ft :4000
+1 45 :4000
+
+14-5 :5000
+14-7 :5500
+
+148 :r:)eoo
+.J.~9 :bOOO
+
+730
+7.30
+602
+602
+
+4-71
+471
+414
+38 9
+
+37.8
+365
+
+OCt
+
+1414
+1413
+13
+13
+13
+
+13
+12
+12
+
+.
+
+~
+
+to
+:
+
+mrn ..
+
+Q.-S.
+
+: mm,..
+
+0c
+
+730
+730
+
+.
+
+14
+
+Q.-ti.
+
+602
+
+602
+471
+471
+
+In4
+
+389
+378
+
+365
+
+13
+ILl14
+
+14
+14
+13
+13
+12
+
+12
+
+.
+
+:r.p.m, kg.
+
+H P.·
+
+:14.50
+:14-50
+
+259
+
+.
+
+·/min·
+.
+.
+
+:1450
+:1450
+
+: 14-50
+
+:1450
+:1 4 50
+: 14 50
+
+:1450
+:1 450
+
+179
+1 49
+149
+
+179
+
+112
+
+112
+
+96
+87
+
+82
+
+75
+
+•
+
+259
+
+216
+216
+
+162
+
+162
+139
+126
+119
+
+109
+
+.
+
+0
+
+t
+
+'
+•
+
+•
+
+60
+Q\
+
+.
+•
+
+. consum- .
+.
+.
+3
+: ed in ~k g/~r; ~/ HP /:kg/m
+hr •
+
+:2' 12" :54.7
+: 55.7
+
+~o .
+6
+
+Air
+: density.
+
+:2' 9"
+.
+
+•
+
+.
+
+53 : 2' 21" : 51.0
+58 :2'42. 8":44.1
+57 :2'39. 6u : 45· 1
+55 :2' 53 11 :4-1,6
+53 .3' 3· 211 .39 • 3
+:
+:
+.
+.
+62 : 3 t 2. 5" : 36 . 8
+
+211
+
+:1 •• 8
+
+236
+272
+278
+299
+312
+
+: o. 975
+
+215 :1 . 185
+: 0·976
+
+: 0.764
+
+: 0.764-
+
+:0.674
+
+:0.632
+:0.616
+
+337 :0.595
+
+- 11 TABLE III.
+o
+
+(lDiVa ENGINE AT DECREASING AT M
+OSPHERIC PRESSURE AND VARIOUS PRESSURES
+BEFORE THE CARBURETOR.
+
+Va cuum chaDter
+
+:Alti - : Barom-: Roor,1:Differ-: AbC! :Temp-:
+Tests: tude : ete r : te m
+p-: ence : . . '1": er a -:
+re a d- : er a of
+:p re s-: ture
+ing :ture : pres- :sure
+surG .
+mm.
+No.
+
+m.
+
+21
+22
+41
+
+: 400
+:1500
+:1500
+
+23
+
+: 400
+
+24
+42
+
+400
+:2000
+:2000
+:1900
+
+25
+2b
+27
+28
+
+29
+47
+
+:2600
+; 400
+: 400
+:1650
+:1720
+:1720
+: 3 000
+: 3 000
+
+30
+
+:3960
+
+tt~
+
+tt~
+
+t.
+
+: Q.-S.
+
+to
+
+°c.
+
+rn~n .
+
+Q.-S.
+
+:
+
+mm. .
+
+: Q, .-S.:
+
+0
+
+C.
+
+n
+
+626
+626
+
+-8
+
+-6
+
+: Air
+:density.
+
+:Brake : Bra ke: Temp-:
+load: H,P,: etature :
+of
+:cooled:
+';'Vate r;
+
+: 1' .p.rn:
+~ /min.:
+
+:723
+9.2 :1450 :
+:620: 5.2 : 14 50 :
++8.4 :634.4: 8.2 :1450/:
+1480
+10
+0
+8 .2 :1450/:
+:724
+-6
+73
+14so
+$.2 ~1450
+:723
+-7
+730
+.
+:1450
+602
++12 ·" ': e12 : 5.5 :1 4 50
+600
+60S
+: 14 50
+:{+118 :726 : 9
+(+l2'eJ) ·:
+.
+: +0 · · ~545 : 9
+5 45 .
+~ 1450
+: 7 23. 5: 8
+729.5: 8 . 5 : =6
+: 14 50
+-5
+:725 : 9
+730
+: 14 50
+10.5: +2
+:627 :10
+625
+61S
+11.5: +9.8 :627·8:10.2 :1450
++104 :722 : 10.5 :1480
+618
+0
+13 : ±0
+: 530 :10. S : 1450
+53
+0
+13 o. : {+198 :728 :11
+: 14 50
+53
+(+195 )
+11 : -3
+:466 :11
+: 14 50
+469
+
+7 3~
+
+Fuel consumption.
+
+.
+.
+
+.
+.
+
+Ca rburetor.
+
+.
+
+.
+.
+
+0c.
+
+:consum-:
+:g/HP/:
+ed in : kg/ hr; hr. :kg/m 3
+
+kg.
+
+H. P. :
+
+169
+152
+1b7
+
+2 45
+
+~a
+
+: 3 t 7. 6II : 57 . 5
+: 3 \.24. 6 1I : 52 . 6
+
+235 :1.191
+239 : 1. 024:1.048
+
+169
+
+246
+
+51
+
+: 3' 5 H
+
+58 .4
+
+237 : 1.195
+
+1]1
+146
+151
+177
+
+250
+212'
+220
+256
+
+171
+176
+156
+lS2
+178
+132·
+177
+
+248
+
+49
+
+225
+
+69
+
+113
+
+165
+
+220
+244
+
+255
+
+265
+260
+191
+258
+
+:
+
+:1.194:1. 012
+: 1.195
+
+b3
+
+:0.898
+: 1.195
+229 :1.195
+237 : 1.030
+: 1. 029
+: 1. 18 3
+:0.868
+:1.192
+
+61
+
+:0·769
+
+52
+
+: Y 5. 4" ~ 53 . 4
+: 3' 22 II : 53.5
+
+J
+
+. "
+
+- 12 TABLE III (Contd.)
+D IVa ENGINE: AT DECREASING ATMOSPHERIC PRESSURE AND VARIOUS PRESSURES
+BEFORE THE CARBURETQR.
+Fuel consumption .
+. Vacuillficha~ber
+Carburetor.
+.
+.
+.
+.
+------------. Air
+:Brake:Brake:Temp:Alti-:Barom-: Room : Differ-~ Abs. :Temp-:
+:density
+load : H. P .: eraTests:tude : eter : tem- : ence : - - : era-:
+: ture
+re a d-:pera-: of
+:pres-~ture
+n
+: of
+ing :ture : pres- :sure
+cooled
+sure
+:water
+3 1.
+.
+to
+:consum-!
+;g/HP/;
+°C~
+mm.:
+: mm.
+: mm.
+°C. :r.p.m;
+ed in :kg/hr: h~ . :kg/m3
+No ,
+H.P.
+m. :Q.-S. : . ~G~. :Q.-S.
+:O,.-S.:
+:/min.: kg.
+
+.
+
+.
+
+.
+
+43
+
+49
+50
+
+31
+51
+
+52
+
+§~
+
+32
+55
+
+~~
+
+56
+35
+
+57
+
+:4000
+:5000
+:5000
+: 400
+:1950
+:1920
+:3 0 00
+:3000
+
+:4-060
+
+:408 0
+4-00
+:6000
+:4500
+:4000
+:4000
+
+4-6 8
+
+410
+
+410
+729
+604-
+
+602
+
+528
+526
+
+4-62
+
+460
+727
+
+362
+
+440
+
+464
+464
+
+14 . +257
+14,5: +12
+6·5:
+
++312
+-5
+
+5: +5
+8 ·5: +118
+o .5' +7
+s' .
+
+~L
+
+. 5'.
+
+725
+r~22
+
+722
+724
+609
+720
+
+535
+
++193
+
+: 719
+
++258
+
+71S
+720
+
+: +2
+15 : +275
+1ft,5: +1
+15·5: +249
+
+364
+
+c'.
+()
+
+9
+
+-7
+
+0 .5:
+
+-7
+
+11
+
+11
+
+. ' · U.~5
+. ..:J
+
+4~§
+
+71 3
+
+10. 8 :1 450
+11 :1450
+: 14 50
+
+:1450
+±O :1450
+-0.3: 14 50
+
+-1
+
+-0.8:1 4 50
+10 : 1 4 50
+±O :1450
++0 : 1450
+-3.6: 14 50
+4.8: 14 50
+4.8:1 450
+5.2:1 4 50
+
+4.8:1 4 5 0
+
+148
+
+62
+62
+
+250
+221
+
+47
+4-9
+
+132
+
+191
+
+187
+
+271
+
+53
+50
+
+109
+
+159
+275
+2 49
+
+175
+102
+172
+152
+137
+
+189
+172
+83
+177
+115
+193
+
+254-
+
+271
+
+~~
+~~
+
+120
+
+48
+
+256
+
+65
+
+167
+
+280
+
+53
+
+:1.188
+
+:0.692
+
+.
+
+251 : 1. 238
+261 : 1. 037
+23 4 : 1. 228
+281 :0.914
+23 4 : 1. 225
+318 : 0.775
+229 : 1. 222
+
+:62.8
+: 57.6
+
+:63· 5
+
+: 53. 6
+:63 . 4
+:5 0 .5
+:63
+
+; 64.5
+
+; 1. 210
+:0.606
+
+4
+
+25 2
+
+:1.196
+:0.77 8
+
+:1.193
+
+--
+
+-'
+
+--- -------~
+
+,
+
+- 1} -
+
+TABLE IV.
+yacup.m
+
+I;;1hambe~
+
+"
+
+::- ~ ~ _:
+:
+Avs
+: Al ti-: e tet : fer- : . ,,-: Temp-:
+
+Tests:
+
+:Barom-~Dif -
+
+D IVa ENGINE WITH BLOWER .
+Before tfie' - -;i
+~Fuel con~umption.
+c a r bure tor.
+.....
+
+:tude :read~ :ence :pre S-7 era-:
+ing : of : sure : ture
+n
+:pres- :
+:sure :
+
+No.
+
+mm.
+?nlU , : mm.
+m. :Q,.- s . :Q .-S. : Q.-S .:
+
+61
+62
+
+729
+
+72 9
+
+729
+
+71
+
+72
+
+t4
+
+~~
+
+77
+78
+79
+
+80
+
+81
+
+-2
+
++0
+
+729
+
+67
+
+70
+
+{o5
+iO
+
+729
+
+~~
+~~
+68
+69
+
+-5
+
+729
+
+400
+400
+400
+: 400
+:1000
+: 400
+:1000
+:1000
+:1000
+
+:1000
+: 400
+
+: 400
+
+=12
+
+727
+729
+717
+741
+
++12
++28
+
+722
+
++42 : 764+14 : 736
++ 72 : 742
++28 : 764-
+
+722
+
+670
+736
+
+6g3
+68 3
+68.3
+
+683
+
+735
+730
+
+lo ~d:
+
+.
+
+°c.
+
+; rp m/ ~
+min: t~
+
+,+ ;
+724- . a ; .-1450'. 176
+734- :+26.5: 14 50: I b2
+729 :+ 3g : 1450: 177
+
+729
+72 9
+729
+724724
+
+~~4
+
+.
+.
+.
+. . .
+: Brake: Br a ke: Tem :
+p-
+
+757
+
+784-
+
+720
++16 : 740
+
++77 : 760
+
+:+61. 5:1 4 50: 169
+:+74 .5: ILl-50! 165
+:+ 4 -~1450: 173
+:+11.5:1 450: 1 54:+12 :1450: 159
+:+14.5: 1450: 192
+!+ 1
+:1450: 174:+11 :1450: 182
+:+16.5: 14 50: 192
+:+11 :1450: 182
+:+12 :1450: 189
+;+17 :1 4 50: 192
+:+25.5: 14 50: 196
+
+33 : 1450: 19l
++105: 788 :+48 :1450: 1'91
+1-80 : 763 :+56.5:1 4 50: 176
++28 : 763 :+27 : 1450: 192
++32 : 762 ;+ 21 : 1450: 189
++92 : 775
+
+; t-
+
+:Pressure
+
+H. ?: er&-:
+: ture: 2 kg.:
+: of ! consum-;
+:co01-: ed in
+ed
+:water:
+.
+
+H. P.:
+
+0
+
+Blower
+at
+
+In-:-
+
+:
+
+; t a ke:c~ a r g ~
+
+g/:
+
+600 ; -115;
+: 980:-1 45:
+:1360:-255:
+:1450:-275:
+
+267
+
+275
+
+279
+
+252
+
+264
+
+255
+279
+
+274
+
+m3
+
+:1.1-92
+
++ 10 :1.14+ 6 :1.088
++ 4 :1, 01 5
+
++ 4 :0.975
+:1.20
+: + 16 :1.21
+: + 30 :1.235
+! + 64 : 1 ~265
+:1.22
+
+239
+251
+
+21"1-
+
+.
+
+~ is..,:
+
+:hr, : hr.: min .:Q.-S: Q.-S.:
+•
+
+C.
+
+257
+2 45
+
+277
+
+: dens: i ty .
+
+\: 'tube: tube:
+; kg/ ~ hp/:rpm/: mm .; ~m. :kgl
+
+255
+264
+
+278
+264
+27 4
+279
+284-
+
+~Air
+
+;1~21
+
+:1.23
+44
+47
+
+44
+
+.. "
+'..
+~lt56.2":62
+:222:
+
+.
+,
+
+:1'53.6":63.3:223:
+
+:1'53.3":6~.5:229:
+
+50
+44
+
+:1'52.4- 11 :64:1'55" :65
+
+50
+
+:1'50 11
+
+53
+
+:2.31:
+
+:245:
+
+: l' 58.81/ ; 60.5: 217 :
+:64.9:237:
+
+,:
+:-5
+
+:1.205
+
+:
+:1.21
+: + 30 :1,22
+
+: - 40 : + 30 : 1 • 18
+~ -100: + 45 : ~ . 17 5
+:-150:+60 :1.14: l 2 00: + 30 : 1 , 07 5
+:-18 :+20?:1.18
+
+: --:
+
+-- :1.205
+
+- 14 -
+
+TABLE IV (r;ontd.)
+D IVli .EN(ITNE") WI TH BLOWER .
+
+Xtgilli~r ;
+
+~~~g~e.L.oI
+
+.
+.
+.
+. Fuel consumption.
+Blower
+:Bra ke:Brake :Temp-:
+: Pressure :Air
+Tests:
+:Barom- :Dlf- : Abs'"
+:
+:Alti-: etel' :fer - : ;: .: ;Temp-:
+loa d: H.P.: era-:
+:
+at
+:den:ture :
+:In- :Dis- :sity .
+:tude : l'ead-:ence :pres-: era-:
+of :
+: take: cha r ge
+ing : of :sure : tUl'e . n
+: cool-:
+: tube: tube
+:pres-:
+: sure
+ed
+2 kg .
+::
+:
+..
+~ wa tel':
+: : g/::
+.
+mm. : mm.:
+: rpm/ :
+:
+:consum-:kg/ :hp/ : r pm/ : mm . : mm . :kg
+mm,
+H.P.: °C. : ed in : h:n.: hr: min: Q. S. :0. S. : m
+No.
+m.
+Q s. :Q.. s. : 9 . S.; °C. : rnin: kg.
+.•
+
+:
+
+t.he
+
+•
+
+•
+
+•
+
+to
+
+•
+
+0
+
+82
+83
+84
+35
+86
+87
+B8
+
+89
+90
+91
+92
+
+§~
+
+§6
+97
+9S
+132
+
+133
+1~4
+
+135
+
+130
+
+137
+
+138
+
+400 : 732
+:1000 : 630
+:1000
+680
+:1000
+680
+:1000
+680
+: 400
+736
+:2000
+605
+:2000
+605
+: 2000
+605
+:3000
+53 4
+: 3000
+534
+: .300053 4
+:4000
+470
+: 2500
+500
+: 2000
+602
+:2000
+602
+:3000
+532
+675
+: 1000
+: 30 00
+527
+: 1300 : 650
+: 2000 : S92
+: . 500 : ~90
+3
+;4000 -; 462
+:4500 : 434
+
++27
++7 8 .
++8 3
++96
++125:
++27 :
++160:
++18 0:
++205:
++226:
++250:
++27 4 :
++23 0 :
+t- 227 :
+: t 28 3:
+: 2 90:
+: +4-8 :
+: +205:
+: +170:
+: +130:
+: +295:
+: "¥260:
+
+759
+758
+763
+776
+805
+763
+765
+785
+
+CI0
+
+760
+784
+8 08
+
+73 0
+829
+S85
+822
+72 3
+732
+82 0
+722
+785
+722
+:~240: 674
+
+:+21 :1 4 50:
+: +29 : 14 5 0 ;
+:+32,5:1 4 50:
+:+42 :1450:
+: +49 : 14 5 0 :
+:+18 :1450:
+:+42 :1450:
+:+52 : 14 50:
+:+62 ; 14 50 :
+:+ 79 : 1 4 50 :
+:+ 87 : 14 5 0 :
+: +87 :1 4 5 0 :
+
+1 87
+18 9
+1 87
+192
+197
+189
+1 90
+197
+199
+1 84
+18 5
+191
+
+271
+274
+271
+278
+286
+274
+275
+28 5
+289
+267
+268
+277
+
+47
+61
+50
+62
+
+; ::> 100; 1450 ; 165
+: +76 :1 4 50: 1 9 4
+
+240
+281
+276
+
+50
+58
+
+.
+
+.
+
+: +95
+
+: 14 5 0 : 190
+
+: +i.3
+: +5~
+:+37
+
+: 1 4 50: 182
+:1 4 50: 160
+
+: >. 100: 1 4 50 : 1 80
+
+: t-36
+
+:1 4 50: 221
+
+:1 4 50: 187
+
+:+95 :1 4 50: 185
+:<+105 : 1 4 50 : 170
+:~05 :1 4 50: 155
+
+26l
+
+~2
+
+66
+57
+51
+53
+53
+
+2~
+
+264232
+320
+273
+26 8
+
+60
+65
+60
+
+225
+
+58
+
+2 47
+
+~8
+
+6~
+
+:1'55"
+
+:62.6:231:
+: 61.1: 223:
+11 : 61. 5: 227 :
+: l' 57
+:1 1 52.5":63.9:230 :
+:1'52 . 5":64 :224:
+:1'59.6":60.3: 220 :
+:1'53. 411 :63.5:231 :
+:1'5211 :64.5:226:
+: l' 52"
+: 64.2: 222:
+: 1 ' 53"
+: 6 3. 5 :,2 38 :
+:l'52.6":63.7:23S :
+: 1'52" :64.3:232:
+
+: I' 58"
+
+.
+.
+
+.
+.
+
+.
+
+:2'10"
+:1'51"
+:1153"
+: 1 f SOli
+:2'0"
+:2 16"
+: 1 ' 57"
+:2' 3.6"
+
+:55.5:231:
+:65.0:231 :
+:63. 8 :231:
+: 65.:3: 250:
+:57.Lt:217:
+: 57 . 0 : 246 :
+: 61,5: 1 92 :
+:58.2:21J:
+
+:1159"
+:2'5"
+
+:57.6:256:
+
+:1153.2":63.5:2~:
+:60.5:2~5:
+
+: -57
+: -57
+:-60
+:-52
+:-52
+:-150:
+. -140.
+:-140:
+:-205:
+:-2 00 :
+:-205:
+: -260:
+:-23 0 :
+: -130:
+
++ 32
++32
++ 32
++ 50
++75
+
+:1. 200
+:1. 16 5
+:1.162
+: 1. 14 5
+:1.160
+:1.21
++3 0 :1.13
++ 50 .1.12
++75 :1.12
++ 30 :1. 00
++ 50 :1. 00
++7 5 :1. 04
+-26 :
++5 :0. 91
++ 100: 1 .10
+
+:-130:~150:1.12
+
+:-200:
+:-55 :
+:-210:
+:-8 5 :
+: -13 0 :
+:-235:
+:-250:
+:-280:
+
++100:1.02
++2 :1 .175
+±O :1. 04..... 1°5: 1 .228
++ 5 :1. Og6
++8 0 :0.992
++ 15 :0 . 888
+- 50 :0.829
+
+. 15 TABLE V.
+D . IV~ \E~GINE
+
+101
+102
+103
+
+4-00
+400
+
+110
+111
+112
+113
+114
+115
+
+400
+400
+4-00
+4-00
+400
+4-00
+
+107
+lOS
+
+Q)'
+
+~
+
+e
+
+109
+
+105
+lOb
+
+.
+
+: Mean
+:Brake:Brake:Temp-:
+: 'd 0:
+'
+:workO
+Al r . 0) ~.
+load: H. P.: era-:
+.~ cU'
+. dens i. .' ,-l H' O~ :ing
+cU s. ~
+:ture :
+'
+.
+"
+:pres: 1 t Y : ; j 0: ·rl ~
+: of
+OfH. (flO)
+; sure
+:cool-;
+:,-If..l ' ~S
+"
+, cU Q). 0 0
+. ed
+2 kg • . ,
+. 0 Pt'
+S
+. .
+: wa ter ! Con-:
+: g/ :
+::
+:
+. mm. : mm. ; mm ,
+;rpm/;
+s~med : kg/ :HP.:
+3::
+:
+m. :0.-8. :0.-8. ;0 .-8. : 00.
+min: kg.
+H. P .: PQ.
+ln
+: hr. : hr : kg!m : H.P;cm/kg: a t
+..,..... p :. 760 rom Q.-Q.
+
+4-00
+4-00
+4-00
+4-00
+4-00
+400
+400
+
+lOft
+
+.
+.
+
+.
+.
+
+Tests:
+:Barom-:Dif- :Work-:
+:
+:A1ti-: eter :fer- : ing ;Temp-: n
+:tude : read-:ence :pres-; era-:
+ing : of :sure :ture.:
+:pres-;
+: sure
+No.
+
+WITH BLOWER.
+
+I
+
+736
+
+736
+736
+
+736
+736
+
+736
+736
+
+736
+736
+
+736
+736
+
+736
+736
+
+736
+736
+
++22
++26
+
++34-
+
++33
++26
++26
++25
++2b
+
++25
++96
+... 96
+: + 94: +96
+.. 92
+: + 92
+
+75~ ... ; +22 :11+-50: 137
+7b2 : +23 :1550: 132
+770 +26 :1550: 186
+769 +26 : lft 50: 191
+762 +25 : 1350: 192
+762 +25 :1350: 192
+761 : + 23 :1250: 195
+762 : + 2ft :1150: 1 97
+761 : + 23 :1050: 1 9 5
+
+271
+
+~a~
+
+.. 55
+227
+70
+205
+52
+
+50
+
+: l' 59.2" : 60.7: 223: 1.192: 272: 13 400: 7.7
+:1'51.0":65.0:231:1.195:280:12900:7.5
+:1 1 54 .6":62.7:217:1.195:2e5:13200:7.7
+:1'56.0":62.0:224:1.195:27 ft : 1 355 0 :7.9
+: 2 ' 14. 0" : 5:3 . 6 : 207 : 1. Ie 9 : 258 : 13700: 7 · 95
+: 2 I 7 . 2" : 5b. 7 : 21 9 : 1 . 189 : 258 : 13700 :7 . 95
+:2'27. 3":52.5:2 15:1.195:244:1ftOOO:$.1
+:2'17.0":52.4-:231 :1.1 92:226:14100:8.1e
+:2'46" :43.5:212:1.195: 205: 14000: 8.1
+
+· + 42 :1 450 :
+
+299
+279
+264246
+
+54
+
+:1'57. 4":61.3: 205:1.228 :298 :1 475 0 : 8.55
+
+832
+832
+
+42 : 1350:
+830 · + 40 :1250:
+~ ,2 ; + 33 :1150:
+e28 : + 36 :1050:
+B28 : + ftO : 1550:
+• to
+
+206
+207
+
+211
+214210
+20 3
+
+281
+
+289
+277
+259
+
+221
+
+31 5
+
+46
+49
+43
+75
+60
+
+b
+
+= 8 30
+
+mm. Q.-S.
+
+~a
+
+:1'50 " :61.1:219:1.228:275:14800: 0 .6
+~2:11.6:~54.6~207~1.232~264~15100~ ~ .75
+
+53
+
+:1153.6":63.5:201:1:230~316:14-500 : g .42
+
+52
+52
+
+:2,24.6,,:50.0:.203:1.243:24-5:15300: ° .9
+.2 31.6 .ft7.5~215.1.245.222.15050. S .7
+
+~
+
+,' ~
+
+TA ~: LE V (Cont .. )
+
+D
+
+IV~
+
+ENGINE
+
+~ITH
+
+BLODER.
+
+Before 'the
+Vacuum
+:F~e1 consumption:
+.
+...
+.
+.
+.
+carburetor.
+. chamber
+(I),
+;Uean
+,
+:Brake:Brake;Temp-:
+. 'd () .
+:work. Air • +' cd •
+. (I)~'
+:Alti-:Barom-:Dif- : Abs.:
+:
+load: H.P .:era-:
+•
+:ing
+:ture .
+eter :fer- :pres-:Temp-: n
+:dens-: cdE: r::
+:pres:ehce :sure : era-;
+of
+i ty : 3 ~: 0 +=>
+, Oct-1· .~ ~ : sure
+of
+:ture
+:coo1-: 2 kg.
+•
+•
+CD (I)
+.
+.rj~,
+HI::
+:pres-:
+ed
+0 0
+:water: Con-:
+:sure .
+"
+: g/ :
+: 0 P<: E-i IS :
+mm. : mm. : mm.
+0
+: rI?m/ ~
+sumed-:kg! :H.P/
+::
+:
+No.
+m. :Q.-S. :Q.-S.: Q
+,.-8;
+C. :mln.: kg.
+H.P.: °C .
+in : hr.: hr:kg/m 3 :H.P:cm/kg:at
+•
+
+116
+
+400 ~ 72S
+
+117
+11$
+119
+120
+121
+
+400
+406
+400
+400
+400
+
+400
+400
+400
+400
+400
+
+73 2
+73 2
+73 2
+73 2
+73 2
+73 2
+732
+732
+732
+732
+
+172
+157
+179
+177
+17$
+17 2
+
+250
+236
+206
+221
+lS7
+267
+
+: +2S
+
+760
+
++17 : 14 50 : 192
++17 : 14 50 : 192
+
+27$
+27$
+263
+246
+
+: +16 :1150: 197
+
+227
+207
+
+52
+56
+60
+59
+59
+
+72$
+72$
+72$
+72$
+72$
+
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+
++10 :1 4 50:
++ $ :1350:
++ 7 :1150:
++ 5 :1250:
++ 5 :1050 :
++ 5 :155 0 :
+
+60
+
+-7
+-5
+
+720
+720
+722
+721
+723
+
+~g
+
+400
+
+400
+400
+400
+
+400
+
+-$
+
+-6
+-12
+
+; + 29
+
+: +2S
+
+; + 29
+: + 29
+: + 29
+:
+:
+:
+:
+
+716
+
+761
+760
+
+761
+761
+761
+759
+7$0
+
+-;.17 :1350: 195
+: +17 :125 0 : 197
+: t- 1 5
+
++ 27
+:
++ 4S
+:
++ 7$ : S10 :
++ 165: $97 :
+
++17
++ 22
++·28
++ 34
+
+: 1050 :
+:1550:
+:1450:
+: 1450:
+:1 450:
+
+197
+190
+200
+205
+224-
+
+29 4
+290
+297
+325
+
+~§
+50
+
+~g
+
+ro
+5$
+
+63
+5$
+
+•
+
+\ U""·
+
+b = 720 mm Q.-8.
+:2' 7. 4" :56.5:226:1.1$1:250;12320:7.15
+:2'22.4":50.7:2 1 5: 1 ,190:236:125 0 0:7.25
+:2 141.6":44.5:216:1,200:2°5:12$00:7. 40
+:2' 32" :47.4:214:1.206:221:12650:7.35
+: 2' 54. 6 n : 41. 2: 220: 1.209: 1$6: 12730 ; 7 .l:J.
+:214-.6" :57.7:216:1.197:269: 12 3°0:7.15
+b = 760 mm Q.-S,
+: 2' 3. 4": 5$ : 209: 1. 21S: 27 $: 137 00: 7 .95
+: 2' 2.6": 5$.6: 211 : 1.220: 27 $: 137 00: 7 .95
+: 2 t 15.3" : 53.1: 202: 1. 21S: 263: 13950: $.1
+: 2 ' 29 ' $" : 4g : 195 : 1. 220 : 246: 14100: S . 15
+:2'36.3":45.9:202:1,225: 227:14100:$.15
+: 2' 53" :J.n. 6 : 201 : 1. 229: 207 : 14-100: S • 15
+:2 1 54" :62.9:214:1.217:29~:13530:7.$5
+:2l 6" :59.g:206:1.230:2$2:1~300:8.3
+: l' 57 .6" :61.2. 206: 1,250; 279: 14600: $. ~5
+:1' 57 n :61.4:1$9:1.357:275:16000:9.25
+
+,.
+
+- 17 TABLE VI.
+
+; ''UI~Va ENGINE TES'lf SHOWING DEPENDENCY OF POWER ON THE TEMPERATURE.
+
+J..
+
+- - - - _.X~~~r.
+
+; car ~for~ or.·
+. B ure the
+Tests :A1ti-:Barom... :klif- : Abs.:
+:tude : eter :fer-' :pres-:Temp-:
+:ence :sure : era-: n
+: of
+:pres-:
+
+No.
+
+m.
+
+150
+151
+152
+15~
+15
+155
+156
+157
+15S
+
+4-00
+4-00
+400
+400
+4-00
+400
+400
+400
+4-00
+
+:
+: mm . : mm.:
+:mmQ.-S;Q.-S.: Q,-S:
+734
+73 4
+73 4
+73 4
+73 4
+73 4
+73 4
+734
+734-
+
++26
+26
+25
+26
+26
+43
+43
+43
+
+4J
+
+760
+760
+759
+760
+760
+777
+777
+777
+777
+
+°e.
+
+;Fuel consumption .
+:Temp-:
+:
+:Brake:Brake: era-:
+Air
+load: H.P. :ture :
+: of .
+.
+.
+:density.
+2 kg.:
+:cool~:
+: ed
+;water: Con; rp m(
+sumed : .
+.
+3
+in
+:kgJhr:gJHPJhr ~ : kgJm
+:min.: kg.
+HP
+°e.
+
++22 :1450: ISS
+38 :1 4 50: 188
+66 :1 4 50: 178
+81 : 1 4 50: 173
+88 :1450; 171
+~l : 14 50: 193
+8 : 1 4 50: 190
+65 :1 4 50: 186
+82 :1450: 179
+
+.
+
+.
+
+273
+273
+258
+2~1
+2 8
+
+280
+275
+269
+259
+
+47
+52
+
+g6
+63
+
+~~
+
+58
+59
+
+: 2' 2.4": 59
+
+;·2 I
+:2'
+:2 t
+:2 1
+:2'
+:2'
+:2'
+:2'
+
+6.6 n: 57 :
+5. 411 : 57.5:
+6. 2": 57 :
+8.0": 56.4:
+4.0": 5$
+4.0": 5$
+6.411; 57
+6.0": 57
+
+215
+208
+223
+227
+227
+207
+211
+212
+221
+
+:
+
+1.20
+1.125
+1.0
+1.00
+0.9$
+1.19
+1.13
+1.07
+1.02
+

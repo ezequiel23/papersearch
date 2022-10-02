@@ -1,0 +1,6569 @@
+REPORT No. 61 V
+
+HEAD RESISTANCE DUE TO RADIATORS
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+v
+TECHNICAL LIBRARY
+GARRETT can? AlRES£ARCH MfG. DIY.
+9851- S951 ~!:pulveda BlvtI.
+los Ailgeies, Calif. SOODS
+.j
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1920
+
+REPORT No. 61
+
+HEAD RESISTANCE DUE TO RADIATORS
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1920
+
+.
+
+REPORT No. 61
+HEAD RESISTANCE DUE TO RADIATORS
+Part
+
+I.- HEAD RESISTANCE OF RADIATOR CORES
+By R. V. KLEINSCHMIDT and S. R. PARSONS.
+
+Part II.- PRELIMINARY REPORT ON RESISTANCE DUE TO NOSE
+RADIATOR
+By R. V. KLEINSCHMIDT.
+
+P art III.- EFFECT OF STREAMLINE CASING FOR FREE-AIR RADIATORS
+By S. R. PARSONS.
+
+150943-20
+
+3
+
+REPORT No. 61.
+PART I.
+
+HEAD RESISTANCE OF RADIATOR CORES.'
+By R. V.
+
+KLEINSCHMIDT
+
+and S. R.
+
+PARSONS.
+
+RESUME.
+
+The pre ent report deals with the head re istance of a number of common types of radiator
+cores at different speeds in free air, as measured in the wind turuiel at the Bureau of Standards.
+This work was undertaken in connection with exhaustive tests conducted at the bureau to
+determine the characteristics of various types of radiator cores, and in particular to develop
+the best type of radiator for airplanes.
+Some 25 specimens of core were tested, including practically all the general types now is
+use, except the :flat plate type, and the following is a summary of the most important results
+obtained:
+1. The head resistance of various types of core varies greatly. The lowest is Candler
+-inch hexagonal tube (No. 78), 8 pounds per square foot at 90 miles per hour, while the highest
+is the fin and tube type ( o. 92), 22 pounds per square foot at 90 miles per hour.
+2. The shape and size factors are insignificant for the range covered (8 by 8 inches to If
+by 16 inches and 12 by 24 inches), there being no perceptible variation in the resistance pel
+square foot.
+3. The effect of inclining the surface of the radiator to the air stream (yawing) is, in general,
+to increase the resistance considerably for angles up to at least 30° to 45°. Cores of special
+construction vary greatly in this characteristic.
+4. The horsepower absorbed by the radiator in being lifted and pushed through the air is
+high, being, at 100 miles per hour, roughly 5 per cent to 20 per cent or more of the total power
+developed by the engine. It thus appears that a small gain in radiator performance may be
+very appreciable at high speeds.
+5. The importance of head resistance in determining the value of a radiator core depends
+greatly on its position in the machine.
+6. The work here presented may prove of value in determining the effect of the radiator on
+the aerodynamical properties of the machine in which it is placed.
+DESCRIPTION OF APPARATUS.
+
+The wind tunnel in which this work was done is of octagonal section, 54 inches in inside
+diameter. The entering air passes through a honeycomb of sheet-metal cells of about 3 inches
+diameter and 1 foot depth, then through a straight section about 25 feet long, and out through
+a conical diffuser, at the end of which is a four-blade propeller fan driven by a 75-horsepower
+direct current motor, which draws air through the tunneL The motor may be driven on either
+120 or 240 volts, and further speed control is obtained by means of a field rheostat, giving ranges
+of air speeds from 32 to 53 miles per hour on 120 volts and from 66 to about 90 miles per hour
+on 240 volts. The air peed i measured by a Pitot tube, whose pre sure is read on an inclined
+water gauge. Both the Pitot tube and the gauge have been calibrated with some care, and
+the measurements of air speed are good within 1 per cent.
+1 This
+
+Report was confidentially circulated during the war as Bureau of Standards Aeronautic Power Plants Report No.6.
+
+5
+
+6
+
+ANNUAL REPORT NATIONAL ADVI SORY COMMITTEE FOR AERONAUTICS .
+
+DESCRIPTION OF THE BALANCE.
+
+The balance on which the head resistance was obtained is designed to measure both ver,
+tical and horizontal force3, but since the present work is concerned only with the horizontalwe shall describe only the parts used, i. e., the" drift arm." The balance is mounted a little
+below the floor of the tunnel and consists essentially of a bell crank suspended by thin flexible
+steel strips, with one arm horizontal, on which weights may be hung below the tunnel, and
+one vertical arm passing up through the tunnel floor, supporting the specimen. A second vertical arm extends below the fulcrum, carrying counterpoises for lowering the center of gravity;
+a second short horizontal arm with an adjustable counterpoise provides for zerO adjustment;
+and an oil trap makes an air-tight joint at the floor of the tunnel. The vertical arm supporting the specimen is extensible and is fitted at the top with a detachable brass block, which is
+screwed to a plate k inch or less in thickness soldered to the lower side of the radiator section.
+It will be evident that the bal ance measures-on the horizontal arm-the moment of the
+head resistance, but if the distances are known from the fulcrum to the center of pressure on
+the radiator, and to the point of application of the weights on the horizontal arm, the actual
+force is easily obtained. It is not convenient to measure the e distances with accuracy, but
+then: ratio was determined by means of a calibration of the balance. This calibration was
+made by applying ~own horizontal forces to the vertical arm and observing the balancing
+forces on the horizontal arm, readings being taken with the vertical arm extended to three
+different lengths.
+P RELIMINARY INVESTIGATIONS.
+
+A prelllninary investigation, with a radiator first in one position and then inverted, showed
+that we may assume the center of pressure on the section to be at its geometrical center. A
+similar test showed the resistance of several cores to be the same whichever face was presented
+to the wind. An exploration of the cross section of the tunnel with a second Pitot tube showed
+that to within 6 or 8 inches of the wall the velocity distribution is uniform to about 1 per cent.
+To test whether the conditions truly represent a velocity in free air, silk threads were attached
+to a fine vertical wire strung about 9 inches in front of a large-sized specimen of high head
+l'esistance (Spirex, 16 by 16 inches) . The thread showed a considel'able curvature of the
+stream lines around and close to the section, but no appreciable curvature within 8 inches of the
+tunnel wall. This condition was taken to indicate that the effect of the radiator was confined
+well within the Cl'OSS section of the tunnel.
+M ETHOD OF TAKING OBSERVATIONS.
+
+The method of taking readings is as follows: The radiator (bare cor e, without water boxes)
+is mounted on the vertical arm of the balance and the distance measured from its center to a
+fixed point on the arm. The distance from this point to the fulcrum was determined by the
+calibration mentioned above. To determine the position of no yaw, a specimen was set at
+various angles, the position of minimum head resistance assumed to represent zero yaw, and a
+reference point marked on the tunnel wall by sighting across the front of the section. It was
+found that the alignment could be obtained equally well by sighting through the tubes of the
+radiator at the honeycomb at the tunnel entrance. For yawed runs, the angle of yaw was measured roughly by sighting across the front of the section at a scale mo.u nted on the tunnel wall.
+The air speed is quite sensitive to changes in voltage on the power line, and because of fluctua tions it was necessary for two observers to take simultaneous readings on the balance and the
+Pitot tube gauge. There is, however , practically no lag between the two instruments, and very
+satisfactory readings can be obtained. I n most cases observations were made at nine different
+speeds.
+METHOD OF COMPUTATION.
+
+The computation of results is simple. The head resistance is obtained by subtracting a
+correction for the supporting arm, which was determined by a "blank" run without a radiator ,
+fl'om the weights hung on the horizontal arm of the balance (including equivalent weight of the
+
+7
+
+HEAD RESISTANCE DUE TO RADIATORS.
+
+rider) and multiplying by the proper factor to give the force on the vertical arm. All results
+are reduced to a frontal area of 1 square foot. Horsepower absorbed in sustaining the weight
+and pushing it through the air is given by the equation
+
+H.
+
+P.=c(R+5~4)V
+
+(1)
+
+where H. P. = horsepower absorbed per sq. ft.
+R = head res:stance in lb. /sq. ft.;
+w=weight of empty core, in Ib./sq. ft.
+V=free air speed, in mi. /hr.
+c = a constant representing conversion factor = 1/375.
+For further computation, let
+n,=reading of Pitot tube gauge.
+r = air density, in lb. /cu. ft.
+subscripts" a" and" s" denote actual and" standard" or reduced values, respectively, and
+k, K=constants.
+The air speed is given by the equation
+
+V =7c-Jh/r.
+
+(2)
+
+In accordance with aerodynamic practice, and with the results of observations on pressure
+drop through radiator sectio~ in a closed tmmel, head resistance has been assumed to be propOl,tional to air density, and all results have been reduced to an assumed density of 0.0750
+pounds per cubic foot (corresponding to a temperature of 65 ° F., pressure of 29.7 in. mercury,
+and humidity of 40 per cent).
+The correction for density may be made by the equation
+
+R s =Ra('0).
+'l'a
+
+(3)
+
+It is less laborious, however, to apply the correction for density in the computation of air speed
+in the following manner. Head resistance has been shown to he very nearly proportional to
+the square of the air speed, as well as to the first power of the densi1,y, and may be expressed
+by the equation
+
+R= KrV2.
+
+(4)
+
+Resistance at "standard" air density will be
+Rs =
+
+Krs V2,
+
+(5)
+
+which is the relation shown in the curves. The product (Krs} may be regarded as a single
+proportionality factor, and the same value of this factor would be obtained (and the same
+curve plotted), if instead of multiplying Ra by ?:.2 to obtain R s, the value R a should be substira
+stuted for R s in equation (5), and V2 should be divided by ?:.2 · In other words, by substitution
+ra
+from equation (3), equation (5) may be Wl'itten
+
+R a( '0)=Krs ,
+P
+ra
+which is identical with the equation
+From equation (2),
+and
+
+R a =Krs p(~) .
+rs
+
+(6)
+
+(7)
+
+VZ=k2(~)
+
+(8)
+
+V{~) = k{~)(~) = k{~}
+
+(9)
+
+8
+
+A NUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+which is the square of the speed as it would have been computed if "standard" density had
+been used. Equation (9) shows that if the correction for density is to be made by dividing
+V2 by ~-or multiplying by ~-the desired result may be obtained by the mere substitution
+ra
+,I
+of the "standard" density for the actual value in equation (2), when computing the air speed.
+DESCRIPTION OF THE TABLES AND CURVES.
+
+The sections tested comprise a number of different types, whose characteristics are given
+in Table 1. Two curves are included for each type of core, showing respectively the head
+resistance in pounds per square foot frontal area, and the horsepower absorbed. The latter
+ineludes, as indicated above, both that used in pushing the radiator through the air, and that
+required with a lift-drift ratio of 5.4 to sustain the weight of the empty core, i. e., not including
+the weight of water contained in the core. Extrapolations were made by means of logarithmic
+.
+plots, and the extrapolated par ts of the curves are indicated by dotted lines.
+In order to facilitate comparison between the types, Table 2 is given, showing head resistance and horsepower at speeds of 30, 60, 90, and 120 miles per hour. It should be noted, however, that all values at 120 miles per hour and some at 90 miles per hour are given by extrapolation, and that the values of "k" are only roughly approximate. The real r esults are shown by
+the curves. To determine "k," for the equation R = k P, the head re istance curve was plotted
+logarithmically, and the best line with slope 2 drawn through the points. "k" was then determined from the Y intercept of this line. The line that would best fit the points had a slope
+somewhat less than 2, and the line drawn with the slope 2 represents an average position, in
+roost cases intersecting the correct line at about 70 miles per hour. All extrapolations were
+made from the actual line, not with slope 2, and using a corresponding value of "k," not that
+shown in the table.
+A few sections merit special comment. The curves of the Rome-Turney >i-inch square cell
+(No . 81) are made up of three curves from three sizes of the section cut down twice, and the
+Spirex (N o. 0, 2) curves are made up from two different specimens, one 12 by 24 inches and the
+other 16 by 16 inches; but in each case the discrepancies between the different curves were
+within the limit of observational error. Two sections of the" Staggard" core, one 6 by 6 inches,
+and one 12 by 12 inches, showed a marked difference, but it appeared that the 6-inch section
+was too small, and the correction for the supporting arm too large, to make its readings reliable.
+It is accordingly omitted from this report. On sections 8 by inches up to 16 by 16 inches or
+larger, no results have been obtained that seem to conflict with the assumption that, within
+the range of sizes used, the head resistance is strictly proportional to the area, and this assumption has been used for all of these sections.
+In the Livingston " electrolytic" section, the water tubes are hollow flat plates with perforations, and the perforations have the effect of whistles. The core begins to whistle at a speed
+of about 35 miles per hour, and five different tones were noted, which merge at 0 miles per
+hour into an ear-splitting shriek. As might be expected, the head resistance curve is not of the
+form R=kV", and the value of "7c" given in Table 2 represents the curve only very roughly.
+EFFECf OF YAWING.
+
+A oonsiderable number of the specimens were tested when turned at several angles to the
+air stream. The results obtained on four specimens have been plotted against the angle of
+the yaw (i. e., angle between the perpendicular to the face of the radiator and the direction of
+the wind stream), for various air speeds. The curves for Rome-Turney ( 0.81) and parks
+Withington %-inch elliptical cell ( o. 73) are given as indicating the normal behavior of a plain
+cellular radiator. The head resistance increases rapidly with the angle up to at least 30°. The
+other plots are for special types which show the variations in the form of the curves . The
+Spirex is of special interest in that it shows almost no change in head resistance (per square
+foot frontal area of core) with changing angles up to nearly 30°. These curves are of interest
+in connection with the possibility of controlling the amount of cooling by yawing the radiator .
+
+9
+
+HEAD RESISTANCE DUE TO RADIATORS.
+
+APPLICATION OF THE RESULTS.
+
+A high head resistance is not in itself a detriment to a radiator if properly placed in the
+airplane. The effect of head resistance on the efficiency of a radiator in various positions is
+somewhat as follows:
+1. A radiator placed in the open air, as between the planes or beside the fusilage, must
+be of low h ead resistance. The accompanying horsepower curves indicate the enormous consumption of power by even the best of the radiators tested, at high air speeds. It can safely
+be said that none of the radiators tested seem well suited for these locations if the airplane is
+to make the speeds required at the present time. Another consideration is the probably
+large volume.
+2. A radiator placed in the nose of the machine is subject to very different limita tions. In
+this case the air has a relatively devious path to follow after passing through the core, and a
+high head resistance in the radiator, if accompanied by a high rate of heat transfer for a small
+flow of air, may not be a disadvantage. The real limit to this type of radiator is the frontal
+area which may be occupied. As this is usually small, a compact typ e of core is of advantage.
+3. In the case of a radiator placed in the wing it is even more true that head r esistance is
+of little detriment. With the small flow of air possible with a wing radiator, a high head resistance may simply increase the lift somewhat, and if it is brought about by using small air celis
+and turbulence vanes, it will mean a high rate of heat transfer at the comparatively low air
+speeds available.
+It is hoped to make tests on some flat plate water tube radiators in the near future. These
+are practically the only type not well represented in the present repor t.
+T A BLE
+
+I.-Characteristics o
+/radiator cores.
+
+T y pe of cel!.
+
+No.
+
+Wei gh t of core, pounds per
+square foot of frontal area.
+Depth
+(parallel 1
+----;----....----1
+to now
+
+of ahir),
+es.
+
+l!lC
+
+- - -1 - - - - - - - - - - - -- - - - - - -1 -76
+77
+78
+72
+
+83
+86
+64
+75
+90
+91
+92
+96
+97
+99
+102
+100
+98
+101
+103
+80
+82
+73
+74
+81
+79
+
+Cand ler R adiator Co., Detroit, Mich.:
+i-inch hexagonal, perforated, a ll yerticals waler tubes . ... . .
+t-inch hexagonal( per forated, a lte rnate verticals water tubes
+i-inch hexagona , not perforated, alternate verticals waler
+tubes . .. ...... . ....... . . .. ...... . . . .... . ....... . .... . ... .
+~'hc Harrison ManufacturingCo.(Inc. ), L oclrport, N . Y .:
+~- inch circu la r, plain ... . . _. . . .... .... . . .. ... . . .. ... . .... .. .
+. . .•. do ..... .. ........ ... .. ..... ...... ... . ·.·· . ..... ·· . .. . . .
+!-inch circu la r, with vanes . , . . .. . ...... ... .... . . . ......... .
+Linngston Radialor & Manufacturing Co., ew Y ork
+City :
+Not cellular, "electrolytic" perforated, flat tube . . ...... . .
+Irinch square ... . ....... . . . .. . .. ... . . ... .. . . ..... ... ... . . .
+McCord Mannfacturing Co., Detroit, Mich. :
+Irinch hexagonaL . . .... . .... . . . . . .... .... . . ... . . . . - . .. . . .
+t-incb squa re . . .... .. ... .. .. . . . ..... .. . . . . . .. . . .... ...... . .
+Not cellular, fin and tube_ .... ... ..... .. ..... . ....... .. ... .
+The Mayo Radiato r Co., New Haven, Conn .:
+t -inch square . .. . ........ .. .... .. . . .... . ... .. .... . ........ .
+.. ... do .. .... . ....... . . . .. · . · ··· ···· ····· ·· ······· ·· ·· ._ . . . .
+.. .•. do . ... . . .. ..... ... ...... . .... . .. . . . .. · · ·· .... ·. ·· ... .. .
+. . . . . do . ..... .... . ... ... . . .. .... . , .. . . . ... ....... . .... ·. · ···
+Irinch square ... .. ... . .. .•. . . . .. . .... . .. . . . ..... . . .... ·.··
+. .... do . ... .. .... . ........ _. .... . ........ . . .. ...... . . . ..... .
+.. ... do . ... . . . .. · .... . .... · ····· .. ··· ·· .. · ···· .· .. ··· ··· · · ··
+.. . .. do ..... ... ...... . .... . ...... . ...... .. . . .... . ........ _..
+"Spirex," The Modine Manufacturing Co., R acine,
+Wis.:
+Not cellular, spiral air path ..... ... .... ... ... . . .... .. . . . . . .
+.. . . . do . . ........... . ..... · · · ··.··· · ···· · ·· ··· ······ ·· .. ... .
+Tbe Sparks-Withington Co., J ack son, Mich.:
+t-mch elliptical. ...... . .... .. .... ... .. . .. .. ...... . ....... . .
+t-inch circular . . ........ . .......... . .. . ... ... ....... ... ... .
+Rome Turney Radiator Co., Rome, N. Y .:
+t -inch square .... .... .... .... ... . . . .. . . .. .. · · . .. ... ·· ·· · ···
+"Staggard," Western Mechauical Works, Los Angeles,
+Cal. :
+Irinch square, crimped and staggered .. . .... . . . ..... .. . . . .
+
+150913- 20-No. 61-2
+
+E mpty.
+
+Water
+content.
+
+F illed.
+
+Cooling
+surface,
+square
+feet per
+
+~~~'t~1
+
+frontal
+area.
+
+- - - - - - - -- - - 3!
+3t
+
+10.81
+9.35
+
+4
+
+1I. 76
+
+8
+8
+8
+
+15. 68
+15. 31
+19.2
+
+10.70
+10. 70
+9. 9
+
+26. 38
+26.01
+29. 1
+
+45 .7
+45.7
+72.0
+
+9!
+5
+
+16. 34
+15. 55
+
+6. 39
+6.17
+
+22.73
+21. 72
+
+27. 8
+50.1
+
+3
+3
+31
+
+8.86
+12. 55
+7. 59
+
+4. 2
+3. 03
+1. 57
+
+13.14
+15.58
+9. 16
+
+34. 4
+38. 2
+40.0
+
+Hi
+
+5. 64
+
+21. 72
+
+62. 2
+
+3-h
+
+16.08
+15.50
+11. 7
+7.97
+13. 38
+12. 66
+9. 43
+
+~!
+
+10. 98
+11.36
+
+2. 6·l
+2.,&1
+
+13.62
+14.00
+
+42.8
+42.8
+
+3~
+
+10.53
+9.95
+
+4.35
+
+14.
+
+31. 9
+
+3
+
+3t
+
+11. 46
+
+3. 03
+
+14.49
+
+42.6
+
+4
+
+12. 96
+
+6. 76
+
+19. 72
+
+51. 6
+
+4,0..
+3,0..
+
+~~
+
+4,0..
+
+2-h
+
+. 11
+
+,..---
+
+•
+
+4
+
+1
+
+'4
+
+7
+
+I
+I
+
+r---H
+
+1
+
+I
+
+3/8" If~x Per'oroledCell.s.
+A ll V~rrical Water Tubes ,
+IZ"X/2"X.)'/ ,z. '·
+
+I
+
+I--
+
+I
+
+I
+
+0
+
+.,
+"
+
+~
+
+6
+
+~/
+
+I
+
+•
+z
+
+o
+
+V
+
+?
+
+::::::-V
+,.
+
+20
+
+V
+
+I
+
+, ~
+<>
+.,
+,
+Q.
+"
+
+"
+"
+~
+
+I
+
+V
+
+I
+
+~
+
+I
+
+J <l
+
+I
+
+::::
+
+<>
+..,
+
+".,
+
+1
+
+~
+
+~
+
+j7
+
+,
+
+·
+"
+"
+.,
+~
+
+~
+
+•
+"
+~
+
+If
+"
+
+,
+
+;/
+
+.-
+
+1 -
+
+0
+
+100
+
+o
+
+~
+
+1O
+
+,
+
+I
+
+NE78-CANOLER
+
+I
+
+.)/8~h'ex. SlT1oofl7 eells' l
+IZHXIZ "}( 4. "
+
+.,
+
+~
+
+II
+
+"
+"
+
+6
+
+~
+
+~
+.~
+
+o
+
+~ ,
+,, 4
+
+~
+
+//
+
+~
+
+(
+
+~
+
+•~
+
+~
+
+~
+
+/
+
+1
+
+60
+
+Q
+
+100
+
+811
+
+rree Air Spt!ed
+
+- ..,? ~
+20
+
+o
+
+14
+I
+
+I
+
+I
+
+-
+
+H
+
+I
+
+N~7Z-HARRISON
+
+I
+
+Vz.~ C;rCUlorcell'Plo;n.1
+
+I
+
+O ··)(8·X~ ~
+
+I
+
+I
+
+I
+
+'0
+
+1/
+
+.,.
+.., ,
+
+'l:
+~
+
+"
+~ S
+
+~
+.~
+
+t
+
+~
+
+4"
+
+~
+
+I
+
+I
+
+~
+
+I
+
+3~
+
+I
+
+~
+
+~
+
+V
+~
+
+./V
+~VV
+ZO
+
+o
+
+,9
+
+1
+
+,oj
+-r0
+
+/
+
+~
+
+J
+
+~
+~
+
+~
+
+/
+
+I
+
+tn l /
+
+hr.
+
+IN
+
+o
+
+I
+
+I
+
+I
+
+---
+
+#
+60
+Free Air Spt!ed 3
+
+~
+,,0,
+
+I
+
+·
+"
+
+"
+
+~
+.,
+
+/
+
+~
+
+r
+
+/
+__ ~f.---"V
+zo
+
+I
+
+">
+,
+
+I
+
+4~
+
+Q.
+
+N!'86-IiARRISON
+8"
+
+60
+80
+rree A Ir Spel!d :z rnl / hr.
+
+~
+
+pj
+
+t<J
+
+'"
+
+o
+
+~
+~
+
+~
+
+H
+
+o
+
+~
+
+o
+
+100
+
+U1
+
+~
+
+/
+
+,
+"~
+
+II
+
+.;
+
+~
+
+o
+
+1~
+(
+
+~
+
+~
+~
+
+l/
+
+l'
+~~
+
+•
+
+.~
+
+"
+~
+
+~
+~
+
+/
+
+•
+
+7
+
+z
+II
+
+ItKJ
+
+..
+
+o
+
+/
+
+o
+
+--?
+
+~V
+20
+
+./
+
+V
+
+/
+
+I
+
+I
+
+,..
+
+~
+
+I
+
+I
+
+,
+6
+
+/
+
+~
+
+I
+I
+
+"
+"
+..,
+
+I
+I
+
+/
+
+i:l:j
+
+5
+tj.
+
+,
+
+~
+
+I
+
+4Q.
+
+I
+
+~
+
+i
+
+3~
+
+~
+
+&
+
+o
+
+o(
+
+~
+z(
+~
+
+V
+60
+
+1-3
+~
+
+I
+
+V
+
+4(}
+
+.....
+""
+
+I
+
+lW
+
+/
+
+c
+o
+
+I
+
+/
+
+I
+
+vanes .
+
+~
+
+J~
+
+W·
+
+.1
+
+Yz - Clrcu/orCells with
+
+!).
+
+',
+"~
+
+I
+
+I
+
+1I
+
+H
+
+"
+"
+
+"
+"
+~
+
+I
+I
+
+/
+VI
+40
+
+Q.
+
+~
+
+~
+
+811
+
+1
+
+...
+"
+,;
+
+f, '
+
+I
+
+I
+
+r--
+
+I
+
+~
+
+'I:
+
+1
+
+I
+
+I
+
+/
+
+'i;-.~\
+
+o
+
+I
+
+I
+
+~ -./1 ,
+
+S
+
+I
+
+s
+
+I
+
+;J
+
+~
+
+o
+l
+
+mil hr
+
+II
+
+~ ".,I(''' -xt3
+
+I
+
+/
+
+811
+
+I
+I
+
+~
+
+I
+
+I
+
+I
+
+,
+
+z
+
+40
+
+I
+
+I
+
+:t
+
+V
+
+60
+rree. Air Spe~d -
+
+N!'83-HARRISON
+
+Vz"Orcu!orCe//-Ploin
+IZ"X Z4 -X c!} -
+
+J~
+
+,
+
+I
+
+1
+
+...
+"
+.,.
+..,
+
+I
+
+,I
+
+H
+
+~
+
+~
+.,
+
+I
+
+,
+
+~
+~
+
+~
+
+4
+
+I
+
+5
+
+I
+
+~-~
+i
+
+,
+~
+
+~
+
+"
+
+/
+0/
+
+I---
+
+"
+
+I
+
+V
+
+.;
+
+I
+
+I
+
+/
+
+"
+,
+
+t-,...-
+
+11
+1
+
+6
+
+I
+
+;.>
+
+I
+
+I
+
+~
+
+4~
+
+Y
+
+,I
+
+14
+
+Z
+
+">
+,
+
+~
+
+I
+
+I
+
+,
+
+,
+
+"
+.,.
+"
+
+,
+I
+
+o
+
+I
+
+I
+
+5
+
+,
+
+/
+
+II /
+~.
+'~f-i
+~ r.0(~.#
+V
+
+../y V
+
+mil hr.
+
+W"
+
+I
+
+/
+~
+
+'"
+
+I
+I
+
+I
+
+I
+
+,
+
+.,.
+"
+"
+"
+".;
+
+V
+
+4()
+
+rrl!e AirSpeed - mil hr
+
+<>
+~
+.J <>
+
+~
+
+/
+
+~ V""'-
+
+~
+
+I
+
+V
+
+\0
+
+V
+
+60
+
+I
+
+~
+
+4
+
+I
+
+,
+
+-~
+
+//
+60
+
+"
+
+/
+
+6
+
+1
+
+I
+
+tj.
+
+1/
+
+~
+
+{1
+
+~
+
+"
+"
+
+,
+
+~
+
+~
+
+V
+
+~.
+
+#
+
+H
+
+o
+
+0
+
+5
+
+I
+
+0
+
+I
+
+-yr---7
+
+-
+
+I
+
+'"
+
+I
+
+~~I
+
+I
+
+I
+
+/
+
+~
+
+1
+
+I
+
+N~77-CANoL£R.1
+
+3/8' lit'x P~rl'oroledC(!/I.s
+AITernote- Woter TUbeJ ' j
+
+V
+
+5
+
+1/
+
+....
+"
+,; ~
+..,
+
+H
+
+I
+
+IZ· X IZ ")( J Vz."
+
+I
+
+I
+
+~
+
+'1
+
+6
+
+I
+
+NE76-CANoLERI
+
+"
+"
+~
+.!:!
+"
+..,
+
+f-'.
+
+I
+
+60
+
+Fre~ Air Spt>ed - m ilhr.
+
+100
+
+o
+
+o
+
+pj
+
+~
+
+;:d
+
+o
+
+~
+
+;.>
+c:j
+
+1-3
+.....
+
+'"'
+o
+
+,
+
+I
+
+I
+
+I
+
+I
+
+I--
+
+/
+
+H
+
+N E64 -LlVINGSTON
+
+£/e c/rolyl"l c P<!'rt'd ntbe.
+8u.. ··X7Y ~X.9y:z. ..
+z
+
+(4 Secfi o /?3)
+
+I
+I
+
+0
+
+:t:
+
+<:i..,
+
+.......
+
+II
+
+,
+
+.
+"
+\J
+
+/
+
+f---
+
+I
+.5
+
+<:i-
+
+"
+~
+
+4~
+
+/
+
+•
+"
+<)
+~
+
+"
+
+~
+
+1
+~~
+~
+
+9
+
+Z
+
+v
+./
+
+~
+
+L:::: v
+ZO
+
+Q
+
+/
+
+J<>
+'{
+
+/
+
+c!'1
+~ I
+
+~
+
+~
+
+.w
+
+i--t:l
+,,' /
+~O(
+
+0
+
+l
+
+z&
+~
+
+~
+
+I
+
+I
+I
+
+I
+
+~
+\J
+
+~
+
+l
+
+~
+
+cI:
+
+"
+~
+
+I
+
+,
+
+"
+"
+~
+0
+
+~t
+
+)/
+
+V
+
+,y
+
+~
+~
+
+0
+
+z,
+~
+
+/ l'7
+
+~
+
+/
+
+I
+
+I
+
+l
+
+I
+
+I
+I
+
+0
+
+I
+
+I
+
+...
+
+..:
+
+I
+
+....... 8
+..,
+~
+
+\J
+
+6
+
+I
+
+I
+
+I
+
+cI:
+
+V
+V
+
+/
+
+./
+
+~
+
+V
+
+40
+
+60
+
+80
+'771 /
+
+hr
+
+.--
+
+100
+
+o
+
+I
+
+~
+
+~
+~
+
+~,
+
+"
+1:
+
+/
+
+~
+
+o
+
+V
+. . .)7_V
+zo
+'"
+
+\.
+
+I
+I
+
+<
+14 ~
+
+I
+
+~
+
+.
+
+~
+
+/
+
+l
+0
+
+II
+
+~
+
+I
+
+t
+qJfj
+
+13 ~
+
+"
+~
+
+~~
+l
+t:
+
+o
+
+1~
+2
+~
+
+I
+
+~
+
+/
+
+/
+
+II
+
+V
+V
+40
+
+60
+
+V V
+ZO
+
+-
+
+80
+
+rrt!<! AirSpet!d - rn' /hr.
+
+L
+
+?Y
+
+rZ
+
+~
+~
+
+~
+l'j
+Ul
+....
+Ul
+
+f-3
+
+4()
+60
+80
+Free Air Speed:- m i l h r:
+
+.. .
+
+100
+
+£
+
+:>
+
+100
+
+~
+
+o
+l'j
+
+ttl J/"
+H
+
+N"!:J6-MA YO
+
+V4".5Quore Ct-Ir.
+
+8!-16-xa "X4
+
+'..J/I'i",
+
+I
+I
+
+/
+
+t:1
+
+c:j
+t:;j
+
+f-3
+
+o
+
+!:xl
+
+I
+I
+
+~
+
+I
+
+I
+I.)"~
+I
+
+~
+':;-8
+
+.
+
+~
+
+/ '
+II
+/
+~
+~
+~
+~
+"
+/)0 r--~~y
+.,
+~\.,
+~
+
+~
+
+o
+
+!:xl
+
+~
+
+4
+
+.
+
+~
+
+~
+
+~
+
+3~
+
+L
+
+~
+
+~
+
+~
+
+I
+
+~O
+
+10
+
+I
+
+I
+
+.7
+f
+
+\J
+
+/V
+
+Free AIrSpeed·
+
+I
+
+I
+
+"!
+
+z
+
+~~---/
+zo
+
+Z ~
+
+/"/
+W
+
+/
+
+z
+
+o
+
+o
+
+:J-
+
+.~
+
+1l 9
+:l:
+
+~
+
+~
+
+~
+
+-
+
+I
+
+4i "- ,
+..,
+J 'I;
+
+l
+;'
+~-~t(
+~
+ij
+
+~
+
+~
+<i..,
+
+V
+
+/
+
+I
+
+f5 /
+
+'z
+
+I
+
+I
+
+'"
+"
+~
+
+~
+~
+
+I
+
+" ;j~~;~y''f;;: .
+
+I
+
+I
+
+/
+I
+
+l
+
+NE.9Z - MSCOR O
+
+0
+
+Sit;'
+
+<>
+
+I
+
+J/
+
+~
+
+I
+
+I
+
+t--
+
+I
+
+/
+II
+
+~
+
+~
+..,
+
+/
+
+'1
+
+I
+
+I
+
+,
+
+I
+I
+
+I
+
+N!'.!:JI-M£CORO
+
+o
+
+/
+
+I
+
+4 'l.
+I
+
+.q
+
+/
+
+L
+
+.;.
+
+"
+~
+
+I
+
+I;
+
+L
+
+9
+
+s .:
+'<:
+
+I
+
+.~
+
+m i l hr.
+
+Fret! A irSpeed -
+
+I
+
+Y.d" square Cell
+IZ"XIZ"X-3"
+
+o
+
+M"
+100
+
+80
+
+I
+I
+
+I
+
+I
+
+~
+
+~
+.
+
+"
+~
+
+/
+
+0·/
+
+~
+
+V
+60
+
+/
+
+lL
+
+•
+
+.::
+
+I
+I
+
+I
+
+/
+
+~
+
+>i
+~
+
+l
+
+40
+
+I
+I
+II
+
+3 '<>
+'{
+
+j?VV
+zo
+
+I Z " X I Z " X.3 '·
+
+"
+" ~!
+"
+
+I
+
+14
+
+-1
+
+\.
+
+I
+
+I
+
+-
+
+'" :t:"
+" ''
+4~
+"
+
+I
+
+qJ~J-+-l
+
+"
+
+4
+
+Z
+
+I
+
+I
+
+I~'
+
+NE!JO -MSCOI'lO
+
+$//6 " Hexo90nol Cell.
+
+~
+
+/
+
+"6
+
+H
+
+I
+
+I
+
+0
+
+5
+
+I
+
+o
+
+I
+
+t--
+
+I
+
+/
+
+'" ,
+
+l
+
+100
+
+I
+
+I
+
+I
+
+1
+/
+
+"
+'-
+
+1/
+
+60
+80
+Tr ee Ai Sp~ed - "" / hr.
+r
+
+I
+
+Z
+
+I
+
+I
+
+;::
+
+I
+
+"/0
+
+I
+I
+
+C e ll
+
+I
+
+I
+
+I
+
+J
+
+l7
+
+v
+
+NElS ' LlVIN GSTON
+
+i1'~ ;7f~o;~
+
+0
+
+I
+
+s
+
+H
+
+I
+
+0
+
+~
+
+I
+
+I
+
+II
+
+I
+
+I
+I
+
+I
+I
+
+I
+
+I
+I
+
+I
+
+I
+
+I
+
+I
+
+,
+
+7
+
+I
+
+I
+I
+
+/
+
+I
+
+I
+
+H
+
+I
+
+I
+
+.~
+
+~
+
+7
+
+I
+I
+
+/
+
+~
+t
+~
+
+/
+
+,
+
+I
+
+'I
+
+6
+
+~
+
+."
+';:;
+
+~
+
+j
+
+r
+
+V
+
+z
+
+.(";,
+
+ZO
+
+VI
+
+4()
+60
+80
+Free Air Spee d - mi / hr.
+
+~
+,
+
+"
+&
+
+" °/ 1
+
+L V
+lL V
+
+LJ4-=l1
+
+o
+
+3
+
+II
+
+tq
+
+Z~
+
+I
+
+100
+
+f-'
+f-'
+
+1
+0
+
+,
+
+I
+
+I
+
+If
+f
+
+I
+
+I
+
+~
+
+I
+
+:::
+
+Ii-
+
+"
+.,
+
+"- 8
+~
+
+~
+
+~
+
+~~
+XO
+
+l
+
+6
+
+.!!
+
+.~
+
+f
+
+'"
+~
+
+l
+
+I
+
+4
+
+II
+/
+
+1
+
+/
+
+.-0::
+
+II
+
+v
+~1d
+
+V
+
+V
+
+r-- t - i
+
+I
+
+V
+
+Fr<!e Air Speed -
+
+ff
+
+Square Cell.
+
+I
+
+8 ··X ~ - )(.3.s/16."
+
+''-"
+~ "
+"
+~
+"
+3~
+
+I
+
+Q.
+~
+
+I
+
+I
+
+1/
+
+~
+
+~
+
+<
+<>
+
+l
+
+Z
+
+~
+~
+
+~
+
+'"
+<:>
+"l
+
+';;~
+
+,
+"
+"
+~
+
+t
+C
+
+._-
+
+80
+
+"
+~
+
+I
+
+4-
+
+<>
+
+I
+I
+
+I
+
+J
+
+I
+
+0
+
+....
+"
+Ii..,
+
+j
+II
+
+..c:-
+
+V-V
+
+~
+~
+
+3~
+"0
+
+~t
+
+~
+
+S
+
+<>
+
+~
+~
+
+1
+
+,j
+
+~
+
+/
+
+V
+./'
+
+'- ,
+
+."
+~
+
+t/
+
+/
+
+~"
+
+,,4
+
+o
+
+---
+
+~
+3~
+
+t
+
+II
+
+~
+
+l'j
+
+<>
+
+~
+
+~
+
+/
+/
+
+./
+
+V
+
+60
+
+Fr~~ Air Sp eed:
+
+6D
+
+I
+
+"
+-..:
+
+I
+
+"
+
+~
+
+ctj
+
+i
+
+I
+
+I
+I
+
+I
+
+I - - --I
+
+\),
+
+'"
+\,.
+
+6
+
+lj
+
+.,
+
+"
+'"
+]~
+<>
+~
+
+~O
+
+)L
+I
+
+i
+
+<:-0
+
+~
+
+V
+
+~
+
+4
+
+}
+
+I
+/
+
+z
+
+/
+~ VV
+'0
+
+~
+
+4~
+
+1;
+
+?n
+
+V
+
+\)
+
+~
+'-
+
+/
+
+Z '"
+
+~
+
+/
+
+40
+60
+00
+Free A irSpeed - r711/ hr.
+
+,
+
+J'~
+
+I
+
+I
+
+I
+
+'"
+~
+
+I
+I
+
+/
+
+,
+~~
+
+"S
+"
+
+~Cj
+
+I
+
+J ...
+
+~(
+
+.~
+
+I.-~ I
+
+<>
+.,
+
+..
+.
+"
+-e
+'-
+
+4 Q.
+
+"
+
+~
+
+/ I
+
+)"0
+
+\,.
+
+~
+
+~t
+
+'"
+~
+
+,
+~
+
+/
+
+~
+
+k:::: V
+In
+
+V
+V
+
+"
+~
+
+Z~
+
+/
+
+~
+
+/
+
+/
+
+-1
+
+::;,,·. ~q;:o 5~~~
+;~
+
+6IJ
+
+Free AIr Speed
+
+'2"
+
+80
+rnJ · hr.
+
+//JlJ
+
+I
+
+I
+
+II
+
+H
+H
+t>:1
+t>:1
+
+I
+
+/
+
+,I
+I
+
+;::
+<>
+
+'"
+'-
+
+,
+
+1/
+
+I
+
+bj
+
+.5
+
+o
+
+'"
+
+/
+
+,
+I
+
+l/
+
+~
+
+;;
+
+<1:
+
+"
+~
+
+II
+
+<>
+
+/
+
+n
+
+/
+
+/
+
+~V
+zo
+
+>n
+
+V
+
+../
+
+~
+~
+
+/
+
+..
+
+I
+
+~
+
+J
+
+l ~Y'
+
+.i
+
+,
+
+;::
+
+I
+
+II
+
+<- 6
+
+t
+"
+
+I
+
+I
+
+~
+
+/
+I
+
+I
+
+H
+
+I
+
+I
+
+V
+4b
+
+0
+
+N "IO/- MAYO
+
+'.
+
+I
+
+7
+I
+
+rf1-#~O ,
+~O
+
+~
+
+~
+
+n
+
+I--
+
+I
+
+~
+
+~
+
+I
+
+,
+
+I
+
+?
+
+I
+
+I
+
+/
+
+o
+
+I
+
+{j " xtrX 4 -S'//6 ':
+
+1
+
+In"
+IOU
+
+,
+I
+
+N!' !38-MA YO
+¥tiS "Square Ce ll.
+
+~
+~
+
+I
+
+/
+
+I
+
+/
+
+(
+
+oj
+.}
+
+Z
+
+:>
+
+H
+
+~
+
+I
+
+I
+
+1
+
+I
+
+~
+
+~
+
+o
+o
+
+,
+
+I
+
+I
+
+I
+
+'- 8
+
+o
+
+;:1
+
+I
+
+I
+
+I
+
+1/
+
+8 " X8 -)( 4 '~/16":'
+
+I-d
+
+[fl
+
+4
+
+I
+
+I
+
+.$
+/16" .sq uare Cell.
+
+t>:1
+
+E;
+
+o
+
+lOU
+
+rnl/ hr
+
+I
+
+H
+
+~
+
+!:;;J
+
+~
+
+I
+
+14
+
+r-
+
+Z
+
+o
+Z
+
+I
+
+,
+
+I
+
+4
+
+N!UOO- M AYO
+
+Z
+
+o
+
+I
+
+1
+
+:>
+
+H
+
+V
+
+~~O
+
+ml./ br.
+
+~
+
+l(
+
+/
+
+V
+
+~
+
+I
+
+~O
+
+j
+
+~
+
+~
+
+41l.
+
+~/
+
+~
+
+'"
+~ ,
+
+~
+
+I
+
+I
+
+fj
+
+~
+
+.~
+
+'II
+
+mn
+
+L~
+
+I
+
+~
+V,
+
+6
+
+/
+
+A~
+
+I
+
+1 5::::
+/
+I
+
+!/
+
+<>
+..,
+
+~
+
+""
+rr~e A;r.5~~d :: ml/l7r.
+
+I
+I
+
+j
+
+;:::
+
+~
+
+I
+
+/
+
+NEI02-MAYO
+Y ~ Square C~//.
+4
+e "x tJ " X z..r/IG ".
+
+I-t-i
+
+t"
+W ~/I;
+
+V
+
+I
+
+Z
+
+(
+
+1.
+if
+
+(
+
+o
+
+/00
+
+,
+
+I
+
+I
+
+4- ~
+
+II
+
+~
+
+~
+
+/
+II
+
+f-'
+t-Q
+
+/
+
+I
+
+-..:
+
+/
+6IJ
+
+4()
+
+<:>
+
+~<j
+I--~J
+
+t
+
+I
+
+I
+
+:::
+
+I
+
+I
+
+/
+
+'/4
+
+I
+I
+
+I
+
+$
+
+I
+I
+
+N ~ !39 - MAYO
+
+'0
+
+I
+
+/
+
+,
+
+I
+
+I
+
+I
+
+~~-;~9..u:~e.s5;:(·
+
+I
+
+I
+
+1
+
+I
+
+N~97-MAYO
+
+I-- I--l
+
+~
+
+I
+
+/
+
+11
+Z
+
+14
+
+I
+
+T
+
+I
+
+I
+
+I
+
+/
+
+I
+
+I
+
+I
+
+I
+
+I
+
+14
+
+~
+
+t- f~
+(i
+
+<>
+
+0
+
+i
+
+V
+
+V
+I
+
+V
+6Q
+
+~
+~
+
+~
+
+V
+40
+
+i
+
+l/II
+
+Free A,r Speed " ml / hr
+
+100
+,""
+
+~
+
+~
+
+~
+~
+
+Z
+
+~
+
+H
+.....
+
+o
+
+~
+
+,
+
+/
+
+/
+
+/
+
+/
+
+I
+
+I
+/4
+
+I
+
+/
+
+/
+
+I
+
+8 ~}( 1J ")(
+
+J
+J
+
+ZS/u!J'".
+
+/
+
+;::
+~
+
+~
+
+~I
+
+/
+
+~
+
+0/
+
+~
+
+z
+
+.....-::::: L..--zo
+
+¥
+
+t
+3~
+~
+
+i/
+
+~
+
+Q
+
+~.
+
+If
+
+Z
+
+~
+~
+
+~
+
+~
+'8
+~
+
+~,
+~
+
+~
+
+V
+
+/,V
+
+IZ-XIZ - X.3
+
+l
+
+/
+
+I
+I
+I
+
+,
+">
+
+/
+
+"
+~
+
+,tl
+"
+
+;::
+
+l
+1)4
+
+"
+l
+
+o
+
+V
+~
+
+Z~V
+
+V
+~
+
+Fr~e AIr
+
+~
+~
+
+~
+
+I
+
+"
+">
+"
+~
+
+s~I
+
+~
+
+,
+
+,of
+Ii
+
+~
+
+"
+~
+
+V
+
+/
+
+~
+
+4
+
+~o
+
+r7
+
+~
+
+V
+
+40
+
+6IJ
+
+Fret! A ,r S~ed
+
+I'T1I
+
+T
+
+._-
+
+IJQ
+
+I
+
+I
+
+Sl"/R~X
+
+:::~ f:~-: ::1:;~'
+
+It»
+
+I
+
+I
+
+I
+I
+
+I
+I
+
+~
+
+~
+
+V
+
+C~
+
+2
+"
+
+I
+
+I
+
+"
+
+~\
+
+60
+
+4IJ
+1771 / hr
+
+'M
+100
+
+~
+
+I~
+Q
+
+~M
+
+,,~
+
+~
+
+,~
+
+~
+~
+
+/
+
+~
+
+~
+t
+
+(
+
+tti
+
+I;j
+Ul
+
+I
+
+Ul
+
+;.-
+
+6IJ
+
+41r
+
+Speed
+
+10
+
+~
+
+o
+I;j
+
+Q
+
+/1111
+
+hr.
+
+mI. /
+
+c
+
+II I
+
+t:I
+
+q
+
+I
+
+I;j
+
+LL
+
+I
+
+H
+
+o
+
+I
+
+I
+
+/
+
+I
+
+!:>j
+
+,
+
+S
+
+I
+
+;.-
+
+H
+
+~
+
+~
+
+~
+
+/'
+
+,
+
+/00
+
+~\
+
+Q
+
+I
+
+~
+
+/
+
+V
+~~-~
+
+L
+
+,
+
+l
+
+~
+J
+
+!j
+
+"
+
+~
+
+'"
+~
+
+Ij
+
+t-"<i
+
+l
+
+/
+
+~
+~
+
+~
+I
+
+V
+
+44
+M
+6iJ
+Tree AIr Speed - rn l / hr.
+
+~
+~
+
+Q.
+
+V
+
+V
+l
+
+_
+l
+
+~o
+
+II
+
+~
+
+~
+
+<1
+
+~/
+
+rn
+
+I
+
+V
+
+1
+~~
+
+!:>j
+
+J
+I
+
+l
+
+6
+
+~
+
+Q
+
+I
+
+1
+II
+
+8
+
+o
+
+/
+
+I
+
+;;
+
+@
+~
+H
+
+-(Q
+
+~
+">
+
+l~
+
+tJ/
+I
+
+M
+
+"
+~
+{!
+
+/'
+
+/
+
+">
+~
+
+I
+
+/
+
+M.
+
+I
+
+H
+
+~
+
+~
+
+W
+
+~
+
+~
+
+V
+
+/0
+
+J
+"
+
+Free AIr Speed ' rnl / hr.
+
+"
+
+if
+~
+
+/ V V
+____
+
+Speed :-
+
+II
+
+~.o</
+
+V
+
+I
+I
+
+I
+J.
+~ N~7S · W. M.. W.STAGGARD
+I Z Y" " IZ " X 4-.
+J/
+I
+Il
+
+I,s
+
+I
+
+II
+
+/
+
+l:;
+
+~
+
+t
+3~
+
+_~lt:;
+
+I
+
+I
+
+¢
+
+/
+
+/
+
+/
+
+.}
+
+I
+
+14
+
+I,
+
+I
+
+~
+
+~
+
+11J
+
+I
+
+I
+I
+
+- ? ::::.- --------
+
+I
+
+/
+
+I
+
+I
+
+\).
+
+">
+
+lC~
+
+/
+
+'/
+
+10
+
+~
+
+4!
+
+t--o/l/
+
+~
+~.
+
+"
+~
+
+'<;
+
+/
+
+/
+
+I
+
+I
+
+,,
+"
+"
+~
+
+,,-
+
+I
+
+/
+
+'~
+
+~
+
+I
+
+r /
+
+~
+
+,
+
+II
+
+rree
+
+I
+
+">
+
+S
+
+hr.
+
+/
+
+~
+
+~
+(
+
+~
+;;
+"
+
+'"
+
+/
+
+1/
+
+~
+
+I)
+
+/
+/
+
+i
+
+~
+
+/
+
+V
+
+N!!tJO, N!!8Z
+
+'l:
+
+I
+
+I
+
+I
+
+~
+
+~
+~
+">
+
+,
+
+J
+
+I
+
+~/
+
+I
+
+iZ
+
+/
+
+/
+
+I
+
+I
+
+~
+
+~
+
+Q
+
+I
+
+H
+
+~
+
+"
+~
+
+1
+
+!
+
+I
+
+~
+
+13
+
+I
+I
+
+/
+
+II
+
+">
+
+t
+
+/
+I
+/
+
+~
+
+I
+/
+
+/
+
+/
+
+.3/a·C//ipNcoICe/l 12."X/l.-XJ'/2"
+
+.. , ,
+1:
+
+4 ~
+
+I
+
+I
+
+,
+
+~
+
+~
+fo°
+
+,
+
+I
+
+6
+
+I
+
+I
+
+/4
+
+I
+
+II
+
+----
+
+~
+
+I
+J
+
+I
+
+-1/
+II
+
+,
+'l:
+~
+
+~,.
+
+o
+
+I
+
+I
+
+l/ r-lj
+ht
+
+..<'
+
+1)4
+
+I /
+
+~N" 74- SI"ARlfS- WIT/fIN6TON
+
+'0
+
+-,-
+
+~
+
+II
+
+100
+
+I
+
+i
+
+"I
+
+t
+~
+
+,
+
+5
+J
+
+6
+
+/
+
+N E 7J-SPARIf.5-WIT/f/N6TON
+
+I
+
+i
+V
+
+">
+
+H
+
+I
+I
+
+/
+
+~
+
+/.
+
+~
+
+Y.g-ClrculorCell
+
+~
+
+/
+I
+
+4IJ
+6Q
+80
+Fr~t! AIr Speed' mi / hr.
+
+j
+
+4~
+
+J
+J
+
+----
+
+j
+
+~
+
+9°
+
+/
+
+V
+
+/
+
+\).
+
+J
+
+II
+
+V
+
+'<;
+
+I
+
+.~
+
+,,"
+
+"
+
+I
+
+J
+
+cI<
+
+I
+
+/
+/
+
+Z
+
+I
+
+I
+
+'/s ..
+
+J'
+
+I
+
+o~
+
+~
+
+IZ"X IZ "X 3
+
+I
+
+I
+
+I
+
+'>-
+
+q
+
+/
+
+I
+
+V4 Sq(Jo~cel/.
+16-X16 X.3~/8.
+,z.")( 16')( 3 ~/D '
+
+~
+
+/
+
+'"
+
+"'8
+
+.~
+
+l
+
+NE 8/-flOME-TURNEY
+
+I
+
+,
+
+I
+
+,
+
+~
+
+,
+
+I
+
+I
+
+J
+/
+
+J
+
+NEI03-MAYO
+..J"/t6 -:..square Cell
+
+,
+
+H
+~
+
+J
+
+f-l
+0:>
+," ..
+10J
+
+Q
+
+14
+
+ANNUAL REPORT NATIO NAL ADVISORY COMMIT TEE FOR AERONAUTICS.
+
+\
+
+14
+
+\
+
+' 0 /711:
+
+I
+
+I hr.
+
+N973
+
+!\
+/
+\-.l/
+
+IZ
+
+"" "'"
+
+f4.
+
+SPARIfS -WITHINGTDN
+
+12
+
+-V8" Cilipticol Ce l l .
+I Z " X 12 _ X -3 V %. "
+.
+
+75mi·
+
+r....
+
+Ihr.
+/
+
+V
+
+V
+
+\ II
+N979
+WMWSTAGGMD I--
+
+1
+\
+
+10
+
+\
+
+I""
+
+"" ~
+
+/Z V8 " XIZ " X4"
+
+/
+
+75ml . V hr.
+
+10
+
+V
+
+-..........
+
+I~l/
+~V
+45ml. Ihr.
+
+'-
+
+"'"
+
+/
+
+6o m ; Ih r .
+
+V
+
+z
+
+o
+
+1 r--- 45 ml: Ihr.
+---......... :..---
+
+/
+
+0
+
+or YalN
+
+40
+
+ZO
+
+ZO
+
+I
+
+,I
+
+I
+
+N!!80-SPIRCX ~ I--3
+
+12 :X Z4- "X -3
+
+/
+
+8 ':
+
+Il
+
+0
+
+10
+6 0ml
+
+1\\
+
+"'" ~
+45ml Ih,.
+
+V
+
+---
+
+~
+
+\
+
+"', """
+
+- r-- r---
+
+i'--.
+
+-
+
+Inr
+
+j...--
+
+ZO
+
+"" ~ 1\
+
+0
+
+Anqle of Yaw (0)
+
+ZO
+
+r...............
+
+2
+
+o
+
+0/
+
+ZO
+
+Yo W
+
+90ml. I l'Ir
+
+(0)
+
+I
+
+/
+
+~\
+
+I
+\ /
+
+\
+
+1/
+
+/
+
+~ 60mi Ihr [7
+I~l/
+~
+
+45ml. / hr
+
+/"-.
+
+/'
+
+V
+
+V
+
+1/
+
+N98/
+ITOME-TUITNEY
+v.., " Squore Cell
+
+75mi. /17r I
+
+~/
+
+'--- c--
+
+1\
+
+J Om l
+
+-
+
+Ihr__ f-
+
+/'
+
+-
+
+Ihr.
+
+0
+
+Angle
+
+(0)
+
+14
+
+IZ
+
+Z
+
+~
+
+z
+
+14
+
+/
+
+--
+
+,
+
+I'--- Jomi I hr. V
+Anqle
+
+V
+
+v
+
+./
+
+./
+
+ZO
+
+hr:
+
+V
+
+30ml:
+
+~
+
+I
+
+60mi
+
+.........
+
+IZ " XI6 '· X.3 'V 8 "
+
+V
+~
+
+r--- ~. ~ ~
+ZO
+0
+20
+Anq!e of Yo w • (0)
+
+--
+
+l--- f--
+
+15
+
+HEAD RESISTANOE DUE TO RADI ATORS.
+TABLE
+
+H .-Comparison 0/ head resistance o/radiator cores.
+
+Head resistance, pounds ~er sq. It., at speeds
+III m. p . .
+
+Horsepower absorbed per sq. ft., at speeds in
+m.p. h.
+
+No.
+
+R_kV2
+
+30
+76
+77
+78
+72
+
+83
+86
+64
+75
+90
+91
+92
+96
+97
+
+99
+
+102
+100
+98
+101
+103
+81
+73
+74
+BO,82
+79
+
+kX10'
+
+in equation
+60
+
+90
+
+120
+
+30
+
+60
+
+90
+
+120
+
+1.14
+1.04
+.90
+1. 45
+1.63
+1. 83
+1.60
+1. 40
+1.BO
+1. 43
+
+4.40
+3.90
+3.54
+5.30
+6.13
+6.69
+6. 80
+5. 60
+6.70
+5.17
+9.61
+6.80
+6.51
+6. 77
+5.96
+6.39
+5.66
+5.50
+4. 73
+5.14
+5.16
+8.60
+8.60
+8. 17
+
+9.80
+.70
+8.00
+11.48
+13.04
+14.70
+14.96
+11. 87
+14.89
+11. 30
+21.5
+14.67
+13. 84
+14.70
+12. 77
+13.60
+11.70
+11.78
+10.73
+11.20
+11.62
+19.06
+18.02
+17.70
+
+17.3
+14. 8
+14.2
+20.1
+22.9
+24.9
+2 .1
+21. 7
+25.7
+19. 6
+3 .1
+26.7
+24.3
+26.3
+22.6
+24. 5
+21. 4
+21.3
+19.2
+21. 6
+20.0
+33.2
+30.6
+30. 3
+
+0. 25
+.23
+.23
+.34
+.35
+.42
+.36
+.35
+.27
+.30
+.31
+.39
+.37
+.30
+.25
+.33
+.27
+. 26
+.22
+.27
+.26
+.32
+.37
+. 32
+
+1. 01
+.92
+.92
+1. 30
+1.44
+1.64
+1. 57
+1. 37
+1. 37
+1. 20
+1. 78
+1.55
+1.53
+1.44
+1. 20
+1. 42
+1. 30
+1.16
+1.03
+1.17
+1.15
+1. 68
+1. 69
+1. 42
+
+2. 83
+2.48
+2.44
+3.44
+3.82
+4.39
+4. 30
+3.52
+3.87
+3.26
+5.50
+4.35
+4.07
+4. 16
+3.46
+3.95
+3.40
+3.28
+2.93
+3.27
+3.23
+5.01
+4.80
+4.82
+
+6.18
+5.29
+5.24
+7. 36
+8.25
+9.10
+9.95
+7. 87
+8. 75
+7.01
+12. 64
+9.50
+8. 70
+9. 12
+7.70
+8.63
+7.60
+7.36
+6.62
+7.59
+7.03
+11. 21
+10.45
+10.47
+
+2.55
+
+1. 80
+1. 75
+1. 78
+1. 61
+1. 66
+1. 51
+1.44
+1. 34
+1.44
+1.38
+2. 20
+2.40
+2.35
+
+-
+
+1.24
+1.13
+1.00
+1. 46
+1. 73
+1. 84
+1.84
+1. 54
+1. 86
+1. 45
+2.68
+1. 88
+1. 80
+1.85
+1. 63
+1. 74
+1. 54
+1. 52
+1. 35
+1.46
+1. 46
+2.43
+2.48
+2.29
+
+REPORT No. 61.
+PART ll.
+
+PRELIMINARY REPORT ON RESISTANCE DUE TO NOSE RADIATOR.l
+By R. V.
+
+KLEINSCHMIDT.
+
+R~SUM~.
+
+Wind-tunnel tests on a model fuselage show the following qualitative results:
+(1) At any given plane speed the total resistance of a fuselage with a flat nose radiator is
+increased by increasing the air flow through the radiator either by opening exit vents for the
+air or by decreasing the re istance of the radiator to passage of air. This shows that a nose
+radiator, in contradistinction to an unobstructed radiator, should be of compact construction
+with high heat transfer for low air flows through the core, therefore requiring a core of high
+resistance.
+(2) With varying plane speeds the relative efficiencies of unobstructed and nose radiators
+do not change.
+(3) With all three widely differing types of core tried, the combined resistance of the
+fuselage and an unobstructed radiator of given cooling capacity was from 10 or 50 per cent
+less than that of the fuselage with a nose radiator of the same core con truction and equivalent cooling capacity.
+(4) From other experiments performed at the Bureau of Standards it is clear that there is
+more chance for improvement in types of core for unobstructed positions than in types of
+cores for the no e position.
+RESISTANCE DUE TO NOSE RADIATOR.
+
+The present report considers the effect of placing a radiator in the nose of a fuselage as
+compared with the effect of placing a radiator of the same core construction, having an equivalent cooling capacity, in an unobstructed position and streamlining the nose of the fuselage.
+The result of these tests indicate less difference than would be hown by comparing results
+with r adiators specially selected for each of the positions in which they were placed.
+The resul ts are qualitative only, but they are so striking as to indicate that the nose of
+the fuselage is not a desirable location for a radiator from the point of view of head resistance.
+A model fuselage 60 inches long, 10 inches wide, and 13 inches high was constructed with
+a removable streamline no e which, when removed, allowed an 8-inch square section of radiator
+core to be placed in the nose. (See figures 7 and 8.) Two holes on each side of the fuselage,
+each about It by 6, inches, were cut about a foot back from the nose and fitted with adjustable
+sliding doors. By adjusting these vents the amount of air passing tluough the nose was varied.
+The model was mounted in a 54-inch wind tunnel and the head resistance measured under
+the following conditions:
+(1) Streamline nose on model. (No change in resistance was observed whether vents
+were open or closed.)
+(2) Streamline nose removed, but nose radiator covered with a sheet of paper so that there
+was no air flow through the core.
+I
+
+This Report was conftdentiallycirculated during the war as Bureau of Standards Aeronautic Power Plants Report No. 24.
+
+17
+
+18
+
+ANNUAL REPORT NATIONAL AD ISORY COMMITTEE FOR AERONAUTICS .
+
+I
+Re~u/I.$
+
+I
+7esr
+
+01' Prel/rTunary
+
+li'~s(J/I"S o~
+
+on
+N05£ Ii'AOIATOIi' IN MOOeL rU5CLAG£
+fiesis'once YVlt"h varIous olr Flow", (1'1)
+Il7lw./Sec / sq ~"Iront; vvl'1en V~ J'ree
+
+f---
+
+olr speed /n Fnl / h r, compor ed w-dh
+rUjeloge l7ov /n9 slr~orn/lne /?ose .
+
+IZ
+
+Prel':rnlnory Tesls
+
+on
+
+7f--- I-- N05£ MOIATO.R INI'100CL rU.5£LA6E.
+Core No A - Z3~ Livin9sl0n s/16' SQuore
+ce//, .s Inches deep . .,5pc';/on o t' core 8 "
+I-- Squore In nose orrnode I 60 "/on?, /0"
+
+wide and / 03" 1'7/91'7.
+Free aIr speed. 60 Mol". H
+
+Core <VO A - L..3, L;v/nqston .s/ns "JQua.9
+
+cell, S Inch es deep .
+
+xOl
+
+'0
+
+.),
+
+t
+
+~
+
+\\
+
+:,
+
+t
+
+~ .:.
+
+f--- --:-;;"C' of ~
+
+~\\ ,I
+
+/~
+k/
+.6 ~
+V
+V"
+
+1
+
+~
+
+..--:j
+
+o
+
+re:-I---
+
+ZO
+
+V
+
+/
+
+~()
+f.
+
+l
+
+(.
+
+to"';o le"
+
+t---
+
+l'
+
+5~:;-'
+
+~e d £
+1--0(1
+
+V
+--
+
+.,..--- l¢~
+
+I
+
+/
+
+I
+
+I
+
+/00
+
+I
+
+DiS~
+
+/
+I
+
+1'101 No l
+
+t-- t - --
+
+. Resistance WiTh various oir ' IOVVS (Irf)
+r----t- in Ibs.j sec / sq Ff ,ront; vvnen v ' I'ree t- t - -a ir $p~ed ln /771/ hr.~ compared WIf>/7
+fuselo9t! hav/nq .$Irearnl/nenose.
+Core No. 8 -1, Candler 3 /{!J-hex. Cell Z '/£ l- t--IZ f - t -
+
+deep.
+
+~
+
+-
+
+.:.
+
+/1
+
+I
+
+/
+
+~
+
+I
+
+VIW
+
+/; ~
+
+~
+
+l
+
+~
+
+~/
+
+~'Q
+
+I
+
+~ \)
+
+r::,'I.~.
+
+.,1-
+
+/O_t---_
+l'
+
+l'
+
+~(r;
+
+/(
+/
+
+~V V
+
+~ ~V
+
+-
+
+~
+
+III l
+/ [I ~
+
+6
+
+-
+
+V
+
+V
+
+4D
+
+6
+
+Io
+
+Z
+
+3
+
+Mos s rJow 01 AIr' /bs / sec
+
+I
+
+4
+
+5
+
+s911 front
+
+I
+
+Re$u/I'.s 0' pre//rn,,,ory Tesl.]
+on
+N05£ Ii'AOIATO/?INMOO£LrUScLA6E
+
+()
+
+V V
+
+fey
+
+80
+
+V
+
+/
+
+5t(eoodio~
+
+I"re~ AIr Speed • Fnl /hr (v)
+
+1
+
+0
+f'lotNo.3
+
+(11 Ii'"
+
+,.105'/ ../
+
+""I/1,AI~P
+f;;.e
+offfpY
+
+L
+
+60
+
+~
+
+.,oQ~
+
+.,~
+
+(}
+
+'/0
+
+Plot 'fo I
+
+t - - - t-
+
+1)'1; 1
+\)
+
+\(t
+'j
+
+/~
+
+~
+
+~~
+
+~
+
+..
+II f(
+/1/ V
+1/W
+
+6
+
+V
+
+~o
+
+<J~'
+
+l<~ 1
+
+/ Vf
+
+l- t---
+
+-tl\t~
+
+q
+
+I---
+
+~
+
+f-- f -
+
+I{j
+
+I"ree A ir 5peed = rnl /hr. (V)
+
+100
+
+/fesul/s of'l'relilT1i nory Tests
+
+7t---t- NO.5£ Ii'AOt4TOIi';;1'100£L rUS£LAGE I - f Core 1Y0. (J", Candle/; 3/8- heX,celi. Z'/z
+
+t - - t - deep. seerlon or core ~ "sql/or~ In n.ose 0'
+
+model 60 "/Or1f7, 10" wlde and /3-1'7191'7.
+rree o ir speed 60 M. P. H .
+
+t-t----
+
+6l-~~=t~==~~~~~~~
+\
+
+0</
+
+tJ
+
+j
+\
+
+Fig. 7
+
+Fi g.8
+
+150fJ43 - 20
+
+19
+
+HEAD RESISTANCE DUE TO RADIATORS.
+
+~e$u/rs o~Pre/irn;nory Test..s.
+017
+
+7f-- IYose MDIATO~ INMOOEL rUSL:LAG£
+
+-
+
+Ifesults of F'relllT7inary Test s
+on
+
+-
+
+Cor<! No. G -.3.. Splrex 3¥,,"ot!ep. sect/on
+
+f-- I - -
+
+z-
+
+_
+
+-
+
+_
+
+Ifesistance with various a irFlows (MJ in
+f-- ~
+Ibs / sec'; sq. ff Tront; when
+free ai r
+spee{f in ml.j hr.. cornparedwt/h fU.5elage
+hovln9 streamlIne nose.
+ICore No. G-3.S
+pirex • .3 % "deep.
+
+v:
+
+6
+
+/V
+
+l/
+
+' ~
+~o
+
+\\'('0
+
+~
+
+<:>
+
+~ -~
+
+4
+
+,i ~'al -l.
+
+f(esJ5rance 0
+
+~
+
+1/~1~1~
+
+/
+0"
+I /V;! ,r-r-.I
+~f
+7/W 'l /'
+/ 7f
+V
+
+/w /
+~
+---
+
+/
+
+~
+
+l
+
+/.
+
+o
+
+~~
+ZO
+
+I'lot No 5
+
+IOq
+
+/
+
+j
+
+•
+
+1105
+
+. e
+\\~of'
+
+O<f'.o~
+
+,,\(;00 \
+
+i\~/
+~e e
+e\O~f(e
+j
+
+l4.~\~~\1'
+Lei
+
+li
+\" V'
+
+W
+'1/,,,,0:.
+~b
+
+0
+
+/
+
+~q
+
+y oi
+
+~~ -----
+
+jjl
+
+----
+
+v---
+
+-- V
+
+z
+
+~
+
+./
+
+V
+
+V
+
+40
+60
+rref! Air Speed = ml
+
+f fv S•
+
+e.,l
+
+V
+
+05 t
+
+e:-
+
+e.
+
+/
+
+Free a,r speed 60 M. P. J-I.
+
+-
+
+'Q
+
+./
+
+orcore
+in nose
+"!onq.
+f--- I(J - WIdee-sql.lore hlqh. of /node/ 60"
+000' /J"
+
+IY05E ~A D/ATO/( IIY MODEL FU5ELAGE
+
+80
+hr (v)
+
+I(J()
+
+()
+I'lot No 6
+
+I
+
+Z
+J
+1'10.55 .Flow of Air: Ihs
+
+4
+
+I sec I sq ff
+
+5
+
+front
+
+(3), (4), and (5) Nose radiator in place with varying amounts of air flow controlled by
+opening the vents . Seven or eight different air speeds were tried in each case, the maximum
+being u.bout 70 miles per hour.
+The results of these runs are given in plot 1 against free-air speed. They show (1) that
+the streamline nose decl'ea es the resistance of the fuselage by 50 per cent, and (2) that the
+total resi tance of the fuselage increases r apidly when air i allowed to enter the radiator, so
+that a compact type of core is desirable for this position.
+Plot 2 illustrates the e conclusions more clearly, since there the re istance of the fuselage
+at 60 mile per hour free-air speed is plotted against the mass flow of air through the radiator.
+There is also plotted the total resistance of the fuselage with a streamline nose together with an
+unobstructed radiator of the same core construction and of such size as to have a cooling
+capacity equivalent to that of the nose radiator at any given mass flow. P lots 3, 4, 5, and 6 give
+the same data for two other cores, 3 and 4 being fDr a core of very low head resistance and 5 and
+6 for a core of very high head re istance, which would be a very good type for a nose radiator
+and a very bad type for an unobstructed position. There are types of core con iderably better
+for unobstructed positions than those included in this te t, while the core represented in plots
+5 and 6 is probably one of the best for the nose position.
+CONCLUSIONS.
+
+Based on the results of these wind-tunnel experiments on a model fuselage it is concluded
+that:
+(1 ) The resistance of a fuselage with streamline nose is increa ed more by removing the
+streu.mline nose and substituting a radiator than it is by adding an equivalent unobstructed
+radiator and retaining the streamline nose.
+
+0
+
+20
+
+ANNUAL REPORT NATIONAL
+
+ADVI~ORY
+
+COIlD1:ITTEE FOR AERONAUTICS.
+
+(2) Between good radiators for each position the increase of resi tance due to the no e
+radiator is roughly double that due to the unobstructed radiator.
+(3) Above a very low mass flow the nose r adiator becomes relatively worse and worse,
+as the mass flow is increased. by openinO' the vent at a constant free-air speed. This fact is
+of great importance, sin ce the space available for a nose radiator is so limited that the highest
+possible mass flows are used in practice.
+(4) It is found that the relative efficiency of the nose radiator and the unobstructed
+radiator does not change appreciably with free-air speed for a given setting of the vents.
+
+REPORT No. 61. vi
+PART ill.
+
+EFFECT OF STREAMLINED CASING FOR FREE-AIR RADIATORS.
+By S. R. Parsons.
+
+RESUME.
+
+This report on preliminary tests of a radiator inclosed in a streamlined casing shows that
+head resistance can be decreased by as much as 50 per cent, but the accompanying decrease
+in mass flow of air, and consequently in heat transfer, nullifies the advantage gained, with a
+possible exception in the case of very high speeds.
+DESCRIPTION OF RADIATOR AND CASING.
+
+The radiator used was a 12-inch square section of core, composed of one-fourth inch square
+cells, and 3~ inches deep. The casing, which was made of galvanized iron, is illustrated in
+figure 1. It is streamlined in one dimension only ; the top and bottom pieces being flat rectangular sheets, and the side pieces curved. The curves used are not of the common streamline
+form, but are arcs of circles, because of the fact that the air flows on both sides of the sheet.
+EFFECT OF CASI NG ON PROPERTIES OF THE RADIATOR.
+
+The casing causes a very considerable reduction in both the head resistance and the mass
+flow of air through the core. As the side pieces are brought nearer together and the area of
+the mouth reduced, the head resistance first decreases to a minimum, and then increases. The
+lowest head resistance found was about 50 per cent of that of the uncased core, with a mouth
+area equal to one-half of the frontal area of the core. For the only section on which reliable
+measurements of mass flow have yet been made,
+mass flow through streamlined core
+area of mouth
+mass flow through unstreamlined core area of radiator face
+
+A decrease in mass flow of air causes a decrease in heat transfer, and the advantage of the
+reduction in head resistance is outweighed by the disadvantages of the decrease in heat transfer
+and the additional weight of the casing. Plot 2 shows the figure of merit resulting from openings of the casing 9 inches, 6 inches, and 3 inches wide. To show the effect of weight, the figure
+of merit has been computed for a casing of galvanized iron, and also for one of aluminum. At
+high speeds the effect of weight is small in comparison with that of head resistance, and the
+curves are not far below the curve for the unstreamlined core, but they will not reach it at
+speeds below 100 m. p. h., and probably not at higher speeds. If there is to be any gain in
+figure of merit, at the lower speeds, the proportional decrease in head resistance must be decidedly
+greater than the proportional decrease in mass flow of air. Since, however, the decrease in
+heat transfer at high speeds is somewhat less for a given decrease in mass flow than at low speeds,
+it may be that for a speed of 150 m . p. h . there will be an advantage. The data at present
+available do not warrant extrapolation to such a speed.
+POSSIBLE ADVANTAGE FOR MASKING.
+
+It seems that if there is to be any considerable advantage in using the streamlined casing
+it will be in its adaptability for masking a part of the core. It would be a simple problem in
+construction to streamline the water boxes in the vertical dimension and the core in the horizontal, and to place inside of the casing for the water boxes, the mechanism for opening and
+closing the mouth of the casing for the core.
+21
+
+I
+
+m~1--~---+--~~
+
+4Y
+z.~J "
+
+Effect oT Streamlined Cosin9
+on
+
+~6"
+~~ ..,..(.---t---r-- 9 "
+..
+
+RADIATOR
+RodiolorCore. 12"XIZ"X3¥8':
+
+I-_~_-+-_--I-~I Mourh or Casing - ' !J::X 12 ': I
+,.
+
+"
+
+"
+
+-
+
+-
+
+\
+
+XIZ:
+.3 " XI z.';
+6
+
+I
+
+60
+
+/
+
+\
+
+\J
+
+\
+\
+
+~
+~
+~
+
+I
+
+I
+
+/
+
+/
+
+\
+
+\
+
+\
+
+/
+
+\
+
+\
+
+~
+
+\
+
+\
+
+iMovfh 5" \
+
+"\
+
+~
+
+"
+
+\
+
+,~
+
+\0
+,----
+
+~.
+
+\.~.
+
+,'ch,
+
+,~
+
+.~
+
+!Movlh 6 " ' \
+
+"
+
+~
+
+"5
+
+~
+
+~ JO
+
+1
+
+",oul17!J
+
+,~
+~
+~ 10
+~
+
+I
+
+I
+
+I
+
+I
+
+Movth 3" -.
+
+......
+
+I
+
+I
+
+I
+
+I
+
+(.,~
+
+Q)" Q,~
+~
+
+U>
+
+o
+o
+
+«::I '
+
+J
+
+~
+
+\
+
+,'\
+
+'I:S
+
+\\
+
+Cl\
+
+~
+'"
+
+\\
+'\
+
+\. \.
+
+PlofNo.Z.
+
+"10"
+,~
+
+f'...... . . . ~
+
+"
+
+I
+
+I
+
+I
+
+"-
+
+\\
+
+1,
+\
+
+-~
+
+\
+
+,
+
+"r-..... '-"
+
+~
+
+\
+
+/. •
+,
+\
+
+..........
+
+,
+
+........ t---~
+
+I
+
+\
+
+\
+
+\
+
+\
+
+\
+
+\
+\
+
+\
+
+r--~
+
+6Q
+
+Tree AIr Speed =-
+
+"'
+~
+>:j
+
+\.
+
+___-
+
+40
+
+~
+~
+>-I
+
+t':I
+
+\
+
+\
+
+I
+
+/
+I
+
+/
+
+/
+
+/
+/
+
+/
+
+rn / /
+
+IJO
+hr.
+
+100
+
+I
+
+~
+
+0..
+
+~
+
+I
+
+I
+0,
+
+pj
+
+o
+
+I
+
+I
+
+o
+
+~
+pj
+
+I
+
+I
+
+I I I
+
+I
+
+f
+
+tv
+
+zo
+
+~
+~
+><j
+
+I
+
+o
+
+~
+
+~
+
+~ .
+
+I---r--.'r--...... "'r-.
+
+.1
+
+~
+
+~
+
+«::I
+
+~.
+
+"""",
+
+~
+
+"'
+
+~
+o
+
+~
+
+"
+
+I
+
+I
+
+\~
+\ c...
+
+\
+
+' " ""
+.,,~
+
+~
+
+~'"
+
+o
+i:>j
+
+~
+...,
+
+~
+
+l'.'"
+
+"""
+
+t'-...
+
+/0
+
+r.::.
+
+f\." ', \
+~
+""'-
+
+~
+
+~
+
+,
+
+" . , ' "\ \
+
+""
+!-1oulh 3 ':'"
+
+,
+
+,\1 ' ,
+
+.[
+
+,~
+
+\
+
+" ,I'\.
+
+I'fOut J6 ",
+
+~
+
+\
+
+i:>j
+
+~ ~
+
+\~
+
+,
+
+I:)
+
+~
+
+t':I
+>tI
+
+~
+«::I
+
+,~
+
+~
+
+~
+
+~.
+
+"'
+
+~
+\J
+
+-t..'\W
+
+\
+
+J,"
+
+Caslnqo/ Iron ..
+----"
+.. alumInum.
+--- ____ Core noTsrreornlined.
+
+\
+\
+
+~
+
+~
+
+'
+
+~
+
+\
+
+\
+
+\
+
+~.JO
+
+o
+
+I
+/
+
+/
+\
+
+~
+
+w
+
+-I-
+
+I ·
+
+\
+
+~
+
+w
+
+-I
+
+'0
+
+~
+c::
+
+.~
+
+~
+~
+
+o
+
+U>
+

@@ -1,0 +1,3475 @@
+T$CBNICALWPES.
+NATIONAL
+
+i
+
+ADVISORY
+
+COMMITTEE
+FOR AERONNJTICS.
+
+I’& U.
+
+f
+i
+
+.
+
+THE PR03LE!MF TEE TUREO-COMF!RESSOR.
+O
+
+I&tractfrom
+Whc Interml Combustion
+Enginon.
+
+Translatwi
+fmm the French
+by
+Paris Offica, N.A.C.A.
+.
+
+August
+,
+
+1920:
+
+.
+
+-—
+
+-—
+
+-----
+
+___
+
+-
+
+.
+
+.
+
+NATIONALADVISORYCOMdITTEE
+POE AERONAUTICS.
+.
+
+TEOHNICAL hWTE ha. 11.
+
+THE PROBLEMOF THE JNJRBO-CCMFRESSOR.
+By Rend Devillers,
+Ing&nieur L~lfcoleup&ieure D~A&cmautiqw.
+de
+S
+Extractfr~ ~t~a Inter@
+
+Combustion
+Engine.
+~.
+
+Translated
+from the French
+by ParisOffice, .
+N A.C.A.
+.
+
+In terminati~ t~ sttiyof the adaptation th~ e~ino to the airof
+the
+plane,wc will examinethe problemof tha turbo-compressor, first
+realization of which datesfrom the war; this will form an additionto
+the indications
+alreadygiven on superchargingt variousaltitudas,
+a
+W will begin by givingthe exptiri~nta~
+r~s~ts at pr~ssntdotsrmined
+relativoto the influ~nco the power of a back press~~ at the exhaust
+on
+manifold.
+great~ror less than the pressurein the admission
+
+.
+
+This subjectis of great ~~rt~e
+for tk appltcatio~ th-J
+of
+t~&
+compressor
+workedby tho exhaustgasas. As amatt~r ‘offact, a compres$o~
+increasing
+tho pressurein the atiission
+m~ifold may be Controll.+ tBO
+by
+engine shaftby means of mtittplication ear or by a t~bim oporatod~’
+g
+the .~daustgas. Assuoingthat the inoreaseof pressuroin tho admission
+mafifoldiS the same in hth cases,the pressurein ths extiustmanifold
+WOtid bg greaterin the case in which the co~ressor iS workedby ths d
+bust gas ani there wo~d ro~t a certainr~d~tion of o~ine ~ow~r whidh
+WCI
+must h abls to calculate. On tho oth~r hani, if the compressor cQnis
+troll,sdy the ~ine shaft,a c?rtainfractionof the GXC3SSpowef s@b
+plisd is utilizedfor the rotationof the compressor, In order to ccmpa~s
+the two systems,it is theroforo
+n~cessuy to det~rmin?th,~
+value of tho
+reduction powar due to back pressurewhen the turbineis eqloyed~
+of
+THE INFLUENCE BACK 133ESSURE THE EXEAUSTON THE POWER,
+OF
+AT
+A sxiss of tests has bmnmade with a 2= EP engine,1,600r,p.m.water circulation, cylinaers114x 139, volunetziic
+12
+ratio 4.7, At the outlet
+of the exhaustpipe this enginewas fittedwith a throttlevalva, so that
+the positivmback prc+smx~cotid be r&ulatod as desired. Tho n~gativsback
+prqssuroswore obtainedby ccnnacting
+the exhaustwith a doprossion
+chemb~r.
+In thos~ tests tho air.admitted
+was &t the temp~ratura
+ani presmr~ of the
+air.
+atmosphere;
+ttm carbu~tter inl~tsopeningdirect into the surrounding
+
+.
+.
+
+The genxal conclusions
+drawn from thosq tests wore as follows:
+lat.
+If the pmssum In the inlstmanifoldbe raismiabovs the
+prussum in the mhaust manifold,the effectis an increasoof pow;r in
+directproportionto tho excessof inletpressureover exhaustpr~ssure.
+It is practically
+independent the spmd of the =ngim.
+of
+
+~
+
+-2-
+
+2nd. If the pressurein the inletmanifeldbe maintainedat
+pres”the normalatmospheric
+presswe on the grouui,the exhaust
+swe being below it, as in the case of the ocmpressor workedby
+the urerikshaft, per cant age of tirease of power with respectto
+the
+that on the ground is givenpetty acourettely 18P, p being the
+by
+excessof pressurein the inletmanifoldover the pressurein the
+in
+exhaust-fold,
+expressed kilograms per squsm Centimeter.
+to
+St shouldbe remarked that the resultsv&Fy slightlyacoording
+th$ tp of engineand even with enginestheoretically
+identical.
+The reasonis probablyto bs f&uxi in diffexenoes the regulation
+in
+of the valve gear.
+.
+
+.
+
+3rd..A positivebaok pressure at the exhast reducespomr
+more then a corre
+Spordirg
+negativeba~ .&=essurs
+inoreases
+it.
+As the back pressurainc~eases,
+the effectbecomesrapidlymore
+marked . The meu resultsof testsmade on two enginesof the sane
+txps, gave in percentage 10SB of pomr equalto 18p + 24s2, p
+a
+bei~ the exc8ss of pressurein the exhaustover that in
+sion, expressedin kilograns
+per squareoeatimeter.
+Tests on engims of other typeshe
+notablywith cliff
+erent engines.
+
+. .
+
+.
+
+the admis-
+
+shown that results
+
+differ
+
+The very marked effectof a positivebaok pressure,even a
+comp&rati’vel.y
+smallone,probablyarisesfrom the fact that, when
+the exhaustpressureis a~reciably greaterthan the admission
+pressure,non-e
+sci~pedxhaustgas remainsunder pressure b the cyle
+VS2VS opens,this gas deteriorates
+the
+inder. When the admission
+mixturein the admission msn+tiold.In the extremecase in whioh
+the carburetor
+mf.ght affectedby such a oounter-stroks,he efbe
+t
+fect might be to e~el the gasoline.
+
+The eff
+eot produoeddep~de ~tly on the cxxnpression
+ratio
+and on valve adjustment,
+but more especially the shaped the
+on
+inletmanifold.
+q
+
+.
+
+4tL Increaseof pressurein the inletmanifoldor of nSgaeffictive baok pressurein the a~ut,
+improvesthe v-olunetric
+i8noY by red,u%ingthe proportionof exhaustgas re~ining in the
+Cylindw. The consuqtion of gasol~ per hp. /hourq
+be slightly
+reducedin oonseq,usnce.
+Yhus, for a normal”ons~ption of 230 gr~s,
+c
+we hsve noted
+a specificconsumption 220 grsnxues
+of
+with a baok pressureof -0 kg.
+600.
+A positiveback pressurehas the contraryeffect. A back
+pressure of @.500 kg. raisedthe specificconsumption 250 grs.
+to
+5th. Inoreaseof pressuxein ths adnissiom
+manifoldincreases
+thermicefficiency
+and reduo.eshe proportion has,%
+t
+of
+oarried off
+by the water circulation.~s point is of great in%ersstin desigtingradiatorsfor s~roharged engines.
+P& msy admit that the total anountof heat to M evacuated by
+
+.
+.
+
+the radiatcm 5s cmstant
+for a
+negativeback pressures,
+%&e tati~
+of this quantityto ths ealorifie
+e@vsMnt
+~f the power dimizk
+%shingas the negativebads preashre5nores@es.
+Fig. 393 (p. W5 of origtnaltext)gives the sesultsof tests
+made on two enginesof the sane type.
+
+.
+?
+
+.
+%
+
+fittedwith a ccnrfpressor
+APPLICATION. Let us constderan ~ns
+which,at all altitudes,
+maint
+sins the pressvre in the admission
+With the
+manifold equal to the normal pressure on the ground kvel.
+will be greaberthan the
+foregoing
+figures,the gotir developed
+power on the groundlevel by ME $ of this power, p be~ng,
+the
+difference
+betweenthe _pressurein the admissionand exhaustxna32ifolds,expressedin kilograms
+per sg,,e osntimete~i
+The kateau devioe,presentinga tmbi= drivenby the exhaust
+gases,prbvidesfor the maiuta~ce of pressurein the admission
+o
+anl exhaustmanifolds@ the presstaren the gronndlevel,thus
+keeping@I the power of the engi~. In this case, the power develqed by the engineat a givenaltitudewill be less by 28> $ Ajf
+its val.us
+than thb power whioh would be devsLopedat the sane altitude if ~hs enginewere fittedwith a compresses
+operatedby muitiylicatloagear.
+Ws will oonside~the 220 HP engiG6used in the tests previously
+menticn.edz the alt
+and
+itm.de f 4,000meters for which the relat
+o
+We
+the tu~b~nswcskedby exhaust
+atqsphsric pxessure is 0.61. IVi%h
+gas, the engineWOVM give a ho%aepowsr 220, equalto that on the
+of
+workedby multiplicat on gear,
+i
+g=oundlevel. With the compresses
+whioh alsom~t~~
+ths in%& ~rassureat the level. the presof
+sure on the ground, we shallhave a aegatlveback pressuzeat the
+exhaust p = 2 - 0.61 = 0.39, Whencs; gain of powel?’ 18 x 0.39 =
+a
+of
+7 % of the power on the groundlevel’,hat js, 0.07 x 229 = 15
+t
+horsepower. The power deve~qped Woqd thus be 235 2P insteadO*
+220 as in the fi.ast
+08s8. To ottaiathe effe
+cti~epower,we must
+that is,
+deductthat &equire&for the controlof the cotipressor,
+14 horsegowss
+accordingto measuranents
+made on the benoh.
+Zhf3
+available
+power is thus the same in both casesand no reason Andioa,tes prioritbt one solutionSs betterthan the OthSr.
+a
+
+.
+
+.
+
+TEE PROBLEMOF THE !WJRE@COl@tliW@. The 0b~8Ctof the Eateau
+turbo-compressor,
+realizedduringthe war, 5s to re-establish
+in
+the carburetor, to an altit~
+q
+of 5,000.ete~s,the atmospheric
+m
+pressureon the grow level,the exhaustgases beingevacmated
+izko a ohanbsr$= whi~ the pressure iG pHAi tally the sane as
+on the ground level. The eondit~ong of flight near the ground will
+thus be re-estabMshs& up to 5,(3(X2
+meters.
+We will oall S0 the atmospher~o
+pressureon the gmmnd lsvel,
+and pz the atmcqdmrie pressure at the altitude Z. The sx&ust
+gas escqpingWto a ehanberin wbioh the prssme
+is the same as
+
+-4-
+
+.
+
+Oaths groundlevel,the remainingcaloriesare utilizedfor turning
+a single-rotor,xialflow turbine,the exhaustgas expendingin
+a
+this drivingturbinefrom the pressure p. to the pressure pz.
+The turbineis coupleddirectlyto a centrifugal
+compressor
+which compresse$$he ir ctiging the czburetor, making it pass
+a
+from the surrounding
+preseure pz to t~e atmospheric
+pressureon
+th6 groti 18vel$po.,
+t
+IN SHORT,the energy correspondingo the e~pansionof the exha~t gas from PO to Pz through%he drivingt~bine, is utilized
+in a centrifugal
+compessor to _
+the i~et air pass from a pressure of pz to a pressure p=.
+
+.’
+
+The problembeing thus stated,it remainsto @ seen whether
+‘ the ermgy which can be collected the t~bi~ is cuff
+by
+icientto
+obtainthe integralcompression the air ~tted
+of
+to the c~buretor.
+
+&
+EXPANSION’ THE EXHIMM GASW. T%ROUG~A CONVERGING
+OF
+NOZZIE.
+recall
+the principles
+relatingto tine
+flow of gas
+.
+We “xould
+througha nozzle. The flow of gas thrcugha ~tiiveaging nozzle
+dependsonly, OUTside of the coeff
+Icien-tf contraction, the
+o
+on
+ratio p/P of the leewardprossure p to the windward pressure P.
+
+lst. p/P >
+
+0.52.
+
+If the leewardpressure p is greaterthan 0.52 P, the rate
+of flow dependson the ratioof the pressuressad increases
+as
+this ratio decreases. me pressureof gas at the outletof tbe
+: nozzle is eq~ to the leewerdpressure.
+2nd. p/P = 0.52.
+H the leewardpressure p is equal to 0.52 P, the rate of flow
+reachesits maximcmvalue at the velocityof sonndin the gas consideredfor the pressure0.52 P. The press~-eat the outletis equal
+to the leewardpressure.
+In the two cases just considered,
+the gas w
+in a converging
+nozzle.
+3rd. p/P, <
+
+.
+.
+
+0.52
+
+expamicompletely
+
+,
+
+lf th9 kWJ~dpr8SSUre
+p is less then 0.52 P, %he e~aneion
+cannotdescendlower than the Mmit value ().52
+P. The pressureof
+gas at the neck is greaterthan the leewardpressure p and is
+equal to 0.52 P. A% its outflow,the fluid then per=trates
+into a
+E-dim of which the pressure p is less than its own pressure0.52 P.
+..
+
+There ,resultsa suddenexpansionand the streamof gas
+.
+%
+>.- issuesmaking a loud noise.
+
+-5-
+
+The rate of flow is egpal to the velocityof soundin tM fluid,
+and the output de~enda entirely on the windward prefwwe
+PD
+
+&order that theremay be completee+pansienin this case,
+ooxverging,
+then Mverging, and the speed
+the nozz~emust IW first
+at the outletW
+then reach cme%dsrabti values.
+=~ICA!fION TO TEE ZTJREQ-COWBESSOR. - The diffusesef the Rateau
+ions
+turbim is fomned of corozergi~
+nozzles;the above tmnsiderat
+therefore, appliedto %*.
+~,
+be
+The Eat&o p=lpo is praot%oally eqyel to.O.52 at analti%5,000 meters. Under these oontitions, assuming that Wind@rd
+y
+presemremust remain constantand eq@L to the atmosphericressure PO on the “growi level,them will be two cases of fm@io*
+tng to consider.
+
+d
+
+> 0.52. - The
+ht
+FROM o to 5,m
+-s:
+p/p = Pz/Po
+SXhaustgases expendooapletely
+throughthe dif
+fueer.,The speed
+and ox&putof gas, as well as-the
+efficitinoyf the turbine,iBo
+Oreasewith altitadeq
+
+pfi
+2nd. AEOQE 5}0$)0 E!i?ERs: = &z/~o. < 0.52. - On leav~~
+M
+the diffuserthe eX&ust gas is ex@nded only up to a pfessuteof
+C).52P&CompleteeXp~sion only takesplaOS aftex ths passageof
+the fZn$ as the kdbins e%himetva3ve.
+This part of the exp~ion Is lost,effieienoy l,owered.
+is
+In this case we shalleithertake a windwardpressureewal to 2Q,
+or
+and, consequently,
+inomplete ezcpans%on, we shall be satisfied
+with a windwardpressure P = ~
+Srl
+order to keep completeex0.52
+psnsio~
+In any ease, the power sqpZied by the engim wi31 be
+reduoed at altzttades
+above5,000metess’.
+
+CONCLUSION. - With the single-m%os turbirn”and oowerging nozzle
+ths exhaust gas can be oomgletely utfitzed at groumiZevelpressure on$y w to an aliAtude of 58000 meters.
+For higheraltltties, converging-diverging nozzle must be
+a
+used, involving
+eithesturbines‘of
+greaterrim speedsor the adoPtion of a multiplerstor turb-.
+ES!HMA!MON OF IWCOVERA31E ENERGY IN EXHAUST GASES. + R) will take
+the 0sss of oomplete
+expansion
+when p=/po = 0.52, *hat 58, at the
+altitude of 5,000 meters, ezxiwill estimate the available energy
+oorzesponding to this expansion
+for 1 ki30gram of gas.
+%
+
+will
+
+Oan:
+
+“.
+
+mom
+03?NOZZIE s tb%
+Frcm measurements
+taken
+whencO
+TX = 973.
+
+T~ THE ABSOLUTETEMPERATURE cm
+
+is, the temperature in *he exkuat
+direot,we ~
+admit a temperature
+
+Ta, TEE ABssml!E TEMPERmEIE TO REAR OF hWZZI@.
+~ , Iumo m’ SPECIFIC BEATS: as the mex valus for expansion
+we will adopt the figwe 1.293.
+
+By the adiabatic
+law we have:
+!22
+~=po
+
+(1)
+,
+
+0.226
+= 0.863‘
+= 0.52
+
+y
+
+%
+()
+
+T2 = a40W whenoea fall in temperature
+
+JikornthSs we dehoe
+
+Tl - T2 = 133° C.
+Zb kineticenergybr
+~’
+‘bbeing the veloeityof ‘ikr ‘xV “8 ‘“’0” w -the gas.
+~
+in the nozzleis
+%’
+~ C iS th8 Sp8CifiSheat of the gsS at 00nSt~t pr0S8@&, We knOW,
+by formula(%] ofC@@er H on Thermodynamics,hat this available
+C
+t
+considered,
+is
+energyCorrespotiingo the adiabatic eqansion
+-ion
+
+expressed
+
+(2)
+
+in ‘Zaloriesb
+Q=
+
+We will take for C the valus of the specificheat of the ex:
+haus~ gas at SW
+C, that is, c = 0.307!5,*xm3
+(3)
+.
+
+Q=
+
+0.3075 x 133 = 4L calories.
+
+Admitting a Iosa of !$, there remains an energy of 0.95 x 41 =
+39 calor%ea or 425 x 39 = 16,575 k%logremmeters.
+Conseqwntly, an output of 1 kilogr~
+
+give rise to a power of M#
+
+Of gas &z
+
+secondwould
+
+= 221 horsepower.
+
+If we now take
+$ as the efficiency the turttirm, energy
+of
+the
+will be, in
+availableon the shaft or actuating tbe compressor
+kilogrammeters:
+E=
+
+(4)
+
+the
+
+,’
+
+16 ,5?5
+
+~.
+
+The fall in calories be5ng 39$ the ratM- of flow of the gas at
+outlet of the nozzl~wi31 be given by the formula:
+
+(5>
+
+x%zg
+
+x425x39
+
+Whenoe
+(6)
+
+x = 91.3 V%T=
+
+570 meters per seoond.
+
+-?,,
+
+COUXXtimgon a 10SS of Speed Of about$?$ friotiozl, finby
+we
+obtaiu a speed of 558 meters per seconi.
+
+..
+
+~Y
+
+THE COMPRESSION STIMS OF THE AIE AIY@~
+
+TO TEE C@KE&KiR.
+
+-
+
+that 25 gramnes of siz are re~uired for consming 1
+of gasoline. Zn order to obtain 1 kilogram of exhaust-gas
+WS mt
+therefore
+have ~
+= 0.940 XdWi.of air. Let us assme a
+16
+m
+leakage of 1O$! the pi-s. For I kilo~~ of eXhauSt ~,
+in
+must $hue ocmpre 1.034kgs. of air.
+ss
+We -w
+
+grams
+
+~
+
+asstmed
+
+COm~SSSiOIl,
+
+is effected by means
+
+to be adiabatic,
+
+of a Oexltrifugal
+fSn9
+,
+i
+.
+
+The Wt id absolutepressum and temperature the aix are
+of
+those of the atmosphere,
+that is, pz and !PZ;
+the finalpressure
+adi temperature
+are PO - To. p. shouldbe pract
+ical~ egpal to the
+atmospheric
+pressureon the groundlevel.
+
+%
+
+We will take
+shallhave:
+
+7 = 1.4 as ratio of the ~ecific heats C/c.
+
+~
+
+(?)
+
+Tz
+
+For the altitudeof 5,000meters previously
+considered, may
+we
+a surrounding temprat ure of -13V whenoe
+
+admit
+
+9Z =273-13=250.
+Po
+
+Then by ~st%tuting ~
+(8)
+
+for ~
+
+We have:
+
+To = 1.21 Tz = 315
+
+that is, a temperature 32° C. %
+of
+perature:
+
+of
+
+tem-
+
+The kinetic
+
+energy
+
+TO-TZ=
+
+(91
+
+Let us now take ae a
+
+Z
+
+thus obtain an increase
+
+of
+
+2g
+
+basic
+
+1 kilogrsmd
+
+air.
+
+the air at the outlet of the oentrifzgal
+fan is transformed
+
+i~o Pres-e%
+%?=t~~~
+(43] d @ter
+II on Thermodynanios,
+to
+the evolution
+being assuaedadiabatic, the energy coraespoxxling
+this kineticenergy is, in calories:
+.
+
+{20)
+C = 024
+
+~’ =
+being the speoific
+
+C(TO
+
+- Tz)
+
+heat of the air at constant
+pressure.
+
+-8Q* represents
+the comnress%on
+work of the fan; it is, ~th t~
+.–55 = 13.2 calories,
+that is, 425 x 13.2 =
+
+figures aesuned, 0.24x
+5,610 kilogrameters.
+
+But, as the weight of the ai~ to be considered
+per kilogrof exbauatgas is actually 1.034kg., we shallhave to considertti
+e=er&y. .
+
+Et =
+
+m)
+
+1.034 x5,610 : 5,800kilo~=ters.
+
+With an outputper secondof 1 kilogramof exhaustgas givi%
+221 horsepower, the power utilizedfor compressi~ the equivalent
+
+WMght of the air admittedwould be ~
+
+= ?7.4 HP.
+
+If ~ st~s for the &f icie~y of the f~, t~ energyrequiredfor its rotationwill be, ir.1
+kilogr~eters:
+E .U#2
+
+02)
+
+v
+
+~QUIRED WICIENCY OF TBE TUIUXMOh@RESSORSET. - Makinge res$ion (4) ~:rgy suppliedby the turbi=, equal to expression 12 ,
+,J
+?)
+~nzr~ absor
+bed by the fan, we bre findly:
+.
+(13)
+
+I%
+
+36,575
+
+P%=
+
+Lfj?Q
+v
+
+<
+~ is the overallefficiency of the sy~t~m
+The product P.
+obtainthe reqyiredcondition:
+
+thus
+
+(14)
+
+maint
++in
+This requires the turbizeto
+of
+an efficiency 0.64,
+&s an”
+~“:icienoy 0.55.
+of
+aseuningthat the compressor
+It appearsthat at the Bresentthe we carmotcount on a tmrR, greater than 0.53, and therefore, with a
+compressor
+efficiency ~ = 0.55, nat on an overall efficiency of
+
+bine efficiency,
+more than 0.29.
+
+In the testsmade on the Br@uet 14
+with R~tit ~
+HP engine, St was not found possibleto re-estalish groti levelpres%
+sure in the carburetor an altitudeof 5,CXIO
+at
+meters. It has been
+shownby caloulat
+ion that, in or~er to obtain this result,very
+careful adjustment
+5a necessaryand also spec%alcare in reducing
+lossesto a minimurt.
+Stillplaoingourselvesin the conditions of an altitudeof
+5,000meters,let us now seek the val~ of the pressureP. which
+;;ficvw may hope to obtainin the oarburetorwith an-overall
+iency 0 = 0.29 of the set corresponiizg, ay, tm ~ = 0.53 for
+s
+the twbine and to /$ = 0.55 for the fan.
+
+‘-9we will stillassme the same available
+e~rgy of 16,575kilogrameters in the exhawt gas per kilogram of gas consumed. The
+force utilisedfor c~ressi~
+the corzospondiqqeight,1.034kg.,
+w
+
+of air admitted,
+will be 0.29 x 16,575= 4,800kilogramneters,hat
+t
+&800
+4 6S0
+is, Lox
+= 4~650 kilogramneters O* &5
+= 10.94 caloriesper
+Isilo@amof air.
+To bei~ the fi~ absolutet~erat~e of t~ ~r and %?Zits
+initialtemperature
+eq,l to the atmos~heric
+temperature,
+the enerC(T’O - kz), C = 0.24
+gY titilizedn compress5.dn in calories,
+i
+is,
+representing
+the speciftd
+heat of the aia at constant
+pressure.
+From this we can immediately
+deduce the rise in the adiabatictemperature:
+(15)
+
+To - Tz =
+
+~
+
+.
+
+=45.6°”
+
+AS before we will take a suriotiing t~perat~e of -13° giv-–
+ing Tz = 260, whence:
+~
+~
+=1+
+= 1.1?5
+(16)
+‘
+Tz
+
+!&m ratio betweenthe final pressure p. ani the initial
+~ressure pz, whi CkL is the atmosp&.ic pres~w~e , iS then given by
+the adiabatic
+formulain which T = 1.4 is the ratio of specific
+heat:
+*
+T
+P
+&=&
+= ~ ~753.5 = L758
+.
+(1’7)
+P~
+~z
+()
+The atmospheric
+press~e at 5,000~ters &i~ 407 millimeters
+of mercvxy,we shall hsve re-estab~iskd. the carburetor
+in
+a
+pressureof only 407 x 1.758= 716 millimeters mercuryinstesd
+of
+eq~~
+to ’760 millimeters
+of merCUry.
+of the grow le~el press~e
+sure of 760 millimeters
+has been mainAss@ng
+that a pz?es
+tainedto windwardof the t~-b~e, we shall~ve a ~sitive back
+presswe
+at the exhaustof 760 - 716 = Q millimeters mercury,
+of
+imete~. From what we have see~
+that is, 0.06 kg. p& squarecent
+in studyingback pressureat the ~ust,
+there is a resulting 10ss
+of enginepower of a~~t 1,2% ~th respe to the po~r it wdd
+cx
+s~ly if t~ pres~~e at the e~~t
+~~ve were 716 millimeters
+as ati the inle~valve.
+GENERALFORMU&I03’
+TEE !l?UE?B@COMpRJZSSOR. -
+
+h order to stmnarize
+the preceding statements, we will deduce from them the generalform-
+
+da of the turbo-compressor
+theory.
+Notation:
+
+.-—.
+
+-1oAbsolutetemperature -uat
+of
+gas to windwardof
+the diffuser.
+Absolutetemperature exha.uatas to leewardof
+of
+g
+the diffuser.
+Pressureof exhaus%gas to windwardof the diffuser,
+to be maintainedat groundlevelpressure.
+pressureof ex&ust gas to’
+leawardof ~he cliff
+user,
+equal to atmospheric
+pressure expansion
+~
+being asswzed oomplete.
+Absolutetemperattme atmospheric
+of
+air.
+Absolutetemperature air after com@ressio&
+of
+Pressurs of air after
+compression, ~ ~in~ained
+to
+equal to pressureon ground level.
+Efficienoyof turbine.
+Efficiency fan.
+of
+I
+
+Efficiency turbo - oompres60r
+of
+set.
+
+~aka 1.293 as ratio of the specific
+heats of the e~ust
+gases and 1.4 for the inlet air, ~ have:
+(18)
+T
+~=
+
+(19)
+
+Tz
+
+0.29
+‘4
+Pz
+()
+
+.
+
+The specificheat C at constant
+pressureiS t-n
+0.3075for exhaustgas and to 0.24 for inletair.
+
+.
+
+At the outletof the nozzle the energyof 1 kilogram
+—
+—haust gas completely
+e~anded is:
+
+?S eq~
+
+to
+
+of ex-
+
+of
+me energy utilizedfor the ccznpression the 00 responding
+We%&t, 1.034kg., of inlet air, is of the value:
+0.29
+
+(21)
+
+1.0340(T0
+
+- T=) = 1.034
+
+x Q.24T z
+
+I)
+5
+
+Pz
+
+‘1 .
+
+- 1
+
+I
+
+J
+L
+Puttingthe‘%%&T suppliedby the turbineas equal to the%absorbedby the fan, we have:
+(22)
+
+CO. 3075T1 ~-(*)
+
+W&nce , finally-,aking x =
+t
+
+0-22j
+~:
+P~
+
+=
+
+O-27.[(*)Q*2,
+
+-]
+
+.
+
+-11-
+
+Such is the generalformulagivingthe reguired et’f
+iciency
+
+F’*
+
+Takingas before :
+— 3.
+
+x=
+
+0.52
+
+=
+
+1*923,
+
+T3 = 260,
+
+T!l = 973,
+
+we find a requiredefficiency 0.33 and, stillassumingabout $
+of
+loss in the nozzle,we againfind an efficiency 0.35.
+of
+THE Efficiency ~ OF TEE ‘IUR?INE. In the singlerotor turbine
+which we are considering,he gas is completely
+t
+expandedin the nozzle ani possesses,as we have seen, a kineticenergy eqval to the
+heat it has lost, and it is +his energywhiti is transformed
+into
+force in the mobile totos. TPE NET EFFICIENCY ~s @
+mechnical
+the ratio of the power on the cranksl@t %0 that contained the
+~
+gas whiohhas s~plied it.
+
+..
+
+4
+
+kt
+R be the INFERNAL
+E71’ICmNCyor efficiency
+proper of
+the fins and & the EXTEICULEFFIC~NCY corresponding o the 1.ss
+t
+~ frictionof the disk on the gas and to loss in the thrust bsmings;we shallhave:
+.
+
+P
+t
+
+(24)
+
+.={<
+
+ESTTMATEOF THE INTERNAL
+EFFIC~NCY R. - We would zecall the graphicd method inventedby K llatea~whit oonsistsin ploktingon
+k
+the s- diagramthe triangleof speedsat the inlet and outletof
+the rotor,takingas modulusof the length suale the absolutevel@ity V of the gaa at the outletof the nozzle.
+
+.“
+
+We till call: t=e Fi&!.
+)
+394, p.883 of originaltext
+U, the rim speedof the fins.
+V; the veloc~tyof the fluid at the outletof the noZZ2es.
+~, the angle of injectio~ the fluid or otitletle of the
+of
+~
+diffuser.
+B # the outletangleof the fins.
+
+)
+,
+.
+
+Intersect
+the’
+rotor by a ~edi~ oylinder whose axis iS tb sXiS
+of rotationau developthis cylinder;
+the extremity 3 of the
+fin systemfails on the straightlirn~t. The nozZkS thrOW Out
+the gas at a velocity V whioh Be will plot in magnitudeand direc-of i2ltion from the straightEm XX* with which it forms the xl%
+jeotion ~
+. We obtaiathe vector M
+whioh will representthe
+unit of length. On the other hand, the mobile rotoz is given a
+dr~vi~ ~e#
+AC = U which ~ have laid off pn the line ~t. The
+rOktive velocityVI of the gas with respe ot to the rotor is, in magnitude , dreotion, and sense,the resultantof V and -U.
+—
+
+-12-
+
+.
+
+It is represented the veotor CB to whioh the mobi10fin
+by
+be no shook at the ifi8t.
+shouldbe t#@nt in order that there q
+ACE is the triangle of speeds at the inlet.
+The lossesby frictionand by eddyingin the fin syetsmhave
+the soleeffeot of reduoingthe relativespeedVI by about20%; at
+of
+the outletthis Speedis only V= = O.& VI, the oondition tangency at the inle; beingassime~to be r&lized.
+(2X)
+equal to V2 and meeting
+
+from C now lead the vector
+at the knmn
+
+uutlet argle B
+
+.
+
+DB in IE in a direction
+parallelto XXf.
+internal
+efficiencyis:
+
+TheB project
+
+value of
+
+the
+
+~=2AC
+
+(25)
+
+x
+
+~
+
+the two lengths AC and IE being,as alreadysaid , estimated
+with V as unit of length.
+
+For the turb~ fitted on the ReMult 300 HP engim, the speed
+of rotatiouprovidedfor is 25,0~ r.p.m.with a mean diameter
+of 0.158 m.
+me rim qpeed U of the fins is thus 207 metersper seoozxi,
+and asmxningfor V. the calculated
+value T = 558 meters/second,
+we find
+the
+
+M
+
+= gQJ
+
+= 0.37. The angle of injection ~
+
+outletangle ~
+
+whioh, finally,
+
+35°.
+T& diagrm
+gives us
+Pi = 2 x 0.3? x 0.95 = 0.70.
+
+is 22°
+
+IIE = 0.95,
+
+and
+
+from
+
+~ of o-go, the ~t efficien~y
+Taking an external efficiency
+P.
+will be
+pi
+~ = 0.S6. We may add that in the tests
+hitherto Mel e we have not been able, owing to the oare required
+to be taken’of variousorgans,to keep a spsed of 25,000revolutions,
+and therefore
+the efficiency R was below the mark.
+THE EFFICIXNOT
+
+~
+
+OF TEE CENTRIFUGAL FUN.
+
+TBE NET EFFICIENCY
+~v of the oentrfiugal fan is the ratio of
+the power: ~ployed On the cranks&ft tO that Winch would be required
+for obtaining compression pressure without loss and following the adlabat cycle. “In what follows ~ ignore the loss by
+ic
+radiationthroughthe walls of the bodiesof the apparatus.
+We d U call ~ TEE INTERNAL ~ICIE~
+corresponding t~ all
+losses resulting in a&itional heatingof the air,”
+and ~ Tm
+~
+EFFICIENCY corresponding o leakagesand frictionin the
+t
+thrust bearings.
+
+?
+The ovesall efficiency will therefore be:
+
+f
+
+.
+(26)
+—-—
+
+&
+—
+
+(~
+
+.
+
+THE TRUB
+Gall$
+
+,,
+
+the in%t
+&al ahaolutetemw=aturs #f the airfi
+~uti M *U
+atm~spherio
+temperature.
+PZ$ the initialpressureof the air, equal to atmospheric
+.
+pms sure.
+the theoreticabsolutetmperatvre of the air after ecsnto
+ayole
+~
+prese%on, corresponding the adiabatic
+of the air ~ter cmpre STto,t~ tr~ ~b~~ute t~prat~e
+Siorh
+P.~ the pressureof the air after compression.
+O = 0.24, the ~ecific heat of the air at constant
+prsssure.
+
+7 =
+
+l+4+ratib 02 a@?OifiahtMtct,
+thuretore 77-1
+
+= ‘*B4
+
+diabatio and
+Aa we have seen, if the c~cle were rigorousl~
+withoutloss,the heating ea = TQ - Tz would be suoh that:
+0,29
++=*0
+
+(27)
+
+z
+
+H
+
+Pz
+
+But b~ the principleof the conservation energy3 internal
+of
+loss of ener~ is shownas an additional
+heatingof the air, so that
+adiabatthe true heatinger = Trfi T= is greater than tbe theoretic
+ic heatingea:
+,
+
+0= = ea
+
+@)
+
+x“
+&
+being a coefficient
+Xess than unity
+shal 811ew
+1
+fa.rthernE thsm the internal
+Q
+
+other,
+
+as W
+
+We shallthus hava:
+
+~ is usuallyccanprosed
+between0,60 and 0,70; aacordingto measure60
+menia tide on the banch,Ot sho@d be assumed for airplane oentrifugal falls
+q
+
+h th6 case of a fan operating an altitudeof S$OOOmekera+ the at
+and P. being
+surroundi~ temperature being -13°C or Tz = 26@ absolute,
+F
+equal to ~~
+, we obtainadiabatioheating9a s 55Q, giviw a ~final
+temperature
+uf @(l, The real heating,still ignoringloss by radiation
+= 92°, gi$ring final temperature
+a
+of
+thioughbodies$will be er ~~
+79°&
+
+0,60
+
+-.
+
+.
+
+-14meohanioal foroe supplied to the Crallksheft
+pm KILOGRAM or
+reduced by externallosses,leakages,
+sod faictim in the
+is utilised for threepurposes::
+thrUStbearings,
+
+An
+
+m
+_
+
+TO prodooqmession
+of the air, w~ch, if it to~k
+lat.
+place adiabatically ithoutless or r~iatioa, would requirean
+w
+amount of energyin calorie ;
+0
+
+This relationshows tbt the e~rgy ~? is eq~valea~ to the
+Qlant y of heat necessary
+it
+f~r producing, oonstant
+at
+pressure,a
+rise in teqerature equalto the adiabatic
+heating @a.
+
+To heat tk aiz at CONSP~sStEIEby the quantity
+$, “~’ 6’s,
+tk di.ff
+erencebetweenthe real and adiabatic
+heatirg.
+This energycorresponds the traneformat into heat of all the
+tO
+ion
+inter=ti 10sees of the apparatus:
+its value is
+(31)
+
+P = C(
+
+3rd. To heat the exterior
+and comluctiead
+
+@r”.
+
+@a)
+
+organs of the turbine by radiation
+
+If there is no cooling by injection or water circulation,
+lost is nagligib3e comparedwith those
+as
+
+the amountC@ energy thus
+previously
+mentiowd .
+
+The total amountof energy eqppliedis therefore:
+
+.
+
+(32)
+
+Q~+P=
+
+C$a+c(
+
+q-
+
+$J=q
+
+and the internaleffic~encyis, by definition:
+(33)
+
+/O=
+
+&.*
+r
+
+/&S THUS CIJMRL’X
+EQUAL TO TEE RATIO
+THE IN!EERNAL
+EF17C~NCY
+EETWEENTHE ADzABATICHEATING @a AND TBX REAL HEATI~ ~r.
+of
+Lastly,introducing the coefficient externalefficiency, P
+8?
+we aee that the foroa euppliedto the shaft per kilogramof air will
+be, in calories:
+
+/f
+
+of
+5% %%r operat%ng of the airplans fen, we W
+
+take
+
+We thus see that with an internalefficieno of 0,60,we may
+Practically
+count on a net effioienoy ~=
+@
+&
+0.55.
+
+-15-
+
+-I@
+
+OF A TURBO-OCMPIUMSOR
+ADAPTEDTO AN ENGIMs
+
+AS an exmple we will take the Renault300 I& 12 cylinders
+125 x 150, on which the Rateau turbo-compressor fitted. AS bswas
+fore, m will examinethe questionfor an altitudeof 5,~ m.,
+asmxning
+for the turbinea net efficiency ~t = 0.53 and for the
+fan PT = 0.55, that is, an overallefficiem$ of p=
+8
+~ =
+0.29.
+We have seen that,under these conditions, can re-establish
+we
+in the carburetor pressureof only 716 millimeters
+a
+of mercury.
+The adiabatic
+rise of temperature given by fo-a
+(15) is @&=
+45,60,from ~~ ~, ~t& ~ iater=l efficie~y Of 0,60 for the OSntrifugal
+fan, a real heating &?r= ~
+
+= 7’60-
+
+.
+
+The initialabsolutetemperature of the air being260 at
+Tz
+wiU be l’to 260 + ’76
+=
+=
+5,000meters, its final real temperature
+336, that is, 63° &
+Assming that there is no air radiator,
+the inletair will thus
+of
+have a pre ssae of 716 millimeters merouryat the carburetor
+of .
+end an absolutetemperature 336°. Under these conditions
+of
+pressuread temperature,
+the weightof a liter of air isk
+(35)
+
+a
+
+~
+x
+760
+
+= 1S293
+
+~
+
+= 0.99 gr.
+
+The total cylinder capaoity of the engim is 22:1 liters;this
+is the geometrical
+volunetaken in by euct iou in two revolutions.
+!% speedof rotationbeing 1,600revolutions,
+the geometric~ volme taken in by suctionper escozxi s
+i
+22.1
+
+X 1.600
+
+= 295
+
+liters@r
+
+second.
+
+2x60
+.
+
+We know that
+.
+
+1 gram
+
+of air
+
+corres@mds
+
+tb ~
+
+gsszmlesf
+o
+
+carburetted
+mixture. Assuminga fillingooeff
+ibientof 0.90j the
+outputof exhaustgas pe# secad wiU be s
+Z(J X 0.90 X 0.99 x 295 = 280 grames per $eccnti.
+15
+Fe know that the powes supplied to the turbineby an outputof
+eXhaustgas of 1 kilogramper seeondis 221 horsepower. me net
+of
+efficiency thQ turbinebeing 0.53, it will supplythe crankshaft
+with:
+221 x 0.53 x 0.280= 33 horse~mer.
+
+,
+
+q
+
+Steam testsmade, on the benchof the Rateau turbine fitted on
+a
+the Renaulte~ine now under comideration, have indicated power
+oza
+the crankshaft about 40 horsepower.
+of
+% ham ~eady. assumedthat,per kilogramof cmburetted gas,
+we shouldcompress1.034kg. of air in order-to maim good the 3ZMV-
+
+-16.
+.
+.
+
+olds. The mmtrifugsl fan shouldthereitableIeabges in the maaif
+fore have ~ outputof air per seomd of:
+280 X
+
+1.034
+
+= 290 @SUM6S ~r
+
+sWOZld.
+
+Let us see whether,with 33 horsepower the crankshaft, e
+on
+w
+reallyget a cqrburethr pressureof ?16 millimeters. mezcury.
+of
+The atmospheric
+pressureat 5,000meters being 407 millimeters mrof
+cury,we shallhave, for this rate of compression,
+
+By formula (34)m know that the energy in
+fan shaft is:
+0.29
+CTZ
+~
+=
+-1
+ET
+(361
+P=
+[()
+]
+
+calories
+
+required
+
+on
+
+the
+
+Substituting
+0.24 for ~, 260 fot Yz, 0.55 for” ~
+for
+
+and 1.1775
+
+0.29
+&
+~ w find E = 20.M caiodiea.
+Pz
+()
+
+The horsetmver requiredon the f= shaft for commessing .290
+@Amnes of aid-peiseco~ will thus findly be:
+425
+20.15x 0.290X —
+= 33 h-p.
+?5
+CALCULATION THE SECTIONOF THE DIFFUSER.- We assumethat the
+OF
+weightof a liter of gas carburettad 0° and 760 milM.meters the
+at
+is
+sam as for non-csrburettedas under the sszm conditions temg
+of
+peratureend pressure,whioh comesto the same thingas ignoring the
+molecularex.sio~ causedby combustion.
+% IMOW that 26 grmuneaof oarburettedixturecorrespond 15
+m
+to
+at 0° end 760 mm., the
+graznlesf air. Uhder these conditions,
+o
+weight of a liter of exhsnstgas will be:
+a. = lm
+
+293 ~
+
+=1.38gr.
+
+presThe exhaustgas at the nozzleoutletis at en atmospheric
+sure of 407 millimeters mercuryaad at a temperature Z!z 840°
+of
+of
+=
+absolute, whencea weightper liter:
+a
+
+~
+x=
+= 1“38 760
+840 = ‘*24 ‘“
+
+The outputat the exhaustbeing28o grames pr second,we ooncl@e.that the ou~ut in litersper seocmi at the outletof the nozzle
+
+-17t
+
+.
+
+will be:
+
+.
+.
+
+~
+0.24
+
+= 1.165 liters per secozxl.
+
+ht we ha’vefouaxithat the velocity of the gas at that instant
+is 558 meters pes sooond. The seotioa s of the diffuser must thus
+be, in square eantimeters:
+..1*
+
+~
+
+= 20,8 square oenttieters.
+
+The tests on the Br6guet14 ~ were made with a diffuserhaving
+a sectibnof 20 squareoent .
+imeters.
+
+ENGINEPoWER.- The %mault engine in questiongives 3# hp. oh the
+at the exgroundlewel at 1,600revolutions. Without back pressure
+haust valve,we msy asexaethat the power remainsproportional
+to
+the inlet pressure; therefohe, in the conditions of opefatioxistud-
+
+3
+i
+
+ied
+
+and without baok pressure, it would be:
+T=340
+
+1.
+
+In
+
+M’=320h.p.
+‘?60
+
+reaiity,there is a b&k presswe at +hs o&Ust
+of 316.
+
+ADAPTATION A SUEER~
+OF
+
+of 760-
+
+#
+
+ENGINE TO AN AIRPLANEs
+
+have
+leavingfor a mofmnt the question of what manufacturers
+suooeeded in accomplishing to date, we proposeto bring ou%, in
+q
+the followinglines,as definitely
+and clearlyas possible,what
+may be hoped for in the futurefrom superchargers.
+
+an
+THE PROPELLER. - We take. altitude Z for which the propellerwill
+be determined; n is the awnber of revolutions that altitud8.
+at
+
+.
+
+t
+
+5
+compressor,
+assaed to be perfect enables the engine to
+,
+work at alt%tviieiZn the same conditions on the groundleve3.
+i
+as
+bt T be the motivepower develoyed,
+equal to that given on the
+groundlevelat the sane sFeed n.
+
+The ratio ~
+will stillbe designated
+by ~ , V being the.
+m
+speed of advanceof the airplauaend D the dhmetsr of the prop%ller. A&m, let #
+be the coefficient power of the propeller
+of
+in the atmospheric
+conditions the ground level eud a the relaof
+tive densityof the air.
+We shall have:
+
+q
+
+-18-
+
+(37)
+
+T
+
+= 6’&#
+
+tith
+(38)
+whenoe, by elimination first 3),
+of
+then n:
+n?l!=
+
+(391
+
+k?.
+
+67
+
+C$DW
+l?
+
+(40)
+
+7
+
+~
+
+.-Y?
+A?
+
+As. indi
+we
+oatect the preoedingchapter,we shallconsidera
+fn
+family of propellers
+definedby the shapeof the bladeh
+differing from eaoh other by the ratio of pitch to diameter. For each of
+&em the va.luee f the eff
+o
+icienoy~ in functionof ~ (Fig.375,
+p. 820 of originaltext)have been determined
+experimentally.The
+envelopeof %he efficiency
+ourveswill defir8the points of functioningto be adopted.
+0-075
+
+% have seen that with the best propellers having a ratio of
+to 0.08 between width of blade and diameter,this enveloping
+
+ourve~
+
+practically represented the equation:
+be
+by
+
+(41)
+the speed V
+.
+,
+.
+
+B=
+
+().54546$
+
+being expressedin kilometers
+per hour.
+
+ASWming the law of propdktion.slity ~
+of
+to ~ along this
+envelopingcurveas @ven in the precedingch@er, we find that
+th4 pffi~iencyattainable
+for eaoh of thesepoints and the corresare expressed
+as follows:
+Po~ng diameterof the propeller
+
+(42)
+
+P=
+
+0.54
+
+16 (Y4V5
+~ ~
+r
+
+(-431
+Ms theor~showe that the equationsrelatingto the propeller
+se the sams as for an ordinaryengiw having a power T
+on tlm
+groundlevel.
+7
+.
+
+.
+
+CO?APAR180N OF AN AIRPLAIWiITE ~MPRE880R AUD AN ORDINARYAIRPLANE
+W
+OF T= S.&ME
+TYPE.,,We will now coqare two airplanes
+of the same
+“type, ors fitted with au ozdi~y
+engi~ and the other having the sane
+
+.
+
+.
+
+.
+
+“l9-
+
+engi~ with the addition of a supesdhargin.g
+device briwim
+the ~~
+gi~
+to gro~
+level
+conditions ea~ dtituds of flight cons~dered.
+at
+
+The propeller of the s~ercharged enginewill be determined
+for each alt%tudeat a oonetantspeed of rotation n, eqti to tkt
+
+of the propellerof the ordinsrgeng%rn. ThS powez~of the e=i~
+on ground. evelat this speedwill be called T.
+l
+Write the generaleq.uat
+ions of the airp3ane,introduci~ a
+Ooeff
+icient u
+of decreaseof power,equal to unity in the case
+of a auger
+cti~ed eng~.
+We shallhavi:
+(44)
+
+P=
+
+@@v2;
+
+‘
+
+(45]
+
+PBV =
+
+75 @@*;
+
+(46)
+
+pT=
+
+&Bi3D5;
+
+(4?)
+
+-,
+
+Y=&””
+
+As 4
+be immediately
+verified,these equationsshow
+quantities:
+
+ARl?I TEE SAME FOR THE TWO A~U~
+ti~~ @ ~A~.
+
+WBEN THEY ARE FLYINGAT TEE SAME
+.
+
+Therefore, for the non-supercharged
+
+.
+.
+
+thaii the
+
+engim, call:
+.
+
+the coefficient decreaseof power for the d.titude
+of
+considered.
+the efficiency the propeller.
+of
+its diauwter.
+the speedof the airphne.
+~o’aai
+7., the values of # ad y .
+For the e~ine
+fitted~ h a ~pressor
+become 1,
+P-l,
+~l.
+DI t
+v~s A i ti
+
+the sauieuantities
+q
+of flight
+
+The altitwie
+
+correspondingo the eagle of attackconsidered then charactert
+is
+i~ed by the valw
+~ ~ of the relativedensityof the air. Wa
+shall therefore
+have:
+
+(*)
+
+/c!?3/ql &
+.
+
+#?3< ‘
+0
+
+7 15
+
+~s
+
+—
+
+.-.
+
+.
+
+-2’0
+
+-
+
+..-
+
+Propellers
+being alwaysdete ined for the pointsof efficiency
+_
+/#&
+of the envelopeof the curve, /j?&
+F
+73
+for all these
+are funct
+ions of efficiency fecijly ~ete~imd
+per
+pOi21b6.
+hewing
+
+the value of
+
+f13/’3
+
+in the case of the ordinaryen-
+
+75
+
+gine, equation(4A}gives tha new %alua e~table for flying at the
+same angleof atta~–and the SamS ~ed Of rotation~f the propeller
+with the supercharged engine.
+Ftom this we deduce tha efficiency
+
+PI ana
+
+P&
+--71
+
+The f0110WiZ3.g
+relations(49, ~ @
+$~) then determina
+thS alt itude of flight,t~ diameterof the prope~18r,
+and the speed of the
+airplane.
+problem is thus completely
+‘l%e
+the results given by an airplane of
+ordinary engi~.
+
+solvedby takingav a basis
+the same type fittedwith an
+
+PIUK’I!IOAL
+FORMULAS.- We have seen t~t, for all tha pointsused
+of
+curvesof tha best propractically the envelopsof the efficiency
+pellers,the efficiency~ incraases the fourthroot of ~
+as
+and the coefficient power @
+of
+remainspractically proportional
+toy.
+y~i~s
+as
+74, that is, as ~ 16
+Consequently, T5
+B
+hler the8e conditioris
+formula (4R) becomes:
+P
+
+(52)
+
+<=*33
+
+Equation (49
+(53)
+.——
+
+——
+
+——
+
+)
+
+giving the
+
+altitude
+
+~ = @~3~Q
+—
+
+of flight,then becomes:
+
+.
+
+-21-
+
+1
+
+i
+.
+.1
+
+The COef
+fidient of decreaseof power ~*
+to the relativeatmospheric
+pressure,
+‘
+
+is practic~lY eg~
+
+Taking 6 and ~ as e@al to this pfessuke,we tihd the approximatecorrespondence:
+(54)
+The currentbarometric
+law
+z =
+
+(55)
+
+18,400Log A
+P
+
+relation,
+then gives the practical
+betweenthe altitude%
+
+$1 =
+
+(=)
+
+as
+
+sufficient
+
+for
+
+a ffist XMf3i5,
+
+3.3 Z.
+
+73
+On the other hand, with the hypotheses
+made, _
+B
+72, therefors “ ~ 8.
+W,
+
+Fo~a
+becomes:
+(57)
+
+varies
+
+(50) i~cating the correspondenceetweenthe diameters,
+b
+
+P13”5
+‘1 = Do 75
+o
+
+D
+‘
+““”’.#.6~”~4
+
+Lastly,the relation(51) betweenthe speeds enablesus to write:
+(58)
+,
+
+As a conclusion see that,for the airplam fittedwith a
+we
+compressor,
+THE EFFICIENCY THE PROPEL@R, ITS DIAMETER,
+OF
+AND THERE~~ THE RATIO OF PITOE TO DIAMETER,wIfiL
+INCREM WITH TEE AILTlthe speedV. of the referenceairOF FLIGET. On the otherhand,,
+plane diminishing
+mless rapidlythan #.Lo,TEE SPEEDOF THE
+AIRPIAltli! INCREASES
+AL~
+WITH ALTITURE,
+constantat this a2titude,
+Assuningthat power cen be m~ntai~d
+we see that THE CEILINGPLNL EE ~UT 3.3 TIMES THAT OF !CBE
+AIRPLME
+I’l~D WITH AN ORDINARY
+Ewl~.
+
+..
+
+..
+
+.
+
+Moreover,if we exceedthe angle of attackcorresponding o
+t
+~
+flightat the ceiling,we Iumw that the speedV., the efficiency
+and the altitude Z. will diminish. We shouldthen obtain,for correspondi~ fMght with the compressor, speedV1, an efficiency P
+a
+1
+@
+an altitude21 which would slso gr@ually diminish.
+Uhder these conditions,
+the ~imun speedV which can~t be exceeded,wotid be obt~d
+for the angle of attac of flightat the
+&
+ceiling.
+—
+
+-22The fol~owingTablegives the resultswhich wouldbe furnished
+comparedwith thosefurnishedby an airby a perfect compressor,
+plane fittedwith an ordinaryengine.
+
+REFERENti
+AIIPLANE
+
+1,000
+1,500
+2,000
+2,5(X)
+3,00(3
+3,500
+4,000
+4,500.
+5,000
+5,500
+6,000
+6,500
+‘?,000
+
+:
+:
+:
+:
+.
+
+::
+::
+
+O*89
+0,83
+
+q
+
+&
+
+q
+
+
+&
+
+
+&
+&
+
+
+
+WIT.H
+tWPRESSOR.
+,
+
+: 3,300 :
+: 4,950 :
+: 6,600 :
+.
+: 8,250 .
+: 9,900 :
+: n,550
+: 13,2U0
+: 24,850
+: 16,500
+: 18,2.50
+: 19,
+Soo
+: 21,450
+: 23,100
+
+1.02
+1.03
+1.04
+1.05
+1.06
+1.07
+1.08
+1*Q9
+20
+l?.
+
+::
+::
+
+0.78
+0.?4
+0.69
+0.65
+0.61
+0.57
+O*53
+0.50
+0.47
+0.44
+0.43
+
+A~=
+
+::
+::
+::
+::
+::
+:;
+::
+::
+::
+::
+::
+
+1*O6
+
+1.10
+1.14
+1.18
+1.22
+1.26
+1.30
+1.35
+1.40
+1.45
+2.50
+1.56
+1.62
+
+q
+
+
+
+
+
+
+
+&
+
+1.11
+
+&
+
+1.12
+I.*13
+1.14
+
+&
+
+
+
+
+&
+
+:
+:
+:
+.
+.
+q
+
+
+&
+
+q
+&
+
+
+
+&
+
+
+
+&
+
+&
+
+1.14
+1.33
+1.33
+1.42
+1.54
+1.65
+1.77
+Z*91
+2.08
+2.23
+2,39
+2.58
+2.79
+
+As example,we take a Br~guet14 ~ fitted with a Renault300 HP
+engineturningat 1~600sevolut
+ions.
+‘l?ests
+with an ordinaryengirngave the following results,the
+oeilingbei~ at 6,000meters.
+
+:
+
+:
+:
+:
+
+.
+.
+:
+
+:
+
+meters . km/h
+
+.
+
+0:
+2,000
+
+:
+
+2,000 :
+3,000 :
+:
+
+180
+377
+
+174
+170
+
+:; meters . lm/h :
+,
+,
+.
+;:
+::
+
+4,000
+
+:
+
+5,000 :
+:: 6,000 :
+::(ceiling):
+
+..
+..
+
+.
+.
+
+163
+
+:
+
+155
+140
+
+:
+:
+:
+:
+
+By calctiat~ng just indiuated, the corresponding ltitvdss
+as
+a
+and speedsfor the same airplanefittedwith a perfectcompression
+and having the same speed of propeller,we obtainthe following
+figlms:
+
+-23-
+
+‘.
+..
+
+JLTYT’UJ2E WEED:: AI&WWDE:SPEED:: ALTIT~:
+:
+%
+
+:
+
+vi:’
+
+%
+
+:
+
+Vi::
+
+‘1
+
+m::
+:
+
+‘1::
+
+uTn~:
+‘1
+
+mm
+:
+
+o : 180 :: 6,000 : 227 :: 12,000 : 285 :: 18,000 :
+1,000 : 187 :: ?,000 : 236 :: 13,000 : 295 :: 19,000 :
+2,000 : 193 :: 8,000 : 245 :: 14,000 : 305 :: 19,800 :
+3bCno
+4,000
+5,000
+,
+1
+
+.
+
+: 200 :: 9,000
+: 210 :: 10,000
+: 2&N3:: 11,000
+
+‘1
+
+337
+ml
+334
+
+: 255 :: 15,000 : 312 ::kdling):
+.
+.
+: 265 :: 16,000 : 318 ::
+: 275 :: 17,000 : 323 ::
+q
+q
+
+The diameter Do is 2.94 zI.,and the sfficie~y
+~ 5s about 0,75
+at 20 = 3,000meters. The efficiency ~ will thsref re practically
+o
+be 1.06 X 0.75= (3.79 21 = 10,000 meters and thepropelbr should
+at
+have adismeter D1=l.22
+
+x2.94
+
+=3.58m.
+
+With a propellerof this dimension insteadof 2.94m., the engim
+when near the ground level will turn at on3y a low speed on aoooun%
+of the dreg of the propeller. The power of the engine beingproportional to its sped, the take-offE@ climbwould certainlybe difficult. On the contrary,
+above the normal~titmde of fl~ght the engine would race as alt~ttieinoreases.
+We thus see that the ntilizabi.onof propeller,
+a
+determirnd
+for
+horizonta3
+
+flight
+
+at a certatial%itvde
+
+, ma~ provoke
+
+the fallowing
+
+phenomena:
+
+a) If the altitude chomn is too high, the airplane may not be
+abZe to get off the grounds cm will do so with difficulty.
+*O
+b) If this altitude is 3owenough to enab2e the airph
+get off the ground easily, the engiza will raoe at high altitudes.
+.
+
+With a propeller
+of variable
+pitch and diame%erwe couldobtain
+a uniforms~ed–of rotationand be~t efficiency for e~ sltitudS.
+If absolutely
+necessary, might utilizea propellerof variable
+we
+pitch only,but shouldloee in efficiency. me testsmade w to
+date on suchpropelle~s
+have not been satisfactory,lthonghthe m8a
+ohanical
+realization the problemdoes not seem to be insurmountable.
+of
+
+.
+
+00N0LUSIONS. - It is only with a supercharged engine set desi~dfor
+very Mgh altitudes that the speed Vlreaohes interesting values of
+the order of 300 kilometers an hour. H, as in the case of the rateau
+turbo-oompressar tested during the -$
+the groti level pressure is
+not re-established in the carburetor above 5,000 meters, no gain Zn
+speed is realizedabove that altitude. lhe best results
+obtained
+
+up to date in the flying testsat Villacoublay
+are as fo~lows:
+.
+
+.
+
+-24-
+
+. ..-
+
+: ALTITUUE
+.
+.
+:
+:
+: Me%em
+
+:
+:
+.
+I?ITEOWI?
+:
+RITE
+: SUPERCEAEGRW ,:mR20-ooMPREssm:
+
+lm/h
+
+:
+
+3,000
+:
+:
+:’ 4na00 - :
+: S,ocn
+:
+: 6,CQ0
+:
+:7,000:,
+:
+:
+
+:
+
+MO
+w:
+
+:
+
+356.
+
+:
+:
+s
+*
+.
+
+Idk
+192
+ml
+298
+
+.
+.
+.
+:
+.
+:
+
+‘“
+
+:
+$
+:
+
+180:”
+
+160
+
+:
+.
+.
+
+We see tba% w so stiH
+f~
+from
+*
+results whioh may be given
+by a perfectlmrbo-cozqme~sor
+with tm best gdqptedpropel14~at 5,600
+meters. The mUSZIUM speed,
+Teal&se& at m altitude of 4B600 meters
+is ’295 kilometers an hour, “tiilethe gmateet @peed obtainable a%
+the a3tihxle/$& about 215 kilkwtsru a hour.
+5500 rn2t3rs,
+“
+%for8 baying this sub$eet we may ~k
+that the;~esent day
+aviatiozl
+~~ims,
+constructed dvrsng the war, present + Certatn zecurity in operation beoawe they are akzost a3w~
+~tiMze& at h#
+
+altitudes;
+this has the effectgf redwing ~
+pressurOand, coneegyently,the stresson the parts.
+at incraaMng
+If the torque
+
+pre$ent d=
+straia.
+
+oonstant/! - dtit~
+of flight,
+not be skrong enough to withstand the
+
+vmre m,int*ned
+
+engi~a ~uld
+
+THE MAXIMUM DIST~OE WHICH G&N’;BE00VEl@llBY AN A~
+WITE COMPEESSQR. - We will aeetmw that;the initial al%ilmde of flight is that
+for @i&
+the engi~ is in the!conditions of workizg oxkground level,
+and that the fl%ght ia mad6 AT CgNSZ&NT ANGLE or A!M!A~.
+“Fr& what bas been establ$sh$~ Zn the pre~ding &apter (p.845
+assuzed to be
+ef orig%naltext), ths officiem~ of the ~qllet,
+of imariable shape, is oonst~t, as weU as the coefficient of power
+H s @
+t~ Wad
+& ad~~~
+v iS proportional
+to the nunber of
+revokutions w
+
+Formula (92 o= p. 84-7(of original text) established without
+)
+~
+tit~~is
+as to ths law of variation of power, is still applicable.
+We may remark that, with respe ot to the similarordinaryairobtain an appreciable
+gain on the dist~e covered,
+phux3,we ~
+is increa$ed
+and that the
+awing to the fact that She efficiency ~
+sps@f ic COXAS-50= m m-t be smallerfor ~ engi~ operat~ ~
+der ground level couiitions
+than for o- mrk%ng at a pressureof raduced -reSSi(zl.a.
+
+—
+
+—
+
+-25-
+
+.
+,
+
+3’oran initial altitude of 3,C00 maters for an ordtnary
+
+r
+
+air-
+
+Phne, the corresponiirg altitude for the second wotid be about
+Z0,00Q inters. Asswning a gain of 6% on efficienoy q
+a reduct$on
+of 32$ in Spacificconslxnption, wa obtain a gain of 2C@ on the
+
+distaacecovered .
+T%ere are, as for th8 cn?dinsryairplazm, two methods of making
+the flig%t.
+n
+
+lst.
+If we wish to maintain the 00NSI?ANT SPEED OF ROTATION
+and, conseqpsntly, the speed M advance V, the power must, at
+
+each instant be reduced in proportion
+to the totalweight. By the
+
+equationof lift, the altitudewill be known at each instantby tha
+~roporttm%li~ of the total weight to the deusity of the air.
+,*
+
+F
+
+2nd* If we wish to maintain m~~
+AI/P-,
+the speed V
+and the nmbar of re~oktions will be reduced as the sqoare root
+of tha total weight. Ae in the first case, the eng%~ torqre must
+be reducad
+in proport ioa to the weight,uch
+will have the effect
+
+of lowsringthe power in the prop-ion
+
+of 3/2 of the we%ght.
+
+J?ormulas (116) end {MO) of the preceding chspter (pp. 855 and
+$58 of original text), relating to the dux-atioa of flight, are ap~~ied, unity being substituted
+for the coefficient decrease of power
+of
+
+atrtheinit~alaltitude.;
+Lst U%
+
+Caqpressor,
+
+portion
+
+than
+
+having
+
+co-s
+d
+
+two
+
+to the total weight,
+
+tion
+
+m
+
+and the
+
+PI-
+
+airplanea, on(gordin~y, the other
+
+wi~h
+
+the startthe sam weightof gascli= in pro-
+
+sama weight
+
+and assuming tha sane
+per horsepower 7T
+
+spec5fic
+
+cozunmp-
+
+The first air-
+
+@@ns
+
+its fMght at a certainaltitudewhe~ the coefficient
+of power is # ; the othertakas the corresponding 3e
+t~tude at the same angle 0$ attae. The dcrationof its flight is
+eg~ to that of the first airpl~ multiplied the coefficient &o.
+by
+of
+
+decrease
+
+A’l?@SPEE31C
+CONSTANTS 3ZGH ALTITUDES.
+AT
+If m wish to determinethe characteristics the atmosphere
+of
+at
+Verv high altitudes, must abandonthe law of Radau generallyadwe
+mitted for the decreaseof temperature,
+this law being insufficient
+above
+6,000or 7,000 maters.
+for altitudes
+% nmerous sovndings, fiofessor Gamba,Directorof the PaVia
+Observatory, has found that up to 11,000meters the temperature
+
+,-
+
+,*
+
+to a Mnaar law of alt~tude. At alpracti@.2y decreaaesaccordiq
+titude Z, %he absolute temperature is T; accozding to these results, whtch agree with the most recent c~se~ati~
+made in England
+and France,the THERMICGF@~NI? G = ~
+would ~ constant to
+up
+dz
+equal to 6.5° per kilometer.
+Moreove?,
+~1,000meters and practically
+this law is, within a very little, that now ac~pted
+by English
+spSciaZ5ets.
+
+.
+r
+
+26-
+
+,
+
+Above 11,000meters,the observations made lead td the assumption
+of Oormtant
+*$mp%gkt”ma that is, a zero gradient.
+,
+
+“Admitting hese laws,we find for pressuresand densities simt
+ple analytic~ forms in f~ct%on of thea.lt%tude
+which are very convenientfor oertaineomputatons.
+i
+Let dl? the differential pressure, the differential
+be
+of
+dZ
+of
+altitude, and ~ the specific
+-weight of the air.
+1%
+
+have:
+
+(59)
+
+-d?=~dz
+
+The law of Geuect
+
+gases givesus:
+~
+
+{60)
+
+az=~
+
+where R = 29.27
+
+f,or
+the air. We shallthus have:
+
+(61)
+Let To be ths absolute temperature on the ground level.
+me
+gradi*ntr: ~ beingassumedconstant, have up to 11,(MOm.:
+we
+
+(62)
+
+T = TO-GZ
+
+from which,
+
+by imadiate
+
+integration:
+
+1
+
+‘
+
+(63)
+
+P=$
+
+On the othsr
+
+.=[l-~z)~
+
+hand, the ratio of Seqsities is:
+
+.
+(64)
+
+Taking the meter and kilogrsmas units and aestniq a ground
+level temperature of 15°C.:G = 0.0066;To =288; R= 29.27; whenee:
+
+(66)
+,“
+
+,$
+
+Above 11,000 meters the t&m@rature
+is assumedto b8 uniform
+and of a valus T1. ~ pressureat 11,000beiugpl, fo~~a (6Z)
+%
+gives,by imediate intagrat on:
+.-—
+
+t
+
+-27--
+
+t
+t
+
+L>=
+
+(67)
+
+z - 11,000
+q
+passing to comnon logarithms,
+z - 11,000
+
+(68)
+
+14,600
+With a ground leveltemperature’. 15° C the law of
+of
+
+above
+
+U,000
+
+densities
+
+is:
+
+(69)
+
+with
+
+(?0)
+
+az
+
+—.T
+%
+
+P
+
+‘Aspointed out by A& $ou&saint, it is interesting ho compare
+the r~gime of ~peratmes
+in the a~osphere
+with the r~gime of the
+winds %udylng the resultsof nuneroussoundings, Ch. Maurain*
+.
+M.
+has fouud that the mean velocityof the wind in clear ~ather increases re-3y
+&
+in ~ ~~st
+line=
+fashion, fran 5 meters
+second at an altitude of 500 meters, up to 15.6 misec. at 11,~
+then decreasing
+to about 8 m/see. at 19,000 meters.
+
+per
+
+% follo~
+Table gives the at~spherie const~ts Up to 20,000
+aooording
+to the foregoing hypotheses.
+meters,tabulated
+It has
+been drawn Up by M. Toussaint and.~S ~~
+pr~posed by him for the
+St-d
+Atmosphere.
+
+.
+
+* Minutes of the Acad&niedes S@enoes, July 15th, 1929.
+
+*
+
+,&
+
+m.,
+
+-28ATMOSPREFUCCOXWANI’S Al’ HIGH ALTITUIW.
+
+ALTITUIIE TEMPERATUREF’RESS~
+:
+:
+z:
+t:H
+.
+.
+:.
+:
+:
+.
+.
+:
+meters : degreesC: mm of
+.
+~mercmy
+.
+.
+.
+.
+.
+.
+.
+:
+:
+:
+.
+.
+.
+.
+.
+.
+.
+.
+
+1,00:
+2,000
+3,000
+4,owl
+5*OC0
+6,000
+? ,000
+8 ,00C)
+
+/
+*
+1
+
+t
+
+7
+
+1::%
+U,ooo
+12,000
+33,000
+34,000
+15,000
+16,000
+17,000
+18,000
+19,000
+20,000
+
+:
+:
+:
+.
+.
+:
+.
+.
+:
+:
+:
+.
+.
+
+15
+9:
+2:
+-5:526
+-11
+-18
+-24
+-31
+-3?
+-44
+-50
+-57
+g
+n
+n
+II
+u
+w
+
+:
+
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+.
+.
+:
+.
+.
+.
+.
+
+n
+
+:
+
+n
+m
+
+:
+:
+
+7%0
+6?3
+596
+462
+405
+354
+308
+267
+230
+198
+169
+145
+123
+m5
+90
+79
+66
+56 “
+48
+41
+
+:.
+: W@$HT
+: of Iitss ‘M=@=~
+: ofa~
+:
+%:
+.
+.
+.
+:
+:
+:
+.
+.
+.
+.
+:
+z
+:
+.
+.
+.
+:
+:
+
+:
+.
+.
+.
+.
+:
+q
+
+
+
+
+&
+&
+
+grammes
+
+:
+.
+
+1,225
+1,112
+1.008
+0.907
+0.820
+0.735
+0.660
+0.588
+0.525
+0.467
+0.413
+0.364
+0.311
+0.265
+0.227
+0.193
+~.369
+O.1’Q
+0.320
+0.103
+0.088
+
+~
+:
+E
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+1
+
+0-886
+0.784
+0.692
+0.608
+0.533
+0.465
+0.405
+0.351
+0.303
+(1.603
+2
+0.223
+0.190
+0.163
+Q.139
+0.~1-
+
+9.104
+0.086
+0.074
+0.063
+o.C154
+
+:
+.
+.
+.
+.
+.
+:
+:
+
+:
+
+:
+.
+.
+:
+:
+.
+:
+.
+.
+:
+:
+:
+:
+:
+:
+.
+.
+:
+.
+.
+:
+.
+.
+:
+q
+
+a.
+
+1
+
+0.905
+0.823
+0.740
+0.665
+0.600
+0.540
+0.480
+0.429..
+0.382
+0.337
+&297
+0.254
+0.217
+0.185
+0.1580.138:~
+0.115
+0.098
+0.084
+0.072
+

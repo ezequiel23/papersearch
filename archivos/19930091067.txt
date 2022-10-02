@@ -1,0 +1,1020 @@
+REPORT No. 37
+FABRIC FASTENINGS
+By E.
+
+D. Wmm
+
+and R.
+
+T. I?mmt.
+
+The study of aeronautical fabrics has naturally M to a consideration of the bwt metihoch
+of attaching and fastening together such materials. The following group of expsrimants does
+not completely cover this subject, but it is believed that the results are of praotical value and
+that they may serve to indicate further lines of research into the stress distribution in built-up
+fabrics.
+
+—
+
+METHODS OF FASTENING WING FABRICS.
+
+The supposed failure of the fabrics on the Bristol and De Haviland plamesnecessitated an
+investigation of stresses in the fabric during flight. The rcmdt proved concbidy
+that the
+failurea were not what might properly be called fabric failures, but were caused by the Iacing
+cords pulling through the upper fabric and by the failure of the lacing cords due to chafing.
+The method of attaching the upper fabric to the wing employed at that time would appear
+to be very poor engineering. The total load on m area of fabric defined by the @stance between
+lacings and the width of a bay concentrated on a very small area of fabric defined by the bearing
+surfam of the ktcirg cord. The fabric, considering it to be supported along the rib, has a factor
+of safety of from 9 to 10. ObviousIy, the factur of safety at the king points is admmely
+low and conditions of abnornd flight might readily tear the fabric at these places of support.
+This condition was =aggerated by high vibrahy
+streses. TM specimens from the wing
+fabric of the planas that failed showed that the fabric itself had not weakened nor did it show
+any measurable indications of change in properties.
+The Bureau of Standards suggested that a corded tape be put on the surface of the fabric
+along the rib and that it be so doped that a good bond would exist between the fabric and the
+tape. The Iacingmshould then be placed over the cord tape at intervals of not more than 4
+inches. The wind friction tape shouId then be placed on. This method of reinforcing has since
+been tried out in service tests and found to eliminate the trouble.
+The structure of the reinforcing tape fumlly decided upon was:
+
+weightpa linear yard
+0.24
+...... ....... .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..omm..
+........... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Total warp endn
+........ . . . . . . . . . . . --------- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Filling
+threada
+
+24
+
+Every other Ming thread allowed ta loop about ~ inch from edge warp yarns.
+Ysrnnumber, wp. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17/3/4
+w
+Yarnnumber, ing.. ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . U?p
+W
+Tensile etrength of yarp . . . . ............ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..pomh..
+146
+It may readiIy be observed that the advantagw of this tape are:
+L It presents a suitable bearing surface for the lacing cords, preventing them from tearing
+through due to tension stressas.
+400
+
+.-
+
+401
+
+FABBKI FASTENI19G&
+
+2. It has@
+stretoh than the fabric and hence oarriss praotiosUy all of the Ioad along the
+rib direotion end transmits it to the laoings, thus preserving the factor of safety of the fabric
+The resistance to the oord pulling out when the fabric was placed on the bias and wha
+phuml on straight was detarrrdned as follows:
+The standard grade A ootton and grade A linen as used by the Signal Corps were stretched
+on frames under oorwtant tension and ooated with two coats of an approved acetate dope.
+Regulation linen Mng cords were plaoed in the fabric at an @e
+of approximatdy 46° to the
+wsrp with the two ends projecting from one side with ~ irmh on oanters of the cords. Two
+additional ooata of dope were then applied.
+The mune fabriea were prepared similarly with the ~ception that the material was reinformd by strips of the same fabrics placed on the stietohed fabrica before putting in the king
+oords.
+The speoimens were plaoed in the jaws of the testing maohine and tension neoessary to
+pull the oords through the fabrio was noted.
+-
+
+cmd~
+
+Not refn- ?3ehlfOrc@
+
+~
+
+ad
+
+~.
+
+. .
+
+sample.
+m.
+~dAmtti
+~@d
+Ahm
+
+.-
+
+w.
+921
+24.6
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ................................ ................................
+
+w&.
+
+-
+
+wm.
+
+h
+n
+
+38.66
+S&l
+
+%
+
+!zJ
+%
+
+;
+t-
+
+,.. .
+
+It will be noted that there is very little difference between the resietanoe of the ;abric to
+the pulling out of the oorda whether they are placed on the bias or not. The warp of these
+fabrim has practically twice the stretch of the Ming, and there is very little difference between
+the strength of the warp and tilling yarne. &3 a result, it iOlogicsl to expect that the warp
+yarns were carrying very Iittle of the load at the time the fig
+yarn ruptured when the curd
+is placed on the bias. Considering this, there can be no object in plaoing the present fabric
+on the bk, from the consideration of either the laoinge or the fabric between the wings.
+-CL
+
+LACING CORDS.
+
+Experiments were made to determine the strength of laoing oords and whether or not
+ootton cards could be substituted for the linen cords. Henoe, the properties of a king oord
+which are of interest are:
+L Tensile strength
+2. Resistance to abrasion.
+3. Resistance to repeated stresses.
+An examinationof the streasss causing rupture of a laoing curd under flight oonditiona
+will lead to the cmolusion that a cord fails because it is weakened by rubbing against the rib
+and beoause it is subjected to rapid vibratory stresses.
+TABLE
+
+A.
+
+‘rmane
+drmgcl.
+Unwaxed.
+
+'&%=.
+
+Wnxed.
+
+(m).
+
+~
+Unwaxmd.
+
+g ............ r!axlxz
+g: f-a
+-"-"--""--""-""------"--".-"-"--"-----"-"-."""-
+
+. . . . . . . . . . . . . . .. . . . . . . . .
+. . . . . . . . . . . .. .. . . . . . . . . .
+
+I
+
+*
+
+I
+
+Wutd.
+
+..__
+‘rmxim(fray).
+
+Unmxad.
+
+W8xed.
+
+lqaoux%
+
+n-z
+=.6
+*mw-"--""--""-"---."-"""-----"-"-"-"---"-""""---.""- 9%:: %%:
+9fmx9
+@Qxa
+. . . . . . . . . . . . . . . . . . . . . -"-"-". . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . "------"-----"-----" ~.~
+=3
+-w"""
+"."--""-"----"--""
+"""."
+1670SCbS. Dee. 807, %S8——26
+
+—
+
+IIL!!!$!!
+~lfxl
+
+2,?06
+
+-_
+
+&NN’tJALEPOBT
+R
+
+402
+
+NATIONAL
+
+ADVISORY COMMITTEE
+
+FOE AERONAUTICS.
+
+Rceulte givan in Table A were obtained from tests to determine the reIative resistance of
+the cords to stresses owurring during flight conditions.
+?’ende ~trength.-’l%e tie
+strength of the l&m and cotton lacing cords are given in
+the table. Owing to the fact that the quantity of linen cord was ~ery much limited, it was
+impossible to make as large a number of teata with each cord as was desirable.
+The teasile strength was determined by breaking a single strand.
+The effect of waxing is practically negligible so far as these tensile strength teds indicate,
+for no consistent diibrence in the strength of waxed and unwaxed cords was observable. This;
+however, is about what we wotdd expect.
+The strength of a cord impregnated with paraffi is somewhat less. Ordinary beeswax
+was used in the testi.
+Almwion (fhzy).-ll%ie fraying twt was made by allowing the cord under test to rub upon
+a spruce wood surface, the line of the thread being perpendicular to the grain of the wood.
+A spool of spruce was mounted on an axis (parallel to grain). The cord was fastened
+at one end and brought over the spool, carrying a 5-pound weight@ the other end. The spool
+oscillates through approximately 90° at 200 revolutions per minute. Tnis means that the
+string is rubbed 200 times per minute in each direction of its length or 400 rubs in all. The
+operation was continued in each case untd the cord broke. The number of rubs before breaking
+is recorded in data.
+Waxing greatly improvm resistance to abrasion in both linen and cotton cords. The
+waxing effect is greater in the linen than in the cotton cords.
+q
+
+Source
+
+of error,—
+
+Uneven wearing of the spruce surface.
+Heat produced, due to friction.
+Di&rence in twist in the linen cords.
+Z%n#ion(@y).-An
+apparatus was improvised to apply a force to the cord (longitudinally)
+at regularly repeated intervals. The force used was approximately 25 pounds and gave the
+cord a jerk 200 per minute. This causes the fibers to suddenly draw close togethar, as the load
+is applied, then to spring apart as the load is removed. The friction thus produmd results in a
+weaxing of the individual fibers until finally a break occurs.
+If this alternate separation and drawing together is prevented or dimhished, as is the case
+when the cord is waxed, the wearing due to friction is much reduced and the cord doea not break
+so soon. The data gives the total number of jerks before the break occurs.
+Hare waxing seems to add to the life of the cord, the effect being more marked with the
+linen than with the cotton cords.
+All these experiments and accompanying data serve merely as comparative tests.
+SUMMARY.
+
+From these tests it maybe concluded that1. The unwaxed cotton cords are materially better resistors of abrasion fray than the
+unwaxed linen.
+2. The waxen linen and cotton have practically the same resistance to abrasion fray.
+3. The w=ed or unwaxed cotton cords are materially better than the waxed or unwaxed
+linen as a resistor of tension fray.
+FASTENING OF TRAILING EDGE.
+
+The sewing together of the fabric at the trailing edge of a wing appeared to be a laborious
+and expensive operation, and from preliminary tests made at the factories under flight conditioIIEit appeared that lapped and pasted faatening was satisfactory. The following teeta
+were made to detarrnine the efficiency of the pasted lap and the sewed trailing edge seam.
+
+,
+
+403
+
+I?A.BBIC L?ASTENINQS.
+
+A sample of fabric doped and painted taken from trailing edge of plane was tested by
+passing the fabric around a &inch rod and clamping the two ends in the pulling clamps of the
+testing machine. The middle of the pasted joint was directly over the rod. The speed of
+tedng was 6 inches per minute. The specimens ware + inch wide.
+The tensile strength of the doped fabric was 247 pounds per 1+ inches.
+The pasted joint of the pasted seam gave way.
+Further tasta in the same manner were conducted on grade A cotton and grade A linen.
+Samples were prepared in the following manner for both grades.
+i
+1. Samples were folded back} butted against each other, and sewed with a “baseball”
+stitch of linen thread approxirnatdy 30 lea. The stitches w~e ~ inch apart. These were made
+over a false trailing edge and doped with two coats of dope. The frayed surface tape was put
+on with the third coat and later a fourth coat added. The warp of the fabric was perpendicular
+to trailing edge.
+Z. Samplw were prepared by lapping the fabric over a false trailing edge with 1 inch +
+overlap. This was pasted with the &ah chat of dope. The surface tape was put on with the
+third coat and a fourth added. The warp of the fabric was perpendicular to trailing edge.
+3. The surface tape was prepared by cutting the material 2* inches wide and raveling
+~ inch on each tide. Tape with the warp parallel to its length and with filling parallel to its
+length was prepared. The usual method with the warp parallel to its length is put on the
+trailing edge such that the Ming of the tape is parallel to the warp of the wing fabric. The
+filIing tape has the warp parahl to the warp of the wing fabric.
+——
+
+..—
+
+—
+
+.,—
+—
+-—-
+
+.—.
+
+.—
+
+—————. ... -—.-. —.-—————
+1
+
+I
+
+Sewedi
+
+I
+
+__. .-—
+P81ted.
+
+Sbwed.
+
+Prstba.
+
+-—-—
+
+—
+
+*"::::::::::::::::-:N:::::::::::::::::::::::::::::::::
+........ ............. . ............
+. =....-.+.~
+
+$OE%J%S%O
+.................................................... ...................................
+
+----
+
+COTTON.
+.... . ... .. .. . .... .. . . .... . .. . ... . .. .. .. .. . .. .. .. .. .. . . ... .. .. . .. .. ...
+Tlqm
+warppamllelto
+mm mung paralhlto % 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . .
+\
+4
+
+2J11
+w
+
+z
+
+r.
+r.
+
+E
+
+k view of the fact that the strength of the pasted joint is much lower than the strength
+of the sewed joint, it is concluded that this method of fastening is not good. This difhrence
+would probably be emphasized if the dope deteriorated. k the case of the pasted seam the
+number of tacks left in would proportionatcdy increase its resistance to approximately equal
+the strength of the sewed seam with a numbar of tacks equal to the number of stitchM.
+For training planes, which are painted with light protecting medium aud in which the
+stress= of flight are low, the pasted method would be satisfactory.
+The effect of the properties of the surface tape as i.nfhmncing the strength of the joint is
+interwting. JR the case of the ps9ted joint, a tape the warp of which is parallel to the warp of
+the wing fabric materially reduces the shearing action on the dope paste between the tape and
+the fabric and consequently increas- the strength of the joint.
+In the c=e of the sewed seam, a tape the warp of which is p=allel to the warp of the wing
+covering reduce9 the strength of the joint. This is probably due to the fact that more of the
+load is carried by the stitchings, due ta the excessive stretch of the warp of the tape at any
+load as compared to the stretch of the filling.
+
+.— . -—
+
+--—
+
+-..
+
+404
+
+ANNUAL
+
+REPORT! NATIONAL
+
+ADVISORY CO?VIMIT!CFJE
+FOR AERONAUTIC%%
+SUMMARY.
+
+For a sewed joint, at the trailing edge, of straightaway fabrics, the warp of the tapa should
+be parallel to trailing edge.
+For a pastsd joint, of similar use, the ~ng of the tape should be parallel to trailing edge
+-to obtain the best r&ndts.
+The above awum& that
+the warp of the tape has
+much more stretch thw the
+filling.
+From this it might. IJOassumed that a bias joinL should
+be covered with a bias surface
+tape,
+AIRPLANE FABRIC SEAMS.
+
+In covering the wings of
+a phme, it is necessary to sew
+several widths of the fabric
+together to obtain therequired
+width. The seams havinglcss
+stretch than the fabric will
+under certain conditions of
+strew carry the major portion of the load and consequently must be proportionately stronger.
+The three important factors to be considered in determining the strongest typo of
+seam applicable for this purpose are, first, the method of
+&erlapping the edges of the
+cloth; second, the strength of
+the sewing thread; and third,
+the number of stitches per
+inch.
+With the availab~esowing
+machines there are six ways
+in which the cloth may be cndapped, which are shown in figure 1.
+The tensile strength of the sea-mwas determined by means of an inclination balance type
+of testing machine. The seam was approximately midway between the clamps and perpendicular to the line of strws. Clamps were I inch wide and the distance between clamps was 1 inch
+The rate of sepmation of the clamps was 12 inches per minute.
+I
+
+405
+
+FABRIfJ FASTENINGS.
+
+The folIowing table shows the strength of the six types of seams in both the undoped and
+doped state.
+Tcnaileatrengfh,in pound%.
+.-
+
+UNDOPED.
+
+[seam
+Ueslgmtion.]
+.—-—.
+
+—
+
+1
+
+A.
+
+i ;--------. . . .....
+
+fafkd.
+
+S-stkcfusaned.
+f
+
+g;
+
+! 3-- . . .
+..
+L........
+.....
+....
+; L.... .
+...
+
+F- ~blC
+
+c
+
+B.
+
+79P
+%
+67F
+
+81F
+77,
+79F
+74F
+7sF
+~Fi
+
+:— :z~
+g;
+7s;
+
+-., .
+-.
+
+.-”
+
+--- .“
+
+..—
+
+‘–.-m
+
+——----
+
+—...— .=+
+.
+=.-
+
+77B
+75F
+
+r-,
+
+AS.
+
+.
+
+r
+
+.
+.
+DOPED.
+
+E=
+E
+
+*E ..... .. --. - ““
+.-
+
+Seam A was sewed with “A” wfite sW, 16,000 yards per pound and having a t+mde
+strength of 3 pounds per single strand.
+Seam B was sewed with “ B“ white sIW, 10,000 yards per pound and ha~c
+a t+maile
+strength of 5 pounds per single strand.
+Seam C was sewed with No. 30, 0. N. T. cotton having a tensde strength of 3.5 pounds.
+‘The seams -weresewed with two parallel lines of stitches M inch apart tmd with 10 stitches
+*
+per inch.
+The comparative stren@h of the seams made with different numbem of stitches per inch
+wss determined as in the prem-ous case.
+The following table shows the.stre.ngth of the seam with five different Iergtbs of stitches:
+.—
+
+--
+
+---
+
+. ..—
+
+t
+6atttchu.
+
+Fabrla.
+
+M
+10
+13
+8titches. Stm2hes.atftchm.Stftahes.
+
+--,
+~;&:::::: . .
+. ..-..----..-.
+. . ..-...-.
+..
+. .._.-.---.---.__.._.-.i
+.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+. .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+,
+—.
+
+:
+
+2
+
+75
+!27
+1
+
+1%
+
+74
+95
+
+__.<.. --:
+.--m. .- -.—
+
+—.
+
+SLWAEY.
+
+An examination of the structure of the se~ms shows that the number of threads stressed
+is independent of the method of lapping the fabric. From this and the t=t results, it ia concluded that any one of the six-seam designs ia equally strong.
+The seam No. 4 made up in the two successive steps, as shown under 7, appears to be the
+most satisfactory.
+The seam has the advantage of being easily and uniforndy made, is stro~, and presents
+an edge to be doped which vrll not curL
+Ten stitches per inch us~u the threads experimented with is the most satisfactory number.
+
+..-
+
+..-
+
+REINFORCED BALLOON CLOTH.
+
+3fany attempts have been made to strengthen and increase the terming resistance of
+baIIoon cloth by means of reinforcing. The most common method has been to introduce a
+hea-r-gwarp and tilling end about an inch apart having a much higher strength than. the surrounding yarn. A tem starting between Lherein.forcinga would supposedly tear to the nearest
+reinforcing in line of the tear and stop. This method was not satisfactory, due to t4e unewm
+surface taking up an uneven cQ@+g of rubber when the gm @ WM appfid~
+
+——
+.-—
+_
+-.4 ..
+
+.—
+
+406
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY 00MMITTEE
+
+I?OR AERONAUTICS.
+
+bother method whid has met with some success has been to sew reinforcing tape on the
+surface of the fabric pamlkd to the warp aud tilling so that squares of about 8 inches were
+formed.
+To determine the sixongest type of reinforcing tape the following tests were made:
+This method may be cofidered as an attempt-to approximate a shock tear. The cloth
+was stretched on a light, wooden, rectangular frame under enough tension to take out the
+wrinkles and was suspended from a spring baknca. A square 2 inches on a side was marked
+near the top of the frame. Threa sides of the square were cut and the piece allowed to hang
+down. A 60-pound weight was attached to the hanging strip and the fabric caused to tear
+by reason of the weight dropping. The force transmitted by the tearing fabric, as shown by
+the deflection of the spring balance, was plotted autographically against the motion of the
+fabg
+weight.
+The warp wee in the perpendicular or horizontal position, depending upon which system
+of threads was being torn. The cutmtrip was allowed to hang down on the seam side of the
+fabric and over the side of the fabric having no seam.
+The second method was a modification of the first, in that the same procedure was followed
+with the exception that the tearing was induced by placing the material between the cIamps
+of the conventional type for tensile strength testing. The lower clamp moved at the rate of 5
+inchas per minute.
+This method is believed to be more nearly indicative of the actual performanw of the
+fabric.
+The fabric was clamped in the circular container 30 centimeters in diameter with t-he
+fabric free to deflect by reason of applied air pressure.
+The material was strwsed to very nearIy its bursting pressure and a cut made at the center
+point, which started a tear. The directions and lengths of the tsars were noted.
+Kinds of reinforcing tested were:
+Sample A.+%raight seam (tape), parallel to warp and-filling.
+Sample B.—Bias tape, parallel to warp and fig.
+Sample C.--straight tape, bias to warp and i311ing.
+Sample D.—Bias tape, bias to warp and M@;
+Resultsof tewk-When
+the cut stripwas allowed to hang cwer the side of the fabrichaving
+no’ tape (seam) and the fabric term according to methods one and two, the tiect of the tape
+or seam was not noticeable.
+Tn the case of allowing the cut strip to hang down over the seam and tearing according to
+the first method, the fabric tire to the tape and then followed the stitching of the tape until
+the strip tore off.
+Sample A.—The tear started in the direction of filhg and across the warp ends, tore down
+to the reinforcing tape, broke the sthhes holding the tape and continued. The tear acr~
+the fiIling ends acted in the same manner.
+Sample B.—The tear across the warp ends tore to reinforcing tape and then followed the
+tape until the strip tore off. The tear across the HIing ends tore to the tape reinforcing, broke
+the stitches and then continued.
+Sample C.—The tear across both warp and filling ends tow tu the tape, broke the stitches
+and continued.
+Sample D.—The tear across both warp and falling ends tore to the reinforcing tape Lhcn
+followed the stitches until the strip tore off.
+The sample B..with bi~ reinforcing tape sewed parallel ta warp and filling gave the best
+resuhe se the load required to tear the strip off at the reinforcing was slightly greater than in
+any of the other methods of reirdorcing.
+The results of tearing by these methods are as follows:
+Sample A.—Tear ran through seam.
+Sample B.—Tear stopped at tape (seam).
+Sample C.—Tear ran under seam when intersection of two sean~ \vereat center of clamped
+fabric.
+
+.
+
+.
+FABRIO FASTE?iTl!TQS.
+
+407
+
+The tear
+followed the seam when the intersection of two seams was off center.
+Sample D.—Tear ran under seams.
+From the above experiment it may be assumed that the method illustrated in Sample B
+(hiss tape paraIIeI to warp and illling) is the most ticient.
+
+- .-
+
+BALLOON FABRIC SEAMS.
+
+The Bureau of Standards, in cooperation with the joint Army and Navy Aircraft Board,
+have been experimenting with varioue methods of making seams in the envelopes of balloons,
+the desired object being a seam having the necessary strength and gas tightness and having
+the minimum w~~ht. This report deals with the stren=ti of the seams.
+The sampks tested were made by the B. F. Goodrich Co., and the Goodyear Tire& Rubber
+Co., each company furnishing—
+Samples of ihished fabric without seams.
+SampIee of seams stitched and cemented, but not taped.
+Samples of seams cemented and taped but not stitched.
+Samples of seams cemented, taped, and stitched.
+The samples submitted were two-ply fabric, one ply biased at approximately 45° to the
+other.
+The fabrics were overlapped $ inch in all cases, and when sewed had two paraliel lines of
+stitches approximately ~ inch apart.
+The Goodrich seams were sewed with silk sewing thread, five stitches to the inch, on a
+hck-stitch machine. The tape used to cover one side of. the seam was straight. and 2 inches
+wide. The tape used to cover the reverse side of the seam was straight and Ii inches wide.
+The Goodyear seams were sewed ~ith cotton sewing thread, seven stitches ta the inch,
+un a chain-stitch machine. The tape used to, cover both sides of the seam were bias and 1#
+inches wide.
+%&hod of ted—
+L Samples of each fabric and the several different seams were tested and determinations
+of the bursting properties were made.
+2. Strips of the plain fabric 2 by 6 inches were cut paralIel to the warp and filling of each
+ply of cloth and the tensiIe strength determined.
+3. Strips with the seam in the center were cut 3 by 6 inches, the long side of the strip parallel
+to the seam and the tensile strength determined.
+4. Samples of the sewing thread were $ested and determination of the tensile strength
+were made.
+Bursting tek-The
+fabric wcs placed under the annular ring of the bursting apparatus
+with the center of the seam coinciding with a diameter of the ring and the fabric subjected to a
+uniforndy increasing air pressure. The deflection at the central point of the fabric m seam
+was plotted autographicaliy @nst
+the pressure necessary to produce the deflection. A rubber
+diaphram was used under the fabric to prevent leakage of air.
+TenAle strength tests.—The strips cut in methods 2 and 3 were piaced ih the clamps of a
+wnventionai inclination balance type of testing machine with 3 inches between clamps and
+the strips were caused to rupture by separat~w the clamps at a rate of 12 inches per minute.
+The sewing thread was broken on a conventional inclination bahince type of testing machine
+with 6 inches between jaws.
+resuhs of the determination of bursting tests.are shown in Table I.
+Reauh of tesk—The
+The results of the determination of tensile strength tests ORthe strips are shown in Table II.
+The reeults of the determination of tensile strength tests on the sewing thread are shown
+in Table III.
+Value of ttw%.—The burnt@ tests show the behavior of “the material when it is subjected
+to a uniformly distributed pressure and can, therefore, be taken w a laboratory method of
+determining the behavior of the fabric w seam when the material is used in m inflated spherical
+balloon.
+
+—.
+.-
+
+..-.
+
+—
+
+—.,.+___
+.-
+
+:.
+—
+
+.._-.— -.:%—
+.
+
+. . ...
+
+.._,,-
+
+,-.
+--—
+
+—.-.
+
+.-
+
+—. --- -—
+———
+
+--
+
+.
+
+408
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+The deflection at any pressure shows the degree of tautness of the fabric or seam and tho
+pressure necessary to rupture the fabric or scam may bc used as a valuable index to the factor
+of safety.
+The tcmsilestrength teets on the fabric show the strength of individual cloths which make
+up the finished fabric.
+The tensile strength teats on the seams show the amount of strwis necessary to rupturo
+the seam.
+—Table I shows tho average results of the bumting tests on tlm fabrk
+Di.acwsion of rewdt.s.
+and seams.
+The d
+size of the Goodyear plain fabric samplw precluded a satisfactory bursting test
+and the result shown is not believed to be a fair measur~ of their ability to resist pressure. Thc
+results of the bursting test would indicate that the Goodrich seam is stronger than the Goodyear.
+This may be due to the slightly higher tensile strength of the Goodrich fabric and to the wider
+tape used in covering the Goodrich, seams.
+The dMerence between the surface tension in the seams which were cemented and stitched
+and the surface tension in the plain fabric would indicate that stitching had weakened the fabric.
+The slight difference between the surface tion
+of the cemented and taped seam and tho
+cemented, taped, and stitched seam of the Goodyear fabric would indicate that the stitching
+added very little strength to the seam. A comparison of the corresponding data on the Goodrich
+seam would indioate that the stitohing added strength.
+Table II givee the average results of the determinations of the tensile strength of the plain
+fabric per inch width, the average tensile strength of the seams, the weight in ounces per square
+yard of plain fabric, and the weight in ounces per linear yard of the seams.
+A comparison of the tensile strengths of the fabri~ shows the Goodrich fabric to be sfight.ly
+stronger than the Goodyear fabric.
+In strwsing the Goodyear cemented and taped seam, also the cemented, taped, and stitched
+seam, the seams gave way at 127 pounds and 175 pounds, xwpectively, after which the fabric
+on either side of the seam carried the load. The fial rupture point is shown in Table II.
+It is not Lhought that the final rupture point should be considered in comparing tho rmulta
+of the two makw of seams, as the mam itself had ruptured previous to tlus point.
+Table III shows the comparative tmnsilestrength of tho sewing threads used in making
+the seams. The thread used by the Goodrich Co. is stronger in dl cases.
+It is not thought that the difference between the usc of tho lock stitch and the chain stitch
+infiuonccd tho resulte to any appreciable extent.
+SUMMARY.
+
+From the resultsof these tests it would appear that the stitching of the seam is not necessary.
+lt is e~d~t bat the study of sem sho~d bc ext~ded t+)include the (Jlcct of tu~ of
+load application, amd the flow of the cement.
+TABLE I.
+
+I
+
+I
+
+Owdyehr.
+
+(300drfch.
+
+.
+
+Jmca-Ilp 0! Iampie
+ST.
+
+. .. . ..—
+
+——,—.. .
+
+w.1
+
+PtikbtiO. . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . .. . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . .
+Smwntind~titW
+.. . . . . . . . . . . . . . . . . . . . . . . . . . .
+.. . . . . . . . . . . . . . . . . . . . . . . . . .
+SmmmnMmd
+
+ti@
+
+.... .. ... ..
+
+..... .....
+
+81,0
+O&6
+
+. ..... ... ................ ......
+
+Sm~M.
+ta@. mdtitti
+............ .................................. .
+9.73
+.
+‘“’““”..””
+7 !
+. . .. .
+r. Pra9alm in p+mndsp-areqmafnoh.
+11-Dadaotfoo In inohed of the oanta point of fabric.
+8T-S@wa tanalon in pomdn w iuti Mmmb tie mm af ~0 ~bflo at ~IUQof ~PfAUXI.
+
+74.5
+.;!.%
+
+-- ..-
+
+..-
+
+.-s,m.—
+
+FABRIC
+
+TABLE
+—.
+
+.
+
+409
+
+FASTENINGS.
+II.
+
+.
+Goodp3r.
+
+GoadrML
+
+--,
+
+.—
+
+.-
+
+Weight
+
+Msks-up of ssmpIs,
+
+(Oume$
+
+Kim%&
+yard).
+Pm ML
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . .
+Parsnelcloth Ofplsln fsrmfc.. . . . . . . . . . . . ..____..__J
+ma ----a%
+
+T
+ILa
+
+.........
+
+.......... .........,
+
+68
+.........
+::::::::
+... ----6L8
+B@dotidPtih&
+....................................
+6ZI
+60. ......... .. . . . . . . . .
+S
+~mmtimdsm~d.............................. -------------.49 .........
+!
+m. 8
+Lu .........
+Smm ccunsnti
+mdti~ .........-...—--------------------- 2&!t4
+18L6
+L45 ......... .........
+Se8mcam8n@d. ta@, andstMmi ..
+.
+.
+..................... ....................
+MO
+;4
+1
+I
+{
+i
+
+!s:
+......... ....--{
+.........
+
+..
+.........
+.........
+
+1%
+L@
+
+> -
+
+-—
+---
+
+TABLE 111.
+&3.OIPhSPOOlof thread ~...
+
+Awsgctbrs
+sk@stren,gth,pou
+——
+
+_. . .._. -.-..
+ods....
+
+.--
+
+. . . . . ..-.-..
+
+. . . . . . . . . . . . . . .._. __
+
+I -=N*~J”m~~J
+. .s
+Nmn&! 3!).
+
+‘8147”
+

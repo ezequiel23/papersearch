@@ -1,0 +1,1420 @@
+)
+
+REPORT No. 105
+
+ANGLES OF ATTACK AND AIR SPEEDS
+DURING MANEUVERS
+
+NATIONAL ADVISORY COMMI'ITEE
+FOR AERONAUTICS
+
+.
+
+THIS
+
+THE fiLES Of
+
+MEHT
+
+RmJ " TO TH':'~
+
+QUESTS fUN..u
+~ou.o
+
+CATlONS S!
+
+LD BE ADD ESSm
+
+.
+
+.
+
+AT11 SOR'I CO.
+
+mtt
+
+FOfl
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1921
+
+-
+
+./
+
+----==----==-~~~--~==~--~-----
+
+---
+
+---
+
+REPORT No. 105
+ANGLES OF ATTACK AND AIR SPEEDS DURING
+MANEUVERS
+By E. P. WARNER and F. H. NORTON
+Langley Memorial Aeronautical Laboratory
+National Advisory Committee for Aeronautics
+Langley Field, Va.
+
+-
+
+-
+
+-
+
+---1
+
+REPORT No. 105.
+ANGLES OF ATTACK AND AIR SPEEDS DURING MANEUVERS.
+By
+
+EDWARD
+
+P.
+
+WAHNEH
+
+and F. II.
+
+NORTON,
+
+Langley Memorial Aeronautical Laboratory.
+
+INTRODUCTION.
+
+The following r eport was prepared at the Lang10y Memorial Aeronautical Laboratory of
+the Nation al Advi ory Committee for Aeronauti cs, as it e('med desirable that U1<'r(' should b('
+orne stud y of the attitude a umed by an airplane, and more particularly of its mo~i(\n \, ith
+r espect to urrounding air when maneuvering, either in ordinary turns, spiral, (·limb. , and cli'n's,
+or in those morc spectacular feat commonly known a stunts . It is important to secure this
+information, among other r easons, in ord(')" to ha"\(' cldjnit(' lmow]('dg(' as to th(' cli. trihution of
+load on thr \Vinas, and 0 to furnish the oa i for impro"\ed aecuracy in stref' analy i. An
+accelerom eter ean be eounted on to give the total load on the wing. with gr('a t accuracy, but it
+tell nothing abou t the di tribution of that load along th(' ('hord or bctw('(n the upp('r and ]ow(,l'
+wing or about it partition betwe('n the front and rear trusse.. Knowledg(' a~ to tI'e. (' h( tors
+can only be gain('J from mea Ul"('ments of the angle' of attack.
+The second reason for wi hing data on h('ha"\io1' in mancuv('rs is a0rod} namic. If airplm1('s
+arc to be desianed intelliaently it is e ,('ntial that tll(' de. ignN know what they \\'ill haw to do.
+H a machine i required to loop easily and rapidly, or to r('si t falling into 'pins, or Lo show any
+other particular maneuverability characteri tic, a n ('er sary pre'liminary i the se'curing of
+information as to the'reaction of the ail' on the machin(' and th(' mann0r in which th('y should
+be modified to gain the desired ('nd.
+Experiment in thi direction ha beCll exceedingly par e compared with that in oth('r line •.
+Some work has been done at the Royal Aircraft E tahlishment ,,-ith a r0cording air-specd mct('l',
+u::! well a. by observing with a camera ob cura and hy taking moying pictul'( s from anotl t(,J
+airplane, the s0conci method b eing u cd partie-ularly fOJ" :,pin anel. pirals, tIle tl ,i)"(l for l'olls.
+All of thes(' expcrim('nts, with tll(' ('xc('piibn of tho:,;(' on air s])('('ds which \\ (']"(' p('rfo1"Jlwd in
+conjunction with some a('('cleromct('r t(' ts, \\'('I"e dir('clcd primarily to\\'ard tl e' de tC'rmillalion
+01 attitud (' and motions in space l'ath('l' than with ],e'lation to lbe' surrounding air, nnd tl i."
+while interestin a , i of li ttl(' imm('diate applicH tion if tak! 11 alon('. To mak(' a (omplPit' dynamic
+analysis it is of cour e ncee sary that h oth the' anale's of attack and the angI('s of inclination bl
+known; but the angles of attack and accel(,J'ations arc more important to th(' d('sign('r tLan
+are the po ~i ti ons in spacc. The angles of attack and sid0 slip ('ou~d obyiou Jy b0 com1 Utl d iJ
+the attitude and component 'elocitie ,,'er(' completC'ly kno\\ n and if tLe air w('re till, but the
+m('a urement would have to be made with grratcr rdin('mC'nt, to gi 'C' a ati fae tory c1cgl'l (' of
+r lative accuracy in the det('rminations of the anglcs to t11(' rrlatil-(' wind, tLan is rC'adily attainable by th(' method hitherto used.
+Some experiments on the direct mmml'emcnt of angle, of attack during mancuwrs L.a"\e
+accord ingly been carried ou t at Lanaley Field .
+METHODS OF TESTING.
+
+The angle' of a,ttack wa measul'f'C1 with a imple van(', ('ountel'\,eight('d by a rod proj(cting
+forward from the pivot. Th(' vane was ex('cNlingly st('atiy, and th(' angl(' could ('a.'ily be rt'ad
+to within a d('gre(' un leI' allY normal ('onditions when th(' yanc were wp1l awa} from the crnter
+J
+
+16081-20
+
+.\pplied Aerodynamics, by Leonard Bairsto\l', New York, 1920. Ch. V.
+
+3
+
+4
+
+HKPORT XATlONAL ADYISOHY CO;\IMTTTEE Fon XgnOXArT[( 'S.
+
+of thr machine. An attempt to m ea u1'e th(' direction of flow in the sl ip b'eam, howeler, was
+less successful , the vane fluttering badly because of the mor(' t1ll'bul nt nature of th(' ]'('lativ('
+flow.
+The clired measurement of angle of attack during maneuvers is suhj ect to two enol'S,
+and the mean wl' ich reduce one error unfortunately aggravate the othel'. The mo t obviou
+of these tw'o OU1'CC, of difficulty i Lhe intcrferencc of the wing and Lhe distmhance of thE' ail'
+to considerable distance in front of the machine. If th('re were no compli cating factors this
+interference could be reciuced to a point where it would become negligible h~- carrying the vane
+on a long pol(' projecting one and a half 01' two ehord lengtl: forward of thc leading cdge, as
+i the practice when the angle of attack i to h(' mea ured during steady traighL flight. This
+i impracticable ",h('ll the flight path i , cu)'yilillt' aJ', hecau c thc rotation au c differrnt part
+of the airplanc to move in different eliJ'('clion at the sam(' illstnnt, nnel a vane carried wrll
+forward of the winer would not trawl through the nil' in tll<' samc C/i]'('cLion as do thc wings
+thems('l-v('s . In a tight loop the rotation is rapid cnough . 0 thnt Jl'loying the vane forward
+~ feet would cau p an elTor of appro)(imntrly 1..)0 in Lll<' Yanc' reading, entirely aside from any
+int€'l'f('r(,llce e[fect. Becnuse of the e inevi tahlp (,lTor~, the mra. Ul'(,In('nts ran not bc )'eli('C/
+on foJ' great aCC'Ul'aey: hut thc two sources of trouhle fortunate.]:y trnd to cancd ('aeh other in
+most in tanees, the int('rfcrcnce making Li te' ),e'nding too] igh, wI ih' Uw r otation in th(' ('11S('
+u, ual in maneuY('l' (:talling ) mak it too low, and thc t otal rcsultanl errol' prohahly dOCR not
+('xceed 2° in an.v in tance ('xccpt at \'er. ' large' unerles of aLiack.
+Th e nil' ' peed wa;,; mea ured wi th a meter of the pre surc-plat(' type in order to bring the
+dial close to the vane :mel to facilitu,to the phot.ographic r ecord ing of angle of attack and air
+sreed on a single film. The yane and air-sper(i meter arc sh own tog('thel' in figurr ]. The
+whole in trument i pivoted and 11a a c UllLcl'wt'ighted vane behind thc pi,ot to keep the m('tel'
+nlw ttys in th same position with re peel, to th(' relative wiud. The meteri pivoted in the
+yertical plane on ly, no attempt having b('en mad€' to allow s""iYeling about a vertical axis when
+side slipping. The member on which th e air pres me acts is nil elluminum elisk :2 inches in
+diameter ( een edge-on in the lower rigl1t-hand corner of the cut). This eli k is rigidly attaclwd
+to one member of a jointed parallelogram linkaere. The sid(' oppositc to that which brar the
+eli k i pi,otally fixed to the airplane, an J nn cxtension of ol1e of the other ide carrie a pointer
+mo,-ing o \' er a, calc. The rearward motion of the disk is oppo ed by the pull of a rubhcr band
+which conne ts extensions of two adjacent iel e of the parallelogram. The air-specc\ metc]',
+werc enlibl'atedin flight by flyin g the airpIilne stcadily at \· ariou sperd and ob erving t.hc
+po ition of the pointer. At peeds helow the mini¥lum [or steady flight the mcters were ca libratcd in a wind tunnel.
+Meuteuv('l' may be divided into four cla s- steaely ymmetrical, steady asymmetricaJ,
+un 'teady symmetrical, and un teady fl ymm('tricaJ. The first clas include only rectilinear
+flight , both horizontal nnd inclined. '1'11(> ' ('conci group includes turns on the levels, piral , and
+ome pill. Thc cxt<'Ilt to \\'hich pinnilw i fl tend)' motion i a maLLer till oren for flrgument,
+but it i c('l'iclin thelt the1'e arc Rome nirplnnc ill which it i <l pcriGdic motion of sub talltially
+unnl1'ying amplitude. The clnss of symmt'trical UJ1stc:Hiy motion is a YC'J'."- large Olle, taking
+in loop ', zoom ', ord in H longitudinal osc-illations, and pulling out of diye. . Finnlly, thc fourth
+ry
+classificatioll includes rolL <Lnel reyersr, or 111lmelmHn , turn ' .
+These ['our cla. se, arc urranged approximaLdy in order of the difficulty which they pre ent
+to tho expcrimcnter. The stea dy motion s Hrc t'asy to stud.'-, hecau e no recording in truments
+aTe ncccssHl',Y, the reading ' being tclke n Hntlrccord db." the ob ('I'YC1'. This mrthod wa used
+in the first work done 011 free-night te ting by Lhe ~ ' fl tionu l Acl\-isory Committ('c for ~leronautic
+at Lallgley Ficld. 2 The symmetrical mo t iolls nrc Cetsie!' than the unsymmetrical to d(,111 with,
+because in a '.vmmetrical motion nIl points el10nO' a line perpendicular (0 the I lan e of ymmetry
+haye the SH111e ' peed and directio n of motion, anci it i therefore oilly Ilecessar.\", in general, to
+take readings at one point, ",11('l'c<1s in Ull , .YJllmt'll'ical maneU\'('l'S at least two points and SOnl(,t imes more mllst bc used.
+, Preliminary Report on Fr e·FlighVl'esting, hy Edward P. \\'amerand F . H. Norton; N. A. . A. Report No .•0, W ashin~ton, l Q20.
+
+o
+
+I
+I
+
+~
+
+~
+
+I
+I
+
+I
+
+Fig. 1.-The Vane and A ir Speed Meter
+
+Fig. 2.-Photographs of Vane and Air Speed Meter taken with
+Gem Camera
+
+Fig. 3.
+
+The J N 4H Test Airplane
+
+5
+Th o melhod usrd in lhe pro ont serio of te t was to tako mm-ing picturc ' of the vane and
+air-s peed metor , whi ch were fastened about 1, inche apart, with a gun camera. A few
+exposure from one of the record are hown in figure 2. Only one wing tip at a time could
+bo workod on in thi way, a nd unsymmetrical maneuver had Lo be repeatcd in order to secure
+complete record . The gun camera j Ycry un atisfactory for thi work, a it docs not run a
+long on a ingle winding as would be desirable, and a it speed i not sufficiently con tant to
+furnish a good time scale. The governor i of rather crude con truction, alLhough amply good
+enough for gunnery practice, and the rate of taking pictures icon iderably afl'ected by accelerations of the air plane. Furthermore, many record were poiled by jamming of the mechani8m .
+RE ULTS OF TEST
+
+The fir t experiment were mad e in teady traight flight and with au·ect r ead ing in order to
+see how serious was the error due to interference between the wing8 and the Yane. A .J~4II
+airplane was u cd in these and in all ubseq ucn t tc t ', and is shown, as fitted up fo1' the te t ,
+in figure 3. The vane readings were compared with the valu es of the angle of attack determined
+for the same airplane in R epor t ~ o. 70 by the u e of ft liq uid inclinometer when flying level, and
+it was found that inLerfer ence in cr eased tbe \'ane r eading by from 1° Lo 1~ ° at all air peed.
+from 70 mih,s per hour Lo 90 mill,s per hour. At . peed . lower Lhan these the interfer('nee is
+mor e mark ed, iller ea ing to 4° at :30 miles per hom. I t i not probahle that the error due to
+interference goes on increasing rapidly a the angle of attack iIlCI"l'IISe, heyon I lh(' burble point,
+since the degree of upw ard cii,-('r ion of lh(' air forw;tnl of the' wing:-; is d('pen<iC'nt on lhe lift
+coeffi cien t .
+'rhe n nxL Lypn of eyol ution tnstr.d \\'I1S an ordinary spiral. During ,) tighL l'.p inl I at , 0
+mil e. per hour tho angle of atLack rose to 7°, a.lthough the angle for e([ui librium in . traight
+flight a.t this sp('ed is only O.R o. Allowing for ftn interference enol' of 1.:3° in t1w nngl . when
+spiraling, and taking lifL cocffi cien ts determined in free-fligh t te 'is of the IN 4Il , it a.ppear;;;
+that the lift coe ffi cient ftC .5 . .5 0 is J . 4 Limes as large as LhaL at O. 0. ~eglecting the efrecL of
+descent in spixaling, the theoreticGll angle of bank COITe poncling to thi load factor would be
+57°. No apparatus for making accurate measurements of banking angle was available, but
+it was evident from direct inspection that the angle of bank \ns approximately 60 ° (within
+10° plu or minus). The experimental determination of the angle of attack, ther efore, checks
+well wiLh the computed value in this simple ca e.
+The firs t real stunt to be consider d wa. Lhe spin. It can easily be 8hown that the ang le
+of aLLack at the wing tip during any un ymmetrical maneuver arc:
+
+for Lhe right wing, and
+8
+
+- w-- ·7i
+
+tan
+
+2
+
+ll'L= - - - -
+
+8
+
+- u+ 2 ·r
+for the lefL. where u and war e the components of yeloeity parallel to the X and Z axe·, r e pectively, and p and l ' arc the angular velocitie a.bout those axes. as i, customar y in tahility
+work, and ~ is the eli tance from the plane of ymmetry, the X axi ' being taken parallel
+160 1- 21-
+
+2
+
+6
+
+REPORT
+
+to the wing chord.
+metry are:
+
+'ATIONAL ADVISORY COMMTTTBE :FOR AERONAUTIUS.
+
+of velocity parallel to the plane of sym-
+
+Similarly, the component
+
+and
+VL
+
+= (U-~'1')2 + (w+~ .
+.J
+
+p)2
+
+if v, the velocity of side slip, be neglected.
+The determination of aR, aL, VR, and VL , therefore, makes pos ible the calculation of
+w, p, and 1'. The solutions for these four velocities are:
+U=- (
+
+w=
+
+_ (
+
+p=
+
+}J. ,
+
+Vn cos aR + VL cos aL)
+
+2
+
+VR sin alt ~ V L sin aL)
+
+V R sin aR- VL sin
+
+aI.
+
+S
+
+Direct observation of the angle of attack after the attainment of steady conditions howed
+a great difference among spins. The angle of attack at the inner wing varied from 35° in the
+slowest true spins to 75 ° in the most rapid maneuver . The angle on the outer wing varies
+much less, ranging only from 7° to 10° in the te ts made.
+80'
+
+J
+
+!/AHIATON Or ANGLe AND SPE'E'O
+IN A SPIN, INNEIi' WING
+
+I
+A
+
+/
+
+60·
+
+1/
+
+o
+
+---
+
+/
+
+V
+
+\
+\
+
+I
+I
+
+1
+/
+
+\
+
+I
+
+'\
+
+/
+
+I.-..
+
+20·
+
+I \
+./
+
+\
+
+\.
+\
+
+V
+
+80
+./
+
+A//
+
+70
+
+5~
+
+\
+
+60
+
+X
+k:-- V
+
+/
+
+\V
+
+. 2
+
+4
+
+'tJ
+
+50 ~
+
+'\
+
+5
+
+6
+
+7
+
+8
+
+~
+.~
+
+~
+
+'-I-I
+
+~
+
+Q.
+
+,I'
+
+10
+
+40
+
+II
+
+TIme in Seconds .
+FIG. 4.
+
+In using the gun camera the r ecords were started early enough to catch the beginning of
+the maneuver from the instant when the pilot pulled his stick back to stall the machine. The
+variation of angle of attack on the inner wing tip during a spin and of speed during the recoveries are plotted in figure 4. Complete speed records could not be plotted becau e the speed
+during the spin was below the lower end of the scale (4 miles per hour). Both of the e pins
+were executed with the stick clear back and with the controls crossed (left rudder, right aileron ).
+It will be noted that the spin starts with a large oscillation as the rudder i put overl and that
+
+A rULES OF ATTACK AND Am SPEED
+
+DL R r ~G MANEUVE R.
+
+7
+
+this oscillation is very quickly damped out, di appearing after a ingle swing. A the control
+are centralized the angle increase for an in tant and then faU off rapidly. Accelerometer
+records on thi same airplane how a continuou 0 cillation of small amplitude thmughout
+the duration of the spin, but this oscill ation could not be observed on the vanes. In spins
+of long duration (too long to be followed throughout with the gun camera) the vanes reached
+a perfectly steady reading, varying less than one degree therefrom.
+I
+
+I
+
+I
+
+I
+
+I
+
+W4Rt4TION Or ANGLE IN A S PIN, OUTER WING
+
+!--
+
+o
+
+.--
+
+.L
+
+\
+S t eady Spinnin9
+
+"
+
+I
+
+3
+
+- --
+
+J
+4
+
+5
+
+V-
+
+6
+
+..- ,.....,
+
+I
+
+/
+
+\
+
+\
+
+\....I
+7
+
+8
+
+~
+
+9
+
+/0
+
+Tim e ;n Sec o nds.
+FIG. 5.
+
+The variation of angle on the out ide wing is plotted in figure 5. Here, too, there is an
+oscillation, the angle of attack increasing as the machine tarts to fall into the spin and then
+falling off as the rate of rotation approaches its steady value. The speed during steady spinning was about 60 miloA pOl' hour, the descent during the e spins being very slow while the
+rotation was rapid.
+A very approximate solution for tho velocities, taking Vn as 88 feet per second, VL as
+66, an as ° and aL as 61 °, du.e allowance having been made for interference, gives:
+
+u
+w
+]I
+l'
+
+-59 .6
+-35.0
+= -1.56
+= - 1.90
+=
+=
+
+feet per econd.
+feet pel' second.
+radians per second.
+radians per second.
+
+The angle of attack at the plane of symmetry i 30.4°, whieh is of the same order of
+magnitude a the angles of attack found during 'pins by British experimenters 3 u ing an entirely
+different method.
+It, is evident that, if spinning is a steady motion, there must be no unbalanced force'
+or moment ', the air reactions on the air plane being completely expre ed by a ingle vector
+passing through the center of gravity. The re ultant of all the components of force parallel
+to any given line must then pas through the C. G. Tho particular linc which is of most
+intel'est in this connection i the Z axis of the airplane, which ha been taken as perpendicular
+to the plane of the wings. The coefficient of force normal to the chord of an aerofoil reaches
+a maximum at the burble point, eh'ops off slightly thereafter to a minimum at about 25°, and
+then increase ' again unti l an angle of attack of 90° is reached. The C
+Ul've in figure 6 repre cnts the variation of normal force with angle of attack for the wing used on the JN4H,
+although a par t of the curve was lifted from a wind tunnel tesp of a slightly different aerofoil,
+the tests of tho J J wing itself having extended only to 20°. It is probable, however, that
+all thin aerofoil ections of the same general form have closely 'imilar characteri tics at angles
+beyond that of maximum lift.
+To find the condition necessary in order that the re ultant of the normal components
+may lie in the plane of symmetry it may be a umed that each aerofoil element form ed by
+two planes parallel to the plane of symmetry acts independ ently of every other such element,
+and that the forces and moments acting on the wing may be found by summing the elementary
+forces and moment arising on each element. Thi method has been found to give good results
+3 A Mathematical Study of ~pinning, by Lindemann, Glauert, and H arris:
+
+R. and M. No. 411, British Advisory Committee for Aeronautics.
+
+8
+
+llJ ';PO It T XATIO?'AL J\lJn SO.HY ('Ol\l llllTTGE FOll ,\ ERONAL:T IC· .
+
+in propeller de ign , an I its applicntion to wings ha s been ju. t ified in numerous experimen ts
+on the auLo-r otation of aerofo ils in the ,,~ind tumwl and on warped ael'ofoils, carri ed out at
+the Nat ion nl PhY 'ical Laborntory. It furni he ' a very powerful mean of analyzing the
+un ymmetrical moL ion ' of airplan es .
+.7
+
+V-
+
+.6
+
+/
+
+./
+
+/'
+
+l---
+
+V
+
+.,-
+
+-
+
+I--
+
+/
+/
+
+,5
+
+,4
+
+.3
+
+'\
+
+~
+-
+
+~
+
+/
+
+/
+/
+
+,2
+
+.I
+
+o
+
+cO·
+
+I
+
+30 ·
+
+40 ·
+
+50·
+
+60 ·
+
+10·
+
+An-;,/e OT Allock.
+Fi g . G.
+
+The condition of equilibrium , if the ael'ofoil element theory be u ed, i. that
+
+mu t be equal to lIero , where 8 i, the Lotal span , c the chord , ,I; Lhe di tance of an elemenL from
+the plnne of ymmeLry, and Zc the coerTi .ien t of normal forc aL the angle
+a= t an
+
+-J
+
+-w+ px
+- U -
+
+l',C
+
+Zc over the inner wing, where the angle of attack varies roughly from 35 ° to 65 °, is nearly
+con tant, while the coefficient on the outer wing increases from the plane of symmetry, reaching a maximum about halfway out, t he wing there meeting the air at the angle of maximum
+liit, and then falls oil' again as the tip is approached, If the angle of attack at the outer stru t
+on a IN ar e ° and 61 ° the angle of attack at the extreme tip of the upper wings, which
+overhang the outer trut point by abo ut 7 feet, arc 0.7° and 75°. There, ther fore, is no change
+in the direction of the load at the outer t ip, a the angle of attack does not pass the angle
+of lIero lift. It i very probable, however , that it would do so in some in. tances, as the spins
+from which these data have bee n taken were not extreme ones. In some spins the vane
+on the inner wing continuou I)' recorded an angle of from 77 ° to 79 °, corresponding to an
+angle of approximately 90° at the wing tip.
+In figure 7 there are plotted curves of r , a, Zc, and ZcV!, ot' mean loading pel' square foot ,
+again t x, the va lues taken fo r u , 1.V, p, and r being those already given a computed from
+the ob ervat ions . The total momen t about the lin e corresponding to the plane of ymmetry
+ex = 0 ) of the area under the third of th e e CUl'\T should be zero if the experimental r esults
+e.
+and the as umptions mad e in the computation were correct, 1'he agreement proves to be
+
+A ~"(:Ll'~ S
+
+OF I).TTAC'K AND AIR . PEEDS
+
+DURl~G
+
+9
+
+MA~Rl:YER S .
+
+l'HtlH'l' poor, the ccnLer of nct ion of the normal forct' , n' found from t Il<' CUTH of loading in
+nO'ure 7, lying on the outer wing and 1.~5 fect from the plane of ~ymmetr.\", hut it is good cnough
+to make ure that the load curve in figure 7 represen t wit h reasonable accuracy Lhe form of
+the curve of load distribution along the pftn during a , pin. The maximum loacling occurs
+neal' the middle of Lhe ouier bay, and i. :3, pet' cent leu'ger than the mean loading. The load
+far Lor given hy the Curve is 1.2.'5, which i .omewhat smaller than the load factor found with
+an acceleromete r in similar spins. 11, is prohable that the principal cause of the eli. cl'epancil's
+lies in the facL thaL the ailer n ' ,ll'e noL ccn~crcd, and that the actual coefficient of norm<11
+forc(' on the outer port ion of the ou tel' wing is Lherefol'e less th,m it \\TH a.'Rumpel to )(' in making
+the comp ut<'l tions.
+1
+
+70 0
+
+I
+
+I
+
+1
+
+80 0
+
+I
+
+I
+I
+
+-.......
+~ ,
+I ~,--~
+
+IVARIATION OF LOAO CHARACTERISTICS I
+ALONG SPAN IN A SPIN
+1
+
+:
+
+~< I I ~.- -....
+.~
+
+I
+
+~r :~t
+'Ii
+r-
+
+9..
+
+~~~
+
+1',
+
+~ ~
+
+I"
+<\"
+
+/J
+
+1'"
+
+~
+
+N
+
+I
+
+.9
+
+I"
+
+i"
+
+I
+
+I
+
+O·
+
+~22-20
+
+I
+
+-16
+
+/ .
+
+- -....
+......
+
+I
+
+I
+
+£
+'l
+
+-/2
+
+~
+
+/'
+
+./
+
+I
+
+0
+
+-4
+
++4
+
+'
+
+Oisfance Trom Plane oT Symmefry In
+Fig.
+
+.
+
+~
+""1
+
+l\
+
+\~fp~;:,-' .
+~ , 1\[\
+~I
+
+~I
+
+-..J'
+
+...~\
+
+~N
+
+~
+
+.
+
+\
+
+1t~
+
+F/2
+reef.
+
+-
+
+O l-I- ~
+
+\;)
+
+1',
+
+90
+
+:g'
+
+'"
+
+~I_~:- ~ .~
+
+"'-
+
+F8
+
+.6
+
+~
+
+9,. '
+
+Cl
+
+o
+
+.
+
+~
+
+_2
+
+70
+
+I
+I
+
+I
+
+I f-..~
+-8
+
+~
+
+(,oj
+
+/
+
+/
+
+II
+
+7
+
+.~
+
+I
+
+'\
+
+I
+.1 •
+
+/1
+
+\
+/(7 ~
+
+" .x: If
+
+~' ~
+?~
+,l.-
+
+I.J.
+
+~r
+
+//
+"I'-
+
+'oJ
+
+It-.
+
+V
+
+"
+
+'--14,0 -'I:)
+-l
+
+~
+I
+
+/ ' I--
+
+.......... ......
+
+100
+
+V
+
+I
+
+"-
+
+, I
+~I 1-.,:
+
+:§=
+
+1
+'-,,:::
+
+: '"
+
+-
+
+~
+I
+
+I
+
+1
+
+,
+
+;
+
+I
+
+I
+
++/6
+
+n
+I'
+
+~
+
+I
+
+o
+
++20 +2..2
+
+60
+
+"j.
+
+It wil l 1 noted in figure 7 thnt the re8ult,lnt Rpeed doeR noL hy any nlC'an..:; v;lry uniformly
+)('
+nlonO' tll(' wing, hut falls off to ,) minimum just he)"ond the innN ,.;Lrut on the inner wing ,wei
+Lh<.'n increa ('s <lgain tow<lrd the tips.
+From thr Rtru etuml standpoint the spin pre en!.s no '"cry special t(-l'rors, and need not
+b(' taken into account at all as a ontrolling facior in an airplanr built for general stunting.
+Ii is, ho\\~ever. of spcc-inl interest becaU8t' it is ,1 maneuyt'l' which almost nn~~ airplan<.' i liahle
+to have to execute on some occnsion. Xo pilot loops or does vertical banks without intending
+to, buL then' i' always a possibility of fnlling in to a spin wht'n Lurning too flatly or ,1ttempting
+to fly <It a 'T
+ery large angle of attack, so lal'g(' that the aileron..:; bcc'ome incffective'.
+The most striking [eatmes of thr spin, structurally ' peaking, are the une,\, n tli ,tributi(JIl
+of load a long the span of the outer winO' <ll1d the distribution behw'<.'ll the upprl' and lo,\~er wing
+of a hiplant' ('omh ination. TIl(' fifst of these fratures haR alrrad~T heen eo.rnm nted on. 'rhe
+,e('onel applies particularly to the inner wing. Xem' the tip of thaI. \\-ing, where the angle of
+attack is from GOo Lo 75°, the ('ent('1' of prpssurc lie ,lhout 45 prJ' ('ent of the wa.y hack on th('
+('!lord, and it is probable , although no direet experiments are availahle at Buch angles, that tL<.'
+lowN wing caniC's ahout 70 pt'l' ('eni or the load_ Tnis concentration of load on the 100,er \\-ing
+is, of cour. e, m ost markrd when the upper ancl lower wing. are of equal. pan.
+The load on the drag tl'U. s when spinning is negligible. The drag is wry large, hut is
+cal'l'ied through the intcrplane bracing, the resultant reaction on all elements of the ",inO's except
+tho. e near the outer wing tip heing v-irtually perpendicular to the chord.
+
+10
+
+REPORT XATIONAL ADV1SORY COMMfTTEE FOR AEHONADTl(, . .
+
+AccdC'romctcr tr t have hown a load factor which cloe not excC'ed 2.2 during the 'worst
+pins, and i matC'l'ially lC' than that in mo t in tance. MakinO' all due allowance for the
+unusual distribution of load, it appear certain that an airplane designed to su tain a load
+factor of :3 ..'5 with the C. P. forward and a factor of 4 in Lhe 10wN r<'ar spar with the C. P. at
+45 pE'I' cent of tlt<' ('hord from th<' leading rdge will br trong rnough to stand any kind of a
+pm.
+~Ul along the inn('l' wing thC' rC'sultant rorer on the wing i yirtually pC'rpcndicular to thC'
+wing chord, and thc' 'arne ('onclition preyail oYer a part of the out l' wing. As the angle of
+attack falls helow 2()O, ho\\' eye1', the yedor in('lines fOl'\\-ard of the perpendicular to the chord
+and remains 0 in(' lin d until tIl<' angle 1'<,ache about 4°. Ai angle. malleI' than that the
+perpendicular is inejin r d to th<' r('ar. This forward inclination of the yector ovC'1' a part of the
+outer wing furni 'he8 the force which keep up the yawing wlocity in pite of the damping
+due to the laLcr al motion of the Yrl'tical tai l urfaccs. Tn O1'd('r to check the pin it i necrs ' ru'y
+eithrl' to centralize the rudder, tIm inereGvillg Lll(' damping efrecL of tho vertical surfaces over
+that giYeIl hy ill<' fin aloBe whr11 the rudclrr i ' trailing inefrretivoly toward the inside of the
+path of . pin, or, in extreme ('a cs and in Ull 'table macLin p , to put. the l'uddC'l' over toward the
+out ide, thu' furni hing an aclditiona l yawing momenL independent of the yawing vclocit~,.
+The rolling and the yawing in a pin act as a chrck on each other to orne extent. If the rolling
+velocity he uppo eel to he increa ed from any cau e the angle at tho outer wing tip become,
+smaller and the backward angle of inclination become. larger at the tip and extends over a
+larger pru·t of th wing. The positivC' yawing moment. due to the wing (assuming the ya\\' to he
+in the positive direction) is lr ened, and the yawing veloeity mu t ther('fore be les ened in oTder
+that the negative moment due to the tail urface. may decl'ra e and Lhat the motion may he a
+steady one. The re 'ult i a dec]'ea cd yawing w}ocity a clecreased angle' of atLack, and a sLcepen d path of descent.
+A washout of angle toward the wing tips should he benriicial in spinning for two rea on :
+In the [n' t place, equilihrium in respret of normal force. is se('ul'rel with a malleI' rolling velocity
+than would exist if all the chord lay in one plane, a the normal force drop off with increa, ed
+abruptn s toward the tip of the outer wing hecau e of the wa hout, while the fOlce on Lhe
+other wing, presented to th(' air at an abnormally large angle, i not afrectecl by the washout
+at all. The wa hout, therefore, slow up th<' spin. Second, the yaw is resisted because the
+backward force on the outer wing tip is incrcased hy the washout, while the normal forcC' at
+the imler wing tip, inclined forward of the perpendicular to the plane of thC' chord neal' the
+plane of symmetry, ha. a forwarcl compollC'ut. Both of the. e change in Lll<' forces act togetll<'l'
+to give a negativC' yawing momC'nL ancl to 1'eRi ,t tho spin.
+The yaw in a spin i primru·ily dynamic, not static, and it is clamping of yawing vC'loc ity ,
+not {( directional stahility" in tho common el)se, that is of concel'll. '1'0 speak in moI'C cOlTed
+terms N r , not N v , is tho dominant factor, although it i impos ible to frame any e timate of tl e
+importance of tho latter derivative until measurement of side-slipping vrlocity in spins havo
+been made.
+ince damping mom nt varies a the quare of the distanc from tho C. G., while
+tatical momont varie only as the fir"t power, the fin surface houlc! all be as faT away from tl e
+C. G. as pos iblc. The flat ides of a deep fu elage may be useful in giving II weathercock stab ility," but they arc of little assistance in damping moLions; and it i of interest to note in this
+connection that the old pu 'hers with open tail structures and all the fin surface at a maxi.mum
+di tance from the C. O. were practically immuno from spin ' even when heavily loaord, and
+that tho fiT t true spin of which thero i any rccord wa performed by the late LiE'ut. Pal'kr,
+R. N. A. S., on tho all-inclosed AVl'o-a machino with an e, 'tl'emcly deep flat-sided ftls.'lage.
+What i roally wanted to mako airplane which will not pin, a has boen pointed out hy
+Dr. Leonard Bail tow and others a a 1'e ult of experiments on the auLo-rotation of tallrd
+aerofoils, is a wing cell for which the normal force ha no maximum for any angle less than 90°.
+Failing ueh a wing, it apperu's that pitming dangC'r can be ameliorated hy u ing wa 'hout
+of angle ncar tho tip and by securing tJl(' largest possible negative yalue of iVr .
+
+AN GLES OF ATTACK AND AIR SPEEDS DURIXG lIIANE VEUS .
+
+11
+
+LOOPS.
+
+The experiment on loops wcre calTied out in the same way a. tho e on pins, except that
+only oue wi ng needed to be considered, since a properly ewcu ted loop i a symmetrical maneuycr.
+Thc hest record ohtained is plotted in figUH.' 8, and is t.ypical of the form of all the others.
+The most inter esting feature of these CUl'YCS of speed ancI angle is the light which tllP,V
+slwd on the question of "hang loops," and on the r easons for the grcat difficulty (>xpericnced
+hy some pilots in geLLing around a loop without hesitating on top , in the upside-down position.
+Ii will be oh eT\'ed that, as thc stick was pulled back, the anglC' of attack increased rapidl y .
+At the end of two scconds the angle of maximum lift was reached , hut the angk continucd
+to increase until, after another on(> and a half scconds, it attained a "Value of 24°, at which point
+the lift i only 0 pel' cent of that at 12°, an 1 is equal to that at 6°. Thc efl'ecti"Vcness of thc
+wing in the n(>cC' sary centriprtal force to carry the aU'plane around the loop was then no greatel',
+at that instant, than it would be if the angle of attack had been reclucNI by 6°, hut the drag,
+acting to dec]'ease the sperd ami so to decrease the lift, i 780 pc]' ('ell t gl'pater at 24 ° than at 6 0 .
+100
+
+"
+
+90
+
+-
+
+V
+
+K ""\~
+
+/
+
+~v
+
+..,
+"
+
+J
+
+-
+
+:,> ,----, '"
+
+-
+
+~~"- ~
+'»
+.
+
+\ r- /
+"
+
+5
+
+6
+
+ii
+\)
+
+10· :::::
+
+~
+,c
+
+D
+
+/
+
+t
+
+-co·
+
+-10·
+
+~'
+
+1
+\
+
+cO' .
+
+1
+//
+I I
+
+\~
+
+'.
+
+4
+
+j
+
+C;
+
+1
+\
+
+30
+
+"-
+
+v
+
+'»
+
+\J'
+
+.3
+
+"I'\.
+
+l/'
+
+'\
+
+~~ -
+
+C
+
+r---
+
+30·
+
+40
+
+/
+
+I
+
+\
+
+/
+-
+
+I
+
+OG/RINO A LOOP
+
+\
+
+80
+
+200
+
+~
+
+l
+
+or Armel( AND AIR-SPEEO~ t-
+
+JANGLE
+
+~
+
+l.(
+7
+
+8
+
+TIme In Seconds.
+FIG. 8.
+
+9
+
+10
+
+1/
+
+12
+
+Aft(>]' reaching the maximum just mentioned -the angle of attack decreased rapidly to a
+value of - 15 °, tIl(> sperd aL the sawe tUne falling to approximately 20 miles per hour (the au'pc(>d meter wa modified to ext(>nd its range to lower speeds in the e Lr ts, but the r eading
+of minimum speed arc not very accurl1te). In other word, the aU'plane was stalled on its hack
+and wa: dropping, gaining speed at the same time. The angle then increased to a second maximum of 20° as the machine hegan to Hatten out. It was very evident to the pilot and observer
+that there was a negative loading on the wings at the top of the loop, and the machine seemed
+to hang in the inverted position for a perceptible interval before the nose whipped downward.
+The natural tendency i for a pilot who finds himself in this po ilion to attribute it to having
+failed to pull the no e up quickly enough to get around the critical portion of the loop hefore
+the momentum is c:xhausted, and hi next attempt he will try to pun the stick back more harp ly ,
+r esu lting in the attainment of a till larger ang le of attack and a still quicker loss of speed and
+more rapid dimunition of angle. It appear that the trouhle is due entirely to too ahrupt a
+pull up , and that far h(> tter results would have been attained if the tick had heen ea.'led forward
+as soon as the no e of the machine wa well tarted upward. There has heen no oppor tunity
+up to the present time to repeat these experimen ts on a loop exeeu ted more gently.
+A compa1'i ' on of the 1'e ult of the e tests with a computation from model experUnent l.h
+the probable path of a . imilar mach ine in looping c1ispo 'cs one to pe simism with regard to thc
+possibility of ba ing a n analy is of such maneuver on tes ts of models under steady conditions .
+•\.lthough the computation was carried out I on the assump tion of an instantaneous pulling up
+• tresses in Diving and Looping; Bulletin of the Airplane Engineering Department, U. S. A., June, 1918.
+
+./
+
+I
+
+'"
+
+12
+
+Fon
+
+REPORT KATIONAL ADVISORY COMM1TTEE
+
+AERONAUT1CS.
+
+of the elevator to the limit of its travel, an abruptne which would ncver bc c1.Pproached in
+practicc, neither the fu'st maximum value of the angle nor the minimum wer e as extreme as the
+angles found on act ual test, the fil" t being 17 ° and the second 6°. The difference b etwee n thc
+two results is partly accounted for by the lifrercllce in speed ttt the star t of the loop, the computation having bee n carried through on the a umption that the airplane was diving at 123
+m. p. h. when the elevator was pulled up, partly by the fac t that the C. G. ",' as farther back
+in the actual airplane than it wa as umed to be in the model, and the machine was therefor e
+somewhat more r esponsive to longitudinal co ntrol, and partly hy the errect of the slipstream
+of the control ; but these factor ca n hardly he allowed fol' quantitatively, an d the extent of the
+cliller ence between the free-flight lc:t and the com putalion is reether disappointing.
+If the angle of at tack a nd the speed be known it should be pos ibl e to compute the uormal
+for ce acting on the wings, provided that a wind tu nlld Lrst 011 a modd of the aer ofoil used is
+availabl e. 'fhi h as been done for the case iJlu tratecl in figUl'e 8, and the compu ted normaliorce is
+plotted again t time in Ggure 9. No test of the actual ae)'ofoil use( l wa a,ailable for very large
+positive or negative angle (beyond + :
+20° n nci _ :) 0), and it was thcrefore nece sl1ry, as in the
+computations for spin, Lo lake the CUl'\TC for ,t slightly differ ent hut similar aerofoil. It is
+probable that the dirr el~nces in lift coeffi ·ient hetw en lh in ac rofoil of normal type and with
+virtually fl at lower sUl'fa,cc ar c Ileglihle ilt il ll gle. bryollcl those of mfl ximum lift rodfLcieni.
+1
+-
+
+L0.40"'" IN A LOOP
+
++S
+
+~ co;'pu~ed iro;"
+
+Angle or
+A ltock and Speed.
+- - - - - Acceleromeler Record.
+
+1-
+
+[\
+
++4
+
+r--t--
+
+I
+
+/ F'"\\
+/ I
+V
+II ~
+
+I
+
+\
+
+\
+
+\
+
++/
+
+I
+
+,
+
+I /
+
+/I
+
+I
+
+I
+
+)'
+J
+
+'""""-1-""
+I
+
+- /
+
+,,
+
+,
+
+\1 .
+\
+-"'1'\
+\.
+
+I
+
+...
+
+il I /
+
+\
+
+o
+
+~..::
+
+_
+LV
+
+\\
+
+I
+I
+
+I
+
+1
+
+\
+
+,,
+
+r--
+
+I
+
+:'
+
+/ \
+
+,-
+
+I ._
+J
+
+I
+
+,
+
+I
+
+1
+
+I
+
+I
+
+Tim e
+FIG. 9
+
+The computed curve of normal force show ' a general correspond ence of form with the
+C
+Ul've determined d ir ectly by the u e of the accelerome ter for similar loops, but the maximum
+loading fou nd by computation is far larger than that actually existing, The difference between
+th e two max ima appears too large to be accounted for by errors or lag in the instruments, crud e
+though they are, and the only other e;.;: planaLion that OCCUl'S is that the actual coefficient of
+normal force may be (Wferent whcn Lhe airplane 1 ilccelemting a nd wh en the angle of flttack
+is ch a nging rapidly from tha t ex i$Li ng under steady con dition s. Further tests Oil th is point
+both in fu ll fl ight and on models, m'e to be undertaken cLS oon as possible, as the point is olle
+which has an important bear ing on the maximum loadinO" ;1,Lt,till tLble and con Ctluently on tlli'
+necessary load factors to be used in design, as well as on longitudinal co ntrollability .
+
+o
+

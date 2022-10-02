@@ -1,0 +1,406 @@
+REPORT
+
+NO.
+
+48.
+.——-—
+
+CARWRETING CONDITIONS CHARACTERISTIC OF MU2RAET ENGINES.l
+By PmCIVAJ S. TICK
+
+WWJME.
+Tests have been conducted at the altitude laboratory erected at the Bureau of Standards
+for the National Advisory Committee for Aeronautics to determine the changes in engine performance with changes m atmospheric temperature and pressure at various Ievels above the
+earth’s surface, tith special reference to (a) the variabks aflecting the functioning of the carburetor and (b) the changes in performance resulting from wuiabks in the carburetor itself.
+This work has resuhed in the folhxving cunclusione:
+(1) Wtw
+
+ratio
+
+~~1 shotid be constant at all pressure Ievels, for maximum power at
+()
+
+all leds.
+(2) Ohange in ticosity of fuel with temperature change maybe an importmt metering
+characteristic of the carburetor.
+(3) Unwarranted waste of fuel is invariably involved in the use of carburetors not ftiy
+corrected for barometric changes.
+(4) Heating of the mixt& causes a loss in power output accompanied by au increase in
+the specific consumption of fuel (lb. gasolinef brake horsepowerlhour), at least with such
+fuek as are avdable for war purpose&
+CARBTJRETINGCONDITIONS 0EAR4CI’ERISTIC
+OF AIRCRAFT ENGINES
+The following rew.dta am offered as characteristic of the conditions surrounding the carbureting system of an aircraft augine. The whole is indicative of the ohanges experienced
+following those variations in barometric pressure awxmntared in the service operation of such
+engines.
+Briefly, the purpose of this report is merely to summmize certain of the performance
+charackriatim of an aircraft engine, to be followed later by a detailed inmWigation and report
+on the carburetion requirements ‘and means for satisfying them in this service.
+All of the taste hwm which the following materkd is taken were made in tie altitude laboratory at the Bureau of Standards, employing a 150-horsepower Hispano-%iza, type A engine,
+having eight cylinders in blocks of four, set at 90°:
+Borel.ZO
+mm.(4.7L?
+inchss).
+stroke=130 (5244 nched.
+mm.
+i
+TotalvoI&e
+Ccmprawion
+ratio earsncavdume
+)
+(o,
+
+,
+4’”
+
+A constant speed of 1,500 revolutions per minute (the speed of maximum mean eflective pressurw) was mkint.ained throughout the runs.
+It is known that the vahw.s of the air readings used in the foIIowing plottings are somwvhat
+high; and, for this reason, it is pointed out that the results including air/fuel ratios for the
+mixtures shouId be employed qualitatively rather than quantitatively, though the results are
+in perfect agreement among themselves.
+ccmfWr&aRy
+dmnldeddar@fWmufbsBnrfauof Stmkds
+1This Repmt was
+590
+
+Aermanffa
+Power
+PIenta
+Report 10.
+Na
+
+‘
+
+OAEBUREiTINQ
+UONDJ!I’IONS
+aHABA~TIO
+
+OF MROMJKC
+WWIIWS.
+
+691
+
+The @@.S used are described as fo~ows:
+Plot I.-Curve a, altitude, in feet shove sea Ievel, verms barometric pressure; and
+curve b, temperature (mean ammal) versus aItitude in feet above sea level.
+Plot 2.—Engine pumping capacity in pounds of air per hour per 100 cubic feet of piston
+displacement, with open throttle, versus barometric pressure. me points on this curve are
+means of a great many measurement using a carburetor capabIe of giving maximum output
+over the whole range of pressures; and while the readings are lmown to be high, as noted in
+the introduction, the duiracteristio is quite d&niteIy established. It will be noted that the
+curve quite pronouncedly turns upward as the pressure becomes less. This follows from the
+faot that the pramre drop to cause air to flow at constant veloci@ is 1ssswith lesser density,
+thereby permitting the aspiration of proportionately greater volumes of air as the density
+value lowers. The grap~ plot 3, showing manifold pressure drop plotted against ba~metrio
+pressure, in this case carburetor inlet pressure, is characteristic of the variation in pressure
+drop to cause air to flow in the intake systam w-M changes in atmospheric density.
+PIot 4.—Pounds of gasoline (0.7360 sp. gr.) per hour per 100 cubic feet piston displacement, with open throttle, versus barometric pressure. The fuel used in th=e tds is desmibed
+by the fractionation curve of plot 5. In plot 4 is Shown the manner in which con-mntional
+carburetor, designed for compensation in the ordinary sense at ground level, cause enrichment
+of the mixture with lowered atmospheric prcsmre. Curve a is from bta of a device having
+a manual control reset to give greatast power output at each bsrometic le-iel. Curves b, c, d,
+and e are results with several carburetors, some of which embody a measure of correction for
+enrichment with lowered density. Curve L is cakndated from the equation:
+-.
+-
+
+in which Q= the quantity of fueI dischmged at sea leveI, Q1= the quantity of fd discharged
+at any other level, corresponding ta the pressure Pi. This ecpation assumes a lxmstant value
+for the cmfbient in the equation:
+
+v-u-
+
+for the fuel metering passage. Curve g, plot 4, is that for carburetor (a), but with ground
+setting of the manual control at all barometric levels. The great waste of fuel resulting horn
+the use of a carburetor uncompensated for wide barometric changes is obtioue from the diagram,
+particuhdy whau it is considered together with that of plot 7, wherein are given the brake
+mean etTective prassures corresponding with the two rates of fuel consumption prmented in
+CUI’V~
+a and d of plot 4.
+The observed enrichments, expressed as per cd excess fuel m the mixture, for the several
+cases of plot 4, are plotted in plot 6, against barometric pressure.
+The considerable variatiom mnong the curves of plots 4 and 6 are Iargely the result of
+variations in the extent to which chsage in viscosity of the fuel with temperature enters the
+results. No two of the severa3 carburetors used in these teds have identically proportioned
+fuel metering passagea; hence it is to be expectid that considerable differences will be apparent
+among the results, considering them from this tiwpoint alone.
+In plot 7—maximum brake m. e. p. versus barometric prwmre-it is seen that no justMcation can be found for the fual consumption rate of curve d, plot 4. Not only is fuel wasted
+at all levels and power lost above 14,OOO
+feet altitude, but the mixtures are so rich at the greatest
+altitudes as to cause fouling of spark plugs txndcombustion chamber walls.
+In plot 8 are preseded the reIationshipa between brake m. e. p. and mixture ratio, with
+the latter varied through wide limits at each pressure level. The important conclusion to be
+reached from this diagram is that maximum power output at each pressure level (operating at
+the rated speed of the engine), is secured with the same ratio of air b fuel in the mixture. Further, the mean cylinder premwes decrease more rapidly with a given change in the air-fuel ratio
+the lower the atmospheric pr~.
+This points to the need for much closer regulation of the
+mixture with lowered pressures as compared with the higher. (Note that the mixture ratio
+for maximum brake m. e. p.% should have a somewhat lower value than indicated in this diagram, because of the too high air readings previously noted.)
+
+.—
+
+II
+
+I
+-r.
+
+wL##b
+
+.
+
+ld-t-tiwo
+
+*t
+#-
+
+,
+
+,
+
+,
+
+,
+
+M/XTUR5ENRlCWZ7NT
+/18-
+
+SEVERAL
+Wf”fh m
+
+w -
+
+“
+
+3.,
+
+.
+
+iZM/tACTERfiT/C3
+
+C:kRE7WRS
+7_hrn#/eufKOO/?.PM.
+
+:
+
+/
+
+:
+t
+
+,
+I
+I
+
+CARBUEE!tTNG OONDI!L’IONS
+OHARACHTEBISTIO OF
+r
+
+MRQEAFT
+
+EFK+IHES
+
+I I
+I I
+A-With coem Iefe mcwud
+B- PO 2“
+k?llhheremf
+.
+c---
+
+598
+—. -.
+
+m[xtum
+.
+
+.
+
+rwgu&J%217.
+.
+
+.
+
+-——
+
+!4+H
+
+fm7n7re*dff50a!E/5zToa&x
+‘“- II--l-k
+r%?i5S--tiiWE-
+
+:2,
+
+—.
+
+1I
+
+1
+
+1
+
+1
+
+1
+
+,.
+
+i
+
+:~
+
+I
+I
+
+I
+
+I
+
+I
+,
+
+I
+,
+
+80rOMPf~iC
+
+AH ire/7! ‘~
+
+I
+
+~ I
+
+I
+
+1
+
+Pressure
+
+i%
+
+2
+
+I
+
+I
+
+I
+
+r
+
+(m. ofH@
+a
+/%s
+
+I
+&
+
+14# 2.
+
+I
+
+I
+
+I
+
+I
+
+1
+
+I
+
+I
+
+I
+
+t
+
+I
+
+I
+
+i
+
+..-—
+
+lW.lW-SL D(IC
+
+?MYi,~
+
+694
+
+ANNUAL
+REPORT
+NATIONAL
+ADVISORY OMMITTEEORAERONAUZWS.
+C
+F
+
+The effect of hot+ater jacketing of the intake manifold in the engine used (H.ispano 150horsepower) is shown for two sets. of teat rum in diagram plot 9, these two tcsta being fairly
+representative of the results found in other tests that have been made with this engine. The
+loss following jacketing of the manifold branching immediately above the carburetor is greatest
+at the greatmt atmospheric pressure, which latter is accompmied by the highast atmospheric
+temperature, and becomes of relatively less importance, up to 17,000 feet altitude (note curve
+c, plot 9), as the atmospheric pressures and temperatures became lower.
+In thase teate a constant intake manifold water jacket temperature of 37” Gl= 96.8° I’. was
+maintained. In such a case the pumping loss in the engine following heating of the mixture
+will vary directly with the temperature difference between mixture and jacket and in an inverse
+manner with the mixture density.
+This assumes that the whole of the heat given up by the constant temperature water jacket
+appears as sensible heat in the mixture. Of coume, this is not realized, since some of the heat
+taken up by the mixture is used to evaporate the fuel and becomes latent. The proportion of
+the total heat received which is so used depends upon so many variables, considering different
+fuels and different carbureting methods, that it is impomible to stati the two rcaulti in general
+terms. In any caee, thanet rcmdt only is of importance and ita characteristic, as found in these
+tests, is shown clearly by the curves of plot 9.
+It is noteworthy also that, in general, loss in output resulting from manifold hot-water
+jacketing is accompanied by greater fuel consumption values, regardless of carburetor design
+and method of control, and with fixed adjustment carburetor designs the economy loss following
+heating in this way may attain quite serious proportions.
+
+.
+
+OAESURETINQ
+
+OONDI!CIONS OEARA m’EET.STIO
+
+595
+
+OF AIROBAVT ENGINES.
+
+r
+I
+
+,
+
+A
+
+CHANGE
+
+&VERAL
+
+/’M/X+jE
+
+/%ATfO(A4’7+GAS)
+
+L-1--l
+
+ATM05PHERICPRE55URESI
+.—
+
+/2
+
+Plot
+
+8.
+*
+
+M
+
+lb. Airperflour+
+
+/6
+
+lb. Gosufin;8perHkwr.
+
+20
+

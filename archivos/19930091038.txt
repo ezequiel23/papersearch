@@ -1,0 +1,5834 @@
+REPORT No.12.
+EXPERIMENTAL
+
+RESEARCHES
+
+RESISTANCE
+
+Pf@ueT {nthe
+P-
+
+ON
+
+THE
+
+OF AIIL
+
+BFL. ~,
+cfMrnccq l%timitycfPffb,
+
+hww.
+
+65s
+
+.
+
+.
+
+REPORT No.U
+EXPEHMENJ!AL RmEXoCllEi3mONf
+
+THE RESE3T-
+
+.—
+By L.3ihcsIs.
+
+q
+
+CE&PTER
+
+L
+
+CLASSIFICATION OF 3HFEIUMENTAL MEIEODS.
+L BEACTIONS
+EXEETBD
+BY=AIRIRN1$
+
+.
+
+BODYIN REIATNE MOTE-
+
+When a bod~ is in movement rdative to the air with whiih it is
+em of forces ta which is @Sl the
+aurrounde* it B subject to a
+nsme of “reactions exerted on r e body-by the air.” These reactions
+are variabIq especially m regards (1) the form of b body, (2) the
+position whmh It occupies in relation to the surrounding medium, (3)
+the vsrious circumstances of its movement (time ela ed horn origin
+of movement to pr=ent momWt-@wity
+relative ro the +r), and,
+flmdly, (4 the me= of the flmd WblL SUITOUIIdS bo@ m mmthe
+ment.
+We shill not devdop in detail the difhltics prasented by each of
+@
+problems, of wluch certsin have reocived only very unperfect
+solutions.
+We shd, in what fo~ows, consider only the C= of a body surrounded oompIetel~ by a great m= of air, relative ta whih it hes a
+movement, estabhshed a long time reviously, snd of which h
+veIoci@ end direction are constant au$ rediIy determined.
+The reactione exerted by the air on the bed in movement relative
+to it are reduced to a force and a cou le. d
+M&UnCkaqeriroent
+pOsm5e3, at
+the qouple from the reactions of e wan
+‘e~e”R:m=s&e~
+mducmg
+them to a a- e force, to which we shell .ve the name of ~’re4sk
+ante of the afr on the body in movement r%at.ive to it.”
+When we consider the movement of the body relative to the air
+which surrounds it, we hswe not ordy in view 5 movement of traik
+ad
+hkewise
+8 mowtion, but ak.o a movenmnt of sim ~e rotation
+ment of rotation combined wi tl? a movement of translation. In
+other words, we shsll study here the probkn of the propeller as well
+as that of the wings of em sir-plane.
+655
+
+,
+
+556
+
+AERONAUTICS.
+
+2 MANNEROF PRODUCING
+THE MOVEMENT
+OF A BODY RELATIVE
+TO THE AIR WHICESURROUNDST—BODYMOVABLE.
+I
+Various experimental methods may be utilized in order to produce
+the movement of a body in reference to free air.
+In an indefinite m- of air, at rest as a whole, the following types
+of movement maybe given to the-bed :
+(a) A movement of rectilinear tranJ ation~
+(b) A movement of rotation about the ams of a mechanism;
+(c) An oscillating movement, as in the case of a pendulum.
+The methods by means of some form of mechanism or by means
+of a pendulum have been but”Iittle employed in France and we shall
+omit special referance to them.
+The method employing the motion of translation may be applied
+in two$fOrnla
+:
+(1) The body is allowed to fall freely in air, as calm as possibk.
+- (2) The body is carried on some form of car whioh is moved in calm
+air.
+
+In Franca the method of free fall has g@n rise to important invesati~us made by MM. CaiUetetand (Xkrdeau and espemdly by M. G.
+!&
+Th~ method by means of a wtr is now utilized by the Aerodynamic
+, at the laborato
+of military aerostation of
+Institute of Saintr
+Chakis-Meudon, an also by M. the D $7 e of Guiche. At Saint-Cyr
+T
+and at-Chalaie-Meudon, the car is composed of a carriage mowing on
+rails. M’. de Guiche employs an automobile a+ a carrier.
+A vari~} of the method of the car has been mstaUed at the laboratory of nuhta aviation at Viicenne.s. Gn a stretched cable a little
+kmgi.ng car ro , c?*,
+3s
+attached beIow it, the objccta under test
+with the necessary instruments.
+The dimensions of the bodies on which the experiments are carried
+out may be of the order of those which are utilized in aviation itself.
+In other words,- it is possible to operate upon equi mcnt as used in
+actual aviation, or at least presenting dimensions J’iffering but lit tk
+from those used in practice.
+From this pointrof view the method by displacement through the
+air opens up a field of investigation more extended than the method
+in which an articial current of air is employed.
+8. MANNEROF PRODUCING
+THE MOVEMiNT OF A BODY RELATIVE
+TO THEAIR WHICHSURROUNDS
+IT—ARTIFICIAL
+CURRENT AIR
+OF
+It is possible, in fact, to realize in an entirely diflcrcnt manner
+the relative movement of a body through the air.
+lkstead of moving the bod under test, a fked position is given
+J
+to such body placed m an art’ CM current of air.
+The bod may then bo disposed in the he. air in front of the oriiice
+tll~h
+wL “ch the air enters under regulation by means of suitable
+This method has been employed by M. Itateau.
+The body under invwtigation may aIso be placed in an inclosure
+ation of the current of
+or integral part of the apparatus for the
+T
+air. It is @aced, for example, in a part_o a large c linchixd pi e
+which recemes a current of air produced by a fan anK of which t 1 e
+velocity, at a certain distance from the walls, has been rendered
+sensibly parallel to the pipe.
+
+.
+
+AERONAUTICS.
+
+557
+
+This method, furthermore, may be subject to certain variations:
+(a) The body under inv~tigation alone is placed in the incIosure
+m the interior of which the artificial current of air is produced.
+The apparatus for measuring the reactions of the air are on the
+exterior of this rnclosure, their connection with the interior being
+made thro h the soIid WSIIwhich Iimita the conduit.
+This me % od is known under the muqe of the “tunnel method.”
+It has not been ]arge~y employed in France. There exists at the
+present time at the Aerodynamic Institute of Saint-@r a tunnel
+of which the practid use has been interrupted by the resent war.
+A
+(b) The apparatus em loyed for determinmg the Circ tion of the
+air is enlarged into a ci amber of suitable sue, traversed between
+two of ita pandkl WSUS a c Iinder of moving air. On the outside
+by
+of the latter and within the cL ber are located the experimen~
+with the necessary measuring a Sratus.
+We repose to cdl this the ‘ 8 Mel method.”
+It is for
+k I&mce this method has given very COKU
+lets resuk
+J
+us the characteristic method m connection wi. the use of an artificial
+current of air.
+From the point of view of the convmience of carrying on the
+experinmmts,especially in large numbers, the kst method is superior
+to the method by displac~t
+in free air. The latter demands,
+in fact, that the external air shall be as calm as tible.. This condition can only be realized on certain days and t%0 only for certain
+en
+hours of a given day. ~ aIo the right-line path of the body under
+here the same intensity
+T
+investigation the wind shoul have eve
+T
+and the same direction, due allowance mig t be made for its existence.
+But many imwtigations, notably those of M. Maurain at the
+Aerotechnic Institute of Saint4&e, show that at any given poiit
+in the air the wind is freqneutly subject to continued changes in
+direction and intensity.
+But even if it allows the experimenter to regulate the conditions
+of any one investigation, the method b the use of the artificial
+current of air can only be applied to mo z ek reduced in size in comariaon witi actual practice m aviation. ‘We shalI see later the reason
+?or this limitation.
+One uestion immediately presenk itsdf: How ma the rdts
+obtaine % in the stud of models be transformed m o d er to furnish
+information ap Iicab{e to apparatus of fuU size ? What is the law
+of similitude w&“cl makes possible the transformation of an im-estiation on a smaUscale to corrck riding henomena on a large scale.
+klls is timtterwti&wes=~-~ydetiop
+at alaterpoint.
+: Do the methods mentioned
+A further quastion presents i
+above munely, the displacement of the body under im=tigation
+and he method by the artillcia.1current of cir, kid to the same
+r~ults ? hf. Etiel maintains the Sf6rmative, relying u on the fundamentaI principl~ of relatiye movement.. M. de Gui2 e maintains
+that the tunnel method does not reaIize fully
+the negative,
+the conditions T ch permit the application of such a principle.
+w
+We shall return to this question at a later point., in connection
+with the comparison of the reeuIts obtained by these two experimenters.
+
+—
+
+-.
+
+--
+
+..
+.-
+
+—
+..-
+
+~~
+-.
+
+—.
+
+558
+
+AERONAU3XCS.
+4. STUDIES AIRPLANESN FREEFLIGHT.
+OF
+I
+
+The methods which we have just considered require that the body
+under investigation be connected in a iixed manner with a support.
+The latter has, under good conditions, ita dimensions reduced as
+much es possible. It is also removed as far as possible from the
+body under investigation, so that ita presence will produce the minimum of disturbance. It is none the lws true, however, that the
+airplane, thus studied, is not in the precise condition of free evolution
+in the o emair.
+For tL “ reason invwtigatione have been undertaken on “ lanes
+during their free flight in the air. U~ortuna@y,
+the field o SUCII
+w
+inveshgation ie limited. It can not be cariied through at the will of
+the experimenter; that is to say, of the piIot, who must. fit of all
+guard
+ainet danger of fall. Such ex orsmentsgive com lex results
+often & cubof analysis. FTeverth w it can not be x tied that
+2
+such results may have a very considerable practicaI value.
+Exp6rimenta of this character were inaugurated in 1910 by MM.
+Gaudart and Legrand with a Voisin biplane. These mporlmcnte
+werg, however, neither suflkiently systematic nor numerous to load
+to s@cant
+resndte.
+“b otherwise are the researches made by Commander Dorand,
+at T illacoublay, on a biphme of his own construction iloted by M.
+Labouch&e. At the Institute of Saint-Cyr, MM. #ouswaint and
+Lep&e, Toussaint and the Lleutanant of Aviation Gouin, havo mado
+im ortant experiments on a. Maurice F.arman biplane and on a
+Bl&iot mono lane. Ing6nious a pitratiii capable of registering the
+movement o? the pilot was empf o ed to furnish important indica%
+tions regarding the operation of suc a@@ aviation equipment.
+5. THETOTALRESISTANCE F THEAIR ANDTHEDETERMINATIONF
+O
+O
+THE PBESSURES EACHPOINT OF TEE SURFACE
+AT
+OFTHEBODY
+UNDER
+INVESTKIATION.
+Let us return to the methods which, in a laboratory, ma be
+employed in determining the resistance of the air upon a bo Jy in
+movement ralative toit,
+With regard to the method of measuring this rosistanca two types
+may be characterized:
+(1) Determination, by means of a bahmce, of the total rc.sistance
+on the entire body under investigation.
+(2) Determination, at each point of the body, of the reaction
+?xer@d by the air at th+ point; a study, in some manner topo a@the rcssures resulting from the r3 atlve
+~v~$~$$%
+%%..$#the
+&.
+This investigation immediabaly lede
+through a geometrical
+composition of the individual forces thus ~etmmined, to a knowledge
+of the com lete resistance of the sir.
+The meti od by means of the balance hae given wonderful results
+in the Iaboratmy of hf. EHel and at the Instrtute of Saint4yr.
+M.
+de Guiche has applied ti
+method solely to the analysis of the
+distributed rassuras.
+Such is t%e general classification of the experimental methods at
+preeent in use m France for the stud of the problems of aer.odynamics. We prbceed to ‘vein det al the fundamental principles of
+these investigations in a Y
+uxiher study of the French aerodynamic
+laboratories.
+
+OHA3?TEEIL
+T3EAERODYIWMI!CLARORATORIE$
+
+!3FWCE.
+
+lENTSbL4DE AT TH31EIFJ?EL
+LABORATOIUES——3E@ElUh
+L THE ED?FEL
+TOWER.
+we ~el Tower was the fit laboratory utilized by the celebrated
+the past
+eqmeer m b ~earoh= in aerodynamic, cmried cm
+. 10 years. Bock
+thrown from one of the platforms of
+e tower
+Y
+have permitted a study of free fall in calm air.
+The study of this movement admits, fdhermore, of being made
+by two dilhrent methods.
+The fit of these metiods consists m detaining
+the velooity of
+uniform move.umat which succe8ds the varying movement. To this
+valocit corresponds a resistance of the air ua~to the we- ht P of
+the bo T
+By augmen “ the weight of the ody without % anging
+Y
+o
+the sd a~e, as by the 5 “tion of suitable baUast, it is possii
+ad
+to
+increase, at the same time, the limit”. uniform veloci
+V of the
+movement. The comparison of the % ereRt Vducs of 3 with the
+corresponding @es
+of V roti.dea a meana for deve~ping a law of
+variation of rwustance as a L ction of velocity.
+of the method ap lied in 1892 by Cailletet and ‘uch”theE%$&
+Colardeau
+second story of % e IZiffel Tower (120 meters= 394 feet above the
+ground).
+Instead of limiting himseU to the stud of that part of the be falI
+that corresponds to uniform movement, k Eiilel registem the values
+of the valocity and of ilhe resistance of the air at each instant of the
+faU. The rinciple ircvohd m. this investigation is the folkming:
+Thes d ace under investigation, a lane for exam le falls freely,
+remaining horizontal. It is supporte 1’ by a spring, o FL ‘oh the dis-w
+@ements me inscmibed on a oylinder revolving with a yelocit-y
+L eotly roportiomd t? that of the ~dl of the system under mv&lgatioa h e oompresnon of the sp
+, = a rwdt of the resistwme
+-%
+of the air, gives me h q force whm$, y a suitable cahbration, may
+Iacementi of thiss ring. Tlus
+be determined as a function of the
+9
+force roducea equilibrium with the oIIowing system o f forcm
+(1) &he weight of the system.
+(2) The forces of inertia which act upon it.
+(3) The resistance of the air.
+It is then possible to calculate this Iast force when the acceleration
+To this end it is sufficient to insoribe, by
+of the system is homeans of a tur@ fork, the time of fall op the same c~der
+whereon
+are~~r~~titie
+compressions of the w
+.
+Y
+enment, when the com ined weight of the plate
+T
+with ita spring m support -4.494
+kilograms (9.8S7 pounds), the
+669
+
+“
+
+.-
+
+—-
+
+.
+
+560
+
+AERONAUTICS.
+
+followin determinations were made, in one case at the end of 60
+meters o%fall (196.8 feet) and in the other case at the end of 95 mdara
+(311.6 feet) :
+At the~d;f~~itsm:
+.. . . ....... . . . . . . . . . . . . . . . . . . . . . 9.76kg.
+(Akdute vslue.)
+Tensfon spring . . . . . . . . . . . . . . . . . . . ... . . . . . .
+of
+.
+4.16kg.
+Reeiekance theair. . . . . . . . . . . . . . . . . . . . . . . . . .
+of
+4.90kg.
+Difference . . . . . . .. . . . . . . . . . . . . . . . . . . . .
+..
+=0.75kg.
+At theendof 95metem:
+Forceofinertis
+......... . . . . . . . . . . . . . . . . . . . . . . . 8.30kg.
+(Absolute alue).
+v
+Teuudon spring. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+of
+.
+6.15kg.
+7.30kg.
+Ikietanceof theair. . . . . . . . . . . . . . . . . . . . . . . . . .
+DMerence . . . . . . . . . . . . . . . . . . . . . . . . . . .
+...
+
+=1.15kg.
+
+Thee numbers show that under the exist. . conditions (total
+weight of latas, of sprin and of supjxmt rather
+%) h the difYenmce
+between & e tension of % e spring and the resistance of the air is
+clearly measurable.
+By this method M. Eiflel h~ studied the resistance of the air on
+planes of which &e swfacas varied from 1/16 square meter (0.67
+square foot) to I square meter (10.77 square feet) and of which the
+ed between 18 and 40 meters per second (59 to
+vekwities of-f aUr
+ible to operata
+Y
+131.2 feet). These igh velocities have made it
+in the o en air with high precision in calm wear er and as kmg as
+wiud ve fooities did not exceed 2 to 3 meters per second (6.56 to 9.84
+feet er second). The mmlta obtained b these experiments are
+exd ent for planes failing horizontally. h ey are less worthy of
+con.ddence far planes inclined to the vertical.
+2. THEEIFFEL
+LABORATORY-METHOD THEUSEOF AN ARTIFICIAL
+BY
+CURRENT &
+OF
+This method which consists in plac”
+a model in the cylinder of
+ati flow creati~ by a fan, should be app..ed with the foUowing preY
+cautions:
+(1) It-is nwessary that the model should be placed in a mass of
+air theoretically indefinite, ractically vw great, and havbg a
+veIocity constantin m . “tu1e and in direction.
+X& der of air should be suilicicntly hwgq, in
+The section of the c
+order tha~ at the perip~ e~ the velocity of the sir maybe senwbly
+“tude an in direction as that of the air which has
+the same m m
+T
+not yet approac ed the obsta.de. In this method it is neqessa to
+realize, first of all, a c lindrical current of air and then to intro7 uco
+into thiscurrentabo$of
+dimensionsso smrd~bycompri.aontha
+tita
+presence shall not pro uce any sensible disturbances at the periphery of the current. Experience has shown that the ratio of the greatest dimension of the model to the diameter of the cylindrical current
+should not exceed 4!5per cent,
+(2) It is very neceesary that the model under investigation shall
+be practically isolated in the current of air; that is to say that the
+support of the model shall play only a negligible rde and &all introduce no perturbations of import~ce.
+_
+
+.
+
+q
+
+AERONAUTICS.
+
+,
+
+561
+
+(3) It is neoeeary that the model adoptad shall not be too small in
+size if it is desired to extend in a more or less significant manner the
+results obtained with such model to full-sized ap~watus.
+In fact, when a study is made of the distribution of preseure over
+the various ointa of a late, for exam 19, either on the face direotly
+d ta &e action oF the currentto ! SW,or on the revere face it
+~wmd that this distribution becomes regdar only at a certain &tance from the border. There exists, both in front and “b&in& a
+central zone in which a regular regimen is estiiblishec$which is manifwt by isobsm arallel to the forward edge. Jmorder that this central zone may { e studied, it is necessary that the dimensions of the
+plate under inves~ation be sufhiently large. h fact the width of
+the margimil zone m which the =ures
+are irregular~y distributed
+does not vary ro ortionall wi the dimensions of the plate. The
+experiments ofhf!’de Gui~e ~w that ti width vari~ but little
+with the dimensions of the plate. h opera “ on thin redangulm
+ndioular %
+to e direotion of moveplan- with the attacking edge
+ment, I& de Guiche has foun that the marginal bands of irregular
+condition have a sensibly constant width, equal to 20 centimeters
+. (7.88 inches) in frontiand to 40 or 50 centimetwa (15.76 h 19.7inohes)
+at the rear. He concludw that it is well not to o crate with planes
+having as read less than 1 meter (3.28 feet). In t~e study of curved
+surfaces, & de Guiche found mmgin~ bands of disturbance of which
+the sensibly uniform width scmcel exoeeded 20 centimeters (7.88
+inches) on the two faces. It is we{ therefore, to use onl surfaces
+whosespreads aresuperiorto40 centimete@5.76inches).
+#h enleesa
+s reads are emplo ed the redts obtained by the use of small models
+2 0 not permit of 2educing, in a suf6ciently~recise mannerj the redfs
+which would be given by the wings of an mrphme of normal size. In
+the case of very smsll models the mode of distribution of premre has
+but a very remote relation to that which would be found on wings of
+normal dmensions.
+This condition of only using, for experimental purposes, models of
+sufficient dimensions leads, in the method by the uee of an a@ificia3
+current of air, to the emplopnent of very large.seotions for the cylinder of air. For =ainple, a study of@nes ha.yWeado@et=
+(3.28 feet) can only be made in a cyhnder of em o wluch the dmmeter
+is greater than 100/.457220 centimeters (86.7 inches) approtiatel
+.
+As to curved surfac-, It wodd be sufEc@nt to provide a c linder o ? a
+diam@r greater than 40/.45=89 o@uneters (35 inchesT, approximate .
+In I$ranca,M. Rateau h= utilized the method by the use of = tifioial current of air. His apparatus comprises the following items:
+1.2 meters diemeter (47.3 inch~).
+(1) A heIicoidd f
+?
+(2) A wooden chain erl 1.5 meters on tie side (59.1 kche).
+The
+purpose of this chamber se ta supp=
+by means of suitable partitionsl the turbulep~ produoed by the f’an and to create a current of
+air wtth the vekw+ms of movement equal and paralkl throughout
+.
+(3} fbo:tkt
+ofica of 0.7 meter (27.6 inches] diameter frmnwhence
+issues a cyl+m+icsl current of the same diameter.
+balance boated in the outeide air at a little distance
+frc!~&%%&&roughwhichthecumentof
+airisues.
+.
+me+.
+Doe.m, ~88
+
+F
+
+q
+
+—
+
+q
+
+562
+
+AEEONA’UTICS.
+
+Su~h an apparatus would ermit of reaIizing velocities of the air
+reac
+35 meters (114.8 feet per second. The diameter of the cyl7
+inder o air, however, is too small. M. Rataau was not justified in
+?
+introchm” into this current plates 30 by 50 centimetm (11.8 by 19.7
+3
+inchee) or iplanes 16 by 50 centimeter (5.9 by 19.7 inches) (separr+
+tion of lanea 20 to 30 cantime~ =7.9 to 11.8 inches). The supports o ? the ob”ects under investigation and of the measuring equi
+ment were too \m e, causing ve
+considerable
+rturbations. &
+experiments of hf. % ateau should
+% noted se of E“ tOliC intereet, bu:
+the can be scarcely conaidared m havi
+a definitive value.
+5
+J uch more com Iete and certain are t e results obtainod by tho
+installation of M.!i3if7eL The Etiel Apparatus comprises the follow-kg it8ms:
+(1) An orifice.from which issues a cylindrical current of air.
+(2) An qemm ental chamber where the air is at a pressure km
+than nprma and where are located the experimenters and the
+. ‘?$TiX&-tw”
+(4) A fan placed at the end of the diffuser.
+The current of air which enters through the oriflw in the wall of
+the
+erimental chamber and which leaves tbrc h the opening of
+Y
+the %ser
+~laced in the wall oppo~ite and pa.ndle to the fi~, u a
+current of w reduced by as “ration and not by pressure, as m the
+installation o? M. Rateau. !& e asp”mtion removes the influence
+due to the turbulence produced by the fan, and a regulating box
+for * curymt of air in frcpt of the ori$ce is not necessary. However,
+for entrance to and issue
+certmn grdkges pbwed m the open
+Y
+~roromot~ofexxerimental hamber play t e r81e of regdatom for the
+c
+In the labo;atmy of the @amp de Mars the fan was placed near
+the opening through which the air leavea the chamber. A
+e
+~
+conduit of wood received the air issuing from the fan an~, gradua
+reducing in sise, conduchd it through a pawage enm the she(l
+whence the air was drawn into the orifice through wh~ch it enter~
+the experimental chamber.
+The cylinder of air had a diameter of 1.5 meters (59.1 inchm).
+The maximum velocity of this air was equal to 18 met+m (59 feet)
+per second, or 65 kilometaw (40.4 miles) per hour. The fan emIoyed, of the centrifugal type, delivered 31 metems (1,095 cubic
+?set) per second, corresponding to a velocity of 18 rnetem per second
+and to the circular section of 1.5 metem diameter, requiring 60
+horsepower.
+The Laboratory installed at Auteuil by M. Eif?el is much more
+powerfuL The cylinder of air of the
+equipment has a diameti
+of 2 meters (6.56 feet). Velocities of
+am may be realized flom
+%
+2 to 30 meters (6.66 to 98.4 feet) er second. A second smaller
+c linder of air>having a diameter o? 1 meter (3.28 feet), ara.llelto
+d e iirst, prcmdee velocities from 2 to 40 meters (6.56 to f’31.2 feet)
+per seconii.
+The 60 horaa ower is, however, not exceeded in this new installation, in which t Ee delivery of 90 cubic meters of air (3,179 cubiq feet)
+per second may be realii,
+correspond”
+to the circular sectlop of
+Y
+2 meters diametar and a velocity of 10 kilometers (65.14 nules)
+per hour.
+
+.
+
+AERONAUTICS.
+
+563
+
+This increase in eilkiency is realized by interposing between the
+experiment chamber and the fan a divergent oriihe forming a diffuser.
+Tlus diiluser has a diamet~ equal to 2 meters at the outlet fim
+the chamber; it connects with the ring of a helicoidd fan of 3.8
+meters diameta (12.46 feet), providing for the flow of the air a
+usefd motion of 9 square metere (96.9 square feet). The reduction
+of velocity which is produced by ~assing through the Mfuser, as a
+result of the progressive increase m diamet+r, raises the pressure of
+the air by a certain uantity and d ‘hninishes oomspond~l
+the
+power wluch must be ? urnbhed to the fan m order ti bring tr e air
+to atmospheric pressure.
+The measure of the total resistance of the air is made in the experiment room by means of a balanoe, into the detail of which we can
+not here enter.
+The pressures exerted on each oint of the body subjected to the
+action of the current of air are 1’eterm”medby means of oriiices of
+very smalI diameter tied normdy to the surface at vmious poink
+of the body and connected with manometers.
+This installation likewise rovide for determinii, with reduced
+models of screw m ellers, J’ e thrust of the ropelk and the power
+uired on the u
+B means ofasm d electric motor the ro%
+isturned in~ecyi ? ndero fairproduced
+by the fan. f tis
+P
+assumed that by this rnems the same contltions are realized as
+though the propeller itself advanwd ihrough the air.
+The propelkr models have a dueter
+whkh does not exceed 1
+meter (3.28 feet). In a c@nder of air of 2 meters (6.56 feet) diameter the propeller model IS thus surrounded by a mass of w dioiently tluck to represent action in an inddlnite medium.
+
+—
+
+.
+
+s. THE AEwTEmNc
+
+INsTITuTEOF SAINT-CYIL
+
+of
+was meati by K EIenri
+The Aeroteohnk Institute Sain~
+Deuteoh de la Meurthe, who gave it as a gift b the University of
+Paris: Ita pqose is to foJlow lin= of reswmh, both theoretical and
+to the improvement of the means of aerial locomoP#@J&ti
+lti forms, these researches being C&ITiOd Utunder condiO
+tions as neaxly as poesible similai to those actually in practice.
+k order to reslize this program, there was wmstnmted on the level
+a rsilway 1,350 meters in length (4,428 feet), on which are operated
+special cars.
+The car for the teste of surfaces and of airpkmes is au eleotirictractor
+with normal ga e.
+The principaI5c aracteristics areas fo~ows:
+‘i%ight,noteq’lJiPP~~“tcms.
+Lens@ 6 meters 19.7feet).
+Wfi@ 2 rnekra(b.S6feet.
+cd).
+Hefgh& meters(2.61 1
+1.10
+The current is taken by lateraI shoes diding on caduc@s
+placed
+on either side of the line.
+.
+The motor is of 130 horsepower capaoity, se aratdy exci&l.
+It
+is geared to two intermediate shafta upon wbic% are placed iniona
+wluch transmit the movement to the ~orward and rem males 5 enold
+b
+chains. All the shafts of the motir and &
+me provi $ ed with
+rover bearings.
+.
+
+—
+
+564
+
+AEEONAUTIC&
+
+The brake is applied el~trically, with a safety provision by means
+at the end of the line on as i ding way.
+of shoes at the-rear, eqg
+The control B exerc~eF from an operating cab by means of a controller and an adjustable automatic accelerator.
+The maximum velocity of the car is about 20 meters (65.6 feet) per
+second.
+The car is furnished with a special mounting providing for registering the following items:
+(1) The vertical component force or lift.
+(2) The horizontal component forcpti~e ~drift. (These tagethor
+define the resistmce of the air in m
+Y
+(3) A rotating cou le, from whit , with” the preceding, may be
+derived the location o ? the mistance cutidered as a sin le force.
+The relative velocity of ~e body under trial with re?ation to the
+the absolute velocity of the car with
+air is determined by mess
+Y
+di or subtracting the velocity of the
+reference to the ground and
+?
+wind according to the direction o the line on whmh the car runs.
+The absolute velocity of the ~ar with referenoe to the ground is
+speed instrument gi “ directly
+measured by means of a registe
+T
+Y
+the revolutions of an axle. Furt ermore, there{ is insta ed along
+the line a systim of electrio contacts inscrib”
+the cylinder of a recision chronogra # h . Y&y!X&;%X!:
+measurement (to 1200 second or to 1/1 second) o the time required
+r
+by the car for traveming a known distance-96.9 metirs exactly
+(314.66 feet).
+In order to have the correction due to the wind, measurement is
+made, at a fixed oint on the Iine where the teds are made, of
+the magnitude anz direction of the wind. The velocity of the wind
+is measured by an anemocinemographe, which is extremely sensitive
+(20 millimeters (0.788 inch) for 1 metei (3.28 feet) per second velocity). The direction of the wind is measured by a self-registering
+wmd vane. Furthermore, the wmrection for the wind can not be
+made with satisfactory rigor unless the average valocity of the wind
+is at least USIto 2 metem (6.56 feet) ,er second.
+A car ofTt e same type as the prece & , but more robust serves
+exprimenta, stil’1in an
+for the study of an entire airplane. ~m
+introducto~ stage, have been carried out on a two-passe er machine
+%
+e are as
+of the B16not type. The characteristics of this monop
+follows:
+Tailplane(pigeon
+M).
+f+piq11.10
+meters20feet.
+(
+9 meteq (29.5feet .
+p,
+1
+square
+feet).
+,25.35squaremeters(272.8
+uri%!
+thewingswiththe sailplane+6°.
+Angk%%%%%f
+of this apparatus was studied for three positions of
+The emble
+the de th rudder:
+(a) !&udderin the rolongation of the taiI lane.
+(b) Rudder turne? 18° downward with re?erence to the tail plane.
+(c) Rudder turned 51° upward with reference to the tail plane.
+ExperimWtal speeds 16 to 18 meters (49.2 to 59 feet) per smond
+(54 to 65.kdometers (33.5 to 40.4 miks) per hour).
+A special car serves for the stud of propellers.
+The popellers are full sized. %%ey are mounted on the special
+car whmh they serve to propel. This car carries a framework which
+
+.AEEON.4UTIOS.
+
+665
+
+makes it possible to mrry the ropelkr at a distanea from the car
+itself and to operate the rope\ er a9 though it were placad m an
+indefinite medmm On J e car is an 80-horsepow~r .omno~~.ic$
+o crates the propeller shaft b means of a tmnsnmm
+t&twhichis
+found on “ - ll%balIoons.
+%
+and the eed of the car is due solely
+The td= of the car are
+ti the ulI of the propdler. A lever T rake is ~rcvided which M
+applied { y the operator-who rides on the car. ThISbrake is, furthermore, similar to that which is used on the car for testing Surfaw.
+The control of the car is carried out from an operating cab similar
+to that for tie car previoudy described.
+The return of the ropekr car is obtained by running the ropelIer
+backward at I’SdU speed in order to avoid undue strain. h e pull
+J
+of the propehr is measured by meams of a dynamometer inserted
+between a movable bar articulated at its base and the fied framework of the car.
+The power absorbed by the propeller is measured in two dHerent
+‘&:&rnemsof
+awatlnneterregisteringthe electricpowerreqyired
+by the motor.
+(3) By means of a transmission dynamometer registering the
+cm le required to drive the propeller.
+& ese two pieces of apparatus are standmdimd b means of 8
+Renmd brake, which is attached to the shaft in place o [ the propeller.
+The vdocit of the car is determined by the same two methods as
+above noted [ or investigating surfaces.
+The number of remdutions of the propeller is measured by means
+of a reggtering counter.
+. The relative velocit is obtained by maldng a correction for the
+wind, the same as in d e case for Surfaces.
+The velocitiw rwdized have not exceeded 20 metem (65.6 feet)
+per second.
+we Aerct.ethnic Ihstitute has undertaken to make a seriee of testm
+lanes in free flight.
+‘nM%ouasaint, assistant director of the institute, has carried out
+the foIIowing investigations:
+First, on a Maurice Farman biplane, piloted by Ca t. Et4v&
+Second on a Bl&iot monopkme, piloted by Lieut. L uin.
+The fofiowing items of equrpment were installed:
+(1) A recorder of relative velocity giving the speed of the airph.ne
+rdative to the air.
+th$~&d*&e~m~d
+‘e
+‘a
+*e ‘h’on
+‘f ‘8 ‘d
+‘o
+(3). A1~n&#a~ecd&rr&r#~
+the longitudinal inclination of
+the
+(4fi rsgister@g baro
+ph, very s&itive up to 500 metem.
+revo rution counter giving thes A of the engim.
+(5) A registe
+?
+(6) A register o the movement of the depth m %
+der.
+(7) A register of the w-m-pingof the planes.
+All these registering instruments, except the revolution r . ter,
+me
+ovided with cyhndem of such pro ortions as to give a Y ength
+of K ~am of 292 millimeters (11.5 m $ es) in !26 minut~thati
+is,
+11.2 millimeters (0.442 inch) per minute. VViih this velocity of
+movement of the record one may judge the periods of steady condi-
+
+.—
+
+.J
+
+-
+
+566
+
+AERONAU!CICH
+
+tiona exceeding 10 to 20 seconds duration, Quantitative measures
+oan not be properly drawn from periods of steady condition having
+less than tlus duration.
+In order to assure a perfect ~ement
+in time between the difTeront
+diagrams or, in other words, m order to be perfectly sure that the
+~oints taken as cormpo@ng
+do indeed r+ate exactl tQ the samo
+instant of flight each regmter is rovided mth a supp rementmy yen
+moved by an ~ectromagnet. &ro
+bout the c.uurse of the fhght
+the pilot by closing the circuit at s3 ciently close intervals causes
+IJuase
+pens to register simultaneously on all the diagrams.
+The reference points thus traoed are all in synchronism, and thus
+provide an assurance of perfect accord for measurements made in the
+vicinity of these points.
+In order to rotect the instruments from vibrations and shocks,
+the are rovi ed with elastic sus ension in their cases.
+&ih&no~nterinto
+thedeta&of the description of thcsemrious
+instruments. We note sim ly that the register for velocity reIative
+to the air, as well as the J ikection vane,” should be placed in such
+manner as to avoid the turbulence produced by the propeller, the
+planes, and the body.
+The register for the movements of the de th rudder and for the
+of the pkmes was installed on the 5 Mriot. This gives on
+warp”
+one cy der the movements of the handwheel barrel. It com rises
+%
+simply as tam of axe9 with tracing pointi, parsllel between L emrpendicular to the b
+of the registering cylinder.
+selves anr
+Each one o F these SXEScarries, on the one hand, a lever connected
+to the barrel by a @e, and, on the other hand, a stylus or marking
+pen. A return s nng fied on the lever serves ccmatantly to maintain the wire un Zer tension. This wire k attached to the barrel at
+the same point as the cable which o crates the corrqonding control;
+it passea over little pulleys and is L us carried to the register. Tho
+movements of \he atylus for the position of. the barrel corresponding
+ht and to various inclinations of the depth rudder
+to horizontal
+are -marked o: Yt. e n+yster, the axis of the ropell~r in-repose being
+horizontal. Sumlarly reference marks are x etermmed m repose for
+tering the warping movemcnta of
+the movements of the stylus r
+the laims. In the apparatus T the institute the nccdlo rises when
+o
+the { arrel is carried to the left; it descends when it is carried h the
+“ ht.
+T he Aerotachnic Institute possesses &o an installation for the
+study of small models by mesns of a fan. The fan absorbs 120
+horsepower, providing for a flow in an experimental section of 2
+meters (6.56 feet) diameter of a current of air of 40 meters (131.2
+feet) per second or 144 kilometers (89.4 miles) er hour. The total
+delivery amounts to 125 cubio meters (4,412 c & ic feet) per second.
+This apparatus is under trial.
+There is slso at the Institute of Sainf+yr a covered installation
+for the study of small models. The diameter of the rotunda is equal
+to 38 meters (125 feet). The turning aiin is about 16 meters (52.6
+feet) in length. The velocity at the extremity is 90 to 95 kilometers
+(56 ta 59 miles) per hour.
+
+A130KAUmOS.
+
+567
+
+& THE LABORATORY M. DE GUICHE.
+OF
+M. de Guiche has instituted a systamaticsserk of experiments by
+the method of disphmin the body under investigation in cpiet air.
+The body (use so far % as been made of plates in various forms) is
+csarriedby an automobile. Two vertical pdlars fixed to the machine
+carry at their upper extremities a horizontal axis on which are phwed
+the mrious platw under investigation. These ~ates are provided
+at their lated extremities with two graduated $ alf circles, Whi+l
+by means of a needle carried b each pillar, serve to messure them
+inclination relative to the line or movement. The pillars are of sufllcient he- ht and so placed that the turbulence reduced by the
+autnmo8 e itdf is not felt in their neighborh ool
+In particdar,
+he mounting on
+hf. de Quiche has found it advant eous to c
+the rear of the automobile rather % an on the
+%
+nt. The wheels
+and the body throughout are, furthermore, suitably shielded in order
+to &dish
+turbulence.
+M. de Guiche thus csrrka out a sort of topo a hical measure of
+the ressures exerted on the different points oY% e plates both on
+t
+the % nt and rem sides.
+As we have seen prevkdy,
+M. Eiffel likewise em loys this method,
+but he determines separatdy the presmres at t % difkent holes
+e
+and measures each time the ve~oqity of the current of air by means of
+a Pitot tube. As this vdocity K somewhat va@able, the pmsscres
+are reduced to what they wotid be f the veloclt y were constantly
+e ual to 10 meters (328 feet) per second.
+% ut in operating this by successive observations there is danger
+of finding between the determinations msrkd discordance.
+Therefore, M. de Guiche determine at the same time, and by a
+ints in es hirge a
+single experiment the pressures at &ted
+%
+number w pos&.
+TO ilhis ad the plates w .ch are to serve for
+the experiment are iercec$ each with hoks forming two swim of
+Iins cutting each ot L
+mum slope and horizontal hnes).
+atshtTa$&t~~C~t$$ZZ
+same instant, the prassure9 in sll these points of the seved Iins me
+measured.
+at tke hol& on the various lines
+TO this end, .20 cri&es
+“
+9
+are provided with 20 rubber tu es connecting them with 20 Iittie
+manometers. ‘l?heee manometers are mountd side by side m a
+frame before a @s provided with traasvame divisions m half rcWimeters.
+The indications of all th= manometers are inscribed at any giveu
+instant by plaoing them m a photographic chamber where the atmosphwic pressure acts upon their open ends. By ~hting the interior
+of the chamber with electrio kunps, there is readdy produced on a
+photogra hic plate theleds of the Ii uid m the diilerent manometers.
+It may5 e asked Mthe presme of %0 atmosphere actually prevaiIs
+in the interior of t% hoto~aphio chamber. ‘Ibe latter can not, in
+efle+ be perfectly d t, if d is not &sired that it should opeicate as
+au w thermometer. It is then possible that during the movement
+of the automobile, currents of air passing through small apertures of
+the photo~aphic chamber m.a tend to reduce a variation of pr~
+sure titihm. K de Guiche z ss sssurJ himself by many expsri-
+
+—
+
+—
+
+668
+
+AERONAUTIC&
+
+.
+
+merits that this etlect is cdirely absent and that atmospheric prmsure prevails throughout the interior of the photo aphic chamber.
+At the Iditute of SaintX&r, M. Maurain, who% as em loyed the
+manmuetric method, uudertook to estabhsh in spite of t e pwtur%
+bations caused by the movement of the vehicle, the atmospheric
+prassure on the open art of the manometms which he uses for
+measuring pressure. ? o this end the open part is connded
+to a
+space, completely tight, which communicattw with the outside air
+by mesms of a tube placed at the extremity of an antenna. The
+latter is placed uite far from the surface in order to maps variations
+of ressure whiL are produced in its vicinity (2,3 meters, 7.54 feet)
+in E ont of the surface under investigation and 3,35 meters (10.9 feet)
+above the bod of the car. At the extremit of this antenna is a
+%
+tube of which t e usahd part is horizontal anJ cylindrical and is terminated by a pointed clcsed cone pointing in the direction of movement.
+In the cylindrical tmd lateral part of the tube am formed
+small circukr openings of 1 millimeter (0.04 inch) in diameter
+which place it in communication with the atmosphere. M. Maurain
+has amured himself that this tube plaaed in a current of air of zo
+meters (65.6 feet) per second a proximately parallel to the current
+assumes irubed the pressure of L e atmosphere.
+The pressure thus de&mined directiy are reduced to. tho values
+which the would have at a veIocity of 10 metars (32,8 feet) pcr
+second. &r-v es of equal pressure may then be traced, thus indicating
+the condition of the surface of the body and showing the distribution
+of ressure over the same.
+h rthermore, the surface of the body is divided into strips of a
+cartain width. By a calculation of avarages, the mean prcsswe is
+determined for each strip. Multiplying tlus by the surface of each
+strip, we have the resistance exerted by the au on the iven stri .
+h the s.tiace of t+ body under investigation is perfec $ y smoot E,
+the fhqtion pf the am on such surface ma be ne lected. The force
+determmed N then normaI to the surface o{5the bo y. By combining
+these forces by the well-known methods of gra hical statics, the resiatance of the air over the entire plate maybe o$ tained in magnitude
+and location.
+Finally, in the experiments of M. de G@he the automobile should
+move through a mass of air motionless as a whole, To this end the
+experimen~ are made at certain hours on favorable days over a road
+traversing a forest. The road is about 30 meters (98.4. feet) wide
+and is bordered with sndl brush. The straight art in whidh the
+measures are takm is determined at its two enL by easy turns.
+There is thus avoided the establishment of a regular current of air
+along the axis of the road.
+The velocity of the automobile relative to the ground is measured,
+correcting it, if necessary, for the component of the wind aIong the
+direction of motion.
+6. THE LABORATORY CHALATS-MEUDON TEE EXPERIMENT’S
+OF
+AND
+OF M LE COMMANDANT ORAND.
+D
+The aerotechnic laboratory of Chalais-Meudon is celebrated throughout the entire world by reason of the work of Ccl. Charles Renard.
+It is there that were made the studies which have brought the solution of the probkm of the di.risibility of balloons. It B there that
+
+—.
+
+AJ3RONAUTKS.
+
+569
+
+have been estaliished by precision e
+riments some of the fundamental laws of air resistance. It is % e, finally, that were made
+t
+certain experiments b Capt. Ferber, experiments which should soon
+lead to the French so rution of the roblem of aviation.
+M. le Commandant Dorand has Brilliantly continued the labors of
+The experiments made here on air prothese eminent predecsors.
+pellers have carried a long step forward this compkx qumtion.
+They were made on propellers of normal size by mems of the car
+method, which was later a plied at the Ihstitute of Saint.-@r.
+on a railroad.
+The propelkr to be ted -J B mountad on a car mom
+This car carries a dynamo shunt excited, by mems of which tie propeller is turned at a constant speed. On the same car are placed
+registering a paratus for tlwast, speed of car, speed of rotation, and
+power absorf ed.
+The railroad, of 1 meter gauge (3.28 feet), on which moves the
+dynamometer car, has for half of its length a uniform
+de. It is
+prcdo ed by a level run and then by w ascent, destinr to diminish
+the ve ocity of the car before apphcatio? of the automatic brakes.
+Y
+There is utilized in this manner the-w
+ht of the equipment, the
+effect of which added to the propulsne % ort of the propelk gives
+e
+rapidly to the vehicle a high velocity, and bit back to the point
+of departure after the experiment. The current intended for the
+~eotrm motor is brought by two insulated rails, on which move slidshe= of bronze similar to those which are used for electrio
+r
+% Oads.
+h order to obtain a constmt electric resistance m the circuit, no
+matter where the cm maybe on the tmwk, the current is brought h
+tie rails at two opposite extremities. By this meme the instruments
+for the measuring of electic quantities may be located at a fmecl
+point and not on the vehicle.
+The energy is transmitted to the prcpelkwshaft bymwme of a chain.
+“ k order to measure the tietive pdl of the propeller there is carried at the end o: the .ropelIer shaft (turning in roIIer bearings) a
+roller thrust bearing wE ch tranwmts the tractive tiort to a manometric cW. A reg@ering dynamometer thus givw at each instant
+the thrust of the propeller.
+The power absorbed by the propdler is obtained by means of indications furtihed by an qrunetar and a vcdtmetw of the recording
+type previously standarchzed for the difkent speeds of the motor
+by&e aid of a Renard brake.
+Chrono&aphs. indicating the origin of time are mounted on each
+of the re@ering equipments end are put in momummt automatically
+at the same moment.
+The art of the apparatus provided for the
+“ of the prots that the
+peUer &rust is movable relative to the cm. H
+tmctive effort direotly measured represents the algebraic SUMof the
+following forces :
+(a) ICractive effort on the leveI;
+(b) +ph, p being the weight of the moving system and h the change
+of km-clper meter run;
+(c) Ihertia = - Zdv g baing the acceleration due to gravity, and
+~ ~,
+‘v the acceleration of the motion of the oar.
+a
+
+—
+
+570
+
+AERONAUTICS.
+
+The tractive effort on the Ievel, which interests us here, is then
+equal to the tractive effort measured directly, diminished by ph and
+‘v
+augmented by ~ —. For an acceleration which ramaina near 0.8
+g at
+meter second (2.6 feet per sec.), this last correction is
+—=0.0815
+P X 9°88~
+
+p.
+
+As p is always less than 60 kiIograms (132 pounds), this correction
+is about 5 kiIograma (II pounds).
+The maximum speed of the dynamometer car has been, in these
+ex rinxmts, equal to 14.6 meters (47.9 feet) per second.
+U le Commandant Dorand made at the military acrodromo of
+Vi&oubla
+, numerous trials with a hiphme of his construction, and
+piloted by i?abouchk.
+This flying laboratory is a bipIane with planw stepped toward the
+front; it is provided with an engine of 60 horsepower, with tractor
+pro e~er.
+3 urmg a horizontal flight the folIowing measures were made:
+(a) Thrust of the ~ropelhm.
+(b) Speed of rotation of the propeller shaft or of the enghm.
+(c) S
+d of the airplane relative to the air.
+(d) &le of incidence of the planes.
+The measures are instantaneous. At the desired moment in horizontal flight the pilot presses on a button and thus determines the
+“ tration of all the measures to be made.
+%
+e frame of the engine is-mounted in a dynamometer balance on
+a shaft carried on roller bearmge. The moment of the thrust of the
+propeller relative to this &
+IS balanced by that of two hydraulb
+cells. Recording manometers give the prmure at the cells and thus
+furnish, through the lever re~ation, the thrust of the screw itdf.
+The recording drums are set in motion at the instant of start of the
+aiqdsne; chronograph markem move-d ~ectricdy indicati on emh
+‘eet ‘iFb%m”whaehema%” that part o the balance comprising the
+The ac on of
+e au on
+h be made”
+engine and its supports #ves rise to a force which must be added to
+that which is measured, fi it is d&red to Imow the true thrust of the
+propeller. In order to make this correction, the entire system without the propeller is placed in a current of air. The velocity of this
+is measured as well as the resistance which it develops.
+The measure of the thrust of the repeller givas the resistance of
+the airphme at any given instant of i L horizotital ilight.
+In eider to measure the
+wd of rotation of the engine, thera is
+mounted on the sldt a cy der of ebonite covered over half its
+%
+circumference with a sheet of cop r. Two brushes inetrdled in the
+circuit of an electrio. chronograph rest .on this cylinder. At each
+r
+revolution of the
+e there is an intmruption of the current and
+hence a jog on thexc
+no aph sheet.
+The measure of the reF
+ative velocity through the air is made by
+means of a Venturi tube. We ma nob here that the operation of
+this a paratue has been made at d e Aerotechnic Institute of Saint. Cyr, i e subject of a very careful and systematic invmtigation.
+
+.
+
+AERONAUTICS.
+
+571
+
+The
+le of incidence is obtained by means of a clinometer formed
+by a en dun dampened in glycerine. A pointer which moves over
+Y
+a sc J e indicates at each instant the angle of the chord of the planes
+with the horizon.
+- ht have also been made wi-ti this equi Experiments in gli~@
+“
+ment. They reqmre
+e lmowiedge of the gradient of the pa &
+during the ~dq, or the angle of the rdative mr movement with the
+Item is furmehed. by means of a vane with horizontal
+horizon. k
+axis.
+6. TEE AVIATiON LABORATORY FVTNCENNES
+O
+ANDTHEEXPERlhlENTS
+
+OF CWT. OLIVE.
+
+The minis~ of war has instituted, under the charge of the artille
+aohool at Viicennes, a laboratory which is specially concerned wiz
+researchw in aviation.
+Among the investigations carried out in this laboratory,. ~$julo~
+note here the measurements made by Capt. Olive on
+Xl’
+nornd dimensions. The principle of the metiod was as fo owe:
+“allysuspended from a trolle which rid=
+Let us oonsider a bod
+on a rectilinear incline13ca le. Let us assume that J e body poseesses a plane of symmetry which also contains the cable. The body
+under investigation, descsndhg along the cable in such manner that
+ite lme of sycome@ is displaoed parallel to iteelf, is subjected, at
+eac% instant, to the folloming forces:
+(1) The action of gravit ap@d at the center of gravi .
+(?) The resistance of d e am applied at a point whitT we may
+‘~=g~l~eof
+inertia applisdatthecenterof
+gravi~
+These for- may be deccnn osed paraUeI and pe
+n ‘molar to the
+b those of the
+cable. The components of t%e weight are opp 4
+resistance of the air; those of the force of in-a
+are paraIkl to them.
+Graphic record is made of the magnitude of the components paralkl and perpendicular to the cable. When the system is in a state
+of rest, the *t
+acts aIone. The mode of recording thus provides
+for the elimination o! the @cts dqe to gravi~.
+The body under mwst~ation IS allowed to descend along the
+oab~e, with the trdey, to which it is rigidly attached. At a given
+moment the accderatlon, a, of the system is measured and record is
+made of the components of the resistance of the air and of the force
+of inertia.
+The acceleration a is measured in the following manner: When a
+pendulum is mopnted on a support which, itself, is given a movement
+of translation vnth an accderated velotity, it tends to p~ace itself at
+each instant in a position such that the angular deviation from the
+verticaI is connected mth the acceleration a by the equation
+
+The angle ISis, in gener@ quite small. This principle has been
+reakmd in the following mauner:
+A car moves on an ae~ monoraiI formed by a cable stretched
+between two peek. The
+lane under investigation is suspended
+from this car by meaus ofTa ar to which it is attached through a
+
+.
+
+672
+
+AJMONAUTK%.
+
+network of wires forming t@.n@es, thus giving the equivalent of a
+rigid connection in every chrectlon. In order that them wires may
+the experiment, it is ne=ary
+that the
+remain under tension d
+Y
+weight of the airplane shall e greater than the upward thrust received
+from the sir during the movement.
+The bar connecting with the car is attached thereto by means
+which transmit separately to dynamometer springs, on the one hand
+the forces normal to the cable, and, on the other, the forces parallei
+h the cable. The movements of the springs are recorded on a moving
+cylinder.
+The cable on which the car rolls shows a generaI inclination in such
+manne~ that the movement of the apparatus may be produced by
+the action of gravit .
+%
+The experiment s otdd be carried out in a part of tho cable whm
+the inclination is practically constant in order to avoid the need of
+taking account of the varying components of gravity and of the force
+of inertia produced by the curvatmy of the cable.
+At Viicennm the cablq, which. IS 155 metem (5o8 feet) long, is
+carried by two pdlara wluch are msta.lled, one on tho summit of a
+hilI of=bout 20 meters (65.6 feet) heiqht, the other on tho crest of an
+embankment. The maximum deflection of the cable varies between
+1.4 meters (4.6 feet) without load to 5 metem (16.4 feet) for a load
+of 1,000 ldograms (2,204 pounds) pl~d at the center, the tension
+remaining constmt. The general s1? e IS12 per cent. In thee. oriments the weight carried was 700 d Ograms (1,543 pounds) an tho
+T
+maximum velocity realized was 12 meters per second (39.4 feet per
+second).
+7. TEE EWERIMENTS OF COMMANDANT
+
+LAFAY AT THE
+LABORATORY OF THE POLYTECHNIC SCHOOL.
+
+PHYSICAL
+
+Commandant Lafay has instaUed in the hysical laboratory of
+?
+the Polytechnic School the apparatus previous y used by M. Ratmm.
+He has utilized this apparatus in order b solve, often m an elegant
+manner, a series of interesting prQbhns in aerodynamics. For
+example, he has prp osed to make visible the paths of air stream.lines
+which surround SOII bodies of dif?erentforms laced within a cyhndcr
+I
+of air issuing from the discharge orifice of a ?an.
+The methods which give the total resistance of tho air cnablo us
+generally to determine separatdy the lift and the drift. From these
+we ma then fmd the ratio of support, which is nothing but the ~atio
+of the b “ t to the drift. As a matter of fact, in a horizontal
+ht,
+the smaller this ratio, the greater the we” ht carried by a given 2 ort
+e
+of pro ulsion. If we call # the an le of ?t e lift with the total rcsis~
+ante, t e relation of the drift to the5 “ft is equal to tang. d. By reason
+%
+of the importance of this angle, which Commandant Raibaud of the
+aviation laboratory at Vincennea proposed to call the an le of support
+M. Lafay has constructed an ap aratue by which it can %e determined
+directiy without going throug % the determinations of the Iift and
+drift,
+He has o crated on different stufled birds and has tried to determine the v 3 ue of this ratio of sup ~ for these birds.
+He has been brought to the canermuon that ~ stuffed bird behaves,
+on the whole, as a mediocre flyer, certaudy mfenor to one of our
+good monoplanes,
+
+&sBOJSAVtTOS.
+
+573
+
+Tke
+experiments which have deaIt with stufled birds can not,
+with certainty, be exkmded to living birds. However, this result
+leads us to admit only with reserve the statements of those who c@n
+that birds are perfect flyers,
+the utiIize ratios of sup?#%:m%::&&12Y:$:$A?:
+& . Lafay has set himse another problem”whioh is very importaut
+in regard ta the practioe of aviation.
+The experiments made with models of wings or of. airplanes am, as
+a enersl rule, exchlsively static. The wind of the bkwmg ap~aratus
+wf gse action is utilized IS maintained in a oonshnt state during the
+pemod of each observation. Now, when an airplane moveg through
+the air it is sub-sot on the ~art of the air to actions which vary qude
+rapidly not o J y in intenm~, but also in direotion. Although the
+inertia of an airplane prevents it from obe~
+all th~ instantaneous
+forcee,it maybe uestionedif the static expernuents of the laboratory
+can be applied wi. out restriction to maoqee in practice. M. Lafay
+lh
+this question. He has
+has striven to give a few indications regar
+eriments, i. e., T
+he as tried to study the
+tried a few dynamic
+Y
+variable forces produced y a wind which changes rapidly its direotion
+or its intensity.
+entaI stud of this problem preswntsgreat difEcultiea
+‘0$7
+due cke y to the distur1“
+mg aotions of inert&. In order to avoi~
+t as possible, attached to
+them, he was led to build mod& as
+eleshc carriers, .md to make use of the Y eformatione of these carriers
+in order to measure the forces. But if these deformations are to be
+v
+slight, in order th@ the energy aoguired by the system be n $&e,
+they must, hcwever, be tic~tl~
+great and sticien T~
+regular to permit of arriving, by means o an appro riate optic
+%
+smpliflcation, at a oorreot evaluation of the forces w “ch roduoe
+them. The redta of this amplMcation must be such that t%e can
+be registered photogra hicaIIy on account of the rapidi~ of evo ?ution
+in the phenomma un $er investigation. FinaUy, the model and its
+elastic support would not fail to take on a vibrato
+movement under
+the action of the inevitable -ties
+of the ? owing apparatus,
+b
+except for the pwoaution of adding lust enc h dampenmg to make
+the apparatus praotiwdly aperiodic, without,T owever, retarding too
+much lb dynamic indications.
+M. Lafay has produoed an aerodpamometar capable of satidying
+the9e ocmtradictmy conditions.
+These experiments have been btampted by the war. However,
+bm those which have been made it seemE to be proven that for
+es of speed and direotion having the degree of rapidi~ of those
+ch
+whi
+% may normally take lace in amation, the resistance of the air
+at a given moment has a v J!ue little difbrent (10 percent at the most)
+from that which one would obtain in permanent r6@n~ keeping
+invariable the conditions which characterize, at the mstaut under
+consideration the movement of the ation relative to the air.
+Consequenfi , we cau deduoe fkom statio experiment, pro
+ly
+directed, the J ements whioh are newssarg for the calculation oY the
+forsustained by a machine in given .cmqunstances, as, $or eqampIet those whioh aooompany its rapid rqghtmg after a chvmg @t,
+or Its entranoe into an asoending or descending msrrentt f air.
+o
+
+—
+
+674
+
+AERONAUTICS.
+
+S
+PERFORMED OTHERLABORATORIES.
+IN
+8. AERODYNAMICTUDIES
+
+q
+
+A certain number of aerodynamic experiment have been mado in
+other laboratories.
+Mention may be made of the ex eriments on pro el.leraat a fixed
+int performed by M. Auclair in & e experimental f aboratory of the
+savant was the tit
+E nservatoire des Arts et M6tiem. TMs yo
+to give precise results on the influence of the ack of the blades, an
+T
+influence which had been noted as earl as 1900 by M. Rateau.
+L’Institute Marcy, in the Pam des J rincea, is continuing the he
+studies of Marcy on the flight of birds.
+M. Houssa ?, in his laboratory of L’Ede Normale Su &ieure, at
+Paris, is stu 2pug the resistance of wati on the forms o ? fishes.
+M. Magnan, tie the laboratory of l’Ecole d= Haute Etudw at the
+to deduce from the stud of the dimensions of
+Sorbonne, is t
+birds some w F cients which will be useful f or the construction of
+airplanes.
+
+,.
+
+OHAPTER
+
+Ill
+
+DIAGRAMS REPRESENTING THE RESULTS OF EXPERINIENTS.
+L
+
+PROPOSEDNOTATIONS.
+
+Let us consider a reduced size model of the body under invwtigation. Let x be the ratio of the homologous linear dimensions
+taken in the body and k the modd.
+Let us sup se that the mo&I is tied at a relative velocity V and
+that the r= r ta of the experiments are reduced ta what they would
+be for a velocity V’l. H rvl and m are the actions of the air on the
+model at speeds VI and V, we have the rehdion
+rvl
+
+==
+
+FI 2
+7””””””””
+
+()
+
+-
+
+.
+
+(1)
+
+On the other han& let us take the body under inves ~ ation. Let
+V be ite velocity relativq to the air, snd suppose that % e actions of
+the sir are reduced to what the would be f the veIocity had the
+value T,. Denote by l?v and d v%these values of the resistance of
+the air. We have the relation
+
+?%-(9)’”””””””
+
+‘2)
+
+The rdations (1) and (2) give:
+
+But since rv and Rv are reIative ta the model and to the body
+under investigation at the same speed V, we have
+fib=
+-
+
+ti
+
++ .
+
+.
+
+...=...
+
+value inta (3) we have
+
+In experiment
+in aerodynamics the VSIUW usurdly taken are
+Vi= T,= 10 meters er second (32.8 feet er seoond). Measure is
+then taken of rvon t%e model or 12~on a bo $ y of nornml size. Equations (1) and (2) then give
+.
+10 s
+rlo=rv —....
+. . . . (6)
+() v
+
+()
+
+R*=RV+)V . . . ...(7)
+.
+
+—
+
+————
+
+576
+
+676
+
+AERONAUTICS.
+
+The methods for the measurement of TVgive at the same time:
+(a) The component of TVa~ong the chrection of relative air movement.
+(b) The component of w normal to the direction of relative air
+movtient.
+With M. EifFel,let us call r= and r~, Fz and F the components of
+PIO
+and RIOalon and normal to the direction o1’ relative air movement; reapectiv3 y.
+We have then the relations:
+r== component of rv along direction of relative
+2
+
+10
+
+()
+
+ahmovmentx
+i’
+
+q
+
+“
+
+“
+
+“
+
+-
+
+(8)
+
+“
+
+q
+
+rr = component of rv along normal to d~tion
+10
+
+()
+
+2
+
+of relative air movtunent X ~
+
+.
+
+.
+
+.
+
+.
+
+.
+
+(9)
+
+F== componcmt 01 l?v along direction of relative air momrnentx
+
+10’.
+()To”””””””
+
+FV=oomponent of RV along normal to direc12
+
+()
+
+tion of relative air movement X ~
+
+.
+
+.
+
+(11)
+
+.
+
+We may note that r. v, ~~ ~, F= ~ SIId ~~ ~ ~ i~titiea
+of
+tlm order of force.
+M. Eiffel, in his experiments on models of airplanes, takes VX
+-1
+met./seo..= 3.28 ft./see.. and Vi= 10 met./sec. = 32.8 ft.fsec.
+Equation (5) then gLVeS
+-‘~?i’
+
+()
+
+(12)
+
+~lo-R)”’”””””*”
+
+M. Eiffel calls R= and RWthe components of RI along and normal
+to&tl$vyt&f
+relative air movement.
+~z
+
+‘*=T l-r)
+=()
+
+I
+
+.
+
+(13)
+
+%= ’’(+)’”””””..
+
+l?. and RV are qnanti~i~ of we EWMorder as r= and ry.
+If the model of the awplane ISOn a .ecale 1/10, h E 10 and we have
+R== r=
+Rfl=r# }
+
+”””””””’””@)
+
+The numerical values calculated for the model apply directly to
+the airplane of normal s-hze.
+
+.—
+
+AERONAUTICS.
+
+577
+
+When the problem involves the wings of airpbmm, M. Eif?el
+places
+
+%“
+
+component of r, along diiection of rdative
+movement.
+JSP
+
+air
+1
+
+‘&
+
+(15)
+
+component of r? along normal to direction of relative u movement.
+.+
+G=
+EXIP
+8P
+
+1
+
+. . . . . . . ..(@
+
+&+~
+
+b this equation i is the a $ between the direction of rehdive
+% e -at~ached to the wing, generally
+air movement and a reference
+the chord of the profi p! the wing m ti lane ~f symmetry.
+Z & &me qu~tlt~
+of the order o$ de~lty.
+S shou!ld be a mean between the surface of the
+directly to the action of the air and the surface on the TT;%!
+bac
+era of airplanm uqdy
+consuier S equal to the greated projection of
+the wing on a hormontal pIane.
+ZSTUDYOF TKEWINGSOFANAIRP~
+ED?FEL.
+
+OLAEDIAGRAMS W
+OF
+
+M. Eiffel represents t@ mperties .of the wings of w airplane by
+%
+means of what he calls sunp polar chagrams.
+On two rectanguhm axes, he lots as abscke the values of &
+the same scaIe being used for
+and as ordinates the values of k
+both. The curve thus traced in b
+Z ~ plane is called the
+A point of the curve corresponds to a deter“first Sim Is pk.”
+10 i. The radius vector from the origin to
+minate v a!us of the
+Y% e quantity &
+The angle of this radius
+this point re resents
+vectar tith t{ e axis of ~ is the angle between the resistance of
+the air and the normal to the direction of relative air moverimnt.
+E this angIe is denoted by 6 we have
+tang. e=- G
+~,
+The tangent drawn fiomZ*
+
+. . . . ..*.
+
+..(l7)
+
+origin to the polar gives the wdue
+
+of 0, 6’~,for which the ratio — is a minimum.
+4
+To each point of the curve corresponds a value of the angle i
+and a value of the angle 8. If 8~a the resistance of the am is
+normal to the chord of the pmfle; ti @<i, the r&stance of the air
+is forward of the normaI to the chord. For 8 >i it falls behind the
+chord.
+and K repnwented to the same
+‘his mode of representation (
+scale) is not suitable for the. v3 ups -of tie augle i corresponding
+ta the small vshm emplo’yed m awation. Ih fact for these values
+of the .an le i. th~ polar chagram-approaches very c~ose t? a straight
+line shghky inched to the m
+of ~.
+The oompanson of one
+7Z3W-S. Dec.669,644-37
+
+—
+
+678
+
+AERONAUTICS.
+
+wing with another by sitnple superposition of
+
+operation.
+
+“ arm is a delicate
+v
+In particular it is ahnost -nq?ossib e to compare the
+
+W&F IWPIX@Z minimum value of ‘.
+the
+Accordin y, hf. Eiffel construct what e calls the “second simple
+%
+po.h.”
+8 e takes for ~ a male five times larger ~haau
+f~r ~,
+In
+tlus mode of repmsentatum, a vector “oining the o
+mth a point
+on the curve is no longer equa~ to d , and the ang e of this vector
+Y
+with the axis of ~ is no longer the angle L9. However the same
+as for the small values of i, less than 10 , & is very litt~e difkwent
+from ~, and for the v~ues & the ordipates of the new cnrm rqay
+be taken. Jt u convement to add to tlmscurve a scale repr~ontmg
+values of ~.
+On a parallel ta the axis of ~, passing through a
+%
+point of ~, values are plotted of # corresponding to one of the
+.
+intersections with the new curve of t~e radius vector starting from
+the~rigin and end~~t
+this point. Let us call this line tho axis
+‘f =’-”1” ‘tier ‘hat T ‘nay ‘-prid
+‘0 m angle“ k b ‘ccsary that the vector just named should cut the second polar curve.
+The minimum value of’s
+is then given by the” point where the
+%
+tangent from the origin to the polar curve meets the axis of ~.
+8. STUDYOF THE HORIZONTAL
+MOVEMENT
+OF AN AIRPLANE-THE
+LOGARI~C
+POLARCURVE.
+b order to study the horizontal movement of an airplane M.
+Eiflel has ointed out a very ingenious representation, to whick he
+has given & e name of 10 aritkuc polar.
+Ikt us consider a mode of an airplane and let i be the a le made
+5
+between the direction of relative air movement and a straig t rcforY
+ence line intimately connected with the apparatus, f?r pxam lc, a
+straight line doubly tangent to the lower part of the prmclpql p!/anes,
+near the fusdage. To this value of the angle i, the experuncnt on
+the model will give corresponding values of the resistance of tho air,
+of which the pro “ections paralIel and perpendicular to the air movement are rz and rg. To these equations (13) serve to give the
+corresponding values of l?= and 1$ relative to an airplano of full
+sise.
+.
+Furthermore, let
+= the we~ht of the actual airplane.
+$= the power required to mamtain horizontal fright with a relative velocity V.
+The equations
+P=l?=v’
+Q-RYV’” }
+””””
+””””’’
+(18)
+define the correlative values of P, Q, V, I?z and R , and henco of the
+angle i which corresponds to the honmntal fl” h! of an a“ lane of
+?
+determinate form (especially of amairplane in wf ic.hthe dept rudder
+
+-
+
+AJ?J30NAUTKJS.
+
+579
+
+occu ‘K a determinate @tion)
+when the ti
+I to the ath of @ht.
+P&
+I&us COnsi er such an airplane.
+i
+@18tiOnS (18) gh imIUedlddy
+Iog. Rz=Iog. P–3 log. v
+log. Ry =log. Q –2 h3g.-v }
+
+or
+
+log. Rs=log. P-&x
+
+m
+
+of the propeller is
+
+. . . .
+
+q
+
+. . ~19)
+
+log. V
+q
+
+Iog. R,=log.
+
+Q –—
+&x@bg”v
+
+q
+
+(20)
+
+1. . .
+
+The experiments on a modeI permit, for mricma vahms of {, the .
+determination of corresponding values of R= and Rr
+On two reotanguhr axes let us lot to the same scale, on the axis
+of abscism, dista+ces pro rticnaf to the various valuea of log. R=;
+on the axis of ordmate9, r IStanqa-pro orticnfd to the various valuea
+of 10 . RF. We sha~ thus obtain u t1!e phne of the axes a curve ta
+q%ic% M. Eiilel has givm the name of logarithmic ohm. Each point
+on this curve corresponds to a detarminatOvalue o$ the angle i which
+is inscribed O? the curve.
+Let us comnder &vec~or o% running from the origim O to a poin~
+~ on the curve. The vector has for projections on the axes of
+ooordmates the vahms log. Rz and 10 .1$. $ut equations (20) show
+that this veotor is the resultant of a %
+rcken Iine of whioh the veotors
+are
+Iog. P dirsoted ilong the axis of log. R=.
+log. Q dmeoted along the axis of log. RY.
+
+F
+
+13 xlog. V directedin the thirdygle of t-he coordinate planm
+(– og. R= — 10* RJ), ~d making vnth the mm of-log. & an angle
+of wluch &e oosme ISequal to
+
+E the two extremitim, O and U, of the broken line n-preserved,
+the segments may be run through “in an order whatever. Tlms,
+for example, we may have any one of the zollcwing orders:
+log. P, ~
+x Io . T, Iog. Q;
+10 . Q, log. P, P 13 X log. V;
+f- 13 x Iog. v, log. Q, log. P.
+It is well Imown that starting horn the ointi O one shouId, following the broken Iine, end at a pond ~ of t%e 10 “thmio pcIsr. The
+directions of the veotms are, furthermore, welY known. If we take
+two of the veotors of the broken Line,the trace of this line permits
+imrnedihly the determinat~on of the third.
+‘We may thus solve
+a series of problems r %~~~~~=n;~t%;g$?~k;
+
+-,
+.-
+
+AERONAUTUY&
+
+580
+
+when theaxis of thepropeller kparaUelto thepath.
+Wemight, for
+exam le, desire to know what vve~ht should be given to the apparatua
+in orf er to obtain a gwen velocity with a iven power.
+In ~hisproblem. the yectora}og. F’ and F 13 x log. V are known in
+magmtude and dmction; it E .%asyJO trace them. Frmn the extremit of the vector ~
+x log. V theie is drawn a straight line
+paralbT to the axis of 10 . RV, wbmh is continued to its int of inter%mlc ohw. The vector log. r is thue consection with the 10 arit
+structed; it .givts t%e we” ht 8 which ia sought. At the same time,
+the point of intersection o? this vector with the polar curve determines
+the angle i of the flight.
+Let ua now consider a velooity Vowhich ia, for example, the nornd
+actual velocity of the mrpkmea (100 kilometers (62.1 mile-s)per hour).
+Then equations (18) may be written
+
+p
+
+.
+
+R= ~-ti”
+()
+
+~=
+
+&=Rj
+o
+
+2”””*..,,
+
+()
+
+From these we derive
+log. R== Iog. ~,
+()
+
+Q
+log. Rv= log. ~
+()
+
+I
+
+. (21)
+
+a “-@x]og.;
+
+‘
+o
+
+a
+–A-mx%
+m
+
+.
+
+mxlog.
+
+.
+
+q
+
+(22)
+
+o1
+
+On the axie log. Vlet us take a point V..such that
+. . . . ... -----0 To= @tilGg.
+v. (@. 1.)
+The vector KV then reprewnta
+
+.
+
+;
+
+---
+
+-—
+.—
+
+.
+
+;“.
+
+.
+
+Let ua then carry this vector ~ver to. (7J3 on the vector AB, and
+then project Cj ~o Ao on the axM iog. &.
+Fully, lead the vector
+ADO to the ordinate parallel to the log. RV. To the contour
+OABM{, in which
+OA =log. P, AB = fixlog.
+
+-----
+
+V, B H{=log.
+
+Q,
+
+we thus substitute the contour 0AJ30 M{, which is its equivalent
+since it has the same reeultant, and which is such that
+
+We have as a result:
+Vector OAO vector OA + vector AA.
+=
+Vector AAO- –3 Iog. v.
+Vector OAO=log. P – 3 log. V. =log.
+
+~,
+()
+
+681
+
+AERONAUTICS.
+
+When the velooity of the “ IeZleis equal to Vo, the vector AoB.
+3
+disa ems; the points A. and o become coincident with the point
+& r!g. 2). It IS,in fact, easy to see that we have
+3&Ao=310g.;,
+
+Bo&=210g.;
+
+The coordinates log. R. and log. Br Of the Pkt
+values .
+
+~~e
+
+Iog. l?==log.
+
+for
+
+~*
+()
+
+Icg. Rv =Iog.
+
+fi~
+
+Q@
+““””””””(23)
+~
+I
+()
+
+From these equations we derive
+R.u~8
+q
+
+~N#
+
+(24)
+
+””””*””””
+V2 I
+
+We are therefore able to develo a correspondence betwem a point
+~= on the axis of absckme (@. 1F and a value R=, such that
+o~=log.
+
+R=,
+
+and a value I’. of the udeful power such that
+o ~=log.
+
+~,
+()
+
+h other words, the axis of abscism may be graduated in terms of
+useful
+Wer.
+In &same way we may graduate the axis of ordinat= in *
+of weight.
+Let us now suppose that, in a pr?blem, we have ‘veq the useful
+K
+eed V. Themofabsc~=,
+w-h
+N thesde
+lately the point Ao, such that
+ror P, give9
+v&i. =Iog.
+
+()
+;8
+
+(see fig. 2.)
+
+The vector VOVis such that
+v.v”mxbg.;”
+
+-
+
+AERONAUTIC&
+
+582
+
+If this vector is led down from VOon the scale of R~, which is at
+the same time the scale of we~htl the extremity of the segment gives
+immediatdy the weight Q whch E sought.
+, second) generally used,
+In the system of units (meter, kilo
+P is e ressed in kilometwsw-ends,
+F in meter-seconds, Q m kilograms ? weight). It is more convenient, for practicsl a plication,
+to graduate the scales for P and V in horse wer “and in L ometers
+er hour. To this end it is sufficient to divi r e the indications of the
+K%t scale by 76 for homepower and to multiply by 3.6 the numbers
+relating to velocit .
+E the vdocity %is 1- than V& the segment is dimtad o~msite
+ent VO
+V. The contour to consider is V. Ao’ ~r M{.
+h) the
+(See ~.y
+We have, in fact, in this case
+
+()
+
++3 log. ~
+
+Q
+log. Rv==Iogo ~
+
+-I-2 Iog. ;
+
+log. R=-log.
+
+&
+
+()
+
+I
+
+It is easily seen that these equations represent the projections on
+the two axes of the contour VOAO’B ‘ Me
+We are thus led to the following n$e:
+If we follow a broken line start” from the origin and ending on
+%
+the pohr curve, &e direction in whi 84 vector is traversed is the
+-tion
+in which such vector should be placed; starting from the
+o
+, on the corresponding scale in order to give ifa value.
+Y t results immediately that if we have the contour V~BOD (fig. 2],
+the vector BC corresponds to a speed “greatar than the vector Bll,
+these two speeds being, furthermore, inferior to VO.
+Let us suppose, now, that the results found with the model do not
+correspond to the conditions which had been fixed a priori for the
+airplane. The qudion may thai arise of changing proportionately
+the dimensions of the a aratus.
+Let .iVbe the ratio o?&elinesl dimensions of the second apparatus
+to tlume of the first” IV,for example, might be 1.10 for an increase of
+10 er cent in the ciirmmsions.
+A e fundamental equations of horizontal flight for this new apparatus will be
+&=
+
+R=@ ~
+(7
+
+$J=RV
+o
+
+‘
+. (25)
+
+;’””””””””
+0 1
+x)
+
+to construct special polar cuwea corresponding ta
+It is not nec
+7
+various vslues o N in order to determine the value suited to die
+number. We find, in fact, from equations (25)
+.
+
+log. R==log.
+
+()
+;,
+
+Q
+log. R#-log. (w
+
+)
+
+–3 log. %-2
+
+log. N
+
+– 2 log. ~-210g.
+~.
+
+.**
+.
+I
+(26)
+
+N
+
+.
+
+AERONAUTICS.
+
+688
+
+it is cmmenient to add a fourth wotor,
+JEx
+
+Thisisdireoted
+
+ilongthe
+
+log. iv.
+
+Iinemakingthe
+
+angle 5~withthe
+
+axis
+
+abscissa (H
+T’. N, &g. 2).
+If N is greater than unity, the valu= of log. N are hid off along
+this axis; if Nisless
+
+thanunity{they
+
+are laid offslongtheline~
+
+with the axis of the absciss=.
+IX then the va?ues fixed in advance =e I’, Q, V, it is sufficient, in
+order to have the value of N whioh will pqrroit of-making these
+values, to draw the fourth segment in a smtable dwection until it
+meets the polar curve. The fourth segment indicates furthermore,
+hw ourve, a suitable angfe of @ht.
+by its intersection with the
+Instead of terminating x e polygonal contour running from the
+origin to a point of the curve by the.veotor -@x log. N we may traoe
+this segment first. fi ot~~ words, instead of starting &m the origin
+of oontour, we may stsrt from a
+mfi
+of coordinates as the o
+We then see immediately by the &
+situated on the axis of F
+what becomes of the prop.&ties of an airplsme,for which the dimen~
+sions have been muhplied by the number determined by the
+int
+on the axis of N which was taken for the
+int of departure. F
+broken Iine drawn between .tks point anr the polar ~urve giv=v%
+system of VSIUSS , Q, y, wlueh correryonds to the moddied a paratus.
+P
+We can not here imihcate the sdutlon of all the. roblems 1’ which
+O!
+the consideration of the logarithmic y~
+ProJ-.
+.To tw~
+reference should be made ta the work o M. Etiel noted m ~e bfiho raphy attached to tMs paper.
+the results to which this study of the
+‘=%T&%;3%:ti:
+For all the forms of apparatus stuched y M.
+Iar curves alwaya prwent the same general chara&istic, that of
+& e 3. Beginning with small values of the sngIes of incidence, we
+fid the engkw of horimntal flight for whioh the properties are the
+following:
+(1) Angle ~ for whioh R. is minimum (@. 3).
+le H given b~ the point of cantact of the tangent to the
+This
+Y
+polar, para el to the mm of ordinates.
+Horumntal @ght under this angle corresponds to-the mmcimum
+speed for a given power, or to the minimum power for a given speed.
+(2) A@e
+
+& for whioh ~ is a minimum (@. 3).
+
+This angle is given b &e point of contact of the tangent b the
+polar curve, drawn par &d to the axis of N.
+Horizontal flight undar this angle corresponds to the minimum
+tractive foroe required for a given weight, or to the maximum weight
+for a given tractme force.
+(3) Angle & for which&is
+
+a minimum (fLg.3).
+
+-.
+
+AEROIIAUTTCS.
+
+584
+
+poPcs:&E;r:{e:$ corresponds to the minimum
+G%:f;yF’ ‘Wn’ti’he
+‘f‘“
+Horizontal flight under this angle
+power for a given weight, or to the maximum weight for a given power.
+(4) Angle it for which R is maximum (fig. 3).
+This angle SEgiven b &e point of contact of the tangent to the
+polar curve, drawn parA d to the axis of abscissa.
+Horizontal flight under this angle corresponds to the maximum
+weight for a given speed or to the m“minmms ed for a given weight.
+It is seen that to eack one of the
+h o~$ciden~e, & i, &. if,
+we may relate two magnitudes, of whl
+one M nmxunum or mml3
+mum when the other is given. Each one of these angles is the most
+favorable angle regar~
+the two corresponding mamitud~.
+Aa these polar curves, m their useful part, do not ~avo a point of
+Mection, it folIows that the nearer the angle of horizontal fhght lies
+b one of the
+lea~, ~, “ , i,, the better are the conditions with regard
+to the group Y magnitu3 es which correspond to three angles.
+o
+Let us take an axamp~e. Them
+weight carried by an airplane is
+judged to be too small. It is dem.redto gain weight at the expense
+of speed, but at the same time prmerving the same expenditure of
+It is sufficient to approach the point for which the weight
+%Yli maximum for a given power. It is WSU give to the ap arato
+tus a construction such that horizontal K ht (mth the axis o! the
+propeller in the direction of the path) is A e under an angle as near
+as ossible to the values indicated for $.
++ e have constructed the lo arithnuc polar curve for a given
+position of the depth rudder. % e have, b means of this curve,
+studied the roperties of horizontal flight ?or an apparatus under
+dMerent angfes of flight. We have then supposed that for all thm
+aK@S the air resistance pawd sensibl tlmough the point of intmsection of the axis of the propeller an$ of the vertical thro h the
+center of ~amyity. For each ap aratus this is sensibly true or an
+Y
+average poslt~on for the depth m $ der.
+But we may a preach stall more closel to reality. Experiments
+made on a mod J with various positions of the depth rudder “ve tlm
+resultants of the air resistance which ass exactly through tf e point
+Y of intersection of the axis of the pro & er and of the vertical through
+the center of gravity. We then have sufficient data for the following
+tables:
+clm@&lwca the
+d
+PcaJt:t of
+
+A...
+
+_-.----.
+
+~--.
+_--_--------------
+
+rdstdst?aay
+
+__ RZA,___--_-__RzA,
+_----_.-------R=B,
+----------_--
+
+.RgA, i
+RYB, iB
+
+B=o, Rvo, iu
+
+With these data we may construct the curves
+
+A ~oint of one of these curvw gives not onIy the values of R.
+RV, a, but indicates at the same tune t!he corresponding position o{
+the depth rudder.
+
+585
+
+AEEONAUTIUS.
+41 TEE
+
+cHARAcmRIsTIc
+
+OF PFLOPELLEIM ACCOBDING
+TO G. EIFFEIA
+
+CO~
+
+The- ~erimentsl
+study of the propeller incdudes the following
+quantitm:
+(1) The thus:, II.
+(2) The eflsctive power, P., delivered to the propeller shaft.
+(3) The number n of revolutions per minute of time.
+(4) The velocity of flight, K
+These exp erimentii data perinit the determination of the following:
+(a) The useful pow= expended in propulsion
+P==wx V . . . . . . ..
+(27)
+2mn. The s eed of rotation of the
+J (D equsk the diameter
+(c)
+
+moment of the couple of rotation
+~ =—- . . . . . . . . . . ..
+P.
+2Trb
+(d) The etE&ncy of the propelk
+
+(28)
+
+(29)
+~-g=$&””
+m””””””
+What are then the coefficients which should be considered in the
+stud of a propeller?
+(1J The direction of the relative velocity at the extremity of a
+Made; it is cbracterized by the ratio
+v
+
+a
+
+(2) Magnitudes of the nature of a density,
+n
+c
+iiW’FWn3Pf
+
+P.
+
+P=
+W”-
+
+q
+
+“*””
+
+(GJ
+
+(3) The abstract number P.
+Let us assume, as a fit approximation that the magnitudes here
+k’
+mentioned are functions of a single ratio —.
+nD
+It is naturalIy the same with the magnitudw.
+%(%)”’
+%(3Y”
+%(%)”
+a(%)’”
+“
+!
+whatever may be the exponents m,
+In the group (GJ the velomty P% &“not enter. We may then
+dispose the preceding exponents in such manner as to defie two
+other gro~ps of coef3icientAwhich do not contain D or m.
+By tahng m= –4, p =q=q’, = -5, we have the group (GJ
+IITL’ On? Pen? P~n’
+-p’~’~’
+T.””””.’
+By taking m=p== –2,
+D+”
+
+q=< = -3,
+D4’
+
+A’
+
+. (G,)
+
+we derive the coellioients
+h’
+
+“
+
+“
+
+“
+
+“
+
+“
+
+(GJ
+
+586
+
+AERONAUTICS.
+
+With the efficiency p, the ~reced”
+groups define 13 ccef6ci~ts
+which may serve to ~act~e
+a pro lem.
+Y
+hong
+these coefficients It is sfilent
+to note more especially
+the following:
+Pen’
+Pe
+~)~f
+P”””
+. ..(G4)
+Two roblercs, in fact, often ari~, as undei (1) and (2) following.
+(1) &ppose an a“ lane for wluch we must whoose a propeller
+directl connected wit the motor.
+T
+We ~ave given, the s
+of translation, V, of the airplane the
+power, P., and the num P er of revolutions+n~,of the engine. ‘l!haw
+data enable us to crdcuhde the coefEcient +.
+What is the diameter which should be given the propellor?
+What is the efficiency of this propeller under the preceding conditions of operation?
+Let us take a given type of pro eUer. Suppose a study of a
+model of this pro Llerhas permittecl’us to construct curves giving
+p #
+F
+as a function of ~ the various values of -& and of p.
+-r.
+It ia then easy to take from one of these curves the value of --&
+-.
+which corresponds to the particular value of ~
+suited ta the propeller.
+
+gives immediate~y the diameter of the
+
+This value of ~
+
+propeller as desired.
+
+At the same time, on the other curve corresponding to the value of
+n% thus determined, we may read tho value of the efficiency p.
+.- (2)- Suppose an airplane with chain-connected propeller or a
+diri ‘ble.
+l%’ have given the wer, P , of the en “ e, the speed of translation,
+e
+V, the $ameter of t r e propeller, D, nnY, in consequence, the cocilicient *”
+It ti-r&@red to determine the number of revolutions of the propeller and M efficiency.
+M us suppose that for a given type of pro~l~er we have, by
+means of model ex~eriments, constructed. cvcs gmng M a function
+-.
+
+‘f 6 ‘dun‘f *P
+
+and of the efficiency p.
+
+On the first curve the particuhw value calculated for ~
+corresponding value of ~
+
+f
+
+lutions, n, of the propeller.
+value of the efficiency
+ties.
+
+P
+
+gives the
+
+~d~ in m~uen~~
+
+the numb~ of revo-.
+To this value of ~ there corresponds a
+
+which is read on the second curve of ticien-
+
+“
+
+&lRONAUTICS.
+
+“587
+
+What has been said shows that the construction of tio curv~
+rdating b two coefficients of the grou s (C+), (C+t), (Cl) (the efliciency p being “oined to each one of $ ese oups) mdl!cw for the
+determination 1or the operation of a prope&r _wder determinate
+
+conditions.
+
+We may represent as a function of ~
+
+the following:
+
+of the group (GJ,
+
+%-%%
+
+~md~
+
+of the group (GJ,
+
+&
+
+-.
+
+of the group (Gl),
+
+and $&
+
+etc.
+We may indeed construct but” a single curve, that which corn+
+spends to the power ~d, for example on the condition of noting on
+such curve the various values of the &ciicy.
+We have assumed, as a first approximation, that any cae&ient I’
+of one of the receding groups M represented by a single curve in
+b
+the plane T, ~
+.
+()
+w
+k reality, to each value of ~
+
+r,$
+()
+
+vsrious values of I’.
+
+there correspond in the plane
+These Iatter correspond to varying
+
+values of o or of T d? (veLocity of rotation at the extremity of the
+blade). Tnstead of having for I’ a single representative curve in the
+plane I’, ~
+, there are sevwal curves, of which each one corre()
+spends to a particular milue of 0.
+However, for vzdues of nD varying by 10 units (D aqme@d
+in meters n in revolutions per second) in the field of values of W
+comprised between 25 and 50 (values actually met within ractice
+the curws corresponding to the vtious values of nD difkr %“1””
+ut ktt e
+from an average curve, which is the one here considered.
+
+—
+—.
+
+__
+.
+
+ELLERS-THELOGARITHMIC
+OF
+5. STUDYOF TEE PROPERTIES PROP
+DL4GRAM M. IXFFEL.
+OF
+We have now to consider the representation aa a function of ~
+the codkients
+
+of
+—
+
+$& and ~“
+
+We develop this representation by taking for abscissrnvahm of log.
+~
+
+and for ordinates values for log. &
+
+and log. ~~
+
+(fig. 4).
+
+We thus obtain what M. Eiffd calls the logarithmic diagram for
+.
+#h en the+e diagrams me constructed we ma read directly, by
+means of a sq#e scale and from axes suitably d osq the values of
+the 13 coaf8c~n@ p and the groups (Gl), (G,), (G,).
+pro ellers.
+
+A?3BONAUTZCS.
+
+688
+
+These same diagrams give us also directly the various values of the
+magnitudes
+v, ~, Q ~, ~, pa, PSI P“
+Let us now show how, by means of these diagram, the values of
+the 13 oharackistio coefficicmts of a propeller may be read. We
+have the following relations:
+
+log. $4
+log. &
+
+-’”go[%’w”’o’~-]o’”~
+2xno
+1
+“log” [~
+x ~ 1 =log. &
+
+responds to*
+
+=1.
+
+-log.
+
+2r
+
+q
+
+“ c Group (G,)
+
+I
+
+Acoording to the mode of graduation of the
+
+scale of abscis?rn, the vectqr having for -origin thie oint and for
+extrermty a point on the SXISof abscmwe, IS,m absolu ?e value, equal
+to l-log.
+
+a, ;
+
+(a whole number), being the value of ~ which oor.
+responds @ a point at the extremity of the vector. The values of a
+inferior to 10 correspond to the oints on the axis of absoissa situated
+totheleftof
+
+thepoint
+
+~==1
+()
+
+; the values of a superior to 10 cor-
+
+-O?IAU!I!ICIS.
+
+589,
+
+respond to the points on the axis of abscismesituated on the “ ht of
+?
+~p~t
+-J=l
+. me vectms issuing from the point =D = 1
+()
+()
+w
+measure then, with their sign, the YaIuesof log. *O
+This being understood, let us draw through the point
+(s=’)
+right limw having for angular cc&icienta, 1,3,5.
+Let us take the&
+lines as origins for vectors psraUel to the axis_of ordinates ~d terminating,
+
+eithex on the poIar curve, log.
+
+vectors thus dehxl
+log. -&
+
+~
+
+or log. ~+.
+
+‘I%e
+
+messure
+
+(right line for an@ar
+
+coefbient Wual to 1);
+
+thii line as
+b trac. the right line ordinate (Iog. 2 r) and ta .
+the origin?o vectors arslkil to JIM+&of ordinats, 9
+an terminating
+at one or the other of the Iogsmthnuc pokrs, these vectom represent
+
+c
+
+bg. ~~
+
+log.
+
+g,
+
+l’or thesezt~o Iast it is neqary,
+
+&*
+
+Iog.
+
+furthermore, to trace through
+
+1,0~. ‘Iog-2~
+) the right
+($= right limefor angular c~cient line2. for
+cient 5 and the
+
+the point
+
+angular coef6-
+
+Finally the vector log. p is represented by the difkmnce -of the
+ordinatm log. --& and log. --&e of the two logarithmic polars correw
+spending to the same value of+.
+b practice it is important ~–know as a function of V, n, D, the
+follo
+(l~~dd
+power, P= (from the viewpoint of the operation of
+the
+(2%
+effective power, Pa (from the viewpoint of the motor to
+inatdl on the aimlane).
+(3) ‘lTheeflicie~c P1
+%
+Let us consider t e logarithmic polar
+
+[
+
+“
+
+log. ~,
+
+log.
+
+$ .
+1
+
+We have
+Iog.
+
++==mg.
+V –&xmlog.
+
+m– &mlog.
+
+D
+
+1
+-(30)
+
+“
+k% .#p -log. P, – &@
+
+bg. n–L
+
+-+6
+
+log. D
+
+590
+
+AERONAUTICl&
+
+Let us traca the directions ON tmd OD (
+%$,Z3.?::Z
+positive direction of the axis of absciswe, the
+and the second the angle (r+ aJ, the angles ~ and ~ being given
+by the relations:
+tang. q=3j tang. ~-6
+. . . . . . . (31)
+The two equations
+
+(30) express that, for the contour OAB
+
+we may substitute the contour
+1
+! AIBICIB, which has the same resultant. This new contour is such
+that:
+OA -log. $,
+
+0~
+
+AB = log. -&
+
+is parallel to the axis of ~
+
+and has for magnitude log. V’;
+
+A,B, is parallel to OD and has for magnitude @Xlog.
+D; B,~
+is paralkl to ON and has for magnitude @xlog.
+n; 0J3 is parallel
+to the axis of ~-& and has for magnitude log. Pr
+aduations have been made on the various axea
+If the proper
+parallel to the si f es of this contour (graduation kPlog. V on the axis
+of ~J;. graduation in log. P. on “the axis of ~~;
+
+P aduation in
+
+@ log. ~ on the ti
+of n; grad.yation in @
+log. .D on &e axis
+of D), It ~ may, by the cons~ctlon of the contour m question, b
+determine anymne of. the vectors, lmowing the magnitudes of the
+others. It is sufficient to remark that the contour, starting from
+the point O, must always end on a point of the 10 arithmic polar.
+But this construction may be transformed in the$ ollowing mmrwr:
+In present practice with airphmw, normal conditions of operation
+lead to the employment of propelle.mof a diameter of about 3 metma
+(9.84 feet) turning at about 800 revolutions er minute. If, for
+these conditions near the normal, the vectors ~ %~andB101 are zero,
+the contour OA@l (?lB is reduced to the contour OAB. The construction reIative b normsl o
+ation is very much simplified, since
+it is reduced to the tracing oF two lime instead of four. Now the
+vectors AIB1 and B1Cl are zero, if the normal values (800 revolutions
+er minuta, 3 meters) coincide with the @#n O. We are therefore
+t’
+ed, for n and D, to a change of origin, whmb may be made in the
+following manner:
+Let us consider a articular number of revolutions n. and a diameter DOfor the prop & er. We have thcul:
+
+-.
+
+.
+
+AERONAUTiCl&
+
+691
+
+uations mean that \or the oontour OAB, ud, in oonThese
+sequence,? or the contour O BICIB, we have substituted the equivalent contour 0~’ B,’ C,’ B% . 4), in whioh:
+
+--(
+
+OA1’ = log. ~ LO direoted along the Xzis of log. J
+)
+o
+~%l’=+x
+
+log .3
+
+B1’cl’== O
+
+log. :
+
+For n=nO and D ED.
+
+(direoted
+
+dO~
+
+OD)
+
+(directed tiiong O.N’)
+
+the motors &’B1’
+
+and B=’O1’ are zero.
+
+The points n%%., D =Do are the origins of the Veotom @
+@
+
+log.
+
+log. ~
+
+.
+
+&
+
+—
+
+md q defied by the relations (31) axe too large
+The angks
+tmd lead to “ -proportioned diagrams. We shall substitute for
+them the angl~ cq’ and ~’ such that:
+
+3
+
+tang.
+tang.c%’=:, ~’=$
+
+.-....
+
+. (84)
+
+The sagular coefhimts of the axes ON and OD are one-haIf Iess
+than the preceding, defined by the relations (31).
+To this end it is sufficient ta lot the ordinates on a scale one-half
+that of the abscissae. The orL ate of a point on the axis of n,
+instead of being equal ta 3 times the absoissa of this point is only
+3[2 tima.
+In the pIace of equations (33) we shall substitute the following:
+log. ~;=
+
+log. ~–~
+
+~
+
+log. .:–&-
+
+log. ——
+%Or’j$ — . ql.g.:.$.
+@3
+
+log. &=
+hg.
+
+2 “~
+@
+
+and Iog. &
+
+q&;
+o
+qbg.;
+
+P.
+
+oI
+
+are represented according to the s~e
+
+soale as before, 04’ for example, in the two cases.
+and log. ~
+
+(35)
+
+Log. -&
+
+are represented accnrding ta a soaki one-half less
+
+for example, Cl” B’=~
+. As to the axes of n sndof D, they have
+)
+(
+tmgulax coticienta which are ondalf of the preoeding. They have
+
+—
+
+AERONAU!CICIS.
+
+592
+
+the directions designated by OIV’ and OD’ in figure 4. The vectors
+which are laid out along thsse axes have for magnitude:
+.
+
+The new contour is OA ‘ B “ Cl” B’, which is equivalent to the.
+contour OAB’, the point 11’ Acing a point of the 10 arithmic polar,
+of which the ordinates are laid off h a scale onw ~ alf that ofithe
+abscism.
+In practice, we have given directly the speed V and the ower Pd.
+11.is then n~sary
+to inscribe on the various points on tEe axis of
+
+Let us take an exampIe.
+
+Suppose tiat,
+
+on the @
+
+..—
+
+of -J
+
+v
+~ 0.7. TIM vector
+we have marked at a given point
+nZD
+comprised between the origin and th~” point represents log. (0.7).
+In a proposed problem, a certain velo@ty of tramdation is gwen, such
+
+P’”$)’
+
+that, in laying out, on the a..
+
+of ~~ -a suitable vector, we should
+
+find the point 0.7. If this is so, the speed Vshould have the value derived from the equation
+v
+9=0.7
+@T.
+m which
+nO
+-800 revoluticms per minute= 13.33 revolutions per smond.
+DO=3 meters.
+From this we tid
+V~UJX 3 X 13.33 28metm peisecond = 100.8 kilometers per
+=
+.
+On the axie of $,
+
+adjaoent to the division 0.7 we w-rib the number
+
+100.8. II then at any time weha~e aspeed of 100.8kilometers porhour,
+we know that the vector log.
+
+Y which must be laid off on the axis
+n~o
+of absciswe, will be such that ita origin is at the point O, while ita extremity is at the point marked 0,7 or 100.8.
+Following the same prfnciple, the ti of ordinates is graduated in
+horsepower. Let it be desired twfind @e point 011this axis to which
+corresponds a power P~= 100 horsepower. In ~he construction of
+the broken line we have to trace the vector ~
+in which 1’6=
+naa ~6)
+100X 75 =7,500 kilogram-meters.
+nO 13.33 revolutions per mcond; DO=3
+=
+Welave then
+7,500
+13.338 36= O”013
+X
+to the point aIready marked 0.013 on the axis of or&
+we write the number 100.
+
+Adjaoent
+
+nab,
+
+*
+
+593
+
+KsRO?XAU’MYS.
+
+PELWRS-TKE DIAGRAM
+PROPERTIES FSCREW
+O
+PItO
+OF SMN’J!-CYR.
+OF THE AEllOTECEINIC
+lN~
+
+6. STUDY OF THE
+
+At the Aerotecbnic Institute of Saint-C&r, for each propeller,
+there are first made certain observations with the ropek held at
+a tied point (not propelling the car) snd the fo5 owing curve is
+t.hm constructed:
+Abscissa iV=revolutions er minute.
+Ordinates ~ Atractive pulf in kilogram.
+P$f’=horsepower on shaft.
+Following this, with the propeller used ta propeI the Carlsimilar
+measurw are taken.
+er
+For a speed= V and revolutions per minute= If or revolutions
+second -n, let the traction or thrust =~ and power on the shaft= $
+Wq then compute, for the same rotatme speed of the propeller, th~
+ratios
+Ic
+Pa
+‘ p-g
+~~
+It is assumed, as a Suf6ciit
+
+fit
+
+apprmiirnation in practice, that
+
+Oorves are next plotted,
+these ratios are simple functions of $”
+w
+for wtich fie Valm of ~
+are abscissa snd the VaITMS the
+of
+
+to CoL Charles Rensrd, who was the first to iopose
+Accor “
+the use Y t ese qressions in the study of the screw prope{ gr at a
+of
+fixed point, these ratios for each. type of pro eIIer, are constant;
+they are the same for al’i s$ii$
+propelkrs d d uced from tki type.
+u ti
+tudes &
+
+h ‘0’ ‘he ‘atios ~’
+-$&
+
+*
+
+are proportional to the magni-
+
+considered by K EifEeL
+
+But if the ooaflicients ~, & of @l. RenaI& ~~~
+
+~fi
+
+of M; Eiftel,
+
+vary with n, it may be assumed that this variation will ~emain neidy
+the- ssme at all speeds of tianshbtiqrk. The ourve wkh repmenti
+as a function of& may be the SSIMIw~tcver fie v~~
+L
+lo@ ~ tie c~e rep~enting --& SStifllllOtiOnOf ~“ ti~
+~
+
+of n) so
+*th ti
+
+!l!&s is the reason for the mode of representation adopted at the
+Aerotecbnic Institute of Saint-@r.
+728060-s. Doe.6s9,w-m
+
+—
+
+CEAP’PER IV.
+THE RESULTS OF EXPERIMENT.
+1. WITHINWHATLIMJ7Yl
+MAY T~ REStiTS OF EXPERIMENTS ADE
+M
+ON MODELSBE APPLIED FULL-SIZED
+TO
+MACHINES
+7
+We have seen, Chapter II, that ex erimenters have studied the
+problem of the resistance of the air eit% on reduced size models, or
+er
+on models nearly full sise or on actual full-size models. The mostcom lete and important results are those obtained by M. Eiflel on
+mo z els.
+One qua9tion presents itself immediately: Are all time experimental resulte comparable among themselves? TO what extent, for
+actual airplanes, may we use the rasults of qeriments
+carried outt
+on a reduced scale?
+Consider a body surrounded b the air and having a velocity of
+translation V relative to it. If ~ is a suitably chosen surfnco, distinctive or characteristic of the form or design, the resistance of the
+air may be expressed by the equation:
+R= Z5’P . . . . . . . . . . . . . . . (1)
+K being a coefficient of the nature of a density.
+We ma first note a law sufficiently exacti in a great number of
+casea,lan~ which me fomulated in the seventeenth century by
+Hu ghene Mariotte, and Pardies m fo~owe:
+fl the density of the air remains the same (experiments carried
+out in air at sensibly the same temperature and pressure), the
+coe&ient K depends solely on the form of the body studied.
+For simihw bodies, the coticient Kis constant, whatever maybe
+the value of the velocity V. The realization of an experiment on a
+reduced soalq similar to an ex eriment full size is easy. We may
+for the
+choose at wdl the scale of &e model and the docity
+eriment.
+e have assumed that the body is given a movement of translation
+T
+relative to the air; such a restriction LS
+not essential. The movement
+of the body@ the au ~y be more complex, accom anied, for exampie, b rotation; such IS the case of a screw props J’er. Jh an such
+case, i owever, the eri heral velocities for the model and ?or the
+full-sized machine sU’ d be in the same ratio as the velocities of
+ou
+tram~ati$ti~. advance.
+ropeIIers, the speeds of advance are zero, and this
+ed, If D is the diameter of the propeller and n
+condition is m
+the number of revolutions in unit time, if S is the area of the circle
+swept by the blades, we draw readily from. (1) the laws announced in
+1903 by Ccl. Charles Renard; viz, for simdar propellers we have:
+m
+—=constant;
+nz~
+
+‘$,=constant
+
+where II= traction or thrust of propelbr
+expended.
+694
+
+and P== useful power’
+
+q
+
+595
+
+AERONAUTICS.
+
+It fohws inunediatd , from what hss been said above, that these
+formuke ma be exten I ~ with difkmnt coefEcients, to propukive
+propeIIms wx en the combination of speed of advance and of rotati~n
+gives, for homologous points, speeds
+ually inched to We m.
+?
+h other words, provided the valum of ~ am the ~~e for two Pro@J~
+
+eometricall similar, the resuh of aqyziments made on
+%
+i em are app ‘cable to the other. We may a ply to @c@n,
+screw propelkmegeometrically similar ~ equation (17 by comudermg
+that the coeflkient Kis a tiction
+
+of ~*
+
+. lane and for airplanes com lete, M. Eiilel
+~F~~h~-~famti~e
+function of the form of &e body under
+investigation. It is on this assumption that the formuk of paragra h 1 of Chapter III have been established.
+& E&l bsses his conclusions in this r srd cm a com~arison of
+andant orand on
+results of tests ma-de, on the one hand, b {L
+ht snd, on the other and, by himself by mea biplane in free
+9!
+of a fsn on a mode o this airphme built to a scale of 1/14.5.
+Let us denote by l?=~ the drift (sqpal to the thrust of the pro~f~2~wY$i;~EZZ&Yo?d;$~
+tii$lt&l&$f%;h&~$~
+ments on the fulhized machine in order to asa to tlm model. The
+drift of the model at a scale of 1/14.5 wi J be, at the veloci~ V,
+Equal to
+& R=V2
+l%mm
+This drift, brought to a speed of 10 meters (32.8 feet) per second,
+has for value,
+lo~.
+*o.
+.a o..(2)
+~=r=gx ~zv’
+& (14.5)’X ()T
+Simihly, the thrust on the mod~ calculated from the thrust l?YVz
+me-ed
+on the airpl=e and brought to the speed of 10 meters per
+second, luw for value,
+~y, =L
+RFV2
+J-+2.........(3)
+
+()
+
+These vahw r=’ and ry’ ma be com ared with the vduea r=aud ra
+mcmmred directly on the mo Jd! place before the fan.
+el
+From this the-following values were found:
+~=o.99
+~=1.ol
+
+1
+
+‘“ -w
+%’=
+
+1
+@
+
+M. EiHel believed that he w= justied in concluding from these
+results that the law sa stat+ above (law of similitude, supposing K
+constant) was vtied
+within 1 per cent. We do not oonsider the
+conciueion justified. The me~urementi of M. EifTEJand those of
+
+—
+
+596
+
+AEBOIKAUTIC&
+
+Commandant Dorand were not- made wider the same conditions.
+In those of M. Etiel the model of th6 propcdler was fixed; ~n thosOof
+Commandmt Dorand the propeller revolved bef~re sustammg planes.
+Now the wind from the propeller hgs on the wings a certain action;
+it therefore seems to result that the agreement within 1 pm cent
+betwmn the results of M. Eifkd and those of Commandant Dorand
+shows that if the e erimente had been carrhd out under conditions
+really comparable, we results obtain@ would have shown a definite
+.,. ,
+divergence.
+Comparative experiments on surfac~ and their models (ratio of
+1 10) have, furthermore been made at the swe relativa velocity at
+ti e labga#v~ o! Saint-&c (method b car) and at the Eiflel laboratory.
+values of the and e of incidence i, the valuss of
+T
+K%and & were p otted for a certain number of surfaces. The fot10*
+results were obtmed:
+(a) he
+curves for K&have tha same eneral form.; those dotm%
+mined b the oar are, in general above t ose dctermmed from the
+model; t%ey are, moreover m~~ distinguished from thorn.
+(b) The curves for L li~ewise ave the same eneral form; those
+determined b the car are sometimes above m 5 sometimes below
+the others. & the whole, it is very difficult to draw any conclusions from these dive encies. On the one hand the forces to be
+measured are very sma ; on the other, with the surfaces paralhl to
+T
+the current of air, the nature of the surfams (duck for the airplane
+at Saint-C?yrand well polished wood for the raqdel), with their roughness or slight deformations, ma assume.the lnghest importance.
+(c) As reganls the centers o? thrust (mtemecticm of the resultmt
+of the air resistmce with the chord o~-th~ profile of the ~rface in
+the pkme of symmetry), the
+However, for certain eurfm.es, rE$$f&&~~it%t$&~~
+ther from the attacking edge thsn the lkstitute of Saint-C!yr; for
+other surfacw, it is the mvyae.
+According to this result, It does not se~ that M. Soreau is correct
+in assumin that the law of similitude is lMS exact in regard to the
+location of %he resultant of the r~istance than in regard to i@ magnitude. However, ws shall find later certain other experimental
+results which seem to “usttiy this conclusion.
+(d) As b the distrii ution of the pressure (both above and below
+ment is
+normal) over the two f-of the su~acm, the general
+T
+tits satisfactory. The systematic chvergence is rnarkod y this fact
+t at ths values of the drop of the prassums below nor.md (negative
+!
+preesure or suction) on the u per face are greater for the csr than for
+the fan, which agrees with t%e.co
+arisen of the-values o! Kti. For
+certain angles n~~ the attacking 3
+hdicated a rel!ativdy greater value oi%;h&x%::m2;;2E
+In the comparison tithe rmults obtained with the surfac= twtsd
+full sise on the car and with models 1/10 teeted by the fan (same relative velocity), there was found the same general form of curve for
+the results, with the vertical force appearing systematically a little
+greater for the car than fop the f,sw
+I& de G&he deduces from his ex@iments on curded aeiofoils
+the followin conclusions:
+Two aerof oils of the same spread, but with diflerentiprofika geometrically dailar, are not comparable.
+
+.. .- ----
+
+597
+
+AER.ONAU!UCS.
+
+He has studied the two following forms:
+.
+
+(a)~ckm-:~
+
+(-*~
+
+thick,
+
+101mMmetere (4 fmdm)) with cfr-
+
+Chord=120 centi&etere(47.sfnchee).
+Masimum height of mean line eegment+kmgth of cbord=l/10 (m%
+eegment.interjection
+
+of plme of qnmnetrywith the ~
+
+Iine
+
+eqmdutant
+
+smdlower).
+bejween tlq two facw, up
+of upper E e eegment+length of chord= l/7 (
+
+per line
+segment
+=inteqectionof Ierte symmetry iththeupperfaceo 8er0f@.
+of
+w
+7
+i“
+‘&%Z?~&Y%;$’UP=?&-KKl
+ce@u@ere(Ui@zee].
+(99.3
+Ila&ue cmmtwe ofthelowerfece=252 centimete~ inchee .
+of
+Mrmmum hqht
+
+(66fnc1 ee) mdius.
+The two mrfaceaere joined by M circke of 14mfIlfmetere
+(b~nAe;:edti::~:iMti:
+SdiOR h 8 POE?d12tiOnof the ~,
+(2
+Maximum thicknees=60”milIfmeterf3 inche8).
+=170 cen.timetereOS
+( in@e . ‘
+s
+
+P ord=OOcentfmetere(23.7inchee1.
+Itadiueof curvatureof upper fece=06 centimeters(26.5fnche8).
+Radiusof curvatureof Iowerfxe=120 centimeters(49.7ticks).
+Radiusof connectingcircIes=7 mfIlimetere(0.2Sinch).
+
+roflea are subject to reductions below the normal
+These s-.
+p~~e
+very J erent at comes ding points. For the same @
+of mcldence there is no relation r etmegn the distribution of pressures
+above and below normal on the two faces. The variations of &
+thrust and the center of the thrust are ve different in the two cases.
+advances conOn form (a) the point of application of Ze -uhnt
+stantly toward the attacking edge as the angIe of incidence increases
+u to 25° (limit of the e
+riment). On form 0), on the contrar ,
+T
+e
+t.% point of a plicat.ion o the remdtant advances toward the attac c .
+ing edge un.. the angle i =about 12°, then for vslua of i greater
+J’
+than 12° it returns toward the oenter of the wing.
+The curve of the values of &is sensibly the same for the two forms,
+but the curve of the vduea of K takes very different forma in the
+increase constantly up to
+two cases. For form (a) the val!&s of
+%
+i = 25°. For form (b) K’ passes throug a mmdnmm for i= 12°.
+Tkis appears to be the cmihcal engIe for this form; it marks at the
+same tune the maximum of & and the most advanced position of
+the force.
+We have insisted on these rtdts of experiment which show clearly
+that, for wings and for airplanes, the law of similitude based on an
+assumed constant value of K ia not exact.
+Nevertheless, we believe that this law is sullicient for the guidance
+of constructors regarding the aerodynamic quaIitiea of aerofoils, or
+of complete airplanes for which the d~ign is in hand.
+Regsm3ing screw propelks, this law is not of iteelf s*t.
+It is not enough that the experiments on a pro ellsr full sim and on
+F
+its modeI should be made in such marmer that ~T shaU have the same
+value. It ia necessary further, that thes ecd of advance V and, in
+consequence, the peripi eral speed x nlls & be the same. Equation
+(1) ia applicable for propeUers moving forward thro h the air on
+F
+con&ion of considering K as a function not only of --- but of V.
+It is thus necessary, in order to kee the revolutions of the
+peller within an upper limit of 3,600, to $ old to a scale not ex &
+one-third for the modeIs of screw propellers.
+
+“
+
+.
+
+—
+
+#
+
+598
+
+AERONAUTIOA
+
+et, and which
+Theoretical considerations developed by M. Jo
+Y
+would require too much space for extended notice ere show that
+this departure from .~~ law of Huyghens, Mmiotte, anc1Pardiea is
+due to the compresslbfity of the au, which becomes of im orhmce
+at the high relative velocitks of the b~ades and the air wL “ch are
+realised in the case of screw ‘propellers.
+These same theoretical considerations show that, for the speeds of
+advance used in aviation (25 to 30 meters (82 to 98.4 feet) per second),
+a more exact law of similitude maybe rcaIized b corrections for the
+perturbation due to the viscosity of the air. J o this end it would
+serve. to test the model at a speed equal to that of the airplane multiplied by the Iinear ratio between au lane and model.
+If V’ is the speed of advance of t1! airplane and v that of the
+e
+.
+model at the scale ratio of ~, -we have for the resistances of the air
+
+If then we take
+
+~=~and
+
+lKv- &
+
+we shall have R V=rr
+2.M~’i’FMPMI$CEMENT F A BODYUNDERTEST THROUGHTHE AIR
+O
+BODY.
+YEME’NT FTHEAIRWITHRESPECT A FIXED
+O
+TO
+M. de Chiche hss found for certain surfaces, notably for planav
+distributiona of pressure differing from those found by M. EifIeL
+The latter has found, on the f@lowing face, only zones of prwsuro
+below the normal. M. de Chuche, on the contrary, for angles of
+incidence less than 20°! has found zmm of prw.sure above th~ normal.
+Now the ex@ments
+m the two casw~are very numerous and have
+been made with the grea-t
+care. The differing rewdts are, then,
+due ti phenomena which appear in one of the modes of experimentation and not in the other.
+The principle of relative motion is, in fact, not in uestiom What
+is in doubt is, whether, by the method of the tunneY conditions can
+,
+be developed which pernnt the assumption of equal relative motions
+in the two case3.
+Let us consider a solid which moves with a velocity Vin an indefiniti medium originally at rest. At a “ven moment, far from tho
+f two regions in the space
+origin of movement, we may &sti@
+surroundi
+the body under invea ation. One, formed of rc iom
+far remov3 from the solid, is not3 isturbed by the passage o! tho
+latter. At each of these oints there is a velocity relative to the
+movin body of — V, equ al, araUel and in the opposita direction to
+the v 3 ocity of translatlon ; . The other region, situated near the
+body, is disturbed by the movement of the latter. Relative to the
+moving body, each point in this region has a velocity which is the
+lwmdtant of
+(a) A velocit —V equal, parallel, and opposite in direction to the
+velocit of the %ody.
+(b) K velocity W due to the motion of the solid body.
+This last velocity is a function of the disturbance brought into the
+medium by the passage of the body. It depends, furthermore, not
+
+q
+
+AERONAU!HCS.
+
+599
+
+on$ on the form of the body, on its dimensions, on the dof
+pohsh of its surface, but also on the properties of the medmrn, its
+viscosity, and the initml conditions of the movement.
+bt us now assume the solid fked and the surrounding medium to
+be displaced relative to it. Tbk mode of experimentation should
+realize the conditions which re@rs the app%tion of the principle
+of relative movement. For this It is nece
+fiat, from b mommt
+when permanent conditions are =tabliehed, % e dcmity at each int
+in the medium disturbed b the prewmca of the solid shoz d be
+uiwdent to the resultant o T the two valocitiea —V and m.
+~t is assumed in themethodof thetmelthatsucha
+rtitmtis
+~obtained by giving to the fluid, in the uh&turbed
+arts, a mlcw.ity
+—K
+In particular, in the qeriments
+in the mi $st of. a-moving
+cohmn of air, it is s&umed that it suflic= to draw the am mto one
+of the extremities of the tumel sufficiently removed from the body
+phmed in the interior. Now this fact does not impl that the -relocIty, in the disturbed art, is equivalent ta the resJ tant of the two
+velocities —V and T+’
+The viscosity of the-fluid may intermm in such manner as to cause
+the state of the disturbed re@on to depend on the mode of producing
+the relative motion. Expmrnent alone oan decide.
+Now, as we shall see at a later
+int, comparison of the qeriments of hf. de Guiche and of M. G“ EJshows that the phenomena
+observed in the method with the tunnel are not aIwa identiod with
+those which r~tit from the mov-ent
+of a solid bo r Yin b
+~.
+We should note, however, that the stud of rasauresbelow normal
+use of car) do not
+made at the Institute of Saint-@r (meJ%
+od
+show, in com arisen with the experiment of M. b “ ell the dMerencss
+whioh M. de 8 uiche has noted. The question involved here does not
+seem ta be com Ietely elucidated. In particular it seems desirable
+that M. de Gui & should reproduce certain of his experiments with
+in order to e.stsbIish the atmospheric
+his apparatus at Sain&
+%
+of the manometers used for measuring
+pressure in the free branc
+.
+the pressurw above and below the normal
+h any case, the solution of such a qu=tion can be of interest
+ordy from the tiewpoint of the science of aerodynamics. It does
+id of practical
+not present the same interest from the vie
+ukdent
+aviation. From the latter viewpoint, we co~iT er es
+the two methods of producing the relative movementY etween
+the sir and the body under investigation.
+8. THE AERODYNH@
+
+—
+
+~
+
+PLANE-PIANIM ORTHOGONAL.
+OF 7!1313
+
+When the body is a thin orthogonal hum we may, in practice,
+take for the coefficient K of e uation (1) & e value &=0.080
+(0.0015
+pound second-feet). hf. Ei&!l has found that this coeftkisnt varies
+(a) With the extent of the surface;
+(b) For a surface of given extent, with the form of the contour.
+M. Soreau has m osed, in order to reprment the various values
+found by M. EifF , t e empiricaI fornda:
+$%
+0.0888 W“?
+‘W= 1+0.116 ~“.~
+The surfaces on which M. Eiflel has operated are in eneraI,
+too small; the perturbations caused by the mfhmnce o~ the % ouud-
+
+“
+I
+..—
+
+,
+—
+
+600
+
+AEItO?ITAUTKW.
+
+nderant. It wouId be Decesary to operate on surfzz
+?Wpz
+one of the sides has a length
+eater thau 1 nmter
+(3.28 feet). With such surf-,
+steady oon K“tions, characterimd
+by isobam parallel to the sides .of the plate, would be established
+“and would assume the preponderance. We might thus determino
+for
+a value characteristic of this regular regimen, and which
+would e independent of the area of the plate and of the form of
+%
+its contour.
+Experiments ~ver so tide a &Id have not been made. IIo?-
+
+E’
+
+.
+.
+
+::&”ft4G;%.:t%dM,l:::%:o#:f
+‘m b’ w “In or er that the tbicknsss of the plate normal to the direction of relative motion ma have an influence, it is neceswry
+that this thickness be of J e order oI the transveme dimensions
+of the plata From the point where the thickness of the plate is
+equal to one of the transveme dinvmsions, the coefficient Kw varksj
+first decreasing .~d then incre~”
+as ‘the @knesa increases.
+Y
+M. Etiel has studied, by means o the fan, the combination formed
+b two thin mtho onal phnes separated by a variable distance.
+dhasbeenledto$efollo
+~conclusiogs,applicable, for example,
+to disks 30 centimeters (11.8 inches) diameter:
+(1) The force on the combination diminishes &atl in proportion as the separation increases. It W= throug~ a mmimum for a
+certain value of the separation, and & en increase9 again.
+(2) The force on the combination does not begin to exceed t e
+force on- an isolated plate until the pl@ga We very cansiderab! y
+separated.
+(3) The force on the combination has always been IW than the
+sum of the forces on each of the plates taken alone. The effect
+of shiekling due to the forward plata rnwes itself felt, even whan the
+platw are very far apart.
+(4) The pressure on the plati exposed directly to the wind is
+ap roximately independent of the separation, but it always modcra & y exceads -the pressure on w isolated plate.
+(6) The shudded ylata is first drawn toward the forward late.
+This attraction vanes, tit increasing in abso~uti vrdue wit% the
+~p~$ion
+of the lates, passing through a maxmmm corrcspondi~
+minimum or the total force, and then decreasea to zero. Tius
+attraction is then changed into repulsion, of which the absolute
+value increases with immeasein the separation of the plates.
+(6) On the plate directly exposed to the wind, the mean pressures
+on the leading facie (above normal) and on the following face (below
+normal) are sensibly independent of the separation of the plaks.
+(7) The mean pressures on the leading and following faces of the
+shielded plate are below normal, so long as the platea are not very
+far apart=
+The mean drop in ressure on the leading face is, in absolute
+value, at first grea@r tEau that on the following face.
+The total mean force on the plate is such as to tend to bring
+ta ether the two plates (attraction for the shielded plate).
+%or a suitable separation of the two plates, not only the moan
+forc~ but also the forces at eaeh point OF the shielded plate are
+sermbly zero, and the resultant mean force u zeFo.
+
+AERONAUTKl&
+
+601
+
+l?inalI , when the separation of the plates inorewes beyond a
+mrtain L “t, the metm total pressnre on the shielded plate bemmes
+such as to tend to produce further separation (rep&ion of the
+shielded plate).
+
+‘
+
+q
+
+4. AERODYNAMICS TEE PLANE-PLANEINCLINED ~
+OF
+TO
+DIRECTION OF RELATIVE
+MOVE?IW-PLANE ISOLATED.
+(a) DIS~IJTION OF PBzssGsE& ASOVEANDBEmwTyOEMAL.
+(1) fia soon as the plane exceeds oartain dimensions there is
+found, on both the leading and following faces a oentra) zone where
+a regular regimen becomes -tablished.
+de
+@&mce
+of h
+zone is shown by isobars parallel to the attacking edge. In this
+entire zone the phenomenon is ddined b the distribution of the
+pressures along the line of, steepest gra J ent. The study of this
+servee, in many cases, to charactmize a em-face.
+M. Eiffel has studied onI this mode of distribution of mssurea
+above and below normal &e dimensions of the sidfs of #e #ants
+which are normal to the wipd were, in some CMW, tao sma and
+the e erimenter was able to observe only the pressur- in the disturbe? zone near the bow&uies ~f the phme.
+(2) The bcyndary zones of @turbanoe have a width sensibly
+g~~~t~~~~~t~i~~o%;~%keg
+some ZO opnt~e~~
+(7.9
+om 40 to 50 eentunetere (15.8 to
+19.7 inohes). Ih consequence, & order that the regdar regimen
+may be in evidence the plane &ould have a spread at least twice
+the width of the zonee of disturbance.
+(9) Special study of the Ieadiqg face of plane:
+Ang’ies of incidence less *W 20°.
+Bourlet has proposed the following forgmh deduced from theoretical consider@ions:
+Total pressure on leading face:
+
+S tern of units, Idogram-meter-ciond.
+P = area.
+I=depth in direction of wind.
+V=speed.
+C-coefficient which depends on the form of the plane.
+0 is of the form.
+.
+
+C=A–~
+
+where L= perimeter of plane.
+M. de Guiche has found by experiment:
+B=o.u
+A=3.8
+TViththese values the formda beoonm:
+P=(0.050–0.0014
+
+;)
+
+(sin’i)Q4m+P
+
+For eurfme9 sufEcientIy large
+P-O.050
+
+.
+
+(sin i)a4sPP
+
+*
+
+.-
+
+602
+9
+
+MHtUNAUTIC&
+
+This formula is not applicable for angles of incidence, {, such
+that the pressures memured along a line of greatest EJopebecome
+less than noriaal. The pwsures, thus measured, decrmee in fact
+continuously from the forward edge. The ma even become
+negative in the vicinity of the following e&e. !&o existence of
+pressures below the normal comes into evidence for smaller angles
+of incidence as tie ratio of the fore and aft to the transve~e dimmsions ia smaller. In the
+eriments of M. de Guiche it was determined that such prcssure ? ow normal began to appear as follows:
+b
+For surface 180by 120 centimetem(70.87 by 47.24 inches) from i =20°.
+For surface 180 by 80 centimeters(70.87 by 31.50 inches) from i= 10°.
+For surface 180 by 40 centimeters(70.87 by 15.75 inches) from i = 8°.
+The Iateral turbulent zunes show pr-es
+an equal distance from the attacking edge.
+
+less than those found at
+
+*
+(4) Special study of leading face of plane:
+Angles of incidence exceeding 20”.
+The formula of Bourlet is not applicable. The maximum pressure
+is no longer at the leading edge. This becomes when the angle
+increawa, a zone of lesser pressure like the three oker sides.
+(5) Special study of following faoe of plane:
+&g&~ :$ incidence. lws than 200.
+ar zone (isobars parallel to the attacking edge) for
+deptks of pP
+ane sufEciaut to render ne@gible the influence o{ the
+boundaries, the pr-ure
+at a given point and for a given angle of
+incidence a pears to be a function sokdy of its distance from the
+attackin e 1!
+ge.
+M. Ei Eel has not observed counter pressures on this back face of
+the pkme. On the other hand, M. de Guiche has very clearly observed
+them. This is one of the differences between the results obtained by
+one or the other of the methods of experimentation.
+(6) Special study of following face of plane:
+Angles of incidence exceeding 20”.
+There are no longer any counter ressums on the foIIowing face.
+The distribution of the pressures h3 ow normal becomes quite uniform.
+(b) TOTALFORCE
+
+(1) According to M. EHel, the total force passm through a maximum for an angle of incidence of about 37°.
+According to hf. de Guicbe the total force increases up to angles
+of 45°; be ond that it remains sensibly constant.
+For angres of inclination comprised between Oand 10° rectangular
+plates for which the tranmmmedimensions are greater t!han the fore
+and aft are sub]ect to tie greatest total pressures.
+For angles less than 10°, the following formula may be taken:
+
+(z) !I%e center of pressure, that is to say, the point where tho line
+of the resultant force intersects the thin plane, ia at the center of the
+plate when the plane is perpendicular to the line of relative move-
+
+AEEoNAuTIas.
+
+603
+
+ment. ~ proportion es the inclination decreases, the center of pressure advancw toward thO leading edge, even to the smalkst values
+of the angle.
+(3) The resultant of the air rssurea is, for inclinations exceeding
+about 10°, sensibly perpendic 3 ar to the ~lane. For smaller angles
+of inclination the angle of the reeultsnt vnth the pe~endicular to the
+Iine of relative motion is
+&eresuItant isinclinedto,~;~%~o
+&~i.!.Vbti&ci’f&n~~!
+(4) Thick plates.
+If the thicknea9 of a hme plate is increase$ lea “ the ends plane
+3
+md at right angles wit% the two faces, there ISintr uced but slight
+change as compared with the phenomena described for thin planes,
+except that the head resietmce is increased = the thiclmess is made
+greater.
+(5) Thick plane plate with leading or ioIfowing edge provided
+with outwater.
+With a cutwatw on the following edge, the ratio drift/lift is notably
+less than without. It is more advantageous to find the following than
+the leadin ed e.
+It is preffera le to have the forward cut-wateredge towsrd the lower
+rather than the upper side.
+FimiUy, the law of variation of the center of force is entirely different from that indicated above for planes.
+5. MIItOD~~II@
+
+~PLANES
+OF !llK13
+
+IN TM4_KI~L
+
+W de Guiche has experimented with three elements of ahminum
+of 1 meter (39.4 inches) spread, 20 centimeters (7.9 inches) fore and
+aft wid~, smd 8 millimeters (0.32 inches thicknw.
+He hss studied
+the distribution of the pressures along & e median Iine of maximum
+gradient, forward and aft, in the three following cases:
+(a) Elementi in contact (interval zero).
+(b) Elements separated by interval of 6 centimeter (1.97 inches).
+(c) EIements separatd by interval of 10 centimeter (3.94 inches).
+(1] Study of forward face:
+The character of the variation of the diminution of the presmres
+from the leading to the foIlowing ed e is the same for the separated
+elements as for tho~e in contact. k e resure dimini&e9 continto the folIowing & e.
+uouslyhorn the lea
+Second eknent: % we consider the second or middle element, the
+maximum pressure in tie vicinity of the .badin
+%EE.:;:
+become sensibly equal to that for the leading edge o f the.
+unless the Separation of the two eIements is equal to 10 centimeters
+(3.94 inches). For the distance of 6 centimeters (1.97 inches) the
+maximum pressure on the second element is inferior to tie mmdnmm
+pressure on the first element. As regards the forwmd face, then,
+the second element does not behave as if it were alone unless the
+distapce of tbe two elemen@ is equal to 10 centimeters (3.94 inchesj.
+‘I!lurd element: The mazmnum pressure near the leading edge IS
+alwaya clearly 1- than that for the second element.
+Total ressure on forward face: For angles of incidence I- than
+15°, it is~fortheseparatedelemedethanvvhentheyforma
+continuous surface.
+
+“
+
+.
+
+604
+
+AEEONAUTIOS.
+
+For tinglesbetvwn 15° and 25°, it is greater for the separatad than
+for the continuous elemenk
+For an lea greater than 25°, it is sensibly the same for the eeparated as f or the continuous e.lemente.
+‘
+(2) Study of rear face:
+The tit demerit showE pressures below normal, sindar to those
+for the isolated lane (no pressurw above normal).
+On the secon c1element, similarly only pressures below normal are
+observed. For small angles of inctience (4° to 0°) the drop below
+nornd pressure near the forward edge is mnch more pronounced
+element.
+than for the first
+This relation is km marked in proportion as the angle of irddence
+is increased~it is even rmmrsedfor angles mmeecling30°.
+On the thnd element, ositive pressures are observed for very small
+lee of incidence and! % prwsures below normal for ~ater an les.
+en
+to the total drop m pressure on the rear face, it is m gencrtd5 ess
+x
+for the s&parated@
+for the continuous elements.
+(3) Total foroe,
+This is, in general, less for the separated than for tbe continuous
+elemente.
+The center of resaure of & combination, deiined b its distance
+from the forwar 3?e
+of the first ebment, changca k
+?with variable
+angle of incidence) or the elements wit& Wparation than when continuous,
+6. AERODYNAMICS PLANEAEROFOIIS, RRAI+GED
+OF
+A
+STEPWISE
+hf. de Guiche has studied the disposition of Ianes stepwise.
+The plsmeeare parallel” the leading edge o ? each element is on the
+normal passing through &e following edge of the preoed~ element.
+!Ilhesteps are arranged in two wayB: Dnwotf if in going m the direction of the wind one descends the steps; reveres, if in gobg in tho
+direction of the wind one mounts the ate .
+The planes of brass, which M. de Gui& has used, have a spread
+of 100 centimeters (39.4 inches), a de th of 12 centimeter (4,7 inches),
+a ihiclmew of 4.5 millimeters (0.1! inches); the separation of the
+planes was aither 2 osntimetem (0.79 inches) or 4 centimeter (1.58
+mchw). The number of plans wm three.
+(1) Planes direot: Forward or lower face.
+Fimt element: Diminution of preaeure from the leading to the following edge.
+Second element: Iiwemely as compared with the caee of planes in
+ative prcssuro
+tandem, the leading edge is subject to a notable
+3
+e rear of tho
+and the maximum positive presqme is produced h
+lead~ edge.
+Third element: The maximum positive pressure is produced at a
+point lying bahind the leyiing edge, but, b gegd,
+the leading edge
+ISnot subject to a Degatmq preesure.
+These phenomena (relatlve to the seccmd and third elemcnte)
+becume more pronounced for the sepamtion of 4 oent~eters than
+for that of 2 oentimetem.
+
+AERONAUTICS.
+
+605
+
+(2) Planes direct: Followiug or ripper iaoe.
+First eknent: This is subject ta a negative p=ure..
+
+It behavm
+it were alone.
+nearly as tho
+Second and% “ d elernente: The negative ptessuree w%less marked
+than for the tit ekment. Thefi are even positive pressures produced near the foUowing edge.
+(S) Planes reverse: Forward or lower face.
+This system has been studied at angles of incidence of 6°, 8°, and
+15°, and for a separation of tie elements equal to 4 centimetm (1.58
+inches) .
+First ekxnent: If for an incidence of 6° we consider the displacement c Iinder of the fit element, it issthat the second and the
+third d ments project into this cylinder. There reeulte for this element, a diminution of ressure on the leading edge. be latter is
+reseure, whiih is celried aft.
+no 10 er subject to z e hum
+T
+This p enomenon diaap are at inci 8ences of 8° and 15°. The decrese in the pressure x en follom continuously from the Ieading
+e e aft.
+% ecand end third eIements: For angles of incidence of 6° and 8°,
+the phenomena are the same as for the ste in direct form.
+At 15:, the second element is almost E uti out b @e &t; this
+element K subject entireIy to a negative pressure. d e third eIement
+is subject in part to positive preaaure; there is, however, negative
+presure near the Ieachng edge.
+(4) Planes reverse: Rear or upper faoe.
+At the incidence of 8°, the negative prezwe on the second and
+third ek!ments is marked near the leading wige; it is from 1.5 to 2.5
+times a9 great as on the first ekznat.
+There is here a phenonumon simiIar to that which has been observed
+with Venturi tubes disposed in series.
+(5) TotaI force.
+The total force on the system is 1sss&an for a continuous pkme of
+the same surface.
+The drift is more cmeiderable on account of the more numerous
+
+.
+
+&I.
+- t
+e of combination is not to be recommended.
+M. E#d has determined the total force and the &ift for planee
+arallel to each other and vzitlmutstepw&e interv~
+We &all return
+rater to the consideration of curved asrofoils, for which the results are
+simihw.
+
+%
+
+7. AERODYIWMt@
+
+OF CUIN@Zl AEBOkO~OiA~D.
+
+There has been made in Flrance a v@y tiderable
+number of
+eriments on curved wofoils, isolated.
+EiffeI has operatqd on mtiels; a VT considerable nmgb~” of
+%
+tih& have a spread of 90 tintime~
+(3!5.5inches) and a depiih along
+the chord of 15 centimeters (5.9 tiohw) (aspect iaEio-56]. IIe has
+not used aerofoils of less than 45 C@imet@i (17.8 inches) spi’ead
+the mean stwfaee;
+with the smhe depth as above. M. Ei@el corikiclerh
+that is, the surface equidistmt from the two actual surfacea of the
+
+“
+
+AERONAUTICS.
+
+606
+
+aerofoil. The nominal height of the curved contour is the ratio of the
+hei ht-of the arc for this mean surface to the chord.
+& . de @iche has studied aerofoiIs for which tie spread is 170
+centimeters (67 inches) and the depth along the chord 120 centimeters (47.3 inches) (aspect ratio = 1.4). However, in certain cases
+the de th was reduced to 60 centimeters (23.6 inches).
+At &e Institute of Saint-C!yr there have been studied aerofoi.lsfor
+which the ayread varies from 6 to 10 meters (16.4 ta 32.8 feet), the
+depth varying from 2 to 2,5 meters (6.56 to 8.40 feet).
+(a) DETERMINATION
+
+OF ‘J!HS PB ESSLIRES POSITIVE AND NEGATm?.
+
+Q)
+Beyond a-certain vaIue of the sprea,d there develops a regular
+regnnen, mvolvmg the entye sqrface wnth the exception of two
+lateral turbulent bands. Tlus regunen is imhcated by isobars parallcl
+to the leading edge.
+It appeam that the fairly uniform width of the bands of turbulence
+does not exceed 20 centimeter (7.9 inchm). It is desirable, therefore, to use no aerofoils with a spread less than 40 centimeters (15.8
+inches).
+(2) Each one of the faces of the aerofoils joins in the support, but
+not equalIy. The pressures supported by the lower face, at ordinary
+incidence of flight, aw.une a smaller share of the total force than the
+n ative presume on the back.
+Y 3) The lower face is subject to the iniluence of the upper face, but
+is itself without influence on the latter.
+(4) The curvature of the back determines the distribution of the
+ne ative pressures; it deviates upward the lines of air ffOW.
+%n exaggerated height of the arc for the curvature on the back
+produces a harmful taunter pressure on the folIowing edge of the
+win.
+T%e &@acement of the maximum height of arc toward the lead”
+edge carries a corresponding displacement of the maximum value? o
+the negative preamre, and in consequence a reduction in the drift
+value.
+The ideal would be to suppress in an aerofoil harmful pressures,
+positive or negative (that is to say, to have on the upper face only
+negative ressureaand on the lower face onl positive ressures), and
+to find t%e prwsure of the atmosphere or&at the &lowing edge
+where the lima of air flow ‘oin together wi out shock. The key o}
+the problem seems to inv A ve the maximum height of the arc and
+position between the leading and following edges.
+(6,) The nega~ive pressures are not modified b the form-of the
+le~w~;tiEhmod{alo.d
+duence.lIt~~been,sa~d
+that
+ha e e
+otdd be roun ed, under a penalt of a reduction of the
+negative pressures on the back of the aerofo . There is nothing to
+the, It u bettar to make it sharp in order to facilitate its penetration.
+A French engineer, M. Constantih, has ro
+for the leading edge. M. de Guiche .foun$ rdat tlus concav? ‘om
+? form dld not
+show the advantages which its inventor had antici .ated. However,
+it is onIy fair to say that by means of the fan, M. & el arrived at an
+opposite conclueiom
+
+AEEONAUTICEL
+
+.
+
+607
+
+(6) In general for angles involved in aviation, the mode&of variation of ressures, positive and negative, are sidar i. all the redta
+obtaine 8 b Merent experimenters.
+The mo J es of variation of the negative praxmre9 Orithe back faII
+into two prhicipd types.
+(a) The n ~ative ressure starts &cm a certain value, often endl,
+n~ tie ~a&
+e&e; it then inme~~ cont~uo~ly$=~
+~t,
+passes through a mtium,
+then deorews regularly to e following
+e.
+“ mode of distribution is found with thick aerofoils (mono Iane
+type) of 80 to 100 millirnetem (3.15 to 3.79 inches) mudnmm t% “ckness.
+@) men
+ative premure is very pronounced at the leadin edge.
+Passing aft, % e value decreases, asses tiough a minimum, & en masses thro~~h a secon 2 maximum m general 1sss than the
+$ fidly
+=~k
+decreasw regularly to &e neighborhood of the
+following e Oe.
+%
+K Ed7el ds found such modes of variation with thin pkmes
+(bi lane t e) ’of 20 to 35 milhneters (0.79 to 1.38 inches) thiclrmas.
+h e com mation of the two modes (a) and (t) is found very marked
+%!”
+in the case of aerofoils presenting steps on the back. The lower face
+has a. reqdar curvatur~, but the up er face is formed stepwise. The
+combination thus constituted givw &le impression of being formed of
+~
+two or three aerofoiIs johmd one behind another.
+With one ro”ectiug ri e (u to incidence of 5“) there is found! in
+go~fiom~eiea~ti~ef~o~~m,
+amaximumofnsgatme
+pressure, a minimum, and fbtiy 8 maximum.
+With two projecting ~dges (up to incidence of 5°) there is found
+a mhum
+of negatin.pressure, a minimum, a masimum, a minimum, and ilnally a maxmmm.
+For an incidence of 10~, the dishlbution is the same as for mode
+@), but yi~ sev:rd m~a
+and minima in the depth of the swface
+(~ne pro]ectmg rd.gej two minima and a maximum; two projecting
+rdges, two minima and two mtia).
+(7) We have now examined the mode of distribution of the n
+tive pressures on the back o! the awofoil. If next we consider T e
+louer face, there me found, m genera$ no n ative pressures except
+?
+near the following edge. On the remamder o the f~ce the pressures
+are positive. b
+eneraI, m passing from the leading edge aft, the
+a maximum, and then decreases
+pressure incr?ases L t a little, pto the following exe.
+However, certain -aerpfoils (with rojec~~ ridges on the back)
+e6suxm near the
+$
+?:;#&&Ym
+‘f “’&nce
+‘ear
+0’ ‘%ative.’r
+o aerofoik of the same spread aud With similar but not
+equal sections are not comparable.
+(9) However, as ointed out by M. de Guiche,it is the aerofoilwith
+the largest value o? the as ect ratio which resents the most marked
+advantages. It is desirab e that extande $ investigations should be
+5
+made on aerofoils of difhmentdepths with the same spread-t
+is to
+say, pn aemf+ls @t,h vprying vaJw of the aspect ratio ~d geometmcaUysimdarm section— m order to determine if for a green section, there is a beet value of this ratio, and what is this value.
+
+‘%
+
+.
+
+..
+
+AER.ONAUTWS.
+
+608
+
+It maybe noted that I& Iliflel considers 6 as this beet value of the
+aspect ratio.
+(6) I!otd resultant and point of application.
+(1) The total resultant force continuously increases with tho angle
+of incidence, at least within the range of interest in aviation.
+Aa to the force center (intemection of the total resultant with
+the chord of the section) .it approaches nearer and nearer to the
+leading edge as the angle of incidence increases from zero, at Icast
+invoIved in aviation. This is the invcrac of what
+within the r
+takes place wit a plane.
+Y
+If we paw beyond the angles involvedin atiation (angles less than
+10°) the force center again recedes from the leading edge as the
+incx ence increases.
+“d
+(2) If aerofoils of varying thickness have the same surface of mean
+curvature, they are the more advantageous as the thickness is less.
+M. Eiffel has shown, in effect, that under these conditions the ratio
+& continuously increases with the thickness of the aerofoil.
+5 t follows that if it is desired to camp~e the qualities of two
+aerofo.ils, it is n~cwmry ta use only forms wd& the same maximum
+thickness Wd W@ the same aspect ratio.
+(2) A tibction
+may k dram betwe~ tMck and thin sections
+for aerofoils.
+Thick aerofoile are suited more es ciall to mono Lmcs, b~~a~o
+sue5 ,q.ofodsj :
+they must contain solid atructur@Llen$ers.
+general, have a t.hiclmese of abou~ 90 millimeters (3.55 mclm
+one-third and 50 millimeter (1.97 inches) at two-thirds of tho depth
+from the leading edge.
+Thin aerofoila are used for biplanes: Their maximum thickness
+varies between 30 and 90 millimeter (1.18 and 3.55 inchee).
+For ood, thick aerofoils and for an angle of incidence i ==5.6° we
+have t =0.079, with ~= O.0”~ and &= O.055.
+z
+These are vahma suited~ a monopkme.
+‘= 0.069, with K=E 0.0019 and &= 0.027.
+z
+But this angle is too smaU for a normal angle of incidence for a
+plane.
+For a thin aerofoil of thiclmess equal to 63 miUimeters(2.48 inches)
+With i=2s0
+
+we have
+
+with K=-=0.0023
+and an angle of incidence i -5.3° we have &O.058,
+.
+and Kti=0.040.
+For a&
+aerofoil of thiclmws equal to 45 millimetm (1.77 inches)
+and an angle of incidence i= 8° we have $=0.091, with &.=0.0055
+#
+and ~= 0.060.
+These values are suited to the-wings of biplanes. .
+2:Zti:’%?:gT&z<$$@&’%l:%&% ml
+quahty. However, t e tra
+e rec
+(6) With certain forma of wing (wi.$!mprovi~ed aIong the leading
+edge with a concave edge forming a sort of crest, wing with thick,
+
+.
+
+AERONAUTICS.
+
+609
+
+romded ka~edge),
+M. Eiftel has found disco.tinui.Es h the
+curves of.& an ~ m rdation with difEerentregimens of the flow of
+the air. But such phenomena are exceptional
+OFCUEVED
+8. AEZLODYNAMiCS OF CURVED AEROFOllS-COMBRTATIONS
+AEEOFOII.S-AItRANGEXENT BIFUNE.
+IN
+hf. EitTelhas determined the varying vabs of E=, RU, F= .FV,for
+the various arts of a Dorand bi kmel these arts being su$ect to
+eriment investigation assem%led m comp? ete form, or se mate.
+bipkme conmsts of a princi al cell formed of two i & tied
+%3
+plsnes 14.5 b 2.25 meters (47.56 : y 7.38 feet). These hmes are
+separated in { eight by a distance of 1.95 meters (6.4 ?eet), that
+is, by a height sensibly equal to the depth of the pIane. They
+are stepped a distance of 85 centimeters (2.79 feet), upper plane
+leading. The are joined by two series of 10 obIique struts. A
+forward equiliL ator and a tad- lane elem=t formed by two araIIel
+p]anes are mount&don a cross- %
+raced fuse e. These two e?ements
+2
+are ~onj ate, constituting thus a secon ary coMrol, completel
+mobde. Y. he tail- Iane element forms with the principaI plan@s a F
+L
+~$’~:~~yp~~~
+thm formed, the sustentation for the ceII
+alone is notably greater than for the biplane entire. The tail- lane
+element, far from ai~
+in the support, receives on the back d e air
+deviated by the princlpaI planes. It thus reduces the carrying
+power.
+(2) The Muenee
+of the two rincipal aralle~ knee separated by
+“
+‘%enced by a loss of
+a distance senaibl equal .to t % “ dep ~ , IS em
+a
+carryin power o ? about 20 er cent of that for the com Iete but
+isolate f celI. If we denote t%e tottd carrying surface Sf J e planes
+
+—
+
+by S, the efFectivesupporting surface of the bipIane is 1$
+(3) The upper plane, m the remnee of the lower pkm,.behves
+as tho~mh it were isolated. &
+~::n:
+of the upper he, loses about e 10w~f?&Rd&?
+one-tbm
+the isoIated pL e.
+In a biplane, the lower plane k
+-operat%. pod
+with r ard
+to cam~.Wwer.
+It may, without mconvemence, I e reduc 3 , if
+such reduotion brings other advantagw.
+(4) For the ordinary angles of incidence, the head resistwce of
+aU the parts aside from the principal ceil is about 7 er cent of the
+sustentation. The head resistance of all parta aside 1’
+rom the planes
+is about 10 per cent of the sustentatiom ‘
+These values are applicable to biphnes.
+ement of the phm=. does not give any
+(5) The ste wise arr
+r-d
+b sustentation and head resist%
+appreciable a8 vantage wi
+ance, but renders the construction more difEcuIt.
+Such a stepwise arrangement is not, in general, to be recommmded.
+9. THE AERODYNAMICS OF C’UWED AI!30FOILS-COMBINATIOM4
+CURVED AEROI?OILS-AEEOFOILS
+IN TANDEM.
+
+OF
+
+Let us consider two aerofoils of difkrent s read, situated one
+behind the other (planes in tandem). If the aero? oil with the smaller
+spread is leading, it is said that the two elements form a C’ uck”
+d
+~“~.
+Dec.559,&-93
+
+—
+
+610
+
+AEWNAUTICS.
+
+type. If the aerofoil with the lesser spread follows, it is considered
+equivalent to the “ ordinar mono lane” type.
+10?
+The angle made by the c rds o the two aerofoils in the lano of
+le of d6calage, or simply the d6calage, o$ one of
+s
+metry ia the
+tr ese planea with Y tion to the other.
+re
+If, m the plane of symmetry the leading e e of the following
+plane is in the prolon ation of t~e chord of the? eading profile, it is
+said that the vertical %
+iaplacement of the two planes ia zero.
+M. Eiflel has made a series of experiments with two lanes of the
+same type, of. which one has an aspect ratio of 6 (9o \ y 15 centimetms (354 by 5.9 inches)) and the other of 3 (45 by 15 centinmtem
+(17.8 b% 5.9 umhes)).
+The duck” type has been studied (yertical displacement zero)
+from 2° to 6° and scpawith valuea of the angle of d6caIage v
+rations of the planes equal to 4/3 andY’
+8/3 t em width.
+The “ ordinaxy mono lane” type has been studied with a d6caIage
+of 4° and se arations of the elements identical wit$ the preceding.
+FinaUy, d . Eiflel has studied the tandem type wth equal elements.
+The angle of incidence of this combination of elements is the angle
+relative to the chord of the leading element.
+(1) “Duok” type.
+From the vie~oint of suetentation and of head resistance, it is
+advantageous JO increase the separation of the elements, and not to
+exceed a certain angle of dticalage.
+Suppose tha~ for various angles of -incidence, there have been
+determined the total resultant of the am forces on the combination
+of elements. We shall denota the aggregate of these by the term
+“bundle of resultants.”
+In the study of this bundle, the foil” “- results are obtained:
+Y
+(a) The bundle is always located toward t e middle of the interval
+which se aratw the two elements. It is then in this re ‘on that the
+center o? gravity of an airplane of this type should be ?ound.
+(5) For a given distance between the elements, the bundle is so
+much the more extended as the d6calage is greater.
+(c For a given d6cal e, the bundle is so much the more extended
+as d e distance between% e elements is eater.
+This longitudinal change in the bund ?e of resdttante has relation
+with the longitudinal stabdity of an airplane of this type.
+(d) For a “ven distance between the elements! the bundle of
+resultants is f ~placed toward the forward element m proportion as
+the d6calage is increased.
+In an an-plane of the “duck” t e, if the dhhige is increased
+it is necesmry to move the center oP gravity forward.
+Let us suppose that in such an airplane the center of gravity is on
+the pro~ller shaft. For e tiibrium under a certain angle of incidence, It is necessary that 5 e rmdtant corresponding to this angle
+t
+pass through the center of gravity. Fko.rn@, .Igt ~ drop normals
+on the other resuhanti of the bundIe, resulttmts which correspond to
+angks of incidence. It is then easy ta caIcuIata the momenta
+v
+ofF eaeresultant with raference to the cepta of gravity. The9e are
+the stabiIiz”
+moments. They are condered positive when they
+Y
+tend to turn t eir lever arm in direction inverse to the movement of
+the hands of a watch. They are negative in opposite case.
+
+AEEX)NAIJmCS.
+
+611
+
+I&ue represent these stab” “ “
+the angles of incidencq, aud %m:r&:T:;$&&;!&.F
+as or
+for increasing vahms of
+The airpkme is lon@udinaUy stabIe w
+%
+the angle, the curve of the moments dwen
+contiuoud
+from left
+~ right, cutting the axis of abscisszeat the point of eq~yrium.
+It
+s unstabIe when, for incre~ing angles, the cmrve of moments rises
+from left to right.
+When study is made of such curves for the “dnck” @ej it is peon
+that, from the viewpoint of stability, it is not weU to reahze too great
+m angle of d6calage f9r the two elements.
+The msmgeabihty of the airpkme requires also that the d&aIage
+shall not be too great and that the distance between the eknents
+shall also not be too considerable. It fi deairable that the stabdizing
+momenta should not exceed 50 ldogram meters (361 pound-feet].
+F’rom.this same viewpoint it is dwirable that the center of gravity
+kme should not be ho 10W.
+of the
+M. E~d has studied a vertical die kuwment of the ekmmnts a proximately equaI ta on~uarta
+of L &\Jl of an ekmlent. &
+efkct of such a dieplac~t
+is so IittIe semz Is that it may be taken
+as negligible.
+(2) “Ordinary monoplane” type.
+The inlhmuce of the elements, one on the other, is evidenced by a
+reduotion of the snstentation and by an increase m the head raustence in relation to the sustentation and to the head resistance of the
+dementi without mutual action.
+The reIative diminution of the snsteutation is independent of the
+fore and aft se aration of the &ments.
+The I-edtants are grouped
+on the forwar f ekment. The center of gravity of an airpkme provided with such planes must be located in this region.
+The bundIe of the resuhnts is opened out considerably when the
+distance between the ekunenta is doubkd.
+(3) Tandem with equal elementi,
+From the viewpoint of sustentation and of head resistmce, this
+e ~b+m&{ inftio; @ the “ordinary monopkne” type.
+%
+e It H therefore not advautagem.w to increase,
+L
+.t, the spread of the taiI-pkme eIement.
+be ond a certain
+L ebiplsne arrangement is also prefaable ta the.tandem type with
+uaJ elements.
+is
+Y t maybe said that t& kist”arramgement not to be recommen ded
+in the construction of apparatus for aviation.
+(4) b a tandem, & foUowing ekment is influenced by the forward element. M. Eiftel has studied the conditions of operation
+of such m SIement.
+(a) If we designate b & the angle of incidence of the influenced
+ekznent to the path of J e combination of the elenmnts, the force on
+this ekuneut is e ml to the force which would be exerted on the
+element isolated, ? or which the angle of incidence wouId be
+~=&–p
+The
+Ie P depends on aU the faoikra which h the reIative ‘~itions of
+%
+ekmnentejthat is to say, on the distance between the
+elements, on the vertical displacement, on the angular dhlage, and
+on the reIative spread of the two elements.
+
+c
+
+.
+
+—
+
+.
+
+612
+
+AERONAUTICS.
+
+(b) Whatever may be the characteristics of tha combination of the
+elements, the drift of the influenced element is practically equaI to
+that for the same element isolated.
+From the viewpoint of the drift, there is no need of distingukhing
+between the reaI angle of incidence & and the a parent angle G.
+(c) Whatever may b~ the characteristics oI’ the combinat~on of
+sIements, the leading element of a tandem behmxs like an isolated
+element.
+(d) Case of tail planea.
+When the law of variation of the real angles of incidence ~ in relation to the a parent angles &is known, and also the values of KVas
+a function o ? the angb of igcidence for the isolated tail plane, It is
+possible to determine the force acting on a tail plane placed behind
+an ordinary monoplane.
+Let us take an example. Consider fi ordinary monop~ne of which
+the principal plane has dimensions of 10 b 2 meters (32.8 by 6.56
+f
+feet) and the tail element is formed by a pane 3 by 1 meters (9.84
+by 3.28 feet) placed 5 meters (16.4 feet) behind the principal plane,
+with vertical displacement zero. Let ti sup ose that the angular
+cMM.~ $ the tail element (form V) with r i ation to the ~rincipal
+. If the normal angle for horizontal flight is t (angle
+of the rincipal plane with the horizontal trajectory) the apparent
+an le o r ,the tail plane making a V with the principal hme is mm.
+1CZ3 inciof
+L t-us assume.that the law of variation of-the reaf’
+Y
+dence as ? function of the a parent
+f
+angle of incidence of the tal plane. %:$:;
+;’;::
+$:?;:2
+then ~= – 0.02. The force on the. tail plane, for a speed of 30
+meters (9S.4 feet) per second, is – 0.02x3x900=
+-64 kilogmro.s
+(119 pounds).
+“
+Now if the tail plane were isolated and makin with the trajectory
+an angle of zero, the force would be zero. Suc% a negative ! orce of
+64 Mo. .;HPD(119 Po~~) iS of the gr&a@t @po@anw. with regard
+toeq x
+.
+10. THE APPARATUS F AVIATION.
+O
+M. Eiffel has made, by the fan method, a great number of tests on
+models of certain forms of ap aratus. From thew tests we may
+deduce a certain number of J es, which we shall state at a later
+point; rules which may serve to ~tal$ish the preliminary design of
+an airplane.
+The intamdng experiment at the Lnstitute of Sainton an
+airplane entire (by means of the car) or “on an airplano inT ree flight
+are not yet sticientl
+numerous to give ground for rules of construction for “ lanes. d owever thas.eresults merit statement.
+(1) Mwflel has shown fufiy the use which maybe made of a study
+of the 10 arithmic diagram for the conditions of operation of an airphme iu % orizontal movement. It ia thus that he has studied the
+r6g@e of mtium
+speed for a g&renpower and also the cczmomical
+r6
+e.
+v he maximum s
+d for horizontal tlight depends more m cially
+on the engine inst r ed.on board the avion (see fig. 3, point il r .
+The economical r6gnne, or r4
+of minimum owwr for given
+weight (see fig. 8, point ~), is oY great interest. ?n fact, when an
+avion rises with the maximum vertical speed, it is placed in condi-
+
+AERONAUTICS.
+
+613
+
+tions such that the useful power developed sl@ be minimum, *8
+excess of power being uti%ed for raishg the airplane to the greatest
+possible height.
+The limitmg speeds of an sirplane for phmin are:
+5
+(a) The mtium
+speed of normal horizon& ~~et.
+(b) The speed corrqynding to the minim
+R=
+This minimum is defied by the minimum due of FY* The ang~e
+which corms nda to this minimum is the best angle of planing of
+Ckd.Charles F enard.
+The motive qualit or susta. “
+‘h
+‘@duud
+by the Constructor Ill uis Br@=&%$~
+
+9=
+in Wbkill
+p = efhiency
+
+of propeller.
+
+=weight in kilograms oarried pm square meter of surface.
+$
+PJf
+p~ -useful work (ldogram-meter+wmd)
+of the motor propeller
+oom&ation per kilo fun of w ‘ t cmried. This power corresponds
+to the ficiency p oF the prop er and to the fulI power ~x of the
+motor.
+V“=maximum vertioalspeed in meters per sewnd.
+(2) Ordinarymonoplanes.
+eodicienta result from the experiments of K IIi&I.
+The follo .
+(a) me 1% smt~ed k relation to the sustaining surface v
+between 25 and 35 InIograms per square meter (5.12 to 7.17 po u%%
+pero~llar: foot).
+maximum speeds of horizontal ffight are eom rised between 26.4 and 33.3 meters per seoond (86.6 and 1093 feet per
+moond) or 95 and 1.20 Idlometers per hour (59 and 74.6 mikw per
+hour).
+The speeds for the wcmomical r6gime vary between 19.~ and 25
+meters p= second (63.8 and 82 feet per seoond) or 70 =d 90 kilometers per hour (43.5 and 55.9 miles per hour).
+Let us give the name “portance” ti the ratio:
+
+3?
+
+The portance for maximum speed of horizontal flight v-arks
+rtance for ewnomical s eeds
+between 0.025 snd 0.040, The
+Vahles utilized mqy, L
+varies between 0.040 and 0.070. L
+fore between 0.025 and 0.070.
+(J) The maximum useful power (maximum horizontal fLight
+er 100 kilograms (220 pounds) of weight carried varies between 8 ani
+Yl&w3power.
+minimum uasful power (economical r4gime) per 100 kilograms (220 pounds) of weight oarried vark betwean 6 apd $ h~~
+power.
+r
+
+.-
+
+614
+
+AERONAUTICS.
+
+The usdul power expended in raisii 100 kilograms (220 ounds)
+with the maxmmm vertical speed vanes between 1.5 and 1 llorse‘“~~~e
+maximum vertical speeds vary between 2.3 and 4.25
+meters per second (7.55 and 13.94 feet per second).
+@ IA ~ ass~e 6 horsepower per 100 kilograms (220 pounds) for
+the econommal r@ne.
+enditure of 2 horsepower per 100 k!lograms
+Let there be an
+T
+(22o pounds) for clim in . This permits of raising 100 lnlograros
+(22o pounds) a distance o! 450 meters (147.6 feet) in five minutes.
+Ik a preliminary design we may assume a useful power of 8 horsepower per 100 kilo ams of weight carried.
+If the repeller f as a mean efbiency of 0.70, the power deve.loyed
+on the si aft is 8/0.7 =11.5 horsepower per 100 kilograms of wmght
+carried.
+In a preliminary design for a monoplane, it is necessary to count
+on 11 to 12 horse ower per 100 kilograms (220 pouyls) of total weight
+carried, say 1~0.{ orsapower for an a- lane of which the total w “ ht
+in flying ~ondltlon is equal to 1000 % Ograms (2,204 pounds). T he
+ma (0.71 to
+consumption per horsepower wih be 0.32 to 0.52 HO
+1.16 pounds) of asohne and oil, and the we” t per r orsepower of
+?
+the engine-prop L r equipment, 2 to 3.2 k ograms (4.41 to 7.06
+pounds).
+R
+(g) The minimum values of ~ are comprised between 0.16 and 0.20.
+The best planing angles & comprised between 9° and 11.3°
+(mean angle = 100).
+The ratios of the limiting spe~ for plaging are compfised between
+1.27 and 1.48.
+(h) The values of the motive quality are comprised between 0.83
+and 1.05.
+(3) Biplanes.
+(a) The loads carried in relation to the ;arrying surface var
+between 15 and 30 kilograms per square meter (3.07 and 6.15 poun 2s
+per square foot).
+(b) The maximum speeds for normal horizontal flight are comprised between 19.44 and 27.8 meters per second (63.8 and 91,2 feet
+er second), or 70 and 100 kilometers p~ hour (43.5 and 62.1 miles or
+vary between 13,9 and. 22.2 mo t m
+Four). The economical SF
+~ond (45.6 and 72.8 eet per secoRd)t or 50 to 80 kdometers per
+r our (31 and 49.7 miles per hour).
+(c) The values of the portance for maximum speeds are comrised between 0.035 and 0.045 and the values for economical spmds
+L tween 0.060 md. O.065.
+The values uth@
+lie between 0.035 and 0.065—that is to say,
+within narrower lhmts than for monoplanes.
+(d The maximum useful power er 100 kilograms (220 pounds) of
+we” i t carried varies between 6 an$’ 7 horsepower.
+a e minimum useful power per 100 lalqgrams (220 pounds) of
+we” ht carried varias ktween 4 and 5 horsepower.
+‘!&e useful power expended in lifting 100 kilo~ams (22o pounds)
+yith the maxunum vertical speed varies from O. to 2.5 horsepower.
+(8) The maximum vertical speeds vary between 0.5 and 1.6 meters
+per second (1.64 and 5.26 feet per second).
+\
+#
+
+“
+
+615
+
+AERONAUTICS.
+
+~
+
+Let us assume 6 horsepower per 100 kilograms (22o pounde)
+wer and 2 horsepower per 100 kilogrmns (220
+power r q“ ured for dirnb
+; it is seen that, for
+pounds) for
+-“d=
+100 kilograms (22o pounds) o weight mrried,%erewiUbe~~a
+useful power of 7 homepower, or a power of 10 horsepower a sorbed
+b -the ehaft, assuming 0.70 for the mean effickmcy of iihe pro elk-.
+&s indicates a power of 100 horsepower for an airplane o? 1,000
+kilogram9 (2 204 pounds].
+For a bip~ane as com ared with a mono@me, there is therefore
+required less power for & same~weight carrmd.
+“(g)m
+
+.
+
+minimum values of ~= are contained between 0.142 and
+
+0.228. The best planing angles !mnge between 8° and 11O. The
+ratios of the Iimiting speads of planing are comprised betwem 1.08
+and 1.22.
+(h) The valuea of the motive quality are comprised between 0.75
+and 1.17.
+
+,
+
+(4) Hydrations.
+(a] The loads in rdation to the carrying aurhwe vary betwem
+30 and 40 kilograms per square meter (6.15 and 8.19 pounds per ,
+squ&re&t).
+minimum usefd
+wer per 100 kilograms of weight carried
+is 5 to 6 horsepower for hy K tiona with floats and 4 to 5 horse~wm
+for hydrations with a boat fuselage.
+For the fit it is necesmry to rovide 12 to 13 ho-power
+(on
+account of the surface ttuwion whi $ must be overcome as the floats
+leave the surface of the water) for the-power developed by the engine
+on the ahaft per 100 kilograms of we@t carried, or ’104 hormpoww
+(say an engine of 120 horse ower) for an equipment weighing 800
+tiO~~.
+The weight of & e engines in flying. condition represents
+about 45. er cant of the total weight of the entire equipment=.
+For hy & avions with a boat fusehige it is necexnmy to oount on
+13 or 14 horsepower er 100 kilograme of weight carried for the
+wer developed by & e engine on the shaft, or 560 horsepower
+rtwo en.gims of 300 horsepower) for m equi ment weighing 4000
+kilograms (weight of engines =45 per cent oft L totfd weight of’the
+eqmpment).
+
+-—
+
+(5) Experiments made at the Institute of Saint-Cw on a B16rio
+airphne.
+a study has been made b the car
+At the histitute of Sain
+T
+method on a two-passe er B &iot mono lane (side by siz e). This
+7
+airplane has a horizonta tail plane in ! orm of V with the main
+phme, eikwging toward the tail. The charaCtmistim are = foUows:
+Toti~r~-----------------------~.llf)~
+36::~A\.
+........- ... . . . . . . . . . . . . . . . . . .
+~1
+=f
+theplanes............. . . . . . 26&m
+.
+etersz 72.9qirefeat},
+Area of b projection of the fudage
+(from }ta nme ta the beginning of
+....................
+
+S.27metem2 S6.!2
+qmre feet .
+
+g;g~~l-~~p~:w;;
+
+H%%%
+
+%% etdpke .
+
+. .... .. . .. . .. . .. . . ..
+
+[:%$%%:
+
+1
+
+6°.
+,
+,
+.
+
+616
+
+AEEONAU!tTC&
+
+This rdrplane has been studied between the incidenoes (angle of
+t&20hor~ of the plane near the fuselage with the horizontal) of
+-2° for threa positions of the depth rudder, as follows:
+(1) Position in the prolongation of the tail plane.
+(2) Position of maximum t
+downward, the rudder making
+theu an angle of 18° with the Y p ane.
+tail
+(3) Position of maximum turmng upward, the rudder making
+then m
+le of 61° with the taiI plane.
+There ? etermine$ as a function of the iuc.idences, the values of
+is
+I?z and RV and tie dwtanoes from the leadin edge of the planes to
+the point where the resultant cuts the &or t of the pkmes (in thO
+pro”ectionmn the plane of symmetry of the airplane).
+7!he following results have been obtained:
+(a) The values of E= are senaibl~ the same for all positions of the
+depth rudder. The pro ulsive rcsmtance is sensibly mdepcmdent of
+the osition of tbia rud Zcr.
+(t! For a given value of the incidence, the fores Rti increases continuous in pass@g from the rudder position for upward turning
+to that ror downward turning.
+The surfaoe of the depth rudder intervenes then k the sustintation.
+It should be noted that the quotient ~
+
+does not exactly repre-
+
+sent the pottance of the a“ lane. It ~ realIy necessary to take
+into account the surfacw of Y e tail plane and of the depth rudder,
+t
+which, with the variation of the irmdonoe, have incidenoes positive
+or negative relative to the horizontal, and thus intervene in a variable
+manner fn the value of the ortanoe.
+(c) The pcsition of wha 1 may be called the center of pnmmm
+(intersection of the resistance of the air with the chord) for a given
+value of the angle of incidence mrie9 much with the inclination of
+the rudder.
+For a given value of t$ia an le, the oenter of pressure moves cone as the change is made from the
+tinuously from the le y&
+pos;sro; f$&rt&nin&Upwar to that for turning downwad
+itlon of the depth rudder, for exam lej the position
+in the p~ne &tie tail plane and for near-by posi~onsl the muter
+of presswremoveacontinuous toward theleading edge for a dcwmasing
+incidence, or moves from the T
+eading edge for an increasing incidence.
+This is the opposite of what takes ylace with an isolated lane: The
+variation observed here shows the mfluenoe due to the t J“ plane and
+the depth rudder.
+(6) Study of aeroplaue in free flight.
+Experimanta have been made at the Ilaetitute of Saint-@r on a
+Maurice l?arman biplane tmd on-a B16Mot. If.~e call S the net c
+T
+~-surface
+(17.65 “ineters3 (190 square feet) in tho B16riot) t ~
+quotient ~ wiU mewmre the portance of the machim.
+(a) The ortanoe of any avion in volphme flight is low than thatin normal E‘ght, when the repeller blast acta on n cargiug part of
+the avion (main plane, tailp 5ane, or supporting tail).
+For the Bl&iot this difference is shown to ba 15 per cent.
+(~) Whenever, in slowing up the yropeller o crates as a brake,
+the bead resistance in volplane &ht M greater &m the head resiak
+
+617
+
+AERONAUTICS.
+
+ante of the avion ti$hout pro ehr.
+
+From this action as a brake
+
+‘~~ZgtlZ~gg$~!F~;Zw%;metir
+!2.45 metiers
+(8.05 feet); pi1.53 me(5.Ofeet), tith a rotative speed of 400
+to 500 revohltions pm millllb there h= been found 20 to 25 pm cent
+increase in the resistance.
+11. PROPELLERS
+
+AT A FIXED POINT.
+
+Cal. Charles Renard had stated, for propdlers
+similar, the foIlowing law:.
+The ratios CFO=n~F /30=%
+
+geometicdy
+
+. - - . . . . (3)
+
+are constmt.
+lhearehea undartak,m at the lhstitute of Saint-@c have led to
+the following result9:
+and & of the formuhe of Renard inoresse, in
+The coetlieienta
+general, a little wit the rotative
+%
+eed; however, for certain roY
+pdkws these coefihients decireesedig tly as n is increased, snd & en
+mcrewe with further imresse of n. The variations in the values of
+these ooefiioienti are, however, so small that for ordimry values of
+the rotatives eed they maybe considered constant.
+Clol. Renar i had aIso introduced the idea of the quality of a sustentation propeller. This is defined as
+
+Q=&%&
+
+.—
+
+—
+
+This wmtity depends especifly on the itch of the ro eller.
+Itiss D& er = the pitch is larger. The pro 2uct of the pit s{ y the
+quality is sensibly constant for propeks geometiodly similar.
+12. PROPELLERS DVANCING
+A
+RELATIVE ~
+TO
+(1) For propellers gemnetricdy
+
+MEDIUM.
+
+similar, the magnitudes
+
+~=n%
+I.””””””””.-(b)
+P=?
+
+me functions of Y=3?
+
+..-
+
+I
+
+e=nD, that is to say, of functions of the
+
+speed of advwm Vend of the peripheral speed ~ nil.
+H on two rectangular axes. we la off as abscisste the values of 7
+and as ordrmtea the valu=, ediher of a, of&or of p, TIMpoints representing the properties of a t e of propdler are clbtmbu’ted on curves
+cmstmt m the pkmee ? a, ~) (B, T) and Q, ~).
+nD ==
+However, for kge velues of d (of the order of 27 to 28 meters
+(about 62 miles per hour)) tmd of nD (of the
+(88 to 92 f@) pasecmd
+order of 25 to 30], the cur-ma e= mD, corresponding to variations of
+c of 10 units, are sensibly the. same. As be
+con %“tions ~e fo~d
+
+—
+
+AERONAUZXN.
+
+618
+
+in the va.luea ueed in practice, we may take for ractical pu osas
+a, IS,p as functions of we quant@ 7. k each o ? the planes ?a, p),
+@? ~~ k, ~) the ~mpefiof a gw~ type of propeller may be reprcmnta by a sing e curve.
+In the same way the researches carried out at the Institute of
+Saint-@r have shown that, for a wide field of values and comprising
+the conditions of practice, the ratios ~ and ~ are also functions
+1%
+of ~ for a given type of propeller.
+(2) The ratio ~ decreases,regularly and quite rapidly as the value
+of 7 incre~.
+For a gwen number of revolutions of the propcIIer, % hea a determinate vaIue.
+For a given number of revolutions of tha propeller, the traction
+decreasea as the speed increazea.
+(3) In the experiments at Saint-Cyr, the values of ~
+.
+
+ceed 0.90, a value for which ~ is not zero.
+able ta extrapolate the curve
+
+()
+
+~j 7
+
+did not ex-
+
+Let us assume it@stifi-
+
+to its intemection with the da
+
+of T, and below this axis. I@% further assumo that ~ has a constant value, whatever may-be the reyo@tions ~f the propelle~. WO
+may then state the following propcmtion, wluchj however, m only
+apprommate.
+..
+Above a certain value of ~, the propeller acta as a bralm (traction
+n
+
+ative)j below this value, it acte SEa propeller (traction positivo).
+7 cccmhng to this, the number of revolutions beyond which tho
+ropelle.rbecomq proptdeive is the greater as the speed V is greater.
+Eor a certain ropcdler of 2.40 meters ~.88 feet) It has been found
+that as the v $ ue of V increasw from 4 meters (13.1 feet)
+r second
+to 12 meters (39.4 feet) per second, the number of revo Y
+utionz for
+which the traction becomes zero passes from 300 ta 566.
+6
+(4) The vahms of ~, for a part of the propellers studied, continuo
+ally
+
+decrease with increasing values of 7; for others, ~ fit
+
+increases
+
+slightly with Y and then decreases. In any case, the decrease of ~ ie
+less rapid than that of ~.
+al
+In considering, as ab~ve~ what develops for. a given velocity of
+rotation of the propeller, it M eeen that the \ractlon rI dem.e~es more
+rapidly than the power Pc. “The latter is, m those conchtlons, pro=
+portional to the couple transmitted ta the propeller shaft. The traction and the en@ne torque em then very far from being proportional.
+In tie expernnente at SainWyr, the” point on the axis of 7 for
+which ~~= O was not determined.
+.-
+
+As above, let us azsume as justi-
+
+P
+fied the extrapolation which coneiets in prolonging the curve --, Y to
+o
+.
+
+(P)
+
+AERONAUTICS.
+
+“
+
+619
+
+ite intersection with the axis of Y. What has @st been said shows
+that ‘this point is farther removed from the origin on the b
+of Y
+than the point of intersection of the ourve ~, y with this same axis.
+()
+When the motive power is zero, the tractio~is negative and the prop.~er functions like a windmiIL It absorbs power furnished by the
+mr, but does not transmit it to the engine; this power furnished by the
+air is absorbed by the resistance proper of the propeller, which turns
+without any manifestation of motive power on the shaft.
+(5) For a given number of revolutions, the power absorbed by the
+propeller at a tied point is, in generaJ greater than that absorbed
+when the ropeIler moves in the direction of its axis. For the same
+number o? revolutions, it is necessary to supply at the tied point a
+greater power than when the propeller admmces in the direction of its
+axis.
+For the same power absorbed b the propeIler, the number of revoint h-, in general, less than that
+lutions of the propelIer at a h el
+when advancing in the direotion.o r its axm
+Let u9 consider a propeller put mto operation on an airplameat rest.
+It ah~orbs a certain power equal to that furnished by the engine. If
+the
+kne is ptit into motion and if the number of revolutions of the
+rope er remams oonstant, the power absorbed by the propeller fit
+Y
+$ecresses, whiIe the power furnished by the engine tends to remain
+the some. b order that equali~ may obtain between the two
+owers, it is necessary that the revolutions of ihe pro elk increase.
+$ hus for a given opening of the throttle mike fort \ e engine, the
+number of revolutions of the propelkr with the airphne in fl&ht is
+in general greater than when at rest. This increase in the number
+of revolutions per minute may range from 30 or 40 to 100. For a
+given engine certain propellers, giving, with the airphme at rest, a
+suitable numi er of revoIut~ons, may in free flight give a number too
+fax above the normaJ re “ en to permit of using such propelks.
+h eny case, it pay r e noted that there are ct?rtmn repellers
+eater than at rest. A tead of
+which reqtie in ~ht ~ torque
+.3
+throttle opining), they slow it
+ceding up the engine (with fix
+7 own.
+FolIowing are the results of experiments made at the Inatituto of
+Saint-ogr.
+Bl&iot monoplane with Gno~ motor 60 horse wer.
+ht wit~ four z auvi??re propdkrs
+Observations taken in free
+the engine:
+under the same conditions reg &
+Pmpennr.*.
+-
+
+n
+
+m
+m
+
+Pifdl-
+
+R8-iolnbpf?,rmfmlk
+swaofllMZ&talflkm
+Atrest. Infilght.
+
+lAamet.Ks 2R7mateMper8eUmId.....
+..
+..
+lmlfwt..... . a.shetpersemud....--..
+.
+40md-si-s..Llbmeti .. .. 26.6
+m0t4rs 9rE-eccmd .
+F
+.. .
+a.76fe0t ...- Worw
+...
+.53
+mate=.L60mnti . ... 25s5meEz%k%x:::
+!iRk---%%%%w%%-lc=
+. ......
+M2flaet._:::: W.ofeetperwcmd-
+
+For the propeller of the greatest pitoh there is deorease in the
+rotatim speed; for the other three there is increase in this sped
+
+.—
+.-
+
+—
+—. .
+
+620
+
+AEiONAUl?ICS.
+
+From thapracticaI point of view, if in certain cases the number of
+revolutions of the pro eller in free flight is for the same conditions
+at the motor nearly tEe same as with the “ lane at rest, it must
+not necessaidy be concluded that the power T the e “ne is deoreaso
+; it may well be that with the propeller employ 3 it can not be
+ot
+Y erwise.
+(6) The effici
+p increases, at first nearl linearly pa.weathrough
+a maximum, and t en decreases rapidly. & propefiers have, th~
+T
+a maximum effkiency corresponding to a determinate value af --$
+peculiar to each type of propeller. This value is nearly indepsndcut
+of d, at least for the VSIUSS
+mmprised betwean 30 and 40 (region
+of actual practice).
+(7) ht w consider propellem”WMCII are not geometrically sidsr.
+We may say that these propellers form a “
+up” if the definition
+ammeter with tho
+of their geometrical form contains a variaE
+different values of which the are designed. $ his parametm ma
+be the pitch, the curvature J the blade the variation of its wick1
+with the distance from the &s etc. !l?he designer, for example,
+pa~es from-one pro e~er to anoh
+of the group b preserving the
+various sections of t%e blade, but in causing the. itc% to vary.
+If, then, we consider the propellers of a group d]Kering, for axam le,
+only in the pitah, the maximum efficiencies and the correqon 8 ng
+values of $
+
+continuously increase with increase in the ratio of the
+
+pitch b the diameter.
+This waa shown by hf. le Commandant Dorand in his experiments
+at Chalais-Meudon on ro ellers of the same blade area ti- which the
+e
+ratio of the pitch to $% “ameter continuously increased from 0.65
+tO 1.29.
+M. I!Mel has developed the same redts on modds of the following
+pro Ilers:
+& t group: Diameter 0.80 meter (31.6 inches) bladm flat on working face; pitch sensibly constant for each ropekr; width of blade,
+1/10 dbmeter. At e ual dishncss from & e axis the section of the
+blades is the same. h e thickness decreases regularly from the hub
+to the tip of the blade.
+q
+
+Plmmm.
+
+Piti d ~.
+
+I
+
+!
+
+Second group: ‘Dkmetar, 0.80 meter (3i.5 inches); width of blade,
+1/10 diameter; blades hollow on working face. The mean line of the
+section has a height of segment equal to-1/12 the chord. Pitch cnnstant for each propeller.
+
+F
+
+1
+
+&&@=$:::::::::
+I
+
+ir
+
+I
+
+‘“”-
+
+AEBONAUTIOS.
+
+621
+
+(8) For repellers of the s-e
+~itch and same diameter, but of
+varying wi3 ths of blade, the maramum eftlcimcy pmthrou~ a
+maximum matiorum
+when the ratio between the greatest mdth
+of the blade and the & ameter is approximately 1/10.
+This ratio has become classical. It is found closely approximate
+in nearly all pro
+em.
+(9) It is desira Ie to use a propeller in the vicinity of its maximum
+Y
+e%iciency.
+v
+ef&iency, the curve
+h fact, for value9 of ~ near the matium
+(p, @ is in general, uite fiat. It redti that, in ite of the variations 0/ regimen of % engine and pf the speed o? an “ lane, the
+t
+efficienc P is always near the msmmum. A pmpdk YW ‘ch doee
+not f &
+these cunditione gives ord mediocre readts.
+The practical rwdt of the use of J e propeIler in the neighborhood
+~ an econom in fuel in horizontal fight,
+of it8 maximum efhienc
+g, more eas$y and more com letely, the
+and tie posibilit of ut L
+excess power of J e engine for climbing or in travers@ ed &es.
+ties
+(p, ~) peaked near the mafium
+im@y a rapid fall in
+eflioienoy in case of an acceleration of the engine. The practical
+consequence is that, in order to obtain a moderata increase in
+effective power, it is nec=ary to expend relatively a Iarge amount
+of fuel and oil, and to risk overstrainirg thee
+T ~e a maximum efli(10) It is desirable, in practice, in order to
+ciency h&h (between 0.70 and 0.80), that Y should be, for such nmcimum normally near the value 1.0, or equil, say b 0.90.
+In this case, if nD=40, the normal speed o~ horizontal 3ight will
+be equal to 36 meters (118 feet) per second, or 129.6 kilometers (80.5
+miles) per hour.
+If n= 16.66 revolutions per second (1,000 revolutions per minute),
+~= 2.40 meters (7.88 feet). If n = 20 revolutions per second (1,200
+revolutions per minute), ~= 2 meters (6.56 feet). If n =8.33 revolutions per second (500 revolutions p= minute), ~-4.8
+meters
+(15.16 feet).
+(11) Some mritem have maintained that there is, for each type of
+~cI @Ier, a best value of the ratio of pitch to diameter, characteristi~
+L type of m eIIer. This is by no mew certain. But it does ~
+not appear, as J&l een sometimes stated, thatitiers is a bwt value of
+this ratio for aU propdlers, value independent of their form.
+(12) I%opellers have, in general, two or four blades. l?our blades
+should be used in the follo~
+case:
+corm erable power.
+‘UF
+‘it
+‘ ‘mFEEo%!l%L:~Gb:a$
+A%:bw
+a ‘q
+(a) A propciller of too great diameter.
+(b) A propeller with a speed of rotation too high.
+In these two cases, centrifugal force would have a due too - h.
+9
+It would then be advantageous tOempioY a pro eJlerwith four bla es
+which wouId permit the reduction either of t%e diameter or of the
+number of revolutions, that is, to decrease the influence of oentrihq$l
+force.
+It is necessmy that the bladesPof a fo~-bladed propeller be d%
+signed so that the coefhcients ~
+
+and ~~
+
+shall be as nearly as
+
+posaible equaI to the sum of the vahea of these coeflicienta $or two
+
+“
+
+-
+
+622
+
+AERONAU!ITCS.
+
+each se if alone. This is a
+propellers of two blades each operat”
+Y
+matter to be examineds ea“ahy for eac case. Such examination is
+well ada ted to the me ill od by the use of models. It ie thus that
+IL Eitkl%is shown, for certain Ikewiecki
+ropellem that the roduction coming from the influence of the bla 5 es in a ~our-bladed propeller was minimum when the axes of the blades made, between
+themselves, angles of 75° and 1050.
+18. STUDYOF THE MEDIUMSURROUND~GA SCREWPROPELLER.
+M. Eiilel has studied, b means of a fan, a certain number of models
+of screw repellers, He i as undertaken to investigate the vari-ation
+in the v e!’ocities of the current air, both in front of and behind a propeller.
+The measurement were made in a plane situated either in front or
+behind the propeller, at distance e usl to 1/5 the diameter.
+1
+The velocitim were determined ( y means of a Pitot tube) at clistances from the axis of rotation equal to 1/5,1/3approximately 2/5,
+1/2 a roximately, and a Iittle more. than 1/2 the diameter o~ the
+rop 3 er. The next to the laet osition is near the tip of the blade.
+$ he kst “is a little outside of J e cylinder circumscnbiug the propeller.
+are made to vary ovm a threefold range by vary‘a]u* ‘f ~=$
+ing either V or n, but the form% by preference. To these values
+of 7 correspond values of the efliclency O.
+(1) There is acceleration in the milocity of the curreut of air,
+whether in front of or behind the repeller.
+(2) The acceleration is greater %ehmd than in front.
+(3) Acceleration increases from the hub outward to a distance
+from the asis betweau 1/3 and 2/5 the diameter; it then decrmacs
+as the ti of the blade is approached.
+This d!mreaseie more rapid behind than in front.
+(4) The value of the maximum of the acceleration depends on the
+direction of the relative velocity
+at the tip of the blade. Let ~~
+be the value of 7 for which the e%ciency is maximum. If wo then
+from Ymin the d$ecti~n .o~ increasi~g T, the maximum value
+v
+Y
+of t e increase of veloclt y dmmyehss; it mc~ases, on the contrary,
+if we vary from 7. m the. chrection of decre
+T
+(5) The turbulent zone axtemis very little ~“ ond the cylinder
+whose base is the circle swept b the tips of the b L ales. This result
+shows that- the ratio 1/3 adopte J between the similar dimensions of
+a model and the fulI-sized pro eller is suf6cient to envelo the model
+with a surrounding cushion of c@et air sufficiently thicE to permit
+of considm
+the model as movmg in an indefinite mass of air.
+(6) The Mcrement of velocit between the forward and rear faces
+z
+of the propeller is accompanied by a slight contraction in the & of
+the moving column of air.
+(7) The augmentation of veIocity due to the propeller hw an iuiiuence on the operation of an air lane. The sust+takioan -and the
+repulsive resistance are increaee? . At the same tie tlus mfluonce
+: O= not seem to be very im ortanti. Sup s-qthat the blast from
+lane and that the
+the propeller acts on 1/8 of t%e spread of z e
+Y
+increment of velocity is 50 per cent (a rather hig value); the mean
+
+623
+
+AXR.O?-TAUTICS.
+velocity
+
+;+y=
+
+of the wind meeting the wing is then increased in the ratio
+
+1.065.
+
+Such an incremmt is of no speeial importance.
+
+.(8) These qeriments
+are an illustration of the hypothesis of the
+‘r relimimq dynamic condition,” due ta M. Soreau.
+% en the propdsh-e speed of the propeller i9 less than the circumferential speed of the tips of the bkdes as is usuall the case, the
+periodic and rapid movements impressed by the bla z ea on the mass
+of air surronndmg @e propelle; produce a o@ition of steady flow.
+This is ohsmcterized by we emstence ~f a.fhpd vem having the same
+axis as the repeller whmh accompamea :t m proptilon~ this vein
+remains un & anged so long as the conchtione of opmatmn (V, n)
+remarn unchanged. It is in this fluid vein in movement, inde endant of the ositlon of the bhdea at aqy given instant, that the L tter
+operate. & . Soreau gives to th!s fhud vein the name of “propeller
+vein.”
+At the same time there. is formed ty.ouud the blade in movement
+a sort of fluid prow and stern, on wfnch .ghde the particles of air in
+suoh manner as to constitute a wake, wluch accompanies the blades
+without, however, entraining the articles of air. To these wakes
+or secondar~ w&s, produced in tL line of motion of the bladw,
+hf. Soreau gmes the name of “blade veins.”
+thesis, M. Soreau has been
+Taking as a pornt of departure this h
+@i to repr~ent certain experiments of Y . Eiffel by a formula of the
+form
+
+—
+
+a-A–B
+r]*2””””’”””@)
+w being the mean axial vekdy
+of t$e. C
+‘propelIer vein,” while A
+and B are constmt for geome~cally smdar propellers.
+Certain experiments of M. EMel are well represented by the equation
+a=oo’’’-”.o’’[~+%l
+
+“ “ --
+
+which may be applied from tie value ~=
+Equation (6) shows that the afil
+
+“ -
+
+“)
+
+0.3.
+
+vdocity w is of the form
+
+w= 0.46~
+
+. . ...=.....(7)
+
+k the region of masdnmm ticiency of tie ftilym of ropelbs considered, -Y is com rised between 0.5 and O.7; w IS t%en com rid
+between 0.92 an1’ 0.66 meter (3.02 and 2.16 feet) per secon I . In
+this region the ratio ~ is hen -
+
+for v~ues of the speed of pro-
+
+pulsion higher than 10 meters (32.8 feet) per second. h this case
+a becomes a function of -Y. Reference has been made above to this
+fact. The Iarger the value of V tie W distinct are the c~es
+nD =E.
+Equation (6) may be written
+
+—-
+
+.—
+
+624
+
+AERONAUTIC.
+
+This is of the form
+
+.=@AD+a’]
+q
+
+q
+
+q
+
+q
+
+q
+
+q
+
+q
+
+q
+(9)
+
+We should have in the same way
+
+L
+
+-1
+
+The mefhciente a, b, h? A“, k are constant for propellers geometrically Similar,so 10 as the ratio of similar dimemions does not exceed
+a certain. limit. Y t does not appear that such relation can be admitted for a ropelIer and its model when the latter has dimensions
+too much re 3uced in relation to those of the propdlcr.
+(9) The ratio 1/3 adoptedby hf. Eiffel for propellem of @lanes
+seerm to be an upper limit. It leads ta rotative speeds of the model
+of 2,400 and 3,000 revolutions per minute, figures which it seems prudent not to exceed.
+When the roblem is concerned with the study of the propellers
+of a dirigible rdiameter 4.5 meters (14.75 feet)), the ratio requires the
+use of modeIs of 1.5 meters (4.9 feet) in diameter. These models
+seem a ~ttle large for the cylinder of sir 2 meters (6.56 feet) in diameter employed at Auteuil by M. Eiffel. In this case it would be preferable to employ a model on the scale of 1/4 (diameti, 1.125meters (3.69
+feet) , turning at 2,000 revolutions per minute, correspond@ to 600
+revo tutions per minute for the propellers of the dirigible.
+14. INFLUENCE ON THE OPERM!ION OF A PROPELLER OF A CURRENT
+OF AIR PERPENDICULAR TO THE ~
+OF ROTATION.
+
+If we-call Wthe velocity of the current of air and if we consider the
+ratio ~~
+
+the influence on the traction and on the power absorbed
+
+seemed to depend on this ratio.
+The ratios ~ and ~ increase with this ratio, at fit
+
+very rapidly,
+
+then more and-more’ ;lowly.
+‘1’hwe conclusions result from calculations made at the Institute
+of Saint@y-r, based on experiments made on smaU propollem b . M.
+Riaboucbinsky, director of the Aerotecbn.ic Ir@tute of Koutc L o.
+Suppose that for a propeller of the order of swe suited for aviation,
+the ac~n of a wind perpendicular to the axis depends on the relation ~~
+
+...—
+
+in the same proportions as fox the small propeller studied
+
+by M.. Riaboucbinek-y. We can then mtimata the traction which
+would be realized by a helicopter with vnrtical axis carried by an airplane in flight.
+Suppose a propeller 2.6 metem (8.2 feet) diameter with vertical axis
+turging at 1,200 revolutions w minute and carried by an airplane
+with a horizontal velocity o? 25 meters (82 feet) per second. The
+
+AER.ONAUTKW.
+
+626
+
+peripheral speed of the ropeUer is equaI to 157 meters (515 feet) per
+#
+second and the ratio ~
+has a value 0.16. Ref_=
+to the calcu-
+
+.
+
+lation of M. Maurain, director of the I&titute of Saint-@r, it is seen
+that the traction of this helicopter would be increased by about 1/3 of
+its value as a remdt of the relative current of air due to the movement
+of the airplane; but the power to be supplied wouId itdf be increased
+by about 1/4.
+It would be interesting to apply such conclusions to the results of
+experiments on propciUemhuger than those studied by M. RiabouchlnsIqy.
+CONCLUSION.
+AERODYN&MIC
+-IES
+
+IN l?R4NCEDURINGTEE MT
+
+TEN YEARS.
+
+‘lb
+ems ago there was only one laboratory in France in which
+researcI - on the resistance of air were carried on in a systematic
+manner. This was the laboratory imtdled at Cl&ia-hfeudon by
+CCLCharles Renard. An engineer of great talent and, at the same
+time, a remarkable schohm, our fellow countryman must be considerimentaI aerodynuaics.
+His
+ered as one of the foundecs of
+% ck of difkrent forms and bis
+studies on the resistsmce of sir upon
+e. riments upon suppcirting screw propellers have become As&.
+T ther expenmentars had, to be sure, undertaken at this very time
+interesting researches upon the resistance of the air. We may cite
+the studies of Marcy upon the . ht of birds; the experiments with
+disks in free flight made by the % b6 Le Dantec at the Conservatoire
+A
+d= &ts et M6tIers; those of Cailletat and Calardeau u on orthogonal
+disks thrown from the second sto
+of the Eiffel ? ower. Main
+~ad~, had taken up the
+engineem, Iticour, Desdouits, Le &,
+study of the effects of air r&&mce upon bobs moving at a high
+rate of speed. But all these testmcarried out under unlike conditions
+were not susce tilde of aftording a serious basis for studies in aercdynami~ and L“d not furnish e . eers with information which was
+Y
+adequate for the cmrying throug o: tb..ti~-~~.
+At this e och they were stallteat
+“ eering schooIs,
+nes incline to the direction
+%
+T
+regarding & e r&tance of air upon
+of the wind, the law of the square of t%e sine of the
+~eof incidence
+akho oh it had long since been demonstrated that
+law, appIied
+%
+to the . ht of birds, led to abs~d concbions.
+%
+t made shows the progress which
+The r&um6 which we have
+h= been accomplished during # e ast 10years.
+There exist tuday four great 1?
+aboratories which are chiefly devoted to the stud of aerodynamk
+The military I%
+boratory of C2halais-Meudon, und6r the learned
+direction of M. le Cmmnandant Dorand, continues the tie traditions
+of CCLRenard. It is there that the complicat~d probkun of screw
+t~ be-cleared up; It is there that important
+propellers is b 7
+researchw upon the
+@
+@ht of- amens, and upon the coefficient
+of .safet which shou d be adopt~d m the construction of these machines { ave been taken up.
+M. de Guiche has de~oted himsdf speciall to the delicate roblem
+of the distribution of pressure on the wings oi airplanes. He Eas sub
+Doc. 559, 6+-40
+~“+.
+
+—
+
+.
+
+—
+
+..—
+
+626
+
+AERONAUTICS.
+
+jetted the actions axercised by the air on the surfaces of aerofoiIs to
+a minute and precise analyis; he h=. Cr.eatada sort of topography
+of these surfaces which is of the greateet unportance for the doternunation of the ~awsof areod armm.
+of airp F
+anes &d eflective aid in the laboratories
+The constructor
+of M. EifTel,at Autmil, so remarkably well sup hed with equipment,
+and also at the Aero technic Institute of Sain
+The experiments of M. EifTelon models have ek carried out with
++
+the constant- urpose of furnishing constructor with cosfiicionta
+\
+which are relia le. After studying aerofo~j t+is eminent engineer
+has devoted his efforts to a precise detmmmation of the influences
+which these exert upon each other when they are assembled to form
+actual flying machines. He h= deded
+the relative coeflicienk
+for various parts of the avions, the cables and tension wires, the
+frames, the fuselage. He has fialIy, for the
+wheels of the lan
+whole apparatus, % “ed the different conditions of &ht.
+stu
+The uestion of screw propellers is beghmhg to be welI understood. %e~ow,kpatiicdar,
+what tiecondt~om areunderwhich
+a model must be tried out in order to give information applicable
+to a pro eller of normal size. The logarithmic diagram proposed by
+M. EMer facilitaks the choice of a propeller which wlf smt a machine
+of “ven charach-.
+F arallel with the studies of M. EiffeI on mod%, the Aerotechnic
+Institute of Sain~,
+under the ener etic direction of its director,
+M. M.auram, and of lts subdirector, $ Toussaint, makes use of ita
+elaborate e uipment to study avions & parts of avions in normal
+size. This ~aboratory, at we present moment the most important
+?sal of inventors numerous pmcw of
+in the world, puts at the
+a paratus for me asurementaw
+%
+enable them to determine a priori
+e
+t% ualities of the machines which they have under design. In
+colla%oration with military atiation pilots, M. Touasaint has been
+able to instalI on the avions ingenious registering devicm which make
+it ossible to determine, during a flight, the affects of the air on the
+J “ erent parts and the pilot’s maneuvers.
+This ensemble of researches, executed by the difhrent l?lench
+laboratories, researches which cumplemmt each oth~, have already
+led to the series of results of which we have given an Idea in Chapter
+IV of this re~rt,
+These experimental results derive their importance from & fact, viz that they have been obtained by means of
+a la e number of car& experiment susceptible of giving them a
+high~egree of reliability.
+Aviation has, moreove?, derived a great benefit-from these ltiboratoqy ex eriment9. I will cito here onl one comlrmatory example.
+In spite o$ certain ideas put-forward by 5 . Rateau in regard to screw
+pro ellers, the cons@ctom of airplanes made little of the influence
+of ~ e back of the wings on the vsJue of the supporting force; they
+%
+baheved that the whole effect came from the w preesurc upon the
+faoe directly exposed to the wind. But certain resmrchw tied
+out at the laboratory of M, Eiffel on the distribution of air eflccts on
+the two surfaces of an aerofod showed that there ‘were negative pressures on the back and that thee were much more important than
+the pressureson the surface directly ex~oscd to the wind. Whrefore,
+contrary to the mode of construction m practice, the necessity arose
+
+N3R.ONAUTICIS.
+
+627
+
+of fixing edidly the oanvas on the back of the wing in order to avoid
+..
+accident.
+
+The stud-y of the conditions of flight for airplanes by means of
+registering instruments standardized m the laboratories hss, as hf.
+Toussaint has showm, a great importance from the point of view of
+scdety. It is of rime importance to put within the hands ofpilots
+%
+instruments ca a Ie of controRing the qpality of their evolutions.
+Thisisofspe cm! im~rtan~ for the pupil; it is no less so for the expe
+“
+rienced pilot. Stat@ics, m fact, show that a goodI number of accidents are to be imputed to mistakes in piioting. z uch false maneuvers are often unconscious md wult from the ignorance of the pilot
+as to the Limitsof safe~ m which he can maneuver his avion. By
+mems of appropriate instrummts these limits can be determined
+for each type of machine and even for each machine on the aviation
+fiekis by experienced pilob. The file of the aerodynamic laboratories is to combine such registering a pwatus so as b simplify the
+installation on board the machines an$ to stmdardize these instruments. The bstitute of i3ain&Cvr has ccmunenced to do this work
+.
+with success.
+Our aerodynamic laboratory are concerned ~,
+not onIy with
+the solving of probkme which are a part of &e emenca of aerodynamics but they strive also to come to the assistance of our constructors, and they have their share in the evolution of a weapon
+which is just now rendering such pat services in the war where the
+destiny of the country which saw lb birth is at stake.
+
+.
+
+AERONAWtT~
+
+,/
+
+----------------
+
+.
+
+/
+
+.
+
+L2’‘ Ry
+
+8<
+
+------------
+
+4A /
+
+P“
+
+BIBLIOGRAPHY.
+Ua.flbet
+
+et Colardeau,
+
+OompteeRendw de l’Acad4mie dea Scfencee, p. 115,
+
+Deedoui”ta, Annalw dee Pointe et Chawe4ee, 1888, 1,
+Dorand, Etude exp4rimenkde d= h61icw propuhnvee h I’aide de l’adroplane volant.
+(La TEw~&
+A$ronautique, n“ 45,1 novembrq 1911.)
+entale da hdlicee propukivm, (La Twhnique dronautique,
+‘O%%meat&$&.
+4s%)
+EfffeI Fkhemhee exp$rimentalee mmla n%ietance de l’air exwuk& h la tour Eiffel,
+1
+(Fke, Imptierie L. ?daretheux, 907.)
+Ei&\ &&w$nnde
+l’Air et I’Aviation. E &iencea exexxt.k au laboratmire
+Parie, H. Dunod et E.~at., 1911.)
+EifY~ La It&stance de f ‘Au et l’Aviation. E &knces exextA au laboratoire
+
+d’AuteuiI. (P&, H. Dumd et E. Pinat, 19?4,)
+de Grammont de Gufohe, Emeia d’drod~amique du plan, I&e S4rie. (Pack,
+Hachette,1911.)
+de Grammont de Guiohe, Ema.ie d’a4rodynamique, 2e S4rfe. (Parie, IIachette,
+1912.)
+de Gr amrnont de Gnkhe, Ikaie d’dmdpemique,
+3e S4rie. (Pkrie, Hachette,
+191s.)
+de Gra.rnmont de Guiohe, Eaeak dkkrodynemique, 4e S4rie. (Park, Gauth&-
+
+Viuala 1914.)
+Inetitut ~eroteehnfque de Safn&Cyr, Faeckulee I A IV Part I, Deecrfptive
+notice ublkhed on the occaaionof the inauguration, 6, 1911,
+July
+Part3 I, Studieeon the reaietance the @ on mrface.e;studieson the Wkd;
+of
+studieson fabricefor aeroplanes,1912.
+Part II!, Studieson propellemand on &oils; meaeuremente aeroplanw
+on
+in free &ht; aerodynamicetudiee b meane of fan; variation in the wind;
+coet3kknt of eafety for an aerofoil,.1!?
+19.
+Pait IV, I&&ments on a B14rmtin free flight, 1914. (park, H. Dunod
+et E. Pinat
+A
+tance de l’air et lW exp$riencea sw k mod?lw nMtifs. (Revue
+‘“’%%k%que,
+Jm., 1913.)
+Lafay, A pared permettant Ia ddxmn.ination directe du taux de awtentation d’un
+mod? ?e d’m$roplane; a lfcation k dee oiaeaux natundide. (La Technfque
+
+Moderne,Se hn6e, t. ?!, no 12, dt!cembre1911.)
+Lafa , Effet exerd mu une ade par un vent rapidementvaniable. (La Technique
+~oderne, 6e Ann& lersemeetre rio9, ler @ IKL4.)
+La Demteo BuI1etinde la Soci&6 d’Encouragementpour 1’Indwtrie nationale, t.
+IVZfie kel 18!39.
+~
+Ooumd’adronautique la FacuIt4dw Sciencw de Parie,ke Partie,I91o;
+de
+2e Partie+1911;Se Partie, 1912. Paria, H. Dunod et E. Pinat.)
+Marcy, Le vol deeoiaeaux. (Pmie, $ aeeon,1890.)
+Olive Lee mwuree adrodynamiuee eur lee dropknea de dimeneionenormak
+(~e G4nieCivil, t. 69, no 6, Ii juin 1911.)
+Rafbauc& Technique de l’droplane. {Parie,O. D& 1911.)
+“encead’tipro.i
+ue de 1909. (Bulletin de la Soci&4
+Bateau Ap areil et
+1
+dea &&ieurs CM de France,5 judlet, 1 12.)
+T
+Ricour, Annalee k
+
+Ponta et Chauee&e, 1885, 2.
+ropukive. (hkmoirea de Ia SociM dee Ing4nieum Chile de
+France, eeptem m, 1911.)
+\
+Soreau, Bulletin de la SocW4 dee Ing&deure C&Hade Frmce, juille~ 1912. (There
+will be found in this pa er references to veriow otk
+apereby the mme author.)
+amiquee realk& ii 1+ natitut drotechni ue de
+&d
+Touaaain
+1’Univ&ti de Paris
+t ‘a
+‘tida.a(@&.in
+tibol+quedela&tibti
+dmAnci-%l&vw
+dea Ecolea Nationalee d Arte et M%kra. no 9. mare, 1914.)
+Note.-The worlm of Cd. Charlm Rend have been ubliehed in the Comptea
+Rendw de l’Acad&nie da Sciences, in the Revue du 8“&ue Militaire, and in the
+d’A&onautique de I&
+Ikvue de 1’A4ronauti ue. Refarenceawill be found in le Coura
+FacuM dee Sciemw 2 e Paris(L. Mmchie),I&e Partie.
+
+Soreau,L’h41ice
+
+630
+
+0
+

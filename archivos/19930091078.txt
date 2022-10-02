@@ -1,0 +1,6389 @@
+I
+
+\ "lLN%r 1
+Eo
+C
+·2
+REPORT No. 49
+
+METERING, CHARACTERISTICS OF
+CARBURETORS
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+THoS DOWMHl,
+tiAnor'fI~
+
+n
+
+i,
+
+LOAN Ff.O THE FILES O
+F
+
+!'':':V' jeqy CO ,'MIITEE FOR AERON
+AUTICS
+
+LAN LE • n ~UT CAL I ABO TO:\Y
+1'1 Sd;( F [ ',. Ii , ,V.i1bl~"A I
+RETUIN TO Tli
+REQUE TS F... PU..
+
+AS fOllO,
+
+s;
+
+ti'
+
+°
+1
+
+0 ';3 v'lO' D, BE AOOPESSE
+
+PREPRINT FROM FOURTH ANNUAL REPORT
+
+py
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1919
+
+)
+
+•
+
+,
+/
+
+REPORT No. 49
+
+METERING CHARACTERISTICS OF
+CARBURETORS
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FOURTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1919
+
+REPORT No. 49
+METERING CHARACTERISTICS OF CARBURETORS
+
+Part
+
+I.- DESCRIPTION OF CARBURETOR TEST PLANT
+By PERCIVAL S. T r CE
+
+Part IT.-DISCHARGE CHARACTERISTICS OF FUEL METERING NOZZLES
+IN CARBURETORS
+By PERCIVAL S . TrCE
+
+Part 1lI.-CHARACTERISTICS OF AIR FLOW IN CARBURETORS
+By PERCIVAL S. TICE
+
+Part IV.- EFFECT OF PULSATING AIR FLOW IN CARBURETORS
+By PERCIVAL S. TICE and H. C. DICKINSON
+
+Part V.- NATURAL METERING CHARACTERISTICS OF CARBURETORS
+By PERCIVAL S. TrCE
+
+Part VI.-CONTROL OF CARBURETOR METERING CHARACTERISTICS FOR
+AIRCRAFT SERVICE
+By P ERCIVAL S. TICE and H. C. DICKINSON
+
+3
+
+REPORT No. 49.
+P ART I.
+
+DESCRIPTION OF CARBURETOR TEST PLA NT. l
+By
+
+PERCIVAL
+
+. 'l'ICE.
+
+R ES UM ~.
+
+The Bureau of Standards carburetor test plant has been de igned for convenient, speedy ,
+and accurate observations of carburetor performance, without inclusion of the complications
+attendant upon engine performance in 'uch testing. It comprises an orifice air meter, supplying
+air to a miniature altitude chamber, in which the carburetor i mounted. Air is drawn through
+the carburetor by a vacuum pump, and flow pul ations in the air stream are simulated by an
+apparatus controlling both the n'lte and amplitude of the pul ations. Pressure within the
+carburetor chamber can be lowered from that of the atmosphere to approximately one-quarter
+of an atmosphere ; and the air temperature can be r aised to any desired value above that of the
+atmosphere.
+Weighing of the fuel and ob ervations of pres me about a carburetor permit of determining the mixture ratios and coefficient of flow under any service conditions.
+DESCRI P TION OF CARBURETOR TEST PLANT.
+
+The Bureau of Standards carburetor testing plfil1t was designed and built for the purposo
+of insuring greater precision and speed in observations of carburetor metering charaoteristics
+than are conveniently possible where the carburetor i in use on an engine. It is de igned to
+permit observations not only at atmospheric p re ure and temperature, but also at air pressures a Iowa one-third of an atmo phere, and at such temperatures a may be desired abov
+atmospheric temperature. Means are al 0 provided for pr oducing p~sation of the air fiow, comparable in speed and amplitude to tho e met with in practice. Thus it i . po ible to reproduce
+substantially any condi tion which may obtain in service on an engine) and at the same time
+variables due to the engine condition are eliminated. The cour e of the investigation is so
+simplified as to make it possible for one man to control the whole plant and make all observations incident to a set of run. W11ile the resu lts obtained usu ally require checking on an engin
+in operation, the final tage is reached more quickly, conveniently, and at far less expense, as
+well as more acourately than if all the tests had been made on the engine.
+The set-up comprises the follow ing several units:
+(1) The air meter.
+(2) The throttle valve.
+(3) The air heater.
+(4) The oarburetor chamber.
+(5) The pulsator.
+(6) The air pump.
+(7) The fuel meter.
+( ) The manometer columns.
+I
+
+This report was confident ially circulated du ring tho wa" as Rurean of Stands"ls .I eronrwtic Power Plants R eport }io. 43.
+
+5
+
+6
+
+A..l.~£
+
+UAL REPORT NATIO
+
+AL ADVISORY COMMITTEE FOR AERO :rAUTICS.
+
+To follow the course of the air through the plant: It first passes the air meter, then flows
+through the throttle valve and over the heating grids to the carburetor chamber. Here it
+enters the carburetor under observation, aiter which it pa ses through the pulsator to tho
+blower pump, from which latter it is discharged to the atmo phere.
+The general appearance and arrangemenj; of the plant arc shown in figme 1, in which view
+the convenient grouping of the controls is clearly brought out.
+A detailed description of the several units of the plant follows:
+TilE AIR
+
+IETER.
+
+This portion of the plant :follows exactly the specifications laid down by Dmley 2 in hi work
+on air flow through orifices in thin plates, with the one exception that the direction of flow i
+reversed with reference to the orifice box or chamber. Since, however, the cro s sectional area
+of the chamber in a plane parallel to that of the orifice is somewhat over the limiting value of
+20 to 1 referred to the maximum orifice a,rea employed, and since the drop in pres me acros.
+the orifice is never permitted to exceed 6 inches of water column, the fact that the air flow i
+into instead of out of the chamber is of no consequence in the measurements.
+Figure 2 is close-up view of the orifice end of the metering chamber. Here are shown the
+approach passage with its grid for the purpose of protecting the lines of flow into the orifice
+from disturbance by stray room cmrents, and the truotural details of the orifice mounting.
+The orifices are bored in steel plates 0.057 inch thick, with perfectly square edges, and range
+in size from 3.500 inch to 0.500 inch, by 0.500 inch decrements. Th re is provided in addition,
+an orifiqe of 0.3125 inch diameter, and also a blank plate used for checking the tightne s of the
+chamber and throttling valve. The orifice plates seat upon a rectangular ga ket of pme gum
+rubber of one-quarter inch thickness, thus insuring air tightness even though the plates are
+prung in 10c1..ing them upon the end of the chamber.
+The pres me drop across the orifice is read on the upper of the two inclined manometers
+shown above the pyramidal approach to the carbmetor chamber, figure 1. This manometer is
+provided with a scale having divisions 1 millimeter apart, and is set at such an angle that each
+division is equal to a vertical rise of the column of 0.01 inch. This readily permits an accuracy
+of observation of plus or minu 0.0025 inch on the deflection of the column. In addition there
+is provided a short vertical water column, at the immediate left of the carburetor chamber,
+having a scale divided into fiftieths of an inch, and read tru:ough a magnifier, with provisions
+for the avoidance of parallax. This latter column is fitted with a tank having one hundred times
+the area of the tube, thus its reading are at all times 1 per cent too small. While the inclined
+column is also connected with a tank (in thi case a Wolff bottle at the back of the board) the
+inclination of the tube is ~o adjusted that no correction need be made.
+THE THROTTLE VALVE.
+
+A length of 3-inch pipe connects the orifice chamber with the gate valve hown in the foreground of figure 3. The function of this valve is the control of the pressme within the carburetor chamber, in a study of the performance characteristics of carburetors undor atmo pheric pressures lower than that at the ground. The manipulation of the throttling vah-e will
+be di cussed in detail in that section of the de cription devoted to the method of control.
+TllE AIR HEATER.
+
+For the purpose of observation of tho effects of varying air temperature on carbmetor
+performance the air, after it has passed the throttling valve, is drawn tru'ough a chamber composed of a set of five frames, in each of which i mounted a coil of resi tance wU'e in such a maDner
+as to cause it to be reasonably completely swept by the au' stream. A shown in figure 4, the
+five units of the heater are wired to controlling s'witches and a rheo tat in such manner that
+, R. J. Durley, Trans. A. S. M. E., XXYii. 193. 'I'ho reader is referred to this original paper for complete dis ussion of the desirability of employing flow through Qrifices in making air measurem~nts.
+
+Repo rt 49, I.
+
+FIG . I.-GENERAL VIEW OF CARBURETOR -TESTING PLANT , I N WHICH THE PERFORMANCE CHARAC TERISTICS OF CARBURETORS CAN BE STUDIED AND DEVELOPED WITH REFERENCE TO THE
+S PECIAL REQUIREMENTS OF ANY SERVICE .
+
+F I G. 4.-C LOSE - UP VIEW OF THE AIR HEATER AND IT S CO NTROL SWITCHE S, THE CARBURETOR CHAMBER ,
+THE PULSATOR , AND THE MANOMETER COLUMN S.
+
+6-1
+
+Repo rt 49, I.
+
+FIG. 2.-AIR M ETE RI NG ORIFICES , WITH DETAIL OF THEIR
+MOUNTING AND OF THE APPROACH PASSAGE.
+
+6-2
+
+FIG. 3.- END VIEW , SHOWING THE THROTTLING VALVE FOR
+CONTROL OF THE CHAMBER PRESSURE , AND DETAIL OF
+THE MANOMETER LINES .
+
+FIG . S.-THE FUEL METERING SET-UP , SHOWING THE FUEL TANK, SCALE-BEAM
+CONTROL OF THE STOP WATCH , PRESSURE-REGULATING VALVE , AND THE
+TRAP FOR VAPOR AND SEDIMENT .
+
+NIETl!.:RlNG CH ARACTERl 1'IUS OF CARBURETOR.' .
+
+7
+
+three of them are upplied with current at 220 volts, without externall'esistance, when their
+respective control switche are closed, while the fourth may be thrown into circuit on either
+110 or 220 volt as de ired. The fifth unit is in series with a rheostat, and may also be supplied from either the UO-volt or the 220-volt lines, as required.
+The capacities of the units are identical and the control is uch as to permit of extremely
+delicate regulation from about 3° above the atmo pheric temperature up to 45 ° C. above that
+temperature, with the maximum air flow of which the plant is capable. Chamber temperatures
+are read on a mercurial thermometer mounted ju t within the gla door, as in figure l.
+TIlE OARBURETOR OHAMBER.
+
+Leaving the heater, the air passes through the pyramidal appro:1C'h pa sage to the carburetor
+chamber. Mounted in the entrance to the In.tter is a grid similar to that shown in the approach to
+the air metering orifice. The increasing sectional area o[ the approach to the carburetor chamber and the grid just mentioned are designed to obyiate to alal'ge extent the eddy currents that
+might be expected to exist within the chamber hould the air be introduced in a column of
+small section at higher velocities.
+The carburetor chamber comprises a box 18 by 1 inches at the ends (outside) and 30 inches
+long (outside), built up of yellow-pine boards 2 inchc thick. Inside, at each junction of abutting
+walls, the structure is reinforced by a fi ttecllength of 2-inch angle iron. The door opening is
+recessed to take a steel frame made UJl of :!i-inch square tock, th outer face of which is flush
+with the face of the chamber. OYer the whole is fitted a solder-scaled sheathing of galvanized
+iron, and supported by the turned-up edge of the hea thing at the door opening is a rectangular
+gum rubber gasket, 7:;1.' inch thick, having a :!i-inch face. The glass door, shown in figure 4
+resting on the table beneath the carburetor chamber, is of plate glass, :!i inch thick, and is supported and damped in place over the opening and agains t the gasket by the pair of steel bars
+shown at the top and bottom of the opening.
+The heavy con truction of the chamber i nece 'itated by the great pre sure to which the
+walls are ~ubjected when the pressme within the chamber i reduced, as in studyinG' high-altitude
+performance of carburetors. The heathing of galyanized iron is employed to insure air-tightness.
+This form of heathing is also applied to the pyramidal approach, and to the orifice chamber.
+Within the carburetor chamber, and in the center of its top wan, is rnoll1ted a circular
+flange to which the several carburetors studied are secUl'ed with intel'po ed adapters . At the
+left of the door opening is a pair of control spindle, with adjustable level in ide the chamber,
+for the control of the throttle and wbllLeyer other control member may be proyided in the carburetor.
+A sleeve, integral with the 'arhuretor flange within the chamber, extend through the top
+wall to form an air-tight joint with a large circular flange secured to the outside of the chamber.
+The carburetor outflow passage con"ists of a glass tube held in glands spaced by four
+Va-inch studs. Several adyantages re 'ult from making this portion of the outflow pa sage of
+glass. The quality of the charge, with re pect to the finenes of divi ion of the liquid, is shown ;
+irregularities in the fuel discharge are made obvious; it can be seen whether or not the I assages
+of the carburetor cause swirling of the air stream; and localization of the liquid in the stream
+or on the wall i~ definitely shown. In addition to the above, observation of the gla sseI've
+as a ready check on the functioning of the float mechanism of the carburetor.
+THE P
+
+LSATOIL
+
+Mounted ju t aboyc the 'arbul'etor discharge passage i the pulsatol', a device for creating
+pulsating flow through the carburetor, closely following in character tho e fluctuations of pressure and velocity experienced in the operation on an engine. The exterior of the pulsator is
+shown photographically in figure 4, and it construction and control are diagrammed in figure 5.
+The pulsator body i a casting with a rectangular pflSsage for the mixture discharged by
+the carbUl'etor. Tormal to and intersecting the 8..,"(i of the passage i a spindle carrying a
+
+8 .
+
+AN UAL REPORT NATIONAL ADVISORY CO HUTTEE FOR AERO AUTICS.
+
+rectangular throttle plate. Secured to the front and the back walis of the rectangular passage
+are plates of spring bronze, which are normally flat, and cause no restriction of the passage.
+These spring plates form flexible walls for the passage, and permit of varying its effective area
+in the plane of the throttle spindle.
+A one-sixth horsepower shunt motor, mounted on the Lop of the carburetor chamber, is
+arranged to drive the pulsator spindle through three-step pulleys. The control of the speed is
+upplemented by field resistance; and a magnetic tachometer is used to show the speed of the
+spindle. These latter items are shown in figures 1 and 2, mounted on the front wall of the metering ori.fice approach passage. The tachometer is one built for cam-shaft drive on an engine and
+thus reads directly in pulsations per minute, since the pul ator throttle weeps the pa sage twice
+for every revolution. The range of control provided permits of a change in rate of pulsations
+from 600 to 4,000 per minute. This is equivalent to a range of engine speeds from 300 to 2,100
+in the case of four cylindel~, and from 400 to 2,800 r. p. m. in the case of three cylinders per
+carburetor.
+The amplitude of the pressure pulsations i controlled by manipulation of the screws shown
+in figures 4 and 5, to cause the spring plates to approach the edges of the throttle plate more or
+less closely as the throttle revolves. Thus it i possible to reproduce sufficiently faithfully for
+the purpose in hand, the pulsation characteristic of any engine cylinder combination of more
+than one cylinder, having the aspiration stroke evenly spaced.
+A simple form of optical indicator is employed to show the magnitude of the pressure
+fluctuations in the carburetor discharge passage. This indicator is shown in diagram in figure 6.
+No attempt is made to make a pressure-time diagram of the pulsations. The magnitude of the
+pressure fluctuations is read from the calibrated screen of the indicator, on which appears a line
+of light, the ends of which define the values of the upper and lower pressure limits.
+THE AIR
+
+PUMP.
+
+A Nash "Hydro turbino" vacuum pump is used to draw the air through the carburetor.
+Its intake is connected with the pul ator outlet by a length of flexible metallic tube, a shown in
+the general view, figure 1 i and the pump discharge is carried ou t through a window of the
+laboratory.
+Between tho pulsator flange and that on tho end of the floxible tube is a throttling opening
+and trap. This la ·ter serv s the doublo purpo e of eliminating the effect upon the carburetor
+of 1'0 onanco in the l<mgth of flexible tube whon the pulsator is in action, and of trapping and
+passing directly to the pump tho liquid that would oth~rwise accumulate above the pulsator with
+small air flows. This liquid pas os to the pump intako through a inclined length of %-inch pipe.
+The N ash pump is that company's No.3 izo, and is capable of reducing the pressure within
+the carburetor chamber to 180 mm. Hg., or to 1 0/760 = 0.237 atmosphere, with the throttling
+valve fully closed. Between the limits of the barometor column of 350 mm. and one of 760 rom.
+the weight of air pumped is a straight line function of the pressuro. The capacity of the pump
+as appliecl to this plant is shown graphically in plot 7, in which the weight of air pumped i
+plotted against barometric pres nre and also against pump peed at a chamber pres ure of 740
+rom.
+T liE FUEL METER.
+
+Roference to figure 8 shows the details of the fuel-weighing method. A 30-gallon tank i
+mounted on a platform scalo, and supplie tho carburetor float chamber through an overhead
+line, by virtuo of a pressure difference maintained behveen its interior and that of the carburetor
+chamber. The tank is provided with a gauge indicating the pre sure applied to the fuel; and a
+pressure rogulating valv in the line is adjuste 1 to maintain a pre sure difference between the
+tank and the chamber of 2 pounds per square inch. After passing the pre sure regulating valve,
+the fuel onters a vapor trapping chamber set upon Lhe tank, and from this point flows through
+a line of % -inch (0 . d.) copper tube to a valve and fitting in the top waIl of the carburetor
+
+9
+
+M ETE RI N G CHARACTERISTICS OF CARBURE TORS.
+
+\
+
+.
+
+\
+\
+
+\\
+\
+
+.
+
+..
+·
+·
+·
+
+i
+
+\
+
+I
+
+\
+\
+\
+
+\
+
+\
+
+Fig . 5 .
+
+Fig. 6.
+
+Diagram of the pu lsator design, showing how tho flrca of the passage
+in whieh the rotor operates may be altered to modify the magnitude
+01 the pressure flurtulltions.
+
+Diagram of the pulsation indicator. Light IroUl the small lamp i focused to" parallel bJ"m which is renect~d from the flexibly mounted mirror
+osci llated by the diaphragm to an inrl in~d mirror, which in turn rptJects
+the beam to a graduated screen on which the deflection of the U~llt spot Is
+read.
+
+CALIBRATION CURVES
+OF
+
+/10
+
+N ASIi "ffY DROTURBINE"PUMP.
+I'Ll fnPIV 1'4. of r"/40
+
+/7i
+
+V
+/'
+/V
+
+./0
+
+V
+
+/(}()
+
+P/ofNo. 7.
+144572-19- 2
+
+/Z(}(}
+
+/
+
+V
+
+./
+
+V
+
+rn.
+
+y
+
+V--
+
+V
+
+V
+
+V
+
+V
+
+~
+
+/
+
+~Qr orne7 'ric 1"'1 essu re.
+
+I
+J(}IJ
+
+V
+
+4IJIJ
+
+fllll
+
+61lIJ
+
+8ororne frlc Pressure - mrn. Hq. and Pump I?? M .
+
+.- -
+
+7
+1l1J
+
+-
+
+10
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+chamber. From this fitting, the connection with the carburetor is completed through a length
+of airplane fuel hose.
+The beam of the scale is fitted with a contact arm, which upon falling of the beam dips into
+a mercury cup and completes a circuit through a magnetic apparatus controlling the starting and
+stopping of a stop watch. Closure of the circuit through the watch control also completes the
+circuit through an annunciator, thus drawing the attention of the operator to the fact that a run
+has started or ended, as the case may be. This me thod of timing a weighing possesses the
+advantages of making the weighing automatic, and eliminating the personal equation in the
+operation of the wate-h, and of permitting the operator to devote his attention to the controls
+and the making of observations throughout a run.
+THE MANOMETER COLUMNS.
+
+A rectangular flange soldered to the carburetor chamber sheathing carries 12 union fittings
+to which are secured 12 manometer lines of 34-inch (0. d.) copper tube. The union fittings
+extend into the chamber approximately 1% inch beyond the walls, and to them can be con' nected with rubber tubing the several points about a .carburetor at which it is desired to take
+pressure observations. The manner in which the manometer lines are carried to the board
+supporting the columns is clearly shown in figures 1, 3, and 4 .
+One of the manometer lines, the seventh from the left side of the manometer board,is used
+to communicate the chamber pressure to barometer located at about the center of the board,
+to the left leg of the first mercury U tube and to the tank on the back of the board. This tank
+contains water, and forms the well agftinst which t.he set of six water columns, at the left, are
+balanced. The water columns are capable of useful deflec tions of 1,020 nun. (40 ins.); and each is
+provided with a needle valve shut-of!'. The seventh and middle short water column has its
+upper end communicating with the air space of the tank at the back of the board and serves as
+an indicator of the zero position. Inspection of figure 4 will show that the scales of the watu
+columns are mounted to form a unit capable of vertical movement under control of the screw
+passing through the header from which the columns draw their water. Thus it is possible to
+reset the scales during a run to correct for the displacement of the zero fonowing the transfer of
+water from the tank to the columns. The tank is made of sufficiont area so that with three
+columns standing full the error in observation is only 1 per cent, with the scales left in tho zero
+position given them before deflection of the columns. Hence, since it is only very rarely that
+more than three columns are in simultaneous use, and then at much less than maximum: deflection, the error in observation without resetting of the zero is ordinarily weH within 1 per cent.
+In addition to the six water columns di~cussed , and the main barometer for indicating the
+chamber pressure, the board includes a pair of mercury U tubes, and a supplementary U-tube
+barometer. Both legs of the second U tube are capable of connection "vithin the chamber,' for
+making differential readings not referred to the chamber pressure, or for making plus pressure
+observations. The au.uliary barometer tube is used where it is desired to make direct observations of absolute pres ure at some point about a carburetor. It is obvious that by· use of T
+fittings and tubing within the chamber the columns can be interconnected in any combination
+that may be required to fit the case under observation.
+METHOD OF OPERATION.
+
+Most of the work that has been done in the carburetor testing plant ha been with special
+reference to the requirements of certain aeronautic type engines, and as a consequence the
+weights of air to be taken through the carburetor under given surrounding conditions have been
+well established beforehand by direct observations on the engines themselves in the Bureau of
+Standards' altitude laboratory. This points out one of the chief uses of the plant, in that
+special requirements of individual cases, as wen as the desirable range of operability of a carburetor, can be studied in detail and with a maximum of convenience and a minimum of cost and
+lost motion.
+
+METERING CHARACTERISTICS OF CARBURETORS.
+
+11
+
+The 25-horsepower motor used to drive the pump is a shunt type, and is provided with
+resistances in the field circuit for effecting control of the pump speed. These resistances are
+shown on the table sill in figures 1 and 4.
+With the pump in operation, the amount of air taken through the carburetor is controlled
+by (1) the position of the carburetor throttle, (2) the position of the throttling valve between the
+meter chambor and the air heater, and (3) the position of the gate valve on the pump intake,
+which faces the driving motor benenth the table and is controlled by the wheel at the table
+edge, as in figure 1. This latter valve controls the depression in the carburetor outlet, and in this
+way the air taken through the carburetor. The throttling valve, on the other hand, controls
+the amount of air pumped; through its influence upon the pressure, and therefore the density,
+of the air in the carburetor chamber.
+Assume the case where it is desired to take a given weight of air through the carburetor at a
+given barometric pressure and with a given pressure drop in the carburetor outlet, corresponding
+to a run under partial throttle opening. Having located a suitable orifice in the entrance to the
+meter chamber, the pump intake by-pass valve and the throttling valve are adjusted to give the
+required deflection of the orifice manometer at the required chamber pressure. This establishes
+the air flow referred to the chamber pres ure, and so long as the throttling valve remains undisturbed, subsequent adjustment will realize the one when tho other is realized. To complete the
+setting of conditions, the carburetor throttle position is adjusted in combination with the pump
+intake by-pas , to give the required carburetor outlet pressure at the chamber pressure previously ~et. When this is attained, and it is very speedily accomplished, all three pressures are
+at the desired values.
+One of the chief functions of the plant is the !1ccurate determination of the ratio of air to
+fuel in the mixture. Having set the air How and other conditions incident to it, as above, the
+weights on the fuel scale are adjusted so that the beam i about to' drop. When thi occurs,
+through removal of the liquid from the tank under demand by the carburetor, the circuit through
+the watch control is closed and the watch started. The required weight is now removed from
+the scale beam, and the operator i free to record his observation of pressures, temperature,
+pulsator speed, and amplitude, and to maintain the setting, should this be required, while
+the run gees on. When tho predetermined weight of fuel has been metered by the carburetor,
+the scale beam again drops, stopping tho watch. A record of the time taken fo1' the given weight
+of fuel completes the run.
+For convenience, graph have been prepared showing the discharges in pOlmds of air per
+second plotted against difference in pressure for each of the several metering orifices included in
+the equipment. Other charts aro developed for special cases, and will be discussed in detail in
+those roports dealing with the cases in which they are used.
+In general carburetor development work, that is, without special reference to a particular
+engine or class of service, the extreme flexibility of the plant permits the whole usable range of
+operation to be investigated under any and all of the combinations of conditions likely to .be met
+in service.
+
+REPORT No. 49.
+PART II.
+
+DISCHARGE CHARACTERISTICS OF FUEL METERING NOZZLES IN CARBURETORS.'
+By
+
+PERCIVAL
+
+S.
+
+TICE.
+
+R~SUMlt
+
+The following report is a discussion of experimentally determined variations in the value
+of the coefficient of discharge for small bore, short passages as used to meter fuel in carburetors.
+Variations in the overall coefficient (0) are discussed with respect to passage diameter,
+passage length as a function of the ratio of length to diameter (LID), form of entrance, and effect
+of change in fluidity of the fuel with temperature change.
+The most important conclusion reached is thai control of the range of mi."ture ratios
+delivered by u, carburetor is obtainable tlu'oughout the practical limits of desiru,bility by simple
+selection of the ratio of length to diameter (LID) for the fuel metering passage, provided other
+conditions remain substantially constant.
+DISCHARGE CHARACTERISTICS OF FUEL METERING NOZZLES IN CARBURETORS.
+
+The discharge of liquid from carburetor"fuel metering passages or jets is most conveniently
+considered when the characteristic values of the overall coefficient (0) in the expression
+V = 0.J2gh are studied. This expression becomes
+W=60.2 0 a-/p
+
+.Jh
+
+(1)
+
+where W=weight of fuel discharged in pounds per minute,
+0= a coefficient,
+a = area of passage in square inches,
+p=specrnc gravity of fuel discharged (referred to water at 60 0 F.)
+h = head or pressure drop across the passage, expressed in inches of water.
+The value of 0, it is to be noted, includes all losses due to both skin friction and internal
+or fluid friction, as well as the loss incident to contraction of the stream through the passage,
+and to so-called end effects. These losses vary with change in head (h), with change in shape
+of entrance to the passage, with change in the ratio of length to diameter (LID) of the passage,
+and with the temperature (T) of the fuel, considering anyone fuel. The influence of change
+in the temperature upon the value of (0) is the result of the change in viscosity of the liquid
+with change in temperature. A rise in temperature is accompanied by a lowering of the
+viscosity and a consequent increase in the value of the relative fiuidity.2 Thus, considering
+different fuels discharged from the same passage at the same temperature, those having higher
+lluidity values will possess higher values for (0) in equation (1). Obviously those fuels having
+a higher rate of increase in fluidity with a given temperature rise will also have a higher rate
+of increase in the value of (0). In general, those fuels having smaller fluidities possess the
+I This report was confidentially circulated during the war as Bureau of Standards Aeronautic Power Plants Report No. 44 .
+• The fluidity of a liquid Is the reciprocal of its viscosity. Attention is called to plot 6, which is a plotting of fluidity against temperature for
+a considerable number of aviation engine (ueis, taken from BW'eau of Standards Technologic Paper No. 125, by Winslow H. Herschel.
+
+13
+
+14
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE l"OR AERO.!: AUTICS.
+
+greater rates of increase in fluidity value with a given rise in temperature.' This is clearly
+shown in plot 6, from Herschel,3 !1nd explains why it is that the heavier the fuel the more variant
+is its discharge rate with temperature change.
+The general effect of alteration of the shape of the pas age entrance is shown 4 in plot 1.
+Here the diameter is constant, and the LID and T substantially so, the only significant change
+being the bren.king of the sharp, square edge to a depth of a few thousandths of an inch. Probably the major effect of this chamfering is to reduce the contraction of the stream in the entrance;
+at, in this case, heads above 2 inches. of water. While the coefficient (0) has considerably
+higher values with increase of (h) with the entrance chamfered in this way, it will be noted also
+that its value varies through wider limits. This mayor may not be desirable, depending upon
+surrounding conditions with respect to the a.ir flow through the carburetor. However, chamfering has this very practical advantage in carburetor manufacture, that the angle and depth
+of the chamfer, within comparatively wide limits, have an almost negligible effect on the discharge; while, on the other hand, small departures from truth in the making o'f sharp square
+edges result in wide variations in the discharge. This, taken with the great difficulty of producing duplicate parts having square edges free from burr, practically rules out the square
+edge for carburetor metering passages.
+In plot 1, as in all the others with the exception of plot 5, the discharges considered 'Were
+obtained from passages having entrances chamfered as noted in plot 1. Furthermore, all run
+were made with submerged passages, with the exception of two shown in plot 5. The two
+chief reasons for employing submerged passages are: The instability of the discharge under
+very small heads for pa sages discharging into air; and the fact that the jet discharging into
+air is rapidly becoming obsolete in carburetor practice.
+Within the range of metering passage diameters used in general carburetor practice it is
+found that the value of (0) increases with increase of CD), plot 2.
+The effect upon (0) and upon the limits between which it varies with change in the ratio
+LID, are brought out in plots 3 and 4. In the former , (0) is plotted against (h) for several
+values of LID, with (D) a con tant o Plot 4 is another form of expression of these same points,
+with (0) plotted against L ID, each curve being representative of a constant value for (h).
+The usefulness in practice of the control exercised over the values and range of values of
+(0) following control of the ratio LID, is found when it is attempted to secure mixture ratio
+compensation of a definite order of variation, with a given range of controlling values for (h).
+These latter will vary with the forms given the air passages, and with the general design of
+the carburetor, as discu sed in Parts III, IV, and V of this report. In general, there is more or
+less fitting by selection to be clone in bringing about the desired compensation control in a
+carburetor; and plots 3 and 4 point out a very simple way to accomplish almost any desired
+result in compensation.
+A change in temperature affects the discharge from a passage in two ways-through its
+influence on the density (p), and by virtue of the change in fluidity. It is obvious from a consideration of equation (1) that for ordinary variations in (T) the effect of the accompanying
+change in (P) is of no great consequence, since the change in (p) is comparatively small and
+the discharge varies as -liThe group of three curves in plot 5, for gasoline discharged from the same passage at three
+temperature, expresses the order of magnitude of the effect upon (0) of change in fluidity
+with the change in (T), for a comparatively long passage, in which this effect is much greater
+than in the case with ordinary smaller values for LID found in carburetor practice .
+• Herschel, Winslow H .: Bureau of Standards Technologic Paper No. 125 .
+• The experimental data on which this report Is based is selected from the resu lts obtained late in 1917 and early in 1918, at Detroit, by P . S.
+Tice in a special app3ratus designed for the accurate study of discharges from small-bore passages. For convenience in reproduceabillty distilled
+water was tbe discharging fluid in the major porLion of the work. The app~ratus includes means for controlling and measuring the bead within
+narrow limits (at a head of 1 inch the variations are less than plus or minus 0.5 per cent, and are correspondingly less at greater heads); means for
+controlling the temperature to within plus or minus 0.25° C. of the set value; a device for weighing tbe fluid discharged; an electrically controlled
+stop watcb [or taklog the time, the circuit o[ which is completed upon the swinging o[ tbe balance.
+
+-
+
+/.il
+
+1
+10
+
+.6
+
+t
+
+---
+
+V
+/"
+
+·~ . 6
+
+.....
+()
+
+.....
+
+~
+
+",po 1!l.S
+
+l./r7cl'1!ornfe eo'.
+
+°C
+
+rlt1=~_
+
+~~
+~t::=-
+
+.~
+
+-
+
+f-
+
+I--
+
+'-0\
+
+~
+
+-I
+
+CFFECTONCOFCIIANGCI/V·a
+L N) SU8STANTt4LLY CONSTANT.
+Wo"l"er l'Iowinq
+
+C)
+
+.....
+
+I
+
+~
+,
+
+I.J
+
+1
+
+J
+o
+
+B
+
+4
+
+Plot No. I
+
+..1
+
+..1
+
+12
+
+~.4
+
+J
+
+16
+
+J
+20
+
+v
+
+J
+
+.2
+
+o
+
+lB
+
+24
+
+Hea d - " (inch es aT w a fer)
+
+___ L_
+
+- _.-
+
+4
+
+12
+
+Head
+
+Plof No. 2
+
+~
+
+16
+
+~
+
+f-j
+
+t:J
+
+-
+
+l:':l
+~
+
+(il
+
+o
+
+24.45
+
+~
+
+-28
+
+N
+
+20
+
+L..----
+
+27.55 f - -
+
+.484
+.4Z0
+
+1111
+
+- -~
+
+8
+
+.
+.0150
+.
+
+.0310
+.0357
+
+E"
+F "
+
+I
+
+-
+
+-
+
+Suornen;ed orifice -Chornreredends
+OU
+L"
+L+ O
+TOC
+12.J6
+.0Jl?
+A '
+.4041
+23.ZS
+8 •
+.OJ50
+11.54
+23.80
+"
+10.84
+24.10
+c· .0.173
+10.l3
+24.70
+.0395
+D"
+
+"
+-3'
+
+-
+
+J
+
+¥
+
+.~
+
+.
+
+..
+
+..
+
+-1-.-
+
+.~
+
+EFFE C T OF CItAMFC /fING CNOS
+OF PAS SAGe . (SUBMCRGEO')
+WA TER FL OIN'I1V6.
+I nclu d e d An ",Ie of C
+ha177T -OO °
+er
+.008 "
+Oep"l"h
+"
+"
+.040"
+O/a/"17e1'er 0/ Po-s.3 o qe
+.4016 ..
+i.enq 1'h
+a 10.04
+Lenq"l"h -i- O ep">,"h
+
+...
+
+E
+
+kt==.
+~~
+
+,
+
+~
+
+'"
+.... .6
+
+/
+
+t
+
+.~
+
+\..)
+
+t
+
+!I
+
+0::)
+
+~
+
+~
+
+~.b
+
+"ereG ,rem .-UO °C
+
+CharT
+
+r--'-I -
+
+h (in cn es ot'waler)
+
+~
+
+o
+f-j
+
+t:J
+
+l:':l
+
+Ul
+f-j
+
+,
+
+1.0
+1
+
+II
+
+-. -
+
+(0
+0
+
+....
+~
+~ ~ --.....::: ~ §
+
+-
+
+-
+
+LJ
+
+,
+
+l--
+
+"
+
+~
+
+.,j
+
+.~
+
+.~
+0::) .
+
+.IJ
+
+V
+
+"........ f..--
+
+..---- ~
+
+C
+
+...--
+
+fj
+
+.~
+
+.. 4
+
+f-- f:-
+
+~
+
+~
+
+submergedori'/ce ~ cltol'T7Tere,dends
+
+QI
+
+~
+
+D"
+
+"'C·
+
+•
+
+.0357
+
+.
+
+B-
+
+l
+
+.
+
+o·
+
+4
+
+/I
+
+.Il
+
+L"
+.106
+.200
+.100
+.015
+
+~J 1~__
+16
+
+' 20
+
+Head- h (/nche:s oFwoler)
+
+Z4
+
+~
+
+-- -----........
+
+~
+
+'"---
+
+-----
+
+.IJ
+
+"
+
+I
+
+~
+
+IJ
+
+16
+
+,
+
+.
+o
+
+PlofNo.4 .
+
+o
+
+!:O
+
+-
+
+-r- --
+
+g;
+
+bi
+
+t:J
+f-j
+
+o
+
+!:O
+
+rn
+
+-z
+I
+
+crrECT UFON "C'OF CHANfJc
+IN VALUe Or "L +O:4T VARIOU5He.llDS.
+SU8MER(jEO PASSAGE - OfAMFERED .
+
+D - .03S7"-Water.
+----
+
+--
+
+er.
+
+I-- '"--- -.5
+
+~ .~
+
+27.10
+· Z6.60
+23.80
+24.40
+
+IU__
+
+"h" • Head ,",Wa
+
+...:::::: :::==:-::: ~ ~ ~~
+i---~ S~f:
+<
+r-- r-- t-S
+'"--I-,
+'"---
+
+~
+.,
+
+Toe
+
+L-'-O
+II.J7
+5.60
+2.80
+.42
+
+~~~
+
+-........
+
+...
+
+EFFEC T ON' C OF CHANGE IN·L-;'D
+WIT/-I'O CONSTANT
+Wa1'er l'Iow/nq
+
+o
+
+--- --- ------:;:--- ---
+
+()
+
+.....
+
+1'/01 No. oJ
+
+~
+~ b-
+
+.~ .6
+.....
+
+,/
+
+.Il
+
+~
+
+<:)
+
+.;: J
+
+\..)
+
+"
+~
+
+A
+
+/
+
+<:>
+
+.....
+t
+
+L
+
+.'/
+,
+
+:.....
+.~
+
+~
+
+o
+
+I-:j
+
+~
+
+./
+
+>-<
+
+o
+
+Ul
+
+z
+
+~
+
+6
+
+-
+
+-~
+
+8
+
+~
+
+L/O ~ Lenq">,"h+oiornet<!'r.
+
+I?
+
+1-1
+
+1-1
+C1
+
+-
+
+{O
+1
+
+-~
+
+,
+
+\i!
+~
+
+"
+
+t
+
+~
+..... .f
+
+I
+
+o
+
+...
+t
+
+.~
+
+~
+
+~
+
+0
+?"
+
+-
+
+c
+~~
+
+.
+~
+
+A
+
+!
+
+160
+
+•
+
+I!
+
+!
+,
+
+,
+140
+ErrECT ON' C
+or CHANGE IN' T
+
+-
+
+GosoII;-,e !'I owln?
+Subn7~r9ed orifice· Chamfered ends
+0"
+L"
+L';-O TOC
+P -I
+.755
+11.8j
+9.85
+A ' .0344 .107
+74!J t-17.10
+8'
+7JS
+19.()O
+c· -
+
+I
+
+.
+
+\,)
+
+rr~~
+
+orilice .
+.OOj
+.OOj
+
+O · .042
+£ • .OZO
+
+~
+
+I
+
+USO
+
+. II!J
+.Z50
+
+t--
+
+Z4.JO &4.00
+
+o
+
+'"
+I
+
+o
+
+q
+
+8
+
+-I
+
+M
+
+M
+
+Itf!ad~ h rinche.:rorwoter)
+
+I'lot No. S
+
+~
+
+zo
+
+14
+
+»p,
+~
+
+pe~V
+
+/
+
+" I< 1
+
+VI
+
+~
+
+.~
+"
+
+/ ('
+
+~JO'
+~
+
+.~
+
+o
+
+v
+
+.~
+
+'Il
+S
+
+V
+
+j,/
+. /
+
+I
+
+,
+
+/.
+
+/L~~~;
+:t.....
+,.-
+
+~~X....~~
+/
+
+"..
+
+V
+
+W
+
+V
+
+. . ;:;;/
+
+V
+
+./ / '
+
+1~ :> 'r~'~f/ /
+....-~~:';'
+~
+.-;
+
+~
+Q.,
+
+,.'" ~,.....--:,
+......
+,. ..... ~ .... ~~ ...... ~-'
+.~ r'
+,/
+~;:'/~ v.;:: . . . 1 "
+
+~ .........
+
+V
+
+.......
+
+10..-
+
+o
+I"lotNo.6 .
+
+./
+
+);
+
+~
+
+VI
+
+GAS. Sp.
+NO. CiR.
+
+1- .680
+Z '.694
+j '.6!J9
+4·.70Z
+5 " .726
+6 - .722
+
+V
+.,rI~1
+
+.........
+
+f-f-f--
+
+8 - . 757
+9- .748
+10'.tJ/J
+
+6~
+
+r---
+
+,
+
+o
+
+2
+9
+
+10
+
+I
+l?eL A TlONSIfIPt5ETW££N rLUIDITY
+AND TCMPD'fATUI?,E
+f-
+
+7
+
+/
+
+~
+
+V
+V
+
+~
+
+V
+
+........-
+
+L
+
+~
+~ ~ ~V
+
+/
+
+/
+
+V
+
+/
+
+311J
+
+j
+
+7
+
+/;
+
+/
+
+.........
+
+/
+
+2
+
+--;:::7' ~V
+
+d
+
+3
+
+f
+/
+
+G1
+
+I'd
+~
+
+t-3
+
+248
+
+~
+h 212 Qj
+
+II
+
+~
+
+~
+....
+
+"'-
+
+~
+IV
+
+Cl.
+
+176
+
+40
+
+60
+
+I
+
+I
+
+I I I I I I I
+
+80
+
+~rnp~roture
+
+100
+
+_ CD
+
+IlO
+
+()
+
+~
+>
+tJ
+;::l
+Ul
+
+0
+
+~
+
+0<
+
+0
+0
+
+~
+~
+H
+
+t-3
+t-3
+
+t=J
+
+t;j
+
+..!--
+
+!-zj
+
+141/
+
+0
+
+~
+
+~
+
+~
+
+P-
+
+DISTILLATION CURVES
+FOR
+
+Gosolines whose rluic1ities
+are shown In PLof'No . 6 .
+
+104
+
+_
+
+PlolNo. 7
+
+II>
+t-3
+>-<
+0
+~
+
+0
+~
+
+ir
+
+20
+
+t
+
+~
+
+GasolIne and one cornrnl'rclo/ qrt7de(!J)
+
+I
+
+~
+
+0
+
+rOI?
+
+e:...-
+
+c:
+
+~
+0
+
+~ /,
+
+/
+
+~
+~
+
+I
+
+1
+
+/
+
+iI>-
+
+284
+
+';
+
+lf8
+
+---rt:
+---
+
+~ V{
+
+r7"'"
+
+~
+
+lY
+
+. . . . . l.......-t; ~
+
+I? Z ~
+
+4
+J
+j
+
+7-.717
+
+..J-
+
+lO
+
+L
+
+Sev,:ral samples orspec/ola Vlof/on
+
+t<E r:;.s.!f
+
+-
+
+07
+
+V
+
+~ 80
+
+/
+
+. . . . . . . .V
+
+//
+
+/'
+
+,/
+
+..../
+
+~ ::::-,L
+
+,
+i:i:. 100
+
+./
+
+~
+
+/'
+
+//
+
+4'"
+
+':i.1D< 7
+~
+~
+
+v""~(
+
+100
+
+~
+i(
+
+I
+
+V
+
+/
+
+120
+
+s~uo~ ~nct.s
+
+J
+II I
+/V
+
+I
+
+0
+
+....
+
+~
+'i;:
+
+8
+
+f-'
+(j)
+
+9
+
+I
+
+2/J
+
+4(J
+6/J
+Per cenl D isfilled.
+
+[j(J
+
+//Jf/
+
+c:
+t-3
+
+H
+
+0
+~
+
+METERING CHARACTERISTICS OF CARBURETORS.
+
+17
+
+Attention is called to the curves in plot 5 for the very short, square edged passages discharging into air. Here the variation in (0) is a minimum with respect to both (h) and (T). A
+change in (T) from 24.5° O. to 4° 0., it will be seen, results in no appreciable change in (0) at
+anyone value of (h).
+CONCLUSIONS.
+
+(1) Ohamfering the entrance of a fuel metering passage increases both the value and the
+range of values for the coefficient (0) of discharge.
+(2) Wide variations in the angle and depth of chamfer at entrance have almost inappreciable effect upon (0), with respect to both its value and range of values with change of head (h ) .
+(3) Small variations, due to burr or otherwi e, at entrance of square edge metering passages
+account for inadmissable irregularities in discharge. This makes it highly undesu:able to
+employ this form of entrance where ready production of many identically performing parts is
+sought.
+~4) Submerged fuel metering passages are free from instability and irregularity of discharge
+when the head (h) is very small.
+(5) The value of the coefficient (0) of discharge increases with increase of diameter (D) of
+the passage, for passages of appreciable length.
+(6) The value of the coefficient (0) of discharge increases, and its range of values decreases,
+with decrease in the length to diameter ratio (LjD).
+(7 ) Suitable selection of the ratio LID in a fuel metering pas age permit of obtaining
+almost any useful relationship between air and fuel in a mixture, other conditions remaining
+substantially constant.
+(8) The value of the coefficient (0) of discharge increases with the fluidity of the fuel ,
+which varies with the temperature (T).
+(9) The smaller the fluidity value of the fuel, at a given temperature, the greater the rate
+of increase of fluidity with rise of temperature, and therefore the greater the rate of increase
+of the coefficient (0) with rise in temperature.
+(10) Increase in the ratio LID serves to increase the effect upon the coefficient (0) of
+changes in fluidity following changes in temperature.
+(11) The discharge from square edged orifices in thin plates (LjD = 0.25 or less) is inappreciably affected by wide variations in temperature of the fuel.
+144572-19-3
+
+-
+
+-~ -
+
+- -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-~~~
+
+----------------- '
+
+REPORT No. 49.
+PART
+
+m.
+
+CHARACTERISTICS OF AIR FLOW IN CARBURETORS. 1
+By
+
+PERCIVAL
+
+S.
+
+TrCE .
+
+RESUME.
+
+The following report is a discussion of experimentally determined values of the coefficient
+of discharge for the air passages, and of the loss in pressure at the carburetor outlet, in carburetors of the plain tube type. These values are con idered, for the complete carburetor
+assembly, with respect to passage form, air density, the admission of fuel to the air stream,
+and method of spraying or dividing the liquid.
+The more important conclusions reached are: That the coefficient of discharge has an
+almost constant value for throat velocities greater than about 145 feet per second, for any
+one carburetor; that below a throat velocity of 145 feet per second the coefficient rapidly becomes smaller; that considerable variations in passage form only slightly modify the coefficient;
+that the coefficient is practically unaltered by change in atmospheric density, or by admission
+of fuel to the air stream; and that the pressure loss through carburetors varies with the design
+of the passages, and with the method of admission and spraying of the fuel.
+CHARACTERISTICS OF AIR FLOW IN CARBURETORS.
+
+The flow of air in a plain tube carburetor (one having a single air passage without control
+other than the engine throttle valve) is most conveniently considered as flow through a nozzle
+having an infinite area (AI) of entrance, and in which, therefore, the pressure at entrance (PI)
+is that of the surrounding atmosphere. Carburetors of this type always include a constriction
+or throat in which the velocity of the air is increased to provide a drop in pressure to cau e
+fuel to be ejected into the air stream. The throat area is the least area of section along the
+axis of the air passage. In such a case the weight of air taken through the carburetor may be
+written 2
+(1)
+W= 2.0430PI A 2 I(P 2 ) 1·422
+a )1.711
+
+...;r; -V
+
+where W
+
+=
+
+_(P
+
+PI
+
+PI
+
+weight of air pru;sing in pounds per second,
+
+o = experimentally determined coefficient of discharge,
+
+PI = pressure at entrance in pounds per square inch, absolute,
+
+Tl = temperature at entrance in F O, absolute,
+.112 = area of throat in square inches, and,
+P 2 = pressure at the throat in pounds per square inch, absolute.
+This is the general expression for air flow through a nozzle.
+Tllis report was confidentially circulated during the war as Bureau of Standards Aeronautic Power Plants Report No. 45 .
+• The subject olair !low formulre is very thoroughly considered by Sanford A. Moss in A merican Machinist, pp. 368 and 407, Sept. 20 and 27,1906.
+
+1
+
+19
+
+20
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Published reports of tests of air flow through nozzles or Venturi tubes are few in number,
+unfortunately, and include only work with comparatively large tubes (2 inches or more throat
+diameter), having straight axes and without obstruction at throat or entrance. These tests
+have resulted in the assignment of throat coefficient values ranging from 0.94 to 0.99, for passages having equal entrance and exit diameters (D 1 and D s, respectively) and a throat diameter
+(D 2 ) equal to or less than 0.5 D 1 • In these tubes the converging entrance has been found to have
+an optimum included angle never greater than 30°, and is joined to the diverging portion by a
+short cylindrical section comprising the throat, and having well rounded junctions with each.
+Further, the diverging down-stream portion or adjutage is found to have an optimum included
+angle of between 5° and 7.5°.
+The inclusion in a oarburetor design of a passage possessing the above general specifications
+is obviously difficult if not impossible. A consideration of intake system requirements in an
+engine seems to preclude the employment of a diameter ratio of D2/Da = 0.5 or less. A definite
+and narrow range of values for Da exists in a given case; and a reduction of throat area to 0.25
+that of the manifold is inadmissible because of the requirements of high oharge pumping capaoity
+in an engine, and of maintenance of a fairly definite range of heads controlling the fuel discharge.
+Considerations of space available for the carburetor, of the desirability of minimum bulk
+with universality of application of that device, of the frequent need for a supply of heated air,
+or of fire prevention, make it necessary to modify the entrance by curving its axis more or less
+abruptly, and make it highly desirable to increase the included angle of the adjutage. Then, too,
+fuel must be admitted to the till'oat to secure proper metering relations; and this calls for obstructions in the form of jets and their supporting bosses. A throttle valve must be included for
+engine control.
+Taking these points all together, it is reasonably to be expected that the air flow in a carburetor will have a different and smaller efficiency figure or coefficient than obtains for the
+simple passage of optimum form.
+The work, of which the following is a summary, was done in the Bureau of Standards
+carburetor testing plant,s and was undertaken to determine experimental values for the coefficient
+of discharge (0) in equation (1), for rather widely differing examples of carburetors of the plain
+tube form. The whole carburetor was employed in each case, as installed on the engine, the
+object being to determine effective values of the coefficient for the carburetor as a whole, rather
+than corresponding values for the throat member alone and removed from its service environment. These latter are, in general, fictitiously high referred to service conditions, as is shown
+in the resul ts.
+.
+The carburetors used are referred to in the following as carburetor A/ figure 1, and carburetor B,t figure 2. The essential dimensions of the till'oat members of these two carburetors
+are given in the diagrams and data of figure 3, together with those for an air nozzle 01 approximately optimum form.
+Carburetors A and B were designed for use on the same engine, in which three cylinders,
+5-inch bore by 7-inch stroke, are supplied by each throat. The air taken by these cylinders
+at 1,700 r. p. m. under full throttle opening, at the several barometric pressures, is shown
+graphically in plot 4, in which are also shown the corresponding air densities at the mean temperature of the tests (62.8° F.), and the altitudes in feet equivalent to these densities. s The
+quantities of air read from the curve of plot 4 are the maxima taken through the carburetors
+in these tests; and the lesser quantities taken to complete the description of the coefficient
+variations were secured by throttling the air supply to the carburetor chamber. For convenience
+in manipulation, the carburetor throttles were kept fully opened throughout the tests, since it
+• A (ully illustrated description o( the Bureau o( Standards carburetor testing plant is given in Part I of this report.
+• Carburetor A is the Zenith Carburetor Co.'s dual design used as equipment on large engines. It is fitted with a throat member haYing a
+minimum bore 01 31 mm. (1.22 inches), and is compensated , as are all Zenith carburetors, by compounding the nozzles.
+Carburetor B Is an experimental design by the Stewart-Warner Speedometer Corporation , developed to possess inherent mb.:ture compensation
+for altitude. It bas a throat 011.312 inches mininlum bore, and is compensated by balancing the fioat chamber pressure against that at the throat
+outlet.
+NOTE.-It was intended to include other carburetors in this portion olthe work, but owing to structural and design peculiarities in those others
+that were available it was impossible to obtain for them coefficient values directly comparable with those lor the simpler structures here described.
+• A complete discussion with curves giving t.he relations of pressure, temperature, and density with altitude forms a portion of Part V of this
+report.
+
+METERING CHARACTERISTICS OF CARB URETORS .
+
+Fig. 1.
+
+Fig. 2.
+
+21
+
+22
+
+ANNUAL REPORT NATIO
+
+AL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Optimum Tube
+
+1.55 D20
+2.24D2
+
+'}.S80 z
+
+Carburetor
+D 10J ,. 0.6
+2
+Carburetor Air Nozzle .Forms .
+r/q .3
+
+Carburetor A
+
+Altitude in thousand Fee I';
+6
+
+.5
+
+I
+
+II
+
+IS
+
+lOZS.JI
+
+I
+
+/I
+
+I
+
+I
+
+l
+
+.il
+
+~
+
+AIR TA/(eNATrUlLLOAD
+.ll
+
+(OPEN
+
+~
+
+.10
+
+.16
+15
+
+z
+
+"-..
+
+rHIfOTTL~)
+
+AT THe SeVelrA l BAROMeTRIC
+t>ReS5UReS.
+
+~
+
+"'"
+
+........,
+
+""-
+
+~
+
+""
+
+........,
+
+""-
+
+.8I
+
+I
+
+f>lotNa4 .
+
+.07
+.116
+.III
+01
+P • Oer1Slty /lbs.perCu rl. of 16.9 'C(6Z.o'r).l
+10t7
+6110
+.1IJd
+~oo
+r,- 8oro/7u~ rric~re.:s:st/~- M M
+
+./JJ
+
+{j
+
+021 D3
+
+= 0.6
+
+qj ,9
+
+, ,9
+~
+
+~
+~
+
+'S
+
+.Ir)
+
+~
+
+.8
+
+. .. .
+
+r
+
+.
+
+~
+~
+
+..
+
+'
+.S
+
+~
+
+~ .8
+<:>
+
+~
+
+CARBURETOR-A
+COEFFICIENTS Or DISCHAfiGf:
+
+t
+.Q)
+
+.\.1
+
+Air Tlow with and wiThOut- ~uel
+at l;orametricpreS5ures of' 750,
+.550 and.350rnn7.
+
+.
+
+.
+
+.
+
+",...J.--a-
+
+.-1
+
+CARBUfi£TOR - B
+COCrrlc/ENTS Or DISCHARGE I--
+
+.1.1
+
+.QJ
+
+....
+
+~
+Q.,
+
+.7
+
+~
+
+....
+
+:t:
+
+AIr flow with and without Fuel
+at boromefricpressures of 750,
+.550 and .350 n7m,
+
+1
+
+Q,
+
+~
+
+1
+-
+
+t=j
+~
+
+H
+
+\I
+
+Ii
+
+~
+
+\J
+
+Iv
+
+,6i
+
+IP
+
+I~~
+
+UP
+
+K~~
+~\
+
+.J. 1
+
+~
+
+A - Air anlyaf
+
+B"
+
+"-....:
+
+'\
+
+" ,,
+",
+
+I.~
+
+\,\
+
+.,
+
+,
+
+I~~
+
+£'.
+
+FI
+
+~
+
+\
+I
+
+Cl..'
+
+"~
+
+I
+
+.9 r
+
+1\8
+
+\
+
+1,\
+I
+
+,,
+
+•
+
+\
+\
+
+P/otNo,S
+
+I
+
+H
+
+.N\
+
+Y
+
+.a
+
+AIr - L bs sec/s? in."
+
+I"
+
+'
+
+.
+
+--...
+
+.!J9I
+
+1\,\
+
+"'"
+
+... ~
+
+~
+
+,,~
+
+e
+
+~
+
+~A
+D"'~
+
+8
+
+~
+,
+
+,
+
+\1
+\
+I
+I
+
+.08
+
+H
+
+o
+
+U1
+
+o
+
+'=l
+
+o
+
+~
+
+"
+
+~
+
+,
+~
+
+1-3
+
+o
+
+~
+
+PRESSURE flECOV£RY
+
+I---
+
+rn
+
+= Aironlyof
+
+750 mm.
+" 550" ",
+"
+c = " " " 3S0" ", I - - D= AirlkFuelot750" ",
+E= "
+550 " " , t - .. 350
+F -
+
+B=
+
+"
+
+..
+
+.04
+
+~
+
+1-3
+
+,~
+
+A
+
+I
+
+'-
+
+P/ofNo. 6
+
+r;
+
+i>-
+
+,
+
+'~
+
+.9
+
+.96
+
+o
+ill
+
+t=j
+
+t--.
+
+,
+
+.M
+.M
+o~ ThroaT A reo,
+
+SO
+
+1-3
+
+\~
+F\
+
+~
+
+40
+
+o
+
+,,
+\
+
+........
+
+",~
+
+30
+
+r;-?z (Inchesofwoter)
+
+KF::~
+
+Cl.,
+...
+
+,1 ."'\
+\
+\,\
+
+.
+
+,!J8
+I\.
+
+20
+
+10
+
+H
+
+~
+
+,
+
+\
+
+,96
+
+"
+
+.. ".
+" ",
+" 350 .. ",
+
+,,~
+
+\\
+,
+\
+
+u
+
+"
+
+'0
+0' ,
+
+\
+
+I
+
+.
+
+H
+
+-
+
+'f}
+IPO
+
+750mm.
+
+c=
+"
+o = Air IX Fuel of 750
+550
+e=
+
+"
+~ ~. F
+
+.6
+5
+
+550 " ".
+350 • ".
+
+H
+
+"
+
+"
+"
+
+(j:l
+
+50
+
+PRESSURERECOV£RY
+
+f\' ~. ~
+,
+
+,94 1
+
+411
+
+30
+P, -~ (Inches oTwoter.)
+211
+
+~
+
+1-3
+
+.11
+
+H
+
+..
+
+H
+
+H
+
+.16
+
+H,
+
+]0
+
+Air - Lbs.jsec';sq. in." of 7l1rool Area.
+~
+
+co
+
+24
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+·S
+
+-
+
+/
+
+l/
+
+r
+
+V
+
+.- I--
+
+Thr< ate
+~--
+
+~-- -
+
+Thn ~otD
+
+--ffir(
+
+biB.}
+
+.-
+
+~
+
+- - --
+
+:-:: F
+
+~
+
+--
+
+.- I -
+
+f - - - -1 - - - 1 - .
+
+- - -f - - - -
+
+1-- - -
+
+-
+
+~--
+
+" Cc. trb. A.
+
+-==-
+
+-'-'
+
+Co. 'f-b. B .
+
+....- V -
+
+COM?A/fISON Or CAI?f3UfiETO!?
+COErrlCIENTS AND CARBURETOR
+THROAT COEF"FICIENTS
+
+~
+
+A ir on/yo t 750rnm.
+Throat B l.s Tro m CarbureTor B.
+n
+C i s SOln e as CorboA exce/jt
+D z. / D,3 = 0.656
+D is sOl77 e os CorboA except
+"
+". Dz /D3 = 0.46/
+
+I
+1
+1
+
+.30
+
+,20
+
+/0
+
+f/ -f2. (/nchesoTwol er)
+
+SO
+
+40
+
+/.110
+...........
+
+~
+~
+
+~
+
+..............
+
+,,'0
+~
+
+,,~ ...............
+~' ....
+
+"
+
+.JJ
+
+", y
+
+~
+
+........
+
+....c .;~
+
+->. . . ~
+.
+
+<:'}' . . .
+
+.-;'(
+'"
+
+~
+
+~ ~ " " ,~
+."~~ ,
+', ', 1"- \
+~,
+o~,
+~
+?RE.SSURE ft£COV£IlY RATI05
+.....
+
+.....
+
+,
+
+O.>r~
+
+.9/J
+
+~
+
+' 6'
+
+'\
+
+"
+
+Q..
+'
+
+..........
+~
+
+,
+
+'\
+
+.97 II-
+
+IN
+
+CAfiBURETORS AND CARBURCTOR
+THITOAT TUlJES
+Airon/yot 750 rnrn .
+
+.96
+P/otNo. 7
+
+. fl4
+
+.fl8
+
+.II
+
+\
+
+tv\
+
+,\
+
+\\,
+
+\
+
+\
+
+.16
+.10
+Air - Lbs/sec./s'l. in, of. Throat Area.
+
+:\H::mHl .. 'G CHAn,
+
+(!T I~HJ.
+
+TIl'S OF
+
+C,\'HBLTnl~TORS.
+
+25
+
+had been deiermiued in preliminary worl that reduction of air How by throttle dosme had
+no mea urable effect upon the coeIIicient value, as compared with reduction of air flow following
+manipulation of the pump of the plant.
+Pressmes were read in the ca,r bUl'etor chamber of the testing plant, at the narrowest portion
+of the throat, and in the outlet passage a short distance above th carbmetor attaching flange,
+as , hown in figures 1 and 2; and the temperature of the air entering the carburetor wa~ 11.1. 0
+read. The tests were carried out at bal'ometric pressure of 7.50, 550, and 350 mm. of merCUf)',
+gi,ing atmo pherir den ities cone ponding to altitude~ ahove the earth'i'\ ~urface of 200 feet.
+10,250 feet, and 25, 00 feet, 1'e, pective1y.
+More full~T to describe the pm-for nan<:e, rllll'" werc made hoth with <'lllti witboul fuel discharging from the carbmetor nozz1e~, under the se\Teral rate or ail' flow described above. This
+permitted a determination of the effect.., of entraining the fuel of the mixture in the air, tream.
+The result of tbe b, er,ation are ho,,,n in plol 5 aud lhose following it.
+Of the two (;oeffi('icnt curves, plots 5 and 6. thltt fo r cnrburetor _\. poss('s es higher "Hlu('
+throughOlIt. neglt'ctillg tho e for ciepre sioll of 1('s (hHn 1 inch of water. AJ 0, there is less
+falling off ill tllC' coefficient for difference of p re sure less (h n11 nhollt 20 inrlle of water.
+The eJ1C'et upon the coefficient of dis(·harging fuel in to the '1ir stream is prnetically negligible in
+both en es and j l'('prrscnted hy s II dl !rJ'rgullJ'it i('. . \. furthC'I' point is the p1'HrticllJ identicalil)of tIl(' coefri('i('nt YHlllrS ,lccompanying giyen tlJl'ont pn'ss1!l'p drops, for the s('Yeral nil' dC'llsities
+included .
+. \ con idl't'lttioll of the res d ts , tog( UWl' \\'ith lh e jlH age Corms in the two 'tuhllrrtors, shows
+thitt only, mall "ari,liion in the codfiei(,llt \',l1tH'S 111'(' to he ('xpecled withiJl th(' limits of form
+lhat mll:'- h(' designaled as rensonahly good. Tn tllC']'1' '(,Ht two case the diff('l'('Jlc(' Ht maximum etir flows al'(' quit small, heing 1 1 per ('enl rrt 750 mm. pr('s mo, ] ,2 pc'r r('nt ;It 550 . /tlle!
+1.:3 1H' 1' ('ent at :~5() mm. . \Jl other eonditiOlI ill aircraft service include throttle closul'c, Hud
+lhe thro:t L ]wrformaJlce ('11('11 ('e:ls('s to he ;1 COlt tn llillg fHe tor, ('xcept in 0 fur nit. hus ;1 hetU'ing
+on the mixture l'lltio,
+The coeffic ient CUlT of plots;) nnd 6 111'(' directly compa re 1 \\'ith like cUlye fol' c,ll'buretor
+throat memb('rs alone, in plot 7. '_he carburetor curn aro lower in "alu , but how HO important change in characteristic. n 11 result of inclusion of jets ("'itll till'i]' hossl' ) and f the
+carburetor en trul1('e pdssages.
+Of C'qunl in ten' t with t1)(' codTici('nt ,'ulu(' is ,1 tud." or the pre Slll'('S ill the c,lrburetor
+outlet. It is clt'/lr thal the output of [n ellgine ind irect fU11Ctio11 of this l'l'eSS1ll'e, hell('(, it is
+important to ltnyc its ",l1ul' CIS grC'ut IS 1'0 sibll' 1meier the cond iti on of open throttle .
+. \. drop ill pressure at the cnrbul'C'loJ' outlet. ('ompll],e'd with the' pressure' lit eJ1trflJlct', rcsults
+('hiefl~- from skin frictioll and int('l'1lt1l o r fluid fridion in lhc ail' stl'C'Hm. Th(' lnit<'l' loss is
+,IUO'lllelllpd hy tUl'lmh'llec, un( t this lust i mucli in('l'casl'd ill n pnsSHO'e oy tlll' illtroduction of
+hend , j ,ts ",itll prolrudiHg sUpportillO' IJosst' , the di (,harge of f1 el , throttl(' Yllly(' . amI the'
+like. Therefore, for ,1 gi\-ell outlet llr(,~l . tilt' rtf' 11]'(' lit out let (P 3) ",ill bc chieily il1versc1y
+fUllction al with lll(, rules of motion ill tbe stn'am, and incc lhe coefflci!'ut ,:llu(' for a tub
+depend mainly upon it - dimCIl iOlH11l'elation hips , it is not neces nrily tll(' rllse that H high (0)
+nllue be accompnnied by II (;OJT('spondingly hicrll ynlm' of (P a)·
+The CUlTes in the lower pot'tion of plot :j, (i lllld 7 give the outld pre sure express d
+lIS a percentage of tbn.t at l'JltJ'llllel' U\ IP,), for enrhm'ctOl's A and B nnd t1w
+(',('1',11 'epilratc
+throat tuhes examined.
+Hef(,lTing to plot 7. it IIP)W;U' thtlt the cl!rves for thc Lh)'ont (' and Dan' Yery dosely
+relaLed when rOll1pnred 011 the bnsi of ('qua] IllflSS flow 1'('1' unit a1'e<l, in spite of the considerahlo
+discrepancy in their area relation hips C-12/Aa), beillg O.t~O for tub('s C and 0.212 for tube D.
+COllsielel'illg these throats ttS np) li('d Lo the ::WlIC 'nginc and passing the same quantity of a ir
+in unit time, the Lu he D i di til. 'Uy infcri or to tllhc (' \\-ith ]'('S])('('1 to the reeow l'y of pressure at
+out.let.
+LH572- 19
+
+-!
+
+26
+
+ANNUAL RBPORT
+
+"ATIO "AL ADVT ORY
+
+OM HTTEE '["OR AERONAUT1CS.
+
+The curve for carburetor A, plot 7, having a tube of the same general form as throats C
+and D, and with (A 2 /A 3 ) equal to 0.360, is superior at high specific rates of discharge, even
+though it includes a jet, bosses, a cur\"ed aA:is of entrance, and a throttle valve. It may be that
+tube A possesses more nearly the optimum dimensions, considering its form, for the conditions
+than either tube C or D; but this is not likely, considering the whole data from this work.
+ince
+mere change in the area relationship has only a \"ery small effect upon CPa) at a given specific
+discharge, and since for a given specific discharge the skin friction in like passages will be sub!tantially constant, it seems probable that the increase in (P a) in cai'buretor ,compared with
+tubes C and D at high specific discharges, is accounted for on the ground of a up pression of
+turbulence in the stream.
+In carburetor A there nrc two jets, one within the other, and from the annular passage thn
+formed is discharged a column of air. The effect of such a cloumn of air issuing into the throat
+parallel with the general line of flow, ffill be to suppress eddying in the wake of the nozzle and
+its boss, and thus accomplish a rise in pressure in the air stream.
+ince at large throat pressures
+small volumes of air will pass through the nozzle, the suppression of turbulence by the nozzle
+air column will be smaller than at low throat pressures, corresponding to high rates of discharge,
+Continuing with plot 7 and considering the curves for carburetor B and its throat, the immcdiately foregoing statements are seen to be supported very fully, since in this CElse the column
+of air admitted by the nozzle has several times the cross-sectional area of that in carburetor A.
+This is included in the carburetor design for the primary purpose of assisting in securing a fine
+.
+division or spraying of the fueL
+In the observations on the throats alone, no air was admitted as by the nozzles. The
+greater values of the curve for throat B, compared with those for tubes C and D, is explained in
+great measure by the mOre favorable- adjutage form, with respect to the maintenance of line flow.
+The foregoing on the effect of inclusion in a carburetor design of a column of air discharging
+from the nozzle is further illustrated br the outlet pressure curv~s for carburetors A and B,
+plots 5 and 6. The increase in cPa) for carburetor B as compared with carburetor A is greatest
+at the greatest a tmospheric pressure, and becomes less as the pressure is reduced.
+Admission of fuel to the air stream in all cases causes the value of cP3) to suffer a loss, plot,
+5 and 6. It is pointed out that this is functional with both the quantity of fuel and ,vith the
+mode of spraying. It seems that the latter is, in general, of the greater consequence, and that
+utilization of a column of air of appreciable sectional area in the nozzle, to a sist division of
+the liquid, improves the efficiency of the spraying device with resp ct to the amount of energy
+used in accomplishing the spraying.
+CON LUSlONS.
+
+(1) The coefficient of discharge for anyone of the carburetor pa sages te ted has an almost
+constant and maximum value for effective throat velocities greater than about 150 feet per
+second.
+(2) The value for the coefficient of discharge for the car buretor pas ages tested lies
+between O. 2 and O. 5, under service conditions. These valves are probably typical of reasonably well formed passages of similar type.
+(3) The coefficient of discharge for carburetor pa sages of thi type is apparently onlr
+slightly modified as a result of considerable changes in passage form, with respect to angles of
+entrance and ac1jutage.
+(4) The coefficient of discharge for a carburetor passage is practically unaffected by 'wi 10
+variations in atmospheric density (less than 1 per cent maximum variation between the densit)limits of 0.075 and 0.035 pounds per cubic foot).
+(5) The coefficient of discharge for a carburetor passage is practicallr unaffected hy the
+introduction of fuel to th air stream (fuel di charge introduces irregulari ties not to exceed
+plus or minus 1 per cent).
+(6) The pressure loss in hecnrburetoroutletchanges with the turbulence or intel'llal motion
+of the air stream.
+(7) The pressure loss ill the carburetor outlet changes with the quantity of fuel admitted
+to the air stream} and with the m thod of dividing the fuel by spraying.
+
+REPORT No. 49.
+PART IV.
+
+EFFECTS OF PULSATING AIR FLOW IN CARBURETORS.1
+By
+
+PERCIVAL
+
+S.
+
+TICE AND
+
+H. C.
+
+DICKINSON.
+
+RESUME.
+
+The following report is offered as an indication of the order of magnitude of the variations
+in fuel metering and in effective carburetor capacity resulting from modifications of both the
+period and amplitude of the intake system pulsations. Experimental results with two carburetors possessing widely differing metering structures are briefly discussed.
+As a result of the work done, it is concluded: (1) The effect upon carburetor capacity of
+usual rates and amplitudes of intake pulsations is so small as to be practically negligible; and
+(2) the metering is affected sufficiently to warrant that pulsation rate and amplitude be taken
+into account in developing the fitting of a carbUl"etor to an engine.
+EFFECTS OF PULSATING Am FLOW IN CARBURETOR.
+
+In aircraft service it is the accepted rule that not more than four engine cylinders be supplied with mixture by a single carbUl"etor. The usual arrangements are: A single carburetor
+for engines having 4 cylinders or less, 2 carbUl"etors symmetrically disposed for 6 and 8 cylinder
+engines, and 4 carbUl"etors, also symmetrically di posed for engines of 12 and 16 cylinders.
+Each carbUl"etor supplies either 3 or 4 cylinders.
+It may be taken that such a carbUl"etor disposal has come to be the accepted one because
+with it the engine volumetric efficiency is slightly higher than where a carbUl"etor is made to
+serve a greater number of cylinders. The demand of one cylinder is not overlapped by that
+of another, in the carbUl"etor and manifolding, with such an arrangement; and, in all probability, in the present state of manifold design, charge distribution is also somewhat simplified.
+But aside from the results experienced with respect to volumetric efficiency, or with respect to
+qualitative or quantitative charge distribution, it is worthy of note that both the period and
+amplitudc of the pressure fluctuation in the intake system are made greater than in the case
+where more cylinders arc served by a carburetor. The pressure fluctuations or pulsations in
+the intake passages have an interesting bearing on the metering performance of the carburetor.
+At the outset it mu t be tated that no generally applicable analysis of the effects of pulsating flow in a carbUl"etor is po sible, since each combination of carburetor-intake piping and
+.
+engine cylinders constitutes a separate and special case.
+The following matter, based upon the results of a small group of observations in the
+Bureau of Standards carburetor testing plant, is offe red as an indication of the order of magnitude of the variations in fuel metering and in effective carburetor capacity resulting from
+modification of both the period and amplitude of the intake pulsations. The experimental
+results apply only to the case of a given short length (15 inches) of straight pipe serving as the
+carbUl"etor outflow passage, between the carbUl"etor flange and the pulsator spindle.
+Manifold branchings between the several cylinders of an engine and the common carburetor
+outflow passages have an important bearing on the natUl"e of the pulsations in the latter and
+I
+
+ThIs report was confidentially circulated during the war liS Bureau of tandards Aeronautic Power Plants Report No. 46.
+
+27
+
+28
+
+A -N AL REPORT SATIOXAL .\1)V[ ORt' ('Oi\UIlTTEE FOR AERONAUTICS .
+
+Fig. 2.
+
+===( ):::==
+0
+
+Fig. 2.
+
+r=
+
+~-----
+
+EFFECT OF ?ULSATING AIR FLOW
+
+EI'TECTOF PULSATING AIRFLOW
+
+IN
+
+1,'1 ,
+
+CA ITBUfTE TOfT ';4 "
+
+tool
+
+I I7jE.PU,s~f,onAmp~/rude___ -----m---- 11
+I
+
+\"J
+,~
+
+I
+
+I
+
+I
+
+I
+
+I
+
+CAfiBUITETOIr "8"
+
+I I
+
+Min. f"u/sofion Arnplifude.. ___________ -:_
+Int.
+"
+-----Max.
+"
+
+..
+..
+
+~
+
+I
+
+jJ~1 uJu-M--k101----+u~1~~1
+~
+
+d
+
+~
+
+~
+
+I::i
+
+'6. 04 Steady
+~ noW.
+
+.~
+
+~
+
+-.:,:-
+
+.----
+
+'o.oz
+.....
+
+/'
+
+~.oo
+
+.-
+
+------ -
+
+-
+
+-
+
+~
+
+/
+
+--~
+
+~
+
+-..;;
+~
+
+(1
+
+trJ
+,.,
+
+---
+
+- -'- 1---
+
+---
+
+--
+
+i:;1
+
+/
+
+-----
+
+f--
+
+o
+
+2:!
+
+z
+
+()
+
+ill
+
+i'--V
+
+;:-
+
+::d
+
+>
+
+o
+
+W
+
+::d
+
+-=-+-"
+. ~II--~--~--j---i---1---i---~--+---1---~
+.9615feady
+,Flow.
+
+stea1
+!
+
+--- -
+
+- --
+
+-
+
+~ -.
+
+1' '
+....
+
+---
+
+"
+
+Q...">
+
+--
+
+---
+
+>.:j
+
+o
+
+~
+
+OJ
+
+~ -IQ
+
+~ -/O l
+
+,g
+
+~
+. -- -- -~
+~~OIr---r---+---+----r---r---+---4--~----~--+-~
+/.
+
+g
+trJ
+,.,
+
+.- - ~----::.::.-
+
+o
+
+I
+
+I
+
+0
+
+4
+
+Plot NO.3.
+
+{j
+
+Z{j
+16
+12
+ZO
+Z4
+3Z
+Hundreds or Pu/sof/ons per Minute
+
+36
+
+4IJ
+
+#.
+
+'r---
+
+.-::
+
+~
+
+'f::. +/0
+
+~
+
+4
+f"lotNo.4
+
+tl:l
+
+~
+
+I
+
+'J
+~
+, 0 Steady
+noW.
+,<:I
+
+~
+...
+
+. lo(
+
+()
+
+o
+
+~~ I
+
+y
+ISteod
+0 Flow.'
+
+H
+
+~ I--
+
+.97
+
+~
+
+~
+"
+~
+
+)
+
+noW.
+
+~
+
+"
+
+Ul
+
+.90
+
+r---+-:-
+
+~
+
+,.,
+H
+
+-~"'- ...
+
+{}
+
+--
+
+!
+
+r--
+
+......-
+
+Il
+16
+Z{j
+20
+Z4
+32
+Hundreds off"ulsot/onsper Minute ,
+
+............
+
+J
+
+~ J
+36
+
+",
+
+44
+~
+
+~
+
+-.....-
+
+30
+
+ANNUAL REPORT NATIO AL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+n the carburetor: Opportunity has not as yet presented itself for an experimental study of
+this phase of the problem; but special apparatus in which the work can be done is now contemplated, and it is hoped to report on the whole subject, and in considerable detail at some
+future date.
+Owing to the arrangement of the carburetor te ting apparatus in which the present work
+was done, pulsations occulTed in the air-metering orifice with carburetor chamber pressures
+greater than 580 mm. of barometer column. Since it is essential that the air meter be undisturbed, the runs here recorded were made with the chamber tbxottled to 500 rom., this being
+sufficient throttling to insure steady flow through the metering orifice.
+Two carburetors, A and B (figs. 1 and 2), were run under the condition of full load at an
+atmospheric pressure of 500 rom. Reference runs were made with steady flow in each case.
+Pulsating flows, ranging in period from 600 to 4,200 per minute, were then induced, with the
+same weight of air pas ing in unit time; and observations of pressures and mixture ratio were
+obtained for each increment of pulsation rate. Three amplitudes of pulsation were included:
+The minimum possible with the 'apparatus, an intermediate value, and the maximum possible.
+Both carburetors were operated under identical conditions of both period and amplitude of
+the pulsation .
+The ob ervations of chamber, throat and outlet pressures re ult in the curves of coefficients of discharge and of pressure recovery ratios (Pa/P 1 ) in plots 3 and 4; and observations
+of the fuel discharge permit a like statement of the effects of pulsations upon the metering or
+charge proportioning.
+At the time this work was done, it was impossible to record the amplitude of the pul ations. However, it may be taken that the minimum amplitude used was a reasonably close
+approach to the condition of a single carburetor supplying eight or more cylinders, while the
+maximum amplitude approached that experienced when a single carburetor supplies only three
+cylinders, whose pumping strokes are dispo ed symmetrically.
+In discussion of the curves of plot 3 and 4 it should be pointed out that those of the coefficient of discharge are of no great igni:ficance a a measure of carburetor capacity. They have
+an important bearing, however, on the metering, and on the case where the carburetor throat
+is being utilized as an au: meter, as i sometimes done in experimental and development work.
+It may be taken that the curves of pressure recovery ratio (Pa/P 1 ) more nearly describe
+the change in effective capacity "with change in period and amplitude of the pulsations. In
+each of the carburetor , it will be noted, the period or pUlsation rate is of greater importance
+than is the amplitude or pressure variation. In the set-up used, the maximum deviation
+occurs in both cases at a pulsation rate of about 3,100 pel' minute. 'rhe curves approximate
+the sine wave in form, as a result of rc onance effects in the passages.
+In any case, within the limit of the work, the maximum variation in effective capacity as
+a result of pulsating flow, is of the order of one-half of 1 pel' cent.
+As would be expected, the metering is somewhat mOl'e importantly affected, depending
+upon the interrelation of part and passages controlling it. Thus, in carburetor A, where only
+changes in throat pressure effect the fuel flow, the metering is only little disturbed, and that
+consistently with the change in apparent throat coefficient. In carburetor B, on the other
+hand, where both the throat and the float chamber pressure are subject to separate modification by the pulsations, the result is quite different. The mean value of the mL'(ture ratio ov r
+a considerable range of period is that found under steady flow conditions. But the ratio varies
+harmonically through fairly wide limits a the pUlsation period is changed.
+In conclusion it can be stated, in the light of the little work done, that (1) the effect upon
+carburetor capacity of used rates and amplitudes of pulsation is so small as to be practically
+negligible, and that (2) the metering is affected sufficiently to warrant that pulsation rate and
+amplitude be taken into account in developing a fitting of a carburetor to an engine. In final
+word, the amplitude of pressure pulsation is reduced to negligibility upon throttling to between
+0.5 and 0.6 of the full-load air capacity in a carburetor.
+
+REPORT No. 49.
+PART V.
+
+NATURAL AND REQUIRED METERING CHARACTERISTICS OF CARBURETORS.l
+By
+
+P ERCIVAL
+
+. 'l'ICJ;.
+
+R£SUMR
+
+The following report is ,t discussion of the theoretical a.nd experimental mixture proportioning t;haracteristics of carburetors as applied to the conditions of aircraft ervice; ani! chiefly
+eonsiders the weight relationship of air to fuel in the mL'{ture with respect to var,ving atmospheric
+pressure and temperature. Since a statement of carburetor performallee is of li.ttle value in
+the absence of a correspollding statement of what is required, it has seemed advisable to group
+carburetor performance with engine requiremen ts, and eon ider the two together, It is thought
+that the present treatment of Lhe e two r eally distinct matters is fully justified in the absence of
+any prior definition of what constitutes the optimum performance of a carburetor,
+The experimental work on which the r eport is based includes inve tigations of aircraft
+engines and their requirements and of five carburetors, between the limits of mean annual
+pressme at groun llevd and that correspondu1g approximately to 30,000 feet altitude. Compensation characteristics of thTee of the carburetors are studied in detail, at each of several
+atmospheric pressures, at all loads lmder throttle between full load and one-tenth load, cor1'eponding to idling of the engine,
+4 new type of carburetor posses ing (llmo t complete inherent altimetric compensation
+\
+is included and it pClformance analyzed ,
+With r espect to engine requi.remellt , the more important conclu ions rettched are: (1) The
+mixture ratio for maximum power i pracLiealiy a con tant (at about 15 for the gasoline) at all
+air densities; (2) the optimum mixture raLio , considered from the standpoint of maximum fuel
+economy, is not constant, but docroa es with tho atmospheric density; and (3) the optimum
+lTILxture mu t be increasingly richer in fuel at part loads under throttle than under full throttle.
+With respect to natural carburetor performance, it is concluded: (1) The ordinarily employed
+variations in structure and in method of fuel control in carburetors effect inappreciable modifications of the altimetric compensation ; (2) the ordinarily employed varia,tions in arburetor
+structure and in method of fuel control very m ateriall,V" modify the mixture ratio with load
+change under tlU'ottle; and (:3) a plain-tube carburetor -ithout moving parts controlling the
+fuel discharge can be made to gi"\E\ a working approximation to complete nltimetric correction
+of the mixture.
+NATURAL METERING CHARACTERISTICS.
+
+In aircmft service the ,outstanding, cau es of variation in mix Lure proportioning in
+carburetors arc change in atmospheric pressure, change in atmospheric tempcrftture, and change
+in load. It must be pointed out tha t the directio n and extent of the variation with load depends
+upon the design of the carhuretor, and is capable of control independently of the atmo ph erie
+pressure or temperature.
+Refened to altitude in feet above the earth' surface, the curves of p.lot 1 giye the mean
+annual pressures and temperature for the U nited States, from observation by th United
+States Weather Bureau. The den ity curve of plot 1 is computed from th e values of the curves
+I
+
+This report
+
+,,"!IS
+
+confidentially circulated during the war as Bureau of Standards Aeronautic Power Plants Rcport No.
+
+~"
+
+3.\.
+
+32
+
+ANNUAL ImpORT NATWNAL AUV]. ORY UO MMITTEE :e'OR
+
+AP~RONAUTl
+
+' ,
+
+of pre sure and temperature (P= 2,700 P/ T), Obviously, during anyone day or in the
+co urse of anyone flight , observed pres ure and temperatures mar be widely va.riant from those
+given, and may not have the same variation with altitude a here hown, owing to local
+meteorological conditions,
+Th e following notation is u ed throughout this report:
+W weight of air pump ed in pounds per second.
+w=weight of fu el discharged in pound per seco nd.
+N engine 1'. p. m .
+V velocit), of air in fe et per 'ccont!.
+P= atmo pberic den 'it,Y in pound, per cubic foot.
+P =atmospheric pre. ure in pound.' per qu.tre inch, il bsolu te .
+T atmo pheric temperature in FO ubsolute.
+R= lV/lu-ril.tio of nil' to fu el in the mi.,ture .
+. ubscript o=value, of the <lbovc at ground level.
+~u bs(: l'i pt .r= valu o of the above at an altitude above ground level.
+.',\ TL'1l.\L
+
+,\ LTL\I.I~THjC
+
+CO~ l pm
+
+'SATI OX.
+
+III the opel'u.tioll of an engine under open throttle, the weigllt oJ air charge pumped vune.
+directly wiLh the speed of rotation fmc! with Lhe <ltmo phcric. density, 110:: NP . Other things
+being equal, the indica ted power dev loped '"<U'ie directly with the weight of air pumped.
+The air taken at (loll altitude x, in term of til ~t tak(,ll at zero altitudc o, i expre cd
+
+lV,,= lifo !V,r 1\= 11'0 VTP,J; Tg
+NoPo
+
+~Vo Po Tx
+
+iuc;e it is required, foI' the development of maxim um power 2 (plot 3), tllat the mixture ratio
+be maintained at a con tant valu e for all air den siti es, the c1esil'ahle fuel discharge characteristic
+in carburetor is W tten
+l'i
+N x Px
+NxPxl~
+1.Vx=Wo lCP=-=wo N.0P0 T x
+o II
+
+But the dischl1l'ge of fuel from a carbureto1' metering portis pr oportional to NP under open
+throttle/ hence the natural discharge, without control devices, at an altitude:r i repr('sented hy
+_ , ; -NxP x
+U '"
+-NoP o
+
+W.r -
+
+where change in the fuel tempen1L ure hal:! ,1lwgliO'ihl effeet on the discharge from the meterin g
+pass aO'e , as in an orifice in it thin plate.'
+The r esult iH all increa cd fnel contell t in the mixtUl'e with l'('Juced aLmo ' piJeric prE' 1I1'(':
+and the enri chment fit (1.11 altit.ude :r; is <Ti'-c n n.\T
+R o _ 1 = lVowx_ l =
+Wo Wx
+Rx
+
+/Nn PoTx_l _ l~
+Px To
+- To
+
+-y N.c
+
+/ NoP o_
+
+'V NTP"
+
+l
+
+Thi n a t,Ul'lll enrich ment is plotted against atmos pheric density in pounds pel' cubic foot in
+plot 2, for the ca e of constl1nt temperature (Tx = To ), and for that in which both pre , ure
+and temperaLure vilry as in plot l. For the sah 0[' simplicity a nd because the ,alue of N~(Nx
+is always v ry nearlr unity (not exceeding about 1.06 for the ordinar y range of den ity chan ge
+u ual in flight), th is term is neglected in the plottings. Plot:2:11 0 includes CUl'WS of R for
+the t wo cal:!e', it ' uming a ,alue of 20 at the ground. (Fol' reasons fol' selection of this Ynlue,
+sec the f llowing on specific consumption.)
+, The curves in the upper portion of plot :3 arc from results obtained with an lIispano-Suiza 150-hol' epower engine in the Bureau of Standard"
+laboratory. Severnl carburetors. quite diITerent among lhelOsel\·es. wero included in th~ tests and are represenled in the Cun·es .
+, For any value of the relative load , as at open throWe, W/P= V constant; hence P,/P=a constant(where P, is the carburetor throat pressure)
+=a
+"od the metering head, P-P" is proportional to l' •. The quantity of fuel discharged thus varies 6S .,jP•. But p
+-:::p~ is directly as the velocity
+which is also directly as tho engine speed , N.. Therefore, the fuel discharge will bo proportional to ,\/N P •.
+~ee Part 11 of this report Cor a brief summary of tbe elIects oC fuel viscos ity change with t ml)eraturo Chal1llo.
+
+~I~itudo
+
+METERING CHARACTERISTICS OF CARBURETORS .
+
+33
+
+Considering ordinary carburetor mountings on au'craft, it appears that the carburetor air
+supply will always be at a temperature somewhat above that of the atmosphere. In fact, in
+many cases, the change in carburetor air temperature will be relatively small throughout a
+flight, even though great altitudes are attained. Thus it may be taken that the curves of
+plot 2 for a constant carburetor air temperature more nearly describe the enrichment rates
+to be expected in service than do those where the carburetor air temperature is that of the
+atmosphere.
+FUEL VISCOSITY,
+
+In further discussion of plot 2, it should be pointed out that a carburetor may have a fuel
+metering orifice the discharge from which is considerably affected by change in the visco ity
+of the fuel with temperature change. So great is the viscosity control of the discharge for
+large length to diameter ratios in the jet, that it is possible to select a jet proportion which
+will largely correct the mixture ratio under the variations in temperature of plot 1. But since
+the adventitious changes in temperatlu'e of the atmosphere during any flight are not necessarily orderly, and do not necessarily follow the anllual mean of plot 1, such correction can
+not be relied upon. The daily or even hourly temperature variation at anyone level may be
+as much as 50 per cent of the total variation of the annual mean between ground and 15,000
+feet altitude.
+However, mixture ratio variations with fuel vi cosity change 4 must be considered in
+aircraft carbu'l:etor performance if the carburetor is subjected to considerable temperature
+variations, since the development of load compensation in carburetors almost always includes
+jet modifications in which the viscosity effect i not inappreciable.
+FUEL CONSUMPTIOl
+
+AND POWER.
+
+In the B. M. E. P . -mixture ratio diagram of plot 3 appears the ratio curve of plot 2 for
+Tx= To; and below are given B. M. E. P. vs. density curves corresponding to this mixture ratio
+variation and to the constant maximum power ratio of 15. The relative specific consumption
+(relative lb./h.p./hr.) curve for the natural ratio variation, considered together with the natural
+and the maximum B. M. E. P. curves, brings out clearly that the major effect of the natural
+enrichment in a carburetor is not so much represented by a failure in the development of
+power as by a loss in fU'el economy. This amounts to 50 per cent at an atmospheric density
+of 0.030 pound per cubic foot .
+For the attainment of maximum indicated fuel economy, the specific consumption must
+be maintained constant at all air den itie . The natural discharge of fuel, W x , must hence
+be reduced to wx ', and the relative reduction in fuel discharge is represented by
+
+•
+
+wx -w' = 1- ~p where w '=W P
+x
+~
+~
+Wx
+Po'
+X
+°Po'
+the change in speed being neglected and Tx taken as equal to To .
+Considering only the engine and its behavior, the specific fuel consumption (in pounds
+per I. H. P. per hour) Fi , on the basis of the indicated mean effective pres ure, Pi, varies only
+inversely as the value of the mixture ratio. Thus the indicated economy of an engine goes on
+increasing right up to the superior or maximum air/fuel limit of combustibility of the charge.
+But the usefulness of an engine is proportional to its brake mean effective pressure in
+pounds per square inch, P b ; and the value of P b is not a definite function of Pi' As a consequence it is impossible to wTite a general expTession for the brake specific consumption, Fb ,
+without including empirical P b values . However, having experimental data describing the
+relationships between P b and R, the optimum values of R with re pect to economy of operation, are readily found .
+By definition : Fb=w/B.H.P.; W= W/R; B.H .P. varies as NP b; and therefore the relative
+specific consumption, Fb , varies as W/RNPb • But also, in the case of an engine with a propel-
+
+34
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+p,
+ler load, B.H.P.et:. N3 hence Net:. ..jPb/P.
+specific consumption, we have
+
+Substituting this value in the expression for brake
+
+w~Fbet:. RP L
+b
+
+Pb
+
+But since, by definition Wet:. P, the relative specific consumption can b e written
+
+MAXIMUM ECO OMY.
+
+Solving this expression, including the values of p, Rand P b in plot 3, results in the maximum
+economy or optimum R values shown in plot 5, curve A. Since the engine from which these
+data were obtained is typical of the best practice in water-cooled aircraft engines, it is admissible
+here to make the general statement that the optimum value of the mixture ratio lmder open
+throttle is not a constant with varying atmospheric density, and that it is very approximately
+represented by R = 106p + 15, the equation for the "maximum economy" curve at A, in plot 5.
+Expressing this relationship as a per cent of the ground mixture ratio results in the characteristic enrichment curve of plot 5 at 0, designated "maximum economy." In considering
+this curve it must not be overlooked that it can apply only in the case of realization of the
+experimental optimum ratio at grolmd level. The enrichment at any atmospheric density,
+necessary to secure maximum power as distinguished from maximum economy· (from plot 3),
+is represented in plot 4 by the difference between the ordinate values of the two curves 0 and
+D at the density in question. For ready comparison, the optimum ratio values from curve A,
+plot 4, are indicated in plot 3 as those of maximum economy.
+Since the rates of change in the specific consumption are very small in the neighborhood
+of the optimum values, plot 4, it is desirable in practice to work with r atios smaller than the
+optimum, in view of the increased outputs obtainable, and considering that by this device
+small irregularities in the functioning of the carburetor will less impair the regularity of the
+engine performance. Thus a ratio of 20 at ground density is seldom exceeded.
+CARBURETOR OBSERVATIONS.
+
+In the following summary of observations of natural metering characteristics of carburetors,
+in the Bureau of Standards' carburetors testing plant, the air t emperature was maintained
+constant at all pressures in any set or group of runs. Thus the possible change in mixture ratio
+with fuel viscosity change does not appear, and the order of magnitude of the variation in the
+mixture proportion can be considered as very approximately that to be expected in many of the
+ordinary service environments of carburetors.
+The work represents a complete study of mixture ratio and its variations throughout
+a range of densities of from 0.075 to 0.030 pound per cubic foot (zero altitude to approximately
+30,000 feet) for both open and part throttle settings of the carburetor. Each of the several
+carburetors included was designed to supply mixture to three Liberty engine cylinders, 5 inches
+bore by 7 inches stroke. Under open throttle it was found by test 5 of this engine that the
+weight of air taken by three cylinders was 0 .225 pound per second at an air density of 0.075
+and at 1,700 r. p. m., and that the air taken at other densities was as the relative density.
+The chart of plot 6 gives graphically the relations of air weight and manifold pressure drop
+for these three cylinders, under the several conditions of air density and of loading, as developed
+from data of engine tests in the Bureau of Standards' altitude laboratory.5 By the term load
+is here meant that portion of the open-tm:ottle air weight t aken at the designated value of the
+load. In the runs involving throttle closure, the controls of the carburetor and of the testing
+plant were adjusted to maintain the values indicated in plot 6.
+• The Bureau of Standards' altitude laboratory is fully described and illustrated in Report No. 44.
+
+•
+
+METERING CHARACTERISTICS OF CARBURETORS.
+p ~ Oinsity in Lbs. per cu. d
+
+Pi
+
+'\ I
+\ I
+
+IH
+
+Of
+
+/ . 06
+
+87
+
+17/
+
+TCMl'cRATURf:-I'RcSSURc'
+OeNSITY-ALTlTUOe Irt:LATIONS
+
+l6
+
+u.s. W~01"heriJul"l!'Cu Ob.s~r.,otion.s.
+
+I
+0-
+
+I
+
+/
+7
+
+D ~nsily
+
+P·Prt!'.ssu~
+
+\
+
+z
+
+T·
+
+Temp ertrlur~
+
+1
+\
+
+•
+
+\
+
+~
+
+z
+
+/
+I
+
+~
+
+if
+
+6
+
+7 [7
+
+JIJ
+
+.JIJ
+
+1
+
+700
+
+6IJIJ
+
+/V
+
+~F-
+
+/
+X
+
+Ip
+
+1\
+
+-/0
+
+.........
+
+8
+
+~ t:--
+
+~
+
+'"
+lb
+
+r--
+
+/a
+
+l--- V
+
+VA
+
+4
+
+V
+
+~
+
+11 V
+
+II
+
+\
+
+I
+
+V
+
+I
+
+4
+
+z
+
+/
+
+~
+
+--= ~
+
+V
+
+j
+
+V
+
+/
+
+17
+
+/
+
+I
+
+7
+
+.I
+
+/
+
+\
+
+'8
+
+ALTIMETRIC COMPENSATION
+/170 Tht'or eticol Carburetor.
+A:r enrichment _ ~~ I
+8"
+• ff-i
+
+I
+
+/
+
+1
+/
+
+~
+
+'0
+
+"
+
+II II
+
+H~11 AnnUl(7/ roru.s.
+
+1
+\
+
+~
+
+l
+
+35
+
+~ t---:. t-t--......
+
+.~
+
+~
+
+\
+
+i'- ~A
+
+1'--...
+
+~ r-...
+
+l
+
+"" ~
+
+-/0
+
+0
+
+JO Temp. F"
+Jill /Jar. {'res.'
+
+ZO
+
+{OQ
+
+I'lotNO.I.
+
+MM.
+
+I
+
+""a
+
+~
+
+/J
+
+R
+
+•
+
+•
+
+1->_" Density in Lbs. pt'r cu.f!.
+
+I'lotNo.Z
+
+M
+
+.OJ.
+
+11
+
+110
+
+j.••/
+80
+
+v-:
+
+V
+
+,0
+
+C<
+
+0
+
+,o.Q. f'4s
+
+j::/
+
+.•
+
+:;::::'
+~
+
+/'
+
+/'
+
+,0'0 JS
+
+/'f~
+
+7
+
+/
+
+D•
+f--
+
+f:XPUVMf:NTAL MIJrTURf: /fAT/OS
+For Moximul77 Power ~ Moxil77un7 ru~/
+£C()/70my 01 Open Throttlf!. From Plots
+
+/1/11
+
+Nos. J &'1-
+
+-
+
+q
+
+.
+
+.
+/
+
+p I a ozs
+
+.o'i;:'
+
+0.0<5.
+
+·ow.
+
+k::
+../
+
+~T
+
+,0 -
+
+/'fa mllm
+
+~
+
+~
+
+I--- ~
+
+P
+
+VARIATION
+
+1
+""'_
+
+D
+
+I
+
+~~
+
+hv
+
+r.:--
+
+'-~ f.----'
+
+c
+
+or /J.1'1. CI'.
+
+WITH
+
+MIXTURE RATIO AND 'AIR Dc:NSITY
+I'
+
+'0
+
+II
+
+~
+
+Z
+
+~ .......
+
+--.......::
+
+R~
+
+H.I'"
+
+I ~
+
+MoxirnurnPo","..r.
+
+1"'1- MqxirnulT1 Economy COtT1p.
+T· The o . No~uro/ Cornpensol/on.1
+
+~
+
+- --L..--
+
+0
+I'lofNo.J
+
+II
+
+I':::--
+
+01
+
+.06
+
+.-"
+
+~
+
+V
+
+./
+
+L..-- -;;1
+./IJ
+
+.M
+
+p . OensityinLbs.percuft
+
+/
+
+/
+
+z
+
+I
+
+I
+
+~
+
+I
+
+~ t-.!'
+~I.
+V
+I.
+.OJ
+
+--
+
+1----_
+
+---
+
+~
+-i>./o:
+
+~
+ds~CO~
+
+~ t--
+
+6
+
+r-....
+
+A
+
+~
+
+/"fa
+
+imun.
+
+f\>wt!
+
+8
+
+~
+
+I. Q
+17
+
+• I'lafNo.5
+
+06
+OJ
+1'" Ot!nsi ty in Lb.s.pt!r i:u.ft.
+
+.OJ
+
+36
+
+ANNU AL REPORT NATIONAL ADVISORY CO MMITTEE FOR AERONAUTICS.
+II
+
+\
+
+10
+~
+
+~
+
+= .Ol.5
+O
+
+~<>9
+
+~
+
+\
+
+'I~
+
+t!
+
+~O
+p : 0.03.5
+
+I<!'
+
+7
+
+h
+
+SPECIFIC FUEL CONSUMPTION
+At Various MixTure Ratios and Oensil'itis.
+rrol77 dolo or'plot NO.3 .
+
+.g
+
+~~
+~~
+
+p ' 004S
+
+~
+
+9.. 6
+
+§
+
+p,o.OSS
+
+B5
+
+-
+
+~ ~ ~ r---..
+
+~
+
+;;-I-p =
+o.ols ~
+
+-3
+
+~
+... 4
+
+./
+
+-
+
+V
+
+--
+
+/ P ·0.05"
+
+"-,0
+
+P =o.d7.5
+
+I.J
+
+~
+
+0.07.5
+
+~J
+.~
+
+.;:
+
+~
+
+~
+
+Z
+/
+
+09
+
+12
+
+10 \
+
+14
+
+,PlotNo.4.
+
+-/6
+
+Mixlure Ratio =
+
+. /0
+
+Air/ ,rt/~I
+
+zz
+
+lO
+
+'---i
+
+I MAN/rOLO PflCSSURC OROPf---!
+I Witl) REllolive' Looel 0+Sev~rol O(On.sitils.1
+
+Q
+.02
+Flo t No. 6
+
+.~
+
+.06
+
+.M
+
+.m
+
+.n
+
+.H
+
+.~
+
+./8
+
+.ZD
+
+Air· Lb.s.per sec.
+• See also the curves a<ICompanying Part III of this report.
+
+.ZZ
+
+.l4
+
+.16
+
+26
+
+.JQ
+
+METERING CHARACTERISTICS OF CARBURETORS.
+
+Fig. 7.
+
+F lg.S.
+
+37
+
+38
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+~ -- - -­
+~----
+
+,
+
+I I
+
+METERING CHARACTERISTICS OF CARBURETORS.
+
+39
+
+The mixture ratio observations on each carburetor are presented in two ways-ratio and
+per cent variation in ratio with density for several loads, and ratio and per cent variation in
+ratio with 10adJor the several densities. The former expresses the altimetric compensation at
+the several relative loads, and the latter the load compensation with change in density. In
+each case, the per cent variation is stated in terms of the full load ratio at the ground.
+The five carburetors included in the observations are designated in the following as A, B,
+C, D, and E,6 and are shown in diagrammatic section in figures 7, 8, 9, 10, and 11, respectively.
+The results of the observations are shown in plots 12 to 20, inclusive.
+Considering the natural altimetric compensation curves 7 of plots 12 and 13, for carburetors
+A and C, it appears that the full-load characteristics of these carburetors are practically identical, and are those of the theoretical case of plot 2, with Tx= To . . The variations in the values
+found are only of such an order as might be expected in two designs embodying the differences
+in structure and method represented by the two cases. For all loads less than full load, and
+at all densities, the enrichments found in carburetor C are greater than in A, and this increase
+in fuel content is relatively greater at the larger densities. This is clearly presented in the corresponding load compensation curves of plots 15 and 16, and results from the differences in the
+two methods of fuel control under throttle. With small densities the natural full-load enrichments are so great that the characteristic changes in ratio with load become of lesser significance.
+The load compensations, with respect to the peculiarities of structure of each device, are
+considered separately from the altimetric compensations, and their analyses are grouped together in the latter part of this report.
+The altimetric compensation characteristics of carburetor B, plot 14, merit some discussion,
+since they depart markedly from those for conventional carburetors. The relatively greater
+pressure loss through a carburetor with smaller atmospheric pressures,s as in plot 18, for carburetor B at open throttle, is utilized to reduce the head ejecting fuel from the metering jet
+under this condition. The weight of fuel discharged in this carburetor is expressed w = P a - P z,
+where P a is the throat outlet pressure communicated to the float chamber and P 2 is that at the
+nozzle outlet. For anyone value of the relative 10ad,W/P= V=a constant; hence Pz/P=a
+constant and P 2 = cPo But Ps/P is not a constant, since the relative loss due to friction through
+the carburetor increases with lesser values of P and bears the relationship, from plot 18,
+
+~3=aP+b;
+
+and P a=aP2+bP, where a is the slope of the curve, plot 18, and b its intercept on
+the PaW axis. Substituting in the expression for weight of fuel discharged, we have
+w =.JaPZ+bP-cP, from which it appears that when b is equal to c
+w ccP, and that
+
+wx=Wo~:, which is the relationship giving an invariable mixture ratio with altitude change.
+• Carburetor A (fig. 7) is the Zenith Carburetor Co. 's deSign, used as equipment on aeronautic engines. It is compensated for load changes by
+compounding the two nozzle discharges, one of them passing into an intermediate atmospheric well. Altimetric mixture correction is secured by
+a manually operated plug valve controlling the float chamber pressure. 'l'he setting used is as follows: Throat, 1.22 inches diameter; main jet,
+No. 140; compensator jet, No. 150; and idling well, No. 100. The numbers of the jets indicate the cubic centimeters of water discharged per minute
+under Ii 12-inch head.
+Carburetor B (fig. 8) is an experimental design by the Stewart-Warner Speedometer Corporation, developed to possess inherent altimetric
+mixture regulation. The throttle is placed in the air intake, to secure maximum pressure differences on the spraying device. Compensation for
+load changes is secured by equalization of the float chamber pressure With that in the throat outlet. 'l'he setting used is as follows: Throat, 1.312
+inches diameter; fuel passage, 0.067 inch diameter; and air passage through the nozzle, 0.199 inch minimum diameter.
+Carburetor C (fig. 9) is an aeronautic type produced by the Stromberg Motor Devices Co. It is compensated for load changes by tbe sizes and
+spacings of air and fuel portings in tbe assembly of the main nozzle member. Both fuel and air discharge into tbe throat of the main air passage.
+Altimetric correction of the mixture is by regulation of the float chamber pressure, either by a hand operated valve or by an automatic valve under
+control of an aneroid bellows. The setting used is as follows: Main air throat, 1.50 incbes diamater; main fuel jet,O.089 inch diameter; atmospheric
+vent to the well, four holes 0.038 inch diameter.
+Carburetor D (fig. 10) is the vortex type produced by the Ensign Carburetor Co. Air enters the vortex cbamber tangentially, and its rotation
+causes a lowering of tbe pressure at the center of the mass, where the fuel is admitted. 'l'he work done on this carburetor included only enough
+runs to define its natural altimetric compensation under open throttle.
+Carburetor E (fig. 11) is a design produced by the Marvel Carburetor Co. It is characterized by the upstream inclination of its fuel discharge
+passagcs, which is relied upon to give load compensation, except at idling. Altimetric correction is obtained by a large manually operated plug
+valve admitting air directly to the passage on the engine side of tbe throat. Only its natural open tbrottle altimetric performance was studied
+1 It should be clearly understood that throughout the investigation of carburetors, included in this report, no attempt was made to correct the
+mLxture proportions by manipulation of the control provided for tbat p~pose. Only the natural changes in ratio were studied, or are of interest
+in the present case, since anything desired can be obtained ,vith suitable setting of the control member.
+8S00 also the curves accompanying Part III of this report.
+
+40
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Actually it is not possible to make b and c equal. And, considering the need for somewhat
+enriched mixtures for maximum economy at reduced pr essures (plots 3 and 4), it is undesirable
+t o reduce b to equ ality with c. It is obvious that the ratio of the passage areas. (A. 2
+/A.) controls
+the value of c, and that b is largely controllable in the design of the fuel nozzle and the adjutage
+of the air throat,s since it is functional with the turbulence in the air stream. Since b is normally greater than c in good designs permitting the attainment of high values for the volume~ric
+efficiency in an engine, it is evident that with a given c the only way to obtain smaller b values
+is by an incr ease in the turbulence in the throat adjutage, thus obtaining mixture control at
+the expense of effective capacity. It follows that adjustment of tpe relationship between b
+and c is bes t accomplished by manipulation of the ratio of areas A.2/A..
+Reference to figure 10 s~ows that the metering structure of cal'buretor D is wholly different
+from the foregoing cases in that the air stream is early set in ro tation by virtue of i ts
+tangential entrance to the so-called vortex chamber. The rotation of the air mass within the
+chamber causes a lowering of the pressure at its center, due to the action of cen trifugal force.
+In this case the metering head on the fuel is directly as the difference between the pressure of
+the atmosphere and that at the axis of r otation. Since the latter varies as P, as does also the
+pres ure at the throat in a conventional tube type carburetor , the fundamental compensation
+characteristics are identical in the two cases. The observed altimetric compensation of carburetor D is shown in plot 19.
+Carburetor E , figure 11, is a tube type in which the fuel discharges at the till'oat from
+passages inclined at 45° with reference to the axis of the passage, thus facing them somewhat
+against the air stream. The r esult is that the difference in pressure to which the metering
+passage is subjected is less than that with the ordinary jet structure. The pressure at the
+throat varies as P, as in the typical case, but is modified with r espect to the fuel discharge
+passages by the changing lines of flow, with changing velocity, about the piece in which the
+discharge passages are formed . Also the metering head varies inversely as some function of
+the density of the air passing the openings. The gross result is represented by an altimetric
+compensation curve, plo t 19, which, starting at ground density, at first has a smaller rate of
+enrichment than has the simple conventional case. This r ate becomes an increasingly greater
+one as the density is reduced, until at a density of 0.030 pound per cubic foot, the rate of enrichment is very approximately one and one-half times that for the theoretical case.
+COMPRESSION RATIO AND PERMISSIBLE LOADING.
+
+In aircraft engines the compression ratio may be anywhere between 4.5 and 6.5 (with certain
+blended and modified fuels it is both possible and desirable to carry this ratio up to slightly
+over 7.) With the resulting compression pressures it is possible to operate the engine at and
+near full throttle on mixture ratios (air/fu el) up to and including 24. The approximate minimum
+fuel consumption in pounds per B. H. P. per hour is obtained at full load at the ground with
+a mixture r atio of about 20. Also, the output with this ratio is within about 3 per cent of the
+maximum obtainable from the engine, plot 3.
+Where the compression ratio is carried to 5.3 or above, as is usual in high output engines,
+it is imperative that the engine be not operated with open till'ottle at the ground for more
+than a very few moments at anyone time. For this reason it is the exception to operate land
+aircraft at more than about 0. 85 load at and near the ground. At higher levels a greater relative
+loading is permissible because of lowered air d ensity .
+Thus it is permissible to de ign for a high-ceiling aircraft on the basis of reduced loading
+at the ground. I n plot 19 the altimetric compensation characteristics of all five carburetors
+are plotted on the basis of full load at all d ensities. For comparison, the altimetric characteristics of carburetor B is given, on the basis of 0.95 load at ground, varying to full load at a
+density of 0.030 pound per cubic foot .
+
+•
+
+41
+
+METERING CHARACTERISTICS OF CARBURETORS.
+
+/61
+
+"
+
+l/t ;:
+
+~I ALTIMt:TRIC COMPENSATION I
+CAI?EJUIiCTOR "A"
+I
+
+V
+
+V
+
+/
+
+/'
+
+/
+
+V
+
+V
+
+V
+
+/'
+
+V
+
+......:
+
+V
+
+.-..- ~
+
+~ I;&..
+
+/6
+
+./
+
+"'-
+
+""'01
+
+~-
+
+V
+
+/
+
+~
+
+'" "~
+
+/ ~
+
+I---
+
+. /2
+
+•
+
+~ ~ K-
+
+1'-. '
+
+.<>
+
+~
+
+--""
+. r---- r--.... i'--- -:--I'--.. ~
+~~
+.Of
+
+'"
+r----
+
+Load.
+1.0
+
+.6
+
+r-..., "'-
+
+r---,
+
+~ tD
+
+----
+
+------r--r----- --r-.......
+
+o
+
+.......
+
+~
+---t---I"--r---...
+
+r-- r--:
+
+0
+
+4
+
+.OJ
+
+!'IofNo. l.1
+
+1. 0
+
+l---
+
+----.
+-- --- --
+
+q::
+
+~
+....
+
+V
+
+~
+
+.07
+
+115
+
+.IlS
+
+"-
+
+LOOd.
+/.0
+
+r----.... .8
+
+r----1--- .4
+
+~ 6
+
+~z
+
+.04
+
+.04
+
+,P' Oensity i n LDs.per cu. Tt.
+
+~ .6
+
+.oJ
+
+!
+
+looti
+
+6
+___ .4
+
+r----... ["-...
+
+!-
+
+V
+
+t:::-V
+-~ :::- I.---
+
+I.--- l--
+
+.~
+
+r-- .I
+
+P • Oel1sity in lb$.per Cl/. n.
+
+I--
+
+/
+
+/ .6
+
+V V /,V
+V ..-/V V VV
+/'
+
+V
+
+~
+
+""" ~ ~ ,
+
+'""
+
+:::-L-- :::::..c--
+
+.6
+.Z
+1
+.0
+
+o
+
+lO ~
+
+4
+
+r----....
+
+1
+
+r----...
+
+:--- r---
+
+.JJ
+
+Load,
+[0
+
+~
+
+6
+
+~
+
+Load.
+
+~
+
+j.....--
+
+~
+
+V
+
+.B
+1
+.0
+
+/44
+
+/
+
+I ALTIMETRIC COMPCNSA TION I
+CAIU5URt:TOR "8 "
+I
+r
+
+6
+
+§
+
+V-:'/
+
+./ ~
+
+.4
+
+1
+/
+
+I
+I
+I
+I
+I
+I ALTIMETRIC COMPENSA TION I~'
+I
+CARBURETOR "C "
+~
+
+~
+
+.fl6
+
+.87
+
+II
+il
+[f/
+
+/
+
+r--
+
+PlofIYO. IZ
+
+qad.
+
+~~
+
+:----.. r-....
+6
+
+~
+
+1'4
+
+/
+
+/
+
+V
+
+/
+
+V
+
+I
+
+.5
+
+-- ---
+
+l/ Z
+
+t-- t--
+
+< r-::::- l;-- 1--- '
+:---
+
+--
+
+.l
+
+.6
+
+V
+
+V
+
+·4
+.6
+
+1
+~
+
+I'lot No. 14.
+
+01
+
+.af
+
+dO
+,P' O..nsi ty
+
+In
+
+.IIJ
+
+los p ~r cuff.
+
+.lJ
+
+1 L-~
+M~-L--*4---L--.+5~-L--~
++-~---l -~--~'
+.+
+Loco' unc'l?r 7l7,-o I M.
+
+" loi No. lS
+
+42
+
+A ;rNUAL REPOR'l' ;rATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+H
+
+I
+
+I
+
+I
+
+I'lIJ
+
+I
+
+LOAD COMPENSATION l
+CAfll3UflETOfl ·e·· J
+
+-
+
+/
+
+poo.o.
+
+01
+
+V
+/'
+
+V
+.--/
+
+p.
+
+0.,
+
+6
+
+V
+./
+
+J..-::::: ~
+
+p=o.o
+
+I--~
+
+r-- I--
+
+6
+~
+
+"
+
+!p -11.0 04
+
+01
+
+0
+
+1-
+
+~
+
+L
+
+V
+
+~~"
+C('''-i
+
+r--
+
+"-i
+
+~
+
+f...
+
+1:5
+
+t--
+
+1i:?
+
+t--
+
+~
+
+!
+
+ondfhe Theoret/~olwT.
+
+...
+~
+
+_,
+
+"tJ
+
+b;2~V
+
+. . . ~~
+
+'" i'---t-----..
+
+-+=--
+
+1
+
+a
+
+0
+
+I.'S · 'O
+
+I
+
+--- r- r- I--
+
+tJ-ld
+
+f"-.- 1'----
+
+I.0t----...
+
+6
+/0
+
+'o
+
+..............
+
+t::-r-:::::: ~b::---- t:::"
+--..:
+
+~
+
+l
+
+/
+
+~
+
+f"'-...
+
+~~
+
+~
+
+"~
+
+1
+0
+
+/
+
+~
+
+~ ~ A- I IJ
+
+D-I.O
+~ (-10
+
+C-IO
+
+4
+'<>
+
+6
+f'lo.tNo..f!J.
+
+07
+
+;,
+
+~~ ~-- L
+
+IO~
+
+~
+
+~
+
+~
+
+T
+
+~jL--- I ~
+./ ' T
+
+.,. A_C
+
+'8
+
+/
+
+'"
+
+1
+
+~?
+
+f---.
+
+tOt---",
+
+/
+V
+
+~
+
+V
+
+t
+
+.3S
+
+V
+
+~
+
+.Z
+
+~
+
+L
+
+~
+
+>-----
+
+.I
+
+.6
+
+Lo.ad undt!r 7l7roffl«
+
+I
+
+/
+
+~ ~
+
+.
+
+-=
+
+HAtruIlLo.odforCo.rbureto.rs'A,tJ,C,O, f:
+ALTIMEmlC COMPENSATION
+
+/
+
+~ ~
+
+t--
+
+.6
+
+[0
+
+/
+
+II
+
+V
+
+r-
+
+V
+
+s
+:g ,
+
+/'
+
+~ .~ 8
+
+Plot No..f7.
+
+~
+~
+
+~
+:::i
+
+~~~
+
+1
+.Z
+
+.6
+.~
+Lo.ad under Thro.ttle
+
+r;::-'-
+
+t--
+
+~~
+
+~
+
+V
+t--
+
+~
+
+16
+
+/
+
+t--
+
+IJ
+
+\\
+
+"
+
+:'16
+
+P-O.l 96
+
+t:--- p -o.o
+
+I
+
+'J
+
+0
+
+r--
+
+4
+
+l~
+
+(/
+
+~
+
+-
+
+f"-....
+
+':f8
+
+l IJ
+
+p·o.o
+r-- I-- b- r-.:::: I----
+
+to
+Plo.tNo.l6
+
+~~
+
+z
+
+r-::: p::::::
+
+~~
+
+~T-
+
+A
+
+p·o.o 04
+
+I:::::::: F-
+
+t--- r--
+
+"
+
+p.~ b..
+
+98
+
+~
+
+~ t::---
+
+6
+
+~o
+
+V
+~V
+
+f
+
+8
+
+~
+
+/
+
+~
+
+I LOAD COMFENSATION I
+I CAlU3UflETOfl "l3" J
+
+I
+
+/v
+V
+
+I
+
+I-'411
+
+V
+
+.06
+
+.05
+
+/ ' . Oensity In Lbs.pt!r cu. fl.
+
+IH
+
+.OJ
+
+METERING CHARACTERISTICS OF CARBURETORS.
+
+43
+
+Considering the altimetric compensation between the density limits of 0.075 with 0.85
+load, and 0.030 with full load, the relative performances of carburetors A, B, and C are as in
+plot 20.
+CONDITIONS CONTROLLING ECONOMY.
+
+It is evident that mixtures of air and i'uel vapor are explosive in an engine cylinder between
+widely separated limits of composition. While there is a superior limit, maximum air to fuel,
+as well as an inferior one that can not be passed for the production of a usei'ul result, it is rather
+toward the superior limit that it is found most advantageous to work, coru:idering the specific
+00nsumption of fuel. Particularly is this true in aircraft service, where the fuel constitutes
+a con iderable portion of the weight tran ported. Economy of fuel is of paramount importance.
+Compared with the condition of open or nearly open throttle pelformance, the above applies
+with equal force to the conditions of part load, since the major portion of an ordinary flight is
+carried out with the engine delivering somewhere between 0.5 and 0.8 of its full power.
+It is interesting to examine the probable rate at which the mixture ratio can be modified
+most favorably under the conditions of part-load operation. There is but little experimen"tal
+data on which the analysis can be based; and there are none that include simultaneously all
+the conditions of engine operation.
+The three external conditions fixing the ratio of maximum economy are those contnlling
+the rate of propagation of the combustion: the temperature of the charge at the time of ignition;
+its pressure at time of ignition; and it dilution with noncombining gases. There must be
+mentioned also, ItS highly im00rtant contributing conoiti0ns, the turbulence in the ignited mass
+of charge, and the extent of the initial ignition. But since these last are nearly constants in
+anyone case, they very rea onably may be omitted at this time.
+The temperature of the charge at time of ignition is functional ·with its temperature at the
+beginning of compression, and with the compression ratio. The latter is fixed in anyone
+case; and the former varies with the condition of the charge in the manifolding nnd with the
+heat given up to it by the cylinder parts and by the residual gases in the cylinder.
+Here it i" necessary to make some assumptions. The unv-aporized fuel content of the charge
+at its entry to the cylinder is normally quite considerable. But it is possible for a mixture
+having a suitable proportion of fuel to exist in a state of dryness at the pressures and ordinary
+temperatures of the intake manifold. A con ideration of the cylinder charge temperature is
+much simplified if it is as<;umed that the heat taken from the cylinder parts senT only to dry
+es
+the charge, without altering its temperature. On this basis, the increase in charge temperature
+in the cylinder over that in the manifold is only that due to the mixing with the heated residua,]
+gases from the preceding cycle. Since the mean specific heats of charge and residue are approximately equal, the re3ulting mean temperatme at end of the charging stroke may be expressed
+11 = wcTc+wrTr
+wc+w..
+
+where w is weight and T absolute temperature of charge and residue, designated by the subscripts c and rJ respectively.
+Knowing T I , the temperature at time of ignition T2 is found from the expression for
+adiabatic compressi:>n
+
+T
+
+=
+
+2
+
+where V 1/V2
+expressed Q
+
+IS
+
+the compression ratio.
+
+T(~)0.3
+1
+
+V
+
+2
+
+'
+
+Likewise the pressure at end of compression P2
+
+IS
+
+• The value o( the eX1)onent k=1.3is an empirical value (ound, as the result o[ many eX1)erimental trials at the Bureau oC Standards and else
+where, more nearly to suit engine conditions than does the value 1.41 [or air alone.
+
+44
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+In the following Pl1 is taken equal to the mean intake manifold pressure, and the ratio vtfvz
+equal t) 5.3.
+The dilution D, of fresh charge with residual gases is D=wr/w c'
+On this basis, from the curves of plot 6, and from additional engine-test data obtained
+in the Bureau of Standards altitude laboratory, the cur ,res of plot 21 result as ap-Ploximately
+describing characteristic variations in the ratio controlling conditions of pressure, temperature,
+and dilution, under throttle.
+EFFECTS OF COMPRESSION PRESSURE.
+
+In constant volume experiments 10 it develops that the direct influence u-pon rate of combustion of initial pressure, other conditions being constant, is fairly small with mixtures of
+about the theoretical combining proportions. However, with somewhat poorer mixtures, the
+direct effect of change in initial pressure is of great importance, and becomes increasingly so
+as the proportion of fuel is reduced. At the same time the ratio of pres ure rise (explosion
+pressure/initial pressure) is practically a constant for a given mixture ratio, irrespective of the
+initial pre sure. Tp.ese experimental relationships are expre sed graphically in plot 22, and
+particular attention is called to the fact there generally indicated that as either limit of explosibility is approached, the times to attain maximum pressure are more nearly equal for different
+initial pres ures. It is in the rea ion of the intermediate ratios that the major direct effect of
+initial pressure are reali;r.ed with respect to rate of combustion.
+The above supplies a qualitative explanation of the enrichment required under open
+throttle as the atmospheric pres ure is reduced. Since an aircraft engine suffers only a comparatively small speed reduction with lowered atmospheric pressure, it is necessary that the
+rate of combu tion of the charge be maintained somewhere near constancy for the attainment
+of maximum economy.
+ince the compression pressure is a direct function of the atmospheric
+pressure, it follows that to maintain the rate of combustion the mixture must be enriched as the
+atmospheric pressure is reduced.
+Under part throttle the foregoing considerations of the effect of compression pressure apply ;
+but there must also be taken into account the effects of change in charge temperature and of
+change in dilution with products from the preceding cycle.
+On the assumptions made in the foregoing, the temperature curves of plot 21 (for an engine
+having a partially water-jacketed intake manifold) indicate that the temperature at end of
+compression will change but slightly, and at the same time favoraoly, as the throttle opening
+is reduced. Fot an appr()ximation, it may be taken that the influence of temperature chl1nges
+may be neglected. In general the fuel in the mixture, cOQsidel'ing a gil-en rate of combustion,
+must be an in verse function of the temperature 11 plot 23. Thi follows from the fact thl1t the
+higher the charge temperature the less additionl11 heat will be needed to raise a given portion
+of the charge to its ignition tempcrature; and consequently the less need be the heat of combustion to Cl1use propagation throughout the whole mass of the charge.
+CHARGE DILUTION.
+
+The separate and direct effectS of dilution of the charge with the chief combustion product
+have been very thoroughly investigated, at atmospheric pres ure and temperatme, for mixtlU'es
+of air with methane and with natural gas, diluted with carbon dioxide.ll For mixtures having
+various ratios of ail' to fuel, SUbsequently diluted with varying proportions of CO2 , it is fOlmd
+in all cases that the superior limit of explosibility, i. e., maximum air to fuel, is reduced as the
+dilution is increased. This follows from two chief cause : The relatively high specific heat
+capacity of carbon dioxide; and the dilution of the oxygen content of the charge. Plot 23
+includes a plotting of the cxplo ibility limits for mixtures of air and natural gas diluted with
+Bairstow and Alexander, Proc. Royal Soc. (Brit.) 1905: closed-vessel experiments on mhtures of coal gas and air.
+The observatIons given in plot 23, on the controlling inauences of temper ture and dUu lion, are taken from U . S. Bureau 01 Mines Technicnl
+Papers , No. 121 , Burell and Robertson, on The ElIects of Tempor ture and Pressure on tho Explosibility of Methane-Air MLxtu.rcs , and No. 43,
+Clement, on The Influence of Inert Gases on Inflammable Gaseous Mixtures.
+10
+
+11
+
+45
+
+C~BURETORS.
+
+METERING CHARACTERI S'frcS OF
+
+I.'111/';
+
+~
+
+I-- 1-
+
+~
+
+A
+
+l - I- ALTIMETRIC COMPENSATION
+
+V
+
+For Carbvrefors·A.. 8, C ,
+with Load uniformly i'ncreo':flfld
+
+from.8.5of;:>=OO75foIOOot;:>,OOJO.
+
+,/
+
+~
+
+C
+
+V
+
+;=--f.
+
+V
+
+V V
+;.;:.. ~ ---~
+
+---
+
+~
+
+I'\.
+
+--
+
+---.,
+
+z
+
+"~<?o
+
+,
+
+.............
+
+'-.....
+
+t--- I---
+
+~
+
+-C
+
+Plot No.ZO
+
+"
+I--
+
+o
+
+(100.
+
+o.~.
+
+/I~(~/
+
+~K
+
+'/
+
+'
+
+~~
+---
+
+/...; ......
+
+1" 0 Ab.so/ufe.
+..
+
+(Afmo3pheric Pressure)
+
+u.s. tJureouofMi'neJ Tech.Paperlfa.lll.
+
+-
+
+J
+
+Ii
+
+--
+
+- - ---
+
+~.
+
+~
+
+~
+
+~'"
+
+{
+
+(~
+
+CAflBON OIOXIOl: DILUTION EnTCT
+
+I
+
+~
+
+..,
+"
+
+.
+
+'"
+
+~JOO
+....
+;:
+
+~
+
+.~
+
+....
+
+"Ii'
+
+'"' f0... ~i
+I"
+...,
+\~
+,
+\
+
+..
+
+\~
+
+,
+
+\
+
+Pre.s.·
+
+... ...
+
+\
+
+''-........
+
+\,0
+\
+
+SS1b~
+
+...
+
+,,
+
+.........
+
+t"--....
+
+.........
+
+... ,
+
+... ,
+
+\
+
+~ h>..
+
+"
+s<j.m.
+
+I'-.....,
+..........
+
+'/0
+
+,
+
+,,
+
+...,
+
+DSaf
+
+f--
+
+§
+
+~
+
+I----. ...............
+
+,
+
+o!l
+
+.~
+~
+
+............... 1'-...
+
+~s.
+
+~!.r
+
+,~
+
+0
+JJI
+It!
+.Il
+J6
+.lD
+Plot No. Zl. Ttrne in Seconds to oHoin Moxlmvm Explosion f're ssvre.
+
+-
+
+l
+I'IoINaZ3
+
+,---
+
+1I.S.8ur~ou ofl'1ines Tech.Paper No.4 J.
+
+,,
+
+"roe ~34.:S;;;;
+
+~16'U
+
+(Afmosphf'ric Pressured 7emMrcrture)
+
+~
+
+117,7;
+
+~
+
+On £xplosibility Limit$
+
+Z
+
+~
+
+'~100
+
+.........
+
+J
+
+6
+
+~
+
+IlIJQ
+
+IOQ9
+
+On Upper £xplosil)l'lily Limit$
+
+•
+
+/.
+
+6
+
+0
+
+.1
+
+.f
+
+81'!
+
+'5
+
+k&
+
+I
+
+---
+
+/I
+
+.6
+
+Temp~rofure-
+
+rrom BoirstowondAI~xonder.
+
+del
+vr<
+
+'''''- .
+
+'7- __
+
+Lood vndt!'r Throttle .
+
+f--
+
+(Coa/GosondAIi-Mixfur~.s withollt Turbulence)
+
+0
+
+~;,
+
+TCMPCflATURC EFFCCT
+
+CHARACTERISTIC COMfJ(JSTION ReLA TIONSHIPS
+Closed Chamber explosion.
+
+?
+
+l
+
+Q
+./
+
+,
+........,- .......,
+--- -, - -...... ~ --J iii ::----,
+Ii--
+
+.I
+
+II
+
+/'l atN().ZI
+
+/folio 01'MOXlnlum exPlosion Pressure to ,,,iliol Pre.ssur~
+1
+.(
+6
+"
+19
+
+~
+
+~L
+
+r",'-.
+
+"
+
+J.
+
+[7$/ '
+f
+
+~
+
+::<:'
+---~~
+
+.OJ
+
+.06
+05
+.D4
+P ~ Density in Lbs.p<!'r cu.fl.
+
+Ql
+
+'" '"
+
+i'-...
+
+r---- r-.- ~A
+
+~
+
+1
+
+Wi
+
+"-..
+
+'I
+
+~
+
+...,
+
+'\
+
+B
+
+~
+
+--
+
+COMr'R£5510N-r'RES5UR£
+TeMPEITATUR£
+AND CH
+ARGE OIL U TlON
+AtV
+oryinq/.Qads and lJen siti e:s.
+
+~o-,
+-0
+
+--
+
+~
+
+KJV ~
+
+"
+
+\
+
+Q
+
+0
+
+><
+
+~
+
+~
+
+~
+
+i2V~
+
+\
+
+8
+
+~
+
+----
+
+-=~
+
+Il0
+
+l
+
+Z
+
+--
+
+e
+
+kW~
+
+f-- :.--
+
+-
+
+f-- f--
+
+~
+L--:-
+
+5
+I
+Q
+q
+#
+~
+q
+Corbon Oioxide .. Percent hy Volume
+
+10
+
+II
+
+46
+
+ANNUAL REPORT
+
+NAT~ONAL
+
+ADVISORY COMMITTEE FOR AERO "AUTICS.
+
+carbon dioxide. The graph may be taken as characteristic of the effects of such dilution upon
+mixtures, of air and fuel vapor, at atmosphel'ic pressure and tempel'ature.
+While it is impossible, in the absence of direct experimental data, to state definitely what
+the combined enect of reduced compre. ~ion pressure and increased charge dilution will necessitate in the way of change in the air-fuel ratio, it is evident that such a combination will impose
+a greater enrichment than will either one alone. If it is assumed (1) that the effect of change
+in the one condition is unmodified by simultaneous chano-e in the other; (2) that the order
+of variation in the optimum mi.:\:tme i the same with charge dilution a in the case of the
+superior explo ive limit (plot 2:3); and (3) that the range of explosibility at maximum dilution
+in an engine is 50 per cent of that with minimum dilution/ 2 it results that at a density of 0.035
+pound per cubic foot, and 0.1 load, the mixture ratio should have a value of approximately
+15.5 for maximum economy.
+Since the compression pressures at 0.1 load are nearly the same at all air densities, and
+since the same is true of the dilutions and temperatures, it can be taken that the optimum
+mixture ratio (that of maximum economy) approaches that of maximum power, at all
+densi Lies, as the tIu'ottle is closed to the idling position .
+In final consideration of plot 21, it should be noted that while at ground level 0.1 the
+maximum air corresponds very approximately to ielling of the engine, the relative loading at
+idling increases as the density is reduced, since almost a much power is required to turn tho
+motor over at mall den ities as at large. TIm, at reduced den. ities it is impossible to reduce
+the relative air to its idling value at the ground, without stalling the engine-unless its revolution is assisted by the reaction of the propellor, as in descending flight. It appears that the
+lelative air for idling at 0.035 density, plot 21, i very approx.imately 0.4. In any case, thi
+latter consideration has no bearing on the foregoing as a study of ~he carburetion. requirements.
+NATURAL LOAD COMPENSATION.
+
+The load compensations of the several carburetors are interesting, in that they are expressions of individual preferment in metering method and structure, and of the compromi e
+that have heen included in each device, by choice or otherwi e.
+In the case of the elemental carburetor, comprising a constricted air passage having a
+fuel passage discharging at its throat, the load compensation is fundamentally perfect (clisregarding the requirements of the engine), in that a constant ratio between the weights of air
+and of fuel will be maintained, if the coefficient of discharge for the ail' and the fuel passages
+heal' a fixed reln.tionship to each other.ls In practice there are several almost unavoidable
+circumstances which modify this simple ca e, and there are those discussed conditions of requirement which make a constant weight relationship undesirable.
+In the main, the load compensation of carburetor A, plot 15, follows that of the simple
+case above. But here w is made approximately proportional to W, not by selection of passage
+having a constant ratio of coefficients, but by utilizing the sum of the di charges of two nozzle
+operating under dissimilar conditions. It is arranged, through separate mean operating only
+at the smallest air flows, to atisfy the requirement for an enriched mixture with reduced
+relative air flow.
+From the diagram of carburetor B (fig. 8), it appears that throttle manipulation controls
+the air charge weight by modification of the density of the air stream, as well as by modification
+of its .velocity. Tlus is a condition not contemplated in the simple case, in that V is no longer
+only proportional to W at a given atmospheric density. The result in the relative performance
+of carburetor n is that the fuel discharge reduces loss rapidly than the air weight during throttle
+closure, since the velocity of the air stream is less reduced for a given change in charge weight.
+The load compensation, neglecting the control exercised hy the nozzle air passage, is identical
+12 This assumption is quite generally supported by observation of permissible mLxture ratio variation for steady operation, at idling and at
+open throttlo.
+11 At any air density W yaries directly as V; and w is proportional to .J'h or to .Jp-p, where 1', is the throat pressure. But within the desiraole range of values in a carburetor, .J1'-P, is also directly as V. Hence w varies directly as '''.
+
+•
+
+METERIN G CHARACTERISTICS OF CARBURETORS.
+
+47
+
+with the natural altimetric compensation discu sed in the foregoing for the theoretical case,
+and found to exist in a conventional carburetor structure.
+It seems that the load compensation of carburetor C has been developed with regard for
+the requirements of service, in so far as they are known. The mixture ratio reduces almost
+directly with the load. This results from the nozz.le structure in whieh decreasing heads across
+the nozzle outlet cause Ie s arr to be admitted to modify the metering head, both by virtue of
+the change in pre sure difference and by virtue of a change in the eifect-iYe area of the ail' ports.
+This carburetor represents the simplo case, with a uperimposed empirical metering characteristic, and fitted in addition with separate means for arbitrarily modifying thc relative fuel
+discharge at the smallest air flows.
+CONCLUSIONS.
+
+With respect to engine requirements, it may be said that the de!':irable meteIing characteristics which a carburetor should ha"l·e can not be :f:L'Ced absolutely, being dependent upon
+type of se1""l-ice requirement. The following stu tement are giycn as the best available hypotheses upon which to base carburetor design, in the light of our present kno,dedge.
+(1) The mixture ratio for development of maximum power is approximately constant (at
+about 15 air/fuel for gasolines) at all relative loads and at all air densities.
+(2) The mixtme ratio for the development of maximum economy at full load become
+smaller a.s the atmospheric density is reduced.
+(3) The mixture ratio for the de,elopment of maximum economy at part load hecome
+smaller as the load is reduced by tlu-ottling.
+(4) The mixtme ratio of maximum economy becomes more nearly equal to thaL giying
+maximum po",-er as the output and as the atmospheric density are reduced.
+With respect to the carburetor proper, it is concluded that:
+(5) The ordinarily employed variations in tructure and in method of fuel control, in
+carburetors re embling the simple elemental type, effect inappreciable modifications of the
+altimetric compensation, being subject to tbe same considerable rate of enrichment \\-"".ith re•
+duced atmospheric density.
+(6) Ordinarily employed variations in carburet.or structure and in method of fu<:'l control
+result in widely different characteristic changes in mixture ratio as the load is changed by
+throttle manipulation.
+
+REPORT No. 49.
+
+I
+
+PART VI.
+
+CONTROL OF CARBURETOR METERING CHARACTERISTICS FOR AIRCRAFT
+SERVICE. 1
+By
+
+PERCIVAL
+
+S.
+
+T I CE
+
+and H. C.
+
+D ICK I NSON.
+
+The following report i a di cussion of ways and means of correcting the eJll'ichment of the
+mixtur e natur ally occurring in carburetors under the conditions ob taining in flight at altitude
+above the earth' surface. Possible contr ol methods are de cribed and discussed in the J;ght
+of the requirement Ior best engine performance . Thc text inclu de' a tatement of the need
+for and the possibilities of an au tomatic mechanical regul ation of the control device.
+I t i concluded that (1) anyone of several con tr ol methods will be equally effective; (2)
+automatic regulation of the control is, in gener al, mor e de irable than manual regulation ; and
+(3) it is possible to regulate the con trol au tomatically to give a compl ete correction of the
+mi.xture at all altitudes.
+CONTROL OF ALTIMETR£C CHARACTERISTICS.
+
+Considering the de irable mixture ratio variation dictated by engine requirements, it is
+evident that some form of con trol must be incorporated in a carburetor approximating the
+simple type,2 to permit it to serve th e engine properly over a range of atmo pheric densitie .
+The natural characteristic in a carburetor is that of too rapid increase in the relative fuel content
+of the mixture, as the atmo pheric density is reduced. I-l ence t.he altimetric control under
+discussion is one that permits of modifying th e natural air to fu el r elation hip in ap inverse
+manner to the changes in atmospheric density. Th e following is offered in discussion of means
+for the accomplishment of th is control.
+The possible methods all involve a modification of the relative amount of fuel upplied,
+ince appreciable change in the weight of air taken is impracticable. The e method
+divide into two classe , as follow : (1) Control of the ar ea .01' th e fuel metering pas age; and
+(2) control of the pressure difference or head across that pa sage. Of the two, the latter class
+is that almost always employed, because it i less sensitive in adjustment and develbps into ft
+simpler and Ie s delicate structure, m ore in accord ance with the accep ted general aims in Carburetor design.
+In class (2) we have subclasses wher e the pressure difference is modified by «(1,) control of
+the float chamber pressure and (b) control of the nozzle ou tlet pre sure. Of these, the former
+at this time enjoys the O'reater vogue wi th carburetor de igners, although , a will be shown, the
+latter is capable of useful and simple developmen t .
+If, as is usual, the altimetric con trol i designed with pecial refer ence to the open throttle
+condition, it does not neces arily, in its open throttle setting, cau e the engine to be supplied
+with a desirnble mixture when the th rottle is par tially closed. In such a case, the control
+, This reporL was confidentially circulated durin~ the war as 13ureau of Standards Aeronautic Power Plants ReporL No. ·IS.
+• The simple carburetor is one possessing 8 single constricted air passage, h av ing a fuel passage discharging at its t brost. and proyirled wit h u
+throttle in its outlet, so t hat tbe \'elocit~' of lIle ,ir in the throat is substantially proportional to the weigbL of ai" taken.
+
+49
+
+50
+
+AN ""UAL REPORT NATIONAL ADVI ORY COMMITTEE "FOR A8ROi AUTICS.
+
+must be manipulated with the throttle. A di cussion of thi phn e of the problem will be
+entered into later , since it constitu tes a final criterion on the value of any proposed method.
+Similarly, automatic regulation and ea e of application of automatic regulation of the control
+will be di cussed separately.
+COllsidering the simple requirement for the development of maximum power, it is llece ary
+thaI, the mi:x:ture ratio be maintained constan t under all conditions. H en e the nece sltry
+relative reduction in fu el discharge will be equal to
+
+w~w' = l iN! =
+
+1-
+
+-J 'fl'
+
+or at alLitude x in Lerms of the discharge at zero al titude the r eduction in fu el is written
+
+1- To / xI->", = ] _ IN;P; T:
+T,. -y NoP 0
+-y NoPo T",
+in which the following notation i u cd:
+w = weigh t of fuel na tUTally discharged 0:: ..; l\TJJ:.
+w' = weight of fuel de ired 0:: ,vpo:: fI'P/ T:
+h = nittural metering head on fuel 0:: .' P:
+h' =de ired meterinO" head on fuel 0:: ( Np )2 ;
+N=engine r. p. m .
+P = atmospheric pres UTe, absolute:
+T= atmospheric temperature, absolu te
+p = atmo pheric density, pound per unit volumo.
+In the case of class (1), in which the are!1 of the fuel passaO"e i under control, the requisite
+relative r eduction in area is as expre sod above. In cla (2), whero tbe metering head is controlled the nocessary relative r eduction in lload will be
+1
+
+h-h - 1- NP - 1 - Np,
+7t T2T
+
+or at altitude x in terms of zero altitude
+
+N",P",Toz 1 - N",p ", To
+No p oT", '
+NoP oT ",2
+In general, tbo change in N with chanO"e in altitude is comparatively mail, as i also th e
+ordinarily e,'periencod change i n T at the en,rburetor, hence it may be permitted to \\Tite the
+above expressions in the simplified forms
+1-
+
+R ela tive reclu cton in pa' age are"
+
+= 1-
+
+,IF ~ =
+Po
+
+1-
+
+-yI p", ; and
+Po
+
+.
+lnetermg L I1P", = 1 - p,.
+let),( = - - p
+o
+oP
+It is obviou. that control of the fLo alrchamher pres ure (clas 2a) is accomplished when the
+float chamber is proyided with a vent pas. age to the atmosphere', and i also in communication
+with ome point at ubatmo I heric pressure in the carburetor air pa ag. The controlling or
+regulating memb er is a valve in one or the other of these pas agos, as in fig ure 1. In such a
+design, uitable , election of relative pas age capacities and location must be made to insure
+that the control will have ufficient ran O"e to accompli h its purpose.
+Control of the nozzle-outlet pres ure (cla ::; 2b) can be accompli 'hed in each of several way.
+The yelo ity of th air pas ing the nozzlo ean be modified by altering the effective area of the
+pa sage about the nozzle outlet (Fig. 2 at A .). Til r elative amount of air paL ing tIle nozzle,
+and therefore the velocity, can be modified by an atmospheric by-pa. " admitting au: to the
+carburetor at a point beyond the main air throat (Fig. 2 at B. ) . .\nd, with fixed ail: passages,
+the nozzle-outlet pr essur e can he' modified hy \onting the outlel of the noz71e i tself to the
+atmosphere (Fig. 2 at C. ) .
+.
+"
+·
+uuctlOll
+R e1ative rC1
+
+.
+
+111
+
+)IE1'ERING OHARAOTERISTIC
+
+OF OAlmURBTORS.
+
+51
+
+Each of the foregoing methods has been applied to aircraft service, usually under direct,
+manual regulation; and each can be fully adequate when suitably proportioned and controlled. There is thus no question of relative effectivenes. On the other hand, the structural
+differences are considerable, and there is room for election of method, considering simplicity,
+ease of production, and reliability through obviation of possible irregularities. This last point.
+reliability, as, umes its greate t importance when it is attempted to substitute automatic regulation for the more u ual hand control.
+EFFECT OF THROTTLE POSITION 0
+
+ALTIMETRIC COMPEN Al'IOX.
+
+Considering the altimetric control as having been properly ot at any altitude, under open
+throt,tle, it is important to examine what happens to the mixture ratio a the throttle is clo ed.
+Complete altimetric correction involves a ll..'\.ecl percentage reduction ill the fuel flows, compared with tho e occurring at the ground, for all relative loadings.
+Having regard for clas (1), it is obvious that having made a correct adjustmellt of the
+fuel metering area at any onf( loading, a change in air flow will leave the relationship with
+ground ratios undistmbed, provided the change in area has not altered the coefficient of eli'charge of the passage. It can hardly be hoped to accomplish thi. last with any ordinary or
+simple form of adju ting structure; and this, together with the extreme ::ien itiveness of the
+method, has resulted in its narrow use.
+In the type of cla s (2a) controlling the flo at-chamber pressure, the ::iubatmospheric connection must of nece sity enter the air passaae of the carburetor as shown in figure l. But
+the pres mes in the adjutage of the till'oat do not bear a constant relation to that of the atmo phero with change in air flow .3 Thi r esults in change in the fioat-chamber pressure under
+tlu'ottle manipulation with anyone setting of the control. Admiliting that the ground load
+compensation is correct with the control in the off po ition, it appears that a varying floatchamber pressure, as at an altitude, will prevent its duplication, since it will change the order
+of variation of the metering head with change in relative load. The change in adjutage pressure with load is such a to ause a material enrichment of the mixture a the throttling is
+increa ed. In clas (2a), then, the altimetric control must be 'hifted \"it1l the tlu-ottle.
+Passing to cIa s (2b), with regulation of the effective throat area (case A, fig. 2), the pre su re
+along the axis in the entrance of the movable tube will be in constant ratio with that in the
+till'oat at all densitie. A a result, the ground load compensation will be duplicated at any
+altitude "vith a single etting of the altimetric control.
+Likewise, in case B of figure 2, the ame result is accomplislled if the coefl'cient of discharge across the auxiliary port, at auy et opening, varies directly with that of the main
+tIu'oat pa sage a the air flow change . Thi' latter condition can be almost fully realized with
+suitable design of the auxiliary passage.
+At all except the smallest air fiow , the control method at 0, figUl'e 2, will permit of maintenance of the ground load compensation at any altitude, on a fixeel setting of the control,
+since the pre sure at the throat at any relative uir flow bears a constaDt relation hip to that
+of the atmo phere. At the mallest air flows at altitudes, th mixture will be richer in fuel
+than at corre poneling ground flow by an amount depending upon the height of the nozzle
+member abo,e the point of entry of the air stream . Tlli " enrichment will be greater the greater
+the altitude.
+EFFl<JOT OF ALTlllETIUC CO:\'TROL ON DIVl IO:\' OF FUEL.
+
+A further point wllich can not be wholly neglected is the eIrect of the altimetric control
+upon the fineness of division of the fuel, tru:ough alt,eratious of the magnitudes of the forceR
+causing ·praying. Of the methods di 'cussed, tho e at A and B, figure 2, are the only ones in
+which URe of the control reduce the energy available for spraying. The method at 0, figure 2.
+obviously promote division of the liquid. That of figure 1 leave, the spraying unaltered.
+• Soc the cun'e of pressure loss in carburetor passages accompanying Part III of this report.
+
+52
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTE E F OR AERONAUTICS .
+
+B
+
+A
+FIG . l.- Control by regulation of Ooat chamber pressure .
+
+I
+
+,
+,
+I
+
+,,
+I
+
+\
+\
+
+\
+
+~
+"
+"
+
+c
+
+6
+F IG. 2.
+
+METERING CHARACTERISTICS OF CARBURETORS.
+
+53
+
+CRITICISM OF CO J'l'ROL STRUCTURE.
+
+Structurally, the methods involving a small plug valve controlling an air stream (fig. 1,
+and 0, fig. 2) are the simplest and most easily produced. Also their regulation is comparatively
+direct and involves small forces and a minimum of parts. For such rea ons, these methods are
+the ones almost always encountered in e.cvice. On the other hand, each requires special
+manipulation to cover the complete throttling range mos.t advantageously.
+The method at A, figure 2, possesses the structural disadvantages attendant. upon controlled motion of one of the carburetor's maj or organs. The parts must be made to move
+freely, and auxiliary members must be included to nullify the effect of l ack of balance in the
+forces to which the controlled member i ubjected. This further complicates the structure
+and makes reliability of performance more difficult to attain, particularly when only small
+displacing forces are available.
+On the above scores, the method at B, figure 2, is superior to that at A, in that unbalance
+is easily eliminated by mounting two valves on a single tem, and causing one to open inward ly
+as the other opens outwardly. This gives the desired result without material complication
+and with no additional working parts.
+A possible disadvantage in thls method is the size of the auxiliary air port that must be
+provided. At an atmo pheric pressure equal to one-half that at the ground (Px/Po = 0.5) the
+uncontrolled or natural mixture will contain 1.415 times the desired amount of fuel. That is
+to say, the metering head is twice as great as it should be to maintain equality of the mixture
+ratio with that at the ground. From this it results that one-half the air taken by the engine
+will be required to pass the auxiliary port under thls condition of atmospheric pressure. But
+since the coeffieierit of discharge for a passage such as the auxiliary must be, is only about
+0.75 that for a carburetor-throat tube, the arell, of the auxiliary port must be 0.5/0.75 =0.66
+of the total passage area through the carburetor, or approximately 1.5 times that of the carburetor throat.
+The most serious aspect of unbalanced forces upon the controlled member, or of complicated actuating mechanism, is faced when it is attempted to regulate by automatic means.
+Here a definite displacement must follow the application of a definite but small force applied
+by the regulator. But where automatic regulation is employed, it is clearly e sential that tho
+load compensation be unaffected, 01' negligibly affected, by the position of the controlled member.
+As previously stated, method B, figure 2, is one of the few with which this result is possible.
+For the best results throughout a flight, the setting of the altimetric control must be
+changed in a very definite manner. Thus, automatic regulation of the control will be highly
+desirable if it can be made to follow,faithfully the changes in the surrounding conditions.
+Consideration of the relative merits of manual and automatic regulation leads to the
+conclusion that the latter i the more desirable, €Iven though it does not follow the conditions
+with absolute faithfulness. This follows from the natural limitations of the manual method
+qf regulation. Here chief reliance must be placed in the indications of the engine tachometer
+and in the senses of the pilot. This is all very well within certain narrow limits. But under
+present day surroundings of the pilot it is too much to expect his senses of sound and touch
+to be of great assistance, even if he has unlimited time in which to act upon their indications .
+. Clearly, also, the engine tachometer as an indicator on the altimetric control leaves much to
+be desired in attempting a setting for maximum economy. This latter is never attained at
+maximum R. P. M. on a given throttle opening, and neither is it attained with the poorest
+mixture that will operate the engine steadily.·
+AUTOMATIC OPERATIO,
+
+OF ALTIMETRIC CONTROLS
+
+Automatic means that can be made to follow both pressure and temperature changes is
+not far to seek. A sealed flexible-walled chamber will expand under reduced pressure in its
+surroundings. Also, it will expand under increased temperature. Since the direction of the
+, See discussion of requirements for maximum economy in Part V of this report.
+
+54
+
+ANNUAL REPORT NATIONAl.. ADVISORY COMMITTEE FOR AERONAUTICS.
+
+AC---~--
+
+.. ~
+
+0
+
+(2) -
+
+APP~OXIMATION
+
+D
+
+oC.
+
+(TO):?' ~
+T"
+
+FIG. 3.
+
+Po
+
+TO
+
+55
+
+METERING CHARACTERISTICS OF CARBURETORS.
+
+required change in the setting of the altimetric control is the same under reduced pressure
+and under temperature increase, it only remains to design the regulator for deflections to fit
+the requirementss. Strictly speaking, automatic regulation of this kind can only be applied
+to a method of control which does not disturb the compensation under throttle.
+A representative flexible or extensible chamber, on which to base a discussion, consists
+of a pair of rigid, circular end pieces between which is sealed a cylindrical metal bellows.
+Assuming the bellows to contain dry air and to have been sealed at absolute pressure P, and
+absolute temperature T, equal to those at ground level or zero altitude, the volume of the
+bellows at an altitude x is V x = Vo
+
+;0 ~.
+x
+
+Substituting the length, L , for the volume, since it
+
+0
+
+will be proportional to the latter in this case, the relative change in length of bellows between
+i
+ground level and altitude x is expressed L X Lo = 1- ~~x. But the change in orifice area for
+x
+
+altimetric correction is 1- ~o
+-x
+
+-VI~z;
+
+x
+
+0
+
+and the change in head required i
+
+0
+
+1_(~)2
+:z:
+
+: x, to
+
+at-
+
+0
+
+tain the same measure of correction.
+In the case where the carburetor air is at constant temperature, the deflection of the control
+regulator is proportional to the square of the required orifice area correction; and is directly
+proportional to the required correction in metering head. In the former case, it will be necessary to contour the fuel orifice, or to control its area through some intermediate device, as a
+cam. In the latter it mayor may not be required to use contoured control parts, depending
+upon the method of control chosen. The methods at A and B, figure 2, lend themselves to
+operation with only the interpo ition of direct linkage between the control member and its
+regulator.
+.
+If the carburetor air temperature varies, it is obviou in both cases that the deflection of
+the regulator will be relatively too little, considering the temperature correction, if it is suitably
+transmitted and utilized with respect to the pressure changes.
+But it is possible in a bellows type regulator to make the change in length virtually independent of one or the other of these changes in its surroundings. If the inclosure is completely
+exhausted at the time of sealing, its length will be unaffected by temperature changes. In
+order that it may respond to changes in pressure, it is only necessary to inclose within the
+bellows a spring reacting wjth sufficient Jorce to prevent the maximum external pressure to
+which it is subjected from closing it up completely.
+Likewise, such a chamber, completely filled with a liquid, will be negligibly affected as to
+length by a change in pressure, but will respond to changes in temperature.
+Thus, by one of several possible mechanical interconnections or assemblies of units, as
+in the diagrams of figure 3, it can be brought about that the automatic regulation of the control
+will be complete. In final consideration of control regulation it may be stated that if the
+carburetor air temperature varies through comparatively narrow limits, a ' single air-:filled
+expansible regulating member may give a sufficiently close approximation for most practical
+purposes.
+CONCLUSIONS:
+
+(1) Several control methods may be equally effective.
+(2) Automatic regulation of the control is, in general, more desirable than manual regulation.
+(3) It is possible to regulate the control automatically to give complete correction of the
+mixture at all altitudes.
+
+o
+
+•
+,
+
+. I
+
+'
+
+".
+
+~
+
+..
+

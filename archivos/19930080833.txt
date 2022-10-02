@@ -1,0 +1,1033 @@
+r.:,.
+
+5
+
+L.
+
+it:na
+
+T:ZOENIOAL NOTES
+NATIONAL ADVISOnY COMHITTEE FOR AERONAUTICS.
+
+/
+
+No .
+
+AIRPLANE
+
+48.
+
+SU:r~RCHARGERS.
+
+By
+W. G. Noack.
+
+FILE COpy
+To b return d to
+fil , of teN i
+l/; ry Com mitt
+May, 1921 .
+
+A ron utica
+hington, D. C.
+
+NATIONA1 ADVISORY COMMITTEE FOR AERONAU?ICS .
+TECBNIC i"L
+
+::~O~E
+
+NO. 48
+
+SUP ERe H A R G E R S. '"
+
+By
+W. G. Noa.ck ,
+Fcrmer En6 l neer, Boaro. of Airplane ~xperts, Charlottenburg .
+
+The e v er- increa3 ing 1emands on the airp l a n e du:r ::"ng the war,
+regard to climbing s peed ano. ceiling, nec e ssitat e d th e installat ion of engine.:; of c c
+mstd.:::ltly incre 3.s e ci po v:er, nhile the
+carrying capacit y C1:ld sre e d. at a serJiceabl e alt~tude did not
+pro~ort iO!1at ely inCre i1 2e .
+The r e ason for t hi s is to be f ound in
+the fact t~at the engir..e pOl-er outP·J.t decr e ase s with the ::'ncre a Re
+of flyir~g altitude . If, for instanc:e, an ai.rplan e is still to
+'0e ab:l.e to fly at an al t i tude of 5 or 6 kIn ., then the engir:e
+must be Cif about tV'Jice the power at sea level that v
+vould h&ve
+aeen sufficient to keep the airplane in f:ight in tile vic i nity of
+the ground.
+~ith
+
+The pl'j.ncipal reason for the falling off of the engine p a :ver is the decrease in the density of the air as the airplan e
+rises. The manne r in v/hic}} this occurs may be seen i n Table 1,**
+whi ch gives the average bar ometer pre SSUTes and tempe rature s during the year, and also the relative pressu=es . Ge nerally speaking, if y stands for the density of the aj.r, (wt.1.en leaving out
+moisture as for every gas), and b signifies the pressure and
+t
+the temperature:
+~
+
+y == Yo 760
+
+273
+273 of t
+
+in which Yo ~ 1 . 293 kg/cu . m., the density of the air at
+mm. mercury column and t == OOC .
+
+b
+
+=
+
+760
+
+* Sonderabdruc k aus der Zeitschrift d e s Vereines deutscher Ingenieure, Jahrgang 1 919, Seite 995.
+**Also see A. Wagne r, llContributions relating to the Com.position
+of the Atmosphere, n III 1919.
+
+- :3 ....
+
+TABLE
+
+I.
+
+Decrease of the Air Pressure with the Increase in Altitude.
+
+--- -_. --
+
+Al t itude
+above
+Sea. level
+
+m.
+0
+1000
+2'JOO
+3000
+4000
+5000
+6000
+7 000
+8000
+9000
+
+Average
+Average
+Re:iative
+air
+yearly
+air
+pressure
+pressure, : temperature, ...
+b
+um:
+
+Average
+density
+of the
+air, y
+
+mm. mercury.
+
+°e
+
+12-
+
+:kg/ cu .m.
+
+762
+674.5
+596
+525.5
+461 .5
+405
+354.5
+309.5
+269.5
+240
+
++8 .7
+-!·3 .9
+-1
+-5.9
+-11 .6
+-16 . 9
+-2 3 .7
+-31
+-37
+-45
+
+1
+0.885
+0.782
+0.689
+0 . 605
+0 . 531
+0.465
+
+1.258
+1.130
+1.020
+0 . 914
+0 .820
+0 .7 35 ,
+0.660
+0 . 595
+0.532
+0.489
+
+bo
+
+'J . 400
+
+0 . 357
+0 .315
+
+--
+
+Relat ive
+density
+of the
+;; M
+_
+air
+.-'"
+LYo - -1
+0.900
+0 . 810
+0.727
+0 .653
+0 . 584
+0 . 524
+0 . 473
+0 . 423
+0.388
+
+If the falling off of the engine power were de pendent upon
+the density of the ai:: alone, then the same relat ion r;ould hold
+good for both. This is however not generally the case. As has
+been shown at the altitude experimental stations, the efficiency of the usual airplane engines falls off considerably faster.
+The reason for this is to be found fil'st of all in the action
+of the carburetor . The fuel supply in the carburetor does not
+decrease in the same degree as the weight of the ai~ inducted at
+each piston stroke, the fuel mh:ture becomes too rich and the
+thermal efficiency is also decreased., beoause, \lith the number
+of revolutions remai~ing the same, the no-load work of the engine, which is affec~ed by the diminished w
+orking pressure but
+little, remains almost the same; its ratio to the p0\~r output
+however, increases with increased altitude. With t~e very low
+temperature prevailing at high altitudes , the inducted air may
+affect the :ormation of the mixture unfavorably w
+hen not sufficj.ently heat ed . For a confirmat ion of the above we refer to the
+performance of one of the best of the older Ger~an airplane motors* as sho v in the curves given in Figs. I and 2, in which
+m
+the power for various inductional temperatures is plotted in relation to the density of the air. If the power of the motor
+were proportional solely to the density, that is, the pressure
+and the temperature of the outer air, then all the measured
+qualities plott ed against the density of the air Would result in
+
+* I1Technische Berichte der Flugzeugmeisterei,11 Vol. III,
+
+1918.
+
+- 3 -
+
+horizontal lines, for i n s ) ance, conv e r t e d from b
+c
+om3t3r readj.ng, and t = 15° to
+N
+
+r
+
+=
+
+N 761""1
+J
+b
+
+=
+
+760 mm.
+
+bar-
+
+273 + t
+-----273
+
+Actually, howev e r, they are curves with a marke d do w w
+n ard cou:'se .
+Their deviation from the horiz ontal thus yep resents a means of
+measuring the altitude p ro~ erties of the engine .
+These disadv~:mtag es of the airplane engi:1.e were of course
+SOO!1 recognizedj the remedy was hOWever ~10t introduced unt il a
+comparatively l a te date.
+O
+ur adversaries v~re also strenuously
+engaged with this Question . * By imp rovinr; the carburetors, e s pecially the so-call e ~ altitude carb ur e tors, the decrease of the
+power V[as made to substan ~ ially keep pace with the decrease of
+the density of the a i r. By ra ~ sing the ratiO of compression of
+the engine from betwe en 4 . 6 and 4 . 9 to 6.6, and. by tLe improvement of the the l'mal e ffici ency which was ther eby brought about,
+an improved adaptation of the airplar.e e ngine to the altitude
+conditions ~as s ecured.
+In the vioinity of the ground the intake of the eng J.ne must b e throttled in order to avoid self ignition and exce 8sive stre s s. As th e ai r plane reaches higher alt i tudes the thr ottl iEg is gradually decr e ased, a n d Ett he i ght s of
+from 2 to :3 km. it f J.nally ce:=t ses entirely . Up to this point
+the engine power remai n s a lmost the came. A~other step in advance is made ·;~ith engine s of ex tra siz e , in W
+1...iC:l the displacement of the piston. is i n 0Te a s e d in oomparison witn ord.inary engines and in rela.tior. t o the dimensions of the ~ar ·cs of the driving gear . These e nsir:es riUst &.. J.so be thl' ottlec1 w!len n0o,r the
+ground in orde::- to keep the c.'.T rag e pis~on p :::-e ssure so 1.0W th2..t
+e
+the power O"L'.tP'-.lt dos s not exc e e d. tl1e nOi''J i:r.al po w
+er. The supercomp:;:-ession c an also be corr:oille d with s-Llp e r-d .~ mension.
+In this
+ws.y it is possihle ·c 0 mair.ta in the eng.in es at a 1:.ni:orm power up
+to an altitude of alr:..ost 4 k.n. Bey ond. this p oir.t 2. falling off
+of the power is avoia.ed by the usc of compres s ors of supercharg ers, Which Will be tl'eatcci in detail later.
+The purpoae of the com
+pressor is to fur n ish the eng ine with
+air of sea level density, no matter w
+hat the surround.ing atmosphere may be. Up to a certain prescribed altit~de there is ~ h en
+the same pressur e in fro n t of the carbu r etor a s that prevailing
+at sea level, and for w
+hioh the engine has been built.
+Three general typ es of comp ressors - reciprocal, 'rotc: ry ,
+and centrifugal, may be conside red for this purpose . R~clprocat­
+ing compressors, as far as is known, have never been trled as
+they are too heavy and the valves are too complicated.
+
+* Compare llZeitschrift
+and July 5, 1918.
+
+1918" p.61, 816; Eng ineering, June 28
+
+-
+
+4 -
+
+Of the ro"cary con:pressors, those of the Wittig* and Roots
+types as w·ell as compressors 'v
+vith revolving vanes were tried,
+but nothing is lqlown as ye t regarding the results. The centrifugal cOffipressor has prove d the most suitable up to the present;
+its construction was taken up by several factories during the
+last two years of the war and brought to a high state of perfection.
+The compressors are, as a rule, driven direct by the engine>
+mostly at the end opposite the airscrew. It is true that this
+drive was objected to at £j.rst as it was feared that the crankshaft would be endangered by torsion vibrati ons. Ho wever, these
+fears have so far p r oved u n founded. In the case of airplane s
+with severa l engines, giant ai~ p lan e s especidlly, the compre s sor
+or supercharger is driven by a special engine and in that case
+furnishes the air for all the e ngines. For the airplanes with
+several engi.nes in a central plant there is also a good solution
+of the problem.
+In the latter case the common supeJ.:charger can be
+connected directly with the central plant. As to whether indlvidual supercha~gersor one corumon 3upercharger is better, also
+r vhether the drive from the central po w plan'~ or from a specj.al
+.
+er
+motor is to be p~eferred, has not yet been de cided. Each arrangement has its advantages and disadvanta.ges. W
+ith single engine
+airplanes there can of course be only th e direct drive from the
+engine. W
+ith giant airplanes carrying a large servj.ce crew, the
+drive from a special engine is better adapted to the air requirements at the various a.lti·G
+ueies as it is then always possible to
+gj.ve the corr.pra ssor engine the number of revolut ions COTre sponding to the air requirem ents at any given tjme. Tile compress0!'
+that is coup1ed wi tn tt.e :nain engine or with. the central plant
+has, on the con '~rary, al w'ays tlle same fiul t iple of the number of
+revolutions of the main engine; it tt.erefore generates pressures
+which are too hj.gh for the lowe:r al t ~tujes and the d.ischarge
+·must be throttled. 'llhus the amount of energy requj.red for the
+compress0l and tlle temperature of the co:npressec. ail' at-tain the ir
+maximum near groucd level, and as it is in the lower air strata
+that the hi ghest natural '~emperatures predominate, the compressed air react.es the carburetors in a very heat~d condition at the
+lower al t i tude s . Although experiment s have shown tha.t most airplane engines can stand temperatures eveYl B
+,bove lOOoC. in front
+of the carburetor perfectly well, at least for short periods,
+neve~theless this heating of the fresh air results in a considerable drop in power output. In order to compensate for the latter
+and in order to generate the driving power for the compressor,
+it is necessary to furnish the engine ~~th air at greater p~eBsure
+than se<:l:=-level . . . This causes an overload which is, however, unimportant for the ·short time necessary for the take-off and for
+climbing the first few thousand neters.
+* Ccmpare "Zeitschrift 1918," p.6l, 816; Engineeri~g, June 28 and
+July 5, 1918.
+1
+
+- £5 -
+
+Figure 3 shows how "'Ghe errgim:e may be overloaded by the supply of fresh air u~der high pressure. In these experiments
+the charging pressures immediately in front of the carburetor
+amounted to 830, 760 and 720 mm. Hg. (curves 1, 2 and 3), the
+temperatures of the fresh air also directly in front of the carburetor, we re 40 0 , 30 0 , and 8 d , the exhaust pressure was Lmaltered, 736 mro. It is evident that slight pre-compressions are
+sufficient to secure remarkable power incr.eases and to provide
+the extra energy for the driving of the snp[;lI'ena:rg()...I::' .c 'onnc'ct";t.:d with
+the !engine.
+The mistaken conception, entertained not only by aviators
+but also by the engine manufacturers, that the engines are permanently overloade 'i by the superchargers because of the considerable gain of the airplanes in climbing rate and ceiling, must
+be contradicted here. As long as the pre s sure in front of the
+carburetor is not increased above the pressure at ground level,
+the engine works mechanically and thermodynamically under the
+same conditions as on the test stand or in the airplane near
+ground level. If, howe~er, the altitude up to wh ich the compressor furnishes the full pressure is exceeded, the powe r of the
+engine falls off in the same way as occurs with t~e ordin~y engine at its start from the ground. The purpose of the compressor is to raise the flying altitude of tile airplane. ~Vnen the
+flying is done at these altitudes, the loading of the en~ine : ~n
+the vicinity of the altitude l~mit is exactly as high as with
+the motor wj.tnout compresscr , only with the difference that the
+airplane is now at a c onsiderably "higher altitude.
+The power of an engine with compressor is also somewhat increased by another cause, not involving a correspondingly increased absolute piston pressure . The reduction in the pressure
+of the outer air causes ~he exh2_
+ust tack pressure to be diminished, the engine furthermore works under air pressure during
+the suction st~oke, thus converting the delivery of the compressor into useful work. These two circumstances increase the useful piston pressure, and consequently the power ou~put, at the
+altitude of 5,000 m. to the extent of almost one a"'Cmosphere or
+about 12.5%.
+.
+In order to calculate the power required for the supercharger, Fig. 4 may be ~sed. As the superchargers are not cooled and in consequence of the ir small dimensions, sub st ant ial
+losses in the clearance of the impellers, in the pressure compensation, and in the stuffing boxes, must be taken into account,
+with the result that the compression curve is a poly trope lying
+above the adiabatic cur~e. For the purpose of a general survey ,
+the compression ratios for ~o for the various altitudes are al so
+plotted. The values of b have been taken from Table I. Fig.
+4 'also shows the expenditure of power for the adiabatical compression of 1 kg/sec. of air having an initial temperature corresponding to the mean yearly temperat~re . tm'
+
+- 6 -
+
+The output of airplane engines (when refer:i."ed to the piston
+displacement) amounts, g~neralljr speaking, to from 1 to 1.1 h . p.
+per liter , the indu~ted ~eight of the air from 3.5 to 3.6 kg.
+per h.p./hr. From this we get the expenditure of energy i7ith adiaoatlc conpres sicl1 of the fresh air in relation to the output
+of the :engine at the various pressure ratios or altj.tudes. The
+actual expenaiture of en~rgy is increased by the 108se s in supercharger and drive. Detailed tests with a supercharger built by
+Brovm, Boveri & Co. in Mannheim for llCO to 1200 h.p. engine output (that is, a ci..elivery of a-oout 4200 kg/hr. ar:d a pressure ratio
+of 1. 2) had an efficiency of 65% referred. to the adj.abatj.c curve
+and converted to -15 0 initial temperature. With later models
+68~ WdS attained, even wit~ smaller quantities of air.
+The addition of the pI'esoure connection does not, for the
+most part , require any subst~ntial alteration of the engines, so
+that their standardized p~od~ction is not interru9ted. The most
+favorable engine for t~e purpose is t he 26C h. p . Daimler :eng,i ne.
+It s one piece carbu:~et or aLd oomnon air S1."-ct ion tube made possible the immediate a-"cta0hrllent of pressure connect ion. It was only necessary to consi6.er whether it 1,"/o·:.11d be r.lOr9 advantageous
+to take the air fr01:'l the atmosphere direct or through the engine
+crankcase passage. W
+ith the 260 h,p. Daimler enginethe air is
+inducted throuGh a channel under the cranl:case , and "then through
+a quarter bend to the carburetor in order that it will be heated
+and that oil dYaining off into the oil sump 0
+will oe cooled. The
+temperature of the inducted air is raised 15 to 20° above the
+temperature outside. Thi s results in raising the final temperature of compressi.on in -;;he supercharger. As, i,:ith the supercharger in operation, the air is mOre than sufficiently heated
+in consequence of the compression; even with the very 10Vlest outside temperatul"es, it seems advisable to take it direct from the
+atmosphere as is done with all other engines. With the 260 h.p .
+Daimler engine this was however not possible at first because
+When the weather was warm the air current alone was not sufficient for cooling tile crankcase. The lubricatinb oil in it was
+heated to between 85 and 95 0 C., became too thin, and did not
+reach the piston pins . This was remedied by circulating the oil
+through an oil cooler by means of a gear pU'np driven from the cam
+shaft by a flexible shaft, the cooler forming a part of the engine housing.
+The air reaches the carburetor direct from the pressure connection. The carburetor itself needs no alteration as long as
+the gro~~d level pressure to which it is adjusted is not exceeded to an appreciable extent. The space above the float, or
+the float chamber overflO W also the container from w
+,
+hich the carburetor directly receives the fuel, are to be connected with the
+pressure pipe of the supercha~ger by a compensating tube, as the
+same pressure must prevail abOve the float and in the fuel tank
+as at the pressure connection of the supercha~ger. All the carburator o~enings must be closed so that no leakage of fuel is
+
+- 7 is p o ss i ble. A light detachable cap is ::itted over the f:2.oat
+val ve s t em guide. The guide s of t:18 inlet va: Ve s are al 'rays
+suffic iently aiTtight so that no special provision is necessay-y
+at that point . In order to render -(),'3.,ck firj::lg harm~ess :.t is
+advisable to fit re~_ief ~Talves of ge~erous size in the p~_ping
+bet ween the pr e SS\lre connect ion of tr.e aUjJ6r.charger and tee car buretor. The we,ll between the last trw stages of -:he sU1J8rcharge r is , above all, endange~ed during violent back fi~ing.
+In t he case of one common supercharger for several engines,
+each engine has c, connec-:' ir..g Iliec:e (Fig. 5) 'J.s-ually an a:uminium cast i ng i'7i th a large '.:>1 ow-off valve (a ca:;;:> J::el:i in place b"St~
+several s:prings ) , a thro·ctle vaJ..ve for shutting cff the compre ssed air (missing in Fig. 5), and an autom3.ttc 3.ir suction valve .
+Th e suction va17e permits the intake of air direct from the atmosphere as long as the supercharge~ is not work ing) when, on
+the contrary , the supercharger is fuy-nishing air of hi ghe r pressure than that outside, -:hen the val-,~e closes . T:1.e connecting
+pie c e is connected to the float chamber by a pressure compensation tube . Special attention nust be given to the fuel discharge . The ut l,lOst care l~'lUSt be tal~en t 0 J:.reveT~t a n overflow
+of fuel at the nozzle froll running int a the t·Ll.be connect :i_ons
+(which in giant airplanes are built into the lifting surfaces
+and are of consider able length) as during back firL1g the y might
+explode and endar"ger the airpl ane. ror this rep.son the connecting piece is provided ~ith a fuel dra~n cup having a drain cock
+or small opening so that the misplaoed. fuel can drain off . The
+loss of air t hus occasioned is unimportant. A~ 0pe~ U t~be
+filled with mercury is the most suitable means for measu:'iTlg the
+pressure of the central supercharger8.
+On it is a millimeter
+scale which sho"NS the c.iff8!'ent pressures appertaini::lg -to the
+various altitudes, For single superc'he.rge:.'s on sllial:" airplanes,
+lov; pre ssure ga-<.lge s are useC:, wh:'ch Sl10 V; either tLe absolute
+pressure or the ::'>1'es8ure In excess of the pre ssure outside.
+In
+the first c a se the pressure of the air in fron~ of the carburetor is always adjusted to one atmospne~e .
+I~ the second. case
+the regulation for the variol;'s altio:;udes is accol'ding to a spec:ial graduation of the alti~ude indica-:oI .
+With superchurgers driven dir.ect by the main e~gines, and
+which al V\ra.vs run at the full number of revo~ut ions, the exce ss
+pressure at and :lear grcun:l level (with the exception of t: e fe -,v
+mm . excess pressure neceEsary for the compen sation of the powe r
+consumed QY sup.excnar~e.r)II~'-J.S~ be destroyed by throttling, that
+is, the delivery of an exoess quantity of air must be prevented.
+The most economical way is to fit the throttle in the supercharger suction pipe as the supercharger will t he n deliver air
+of less density . Furthermore, the so-called surging is aVOided,
+because behind the throttle expanded air complet ely fills the
+vane spac es and "the supercharger works at all altitudes under the
+conditions for which it was designed, except for ~he temperature
+
+differences. 'I'be openi~g of the slj.ding thro-:;tle "'.-alve fer hand
+oper~tion by 5rown) BOV3T:" Co. (gig. e) is just la::::ge enough to
+pernnt the passe.ge of as nluc~1 air as is requireci by the engine
+when running ·v7~. th its fU}. l nUl:lber of rev-o}utior..s 3;t gr~ur~d level.
+The sl ide valve is cpe::::ated b:/ rr.eans of w:"re.3 and a le-..rer fr om
+the pilot's seat. The lever 's provided with a notcbed guide indicating the various altitudes. For further certa:'nty, the l)ilot
+is furn ished '.'nth one of the atove-llien~ioned low press1ue gauges;
+tbe hand of the SaDe must indh;ate one atu:osphere or else t~:l e
+same altitude as the h3.nd lever.
+In order to pre-:rent the engine,
+before it is nmr.ing at fV.ll speed, from recej.ving too m1J.ch air
+and therefore exploding or stalling, and for the purpose of reducing the nu~ber of control leve~s, t~e throttles of the s~~er­
+charger and oarburetor may be coupled in suoh a was that at first
+only mixture is delivered .
+If the carburetor' is qu:.te open, and
+the hand lever c 0:1t:'..nu3s to be shifted, it will s·~ay open and it
+will be possible to release more air at the slJ.percharger. When
+shutting off the process is reversec..
+In place of operation by hand, automatic regula,tion may be
+substituted. This entirely relieves the pilot fY0m controlling
+the supercharger. Severa,l different fOl1.nS o~ appa.:CGt:.lS for t1:is
+purpose, which utilize the expans .i on of barometr-:!.c cells under
+the influence of the decreasing air pressure ~itn ~ncreasin6 altitude~ have been propose- by the
+Propelleroau Lo~enzen, 3erlinNeu-K~lln, and by Brown . Boveri & Coo, Mannheim .
+When the supercharger is driven by a special engine , it is
+practical to make the r0Ugh adjustment of the num'-oer of ~evolut ions by thr ottlin6 the m:l.xt ·~re at tl e d:: iving eng:.ne a:1.d. to ma.ke
+the accurate adjus :c ment by throttling the air at the superoharg-:er . Both throttling arr2,ngereent s car: be mani.pc.1at.ed f::-om th~ Pllot's seat, the revolut ion ind.icat or of the su:pe rcha,rger englne
+being also visible :;:ro:11 the 'Oilot I;:, sea-t. Waen idling the main
+engines, the air withcira v fi-om t~e supe:;~charger is red'~ced al VI:
+most to the amo1.:nt required for t:1.e supe::cl1arb~r engine. TIle
+load of the supercharger thus drops to about :/3; in order ~o
+prevent the superc:narger from rEnning awa: it therefore r.ms'G be
+thr ottled at the sane tine as the main engine s . The superc~~a:;.g­
+er engine is connected to the compressed air pipe ir~ t:'1e sa:ne
+way as the other engine s.
+Wit h the use of a supercharger the fuel system usually undergoe s some al terat ions . Generally speak ing, in an airp-!.cme. fuel
+is fed from a gravity ta:u.k Cits supply being receivcd from a
+main tank ) , or ovith a fuel pump~ the exoess from which passes
+back to the main tank through an excess press~re valve. The
+placing of the main tank ULcer pressure is avolr-ed in consideration of the ~eibht and st:cength req'...llred (at 5 kl1. a:ti·~ud.e tho
+cont ainer would be subjected to almost 1/2 atmosphere of exoess
+pressure) and also because of the danger of fi~e .
+In the simplest
+
+-
+
+- ---------~ -___o.c~-~
+
+- 9 ...
+
+but most usual case (Fig. 7), the main tank itself is used as a
+gravity tank. The required excess pressure on the fuel at the
+carburetor is from 3 to 3 .5 m. nat e r colunm and is generated "';)y
+the static pre ssure of the high conta iner. The float and float
+chamber are su- e ct ed to the supercharger pressure, the movement
+oj
+of the float is th~s independent of the supercharge r pressure aslong as the pressure compensation can take plac e fa st enough.
+For short compensation pipes (for small aircraft) 6 mID. bore is
+sufficient, fo~ long ones (for giant airplanes) 8 to 10 mID .
+Special care m~st be taken to make the pipes ruld connections absolutely t ight.
+.
+Fig. 8 shoYvs the design of the fuel system wihlen employing a
+pump, which may be driven by.._.th~ eI?-ginE.? ~tself or . by ~o~~ other
+power and which forces -elle fuel from the main tank to the carburetor. 1f the PD...'11P de1i-lTel' s more than ' is ccnsumecf, - the ' excess
+w
+ill return thl'OUgh the regu.lati:r.g valve*) v;hich is set for between 2 and 2.5 m. water colum~. In o~der also to render the
+latter independent of the s~percharger pressure l the overflow
+cup and the float c~amb e r of tile carburetor are connected by a
+pressure compens&ti on pipe. The main fuel tanks are subjected to
+atmospheric pr essure only. In order that no supercharger air
+should reach the main tanlc, a float valve is i nse rted bet 'Veen
+the overflow cup and the main tank. This float valve is also
+connected with the pre ssure oO~;1pen sation pipes . Its manner of
+a ction needs no explanation . The size of tLe float is dependent
+upon the fact that the upward p~essure on the float valve must
+overcome the pressure di ff e rence acting on the shut-off valves,
+t~e upper side of the latte~ being subjected to the supercharger
+air pressure a~d its lower side to the tank pressure or outside
+pressure. The roost common arrangement of the fuel system for
+giant airplanes (F ig. 9 ) is compose d of the parts as described .
+Instead of the ex cess pressure valve, a drop tank .i::1 uset;Lthere-;
+h.o.:wever.
+The airplane superchargers described. below, and wh ich we r e
+in existence at the termination of the v
+sr, were for the most
+part firSt executions of the designs and doubtle s s le ave room
+for improvement '.vith regard to weight and space req'-1i~ements and
+also with re gard to many details .
+of
+The first supercharger/this kind, by Otto Schwade & Cc., El.'furt (Figs. 10 to 20) was de signed for direct coupli::1g to a 260
+h .p. airplane engine and an output OfblOOO kg. of air per hour
+with a maximum c ompre ss ion ratio of ~
+1 . 52, w
+hich corresb
+ponds to a constant engine output up to an altitude of about 3 . 5
+
+**
+
+* The illustration shows the regulating valve by Benz & Co .,
+Uannheim .
+
+** German Reich's pat ent applied for.
+
+- 10 -
+
+km. It consists of four adjacent chambers. The first of tbese
+encloses the gear drive and each of the other three contains an
+i :npe ller with its corre sponding diffuser. The c:!J.ambers are all
+co-axial and combij1ea into a single block withou·c horizontal
+jo ints . In assembling, an impeller and a housing are put in
+place alternately and the housings are held tog8t~er by screws
+at the circumiEerences" w~ile the i mpellers axe held on the sh2..ft
+by means of a nut at the thrust bearing. The challlbers are macie
+of aluminum castings, ~he impellers of special steel. The d~iv­
+ing ge.a r has two o])posi "'cely ,located in;t.ermE1 ';iiat~ gear sets running on ball oearings over stationary studs. The impellers revolve at 10,500 r.p.m., the driving gear at 1400 r. p .m., ~nd the
+intermediate gea. rs ,at .3 500 r .. p. m.. .Wi th the imp.eller dian:eter of
+250 rrurI., :the ."p.e r ipher~l spee d a.mount s to 140 m. per second .
+TIle ge,a r wheels are made of chrOOl.e nickel steel, case-hardened .
+. Th.e. pinion on tpe supercharger shaft is built integJ:'9.-l TIi th a
+S;lip coupling cOllsisti:lg of four bronze annulus sectors w
+hich are
+pressed against the cO·.lpling box b",) centrifugal force. This
+coupling is intended to facilitate the starting of the ·engdne ..amd
+to protect the driving gear from the violent acceleration shocks
+When starting, as th e coupling does not connect the impellers until the engine has attained a speed of 600 r. p,m . For 1ubri9ation
+of the driving gear the wheels are arranged to ciip into an oil
+bath. Figure . 20 shows the supercharger, with ~he carburetor
+and float chamber mounted on ~op as well as the pressure compensat ion pipe connectiT1g the flqat. chamber vyith the ,discharge connection of the supercharger. The superch.arger ,. 9-.r::9-~w~ .,air from
+the bottom of the engine crankcase (which is there"by cooled), and
+a throttle valve is inserted in the air inlet to the supe:pcharger
+so that the pressure delive red by the latter cC.n be regulated.
+The cOffiplete supercharger with connections as first executed
+weighed 47.5 kg., and if we take into consideration that the
+w
+eight of the 260 h.p. engine is 420 kg. and its output at 3.5
+km . altitude. is only 170 h.p., and that the d:::-iving of the supercharger requires 20 h.p . . then the engine without superoharger
+;
+would have a ~~it weight of 2 . 5 kg/h.p. at this altitude as compared to 1 . 95 kg/h.p. With supercharger. Superchargers of this
+kind have been installed in A.E.G. airplanes (see F~g . 21).
+They are also easily combined with revolving cylinder engines,
+(see Figs . 22 to 24). In the latter case, the supercharger
+takes its air directly from the atmosphere and forces it into
+the inlet pipe which is connecteQ to the tubular crankshaft .
+The Brown, Boveri & Co. br 2~nch in Mannheira., who even bef ore the war had kept in close t~uch with their parent house in
+Switzerl and with reference to the construction of turbo- compressors , did the most exhaustive work in connection with airplane superchargers. Their first model was designed for the
+1200 h.p . power plants of the g iant airplanes (Figs, 25 and 26)
+and was driven by a Daimler airplane engine which also received
+its fresh air from the supercharger. W
+ith this plant the float
+chamber of the carburetor of the cirivinF. eng in~ is enclosed in a
+
+- 11 -
+
+(see Fig.
+box, the latt8 r being subj ect to sU;'J$ rchQ..rger pres sure outsi de
+ent of the
+25)1 thus rend ering the carb ureto r inGe pend
+ger is fitpres sure . At the sucti on conn ectio n of the sup e rc~ar The Staak en
+26).
+ted a hand -con troll ed thro ttle devic e (see Fig. in the same mangian t airpl anes TIere equip ped vuth supe rcha rgers may be seen the
+ner (see Fig. 27). In the midd le of the pictu re conn ected to the
+air pipe lead ing to the supe rchar ger engin e and ttle valve for
+box shape d en~losure of the ca:"b ureto r. The throand sproc ket
+the mixt ure is hand -ope rated by means· of a chair.. the ccns truct ion
+cont rol from the pilo t's seat. Figu re 28 shows ples of this S"...lPof the supe rchar gers used . In more rece nt nexam remo ved to the
+erch arge r (Fig. 29), the sucti on conn ectio was air migh t aid in
+drivi ng end so that the incom ing strea. m of cold resse d air concool ing the drivi ng gear . Furth~rmore, the comp divid ed at the
+duit s, which in the older type s had alrea dy been strea m, now
+fina l cell , were , for bett er guida nce of the air
+sion.
+conn ected to the hous ing by a prac tical ly tang entia l exten
+of air per hr. at
+This supe rchar ger norm ally furni shes 4200 kg. spher e final pres 0.52 atmo spher e initi al press ure and one atmo 120 to 125 h.p.
+sure , the corre spon ding power cons~~ption being and that of
+The speed of the driv: tng engin e is 1450 r.p.m ., is of the 4 stage
+the supe rchar ger shaft 6000 r,p.m.;superoh~rg~ the perip hera l
+type , the impe ller diam eter being 470 mm., thus gear case , inle t
+speed is abou t 150 m/ sec. The hous ing, drivi ng of an alum inum
+pipe conn ectio n, and diffu ser vane s are all cast stee l haYi ng a
+alloy . The impe llers were made of spec ial alloy n of 15%. The
+tens ile stren gth of 81 kg/sq .mm. and an elon gatio el stee l with
+ends of the hollo w shaf ts are made of chrome nick n of 16.5% .
+a tens ile stren gth of 76 kg/sq .mm. and an elon gatio
+l frem the BisThe gear s and pinio ns are of chrome nick el steeare subje ct to
+marc k Works. The bear ings at the roto r pinio n . Co. The gear s
+grea t stres s and are rolle r bear ings by the Normsw
+has 54
+were exec uted with espe cial care. * The drivi ng heel 4.05 TT
+of
+teeth and the pinj. on 13 teeth with circu lar pitch h.p. , the teeth
+and a face width of p 50 mm. \Then trans mitt ing 125 case- hard ened
+are loade d to c = bt =113 kg/ sq. cm. 2 • They are
+betw een
+and groun d on Maag mach ines . Oil is injec ted dire ctly circu being
+eter,
+the teeth throu gh two nozz les of 2 mm. diamslOW speed shaf t.
+drive n from the smal l
+lated by a gear p~mp
+oran ksha ft by a
+The supe rchar ger is co~nected to the engin e comp lete supe rchar ger
+leath er block jOint (Voit h coup ling) . The
+with a disk fly
+with its drive weigh s 145 kg. The coup ling desir able in orde r
+whee l moun ted there on, i1hich has been found
+ng gear s
+to secur e a smoo ther oper ation and to prote ct the drivi
+agai nst the shock s of the engi nes, weig hs 20 kg.
+with
+Anot her supe rcha rger, havin g a capa city of 1000 kg/h r. of
+press ure
+an initi al press ure of 0.56 atmo spher e and a fina l to 30 h.p.
+requ ires from 28
+one atmo spher e (Figs . 30 to 32),
+from 260
+and is desig ned for direc t connec~ion to an engin e of
+* By the IIZah nl'ad fabri k Fried richs hafe n."
+
+- 12 t 10,00 0 r.p. m.,
+to 300 h.p. at 1600 1'.p.I' 1. Its impe llers make abou speed of 150:n /
+l
+and have a diar:re ter of 290 mm ., gi'lir. .g a perip hera
+have 82 and 13 teeth of 3.5 n cirou lar
+sec. The driv i ng wh.e e 1s
+of the fina l
+pitch and a face width or 25 rom. The depen dence
+speed s is
+pres sure upon the amoun t deliv ered at the diffe rent
+sho~m in Figu re 33.
+ned to meet
+The coup ling (Figs . 34 to ~6) was spec ially desig
+ct 2:ttac h:nen t
+the obje ction s of ei,1 gine mc"n ufact urers to the dire lle r of the
+of the supe rchar ger3 . As a matt er of f3.cti , the impe8ions, a
+supe rchar ger repre sents , in spite of its srr.al l ~imen ionc: .l verot&t
+gyra ting mass which , in c onseq uence of its grea t
+saIlJe kine tic energ y as that of the
+loci ty, has appro xima tely the
+was there fore
+airsc rew at the othe r end of the cran ksha ft. It conse quen ce of
+s migh t arise in
+feare d that synch rol1o us vibr ation
+gers havin g
+whi ch the shaf t mig:o.t break . For the large supe rchar nce of the
+at the c ircum fe:::-e
+the ir ov-,n engin e the l eatile l' pack ing
+i.; c"lso advi sacoup ling is probR .bly 8uff icien'c) ne've rthel ess it s of a flyw heel.
+s by mean
+ble in this case to reauc e the vibr ation
+heli cal
+For supe rchar gers for sing le ~.ngrn.~s , cou~:)~j,ngs with throu ghsucc essfu l
+sprin gs were there fore used and Vlhisfl prov ea
+':"circi llnfe rence
+out. In tests illade with scrib ers moun ted ;on ..t .h e was obta ined durof the two disk s, the defle ction of tile sp ~ing8
+ding to four
+ing oper ation . Shoo ks were there by note d corre spon w1:iC!l t rans time s the norm al torqu e. The disk s and tile sp:"'l ngs vi1Jr ation s
+mit the torqu e f:Qi'm a univ ersal jOin-;:;, so that the e (whic h owing
+of the entir e supe rcha: -ger in relat ion to the engln t wood en
+to the inten se viora tions of the engin e and the lighare of.
+c
+frame of an air plane .are unav oidab le) may be taken S4: kg . ',the
+i:vi th drivi ng gear is
+The weig ht of the supe rchar ger
+the sprln g
+thro ttle arl'an geme nt (Fig. 6) weigh s 4-1/2 kg ., and
+coup ling WBighs 6 kg.
+.ced supe rBrow n, Bove ri & Co. (Man nheim b::-an ch), also produ
+a drivi ng ratio
+charg e rs for 350 h.p. airpl ane '!:l11.t?'iI.l..:36 and. havin g pipe from the
+of 1350 t o 10,00 0 r.p.m . (Fig. 37). T1:e press ure
+to ar air cool er
+supe rchar ger W8,S dere cted dOWIlwa::-Q .3-nd cO'l mect ed rchar ger and
+rted betvr een supe
+of alum inum , which v.as to be i:1.se
+in relat ion to the quc,Ylt ity of air
+engin e. Suct ion press ure p
+a cons tailt findeliv ered for vario us r.p.m .lof the engi ne, with ion tem~erature
+cons tant suct
+al pre ssure p = one atn~osphere and
+
+t
+
+1
+
+=
+
+-15 0 C.
+
+2
+
+of this cool ing
+Test s to deter mine whet her the insta llati on ut suffi cien t to
+an incre ase in engin e outp
+appa ratus resul teQ in
+. were not co!njusti fy the addi tiona l weig ht of from 10 to 15 kg
+plete d.
+er kind
+For the gian t plan.e s of 1800 to 2000 h.p. , yet anoth engin e
+drive by a 160 h.p. Daim ler
+of supe rchar ger with a spec ial
+n of the 1200
+had been almo st comp leted , and also a speC ial desig
+
+- 13 h.p. supercharger with vertical shaft which was to be in3~ a11c~
+in the 1000 h.p. single screw airplane of th3 Linke Hoffoan Works
+of Bres1au. and dr iven diTect frem a central pOi7er plant (see :r;'~ g e .
+39 and 40). T:le tra,Ylsmission gear bet ween :propeller shaft (540
+r.p.m.) and supercharger shaft (6000 r.p.m.) is built into the
+housing of the central pO"\7er plar..t.
+.
+The A.E.G. (Hennigsdorf) was also successful with superchargers built in its tUTbi-ne factory (Fig. 41). This supe rcharger is driven through an automatic cent rifugal clutch of
+w
+hich one member is mounted on the end of the er_gine crankshaft .
+This clutch engages only w
+hen the engine speed exceeds 600 r.p. m.
+and then only by the frictj.on ot the gripping surfaces . The
+latter were originally faced with Ferodo :iber, but as this material is difficult to get in Germany, tDe clutch was convert ed
+into a centrifugal type with rocker arms . Between the clutch
+and the supercharger are insert e d a pair of spur gears with a
+ratio of 1 to 6.9. This is follo wed by a small inc e rmediate
+shaft with a square block type universal joint, affording a c ertain amount of flexibil ity to take care of slight changes of the
+bearings and of the vibrations during flight . At the same time
+this shaft forms a yielding member and a safeguard against fracture, thus protect ing the crankshaf''G in case of rapid acce1era~
+tion or obstruc ti on within the supercharger.
+The three impellers run at 10,000 r,p.m. and consist of
+steel disks with vane s riveted on. The diffuGer c ase has a horizontal joint througb the center. The pressure ratiO is 1.7 at
+full speed which corresponds to a con stant output of the engine
+up to an altitude of 4 k~ . When attaching the supercharger to
+the 260 h.p . Dair:ller engine the usual suction elbow to the carburetor is replaced by a connection pi.ece uith automatic valve
+and throttle valve. The air is dra.m through the chc.·nnel of the
+crankcase and passes through t~e swinging vahre ( v;~'lj.ch opens automatically ) directly into the carburetor, wnen the throttle
+device in front of the supercbarger is closed. T~'l en the Sl...per,..
+charger will be running 1 i ght . If, on the other ha:i.ld, the throttle valve is opened t he a'...ltomat ic valve will close aEci the air
+passes to the e:lgj.ne thro"..lgh the supercharge r. The Glii)'inr-;~ng
+valve can be adjusted to the various E..ltlt1..lc.es from ti18 pilot ' s
+seat by means of a Bow
+den wire; it C2.n hO .1ever also be aut omat ically controlled by means of a barometric cell.
+T
+
+The supercharger requires about 10 percent. of the 3ng-im: output, and its we i ght is 56 kg ., including pipes and coupling. In
+the later models the coupling alone weighs 9 kg ., and the we ight
+of the parts necessary for the installation attachment is also
+9 kg.
+The A.E.G . also made superchargers with separate drive for
+giant airplanes (Fig. 42) .
+
+orks alao buil t a~d teste d s~per­
+The Si~m~ns-~chuckart W
+t to t he
+chal'[ Sers WhJCll haa. be en desig ned for dire ct attac hmen
+r rotar y ::rnB,~i!fi:D:%.
+260 h.p. Daim ler engi nes, in comb inati on \lith Jchei ing of the
+.,
+but full fligh t trial s ~e:re fore stall ed by the sign
+othe r modain ~iff e l.'ence, as compa red with the
+Arm istice . The m
+ion gear
+els of supe rcha rgers , is that the spur whee l trans miss of the
+end
+with inter rued iate Wheel is fitte d at the prop eller s to the carcomp resse d ai:::- passe
+cran ksha ft (s ee Fig. 43). The
+fuse lage .
+bure tor throu gh a pressu~e pipe loca ted outsi de of the
+over valv e,
+Just ahea d of the carb ureto r is place d a chang e frem the atair
+which give s the pilo t the choic e betw een takin g or comp resse d air
+in the cran kcas e,
+mosp here throu gh the chan nel
+ger is a t wo
+from the supe rchar ger (see Fig. 44). The supe rchar 27% at groun d
+of
+stage type and supp lies an incre aSe in press ure 6900 r.p.m . or a
+vmen runn ing at
+19°C )
+759 rom., t
+leve l (b
+h. p.
+hera l speed of 145 ro/ sec. The s1.'.p ercha rger for the 115
+perip
+a 3 stage super c!lar ger
+revo lving cylin del' engin e (Fig. 45) is
+groun d leve l when
+and supp lies an incre ase in press ure of 30% at is 11.5 ~.p. for
+n
+runn ing at 8600 r.p.m . The power co~sumptio its drive this supe r6.5 cU.m. of air dra1ffi in per minu te. With
+char ger we ighs 28 kg.
+e
+With engin es of cons tant outpu t the airsc rew probl em becam
+ity of the
+dens
+one of spec ial impo rtanc e. With the decr easin g ase also. But,
+the torqu e of the screw decre
+air the thru st and
+leve l powe r
+as the engin e with sU}Je rchar ger · retai ns its groun d ased .. For
+outp ut) the speed of the screw is eJ~cessively incre
+to the
+adap t ing the po weI.' auso rbing capa city of the prop eller
+which 3'· which
+dens ity of the air there are vario~s alter nativ es of
+have alrea dy appl jed will be ment ioned here.
+scre Vi'
+By chan gl.ng the numb er of revo lut ions of the drivi ngby
+two
+gear , the engin e
+means of a varia ble speed
+rent diam eters , where by a
+sets of beve l gear s of diffe
+.
+redu ction in spe e d from 1400 r.p.m . to 900 or 1000 r.p.m
+may be effec ted.
+s
+scre w
+Seco nd:- By vary· ing the pitch . Seve ral types of these actu ally
+th5-t has
+have been teste d, but the only one
+been used is that desig ned by Prof . Reis sner, and m~n­
+ufac tured by both the Helix Prop eller Works of Bres lau
+and the Hirth Expe rime ntal Cons truct ion Stati on at two
+Cann statt . This prop eller has been insta lled with es
+diffe rent mode ls of the adju sting mech anism . Blada ~od
+of
+moun ted on a hollo w shaf t are shift ed by means blad es
+the
+slidi ng throu gh the shaf t and conn ected to
+by a linkw ork. Blad ea moun ted on the solid shaf ts are
+gear
+shift ed by movi ng a ring cont rolle d by a beve l es by two
+mech anism and vmich is conn ected with the blad for aulink s. These prop eller s are now also arran ged
+
+Firs t: -
+
+- 15
+tomatic contrcl
+Third:-
+
+1;)y
+
+~
+
+means of
+
+tl
+
+centrifugal governor:.
+
+By cha~gj,ng the ~UC1ber of re~.!olut ions by re;sulat in§; t:~e
+
+engine. F:>r this an ordinary airscrew is used 'out
+with a greater pitch than usual. As the power a':lscri:pd
+by a propeller increases as the third power of i~s sPeed
+of revol~tion, but decreases only as tne first power
+of the air densit;y , at an a:-!. t j,tllde of ab out 6 k::1., a.t
+which the air density is only about 1/2 that at gI'o~nd
+leve l, the speed of re701utioL of th§_propeller needs
+to be inc-reased. in the ratio of 3J 2 = 1.2599, or by
+abo~t 36% if its power ~bsorbing capacity is to re~ain
+the sane at ground le-vel.
+W
+ith most airplane engines the power c'u.rve is rather flat
+in the vicinity of the customary nurr,ber of revolutions, belov"r
+vvhich the torqne incre3,ses with decreasing r.p.m. W
+ith a give n
+screw it is therefore ~)ossible to maint2.in constant po',rer from
+the ground to an altitude of 6 km ., if the speed is changed only
+from 1200 to 1500 r.p.m. By supplying air at sligr~tly 8,bove sea
+level pressure, we are able to overloal the eLgine some~hat so
+that the airplane can take off wi 'Gh the engine at 130Q instead
+of 1200 r.p.m. Generally speaking, screws that are designed for
+an altitude of 3 km. with regard to den3ity, number of revolutions, and air speed, may be considered adapted for use on engines with const an~ output up to an altitude of 5 lml . NevertheIe S8, this is B, COlt1promise which involves the disadvantage t:i.iat
+within the inc:rea.sed engine speed :-ange there is likely to be a
+cri tical speed of the engine at wh:'ch t:1e latte r vibrate s exce ssively and cause s bree,kage of fuel oil pires or water pipes .
+In ord.er to better judge the superiority of an airplane
+which is equipped v{ith a supercharger, we refer to the following:
+Flying speed:- As the density of t~e air decreases the resistance to an airplane diminis!.es , but so also does its carrying
+capacity. W
+ith airplanes equipped with ordinary engines this
+necessitate s an increased angle of the wings, therGby increasing
+the driving res~stance.
+With constant engine power, it is possible to increase t~e speed as ait density decreases, th~s maintaining nearly a constant angle of iricidence at increasing altitudes. The velocity v at any g1.¥~n altitudG with the prevailing air density y is v = vo J Yo , in which v o , Yo are the
+corresponding valu.es at ground le.fel~
+
+1)
+
+The cl imbi~speed:- The climbing speed remains the
+oret ically up to the al t i tude at whic:r~ the engine st ill
+its ground level power . From then on the rate of cli ~b
+in proportion to the de crease in the density of the air
+of the carburetor.
+
+2)
+
+same theshov's
+decreases
+in front
+
+- IS -
+
+3) Ceiling:- The cej.ling of the airplane continues to be raisecL
+unt i l the air in fron-c of the ce.rburet or fur!lisheci -by the supercharger has becoue rarefiea to an exter..t ':Vhi~h wC"Jld [.ave served
+to j".lst barely sl:.stair. t: e airplane rlithou.t the supercharger .
+The forego ing considerations are ap;>licaDle to airpl&nes
+v1hen making flights :or tne pu::-pose of practical com}Jarison.
+In Figure 46 , as sho "n, the avera.ge ascension curve s of a 1000
+h .p. giant airplane, ~'ith a.nd w7.thout a s-..:perc:.targe:::.', bu".:; v.-it~l
+approximately 'the same total weight. For the f1igh"u sho·.m in
+Figure 47 the additional output of the s"-lperC~b.rged. airp:i.ane
+was 130 kg. > Wh~CL c orresponds to t~e additio~al weight of t~e
+two supercharge~s with accessories.
+In this cQnnec~ion, the use of a gas turbine* for driviJg
+the supercharger Via", &1 so advocated. T:18 gas turbine vIas to use
+the exhaust gases of one 01' more main engines . Theoretically
+there seems to be nothing to preven".:; this . 'r~e available energy
+also appears to be sufficient e ven ·,vith a tur~j.ne of moJ.erate
+efficiency . However , tile additiona:i. weight and the lac~ of simplicity of the er.gine plant of the a~rplane are disadvan".:;ageo"Js.
+Difficulties mCl.Y a130 be expe ct ed from 'the back pressure on the
+exhaust gases at the exhaust valves.
+The use of a steam turbine instec:,d of the gas turbine might
+be considered . The heat of tl:1e exhi::l.l'..st gases would be sufficient in this case also . But 3. suitable boiler and condenser are
+lacking. The airp'lane supe rcD,cu'ger is a child of tile wal' ,
+It
+was born of the urgent need. of conG inually raisjng the ce il ing
+of the airplanes higher a:lci ever hi6~1er, and of the necessity of
+using ordinary airplane engines in ",0 doing. 'l'hese two cond.itions are largely rerlloved in peace ·c7.nle . Fcr peace time flyi::tg
+altitudes of f:rorr. 3 to 4 krr.• wi~_l suffice, and for these altitudes the super-com:;Jression and supe'-dimension en5ire is sufficient . There mav however 1:)e a :lotaole fu".;ure for the blower o-c
+supercharger with or without e:~h2.us~ tu.:-';Jir"e for large engjnes**
+in g i ant airplanes. We might o.lso p1&n for t:1e fl.lC;Ule a very
+large seaplane i th a trelfler1d.oLls speed., i~ic~ v:J(;uld fly at great
+altitudes for the purp ose of utiliz.ing the dim::.nishcd ail' resistance at such heights. With such c. seapla:l8 the pilot and
+the engine s i~'ould be in an airt igh t c omp3.rtment in ,'l1:ic~ the air
+would be maintained at about grol:nd level pre.::3sul'e . These airplanes would be able to fly at alti"
+Gudes of abOut 10 to 12 km.
+and attain a speed of 250 l(m/hr . and over> so that they ~vou l d be
+able to make the trip from Germany to America in le ss than a day.
+
+*
+
+See "Zeitschrift " 1919, ::- .418, and "J.Juftpostll 1919, Nos. 13
+and 13 .
+
+**
+
+German Reic~1s patent No . 204630 (A. B{),chi) "Zeitschrift f~r das
+ges, Turbinen7Vessen" 1809, p . 3~3,
+
+- 1'( -
+
+S UMMARY.
+Airplane st:.percr.argers and problems connected therewith
+are discussed: Decrease of the density of the air ~ith increasing altitude, causes of ~he decrease in engine power \7ith increasing altitude, devices for ~aintaining constant eng ine power,
+supel'-compression and super-dimension engines, the airplane supe rcharger, drive and control of the supercharge r, the overloading capacity of the engine by means of the supercharger, the
+pressure compensations at the carburetor, and fuel syste~s.
+Various superchargers constructed by Schwade, in Erfurt; Brown ,
+Boveri & Co., in Mai.1nheim; the A.E.G. in. Hennigsdorf; and the
+Siemens Schucke rt Werke in Siemenstadt, are discussed, as are
+also the airscre w~ with fixed pitch, airscrews v.ith variable
+pitch, by Prof . Reis sner, and closing with a consideration of
+the technical aviation problems, plans, and prospects.
+
+Translated by the Office of Naval Intelligence, Navy Department.
+Checked by L. ' M. Griffith, N.A.C.A.
+

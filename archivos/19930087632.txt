@@ -1,0 +1,382 @@
+,
+
+_.
+
+t ;.
+
+I·,
+
+;
+
+. 7"~'
+,
+
+~~
+
+I~~:D~~
+
+- .
+
+I ·' I
+
+.1
+
+i·
+
+,I
+
+T n b:> l"~h! ~ .~ ~a ~o {;. ~ Fi! cs of
+!":"l . L .~ hot' ~tory
+N '!l..:o :la) ld.-i" Xl CC»lmlttee
+",-: ~.;~:~.J t,c·· .. \";,"":. ~ ,
+
+fer A e.oDe.!.!ti~
+
+Moffett field.
+
+No. 24.
+
+,.
+,
+
+r
+DEVELOPMIDT~
+
+OF THE INFLOW THEORY OF THE PROPELLER.
+By
+
+A. Betz
+
+1
+Rosumo t ranslat9d from th0 German by
+
+Paris Offiec , N.A.C.A.
+
+....
+
+1
+
+NOV'.:mlbor,
+
+1~20.
+
+.. .
+.
+
+CaJif.
+
+N
+ATIONAL ADVISORY COMMITTEE FOR AERONAUTICS .
+TECHNICAL NOTE NO. 24.
+DEVELOPMENT OF THE INFLOW THEORY OF THE PROPELLER.·
+By
+A. Beh.
+
+Resume t r anslated from the Garman by
+Paris Oifice , N.A.C .A.
+
+The foll owing resms of Mr. ·Be tz t paper on t he "Development of
+the Inflow Theory of t he Pr opeller" was made by the t eohnical staff
+of the Paris Office of the Nati onal Advis ory ~it tee for Aeronautics.
+The problem i s discuss ed in a very interesting way, and it was felt
+that considerable inter est would be evidenced i n the value of the conclusions ar r iv ed a t by M Betz.
+r.
+RESU M E
+t he sp eed of advance of a propeller .
+
+v
+
+w
+
+==
+
+27f
+
+n - speed of r otati on .
+
+v'
+
+the additi onal axial ve locity of t he air after its
+pa s sage in the plane of r otat ion of t he propeller at
+t he radial distance r.
+
+w '
+
+t he additional speed of rotation of t he air after ita
+passage in the plane of rotati on of the propeller at
+the radial distance r.
+
+S
+
+t hrust of the pr ope ller .
+
+R
+
+i ta radius.
+
+M
+
+t he propeller t orque.
+
+6'
+
+the densi ty of the air.
+
+The uni t s employed are the kilogram, meter and second.
+·Zeitschrift f& Flugtechnik und Motorluftschiffahr t. ~'h' .'
+
+--------- -~.--- --.~
+
+- - . --- " -- '- '~
+
+""",-" - ~- ----
+
+-'
+
+-.~-
+
+............ .
+
+----
+
+- 2 -
+
+We know that the theor y of inflow of the prope ller assum
+e s that
+in a spa ce l imite d by two conce ntric cylin ders havin g as
+axis t he axis
+of the ' prope ller, the axial and tange ntial veloc i ty of the
+stant . I f, as is often done , we consi der only the suctio a ir is connal axial
+veloc ity of the air, it· can easil y be shown that maximum
+obtain ed on c ondit ion of havin g const ant speed al ong the ef f ici ency is
+radiu s of
+the prope ller.
+But i t i s not so i f we introd uce the suctio nal t angen tial
+veloo ity.
+The autho r, assum ing that the stream does not contr aot and
+~eg­
+lectin g the eff ect of rotat ion after the passa ge i n t he
+plane of rotation of the pr opell er, shows that the axial veloc i ty in
+the plane of
+rotat ion of the prope ller, is equal to v l /2 and that t he
+spee~ of rotatio~ in thi s same plane is
+w'/2.
+The loss of energ y, El' due to the f act tha t ~he axial veloc
+ity
+in the plane of rotat i on of the prope ller is v + Y I is:
+.
+2
+
+El=7f~J
+But
+
+R
+
+y'
+2
+
+o
+
+d S
+
+(1)
+
+R
+
+r ( v + ~t)
+
+v' dr
+
+(2)
+
+whence
+R
+
+(3 )
+o
+
+The los s of energ y E due t o the fact that the sp eed of
+rotat ion
+in the plane of the prope Tler is W '/2, haa the val ue
+
+dM
+
+But
+
+M =27fjJ~
+
+(4)
+
+R
+
+(5)
+
+whence
+(6)
+
+--~.-
+
+- ---
+
+--~-.~-~
+
+.------~--- ~--.-.".
+
+- ~ - ---" - -- --- ~~.~,
+
+- 3 On the other hand, between tha values of
+the following relation
+WI
+
+W
+
+VI
+
+and
+
+, there exists
+
+J:-
+
+= 1 -
+
+(7)
+
+In the expression of 5, El and EZ' we introduce the values:
+x -: =
+
+y
+
+=
+
+wr
+v
+!,'
+v
+
+(8)
+
+(9)
+
+and
+
+A=
+
+v
+RW
+
+(io)
+
+We theD get the total loss of energy:
+E
+
+~
+= El + Ez = FfJv3 AZJ / ' x = 1/)..,)x [ x?--y-x \Vr ~Z_Y(2+Y) Jdx
+(2+y
+0
+
+(11)
+
+and the thrus t
+
+The author seeks to determine the f-unction y = f(x) such that
+for given values of 5, F, v, and n, the total loss of energy shall be
+minimum. The calculation of the variations gives the following .-1\ela- .
+tiona between y and x, satisfying these conditions :
+(13)
+
+where e is a constant corresponding in each parti cular case to a set
+of values of 5, F, v, and n, and is determined b,y introducing into
+equation (13) the value of y = f( B ,x) doduced from equation (13).
+Fig. I, Pl. B.19, gives the curves y = f(x), that is, the distribution of the additional axial velocity along the radius for various
+values of
+
+e
+
+.._ - - - - - -
+
+-
+
+. - --.---~-
+
+.
+
+-_.- - --. - ..._
+...
+
+__
+
+.-
+
+- 4 -
+
+But e ,according to
+peller load"
+
+~uati o n
+
+(12), is a f unction uf the "pro-
+
+and of A = v/Rw. Thus, assuming x .= 1/ A. , w may plot on Fig. 1 ~
+e
+a sheaf of i so- fO curves which will enable us t o e s timate the 16 0 - e
+that is, the curve vt/v = f(r ~/v), correspondiog to given va l ues of
+p and)... .
+For t hi s purpose (see Fig.3,P+ . B.19) we seek on Fig. 1 the intarsection of t he ordinate x == 1/ A wi th the given iso- 1': the i 60- e
+passing t hrough this point of intersection is the de sired curve gi ving
+the dis tribution of additional axial velocity a l ong the radius.
+Fig. 2, Pl.B.19 ·gives the sheaf of i80 - ~ in the system of axes
+of coordi nat es p and e which served f er plotting the sheaf of
+ioo- Ji? i n Fig. 1.
+Fi g.
+
+~,
+AI
+
+Pl.E. 20, represents the variation of the value
+
+e
+
+r uJ '
+v
+
+along the radius : of the optimum propeller. The isocorre sponding
+to given values of
+and A 'is determined iD t he same way as in.Fi g.!.
+
+p
+
+Fig. 6, PI.B.20, gives the variation of the angle of deviation f:
+(sea Fig. 5 , Pl.B.19) as a function of x and ti ! here again, tb~ iso-e
+representing this variati on along the radius for given value s of
+and A ' must pass thr oUgh the ppint of intersection pf the i50A =
+l/x wi th the iso- p .
+
+JZ?
+
+Lastly . Fig. 7, PI. B.ZO, giv es tho values of maximum effi ci ency
+as ~ function of fO and ).:..: . It shows that for a given valus of 9?
+ma.J:I.I:Irum eff i ciency is reached,. wi th A = 0, t hat is. with a pr opeller
+of very low power, and that.., ·: ~or a given value of " , the 111000 of tbe
+propeller" and consequently. 'the ~ust, reaches a maximun.
+
+r·_
+·
+
+" -~"-"-- .--."-
+
+-."--"~---,-"--
+
+- - ' "- " ' " "
+
+"- -
+
+------"-"'~ -~"""
+
+----
+
+--------,
+
+__________ _
+___J
+

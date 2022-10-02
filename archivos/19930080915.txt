@@ -1,0 +1,1615 @@
+-
+
+-
+
+-
+
+-
+
+-
+
+- ----~----------,...---,
+
+TECHNICAL NOTES.
+NATIONAL ADVISORY COHMITTEE FOR AERONAUTICS.
+
+No.
+
+THEORY OF THE IDEAL WINDMILL.
+By
+
+Wilhelm HofL
+
+July, 1921.
+Reproduced
+
+by
+
+NATIONAL TECHNICAL
+INFORMATION SERVICE
+us
+
+PRiCES SUBJ Ea TO CHANGE
+
+Department of Comme rce
+
+Springfield, VA . 221 5 1
+
+NATIONAL AD7ISORY
+
+CG~ITTEE
+
+FOR AERONAUTICS.
+
+TECHNICAL NOTE NO. 46.
+THEORY OF THE IDEAL WINDMILL. *
+By
+Wilhelm Hoff.
+Translated from the German,
+by
+Paris Office, N.A.C.A.
+
+The theory of the ideal propeller**, which was ,first
+established by FINSTERWALDER and afterwards completed by
+BENDEMANN and PRANDTL, is of fundamental importance in solvlng 'the problerli of the action of the propeller .
+
+The same
+
+.t heory ma.y also be applied to the ideal windmill, concerning which it has led to simple but explicit conclusions
+, which may easily be utilized as the mature fruit of earlier
+work on the subject.
+The following symbols*** have been adopted (see Fig. 1):
+vI
+
+velocity of the airstream (in m/s)
+
+p,
+
+, static pressure in the free airstre&m, (in kg!m z)
+
+density of the 2.ir (in kg s 2!m 4)
+P
+.
+This article (29th Report of the German Testing Labora*
+tory for Aircraft) i'\1aS lirri tten some what later than DrPhil. Max MONK'S investigation of the subject, but vvas
+independent of same. It ~ms published as a sequel to
+Dr. MUNK'S work in order to give additional prominence
+to the relation existing between propeller and windmill.
+Reference should also be made to !fUt il izat ion of the Wind
+by means of Windmills, II publ ished at about the same 'time
+by Dipl-Ing. Dr-Phil. Albert BETZ, of G~ttingen in the
+nZeitschrift f{ir das gesamte Turblnenwesen,lI Vol. for 1920.
+** )
+***)See next page.
+-/I
+
+- 2 Q,
+
+volume of a i ~I.' r eq1..-j. l'cd per second in the free airs tre arll , (in m':J 18 j
+
+s,
+
+resistance of the \"!indmill (p), (in kg)
+
+L,
+
+theoretically available power (N), (in kg
+
+m/e),
+
+tprJ practically utilized power (in kg m/s).
+
+In front of
+
+in
+the .7indmil1
+
+F
+
+F
+
+0
+
+=
+
+\\'/
+0
+
+1
+
+W
+1
+
+p'
+
+P
+
+p
+
+w
+v
+
+slip stream section in
+
+F
+
+w (vm)
+
+V
+
+=
+
+Po
+
+behind
+
+p"
+
+velocity in m/s
+
+(va)
+=:
+
+1
+
+p
+
+'.
+
+sto.tic pressure in kg/m2
+
+velo9ity behind the windmill
+velocity of the wind
+
+-~
+
+2 L
+----.--
+
+=
+
+S v
+
+Lpr
+L
+
+=
+
+r
+
+(kn )
+
+load coeffic ient
+
+(c 3
+
+=
+
+~
+S v
+
+power coefficient 1,
+
+=
+
+LP
+
+~th theoretical efficiency
+
+=
+
+~
+
+=
+
+=
+**
+
+* **
+
+uf.
+
+b,
+
+) )
+
+(~)
+
+praotioal efficiency,
+
+coefficient of effioiency,
+wind velocity
+peripheral velocity
+
+=
+
+coefficient of
+advance.
+
+" Ze it schrift filr Flugtechnik und Motorluft schiffahrt ) II
+
+1910 )
+
+p.l??, and 1918, p.34. BENDEMANN'S "Luftschraubenuntersuchungen," No.1, (R. Oldenbourg, Munich,) 1911, p.10.
+"Technische Berichte der Flugzeugmeisterei, Vol. II, p.53 .
+When MU!JK' S symbols differ, they are inserted in b!'acket s
+beside the other symbols.
+
+By a method similar to that adopted by PRANDTL* for
+
+the propeller , any device may be considered as a
+
+~nndmill
+
+if it produce such change of pressure ) on any surface
+
+F
+
+within a certain limited edge curve, that every particle of
+air penetrating the surface undergoes a reduction of pressure amounting to
+
+b. p
+
+constant.
+
+The limited edge curve
+
+is assumed, as in the case above named, to be a circle be-·
+cause more comprehensive calculations are thus
+
+obt~ined
+
+and also because the outlines of the windmill are entirely
+circular.
+
+The change of pressure produces a slipstream be-
+
+hind the windmill, within which the prevailing velocity is
+lower than beyond it.
+If
+
+w be the velooity at any point of the surface,
+
+such velooity being generally variable from point to point,
+not perpendioular to the surface, Bernoulli's equation for
+the front part of the streamline is as follows:
+.\
+Y
+
+~
+
++ 1. p v~ ~
+
+a
+
+p' +
+
+l
+
+a .p W 2 ,
+
+and for the rear part of the streamline in question
+
+Po
+
++ 1
+
+2
+
+w
+
+P 1
+
+2
+
+:::: p" +
+
+by subtract ing from
+D. p :::: p'
+
+-
+
+p" ::::
+
+(1 )
+
+~
+
+and
+
+1 p (v 2
+a
+
+..
+
+w~
+
+p
+
+-
+
+{a)
+
+we obtain:
+
+(a) ,
+
+.
+
+W 2 )
+
+1
+
+. .
+
+.
+
+. (3)
+
+The first application of the law of momentum to the
+section of change of pressure (dotted in Fig. 1) gives:
+p F w2 + p' F - (p F vl + P II F)
+
+=:
+
+D. p . F::::
+
+:::: 1 p ( v2 _ W 2) F :::: V 2 P F ( 1 - ~2)
+212
+
+::::
+
+* See "Technische Berichte," Vol. II, pp. 78.
+
+S . . , . (4 )
+
+1By
+
+int r 0-1:..1 C i.:r16
+
+.:~ "::2.
+
+.
+
+s=
+
+.
+
+..
+
+.
+
+.
+
+..
+
+.
+
+2
+
+b = (1 -
+
+'0. )
+
+~
+
+•
+
+•
+
+v
+
+•
+
+•
+
+-
+
+•
+
+In FIg. 2., the svveep of the val_ue s of
+terms
+
+<?1f;:-
+
+ex
+
+>
+
+m idl
+
+.
+
+.
+
+..
+
+.
+
+'"
+
+~
+
+. ..
+b
+
+. . (4a)
+. . (5)
+
+is givEn in
+
+may vary between 0 and 1.
+
+In this article the relation of the velocity behind the
+windmillfco the velocity of th8 wind is represented!. in terms of
+
+,
+
+as both velocl tie s
+
+C&i
+
+b8 meas'ured in the case of ste<.t ion-
+
+ary windmills, whereasthe thr'.l st.
+
+S
+
+can be det e rmined', with the
+
+aid of spe ci a1 atixd.liary means only.
+
+It is not i ll1J:rr cbab le that
+
+measuring devices mtght be contrived with a wie w to regu1ating
+such power.
+In a seconQ
+
+app~ic~tion
+
+of the law of
+
+mo~enturrj?
+
+on an
+
+ex~
+
+tended control surface (dotted in Fig. 1) consisting of the
+st reamline - wh ich fJ.ows a.long the edge curve - and t wo end sur-
+
+,
+
+faces, at the req.uicite dista.'1oe. from one another, it is noticeable that a similar pressure
+
+p
+
+= Po
+
+prevails. in general beyond
+
+the oontrol.. surface, and that the rerutantt of that pressure; is
+oonseCTI.lently null.
+
+Variati on in the momentum: demands a thrust
+
+on the part of the machine inside the contro2 section.
+(6)
+'.ks
+
+p o = p1
+
+=p
+
+pQv - p Q. w1 = P q (v -
+
+W1)
+
+=
+
+p v Q (1 - a) = S.
+
+- 5 -
+
+By combining the two values of
+
+S
+
+obtained by the
+
+aid of the law of momentum, we obtain:
+1
+Q =2 Fv ( 1 +0::. \
+I
+
+and
+
+F
+1
+
+=1
+2
+
+W
+
+)
+
+= 1 1<' (1
+2-
+
+_1..
+
+v (1 + 0::.)
+
+. . . .
+
+~)
+
+also
+2
+
+(1 + 0::. )"
+
+F
+
+I)
+
+. . .
+
+= F = r:;; 2+
+Ul
+
+:~.
+
+,
+
+. .
+
+. (7)
+
+. . . .
+
+r Fl
+
+(8)
+
+. . (9)
+
+Applied to the small control section, the law of energy gives
+
+;:2 P Q + F p
+Q 6,p=
+
+~p
+
+I
+
+W _
+
+F v3
+
+~
+
+;2 P
+
+Q + F p" w
+
+(1+0::. )
+
+(l-O::.~)
+
+j=
+(10)
+
+=1 • • • • . .
+
+This result is based on the following considerations:
+In order to obtain power frOr.l an air current , i t is essential that the machine be held against the thrust
+
+S bearing
+
+upon it in the current, and for this purpose an expenditure
+
+Sw of power.
+
+From this expenditure,
+
+L is obtained.
+
+The
+
+amount
+
+remains in the slipstream.
+
+The three· quantities are there-
+
+fore connected by:
+1 P Fv3 (1 + 0::.)
+4
+
+By inserting the power coefficient,
+L =
+
+when
+
+.e p2 F
+
+v
+
+3
+
+~e
+
+(1 .
+
+o:? )
+
+. (11)
+
+obtain:
+
+•••••••
+
+(lla)
+
+.
+
+In Fig. 3, the sweep of
+
+...e
+
+attains -its maximum when
+
+..e is
+ex;.
+
+(-, ;::> \
+
+\
+
+expressed in terms of
+
+-' ,
+
+ex;
+
+-= 1/3, \'ihich may easily be
+
+proved by differentiating equation (12).
+This give s:
+17
+
+=
+
+)tmax
+
+16
+27 :::: 0.5926.
+
+and thus
+. . . . .. . . . . (13)
+
+th~t
+
+Equation (13) states
+
+the highest possible power
+
+of a · windmill can be obtained only w
+hen the velocities in
+front of it and behind it are in the fixed r &
+tio
+
+3:1,
+
+and that the highest power apart from that condition, as
+well as the density of air, depends upon the third
+
+po,~e
+
+r
+
+of the velocity only.
+The coefficient of efficiency theoretically a tt a inable
+in a windmill is g iven by:
+3
+
+T)th = S
+
+v
+-4- p F (1 +
+
+L
+
+ex;)
+
+(1 .- ex;~
+
+::::
+
+V
+
+which is the equation of a straight line for different valu e s of
+
+ex;
+
+( see Fig. 4).
+
+"en ex:
+
+=
+
+1/3, L has its maximum
+
+val ue; but
+=T
+b!tax= 2/3 = 0.667 . . . • . . . (15)
+th
+th
+This result is anything but satisf~ctory, as it uncon1'J
+
+ditionally states that 1/3 of the winB-power ca nnot be util-
+
+...,
+-
+
+idea~
+
+ized, even under
+
+I
+
+-
+
+conditions, so that it wasted.
+
+The greatest thrust that can be obtained from the wind~
+
+mill is attained when
+b
+
+= o. In that case:
+= b max = 1, and
+Smax
+
+1
+=2
+
+v2 F
+
+P
+
+. . (16)
+
+In obtaining the highest power, Le.,
+tion (5) shows that
+
+= 8/9,
+
+b
+
+0::.
+
+= ~
+
+,equa.-
+
+and
+
+SLmax
+
+=4
+9
+
+v 2 F . . . . . . (17)
+
+P
+
+Values (16) and (17) differ from each other but slightly,
+as
+
+SLmax
+= 8/9 1
+Smax
+
+0 . 889 .
+
+Actual windmills cannot attain such high values, on
+account of losses due to friction and to eddies.
+
+Experi-
+
+ments made on good propellers, whereby efficiencies of ,
+
+=
+
+0.85 to 0 . 90 have been attained, may justly be applied to
+windmills, and in that case similar or even still higher efficiencies - due to the low stream velpcities - may be anticipated*.
+
+~
+
+If
+
+=
+
+0.9 be inserted, we obtain, as the
+
+practical coefficient of efficiency at maximum power:
+TJ
+
+,Lmax =
+
+=
+
+2 . 0.9
+3
+
+=0.6 . . (18)
+
+and the actual maximum power practically attainable;
+L
+
+*
+
+= ~
+
+T,
+
+= 8 . O. 9 P
+
+Fv 3~ O. 26 P F v
+
+3
+
+p rmax
+""1Ilax
+17
+:;;;.;;.. MUNK obta.ins c:;.. coefficient of efficiency of ~ = 0.88 = C'>
+0.94, - which is an extremely high value, _
+0.94
+when b(c3 ) =c-oO.25. In the case of stationary ',vindmills,
+an effort should be made to obtain efficiencies of about
+1 (kn ) = O. 59 .
+
+- 8 -
+
+Various conclusions are arrived at through tte theory
+of the ideal windmill:
+1.
+
+The maximum power attainable is frequently regarde d*
+
+as being equal to the kinetic energy of the entire fluid
+stream traversing the surface of the windmill, when the following is inserted, as coefficient of efficiency:
+L
+
+1
+2
+
+. F
+
+1/2 P
+
+This ratio is in accordance with equation (12) for power coefficient~and is given in terms of ~in ~ig. 3.
+Such interpretation may easily lead to erroneous suppositions if the expression "coefficient of efficiency" be
+retained as de signat ion of the rat io of po we r obtained and
+power utilized, as the entire stream traverses the windmill
+surface
+
+F
+
+when
+
+0:;:;
+
+1.
+
+In that case, however, l'lth::: 1.00
+
+according to equation (14) and power is no longer withdrawn.
+The denomination COEFFICIENT OF POWER provides, on the
+contrary) suitable expression for the estimation of a Windmill.
+2.
+
+When w ::: 0 that is
+l
+4-::: l/ 4 P Fv 3
+
+as shown in Fig. 5.
+
+;
+
+0:; :::
+
+:3 F
+
+G
+
+(),
+
+then
+
+::: F ::: 0 F
+
+,1
+
+and ~'i1t h ::: 1
+2
+
+The formula concords with the airflow
+
+of a fixed propeller as soon a s the direction of the cur-
+
+rent is reversed.
+
+A II stationary" windmill of the kind would
+
+not be possible, on account of the airflo w w
+hich is also
+
+* See "Hutte," 22nd edition, Vol. II, p.G.
+
+.. 9 -
+
+found beyond the limited inflow.
+3.
+
+Assuming that
+
+~
+
+main of the propeller.
+
+We then get:
+
+S= _ 1
+
+v2 P F
+
+2
+
+and
+L
+
+1, the formulas enter the do-
+
+>
+
+(~2 - 1)
+
+1
+(0:;2 _
+3
+4 p v F
+
+=
+
+and hence
+11th =
+
+S
+
++
+
+v
+
+::::
+
+L
+
+1)
+
+(cc;+1)
+
+2
+
+(~ + 1)
+
+The minus signs show that thrust is produced and power
+utilized.
+
+The relation between!,
+
+b,
+
+and
+
+T]th curves for
+
+Windmills and propellers is drawn in Fig. 6.
+The formulas may easily be inserted in the customary
+formulas for the ideal windmill, in which the rat io of the
+airstream velocities is not
+4.
+
+usu~lly
+
+calculated.
+
+As it has been proved, in a general manner, that
+
+not more than 2/3 of the available wind-power can be utilized in a
+
+winlli~ill
+
+stationed in a free airstream, the ques-
+
+t ion as to whether SOlLe improvement might or might not be
+attained in this respect by controls, etc. meets with a
+negative reply.
+
+Should it be necessary, however, for prac-
+
+tical reasons, to reduce the revolving parts of the machines
+as far as possible, experiments must be made with a vie w to
+determining whether the air available can be inducted into
+the windmill through a specially constructed nozzle at high
+velocity and with a small
+
+s~ction.
+
+If this can be done,
+
+within certain limits, the resistance of the entire installation will be increased by the device, its losses being in-
+
+- 10 creased and the total working coe f ficient diminished.
+therefore, doubtful if t he advantage s offe red by the
+windmill are
+5.
+
+cc~pe ns a ted
+
+by
+
+s~ ch
+
+A windmill driven by
+
+a.
+
+I t is ,
+re du ce~
+
+dis a ~vantages.
+
+f r ee airstream resembles a
+
+propeller more closely than a turbine.
+
+The propellers of
+
+simple type, with few blades, were most successIul, and the
+same result may be anticipated for the wheels of the windmill.
+As far back as 1907, LA COUR* recognized and discussed
+the fact that the working power of a \rindmill does not depend on the number of its blades and that an exaggerated
+number of blades, on the contrary, merely reduces its working power.
+
+He sums up his investigations of the test mill
+
+at Askov as follows:
+est working
+
+po~er
+
+the experience of
+
+"The fonn which represents the high-
+
+is similar to that obtained by man through
+centu~ies,
+
+of the relg,tive conditions.
+
+without any logical knowledge
+
+fI
+
+LA COUR rejects multi-bladed
+
+windmills and considers them as being favorable only to 'a
+certain extent on Tlstarting" from a stationary position.
+This may be explained by the fact tha t the angle of attack
+of the stationary wheel with few blades is unfavorable.
+
+Ac-
+
+cording to LA COUR, multi-bladed propellers must have larger
+pitch than those with few blades, so tbey consequently show
+less tendency to this draWback.
+
+It may here be mentioned
+
+that LA COUR first discovered the advantage of cambered
+
+* "Ingenieuren," 1897, No. 10.
+
+Also "Windkraftmaschinen und
+ihre An wendung zum Antrieb von Elektriz i tl!t s ';verken, 11 von
+Professor Paul LA COUR, Director of the test mill at AskOV, near Vejen, translated into German by Dr. Joh.
+KAUFMANN, Leipzig, 1905, successor to M. HEINSIUS.
+
+- 11 -
+
+wings over plane surfaoes, on his own initiative.
+
+He par--
+
+ticularly reoo~aends a seotion cambered at 1/4 or 1/6 of
+the depth of the leading edge, at 3 to 4% of the ohord.
+To
+
+~hat
+
+extent the power production of Windmills may
+
+be improved by modern wing sections must be discovered by
+means of adequate
+
+~nd
+
+systematic tests, and the LA COUR
+
+conclusions with regard to the number of blades oan only
+be oonfirmed in the same manner.
+
+The conclusions drawn by
+
+MUNK in respect of the number of blades do not confirm LA
+COUR'S supposition.
+Ordinary propellers work with a coefficient of efficiency of./!
+
+= 0.3 to 0.6.
+
+The most favorable propeller ef-
+
+ficiency coefficients being about
+
+P = 0.59,
+
+windmills of
+
+high power closely resemble propellers with high power
+charges.
+6.
+
+The wind velocity
+
+ory, as being uniform.
+
+v
+
+is considered, in this the-
+
+The ordinary
+
+win~s,
+
+that is , the
+
+wind close to the ground, are irregular within wide limits;
+they vary in mean value and are dependent upon locality
+and direotion.
+
+The mean power of windmills in the wind is
+
+therefore proportional to the third power of the velooity;
+we must consequently take the means of the third power of
+
+the wind velooity in order to determine the mean power of
+the windmill, due to the wind.
+
+Fig. 7 shows the differ-
+
+ence between uniform wind and wind with a lineal variation
+as function of time, of similar mean foroe.
+
+If we have, for
+
+- 12 -
+
+instance, a mean wind of
+
+~
+
+v
+
+10 m/s at our disposal, var-
+
+ying from 3 to 17 mls in a straight line - a case Which
+does not ocaur in nature, - but is chosen for the sake of
+
+=
+
+simplification - a velocity of VI
+
+11.6 mls must be insert-
+
+ed in the calculation of power.
+As VI > v, it may be supposed that gusts of wind might
+be desirable for a windmill,
+
+This is not 'the case,
+
+hO V
+If-
+
+ever, as the windmill could not follow Buch abrupt variations and would therefore be working at a loss under such
+conditions.
+7.
+
+A windmill may be regulated for OONSTANT power
+
+in a variable wind.
+
+The question then arises as to what
+
+thrust the windmill encounters in a variable wind.
+
+If the '
+
+coeffic ient s 13 and ( designate the r~. tios of v'2 and
+Vo '2 and CG. 0' the following relations are obtained:
+10
+
+S
+
+1
+
+=4
+
+:::
+
+P
+
+v
+0
+
+3
+
+F (1 +
+
+'2
+1 p
+f3 v0 F(I
+2
+
+a: ,.())
+
+(1
+
+-
+
+-
+
+20:; 2
+
+, .0
+
+S
+
+:::
+
+0
+
+~l+(1
+
+L
+
+)
+
+E:
+
+o:; r, '2)
+0
+
+From this we obtain:
+S
+
+Lo
+
+cx:. '0)
+
+q;,o )
+
+(1
+
+-
+
+(
+
+U +
+
+E:
+
+:
+
+::::
+
+:~~'/3
+=
+
+K
+
+~
+
+to
+
+~
+
+0: )
+
+0
+
+~)
+
+o
+
+13 -
+
+(1 ,
+(1 _
+
+(2
+
+and on eliminating ( :
+
+~ .~
+
+tl
+
++
+
+oco ±
+
+<; ~ (1 -
+
+For an initial value of
+values of
+
+t:
+
+~
+
+'0
+
+=
+
+1/3 J the sweep of the
+
+and of the correspondin g values of
+
+pressed in terms of
+K,
+
+cc
+
+OC O) ] "
+
+~
+
+i n Fig. 8.
+
+are ex-
+
+~
+
+We know that the values of
+
+and also the thrust exerted on the windmill, decrease when
+increasesj
+
+th~t
+
+is, with increased dynamic pressure.
+
+When
+
+the power is supplied with values of ( < 1 , the values' of
+and the thrust increase when
+
+~
+
+increases; when
+
+values of K and the thrust decrease when
+The maximum value
+1 . 120.
+
+K
+
+=
+
+~
+
+€:
+
+The maximum power being utilized when
+
+For value s of
+
+1 <
+
+@
+
+<
+
+~ <
+
+1
+
+> 1
+
+the
+
+increases.
+
+1.26 is attained for
+
+uniform power being assumed -
+
+E:
+
+K
+
+=0
+0:
+
+=
+
+when
+
+~
+
+=
+
+1/3, -
+
+would not be possible.
+
+1.120 , it is calculated that t
+
+positions are possible, with varying thrust .
+
+V'lO
+
+As the upper
+
+position is situated on the curve branch resulting in a n
+impossible stationary Windmill, in which the velocity penetrating the windmill surface,
+
+w =.1
+2
+
+v (1 + ~) diminishes,
+
+it causes a reduced number of revolutions and lower rotary
+moment of the wheel, with a determined coefficient of advance'" ; it may therefore be concluded that this curve
+brance does not actually come into question, and that with
+varying dynamic pressure the lovrer and declining curve branch
+
+- 14 -
+
+of
+
+K
+
+must always be considered.
+
+for the "unloaded" windmill; it
+
+This result is important
+S:10WS
+
+that increased thrust
+
+on the supports of a windmill cannot be disregarded, but
+that they are solely dependent on the maximum power utilized.
+8.
+
+A work lately published in a well-known paper ''*
+
+should be compared with the ideal windmill theory here de veloped.
+Professor BAUDISCH (Vienna) compares his theory With
+that of the water turbine and supposes the Windmill to be
+working at a height of
+
+w~t~r
+
+ific weight of the air.
+
+due to the pressure and spec-
+
+He makes a general difference be-
+
+tween high, low, and normal pressure windmills.
+
+Acoording
+
+to his theory, the air may undergo relative acceleration
+in the vanes, or it may remain at uniform velocity or be
+relatively retarded; finally, the cells may be influenced
+from Without, in the axial direction or from within.
+BAUDISCH thereby obtains 27 different methods of possible
+construction.
+
+Thirteen of these only have, however, proved
+
+to be capable of construction, While one alone - a high or
+normal pressure turbine
+
+I
+
+with relative accelerati on of the
+
+air in the Wheel vanes and With.: interior admission, - to
+which he gives the preference.
+
+He further investigates the
+
+airstream conditions in front of, inside and behind the
+Windmill and comes to the conclusion that the airflow behind
+* "Theory of the Windmill,1I by Prof. Dr. Hans BAUDISCH,
+"Zeitschrift f{lr das gesamte Turbinenwesen, n 1917, pp.153
+and 169. "Article on the Calculation of the Windmill, II by
+Prof. Dr. BAUDISCH, in the Zeitschrift f{lr das gesamte Turbinenwesen," 1920, pp. 125 and 136.
+
+- 15 the windmill is almost exactly similar in height to that
+in front of it.
+
+The front part, as given by him, corres-
+
+ponds approximately to our representation of the airflow
+of the windmill (see Fig. 1).
+
+The drawing qf the rear part
+
+is, however; inaccurate on the whole, so that reference
+should be made to Fig. 1 in place of it.
+
+He erroneously
+
+takes BENDEMANN'S view of the stationary propell e r in his
+calculation of ratio of the diameters, which is in the present case a ratio of surfaces and sbould not be thus taken
+by BAUDISCH, the Windmill being "in motion".
+
+BAUDISCH in-
+
+cludes the viscosity of the air in his calculation, holding
+it responsible for the screen effect in front of the air
+Wheel.
+
+In Karl SCHMID " S lecture* on the stationary propel-
+
+ler, the value of his factor of viscosity is inserted as
+for which we have not been able to find an adequate basis
+in this work.
+We cannot adopt the views of BAUDISCH.
+
+The results of
+
+his calculations cannot be b:rought into 'a greement with the
+results of the general theory described above" and must
+therefore be rejected.
+
+* lIZeitschrift f.;lr Flugtechnik ,und Motorluftschiffahrt, II
+
+191 5-.
+
+~
+
+OESIGNED
+bRAWN
+
+~ IO-"-~'2..u
+
+--.....i!
+:;::IECKEO
+
+,~
+~~ A~"?ROI/EO
+
+'
+
+)j
+

@@ -1,0 +1,636 @@
+r
+
+j
+
+)
+
+I
+
+(
+
+'0.4
+. -~
+
+TECHNICAL NOTES.
+
+NATIONAL ADVISORY COMMITTEE FOR AERONfUTICS.
+
+No.2
+
+AIRPLANE PERFORMANCE AS INFLUENCED BY THE USE
+OF A SUPERCHA
+RGED ENGINE.
+
+by
+George de Bothezat,
+EXpart, N.A.C.~
+
+Aerody~ical
+
+10 be r
+the fU
+Atlvi
+ft
+Washington,
+May. 1920.
+
+3161-18
+
+AIRPLANE PERFORMANCES AS INFLUENCED BY THE USE
+OF A SUPERCHARGED ENGINE.
+
+By George de Bothezat,
+Aerodynamical Expert,
+National Advisory Committee for Aeronautics.
+
+The question of the influence of the use of a supercharged
+engine on airplane performance will be treated here in a first
+approximation, but one which gives an exact idea of the advantage
+of supercharging.
+
+The method used may be directly extended to
+
+treat this problem wi +I:r 1 any of the simplifying assumptions made.
+1t
+These assumptions are made exclusively to allow an easier survey
+of the problem.
+Let us consider an airplane which climbs first with an ordinary engine, not supercharged, (called in the following case I),
+and afterwards climbs with a supercharged
+
+e~ine
+
+(case II), and
+
+let us find the difference of the ceilings reached in the two cases.
+We will assume in both cases the power
+sea level to be the same and the efficiency
+to be maintained constant all the time.
+
+of Tn o
+~
+
+of the motor at
+of the propeller
+
+This is quite possible,
+
+to a certain extent for a propeller with an adjustable pitch, a
+concluSion reached by theory and experimentally verified.
+In case I, we can consider in a first approximation the power
+
+dCrn of
+
+the motor to be proportional to the density, that is, to
+
+be expressed in the form
+
+where
+
+5"
+
+is the air density at a given height H
+
+3161-18
+
+- 2 -
+
+Ih a constant coefficient characteristic for the motor considered, assuming the number of revolutions of the motor to be
+kept nearly constant. ·
+At sea level we have
+
+d >"rl" :: lr1 ~o
+
+(2)
+
+~o is the corresponding air density.
+
+where
+
+The power expended for horizontal flight at aQY altitude is
+equal to
+(3)
+
+4 ;: '? ci",
+
+where '{
+
+is the propeller efficiency
+
+:&
+
+'l )-;, b =- Q V
+
+Q
+
+the propeller thrust
+
+V
+
+the flying speed.
+
+On the other band the equations of the horizontal steady motion are of the form
+
+P=Ry=~aAV2
+
+(4)
+
+Q =Rx
+
+(5)
+
+.
+
+where
+
+p
+
+=,Qx ~A yc?
+
+is the total vreight of the airp.l,ane
+
+~~ and ~::J the drag and lift coeffiCients (functions of the
+angle of attack only)
+
+A the
+
+wing area.
+
+Comparing (3) and (5), we find
+
+and following
+
+.
+
+an equation that fixes the relation between the angle of attack l
+and the speed jI
+
+for horizontal flight at any altitude in case I •
+
+I call climbing curve (~~) the curve of
+
+r
+
+.
+
+plotted '
+
+.
+3161-18
+
+- 3 -
+
+against
+
+t
+
+according to equation
+
+(7).
+
+V,
+
+Let us now plot on a system of (
+
+) axes the system of
+
+i
+
+curves (see equation: (4) )
+
+E
+6-4
+
+(8)
+
+~ .~
+
+S.
+
+for different values of
+curves (see figure).
+
+yz
+I call the last curves velocity:
+
+As the height
+
+tions) for the curve (8) we can use
+
+o.
+
+reached by an airplane
+
+(depending upon atmospheric condi-
+
+S-
+
+is a direct function of
+
+f.(
+
+( V,
+
+If we plot on the san::e
+
+H
+l
+
+as parameter instead of
+) axes the
+
+C
+
+curve (7) ,
+curve
+
+\ri th the C
+each point of intersection of a velocity curve
+
+gives for the height
+
+17
+
+corresponding to the velocity curve
+
+V
+
+considered, the velocity
+
+and the angle of attack
+
+horizontal flight at the height
+
+II
+
+H
+.I
+
+of the
+
+of the airplane considered .
+
+That velocity curve which is tangent to the
+value
+
+t
+
+C curve gives the
+
+(case I) of the ceiling and the values of
+
+V
+
+and (
+
+corresponding to this ceiling.
+The last value of the ceiling can also ~e found directly
+as follows:
+
+from (7) and (8), we find
+
+V
+
+Eliminating
+
+p~ ~
+
+o
+-----
+
+(9 )
+
+AJ:;
+
+rl
+
+that is, the density
+gle of attack
+
+{
+
+~1
+
+~/$;
+/J~ .. J
+
+(
+
+"'0
+
+(for Case I) in function of the an-
+
+The minimum value of
+
+SI
+
+given by the
+
+last equation will correspond to the maximum of the height
+that is, to the ceiling.
+
+Thus the value
+
+,~
+
+If
+
+of the angle of
+
+- 4 ....
+
+3161-18
+
+attack corresponding to the ceiling in case I will be found from
+the relation
+
+and
+(10)
+
+Practically, the best way is to plot the curve (9) and find its
+
+,!eo>< and ~ are empirical func-
+
+minimum graphically, because
+tions.
+
+It is easy to see that tbe angle of attack
+
+SI
+
+.
+
+lH
+
+'
+
+is minimum, is the same angle for which the power
+
+expended for flight at sea level is minimum.
+
+In.:::' Q J/ =-
+
+(ll)
+
+~)(
+
+for which
+
+c£~
+
+In fact we have
+
+go A ¥3
+
+and replacing in the last equation ~
+
+by its value taken from (8)
+
+we get
+
+The minimum of
+
+4
+
+A~ J~
+o
+takes place for an angle of attack given by
+
+d(r£rc) =- t?
+that is
+
+-ctz-
+
+.:!.(k )
+
+d.i
+
+';-Yz
+
+which thus is the same angle
+
+~
+
+0
+
+'11
+
+On the annexed figure are represented the velocity curves and
+the
+
+Cz
+
+curve for a good actual airplane, as well as the
+
+OJ
+
+curve for Case I, which curves fully illustrate all the foregoing.
+The ceiling is reached at an angle of attack of 13°, at a speed
+
+3161-18
+
+- 5 -
+
+of 120 ft./sec. and has a value of 25 , 000 ft.
+In case II we will have the power
+by the
+
+s~ercharger,
+
+for example.
+
+cI:.Ino maintained
+
+constant
+
+up to a certain altitude, say 2 0,000 ft.,
+
+Afterwards the power of the motor will again drop
+
+in a first approximation as the density.
+
+Let us first assume
+
+the limit possibility of
+up to
+
+any
+
+altitude.
+
+elmo =~.
+
+Proceeding quite similarly to case I,
+
+J..,,:: rJ.",o :
+
+(13)
+
+~~
+
+will find
+
+Q{/ ::. (0'12d
+
+following
+
+and dividing by (4) we get
+(15)
+
+'{rl mo
+P
+
+11
+
+:::~V
+
+~!/
+
+an equation which represents the
+
+curve in the 1 imit ing
+
+case II.
+Plotting this ~
+
+II
+
+curve on the velocity cuxves, we will
+
+directly see the enormous increase of ceiling that an unlimited
+supercharging would give.
+
+The fact to be noted is that even in
+
+the case of an unlimited supercharging we reach a ceiling.
+In this last case the density curve bas for expression
+(16)
+
+c& =A PJ
+r-bc
+
+2
+
+I'no
+
+(~)2
+#. x%.
+Y
+
+and its minimum. corresponding to the ceiling. takes place for the
+
+.
+
+same angle of attack ~
+(17)
+
+as in the preceding case.
+
+3161-18
+
+- 6 -
+
+But the supercharging maintains the power only up to a certain altitude, and after this altitud.e is reached the power of the
+motor will vary according to the law
+
+J.. rn
+
+(18)
+
+::: 117c G
+
+where the value of
+
+me
+
+has to be taken from the relation
+
+Cc being the density at
+
+the l:i.mit height up to which the super-
+
+charger maintains the pOWflr.
+from this altitude as· i f
+After the density
+
+6c
+()c
+
+The airplane will start to climb
+were the sea level.
+bas been reaChed, there must aC-
+
+cordingly arise a sudden change in the course of the
+Its second branch
+
+C'
+
+Cg
+
+curve.
+
+will be given, as is easy to S7;e, by
+
+E
+
+the relation
+
+(20)
+and. the corresponding
+
+density curve will be
+
+and its minim'Wl takes place, as it is easy to see, for the same
+
+angle of attack
+
+Sr,
+
+, which minimum fixes the value of the
+
+ceiling in this last case of supercharging,
+I
+
+~m~ =~(t~)
+
+(22)
+The
+
+U
+C'
+
+curve and the \..8 curve necessarily intersect
+r
+
+on the velocity curve
+
+-
+
+p
+
+~A
+
+,.
+
+- ? -
+
+correspond:i.ng to the value
+
+c:f:c
+
+3161-18
+
+of the density up to which the
+
+supercharging maintains the motor power.
+In the case of cur figure the ceiHng from 25,000 ft. is
+increased to 37,000 ft., the supex'cha:('ging maintaining the power
+only up to 20,000 ft.
+
+This makes, in comparison wi~h case I of an
+
+engine without supe~cr~~ging, an increase of the ceiling of
+
+about 50 per cent ..
+We thus see the whole i.:npo::.'tatlce of engine ~u.1'ercharging.
+which has fe)'t' eeneral reeu1t so sensil>le an increase of ceiling.
+

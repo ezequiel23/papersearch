@@ -1,0 +1,708 @@
+REPORT No. 50.
+CALCULATION OF LOW-PRESSURE
+
+INDICATOR DIAGRAMS.
+
+By E. 0. KSMBLZ.
+
+INTI?ODUCI!ION.
+
+It is well known that the recent remarkable advanom in the design of highpeed intarnalcombustion augines have been made almost entirely by cut and try methods. Iimr-ed
+vaIve areas, inoreased compression ratios, better intake manifold design, better oarburetion,
+eto., have enabkd us to attain mean efleotive pressures that a few years ago ware not dreamed
+of. Yet there is at prment no accepted way of de&mining theoretically the rehtion between
+valve are=, stroke volume, speed, and volumetric etEoiency. The question of the proper
+reIative areas of inlet and exhaust valves is still moot. There is no way of fixing the proper
+valve timing for any given case, except the way of ~mimeut,
+and thare is little information
+available regarding the effeot of improper valve settings on the vdumetrio eflioienoies and
+pumping 10SSM. h short, the designer dispene= almost entirely with theory.
+This condition of affairs is obvioudy due to the multiplicity of the factcm whioh affeot the
+performance of internal-combustion engine9. The large number of such factors not only makes
+theorizing extremely difiicult, but it makes it exoewhgly hard to interpret test rmults with
+any degree of certainty, so that we have little that is reIiable in the way of data for oheoking
+up a theory once formulated. The increasing number of well-equipped experimental laboratmk, however, is sure to yield plenty of new and reliable axperimeutal data, and just on &is
+aooount it beoomes important to develop a theory which shall guide the experimenter and at
+the same time aid in the interpretation of his remdta.
+It is hoped that the method of camputing low prwo.re indioatar oards outlined in this report
+will prove to be the first step in the development of suoh a theory. The writer particuhmly
+desires to emphasize the fact that this work is only a beginning, whioh can not at present be
+expeoted h yield remdte which are quantitatively rebabh
+The method of calculation here outlined is bwed on the following assumptions:
+(A) The mixture of air, burnt gas, and fuel in the cylinder maybe treatd as a perfeot gas.
+(B) The kinetic energy developed by the inooming ohsrge se it passes through the throat of
+the inlet valve is converted into heat by eddies as fast as it emerges from the valve, so that we
+may treat the gas in the cylinder es if it had a dehite temperature and pressure.
+(C) The heat transmission between the gas and cylinder rolls tigether with the heat
+absorption due ta the vaporization of the fuel have a negligible ellect on the pressure variations;
+that is, the processes under consideration may all be treated as adiabatic.
+(D) The rate of air flow through the intake and exhaust vdv= may be calculated from the
+manifold pressures, the cylinder pressure, and the valve clear openings by the ordinary formulas
+for steady flow through au ofice with the aid of determinable cdicients
+of efhx.
+These hypotheses are aU to be regarded es rough approximations to the truth. The writer
+is of the opinion that the phenomena ignored through the introduction of these assumptions are
+of secondary importmce in determining the preamre variations in the cylinder during the suction
+and exhaust strokes. In the last analysis, however, the just.i6cation of this opinion must come
+through a comparison of the results obtained from this theory with the results of experiment.
+Assumptions B and D me apparently indispensable to the present method of attack on the
+probl~.
+A and C, on the other hand, constitute convenient simplifications suitable to the
+prwent preliminary analysis, but not necwmrily =entiel to the method. h emneotion with
+644
+
+—
+—
+
+CMMUUTION
+
+OF LOW-PRESWJBE
+
+INDIOATOB
+
+DIAQRAMS.
+
+645
+
+hypothesis C it should be observed that even though the charge in the cyLinder absorb a good
+deal more heat from the walls during the suction stroke than is required to complete the
+vaporization of the fuel, the increase in the heat content of the charge wilI not be accompanied
+by a correspondingly larger fired pressure. This is because a slight increase in pressure due to a
+rise in temperature immediately reduces the rate of flow through the inlet valves.
+In order to apply the method it is necessary that pressuree in the intake and exhaust
+manifolds at points adjacent ta the valve and the effective clew valve openings shall be lmown
+functions of the time. By the effective clear opening of a velve is meant the product of the
+minimum sectiomd area of the passsge through the valve and the coefhient of efhx.
+The use of the method is obviously reetrictid by the above reqniremente, since the manifold
+pressures me usually not lmown. In the case of a motor exhausting directly to atmosphere,
+however, the manifold pressure becomes the barometric prassure. Furthermore, certain types
+of multicytinder inlet manifolds have a nearly constant prcwwe, while a motor which draws
+air duectly from the atmosphere and has its fuel injected directly into the cylinder will have
+atmospheric intake pressure, so that in these special cases the method is obviously applicable.
+In general the fluctuations in the manifold pressure maybe expected ta be small compmed with
+those in the cylinder, and it is believed that the rwult of applying the method by replacing the
+actual varying pressure by its average vedue mill be imtructive, though quantitatively in error.
+The coetlicient of etllnx may be qected
+to depend On the shape of the valve and port,
+the direction of flow, the ratio of the valve velocity to the wJocity of the air through the valve,
+and the product of valocity of approach and the rata of valve closure. The codicients for
+steady flow may be obtained from such experiments as those desmibed in Report No. 24, Air
+Flow Through Poppet Valves, by Lewis and ITutting. The coefficients applicable in cssw of
+intermittent flow might be obtained from a study of experi.mentd light spring diagrams with
+the aid of the theory developed below. The writer is inclined from a priori considarationa to
+the opinion that the coeflicienta for steady flow ahonld not dif% wmy greatiy from those applicable to the intermittent flow obtied
+in practice provided that the pressures used in making
+the calculations are those actually *ting
+at points close to tie wJvee. (The pressures m
+the intake manifolds and induction pipee are difbrent at different pointe as wdl ss at diflerent
+Through Poppet Valves,”
+times.) This is by no mecartain, howeva (Cl “ Prewwre ~p
+by C. E. Lucke, Trans. A. S. hf. E., VOL27, 1905), and it is desirable that fnrtlmr experiments
+be made to determine the actual values of the coefhcienta of EJHUX cases of rapidly varying
+in
+flow. It should be pointed out in this cm.nection that the errors involved in using the steady
+flow ccdkients maybe expected to inmease with the ratio of the valve velocity tn the veloci~
+of the air through the vakre and with product of the velocity of approach and the rate of valve
+closure.
+NOTATION.
+V, u- instantaneous vohnne of cybder in cubic feet and cubic inches, reepectivdy.
+S~specific volume in cubic feet per pound.
+P, p= absolute pressure in cylinder in poynds per square foot and pounda per
+square inch, resp@&Jy.
+P’, p’ =absolute pressure of air approaching Met valve in pounds per square foot
+and pounda per square inch, respectively.
+P’, p&- absohme presmre in exhaust passage in pounda per square foot and pounds
+per square inch, respectivdy.
+6= absolute J?ahrerdeit temperature of cylinder contents.
+W-absolute Fahrenheit temperature of intake charge.
+Ai, ai =cIetu opening of inlet valves in square feet and square fiches, .NpectiwJy.
+Ci= coefEcient of efliux of inIet valves.
+Fl, f~CiAi,
+Gai = dbctive ckw opening of inlet valvee in square feet and square inches,
+reepectiw31y.
+Aa,~a6= clear opening of exhaust velves in square feet and square inches, respeotivdy.j
+
+Let
+
+-—
+
+. .
+
+&NNUAL=ORT
+
+646
+
+NATIONAL
+
+(?,- coficient
+
+ADVISORY COMMITTEE
+
+FOR AERONAUTICS.
+
+of efiiux of exhaust vahes.
+
+F,, ,LsC8Ae) Cla, = effective cIear opening of exhaust valves in square feet and square inches,
+respoctiwly.
+Mi =rate flow through inlet valves in pounds per second.
+M.= rate flow through exhaust vahws in pounds per second.
+.,
+Q =nmss of air and gas in cylinder in pounds.
+t= time in seconds.
+p = crad< angle from head and dead centm,
+, R= gas constant.
+G ==specific heat at constant prcmure in mechanical units (foot+pounds per
+pound),
+G=specific heat at constant vohune.
+7=0’
+ZI”
+Po, F&%= assumed initial vahes of P, V, and d.
+GENERAL ANALYSIS+
+
+Caw 1,—Bumt gmeg egcap%gthrough exhaust wdueg.
+Treating the cylinder contents as a perfect gas (Assumption A), we write
+
+Pv= GRe
+
+(1)
+
+G= C, +R.
+
+(2)
+
+The speciiic heat of a gas at constant vohune is a measure of the inc.reme of internal energy
+of unit mass for each degree rise in temperature. The product of the specific heat at constnnt
+volume (assumed constant), the mass, and the absolute temperature k thersfore equal h the
+total intmnrd energy. Consequently the rate at which ene~y accumulates in the cylinder is
+
+$(C,Gf3).
+
+Substituting from (1) into this expression, we obtain
+@JW=~$.
+
+PV)=$
+
+(3)
+
+. $(PV).
+
+The rate at which cxtmna~ work is performed on the piston is P ‘T~o The rate at which
+the ~caping exhaust gas carries away ene%y is [0$ +PSlkf, = @9M,. The rate at which the
+incoming charge brings energy in is [C#’ + P’S’lJfi = C#’Jff.
+Neglecting the heat tmusmission to the cylinder walls (Assumption C?),we oquato the sum
+of the rate of accumulation of energy and the net rate of dissipation of energy to zero
+~
+
+g(w)+Pg+c!@Ae’M,=o,
+
+(4)
+
+or
+(5)
+In virtue of (2), this becomm
+&“
+
++“%+&,”+’
+
+$%%%
+
+(6)
+
+%-%%-0’
+
+or
+(7)
+
+W
+
+In case the inlet valve is closed, Mi vanishes and Me bocomea-=.
+
+Then
+
+(8}
+Hence
+
+CIALOUHTION
+
+OF LUW-PEESSURE
+
+647
+
+IN’DICIATOB DIAGBAM!3.
+
+or
+(9)
+
+8 +y--
+
+This is the pressure temperature relation for adiabatic expansion whioh might have been anticipated from our assumptions without the aid of analysis.
+Having determined the relation between the temperature and pressure in the cyIinder, we
+oan compub the value of -& (10g.P) for any given vahes of P, V, ‘Tr and F’.
+OC@iOIl
+
+(8),
+
+Transforming
+
+W8 obtain
+
+(10)
+But
+
+dG
+z=–=
+
+(11)
+
+- – F.~(P,e,P’).
+
+Where the function ~, which denotes the theoretical rate of flow through a well rounded orifb
+of unit area, hss the form
+~_KLP
+@
+
+when
+
+(12}
+
+:’(5F’
+and the form
+‘-GJ(?FGF
+
+“
+
+““
+
+(13)
+
+“‘-
+
+when
+
+P’
+7>
+
+L
+(}-f+l
+
+5.
+
+The values of the omstanta ~ and Gin the above equations me
+~_.
+~=da”
+
+(}&
+
+‘“
+
+(14)
+
+(15)
+
+If
+
+‘~ is 1sss than its oritkal value (10) beoomes
+(16)
+(17)
+
+If ‘~
+
+is greater than its oritioal wdue, (10) takes the form
+(18)
+
+Equations are to be evaluated by a graphioal integration.
+C~e IL—Fresh charge entering ylinder though inkt V&W.
+
+k case the inlet valve is open and the exhaust valve is closed, equation (7) becomes
+
+—
+
+(19)
+
+(20)
+
+ii.NNUA.L
+REPORT
+
+648
+
+NATIONAL
+
+ADVISORY COMMHTEE
+
+I?Cm =oNAUTICS.
+
+The ratio $’will generally be lws thm iti ~tical value and we may USethe following approximate expression for w (Cf., Sauford A, Moss, kerican
+
+Machinist, Sept. 20 and 27, 1906):
+
+‘“- “-
+
+‘WT-(w “-”“““
+‘ ‘-
+
+*=~=&@
+
+=~2$Jp+)(p+:~l-(g-l)y+~)] -
+
+(21)
+
+Let
+~’=@%@”
+
+Then
+(2o) becomes
+
+&loge P=–
+
+‘=~’$%?”~)
+
+“’”””- ““’--”
+
+T ~v
+4~– (Y–
+
+“
+
+‘)”’
+
+‘“”’’-=-”-”
+
+I) C, FIG
+
+Case 111—Bwnt
+
+‘mw-’)(~-)’
+
+““ ‘n)
+
+gm escupiq throu@ inkt valve.
+
+In modern high speed interred combustion engines the pressure inside the oylinder wiU
+generally be greater than the prawure in the inlet passage when the inIet valve begins to open.
+Consequently we have to deal with outflow as well as inflow through the inlet passages. On
+the othar hand the flow through the exhaust passages is always in the one direction. If the
+periods of valve opening overlap, the outward flow may ooeur simultaneously through both
+valves. This case can be deelt with by the addition to the righ~hand member of (18) of a
+term h take care of the outward flow thro~h the inlet vahe.
+
+GRAPHICAL
+
+INTEGRATION.
+
+The above equations (17), (18), md (23) are of suoh a form that it is useless to athnpt au
+analytical integration. They are of the general first order type.
+(25)
+An aeourate method for the graphical integration of this type of equation is given in Runge’s
+“Graphical Methods.” For our purpose, howevar, it will do to use a simpler means of getting
+an approximate solution.
+The cquatiom (25) deibs not one curve, but a whole family of ourves, one of whioh passes
+through every point in the region of definition off (z, g). ~ (z, y) is the slope at the point z, y
+of the particular curve whioh passes through x, y. We deiine the combination of the point
+z, y with a short straight line through that point having the slope~ (z, y) as a lineal element of
+di&rentiaI equation (26). ~ (z, y) being continuous, the directions of these lineaI elements
+vary continuously from point to pornt. Hence by plotting a hrge number of lineaI elements
+we can cdimati the direotion of the integral curve passing through any ohosen point (see plot
+4). It happens that we are interested only in the particndarintegral ourve passing through the
+point loge P., to. Consequently labor is saved if we prooeed as foIIows: First plot the lineal
+ekummt through log. PO, % Choose a slightiy larger value of t, say ~, and by a prolongation
+of the above lineal elament to the line z =~, get an approximate value of the ordinate corresponding to this absoissa. P1ot the lineal elemgnt through this new point and through two other
+
+““‘--
+
+‘-”
+
+CALCULATION
+
+OF LOW-PRESSURE
+
+IITDIOATOIZ DIAQRAM3
+
+649
+
+hving dightiy greater ~d dightly _
+ordinates, rmpectively. With &e
+IineaJ
+elementi x a guide, it will be possible to sketch in by eye with fair acouraay the integd curve
+from ita initial point on the line z = & to its intersection with thelinez=~, and to get au approximate vahm of the ordinate of its intersection with another suitably chosen vertical line, say
+z=~.
+By s simple repetition of this process we mm extend the integral curve to any desired
+value oft with a minimum of labor.
+When the relation betweau the pressure m the cylinder and the time haa been determined
+the mass of fresh charge drawn into the cylinder during the suction stroke can easily be ctilcu.
+lated by means of a second simple mechanical integration. We denote this charge by the
+symbol ~. It ia equal to the gross oharge flowing into the oylinder through the idet valv~
+equ&minus the mass which fiows out through tbe valves during the initkd period of p~e
+zation. Let t’ denote the time at which the inlet valve begins to open. Let t“ denote the tie
+when the flow through the Wet wdve reverses. IA t“ ‘ denote the time of inlet ~ve ~osme.
+Then
+POMS
+
+G,=–
+
+s
+
+~,:i(t)w(ww
+s
+
+‘ii(t)v(F’,o,P’)dt+
+
+t’
+
+(26)
+
+These integrals can be evaluated by mems of a planimeter.
+One of the equations (17) or (18) is applicable at all times when the flow through the
+valves is outward, e-ran though part of the flow is through the inlet valve, although, if gas is
+escaping from the cylinder into the inlet manifoLd, we must replace in (18) by (E+ FJ. It is
+not to be eqected that there will ever be any inward flow through the exhaust valvm, or an
+inward flow through the inlet valves when the exhaust valves are open. Thus Equations
+(17), (18), and (23) cover all cases which wilI arise in practice.
+INTRODUCTION OF NUMERICAL VAMJES.
+
+Before making a definite application of the above equations, we introduce some rough
+assumptions regmding the properties of the gas in the cylinder. Normal exhaust gas from ~
+engine using gmline as fuel may be assumed to contain about 13.6 percent by volume of water
+vapor, 12.4 per cent of COz,and 74 per cent of ~,. The percentages by weight are then 8.5 per
+cent (HaO), 19.1 per cent (COJ, and 72.4 per cent (iV_Z). The specific heata at 200° l?. and at
+constant pressure may be taken to be 0.448 B. T. U. per pound, 0.202 B. T. U. per pound,
+and 0.244 B. T. U. per pound, respectively. The specitic heat of the mixture in mechanical
+units computed from the dove rough assumptions is 198 foot-pounds per pound. The ges
+constant of the mixture is 53,7 and the spefic heat at constant volume work out to be
+Cr=CP–R=198–64=144
+The ratio of the specific heats is
+7=~4=1.376.
+We take the above values of R and ~ as the basis for our tit rough calculation. At the
+high temperatures prevailhg during the exhaust stroke a amalk value of T would probably
+be more accurate, while it is probable that a slightIy larger mdue would be better for the suction
+stroke.
+Introducing these values, we find that the critical prtwure ratio is 0.5334. Further;
+
+~=0.526;
+
+& =2.094; ~’=1.094.
+
+Equation (17) reduees to
+$ logo P= -~~~+0.626
+
+x63.7 F’. w~;~’’s].
+*
+It is useful to replace log, P by log,, p, V by v, and 1?. byfe.
+Theri
+
+—.-
+
+.-
+
+650
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE
+
+2.3026$ log up = - Y$+O.526X53.7X
+
+FOB AEROMAUTICJS.
+
+12f.~t?&~],
+
+0.596 dv
+~ 10
+dt “op = – + v ~ +338,8fe& (,)~
+
+‘-’M
+
+7“
+
+(27)
+
+Another useful change is to introduce the crank angle se the independent variablo instead
+of the time. We denote the crank angle measured from the head end dead center by p. We
+take the unit of measurement for this angle to be 10 degreee. Let N denota the crankshaft–
+speed in revolutions per minute. Then
+
+d~ 361V_o,6N
+a-w
+$ log,op =-~
+
+0.596 dv 338.8
+--- —
+[ dp+ 0.6Nf “ @“
+
+Let A = piston mea in square inches.
+r o crank pin radius in inches.
+1=connocting rod length in inches.
+VO comprcwion volume in cubic inches.
+=
+Then
+
+v=v. +A{r(l –COS P) +2– @-P
+
+(9”7°
+PO
+
+sin’~} UV. +A (i+r)–A[r” cos p+ .@~];
+
+dvmAr sin p
+& + 6.73 1+@ :Y%l~P
+
+I“
+
+(28)
+
+(29)
+(30)
+
+Equations (28), (29), and (30) enable us to detarmine the relation between preesure and
+crank angle from the time when the exhaust valve opens until the pressure ratio has been
+reduced to ita critical value, Worn the latter point till the opening of the inlet valve we must
+use an equation of the form (18).
+Introducing the value 1.373 for 7 and ohanging the independent variable from t to q we
+derive the following equation from (18).
+
+0.596 dv
+~ 10
+!310P=– --+ ~+z’zs~fio
+v
+
+d
+
+g>
+
+f
+(Po) ‘“m JT%TI’
+
+(al)
+
+-?_ ““=0.6334.
+()2.373
+
+Making the same changes in (23) that we have made in equations (17) and (18), we derive
+the following equation applicable during the suction stroke.
+
+d
+
+~ 10
+&oP=
+
+0.696 dv
+‘~
+
+[ G-’61+dFRl”
+
+(32)
+
+EFFLUX COEFFICIENTS.
+
+It will be assumed that efflu coefficients derived from steady flow experinmnt.a,such as
+those of Lewis and Nutting (Report No. 24), are applicable to intermittent flow. As a first
+approximation, the eflecta of valve dwign and seat angle, as well as the eilect of reveming
+the direction of flow, wiU be neglected. In other words, it will be assumed that the tiux
+coefficient of any inlet or exhamt valve is a function only of the ratio of the clear opening of
+(i. et the gross area minus the valve stern area).
+the valve to the net area of the valve p-%e
+Plot 1 shows the relation between the above-mentioned ratio and the coefficient of efllux
+as computed from the experiments of Lewis and Nutting on 1~inch valves. Whereas the
+coefficients of efflux repo~ted by Lewis and Nutting are based on the rough assumption that
+the clear opening of the valve is equal to the product of the valve lift and the portvcircumference, the values used in the curve on Plot 1 have been corrected by the substitution of clear
+valve areas computed in a more accurate manner by means of trigonometrical formula
+
+CALOULMHON
+
+OF LOW-PRESSURE
+
+INDICATOR
+
+DIAGRAiS.
+
+651
+
+—.—
+
+u
+
+P/o@ca3.
+
+CronA
+
+A@e-
+
+q-
+
+I
+
+l)
+
+—..
+
+. ..—.— —.——
+
+I
+
+hDrqrm
+
+Aw+a6
+
+-A7qk.
+
+q.
+
+iut+.ws
+
+654
+
+ANNUAL
+
+REPORT NATIONAL
+
+ADVISORY @) MMITTEE
+
+FOR AERONAUTICS.
+
+APPLICATION TO TYPICAL MOTOR.
+
+Plot 2 shows the effective clear opening (product of actual clear opening by efllux cocffLcient) for the tmhaust and inlet valvw of a typical engine plotted ~Uains the crank rmgle.
+t
+dv
+Plot 3 shows the cyIinder volume v and its derivative ~
+as functiom of p.
+We assume that pressure at the moment when the exhakt valve begins to opon (p= 13001
+is 78.0 pounds per square inch (abs.) and that the temperature is 3,000° on the absolute l?ahrenheit Ocale.
+Let the exhaust be direct to atmosphere. Then
+pO= 78.0
+00= 30000
+V4) 149.7
+=
+Equations (28) and (31) become
+p >27.55
+
+(33)
+
+Let us further assume that the impact pressure in the passage leading to the inkt valve
+has the constant value 14.7 pounds per square inoh, and that the impact temperature of the
+inflowing charge is 70° F. These assumptions set to one side the temperature and premum
+ohanges which ocour in the inlet mmifold. Then
+p’= IL7
+9’=630°
+Equation (32), for the pressure variation during the suction stroke, becomes
+
+(85)
+The graphical integration of thwe equations for the determination of the relation between
+log,op and P is shown on plots 4, 5, and 6.
+Plot 7 shows the low-spring pressure-vohnne curves for 1,000 revolutions per minute and
+2,500revolutions per minute derived from plots 4, 5,and 6.
+It vdl be observed that according to these diagrams the exhaust valve opens a little early
+at 1,000 rewlutions per minute and a little late at 2,500 revolutions per minute. TIM irdet
+valve closing time is better adapted to 2,500 revcdutions per minute than h the lower speed,
+CONCLUSION.
+
+In conclusion it should be pointed out that we have here developed a method of computing theoretical low+pring diagrams which is capable of further development and refinement
+not justified by the experimental data now available. At present the absolute values deduced
+from the theory can not be relied on. His to be hoped, however, that the reaulta will prove
+to be of qualitative value and that future experiments will show us how h so modify the
+theory that it will give quantitatively correct values.
+
+o
+

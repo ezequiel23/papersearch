@@ -1,0 +1,896 @@
+TECHNICALOTES
+N
+.
+NATI03?AL
+ADV3SORY
+COMMIT’IEE AERONAUTICS.
+-FOR
+
+.
+
+No. 74.
+
+MUTUAL
+IKFLUEKCEF WINGS~
+———
+— O
+By
+
+.
+
+P30PELLEE,
+
+L. Prendtl.
+
+‘.
+
+Ext;act
+from
+TheFirstB.eport tkie
+of.
+Gottingen
+Aerodynamic
+Laboratory,
+Chap.IV,Sec.6.
+
+December,921.
+1
+.
+
+—
+
+-,-.
+
+NATIONAL DVISORY
+A
+COMMITTEEORAERONAUTICS
+F
+.
+TECHNICALOTENC. 74.
+N
+MUTUAL
+INFLUZNCEF WINGSANDPKNWLLZRS.*
+O
+By
+L. Prandtl.
+In the experiments, wasmade o~ thearrangement
+use
+shown
+in Fig.1. Theae~ofoil ad thewing sectiod 436,witha
+h
+No.
+spanof 960mm. and a chord of 160mm. Thepropellerad a
+,
+h
+diameter f 265mm.,andwasmounted the endof an adjustable
+o
+on
+shaft>
+whichin turnwasnounted a floating rame,
+on
+f
+andwas
+driven,
+b-ymeansof a belt, by an electricotorlooated
+m
+outsidetheair current.Thepartslocated theair current
+in
+(namely,heframe
+t
+withthepropeller haft
+s
+bearings the belt
+and
+Pulley)
+wereprovided
+witha streamlined
+shield.The length
+of “
+theunsupported
+shu=tfromthepropeller o thebearing
+t
+was
+1200mm. k the experiments
+withthepropellerehind
+b
+theaer~
+foil,a correspondingly
+shorter
+shaft
+was employed.
+Themountingof thepropeller n the floating rame
+o
+f
+madeit possible
+to
+determinehepropeller hrust.With thisarrangement, was
+t
+t
+it
+notpossibie o incline
+t
+thepropellez
+axisin the directionorc
+~esponding the change tine ngleof attack thewing.
+to
+in
+a
+of
+Thepropeller haftremained
+s
+constantly thedirectionf the
+in
+o
+w
+w
+a
+angles
+air current, hiletheaerofoil as inolined t various
+by turning about~hepoint D.
+it
+* Extinct from the First Report of the G8ttingen Aerodynamic abor
+L
+story,
+Chap.IV,Sec.6, pp. 112-118.
+
+-a-
+
+r p.m.wereconstantly
+maintained.
+.propellex
+spesdof about7000’.
+a-bout m/s,
+97
+Ths tipspeed. thepropelleras consequently
+of
+%
+and itszatioto thewindfipoed
+4.86to 1.
+The aerofoil ndpropellererefirsttested
+a
+w
+separately
+(Tables
+land2) andhencewithout
+mutualinfluenoe.
+Table1.
+m.)
+Aerofoil
+(960x 160rmn.}lone. (s= 0.1::Se!.
+a
+an
+OL
+Angleof
+Table2.
+Propeller
+(dia.
+265mm.)alone.
+Impact
+pressure
+q(kg/ru2)
+Thrust (kg.
+T
+)
+.
+
+7000Z.p.m.
+
+Thefollowingases
+c
+werethentrted:
+1. P20pelier n frontof aerofoil
+i
+a) Propeller xisbelowaerofoil~
+a
+11
+!1
+H above
+b)
+2. ProFellerehinp
+b
+aerofoil
+a Propellerxisbelowaercfoil,
+a
+11 coinci~ent
+11
+b
+with chord(a= 00),
+11 aboveaerofoil.
+11
+cI
+weremeasured t
+a
+The lift,dragandmoment theaerofoil
+of
+t
+was alsomeasurvarious
+angles atta@. Thepropeller hrust
+of
+at
+weremadewiththepropeller haft difs
+ed. TheMeasurements
+by
+ferent
+distancesromtheaerofoil,Theyaredesignated the
+f
+
+-3distancea gf thepropellerxisfromthe chord,
+a
+with a = 0°+
+The Mstanoe d bet~~een
+thepropsllernd theaerofoil7.ss
+a
+;
+measured caseNo. 1 from.he tearendof thepropellerub
+in
+t
+h
+to the leading
+edgeof theaerofoiljnd in caseNo. 2 fromthe
+a
+trailing dgeof theae~ofoil o thefrontendof thepropeller
+e
+t
+a
+50
+,
+hub Thisdistance vesaged mm, butvariedin thedifferent
+.
+experiments.he exactdistancesre givenin the cor~esponding
+T
+a
+tab
+lea. In thegraphicalepresentation theresults, hepor
+of
+t
+lar curvefor theeasewhentheproFellerhas o effect
+‘ n
+(a=CU
+)
+is always
+given a dashed
+as
+lineso as to havea better
+comp&iSon. Thepropellerhrust T is ex~ressedby coefficient
+t
+tile
+CT and is plotted
+fromtheorigin
+toward
+theleftas a function
+by
+of the lift, CT is defined
+T = Cpq
+in which S = surface
+areaof aerofoil.Fromthisequation he
+t
+propeller-thrust
+coefficient is obtained
+CT
+in’smanner
+analcgousto thatfor finding
+thedragcoefficient
+CD. Thisis done
+in orderto obtain
+thedirect
+oo~a~isonof CT and CD. On the
+dia=~e.ms
+theunit of measurement CT is t~ce as largeas fo~
+for
+for CT is reduced,eginningith CT = 0.15.
+b
+w
+CD andthe scale
+The corresponding
+thrust
+coefficient of thepropellerlone
+a
+‘T
+is likewiselways
+a
+traoed
+withdashes. Thepropellerhrust
+t
+was
+taken
+quitelarge
+withreferenceo the dragof theaerofoil,n
+t
+i
+orderto aosentuate effect. Thatsuchwas the caseis evithe
+dentfromthe followingstimation. we assume
+e
+If
+%ha~ a = 6°
+(Conparehedashed
+t
+polar&rve in Fig.3) and thatthe structur-
+
+-&a
+al bag of theai~lane equals
+thewingdrag,we obtain total
+dragcorresponding a dragcoefficient = O.1O* On the
+to
+CD
+.
+
+18, hencs
+otherkand,thsaverage
+propellerhrust
+t
+is CT = O.
+considerably
+grsater
+thanthedrag,sothat theexisting elar
+tionscorrespond stespclimbing light.
+to
+f
+In judging
+theresults, t is wellto distinguish
+i
+twokinds
+of influences,
+onedue to variations velocity,nd theother
+in
+a
+due to variations directionf ttie ir current.The propeller
+in
+o
+a
+is affectedainly variationsn the inflow
+m
+by
+i
+velocity
+dueto
+thewing. The wingis alsosubjected, slight
+to
+ohanges the
+in
+directionf theair flow,whichnoticeably
+o
+affect
+tkedrag,
+Thisis especially
+apparent hentheaerofoil outside
+w
+is
+the
+slipstream. Taking,
+for example, he arranger,ent
+t
+shownin Fig.
+2, it is seenthatan ascendingir current developed,
+a
+is
+which
+cannoticeably
+affeot
+thedrag~eventhough acts, n onlya
+it
+o
+portion of
+
+theaerofoil.If thepropeller s in frontof and its
+i
+
+axisliesbelowtheaerofoil
+(Fig. Tables
+3,
+3-5),thedragis
+greater
+thanin theundisturbed current.At smalldistances
+air
+fromthepropellerxis,wheretheaerofoil ivides
+a
+d
+the slip
+stream,
+thedragincrease dueto the greatez
+is
+air speed. If
+thedistancea is inoreasedo muchthattheaerofoil
+s
+liesoutsidethe slipstream, dragwillbe considerably
+the
+increased
+by
+the descending current.TheairVelocity lesscloseto
+air
+is
+the lowersideof theaerofoil hanat a greater
+t
+distance deand
+creases the liftincreases.
+as
+Thepropeller,
+working the
+on
+lowerside,
+develops greatsz
+a
+thrust,
+due to the?educed
+inflow
+
+-5the
+caseunderconsideration, th~ustis greatey
+velocity.In tk.e
+angle
+wiik increasing
+thariorthepropeller
+f
+aloneand increases
+of attack.If thepropeller
+axisis located theupperside,
+on
+the conditions reversed
+are
+(Fig. Tables
+4,
+6-9).HerethePrO‘~sller
+wo~ksin a swifter
+air current consequently
+and
+develops ‘
+iessthrust;
+justso muchless,in fact, tneliftof theaeroas
+foilis gieater.Onlywhentine xisof’the
+a
+propeller s very
+i
+increase-d.
+close theaerofoil(a= 28 mm.
+to
+), is thethrust
+Here thepropellerorksii a ~rrent witha slower
+w
+meanvelocity,
+mainly
+because liespactly
+it
+belowtheaerofoil,herethedrag
+w
+is greater,In the othercasesthedragis diminished, cou&arin
+isonwiththeundisturbed
+aerofoil,s a result theascending
+a
+of
+air current
+generated thepropeller
+by
+(Fig.
+2).
+Withthepropellerehind
+b
+theaerofoil
+(Figs. and 6, Table=
+5
+l@-14),
+thecasewas triedin whichthepropellerxislayin the
+a
+chordof theaerofoil,ith a = O. Herethepropellezisklay
+w
+d
+partiy thewakeof theaerofoil,Sincetheairvelocity as
+in
+w
+lessin thisvicinity, hemeanvelocity thepropeller nflow
+t
+of
+i
+was Lessthanthe velocity of theundisturbed current
+air
+and the
+Fropellerhrust
+t
+was correspondingly
+greater.Sincethe sizeof
+thewakeis closely
+related the dragof theaerofoil,t is evto
+i
+identthatthepropellerhrust
+t
+depends theaerofoil rag,eson
+d
+pecially ithlarge
+w
+positive
+andnegative ngles attack. ‘The
+a
+of
+influencef thepropeller n theaerofoil heresimilar ~hai
+o
+o
+is
+to
+it iswiththepropeller n frontof theaerofoil.Thevariations
+i
+
+-6-
+
+in thethrtlst
+andpolarcurves
+canbe e~lainedin llkemanner,
+whenthepropellerxisiS
+a
+
+moved
+
+tmnard
+
+either
+theupperor lower
+
+sideof theaerofoil.
+There. a marked
+was
+decrease dragin the
+in
+experiment
+whenthepropellerxiswas the farthest (a= 191mm.
+a
+}
+abovetheaerofoil.
+Thiswasdue to theascendingir owrent at
+a
+thatplace. Thevariationsn theaerofoil oment(about
+i
+m
+its
+leading
+edge),
+due to the influence thepropeller~
+of
+werevery
+smallin allthe cases, shown themomentcurves.
+as
+by
+Translated theNationaldvisory
+by
+A
+ComnitteeorAeronautics,
+f
+
+,.
+.’
+
+.
+
+1
+I
+
+{
+
+7
+I
+I
+
+“1
+
+~.. . . . . .
+
+k---!I
+
+f...
+
+. .
+
+ilit
+
+::.
+
+U=
+v =
+~=
+Y=
+T—
+LI—
+
+.
+
+,
+
+‘1:
+I
+
+I
+
+‘Iii
+
+.l~.”-
+
+265ax.
+232 “
+2:()
+,,
+170 ‘1
+lnn
+
+II
+-LUcl““
+
+—-- -
+
+I
+
+_,.-
+
+,,
+
++’i
+Cd
+
+I
+I
+
+i
+
+I
+
+!
+
+Fig.1.
+bit:::::!!-.
+
+.—
+..— .—
+.--.-..—
+.*—
+—
+—>
+&>.-..----~
+~__
+~————
+b.
+
+I
+
+Fig.2
+
+.-
+
+CL
+
+—.
+
+‘“
+
+11,20
+
+r
+
+1,00 -
+
+I
+
+.80 “
+I
+I
+‘ .60‘“
+
+,40~
+
+-
+
+.20
+.00
+
+-.20
+
+-.4(3
+CT
+
+.21
+
+.19
+
+,17
+
+.20
+
+.30
+
+,40
+
+.50
+
+.60
+
+CM
+
+c
+
+L
+
+1
+
+1.2(
+
+1.OC
+,8C
+.6C
+
+1
+
+I
+
+.
+4C
+.
+2C
+,Oc
+..
+
+-.2C
+/
+
+-..4Q
+.20
+CT
+
+-.
+
+4 I
+
+.
+
+.
+#
+
+.16
+
+.10
+
+.20
+
+.30
+
+.10
+Fig.4, Caselb.
+
+,’
+
+.60
+.50
+.20 CD
+
+$!l
+
+CL
+-T-
+
+1.20
+
+1
+
+I
+
+—-
+
+I
+
+.----
+
+‘. +
+
+.—
+
+. “\
+-L
+\
+
+-.
+
+*
+
+1.00
+
+\
+—.
+
+I
+
+-1
+
+.
+
+,80
+
+.60
+
+. ..—
+
+-t
+-+-
+
+--
+
+——
+
+——
+.—-.
+
+1
+,40
+
+1
+
+-t-
+
+.20
+
+.00
+
+t
+
+1“
+
+–.210
+
+-’-1
+.,40 .— / —
+CT
+
+.21
+
+,19
+
+.17
+
+.10
+
+.20
+
+Fig.5
+
+,30”
+
+.40
+
+,10
+Cases and 2b.
+2a
+
+.60
+.50
+.20’ CD
+
+CL
+
+1.20 y
+\
+I
+
+\,
+
+1.00
+
+\
+*go
+
+L
+I
+
+.60
+
+ItI
+
+.40
+I
+I
+
+.20
+I
+
+.00
+
+-.20 ‘f
+1
+
+-.40CT .21
+
+.19
+
+.17
+

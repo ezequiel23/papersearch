@@ -1,0 +1,2414 @@
+REPORT No. 2.
+IN TWO PARTS.
+
+INVESTIGATION OF PITOT TUBES.
+BY THE
+
+Part 1.-THE
+
+STATES BUREAU OF STANDARDS.
+
+PITOT TTJBE AND OTRER ANEMOMETERS FOR
+AEROPLANES.
+By W. H. HERSCHEL.
+
+Part 2.-THE
+
+THEORY OF TPIE PITOT A N D VENTURH TUBES.
+B y E. BTjCKINGRANI.
+
+..
+
+CONTENTS OF REPORT NO 2
+
+.
+
+Page
+
+Section 1. Introduction .................................................
+2. General remarks on the Pitot tube ................................
+3. Errors in the interpretation of Pitot tube readings.................
+4. WorJhg formulas for perfect Pitot tubes .........................
+5. Errors of the Pitot tube a t very high speeds......................
+6. General remarks on resistance anemometers......................
+7. The wind resistance of flat plates ................................
+8 Resistance of spheres and hemispheres............................
+9. Practical forms of resistance anemometers........................
+10. The anemo.tachometer .........................................
+11. The Bourdon-Venturi anemometer...............................
+12 Remarks on the special conditionsto which aeroplane anemometers
+are subject ..................................................
+13. Density corrections.............................................
+14. CompmGon of types of anemometers.............................
+.
+
+.
+.
+
+78
+
+7
+9
+79
+
+80
+82
+84
+84
+86
+88
+89
+90
+91
+94
+95
+98
+
+REPORT NO. 2,
+PART 1.
+
+THE PITOT TUBE AND OTHER ANEMOWTERS FOR
+AEROPLANES.
+By R. H. HERSCHEL.
+1. INTRODUCTION.
+
+The air pressures on the wings of an aeroplane, and therefore the
+sustaining power of the wings and the stresses to which the whole
+structure is subject, depend on the s eed of the machine relative to
+the air through which it is moving. &e measurement of this speedarticularly near the lower limit where the sustaining ower becomes
+Seficient and there is danger of stalling, or at very h g speeds where
+any movement of the controls may give rise to dangerously large
+stresses-is evidently a matter of importance, and the use of a reliable anemometer or speedometer is hghly desirable. The aim of the
+following paper is to describe the principles of operation of some of
+the iustruments which have been devised or used for t h s purpose
+and to discuss their characteristics, so far as it can be done from a
+general oint of view or on the basis of mailable information, without
+undertakng new ex erimental investigations.
+Since the Pitot tu e is the instrument which has been most commanly used in the United States and Great Britain as a speedometer
+for aeroplanes, it will be treated h t and somewhat more fully than
+the others.
+
+E
+
+%
+
+2. GENERAL REMARKS ON W E PITOT TUBE.
+
+The speed-measuring device known, after its inventor: as the
+Pitot tube contains two essential elements. The first is the dynamic
+o ening, or mouth of the im act tube, which points directly a ainst
+t!e current of liquid or was o which the speed is to be measure$, and
+I
+receives the im act of t%e current. The second is the static o ening
+for obtaining t e so-called static pressure of the moving fluiuib: i. e.,
+the pressure which would be indicated by a pressure
+moving
+with the current and not subject to impact. To avoi the influence
+of impact, the static opening points at right angles to the dynamic
+opening. I the two openings are connected to the two sides of a
+f
+dderential pressure gauge, the gauge shows a head which depends on
+
+B
+
+1 Origin
+
+P
+
+Bsuge
+
+and Theory of the Pitot Tube, H. E. Guy Engineering News, June 5,1913, p. 1172.
+
+79
+
+80
+
+AERONAUTICS.
+
+the s eecl and density of the current in which the tube is placed, and
+w%c may be used as a measure of the speed of the flwd past the
+Pitot tube.
+I the fluid is a liquid and the two openings are c o ~ e c t e d a, U
+f
+to
+gauge containing the same liquid, the gauge shows a head h and the
+usual formula for computing the speed S is
+
+E
+
+S=CJ2gh
+
+(1
+
+in which g is the acceleration of gravity and Cis the "coefficient" or
+"constant" of the given instrument. I the head h is read on a
+f
+gauge containing a hquid of density d while the density of the fluid
+(elther gas or liquid) in which the Pitot tube is imrnersedis p, equation
+(1) takes the modified form:
+(2
+
+According to the elementary theory as usually 'ven, 0 should be
+exactly 1, and in practice it is in fact in the neig borhood of p i t ,
+when the instrument is properly designed and used with smtab e
+precautions.
+As regards design, it may be said that numerous recent in-vestigations have shown that almost any sort of d r a m i c operung is
+satisfactory, but that the static o ening must be esigned with
+care in order that the coefficient 8 m a y be set equal to unity m t out
+involving any sensible error in the result of using equation (2).
+Rowse,l for example, has made an extensive comparison of various
+forms of Pitot tube, whichconfirms previous results obtainedby White:
+Taylor; Treat,* and others. With the most satisfactory tube tested,
+the experimental error in S was found to be noteover 0.2 per cent.
+whether the static pressure was taken from a iezometer ring: or
+from the static opening of the tube as sup lied y the maker. The
+standard of comparison ww a Thomas e ectric meter, wtvch was
+assumed to give correct readings.=
+I t may therefore be concluded that by proper construction the
+Pitot tube can be made to have a coefficient so near unity that for
+all ordinary purposes the equation
+
+K:
+
+T
+
+rat
+
+P B
+
+(3)
+
+may be regarded as sensibly accurate.
+3. ERRORS WHICH MAY OCCUR IN THE INTERPRETATION QIF PITOT-
+
+TUBE READINGS.
+
+The simple theory which leads to equatio* (3) assume2 that the
+tube is d~vays
+pointed exactly against the current and that the observed head, h, is due to the instantaneous value of the speed S.
+1 W C. P.o<.rse Trans. A S. &I
+.. 1913 p. !33.
+E.
+2
+
+W: XI. whit< Journal issociatioh of f nKineerinqSocieties August 1901.'
+
+a D. 17. Tavlor, Society of Nar-al Architects and Marine ~ n h e e r s&ember,
+,
+4 Chas. II. Treat, Trans. A. S. M. E., !91q p. 1019.
+
+1905.
+
+was simply an alr-lxgh't'-ular
+space about the pipe, connected with the interior of
+the pipe by six small holes.
+6 Fo-.
+accuracy of Thomas meter see C. C. Thomas, Journal Franklin Institute vol. 172, p. 411 and Proceedings Am. Gas Inst., vol. 7, 1912, 339. For more recent experimental ve'riiications of e&ation (2)
+mithoslt use of the Thomas meter see H. Bramwell Report of British Committee on Aeronautics, 19121913, p. 3 5 and Wm. Cramp, ~ a 4 c h e s t eMemoirs, voi. 58, part 2, sec. 7.
+r
+6 The piezombter
+
+%
+.
+
+81
+
+AERONAUTICS.
+
+These assumptions are never exactly fulfilled in ordinary practice
+and accordingly exact results may not be obtained, even when no
+fault is to be found with the instrument itself.
+I n the first place, it is impossible to read the gauge instantaneously;
+furthermore, there is always a time lag between the openings and
+the gauge. Accordingly, even when the current does not change in
+direction, if its speed varies rapidly all that can be observed is the
+mean value of h over a certain time interval, and this value does not
+correspond to the arithmetical mean value of S over the same interv d , even if the interval is lon compared with the time lag, as has
+been shown experimentally by ateau.'
+Disregarding the time lag, the value of S com uted by equation (3)
+will be the root-mean-s uare speed, which is Jways lar er than the
+arithmetical mean spee . Hence if, for example, the itot tube is
+being used to determine the discharge through a steam main feeding
+a reciprocating engine, the computed discharge will be greater than
+the true discharge. This error 1s not likely to be very large. If, for
+'nstance, the s eed varies sinusoiddy with time from 0.5 to 1.5 times
+L ~ S arithmetica mean value, the linear speed computed by equation
+(3) will be 1.0607 times the arithmetical mean speed which determines the total flow, or a trifle over 6 per cent. too la~ge.
+A second cause of error is r a ~ i d
+variability in direction of the current, which makes it irnpossibfe to keep the tube gointed correctly
+even when mounted on a vane. If, as is usually t e case, it is desired to measure merely the component velocity in a fined direction,
+the eddies which almost always exist nlay introduce a considerable
+error when this com onent velocity is computed by equation (3).
+I the variations of grection are small, the error is due almost enf
+tirely to the effect on the static opening and not to change of the
+direction of impact on the dynamic open~ng.~
+This source of error is much reduced in the Dines tube, a form of
+Pitot tube in vl~ich static o ening consists of a number of round
+the
+holes or longitudinal slits in a%ollow cylinder laced with its a x s
+perpendicular to the direction of the impact tu e and to the plane
+m which the variations of direction are expected to occur. When
+this instrument is employed as an anemometer, its principal use, the
+cylinder is of course vertical.
+The heads given by the Dines tube are sensibly mdependent of
+errors in direction up to about 20" on each side of the mean. To
+offset this advantage, the instrument is somewhat less sensitive
+than the ordinary Pltot tube, the coefficient C being greater than 1.
+Furthermore, each tube must be calibrated separately, and it is not
+even certain that the coefficient is strictly constant for each tube.
+Data by Dines show a constant coefficient C = 1.53. Jones and
+Booth4 h d values from 1.20 to 1.70 for different tubes. Zahm
+finds values from 1.42 to 1.50, de ending on the speed.
+I t has sometimes been doubte whether the coefficient C of a given
+Pitot tube was dependent solely on the relative speed of the fluid
+and the tube, the suggestion being that a tube standardized by mov-
+
+%
+
+1
+
+5
+
+?
+
+i'
+
+2'
+
+1 Annales des Mines
+
+2
+8
+4
+6
+
+1898,p. 341.
+L. F. Moody, ~rockedings
+Engineers'Society of Western Pennsylvania, May, 1914.
+Quarterly,Journal, Royal Meteorological Society, vol. 18,1892.
+Aeronautical Journal July 1913, p. 195.
+Physical Review, 190h, p. &o.
+
+82
+
+AERONAUTICS.
+
+ing through a quiescent medium, as with a whirling arm in air, mBy
+not give correct results when used to determine the velocity of a
+fluid past a &xed point. It is difficult to see how the Pitot tube e m
+respond to anythmg but velocity relative to itself. At al events,
+l
+experiments by Fry and Tyndall l have shown that while there was
+some apparent disa eement a t speeds below 11 miles per hour
+(17.7 kilometers) w ere the ex erimental errors were large, for
+higher speeds, up to 36 miles per%our (58 kilometers) both methods
+of standardization gave the same result.
+Which method of standardization should be adopted-motion of
+the tube or motion of the fluid-may? nevertheless, depend on the
+purpose for which the instrument is intended. It is impossible in
+practice to set up an art8cial current of fluid which shall have a high
+speed and not be turbulent and full of eddies; and the only conditions
+to which equations (1) and (2) refer are, in strictness., those of stead
+stream-line flow or steady motion of the tube in a quiescent fluid.
+
+f
+
+5
+
+the tube is to be used in a very turbulent medium, as, for exam lo, in
+measurin the discharge from a fan, i t should be standardize in a
+stream o fluid in which the turbulence is about the same as it will
+be under the working conditions. It might very well happen that a
+given tube when tested on the whirling arm or by moving through
+still water gave a coefficient G= 1, while if the tube were tested in a
+turbulent current some other value of 0 was obtained. I the tube
+f
+were to be used to measure the average speed of a similarly turbulent
+current, this second coefficient should be used and not the value C= 1.
+Apparent errors and inconsistencies in the results obtained by
+equations (1) and (2) have probably been due in part toadisregarding
+the foregoing obvious considerations.
+
+B
+
+f
+
+4. WORKING FORMULAS FOR PERFECT PITOT TUBES.
+
+It will be convenient to collect here, for reference, certain practical
+working forms of equation (3) for the perfect or ideal Pitot tube, that
+is, for a tube having the coefficient 0 equal to unity. I the tube does
+f
+not satisfy this condition, whether on account of its design or from
+1 J.
+
+D.Fry and A. M. Tyndsll, PhilosophicslMagaz9e
+
+(6),
+
+vol. 21, p. 348 1911.
+
+,
+
+circumstances of practical use, the value of C must be
+the necess
+determined y experiment, and the values of S given by the following
+e uations are then to be multi Lied by the observed values of C
+.
+b e start by inserting the va ue g=32.17 ft./sec? or 9.81 m./seo"
+the general equation (3), viz:
+
+"K
+
+P
+
+(3)
+in which S=the speed of the current,
+h =the head on the differential auge,
+d =the density of the liquid in t e gauge,
+p =the density o the current.
+f
+From this we obtain special equations for practical use.
+(A) Any two$uZs.--d and p may have any values but are to be
+f
+measured in the same units. I"ne value o S is given by the equation
+
+f
+
+with the values of X shown ia Table 1 for various methods of expressing S and h.
+TABLE
+1.-Values of X for equation (4).
+
+I
+
+h measured in-
+
+X measured in-
+
+....................
+Mile/hour.. ..................
+M./sec.. .....................
+Mm. of liquid of density d. ............. M./min .....................
+Ft./sec..
+
+Inches of liquid of density d.
+
+........... Ft./min.. ....................
+Km./hour..
+
+..................
+
+(B) Any movingj€uid,gauge liquid water.-The
+by the equation
+
+2.316
+138.9
+1.579
+.I411
+8.404
+.5043
+
+value of S is given
+(5)
+
+with the values of Y shown in Table 2.
+TABLE
+2.-Values
+h measured in-
+
+p
+
+o Yfor equation (5).
+f
+
+S measured in-
+
+measured in-
+
+Y.
+
+Ft./sec.. ...,
+...... 18.28
+.......... Ft./min.. .......... 1097
+Inchesof waterat68O F.=20° C Lb~./ft.~.
+12.46
+Mile/hour.. ........
+
+[
+
+M./sec.. ............
+Kgm./m.3 ......... M./min ............
+Mrn.of~aterat68~F.=20~C.
+&./hour. ........
+
+\
+
+4.426
+265.5
+15.93
+
+84
+
+AERONAUTICS.
+
+When the Pitot tube is to be used in air, the air density p for
+use in equations (4) and ( 5 ) may be found as follows:
+Let B =the barometric pressure.
+Let t = the temperature of the air.
+Let P = t h e pressure of saturated steam at to, from the steam
+tables.
+Let H= the relative humidity.
+Then in English units, if B and P are in inches of mercury and t
+in demees F..
+
+or in metric units, if B and P are in millimeters o mercury and t
+f
+in degrees C.,
+
+Al the numerical data given in this section are accurate enough
+l
+to permit of computing the speed to within 0.i per cent. Actual
+values computed from equation ( 6 ) may be found from Table 7,
+section 13. The calculations required by equatlon ( 6 ) ma
+avoided by the use of diagrams given by Rowsel and Taylor?
+ives a diagram showing the gas constant of moist air, which may
+f e used in place of equation (6a).
+
+&
+:
+
+5. ERRORS OF THE PITOT TIWE AT VERY HEGE SPEEDS.
+
+The theory o the action of the Pitot tube, as gircn in Part 2 of
+f
+this paper, shows that the equations given in the preceding sections must be expected to require a correction if the observed pressure
+difference is enough to compress the fluid sensibly. This w:ll never
+occ~zr
+mdxn l i q ~ i d s in question, though when the instrument is
+arc
+correction required to
+used for measuring the spccd of a gas t h ~
+allow for compressibility might become sensible at high speeds. But
+for the highest speeds attained by aeroplanes, say 130 miles per hour,
+the correction computcd from tho theory is less than 0.5 per cent.,
+an amount which is altogether negligible in comparison either with
+the errors of observation or with the uncertainties of the theory
+itself, which is far froni convincingly rigorous.
+6. GENERAL REMARKS ON RESISTANCE ANEMOMETERS.
+
+When a fixed obstruction is placed in a current of fluid, it experiences a force in trhedirection of flow which depends upon and may be
+used zs a measure of the speed of the current. The force depends on
+the rcl:::i.:e
+motion and is the same, at the same relative speed, when
+the fluid is at rest and the body moves through it, the force then
+t
+appearing as a resistance to the motion. I t is the ~ e m l t a nof forces
+exerted on the elements of the surface of the body ( a ) normally by
+the pressure, which varies from point to point; and (b) tangentially
+Loo cit. p 690.
+
+1
+2 L:;c:
+
+3
+
+cit.'
+31 and plates 33 and 31.
+ddolI H ~ Z ,
+~hermod~namische
+Grundlagen der Kolben und Turbokompressoren, p. 42.
+
+by skin friction of the fluid moving along the surface. Since we are
+now interested only in devices which may be used as anemometers,
+we may as well, for the future, say "air" instead of fluid, and "wind"
+instead of current.
+As regards the pressure, there is always, on the windward or
+upstream side, a region of increased pressure, i. e., of excess above the
+general static pressure of the air; whlle on the leeward or downstream
+side there is a deficient . I n the Pitot tube, the obstruction consista
+of the i act tube wit its open mouth at the upstream end. This
+m
+receives t e excess pressure and transmits it to the gauge. The
+instrument deals solely with the excess pressure on the upstream
+side, of an obstruction of particularly simple form, the drag due to
+skin friction and the suction on the downstream side having no
+effect on the reading of what we have called a perfect Pitot tube.
+The next simplest case is that of a thin flat plate of regular outline
+set normal to the wind. The skin friction forces balance one another
+and the whole normal force on the plate is the surface inte a1 of the
+excess of pressure on the front, over that on the back. 1 K h e plate
+is mounted so that the force of the wind on it can be measured, it
+constitutes s "pressure- late anemometer."
+Various devices whicg are in practical use may be regarded as
+intermediate between the Pitot tube and the pressure plate anemometer. Among these are the Dines tube (seep. 82), the "Stauscheibe,"
+and the Pneumometer. The Stauscheibe is a metal disk about 1
+cm. in diameter with holes in the centers of its two faces from which
+the pressures are led to the two arms of the U gauge, through the disk
+and through the su port by which the disk is held prependicular to
+the current. The neumometer differs from the Stauscheibe only
+in details of construction. For both these instruments the coefficient of equation (1) has the value 0.854, the observed pressure
+difference being influenced by the suction at the downstream face as
+well as by the Impact pressure on the upstream face.l
+In the case of pressure plate anemometers, it is usually the total
+force acting on the obstruction in the wind that is measured, rather
+ihan a manometric pressure, although Stanton used a diaphragm
+and air pressure to transmit the force acting on a plate to a manometer
+
+z
+
+%
+
+i:
+
+symmetrical body of given maximum
+1 Rows?, loo. cit., p. 677 and 654. A. Qramberg,Tecbnische Messungen, third edition, 1914, p. 99. Cramp,
+loc. eit., p 14.
+T. E. Stanton, Collected Researches, National Physical Laboratory, Vol. V, 1909, p. 169.
+
+86
+
+AERONAUTICS.
+
+We have next to speak somewhat more in detail of some special
+types of resistance anemometer.
+7. THE WIND RESISTANCE OF FLAT PLATES.
+
+The resistance of a flat plate normal to a wind of velocity S is
+nearly proportional to S2 and this relation is sometimes represented
+by writing
+P=lrCSZ
+(7)
+in which P is the force per unit area of the plate. The coefficient E
+is approxiinately proportional to the density of the air, but it varies
+with the size and shape of the plate. The independence of Pitot tube
+readings of the size and nature of the dynarmc opening would lead
+us to expect that the pressure a t the center of the front of the plate
+would be independent of the size and sha e of the plate, and Stanton'sl
+ut the suction on the back
+experiments codirm this expectation.
+depends on size as well as speed, thus accounting for the variability
+of K and showing that P is only a fictitious pressure with no physical
+significance.
+We shall confine our attention to square and round plates, for
+which the laws of the distribution of pressure are more simple than
+for very oblong rectangle^.^ When giving numerical values in
+"English units" pressure will be in pounds per square foot and speeds
+
+%
+
+1
+
+8
+
+L c c i t , p. 192.
+o.
+G. Finn and N.
+
+Soldati,Engineering, Mar. 31,1905, p. 397.
+
+AERONAUTICS.
+
+in miles per hour, while in "Metric units" pressure will be in kilograms per square meter and speeds in meters per second.
+A. Square pZutes.-According to EifTel the value of the coefficient
+K of equation (7) in English units varies from 0.00266 for plates 4
+inches square to E=0.00326 for plates 40 inches square or larger.
+The tern erature and ressure of the air during the tests are not
+given. $he comes o n L g metric values are 0.065 and 0.08. Bairstow and Booth a ter analyzing the available data give the equation
+
+f'
+
+in which F is the total force in pounds, s is the speed in feet'per
+second, and I is the length of side in feet. The equation refers to air
+a t 760 mm. and 15" C. or 59" F., I S is measured in miles per hour
+f
+the equation becomes
+
+and if put into the form (7), for the sake of comparison with Eiffel's
+results, it may be written
+
+the coefficient E depending on both S and 2.
+B. Circular dis7cs.-For a circular disk 30 centimeters, qr 11.8
+inches, in diameter, Eiffel gives the value K=0.00276 E n hh, or
+0.0675 metric. Stanton found the values K= 0.0027 Englis (0.066
+metric) by using a 2-inch disk. On the whole, EifFel's results seem
+referable, because the size of disk used by him is more nearly the
+gesirable size for an anemometer.
+As regards the relative importance of the front and back of the
+plate, it may be noted that in a wind of 10 meters per second or 22.4
+miles per hour, Eiffel found that the front of his 12-inch disk accounted
+for 72 per cent of the whole resistance. Zahm has pointed out that
+if a plate be surrounded b a sufficiently broad guard ring ther? will
+be no suction on the bacg, while the ressure on the front lnll be
+uniform and the same as indicated by a? itot tube a t the same speed.
+?
+Table 3 shows the force on a 12-inch disk for different wind velocities, the total resultant force being calculated from EBel's value of
+E- 0.00276 English (0.0675 metric), and from Bairstow and Booth's
+formula for s uare plates, assuming, as some but not all experimenters
+have found, t a t the average pressure would be the same for a circular
+plate with a diameter equal to 1, as for a square of side I.
+
+%
+
+%
+
+1
+
+G. EiffeI The Resistance of the Air, p. 35.
+
+a Re ort British Advisory Committee for Aeronautics 1910-11,
+8
+
+p. 21
+
+T % dtanton Proceedingslnst C E Vol. CLVI 1b03-4 art 2 1 75.
+;
+F Z,
+:iournalr h ~ t i t u VOL 173. janm~2une, p. 256.
+~,
+igi2,
+
+4 A:
+
+AERONAUTICS.
+
+TABLE
+3.-Wind forces in pounds o n a 12inch disk.
+W i n d speed S Force in pound.
+miles per hour.
+"~%$$g to
+
+F
+
+1.94
+3.47
+5.40
+7. 80
+10.60
+13.88
+17.55
+
+30
+40
+50
+60
+70
+80
+90
+
+~
+
+Bairstow and
+Booth.
+
+~
+
+~
+
+~
+
+~
+
+d
+
+s
+
+1. 97
+3.50
+5.53
+8.00
+11.01
+14.48
+18.48
+
+TABLE ~ . - F i n d forces in kilograms on a 30-centimeter disk.
+Q
+in kiloForce in kilograms according ~
+B
+to Eiffel.
+and Booth.
+
+W i n d speed S
+bilometer~
+per
+hour.
+48.3
+64.4
+SO. 4
+96.5
+112. 8
+128.8
+145.0
+
+0.86
+1. 53
+2. 38
+3. 44
+4. 68
+6. 13
+7. 75
+
+~
+
+~
+
+0. 87
+1.55
+2.44
+3.53
+4. 87
+6.39
+8. 15
+
+8 RESISTANCE OF SPHEWES AND BEMISPHERES.
+.
+
+Next to thin plates and hemispherical cups the sphere has been
+most frequently em loyed in static resistance anemometers as the
+obstruction oppose to the wind. I n addition to the fact that a
+s here is symmetrical about all diameters, so that the indications
+o a s here anemometer may be made independent of changes in
+wind cfbection, the sphere has the further advantage of simplicity
+of form so that it may readily be duplicated. A disadvanta e of the
+sphere, as compared with thm plates, is the lower value of t e coefficient K of equation (7).
+According to W. H. Dines, as quoted by Lanchester; K has a
+value of 0.00154 English for a sphere 6 inches in diameter, or 0.0378
+mekric for one 153 millimeters in diameter. Dines's tests were
+made with a velocity of 21 miles an hour (34 kilometers). Eiffel
+ives K as 0.00045 (0.011 metric) and explains the difference between
+%is value and that of 0.001 12 (0.0275 metric) found a t Gattingen,
+as follows: K decreases with an increase of velocity until a certain
+critical velocity is reached, after which K remains near1 constant
+st 0.00045 for the three s heres experimented u on. ~ g i critical
+s
+velocity was found to be a out 27 miles an hour or a 6-inch sphere,
+16 miles for a 10-inch sphere, and 9 miles for a 13-inch sphere (12,
+
+8
+
+P
+
+f
+
+f
+
+1
+
+F. N.
+Lanchester, Aerodynamics, p. 25.
+
+1La Technique Aeronautique, 1913, p. 146.
+
+P
+
+'
+
+'
+
+I
+I
+
+,
+
+~
+
+89
+
+AERONAUTICS.
+
+7, and 4 meters per second, respectively, for the 16, 24, and 33 centimeter spheres). The high value of the Gottingen coefficient is,
+according to Eiffel, due to the fact that velocities of over 23 miles
+an hour (36 kilometers) can not be obtained a t that laboratory.
+I t will be noted that even for a 6-inch sphere the eritical velocity is
+well below the lowest flying s eeds used in practice.
+Table 4 shows values of Pil or hemispherical cups, according to
+Dines.
+
+P
+
+TABLE
+4.-Values of K in equation .(7) for hemispherical cups.
+English.
+
+/
+
+I
+
+Xetric.
+
+I
+
+English.
+
+Yetric.
+
+I
+
+English.
+
+/
+
+Metric.
+
+Diameter of cup.
+26in.
+
+5in.
+
+127mm.
+
+Sin.
+
+0.00386
+.00168
+
+0.095
+.041
+
+0.00402
+.03138
+
+64mm.
+
+229mm.
+
+Cup facin wind .............. 0.00597 0.146
+Cup with$ack to wind ........ .00239 .059
+
+0.099
+.034
+
+Since Dines used only the one s eed of 21 miles an hour, there
+is a doubt whether his values woul hold for higher speeds. I t appears that with a cu there would be little if an reduction in dia.meter as compared wit a plate giving an equal orce, though the cu
+would have the a,dvantage of greater strength for a glven force an$
+weight. The difference in the force acting on the cup in its two
+positions, which is the driving force of the Bobinson anemometer,
+IS clearly indicated by the table.
+
+2
+
+li
+
+9
+
+9. PRACTICAL FORMS OF RESISTANCE ANEMOMETER.
+
+&Iaximl used a pressure plate anemometer consistin of a disk
+with a spring resistance. h i s arrangement had the a vantage of
+fairly umform graduations of the scale, the spring acting indirectly,
+-with variable leverage on the pressure late.
+In the pressure- late anemometer of iaes the variable resistance
+is furnished by a oat partly immersed in water, the pressure on the
+plate being equal to the wei ht of a volunze of water equal to that
+of the part of the Aoat raise above the water level.
+The 1914 catalogue of Aera, Paris, shows a pressure plate
+anemometer which is merely a speed indicator. It is supplied with
+three disks, so that it may be set for any speed between 50 and 75
+miles an hour (80 and 120 kilometers). The pointer will then show
+whether the actual speed is above or below the normal. Aera also
+make an anemometer using a sphere, in the form of a pendulum.
+This instrument reads onl to 45 miles an hour (72 kilometers) and
+has graduations coming c oser together a t higher speeds. It would
+be very inaccurate without some means for hold~ng vertical.
+lt
+The Davis Lyall air s eed indicator, made by John Davis & Son,
+of Derby, England, is a ridled anemometer of the screw t e which
+should be held with its back to the wind, though the man acturers
+
+d
+
+5
+
+1
+
+2
+
+9
+
+f
+
+1 H.
+
+Maxim Natural and Artifirial Flirrht,
+%Quarterly
+humal, Royal hIeteo~o!oglcd &$,
+cy
+;
+
+I
+
+vol. 18,1892, p. 167.
+
+90
+
+AERONAUTICS.
+
+'
+
+do not provide it with an air vane to do this automatically. This
+defect is remedied in the Aera bridled anemometer. Concerning the
+Davis Lyall instrument, it is stated:
+T avoid undue oscillation of the pointer a damper is provided-either magnetic
+o
+or m. Such a damper is rendered necessary in measuring velocities in a natural
+wind which varies mthin wide limits.
+
+When it is desired to invest' ate the gusty character of natural
+winds, the sensitiveness pf a brid ed anemometer becomes an advanta e. Concerning a bridled anemometer consistmg o five hemif
+sp erical cups attached to. a vertical spindle by short arms, Stantonl
+says that t.hls instrument is more sensit!ve to momentary gusts than
+any o the other recordmg instruments m common use.
+f
+
+-7
+
+%
+
+10. THE ANEMO-TACHOMETER.
+
+When anemometers o the screw t e are used for high velocities,
+f
+there is danger that the vanes will e deformed and the velocity
+indications become unrdiable, and for this.reason cup anemometers
+are more suitable for out-door work. Wllhelrn Morell, of Leipzig,
+has placed on the market an anemo-tachometer illustrated in the
+Deutsche L~ftfahrer.~
+!t'his is a Robinson anemometer with tachometer attached for aeronautical purposes, the tachometer being an
+instrument, usually actuated by centrifugal force like a steam enine flyball governor, so that velocities may be read at a glance
+from the position o a pointer. It will be noted that with a tachomf
+eter, in contrast to a revolution counter, no measurement of a time
+interval is required. The anemo-tachometer also has the advantage
+of all Robinson anemometers that the wind vane may be dispensed
+with.
+According to a communication.from Morell, his anemometers are
+calibrated m a wind tunnel, bullt in accordance wlth designs of
+f
+Prof. Prandtl o the University of Gottingen, in which air currents
+up to 78 miles per hour (125 kilometers), can be obtained. It is
+stated that some of these instruments have been in constant use for
+two years without needing recalibration.
+The anemo-tachometer, as well as other anemometers, should be
+attached to the aero lane in such a manner that its indications are
+5l
+not influenced by t e irregular and indeterminate wash of the
+machine and propeller. It has been proposed to lengthen the distance between the cups and the casing, so as to brin the cups above
+the upper supporting plane, while keeping the dia on a level with
+the pilot's line of vision. The objection to this lengthening is that
+it might change the friction and hence the indications o the instruf
+ment, and necessitate a special calibration.
+What appears at h t sight to be a solution o the difEculty, would
+f
+be to provlde the anemometer axis with a small electric generator,
+and use the electric voltage, thus generated to indicate speed of
+rotation by means of a voltmeter. We should anticipate, however,
+that electric indicating instruments, as at present constructed,
+would not long retain their accuracy when exposed to the vibrations
+on an aeroplane.
+
+?
+
+f
+
+1 Collected Researches,
+
+a Apr. 2,1913,
+
+p. 168.
+
+National Physical Laboratory, Vol. V, p. 174.
+
+e
+
+1 . THE BOURDON-VENTURI ANEMOMETER.
+1
+
+The Venturi tube consists of a short converging inlet followed by
+a long divergin cone, the entrance and exit diameters being usually
+e ual so that t e tube may be inserted as a section of a pipe h e .
+is generally a short cylindrical throat. The c o n v e r - g part
+has somewhat the shape of a vena contracta, but its exact orm is of
+little importance. The exit cone has a total angle of about so,this
+being found to give the minimum frictional loss for a given increase
+of diameter.
+
+ere
+
+%
+
+When a current of fluid passes through the tube, the pressure in
+the throat is less than a t entrance to the converging inlet, by an
+amount which depends on the ratio of entrance to throat area, the
+f
+density of the fluid, and the speed of flow. I the tube is rovided
+with side holes and connections to a differential gauge by w ich this
+pressure difference may be observed, it constitutes a Venturi meter.
+The area ratio is a known constant for a given tube, so that when the
+density of the fluid is known the observed ressure difference may be
+used as a measure of the speed of flow. d e n the ressure difference
+is expressed as the height of a water column, it is k o w o technically
+as the "head on Venturi."
+as an anemometer by pointin
+Such an instrument
+the observed hea
+it so that the wind
+Bourdon l employed
+may then serve
+has been used recently
+the Venturi tube
+as an aeroplane anemometer.
+At a given speed, the observed head increases with the ratio a! of
+entrance to throat area and the instrument may be made to
+much lar er head than a Pitot tube. This is illustrated by the
+iven in t a b l e 5 for a tube in which rr =4, the throat having
+%meter of the entrance. The data are for air at atmos heric pressure and 70' F. Column (2) gives the head which would e observed
+with a Pitot tube; column (3) that observed by Bourdon; and column
+(4) the ratio of (3) to (2).
+I Annales des Mines, September and October,1881; Comptes Rendus, 1882, p. 229.
+
+g
+
+f
+
+B
+
+TABLE
+5.-Comparison
+(2)
+
+(1)
+
+Mls
+ie
+
+10
+20
+30
+40
+50
+60
+70
+80
+90
+
+I
+
+-
+
+(4 )
+
+(6)
+
+Head on Venturi according to Bourdon.
+
+Col.3.
+Col. 2.
+
+Theoretical head on
+Venturi.
+
+Meters
+
+Ins.
+
+am.
+
+Ins.
+
+Mm.
+
+4. 47
+8.94
+13.41
+17.88
+22.35
+26.82
+31.29
+35.76
+40.23
+
+0.05
+.19
+.43
+.77
+1.20
+1.73
+2.35
+3.07
+3.89
+
+1. 3
+4.8
+10.9
+19.6
+30.5
+43.9
+59.7
+78.0
+98.8
+
+0. 17
+.80
+2.30
+4. OK
+6.6"
+10.0'
+15.0"
+20.0"
+25. 0"
+
+4
+20
+58
+102*
+168"
+254"
+381n
+508*
+635*
+
+see.
+
+-
+
+(3)
+
+Pitot-tube
+
+Wind speed.
+
+hot~r.
+
+of Pitot and Venturi heads for a=.+.
+
+Ins.
+
+3. 4
+4.2
+5. 3
+5.2
+5.5
+5.8
+6.4
+6.5
+6.4
+
+,
+
+Mm.
+
+0. 7
+2. 9
+6.8
+12.3
+20.0
+30.0
+45.0
+63.0
+
+18
+74
+173
+312
+508
+762
+1,143
+1,600
+2,286
+
+90.0
+
+In figure 1 the line H G represents Bourdon's observations and the
+starred values in column ( 3 ) of Table 5 were read from the clotted
+extension of this curve. While this extrapolation can make no claim
+to accuracy, it appears from column (4) of Table 5 that a Venturi
+tube with a 2 to 1 diameter ratio would robably give at least five
+times as much head as a Pitot tube at or$inary aeroplane speeds.
+The curve F E of figure 1 and the numbers in column ( 5 ) of Table
+5 were found from equation (27) of Part 2, which is known experimentally to agree closely with the facts when the Venturi meter
+is inserted in a pipe line instead of being used as an anemometer with
+both ends free. Upon introducing the known values of k and p for
+air a t one atmosphere and 70' F., equation (27) reduces to
+
+J
+
+S = 1720
+
+2
+
+,,
+
+r T ( 1 - rT)
+a2
+lo - r
+
+miles per hour.
+
+i
+
+I the 1720 is re laced by 769, the result will be in meters per second.
+f
+What part o the great discrepancy between columns ( 3 ) and ( 5 )
+of Table 5, or between E F and G H of figure 1, is to be ascribed to
+friction or other circumstances which make the Venturi t,ube act differently as an anemometer and as a flow meter, and what art to
+Bourdon's experimental arrangements and possible errors of o servation, can not be decided without further investigation; but in any
+event, i t is obvious that with the Venturi tube a much larger head is
+available than with a Pitot tube.
+Since Bourdon wanted an anemometer for very low speeds, he
+increased the available head still farther by using two concentric
+tubes, the exit end of the inner one being at the throat of the outer,
+so that the suction there increased the speed through the inner tube
+and the fall of pressure a t its throat. The proportions of the tubes
+which were adopted as giving the best results were as shown in
+Table 6.
+
+?
+
+g
+
+ti
+i
+
+93
+
+AERONAUTICS.
+
+TABLE
+6.-Proportions
+
+of Bourdon's double V2ntzbri tube anemometer.
+
+'
+
+I Inner tube.
+............................
+
+.............................
+(a Of converging cone.. ...........................
+(b] Of divergmng cone...............................
+
+Relative throat diameters.. .....................-.......
+
+I
+
+Outer tube.
+
+94
+
+AERONAUTICS.
+
+No c lindrical throat iece wm used with either tube, the convergin an diverging cones\eing connected directly.
+%ourdon also used a similar arrangement of three concentric tubes.
+The heads obtained with this, at various wind speeds, are shown on
+figure 1by the curve D C and by the isolated polnt A. The point 3
+is from tests of a 3-tube instrument by Brown Boveri & C0.l
+The proportions of single-tube anemometers as used in modern
+French practice seem to be somewhat like those of Bourdon's inner
+tube. (See Table 6.) The length of tube in the anemometer made
+by Aera, of Paris, is 6.3 inches (160 mm.) or nearly the same as the
+len th of the diverging cone of Bourdon's inner tube. Doranc12gives,
+wit out dimensions, a section of a Venturi-tube anemometer which
+indicates a ratio of throat to entrance diameter of about 0.2. The
+proportions proposed by Toussaint and Lepare as a result of recent
+ex eriments are very similar to those of Bourdon7souter tube. (See
+~ a i l 6.)
+e
+
+1
+
+%
+
+12. REMARKS ON THE SPECIAL CONDITIONS T O WHICH AEROPLANE
+ANEMOMETERS ARE SUBJECT.
+
+A. Weight and head resistance.-These must both be small-the
+smaller the better. Accordin ly we need not consider any essentially
+heavy instruments, such as t ose which require the use of electric
+batteries, nor instruments like large pressure plates which offer a
+head resistance of several pounds.
+B. Robustness.-The very severe conditions of vibration preclude
+the possibility of usin instruments which are not mechanicall
+strong or which can not e made so without too great weight. ~ o t g
+the anemometer head proper, and the transmitting and indicating
+parts must be simple, light, strong, and free from the need of delicate
+adjustment or frequent testing.
+C. Position.-The head must, so far as practicable, be out of reach
+of irregular currents and eddies and therefore a t some distance from
+the indicator or dial in front of the pilot. The available ositions
+are (a) in front of the center of the machine, (6) well above t e upper
+planes over the pilot's head, (c) near one wing tip. Position (a)
+might be practicable and satisfactory in some cases but there is a
+possibility, unless the head were very far in front, that the readings
+might not be the same, a t a given speed, during normal flight as when
+planing with the motor stopped. We have no information on this
+The influence of the body extends some distance ahead, a
+fs$t&hich should not be o~erlooked.~
+Position (6) would often
+require the construction of a special support, increasing the weight
+and head resistance. Position (c) seems the natural one to adopt if
+a transmission of the requisite length can be made satisfactory; but
+here again i t should be noted that the disturbance due to a strut or
+wing begins some distance ahead of the leading edge.5
+D. Orientation.-While most anemometers have to be pointed
+directly into the wind if they are to indicate its resultant velocity,
+
+%
+
+%
+
+%
+
+I Zeitschr. d Ver. Deutscher Ingenieure 1907 p 1848.
+2 E. ~ o r a n d La Technique ~ e r o n a u t i ~ & e~ v . ' I 1911, p.
+;
+N,
+,
+
+252.
+
+Rep Brit. Adv Corn for Aeronautics 191%13, p. 396
+See lor example the results of experi&ents on the ~ b i e n f e l d e - ~ o s s high-speed electric railway, The
+en
+~lectricianJune 17' 1904.
+6 See E. 6. Relf, hep. Brit. Adv. Corn. for Aeronautics, 1912-13, p. 133.
+a
+4
+
+95
+
+AERONAUTICS.
+
+F. Vertical acceleration and centrifugal force.-Vertical acceleration
+acts merely as a changt of the intensity of gravity. It will, therefore,
+have no effect on an Instrument which is properly constructed in
+accordance with El above.
+Centrifugal force must be allowed for in a similar way by careful
+balancing of all movable parts so that the lateral acceleration of the
+whole machine during curved flight shall not Muence the readings.
+This balancing in the transmission is equally necessa
+whether
+forces are transmitted by rods or wires or pressures by fu s m tubes.l
+li
+
+p..
+
+13. DENSITY CORRECTIONS.
+
+Before considering the effects of changes of air density on the
+indications of particular types of anemometer it wiU be well to see
+how reat these variations are likely to be under working conditions.
+For t 's purpose we consult equation ( 6 ) of section 4, vie,
+
+%
+
+in which
+p= the density of the air in pounds per cubic foot.
+B = the barometric pressure m inches of mercury.
+t = the temperature of the air in degrees Fahrenheit.
+P= the pressure of saturated steam at to in inches of mercury.
+H = the relative humidity (H= 1.0 for saturated air).
+
+The ranges we shall assume are : B =30 to 20 inches, corresponding
+to a rise from sea level to about 10,000 feet altitude; t =0° to 90°
+F . ; H = 0.0 to 1.0, i. e., from complete dryness to saturation.
+We ma f i s t consider the term 0.376 P H . Taking P from the
+steam tab es we have
+
+P
+
+at t =50'
+0.376 P=0.136
+0.376 P x 0.5 = 0.068
+
+70°
+0.278
+0.139
+
+90'
+0.533
+0.267
+
+1 For a, discussion o the effect o vertical acceleration and centrifugal force on liquid manometers the
+f
+f
+reader may be referred to an article by H. Darwin, Aeronautical Journal, July, 1913, p. 170.
+
+96
+
+AERONAUTICS.
+BB
+
+I we assume a constant relative humidity H = 0.5, while in fact
+f
+the humidity varies all the way from 0.0 to 1.0, the maximum error
+we can make in the value of 0.376 PH is 0.376 P x 0.5, of which the
+values at 50°, 70°, and 90' are shown above. To h d the percentage
+error which this assumption can introduce into the computed value
+of p, we must compare these errors with the value of B. The following table shows the maximum per cent. errors in p a t 50°, 70°, and
+90" F. and at 20 and 30 inches pressure which can be caused by
+assuming H = 0.5.
+
+t = 50"
+B = 20 inches
+B =30 inches
+
+t = 70'
+
+0.23%
+
+0.46%
+
+o O 0.70%
+m
+
+t=90°
+1.33%
+0.89%
+
+Since a temperature of 90" P. will seldom or never prevail a t an
+altitude where the pressure is as low as 20 inches, we may regard 1
+per cent. as about the maximum possible error, and m the vast
+majority of cases the actual error will be less than 0.5 per cent.
+Now with the anemometers we need to consider, a given percentage
+error in the density causes only about half as much error in the
+s eed 8; and furthermore, an accuracy of 1 per cent. in measuring
+t e speed of an aeroplane may be regarded as satisfacto~. Hence
+the assumption of a constant relat~vehumidity of 50 per cent.
+(11= 0.5) is quite approximate enqugh. for our. purpose, and we
+(6)
+adopt this assumption and thereby slmphfy equat~on to the form
+
+i~
+!
+
+p= 1.327 B-0'19
+460 t
+
++
+
+pounds per cubic foot.
+
+From e uation (8) we may now compute a table of approximate
+values of t e air density at rarious values of the barometric pressure
+B and the temperature t . It will be convenient to have the values
+expressed, not in pounds per cubic foot, but in terms of a standard air
+density, and for this the value =0.07455 has been chosen. This is
+the density at B = 29.92 inches, t= 70" F'., and H=0.5, conditions
+which are a fair average representation of those which are like1 to
+prevail during anemometer tests. The values are shown in Tab e 7.
+
+1
+
+r
+
+density D of air at B inches pressure, to F., and 50 per. cent relative
+humidity, referred to air at 2 9 . 9 inches pressure, 70° F., and 50 per cent. relative
+humidity.
+
+TABLE
+7.-Relative
+
+.
+
+97
+
+AERONAUTICS.
+
+We have next to consider how these variations of density may
+affect the readings of an anemometer which has been tested under
+standard conditions.
+A. The Pitot tube.-The Pitot tube formula may be e t t e n
+
+or for a standard density po
+
+At any other density, p=Dp,, we have
+
+I the tube has been standardized at the density po and the constant
+f
+A, determined, or if the gage has been provided with a speed scale
+or a table for converting its readin at the standard densit po into
+speeds, the true speed at any other ensity p is found by m tiplying
+1
+the indicated speed by - Values of - computed from Table
+dBe
+JD
+7 are given in Table 8.
+
+r
+
+.
+
+TABLE
+8.-Values
+
+I
+
+J
+
+.
+
+of
+
+2f o wre in equation ( 9 ) .
+~
+
+JD
+
+Barometric height B in inches of mercury.
+
+I the purpose of reading the anemometer is not, primarily, to
+f
+ascertain the speed, but to jud e of the wind pressures on the machine
+which determine the lift and t e stresses, then the densit correction
+should not be applied. For at an given angle of attacz, the wind
+forces are very nearly proportions to the Pitot pressure; when the
+gauge shows a given readin , the wind forces are always the same;
+and from the stand oint o sustaining ower and stren th it is
+immaterial how the orces arise. Hence rom the point o view of
+the aviator who is concerned with the safety of his machine, the
+
+%
+
+P
+
+25302"-S. DOC.
+268,64-1-7
+
+I
+
+Y
+
+P
+
+t
+
+98
+
+AERONAUTICS.
+
+'
+
+speed readings of the Pitot-tube anemometer correct thmselves
+automatically-if the machine flies safely a t a given speed and in
+air of a given density, it will be equally safe in air of any other densit , regardless of ressure, temperature, and humidity if the Pitottu e auge gives t e same readmg.
+,
+B. %re.sszlre-plate anemometers.-It wou~dnaturally be sup osed
+that the readings of pressure plate anemometers would be a ected
+b variations of air density in the same way as those of Pitot tubes.
+d e theory o the subject, however, is not entirely clear, and it is
+f
+diEicult to interpret some of the ex erimental results which have
+been obtained.' In the absence of urther investigation it would
+seem safest to make the densit correction, when necessary, exactly
+as is done for the Pitot tube. f f the readings are taken only for the
+sake of estimating the wind forces on the machine, the density correction is to be omitted, just as with the Pitot tube.
+C. The Bourdon- Ven!uri anemometer.-If the results of Bourdon's
+experiments agreed closely with computations from the theoretical
+equation of the Venturi meter, we should feel justified in using that
+equation to compute densit corrections to be applied to the readings of an instrument which ad been tested a t a standard air density.
+But the discrepancies shown by curves GH and EF of figure 1 are
+so large that we can not trust the theoretical equation at all for a
+Venturi tube used as an anemometer. It appears that further
+e erimental investigations of this instrument are needed.
+.Rotary anemometers.-Regarding rotary anemometers, Jones
+and Booth say:
+
+!i
+
+B
+
+,
+
+I
+
+P
+
+'
+
+!'i
+
+<
+
+Xf;.
+
+The principal advantage possessed by instruments o this type is that they read the
+f
+actual travel through the air independently of variations in density.
+
+It seems likely, however, that this independence is only approximate and not com lete. The ratio of cup or vane s eed to wind
+speed depends on t e value of the least wind speed w ich will just
+keep the anemometer turnin a ainst friction. And since each vane
+or cu when moving very s ow y acts as a pressure plate, it seems
+!
+that h e wind speed required in .order to furnish the torque for very
+t
+low speeds of rotation must depend on the air density. Hence it
+seems probable that at higher speeds the action of instruments of the
+Robinson or of the screw type is somewhat influenced by air density.
+Exact information on this is lacking.
+
+BK
+
+g
+
+,
+
+14. COMPARISON OF TYPES OF ANEMOMETER.
+
+Anemometers in general might be compared from various poipts
+of view; but since our purpose is strictly practical, we shall a t once
+exclude from the discussion an instrument which can not be made
+satisfactory on the score of (aymbustness combined with lightness,
+(6) independence of gravity, and (c) flexibility of transmission, permitting the head to be placed at a distance from the indicator in
+front of the pilot's seat. There seem then to remain for discussion
+the Pitot tube, the pressure plate, the Venturi tube, and the Robinson
+anemometer.
+A. The Pitot tube.--This has been the most studied, and we can
+speak of it with more certainty than of the others. The head is
+1
+
+See Rayleigh Rep. Brit. Adv. Corn. for Aeronautics, 1910-11, p. 26.
+h a l , July, 1913, p. 192.
+
+1 Aeronautical i
+
+1
+
+J
+I
+
+'
+
+99
+
+AERONAUTICS.
+
+simple and ma be laced in any position; and the transmission of
+the pressure tLougg tubes presents no obvious dficulties. The
+prime defect of the instrument is the smallness of the pressure available for actuating the indicator. While sensitive liqud gauges may
+be used under some circumstances, anything but a spring a e seems
+out of the question for all-round use. The problem wit t e Pitot
+tube is to make a satisfactory spring gauge which shall a t the same
+time be sufEciently sensitive and so robust as to be reliable. The
+problem looks di£Ecult, but may not be insoluble.
+B. The pressure phte.-By an increase of size, the ressure plate
+may be made to ive as large a force as is desired, the &rut being set
+by the amount o head resistance which it is considered ermissible
+to devote to an anemometer. Transmission by wires un$er tension
+might be practicable but would be liable to get out of order and to be
+semously disturbed by vibration. Transmission by means of liquid
+pressure might be managed but would introduce complications, and
+the development of the instrument in this form would demand a
+great deal of experimentation. I n spite of its attractiveness and
+a parent simplicity at first sight, the pressure plate does not, on the
+w ole, seem very promising as a practical aero lane instrument.
+C. The Bourdon- Venturi anemometer.-The eenturi tube furnishes
+
+%?
+
+f
+
+%
+
+independently of the
+knowing this speed is
+seem as if the ordinary
+turns would, i practice,
+n
+the attachment of a
+tachometer to give instantaneous speeds.
+Having now discussed some of the mechanical characteristics of
+the four t es of instrument we may take another standpoint and,
+assuming t a t a mechanioally satisfactory instrument of each type
+can be constructed, ask whether one presents any advantages over
+another. The answer to this question depends on why we want to
+know the speed.
+wanted is to estimate the distance traveled through the
+If what ~s
+air, some form of Robinson anemometer seems to be the thing to use,
+because it is independent of air density, to a f i s t approximation, at
+
+P
+
+1 See Eiffel,
+
+The Resistanw of the Air, p. 234.
+
+100
+
+AERONAUTICS.
+
+all events. The other three types o instrument will all require.to
+f
+have a density correction a p ~ h e d their readings, if the air density
+to
+is far different from that during standardization, and they are thus
+a t a disadvantage.
+But it appears that the speed through the air is, in general, not
+itself the important quantity sought; for at best it does not tell us
+the speed over the ground until it is compounded with the speed o
+f
+the wind which may happen to be blowing. A more important use
+of the anemometer is pot properl. as a speedometer .but as a dyn*
+mometer, i. e., as an mstrument or inhcatmg the a r forces on the
+machine. For this purpose, any instrument such as the anemotachometer which gives the speed without reference to the density
+will require a density correction to its readings, whereas the Pitot
+tube gives just what is wanted, the allowance for density being
+already present in its uncorrected readings, so that e ual readings
+mean e ual pressures, whatever the density may be. %he pressure
+late f& in the same class as the Pitot tube. O the Bourdonf
+tenturi anemometer we can say very little until the instrument has
+been further studied, but it seems likely that it also will act rather
+as a dynamometer than as a speedometer, if its readings are not corrected for variations of air density.
+Still another question which may be asked i , What sort of mean
+s
+speed does a given anemometer indicate when exposed to a .gusty
+wind? In regard to t h s question, the four t es under consideration fall into the same grouping as before. Wit the Pitot tube, the
+ressure plate, or the Venturi tube, the pressure difference or the
+force depends on the square of the wind speed, and the mean reading
+of any of these instruments in a wind o varying speed will therefore
+f
+give not the arithmetical mean speed but the root-mean-square s eed,
+which is what determines the mean wmd forces on the aero ane.
+The memo-tachometer, on the other hmd, will probably in%cate
+somethin between the arithmetical mean and the root-mean-square
+speed. 1f it had no inertia it might be made to indicate the arithmetical mean, but the effects o Inertia in causing lag or lead will
+f
+probably make the mean reading of the instrument m a wind of
+variable strength somewhat higher than it would be in the absence
+of inertia. The fact that this might result in a slight overestimate
+of the total travel will hardly be of any moment, in mew of the im 0ssibility, for the aviator, of measuring and allowing for the true ve ooity of the wind with respect to the earth's surface.
+
+I
+
+9g
+
+P
+
+P
+
+REPORT No, 2,
+PART 2.
+
+THE THEORY OF THE PITOT AND VENTURI TUBES.
+By E. BUCKINGHAN.
+
+I. THE ENERGY EQUATION FOR STEADY ADIABATIC n o w OF A
+
+nm.
+
+Let a fluid be flowing steadily a10 a channel with impervious and
+nonconducting walls, from a sectiony to a section A,, the areas of the
+sections pe endicular to the direction of flow being also denoted by
+A and A,. ?ly saying that the flow is "steady" we do not mean that
+it occurs in stream lines and without turbulence. We mean mere1
+that it is "sensibly" steady; i. e., that such variations pf speed:
+direction of motion, pressure, etc., as may occur at any pomt-m the
+stream as a result of turbulence are so rapid that our measuring rnstruments do not respond to them, but indicate only time averages; and
+that these time averages are constant at any fixed point withrn the
+channel. Values of a property of the fluid, or of any other quantity
+such as speed, "at a point," are therefore to be understood as time
+averages over a time which is long compared with the speed of variation of the quantity to be measured, though it may appear short in
+the ordinary sense.
+Let 0, p, v, E, T, respectively, be the absolute temperature,
+static pressure, specific volume, internal energy per unit
+mass, and kinetic energy per unit mass, a t the entrance section A. By the "static pressure " is meant the pressure which would
+be indicated by a gauge moving with the current. Let el, p,, v,, el,
+T be the corres onding quantities a t the exit section A,. Both sets
+o! values are tq e understood as avera es over the whole section, as
+well as time averages in the sense exp ained above. The two sections shall be at the same level, so that the passage of fluid from A
+to A, does not involve any gravitational work.
+As a unit mass of fluid crosses A, the work pv is done on it by the
+fluid following; and as it crosses A, it does the work plvl. on the fluid
+ahead. Since the walls of the channel are nonconductmg, no heat
+enters or leaves the fluid between A and A,; hence the total energy,
+internal plus kinetic, increases (or decreases) by an amount equal to
+the work done on (or by) the fluid, and we have
+
+g
+
+7
+
+So far no assum tions have been made and equation ( 1 ) is rigorous1
+correct for adia atic flow between two sections a t the same levee
+Internal heat' by skin friction or the dissipation of eddies is merely
+a conversion o energy. from one form into another and not an addition of energy; hence it does not affect the validity of equation (1)
+and need not appear r it.
+n
+
+!
+T
+
+2.
+
+INTRODUCTION OF THE MEAN SPEED INTO THE ENERGY EQUATION.
+
+Let Q be the volume of fluid which crosses the section A per unit
+time, and let S=Q +A; then S is the arithmetical mean, over the section, of the component velocity normal to A and along the channel.
+Let Q, and S, be the corres qnding values a t A,. Measuring kinetio
+energy, as well as work a i ~nternal
+n!
+energy, m normal mass-lengthtime units, we then set
+
+and proceed to substitute this expression for ( T - T I )in equation ( 1 ) .
+This substitution is indispensable to further progress, but it involves
+an assumption which destroys the rigor of all further deductions.
+The deductions are,. nevertheless, very approximately confirmed by
+experiment, and it is therefore worth while to examine the assumption.
+I there were no turbulence and if the speed were uniform over
+f
+each section, we should have the two separate equations
+
+f
+and equation (2) would be exact. I there is no turbulence but the
+speed of flow is nonuniform, approaching zero a t the walls, as it must
+where the channel has material walls, equations ( 3 ) will not be satisfied, but we shall have T >+S2 and TI>+St, because the mean
+square speed, which determines the kinetic energy, is always greater
+than the arithmetical mean s eed S when the distribution over the
+section is not uniform. Wit! a round n i ~ e
+l
+and nonturbulent flow
+--..
+T = gS2 &stead of $S2.
+In nearly all practical cases the flow of fluids is turbulent and the
+relation of the whole kinetic energy, including that of the turbulence,
+to the arithmetical mean normal component of the speed a t the given
+section will depend on the amount 6f turbulence. It is impoisible
+to say what the relation will be further than that the kinetic ener
+of eddies and cross currents tends to increase the error which wo d
+be involved in assuming equations ( 3 ) , while, on the other hand, the
+fact that with increasing turbulence the speed becomes more nearly
+uniform over a cross section tends. to decrease the difference between
+the mean square and the arithmetical mean of the component normal
+to any section.
+A
+
+L
+
+B
+
+;
+
+The assumption involved in using equation ( 2 ) is not, however, so
+violent as that which would be Involved in using equations (3)
+separately. For equations ( 3 ) are equivalent to
+
+whereas equation ( 2 ) is satisfied if
+
+no matter what the value is. Equation (4) and its equivalent ( 2 )
+are satisfied if the error in assuming equations ( 3 ) to hold is the
+same a t both sections without vanishin or even being small. This
+will occur if the kinetic energy of tur ulence is the same a t both
+sections and if also the speed distributions over the two sections are
+such that the arithmetical mean normal s eed is the same fraction
+of the mean-square normal speed a t bot . While therefore i t is
+evident that the use of equations (3) separately might lead to conclusions a t variance with facts, equation ( 2 ) ma nevertheless be
+nearly fuliilled in practice. The agreement witi observatio? of
+deductions from equations (2) and (1) shows that in many o r d ~ a r y
+cases the .errpr .committed by treating equation ( 2 ) as exact 1s in
+reality q u t e msig;;"~a?t.
+For geometrica y sirmlar channels, the percentage error of equation
+-DS
+( 2 ) depends only on --, in which v is the kinematic viscosity of the
+fluid and D a linear dikension of the channel. With a given fluid in .
+a given channel increasing S increases the turbulence, but i t is
+2T-S2
+not evident how this will affect the percentage error, 7
+if
+a t all. Hence, i t seems possible that although turbulence increases
+DS
+with --, the percentage error in assuming equation ( 2 ) may
+not increase but remain constant or even decrease. On the other
+DS is
+hand, a t a given speed S, if 7 increased by increasing D or dimin-
+
+%
+
+,
+!
+
+'
+
+2 T - S 2 will
+ishing v, the turbulence and the value of 7 be increased
+
+and there will be a greater chance that e uation ( 2 ) may be sensibly
+in error. At a given mean axial speed i? we must therefore be prepared to find greater discrepancies between experiment and results
+deduced from equation ( 2 ) for large channels and fluids of low
+kinematic viscosity than for the opposite conditions.
+We shall now proceed as if equation ( 2 ) were rigorously exact, and
+by combining i t with equation (1) we obtain
+
+an e uation which serves as the point of departure for the theory of
+the itot tube, the Venturi meter, the steam-turbine nozzle, and
+various other devices in which a stream of fluid is retarded or accelerated adiabatically.
+
+8
+
+104
+
+AERONAUTICS.
+
+3 ISENTROPICnow OF AN IDEAL GAS.
+.
+
+If the physical properties of the fluid have been saciently investi ated and if a s a c l e n t number of quantities are measured at each
+o the two sections, the value of ( ~ + p vmay be computed for each
+)
+section and the value of (S2-8:) found from equation (5), to the
+degree of approximation permitted by the assum tions which have
+been discussed above. A process somewhat of
+nature is purbeing then the
+sued in the design of steam-turbine nozzles, (E-I-pv)
+quantity known as the total heat of steam.
+But when the fluid is a gas, it is usual to roceed with deductions
+from equation (5) by the aid of two furt er assumptions which
+enable us to compute variations of E and v from observations of p
+alone. The f i s t of these assum tions is that the fluid behaves sensibly as an ideal gas defined by t e equations
+
+B
+
+I
+
+t!h
+
+K
+
+\
+
+e=&+CV
+(e-e,)
+
+(7)
+
+in which Cv is the specific heat at constant volume, and e, is the
+,
+.
+internal energy at the standard temperature 8 The properties of
+ases, such as air, carbon dioxide, or coal gas, when far
+Ordinary
+from con ensation, are nearly in conformity with e uations (6).and
+(7), and for such fluids no serious error is involve in makiug the
+assumption mentioned, unless very great variations o pressure and
+f
+temperature are under consideration. Equations (6) and (7) imply
+also the relation
+C,= C,+R
+(8)
+
+8:
+
+3
+
+in which C, is the specific heat at constant pressure.
+The second assumption is that during the simultaneous changes of
+pressure and temperature in passing from A to A, the familiar isentropic relation for an ideal gas, viz,
+
+remains satisfied, 7c representing C,/C,. This assum tion is, of
+course, not exact, for while we have stipulated that the f;ow shall be
+adiabatic, the internal heating, due to viscosity causes an increase
+of entropy. The assum tion amounts, therefore, to assuming that
+this irreversible internal eating is not enough to cause any sensible
+increase of the temperature a t A, over what it would be if there
+were no internal heating at all.
+The foregoing assum tions enable us to put equation (5) into a
+more available form.
+substituting from (6) and (7) into (51,
+and using (8),we have
+
+%
+
+$
+
+By means of (9) and (B), this may be written
+
+t
+
+AERONAUTICS.
+
+and by (8) we get
+
+c,/R=~& so that we have
+
+which is the usual form of equation (5) for isentropic flow of an
+ideal gas. If the s eed is known a t either section, equation (10)
+enables us to find t e speed a t the other from a knowledge of C
+,
+and an observation of the difference of temperature; while equation
+(11) gives us similar information in terms of the ressures a t A and
+A, if the density and the ratio k are known. #e shall apply this
+equation to both the Pitot tube and the Venturi meter.
+4 THE THEORY OF THE PITOT TUBE.
+.
+
+To treat the Pitot tube, we consider the fluid which is approaching
+the dynamic opening. Startin a t a point so far upstream that the
+presence of the Pitot tube pro uces no sensible disturbance there, a
+particle of fluid approaches the dynamic openin , slows down, and
+mixes with the permanent high-pressure cap o nearly. stationar
+fluid, which covers the dynamic opening and communicates wit
+the differential gauge through the impact tube.. The same particle,
+or another indistinguishable from it, emerges from the cap and,
+being accelerated by the now positive pressure radient, flows on
+a sensib y constant speed
+along the impact tube, h a l l y acquir
+when it has reached a region of sensi ly constant pressure. We
+wish to apply equation (5) to this motion if we can f h d a plausible
+wa of doing so.
+&arting with the contour of a small plane area, in the undisturbed
+current and perpendicular to its general direction, we construct,.in
+im ination, a tubular surface of which the sides are a t every polnt
+par el to the mean direction of motion of the fluid past that point,
+as found by averaging with regard to time. If the motion 1 not
+s
+turbulent, this tube is a tube of flow and no fluid passes in or out
+through its sides. I the motion is turbulent, as it nearly always is
+f
+in practice, the same fluid does not flow continuously along the tube
+as it would if the walls were impervious. On the contrary, particles
+of fluid are continudy leaving the tube in consequence of the turbulent time-changes of the direction of motion a t any &xed point;
+and these particles are continually replaced by others, of the same
+total mass, which enter from without the tube. But on the whole,
+the particles which enter have the same average component velocity
+alon the tube as those which leave; for unless this were true we
+c o d , merely by imagining the tubular surface, generate within the
+fluid a particular filament which was maving, on the whole, faster
+or slower than the surrounding fluid. We conclude that the net
+effect of turbulence is the same as if the irnagina tube walls were
+made rigid and perfectly reflecting for mechanics impact without
+exerting any skin friction on the fluid flowin along them.
+If the whole current of fluid is a t a sensib 7 unlform temperature
+across its general direction, no heat passes in or out through the
+tubular surface, and e uation (5) may be a plied as though we had
+d
+an impervious noncon ucting channel to ' ! eal with. Furthermore,
+if the tube is of small section, the axial speed, averaged with regard
+
+f
+
+B
+
+7
+
+T
+
+%
+
+8
+
+'f
+
+5
+
+a
+
+%'
+
+106
+
+AERONAUTICS.
+
+to time, will be the same at a l points of any one cross section. Hence
+l
+the application of equation ( 5 ) , involving the assum tion of equation
+(2) or (4), is better justified than for a material tuie in which s h
+friction would cause the axial speed to be nonuniform over any
+section.
+We now consider such an imaginary tube, starting in the undisturbed fluid some distance u stream from the dynamic opening of
+the Pitot tube, passing into t e hi h-pressure cap over the opening
+and emergin again a t the edge of t e o ening, to continue its course
+e
+dong the si e of the impact tube. ~ g portion of the imaginary
+tube which passes through the high-pressure cap may be regarded
+as an enlargement of cross section a t which the mean &a1 speed is
+so reduced that its square is negli ible in com arison with the square
+of the speed a t distant points.
+we let
+be a section at some
+distance upstream and A, be the section of the tube where it passes
+through the high-pressure cap, S t is negligible in comparison with Sa
+and equation (5) gives us
+
+%
+
+%
+
+k
+
+B
+
+in which S is the speed of the undisturbed current; e, p, and v refer
+to conditions' in the undisturbed current; and el, p,, v, refer to conditions in the dyntimic opening. The static pressure, which the
+static o ening is designed to receive and transmt to the gauge, is ;
+while tli
+!pressure received by the dynamic opening is that in t e
+e'
+permanent high-pressure cap, ox p,.
+Equation (12) is the general form of the Pitot tube e uation for any
+fluid, whether compressible or not. I n the case o? a li uid, the
+f
+internal ener and specific volume are not appreciably a? ected by
+the very s m s pressure variations involved, so that we have el= t
+and v, =v and equation (12) reduces to
+
+g
+
+p bein the densit of the liquid. I the pressure difference is exf
+pressed as a head of li uid of density d , we have p, -p =gM and
+equation (13) takes the orm
+
+%, 9
+
+the usual form of the Pitot tube e uation for a erfect or ideal tube.
+Even when the fluid is a as, if is small ant f (p, - p) therefore also
+small, el and v, are nearly t e same as E and v so that equations (13)
+and (14) remain approximately correctr-admittin all the assumptions made-thou h it is not evident how close t e approximation
+will be. But if t ? speed and -the pressure difference are great
+enough to cause sensible compression, we must return to equation (5)
+and introduce the conditions for adiabatic flow of a gas, as was done
+in section 3 in arrivin a t equation (11). The fact that equation (14)
+does agree well with o servations on gas currents a t moderate sp?eds,
+shows that no great error is involved m neglecting oompressibfity
+
+% 1
+
+%
+
+%
+
+%
+
+1'
+07
+
+AERONAUTICS.
+
+and justifies us in going on to fhd a closer approximation by treating
+the gas-as ideal and thereby using an approximation to the compressibility.
+Assuming, then, that e uation (11) is applicable to the imaginary
+current tube now under &scussion, we have, by setting S =0,the
+:
+equation
+
+7c- 1
+1 we now s e t & = l + A andT=n
+f
+P
+
+n-1
+
+we have
+(n-1) (n-2)
+-A2
+1-2.3
+
++etc.
+
+setting the J . . . .} = X ,
+z substituting in equation (15), and notickg
+thatnA=-
+
+k
+
+pi-p we have
+-
+
+P
+
+which differs from equation (13), obtained by disregarding compressibility, only in the correction factor
+
+pp
+is the fractional rise o pressure a t the
+f
+The quantity A =+
+r
+mouth o the impact tube: hence it is, in practice, always a small
+f
+.
+f
+quantity. The value o 7c for gases is always between and 1, so
+k-1
+that n = -is always between 6 and 0. Accordingly the terms of
+k
+X containing A are alternately negative and positive and when A is
+small the series converges rapidly, the sum of all the terms in A being
+nearly equal to the fkstterm alone, so that if the first is negligible the
+sum is negligible and X may be set equal to unity.
+n
+L
+The ratio o the specific heats of air is 1.40. Hence n = - and we
+f
+7
+have
+
++
+
+I an error of y per cent. in S is permissible, an error of y per cent. may
+f
+also be allowed in the correction factor X and the value o A may be,
+f
+5
+Y or A = 0.056~. For any assigned
+at most, such as to make A=-100
+values o the error y er cent. in the speed, the value of S can be
+f
+found from equation 63).
+
+PO8
+
+AERONAUTICS.
+
+Let us suppose, for example, that the Pitot tube is to be used for
+measuring the speed of an aeroplane and that an accuracy of 0.5 per
+cent. is suflicient. Then we have A ~ 0 . 0 2 8 p - p = 0.028 p. To
+and
+find what speed would give this head on the dderential gauge, we
+set p= 1 atmosphere= 1.013 x 10" d y n e s / ~ m . ~ p=0.0013 gram/
+and
+cm.; and substitute in (13), the result being S=66.1 m./sec. =212
+ft./sec.= 148 miles/hour. Since an accuracy of better than 1.0 per
+cent. can hardly be demanded of an aeroplane speedometer, i t is evident that for all ordinary speeds of flight, no correction for compressibility is needed and equations (13) and (14) may be used.
+I t is of course a simple matter to compute values of the correction
+factor X for various speeds; but in view of the uncertainties and
+assumptions involved in the theory, the results would have a misleading appearance of accuracy and would not in fact be worth the
+labor of computation. What has been shown is sufficient, namely,
+that if a Pitot tube does not measure the speed of an aeroplane correctly the error is not due to neglecting the compressibility of the air.
+5. THE THEORY OF THE VENTURI METER.
+
+The Venturi meter is a channel of var g cross section, and we
+may appl to it the eneral equations o flow which have already
+been deve oped. I n dp
+oing so, we shall let A be the entrance section
+of the meter where p is measured, and A, be the throat section a t
+which the diminished pressure p, is observed. We have to use
+equation (5).
+If the meter is used for measuring the flow of a liquid of density p
+we may set
+and v,=v as we did in treating the Pitot tube, and
+equation (5) then gives us
+
+Y
+
+P
+
+Neither S nor S, vanishes; but in additiron to (19) we have the equation of continuity which for a fluid of constant density may be
+writ ten
+S,A, =SA
+(20)
+and (19) and (20) together enable us to find either S or 8,. I we
+f
+represent the area ratio by a single symbol
+
+we have
+where
+
+and B is a constant characteristic,of the given meter.
+Comparing (22) with (13), the equation for the Pitot tube in a
+liquid, we see that they differ only by the factor B which depends on
+
+I
+
+109
+
+AERONAUTICS.
+
+4
+%
+
+B = 1 and the observed Venturi pressure
+the area ratio a. If a =
+difference (p- , will be the same as would be shown by a Pitot
+)
+tube with its ynamic opening in the entrance of the meter. For
+D
+various values of the ratio -of entrance diameter to throat diameter
+D
+l
+we have the following values of 3
+:
+
+I
+
+Evidently, the Venturi pressure difference ma easily be made much
+larger than the Pitot pressure difference a t t e entrance speed and
+the gauge reading be made much more sensitive.
+I the fluid is a gas instead of a liquid, compressibility will still be
+f
+negligible a t sufficient1 low speeds, as for the Pitot tube, and equation (22) may be use& but in general the compressibility must be
+allowed for. To treat the %ow of a gas, we have to make the same
+assumptions as in section 3, namely, that the gas is sensibly ideal
+and that the flow from the entrance section A to the throat A, is
+sensibly isentropic, the aomblned effect of heat conduction to or
+from the walls of the meter, and of internal heatlng m the gas itself,
+being insignificant. We then have to apply equation (11) to the
+case in hand, and if for simplicity we represent the pressure ratio
+by a single symbol and write
+
+i
+
+we have by equation (1 1)
+
+p being the density of the gas at the pressure p as i t crosses the
+entrance section.
+To combine with (25) we have the equation of continuity
+
+and if we remember that during isentropic compression or expansion
+of an ideal gas pvk remains constant, the equation of continuity
+may be written
+
+By using (26) to eliminate S, from (25) we now obtain the equation
+
+by means of which the entrance speed S may be computed from the
+observed pressure ratio r=p,/p when the area ratio ac and the
+properties of the gas are known. Since we are treating the gas as
+
+110
+
+AERONAUTICS.
+
+ideal, p/p is, for any given gas, proportional to the absolute temperature 9 at the entrance section, and we may write g=% % po being
+P P 00
+o
+the density of the gas at the standard pressure p, and temperature 0,.
+,
+For air, 4 - k = 1.40 and if we insert the known value of po at
+0,
+1 atmosphere and 0' C. and set
+
+where
+
+we have the values of Y shuwn in the following table for various
+pressure ratios r and for meters in which the throat diameter is
++,9, or $ of the entrance diameter, i. e., a = 4, 9, or 16. If t is the
+0
+273 +
+temperaiure at entrance, on the centigrade scale B,=- 273 t while if
+"
+t is measured on the Fahrenheit scale,
+
+THEVENTURI
+METER F R AIB.
+O
+
+It
+
+Values of Y in X= Y
+
+A entrance area
+S=Speed at entrance to meter a=-A,- throat area
+e=absolute temperature of air at
+r=throat preasure+entrance pressure=p,/p
+entrance.
+f?o=ab~olute
+temperature of ice point.
+
+Values of Y.
+
+C
+
+Computed on the assumptions pv=Re, Cv=conetant, -2)=1.400.
+Go
+
+po=1.01323 X 10Vyne/cm2.
+p0=0.0012928 gm cm3at 760 mm. and O0 C
+
+i
+

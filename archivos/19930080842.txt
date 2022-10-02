@@ -1,0 +1,2131 @@
+2052
+
+TECr2:ICAD NCTES
+
+NATIO_7AL ADVISC:;:;'Y CO£i~nTT"sE FOR AERONAUT les.
+
+:J o. 52.
+
+By
+
+. -L!'go'~1:'5) AcTciynE.:::ic.l IX:;3rt,
+P:..ri s Offioe J rr. A. C . J •
+
+Au;ust, 1921.
+
+---:------....-~-~~------
+
+NATIONAL ADVISORY OOOi IMEE FOR fi.ERON f,UTICS .
+TECHNICAL NOTE NO. 52
+A NEW 1.1ETHOD OF TESTING MODELS IN WIND TUNNELS.
+
+By
+W. Marg oulis , Ael"o dynam ical Expe rt,
+Pari s Offic e, N.A.C .A.
+
+appl iWe know that the two esse ntial cond ition s of the
+to the prod catio n of the law of prop ortio nalit y of press ure
+s and the
+3
+uct of dens ity, the squa re of the lin t ar dime nsion
+are:
+squa re of the speed to the resu lts of mode l tests
+1)
+
+THE EQUALITY OF REYNOLDS r NUMBER.
+
+v
+
+being the veloC ity of the airs t rea.'1l tn the tunn el,
+
+V
+
+being the speed of the mach ine in free fligh tJ
+
+linea r
+1 and L - resp ectiv ely one of the prinC ipal
+
+dimen~
+
+.
+sion s of the mode l and of the full scale airpl ane
+v
+
+d.nd
+
+\i1
+
+-
+
+resp ectiv ely the
+
+inem atic coef ficie nts of vis-
+
+cosi ty of the fluid circu latin g in the tunn el and
+of the
+2)
+
+wan d
+
+~ir
+
+in which the mach ine flies .
+
+THE EQUALITY OF THE RATIOS OF THE SPEED TO THE VELOCITY OF SOUND (Law of B.air stow and Boot h).
+
+the
+W bein g resp ectiv ely the velo citie s of sound in
+
+tunn el and in the air.
+
+.-----.
+
+The first of these cond::.tions is due to viscosity and j.s
+important especially at low speeds (tests of mojel airpla~es);
+tl-:.e second condition is due to tile cOlloide ration of
+
+com~re3si-
+
+bili~y and T.,USt be ob3erved at high speed3 (te.3ts of ruodel
+
+propellers) •
+Now , in existiD.6 labor[;.tories utU.izing a llOrS'3pOWer of
+1 00 to 300, the models are generall y ffif.:.de to a 1 / 10 sCBJle and
+the speed is appreciably 10'.-:er
+
+t~(J,n
+
+the 3peeds cl:.rre:1tly at-
+
+tained by airplanes; the Rey:r.olds' IJu:"'loer
+
+~e8.1
+
+ised i:1 the lab-
+
+or(),t or ie s is thus frorJ 15 to 35 time s siTJ
+3.ller 'chan 'thc.t reache d
+by airplane s in free fl ig. t, w:l.ile t he rat io
+tvreen the 'third and
+
+three-fourt~s
+
+of the
+
+~ru3
+
+,1
+
+V 2..:;:' ie
+
+s be-
+
+=atio.
+
+Thus, when a model airplane, for instance, is
+
+~est3d
+
+in
+
+such a laboratory, the streamline wires resist relatively twice
+as n:uch , the strut s of the ris-ging c:nd und.ercarri:1g e five
+times as much, while the wings ca.rry 30% less on the model
+than on the airplane, so that RE8VL7S
+
+ORATORIES CANNOT
+
+BZ
+
+PRACTICALLY
+
+OB7AE~EJ
+
+I:J :::::XISTnT LABG
+
+UTILIZ~D.
+
+We cannot appreciably increase Reynolds' Number by increasing either the dia;·r.eter (d) of the tunnel, or the velOCity
+
+v
+
+of the airstream, for the motive pO::ler rec:uired for working
+the fan producing the airstream is proportional to
+
+d~·75V2.75
+
+and such increase would therefore lead to insta11at jons much
+too costly both as to establishment and upkeep_
+Thus ','Vind tunnels are now being planned having a diameter
+of 3 to 5
+
+ffi.,
+
+speeds of 60 to 75 ["l/sec., n,nd horsepower of 1000
+
+- 3 -
+
+to 1500; but the Reync1ds \ Number s attained in .such tum els
+,nIl still be 8 times less than those of exist:ng large airp 1 .: 1.:188 .
+
+w:i..ll
+
+Vie
+
+s~o'\tv,
+
+hOil7ever) that it is possible to h2.ve wi:rd
+
+tunnels in vvhich the Reynolds
+
+I
+
+I;urr.~er
+
+will be greater tban
+
+that n o w at tained by airplanes, and in which the
+velocity to t he velocity of sound will also oe
+
+r~tio
+
+gre~ter
+
+of the
+than
+
+that realized in practice, and \7e ',vill show'th:::.t this C2.,n be
+done Wit :l ::m ou-tlay for insta11atio::1 and upkeap mU8h belo'.7
+that required by the laboratories
+
+::10'.1
+
+In order to attain this result we
+gas othe r than air, at a pressure and
+
+being planned.
+h~ve
+
+only to erliploy a
+
+temper~~ure
+
+different
+
+from tho se of the surround ing atmosphere.
+We will establish the expressions connecting the pOwer:
+1st.
+
+TO THE PHYSICAL CONSTANTS OF THE GAS.
+
+2nd .
+
+TO THE VALUES OF THE
+
+3rd.
+
+EITHER TO REYNOLDS'
+
+TE~'&PERATURE
+
+AND P:1ESSURE.
+
+WKBER, OR TC THI' SPE~D OF
+
+THE AIRPLANE IN FREE FLIGHT, OR TO BOTH
+
+T~SE
+
+VALUES Sr:;ULTA EOUSLY .
+1. -
+
+FUNDA~1.ENTAL
+
+FOR' ULAS .
+
+will c a ll
+
+~Ve
+
+v and d respectively the speed and 'the
+working se ct ion of a tunnel.
+
+di ~rr.eter
+
+in the
+
+~
+
+the coe £fi cient of viscosity at the absolute
+temperal:;ure 'F.
+
+P
+
+the density )
+
+P - density 2.t 1 kg/cn:;2 and 273 0
+o
+
+v
+
+the kinematic coefficient of viscosity;
+
+p
+
+=
+
+•
+
+the pressure .
+
+v
+
+fJ./p .
+
+)
+
+- 4 The units employed are the kilogrC'.m (unit 0: force), "':ihe
+IDE-ter ~ and the second.
+We assume with PRLNDTL'" that the power cirop for any fll.:Cici
+'i1hate.ver in a cyliEdr:'cevl conduit of length L, is:
+
+=
+
+a
+shc~n**
+
+It c an be
+
+that the
+
+pc~rer
+
+drop in a closed circuit
+
+wind tunnel proceeds from t wo c auses:
+1st.
+
+The drop caused by friction, expressed in the form :
+P1
+
+=
+
+A P
+
+•
+
+-2
+
+d. v
+
+3
+
+•
+
+(N s being the Reynolds' ~umber of the tanJel . )
+
+2nd .
+
+The se cond c=:.use of pOi\er drop is the thicken ing
+
+of the airstream in tbe diffuser and the loss by impact in the
+bends:
+
+P2
+
+=
+
+B P
+
+.2
+
+d.
+
+v3
+
+If we con sider that these latter 103ses are very sma ll a s compa r ed with those arising fr om tbe first-named cause,
+assur.lle as an
+
+e.:~pression
+
+~e
+
+can
+
+of the total po w drop:
+er
+
++
+
+T O .25
+'1
+
+Nl being the mean value of N in tne tunJel .
+
+'"
+* - "Abriss der Lehre von der Fl{i ssigkeits und
+
+**
+
+Gasbe ~7egungn
+
+p.20.
+,
+
+;
+
+See in the last publication of the Eiffel Laboratory: I1Resume
+of principal W
+orks exe cut ed during the VIar," p.l8 ·~, my
+theory of the functionin g of lind Tunnels.
+
+- 5 -
+
+If we take a s a basis the results obtained in the clesed
+circL:.it ~l.mn.e: of ~he Aerona-J.t:'..cal =nstit-....:.te of R'Jwe (50 m/seo.
+in a flue of 2 m. diameter with 113 [-.::9.;
+
+coeffic~ent
+
+of util-
+
+2 . S) for deterr{.ining the v2..1ue of (A + B N1 0'
+
+ization
+
+25
+
+~
+
+1
+I
+
+~
+
+we eha11 come to aSS"QIle as a::J. expression of the moti.ve pcwer
+
+reQ.uired for working the fan of a tunr:el of -chis type utilizing
+fluid whatever : *
+
+<:1ny
+
+p
+
+n:
+
+:::: 0 . 47
+
+~e
+
+pO .?5
+o
+
+~0 ' Z5
+
+s hall com,L:.te the Reynolds' Number for the tunne+ by
+
+as sun:ing that the span of the ffiodel is equal to 3/10 of the
+diameter of the flue:
+
+* 'l'he foll o \,ving 'Table g:ve s the values of t:1e coeific::ent of
+viscosity \.1 0 c..,t 3'73 0 3.bsolute, of the der_si-vy Po at 273 0 !3.nd
+1 kg/c: 2 pressure, of the kinematic coefficient of viscos ity
+Vo at 2~'3°, of the ratio 'Yof the sp3c:"fic r.euts at constant
+pressure tlni volu:-!e, and or the coefficient C of SLlther lan6.'8 [onnuIa, g~~.ring the va lue of the coefficient of viscosi ty iJ. at the absolute temperature T of the gas .
+!-L
+
+=
+
+1 + C/2?3
+iJ.o
+
+!J.o · lO
+
+1
+
+J
+
+/~
+273
+
+6
+
+(kg.aec/m 2
+
+Air
+
++ CIT
+
+6
+
+( kg . sec 1' m 4)
+PO
+
+)
+
+va .1- 0
+(;(.2/ sec)
+
+CCb
+
+1.69
+1.4
+
+0 . 12 '7
+0 .195
+
+13.3
+7.18
+
+of methyl)
+X.::. (xenon)
+i".'ater
+
+0 . 99
+2.18
+181
+
+0 .251
+0.561
+102
+
+'Y
+
+a
+
+1.4
+1. 36L~
+
+11 4
+260
+
+3_94
+
+1.2
+
+454
+
+3.29
+1. 78
+
+20830
+
+eHa C1 (chloride
+v
+
+1 .0:)(
+-,.,.....t-.
+
+For ~ater fie have calcul~ted the vo..lu0 of 'y so as to be o.b eta
+express the velocity of sound in water by a formula similar to
+that used for gas :
+, - -- - --.
+J:'
+~
+
+Vi
+
+=J'Y
+
+~
+
+Po
+
+- 6 -
+
+N
+
+=
+
+0.6 vd
+v
+
+=
+
+0.0164 v d .
+
+g
+
+Th'3 velocity of sound be ing equal to J <y
+
+,vhere <y
+
+t he rat io of the Spl:3C if ic heat s, the cOl1d:' t ion of tl:e
+cy of the
+
+~atio
+
+v
+
+being the
+
+=
+
+C or..stan···
+
+of tl:e speed of translation to the velocity of
+expressio~:
+
+sound 7 le ads to the
+v
+
+is
+
+0.018 3 .
+-
+
+velociJ~y
+
+0
+
+, 0
+
+-0·5
+
+<y
+
+'l' o.
+
+0·5
+
+V
+
+5
+
+(3 )
+
+of the fluid stream in the tunnel and
+
+V the speed of the airplane in air at 273 0 ana at a pressure of
+1 kg/cm.
+
+2
+
+Equations (1), (2), and (3) enable us to establish the
+folloWing expressions for the power rsquired for working the fan:
+2. - 1st CASE - REYNOLDS' lUMBER TS GIVEN ; TESTS OF !JfODEL AIRPLANES AND liJR~:rtIPB4: '
+Eliminating
+
+from equations (1 )
+
+v
+Pm
+
+::::
+
+£
+
+37600
+
+p. 2
+0
+
+and
+it
+
+=
+
+61
+
+the term
+T 2 /p2
+
+1J.3/ p 2
+o
+
+J2·
+
+T2
+p2
+
+d
+
+~
+
+T
+
+N
+
+Po
+
+p
+
+d
+
+Formula (4) shows that the power
+
+(2 )
+
+and
+
+P~
+
+75
+
+we have:
+(4 )
+(5 )
+
+is proportional to
+
+characterizing the fluid, and to the term
+
+characterizing the conditions of ten.perature 2..nd pressure.
+
+Continuation of footnote frem ·,J. 5.
+For gases, compre3sion
+and cooli~g dimini sh the value of v ) in consequence of the reduction of J...L with the reduction of the tempe ra,ture, and also
+on account of the increase of p; on the co~trary, for y~ter
+the reduction of the tempera.ture inc~eases the val'..le of IJ. ( IJ.:::
+6
+19.10~ : for T = 423 0 ,29.10 6 at 273 and 133.10 at 273 c ) while
+cooling and compression do not appreciably affect the density.
+
+.... ? L~ G~\S
+
+WHICH I3 PRACTICiiLLY MOST SUITABLE TO T!-IE DI'3'lER-
+
+ENT CONDITIOrS LAID DOWN 3Y THE J\BOVE FORlfJI.AS ANI. BY
+
+WEICH FOLLLW , IS CARBONIC ACID* (C02
+
+),
+
+THOS~
+
+AS A GAS RAVING A LOW
+
+COEFFICIENT OF VISCOSITY, HIGH DENSITY AND A LOW RATIO OF SPECIFIC HEATS .
+For air,
+-
+
+/'Po 2 ==
+
+,,3
+r-
+
+30' / 10
+
+1 8
+
+.J.
+
+o
+
+forp == 15 kg/cm 2 andT =2 53,
+(T
+Po) 2
+(To •
+== 0 . 00382 .
+
+.
+
+)
+
+for CO2~ Jl3/ p
+
+T
+Pc
+T . -:;-
+
+° .
+
+o
+
+2
+
+== 0.')618
+
+p-)
+
+WE T:J:US SEE THAT FOR A GIVI:N FtEYiJOLDS' NU:ffiER AliD 'iVITE
+
+EQUAL DIA:JIETER OF FLUES, THE USE OF CARBO"JIC ACID A7 ;:;;73 0 liND
+1 kg/ crn2 :'lI LL ECOl~OlJIZE 3/4 OF THE POiiER RE0ClRED WITH AT:':08PHERI C AIR AND TEAT COMPRESS IOH TO 15 kg/Cn>2 A:m COJLLTG TO
+253 0 WILL REDUCE THIS PO~VER I N 'i'HE RATIO OF 1088 TO 1, WriIeH
+CERTAINLY CONSTITUTES A REVlARKABLE R..4.:SLTLT • .
+TEE SPEED WJ:LL BE REDUCED IN TIE RATIO OF 1.85 TO 1 D! THE
+FIRST CASE AND I N THE RAT 10 OF 30 TO 1 IN THE SECG:-JD
+
+C.t~SE.
+
+3 . - 2nd CASE - IT IS hEQUIhED 'I'O RE.\LIZ£: 'l'E:: SAC:; T:Ul.TIO OF THE
+VELOC:TY OF TRA~;SLAT::Or TO ThE VELOCITY OF
+SOU:I .AS FOR A :i:l'0LL SCALE ~C.hCBINE FLYING AT A
+TD
+SPEED V.
+Eliminating
+Pm == 0 . 000008
+
+from equations (1) and (3) we obt2..in:
+
+v
+
+Jl O • 25 11.·375
+pO. 625
+
+o
+
+and
+v
+
+== 0.0183
+
+P
+
+o
+
+-0· 5
+
+ryO ' 5 '}D ' 5
+
+"'p . 5
+
+We see that though there is still an adv~ntage in having
+* Othe r gases ~ such as c hloride of methyl (CE3 C:) 2.nC- Xenon
+would g ive better results but could not be :ractical1y employed .
+'p
+Thus Jl3/0' 2 is equal to 571 / 10 18 for iVL.ter, .. to 15.6/1018 for
+CH3Cl and to 33/10 1 8 for Xe .
+It is evident that in the formulas
+t7e must a l wt:vys assume for water p== 1 kg/cl'l¥and T== 373 0 •
+
+- 8 10\7
+
+values of 1-1, ry and
+
+T
+
+and a hi gh value of
+
+P., there is)
+
+°
+
+on the other hand , an 'advantage in REDUCING pressure.
+(D
+
+(T
+
+) 0.75
+
+:;0.6 Z5
+
+Thus for T = 253 0 ) ( =-)
+~rm-T )
+== 0.572 for p = 0.5 kg/
+.:?O
+\.10
+IJ.0' 2 5 ry 1 .375
+em 2 and is equal to 0.164 for p == 0 . 1 kg/em ;
+P.
+
+is equal to 0 . 208 for a ir and to 0.132 for
+p- O •
+
+5
+
+o
+
+e~rbonie
+
+0' 625
+
+° e id;
+a
+
+is equal to 3 . 32 for air 2..nd to 2.54 for CO 2 *.
+
+ryO . 5
+
+WE SEE THAT THE USE OF CARBONIC ACID AT 273 0 AND 1 kg/em 2
+REDUCED THE POWER REQUIRED BY 40% AND THAT IF THIS GAS IS EXPANDED TO 0 . 5 kg/em 2 AND COOLED TO 253 0
+REDUCED BY 90%.
+
+THE POWER REQUIRED IS
+
+,
+
+THE VELOCITY IN THE FLUE IS IN THIS CASE EQUAL
+
+TO 0.74 OF THE SPEED OF THE FULL SCALE AIRPLANE .
+4. - 3rd CASE - REYNOLDS' N
+UrffiER
+
+N AND THE SPEED
+
+V ARE GIVEN.
+
+If it is a question of est ablish i ng a new laboratory for
+well determined values of
+
+N and
+
+V,
+
+we shall employ the fol-
+
+lowing formu l a obtained by eliminating
+
+d
+
+and
+
+v
+
+from equa-
+
+tions (1 ( , (2), and (3):
+Pm
+
+==
+
+11 . 3
+
+IJ.
+
+2
+
+0 · 5
+
+" Y
+37 2
+
+Po
+
+T3/2
+
+V . N1 . 75
+
+P
+
+(7 )
+
+and the diame t er will be given by the fo rmula :
+To. 5
+N
+I:!
+d = 3340
+Po
+
+0 · 5
+
+established by eliminating
+
+*
+P.
+
+0 · 625
+
+ry
+
+0· 5
+
+P
+
+from equations (2) and (3) .
+
+v
+
+is equal to 1780 for
+
+o
+
+2..nd to 0 . 0557 for Xe; p -0 •
+°
+CH3 Cl and to 1. 72 for Xe.
+
+(8)
+
+V
+
+5 ",'
+r
+
+°. 5
+
+w~ter,
+
+to 0 . 0967 for CH3 Cl
+
+= 14 .3 for
+
+v~ter,
+
+2 .18 for
+
+9 -
+
+-
+
+cing
+Form ula (7) shol''lS that there is an adva ntage in redu
+temp eratu re and incre asing pres sure .
+
+fl2 'Y ~.
+
+For comp ut ing POWER we note that the valu es of
+are
+
+?
+
+3/2
+
+for air and 25.6 for CO 2 *.
+12
+
+74.5
+10 12
+
+For
+
+Po
+
+5
+
+10
+
+and p ::: 15 kg/ cm 2
+
+= 253 0
+
+Po
+P
+
+,
+
+For comp uting DIAHETER we note
+= 4.01
+
+10
+
+6
+
+0
+T ::: 253 and
+
+= 15
+
+p
+
+for 3.ir and
+kg/ em 2
+
+= 0.003 39
+
+Pm
+
+2.82
+6
+10
+
+Po
+
+for CO 2 *
+
+3.nd that for
+
+Pc
+= 0.064 2.
+p
+
+)
+
+flY
+
+0 .OE.
+
+~hat:
+
+In a labo rator y cons truct ed, when
+have :
+
+=
+
+d
+
+is deter mine d, we
+(9)
+
+. T . d
+
+thus e1im esta blish ed by divid ing form ula (7) by form ula (8),
+inati ng
+
+p.
+p
+
+The value of
+
+will be deter mine d by form ula (8)
+
+J
+
+.7hieh
+
+may be writt en:·
+
+p =
+
+*
+
+Il
+
+0 -5
+
+2
+
+V d
+
+for water 10 12 for CH 3 Cl and
+-, 9.34
+\
+
+'YJ
+P
+
+N
+
+3340
+
+372
+
+14.6
+10
+
+12
+
+for Xe.
+
+o
+:::
+
+fl.'Y =
+
+Po
+
+for
+
+Xe.
+
+0 .124
+6
+10
+
+=
+
+1.8
+
+for Xe.
+
+f or wat er, 10 6
+
+37,10 0
+106
+
+for water , 4.75
+6
+10
+
+for
+
+C~
+
+Cl and
+
+6.48
+
+1e6
+
+- 10 -
+
+For de t ermining t he POW we note that:
+ER
+9 . 09
+f or ai r an d 106 fo r 00 2*; the values of
+
+P
+
+o
+
+0·5
+
+'Y
+
+0 · 5
+
+are given above .
+WE THU S SEE THAT IF WE W SH TO ESTABLISH A LABORATORY FOR
+I
+WE LL DETERMI NED VALu~S OF V AND N THE USE OF CARBONIC ACID AT
+D
+1 5 kg/ cm 2 AN 2530 REDUCES THE PO
+WER REQUI RED IN THE RATIO OF
+48 . 5 TO 1 AND REDUCES THE DIAMETER IN THE RATIO OF 22 TO 1.
+IN A LABORATORY ALREADY BUI LT THE USE OF CARBONIC ACID AT
+253 0 REDUCES THE POWER REQUIRED I N THE RATIO OF 2.2 TO 1; THE
+PRESSURE SHOULD THEN BE EQUAL TO 68/100 OF THE PRESSURE REQUIRED
+ITH AIR* .
+W
+W would point out that the 3rd case rarely occurs in prace
+ti ce ; generally we have only to meet t he conditions of the first
+or se cond ca se.
+
+W wishe d to treat the 3rd case, however) in
+e
+
+or de r t o show t he wi de fi e ld our met hod opens for aerodynamical
+re searches on the influence, separate or combined, of viscosity
+and compres s ibilit y .
+* See footnote, p .lO.
+* We kno w t hat i n phen omena int o which vis cosity enters, and espe cially in the moveme nt of flu i ds i n ducts, the power drop per
+unit of length is represented by a f or mula of the following fo r m:
+r.
+" ::: a v 2-n d -l- n fl n , """01-n pl-n TD-1
+u
+I t follo w that t he t e r ms of for m as 4, 7, and 9, characteriz s
+ul
+ing the fluid and the conditions of temperature ~nd pressure,
+r e main the same, w
+hateve r be the value of n (according to
+Prandtl, n = 0.2 5 ); only the numerical coefficient and the expone nt of N va ry. It i s the same for all the t erms of formu las 3,5, and 8. In othe r w
+ords , the rati os of the power established in cases 1 and 3, and t he r a tios of t he speeds and
+pressures established in cases 1, 2, and 3 , constitute values
+i ndependent of the assumed value of n.
+
+- 11 -
+
+REMARK I. - W
+hen, in t he formulas g i ving the value of the power
+i n t he three cases con s i de red, we c ompar e the values of the
+terms characterizing the
+
+n ~tur e
+
+of the fluid , we find that wa-
+
+ter for ms the least advantageou s fluid f or use in a laboratory ,
+t he mor e so as, being incompre s sible, i t s density cannot be
+v arie d.
+W may remark, howev e r, that hea ting rBter tc 100 0 reduces
+e
+its coefficient of vi s cosity in the ratio of 6 to 1; in the
+1st case it. then becomes more a dvantageous than air at atmospheric tempera ture and pressure .
+v~
+
+that
+
+On this subject we may say
+
+may consider the use i n wind tunnels not only of
+
+g~s
+
+(that is, of fluids for w
+hich t he temperature of saturation at
+1 kg/ crr? is below 273 0 absolut e ) but also of vapors, which must
+be heat ed so that their temperature is above the temperature
+of s aturation a t t he p re s sure at whi ch they are utilized.
+
+Thus
+
+w may conside r u s ing water vap or, although its characteristi c s
+e
+( /-Lo
+
+= 0. 89
+
+X
+
+10
+
+6
+
+Po = 0 . 079 ) are n ot favorable.
+
+)
+
+REMARK II. - In our theory of wind tunnels,
+
+'v\B
+
+have called the
+
+coefficient of utilization of a tunnel (p ), the ratio of the
+s
+k inetic energy of the fluid stref:Ill in the working section to
+the power of the eng ine running the f an.
+For the closed Circuit tunnels Which we a re studying, this
+coefficient takes the very simple fo r m:
+Ps
+
+Ns
+
+=
+
+vdj-v
+
+=
+
+=
+
+N/O.6.
+
+- ~2 -
+
+5. - PRELIMINARY PROJECT OF A WIND TUNNEL.
+
+As a p:-actical applic;:.tj. on let us consicier a closed ciJ.'cuit
+tlirmel, 8 m. in diameter, util iz j.ng carbonic acid..
+For t es ts of MODEL AIRPLANES we use carbonic acid compress ed to 15 kg/em;:! and cooled to 853 0 a!ld we fix
+se c.
+
+a
+
+m/
+
+speed of 30
+
+(corresponding, a ccording to formula ~l to a speed in the
+
+ai r of 41 m/sec.) .
+The power required given ·oy for:ilula (1) will be 300 HP
+and the Reynolds I number realized. will be 81 .10
+
+6
+
+and eq11al to
+
+that realized by the l2..rgest existing airplanes (N is greater
+for large airplanes going slowly than for small pl2..ne2 flying
+at a high speed).
+
+This Reynolds' number vnl l correspond to that
+
+of a racing plane flying at 650 km/hr .
+The large l2..boratories no w being planned ·;vill re2.lize ReypO~'Jers
+
+nold3 ' numbers 8 tir.ues smaller with
+
+about 4 times gre:1ter .
+
+If in one of these laboratories having a diameter of 3
+wishe d to attain
+1088 x 8/3
+
+=
+
+N
+
+= 81.10 6
+
+,
+
+In.,
+
+we
+
+we should require a power of 300 x
+
+817,000 HP . *
+
+For high spee d tests, and especially for PROP2LLER tests,
+the pressure must be below 1 kg/ cm 2
+
+•
+
+Thlls formula (1) shor;s
+
+.
+th a t W th car b · aCl d at 0 . ~ k g / cm2 an d
+l.
+onlC
+
+,",~-o
+G00,
+
+th e spez d rea1
+
+iz e d wit h the same powe r of 300 h . p . iiiOuld be:
+
+* This figure must be
+
+co~sidered rather as a proof of the impossibility of realizing this Reynolds1number in ~n ordin2..ry
+tunnel than as an exact value of th~ required ~o~er . As a m~t­
+ter of fact the speed. in -!;his case shculd reash 900 m/sec. and
+vre have not the right to apply our formulas to such speeds, for
+i7h ich, moreover) the phenomena of compressibility would completely distort the results.
+
+~
+
+30
+
+X
+
+(_
+
+15) O .
+
+75/ ;a . 75
+
+__
+
+(0 c:-)
+,
+
+'
+
+l~
+
+-•
+
+30 x 2. 53 = 76 m/se c.
+
+<oJ
+
+eQuival e nt to a sp ee d in the air of 76/0 . 74 == 103 w/sec .
+
+1
+
+that
+
+i s 370 km/hl' .
+I f t h8 f res su re i s redu c e d ~o 0. 1 kg/cm 2
+
+,
+
+the equivalent
+
+..>pe e d in the air woul d be 570 km/ h r . m.th an economy in pO":7er
+of 90 }1,; to a ttain
+
+SUC:l
+
+a speed an o rd.i nar y tunnel of 3 m. vVQuld
+
+(- ) . 75 x 10 = 6000 h •.~ .
+3 )1
+'
+~
+(2
+Lastly, we would s ay a ie w words on the realizat ion of
+
+t hus r e qu i r e 300 x
+
+t h is wind tunne l .
+There s hould be
+
+~
+
+c lo s e d ci r c u i t flue
+
+~ith cont~n~ous
+
+TIall
+
+f ormed of th ic k shee t me tal a nd p r otected :from over-heating .
+TV doors s l iding Iierpend i Gul arl y t o the rucis of the flue wil l
+IO
+is olate the
+
+·10r ~~i n g
+
+se cti on w
+hile
+
+t ~e
+
+mede::!.. is being handled .
+
+The measur ing devices wil l b e pl ac e d in an airtiGht
+on the wall of the
+el
+
+~oI'k i ng
+
+c~bin
+
+s e ct ion, so that the rods of the ?;lod-
+
+supports c a n t:::-averse -c he ria ll of the flue by joints whi ch
+
+s hould not be airt ight .
+
+The me a surement s will be registered
+
+automatically b y apparatus ins t al led eithe r in the cabin and
+v i s ible from outside , or a ctual ly i nstalled outside the cabin .
+I n the l at t e r c ase the apparat us i1i1 l consist of manOr.leters c onn ected with dyna mometric capsule s p laced in the cabin.
+
+The pro-
+
+pe ller- fan wJ;ll have adjust 2..b l e b lade 8 so that it can 'oe adap t ed to the d e nsity of t he fluid u se d i n the tunJel .
+6 . _. GRAPHICAL
+
+REPF~SE NTATION
+
+TUNNEL OF O
+UR SY STE M: .
+
+OF THE
+
+FUNC I'IO~JING
+
+OF A WIND
+
+- 14 We will define the functioning of a tunnel by the cor:-ela~
+
+iva
+
+-;al·~e .3
+
+of
+
+H
+
+a:1d
+
+V
+
+'ahioh can be oo-:ained in it,
+
+For a tunnel of our syst em
+
+'~hese
+
+val'1J.es are given by equa-
+
+tion (9), fr om wJ.li ch we ded1. ce:
+'0
+~~
+
+0.00339
+
+Vo
+
+ry
+
+I)
+
+• T . d
+
+For the tQDnel 2 m. in diameter, studied above, utilizing
+CO.,. at 253 0 V1e have:
+
+v-2 If ' 75
+
+=
+
+Pm
+
+64500 .
+
+(9" )
+
+If i~ a system of rectang ul ar axes (s 3e Fig. 1) we l~y off
+the values of
+
+V
+
+in abs cissa and the values of
+
+N
+
+in ordi-
+
+nate s, the flmct ioni!lg of the tunnel will be figured by :: she .... f
+of iso-Pm 1 ine s .
+11
+
+The scaJ.es 'being logarithmic , this sheed
+
+~i2.1
+
+be comp osed
+
+of parallel lines.
+To each gro'1J.p of values of
+value of
+
+p,
+p
+
+V
+
+and
+
+N
+
+villI correspond a
+
+determine d by formula (8!):
+
+=
+
+N
+
+.,, 0 . 5
+1
+- - -
+
+334,0
+Pol) •
+
+or, for the tunnel under
+
+=
+
+p
+
+5
+
+ry
+
+0 · 5
+
+V d
+
+exa~ination:
+
+(8" )
+
+74900
+
+The v a lues of
+
+p
+
+will thus be represented on Fig. 1
+
+~y ~
+
+sheaf of iso-p lines plotted by formula (8'1).
+If we take tile maximum value of
+the minimum value 0 . 1 kg/om2
+of
+
+N
+
+and
+
+V
+
+,
+
+p t a be 15 kg! cm
+
+and
+
+the field of realizable v~lues
+
+will be lim it ed :
+
+- 15 -
+
+1st.
+
+By the iso-Pm line
+
+corres ~ onding
+
+to
+
+~he
+
+maximum
+
+power of tile engine of the tun11el; vve have indica ted the iso-P r.1 = 300 P..P by a hea-.ry 1 ine .
+2na .
+
+By the iso-p
+
+1i~es
+
+and 15 kg/cm 2
+
+)
+
+corresponding respectively to 0.1
+
+also marked in heavy lines.
+
+ANY GROUP OF VALUES OF V AND N FOUND FlITHIN THESE
+MAY BE RE ALIZED BY A TUNNEL OF
+
+OU~
+
+LI~nTS
+
+SYSTEM.
+
+The value of N will be determined by InuIt iplying the ReynOlds' number of the full s Cale machine in flight by 0.6/1, I
+being the quotient of the dimension used in determining the
+ReynOlds' number, and the diameter of the flue.
+EXAIJIPLE. - Te st of a 1/10 model of a strut 30 mm. in diameter)
+of an a irpl ane whose speed is 50 m/sec.
+0.03x50xl0 6
+0.6
+13. 3
+x 0 . 003/2
+
+= 0 .113
+
+We s ee on Fig . 1 that the point
+
+W have:
+e
+6
+
+X
+
+x 400 ~
+
+10
+
+N = 45.10 6
+
+,
+
+V = 50 m/sec.
+
+may be re a lized with 290 horsepower and a pressure of 7.2 kg/cm z .
+7. - COMPARISON OF
+SYSTEM.
+
+A~
+
+ORDINARY TYPE TUNNEL WITH A TUNNEL OF OUR
+
+For an ordinary wind tunnel the Reynolds number
+portional to the speed
+
+V.
+
+Ii
+
+is
+
+pr o-
+
+The functioning of ordinary tunnels
+
+will thus be re pre sent e d by a line parallel to the iso-p lines;
+the extremity of this line will corre spond to the speed determined by the maximum power of the engine of the tunnel.
+On Fig. 1 we have drawn the lines corresponding to the
+
+following tunnels: Eiffel (E 1 and EQ ); St. Cyr (C1 and C,2 ); Nat-
+
+~ - ---,
+
+- 16 ion3.l Physical Laboratory (N1
+
+of our system of
+
+t~~nel;
+
+•••
+
+Ns ); Rome (R); Gottingen (G) .
+
+as a matter of fact, in our system
+
+there is much greatey s co~ e for vari~tions of N and V (a surface inst ead of a line) and. the power absorbed
+vantageouslY
+
+~s
+
+much rf.O:i'e ad--
+
+u~ilized.
+
+8 . - COMPARISON OF THE VALUES OF REYNOLDS' NUl....fJ3ER AND OF THE
+SPE.2D OF AIPPLAHES J /, IRSHIFS,. MiD ?ROPEisJJERS \VITE TEE VALUES REALIZ.&;D I T OUR TUNNEL.
+
+Let la' Id, IH and :1.11 be ·I;he ratios of 1:;he ciir.:ension of
+the model used in determining Reynolds' number, to the diameter
+(d) of the tun~el.
+We will assume :
+
+1d
+
+=
+=
+
+lH
+
+= diameter of mode l p r opeller tested alone/d = 0.5
+
+la
+
+span of the model airplane/d ~ 0 . 6
+diameter of model
+
+. G.i,J;'3hi;/ d
+
+=
+
+0.15
+
+1 h = diameter of model propeller te sted on rr:odel air:plane / d;
+this value varies according to type of machine.
+As in all our comput ation s ·,ve have assumed: N == 0.6 ~Jd ,
+the values of Reynol d s' Illmber must in Bach case be multiplied
+by 0.6/1; thus for airplanes 0 . 6/1 a
+
+=
+
+1; for
+
+4; for pr opel l ers tested alone 0 . 6/1
+
+= 1 .2 and for propellers
+H
+te s t ed on a model airplane and on it s sC2.1e O. 6/l
+= sp2.n of
+h
+'r
+plane/diame ter of propeller , so that h = llia ' which, :71oreover ,
+W5.S
+
+evident a prio,J i.
+The
+
+fo1lo~1ing
+
+Table gives the values of rT a , Nd> NH c.nd Nh
+
+for different existing machines , the value of
+m2
+
+/
+
+sec.
+
+v being
+
+13.3
+10
+
+- 17 E"
+
+:: .10
+
+Span Speed.
+(m)
+
+AIRPLANES
+
+s
+... . j...V
+
+::
+
+] ~ €,' la
+
+(rIl/ s e c)
+
+0
+
+r>
+
+90
+
+40.6
+
+40 . 6
+
+9
+
+70
+
+4 7. 4
+
+47 . 4
+
+:Ile dium size tr an sport
+plane (A3 )
+
+14
+
+55
+
+58
+
+58
+
+La r ge transp ort
+p l a ne (A4 )
+
+25
+
+43
+
+81
+
+81
+
+Gia nt Airplane ( As)
+
+42
+
+35
+
+110
+
+110
+
+Racing Pl a ne (AI )
+Pur sui t Plane (A ,
+~
+
+,,;
+
+I
+
+N. 106 x O. 6 / lct
+
+Dia meter
+
+AI RSHIPS
+Snul l fle x i ble
+::.:.ir sbip (Dl )
+
+10
+
+20
+
+15
+
+L::...r ga f l exibl e
+-::.i r :3hip (Dz )
+
+15
+
+25
+
+28 . 2
+
+113
+
+1 8 .7
+
+36 . 8
+
+51 . 7
+
+207
+
+23 . 9
+
+36 . 1
+
+65 . 4
+
+261
+
+Tran sp ort Zeppelin (D3
+Mi l itary Zeppel i n (D4
+
+)
+
+)
+
+Diam.
+PH O LLERS
+PE
+
+em
+)
+
+Racing Plane
+(HI)
+
+l·fJ.e dium Size
+Pl ane (H3 )
+
+40 .6
+
+14.2
+
+17 .1
+
+47.4
+
+55
+
+12 . 4
+
+14 . 9
+
+58
+
+3
+
+43
+
+9 .7
+
+11 . 6
+
+81
+
+5
+
+35
+
+13 .2
+
+15 . 8
+
+110
+
+90
+
+16 . 2
+
+2.7
+
+70
+
+3
+
+La rge Plane
+(H4
+
+)
+
+Giant Pl a ne
+(Bs)
+
+I .10 6
+
+. 19 . 5
+
+2. 4
+
+Pursuit Plane
+(th )
+
+Spe ed N. l06 N. IO G • ~~6
+e / se c)
+m
+
+60
+
+--
+
+.
+
+C. S
+lh
+
+- 18 IN EXAM I NI NG THE P OSITIONS OF THE POINTS REPHESENTINI} THE
+VALUES OF
+
+l~ ,
+
+V iOR ANY MAOHi 1TE W
+I-lA'I'EVER, IJ.' SHOULD ALWAYS BE
+
+RE MEMBEFE D THAT I T I S OF L:LTTLE IMPORTANCE IF THE UODEL OF A
+LOW
+
+S~EE D
+
+M HINE
+AC
+
+nnz s
+
+NeT ATT AI N THE SAME SPEED IN THE TUN1"'EL
+
+AS IN F LIGHT AND ALSO THAT I T DOES NOT MUCH MATTER IF A HiGH
+SPEED MACHINE DO~S NOT' ATTAIN ITS REYNOLDS' NUMBER IN THE TUNNEL .
+
+This be i ng understood, we see t hat with 300
+
+horsepo~er
+
+we
+
+re alize for l a rge a irpl cmes the cond i t ion s of Reynolds' numbe:::a nd spee d and tha t if the spe ed cond it ions are not real ized f o:,
+sm a ll rap id mac hines, that i s of n o importance so long as the
+Reynolds' number i s att ained .
+For l a r ge a irship s only 1ihe half of
+
+N is re3.ched, but ,
+
+considering its very high value , t his should not
+
+le~d
+
+to err or .
+
+Finally, for pr opellers t est ed on the model and on the
+same scale as the model, w re a liz e , as for large airplanes,
+e
+the conditions of similitude i mp osed by the considerations of
+viscosity and compressibility.
+For small high speed plane s we shall adopt either nean values (for instance, for a pur suit plane : 60 m/sec., 4 kg/cm 2
+a nd N ; 30 .106 instead of 47.10 6
+
+)
+
+of V and N, or extreme values
+
+of V and N a ccording to w
+hether we are st udying the function ing of the propelle r or of the air pl ane .
+REM
+ARK. - In the application ju st given of our system to a tunr
+
+ne l of 2
+
+ill .
+
+in d iamet e r, w a ssume d , in order to deal
+e
+
+~tith
+
+a
+
+ge ner a l case , that the ca rbonic a c id was cooled to -20 0 C.
+Practically, this cooling le a ds to c omplications in inst a llation _and f unctioning w
+hich t he resulting small gain of pOVlB r
+
+- 19 -
+
+does not justify (see formulas (4)) (6)) and (7).
+We therefore consider it praferable to work at the temperature of the surrounding atmosphere;
+
+If we assume a mean tem-
+
+perature of +10 0 C., formulas (9) and (8') show that for the
+same values of V and N the power is increased by 11% and the
+preSSUl'e by
+
+6%,
+
+with respect to those corresponding to
+
+§
+
+temp-
+
+erature of -20°.
+In Fig.l the graduations of the lines of equal values of
+Pm must thus be increased by 11% and the graduations of ~he lines
+of equal values of
+
+p
+
+by
+
+6%.
+
+IT FOLLOWS THAT THE LIllITS OF FUNCTIONING OF OUR ITIND TUNNEL IVILL BE THE SAME AS THOSE GIVEN ABOVE) ON COIWITION OF E..1PLOYING 335 HP AT PRESSURES VARYING BETV&EN 0.106 AND 15.9 kg/
+
+cm2
+
+•
+

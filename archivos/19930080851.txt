@@ -1,0 +1,3500 @@
+TECHNICAT4 NOTES.
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTIOS.
+
+No. 63
+
+THE
+
+EMPLO~AENT
+
+OF AIRSHIPS FOR THE TRANSPORT OF PASSENGERS.
+
+Indications on the Maximurr. Limits of Their Useful
+Load, Distance Covered, Altitude and Speed.
+By
+
+Umberto Nobile,
+Director of Italian Aeronautic.al Construction.
+
+August, 1921 .
+
+· I"
+
+Reproduced from
+best available copy.
+
+NATIONflL ADVISORY COMl,:ITTEE FOR AERONAUTICS.
+TECHNIC~L
+
+NOTE NO . 63
+
+THE EMPLOYI.1ENT OF AIRSHIPS FOR THE TfU,NSPORT OF. PASSENGERS.
+INDIC_\TIONS ON THE
+
+MAXIMU~.~
+
+LOAD. DI ST AN CE .COVERED
+
+I
+
+LIMITS OF THEIR USEFUL
+ALT I'!'UDE ..\ND SPEED,
+
+*
+
+By
+Umberto Nobile~
+Di re ctor of It alian Aeronauti cal Const ruct ion.
+1.
+As an indispensable premise to this study it should be
+st at ed frankly that it is rather risky to judge of the app roximate 11eight of an airship of large cubic capacity, ** saY7300,000
+cubic meters;> by taking as a basis the anticipated i7eight of a
+similar airship of small cubic capacity, say, 30,000 cuoic meters.
+
+Even were it possible, by applying the principles of mechanical similitude, to establish exact laws of variation for the
+~ei~hts of the various constituent parts of the airsh ip, the previsions vlOuld still be far from the reality, especially for very
+lart?;e ai rships. It may, in fact, happen that Hi th increase of
+dimensions v,e find ourselves, at a certain point under the necess ity of radically modifying tnis or t \at p c....rt of t~le airsl1 ip, Or
+we :shall have to adopt materials tlaving cha,racteristics different from t :lose used in the model, or in.surmountable and unforeseen difficulties in workr.1arlship and asse;ilbling may constrain us
+to abandon that type of airship or co~pletely c~ange the cubic
+c 8:1) ac it y •
+It is, hovfever, undeniably useful to try to establish, even
+by a very rough approximat:on, the laws governing the weight of
+similar airships which may' gi~e a sufficiently clear idea of the
+greater or lesser advantages to be obtained by a given cubic
+c apacity . But when , having established tllese laws, Vie find, as
+in fact, ',"[e .10 find , that the unit weight first decreases to a
+minimum value in relation to the cubic capacity X ~~d then incr3ases until, in the cubic capacity Y (limit cubiC capacity)
+
+* From
+** For
+
+the IlGiornale dei Genio Civile," Anno LIX, 1921.
+the sake of aimplicity and clearness we shall use no unusual Or out of the way terms l but only such as are in current
+use, as cubic capacity, empennaGe, ballonet , etc.
+
+- 2 the weight a~t)soI'bs the '\II[hole of the lifting force, we must 00:'1sider the valuAs. of X and Y as being aca:eptable only as ind.icatJ.ons of THEIR ORDER OF MAGNITUDE, since it mC),y 1Vcll h'appen
+.l
+that, fo r inst ance, for one of the reasons ab:rwe Lh·l i:;ated., the
+litni t Y may be reachedl more rap idly, or even e~ceeded.
+2.
+In ayplying, whenever possible, the laws of similiLude
+to airship structures, we will keep in mind:
+a) That the principal st at ic effort s produced., e:i ther
+by weight or by the press1.:.re of the gas, may, with suffiaient appro=timation, be consideredi. as proportional to the cubic cap:).ai·i:y
+V.
+Conseq}lently, the stresses in thelJ'arious parts are pr opo:r7
+tional to V, and therefore the weight is proportional to V~ 3 ,
+b) That the mtin dynamical efforts due to air pressur~,
+are proportional to V2 3 and consequently the weight of the
+various struGrtures varies proportionally to V.
+
+3. ~e will limit our investigations to the semi-rigid Italian T type, but it is obvious that, by gerierali:i1ation, the law
+of variaticn that we shall eS'~ablish is applicable- to any other
+type of airs.;l~_p and, in particular, to the rig:LGt Ze ppelin type,
+wi·c'b. some slight modifications in the numerical coei'i"ict::ients. introduGedi in the general formula e~ressing the weight of the airship in f~mction of the volume and maxi~um velocity.
+By the maximum velocity of the airship we mean that veloaity
+which it ce~n safely develop at a low al+,itude: 1 saY1 at 300 m.
+abo\re sea level. This velocity, expressed, in km/h., we indicate.
+.
+by w.
+the
+
+In speaking of the weight of the airship we will consider
+parts:
+
+follo~ing
+
+The external envelope and accesaory organs;
+The stiffening part of the bow of the envelope;
+The stabili7ling and control planes (keel 8;."'1.d rudders.);
+~he frame stru~~ure and acaessories;
+The maneuvering devices (lane.ing, mooring, etc.);
+Electric light plant, wireless pl~~, fans, et~.;
+The pilot's cabin;
+The passenger cabin;
+Reservoirs for ben~ine, oil, and water.
+Besides this, in order to complete the evaluation of the
+weights mien, unlike those of the fuel and the useful load, remain constant, ~~d cannot be dispensed with1 we ~ill also conside~ the following weights:
+
+- 3 -
+
+The crew;
+Engine spare parts and various necessary tools;
+The reserve ballast and the , ballast corresponding to the
+first 300 meters.
+The reserve stoc.k of benz..ine and oil.
+4 . - THE ENVELOPE - ThE;
+
+e n~re lope
+
+comprises:
+
+The external envelope of the ga s bag;
+The separating diaphragm between the gas and the air, C O ffimonly calledl the internal ballonet;
+The ballonet on the beam;
+The transversal diaphragms;
+The conneotion between the frame with the'keels and rudders;
+The ga~ and air valves with their corresponding aontrols.
+In the rubbs r-covered and varnished envelope employed' in
+the various parts of airships~ we must always distinguish the
+weight of the canvas part from the weightt of the rubber and varnish applied to it. The function of the rubber is essentially
+to render the bag gas-proof and, consequently, in theory, by
+fi~ng the tolerance limit of the daily penetration of air in a
+cubic meter of hydrogen, the weight of rubber fo~ every s~arffi
+meter of the gas bag surface may decrease with the increase of
+cubic capacity. In practice, however, for various considerations we may assume the unit weight to be about constant, and
+therefore the /total weight of the rubber may be taken as proportional to V2 3. The s~ae proportion holds for the weight' of
+t~e varnish.
+EXTERNAL ENVELOPE. - The weight of the external Part of the gas
+bag minus the weight of the rubber ?btained as specified above,
+may be taken as. proport ional to
+In fact, while from one
+side the surface increasea as V2 3, on the other hand, the
+tension (and conse~ently, for the same specific resistanc~, the
+thickne~s also) increases in proportion to the pressur
+and t~
+the radius of curva.ture, that is, in proportion to VI73 X V 1 3.
+
+y4:3.
+
+DIAPHRAGM SEPARATING THE GAS FROM THE AIR. - This gas tight diaphragm, interposed between the hydrogen and the air, must never
+aome under tension. It must serve only as a means of holding
+the rubber an~ therefore its total weight may be taken aa proport ional to V~ 50.
+TRANSVERSAL DIAPHRAGMS. - These must be capable of withstanding
+a given difference of pressure between two adjacent gas GOmpartments. It is, however, rational to consider suoh dtifference as
+being proportional to the/mean pressure of the gas and, therefore, proportional to V1 3. Conse~ently, we may assume that/
+the total weight of the diaphragms varies in proportion to V* 3
+
+- 4 -
+
+Implicitly we have also assumed that the number of diaphragnJs
+is always the same.
+GDNNECTING LINKS. - The tensions in the links connecting the external gas envelope and the longitudinal beam (catenaries) are
+proportional to V'I The weight of such elements is therefore
+proportional to V4 3 . ,
+Regarding the elements. or links connecting the env-elope' Ilit:t
+the keels and rudders, it should be remarked that, as we shall
+see la,er on, the total forces acting on them are proportional
+to V2 3 . Also, the stresses; to which are subjected these connecting links (except the stresses producedl by inertia) fall un-der the same relation of proportionality~ and therefore the
+weight' of these connecting links will vary in proportion to 1/V,
+aonsidering that their length increases in proportion to V 3 •
+GAS' VALVES. - F'o r simplid.tyts sake we will assume that the dimensions of these valves remain always the same
+In this c,se, increasing the pressure of the gas in the proportion of V1 3 J the holding power of eaen -valve' increases in
+the ratio of V1 6. It follows, that the number of waJ.ves, and
+conse~en~ly, their total weight, varies in proportion to
+
+~
+
+_ ..:.0/6
+
+... l I 6
+
+-
+
+V
+
+V
+
+•
+
+In order to avoid introducing this l'levt exponent, considering
+also the relative smallness of this weight, we will !assume that
+the weight of the gas valves is proportional to V~/3. On the
+other hand, this difference in the law' of variation may be realized. by suitably' increasi ng the dimensions, of the lifting part
+of the valve only, up to the limit allowe~ hy the strength of
+the othe,r parts.
+CONTROL CABLES. - According to the hypotheses gi~n above~ the
+Weight of the ~?les controlling the valves is numerically pro7
+portional to y2 3, while their length is proportional to yl 3.
+We may therefor~ t~~e their total weight as proportional to V.
+It should be remarked. here that, in practice, c:onstru~ors
+will probably avoid. having an excessive number of valves and
+valve controls which would entail a more rapid variation of
+weight, unless the stru~ure of the valv:~ could be altered:l for
+the purpose of making it less heavy.
+AIR VALVES . - In this case, cronsidering the less feN orable cronditiona of functioning, we must assume the pressure to be ~onstant.
+TIe may therefore assume the number of waIves, and consequently
+their total weight to be proportional to V.
+
+--------=-------------------------------------------------------- -- -- -
+
+-
+
+5 -
+
+ConseqQently, the weighn o~ the control cables increases in
+propontion to V x V 1 / 3 = V413 •
+TOTAL WEIGHT OF ENVELOPE. - We h2se now analyzedJ. the weights of
+
+the various part 80f tile en velope of our model airship., and
+obt:.J.1.n "th6 fC: . 2.ovring e.xq:>ression for computing the total
+weight of the en~elope:
+ther ::3~lY
+
+3.410 V:a/3 + 0.008 V + 0.00374. V4 / 3 •
+5. -
+
+STIFFENING
+
+OF THE BOW.
+
+The uniit pressure exerted;. by the air on the surface of the
+stiffened·" part of the bow is propor-Cij.on:0. to t~e sO':;lare of the
+velo~~ ty. / Since.., however, th3 linear ciimcnsiOllr3 are proportional to Vl 3, the bunCing ?foments, and corli-s9qllently also the resulting stresses, are proportional to V 1 ! 3 V 2. On the other
+han~ the total surface v~ries in proportion to v<1 3.
+It therefore follOWS that the totBJ. 'weight is proportional to V v 2 •
+In o:-cder to be exc.ct, we 8r.. ou1;1. also c"o~s:;'cle:r the secondary
+stresses due to the w6igjlt; i'1;se1£, st resses w"'1ich;> of cou:!:se,
+increa.se more rapic.lly than the preceding ones. 'l'hese, however,
+are negligible especially in the upper part which rests on the
+envelope:.
+In the case of our model, the total weight of the
+bow (including its cov.ering) is giwen by:
+10- 6
+
+where I as
+km/h.
+
+always~
+
+•
+
+stiffene~
+
+1. 3 V v 2
+
+V is expressed in cubio meters> and
+
+v
+
+in
+
+6. - STABILIZING AND CONTROL PLANES.
+It is extremely Gtif:fficult to establish a law' governing the
+vaxiation of the weight of the stabilizing and controlling organ~, and would first of all re~uire a close e~inatiom of 'the
+various pointa connects&with these functions, an e~ination
+which we cannot enter into here.
+We will therefore make only a rough approximation by the aid
+of simpliffYing hypotheses . For ihstance l we sha~l r-ot distinguish between the fixe~and mobile planes, assuming that, according to the re~irements of steering, a greater or smaller part of
+the total surface area may be rendered!.. mobile without greatly
+affecting the mean uni~ weigh~ .
+
+VERTICAL PLANES. - Considering only the stabilizing i\L~ction, it
+is evident. that the total area of these planes, must be proport ional to the 8.1 rface area of the env;elope, if the right ing moment
+
+L
+
+.., 6 -
+
+due to the action of the air on the for m is to be proportional
+er
+to the upsetting moment cause~ b¥ the action of the air on the
+latter.
+On the other hand, the unit pressure may be assumed to be
+con ,.,st ant , and it then follows that the total weight of these
+planes varies in proportiom to V.
+
+If we now consider the variation of speed, it is evident
+that, for inoreasect. speedl these planes should be suitably strength·ened, though it is difficult to establish a priori in what measure this should be done. But an the other hand., with increased
+velocity the deviations due to the disturbing cause diminish,
+and therefore if we wish to keep the stability co~stant we may reduce as required the area of the planes. So that, for the sake
+of simplicity and as a rough approximat ion we may say that the
+total weight of these planes is independent of v.
+HORI2:0NTAL PLANES", - For these planes, we m:ightt employ the same
+
+general ~onsiderations as for the vertiQal planes J were it not
+that the Case is rendered more Q~mplex· by/the stati~ righting moments vh ich increasEr in proportion to v~ 3. However', considering only the stabilizing function, the total ~,ea of the planes
+in question may increase less rapidly than Vf' 3, and therefore
+the total weight. may vary less rapidly than V.
+
+When., instead, we cOllDSider the regime of mo~'ement along inclinedLtrajeotories, we easily come to the conclUsion that if we
+wisl)., for instance, to maintaiIlll. the ma;&timum climbing speedl. unchangedl (that is ecpal to horizontal velocity, the marimum. tangent of the angle of climb), it is necessary to increase the angle of attack, thus bringing about an increase in the unit pressure and therefore in the unit weight.
+It is also useful to consider that by increasing V the mobile part of the horizontal planes must increase more rapidly
+than the fixed part. This may lead to notable modifications in
+the design which, in turn, will produce new uncertainties in the
+evaluation of the weight itself.
+From the various considerations so far mad~, we may conclude
+that, a.s a rough approximation, the weight of the horizontal planes
+varies in prqportion to V.
+For our model we find that the total weight of the empennages
+may be ex.pressedi by 0.043 v.
+CON~ROLS. - The forces actin~ on the rudder control cables
+may be taken as proport iona]. to V2 3 and likeV{.ise: their seQ;tiona. ~heir weight is therefore proportional to V.
+
+RUDDER
+
+- 7 -
+
+In our case, comprlslng also the } control devices in the pilot's c:abinJ we have, for the total weight, O.004V. ·
+7.
+
+LONGITUDINAL
+
+BEAM.
+
+The oomplexity of the fo~ces acting on the framewonk (longi- ·
+tudinal be am) make sit e xdi rerne ly clli. ff i cuI t toe st abl ish a f 0 rmu1 a
+giwing the variation in weight with suffioient approximation.
+We will again refer to the exceptions made at the beginning of
+this paper and here alrr0> for the considerable item of the weight
+of the airship, we must be satisfied. with a rough appronmation.
+The longitudinal beam is simultaneously acted upon:
+a) By the static forces due to the loads it has to sustain, namely, the keels, rudders, power plant, fuel, and useful
+load.
+The total weight of all these loads is represented by the
+difference between the total lifting force f V and the sum o~
+the weights of the envelope, the larger part of the keels, and
+part of the stiffened framewotk. This weight can, therefore,
+only be expressed by a rather comple~ function of the volume.
+However, on analyzing the above mentioned e~ression, we
+find that this total weight may be taken, with an approxdmation
+of 5%, aspr~ortional to V.
+On the other hand" for obviOUs reasons it would be diffficult to vary the volume without altering the distribution of load
+in the model. Since it is evidently impossible to provid~ be:f.:mrehandl for such variations and even more imposs,ible to account
+~or them, we must inevitably accept the simplifying hypothesis
+that the distribution of loa~ remains the same.
+
+Admitting this hypothesis, we are justified. in saying that
+the forces due to s:tati~ loads are proportional to V and consequently, that t1(e weight of the longitudinal beam increases in
+proportion to V2 3.
+b) By the dynamic forces brought about by the action
+of the empenrnages. These forces, according to the co~~~dera­
+tions made above, must be taken: as proportional to V
+and
+therefore the increase of weight in the armature due to them is
+proportional to V.
+c) The dynamic forces due to the thrust of the propellers, or, whiCh is the same thing, the reaction exercised by the
+air on the various parts of the airship vrh en its axds is parallel to the line of flight. This reaction is proportional to
+
+r----- -- - - - - -- -- - - - --
+
+- - --
+
+- - --
+
+-
+
+-
+
+- --
+
+-
+
+-
+
+-
+
+-- -
+
+- 8 -
+
+z/ a
+V
+
+2
+
+and conse~ently the reeulting efforts in the armature
+vary accoraing to the same law of variation.
+V
+
+We must howeve~ distinguish between v constant and v
+variable when evaluating the increase in weight dUe to these
+f ·orces.
+In the first case, aombining the dynamia forces in question
+wi th the maximum lea£t favorable forces enumerated: in (a) and
+(b) (calculating these by m
+eans of various hypotheses on the
+distnibution and value of the useful loa~ and of the load of fue l
+oil> and bal~ast) the result is that the increase in wei ght in
+the armature dUe to such forces, remains alwaya proportionaJ. to
+
+v.
+
+.
+Things are much more complicated when the "otelo(tity is taken
+as baing variable~ because in that case) for a sufficiently high
+value of that ve:lom'ity it may happen that, at a given m.oment,
+the reacting force of the thrust of the propellers in a given
+element of the amature "1i11 prevail ove r the forces a + b,
+thus giwing rise to an increase in the weight ~ of that element,
+which does not happen.· · in the model due to the fact that the sign
+of the ma»imum resulting effort is reversed. It is easily understood that, under these c:onditions, it is not possible to f 'ind
+the means of account ing for such an eventuality.
+However, considering that the dynamic forces of this category are small when compared with those of the two precedling
+categories, and comsidering also that the velocity limit s- attainable are relatively low# we shall be able to say, with a degree of appro~mation suf~icient for the nature of our study,
+that the increase in weight due to the thrust of the propeller
+is proportional to V v2 •
+In the Case of our mOdel, summarily analyZting the effects
+due to the threa kinds of forces mentioned above, we will consider that a suff:loiently clear statement of the total weight of
+the longitudinal beam is given by the following f onmula:
+(10- 6 .0.5 v o2 + 0.022) V + 0.00236
+
+V4/~
+
+,
+
+8.
+
+ACCESSORIES OF THE LONGITUDINAL BEAM.
+
+We shall consider as accessories the covering of the beam,
+the internal gangway, and the pneumatic; shook absorbers .
+The prevailing forces are those due to the action of the
+air. In conse~ence of these forces the weight of the covering
+of the beam varies in proport ion to V v 2 and" fo r our model
+we have: 10- 6 • 1 . 3 V v2.
+
+J
+
+- 9 -
+
+THE GANGWAY. - We Should remember that live loads, though remaining invariable in absoluye v'a lue , increase numerlc'aJ.ly at least
+in the proport:ion of Vl 3 . Therefore, assuming that the width
+of the gangway reoains the same and that the number of supports
+reff.aina al~ the same, the bendfing moments increase proportionally to V2 3 and likewise the weight itself.
+It is probable, however, that the constru~tor gains in weight
+by inareaaing, if possible, the number of suspens~ons . of the envelopa; but, on the other hand·, it is probable that this will involve increasing the wiQth of the gangway. In conclusion,
+~herefore, it seems that we are justified in assuming the weight
+to vary in the proportion of V Z [3 as stated abo"We.
+
+vz/s .
+
+For our model we have: 0.374 •
+
+SHOCK ABSORBERS. - The forces to which the shock absorbers are
+
+subjected.. are about proportional to the cubic: capaa::ity of the
+airship . We may thereforeJ assume that their number or length
+must be increaseGL. ~v-i th increased, cubic capac;ri ty, leaving the
+width unchanged. In that case the total weig'h t will incres,se in
+proportion to VI. Yor our model the value is 0.003- V.
+9.
+
+ENGINE SETS AND ShlPPORTS.
+
+After determining the m~ffium welocity which the airship
+must be capable of attaining~ the power required may be taken as
+proport ional to 1J2/3 v 3 and in inverse proporti on to ·. the propeller efficienqr :
+N
+
+sume:
+
+= ~ ria
+
+va
+
+For our type of airship, e~ressing
+k = 10
+
+and therefora for
+
+t) ;:
+
+-6
+
+v
+
+in km/h, we may as-
+
+x 1.05
+
+0.7.
+
+We may aruuit that the weight per horsepower , Which we will
+call TT remains const ant, and we may al so admit t hat the we ight
+of all the accessories (radiators for water and oil, taken as.
+full; piping aystem; st art ing devices; c.ontrols; instruments; propellers) is proportional to the power and averages 0 . 65 kg. per
+
+*
+
+For the Various types of
+have found coefficients.
+future c:onstruc.tions we
+1.4. For Zeppelins the
+
+airships constructed by us so far, we
+varying from 1. 45 to 2 . 10. In our
+shall presumably reach somewhere below
+coefficient is smaller .
+
+- 10 -
+
+n.p..
+
+For eng,irIes weighing 1.20 per h.p. we may therefore consider
+the total weight of the engine set to be about 1.85 kg. per h.p.
+
+As regards the supports, the forces to whiCh these are subjected are partly static, proportional to the weight of the engine set and therefore to V"2 3v3, and partly <tnamiC: proportional to the thrust of the propellers. If we assume, therefore,
+that their number 'Jremains unchanged, their weight must increase
+in proportion to V.
+Such an hypothesis is, however, hardly probable, since it is
+certain that, in order to obtain a better distribution of load,
+the number of supports must be increase~. Such being the case,
+we will simply assume that their total weight is also proportional to the power developed by the engine set which, in our
+Case., ' is giv;en by 0.25 kg. per h.p.
+Summarizdng the total weight of the engine set we have:
+( TT
+
+and for
+
++ O. 65 + O. 25) N
+TT
+
+=
+
+(11
+
++ O. 90) 10 - 6
+
+•
+
+1. 5 •
+
+~ / 3 VI3
+
+= 1.20:
+
+10.
+
+MANEUVERING DEVICES.
+
+The total weight of these devices l and 2f~ecially of the
+cables, evidently varies in proportion to V •
+In point of fact, while the forces are profortional to
+the length of the cables is proportional to Vl 3.
+
+V,
+
+In our case we have:
+4
+
+0.00060 • V
+11.
+
+/
+
+3
+
+LIGHTING PLAN'Ir, WIRELESS PLANT I ETC.
+
+The e~ipment of the airship is completed by the lighting
+plant, wireless installation, ventilators, safety appliances,
+signals, and other minor accessories.
+Of these weights some, such as that of the wireless installation, may be assumed to increase slightly with the cubature of
+the airship (in fact1 it is probable that a wider range of wireless will be re~ired for larger airships). Other access9ries,
+such as the lighting plant, increase in proportion to V:a :3;
+others, as the ventilators and safety appliances, increase in the
+same rat iO as the cubature.
+
+- 11 -
+
+In the case of our model we have :
+4.5V
+
+12.
+
+l/3
+
++0. 19if
+
+/3
+
++0.0 07 V
+
+PILOT'S CAB IN .
+
+ifl1struments: reThe Pilo t's cabin is prov ided with all the eq.uipment.
+quired.. for navi gatio n and w~th othe r neces sa.ry
+of
+It is diffi cult to give a defi nite ratio of the varia tion
+the weig ht with the cuba ture.
+cabarea of
+To 's impl ify matt ers l 'fe will assume that the load alro the
+inin is prop ortio nal to v 3 I and that the tota l
+t~~aJ.
+creas es in prop ortio n to V- 3 . Wr then conc lude that the \I .
+0.300
+weig ht varie s in prop ortio n to ~ 3. In our case:
+13.
+
+PASSENGER CABINS.
+
+weig ht of the
+It is not poss ible to deter mine a prio ri the must evid ently
+passe nger cabin s and thei r e~uiprnent, since this edt We can,
+carri
+be prop ortio nal to the number of passe nger s loaili by addan g 20 to
+weig ht in the usef ul
+howe ver, inClu de this
+a5 kg. per pass enge r.
+14.
+
+BEN~INE,
+
+OIL, AND. WATER TANKS.
+
+nts
+The weig ht of these tank s, comp risin g thei r supp orts, amou
+in.
+to abou t 6% of the weig ht of the liqp id conta ined there
+ted
+The weig ht of the wate r tank s can be counweigin with the
+ht of the benast, and we will recko n the
+weig ht of the ball
+ine and
+zine and oil tank a by addin g 6% to the weig ht of the benz
+oil needect. per kilom eter.
+the airsh ip itWe have now evalu ated the entir e weig ht of g shap e, we must
+self. In orde r to cons ider the airsh ip in flyin ball ast, baladd.. the weig ht of the orew, spare parts , reser ve and oil.
+last need ed for take off, and the weig ht of fuel
+15.
+
+THE CREW.
+
+on the
+The number of men form ing the crew depe nda ~ot only whic h
+es
+stanc
+cuba ture of the airsh ip, but also on othe r 'c ircumwill there fore
+nt for a prio ri, and we
+are mot poss ible to accou
+be satis fied with a rough appro xdma tlon.
+
+- 12 -
+
+The minimum orew needed oonsists of:
+1
+1
+1
+1
+
+Commander
+Pilot
+Mechanic
+Wireless operator.
+
+With increased cubature of the airship~ we may, generally
+speaking, assume that the journeys undertaken will be longer and
+more fatiguing, and that~ therefore, double shifts will have to
+be provided for .
+We are therefore justified in assuming th,t the weight of a
+minimum personnel will be in proportion to Vi 3.
+The total number of meohanics, less the one include~ in the
+minimum crew, may be r,¥ghly considered as proportional to the
+power, that is, to V2 ~V3.
+TheTe are also the all-around men who, though not re~ired
+on a small airship are certainly indispensable on a large one.
+The weight of these may be taken as proportional to the cubature
+of the airship_
+In the Case of our model, including also the weight
+clothes and food reserves, we have:
+20
+
+16.
+
+v l/3 +
+
+10-
+
+6
+
+•
+
+of
+
+0.20 • V 2/3 v 3 + 0.003 • V
+
+SPARE PARTS IDR THE ENGINE SET AND TOOLS.
+
+This weight may be taken as proportional to the
+In our case it is given by:
+10 -IS
+17.
+
+.,
+
+0.16 • V Z /
+
+3
+
+V
+
+engin~
+
+power.
+
+3
+
+RESERVE BALLAST AND TAXE OFF' BALLAST.
+
+As we said at the beginning, we shall suppose that navigation is no:rmally started at an altitude of about 300 m. above sea
+level . The corresponding lightening of the airship will be approximately given by 0.030 V.
+The reserve ballast may alsO be taken as proportional to the
+cubature and we may say that its weight in kg . is numerically expres.sed by 4% of the vo~ume expressed in cubic meters.
+The total weight of the ballast is thus
+0.030 V + O.O4() V
+
+e~ressed
+
+= 0.070
+
+V.
+
+by:
+
+- 13 -
+
+18.
+
+RESERVE STOCK OF FUEL AND OIL.
+
+It is logical# we believe, that, in order to ensure safe
+navigation, the reserve stock of fuel and oil carried must be
+large enough to meet all eventualities. This reserve nrust be in
+proportion to the amount re~ired for normal navigation. We
+will calculate this by increasing by 30%the usual consumption
+per kilometer, or, which amounts to the same thing, the speclfic
+consumption per h.p.
+19.
+
+GENERAL FORMULA FOR THE USEFUL LIFTING FORCE.
+
+Establishing, as we did. at the beginning, the approximate
+laws. governing the variation in the weights of the airship, the
+armament~ and the crew, we find that the total weight,
+P, of
+the airship reacr.y for navigat ion (except:, the passenger c'abins~
+the ben2Zine and oil tanks, and the reserve st oak of benz-ine and
+oil) is e~ressed in function of the cubature and of the velocity
+by s iXl: terms re spe at i ve ly prop ort i onal t 0
+
+V/ 3
+
+,
+
+V~/3,
+
+V3
+
+V-Z/ 3
+
+I
+
+V,
+
+V4/~
+
+V2 V,
+
+In Table I ·(see at the end of this pap.e r) the numerical coeffic:ient s of these terms are summarized., and from that table we
+derive the: follov1ing e:x:pression for P:
+(2)
+
+p::: 24. 5 VI/a
+
+in which
+in kg.
+
+V
+
++ (3.274 + 10-,6 3.51 v 3
+
+is expressed in cubic meters,
+
+V is the
+flation.
+
+m~imum
+
+VZ /
+
+)
+
+v
+
+3
+
++
+
+in km/h
+
+and
+
+P
+
+effective volume of the gas bag after in-
+
+If we subtract the 'V7eight P from the total lifting fo rce
+at the sea level, f V*, we shall obtain the lifting forCff of
+which we can dispose for the useful load, and for the provision of
+benzine and oil neede~ fox navigation. We will call this the
+USEFUL lifting force and will represent it by <P.
+We should recall once more:
+1st .
+
+*
+
+That the useful load comprises rrot only the weight
+
+In our calculations for f we shall assume the mean value of
+1100 kg. per cubic. meter of gas..
+
+- 14 of the passengers~ their baggage and food supplies~ but also the
+\veight of the cabins suitablyr fitted up for the number of pas sen -·
+gers that can be car~ied.
+2nd. That in the provision of benZl.ine and oil is included.. not only that required' for normal navigation, but also a
+proper q.uantrity of reserve stOCK together with the tanks required for holding the entire provision.
+Putting formula (2) in the general form:
+(:3 ' )
+
+P
+
+we obtain for
+
+= Cl
+
+V 1 I '3 +
+
+f3 va I 3 +
+
+ry V
+
++
+
+6 V4I3
+
+~
+
+(3 )
+This formula shows that there are two values of V for
+which .~ = 0 lone very small, the other very large. Passing
+~r6m the first to the second value, the useful lifting force
+first increases, then, after reaching a ma.x.imum walue, decreases
+unt il it again equals Zlero.
+The v·alue of
+
+V
+
+which corresponds to ~ maJrl mum , is obtainV from formula (3) and making it
+
+ed~ by emraClting the value of
+
+equal to
+
+(4)
+
+~ero:
+
+f V
+
+ao.
+
+VARIATIONS OF THE COEFFICIENT OF UTILIZATION IN FUNCTION OF THE CUBATURE AND VELOCITY.
+LIMIT REGIMES OF FLIGHT.
+
+We will call "Coefficient of Utilization" the ratio P between the useful lifting force and the total lifting force:
+(5)
+
+P
+
+= f ~V:::
+
+1 - 1 (V- a/3 +
+f
+a.
+
+t:l.
+t-'
+
+v- 1/3 +
+
+f\I
+
++
+
+,.
+
+1/3
+
+,oV)
+
+Here also, starting from a minimum v:alue of V for which
+P increases rapidly vwith the increase of
+cubature until it reaches a maximum. After reaching this m~­
+mum, the value of P decreases slowly d.own to zero again for a
+rather large value of V.
+p = 0, the value of
+
+The values of V for which P = 0 (lower and upper limits
+of cubature) are obtained from the following equation:
+
+- l5 (6)'
+
+"IV +
+
+and, of course, the lower limit is higher as the velocity is lowIn fact, in this case the coefficients j3 and 'Yare small
+al so, and we have!
+
+ex.
+
+• r
+
+'Y
+V
+
++ "I "
+
+::; 'Y
+
+Va
+
+In the Case of our model we find for these l&Ner limits of
+the following values*
+at 90 km/h
+
+V :::
+
+N
+
+1000
+2300
+
+at , laO
+
+II
+
+V :::
+
+IV
+
+at 150
+
+"
+
+V :::
+
+..... 13000
+
+Th e ma.'ld.mum VJalue of
+5 V4 /
+
+3
+
+P is
+
+= 2
+
+foun~
+
+ex. V1 /
+
+3
+
+by the following equation:
+
++ f3 V 2 /
+
+3
+
+from which, negleoting the first term of the second member. we
+obtain as a rough a,pprommation:
+@' + @IIV~:
+6
+
+We may therefore conclude that W
+ITH INCREASE OF VELOCITY
+MAmMUM. DIMINISHES AND TENDS TOWARDS LARGER CUB ATU RE'.
+As a matter of fact, in our case "'ie find the following values (sea Tables !I~ III, IV and diagrams):
+at
+
+90 km/h
+
+max.;:.::: 0.450 f or V ::: 35,000 m. 3
+
+120
+
+II
+
+It
+
+"150
+
+II
+
+If
+
+II
+
+= O. 345
+V == 60, 000
+= o.aoa " v =125,000
+II
+
+m. 3
+
+m. 3
+
+We would remark here that~ contrary to the current opinion,
+the maximum walues of the coefficient of utilization are to be
+found for relatively small cubatures.
+The upper limit regime of flight to which the airship can
+steadily lift itself (assuming that there is no change in equilibrium. between the inte.m al and external temperature) is that
+for wh ich the co.r responding value of the air density is in the
+*Regarding th~ ~OSSibility of practical ly realiz ing these r[.inim~
+values of cubature:., · the reservations and observations rlia:te at t :ne
+beginning of this st udy apply here also.
+
+- 16 -
+
+same ratio to the ciensity of the air at sea level as P
+This limit thus depends essentia11y on the value of p.
+
+to
+
+f V.
+
+Considering the mean oonditions of temperature and atmospherio pressure, and assuming a constant ~ifference of temperature of 0.005a centigrades per meter, we find the following values which hav.e been computed. taking into account also the first
+300 meters elevation.
+for P ::: 0.20
+
+H
+
+max. =
+
+above sea level.
+
+Z'430 m.
+
+"
+
+0.25:
+
+11
+
+3050
+
+II
+
+II
+
+"
+
+"
+
+0 .. 30
+
+II
+
+3~,700
+
+"
+
+"
+
+It
+
+n
+
+0.35
+
+II
+
+4380
+
+n
+
+II
+
+11
+
+Ir
+
+0 .. 40
+
+5120
+
+"
+
+II
+
+II
+
+Tl
+
+0.45
+
+5870
+
+II
+
+11
+
+11
+
+11
+
+0.55
+
+6700
+
+II
+
+"
+
+and in the case of our model l corresponding to the values of
+giwen above, we find:
+
+m~.
+
+at
+
+90 km/h
+
+II
+
+II
+
+n
+
+21.
+
+120
+150
+
+II
+
+v -=
+V=
+
+35,000
+
+p
+
+H max. ::: 5870 m.
+
+60,000
+
+II
+
+::: 4260 m.
+
+V ::: 125,000
+
+n
+
+= 2450
+
+OPTIMUM CUBATURE.
+
+m.
+
+nONSUMPTION PER KILOMETER ..
+
+For the balloon the optimum oubature is evidently given by
+the ma,1£:imum v,alue of the coefficient of utilization .
+As a matter of fact, for p max,. the useful load is raised
+to a given height. which is ma:xdmum, and the altituda to which a
+given useful load. C.all be raiseGlt is also maxrimuDl.
+But in the case of an airship it is evident that we must
+take into account the m~mum. distance over which a given useful
+load can be carried.
+If we oall p
+the lifting force per oubic meter required
+for the useful loa'd.l and c the supply of ben~ine and oil re~ired per kilometer, we shall be able to measure the UNIT VELOCITY of the airship by:
+f:
+
+::
+
+f p
+
+- Pu
+
+c
+
+-------------
+
+----- -
+
+-
+
+--
+
+- 17 -
+
+whioh represents the maximum distance
+Pu can be carried.
+
+over which the load
+
+L
+
+As we must first establish a value of p, we will take that
+which gives the ma.xd.mur.l value of L x pu. This oaximum is evidently obtained when the useful lifting force, P f, is e~ua1ly
+distributed.. between the useful load and the supply of fuel and
+oil. We will therefore assume as the ratio of the unit efficien cy of the airtihip, the value:
+
+( = 0.55
+
+( 7)
+
+P
+o
+
+-
+
+We will now determine the value of
+that THE NORMAL VELOCITY OF NAVIGATION,
+
+Q
+in the hypothesis
+v o ' IS 0BTAINED BY
+UTILIZING HALF OF THE AVAILABLE POWER, tha1i is:
+
+N
+
+o
+
+1 k V2 /
+
+==
+
+2
+
+TJ
+
+3
+
+V
+
+3
+
+We shall then have:
+v o == 0.794 v
+
+and the refore:
+No
+
+-=
+
+We will assume that the engine plant consumes about 2:50 grs.
+of ben~ine and oil per hp/h. In order to calCUlate the total
+supply of benz'ine and oil needed" we will add' 30%to the normal
+consumption, and in order to calculate the total weight we must
+also take into aco.ount the weights of the containers. which we
+have avaluated. at 6% of the total weight of fuel and oil. W~
+shall then: '. have per h.p./h. a weight of
+(0.250 + 0.075) x 1.06 == 0 . 345 kg.
+
+and therefore the total weight per kilometer will be given by:
+No
+c == 0.345 -
+
+Vo
+
+and assuming for k the value 1011
+(8):
+
+6
+
+c = 10-
+
+1.5 we obtain:
+9
+
+x 326:,
+
+and subst i tuting in the eiipre seion of E::
+(9)
+
+X
+
+V
+
+2
+
+3
+/
+
+2
+V
+
+... 19 -
+
+The OPTIMUM CUBATURE is that for which E: as sumes its r:axi mum
+value. It is obtained by 8ol~~ng the following equation!
+a. V1 /
+
+2' ( f - 'Y ) V ::: 4
+
+( 10 )
+
+3
+
+13 V2 /
+
++ 3'
+
+3
+
++
+
+4
+
+[) V
+
+3
+/
+
+We should not be surprised that we find some very low value s.
+In fact it is evident that the optimum. cubature must always be
+less than the one corresponding to the m~iroum value of p~ because for larger cub )3.tures the denominator of (: increases,
+while the numerator decreases.
+In our case we find:
+optimum. cubatura :::
+
+90 km/h.
+
+for
+
+~
+
+5,000
+
+120
+
+n
+
+11
+
+II
+
+= ""10 , 000
+
+150
+
+"
+"
+
+II
+
+11
+
+11
+
+::: ':"'30,000
+
+If we now consider the velocity only as variable, it is obvious that efficiency diminishes w-ith t he increase of velocity)
+that is, there does not exist an OPTIMUM VALUE OF VELOCITY outside of ze;ro for which effic-leney becomes maxnmum. And in fact,
+if in V2~V3 we express the coefficients ~ and ry in function
+of the velocity:
+
+13 :: \3' + 13" r
+:::
+
+,
+
+n
+
+ry + ry v
+
+::
+2
+
+3.274 + 10- 6 3.51 v
+
+= O. 160
+
++ 10
+
+-6
+
+3. 10 v
+
+3
+
+2
+
+alld then make:
+
+we find:
+-
+
+a.
+
+V
+
+2
+
+which, for greater
+v3
+
+:: _
+
+clearnes~,
+
+f V -
+
+-1/3
+
+13"
+
+we may write:
+
+( a
+
+from which we see that the existence of ~~ optimum value of ' the
+velocity different from zero is contingent on the condition:
+
+~9
+
+-
+
+-
+
+which can never be attained because we shouid also have:
+f V
+22 .
+
+P
+
+<
+
+CUBATURE OF MI NIMUM CONSmlPTION.
+
+DISTANCE LIMITS.
+
+When we come to consider the efficiency of the airship SOlely
+from a mechanical point of view 1 we find that for each velocity
+there is a certain cubature which permits of carrying the unit of
+useful weight to the unit of distance with a minimum expenditure
+of energYI that iS I with a minimum aonsun1ption of fuel.
+Let Pu be the
+ry to a distanc~ L.
+will be given by:
+
+useful load which an airship can carThe consumption of fuel per kilogrammeter
+
+~~mum
+
+c L PuL -
+
+c
+Pu
+
+We will assume, as before l that the useful lifting force is
+equally distributed between the useful load and the supply of fuel
+and oil in such a way as to give Put its maxdmum value.
+In such a case ' the consumption per kgm . will be proportional
+to:
+o
+,-
+
+that iS I in inverse proportion to the maxd.mum distance which the
+airship can cover without any useful load. We will call this
+dist anc~ the IILIMIT nIST ANCE".
+It is evident that there e~ists a value of V for which the
+unit consumption is minimum and therefore the distance limit is
+m~mum.
+In fact, we have only to consider that if the cubature
+increases indefinitely, the useful lifting force will finally
+reach zero , while c always has a positi~.;e value.
+We will determine the value of this CUBATURE OF MINIMUM CONSUMPTION, which we may also call the CUBATURE OF MAXIMUM RANGE.
+Keeping in mind
+T.
+
+-
+
+-max.-
+
+~
+
+c
+
+fo~las
+
+f V -
+
+(3) and (8) we can put :
+
+( Cl. V
+
+l/3
+
++
+
+lO~9
+
+I? v
+
+Z/3
+
++
+
+• 326 • ' V2
+
+t
+
+V +
+
+0 V
+
+4/3 )
+
+3 V 2.
+
+Soliting this equation for the volume and taking it as equal
+to zero we find:
+
+- 30 'Y V - 2
+
+f V +
+
+an eq..uation which, solved for
+of minimum conwmption.
+
+gives the value of the cubature
+
+Vi,
+
+may be oonsi.d -
+
+This value being very high, the terms
+ered as negligible, and then we have only:
+(13)
+
+a result which may be enunci ated.. thus: THE LINEAR DIMENSIONS OF
+THE AIRSHIP OF MINIMUM CONSUMPTION VARY LINEARLY WITH THE COEFFICIENT 'Y AND THEREFORE WITH THE SQUARE OF THE VELOCITY AND INCREASE AS THE VELOCITY DIMINISHES.
+model~
+
+In point of fact, having, for our
+for
+
+f
+
+90 km/h
+
+-
+
+'Y
+
+::::
+
+0.915
+0.896
+
+"
+2 6
+
+II
+
+"
+
+::
+
+II
+
+and
+
+120
+150
+
+n
+
+IT
+
+== 0.870
+
+== 0.0134) we find:
+
+for
+
+90 km/h
+
+cubature of min. oons.= ··"'"
+
+318000m~
+
+II
+
+120
+
+/I
+
+II
+
+"
+
+n
+
+11
+
+:::
+
+"" 299000m3
+
+t1
+
+150
+
+IT
+
+n
+
+II
+
+"
+
+"
+
+:=
+
+3
+'" 274000m
+
+23.
+
+LIMIT VELOCITY.
+
+For each cubature, the airship is designed. for reaching a
+certain maximum velocity which cannot be exceedero. This limit
+value is at once obtained by s:> lwing for v; the 6q'\.lation: P = f V.
+Taking as a basis the expressions of P giwen by formula (2)
+we find, for our model" the followving values:
+V
+
+:::
+
+1,000 m:l
+
+V
+
+:::
+
+5,000 n:.3
+
+V
+
+:::
+
+10,000 m3
+
+V
+
+:::
+
+50,000 m3
+
+V
+
+:=
+
+100,000 rn3
+
+Velocity limit
+
+:::
+
+92.5 km/h
+
+11
+
+11
+
+::::
+
+133
+
+II
+
+"
+"
+"
+
+n
+
+== 148
+
+II
+
+11
+
+:::
+
+173
+
+n
+
+1/
+
+= 181
+
+11
+
+'Of
+
+~n.
+
+v
+
+=
+
+3
+2"00,000 m
+
+V
+
+;;::
+
+300~OOO m3
+
+II
+
+V
+
+=
+
+400,000 m3
+
+n
+
+= 185
+
+km/h
+
+II
+
+= IB5
+
+"
+
+"
+
+;;::
+
+178
+
+If
+
+Velocity limit
+
+As we see., the limit velocity first increases rapidly- with
+the incre3.se of cubature) then, aftet reaching a m~-iinum ·of . 185
+km/h. for a cubature of frem 200,000 to 300,000 cubic meters,
+slowly decreases.
+In practice, of course, these values of a"psolute maxrimuin of
+veloCity should not be reachedj' in fact, they should not even be
+approached.
+
+24.
+
+INFLUENCE OF THE COEFFICIENT OF RESISTANCE AND OF
+PROPELLER EFFICIENCY.
+
+In the general expression of P given in f.ormula (2') the
+only term which depends on the power, and therefore on the coefficient :of resistance k as well as on the propeller efficiency
+'r},
+is
+[3, V 2
+
+/
+
+f3 being proport ional to
+
+3
+
+= ( f3'
+N
+
++ [3" v 3
+
+)
+
+V?/3
+
+and consequently also to
+
+k ·
+iJ
+
+It is therefore easy to see the effects produced by a variation of the ratiO k.
+71.
+
+As regards the coefficient of utilization ' p , of course it
+increases: as k diminishes and vice versa. 'More eXactly, we may
+say that, for ~ given cUbature. the variatiOn · follows a linear
+law., as .', is shown by the gene.:ral expression for p . We may 'a.dd · .
+that the variayion is more rapid for small cubatures, for which
+the term 13· V2 3 acquires greater importance with respect to tne
+other terms.
+'
+The approxdmate expression V-Z / ::: ~ which givesthe cubature:
+corresponding to p maximum, thus shows that yvith increase of ~,
+P maxdmum is obtained for a larger cubature, and when ~ decreases, p maximum tends towards a smaller cubature.
+3
+
+I
+
+The CUBATURE OF MINIMUM CONEUMPTION OR MAAIMUM RANGE remains
+unchanged1 This is clearly shown by formula (13) in which V is
+independent of f3.
+
+On the other hand, we have notable variations in the distance
+limit given by formula (11). Indicating by A a numerical coeffiCient, this may be put in the following form:
+
+- 22 f V -
+
+(
+
+CI
+
+V1/
+
+3
+
+A
+
++ B .V 2 /
+k V273
+
+7j
+
+•
+
+3
+
++ 'Y V +
+
+v
+
+3
+
+and from this it clearly results that when k increases, the nu~­
+erator decreases and, at the same time, the ~enominator in~rease6,
+and therefore Lmax decre ases.
+On the other hand, when 'I'] decreases, the numerator increases and the denominator decreases,
+that is to say, Lmax increases.
+Finally, the limit veloc:ity also varies with
+ing as, ~ decreases.
+25.
+
+k
+
+increas-
+
+Tj'
+
+VARIATIONS OF THE LIMITS OF DISTANCE .AND VELOCITY
+FOR aiALL VARIATIONS OF VOLUME.
+
+In order to show more clearly the influence of the increase
+of velocity and range on the cost of operation of aerial transport, we will consider a differenoe in volume sufficient 1Y.": small
+to enable us to assume that for all intermed.iate cubatures the
+coefficient of utilization, p, remains just about constant.
+This we oan always. do, even for r ather large differences in volume, when, for instance, we consider the region of the maximum
+value of p.
+The distance limit, in the above hypothesis is given by:
+
+Lznax =
+
+k V213 2
+A'I'f
+v
+
+=
+
+Tl
+k
+
+and therefore
+(14)
+
+v=
+
+from which we may oonclude that for small variations in volume,
+the volume is proportiona.l to the cube of the ratio
+to the
+sixth power of the velocity and to the cube of t be di~tance.
+This last result may also be enunciated in a suggestive form as
+follows: THE LENGTH OF TIlE AIRSHIP IS PROPORTIONAL TO THE MAXI-
+
+¥.,
+
+MUM DIST ANCE THAT IT CAN COVER.
+
+Thus, for instance, in order to increase the distance limit
+by only 10%, we must incree,se the volume by 33%, an:l if we wish
+to increase the velocity by only 5%, the cubature must be increased by 35%.
+
+- ae Of course the results are even mOre unfavorable if, in the
+differences of volume considered, the value of p decreases, as
+is the case when this difference is on the right hand side of the
+cubature for which p is maxdmum.
+26.
+
+DETERMINATION OF THE MINIMUM CUBATURE
+REQUIRED FOR A GIVEN TRIP.
+
+The data of the problem are: the number of passengers
+and the distance 1 0 , to be covered without landing.
+
+no,
+
+In round figures we may take 100 k for the weight of each
+passenger, comprising therein his part of the weight of the cabin
+and cabin fittings and also his part of the foodstuffs.
+Then, taking
+
+as the unknown cubature, we shall have:
+
+V
+
+putting more briefly:
+
+The preceding equation solved for
+cUbature in function of Lo and no'
+We may now ask what value of
+value of 10 being established.
+
+V
+
+V,
+
+gives the required
+
+renders
+
+no
+
+ma;:ltimum, the
+
+Solving the first member of the e<::n-1ation and taking it as
+equal to zero," we find:
+f V = 1 a V
+3
+
+1/3
+
++ 2
+
+3
+
+~
+
+V2
+
+/
+
+3
+
++
+
+If we compare this equation "vith equation (4), we see, as we
+might have antiCipated, that the volume V for which no is maximum, is always less than that for which <I> is ma~;imum and that
+the difference of VOlume between no max. and <I> max-. is less a s
+the distance La is shorter. We may therefore deduce that for
+small values of Lo, the value of V correfP onding to n
+maximum is greater than the cubature of minimum consumption. ~n other
+words, this ,cubature cannot, in generaJ., be considered as a limit
+cubature, a9might appear at a first glance.
+The use of tables and diagrams gives a rapid solution of the
+problem, as we shall show by a few examples.
+
+- 24 -
+
+1st. Let us consider the transportation of 100 passengers (weight, 10~OOO kg.) in a non-stop flight from Rome to New
+York~ (distance about 7200 km.).
+'
+From the table we find that it iSnot possible to use airships
+having a ma¥imum velocity of 120 km/h. ~ and st ill less those of
+150 km/h. We will therefore suppose that we have v = 90 km/h., .
+and conseq].lently v 0' normal velo~ity of navigation, equal to
+about 71. 5 km/h.
+Glancing at the table l we may conclude that the required
+cUbature (certainly greater than 60(000 cubic meters since for
+this value we have Lmax:: 7231 km.) is comprised between 100,000
+and 150,000 cubic meters. In point of fact, we have:
+.
+for 100,000 m. 3
+
+"
+
+~
+
+-
+
+150;t000 m 3
+
+......
+
+=
+
+5,800 kg.
+
+= 12,380. kg.
+
+"
+
+Considering that we must have: ~
+pIe interpolation we at once obtain:
+V ==
+
+c Lo
+
+-c
+
+t , : 10,000, by a sim0
+
+132,000 m 3
+
+The number of passengers which can be carried over the distance st ated above by airships varying in cubature from 60,000
+to 350,000 m3 , is as follows:
+no =
+
+1
+
+V
+
+:::
+
+60,000
+
+"
+
+::
+
+100,000
+
+II
+
+=
+
+II
+
+:::
+
+150,000
+
+It
+
+::
+
+124
+
+"
+
+::
+
+200,000
+
+11
+
+::
+
+182
+
+"
+
+:::
+
+250,000
+
+"
+
+::
+
+230
+
+1r
+
+:::
+
+300,000
+
+II
+
+:::
+
+270
+
+\I
+
+:::
+
+350,000
+
+II
+
+::::
+
+300
+
+N
+
+58
+
+2nd. In the previous case, suppose that we make a stop
+at the A~ores for the purpose of taking in fuel. Under these
+conditions the m~mum distance is reduced to about 3,700 kID.,
+and the cubature for v = 90 km/h.
+to 45,000 m 3 , instead of
+132,000 ~s in the first case.
+7
+
+3rd. Let us consider the line London-Paris-M
+arseillesRome-Naples-Taranto-Cairo, with stops at London, Rome , Taranto
+and Cairo.
+
+--------------~-------------------
+
+- 25 -
+
+There will be non-stop flights having the following lengths:
+London-Rome
+
+1635 krn.
+
+Rome-Taranto
+
+460 km .
+
+Tarant o-Cairo
+
+1700 km.
+
+Adopting airships of 130 km/h., we find that with a oubatl.U'e
+of 50 ,000 rn 3 we can carry 80 passengers, and with a cubature of
+100,000 we can carry 300 passengers, covering the entire distance
+in about 40 hours l flight.
+4th. Suppose we have a passenger service between Milan
+in Italy and Alex.andria in Egypt (distance about 3,400 krn.) operated by airships hav in9 a maximum velocity of 130 km/h. and a
+normal velocity of 95 km/h.
+For a non-stop flight, we have at once from the table:
+for 40,000· rn 3
+
+no =
+
+17
+
+"
+
+60,000 m 3
+
+n
+
+=
+
+55
+
+11
+
+80,000 rn 3
+
+n
+
+=
+
+93
+
+But suppose that we make a stop at Taranto (Milan-Taranto,
+km.), the rn~mum distance to
+be covered in a non-stop flight is reduced from 2,4.00 to 1,525
+km. and we have:
+875 km.; Taranto-Alexandria, 1535
+
+for 40,000 m3
+
+59
+
+II
+
+60,000 rn 3
+
+11
+
+:=
+
+118
+
+n
+
+80,000 rn 3
+
+II
+
+=
+
+169
+
+CONCLUSIONS.
+1.
+The results we have reached in this irr.ve9i igation fully
+confirm the essential pOints characterizing the airship: ~ flying machine relatively slow, but capable of oarrying a large
+useful load over a long distance.
+
+These charaoteristics are the contrary of those of the airplane, which, in the present state of aerial technical data, is
+a machine essentially fast, but which can only carry a relatively small useful load over a relatively short distance.
+
+- a6 There is, therefore, no reason to talk about competition between these t\~o means of aerial locomotion, since they are so es sentially different from each other> each having its own definit e
+field of activity J the one serving to complete the other, The
+co-existence of airships and airplanes forms a complete solution
+of the problem of aerial navigation.
+The advantages of airships of large cubature are SO evident
+as to justify the greatest h~es for their immediate future. It
+should be remarked that it is not too much to hope that the li.mits we have found, and which are already pretty large, will be
+exceeded in actual practice, since in our investigation we have
+abstained from considering the developments which may confidently be expected from the genius of inventors and the Skill of construmors.
+Even w.ithout taking these probable developments into account,
+though they are by no mean~ negligible qUw~tities, we se e that
+there is a certain limit to the adva~tages of large cubature.
+This limitation is due, essentially, to the gradual decrease
+of the coefficient of utilization and CONSEQUENTLY OF THE M XIMUM
+A
+ALTITUDE OF FLIGHT. By increasing the cubature beyonai the pOi:lt
+corresponding to p ma)timum, (which our calculations show to be
+much smaller than is commonly believed), the m~rnum altitude of
+the airship goes on decreaSing, in spite of the fact that the
+range of action in a horizontal plane and the useful load go on
+in ere as ing.
+Now, the possibility of rapid climb is undoubtedly an essential factor of security of aerial navigation in the case of
+storms.
+.
+The other factor of security is veloc·ity.
+storm is another way ~r avoiding it.
+
+To run ahead of a
+
+High altitude and high speed are, however, antithetical
+terms. It is possible to build airships capable of rising to
+high altitudes, but they will, necessarily, have low veloaity,
+just ag~ t is poss ible to build. airsh ips having high speed, but
+having a low ceiling.
+Our investigation leads us to conclude that a maximum velocity of 120 lan/h. is as far as we ought to go. This figure can
+only be exceeded by excessive reduction of altitude of ceiling,
+range of flight, and useful load.
+NOW, at 120 kID/h.) for a cubature of 200,000 ~ubic meters,
+we have a coefficient of utilization of 0.31, which, including
+the 300 m. of initial rise, corresponds to a ceiling of about
+4,000 m. altitude, reached, however, with a zero useful load and
+
+- 27 -
+
+at the end of the flight only, after having consumed the entire
+supply of benzine and oil. This ceiling is evidently of relatively low altitude, and we should therefore consider the advi s ability of exoeeding the above given oubature for airships of
+this type.
+Of course, with decreased velocity there would be an improve ment. For instance, with the same cubature of 200,000 cubic meters and a speed of 90 km/h_, the ceiling would be at about 5,000
+m. The gain in altitude would not~ however, altogether oQnpensate for the pronounoed deorease of m~imum velooity.
+2. We will now oonsider the use 'of the airship in a public
+passenger service.
+The essential requisites of a public transport service are
+safety and regularity of service.
+The first of these re~uirements can undoubtedly be met. We
+have only to adopt a cubature large enough for realizing the following three oonditions: (a) the certainty. of being able to rise
+rapidly to a height of 1500 or 2000 m. right at the beginning of
+navigation; (b) a fuel reserve suffioiently ample to enable the
+ship to sail for muoh longer than the anticipated time, should
+this be required by the atmospheric conditions; (c) the possibility of developing a relatively high m~mum speed.
+When these three conditions are satisfied we may say without
+fear of exaggeration that AERIAL NAVIGATION BY AIRSHIPS IS SAFER
+THAN MARITIME NAVIGATION. As a matter of fact, a ship on the
+water cannot rise above the gale as an airship can.
+The necessity of satisfying all three conditions at the same
+time, leads us to conclude, on the basis of our calculations,
+that under the present conditions of aerotechnics it is not advisable with airships used for passenger service, to exceed a normal flying speed of 80 or 90 km/h. or a non-stop flight of more
+than 3000 to 4000 km. In other words, we are convinced that the
+best cubature to adopt is not that which aims at increasing the
+length of non-stop flights or of the speed of flight, but rather
+that which aims at safety in navigation by increasing the supply
+of benzzine and the amount of ballast.
+The requisite of regularity, meaning thereby starting and
+arriving at schedule time, is, for the airship, intimately connected with the question of safe navigation, since, when this is
+assured we may, in a large measure, count on the flight being
+acaomplished within the stated time. It cannot, however, be denied that, aerial navigation be ing st ill largely dependent on atmospheric conditions, a strict adherence to schedule time can only be guarantee~ if the service is limited. to the most favorable
+
+- 28 -
+
+sea.son of the year, though it may be re!lJ.arked.. that the regule,ri t:r
+of the maritime senrice is also influenced by weather aond h;~, o:::s
+in a certain measure.
+We may hope that airsnlps will be much less affected by
+weather conditions when, in the near future, the problem of m
+echanical mooring, housing', and getting the sh ip out of its haYlg"1.~
+has been satisfac;torj:ly solved.
+3. It is thus possible to assure an airship service offe r:;'ng
+the most absolute guarantees for security of flight and al so,
+within practical limits, regularity of service. We must now con -sider the question from the economical point of wiew.
+We do not deem it necessary to enter here into an analysis
+of the unit cost of aerial transportation, but we may certainly
+affirm that, in most cases, the cost of aerial transport will
+necessarily be greater* than transport by land or ~ater, especially when , as in a public service, satisfactcry-.-· ~egulari ty and
+absolute safety are req~ireQ.
+But in judging the economical aspect of transportation, we
+must consider not only cash outlay, but also another essential
+factor" namely, speed.
+Considering the question from this point of view, we shall
+not be so foolish as to pretend that the airship competes with
+the railway or motor-car unless (~~d such cases are not rare) over
+difficult or mountainous country or where business is limited.
+In these cases the aerial service would show a considerable saving of time as compared with other means of transport, either on
+account of the airship being able to take the most direct route
+or on ace.o unt of greater speed.
+Also, we need not be surprised if in such characteristic
+cases the cost of aerial transport should prove to be less thar~
+the cost of transport by rail or motor-car. For instance, if
+the line is intended to link up two places difficult of acces s ,
+far distant from each other, and having only sufficient busines s
+to warrant, say, a bi-weekly service. Under these conditions it
+is quite certain that the cost of establishing and running an
+aerial line would be much less than that of laying a railway or
+making routes for motor-cars.
+E~oe pt for the exceptional cases just mentioned, we believe
+that AN AERIAL SERVICE WITH AIRSH IPS IS ESPECIPL LY AND PART lCULARLY SUITABLE FOR FLIGHTS OVER LARGE EXPANSES OF WATER.
+* And greater generally vvith airplanes than with airships. This
+statement:; may seem, at first sight, rather paradoxical, but
+it can easily be proved by even a summary analysis of the cost
+of transport.
+
+We must here ' distinguish between short distance . and long
+distanoe flights.
+In the first cass, it is evident that we can attain a high
+flying speed, thereby obtaining a oonsiderable advantage over t he
+usual maritime service, whether over seas or lakes. Suoh may be
+the case, for instance, for a line Rome-Cagliari, or Rome-Tripoli,
+or Rome-Palermo.
+For a longer distanoe, we must, on account of the reasons
+given above, reduce our speed, but, in any case, we may take it
+that the journey will be completed in about half of the time re quired by the fastest ships.
+
+The question now arises whether this gain in speed as compared with maritime navigation is such as to compensate for the
+greater cost and the inevitable decrease in comfort.
+The answer to this cpery cannot be doubtful. When the safety
+of the journey is assured and there are regular departures (two
+conditions which, as we have seen, can be aomplied with) passengers will certainly not be lacking.
+Concerning the question of departures at stated times, we may
+remark that for. long journeys OVer the sea, puncrtuality in leav-ing according to a pre-arranged time-table is of less importance
+than for short journeys. That is to say, the departure of an
+airship need not be announced muoh ahead of the time, nor need
+the departures be arranged aooording to a fixed time-table. It
+will be suff:lcient if the time of departure is announced two or
+three days beforehand, so as to give intending passengers time to
+prepare, and to decide whether they will travel by air or by the
+usual maritime service. This consideration is of some importance" since it meets the objection raised that aerial tran~port
+being, as it is, dependent on the weather, cannot compete commercially with maritime navigation.
+4.
+
+THE AIRSHIP FOR TOURISTS.
+
+In this field the airship has a unique position~ surpassing
+even the airplane. The airship tourist service cannot fail to
+develop and flourish since it requires only a small capital and
+combines large profits with absolute security of investment.
+Such a service is espeCially important in oountries like
+Italy, where there is always a great influx of visitors from
+abroad. We are convinced that a well organized system of touring
+airships, especia ly in tourist centers, would not only be successful from an investor's point of ~iewJ but would also react
+favorably on the general economic conditions of the country .
+
+-
+
+30 -
+
+The following considerations justify the theory that a tourist service vlith airships is capable of being developed under
+the most favorable conc1itions.
+1st . The sensat ion of absolute security given by an a.i :.~-·
+ship in comparison with that felt in other mocies of flight., cannot fail to attract a large numoer of tourists.
+2nd. For passenger transport the airship offers much
+greater convenience and comfort th~~ the airplane; also, the
+airship can slaw down during flight or even rerr.ain stationary in
+the air, thus allowing greater enjoyment of the panorama.
+3rd. The risks of navigation are reduced to a minimum,
+or even altogether eliminated, since the tourist service will
+only operate in suitable weather.
+4th. The cost of terminal st8.tions, material and personnel e?re reduced to a minimum, especially for short dls"t;ance
+flights such as Rome-Naples, Bay of Naples, tbe 1t,?~ian Rivlera,
+Sicily, etc. For longer fligh'cs, sucll as Rome-Co~. stantinople ,
+Rome-Cairo, Rome-Paris, etc . , these items will amount to more.
+5th. Considering the clasa of passengers who will be
+catered for, the rates charged may be fixed at a sufficiently remunerative figure.
+5.
+
+RIGID AND SEMI-RIGID AIRS£IPS.
+
+We will conclude this study by a rapid comparison between
+the two types of airships which are today contending for 8.lpremacy ': the semi-rigid Italian type and the rigid German type.
+Of the Italian semi-rigid type there are ,.tw·o classes, one
+having an art iculated longitudinal beam, the other, a. rigid long i tudinal be am.
+While for small cubatures, the a~solute superiority of our
+articulated beam type is generally recognized (and proved by the
+numerous reqpests from foreign Governments for sample airships of
+this type and the appreciations of them ekpresseci in the official
+organs of those Governments~~ many experts and especially many
+amateurs maintain that, even for large cubatures l the Italian
+semi-rigid type can successfully compete with the German rigid
+
+type..
+
+* Our Aeronautical Construction Works has just completed' an M type
+airship for England, and two 0 types, one for the U.S.A., the
+other for the Argentine. Another of the same type is being built
+for Spain. The 0 type, derived from the P type, (Crocco-Riccaldoni) may be comsidered as the most succeclsrlJl.l of ItaJ.ian small
+aubature' aireh ips. It was de signed by Engineers Pe see and Nobi~ .
+
+- 31 -
+
+Though there may be a doubt in the matter as regards the articulated type, there can be none whatever as regards the rigid
+type, as.shown by the brilliant success of our experience with our
+first T type airship. We are convinced that to whatever dimensions our T type may be increa6e~ (within the limits suggeste d
+in this study) we shall always find that the particular characteristics w.hich constitute its fundamentally good qualities are not
+only pre servect, but even accentuated.
+Of course, we do not say that great increase of cubature cran
+be made without giving rise to difficulties. When the cubature
+exceeds 100,000 cubio meters the problems of construction and assemblage take on a certain importance, but though these problems
+may be difficult of solution they are never such as to lead:. to unfavorable oondi tiona.
+We consider that the essential rearo n why our type is superior to the German, lies in the conception of the rigi~ty itself.
+In the German type, the whole of the external surface is made rigid, even where the natural pressure of the gas is suffi~ient to
+preserve the shape. The Italians only make rigid those parts
+which really re~ire such treatment, thus greatly simplifying construction and assembling w.hich more than oompensates for the
+slight disadvantage of a less penetrating form. Moreover~ as regards the preservation of the form, the rigid type does not appear to have muoh advantage over the Italian semi-rigid, since,
+with the rigid bow of the T type the excess pressure of the gas
+in the envelope: can be maintained relatively lOW, w"ithout fear ,
+of any inconvenience arising either during navigation or during
+mooring ope rat iona.
+The superiority of the Italian conception appears, however~
+not merely in simpler c:onstruat ion, but alB:>, and more e speoially~ in greater strength.
+This is evident when we compare the
+HUGE~ DELICATE, FRAGILE ARRANGEMENT formed by the metallic framework of the Zeppelins with THE STRONG> ELASTIC BACKBONE formed
+by the longituddnal beam of the Italian type. This backbone is
+STRONG because its parts, being relatively small and ~xposed, to
+great forces, have a resistance which we shall seek in vain in
+the framework of. the aeppelin. It is ELAST la, beCause it s art 1culated jOints, the pe~uliar characteristia of our longitudinal
+beam, give it an elastioity which enables the ai~p to withstand
+shocks, and bumps, while the ZeplJelin, as experience has proved,
+oannot support such shocks without serious damage.
+These are the two most important advantages of the Italian
+type over the German type. We may also mention the following:
+1st.
+
+Rapidity and certainty in designing.
+
+2nd.
+
+Rapidity of construotion and utilization of materials of current use and aonstant characteristics.
+
+- 32 3rd.
+
+Great rapi<iity and simplicity of mounting .
+
+4th. Possibility of taking the airship to pieces r f~pii l~'
+e::ither for purposes of storage or transport vfhen it is not advi s able to send it unde~ its own power. We may note that the Ze p pelin cannot be taken apart.
+5th. Possibility in the future of assembling the airship
+outside the hangar.
+In fact, the assembling of our longitud:inal
+beam complete with all its acc.esaories, comprising the stiffening
+of the bOW, the pO'v7er plant, rudders, etc., cran be done without
+inconvenienca in the open air if it is protected from the weather
+by a temporary covering of limited dlmensi. ons. When the rigid.
+part is assembled we can, given favorable oonditions and fine
+weather , proceed. rapidly to the inflation of the envelope and to
+its connection with the rigid part. After this, the airShip may
+be ready in a few days, if not to fly, at least to be moored so
+that the final adjustments may be made without d~~ger.
+6th. Great faoility of inspection and repairing of single metallic parts. This considerable advantage arises immediately from the fact that the rigid part ocaupies only a small
+space, and alro that the various part s are articulated together,
+so that a damaged part c.an easily be ohanged.
+7th. Lower cost of construction and assembling. We need
+not dwell on this pOint. Greater rapidity of construction and
+assembling together with the use of current materials must conduce
+to a lower cost of production.
+This advantage, however, must be set .off against the cost of
+operation. As a matter of fact, in the Italian type, when , from
+any cause, the ga.s bag becomes ineffid.ent, it must be entirely
+renewed. It is certain that to change' one of the gas compart.ments of the Zeppe.,lin is a much less costly opera.tion, but, on
+the other hand, when we consider that the cost of upkeep of the
+rigid part is much less in the Italian type, we come to the onnelusion that J on the vvhole, the upkeep of a Zeppelin is more
+costly than the upkeep of an Italian airship.
+In summing up all the advantages. of an Italian airship over
+a Zeppelin, we must, however, admit that in one point the latter
+are superior, namely, in the coefficient of head resistance.
+But we are convinced that this inferiority will so on be eliminated
+by successive improwements in the Italian type of airships.
+Rome, December, 1920.
+Tr ~ s lated by P a ris O ice, N.A.C.A.
+n
+ff
+
+- 33 -
+
+I.
+
+TABLE
+
+WEIGHT OF THE VARIOUS PAltTS OF THE AIRSHIP
+I N FUNCTION OF VOLUME AND SPEED.
+p
+
+= V1 / 3
+
++ ( 13 f + 13 II v 3
+
+(p in kg.;
+
+)
+
+V
+
+in m. 3
+
+•
+• a. V 1 /
+
+PARTS
+
++ (ry'
+
+V2/a
+
+;
+
+v in km/h.)
+
+•
+S
+
+'Y H v 2 ) V + 5 V4./ 3
+
+1-
+
+f3 V;Z / 3
+
+;--------------
+
+S'
+Env.elope with all accessory organs inoluding
+valves and valve oontroIs
+Stiffening of bow
+
+2.410
+
+.
+
+Stabilizers and rudders:
+with controls ..
+
+Longitudinal Beam
+
+.
+
+"
+
+Accessories of longitudinal beam (covering, gangway, sh o<t'k
+absorbers
+
+Power
+
+plan~
+
+·
+·
+
+0.374
+
+with sup-
+
+ports
+
+Maneuvering devioes
+Plant for lighting,
+wireless, ventilators
+
+0.190
+
+Pilot's oabin
+
+0.300
+
+Crew
+
+20.0
+
+Engine spare parts
+and tools
+Reserve ballast and
+ballast for in it ial
+climb of 300 m.
+
+·
+
+.
+
+: -'ct-=-2-4""'-.-5-!.~-"'~, ' ;:: 3. 874 : f3 Ii = 10 - s
+
+.
+.
+
+3 • 51
+
+r---------------------------------------------------------------------- - - 34 TABLE
+
+I (Cont.)
+
+WEIGHT OF THE VARIOUS PARTS OF THE AIRSHIP
+
+IN FUNCTION OF VOLUME AND SPEED.
+p == V l / 3
+
++ ( ~ I + j3 It
+
+V 3)
+
+(p i~ kg.;
+
+V 2. /3
+
++ ('Y' + 'Y" v 2
+
+V. in m. 3
+
+,
+
+PARTS
+
+;
+
+V
+
++
+
+6 V4 /
+
+3
+
+v in km/h.)
+
+~ V
+
+5
+2
+L" v
+
+'Y
+with all accessory organs inclu&-:
+irlg valves and valve
+controls
+
+)
+
+Vj4/S
+
+.
+
+En~elope
+
+0.00374
+
+0.008
+10- 6 1.3 v2.
+
+·
+·
+·
+·
+rudders:
+
+St iffening of bow
+Stabilizers and
+with controls
+
+0.047
+
+Longitudinal Beam
+
+0.022
+
+10- 6 0.5 v 2
+
+Accessories of longi- :
+tudina1 beam (covering:
+gangway, shocrk absorb-:
+.~ e rs)
+
+0..003
+
+10 -6 1.3 v :2
+
+0.00236
+
+Power plant with supports '
+Maneuve ring devices
+
+.
+.
+
+:
+
+0.00060
+
+:
+
+Plant for lighting,
+wireless" vent ilators
+Pilot's cabin
+Crew
+
+·
+·
+
+0.007
+
+0.003
+
+Engine spare part s
+and tools
+
+Reserve ballast and
+
+ballast fo r initial
+elim p of 300 m.
+
+:
+:
+Q.070 :
+II
+'Y. = 0.160: 'Y =10- 6 3.1:
+
+6 == 0 .0067
+
+b
+
+- 35 TABLE II.
+Maximum Velocity,
+
+90 km/h.
+
+Normal Veloc~ity of Flight, about 72 Em/h.
+:Useful
+:Coeffic~!Fue1 & . Limit
+. No. of
+:No. of
+: lifting
+: ient of :oil per:distance:passengers:passenCubature:force (for:utiliza-:
+km.:
+:for 1000 kmgers for
+:f = 1100 .
+tion : :
+:5000 km.
+kg/m. 3
+
+.
+
+<I>
+
+5~000
+
+10,000
+15,000
+20,000
+25,000
+30~000
+
+35,000
+40,000
+45,000
+50;000
+60,000
+70,000
+80,000
+90,000
+100,000
+125,,000
+150,000
+175,000
+200,000
+225,000
+250,000
+275,000
+300,000
+325,000
+350,000
+
+~
+
+kg.
+
+1,877
+4,472
+7,095
+9,700
+12,275
+14,813
+17,312
+19,775
+22',202
+24., S8~
+29,26433,806
+38,226
+42,406
+46,699
+56,693
+66,083
+74,923
+83,258
+91,118
+98,541
+105,548
+112,164
+118" 407
+124,299
+
+p
+
+c kK.:
+
+0.3411
+0.4005
+0.4300
+0.4409
+0.4.4 63
+0.4489
+0.4497
+0.4494
+0.4485
+0.4471
+0.4434
+0.4390
+0.4344
+0.4283
+0.4245
+0.4123
+0.4005
+
+0.772:
+1.226:
+1. 606:
+1.946:
+2.258 :
+2.550 :
+2.826:
+3.089:
+3.341 :
+3.584:
+4.04.7 :
+
+0.38~2l
+0.378~
+
+0.3681
+0.3583
+0.3489
+013399
+0.3312
+0.323:9
+
+444B5:!
+
+4.903:
+5.304-:
+5.690 :
+6.602:
+7..456:
+8.263 :
+9.033:
+9. 770:
+10.480 :
+11.16.9:
+11. 835:
+13.484:
+. 13 .t 116:
+
+L kID .
+?,431
+3,647
+4,418
+4" 985
+5,436
+5,809
+6,136
+6,402
+6,64$
+6.861
+7,231
+7,538
+7,796
+7,,995
+8,207
+8,587
+8.863
+9:067
+9,,2218
+9,326
+9,403
+9,450
+9,477
+9 485
+9,477
+1
+
+11
+32
+55
+77
+100
+123
+145
+167
+189
+210
+252
+293
+333
+371
+410
+501
+586
+667
+742
+81~
+
+881
+944
+1,003
+1,059
+1,112'
+
+o
+
+.'
+
+o
+o
+o
+o
+
+21
+32
+43
+55
+67
+90
+114
+137
+159
+182
+237
+288
+336
+381
+423
+.461
+, 497
+530
+560
+587
+
+- 36 -
+
+Velocity,
+
+M~mum
+
+120 km/h.
+
+Normal Velocity of Flight, about 95 km/h .
+
+·
+·
+Cubature:
+
+No. of
+Usafu1 :Coeffic-:Fuel and: Limit · No. of
+·
+:distance :passengers ' :passen ~ ,
+lifting :ient of
+oil
+force :utiliza~:per km.
+for
+:gers for
+1,000 km. :3,000 km.
+tion
+,
+
+V m
+
+3
+
+·
+·
+
+5,000:
+10,000:
+15,000:
+20,000:
+25",000:
+30,000 =
+35,000:
+40 ,000:
+45,000 :
+50,000:
+60 ,000:
+
+.
+
+~
+
+f,
+,
+
+,
+
+..
+
+kg .
+
+p0.1378
+758
+0.2413
+2,654
+O.283Q
+4,678
+6,737
+0.3062
+8,80Z'
+0.3200
+0.3290
+10,8~
+12,895 . 0.3349
+14,914: : 0.3389
+16,911
+0.3416
+18,881
+0.3433
+22,751
+0.3447
+<I>
+
+c kg.
+
+L kIn.
+552
+1,218
+1,638
+1,948
+
+L373
+2.179
+2 . 855
+3.459
+4. 014
+4.53Z
+5.023
+5.491
+5.939
+6.371
+7.195
+
+2,1~3
+
+0
+
+5
+18
+33
+48
+
+2,3 6
+2,567
+2,716
+2,847
+2,963
+3,162
+3,326 ·
+3,464 , :
+3,574
+3.683
+3,881
+4,025
+4,128
+
+185
+215
+243
+271
+338
+401
+459
+
+70,000 : 26,522
+0.3444:
+80,000: 30,197 : 0.3431.
+90,000: 33,6.91, : 0.3403
+100,000: 37,246
+0.3386
+125,000 : 45,553
+0.3313
+150,000 : 53,335
+0.3232:
+175,000 : , 60,629
+0.3149
+000,000 : 67,4$8
+0.3066225,000: 73,87a
+0 .. 2985
+2:50 , 000 : 79,877
+0.290S
+275,000: 85,496
+0.2aaS
+300,000: 90,752:
+0 .. 27!?0
+
+16.055
+
+4,aO~
+
+514
+
+17.365
+18.630
+19.85a
+21.037
+
+4)2544,287
+4,307
+4 1 314
+
+565
+61Z
+65e
+697
+
+325,000 : 95,660
+;3.5() :I 000 : 100,237
+
+22.190
+23.314
+
+4,311
+4,299
+
+735
+769
+
+0.2676
+0.2604
+
+7.973
+8.716
+9.428
+10.114
+11. 736
+13.252
+14.687
+
+6a
+79
+94
+110
+125
+156
+
+.
+.
+
+.
+
+4
+
+0
+
+0
+0
+0
+0
+0
+0
+0
+
+°
+°
+
+12
+
+26
+40
+
+54
+69
+103
+136
+166
+193
+218
+240
+259
+276
+291
+303
+
+- 37 -
+
+TABLE
+Ma.x..imum
+
+IV.
+
+Ve1o~ity,
+
+150 km/h.
+
+Normal Velocity of Flightt, about
+
+119 km/h.
+
+,
+No . of . No. of
+Useful :Coeffic-:Fue1 and:Limit
+. lifting :ient of
+oil : d-istance :passengers :passer.:gers fo r
+for
+:utiliza-:per km.
+Cubature: "f oree
+1000 tm.
+500 km.
+:tion
+",
+
+.
+
+3
+
+V m
+5.,000
+10,000
+15,,000
+
+ao,ooo
+
+2.:5,000
+~O)ooo
+
+35,,000
+40,000
+45,000
+50,000
+60,000
+70 , 000
+80,000
+90,000
+100,000
+12"5,000
+
+~
+
+e
+
+kg.
+
+-1,063
+- 289
+772
+1,957
+a, 3".10
+4,496
+5,800
+7,113
+8,42:8
+9,7~5
+
+12,331
+14,883
+17,3:84
+19,7433
+2~, 19~
+
+2i7 1 850
+
+c kg.
+
+-0.296
+-0.02.6 .
+0.0468:
+0.0889:
+0.110,7:
+0.136Z:
+0.1506:
+0 .. 1617:
+0.1683:
+0.1770 :
+0.1868:
+0.1932':
+0.1975:
+0.1994:
+0. a017:
+0.202'5.:
+
+.
+
+""
+
+4.46.1
+5.40Ei :
+a.a71
+7.083
+7.848
+8.579
+
+1
+
+9.955
+11. 242"
+12.458
+13.618
+14.730
+15.80Z'
+18.337
+
+·
+
+20.707
+22.948
+25.085
+27.134
+29.109
+31.019
+
+1,599 ,
+1,656 ":
+1,6:94
+1,719
+1,729
+1 t 786
+
+228
+265
+298
+33.1
+358
+384
+
+124
+150
+174
+195
+212
+229
+
+1,735
+1,7a71
+
+407
+425
+442:
+
+242
+2 52
+a60
+
+9.Z79
+
+0.2007 :
+0.1974:
+0.1932 :
+0.1884:
+0.1830:
+0.178a:
+
+300,000
+325,000
+3:;?0,000
+
+57,045
+59,883
+62,426
+
+0 .. 1729: 32.871
+0.1675: 34.6.73.0.1621: 36.44=9
+
+\"
+
+°
+
+514
+
+0
+0
+0
+0
+0
+0
+0
+
+73.9
+829
+908
+978
+,
+1,097 ·
+1,195) "
+:
+1, a176 ·
+·
+1,340 ":
+1)404: :
+1,519 ,
+
+33,115
+37,993
+42,497
+46,638
+50,335
+53,899
+
+J.
+
+0
+
+1733623
+
+10
+19
+2:8
+S..8
+53
+67
+87
+106
+1241:
+143
+187
+
+150,000
+175,000
+200,000
+225,000
+2.50,000
+275,000
+
+m
+
+L km.
+
+6~5
+
+1/7?l3 ."
+
+.
+,
+
+.
+
+"
+,
+
+°
+
+11
+0'4
+38
+
+50-..
+
+64
+· 95
+

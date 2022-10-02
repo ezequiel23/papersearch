@@ -1,0 +1,3383 @@
+rILE C PY
+
+r
+REPORT No. 51
+
+SPARK PLUG DEFECTS AND TESTS
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+TH
+
+OOCUM" H of,; LOAN F;;O"
+
+I
+
+'~v
+.fl'
+
+JLRN TO
+
+f,tlD
+
+r . f.
+
+\
+
+I I
+
+0 r 1.0
+
+P.EQL!= .) F R PL..
+
+AS
+
+\i/-
+
+l AlW'SORY COW~HTTIE fOR AER
+"RD /lUT CAL LA or~ATO~Y
+
+NAllO
+tAr
+lA
+
+Ii;: IlLES
+
+lJj
+
+,VIRGINIA
+~~~.
+
+S SHOULD BE AOOIlESS:")
+
+roLlO.~<l:
+,. r:- .... "
+
+I
+
+tl'llrl"
+
+WASIDNGTON
+GOVERNMENT PRINTING OFFICE
+1920
+
+/'
+
+0.3
+
+v
+
+REPORT No. 51
+
+. SPARK PLUG DEFECTS AND TESTS
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1920
+
+By Tranefer
+Navy
+
+Dept.
+
+MOV 11 1910
+
+REPORT No. 51
+SPARK PLUG DEFECTS AND TESTS
+Part I.-CAUSES OF FAILURE OF SPARK PLUGS
+By F. B. SILSBEE
+
+Part n.-GAS LEAKAGE IN SPARK PLUGS
+By L. B. LOEB; L. G. SAWYER, nnd E. L. FONSECA
+
+Part m,-METHODS FOR TESTING SPARK PLUGS
+By H. C. DICKINSON, F. B. SILSBEE, and P. G. AGNEW
+
+3
+
+REPORT No. 51.
+PART I.
+
+CAUSES OF FAILURE OF SPARK PLUGS.
+By F. B.
+
+SILSBEE .
+
+R~SUM~.
+
+It is the purpose of this report to collect and correlate a considerable amount of
+information which has been accumulated at the Bureau of Standards for the National
+Advisory Committee for Aeronautics during the past two years relative to the causes
+of failure of spark plugs in aviation engine. It is hoped by defining the various types
+of failure to clarify the spark-plug problem and to be of a istance to the manufacturers
+in improving their designs. The characteristics of the ignition system u ed in aviation gasoline
+engines are such that only a certain maximum voltage can be produced by the y. tern even
+on open circuit, and if the insulation between the spark-plug terminals i reduced the maximum
+voltage is correspondingly reduced and no spark will occur if the insulation is too low. The
+requirements which a spark plug must meet are, therefore
+1. The maintenance of a gap having a breakdown voltage of about 6,000 volts.
+2. The maintenance of an insulation resistance of at lea t 100,000 ohms .
+3. Practically complete gas tightne s.
+These requirements must be maintained under pressures of 500 to 600 pounds per square
+inch while immersed in a medium which alternate rapidly in temperature between 0 and
+2,500° C., and in an atmosphere which tends to deposit soot upon tho urface of the in ulator.
+The various manners in which a spark plug may become inoperative may be enumerated as
+follows:
+1. Fouling with carbon deposit causing short circuit.
+2. Fouling with oil deposit cau ing open circuit.
+3. Breaking of the in ulator.
+4. Preignition.
+5. Conduction through the insulator.
+6. Electrical puncture of the insulator.
+7. Minor trouble, such as warping and breaking of electrode, etc.
+Experience in the altitude laboratory at the bureau and authoritative information received
+from France indicate that the first type of failure accounts for over 50 per cent of the trouble
+encountered in practice, particularly at high altitude ; the third type of failure accounts for
+nearly 40 per cent of the trouble; the second type of failure occurs quite frequently when fir t
+s tarting an engine, but very seldom develops after the engine is once running. The other types
+of failure are of relatively rare occurrence, but must be kept in mind in the design of park
+plugs, since departure from the conventional designs i very liable to produce one or another
+of these types of failure.
+In the report the cau e and iden tification of each type of failure are described in detail
+and where possible remedie are suggested. The e remedie are unfortunately 0 conflicting
+in character that no general conclusion can be drawn, and the de ign of a spark plug is in
+every case a matter of balancing the oppo ing requirements to uit conditions in the partiCUlar
+engine considered.
+5
+
+6
+
+A NUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+INTRODUCTION.
+
+It is the purpo e of this report to collect and correlate a considerable mass of data and
+
+information which has been accumulated at the Bureau of Standards during the past two
+years relative to the causes of failure of spark plugs in aviation engines . It is hoped by defining
+the various di tinct types of failure which are liable to occur and by indicating their relative
+importance and, where pos ible, the remedies for them, at least to clarify the spark-plug problem and to be of some assistance to manufacturers in improving their designs. Owing to the
+fact that the variou types of failure often require remedies which are conflicting in character,
+only general conclusion can be drawn, and any design of plug must require a balance between
+opposing factors, the relative impOTtance of w~ch depends upon the type of engine in which
+the plug is to be used.
+The sources from which this data has been obtained are somewhat varied. There is at the
+Bureau of Standards an altitude laboratory in which aviation engines are tested while in a
+vacuum chftmber, so arranged as to duplicate quite closely the conditions of operation in an
+airplane flying at high altitude. Records have been kept of a large number of spark plugs
+u ed in the engines which were being subj ected to various tests in this chamber and the different
+spark plug troubles which occurred were noted. It is believed that the conditions of operation
+at any given altitude in this test chamber are entirely comparable with tho e in actual flight,
+but in studying the data it must be remembered that the proportion of the time at which the
+engine was operated at various altitudes may be somewhat different from that occurring in
+actual service in the field.
+Laboratory tests have been made on a wide variety of plugs which are shown in the accompanying photographs. A description of the methods used in these laboratory tests will be
+found in Part III of this report. The purpose of these tests was to measure certain properties
+(gas tightne s, mechanical strength, etc.) of the spark plugs of each type and to form a basis
+by which the relation between these various properties and the service performance could be
+correIa ted.
+Results have also been secured of some extensive studies made in France at various flying
+fields of the American Expeditionary Forces on the performance of various French spark plugs
+in a number of French aviation engines. Thi work was under the supervision of Lieut. L. B.
+Loeb, who had previously been a member of the ignition staff of the Bureau of Standards and
+who was intimately familiar with the laboratory tests there conducted, and the data which he
+has supplied can be directly compared with data obtained in this laboratory.
+In addition to these three principal sources, numerous conferences have been held with
+aviation officers and engine builders, as well as with spark plug manufacturers.
+CONDITIONS OF OPERATION.
+
+The usual type of ignition system used with gasoline engines con ists e sentially of an
+induction coil, the primary current of which may be provided either from a battery or by the
+motion of the coil itself in the field of a permanent magnet, as is the case in the high- tension
+magneto. In either case, the essential features of the operation of this type of device are,
+first, that with its secondary circuit open the voltage of the coil will build up to a certain definite
+l imit, approximately 10,000 to 20,000 volts; and, second, if the secondary is closed, either
+through a shunting resistance or through a spark gap which is broken down and is permitting
+the passage of a current of electricity, then the maximum current delivered by the secondary
+of the coil is limited to a value of from 0.05 to 0.10 ampere. In many cases the maximum
+voltage of the system is limited by a safety gap to a value somewhat Ie s than the inherent
+limit referred to above, which is fixed by the inductance and capacity of the circuit and the
+current at "break."
+The voltage required to produce a spark in the cylinder of a high-compression aviation
+engine is approximately 6,000 volts. (For a discussion of the effect of the pressure and temperature of the ga on this voltage, see Report No. 54.) Consequently, when the spark plug is
+
+CAUSES OF FAILURE OF SPARK PLUGS.
+
+7
+
+clean, there is a considerable factor of safety. If the plug is shunted by even a very high
+resistance, the maximum voltage reached is m at erially r educed and with a lower value of
+resistance than about 100,000 ohms, the voltage may be insufficient to produce a spark. The
+magnitUde of the effect of a shunting resistan ce may be estimated from the relation that the
+voltage across the plug previous t o the p assage of the spark is equ al to the product of the
+shunting r esistance by the current flowing through it. Thus, for example, if the secondary
+current of the coil is limited t o 0.08 ampere and the shunting resistance .is 50,000 ohms, the
+maximum voltage available is only 4, 000 volt and no spark will occur. The requirements of
+the spark plu~ are, therefore, to maintain a gap the sparking voltage of which does not greatly
+exceed 6,000 vol ts, and to m aintain an insul ation resistance across this gap which is considerably
+great er than 100,000 ohms. The plug must also be gas tight under the conditions of pressure
+and t emperature existing in the engine.
+While much remains to be learned as to the condition existing in modern aviation engines,
+the pressures and temp eratures met- with ar e roughly as follows: The pressure on the plug
+alternat es between a slight suction during the in take stroke and a pressure of 500 to 600
+pounds per square inch during the exp ansion stroke. There is a considerable vibration of the
+engine as a whole, which is at times sufficien t to crack porcelain insulators. In rotary engines
+the centrifugal force acting on any part insulator near the periphery may exceed 500 times
+the weight of that p art. The incoming charge of gas mixture dUTing the intake stroke may
+be several degrees below zero in cold weather or at high altitudes, while the flame of compressed
+and burning gas which surrounds the plug during the expansion stroke may reach a temperature
+of 2,500 0 C. These alternations of pre ure and temperature occur with a frequency of about
+15 cycles per second, and the fluctuations in temperature can not penetrate to any appreciable
+depth in the insulating m aterial of the plug. The resultant effect is that the inner end of the
+insulator and central electrode reach an average temperature of approximately 900 0 C.; the
+body of the insulator well up in the shell seldom exceeds 200 0 C. ; and the shell itself is in
+contact with a jacket containing water at 70° C. (Report o. 52 gives some data on temperatures observed in spark plugs with brass and steel shells when operating in aviation engines.)
+The various manners in which a spark plug may fail to operate under the conditions jURt
+described may be enumerated as follows :
+(1 ) Fouling with carbon deposit causing short circuit .
+(2) Fouling with oil deposit causing open circuit.
+(3) Breaking of the insulator.
+(4) Preignition.
+(5) Conduction through the insulator .
+(6) Eleotrical puncture of the insulator.
+(7) Minor trouble, such as warping and breaking of electrode , etc.
+DISCUSSION OF TROUBLES.
+
+T hese clas es of failure will be discussed in detail in the following paragraphs:
+(1) Fouling by carbon deposits .- T hi trouble is due to the depo it of a layer of carbon
+upon the surface of the insul at or or to the formation of a cake of carbon immediately between
+the electrode surfaces. This carbon is due to two causes: (a) The chilling of the flame by a
+cool por tion of the plug, which thus renders combustion incomplete. This effect is particularly
+common when the mix ture of gasoline and air i too rich in gasoline and i consequently of
+frequent occurrence in operation at high al titudes in case where the carburetor is not properly
+comp ensat ed for the decrease in density of the atmosphere-at tho e altitudes. (b) Th e second
+cause for carbon deposit is fr om the decomposition of lubricating oil which may be splashed
+or sprayed on heated portions of the insul ator. The lubricating oil it elf is an electrical
+insulator, and when it wets a layer of soot on the spark plug it tends, by surrounding each
+particle of carbon, to m ake th e entire mass an in ulator. Gradually, however, such a deposit
+ch ars under the action of the fl ame and becomes more and more conducting.
+
+8
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+In this process the oil acts as a binding material for the soot and also increases the rate
+of deposition, because particles of carbon in the flame may adhere to the oily surface instead
+of remaining in suspension in the flame and burning later in the stroke. The conduction
+through the deposit thus formed seems to take place along a narrow path where the oil film
+between the particles has been broken down by th e electric stress rather than as a uniform
+conduction over the whole surface of the insulator.
+This trouble seems to be the most frequent source of failure of spark plUgs. Records
+kept in the altitude laboratory show over 50 per cent of the spark plug troubles to be due to
+this cause.
+The reports from France also corroborate this statement. As would be expected, the
+trouble is more serious at high altitudes than at low, and seems to occur more readily with
+mica than with porcelain plugs. This is probably due to the somewhat rough surface of the
+mica, which causes the carbon to adhere more readily.
+While the engine is in operation, such fouling causes misfiring of the cylinders, or, in case
+there are two plugs in one cylinder, one of which remains clean, there is merely a slight loss in
+engine power. On removing the plugs from the cylinder a heavy deposit of carbon is at once
+evident. It should be noted that spark plugs may appear very black and heavily sooted and
+yet show a high resistance, owing to the fact that the carbon particles are not in direct contact
+but may be insulated with a film of oil. After long use porcelain insulators frequently take on
+a film of reddish-brown color, which, however, does not tend to short circuit the plug and which
+must be distinguished from fouling with carbon.
+The possible remedies for this type of failure lie (a) in improving the design of the plug
+(b) in improving the carburetor system, and (c) in modifying the ignition system.
+(a ) The insulator of the spark plug may be so shaped by the use of petticoats, ridges, or a
+long conical projection that a portion of this surface operates at a very high temperature.
+With this arrangement all carbon deposit is burned off during the early part of the combustion
+of the charge, while the gas in the cylinder still contains an excess of oxygen. This type of
+construction is particularly useful in engines which are well cooled, but in engines which are
+very hot and of high compression normally, this construction may tend to cause preignition.
+An alternative method of design is shielding the insulator with a metal baflle plate, which pre_
+vents the access of oil and its resulting carbonization. This is useful in engines in which a large
+amount of oil is used, or in which the plug is so locat ed as to be particularly exposed to a spray
+of oil. With this construction, however, there is usually little opportunity for a carbon deposit
+to be burned off, and if such a plug happens to become fouled at light load or high altitude, it
+will not come back into service at full load or low altitude.
+(b) It is probable that the development of new types of carburetors which is now in progress
+will greatly reduce the occurrence of excessively rich mixtures in planes flying at great altitudes
+and will thus tend to reduce this source of trouble.
+(c) Certain special types of ignition systems have been devised which are particularly
+suited for firing plugs which a.re shunted with a fairly low resistance. The usual arrangements
+of such systems is to connect an auxiliary spark gap in series with the spark plug. (A discussion of the use of such systems will be found in Report No. 57.) With devices of this type,
+it has been found possible to produce regular firing in an engine in which the plugs were
+deliberately fouled so as to have an insulation resistance of only 5,000 ohms.
+(2) Fouling with oil.-This trouble occurs in cases where the lubricating oil forms a coating over the surface of the electrodes or forms an actual drop between the electrode points.
+Since the breakdown strength of oil is several times that of air, the voltage required to produce
+a spark under these conditions is very greatly increased and may exceed the voltage which the
+ignition system is capable of delivering. If the insulation of the spark plug is at the same time
+omewhat reduced by the presence of soot, the maximum voltage which the system will give is
+correspondingly reduced.
+This trouble usually occurs when there is an excessive amount of lubricating oil in the
+cylinder and this condition arises most frequently on starting an engine when it has been turned
+
+CAUSES OF FAILURE OF SPARK PLUGS.
+
+9
+
+over several times with no flame in the cylinder which might serve to burn off the fum of oil.
+The condition is also met with when the plane is recovering from a long glide, during which
+the engine was turning over slowly and pumping oil into the cylinders. This trouble is particularly annoying to mechanics in charge of aviation engines, since it occurs at starting when
+they are working on the engine, and it frequently gives a bad reputation to an otherwise good
+plug. It is rather rare, however, that the trouble arises in an engine after it has once been
+started. The trouble may sometimes be identified by the firing of the magneto through its
+safety gap, thus indicating that the voltage required to pass a spark at the plug is greater
+than that required to break down the safety gap. On removing the plugs from the engine
+when failure has occurred from this cause they will be found wet with fairly clean oil.
+The remedies for this trouble are found in modifying the design of the electrodes. A
+number of shapes have been used as shown in the photographs, which serve to drain the oil
+away from the spark gap by capillary forces. Experience with various French plugs has indicated that this trouble occurs most frequently in plugs in which one electrode consists of the
+wall of the spark plug shell as in the Ponsot, Joli, and Rudex plugs.
+The trouble is, of course, reduced by avoiding excessive amounts of lubricating oil in the
+cylinders and by occasionally opening the throttle of the engine while making long glides and
+thus burning out the accumulated oil before the amount has become excessive. This procedure is common practice. Certain types of high frequency ignition systems have been devised
+which are capable of giving a much greater voltage than the ordinary types of system, and
+with these the trouble from oil fouling would probably be much reduced. None of these
+systems is at present in common use so that no field experience is available.
+(3) Oracking of insulator.-Any crack in the body of the insulating material may permit
+the passage of the spark from the central electrode to the shell in such a location that it does
+not cause ignition of the explosive gas mixture. The thickness of the insulating wall in many
+plugs is so great that a spark will not pass directly through a clean crack in the insulator and
+the engine may run for some time even when the plug is badly cracked. In time, however,
+the cracks in the interior of the plug become fille I with carbon from the flame and will finally
+conduct sufficient current to prevent sparking at the electrodes. Of course, any broken pieces
+of porcelain which may be cracked from the insulator are very detrimental to the engine.
+The factors which may cause cracking are several. The mean temperature gradient from
+the hot inner end of the insulator to the relatively cold shell causes the hotter portions of the
+insulator to expand to a greater extent than the cooler, and sets up stresses in the insulator
+uch cracks are particularly likely to originate where there
+itself which may cause cracking.
+is a sudden change in diameter of the insulator, as at the shoulder. Also if the metal parts are
+so placed that their greater expansion tends to produce pressure on the relatively less expansible
+insulator, cracks may occur as a result. It is probable that in some cases actual drops of relatively cool lubricating oil may strike the hot parts of the insulator and by suddenly chilling
+them cause cracks. There seems to be good evidence that in some engines the mechanical
+vibration of the engine as a whole is sufficiently rapid and intense to break the porcelain from
+purely mechanical causes. Such breakage often occurs in the outer part of the porcelain at the
+plane of the bushing or crimping. An impact testing machine has been constructed at the
+Bureau of Standards in which the spark plug under test is screwed firmly into the side of a
+steel block which is arranged to strike repeatedly against a steel anvil. The velocity of the
+block and plug at the instant of impact is about 200 cm. per second and the blows occur at the
+rate of 300 per minute. (For details of this machine, see Part III.) Certain types of plugs
+which gave trouble from cracking in service, also cracked when tested in this impact machine,
+the location and character of the crack, though different for the different types of plug, being
+the same in both the engine and laboratory tests for a given type. Since no heat was applied
+in the laboratory tests, it seems probable that the mechanical shock was the main cause of
+cracking in these cases.
+There is also a considerable breakage of plugs due to accidently striking them with a wrench
+or other tool when inserting them in the engine.
+152578-20-2
+
+10
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+In the Bureau of Standards' laboratory approximately 40 per cent of the failures which
+occurred with porcelain plugs were due to cracking of the insulator. The reports from France
+indicate that considerable trouble has been experienced from this cause, and that as a result
+mica plugs are much more popular, and only a relatively small proportion of porcelain plugs
+are now used in that country. A plug which has fail ed in this manner usually shows continuous
+misfirings, although in the case of a small crack the missing may be irregular. On removal of
+the spark plug, the crack may often be located by the grating sound heard when the plug is
+strained by the fingers, in cases where no crack is visible at the surface.
+Mica plugs are, of course, practically free from this source of trouble and the most obvious
+remedy with porcelain plugs is to use a material which shall combine at the same time a high
+mechanical strength, a low modulus of elasticity, a low coefficient of thermal expansion, and a
+high thermal conductivity. During the past two years very considerable progress has been
+made by a number of porcelain manufacturers in developing insulating materials which are
+superior in these respects to those formerly used. (R eport No. 53, Part III, contains a description of a development of one of these types which was carri ed out at the ceramic laboratory of
+the Bureau of Standards.)
+Certain plug designers have endeavored to avoid trouble from this source by making their
+insulator in two or more pieces as is done in the Pognon and Duffy spark plugs. In these plugs
+the innermost porcelain attains a relatively high temperature and expands correspondingly
+while the outer pieces are cooler and expand only slightly. The passage of a spark between the
+central electrode and the shell through the joint between the porcelain sections is prevented by
+a wrapping of mica around the interior of the shell and -around the electrode, respectively. It
+is, however, very difficult to make plugs of this type gas tight.
+In plugs in which the central electrode is cemented in the porcelain throughout the greater
+part of its length, it is essential that the di ameter of the electrode b e kept small in order that
+the total amount of its thermal expansion may be taken care of by a yielding of the cement
+without setting up excessive strain in the inclosing porcelain. Olosed-end plugs serve to reduce
+the trouble from the spraying of drops of cold oil upon the hot insulator, and the resulting
+splitting off of bits of porcelain. They also tend to prevent any broken pieces of porcelain from
+getting into the engine cylinder.
+Breaking of the insulator by the mechanical vibration of the engine seems to be materially
+reduced if the insulator is cushioned by a considerable thickness of packing material, such as
+asbestos, placed between the shoulder of the insulator and the bushing. The plugs in which the
+edge of the shell is crimped over the shoulder of the insulator, commonly called the one-piece
+type, have given considerable trouble from cracking of the porcelain at the edge of the shell.
+This effect seems to be due in part to the rigid connection between the shell and the porcelain,
+which transmits the mechanical shock of the engine without any cushioning, and in part to
+stresses set up in the porcelain by the shrinking of the metallic shell after it has been heated
+during the process of crimping. These troubles can be materially reduced by proper design of
+the tool used in making the joint. Variations in the proportions of the plug make a decided
+difference in its resistance to breaking from mechanical shocks. Two extreme types of design
+are illustrated in plugs 74 and 76. Though these were both of the same material, the long and
+slender porcelain gave decidedly more trouble from this cause.
+4. Preignition.-This trouble, when chargeable to the spark plugs, is the result of too high
+temperatures occurring at some part of the plug, either the tip of the insulator or end of the
+electrode, or other small projection, resulting in ignition of the charge in the cylinder before the
+end of the compression stroke. Preignition may occur from several causes not connected with
+the spark plugs, as for instance, from overheated portions of the combustion chamber, such as
+hot exhaust valves, from hot points or flakes of carbon or other material lodged in the cylinder
+and heated by compression of the charge adiabatically to a temperature where ignition occurs
+spontaneously. There is probably a definite relation between the maximum compression
+pressure and the tendency to preignite from hot points, since th~ higher the compression the more
+readily is the charge ignited.
+
+~--
+
+i
+
+9
+
+28
+
+49
+
+50
+
+T Y PE" OF ~ I .I RK 1' 1,["(;1-' ,W ll.I Ll TTEIl FOR 'L'E "I'.
+lFI)I'('ign plug':-; '11'(' of F rench manufact ure unless otlwl"wis(' stated·1
+
+I, 1 iil cL.
+{"
+2, O leo (hrass).
+3, O leo (slee l).
+~ , Fr igo.
+iJ, [,odge (British).
+
+tl , I /.\ s.
+12, 1. ',\ 5.
+13, Erie.
+
+S, O. I,. M. (Uali"n).
+
+11, "rip.
+I;', Hu(\px.
+l(i, Hlidex.
+17. Benoist.
+I', Leda.
+
+9. R enault.
+10 .. eris.
+
+2I,H.p , 9,
+22, ,'('1'1).
+
+2:3, ('agnan.
+
+20, H.e Y.
+
+6, Pola.
+
+7, Coni ll.
+
+2·I,)0Iy.
+
+2:,. Fcrt (E),qllem).
+26, D ..1 . D.
+
+27. Oleo (I'roc.).
+2\ .e. C. F. (Italian).
+
+19, Eyquem.
+.UI ERIC'.' S PLC<"S.
+
+29,
+
+ao,
+
+:Jl,
+:12,
+33,
+3 1,
+35,
+:16,
+37,
+
+harp (Pon'Jllype).
+Sna r p ~ KOI)I)er Kin~).
+harp Ooliall,).
+Ilarp m~lorc.vclp).
+narp (closed end).
+ITNz ('tcallle).
+LIerz (I' n S I).
+lIerz (Steatite).
+tewMI (V-ray).
+10- 1
+
+:l~ .. l
+
+nde"'11 (hoilow corc).
+:J9, .\ n ~ l ('or~~n (riJH~ i n ~ I?rt).
+10, .l ndN"ln (closed end).
+II, e w lerson (hoilow end).
+1'1 •. e'1'lorsol1 (ridged end).
+1 .e n'lerson (f1"sh end).
+:1,
+II , .e nde",on (nipple).
+15, Hefle, (Bahy).
+16, ,e "hl ll' n ( Wr igh l).
+
+Ii, ~rosler (1.(' Rhone ).
+I , ~ fosler.
+19. Ifosler (spilfire) .
+:,0. ~fosler ( I·ps",·ills ).
+.>1. ~[osler ( \'e~lI"ill ).
+.;2. Hed lIe:,d (Rig Ilo),).
+;':1, Red lI ead.
+.>!, Bosch (.I meriean).
+,j.j, Bosch (Ger man).
+
+64
+
+63
+
+56
+
+65
+
+66
+
+67
+
+74
+
+75
+
+76
+
+69
+
+70
+
+71
+
+72
+
+78
+
+68
+
+79
+
+80
+
+81
+
+77
+
+82
+
+87
+
+97
+
+100
+
+101
+
+102
+
+103
+
+98
+
+99
+
+105
+104
+
+'I' YPE R 0 1 SPARK PLll (1S (Continued ) .
+"
+
+.;6,
+.;7,
+:;S,
+.;9,
+
+Ilethlehem
+Il ethlehem
+Bethlehem
+[l eth lehem
+fiO
+"
+61:
+
+6')
+
+(de luxe).
+( Pon sot).
+(avialion ).
+( [lugal ti).
+
+t,
+
+fi;i: olin')' (ail' lin e).
+
+61. DllfT)' (3·pieee).
+(j5, Champion (small ) .
+66, Champio11 (al·iation ) .
+(i7 , Champion ( Li berty).
+(N, Champion ( X).
+69, Champion.
+70, 'I'i tan.
+ii , 'l'iLan.
+
+7"1, Titan.
+
+10- 2
+
+73, Titan .
+71 , Rajah (loll!: pOl'ee ).
+7;, Rajah (closed end) .
+76, Rajah (open nd ) .
+77, Rajah (s hol't pOl'ce ).
+7~ , Sp li tdorf (mica top ).
+79 . Sp li tdorf( f. p Rhone ).
+SO. plitdo l' f( l. c Hhonc).
+~ I , .'plildorf (o pen end).
+~2 , plildol'f( Ponsot ).
+~31
+
+.\ffinit y .
+
+'I, Ru lli'·a·n .
+~:) ,
+
+Sici)('rL
+
+'6, St. Louis ( \ 'all·e).
+'7, Benfol'd (Golden giallt).
+~9,
+
+Minogue.
+
+90, COl'ning ,
+
+91, Benlon.
+9:2 , H ercules.
+
+93, HCl'cllt es.
+9~, \\'alden- \\'ol'ceslel'.
+9.;, R a nd al l.
+96, Pittsfield.
+97, Express .
+9R, Camp he ll .
+99, National.
+100, Johns Ma n vi ll e.
+101, Latch.
+102) Reliance.
+l 03, Anchor.
+l().l , LiIJel'ty.
+10:;, Comel.
+106, [lerkshil'c ( I'ol'c. ).
+107, Berkshi l'e ( Mica).
+
+111
+
+108
+
+116
+
+110
+
+117
+
+118
+
+CROSS
+108, Ilel'z.
+109, Vert.
+110, H. e V.
+t il., Pognon.
+11 2, Joly.
+
+120
+119
+
+ECTlON
+
+lI 3, .\. C. F.
+11 4, Minogue.
+ll S, .\n d rson.
+ltG, B et hlehem.
+117, BugaUi.
+11 ,rritan.
+
+10- 3
+
+115
+
+112
+
+109
+
+12 1
+
+123
+
+OF T YP[CAL SPARK PLuG .
+
+119, Bethleh em (de luxe).
+120, Splitdorr.
+121, Buffy (3·pi cce) .
+12'l, Buffy (ai r line).
+124, Eo eil (Germa n )
+
+124
+
+CAUSES OF FAILURE OF SPARK PLUGS.
+
+11
+
+The importance of this cause of trouble seems to have been somewhat overestimated. It
+has been observed only in rare cases in the engines tested at the Bureau of Standards, and reports from France show it to be of minor importance. In cases where the spark plugs are
+leaky and are consequently unduly heated by the passage of gas through them, temperatures
+which will cause preignition, however, may often be attained. The danger of preignition,
+moreover, limits the extent to which the design of spark plugs can be modified in the direction
+of maintaining high temperatures, and prevents the use of otherwise desirable designs which
+would operate at such high temperatures as to insure the burning off of the deposits of carbon.
+Definite identification of this source of trouble is quite difficult without the use of an engine
+indicator, but mechanics familiar with the running of the engine can often judge by the noise
+and vibration when preignition is occurring. In some cases ignition from overheated plugs
+may occur before the inlet valve has closed. This results in the familiar" popping back" in
+the carburetor and may constitute a serious fire hazard on a plane. A careful distinction should
+be made between true preignition, and what may be called "afterfiring." This latter phenomenon consists in the continued operation of the engine after the ignition system has been
+cut off, as a result of the ignition of the charge from heated surfaces within the cylinder. Ignition from such surfaces is slow and has the effect of a greatly retarded spark. The combustion
+in such cases is relatively late, does not yield much power, and can maintain only a very slow
+engine speed. The pressures obtained by this effect probably occur so late in the stroke as not
+to interfere with the normal operation of the engine when the electric igni tion is also functioning.
+Remedies for preignition, as far as the spark plugs are concerned, are obviously to keep
+the insulator as cool as possible by making it short and compact. Long central electrodes
+should be avoided, and also constructions which tend to permit the formation of flakes of mica,
+which, owing to their low heat conductivity, will maintain their high temperature throughout
+the intake stroke. The use of a copper rod for the central electrode should be effective in this
+respect, but introduces difficulties from expansion and oxidation. Other extreme designs
+intended to eliminate preignition troubles have used a hollow central electrode containing a
+small quantity of mercury which, being vaporized at the inner end and condensing at the outer,
+greatly increases the effective heat conductivity of the electrode. Other designs of plugs have
+used check valves which allow cool air from without to be sucked past the insulator during the
+intake stroke, but which prevent leakage of gas outward during the remainder of the cycle.
+This latter design, however, has not proved practical. There seems to be good evidence that
+the exhaust valves operate at nearly as high temperatures as the spark plugs, and they are
+probably equally effective in producing preignition where this trouble exists.
+(5) Oonduction through insulator.- It has frequently been stated that cases of spark-plug
+failures in very hot engines may be attributed to the fact that at high temperatures the insulating materials used in the plug become to some extent conductors of electricity and reduce the
+insulation resistance below the critical value of about 100,000 ohms. Report No. 53, Parts I
+and II, describe a series of measurements of this property for various materials and indicate
+that there is a very considerable variation between different materials in this respect. As a
+result of an exhaustive study of the subject, however, it appears that only in extremely hot
+engines and in cases where the ignition system is unusually feeble is failure of ignition likely
+to occur from this cause. The early reports which were received concerning this cause of
+failure have not been confirmed by later information from France, and it appears that the
+importance of this cause of failure has been exaggerated. The remedies for this trouble are, of
+course, the use of material of high resistivity, such as fused quartz, mica, or some of the porcelains recently developed by the bureau and by certain manufacturers. An alternative remedy
+is to use an auxiliary spark gap in series with the spark plug, as in cases of carbon foulings.
+(6) Elect1'ical puncture of the insulator.-The possibility of a direct puncture of the material
+by the igniting voltage is of much interest, though difficult to study quantitatively. In considering this matter the two very different methods of possible electrical failure of an insulating
+material must be carefully distinguished, as much confusion has arisen from failure to do this.
+The first of these is usually called" dielectric breakdown." This is exemplified by the behavior
+
+12
+
+AN UAL REPORT
+
+;rATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+of a sample of porcelain tested cold by applying a known voltage and gradually raising this
+until at about 8,000 volts per millimeter a spark passes through the porcelain. The voltage
+thus observed is called the breakdown voltage of the material and has a fairly definite value.
+Under these conditions the leakage current through the sample, even just before the breakdown
+OCCUTS, is very small, and the sample is therefore not heated and changed in its properties
+appreciably by the application of the test voltage.
+The second type of failUTe may be called" conductive breakdown," and is exemplified by
+the behavior of a porcelain sample tested when hot, say, at 500 0 C. At this temperature the
+resistance of a centimeter cube of ordinary porcelain is about 100,000 ohms, and if a voltage
+of only 500 volts per millimeter (i. e., only one-twentieth of that in the preceding case) is applied
+the current flowing will be 50 milliamperes, and the power dissipated in the sample will be 250
+watts. This would, of course, raise the temperature of the sample very rapidly (at the rate of
+about 100 0 C. per second), and the resi tance would consequently drop still lower and the
+material would be fused and destroyed in a very short time. It can be shown that although
+there is a fairly definite value of voltage and temperature at which samples tested under identical
+conditions fail in this manner, yet the e values depend very greatly on the conditions of the
+experiment, such as the rate of application of the voltage, the ease with which the samples can
+lose heat to the surroundings, etc., and that it is impossible to assign any definite breakdown
+voltage to the material when tested in this manner. It is evident that the two types of failUTe
+depend on entirely different properties of the material, and so far as is known there is no connection between the two.
+When a porcelain is used in a spark plug it is subjected to rather peculiar electrical conditions. At the instant the contact breaker opens the voltage increases with extreme rapidity
+to a value of 6,000 volts. This, however, lasts only a few hundred-thousandths of a second.
+The spark gap then breaks down and the voltage drops to a few hundred volts and remains at
+that value several thousandths of a second. It then drops to zero and remains so for something
+like a fifteenth of a second when the cycle is repeated. The total power output of the ordinary
+ignition system is limited to a few watts, so it seems improbable that the second or conductive
+type of breakdown OCCUTS in practice. The maximum voltage in operation is less than onefifth of the dielectric breakdown strength of the porcelain when cold. It is, however, possible
+that this dielectric strength is greatly diminished at high temperatures and that consequently
+plugs may fail from this cause. If the insulator was punctUTed by the peak voltaKe, the rest
+of the discharge would be concentrated at the small region of failure and might well be sufficient
+to produce fused spots in the material.
+Owing to the rather remote possibility of this type of failure and the experimental difficulty
+of producing in the laboratory dielectric breakdown without conductive breakdown, no measurements have been made of the dielectric breakdown strength of insulators when hot.
+(7) Minor troubles.-In addition to the principal causes of failure discussed above, trouble
+is occasionally experienced from warping of the electrodes. This either short circuits the gap
+or increases it to such an extent that the breakdown voltage required is more than the ignition
+system can fumish . This trouble can be remedied by supporting the central electrode to within
+a short distance of the spark gap, but many plugs are on the market in which a great length of
+unsupported wire is used.
+With prolonged use the surfaces of the electrodes gradually corrode away as a result of
+oxidation between the crystal grains.
+With the alloy usually used (Ni 97 per cent, Mn 3 per cent) this corrosion is ·very slow
+and the life of the plug is almost invariably limited by one of the other types of failure. It is
+stated, however, that slight impurities in the electrode wire greatly accelerate the rate of corrosion. If the c·o nstruction of the plug is such that the material is subjected to a mechanical
+tension, the intercrystalline cracks are pulled apart and the deterioration is much more rapid.
+Tungsten has been suggested as an electrode material and would appear to be well suited because
+of its high melting point, low coefficient of expansion, and high heat conductivity. Preliminary
+tests a this bUTeau in which sparking was produced for a long period between tungsten elec-
+
+CAUSES OF FAILURE OF SPARK PLUGS.
+
+13
+
+trodes in an atmosphere of CO, showed very little corrosion. The extreme hardness and rigidity
+of the metal, however, makes it difficult to handle in manufacture, and its adoption for ('ommercial use is probably not walTanted.
+In some cases a chemical corrosion of the electrode which ultimately causes the tip to drop
+off has been produced by a reaction between the material of the cement and the metal of the
+electrode at the high temperatures of operation. This matter has been discussed in Report
+No. 53, Part IV, and can be remedied by the use of suitable cements.
+There seems to be some evidence that with very rich mixtures a deposit of carbon may be
+built out on the electrode surfaces themselves to such an extent as to short circuit the gap.
+The heat energy of the spark itself is, however, usually sufficient to burn away such deposits.
+Electrical brush discharge over the hot surface of the insulator is occasionally suggested
+as an explanation of spark-plug trouble. Astudyof this effect made in the laboratory, while not
+entirely conclusive, seems to indicate that it is not an important factor. Experiments at atmospheric pressure and high temperature show that a brush discharge which forms a delicate
+purple glow over the surface of the insulator is produced when sufficiently high voltage from
+an ignition system is applied to a spark-plug insulator. The voltage required, however, is
+more than enough to cause a spark to jump from the central electrode to the shell. Experiments at higher pressures (see Report No. 54) and at temperatures up to 760 0 C. showed no
+trace of brush discharge in a plug having a gap width of 2.2 rom., although the pressure was
+raised to such a value as to require a sparking voltage of about 14,000 volts . The data at hand
+indicate that the increase in pressure in the engine cylinder is as effective in preventing the
+brush as it is the spark discharge. Consequently the former might develop only in case there
+were a layer of gas near the insulator which was decidedly hotter and less dense than the gas
+in the spark gap. Such a condition is very improbable in view of the turbulent motion of the
+cylinder contents.
+GAS LEAKAGE.
+
+Leakage of gas through the spark plug is never in practice sufficiently great to interfere
+with the operation of the engine directly. It does, however, tend to heat the spark plug very
+rapidly and causes one or another of the various types of failure discussed above. Part II of
+this report gives the results of experiments on the gas tightness of a variety of spark plugs, and
+describes the methods of test which have been found useful. The general conclusions reached
+as a result of this work are that tightness is much more a matter of workmanship than of design
+and that a wide variation is to be expected in the tightness of plugs made to the same design
+and even by the same manufacturer.
+NOTES ON PLUG DESIGN.
+
+It will be noted from the preceding discussion that the remedy suggested for one cause of
+failure is very often directly opposite to that suggested for another, and the proper design of a
+spark plug becomes a matter of balancing the conflicting requirements. The conditions in
+various types of engines vary quite widely, some having much higher operating temperatures
+than others and some having much greater amount of lubricating oil present in the combustion
+space than others. The type of spark plug which is suitable for Olle class of engine may fail
+to operate another.
+The following general statements, however, seem to be justified by the information available. As to the material of the insulator, mica has the great advantage that it will not crack
+as a result of temperature gradient or other reason. Porcelain, however, is definitely superior
+in resisting the formation of deposits of carbon and is also much less expensive to manufacture.
+It may be said in general that the mica plug has to be of very good grade and workmanship to
+compete with a good porcelain plug, but is definitely superior to a plug with a poor grade of
+porcelain.
+Assuming equally good workmanship, the method of making the joint between insulator
+and shell seems to have little effect upon the gas tightness of a plug except in certain designs
+
+14
+
+A ""NUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+where the insulator is molded into the shell, in which case absolute tightness can be secured.
+The process of crimping the shell around the shoulder of the porcelain is very liable to set up
+strains and cause cracking of the insulator, but has the advantage of cheapness and rapidity of
+construction.
+The shape and arrangement of the electrodes seem to have but little effect upon the operationof the plug, with the notable exception that plugs in which the side wall of the shell forms one
+electrode are definitely more liable to foul with oil and make starting difficult. The breakdown
+voltage of the spark gap depends to some extent upon the shape of the electrode tips, but such
+variation in breakdown voltage is comparatively slight and can be compensated for by a very
+slight difference in the length of the spark gap. The use of rather fine wires as electrodes tends
+to ease in starting as any oil film is readily burnt off, but is liable to cause preignition in hot
+engines. The use of a central electrode consisting of a disk or similar shape seems to have little
+advantage as far as the sPaJ:k gap is concerned, for while it slightly reduces the likelihood that
+all possible sparking points may be fouled with oil simultaneously, the danger of shor t circuiting at least one of the many possible sparking points with carbon is correspondingly increased.
+The merits which this type of electrode may have lie in the protection which it may afford
+to the insulating material back of it.
+Improvements to be expected in the construction of spark plugs seem to be along the lines
+of better porcelain bodies which are less likely to crack and the construction of a molded or
+fused insulator which will insure absolute gas tightness. There seems to be also a very considerable field for improvement in ignition ystem 0 that they will be able to fire a spark plug even
+when it does not maintain the high insulation resistance which is requu:ed by the systems now
+in use. There is a great need of definite and accurate statistical data as to the performance of
+spark plugs of different types in various engines under service conditions, as it is only on the
+basis of such data that the real worth of any design can be determined, and it is only by the
+compilation of much larger amounts of such data than are now at hand that more definite
+conclusions as to the proper type of design can be based.
+
+REPORT No. 51.
+PART II.
+
+GAS LEAKAGE IN SPARK PLUGS.
+By L. B. LOEB,
+
+L .
+
+G. SAWYER, and E.
+
+L. FONSECA .
+
+Rf:SUMf:.
+
+This report describes the method used at the Bureau of Standards for measuring the gas
+tightness of aviation spark plugs, and gives the results of numerous measurements by this method.
+The p lugs to be tested are screwed into a pre ure bomb and subjected to an air pressure of
+225 pounds per square inch while submerged in oil heated to a temperature of 150 0 C. (302 0
+F.). The leakage of air is then measured by the displacement of oil in an inverted bell jar
+placed over the plugs. Tables and curves contained in the report give the results of measurements taken on a wide variety of plugs under the above conditions, as well as data obtained
+with other values of pressure and temperature.
+The data obtained are listed in Table I, and have been analyzed to bring out any relation
+which might exist between the gas tightness and the type of construction. For this purpose
+the types of construction were grouped into five clas es, and the average leakage computed for
+each. T able II shows that there is comparatively little difference between the various classes,
+and hence indicates that gas tightness is much more dependent upon workmanship than upon
+design. This is borne out by many tests.
+Successive measurements on a single plug fail to repeat, which is due to permanent deformation of the shell, gaskets, etc. Also a wide variation is fou:qd among supposedly similar plugs
+from a single maker.
+INTRODUCTION.
+
+During the past year the Bureau of Standards has had occasion to test for gas tightness
+several hund.Ted spark plugs of a wide variety of designs, both American and foreign. It is the
+object of this report to summarize the results of these tests, to record whatever conclusions can
+be drawn from the data thus obtained, and to describe in some detail the methods of test now
+used at the bureau.
+The leakage of gas through a spark plug is negligible so far as the loss of pressure in the
+engine cylinder is concerned, but is of the greatest importance as regards the operation of the
+plug. A very slight leakage of the hot gases carries heat up into the body of the plug, rapidly
+raising its temperature, and thus causing one or another of a number of different types of failure
+which ultimately destroy the plug. Some practical engineers consider the gas tightness of a
+spark plug its sole important property.
+The ordinary spark plug consists of three distinct parts, viz: The central electrode, the
+shell or outer electrode, and the insulating 'material, which is usually porcelain, mica, or glass.
+There are thus in gen eral two joints which must be made tight, though in some instances manufacturers have constructed both the central electrode and the insulator in two or more pieces.
+METHODS OF TEST.
+
+Various methods of test are now in use for factory inspection and for judging the relative
+merits of different types of spark plugs . For the former purpose many manufacturers test the
+15
+
+16
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+plugs while cold and with a pressure not over 100 pounds per square inch. In the case of spark
+plugs for special aviation work, all plugs are discarded which how any leakage on this test.
+Tests for determining the merits of different types ar~ in gener al more severe.
+Foreign military and aviation committees specify several different tests for gas leakage,
+two examples of which are as follows:
+(1) The plug i tested for leakage through it, under cold oil, at an air pressure of 10 kilograms per square centimeter (142.1 pounds per square inch) for 15 minutes.
+(2) Oil is pumped into a cylinder, into which the plugs are screwed, at a pressure of 30
+ki lograms per square centimeter (426.3 pounds per square inch), this pressure b eing maintained for 5 minutes. A pressure of 100 kilograms per square centimeter (1,421 pounds per
+square inch) is reported to have been reached in the case of one plug, but a plug is discarded if it leaks at the low pressure of 5 kilograms per square centimet er (71.05 pounds per
+square inch), the results at the higher pressures b eing of relative value only.
+While on an engine in operation plugs are sometimes tested for gas tightness by spraying
+oil over them; but this test is not reliable, as the oil is likely to boil when it comes in contact
+with the hot plug, producing bubbles, thus making it difficult to tell whether it is heat 0 1' leakage
+that causes the bubb les.
+The method used by the Bureau of Standards for determining gas leakage may be described
+as follows: 'rhe plugs to be tested are screwed into a pressure bomb, which is then filled with
+compressed air, while submerged in a bath of oil heated to any desired temperature. The
+leakage of air through the plug is measured by the displacement of oil in an inverted b ell jar
+placed over the plug. Standard conditions for testing the relative merits of different typ es of
+plugs are 15 kilograms per square centimeter (225 pOlmds per square inch) air pressure and
+150 0 C. (302 0 F.) temperature.
+The apparatus used is shown in figure 1, and consists of a pressure bomb, an oil t ank, two
+pressure tanks with pressure gauge, a graduated b ell jar, and an aspirator. The pressure bomb
+is made from a piece of hexagonal steel with hole drilled and tapped to accommodate six spark
+plugs, as well as the pressure conneetion of one-eighth inch copper tubing. The bomb is suspended from both ends by iron straps, which are made fast to two upright standards securely
+fastened to the floor. The oil tank is of sufficient depth to completely submerge the bomb and
+plugs when the t ank is raised. It' is balanced by a weight att ached to cords running over sm all
+sheave wheels, so as to slide up and down easily between the uprights which support the bomb.
+The tank contains a 1,000-watt heating coil.
+Compressed au: is obtained from a tank having a capacity of 150 cubic feet at an initial
+pressure of 1,500 pounds per square inch. Another smaller tank is used as a low-pressure
+reservoir, in order to m aintain a steady pressure while making a measurement. The gauge
+used is an ordinary commercial pressure gauge reading to 500 pounds.
+The graduated bell jar is made of Pyrex glass, and is about 2 inches in diameter and 7 inches
+long. The lower end of the jar has an opening equal to its full diameter, while the other end,
+drawn down to a diameter of approximately one-fourth inch, is closed by a rubb er hose leading to
+the aspirator, as shown in figure 1. The jar is graduated at intervals, and the volume between
+successive marks is accurately known. In order to :fill the bell jar the oil may be sucked up
+to the proper level by the mouth, but it is much more convenient to use a water aspirator, as
+shown in the drawing. This consists of an upright piece of iron pipe, closed at both ends,
+except for a small pipe connection at the top and bottom. The pipe at the bottom is so connected by valves to both the water supply and the sewer that the standpipe can be emptied
+or :filled at will by the manipulation of these valves . The pipe at the top is connected to the bell
+jar by a rubber hose and water bottle, the purpose of the latter being to pick up any oil which
+might pass the bell jar.
+In carrying out a measurement the plugs ar e screwed tightly into the bomb, against lead
+gaskets, inst ead of t he usual copper-asbestos ones. The oil tank is then raised, submerging
+the bomb and plugs, and the oil drawn t o the desired height in the bell jar, after which the
+
+17
+
+SPARK PLUG DEFECTS AND TESTS.
+
+jar is sealed by a pinch cock on the rubber hose between the jar and the aspirator. When the
+pressure is applied, as the air leaks through the plug, the oil level in the bell jar gradually falls,
+and the time required for the level to travel between any two graduations is observed with a
+stop watch. The leakage in cubic centimeters per second can be readily determined from this
+AI ~
+
+PI F' f '
+
+WATER. RESERVO I R
+
+RUSSER T UB E OF AN 'f
+
+DESI R E D
+
+-«,5
+
+GR I\OUATED IN GUBIC. C,EI'iT\I'I1ETEf?S
+
+PRESSURE 801'116
+FROMWATE.~
+
+"TO SEWER
+PRESSURE b AUGE.
+
+225 LB .
+
+OIL TAN K
+r - - -
+
+-
+
+-
+
+--
+
+1500 LB. AIR TANK -
+
+-W-...-,I-+- - --
+
+l- ~,l'\"''''i'\~,''\..,'\,>#'f''\I#/......,,..''--H_~t_t---
+
+HEATING COIL
+
+TO C.OU NT·f.RBAL A NC.E.
+
+FIGURE L
+
+time interval and the calibration of the jar. A leakage greater than 0.2 cubic centimeter
+(0.01 cubic inch) per second at a pressUTe of 15 kilograms per square centimeter (225 pounds
+per square inch) and at a temperatUTe of 150 0 C. (302 0 F. ) should be considered excessive for
+aviation work.
+
+18
+
+ANNU AL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS .
+
+.016
+
+GAS LCAKAGE:
+ON
+
+,I
+
+.014
+
+A.C.T/ TAN-PLUG
+For successi ve resrs
+
+/~
+
+GAS LEAIfAGE
+ON
+
+.Oll
+
+SPLlTDDRr MICA PLUG
+
+//1
+
+For :>ucc essive tests .
+
+20
+
+.010
+
+6
+
+V
+
+V ,
+
+I]
+Iii
+I f!
+
+.016
+
+/
+
+,' J
+
+/
+
+.6
+
+}'
+
+. ~'4
+
+l
+
+1
+
+,,
+
+I
+
+I
+
+0
+
+/
+I
+
+,,
+
+6
+
+I
+
+0
+
+)
+
+8
+
+8
+
+~
+
+IfJfJ
+
+JfJfJ
+
+l/lfJ
+
+4fJ0
+
+070
+
+To .104
+
+/ "'/ . O 7~
+
+.050
+
+/j
+
+OJ0
+
+040
+
+018
+026
+
+I
+
+I:
+
+I
+I
+
+()
+
+6
+01
+
+For successive tests.
+
+Qj
+
+I
+I
+
+ti
+
+I
+
+()
+
+~ .010
+
+/
+
+.00~
+
+o
+Plot No.4
+
+10fJ
+
+UI
+
+l..
+
+~ 014
+\)
+
+~
+
+H
+
+\) .Oll
+
+!
+f
+
+~
+.,
+-.J
+
+.010
+
+\.i 008
+
+f
+II
+
+.006
+
+ON
+
+1/
+
+~
+
+I
+
+..,
+
+GAS LEAI(AGE.
+5pLlTDORr GREEN
+J A Cf(E TPLUG
+
+/
+
+Oil'4
+
+.001
+
+/
+
+.018
+
+~ 016
+
+.I
+
+l.,j
+
+\.i .01l.'8
+
+I
+I
+
+t
+
+Ii
+
+-t
+
+I
+
+\l
+
+Ii
+
+~ .OlI
+
+E-1/ ..-
+
+.004
+
+16
+
+rorsv cces s i ve res ts.
+.00I
+
+~~
+
+~
+
+fJ
+
+ZOO
+
+J
+
+.Ol0
+
+if
+
+l..
+
+I
+I
+
+~Ol4
+
+ON
+
+CHAMP ION TOL EDO PLUG
+
+.014
+
+//
+I
+L
+
+/
+I
+
+'I:i .016
+
+r-
+
+.Ol 2
+
+II
+
+.Ol0
+
+JO
+fJ
+
+'400
+
+GA S LEA KAGE.
+
+/
+
+I
+I
+
+OJ0
+
+100
+JOO
+.Pre s sur e in Ib.$..per sq. In.
+
+I
+
+TO ."
+
+X
+. \
+
+IlL
+I
+
+100
+
+p/ot No . .3
+
+\
+
+\;1// V
+/
+
+V"
+
+o
+
+in Ibs. per s q.in .
+
+/
+
+/ ~~ V
+
+.00l
+
+Pr~ssure
+
+!'lotNo.Z
+
+~
+
+eM
+
+~V
+
+fJ
+
+r--
+
+/L
+J~
+
+~
+
+,(/
+
+.02
+
+I
+
+I
+
+//
+
+~
+
+~
+..,
+
+..Ld
+
+'4
+
+./
+,II
+
+400
+
+Pr (!'ssu re in /bs.. per s q. in .
+
+!'lorNo. S .
+
+1
+00
+
+V"
+
+:/
+
+~~-
+
+400
+lOO
+JOO
+Pres .$ure in Ib.s., per..59 in .
+
+19
+
+SPARK PLUG DEFECTS A "D TESTS.
+
+,
+
+I
+
+\
+\
+
+I
+
+f
+
+I
+
+6
+
+~/
+
+V
+
+I
+
+/ I
+
+-/
+
+/1
+I
+
+I
+I
+
+I
+
+.02
+
+I
+
+./
+
+o
+
+~
+
+100
+
+6
+
+Z
+
+I
+
+.01
+
+I I I
+
+/7
+
+I
+
+I
+
+I
+I
+
+I
+
+I
+
+...-
+
+--i-'
+
+I
+II
+
+~
+
+o
+
+,(00
+
+I
+
+I
+1/ V
+//
+
+.04
+
+~I
+
+300
+
+!
+
+.06
+
+I
+
+lOO
+
+I
+
+1//
+I
+
+I
+
+""
+
+/
+
+I
+
+I
+
+/
+
+/J
+
+.(
+
+100
+
+100
+30U
+Pressure in /boS , per sq. in.
+
+Plot NO. 7
+
+Pressure in /bs.per sq. in.
+
+PlolNo. 6
+
+/;~
+
+I
+
+I
+J
+
+If I
+.04
+
+Ii
+
+0
+
+/
+
+I
+
+I
+I
+
+I
+
+I
+I
+I
+
+// II
+
+4
+
+I !
+I II:l
+I //
+
+.f 8
+
+I
+
+I
+
+V/
+
+I
+
+.10
+
+I
+
+II/
+
+I
+
+I
+I
+
+I; I
+
+.1l
+
+!V·? ~
+
+I
+
+l
+
+/
+
+.1.(
+
+~ ./
+
+I
+I
+
+6
+
+16 \
+
+V;~
+
+I
+
+GAS LeAKAG£
+ON
+FeRT PLUG
+rOT successive tests.
+
+\
+
+I
+I
+
+I"
+
+I
+
+14
+\
+
+I
+I
+
+For .successIve tests
+
+~
+
+\
+
+I
+
+GASLEAKAG£
+ON
+LODGE PLUG
+
+f--
+
+JO
+
+\
+
+I
+
+GAS LeA If Gt:
+A
+ON
+-i--SPLITOORr GReeNJAC/(eTPLUG
+
+GAS LeAlfAGE
+ON
+FP?T I"LUG
+
+w i th varlofion of temperature.
+
+-
+
+W/lh variation of temperafure
+
+I
+,
+
+~
+./' ,
+
+.l ~
+.1
+8
+
+f7
+
+,,
+
+/
+
+\
+
+~
+
+I
+
+\
+
+\
+
+I
+I
+
+,
+
+/
+\
+
+1\
+
+I
+
+,
+
+I
+
+.16
+
+,
+
+I
+
+,
+,,
+'J
+
+/
+
+I
+
+II
+.04
+.01
+
+/
+
+V':
+
+o
+
+1'/01 No. 8
+
+\
+
+,
+
+,I
+
+/
+
+0
+
+,
+,
+,
+,,
+
+I
+
+\
+
+I
+
+,
+,
+,
+
+/
+
+I
+
+.~~
+
+/
+
+"'"
+
+/
+
+i
+
+I
+
+/
+
+,
+
+/
+
+I
+
+"'"
+\
+
+,
+
+,
+,
+,
+,
+,
+
+,
+
+,
+
+,
+
+/
+
+/
+
+/
+
+JO
+
+100
+
+150
+
+Ternpero.ture- CO
+
+I
+
+1(JQ
+
+o
+
+PlofNO. !],
+
+JO
+
+1M
+Ternperoturt!
+
+liO
+-
+
+Co
+
+100
+
+I
+
+20
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+EFFECT OF PRESSURE.
+
+Using the apparatus above described, tests were made on six different types of plugs to
+ascertain the relation, if any, between leakage and pressure. As shown by plots 2 to 7, inclusive, the leakage increases much more rapidly than the pressure, but owing to the fact that in
+nearly every case the leakage failed to repeat on successive trials, no definite relation between
+the variables can be deduced. Since the amount of gas flowing through very small openings,
+such as are here considered, and of fixed area, varies only as the fu'st power of the pressure, it
+is evident that th e apertures in a spark plug must be opened up very markedly by the pressure
+applied in making these measurements.
+I~~~~~~~~~::t=j=::j ANDERSON (27 ) FUS ED IN; GLA SS.
+!~
+A.c. r ( 7) TAPER FIT .: M I CA .
+
+~~~~~~~~~~~~LlA8 YR£FLC:X(.3)SCRCWBUSH//VG; PORCEL.AIN.
+
+!a
+
+fJAK£LlT£(6) MOULD£D; fJAXELI T C:: .
+
+'fnj~~~",",,'=7l--~---I------, BARNES & HAWlil NS ( I ) SCREW 13USHING " P ORCE LAIN.
+
+I~~~~~~~~~t=~=::j 8A YSOORFCR. AFFINIBUSHING; PORCEI. .A I N. ; P ORCo
+TY(6) SCR£ W BUSHING
+I~
+f!EN TON{lS) SCRE W
+I~W~~~~~~~=t==1=::j
+
+fJER I"(SHIRE ( 6) SCREWBUSHINC; PORce LAIN.
+(JE.RXSHIRE( 6 )SCR£ WBUSHING,· MICA .
+I ~;f~~--l--+---+----l----l 8 ETIILEfI£M( IZ)SCREW BUSHING ; MICA.
+1~~~~d8l'.THLE.HE/>1 ( ZI) S CR£W BUShiNG: FORCELAIN.
+;,z
+B OSCH ( 6. ) CRI/>1PEO ,. STEA TI T E.
+-I-_ - l_--18UGATTI (4)SCREW BUSHING ,' POIfCELAIN.
+=--+----4---1 COI-'ET(S) S CRE W B USHING; MICA.
+MPION(ZIJ) CRIMPEO;PORCELAIN.
+(.3) TAPe::RFIT; M I CA
+IR L INE (3) SPUN G LAND ; POl'lCELAIN.
+QUA RTZ ( 12) SPUN GLAND; QUARTZ&MICA.
+I~
+
+1 ~~~=~f-.-_+-_--+-_-!f-.---I°UFFYEX'pI?ESS(4)SPUN GLAND;PORCELA IN.
+
+-t~rl--+---i;F.;: .~;:'nT~,.,~(IIJ) SCRe w SUS,'ilNG; POR C.ELAIN.
+ER
+
+( 6) SCREW BUSHI NG; !'1ICA.
+He:: RCUL E S (3)SCRG"W BUSHING __ P OR CE:LAIN.
+H£RCULES( C. K . HAROING) (6) SCR E W BUSHING.
+~f-+ _ _l--_+_-4 HERZ BOUGIE (ZO) TAPER FIT ;STEATI TE.
+= 4 - - l - - - + - - 4 J OHNS- MANVILLE { .3) SCREW BUSHING; PORC£LAIN.
+Y(6) CR II'7PEO; PORCELAIN.
+7fjj:rf;£>~~r-_+- _ _i_
+_ -ILEDA ( !)) SCREW BVSHING ,' PORCELAIN.
+
+0.
+
+~{ff<==ir-_+-_-+_-ILODGE(Z7)SC8EWBUSHING;M/~A.
+
+~~~~~~~::t==t==j MOSLCf'(
+~
+MOSLER
+
+.3 )SCREW BUSHING ; MICA .
+VESUVIUS (7 ) S CREW BUSHING; MICA.
+1
+I=T777,,1.,.7n?=I77n07r-+-_-+-_-4_._'-l MOSL F.R ( II) SCREV';' BUSHING; PORC ELA IN.
+
+1~~~~~~~~~~E=t=~OLEO(IZ)SCR£WBUSHING;MICA .
+11111!!~~~~~~PoaNON(6)
+
+0. 1.. . M . ( 6 ) CRIMP£D; fl7ICA .
+(I) SCR EVv' EJUSHING ; M ICA.
+
+Wf'''4-_ -I-_ _+-_--l PITTSFIELD
+
+1
+
+S CR£W BUSHING ,. PORCELAIN&- MICA .
+POL A(6)SCRt:-W B USHING ; MICA.
+RANDA LL (.3) seR E"';' BUSHING; FORC E L AIN.
+RA J AH (10) SCREW 8USHIN G; P O R CELAIN.
+P777==~;W;~;W-<=L'-+--+---I RA'/A H PASHA (IZ) SCRE.W BUSHING,' ,o ORC£LAIN.
+ffffi~~~~j.",.,.".-+---I----1 RA'/AH FR£NCH7-0 WN( 4 ) SCREW BUSHING; 'pOflC .
+
+~~~~ ~~~~~~jRED H£AD(Z)S CREWBUSHING;VITRISTON£.
+
+IIIIIIIIiii;i;
+1
+:<:
+
+~
+
+Rt:.NA ULT (.9) SCREW BUSHING; MICA .
+J?E ' Y
+(9 ) SCRE W BUSHING ; PORC ELAIN.
+
+1~~~777;".,.,j--+---+---l----lSIEB£RT (IJ M OULDED,' QUARTZaCONO£NSIT£:.
+5T£:"V.lAI'<T V R.-'1 Y(6 ) SCR E W BUSHING ,. PORCELAIN.
+SPLITOORF(39) S CREIN BUSHING; MI C A. .
+SULL.lVAN (6) SCREW B USHING,' MICA
+~~~~~ SHARP ""0 TOR CYCLe:: (6) SCflE W BUSHING; MICA .
+i;l:
+.' HA i't P P li CA ( 6 ) SCREW BUSHING,' MICA .
+¥"C£LL;""'Y-CLL.<"'-I SHARP P O,VSOT( ZJ TAPER FIT; MICA .
+TI TAN A. C . (.33) CRIMPEO / PORCt..-i . AIN.
+~.,."I,7=.,.,.-I
+
+P/ofNo./O
+
+EFFECT OF TEMPERATURE.
+
+T ests were also made on several different types of plugs to ascertain the effect of temperature on leakage. As shown by plots and g, it appears that, as might be expected, no definite
+r elation exists between temperature and leakage, and on successive trials the leakage fails to
+repeat, in some cases changing by a factor of 10 or more between two tests. It will be noted
+that one plug showed a definite decrease in leakage with increase in temperature, suggesting
+that in this design the thermal expansion tends to close the aper tures rather than to open them.
+
+SPARK PLUG DEFECTS AND TESTS.
+
+21
+
+RESULTS OF TESTS ON PLUGS.
+
+The results of tests to determine the leakage of plugs cover such a wide range that in expressing the results it is more convenient to make seven classifications, as follows:
+Class A, leakage below 0.005 cc. per second.
+Class A - , leakage 0.005 to 0.01 cc. per second .
+Class B+, leakage 0.01 to 0.10 cc. per second.
+Class B, leakage 0.10 to 0.50 cc. per second.
+Class B -, leakage 0.50 to 1.00 cc. per second.
+Class C, leakage 1.00 to 5.00 cc. per second.
+Class D, leakage over 5.00 cc. per second.
+Table I and plot 10 show the average results for each of the various types tested, and also
+the number of plugs of each type. In studying these results one should bear in mind the variation to be expected in successive measurements of the same plug, also the variation among
+different plugs of the same manufacturer and shipment. This is illustrated by plot 11, which
+was plotted by dividing the 100 per cent base line into as many equal parts as there were plugs
+in each set, and then plotting the observed gas leakage of each plug as the ordinate at these
+equal intervals, choosing the plugs in the order of increasing leakage. Consequently the
+abscissa corresponding to any point on the graph indicates the percentage of plugs having less
+than the amount of leakage indicated by the ordinate at that point.
+An endeavor was made, by analyzing the data contained in Table I, to determine whether
+there was, on the whole, any relation between the design of the plug and its gas tightness.
+For this purpose the plugs there listed were grouped into five classes, as follows: (1) screw
+bushing, (2) crimped, (3) taper fit, (4) molded, (5) spun gland.
+The average leakage for each class of construction was computed by assigning numerical
+values for various grades of leakage, as follows: D equals 1, C equals 2, B - equals 3, B equals 4,
+B+ equals 5, A- equals 6, A equals 7. Each grade having a numerical value, the summation
+of these values was then divided by the number of plugs in that group .
+The general features of each class of construction are outlined below:
+In the screw bushing method of assembling, illustrated in Fig. 13, the insulator has a
+shoulder, one side of which is seated on a shoulder in the shell, while a bushing is screwed down
+inside the shell on the opposite side. In order to make this joint tight, a gasket, either of brass,
+copper-asbestos, or some other soft, heat-resisting material is used. Different manufacturers use
+various shapes for the surfaces with which the gaskets come into contact, some placing the gasket
+against the upper shoulder and others against the lower shoulder of the insulator. In one instance
+a plug was found with a copper gasket against the lower surface of the shoulder and a slotted
+spring-steel washer between the upper surface of the shoulder and the screw bushing. The reason
+for this design was evidently to avoid excessive stresses on the shoulder of the insulator while
+assembling, and possibly to mitigate the stresses due to vibration while operating on the engine.
+The result of this construction was that the cylinder pressure caused the spring washer to be
+compressed, moving the insulator upward from the gasket, which was intended to insure the
+tightness of the plug. Thus the gas escaped r eadily, causing a very leaky plug. From a
+mechanical standpoint, had the positions of the gasket and washer been interchanged, so that
+the insulator would have been moved against the gasket instead of away from it, when under
+pressure, the plug would have been much tighter. Two exceptional cases have been noted in
+which the insulating material is mica and the scr ew bushing has been partially embedded in the
+mica by great pressure. In these cases no gasket is used between the insulator and the bushing,
+nor can they be separated without injury to the insulating material.
+The crimped shell, as used in the Champion, Titan, and other plugs, is illustrated in Fig. 15
+and is formed by forcing the top edge of the shell over a gasket of some soft material, as brass,
+copper-asbestos, or aluminum alloy, which rests upon the upper side of the shoulder of the insulator.
+These plugs give fairly good joints, but have never shown themselves to be absolutely tight,
+although in many cases the leakage was very small. This method of assembly has the disadvantage
+that the plug can not be taken apart for cleaning without destroying it.
+
+lO
+
+to
+
+CURVES SHOWING VARIATION
+OF
+
+LcAIfAGL" ON PLUGS Or SIMILAIf TYPL
+. A: 24 Lodqe !"lugs
+8 = 6 Champi on Toledo Plugs.
+C = 6 Pognon Plugs.
+
+~
+
+I--
+
+!zl
+~
+
+~
+
+-
+
+~
+
+t=j
+
+'"
+
+4.4
+
+0
+
+~
+
+H
+
+,.......-
+
+4.0I
+
+!zl
+
+~
+.....
+
+I /
+
+0
+~
+
+S6
+
+~
+
+~
+~ JZ
+
+I
+
+I:)
+
+~
+
+"> 20
+
+:.t"'
+
+FIG. IZ
+
+/
+
+§
+
+FIG . 13
+
+Ul
+
+0
+
+~
+
+~.
+
+><
+
+Q.
+
+0
+0
+
+'&..2.4
+
+~
+QJlfl
+
+I
+
+-..j
+
+\.i
+1...)1.6
+
+I~
+
+fZ
+fl8
+
+1l.4
+
+~
+~
+
+~ /c
+
+t;:)
+
+./' ~
+
+---:::
+
+V
+
+L
+
+I--'"
+
+~L--~
+
+o
+
+Piol No /1
+
+lO
+
+~
+
+L
+
+V
+
+1/
+/
+
+H
+
+H
+H
+
+/
+
+t=j
+t=j
+
+"'J
+0
+~
+
+&;
+
+.,/"
+
+~
+
+Va
+
+4fl
+50
+00
+percentage or Pluqsfesfed.
+
+0
+~
+~
+
+~
+
+H
+H
+0
+~
+
+tOO
+F16 . 14
+
+FIG . 15
+
+F16. 16
+
+SPARK PLUG DEFECTS AND TESTS.
+
+23
+
+The taper fit used by several manufacturers, Fig. 14, in all cases that have come to the atten tion
+of this bureau, were on plugs of mica or steatite insulation. The taper fit has failed in all cases
+but one to give a perfectly tight joint, this being due, undoubtedly, to the flaky property of the
+mica, which makes it very difficult to produce a smooth and hard surface that will stand the
+pressure exerted upon it when assembling the plug. One maker has overcome this difficulty
+by placing a thin steel jacket over the taper, which in this case is approximately 45°. This
+steel jacket is strong enough to withstand the pressure upon it, thus protecting the mica
+insulation, and at the same time is flexible enough to conform to the surface of the taper
+within the shell and form a perfectly tight fit.
+The molded-in insulators, illustrated in Fig. 12, as represented by the Anderson plug, consist
+of glass which has been forced between the central electrode and the shell while in the molten
+state. It adheres to both the electrode and the shell, and forms an absolutely tight plug. Attempts
+have been made to use the molded materials, such as Bakelite and Condensite, in spark plugs; but,
+although these may produce a tight joint when cold, the samples thus far submitted have not
+been able to withstand the temperature conditions obtaining in actual service.
+The spun gland, which is used upon only one type of plug, is as yet in the experimental stage.
+It is shown in Fig. 16. This plug uses a porcelain insulator, the shoulder of the porcelain being
+surrounded by a spun brass gland which is part of the screw bu hing and projects a very little
+below the shoulder of the plug. The interior of the shell has a taper of 45 °, which comes in contact
+with the edge of the gland. When the bushing is screwed down in the first assembly the edge of
+the gland is crimped about the shoulder of the porcelain, forcing a tight joint. This plug has
+the advantage of being ea ily taken apart for cleaning, and can be reassembled to give as tight
+a joint as at first without the aid of special wrenches. When the plug has once been assembled
+and the gland formed the insulator and bushing can not be separated without totally destroying the gland.
+So far in the discussion of methods of assembly nothing has been said in regard to the
+numerous ways of assembling the central electrode and insulating material, which vary with
+different manufacturers. In the majority of cases the electrode is of uniform diameter throughout the entire length of the porcelain, having a shoulder on the inner end while the outer end
+is threaded and made tight by screwing a nut against a gasket or washer, the shoulder and washer
+both bearing on the insulator. In some instance both the electrode and insulator are threaded
+and screwed together, and a cement is introduced to insure a tight joint. In still other cases
+the electrode is cemented to the insulator, there being no other means of fastening these two
+parts together. Other manufacturers fuse or mold the electrode into the insulator.
+There are certain objections to the u e of any form of cement between the electrode and
+the insulator, the mechanical seal first de cribed appearing to be the most satisfactory method
+of assembly. This matter is more fully discussed in Report 0.53, Part 4, entitled "Cements
+for Spark Plug Electrodes."
+CONCLUSIONS.
+
+The results obtained from the analysis of Table I are listed in Table II. It appears from
+this table that the molded insulator is definitely superior to the other types in the matter of
+gas tightness. The high rating of the spun gland type is somewhat questionable, since all the
+plugs tested were constructed especially for experimen tal purposes and did not represent a typical
+output on a production basis. The close agreement of the other classes, combined with the wide
+variations shown in Table I between different makes of the same class, show quite conclusively
+that the leakage depends much more upon the workmanship than upon the design.
+Table III gives the result obtained by grouping the plugs according to the insulating
+material used. The good performance of glass plugs is due to their being of molded construction. The difference between porcelain and mica is too slight to be given much weight; but
+indicates that tqe laminated structure of the mica does not seriously decrease its gas tightness.
+This result is confirmed by a second et of averages, including only high-grade plugs which
+are actually used to a considerable extent on aviation engines. The porcelain plugs showed
+
+24
+
+AN N U AL REPORT N ATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Grade B + and the mica plugs Grade B. The number of plugs tested of the other materials IS
+insufficien t to support any definite con clusions.
+The leakage of a spark plug is more dependent u pon workmanship than upon design, since
+tight and leaky plugs have been found in n early every design submitted for test.
+T A B LE
+
+Name of plug.
+
+~~r.r Grade.
+
+Material.
+
+Anderson .. . . .. ........... . Glass . ... . ..... .. . . .. .
+A. C. F . . .................. Mica ...... . .. ... . ... . .
+Baby R eflex . . ...... . ... . .. Porcelain .......... . . .
+Bakelite ................... . Bakelite . . . . .. . .... .. .
+Barnes & Hawkins .... ..... Porcelain ... . . .. ..... .
+BaysdorCer Affinity . .... .... . ... do . . . .... . ....... .
+Benton .............. . . .. . . . . .... do . . ............. .
+Berkshire ... .. ... . .. . ........... do .. . . ..... . . ... . .
+Do . . .. .... . ...... ...... Mica . ....... .. . . ..... .
+Bethlehem .... . ........ . ........ do ... ... .. ..... . . .
+Do .. ............. ... ... Porcelain .... ........ .
+Bosch ...... . ... ...... . ..... Steatite . ............. .
+
+~g.f,~~:i.... :::::::::::::::::: r{l~;~I~~~...... ::::::::::
+.
+
+gg~m~~~~ :: :::::::: : :::::: : rIl~~~I~~~..-.:::::::::::
+
+Duffy Air Line. ...... ... .. . Porcelain . . . ......... .
+Duffy Qnartz .............. Quartz and mica .. ... .
+Duffy Express .......... ... P orcelain .. . . . ....... .
+Fert .... . ......... . .... ......... . do .... . ... . . . ... . .
+Gnomo ...... . ...... . . .. .... Mica ..... .. ... . ...... .
+Hercules. . .. .......... .... . Porcelain . ........ . .. .
+Herz. Bougie .... . ... . . . .... Steatite . ..... ........ .
+J ohns·Man viUe . . . ....... . .. Porcelai n . .......... . .
+Joly ....... ... .. . . ............... do ............... .
+
+A
+C
+C
+D
+
+27
+
+7
+3
+6
+
+B+
+B-
+
+I
+
+6
+6
+6
+6
+12
+21
+6
+
+C
+B
+C
+
+AA-
+
+4
+
+5
+28
+
+3
+5
+12
+4
+18
+6
+9
+
+20
+3
+6
+
+Name oCplug.
+
+P lugs
+tested.
+
+Material.
+
+Leda. . . . . . . . . . . . . . . . . . . . . .. Porcelain ... ..... . . .. .
+
+~~fe~·:.-.· :::::::::::: ::: ::: .~.~~o::: :::::::::::::
+
+Mosler Vesuvius . . ... .. .......... do.... . . .. ..... . . .
+Mosler. . . . . . . . . . . . . . . . . . . .. Porcelain . ..... ..... . .
+Oleo .. .. . ...... . ........... Mica . . ............. . . .
+O. L. M . . .. ... .. •... . ........... do .. . .. . .. ....... .
+Pittsfield ...... .. ... . . . ......... . do ....... .. ...... .
+P0f,non.. . . . . . . . . .... .. .... Porcelain and mica ... .
+Po B •• •• • •••.••• . •••.••••.• Mica ....... .... . . .... .
+Randall. . . . . . . . . . . . . . . . . . . . Porcelain .. . . ..... .. . .
+
+D
+C
+C
+B
+A
+B
+A
+
+B
+
+A-
+
+C
+D
+B
+B
+
+B+
+
+~:l:~·l;;,sha: :: :::::::::::: ::: ::~g:::::: ::::::::::
+
+Rajah Frenchtown .............. do .. . . .......... . .
+R ed nead. . . . . . . . . . . . . . . . .. Vitristone . . . .. ...... .
+Renault. . . . . . . . . . . . . . . . . . .. Mica . . ... . .......... . .
+R II V. . . . . . . . . . . .• . . . . . . . .. Porcelain .......... . . .
+Siebert . ..... ... ...... .. .... Quartz and Condensite
+SpUtdorf. . ............... .. Mica .. ........... .... .
+Stewart V Ray ....... . . .. .. Porcelain ..... . . . .. .. .
+Sullivan .................... Mica . . ......... .. ... . .
+
+~~~g ~~~~.?~~I~.-.-.::::::: : : :::~g: : : : ::::::::::::
+~f;g ..r.0g~~t.-.-.::: :::::: ::: ·i;ci;~Y.iin:'-: :::::: ::::
+
+9
+27
+
+3
+7
+11
+
+12
+6
+1
+6
+6
+3
+10
+12
+4
+
+2
+9
+9
+1
+39
+
+6
+6
+6
+6
+2
+33
+
+B
+
+BB+
+
+C
+A
+B
+C
+
+B+
+
+B
+D
+C
+B
+C
+
+B+
+
+C
+D
+
+A-
+
+B+
+
+B
+D
+B
+D
+
+D
+D
+
+B+
+
+II.
+
+T A B LE
+
+Method.
+
+I.
+
+Average
+grade.
+
+Method.
+
+Plugs
+t ested.
+
+Average
+grade.
+
+1
+------11------------------------------- ----~~id':J,U~f:fs~~: : ::::::::::::::::: :::::::::: :::::::
+
+'raper fit .. ..... . ...... . ...... . .... ... .. .... . ..... .
+
+300
+27
+
+32
+
+B
+A
+B
+
+~¥~p~~n.~: ::::::::::::::::::::::::::: :::::: :::: :
+Molded (organic materials) .... ... ......... .... . .. .
+
+21
+79
+7
+
+A-
+
+B
+
+C
+
+Average-4.2, or Grade B.
+
+III.
+
+T ABLE
+
+Material.
+
+Number
+plugs
+tested.
+
+Average
+grade.
+
+Material.
+
+Number
+plugs
+A vcrage
+tested.
+grade.
+
+1
+---- -1 1 - - - - - - - - - - - - - - - - - 1- - - - - - - Porcelai n . .......... .. .. .. .. . . . . . . . . . .... .. ...... .
+Mica ... . ...... . ........ . ..... . . . .•. .. . . .. ..... ... .
+Glass .... . ..... .. . . . . ..... .. ...... ....... .... . ... .
+Bakelite . . .. . ... . ........................ . . . ..... .
+
+245
+
+B
+
+169
+27
+
+A
+
+6
+
+D
+
+B-
+
+Quartz mica . ... . ..................... ... .. .... .. .
+Porcelain and mica . . .. ..... . ......... ... ........ .
+Qnartz and Condensite . . . ............... . ....... .
+
+A verage~3. 8,
+
+O Grade B .
+r
+
+12
+
+6
+1
+
+A
+B
+
+B+
+
+REPORT No. 51.
+PART 1lI.
+
+METHODS FOR TESTING SPARK PLUGS.
+By H. C.
+
+DICKINSON,
+
+F. B.
+
+SILSBEE, AND
+
+P . G.
+
+A{)NEW.
+
+RESUME.
+
+The factors which affect the performance of spark plugs in gasoline engines are very numerous, subject to erratic variation, and differ widely with the type of engine. Consequently
+definite conclusions as to the ultimate value of a given type of plug can be based only on reliable
+statistical data on the performance of a large number of plugs. An engine test of a few hours'
+duration serves to develop any marked weakness in a spark plug and is the most valuable
+over all test. L aboratory tests determine quantitatively certain specific properties of a spark
+plug r apidly and conveniently, and have three chief functions. These are (1) the indication
+of probable weak points in new de igns of plugs, (2) the indication of progre in the development of improvements or the elimination of faults in design or material, and (3) a check on
+production by means of routine te ts. The tests described below have been developed at the
+Bureau of Standards for these purposes.
+The fil'st test is for the electrical conductivity of the insulating material while hot. The
+specimen to be tested is heated in an electric furnace to the d ired temperature and the resistance measured, using 50-cycle alternating current at 500 volts. The conductivity of this class
+of materials is found to vary very rapidly with the temperature, approximately obeying a law
+of compound interest with an increase of 2 per cent per degree Centigrade. The quality of the
+material is therefore very conveniently expressed by stating the temperature (Te) at which
+it h as an arbitrarily selected resistivity. This value has been selected as one megohm per
+centimeter cube, and a spark plug of the usual construction, made of material of this resistivity,
+will have a resistance of about 200,000 ohms. This is lightly on the safe side of the limit
+at which the usual forms of ignition system may be relied upon to give regular fixing in a high
+compression motor.
+The following table gives some typical results obtained by ihis method:
+c.
+Quartz.. . .....................................
+Best porcelain tested. . . . . . . . . .. . . . . . . . . . . . . . . .
+Typical mica p lug....................... ......
+Average of three aviation porcelains. . .. ... ....
+A verageautomobile porcelain. ... .............
+
+b.
+
+Te.
+
+p5oo.
+
+11.8
+11. 2
+12. 1
+11. 5
+10.2
+
+0.0065
+.0066
+.0085
+.OU8.5
+.0085
+
+890
+790
+
+340 x 10'
+80
+
+720
+650
+
+490
+
+70
+40
+0·80
+
+The resistance of the insulating material to thermal cracking is tested by heating the specimen to 300 0 C. and then quenching it in water at room temperature. The sample is then
+soaked in an aniline dye which renders vis~ble any cracks which may be present.
+The assembled plugs are tested for gas tightness with compressed air at a pressure of 225
+pounds per square inch while the plug is immersed in a bath of oil heated to 150 0 C. This
+serves to duplicate the conditions in the engine which may cause leaks due to the thermal
+expansion of the various parts of the plugs. The air leaking through the plug is collected in
+a. glass tube and measured.
+25
+
+26
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERON A TICS.
+
+The resistance of the plugs to breakage by mechanical shock is tested by screwing the
+assembled plug into the side of a steel block which, by a trip hammer arrangement, is struck
+repeatedly against a hardened steel rail. The number of impacts delivered before the plug is
+damaged is taken as a measure of its performance.
+The cold dielectric strength test is made by applying 60-cycle voltage from a transformer
+to the plug insulator while it is immersed in a vessel of oil. The voltage is raised gradually
+to 25,000 volts and any puncture of the material is considered a failure.
+The engine test consists in running the plugs in a high compression aviation engine at
+full load for six hours and at light load for one hour, and noting the general performance of
+the plugs.
+INTRODUCTION.
+
+The methods of test described in this report have been developed at the Bureau of Standards as a part of the investigation of ignition problems. The object of laboratory tests of this
+nature is to determine certain specific propertie of the material or design of the plug under
+conveniently controllable conditions, both for the purpose of developing improvements in certain particular properties ·and for comparing the relative merits of different types of plug in
+regard to these properties, thus permitting the elimination of types notably inferior in any
+important ch aracteristic. The engine te t serves to bring out any other source of weakness
+and indicates the general utility of the plug. It hould be emphasized that prolonged running
+in an engine of the type in which the plugs are to be used is the only ultimate basis for judging
+the merits of a given type.
+The tests employed are as follows:
+1. Test for electrical conductivi ty of insulating material.
+2. Te t for resistance of insulator to thermal cracking.
+3. Test for ga tightness.
+4. Te t for re istance to mechanical vibration.
+5. Test for dielectric strength.
+6. Engine test.
+These tests are nece sarily in continual process of development, and the directions given
+below are subj ect to frequent reVlSlOn.
+ELECTRICAL CONDUCTIVITY.
+
+The measurement of electrical conductivity is made either on spark plug insulators or on
+specially designed test specimens. In either case the sample of insulating material to be tested
+is heated in an electric furnace to the desired temperature and 60 cycle alternating current at
+500 volts is then impressed upon the specimen between two suitable electrodes. A voltmeter
+connected between these electrodes and an ammeter in series with the pecimen are read simultaneously and the resistance is taken as the quotient of effective voltage divided by effective
+current.
+Since the current through the pecimen is rather small, a very sen itive milliammeter is
+required and it i usually found convenient to use for this purp ose a dynamometer wattmeter.
+The fixed coil of this wattmeter is excited by a known current from tbe ame source of upply
+as the test current through the specimen . The moving coil of the wattmeter is connected in
+uch an arrangement provides a higher sensitivity than can be
+series with the specimen.
+attained with commercial milliammeters, and is also convenient because of the great range of
+currents which can be measured by using various exciting currents. The connections used in
+this test are shown in figure l.
+Mea urements made by this method on the same ample are found to give results agreeing
+to a few per cent when different voltages, frequencies, and times of application of the measuring
+current are used.
+For the accurate measurements of the conductivity of the material, a cup specimen, similar
+to the American Society for T esting Material' standard test piece ro. 1, should be used, though
+it is not essential that the side walls of the cup be tapered. Figure 2 gives a cross-section of
+
+27
+
+SPARK PLUG DEFECTS AND TE STS.
+
+70 A .C
+
+ror
+
+A mmefer
+
+~ply
+
+htilat/nrJ
+
+Tt/TTJCIC8
+
+1----6Q mm.- ---I
+
+1
+65.mm.
+
+~
+
+6 0-v
+
+&pp(y
+
+~1
+2.5 m m
+
+.
+
+for /'1ea.:Jl/r ement
+F IGURE 1.
+
+FIGuiE 2.
+
+P OR CELAI
+
+-f elect/we
+
+FIGURE 4.
+
+TEST
+
+PECIMEN .
+
+1>0
+
+00
+
+6.
+
+I
+i
+
+J.
+
+.s.
+
+\.
+\~
+
+s.
+
+~
+
+"
+
+4. :
+
+.3 4: t
+4.
+
+Z
+Z
+
+~
+
+f---l
+
+o
+
+~
+~
+
+2l
+
+~
+
+o
+Z
+
+~
+
+E;
+
+~
+
+~
+~
+
+.,..
+
+-
+
+~.
+
+rt4. )
+·~
+d@'"
+
+Tc = .3':JO 0 C
+
+~\
+~
+
+,
+
+I
+
+I--l
+
+L og,o fl = 7. 54 - . 010.3 +
+It'= 77.
+0" 7..54
+b = 0 .010.1
+d= 9.43
+PSOO =0 .019 Meqohrns/Cm. Cube .
+
+~
+
+5
+
+J
+
+CUP 2 8c
+
+;:l
+
+C/l
+
+o
+
+\\
+
+)
+
+~
+
+o
+o
+
+\
+
+~
+~
+
+'1 ~\
+
+1. I
+
+H
+
+H
+H
+t=.l
+t=.l
+
+\
+
+J1
+
+J
+
+I-"j
+
+o
+
+~
+
+.J.
+
+,
+
+~
+
+~
+
+I
+L ead Iv
+In5lrumenfs
+
+I
+
+I
+
+J. r
+
+I
+1. rI
+
+0
+
+"
+
+8=SOO
+
+"
+
+---
+
+I~\
+
+.,
+
+---
+
+Plo/ No.5.
+
+I
+
+\~
+
+"
+CoolIng
+
+8 =100"
+
+3. If/U
+>
+--
+
+FIGURE 3.
+
+r\
+
+~ s oo Volts lieofl,?q
+
++~/OO
+
+~
+
+I
+
+..-
+
+Temper ature
+
+0
+
+C
+
+J
+-
+
+.
+
+--. J
+
+~
+
+o
+Z
+
+~
+H
+H
+
+o
+
+VJ
+
+29
+
+SPARK PLUG DEFECTS AND TESTS.
+
+this type of specimen.
+
+The resistivity of the material can be computed by multiplying the
+
+desired resistance of such a cup by the factor K obtained from the equation K=
+
+7t
+
+2
+
+where d
+
+is the diameter of the cup and t the thickness of the bottom.
+This test cup is filled to a depth of about 2 cm. (0. inch) with melted solder, which forms
+one electrode, and is in tum set in a slightly larger shallow steel cup containing melted solder,
+which forms the other electrode. This arrangement insures good contact between the electrodes
+and the porcelain. To avoid cracking the cup, it is, of course, nece sary to insert the solder
+in the solid form and melt it by gradually increasing the furnace temperature. Figure 3 shows
+the arrangement of the cup specimen in the furnace. Two thermocouples protected by porcelain
+tubes are inserted in the solder in the test specimen and in a hole in the steel cup respectively.
+Measurements of resistivity are made only when these two couples indicate substantially the
+same temperature.
+In cases where cup specimens are not available, actual spark-plug insulators can be tested
+by using the central electrode as one terminal and the shell of the spark plug as the other. If
+the insulator is removed from the shell, a band about 2 cm. (0.8 inch) wide at the center of the
+length of the insulator is coated with platinum by applying a layer of platinum chloride solution
+and then heating this to reduce the chloride and leave a deposit of metallic platinum. This
+platinum belt is then used as the outer terminal. The specimen is inserted in an electric furnace,
+as shown in figure 4, the temperature of which is indicated by a thermocouple placed in contact
+with the shell of the plug.
+Measurements obtained on these specimens are accurate as indicating the resistance of
+the specimen, but owing to the irregular shape and the uncertainty as to the area of outer
+electrode in actual contact with the porcelain they are not suitable for accurately measuring
+the resistivity of the material. Assuming the usual formula for current flow between coaxial
+cylinders, the factor K by which the resistance must be multiplied to give the resistivity of the
+material can be computed by the equation
+K=231 oglO dll
+.
+liz
+where L is the effective axial length of the electrode, and d2 and dl are the diameters of the
+inner and outer electrodes. In this computation, it is assumed that the contact is made over
+the entire surface covered by the shell of the plug, and con equently the values of resistivity
+computed on this basis are too high if this contact is imperfect. It should also be noted that
+the path for surface leakage is much shorter in the case of the plug specimen, and also that if
+the glaze is of poorer material than the body of the plug, conduction through this glaze will
+reduce the apparent resistivity. In the cup specimen, on the other hand, the area of contact
+and thickness of the bottom of the cup are definite and ea ily measured. It is found that in
+general measurements on plug samples give lower resistivity than those on cups.
+The change of resistivity with temperature in this class of materials is so rapid that it is
+impracticable to plot resistivity against temperature directly, as a scale which is suitable at one
+end of the temperature range becomes extremely crowded at the other. It is found, however,
+that by plotting the logarithm of the resistivity against the temperature, a smooth curve slightly
+concave upward is obtained. The curvature of this plot is quite small and the data can be
+represented within the range of temperature used with sufficient accuracy by a straight line which
+more nearly fits the observed points. Plot 5 shows a typical plot of data obtained on a cup
+sample.
+The points on the straight line give the relation
+LoglO R=a-bt
+where R is the resistance of the specimen in ohms and t the temperature in degrees Centigrade,
+while a and b are constants of the curve. Adding log K to both sides of this equation we obtain
+Log1o p=a+log1o K-bt=c-bt
+
+30
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+where p is the resistivity in ohms per centimeter cube and c a new constant of the material which
+is obtained from a by the equation
+The constants c and b depend upon the material only and not upon the shape or size of the
+particular specimen, and from a knowledge of these constants p can be computed for any temperature by the above equation. Unfortunately neither c nor b is very convenient as a figure of
+merit for the material, since a slight enor in either will greatly affect the value of the other.
+It is, therefore, advantageous to compute for each material p500 which is the resistivity of the
+material at 500 0 C. Another very convenient figure of merit is the temperature at which the
+material has a definite resistivity of 1 megohm per centimeter cube. This can be computed
+by the equation
+c-6
+
+Te=-b- '
+This value is given in the reports of this bureau for each material tested and is the most satisfactory criterion of its value as an insulat or at high temperature.
+An interpretation of the fact that the results as thus plotted give a straight line can be
+obtained by considering that the conductivity increases with temperature according to the law
+of compound interest, at a rate of about 2 per cent per degree Centigrade. This rate is equal
+to 2.3 X b for each material. The cumulative effect of the compounding is such that an increase
+in temperature of 100 0 corresponds in the average material to an increase of the conductivity
+by 600 per cent.
+The following table gives some typical results obtained by this method:
+c.
+Quartz ...• .. . . .... ... . ... . .... . . .•.. ..... .. . . •
+Best porcelain tested ...... ....•.... .. •. . ......
+Typical mica plug ................•.... . .......
+A verage of three aviation porcelains . .. . . ... . •.
+A.verage automobile porcelain . ...... .... .... . .
+
+b.
+
+T•.
+
+11.8
+11.2
+12.1
+11.5
+10.2
+
+0.0065
+.0066
+.0085
+.0085
+.0085
+
+890
+790
+720
+650
+
+490
+
+P ... •
+
+340
+80
+70
+40
+
+x 10'
+
+0.80
+
+.A material having Te less than 400 0 C. should not be used unless the design of the plug is
+such as to keep the insulator well cooled. An assembled plug having less than 0.5 megohm
+resistance at 400 0 C. should be considered unsatisfactory.
+RESISTANCE TO THERMAL CRACKING.
+
+The quenching test is intended to indicate the ability of the insulating material to resist
+cracking due to steep temperature gradients. The in ulators with the shell and central electrode
+removed are brought to a uniform temperature of 300 0 C. in a small furn ace and then quenched
+in water at room temperature and examined for cracks by soaking for several hours in an
+alcoholic solution of the dye eosin. The specimen is then broken to determine the depth of
+the cracks. The cracks developed by this test seldom extend entirely through the specimen so
+that an electrical test is not as satisfactory for indicating them as is the use of the penetrating
+stain. Practically all insulators will show some cracks when quenched from 300 0 C. but the
+number and depth of the cracks varies very greatly among different specimens and the test
+gives a qualitative basis for the comparison of different materials.
+TEST FOR GAS TIGHTNESS.
+
+Gas tightness is determined by screwing the cbmpleted plugs into a steel bomb and admitting air at a pressure of 225 pounds per square inch to the interior. By the use of lead washers
+in place of the usual copper-asbestos gaskets a tight joint can be secured between the plug and
+the bomb. The entire bomb is then immersed in a t ank of oil which serves to show the leakage
+by the resulting bubbles. The oil is heat ed to 150 0 C. and consequently heats the plugs and
+develops leaks which may arise under operating conditions due to the differential thermal
+expansion of different parts of the plug. The actual amount of gas leaking out is measured
+
+~
+~
+
+I1IR PIPE
+
+\~
+
+r~·
+
+rYRrcR h'E.1'EHYO/N
+~
+
+l~'
+
+TUBE OF #IVY
+Ocs/ red LeNGTH
+
+)?V BER
+B
+
+t~
+t~
+
+~
+G
+
+~
+
+I'
+
+~-L~,JL-*"==~4:: ~ . ~
+
+z#
+
+L-l&bl
+
+~
+
+~
+
+q
+
+C<)
+
+~
+
+rROI'1 ffNT&"/T' I'1ff//v
+7OS'EWEN
+
+"1
+t:<:J
+
+/
+
+~
+
+&
+~
+
+"(fJ.
+
+~
+
+Ou.
+
+t- l'
+
+TR/YI(
+
+\
+
+/JdO'" 19/17 TnNX
+
+I '-- / To ~()U/vTEHBRI.A/YCE
+~
+
+FIGURE 6.
+
+SCHEME OF I MPACT TESTI NG MACHI NE.
+F IGURE 7.
+
+co
+t-'
+
+32
+
+ANNUAL REPORT NATIONAL ADVI ORY COMMITTEE FOR AERONAUTICS.
+
+by means of a Pyrex glass tu be 5 cm. (2 inches) in diameter at one end and 1 cm. (0.4 inch) M
+the other, which is gradu ated at intervals of about 5 mm. (0.2 inch). The large end is slipped
+over the plug and the oil m-awn up in the tube above the highest graduation and the upper end
+of the tube then closed. As air l eaks through the plug the oil level falls and the time required
+for it to fall between two calibrated marks is observed with a stop watch. This gives, by
+division, the actual leakage in cubic centimeters per second taking place. A leakage greater
+than 0.2 c. c. (0.01 cubic inch) per second should be considered excessive. The apparatus used
+is indicated in figure 6.
+RESISTANCE TO MECHANICAL SHOCK.
+
+The shock test is intended to show the resistance of the plug to mechanical breakage from
+the shock and vibration of the engine. Completed plugs are screwed firmly into the sides of a
+steel block 6 by 6 by 9 cm. (2.4 by 2.4 by 3.5 inches) which is carried on the end of an arm 24 cm.
+(9 .5 inches) long as sketched in figure 7. By means of a pail: of cams revolving at about 300
+revolutions per minute, this block is raised 19. mm. (0 .75 inch) and allowed to fall upon a
+hardened steel rail. A pail: of tension springs assists in pulling the block downward and give
+it a velocity of about 200 cm. per second (6.7 feet per second) at the instant of impact. The
+total number of blow is recorded by a counting mechanism and the plug is inspected at frequent
+intervals. The number of impacts delivered before the plug is cracked or otherwise mechanically
+damaged is taken as the measure of its performan e. A good plug should withstand 25,000
+blows in this machine without failure.
+DIELECTRIC STRENGTH.
+
+The dielectric strength test indicates the voltage required to puncture the insulator while
+cold and has proved useful in eliminating poor or defective insulators. It is applied to insulators
+with the central electrode in position but with the shelll'emoved. One secondary terminal of a
+step-up transformer is connected to the central electrode and the other terminal to a metal
+band approximately 10 mm. (0 .4 inch) wide wrapped around the outside of the insulator.
+The whole is then immersed in oil at room temperature. Alternating voltage of commercial
+frequency is applied to the primary of the transformer and gradually increased until an effective
+voltage of 25,000 is reached. The insulation should withstand this voltage for two minutes
+without puncture. In short insulators a spark may pass over the surface of the insulator
+tlu-ough the oil at voltages somewhat below 25,000. Such flashovers may sometimes be avoided
+by carefully rinsing the surface of the insulator with gasoline, and in any event should not be
+considered as a failure.
+VIr. Engine test.
+park plugs intended for use in a particular type of engine should, if
+possible, be tested in an engine of this same type. For general testing, the plugs are run in a
+modern aviation engine having a ratio of total cylinder volume to clearance volume not less
+than 5.3 to 1, preferably m-iving a propeller or a club. The engine is run at full power for a
+total period of six houI's with not more than three interruptions, and is then run one hour
+throttled down to about 400 revolutions per minute. If the engine has two plugs per cylinder,
+either the plugs to be tested are put in both sides or, if the number of samples is insufficient,
+the plugs are moved in the middle of the test so as to be run for about half the time in each
+location. The temperature of the cooling water leaving the engine is maintained between
+65° C. and 70° C. (149° to 158° F.) . The temperatures of the oil in the crank case, of the
+cooling water, and of the sUl'rounding air are recorded, together with the average power developed and the oil and fuel consumption. At intervals, each ignition system is cut off to indicate
+missing in the other set of plugs, and any misfiring or preignition due to the plugs is noted.
+The plugs are examined at the end of the run to determine if any corrosion or warping of the
+electrodes, as shown by a change in the length of the gap, fouling with carbon, cracking of the
+insulator, or other defect occurred. The plugs are also subj ected to the test for gas tightness
+both before and after the engine tests, and if cracking of the porcelain is suspected the insulators are removed from the shells and soaked in an alcoholic solution of eosin to indicate any
+cracks which may exist.
+
+o
+
+•
+

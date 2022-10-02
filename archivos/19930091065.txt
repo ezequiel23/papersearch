@@ -1,0 +1,1981 @@
+REPORT No. 35
+
+THE STRENGTH OF ONE-PIECE
+SOLID, BUILT':UP, AND LAMINATED WOOD
+AIRPLANE WING BEAMS
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+nus OOCl.irlENT ON LOAlI FROj"
+
+.IDll!lJ!RINT FROM FOURTH ANNUAL REPORT
+
+NAT10'lAl !.'WISORY COMMITTEE ron AERONAUTIC::
+f I I ~(AfRDt-:AUTICAl LA 'J~AT(lnY
+
+FIL
+
+I
+
+I.i, LEY F ~lD,
+
+"J
+
+F Th N la
+
+fCL~
+
+0)"
+
+f'
+
+Ih ~ c 1..,' r
+
+~ Ql.;r.
+
+/IS
+
+!J.
+
+li', 1'1GINIA
+
+F.
+
+~.
+
+f. JJ
+
+0 BE flODRESSW
+
+~,
+\
+
+"Ai'..'
+1721
+
+~L
+
+JlDVI<;ORY COHM "l'fEi; N'\
+
+C¥~"tr
+
+I',
+
+"
+
+JI"'TICsWASmNGTON
+GOVERNMENT PRINTING OFFICE
+n
+
+1919
+
+REPORT No. 35
+
+THE STRENGTH OF ONE-PIECE
+SOLID, BUILT-UP, AND LAMINATED WOOD
+•
+
+AIRPLANE WING BEAMS
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FOURTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICI!:
+ltl.
+
+•
+
+REPORT No. 35
+THE STRENGTH OF ONE-PIECE, SOLID, BUILT-UP, AND
+LAMINATED WOOD AIRPLANE WING BEAMS
+BY
+
+JOHN H. NELSON
+
+3
+
+REPORT No. 35.
+THE STRENGTH OF ONE·PIECE SOLlO, BUILT-UP AND LAM! 'ATED WOOD AIRPLANE
+WING BEAMS.
+By
+
+JOHN
+
+H.
+
+NELSON.
+
+The present war ha caused an Ullprecedented demand lor selected spruce for airplane
+construction. The increased demand has nece'sarily caused a greatly increased output.
+However, the magnitude of the requirements and methods of con truction, whereby a large
+part of the selected stock is wasted in the construction of the one-piece beams, makes the
+problem of furnishing ufficient selected stock a very serious one, even with the enlarged output.
+The remedy for this condition lies either in the discovery of a perfectly satisfactory substitute for th spruce now used, 01' in the development of some method of construction which
+will conserve the pre ent upply by utilizing more of t.he selected material.
+In an attempt to find a solution of the above problem, certain experiments were conducted
+during the po. t. year at the Bureau of ,tnn dnnls. Tests were macle on several of the more
+common woods to d<>termil1e t.llC'ir suiUtbi lity a. . ub t.itute for spruce. Further, beams built
+up of three pieces or of laminnted co nstruction have been te ted to cletermine their strength
+in compari on with the one-piece construction .
+Th<> built-up and laminated con. tructions t'liminate th wa te involved in the pl"Oce s of
+cutting an I sect.ion from . olid timber. In uch construction it is also possible to use wood
+in short lengths, and t.hough the cost of manufacturing built-up beams is somewhat greater
+than that of producing the solid beam, the co t of the raw material utilized is much less than
+the cost of the carefully selected timbers used for solid beams.
+The purpose of this report i to summarize the results of all wood airplane wing beams
+Lested to date in the Bmeau of Landards laboratory in order that the various kinds of wood
+and methods of construction may be compared.
+All beams tested were of an I section and the majority were somewhat similar in size and
+cross sect.ion to the front wing beam of the Cmtiss IN-4 machine.
+As to methods of constluction, the beams may be classed as (1) solid beams cut from solid
+stock; (2) three-piece beam, built up of three pieces, web and flanges glued together hy a
+tongue-and-groove joint; and (3) laminated beams built up of thin lamin ations of wood glued
+together.
+This report include three set of te t data:
+(a) Fourteen solid beam, de ignated by English numerals in th is report, wer e made in
+the Bureau of Standards hop. The pmpose of these te ts wa (1) to determine the uitability
+of fir and cypress woods for airplane usc, compared with itka spruce, and (2) to determine
+whether a plain rectangular I -section beam po ses ed any advantage over the oblique I-section
+beam, which is used at pre ent, other than the advantage of simplicity in hop practice.
+(b) Fifteen beams were ubmitted for test by the aval Aircraft Factory, Philadelphia.
+These beams were designated by the Roman No. I, to identify the series, followed by subnumbers 5 to 19, to indicate the beam of the erie. The e beam were all built of spruce;
+seven were solid beams and eight were three-piece beam . These tests were made (1) to determine the advantage of the rectangular I -section o\-e1' the oblique I-section, if any; (2) to compare
+three-piece beams with solid ?eams; and (3) to determine the effect of splicing three-piece beams.
+146743-19-No. 61-2
+
+5
+
+6
+
+AX.r""UAL REPORT NATlO.r-AL ADVl 'OUY CO::llMITT88 leOR AERONAUTLC .
+
+(c) Twenty-three laminated beams were submitted for test, 14 by the West Woodworking
+Co. of Chicago, and 9 by Aeronautical Equipment (Inc.), of N ew York Cit:v. These beams
+are designated by Roman numerals throughout this report. Four of the e beams were built
+of cypre s wood and the remainder of spruc('; It number of the spruce beams had additional
+lamination ' of hardwood placeu adyantageou~ly ill the beam section . These beams were tested
+to determine the merits of laminated beam construction, with the view of u ing it as a substitute
+for solid beam.
+All beams were 90 inches long. A sketch of each beam sec(.ion, giving its dimensions and
+properties, is shown on the following pages. Photographs are also shown of sections cut from
+laminated beams I to XX.
+METHODS OF TEST .
+
+All beams were tested for transverse strengtl hy two-point loading. Load wa applied
+at points 24 inches from supports in an 84-inch span.
+A vibratory or repeated stre test was made on beam J o. X to note the effect of vibrations
+upon a laminated beam. The beam was loaded repeatedly to a tress of about two-thirds
+the ela tic limit. Applications of stress OCCUlTed at the rate of 7-1 per minute for 14t hours.
+It was then loaded to rupture and the results noted.
+Shear tests of glued joints were made on sections cut from a number of the first laminated
+beams, to determined i,he ability of the glue joints, b tween the web and 1lange , to withstand
+hear tre se. To avoid unneces ary columns of figlU'C'S, the glue shear test data "ill be omitted
+from this report. The re ult hawed the glue joillt to br stronger in shear than the wood
+web srction in the ca e of relatively dry test specimens, and also in the casC' of moist specimens
+expo, cd for four and one-hali days in a humidity ehambrl' (relative humid ity 65 per cent
+aturatiol1, at 65° F) before being tested.
+GENERAL CONCLUSIONS.
+
+While this report does not contain data from an exhau tive series of te ts on built-up
+beam can tructions, it is apparent that the results obtained are conelu ive enough to warrant
+the acceptance of certain definite conclusions. This is true notwith tancling the fact that
+the work was carried out under condi·t ions which precluded certain de irable cientific 1'e(luirements such as identical material for all beams.
+1. It i a.pparent that beams of fir can be produced which, ,,-eight for weight, will prove
+as strong a those made of spruce, but will not, howavrI', show quite the same tiffnc's ;
+fmther, that cypres can not be considered a a satisfactory sub ,titute for spruce. (Cf. data
+on beam 1 to 15 solid beams; beams VII and VIII of laminated construction.)
+2. On the basis of equal section moduli the rectangular cctions are stronger than the
+oblique sections. (Cf. data on beam 1 to 15 olid.)
+3. Beams made up of three pieces can be produced which will be as strong a the olid
+beam construction. While these test indicate that a larger variation in strength may be
+expected with the three-piece beam, uch variation is apparently not more than that which is
+ordinarily expected with wood construction. The olid beams with which the three-piece
+beam were compared gave remarkably consistent trengths for wood construction.
+4. Beams of the laminated con truction can be buil ,,-hich will be as strong as the onepiece, (olid) construction.
+5. The detail of construction employed in threc- ieee and laminated construction have
+a la.rge influence on the strength of th fillished beam:
+(a) r['hree-piece and laminated beams are not weakened ,,-hen properly ·pliced. Scurf
+joints only are permissible for splices. Butt joints are unsati ,fa tory. A suitable scar f joint
+is made by cutting the end to be pliced with a ' lope of three-fourth in 10; these ends are then
+overlapped and glued. CCf. beam. J-5 to 1-19 and remarks on heams 1. to IV, XVI to XVIU,
+and XXIII.)
+
+SPRUCE
+
+1
+
+ill
+
+V
+
+IX
+
+"'ill
+
+OF
+~1l~PLANE BEAMS
+
+S E CTIONS
+
+LAMINATED
+Tn'O> N Q ' ~ .
+
+Lob . No'", .
+17 ·19 2.
+OI ISA IS
+01lBEI8
+
+2 162.0
+2'2.b40
+2'2.<;40
+
+OF STANDARDS
+,D . C.
+
+BUREAU
+
+WA5 14INGTOti
+
+D-'v: E · \ .
+
+CYPRESS
+
+II
+
+Feb . 4 , 1~1 e.
+
+F V \-\ .
+
+TIl.
+
+S ECT ION S OF
+LAMINATED WOOD
+L'..IRPLANE BEAMS
+0 ..
+
+Tn ..
+
+2~,,40
+
+- Lab . No.'s:-
+
+OZ08ClIS ; 021 8<118 : ozzof l s : 02210 18
+BUREAU
+
+0"
+
+5TAr<D At>OS
+
+W~'='~\N6TON
+
+1)'vi'Solcm. "iI[-\.
+
+T.,., 22 '40
+
+XIX
+
+146743-19. (To face page 6.)
+
+xx
+
+,D .C .
+~.
+
+V.
+
+~.
+
+lob .HM~-ud1 8
+
+7
+
+TRENGTH OF AIRPLANE WING BEAM ' .
+
+I
+
+-'
+.! • .J•.37
+
+Ic.J.llZ
+
+E- 4.466
+S(!CI/onorBer.m .m
+
+Sediom 01'&0/171
+
+/<2.6
+
+.f~ c.31t! in."
+
+/ -2.5.94
+
+S ection of Beams-
+
+Seclic/7 of{};!'om -Xl.
+
+Section of Beams-IX,X.
+
+V, VI, Vll, VllI.
+
+Seclion of/Jeom -UT.
+l
+
+.035"
+.f= z'o7tn. 4
+
+I-2.oJ}//;,"
+Sect/OI7oltJ.Mms·XJlT,DY.
+
+Secfion
+
+Eaz'6&;n.~
+
+.fa 2.61In."
+
+OrtJeoms·XJl, XJll
+
+SectIon ortJeomsX2llX!l111.
+
+I~Z.400m.4
+
+I· 2.937m4
+
+Secflon.of8eom-m.
+
+Sec lIon of{Jeam:XXlJ.
+
+Secilm of.Jeams,m,-E,
+
+j.-2.63117. 4
+Section of tJeom:!llIl
+
+ANNUAL REPORT NATIONAL ADVI ORY COMMITTEE FOR AERONAUTICS.
+
+Mcmenloflnerlio-c_ 01
+4
+
+Momentoflneriio·Z.407
+
+Momen/of Inerlio. 2.210
+
+Momentoflner/io=2330
+
+Momenloflnerlio·2.353
+
+S«fiOl7 0Illeoms·I-2-J .
+
+Section ortJeoms· 4-5-(f.
+
+SeclionofBeoms · 7-8·9.
+
+Section ofBeoms·IOIH2.
+
+Sec lion oiBeoms ·/4·15.
+
+E- Z.lJ6in.4
+Section oflJeoms. /;JN.ll
+
+r/ol
+
+/'
+
+t
+
+I
+
+rlOl
+
+Sedion ofBeoms. 1-0. I-!J.
+
+Section o/ZJeoms/-I{lI-11.
+
+t
+
+I
+
+•
+
+*
+
+Seelion orlJeoms N2J/.J
+
+rl01 f rlol
+I
+
+#0. /·/8
+
+/'
+
+/'
+
+/ -c.l.54m"
+
+Seelion c.fBeoms 1-16;1-17.
+
+p
+
+/'
+
+No. ,-/4
+
+/'
+
+1·2jjZOin. ~
+
+.t- J_418in."
+
+/'
+
+/'
+I'
+
+I
+
+p
+
+1.--24"
+
+/'
+
+Ii
+
+:1
+
+No. 1-IS
+
+36 "
+
+lQ
+.....
+
+t
+
+/'
+
+24"--1
+
+Loodlflfj O'09rol'Tl
+ond Localion ofSplices.
+
+(SplIces in Web ondrlom/es ore 01110 "Lon9 )
+
++
+LN"
+
+.~
+L
+
+I?
+
+*
+No 1-13
+
+.36"
+
+1
+
+t
+
+I:'
+
+.?4 .~
+
+Looding O/o'lrorn
+/ . 2.1.54in:"
+
+5ection at1-14, 1-/5.
+
+ona' locofion 01Sp//ces.
+
+(SJ)//ces':n Weo ond Flanges ore a/I ,0 "loni)
+
+8
+
+A.r NUAL REPORT NATIONAL ADVISORY COMM ITTEE FOR AERONAUTICS.
+
+Momenloflner/io -2.407
+
+Momenlorlnerllo.2.407
+
+Momen/ofInerlio· 2.2/0
+
+Momenfo/lner!to ·2.3JO
+
+Momenloflnerllo·2..J53
+
+SfftlonotlJeoms-l-Z-J.
+
+St!CIIOnof8e'Oms·4·5·6.
+
+Sec/Ion of8eoms · 7·8·9.
+
+SecfionoftJeoms·/O///2.
+
+SecfionoffJeoms · /4·15.
+
+E- 2.1!J6in.4
+
+'-3.1/8in. 4
+SeclionoftJeoms. I-§. I-J.
+
+Sectionof8eoms./-J.f6fl
+
+5ec tlon o,rzieoms NaN/,
+
+Section cftJeoms 1-16"./·/ 7.
+
+Section oflJeoms H2.NJ
+
+p
+
+f'
+
+t
+
++
+p
+
+f
+
++
+f'
+
+No. 1-/4
+
+f'
+
+f'
+
+N~~:.<_.5
+
+.!L--24"'---';l-i
+__
+
+*
+
+I
+
+k
+
+!
+.j..l_""24_J'
+
+I
+
+L oodintl O'09rol'Tl
+and Loca/ion orSp/lces.
+
+1. 2./54117.4
+=
+
+(Spltcesin Web ondFlom;es ore 01110 "L oml)
+
+5ectionol N4, N5.
+
+p
+
+~"
+
+No. /-/fl
+
+L Z4"--''--~ .36 "
+'
+
+__
+
++
+
+No. 1-18
+
+f'
+
+-
+
+t
+/.'
+
+24 ".-:1
+
+Loodin9 O/ogrorn
+and localion oFSph'ces.
+(3p//c(!s /,-, Weo and Flanges ore a/I ~o "toni)
+
+SectionoIN8.fl9.
+
+CHARTSf/OW/No RESULTS OF T£ST5
+
+r" Modi/lus ofElasliei&, Lbs./Sq. in.
+!Jeam
+
+.
+
+.
+
+.
+
+-
+
+-
+
+.......
+
+...,
+
+.
+
+2,200., '0
+
+... .- -. .- . . ....
+
+....
+
+>--V,
+
+2.ooq, '0
+1.800 '0
+E
+1.60~ '0
+
+V
+
+"
+
+1
+\
+
+\ V
+I'
+
+'\ /--.
+
+~
+
+-_. ---- _._- -.
+
+-
+
+- .- - ". _.
+
+-.... - .. _ .... - --
+
+... . ..,
+
+- - -
+
+-
+
+-
+
+-
+
+~-
+
+.- -
+
+-
+
+-
+
+-
+
+- -
+
+~--
+
+y
+
+\
+
+I'
+
+.1\
+
+2,20'~OOO
+
+\
+
+\
+
+/ \
+\/ \
+
+I
+
+\
+
+"/
+
+V
+
+"
+
+/'
+
+\
+
+2.0(, ~OOO
+
+\
+
+!......"v
+
+I-'
+
+/
+
+1\
+
+'\ E
+
+'"":"'
+
+1,8(, ~000
+1,6t ~OOO
+1.4t'0.000
+1,2t1f!000
+
+II
+
+1.0(,i[J,000
+
+.......
+
+I()
+
+mNi'
+
+---
+
+- --
+
+/?/
+,>--<V
+
+\
+
+1.200 '0
+I.qrJO" '0
+
+Lis.leu. f/
+
+Spcf5fqh. =5pecih"cSfrenqlh -:-IC'~ l//!Sfr.-:-!Jnd Wf-?-/O
+Moisfl./re=MoislureConfenf % Ory Yv'eighf
+
+WOOD AIRPLANE WINo BEANS
+
+i\
+
+1.40(1" '!l
+
+IJ(Jq,
+
+~-
+
+UrJ//Wi:=H/~igl;foffJeorr;,
+
+ON
+
+UII:S/-r. =Ullimole fjreok/ng Srress., Lbs./Sqin.
+P-Lirnif=SfressofElosficLirnif., Lbs. /Sqin.
+
+8t '0,000
+
+1
+4
+
+I{}
+
+tillS,
+
+.:
+,-
+
+ti) 70
+P'L,: if.
+
+4.tJ, 70
+
+i"--<
+
+r-c
+
+0., 70
+
+1\ V
+
+j ~L
+
+f--<
+
+\V
+
+-. ..
+
+"
+
+'
+
+. .... r-c \
+
+.'
+
+'\ >-'
+
+...
+
+'.
+
+:
+
+1\
+
+I'.
+
+'..,
+
+~.
+
+'.
+
+- r'
+
+."1"""
+
+../ '.
+
+...
+
+'
+
+I
+
+'"
+-
+
+'
+
+V
+
+.......,
+
+'\
+
+--
+
+\
+
+I
+
+\. .,.-
+
+~
+
+/
+
+\
+
+-
+
+/O,l I()O
+
+--.
+
+,,
+
+,
+
+.
+
+'.
+
+.... -..
+
+~
+
+~
+
+o
+
+I"lj
+
+\.
+
+\
+
+/
+
+_
+.
+
+,
+
+".
+
+,
+
+'z1
+
+1
+\
+
+.,/
+
+~
+
+t:;j
+
+/\
+
+V
+
+UJ
+
+/
+
+I'\.
+........ '/
+
+"\
+
+.
+
+'
+
+rY,Ot '0
+/JII SIr.
+
+r-.....
+
+6{Ji '0
+
+.'.
+-- ' . .-
+
+....
+
+.
+
+1'- Imtl
+1.0, '0
+
+~
+
+~
+
+'t:;j
+z1
+
+~
+
+'z1
+
+Q
+
+10
+Unif
+
+Vi r30
+
+..........
+
+V I'\.
+
+>---c
+
+..
+
+Sp d. ~h.
+"
+
+cO
+
+-
+
+",
+
+,.......
+
+>-,
+
+- - .
+
+40
+
+.~
+
+--..:
+
+-.
+
+. ?-~
+
+':""'~
+
+.
+
+~
+
+' (7
+
+I""
+
+- y........
+
+-.
+......,
+
+"" ........ r-....
+
+.
+
+:
+
+~
+
+"~yo
+
+-.
+
+/
+
+.,..-j
+
+.'
+
+"'\
+
+i"--<
+
+-
+
+...
+
+Y"
+
+v V r--..,
+.
+''1 '. :
+
+bj
+
+Un IWf
+
+,," \ ..
+
+~
+
+....... ;-- i--
+
+J(J
+
+"
+
+l'1
+~
+
+5p f5fqh.
+. . .. Jr-
+
+20
+
+'
+
+1'7.
+
+/.5 "1.
+.
+
+i-I-.
+~7o
+
+I'tOlS. Ire
+
+,'%
+
+lsp;uc~ L- ii-..JS;'u;eL. f;i--=.lC»;~l
+
+~Spr~~~'~
+
+D. ol5. 5.70;:;.
+
+NovalAcrtl: rac/.
+
+C"'"------ .:)o/td lJeams
+
+LSol/o B!3'Oi"TlS...l
+
+r
+
+10 %
+
+"'It.~sture
+
+fl3f
+
+#flJfl6--n.
+
+5pruce---l
+Tl7ree F'iece---l
+
+('Iavol A-:;dl hxf
+
+I ff§ffYWE~lffXgmmDDNMmNgNN~
+S esc sse c·
+Spruce
+.....- - - --Laminated Bean7S.
+.
+-1
+
+I
+
+----.---j
+
+., "10
+
+~
+
+'I
+
+10
+
+I
+
+ANNUAL REPORT NATIO "AL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+(b) The laminations should be relatively thick and preferably not less than one-eighth
+inch thick. It will be noted by comparing the "specific strengths," given on summary curve,
+with the corresponding beam sections that the beams with thicker laminations have the higher
+specific strengths.
+(c) Web and flange reinforcement of dense-wood veneers increases the strength of the
+beams decidedly. Many of the failures were mainly web failures, due to horizontal shearing
+stresses. The reinforcement of the web by a centerpiece of a dense-wood veneer having its
+grain placed vertical would prove efficient reinforcement against horizon tat shear failures; and
+this fact is no doubt largely responsible for the increased strength shown by beams thus constructed. (Of. compare beams XV, XVI with XVII and XVIII and beam XII with XIII and
+XIV .)
+(d) Beams of glued construction are apparently not weakened by continued vibrations.
+(ef. tests of beam X.)
+(e) Glued constructions are as strong in shear as the wood from which they are made, even
+when the beams have been exposed to moisture.
+(j) Built-up beams will show stiffness equal to that of the solid beams only when the construction is of the highest type.
+Summary of tMts on 80 lid-wooa airplane beam.!.
+[Each beam 90 inches long, tested lor transverse strength by loading at two points 24 inches Irom supports in an 4-inch span.1
+
+No.
+
+Per cent
+mOistu re.
+
+Kind or wood.
+
+'Veight
+(pounds
+per li near
+loot) .
+
+2 ....
+3 ....
+4 ....
+5. ___
+
+1.. ..
+
+. ~~.r.~~.. : : : : : : : : : : : : : : : : : : :
+..... do ....................
+Fir .. ........ . .............
+.. .. . do ................. .. .
+
+7.3
+7.2
+7.5
+6. 3
+6.7
+
+0.550
+.525
+. 500
+.475
+
+6 ....
+7 ....
+8 ....
+9 ....
+10 ....
+
+..... d o .................. :.
+Spruco ....................
+..... do ........... .... .....
+..... do ....................
+Fir .... ....................
+
+8.7
+7. 2
+7. 2
+7.6
+11. 6
+
+11 ....
+12 ....
+14 ....
+IS ....
+
+7 2
+..... do ....................
+7.1
+.... . do ....................
+Cypress . .... .............. _._ . ... _-_...... do .................... ---_._- -_
+..
+
+Area 01
+section
+(square
+inches).
+
+Moment 01
+inertia
+(in. ' ) .
+
+Section
+modulus
+(ill. ' ).
+
+Load P (pounds).
+At PliOlit.
+
+Fiber stress (lbs. sq. in.).
+
+ItiOlate. At P limit.
+
+Ultimate.
+
+. 50S
+
+2.362
+2. 362
+2.362
+2. 362
+2.362
+
+2.407
+~ . 407
+2.407
+2.407
+2.407
+
+1. 494
+1.494
+1.494
+1. 494
+1.494
+
+300
+250
+275
+325
+275
+
+450
+375
+485
+430
+485
+
+4,820
+4,010
+4,420
+5,220
+4,420
+
+7,230
+6, 020
+7,800
+6,900
+7,800
+
+.533
+.566
+.542
+.575
+.583
+
+2. 362
+2.542
+2. 542
+2. 542
+2.596
+
+2.407
+2. 210
+2.210
+2.210
+2.330
+
+1.494
+1.665
+1.665
+1.665
+1.735
+
+300
+325
+250
+375
+425
+
+520
+5i5
+475
+
+4, 20
+4,690
+3,600
+5,400
+5,880
+
+350
+:300
+6,850
+7,200
+,450
+
+.575
+.558
+.563
+.584
+
+2.596
+2. 596
+2. 574
+2.574
+
+2.330
+2. 330
+2.353
+2.353
+
+1. 735
+1. 735
+1. 730
+1.730
+
+400
+350
+325
+300
+
+000
+
+5,530
+4,340
+4, 510
+4,160
+
+8,300
+7,260
+7,200
+6,940
+
+500
+610
+525
+525
+500
+
+Test data of spruce wing beams.
+lTested Cor Naval AlrcraCt Factory.
+
+Each beam gO inches long, tested lor transverse strength by loading at two points 24 inches Irom support s
+In an 84-ineh span. J
+
+No.
+
+WeCght
+(pounds
+per linear
+Coot).
+
+Area 01
+section
+(square
+inches).
+
+Per cent
+moisture.
+
+Moment or
+Iner tia
+(in.' ).
+
+Section
+modulus
+(In. 3).
+
+Fiber stress (lbs. sq. in.).
+At P limit. Ultimate.
+
+1-5 . . . ................ . ...... ..• • ... ............ . ... .. .. .. •
+1-6 ........•...........•..•.....•....................•....•
+1-7 ____ .... ______ . . __ . ____ . . .. .. •. . . __ .. __ . .. __ __ __ ........
+1-8. __ .. __ ... . __ ....... __ . __ . __ . __ ...... . __ .. __ .... __ . ____ .
+1-9. __ ..... __ ____ . .. ________ .. __ . __ . . ... .. ... . __ .. __ . ... . ..
+
+0.442
+. 439
+.440
+.643
+.538
+
+2.380
+2.380
+2. 840
+2.840
+
+11 .2
+10.8
+10.5
+I!. 0
+10.7
+
+2.196
+2.196
+2.196
+3.418
+3.148
+
+1.5 5
+1.5 5
+1.585
+2. 220
+2.220
+
+4,550
+4,700
+4,550
+4,320
+4,320
+
+7, 400
+7,550
+7, 600
+7,540
+6,860
+
+1-10 . ............. __ ................. __ .•.. ... __ .... . ......
+1-11 __ ... __ ..... __ . __ . . . . .. __ .•..... . ____ ...... . __ ..... .. __
+1-12 .. . ... . . .. ... .. .. . . . •. .. . . .... ...•. .•. .. .•..... .. .•....
+1-13 __ . __ ... __ ' __ .. __ ...... __ . .... .. .. __ .... __ ..... . .. __ ...
+1-14 ............ . ... . ... . __ . . .. . . . . __ .. __ . ____ ..... __ .. __ . .
+
+. 448
+. 442
+.456
+. 430
+
+.445
+
+2.500
+2.500
+2.375
+2.375
+2.375
+
+11.0
+I!. 4
+9.2
+9.6
+10.0
+
+2.780
+2.780
+2.154
+2.154
+2.154
+
+1. 700
+1. 700
+1.566
+1. 566
+1.566
+
+4,940
+5,300
+5,370
+4,220
+4,980
+
+6,970
+7,050
+8,140
+6,600
+7, 400
+
+1-15 __ ..........•. __ ...... __ ...... . ...... __ . . . ... ...... . . ..
+1-16 __ ......... __ . .... __ . . ____ . .......... __ .. ____ . ...... __ .
+1-17 ............ .. ...... ... ... . ... . ....... . ................
+1-18 . . __ ..... __ ..... . .. .. ... . .. ____ ....... __ .. __ ...........
+1-19 __ . .. ____ . . __ ... ____ . ... ... __ __ .. __ . . . __ .. __ .. .. __ .....
+
+. 434
+.530
+.530
+. 464
+. 464
+
+2. 375
+2. 525
+2.525
+2.513
+2. 513
+
+9.3
+9.8
+10.0
+8. 9
+8.5
+
+2.154
+2. 820
+2. 20
+2.724
+2.724
+
+1. 566
+1.750
+1. 750
+1. 700
+1. 700
+
+4,600
+5,490
+5, 490
+5,300
+4,940
+
+7,710
+9,060
+8, 440
+8,050
+7,200
+
+~ .38O
+
+11
+
+STRENGTH OF AIRPLANE WING BEAMS.
+
+Summary of te8i-! on laminated airplane beams.
+[Each beam 90 inches long, tested Cor transverse strength by loadmg at two points 24 inches Crom supports in an 84·inch span .]
+
+No.
+
+Pcr cent
+moisture.
+
+Kind o[ wood.
+
+Weight
+(pounds
+per linear
+[oot).
+
+Area o[
+section
+(square
+inches).
+
+Moment o[
+inertia
+(in. ' ).
+
+Section
+modulus
+(in.' .)
+
+Load P (pounds).
+
+Fiber stress (Ibs. sq. in.).
+
+At P limit. Ultimate.
+
+At P limit. Ultimate.
+
+'--1. .. ... . .. Spruce . ....... .... ....
+IL ....... Cypress ...............
+IIL ..... Spruce .............. . .
+IV .......
+V ... ..... ~~r~~~~::::::::::::::
+
+:
+
+6.79
+8.25
+
+6.54
+7.35
+6.66
+
+0.610
+.665
+
+2.674
+2.695
+
+.690
+.656
+.654
+
+3,093
+
+2,879
+3,121
+
+3.222
+3.370
+4.910
+4.4 66
+2,600
+
+2.022
+2. 073
+2. 661
+2. 842
+1, 912
+
+400
+325
+450
+375
+425
+
+585
+500
+650
+525
+670
+
+4,740
+3,770
+4,060
+3,620
+5,340
+
+6,940
+5,800
+5,860
+5,060
+8,420
+
+3.121
+3.121
+3.121
+2.495
+2.4 0
+
+2.600 '
+2.600
+2.600
+2. 594
+2.600
+
+1.912
+1. 912
+1. 912
+1. 616
+1. 625
+
+425
+350
+300
+350
+325
+
+750
+585
+523
+620
+654
+
+5,340
+4,400
+3, 770
+5,200
+4, 800
+
+9,420
+7,340
+6,560
+9.200
+9,660
+
+VL ......
+VII ......
+VIII .....
+IX .. . ....
+X ... ... ..
+
+..... do ................
+Cypress ...............
+..... do ................
+Spruce ................
+..... do ................
+
+"""'8:65'
+7. 22
+6.76
+
+.674
+. 620
+.596
+.540
+.483
+
+XI.. . . ...
+XIL ....
+XIII .....
+XIV .... .
+XV . . ....
+
+.... . do ................
+..... do ... ........ .....
+..... do ................
+..... do ................
+.... . do ................
+
+6. 9
+6.36
+7.89
+7.89
+8.00
+
+.675
+.566
+.590
+.590
+.520
+
+3.245
+2.544
+2.451
+2.451
+2. 412
+
+2.312
+2.640
+2.633
+2.633
+2.670
+
+1. 670
+1. 631
+1.580
+1.5 0
+1. 624
+
+450
+400
+375
+350
+325
+
+859
+746
+589
+575
+485
+
+6,460
+5,890
+5,690
+5,310
+4,810
+
+XVL . . ..
+XVII ....
+XVIIL ..
+XL'C .....
+XX ......
+
+..... do ................
+.... . do ................
+.... . do ......... . ......
+..... do ................
+..... do ................
+
+n~
+7.35
+
+. 50!
+.529
+.500
+.525
+.529
+
+2.412
+2.412
+2.412
+2.366
+2.366
+
+2.670
+2.670
+2.670
+2. 680
+2.680
+
+1. 624
+1. 624
+1. 624
+1.600
+1.600
+
+300
+375
+350
+300
+300
+
+425
+565
+527
+450
+437
+
+4,440
+5,550
+5, 170
+4,500
+4,500
+
+6,280
+8,350
+7,790
+6,750
+6,560
+
+L 780
+2.040
+1. 5 5
+
+350
+375
+300
+
+553
+5~~
+465
+
+4, 720
+4, 420
+4,540
+
+7,460
+
+XXL ... ...•. do ....•...........
+XXII . . .. ..... do ................
+XXIII.. . ..... do ................
+
+6.59
+
+8.26
+8.64
+15.50
+16.50
+6.65
+
+.632
+
+2.845
+
+2.400
+
+.725
+.508
+
+3.135
+2.450
+
+2.937
+2.630
+
+12,350
+
+11,000
+
+8,950
+8,740
+7,170
+
+7,050
+7,040
+
+REMARKS ON TESTS.
+
+Solid beams of Bureau of Standards shop (Nos. 1 to 15).-All solid wood beams of spruce and
+fir (Nos. 1 to 12) failed in compression. Beam No . 2 was a poor specimen as it contained a pitch
+pocket; this accounts for failure at such a low load. The solid beam of cypress wood, o. 14,
+failed in tension and horizontal shear. Cypress beam No . 15 failed in tension.
+Solid beams from Naval Aircraft Factory ( os. 1-6 to I-ll).-Each of these beams failed in
+compression. The compression failures in beams 1-5 and 1-7 were followed by horizontal
+shear failures. These beams ran quite uniform, as is shown by the values for" specific strength"
+on the summary chart of results.
+Three-piece beams from Naval Aircraft Fnctory ( os. 1-12 to I -19).-Each of these beams
+failed in compression. Failure was not due to splices in the case of the spliced beams (Nos. 1-14,
+1-15,1-18, and 1-19). While these beams do not run as uniform in strength as the solid beams
+above, the variation is not greater than is to be expected in wood. Moreover, the average
+specific strengths of the three-piece beams is a trifle greater than for the solid beams.
+Laminated beams.- Beams I and I II of spruce and II and IV of cypress failed in compression. These beams were poorly constructed. A number of laminations in each beam were
+spliced; the splices were butt joints which were not closely bu tted. Consequently failure in
+each beam occurred at a lamination splice.
+Beams V and VI were better constructed and were equal to solid wood in specific strength.
+Beams VII and VIII of cypress wood failed in tension. The wood in these beams was of
+poor quality and app eared to be decayed .
+Beam No. X failed in compression.-B eam No. X was given a vibratory or repeated stress
+test before being subjected to the regular tr ansverse test. The purpose was to determine
+whether or not the stiffness or strength of the beam would be affected by a test of this nature.
+The results indicate that the vibr atory test had no effect upon the beam. The vibratory test
+was not of a very severe nature. This beam failed in compression at the center, and in shear
+over the entire length of the web. The beam contained no splices in the l aminations.
+Beam No. XI was a rear wing beam of a larger section than the other beams. This beam
+carried an exceedingly high load.
+Beam No. XII, although classed as a laminated beam, is quite different from the others.
+The birch lamination or veneer in the center has the grain running in the direction of the depth
+of the beam section. This beam was bowed laterally to the extent of -h inch at the center
+
+12
+
+.,
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+and the left side of the section was cracked in the web from the birch veneer center to the ou tside for the entire length, as shown in the photograph. The left side was on the convex side
+of the bow. In spite of these defects, this beam carried a very high load, which shows that this
+is a very good type of construction.
+Beams XIII and XIV both failed in compression. While these beams were not as strong
+as some of the preceeding ones, they are practically equal in strength to the solid wood beams .
+Beams XV and XVI were not as strong as solid wood beams . This was evidently due to the
+facts that the lamination splices were poorly made and that the laminations are too thin. Failure
+occurred at lamination splices .
+Beams XVII and XVIII are equal to solid wood beam. These two beams contained poor
+lamination splices, practically the same as beams XV and XVI. The superiority of these beams
+over beams XV and XVI was due to the mahogany caps on the top and bottom and the
+mahogany veneer in the center. Failure occurred at laminat,ion splice .
+Beams XIX and XX were inferior to solid wood beams even though they had mahogany
+caps and veneer. This is undoubtedly due to the fact that the laminations were too thin.
+Beam XIX failed at a lamination splice, but XX did not.
+Beams XXI and XXII were built similar to beam XI. Both failed in compression; failures
+occurred very slowly. These beams were both inferior to solid wood beams. This was probably
+due to the high moisture content as is shown on the chart of results .
+Beam o. XXIII was built similar to beam XXII, and in addition each half of the section
+was spliced, splices being located at points of maximum moments . This beam proved to be
+inferior to solid wood beams due to poorly selected wood and not to the fact that it contained
+splices. The spruce wood was grained diagonally, the grain sloping 1 in 10; the veneer was
+soft gum wood having a low shear strength; and the caps were of ash, which is not suitable for
+this purpose. The results of this test demonstrate that this type of beam can be spliced without
+causing a weak point.
+
+o
+
+•
+

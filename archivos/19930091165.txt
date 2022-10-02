@@ -1,0 +1,1281 @@
+REPORT No. 102
+
+PERFORMANCE OF A LIBERTY 12
+AIRPLANE ENGINE
+
+V
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+GOVERNMENT
+
+REPORT No. 102
+PERFORMANCE OF A LIBERTY 12 AIRPLANE ENGINE
+By S. W. SPARROW and H. S. WHITE
+Bureau of Standards
+
+REPORT No. 102.
+PERFORMANCE OF A LIBERTY 12 AIRPLANE ENGINE.
+By S. W. SPARROW H. S. WHITE.
+and
+Bureau of Standards.
+
+RESUME.
+
+This report, on the complete performance test of the Liberty 12 airplane engine, was submitted for publication to the National Advisory committee for Aeronautics by the Bureau of
+Standards. The tests described were conducted in the nltitude chamber of the dynamometer
+laboratory of the Bureau of Standards. The program of tests was plnnned in cooperation
+with the Engineering Division of the Air Service of the United States Army, so as to yield that
+information which is considered of most importance in determining the value of an engine for
+aviation. The particular engine used in these tests was assembled by the Engineering Division at McCook Field and subjected to the standard dynamometer test for operation at gfound
+level, then shipped to the Bureau of Standards, and mounted in the altitude chamber without
+overhaul. After the altitude tests it was then returned to McCook Field for such fight tests as
+might be desired. Though the question of durability is of vital importance, it can be determined
+with much less equipment. Since an aviation engine is comparatively short lived, the tests
+were purposely made as short as was consistent with the securing of the above information so
+that the engine might be left in condition for many hours of flight tests.
+The following tests were made:
+1. A full power run a t ground altitude at speeds from 1,200 to 2,000 revolutions per
+minute.
+2. An altitude power run at full throttle and at speeds of 1,600 and 1,700 revolutions
+per minute from ground altitude to 25,000 feet (7,620 meters) in steps of 5,000 feet (1,520
+meters).
+3. Propeller load runs, in which the dynamometer load and engine throttle were so adjusted
+as to produce approximately the same engine load as would be imposed by a propeller at
+speeds from 1,200 revolutions per minute to the normal fullload propeller speed of 1,700 revolutions per minute. These were taken at altitudes of 5,000, 10,000, and 15,000 feet (1,520,
+3,050, 4,570 meters).
+4. Friction horsepower runs at ground altitude and at 15,000 feet (4,570 meters).
+RESULTS.
+
+Some of the outstanding results are given in the accompanying tables. Correcting the
+results to the standard barometric pressure of 29.9 inches (76 centimeters) of mercury gives a
+maximum brake horsepower of about 440 (446 metric horsepower) at a speed of 1,900 revolutions per minute, and a maximum brake mean effective pressure of 124 pounds per square
+inch (8.7 kilograms per square centimeter) a t 1,200 revolutions per minute. The mechanical
+efficiency varies from 90 per cent to 84 per cent from speeds of 1,200 revolutions per minute to
+1,900 revolutions per minute, while the brake thermal efficiency, based on the lower calorific
+value of the fuel maintains a constant value of 25 per cent over the same speed range.
+Above 15,000 feet (4,570 meters) altitude the carburetor altitude control is inadequate
+to maintaip the proper mixture ratio. The effect of the rich mixture resulting is to cause a
+3
+
+4
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+decrease in power below that which would be expected from the very nearly linear relation
+which brake horsepower and mean effective pressure bear to density as long as the mixture
+ratio can be adjusted for maximum power. The volumetric efficiency at 1,600 revolutions per
+minute decreases steadily with altitude from a value of 86 per cent at the ground to a value of
+78 per cent at 20,000 feet altitude.
+Under the conditions of this test at an air density of 0.0405 pound per cubic foot or 0.65
+kilogram per cubic meter, the brake horsepower is about 42 per cent of that at the ground,
+and the indicated horsepower is approximately 47 per cent of that at the ground.
+CONCLUSIONS.
+
+Such information as is contained in a report of this kind is of most value when compared
+with similar tests of other engines. I t then furnishes not only a basis for comparing the rela,
+tive value of two engines, but also a means for explaining the causes of the superiority of one
+engine over another in any particular phase of performance. This test in itself, however, yields
+two conclusions that seem of primary importance:
+1. The provision on the carburetors for adjusting the mixture ratio to suit altitude conditions is inadequate for altitudes above 15,000 feet (4,570 meters).
+2. I n making any changes in this engine to improve its altitude performance---that is,
+to decrease the rate at which the brake horsepower falls off with altitude--the two methods
+which offer most hope of success are to increase the mechanical efficiency by decreasing friction
+horsepower and to make such changes as will prevent the present decrease of volumetric efficiency with increase of altitude.
+TABLE
+-4.-Engliah units.
+Ground runs. Full power.
+Brake
+Approximate
+a~titnde
+(loat).
+
+Pounds
+
+mean
+
+effective Brake
+
+%gz,":6 %
+&
+par
+
+L0.2.
+
+S9"Bre
+inch).
+
+TABLE
+R.-Engliak units.
+Altitude runs. Full power.
+Brake
+effwtivs
+man
+Approxlmate
+Bltihlde
+((set).
+
+tions per
+minuto.
+
+SzGi'dr:
+Per
+squnro
+Inch).
+
+Brake
+horsepower.
+
+Pounds
+0fl"d
+
+C86
+
+bftiehorsepower
+hour.
+
+peraturt
+
+(F)
+'..
+
+PERFORMANCE OF A LIBERTY 12 AIRPLANE ENGINE.
+
+Ground runs.
+
+TABLE
+D.-Englkh uniL9.
+.kltitode runs.
+
+TABLE
+
+A.-;Met&
+
+units.
+
+Ground runs. Pull power.
+Brake
+mean
+
+?
+%
+AE::~- R~YOIII-: : : Brake
+%,"f & , ri
+" i.:t
+(,
+"
+$
+:
+sqllaro
+meter).
+eonti-
+
+Kilo-
+
+gramsol
+rue1 r
+br%
+
+horse-
+
+carairtomburetor
+peratma
+
+'"'
+
+Air
+
+d ! o ~i
+g!
+2 g:g;
+$ y
+gEi
+: :y
+moteo.
+
+/ --
+
+TABLE
+B.-Metric =nib.
+Altitude runs. Full power.
+Brake
+KUo-
+
+Air
+
+.61
+
+71
+
+16
+
+11.1
+
+REPORT NATIONAL
+
+ADVISORY COMMITTEE
+
+TABLE
+O.-Metric
+
+FR
+O
+
+AERONAUTICS.
+
+tinits.
+
+Ground runs.
+
+Altitude rum.
+Air
+Neohani-
+
+meter).
+
+I
+
+OBJECT OF TEST.
+
+This test was made to determine the performance of a Liberty 12 airplane engine. The
+engine was operated under such conditions as would yield s a c i e n t informntion to detennhe
+its value for aviation use. The test was typical of that ordinarily made on a new type of engine
+in that the completeness of the tests was sacrificed for the sake of reducing the actual running
+time of the engine. Such a procedure does not materially reduce the life of the engine, and
+leaves it in good condition for actual flight work.
+DESCRIPTION OF ENGINE AND APPARATUS.
+
+(a) E~;ne.-The engine used was a Liberty 12, U. S., No. 2 2 , 5 1 9 standard in every respect.
+This is a V-type motor with 12 water-cooled cylinders. I t has a bore of 5 inches (12.7 centimeters), stroke of 7 inches (17.8 centimeters), and compression ratio of 5.4. The Zenith carburetor used is provided with a manually operated valve for decreasing the fuel flow to maintain the correct mixture under altitude conditions. Mobile B oil was used on the full-power run
+on the ground and Liberty aero oil No. 3501 thereafter. Both oils were satisfactory, the reason
+for the change being of no importance in this test. The X gasoline used conforms to the Aircraft Production Board's Specification 3512 for the American Expeditionary Forces, 1918. A
+distillation curve of the fuel according to the standard Bureau of Mines method is given on curve
+sheet 15.
+(6) Apparatus.-The engine was tested in the altitude chamber of the dynamometer laboratory of the Bureau of Standards. A complete description of this apparatus is given in report
+No. 44 of the National Advisory Committee for Aeronautics (No. 52 of the Bureau of Standards
+Automatic Power Plant Series). The air from this chamber can be exhausted until its pressure
+is reduced to that of the altitude desired, while a t the same time the temperature of the air
+supplied to the engine can be reduced to approximately that prevailing a t the given altitude.
+Outside the chamber, apparatus is provided for measuring power, fuel consumption, and all
+necessary temperatures and pressures.
+
+PERFORMANCE O
+F
+
+A
+
+LIBERTY 12 NRPLANE ENGINE.
+
+PROGRAM OF TESTS.
+
+1. A run was made with wide-open throttle at ground altitude a t speeds from 1,200 to 2,000
+revolutions per minute. At each speed the spark advance was adjusted for maximum power.
+The carburetor was adjusted a t each speed to give the least fuel consumption possible with
+maximum power. This was accomplished by adjusting the carburetor until the speed and
+torque showed that the maximum power had been obtained. The mixture was then made so
+lean that the torque dropped appreciably and then enriched just enough to restore the maximum power.
+2. A run was made with wide-open throttle at speeds of 1,600 revolutions per minute and
+1,700 revolutions per minute a t the ground, and at altitudes of 5,000, 10,000, 15,000, 20,000,
+slid 25,000 feet (1,520, 3,050, 4,570, 6,040, and 7,620 meters). At each speed and altitude the
+spark advance and carburetor were adjusted as for the ground run with the exception that carburetor limitations prevented the desired adjustment at the latter two altitudes.
+3. A series of runs was made at altitudes of 5,000, 10,000, and 15,000 feet (1,520,3,050, and
+4,570 meters) at speeds of 1,700, 1,600, 1,500, 1,400, 1,300, and 1,200 revolutions per minute. I n
+these runs the dynamometer and throttle were so adjusted a3 to put a load on the engine at each
+speed equal to that which would be imposed by a propeller which would absorb the full power
+of the engine at 1,700 revolutions per minute. I n runs of this typo it is assumed that the horsepower of a propeller varies as the cube of the speed. Thus if 1,700 be the normal revolutions
+14008 .
+per minute of the propeller, the horsepower at 1,400 revolutions per minute will be 1 0 %
+7 0times
+the horsepower a t 1,700 revolutions per minute. I n these runs the spark and carburetor were
+adjusted at 1,700 revolutions per minute a t each altitude as in the preceding runs, but were
+not altered for the other speeds.
+4. A series of friction horsepower runs was made at speeds from 1,200 to 2,000 revolutions per minute both at the ground and a t an altitude of 15,000 feet (4,570 meters). I n these
+runs the engine was operated under power until oil and water temperatures were normal, and
+then it was driven by the dynamometer and the power input measured.
+METHOD OF OBTAINING RESULTS.
+
+The results of the tests are given in Tables 1 to 9. A detailed recdrd of the complete test
+procedure of the laboratory, both in securing data and computing results, is in preparation,
+so that a brief explanation here will suf6ce. The run numbers are those that were used on the
+original sheets to designate the diiorent runs.
+Altitude was determined by means of the pressure altitude relation adopted by the Aeronautical Instruments Section of the Bureau of Standards and given on curve sheet 16. The
+pressures used were measured at the carburetor entrance. The engine torque was measured
+on a 21-inch (53-centimeter) arm on the dynamometer, and from this value the torque in pounds
+feet, brake mean effective pressure, and brake horsepower are calculated. The brake horsepower calculation requires tho speed which was obtained with a revolution counter and stop
+watch. Temperatures were all measured with thermo couples and pressures with U-type m a o meters.
+The volume of air used was measured by a Venturi meter calibrated in place with a carefully tested Thomas meter. From measurements of temperature and pressure, air density,
+and then weight of air used per unit, time is computed.
+The volumetric efficiency is the ratio of the volume of air which the engine actually takes
+in per cycle of two revolutions to the total piston displacement of the engine per stroke. The
+volume of the air used is determined for tho pressure and temperature measured at the carburetor entrance.
+The thermal efficiency is the ratio of the heat equivalent of brake horsepower to the heat
+equivalent of fuel supplied. The lower heating valuu of the fuel is used, which for gasoline is
+18,940 British thermal units per po&d (34,100 calories per gram).
+
+8
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+In calculating the heat distribution on Table 2 , the higher heating value of the fuel (20,320
+B. t. u. per pound; 36,600 calories per gram) is used.
+Heat in the exhaust is obtained by an exhaust calorimeter method and the residual heat by
+difference. The latter includes the heat equivalent of the unburned fuel that goes out the exhaust. Power developed by the burning of the lubricating oil has been neglected in heat balances
+chiefly because of the diiculty in determining just how much of the oil consumed is actually
+burned on the power stroke.
+The brake horsepower and brake mean effective pressure obtained on the ground run are
+converted to standard barometric pressure by multiplying the values actually obtained by the
+ratio of 29.9 to the actual barometric pressure in inches of mercury.
+The results shown in Table 9 are taken from the curves a t given speeds. The indicated
+horsepower is obtained by adding the brake horsepower to the friction horsepower. The mechanical efficiency is obtained by dividing the brake horsepourer by the indicated horsepower.
+In obtaining the friction horsepower a t different densities its value a t 1,600 revolutions per
+minute a t the ground and a t 15,000 feet (4,570 meters) was taken, and it was assumed to vary
+linearly with air density between these points. Previous tests show this to be close enough to
+the true rilation to justify this assumption.
+RESULTS.
+
+The more important results of the ground tests are shown on curves 1 to 5, inclusive. The
+maximum brake mean effective pressure of about 118 pounds per square inch (8.3 kilograms
+per square centimeter) was attained a t 1,200 revolutions per minute. The maximum brake
+horsepower occurs at about 1,900 revolutions per minute, which is the peak of the curve, the
+power falling off rapidly thereafter. The atmospheric pressure was such as would be equivalent
+to an altitude of about 1,000 feet (305 meters), and the results that would be expected under
+standard barometric pressure are shown on sheet 2 . This shows a maximum brake mean
+effective pressure of 124 pounds per square inch (8.7 kilograms per square centimeter) and
+maximum brake horsepower of 440 (446 metric) horsepower. The reason for the "flattening out"
+or peaking of the brake horsepower speed curve is due usually to two major causes-the increase
+in friction horsepower with speed and the decrease in volumetric efficiency. A study of the indicated horsepower speed curve on sheet No. 3 shows a maximum a t about 2,000 revolutions per
+minute. This curve was obtained by adding the friction horsepower to the brake horsepower
+a t the different speeds, hence the flattening of this curve is due to decrease in volumetric efficiency.
+The curve a t the bottom of the sheet shows how closely the power developed is related to the
+volumetric efficiency of the engine. On this curve the ratio of the indicated horsepower a t each
+speed to the indicated horsepower a t 2,000 revolutions per minute has been plotted, and also
+the ratio of pounds of air used per hour to the pounds of air used per hour a t 2,000 revolutions
+per minute. The curves are practically identical. I n studying the mixture-ratio curve plotted from values taken from curves of pounds of air per hour (sheet 4). i t must be remembered
+that the mixture and pounds of fuel per hour were adjusted by hand a t each speed, so that the
+shape of the curve and the values themselves in no way represent a carburetor characteristic.
+It is not clear a t the present time why these values should be the ones to give maximum power
+and minimum fuel consumption, but the accumulation of data of this sort, together with further
+research based definitely on this subject, should furnish an explanation. On sheet 5 is shown
+the heat distribution. At 1,700 revolutions per minute, the normal speed of the en-he, the heat
+in the fuel supplied is about 4.3 times that realized in brake horsepower, and the heat in the jacket
+is about half that developed in brake horsepower; under the same conditions the heat in the
+exhaust is nearly 1.7 times and residual is about 1.1 times that realized in brake horsepower.
+It should be remembered that the residual heat is the difference between the heat in the fuel
+and that which appears in brake horsepower, in the jacket, and in the exhaust. Hence the residual heat includes the heat value of the unburned fuel which goes out of the exhaust.
+m
+
+PERFORMANCE OW A LIBERTY 12 AIRPLANE ENGINE.
+
+9
+
+The curves from 6 to 10, inclusive, show the effect of change in altitude on engine performance. Since i t is the change in air density with change in altitude which is the fundamental
+cause of these changes, it is against air density that these curves are plotted. For conveniencc
+in interpretation of the results, from the standpoint of barometric pressure, vertical lines have
+been drawn through the plotted points and the approximate barometric pressure noted.
+For a proper understanding of the altitude Curves, the curve of pounds of fuel per brake
+horsepower hour on curve sheet 6 and pounds of air per pound of fuel curve on sheet 9 should be
+noted. I t will be observed that the mixture became extremely rich as the altitude was increased
+above 15,000 feet (4,570 meters), due to the fact that the adjustment was a t its leanest position
+a t this altitude, and it was impossible to secure the desired mixture beyond this point. The result
+of this richness of mixture of course manifested itself in extreme fluctuations of speed and torque,
+and excessive fouling of spark plugs. I t will be noted on curve sheet 6 that the brake horsepower and brake mean efiective pressure vary linearly with density up to the point where the
+abnormal mixture ratio results in their decrease. On curve sheet 7 is plotted the ratio of the
+indicated horsepower, pounds of air per hour and brake horsepower a t agiven density to their
+corresponding values a t a density of 0.076 (approximately ground altitude). I t ia seen here,
+again, that as long as the mixture ratio was held within reasonable limits the percentage change
+in indicated horsepower was the same as the percentage change in weight of air received by the
+engine.
+The rate of decrease of brake horsepower over indicated horsepower is more rapid with increase of altitude as the friction horsepower does not decrease nearly as rapidly as the brake
+horsepower and therefore becomes a greater and greater per cent of the brake horsepower. I t
+is of interest to note that on this engine the volumetric efficiency drops steadily with altitude to
+the extent of a 12 per cent decrease a t 25,000 feet (7,620 meters) over what i t was a t the ground,
+this, of course, being a vital factor in causing the decrease'of power. I n studying the curves on
+sheet 10, i t must be remembered that i t is the carburetor that is directly responsible for the high
+"heat in fuel over heat in brake horsepower" and "residual heat over heat in brake horsepower" values, and that indirectly it is responsible for the final high values of "heat in the
+exhaust over heat in brake horsepower'' and "heat in jacket over heat in brake horsepower,"
+through the resulting low power.
+Comparison of the "Propeller load" curves on sheets I t and 12 will show that fuel-consumption curve is influenced strongly by the carburetor charactoristics as shown by pounds of air over
+pounds of fuel curve, i t being remembered that the carburetorwas only adjusted for 1,700 revolutions per minute in these cases.
+CONCLUSIONS.
+
+The greatest value of such data as is contained herein can only he realized by its comparison
+with a numbor of results obtained on other engines. This not only enables the engines to be
+judged as to their relative value for a given type of work but also indicates reasons for superiority in performance of one type over another.
+conclusions, however, to be drawn from the test itself-namely,
+There are two outstandi~lg
+that the carburetor control is inadequate above 15,000 feet (4,570 meters); that the most promising line of development for improved altitude performance lies in increased mechanical efficiency through decreased friction horsepower, and in such changes as will prevent the decrease
+in volumetric efficiency with increase in altitude.
+17071-21-2
+
+10
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+TABLEI.-English units.
+Ground runs. Pull power.
+Ternparatme (' F.!.
+
+TABLE11.-EngW units.
+Ground runs. Full power.
+Heat distribution based an
+brake horsepower.
+
+Run No. He.tin
+
+-
+
+/
+
+-Heat dlstrlbutian bnaed on
+hcat in fuel.
+
+Air
+
+Heatin Reid- Brake
+
+ha%+
+($g\L bh'kl;f&%i$ power
+{$zt& hest+ A%,
+
+b.h.p.). b.h.p.1.
+
+-
+
+&. A%.
+
+fWt)'
+
+*0.2.
+
+- ------__--
+
+TABLE
+111.-English units.
+Altitude runs. Full power.
+Brake
+maen
+
+Temperature (' 8.).
+
+square
+per
+
+-
+
+Inoh).
+
+--
+
+-
+
+-
+
+_ _ __----
+
+folda auction
+(inches hg.).
+
+11
+
+P E R F O R W D E OF A LIBERTY 1 AIRPLAEE EVGINE.
+%
+
+TABLE
+1V.-EngEirh ud&.
+
+Altitude rum. Full power.
+H a t dlstrlbutlm WBdan
+brale homepower.
+
+H a t dlstributlm b s s d r heat
+m
+4fuel.
+
+Air
+
+Volll-
+
+Ther- Pounds
+
+-- - - - - s c..... 4 . 2 0 . 8 2
+2.0
+0.6
+I
+IS
+47
+i4ams2om1
+ss
+zua
+6 0.....
+4.1
+.8
+14
+16
+.075
+0
+5
+3W
+: O
+.68
+1.0
+I
+46
+25
+20 14.5
+14.3
+@
+.I
+.61
+23
+30
+46
+8 .....
+7 0 .....
+.7
+.7
+4.3
+14
+2 :g t@
+21
+4.8
+14
+la
+ioc.....
+oc .....
+
+5.5
+4.8
+
+.a6
+.TI
+
+iE:::: 8:: :z
+....
+....
+....
+7
+5 D ....
+
+3 D
+6
+4D
+
+4.6
+5.3
+6.5
+
+11.2
+8.0
+
+.85
+
+1.8
+
+1.0
+
+::;1
+2
+
+.05
+.84
+
+1.8
+28
+1.0
+
+.80
+
+2.8
+
+.85
+
+aa
+rz
+
+f
+10
+
+$
+4.6
+
+11
+
+0
+
+TABLE
+V.-English
+
+$
+
+25
+
+.W 1'380
+.M8 1'150
+.a3
+
+:g $%
+1:lB
+
+unlta.
+
+Propeller load runs.
+
+TABLE
+V1.-BayZiph unita.
+
+Propeller load runs.
+Tmperatum (.
+')
+F.
+
+Run'No.
+
+OiL
+
+Jsoket water.
+
+Manifald & c
+!m
+(n
+I - bg.).
+
+23
+23
+25
+20
+
+U.0
+12.2
+ia.5
+
+2
+18
+
+11.1
+
+1
+;
+
+1
+;
+
+76
+
+14
+36
+
+4 4 -!2
+
+4.8
+6.7
+
+ro
+
+.m7
+056
+
+55
+
+18
+
+f
+2
+'
+2
+
+1.1
+25
+1.0
+
+also
+aL1.w
+
+36
+n
+
+18
+
+1.0
+1.0
+
+All
+
+81
+
+77
+
+14.6
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+TABLE
+VI1.-English unitd.
+Friction horsepower.
+Tempemture, (' F.).
+Run No.
+
+Bff::ie
+
+Air
+Barornet- density
+ric
+Reoolu- Friction
+tions er power. pressure parcubio
+minuPo. horse- bnches (pound
+fmt).
+H.
+g
+
+011.
+Inlet.
+
+Jmket water.
+
+Outlet.
+
+Inlet.
+
+Outlet.
+
+Cab
+bptor
+'Ir'
+
+..... : c
+ag
+
+26E
+27E.....
+28;:::::
+
+:YE:::::
+BE.....
+
+~ 2 2 .
+Ground.
+aaE ..... Ground. d .
+34~. ~r~un
+
+....
+
+2
+:
+;
+
+5%
+
+:i
+
+$E
+
+30
+41
+61
+5Z
+
+17.2
+17.5
+17.1
+I7.l
+
+0.046
+.047
+,047
+
+01
+6
+2
+100
+94
+
+.....
+I !?:!. .MI
+:8
+43 ..........
+
+88
+
+::::::::::::
+
+:
+
+170
+16U
+182
+
+"
+
+151
+157
+186
+162
+
+1%
+158
+166
+163
+
+32
+29
+28
+27
+
+165
+
+2
+167
+!
+
+if
+168
+t!;
+
+$
+
+6:
+
+93
+
+TABLE
+TITI.-Enpli8n units.
+Ground and altitude runs.
+Lb.s r
+i
+
+-- -
+
+Lb.sir
+
+-
+
+-
+
+PERFORBUNCE OF A LIBERTY 12 AIRPLANE ENGINE.
+
+13
+
+Ground rum. Full power.
+He~tdfstrib1ltionbas8don
+brake
+horsepower.
+
+Heat dfshibutian based on hest
+in fuel.
+
+TABLE111.-Metric units.
+Altitude rum. 'PUU power.
+Brake
+mall
+
+Tempmature ('C.)
+
+on
+
+KUo-
+
+eUee
+
+pre*
+
+?g: -
+
+grams
+
+square
+mntimetor).
+
+-
+
+-
+
+-
+
+-
+
+Carburetor
+
+hour.
+hict. outlet. 1~k.t. outlet.
+
+-
+
+Manlfoid sue
+tioneentimeBaroter Hg.
+metric
+Prs*
+sure
+
+meter).
+
+%%
+
+Cylin- Cylinder
+dor
+Hg).
+1-z-a L.
+
+--
+
+TABLE1V.-Metric units.
+Altitude rum. Full power.
+Heatdistribution basedon br&e
+horsepower.
+
+i
+
+Heat distribution based on heat
+in fuel.
+
+510
+
+74
+
+12
+
+10.0
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+TABLE
+V.-Metric units.
+Propeller load runs.
+Kile
+
+meter.
+
+TABLE
+V1.-Metric units.
+Propeller load runs.
+
+Revoiolu- Friction
+tions per power.
+minute. horso-
+
+Run No.
+,
+
+(m
+
+% .d
+%
+
+Temperature(D 0 )
+..
+
+AII
+( " ~ ~ Oil' ~
+~
+
+Jackst ~ 8 t e r .
+vs I
+per
+?
+%
+?
+Csrburetor &
+.
+
+t m H!3.).
+
+2 ; Inlot.
+2.
+
+Outlet.
+
+Inlot.
+
+Outlet.
+
+76
+69
+72
+69
+
+68
+72
+70
+
+78
+RB
+83
+71
+
+74
+RB
+74
+75
+75
+n
+
+88
+70
+73
+74
+75
+76
+
+16E
+
+"
+31 E
+
+a4 E
+
+4,570
+
+2;
+
+1,210
+l 510
+1,410
+$&
+7
+%
+
+$;g
+
+j/j 2"
+
+30
+41
+52
+70
+61
+
+4.
+43.7
+39
+43.5
+43.5
+43.4
+
+.........
+..........
+
+33.
+65
+43 ..........
+69
+
+0.75
+.75
+.75
+.75
+1.14
+1.13
+1.11
+"
+2
+
+33
+33
+34
+42
+38
+37
+35
+36
+35
+
+"
+
+0
+-2
+-2
+-3
+32
+34
+
+7E
+
+78
+
+"
+as
+
+PERFORMANCE OF A LIBERTY 12 AIRPLANE ENQINE.
+
+TABLE
+VII1.-Meehic an&.
+Ground and altitude runs.
+
+density
+
+>
+
+16
+
+REPORT NATIONAL ADVISORY OOMMITTEE FOR AERONAUTICS.
+
+/30
+
+4
+0;
+
+",9
+//o
+
+*
+al
+
+2
+<
+?
+sl
+
+.70
+
+' '
+,i
+20
+
+fig. 2.
+
+L6s. file/
+
+/4[0
+
+'
+
+/;
+60
+R. P. M.
+
+/!0
+87
+
+'&
+
+$
+
+a
+
+6 0 \9
+b
+
+,502
+
+PERFORMANCE OF A LIBERTY 12 AIRPLANE ENGINE.
+
+17
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+19
+
+PERFORMANCE 08 A LIBERT'Y 12 bIRPLANi4 ENGINE.
+
+k zo
+1
+8
+
+380
+
+b
+
+340
+
+1
+6
+
+4
+
+300
+
+1.4
+
+3
+
+8260
+
+/P
+
+Z800
+2400
+
+8 /80
+
+eB
+
+2000 c
+
+4
+3
+
+4 /40
+
+/600
+
+/oo
+
+/zoo
+
+E
+
+60
+
+Ib
+
+800
+/60
+
+$/PO
+
+I
+
+I
+/PO0
+
+f,g. I/.
+
+I
+
+I
+
+I
+
+/400
+/600
+R. P.M.
+
+I
+/800
+
+I
+
+1
+
+.40?
+
+d
+
+'
+
+L?
+
+80
+
+40
+, i q /2.
+
+WOO
+
+,0
+40
+
+10
+60
+
+R. P.M.
+
+/BOO
+
+20
+
+fig. /5.
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AEBONAUTICS.
+
+Per cent DisfiIIed.
+

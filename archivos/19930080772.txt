@@ -1,0 +1,943 @@
+.
+
+r
+
+.
+,.
+
+.
+
+. .
+
+------
+
+..-.
+
+.NA2101JAL
+ADUSORY
+
+COMMITTEE J’CRAJWONAUT1CS
+
+.,
+
+‘$
+
+1=
+DEPENDEITCE PROPELLER OF
+
+I(YIENCY ANGLE OF ATTACK OF
+ON
+
+PROPELIER BLADE.
+By
+Hermamn Borok.
+,
+
+)5 -/
+
+‘ -’L
+3
+
+/b
+t’
+“Zei.t
+sohrift
+
+,
+
+$
+
+f&
+
+Taken from
+Flugtechdk und llotorluftchiffahrtSn
+s
+November 15, i.S20.
+
+Fim—cxx’’-’i
+To OHmtmd
+:,’
+l%? fik of th? L[!il:”:r}
+MmoriLd
+
+.
+
+kil)’lfidi~l’j~
+
+laboratory
+
+~
+,
+
+.
+
+Deoember, 1921.
+
+--
+
+..— .
+—
+
+.-
+
+—-
+
+---
+
+,
+
+:
+
+qgg’!!ll!ll!!!!!!~l
+-_—.
+——— —
+.
+
+DEPENDENCE
+..
+.-,
+
+“LER
+OF PROPEL EFFICIENCY OJ ANGLE OF ATTAOK OF
+PROPELLER BLADE.*
+
+J
+
+. -,
+
+.- .-,.
+
+.. . . . ..
+
+.
+
+.- ~
+
+..
+
+~ .. .
+
+.
+
+HtmmnY30roka
+
+.
+
+In order to determine the maximum and the most favorable
+pit oh for “propsller,it tis found desirable to investigate the
+deper@ence of propeller efficiency on the angle
+
+of attaok of
+
+the propeller blades.
+For lack of space, I mill hers give kriefly the results
+of only a few e~eriments, whioh will, however, suffice to show
+that propeller blades conduot themselves $ust like airplane
+wings with ref’erame
+
+to the dependence
+
+of their efficiency on
+
+their angle of attaok.
+I will first give a f-
+
+e~l.smatory rem~”ks to faoilikte .
+
+the understanding of what follows.
+The value of”the mgle
+
+Of attack
+
+is
+
+taken at.a distanoe of
+.
+
+0.75 r from the propeller axis.
+q
+
+The forward propeller velocity Vpr
+
+is oaloulated aooo?d- .
+
+Ing to the formula
+Vpr = ~
+fl’
+
+in whioh
+
+.
+
+.
+#
+
+=
+
+.2
+----------------
+
+l+J’1++**$
+“.
+
+* From “Zeitschrift fur Flugteohnlk und Motorluftschiffahrt,”
+November 15, 1920, pp. 313-314.
+/
+.
+
+a
+
+-2’is the e.ffloienoy
+due to the slip.
+.L
+
+.-,.
+For the
+
+,
+
+In the above
+Is aooeleration due to gravity,
+is w8i@t
+
+of 1 Ou.m. of air in k=
+
+is
+
+measured in kg.,
+
+thmst
+
+J
+
+ie propeller disk In sq.m.,
+is f“lightspeed with referenoe to the air.
+In order to be independent of the propeller slip, the total
+effioienoy Is divided by the slip
+
+effioienoy, and thus the me-
+
+ohanloal ef’fioienoy
+of the propeller
+to angle of attack.
+
+is
+
+determined with relation
+
+(See Bbrok, l’Zeitsohrift
+f;r Soh$ffbau)fl
+
+1919, Vol. XX, pp. 161 and 199.)
+For the practioal propellers Uncle=consideration, there
+would have been no object in oarrylng the analysis of engine
+
+Tineexperimental results rest on: 1. E
+
+,,,
+
+ertients
+the writer at the ‘iFlugzeugmeisterel~
+9
+? Teohnloal” ection of the Air Smrloe);
+
+2. Experiments performedby Dr. Schaffraa with air propeller models..in.the
+~ter at the institute for
+I@rodynamios and ship buildin&i ‘iizider”orders
+of
+We inspeotor of the alr fomes.
+3. Eqeriments with an WtaW propeller on the propellex
+testing stand at Fisohamend aear Vienna, the results of which were FZaoed at my disposal by the
+Eta propeller faotory.
+
+“f:
+,
+.\
+.
+
+.
+
+-3-.
+,
+
+E~=hwLL.
+
+Iitnepropellers cf 2.8 w. diameter, & 2 &
+
+width, EUXIrespective pitohes of C.O, 0.56, 1.M,
+*..
+
+1.68, 2.24,
+
+.
+
+2.8, 3.36, 4.4~j iind“5.6m, wese-tested on ths eleotrlo testkg
+stand at 800 r p.m. , and their thrust and torque measured.
+The remits are given in
+Table 1.
+~er-: Geom.:Torque:Thrust:
+RevolutIon:l!hglne
+Power:Mechan-:An@e of
+.
+.
+.
+.
+,
+: ioal : attaok
+ment :pltoh:
+.
+.
+. per
+.
+.
+.
+.
+~
+:EffIoi-:
+.
+.
+.
+.
+.
+!en~
+~
+.
+No. ; m. ~ km. ~ kg. ~
+:
+~
+:
+see.
+:. k~/6
+q
+
+1
+
+: 0.00:
+: 0.56:
+..
+:
+i ::La;
+5
+: 2.24:
+6
+: 2.80:
+7 “ : 3.36:
+: 4.49:
+:
+: 5.60:
+2
+
+2.4:
+:
+l%
+28.5:
+41.0:
+64.7:
+81.7:
+108,4:
+130.0:
+
+24
+71
+118
+163
+203
+196
+208
+233
+215
+
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+13.3
+‘~
+1’
+n
+1’
+n
+n
+If
+
+:
+.
+1
+:
+:
+:
+.:
+.
+.
+.
+
+201
+
+:
+
+687
+1464
+2390
+3430
+5420
+6850
+9380
+10900
+
+:
+:
+:
+:
+:
+:
+:
+:
+
+.
+
+0.49 :
+0.7’1:
+0,71 :
+0.71 :
+0.e8 :
+0.41 ~
+0.35 :
+0.Z2 :
+0.23 :
+
+0:
+:.7°
+10.5°
+14°
+18°
+220
+29°
+350
+
+The determination of the effeotive pitoh gave a value ab~t
+3$ abuve the geometrloal.
+pitoh.
+
+The result of No. 1 can make no
+
+olaim to euff:oient aoouraoy, sinoe the experimental errors in
+the measurement of the torque and thrust are too”g.rest
+in relation to the measured values. .
+Exme~
+mm.
+
+,
+
+. A two-bladed
+
+propeller model (diameter 120
+
+width of blade 9 mm. , geometrical pitoh 96 mm., effective
+
+pitoh 104 mm.) ms
+
+tested in water at different flight speeds
+
+and a revolution spe~ of 30 per seoond. The results are’given
+in Tablg 2.
+
+—..
+
+_. ._
+
+,
+
+-4Table
+8peecl
+
+.
+
+:
+.
+.
+
+n/eeo.
+
+:
+
+0.00
+
+:
+
+0.38
+0.72
+
+:
+:
+
+?orqne
+
+:
+
+a+taok.
+
+?Aeohmlioai:
+Effi.cienoy:
+:
+~:
+
+Thrust
+
+;
+
+Ang?.e CS
+
+:
+
+:
+.
+
+km
+
+2.
+
+kg.
+
+.
+.
+
+C:031 :
+0.031 :
+G.031 :
+
+0.59
+0,63
+0.71
+0.77
+0.00
+0.82
+0.78
+C.74
+0.59
+
+q
+q
+
+.
+.
+q
+
+
+.
+.
+.
+.
+.
+.
+.
+q
+
+1+95
+1.5a
+
+q
+q
+
+1.03
+
+0.44
+
+la 1:
+
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+11.1°
+
+9.
+8Q
+8.
+a~
+?*QO
+5,70
+
+4.20
+2.
+z~
+2..0°
+
+propeller
+(diameter S E., #.dthcf
+2.
+blade0.215 , geometrical
+a
+pitoh2.1 m. , effecsti~e
+pita about
+Exnertment ~
+
+m
+
+An
+
+Eta
+
+2.4zn. was tested at varhus revolution speeds, fkom 1000 to
+)
+1400r.p,mo, and at various aAz velooitiee on the testing stand
+in the propeller testing laboratory at l?lsohamen& Only the
+fin~
+
+resulte
+
+of the ~eriment
+
+are given in Table 3, stnoe tt
+
+.
+Would oarry me beyond the
+
+SOqe
+
+of this
+
+artiole
+
+to repeat
+
+the
+
+oomplioated aaloulations.
+Table 3.
+?ieohambal
+
+effioien~.h
+
+Angleof attaok, t&rees
+.
+
+Fig.
+
+: 0.8’7: 0,86 : 0.85 :
+: 2,3
+
+: 4.1
+
+: 6,2
+
+:
+
+0.84
+13.3
+
+1 shows the =esults of thethreeexperiments the
+In
+
+fozm o% curves representing the me~ioal
+tion to the angle of attaok a .
+
+The Mes
+
+effioienoy with relashw
+
+that the ~-
+
+mun meohanicsel
+propeller effiulenoy lies at about 5°, the same
+an@e
+
+-—
+
+at whioh a wing ha3 the greatest
+
+. . .
+
+effioienoy.
+Ourve3 has
+
+- -
+
+----
+
+-----
+
+- . ---
+
+. .-
+
+.
+
+.
+
+.—
+
+...—
+—
+
+*gd.
+
+a.somewhat different charaater from ourves 1 and 2, ‘mhidhis
+*,.
+
+probably due to experimental ersors.
+1
+.
+..
+..
+It IS Interesting-to note in-curve 1 the sudden drop in
+effioienoy between 14° and 18°, wMoh
+
+again shows tineamalogy
+
+bet~en propeller blades.amd wings.
+The praotloal oonolusion from these e~eriments
+
+is th&ttthe
+
+propeller pitoh should be suoh that.It will work under the varioua flight conditions with attaoklng angles of 30 to 6°S a
+oondltion whioh is almost universally fulfilled by propellers
+now in use.
+sw2?2LmQQt=
+If we oonvert the oonoeptions defined for the propeller in.
+to speed and angle valuse, #hioh ocmur In the wings of an air-
+
+planeIn flight, we can o’btain
+mo2e aoourate definitions of
+these quqmtities.
+The value for a ~~ng, corresponding to the effeotIve pitoh
+of a propeller, is then in the same dlreotion in whioh the wing
+must Stlxndfor the lift to be
+
+O
+
+and whloh we will oall
+
+the dl-
+
+reotion the effective wing. The following values are given
+of
+in Fig.”2:
+
+.
+
+VI
+
+Climbing qpeed of td.rplane;
+
+“%
+
+Vel.ooitywith whioh the air flows through the projection of the aurfaoe swept by the wings In the unit
+of “time. The corresponding values in the propeller
+slip stream are the fo=d
+speed of the propeller
+and the speed tn thepropeller disk;
+.
+Mmuq
+vertioal downward speed of the air, oorrespcmdhg to the maxlmum speed of the slip stream;
+
+%
+
+1 .—
+
+—..-—
+
+—.
+
+.
+
+...— ——
+
+:-
+
+-- ...
+
+.
+
+-k.
+
+.
+
+V4
+,.-.
+
+Horizontal apead;
+
+“%
+
+True relattve epeed of the wing *O the alr
+
+..
+
+-------------
+
+‘P%
+
+al
+
+-HP*;
+Angle of attaok of ~irp~~e
+eaxth;
+
+u=
+
+Angle of deflection of air
+
+if=
+
+Effeotlve angle of attaak.
+
+The differentpeeds
+s
+cm
+
+be
+
+with
+
+reference
+
+to the
+
+filaments;
+
+oaloulated
+
+by
+
+the oame formulae
+
+as for the propeilecs whereby the total weight of the airplane
+
+corresponds to the propeller thrust.
+..
+
+Tranala%ed by the National Advisory Committee for Aeromautlce.
+.“
+
+.
+
+.
+
+..
+
+1.5
+
+.r
+II
+
+c
+lC
+
+c1
+
+u
+
+29
+
+3Q
+.
+
+Fig. 1.
+
+.
+
+Dire~ti.onof effeotive
+supporting surfaoe.
+A
+
+I
+
+1
+
+.
+
+---
+
+---
+
+-
+
+. . .
+
+.-
+
+.m.
+
+-----
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. ..
+
+. .
+i
+
+. .._
+
+..
+
+.
+
+.——.
+
+.—-.
+
+J
+
+.
+
+,—-
+
+—-
+
+——
+,
+.
+
+“.Y
+
+.1
+
+1
+
+I
+i
+i
+
+\
+
+I*
+
+I
+
+,
+
+i
+
+.
+

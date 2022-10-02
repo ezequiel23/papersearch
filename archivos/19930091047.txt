@@ -1,0 +1,1293 @@
+REPORT No. 20
+AERODYNAMIC COEFFICIENTS AND TRANSFORMATION TABLES
+By
+
+JosmEs.
+
+Member. National Ad-
+
+A3fm
+
+C.ommMtee for Aeronantiu
+
+S91
+
+REPORT
+AERODYNAMIC
+
+NO. 20.
+
+COEFFICIENTS
+
+AND
+
+TRANSFORMATION
+
+TABLES.
+By JOSEPES. km!.
+The probkm of the transformation of numerical values expmmd
+in one system of unit9 into another set or
+km of units frqumtiy
+arises in connection with aerodynamic pro km.
+T
+The followinc brief expkmation, with tables of equivalents in mrious s taus o~units, has been prepared in order to facilitate such
+h d ormation.
+
+FUNDAMENTAL
+AEEODYNAMICAL
+FOIWUIA
+,
+-
+
+F=CflP
+
+where F is the tatal force acting on the aerofoil,
+p is the density of the air,
+S is the area of the aerofoil,
+V is the veIocit~ of the aerofoil rektive to the air and C is an
+abstract number, v
+g for a given aerofoil with its angle of incidence, independent T the choice of units, rovided these are cono
+sistentI ussd for all four quantiticx (F, p, 8 , snd V).
+It fo i ows that the prefmme
+p= FJW(7pP
+Thie .is Oft%uWCitteu
+p= KP, i. e., K= Op
+E one set of units is used in the expression of p and mother in
+that of V, the facts maybe expressed by writing p= R? P.
+The results of experiments axe .vem m MEerent wa in MTerent
+given in
+countries. It is most desirable & at they should #be
+terms of c.
+In what folIomj tables wiR be given for the calculation of C:
+L When Kis gmm in the pubhshed remdts.
+IL When K B given in the ublished mmlts.
+{
+Fornmk will then be ‘vmat~which, Imowing 0, the pressure p
+or total force F maybe c%nd
+393
+
+.-
+
+394
+
+REPORT NATIONAL ADVIEJ3EYCOMM~E
+
+FOE AERONAUTICS.
+
+1. If K is given in French Tables, it is understood, unless the contrary ia stated, that the units are as follows:
+Unit of resmre “weight of a kilogrmn” per square meter.
+Unit of &nsity,’baeeduponunit of mass based upon—
+unit of /orce “weight of a kilogram;”
+unit of lengtk, meter;
+unit of time, second;
+unit of volume, cubio meter.
+Unit of velocity, meter er second.
+Hence p, the density, is equ3 to 0.125, provided the air is dry, at
+15.6° C. (60° F.) and under 76 cm. of mercury pressure.
+Hence C= 8X.
+If the air is at another temperature or pressure, correction must be
+made as indicated in the section on such corrections.
+z if K is given in American Tabk, it is understood, unless the
+contrar is stated, that the following units are used:
+“weight of a pound” per square foot.
+6 nit ofg
+Utit of ~%i~~bssed upon— ~~
+unit of mass, based uponunitof force ‘ ‘weght of a pound;”
+unit of lengtk, foots
+unit of time, second;
+unit of volume, cubic foot.
+Unit of veloc$y, foot per second.
+Hence p, the denmty, is equal to 0.00238, provided the air is dry,
+at 15.6° C. and under 76 cm. of mercury pressure
+Hence
+C==420.
+2 K
+
+II.
+1, If K’ is given in French Tablw, it is undemtood, unless the
+con
+
+is stated, that the following unite are used:
+nit of ree9ure, “weight of a kilogram” per square meta.
+Unit of # ensity, based upon—
+unit of maw based upon—
+Unit of /OlW3 “weight of a kdOg’I’aIn; ”
+unit of lengtk, meter;
+unit of time, second;
+unit of volume cubic meter.
+Unit of vekwity, ~orrteter per hour.
+Hence
+P = O. 125 for “stndard air. ”
+T
+
+Hence
+
+~’ = OX (). 125X ~&2=
+
+Hence
+
+O ==104.2K’
+
+0.00960.
+
+EE.POETNATZONAL ADVISCEY OOM3DTTEE
+
+FOR AEEONAUTIUS.
+
+395
+
+2. If K’ is givsn in Americsn Tables, it is understood, unless the
+Gontr
+is stated, that the following units are used:
+Y nit of reseure, “weight of a pound” per square foot.
+Unit of. $ OIISity,based U~—
+umt of mass based upon—
+unit of force “weight of a pound;”
+unit of lengt!h, footunit of time, secon d ;
+unit of vohunej cubk foot.
+Unit of mdoci@, mde per hour.
+Ffence
+-0.00238
+P
+
+OX 0.00238 X 5= 2= o.
+oo512a
+()
+
+Hence
+
+,
+
+K’
+
+=
+
+Hems
+
+0’
+
+=195. 3 K’.
+
+Rrenchqaterlls
+
+. . . . . . . . . . . . . . . . “W&Utiak@ram”
+aqlgrameter
+
+AmOdcaI1-
+
+.... . ... . .. ...
+
+1:
+
+......
+
+&125
+
+. .. . .
+
+u wa~ya=fmj,
+
+O.rls
+
+Habk3m
+
+“TK4 c$spnma”.......
+LLW2K!
+%~y~:tiw=.........O.wm
+%
+tit
+t
+
+C-SK.
+km.
+
+21r
+
+::::1
+
+To obtain the ~,
+giVOJl C:
+B fundamontaf formula p= CP~, provid<d units an both ties
+of d equation me tmaident. Hence in such a case, substitute the
+appropmate vahms of C, p} and V. ~ the units are not consistent,
+certain factms must be introduced. The folJowing formuhe give
+the resulte of the substitution for p and this factor for those cmR, binations of units generally used.
+= ox o ~238
+p %reigh t of a pound”
+squsre feet
+(v f’J-Y
+p “we@t of pound’!
+- Cx 0.00512
+square feet
+(’*Y
+p “Weight of a pound”
+square inches
+‘Cx00000165
+(V=d)’
+p ‘ ‘weight of a pound”
+= W 0.0000355 (qg~=y
+square inches
+p “weigit of a kilogram”= ~xo ~5
+.
+square m&rs
+(v:=)
+p “weight of a kilogram”
+~kilometer x
+= CXO.0096
+square meters
+( hour
+)
+For other tits of Msure, caIcuIate pressure by one of these
+ormation tabkw for ressures.
+formuk and use J
+Since the resure is proportional to p, Elese formuke apply only
+fftheairie & , at 15.6” C. snd under 76 om of mercury pressure.
+
+—
+
+—— -—
+.
+
+-—
+
+896
+
+EEPOBT NATIONAL ADVISORY COMMITTEE
+
+~ORREOTION FOR TEMFERATUXE
+
+FOE AERONAUTICS.
+
+AKD )?~ssmtE
+
+037m
+
+ArR.
+
+Tho following formuhe give the valuea of p for oonditiona of prmsure other than standard:
+T8m~tara.
+to
+
+Pm?sura.
+
+c. h (cm.of mercury) p=-xdendy
+
+to
+F.
+
+h (inches of rnercu@ P=~~Xdeneity
+
+at 15.6° C. and 76cm.
+at N.” F. and
+
+30
+in.
+
+Since the pressure on the aerofoil is pro ortional to p, if we know
+the pressure calculated for standard con $ d,ions, and wish to know
+its value under other conditions, we must multiply this calculated
+pressure by the ratio of the densities of the air in the two conditions.
+That is, Awe wish to calculate the ressurewhen the air is at h cm.
+of mercury at to C., we must m u?tiply the value of the presore
+3.79h
+obtainod from the formula of the last seotion by ~m3;
+Or, if we wish to calculate the pressure when the air is at h inches
+of mercury and to F., we must multiply the value of the pressure
+
+l’7.33h
+obtained from the formulas of the last section by ~WO
+
+q
+
+The approximate value of h for different heights above the earth’s
+surface M given in tables.
+If moisture is to be taken into aocmmt in the values of p, reference
+may be made to the Smithsonian Meteorological Tables.
+BAROMETER AND tiTITUDE.
+
+In Tables I and II mare
+given for vmhmsof the barometir as argument th? correspondm~ elevations, assuming for the intermediate
+barometmc column a umform temperature of 50° F. for English measuxes and 0° C. for metric measure; the averagG temperature to be
+anticipated at such elevation, and the elevation corrected for temperature, awumin for the latter a mean value between temperature,
+at the bottom anf the stated value at elevation.
+TRANSFORMATION
+1,Hei@t above earth’s 9WfUC0 determmed by barometer, corrected
+for temperature. Eng&h unite.
+II. Height above earth’s mrface determmed by barometer. corrected
+for temperature. Metic units.
+III. Length eguivalenta.
+W. Area ecpvalenti.
+V. Volume equfvalenta,
+VI. capacity Oquivlllenta.
+
+TABLES.
+
+VII.
+Mm equivalents.
+VIII. Density equivalents.
+LX. Velocity equivalents
+X. Acceleration oquivalenfs.
+XI. Force equivalent.
+XII. &uple equivalenta.
+XIII. Prwmm3 equivalenta.
+XIV. Work equivalent.
+xv. Power equivalantl%
+XVI. Temperature equivslenta
+
+BEPORT NATIONAL AINISOBY OOMMITTEE FOB AEB03SAUTKW.
+
+T-
+
+897
+
+JXJtanpaby bommetm, CQmGtEd
+
+L—E%t@t abcm emth’a mqface tktmnhed
+ture-English tmh.
+
+(=%).
+
+I
+
+“ l=.
+-6L 6
+-!23. o
+
+2?53
+~g
+
+-M. o
+-7.2
+Uo
+
+16760
+K, CaJ
+15,650
+l&m
+
+It!
+14.8
+la 8
+
+i$g
+
+!&LO
+27.0
+6i15
+%2
+87.5
+
+2%
+&m
+S/l&l
+
+4L0
+
+dim
+1,750
+m
+o
+
+43.5
+
+4&o
+4ao
+50.0
+I
+
+colr&f7r
+EikBmIL—E@iit abmeearth’s qfm determined bammetm,
+m
+by
+ita+metnk units.
+
+t-mpem
+_
+
+TULE 111.—Length equivalents.
+M6tem.
+
+lhoh. . . . . . . . . . .
+Afoot . . . . . . . . . . .
+Iy’ara . . . . . . . . .
+Imp.. . . . . . . . .
+IcelltIm6ter._..
+Immr... . . . . . .
+1Hlometfr . . . . .
+lnanucdmik.
+
+I
+
+1
+11
+
+I&
+32.67
+
+%$U
+
+0.C6SW
+1
+
+0.0277
+
+.%2?
+am
+a&!:
+
+0.0!2K4
+
+Oa&3
+
+.304:
+
+J%!
+. .GsOW
+. ~~
+1-i$%!
+
+.CWA
+.-4
+L=
+
+mhm.
+
+J&i
+
+lx
+
+1
+
+1,W.w
+Al
+1,Id
+1,86s
+
+.
+
+——
+
+N-ant&l
+
+398
+
+REPORT NATIONAL ADVISORY COM-MITt@E FOE AERONAUTICS.
+TABLE
+
+IV.—Art.a
+
+gzgrr
+
+Uldts.
+
+equivalent.
+
+Squerefeet.
+
+Isquereineh . . . . . . . . . . . . . . . . . . . . . . .
+Isql.mrefoot . . . . . . . . . . . . . . . . . . . . . . . .
+141
+19qumuyerd . . . . . . . . . . . . . . . . . . . . . .
+1,296
+I square mile . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14que.remster. . . . . . . . . . . . . . . . . . . . . . 1,s49.9
+
+TABLE
+
+a an77;
+
+27,877:~
+.-
+
+$~:
+
+~:
+
+m@.
+
+o.W944
+1
+
+o.cy2491 o. fw52
+.0r3.w
+.%
+.G322s
+1 2, 6s9,w
+1
+.Ck3$dl
+
+a,W7,63!
+LlS8
+
+Volume .cqAaknfa.
+
+V.—
+
+Cubic
+jnchw.
+
+W4ts.
+
+~-
+
+CnMc feet.
+
+1
+
+leuMehwh . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+..
+Icabfcfcmt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+lcobfoysrd . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Icublacentfmetm . . . . . . . . . . . . . . . . . . . . . . . . .
+lcnblcmetm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+~bh
+
+a M7S7
+1
+
+4k i%
+.mm
+01,an
+
+Cu.!timmn
+
+o+zz~
+
+.031K
+86.814
+
+la. 89
+2%,817
+764,
+~
+
+. Wlao:
+1.9079
+
+C!ubfc
+meters.
+0.04163s
+.U2632
+. Zulus
+
+l, CKO,
+!DJ
+
+1
+
+-H-l
+TABLE
+
+Units.
+
+Cubic
+fnchss.
+
+Flaid
+alum,
+0.654:
+
+Icubiofnch . . . . . . . .
+lflrddmnce... .. . . .
+
+1.8)46
+
+W&ririilii:::::::
+
+~;?
+
+%fE?8-LjH:::
+1
+lon(Impafsf).
+1 P @r... . . . . . . . . . . .
+
+~~
+.
+
+VI. —Capaci@”iijuivalen#8.
+~m
+
+L##
+
+ang
+
+~
+
+Llqufd
+-
+
+a8466
+;
+
+Omol
+
+.?
+
+a(usms
+
+“y
+
+Gnllcms
+(Imwkd).
+~E6
+
+‘%J
+
+.
+rl&&
+
+:$
+
+L 20;
+.X49
+
+1%%
+
+*h.
+O.oltml
+
+%%J
+..43266
+
+I!a!a
+.
+
+TABLE
+
+. i%%
+.473187
+.9468
+8.766
+4.645!
+
+. !4L$7:
+
+equitdenfa
+
+VH.—dfam
+
+ounces.
+lhita.
+
+Qwnls
+OJ. W.
+
+Prnmds.
+
+KllogT4me.
+
+Avofrdtrfxis
+
+Kotric.
+
+Short.
+
+I& 482 22.160 36.!2m !2.6792 2.W46
+1 .?
+.02z& .&&6
+..l%l#
+48%
+t%’
+I*
+16,!&”
+
+1 :076y
+.m6
+“
+12 Ia. 17
+14.6B3
+16 1.2162
+!2q167 a2,m.
+& 481
+J%
+
+t ‘a
+
+24
+
+$%
+
+.Oollm
+.0f7148
+.Ol?.m
+.0225 JM!M:
+.li2!a9
+my
+a, d
+.?,?40
+Jig
+%X6
+
+.Wa4i
+
+Maw unif4 U4tdby clQhWT8.
+A. En@sb eystarm:
+Unft of mese=fl pamde, where # Is the em%feratfcm
+due to gravfty.
+~
+~ feot+fmmdemtsm, ~t of mess-32.14 winds; givelt erbftrery wmhol fh.
+on mllshour syetcm, tit of mess-78$33 pmmcfq g4veitarl-Atrary
+egmbel IZ.
+B. lkenoh
+
+Urdtf Snwi-m)
+o
+
+ludto*m8s..?CJ%%gR%e!gJ%’!ft%AK%%%ll
+
+2
+
+,
+
+REPORT 2TAT’IONAL
+ADVISORY
+
+TABLE VIJ.I.-lknsi&
+
+lgmm
+rcubfccentbneter
+F
+~pdpsrcubxlkk~::..
+
+:ij&r&&cyfb&
+.
+
+.Ouaa
+IQ&6
+
+..
+
+pJi&
+
+Kstera
+
+Meks
+
+‘Y
+.
+
+1,m
+
+T
+
+.01
+0.6
+L
+.01667 Y
+.2778 16.67
+.8046 la .29
+.Q3s08
+.s049
+.4470 %.82
+.614’a7 ao.w
+
+Tum
+
+~06!&
+.
+
+!231
+
+:=
+
+T“
+119.64s
+
+m
+O.w
+8.6
+.m
+1
+L097
+.Um?a
+L609
+L 8S35?
+
+L=
+Om.%1
+196.63
+a. 261
+.Wi66
+.911X
+6$%
+1
+.01667
+L
+L467
+L6%44 1%7
+
+1
+
+pl#a
+
+;0!#7
+:W7?8
+. a414
+.W6
+. OHM
+1
+L lb165
+
+kt3z37
+.m.9w
+.697.09
+.009s7
+
+.s6.s39
+
+1
+
+-
+
+X.—Acceleratism equinalenfs.
+
+--l
+
+. . . . . . . . . . . . . . . . . . . . . . . ---------------. . .. . . . . . . .. .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..-
+
+TMJUZ XL—POW equis,denfs.
+
+TABmi XK-C+ple
+
+equitdem%.
+
+1 Hkssml-mster-723a pOml&fWt.
+1 p@md-fc?3t.o.lsEs K@rml-mstsr.
+
+.
+
+6.34s
+
+!m. m
+
+se%
+mf%e.
+
+S!ccJl&
+
+p~
+p~
+
+6Z42
+
+.osmS7
+.cmem
+-_
+
+“:f:~-
+
+%%%%r
+
+‘%%%%
+
+p513
+
+2+.06
+
+units.
+
+lmekp-~~
+lfmp.
+ltie~h.
+
+equiraknta.
+
+Posmds per
+G~b+’=
+mbie hleh.
+C4?Mnrster.
+
+units.
+
+399
+
+COMMITTEE FOB AEEONAUTIOS.
+
+As
+
+44.70
+
+p61
+
+.-
+
+o.ci2m
+yi616
+
+L467
+
+400
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+TABLE
+
+XIII.
+
+-Prass.F7e@ivaknts.
+
+MSgabere1
+0
+megedynes
+P w~
+Wntimster.
+
+Untts.
+
+1*lgrmn peraquaree4mtlmeiJw%i%r?- ‘“
+...........
+I
+....... ................ ....
+1ki@rarn per square mew...
+lrmnndDereqnsrefpeh.. . . . . .
+.
+. ... . ..—.
+1 und peraquaremolt... . . . . .
+h... ...
+Irwtonpersqueretiol
+rt.
+1long ton per square fms . . . . .
+Iatmwphere . . . . . . . . . . . . . . . . ..l
+.......... ... .
+.,—.
+. ...tifi ~$p . . . . . . . . . . . . . . .
+.
+lmeter . . . . . . . . . . . . . . . . .
+
+Watar pal . . . .. . . .. . . . . . . . .
+.
+... ... .. . ... .. ... .
+{
+
+I
+
+L 0197
+
+.Wo7
+. . . . . .. . ..K
+.............
+.............
+. . . . . .. . . . . . .
+L 013S
+1.3
+533
+.U
+.Ob
+
+.cd
+.O%lw
+
+10,U7
+
+1
+
+I
+
+14.m
+
+1-
+
+,
+
+1
+
+I
+
+..........
+
+2,C.SS
+
+14.22
+2,047.8
+..........
+. mg
+144
+1
+.Mo94
+I
+.......... ............
+. . . .. . . . . . . . . .. . . . . . . .
+14.70
+9,116.8
+19.34
+2,7$t.9
+.4912
+70.722
+L 421
+204.62
+. 03t?f2
+4.%
+.4232
+
+1
+Io,y
+. . . . . . .. . . .
+.Uiu31
+m. 1
+...........
+km
+167.6
+l#76JJW
+. . . . . . . .. . . . .. . . . . . . . . . .
+1.Cw6
+10,a63
+1.UW6
+18,686
+.03463
+346.8
+.09991
+9WJ;
+.032238
+. W346
+204:6
+
+0.W6Ms
+. . . . .. . . . .
+..........
+..........
+1
+. . .. . . . . . .
+.
+..........
+..........
+..........
+..........
+. . . .. . . . . .
+... .......
+1
+
+I
+
+f
+
+J
+
+Feet.
+
+E-lahw..
+
+L.w
+..---%YiEiksiii!RL-tE”
+
+0.7W
+
+1%%=
+G;”&tii.Gt-e-r-.-...:
+Ipoundpor equsreinch . . . . . . . .
+1 tmdperequare fret . . . . . . . .
+1 $’
+ongtonpsrsquere inch . . . . . .
+1long ton per equare foot . . . . . .
+latmmphme.. . . . . . . . . . . . . . . . . .
+Msr’c@
+
+g;:....:.-.-..:.-:..:::::
+I meter . . . . . . . . . . . . . . . . .
+Water linrh . . . . . . . . . . . . . . . . . .
+{ lfwt . . . . . . . . . . . . . . . . . . .
+
+........
+-------........
+........
+. . . ----. .. . . . . .
+--------
+
+. %78
+. ------. Ooxll
+... .....
+........
+........
+--------
+
+::::::::
+........
+-------........
+
+::::::::
+..- . . ....-- . . . .
+--------
+
+TABLE
+
+XIV.
+
+29.4S
+
+26.96
+’11266
+. . . . ..#.G--i.. .-i%...
+
+10.21
+.!;.:Gi.
+
+. . . . . . . . . . . ..- . . . . . . . ..- . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . ..- --------. . . . ...%.....
+ii,%...
+.ii.ir..
+
+—Work
+
+1
+8937
+.02s4
+. 0?349
+L3Z4
+. Ool$os
+:g:(l
+.02%0
+
+40L8
+
+894
+
+.0m7
+
+n.70
+.
+mn
+
+I 62.48
+
+.;:!$
+
+:01602
+. . . . .. . . . . . .. . . . . . .
+
+.... ...... ..... ....
+
+407.2
+W. 61
+636.7
+lkel
+.6466
+y 87
+1
+.02644
+,W8
+12
+
+83.98
+44.6*
+L L34
+9.261
+.W33d
+1
+
+—
+.or energy
+
+equivalents.
+
+..
+Unft%
+
+1 oak!. . . . . . . . . . . . . .
+1 ogremmeter...
+lfoot-pound . . . . . . . .
+Ildmtthollr.....
+; O..lywrlrmlr
+
+Ll
+
+lml or? . . . . . . . ..~~
+e
+lkilomammkrte...
+1Brftlehthermrdmd
+
+.——
+
+BEPOET
+
+NATIONAL AD?ISOBY COMMITTEE FOR AEEONAUTIQS.
+!lkim
+
+XV.-P0uer
+
+401
+
+quivaknk
+
+.—
+Chewd
+
+units.
+
+Hcus3power
+
+Kuo-
+
+Yapmr
+
+Iw.erknc+
+
+i%%
+
+Watts
+parer.
+
+llllmSpOW-w. . . . . . . . . . . . . . .
+lkuom’ott . . . . . . . . . . . . . . . . . .
+
+1
+
+S.d 0.7467
+1
+=t=
+ii% S&%
+
+.ml&a
+
+.M!LS
+r.m
+&d
+
+Lls
+
+....................
+-1
+291&50+. Dec. l%,
+
+L 414
+
+txi-~
+
+0. ri%s
+. 2WI
+.1760
+.00!Bi4
+.CW241
+1
+
+ml
+
+.25XI
+
+.Colm
+
+hall
+
+~*6
+
+1.432.
+
+1
+
+IG?.Li
+
+0.7074
+.MS3
+.&
+.ml!iS5
+S.ws
+1
+
+Is
+
+Dw.
+.29166”-9.121,113-2.(1% [oI1oWp~e
+
+401.)
+
+FAHRENHEIT
+

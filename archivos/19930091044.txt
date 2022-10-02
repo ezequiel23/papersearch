@@ -1,0 +1,8680 @@
+c
+o
+
+,. o.
+
+_7
+
+IN FOUR PARTS
+
+AN INVESTIGAT ON Oli' TEE E S _ NTS W I CH
+CONTRIBUTE TO STA~""Cf-_.u lu
+DYN _ CA
+STABIL TY, AND OF THE
+0'..uC':'S OF V_ RIA ON
+J..
+
+!7
+
+IN TROS
+
+]I
+
+By ALEXAND ER K LEMIN
+In.rtructor in Aeronautical Enoineerinf}
+
+1I
+
+ill
+r;
+
+AND
+
+EDWARD P . WARNER and GEORGE M. DEKKINGER
+.A..si.ta~ in Aeronautical Enllineerinu
+
+:r
+
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+CAMBRIDGE, II ASS.
+
+2DI05°--~.Doc.123, 05-2____18
+
+n
+I
+
+!B
+
+273
+
+CON
+
+NTS OF
+
+EPORT NO. 17.
+
+PART!.
+hrnoDUCToRy.-Details of models tested and methods of testing- Test of Page.
+Eifiel 36 wing alone-Characteristics and performance curves for standard
+JN2. .................... . ... ....... .. . .... ... .. . ..... .... .. . . . ... ...... 277
+P~~T
+
+n.
+
+A:-;ALYSIS .-Lift and drag contributed by body and chassis tested
+",ilhollt wings-Lift and drag contributed by t.1.il, tested without wingsThe eiiecton lift and drift of interference betv.-een the 'Dngs of a biplane comtlillation-Lift and drag contributed by the addition of body, chassis, and
+t.:;il to a biplane combmation- Total parasite resistance-Effect of varying
+oize of uil, keeping angle of setting constant-Effect of varying length of
+body and size ofuil at the same time, keeping constant moment of tail surf:J.ce about the center of gravitY- A qUantitati\"e discussion of the forces on the
+tail and the effects of downwash- Effect of si%o and otting of tail on statical
+IOllgituclinal stability-Effects of length of body on stability- The effects of
+the various elements of an airplane on longitudinal stability and the placing
+of tho force vectors . .. ... " .. '" .... ....... . ... " .... " " . . ' " ... .... " . .
+
+SrA'neAL
+
+17
+]I
+
+17
+285
+
+P ART II.
+
+ill
+17
+
+Dn';A)!ICAL A;)TALYSIS.- Fundamental Principles o· dynamical stabilitY- Com_
+putations of resistance derivatives-Solution of the stability equation- Dy_
+mrnical stability of the Curtiss JK2-TabuIation of resistance derivatives_
+Discu . non of the resistance derivatives-Formation and solution of stability
+equations-Physical conceptions of the resistan ce derivatives-Elements
+contributing to damping-An investigation of low speed conditions. ....... .
+
+]I
+
+18
+317
+
+PART IV.
+umfARmS.-Summary of results of statical investigation-Summary of results
+for dynamic stability. .............. . ........ ... .........................
+
+275
+
+339
+
+No.7.
+PART I .
+
+By ALEXA~DER
+
+KLEMD<
+
+and
+EDWARD
+
+P.
+
+WARNER
+
+and
+
+GEORGE
+
+!If.
+
+DENKINGER .
+
+.INTRODUCTION.
+This report is the result of experiments conducted at the aerodynamical In.boratory of the Massachusetts Institute of Technology
+during the summer of 1917. The work is divided into two sections,
+the first dealing with static, the second with dynamic, effects. The
+outlines of the statical experimentation were determined after consultation with Lieut. Col. V. E . Clark, to whom the authors' best
+thanks are due.
+The work on statical conditions, in turn, falls under two heads.
+In the first place, working from the lift, drag, and performance
+curves of a standard military tractor biplane as a basis, the portion
+which each element of the machine contributes to the lift and dra~
+forc'es was determined by testing each element separateJy and in all
+combinations of special interest. As a continuation of this work the
+lcngLh of body, size of tail, and angular setting of the same were
+varied, changing one at a time, thus determining the effect of any
+such chan~es on the lift and drag. Incidentally it has b.een possible
+to seGure data on the down wash from the wings and its effect on the
+f01"('es contributed by the tail.
+Secondly, by computing the moments about the center of gravity
+of Lhe machine due to the air pressure on each element, a vector
+dingrnm for the airplane can be built up from its component parts,
+1 neI rules can be lllld down for the travel of the vectors and for the
+ini{'iaJ balancing up of the machine without the necessity of a wind
+tllllllel test in the very early stao-es of a desirn. Moments about the
+cen tel" of gravity were also caIcu1ated for each of the changes in size,
+~Ct,iillg, etc., of the tail surfaces, in order to secure definite data on
+the efrect of such ehanges on the statical stability of the airplane.
+The second main seetion deals with dynamical stability. The
+rr.
+.;;istnnce derivatives and damping moments were determined for
+r, cll of the cases, and the length of period and time required to damp
+io a certain degree were thus calculated, giving the effect of variations
+in tho tnil surface on the safety and comfort of the airplane, so far as
+the longitudinal motion is concerned. Some progress was also made
+in findlog the propor tion of damping contributed by the various
+parts of the machine.
+277
+
+17
+J[
+
+n
+]I
+
+17
+
+.IE
+
+lB
+J,-)
+
+278
+
+REPORT ::\ATIO~AL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+DETAILS OF MODELS TESTED AND METHODS OF TESTL -G.
+
+The standard machine selected for investigation was a Curtiss
+
+JN2 advanced training machine, this type being selected because so
+much similar work had already been done on it by Dr. J. C. Hunsaker.
+Drawings of the machine are shown in figure 1, and a table of dimensions is given herewith :
+
+/
+
+Weight fully loaded .......................... _. .... .... -. _.... _.... pounds .. 1,800
+
+Kif;?~~~;.~:.:.:.:.:.:.~ ~':':'.-':': ~:::::::::: ~:::: :.~.~.~.~.~: .~:.~.~.~.~:.~:: ::.~.~ .~.~j~~~::
+
+no
+
+Gap between wings ........... ... ..... . .. · ..... ····.··.·· .. ·····.·· · .do .. . .
+
+36
+5.0
+5.0
+
+Area or wings . ... ........... , . __ , _.... ............... _.......... square feet ..
+Area horizontal tail surface .......... . _... _" _. .. ... . .. .... - . .......... do ... .
+Area vertical tail surface .................................. .. ....... . . . d o ... .
+Wing curve ..... _......... _............... __ . _.. - ... ......... - ...... Ei tieL .
+
+26.0
+364
+42.0
+7.8
+36
+
+~;:th '~i b~dY'.'.·.·.·'-·:::'- .-.-.- .- .- .- .- .- .-.-.- :: ::: :::::::::::::: ::: :::: :: :::::~~: :::
+
+1.0
+
+REPORT NATIONAL ADVISORY COl\DIITTEE FOR AERO~AUTICS .
+
+279
+
+w
+0::
+
+:::>
+<.:)
+
+I..!..
+
+~..,
+
+~
+
+t>
+
+~
+"-
+
+..
+..
+
+17
+
+~
+v
+
+'::l
+
+r;
+
+<::. 0
+
+Ht
+,
+~~
+~
+
+"
+
+m
+/7
+
+II
+
+18
+/;
+T
+
+280
+
+REPORT NATIO N AL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+I
+
+I
+2
+uJ
+
+a::
+
+::::>
+
+0
+
+ii:
+
+.....
+
+I
+
+I
+
+I
+I
+
+(
+
+\-
+
+i
+!
+
+I
+
+I
+
+/ C~l~
+
+..
+
+~
+
+-
+
+' i?
+C~
+
+.~
+
+,
+, ,
+
+.
+
+<\
+~
+
+~ ..
+
+,
+
+I
+
+I
+
+-C'i
+
+ci
+~
+
+17
+]I
+
+n
+TIl
+r7
+
+Jil
+
+18
+
+I
+
+/
+2S()-1
+
+r-~
+
+•
+
+f
+
+'.~'
+~..
+
+;
+
+-.
+',:'
+
+..
+
+: SO-2
+
+-~-~-----
+
+-
+
+-----.~ ~l
+
+o .
+
+,.
+
+o
+
+!7
+
+rr.
+
+fl
+
+c
+
+ill
+17
+N
+
+18
+I
+
+I
+
+I
+(.
+'I
+
+,
+
+1
+
+I
+I
+
+---.-.-~.- -~~
+
+19
+
+REPORT XATIO~AL ADVISORY CO::\DUTTEE FOR AERO~AUTICS .
+
+281
+
+The model was ma.de to a soale of one-half inch to a foot. The
+wings were made of aluminum, thus combining lightncss with the
+gT<:'lltest possible accuracy of working and freedom from warping.
+They were machined roughly and then scraped by hand to the
+desired section, the working tolerance being 0.003 inch. The tail
+surfnces were made of brass, and were simply cut from a sheet
+1\ inch thick, no attempt being made to reproduce exactly the
+camber of the tail on the actual machine. The body was made of
+pine, and the chassis was built up from brass wire, with solid wood
+wheels. The win~ were maininin<:'d in their proper position with
+respect to each otner by 12 roun struts 0.0 7 inch in diameter, and
+made of steel wITe. In order to prevent the struts from working loose
+in the aluminum wings steel bushings were pressed into the wing
+planes, and these bushings were drilled and tapped to take the ends
+of the wire struts. By threading these struts oppositely on their two
+ends, an easy and delicate means of adjustment was provided for
+the elimination of any decal age or warp in the wing cellule. No
+bracing wires were usedl and the propeller was not in place during
+the tests. It has been round that a model thus made gives results
+comparable with those fo the full-sized machine, the
+due to the
+omission of wires nd propeller being counterbala.nced by the loss
+caused by the use of round, instead of stream-line, struts. The wings
+were made in the shop of ~ir. George F. Day, and under his supervision. Other parts of the model were constructed, and the assembly
+was carried out, by:Mr. W. H. Phillips, nd by Messrs. Carl Selig and
+Edward Tighe, model and instrument makers at the Institute of
+Technology.
+In order to make it possible to vary the length of the body, and
+conscquently the moment arm of the tail, the body was sawn in two
+just behind the rear cockpit, and the two portions were dowelled
+together. Two· additional rear halves wero then made so that either
+could be fitted on in place of the standard one, their lengths being
+such as to make the distance from the center of gravity of the machine
+to the leading edge of the tail 10 per cent ~reater and 10 per cent less,
+resprctively, than in the standard mac11ine. 1\'10 additional tail
+su rfacrs were also made up, geometrically similar to that normally
+used, but one 10 per cent larger, the other 10 per cent smaller. The
+three bodies are hereinafter refelTed to as long, medium (standard
+J;{- 2), and short, and the three tails, which were tested in various
+combinations with them, as large, medium ( tandard J~-2), and
+small. Figures 2 and 3 show the model with medium body, and
+figu re 4- illustrates the three bodies and tails.
+The static tests were carried out in the customary fashion, the
+forces being measured by weighin~ on the aerodynamic balance, to
+pitching moments by the torslOnal strain which had to be set up in
+a clllibrated wITe in order to balance them. The apparatus, and the
+method of procedure, has been described in dctail elsewhere.1 All
+static tests were made with a wind speed of 30 miles per hour which
+has been found to give the best results in the 1Iassachusetts Institute
+of Technology laboratory. The method of testing for damping, and
+calcuIa.tinO' the dynamic stability, will be taken up in connection
+with the iliscussion of the results obtained under those heads.
+
+I
+
+gam
+
+I
+
+Tho New Four·Poot Wind Channel, "ith a DeSCription of the Weighing Mechanism ; Report of tho
+
+Dr!lish Advisory Committee for AeronaUtics, 1912-13, pp. Stl-7I.
+
+17
+
+T.
+
+17
+
+.I
+
+lB
+
+282
+
+REPORT XATIOXAL ADVISORY CO:lDHTTEE FOR AEROXAUTICS.
+
+TEST OF EIFFEL 36 "'lNG
+
+ALO~E .
+
+As a preparatory step, a test of the Eillel 36 win~ 'nJone was mad ,
+and the resultant curves (Ky, ][c, ilnd LID) are plOtted in figure 5.
+Each of the two winO's was tested separately, the results checking
+within 2 per cent at all points, and within 1 per cent at practically all
+angles, indicating that the accur':lCY of manufacture was such that the
+
+I
+
+1"o,,,
+l(LOlO
+
+.I
+
+loo;>J\
+
+I'.,fJL£:;J
+
+V
+
+peR /"fR.
+
+.00>2
+
+I /r------.. ~
+
+Jio
+1002D
+
+/
+
+/
+
+~
+
+~O/~
+
+e
+
+1
+/
+
+00161G
+
+II
+
+II"
+
+V
+
+\
+"" 1\
+
+0012 12.
+
+.00
+_04
+
+\1
+
+1 II
+
+.fL
+
+.z
+
+. -
+
+0
+
+.
+
+I
+.
+
+..--- ,-/
+.
+
+/
+
+/
+
+~/
+
+I.ooas
+
+I
+/1
+
+.0007
+
+LaoS
+L~?;
+io?004
+
+I""\
+
+0003_
+
+I
+
+"1
+'-+
+
+~
+
+.
+
+10
+
+. .
+
+lJe
+
+14
+
+1.0010
+
+loQ09
+
+V
+
+/
+
+I
+.0002
+
+II
+,L~
+
+.0010 10
+
+.0006
+
+L,
+
+I
+
+I
+
+/ II I
+/V I
+I
+VI
+I
+)/1 I
+If
+
+001<;114-
+
+\
+
+I
+
+I
+
+I
+
+.00D.5 8
+
+\
+
+I
+
+I
+
+I
+
+"\
+
+1+11 I
+
+CURV~:S
+F~~ £"'£L.76~,M;
+
+{.//'·urs: '-B:J.P~RSQ.FJ;
+~
+
+~,
+
+V
+
+C/yARACT,,,...q/;ST/G
+
+~
+
+>---......
+
+//
+
+. .
+
+16
+
+1/3
+
+10002
+1
+.0001
+
+<0·
+
+FIG. 5.
+
+variations in profile exerted a n~ligible influence on the l1erodynamic
+characteristics of the wing. The performance was exceptionally
+O'ood, the maximum E ll being 0.00315 and the h ighest LID 2l.
+~he good LID is in 1 rge part chargeable to the raked winO's, the high
+aspect ratio (7.2), and the slightly flattened tips, due to t~e presence
+of the ailerons. The corresponding values secured by E iffel 1 for
+1
+
+Nouvolles Recherches sur In Rcsistancc de I' Air et I' Aviation, oJy G. EiJIe!.
+
+REP ORT N ATIONAL ADVISORY CO:vrMITTEE F OR AERONAUTICS .
+
+283
+
+this wing were 0.00295 and 16.1. The discrepancy seems unjustifiably
+especially as the E iffel tes(;s were made under the better conditlOns u.s regards the speed of 'Wind and size of model.
+
+hr~eJ
+
+CHARACTERISTICS AND PERFORMAN CE CURVES FOR STANDARD IN-2.
+
+,6
+
+;p
+
+.,
+
+Cf.fA RACT£.RIS
+....
+<>~
+
+=
+
+IN.e
+
+3TANO/fRD
+
+I
+
+I
+
+CU.RV~
+
+"
+
+r7
+
+I
+
+-..... '"---...., ' -
+
+L
+/1
+
+rl
+ro
+
+I
+
+'I
+
+\)
+
+-~
+
+l/"l
+
+v
+
+.J!
+
+/ 10.6
+
+/
+
+/
+
+I
+
+/
+
+V
+
+o 9 J(a
+
+/
+
+A
+
+7
+
+/;V
+
+6 6
+
+j
+
+14
+
+I
+
+~3
+
+"
+
+.....
+~
+
+I
+
+()
+
+J
+
+/
+
+/
+
+II
+
+ill
+:"
+
+/ 1\
+
+\
+
+/
+
+0
+
+17
+
+.TIl
+c2.
+
+:~
+
+IB
+
+. . . . . . . r-
+
+19
+
+. . .e. . .
+
+-,e
+
+0
+
+~
+
+ANOL'::::
+
+/
+
+,,4
+
+/
+
+4"
+
+/
+
+J(
+
+,.--' ~
+
+>......JL
+I
+
+I
+V
+./
+
+17
+
+I
+
+~
+
+1/
+
+o 5 ,-
+
+1#
+I
+I -..... ~
+
+/ >/p) /
+
+"1
+
+,..-
+
+,./
+
+6
+
+.
+
+(J
+
+/0·
+
+. .
+
+/2
+
+0'" ~NI9' CdORO
+
+14
+
+16
+
+.
+
+. ..
+
+II!:>
+
+,eo
+
+,
+
+To J'Y/,vo
+
+FIG. 6.
+
+Figures 6 and 7 represent, respectively, the characteristic curves
+lift
+(lift, drag, and -dr ) and the performance curves for the standard
+ag
+mfl.chine with the customary tail setting ( - 3} 0 to the wing chord) .
+The angle of zero lift for the complete machine is - 4} 0, whereas that
+for the single Eiffel 36 wing is - 60 • The burble point for the com-
+
+284
+
+REPORT NATIONAL ADVISORY CO:\DlITl'EE FOR AERONAUTICS.
+
+plete machine is at 15°, the maximum lift being 1.69 pounds. The
+bre:1k in the curve just at the burble point is somewhat more abrupt
+than the corresponding bend for the wing section alone, but the
+falling away at higher angles is less rapid. The ma..-ximum L/D is
+7.8, at n°, and the minimum dr: is 0.105 pound, at _ 1°.
+The characteristics thus obtaine~ furnish the basis for the computation of the performance curves. The speed required for sustentation
+and the lift on a model of 1/24 scale at 30 miles per hour and a like
+('f
+
+angle of incidence arc connected by the formula : V
+TV = 1,800 pounds, V = ~ 55 03 .
+
+i
+
+=
+
+~~.J ~, or, for
+
+A curve of angle of incidence
+
+against speed may be plotted from values thus obtained, and shows
+that the minimum speed possible is just below 41 miles per hour,
+
+I
+I
+I,~
+
+,
+
+(""
+~
+
+IL~
+
+~
+
+L
+
+.
+~
+
+'''''' I~
+" \
+
+'"
+~
+
+ii
+~
+
+~
+
+,
+
+I~
+I~
+
+../
+
+.. \ '"
+"
+I
+
+'(
+
+\
+
+I ~ .---;; ~
+
+1
+
+\.
+
+~
+
+I
+
+"
+
+--
+
+~
+
+v
+
+... .:J
+
+kJ
+!dr
+
+Fro. 7.
+
+~
+
+V
+
+-,,'v
+
+/'
+
+V
+
+1I
+P~I"t'ORMANC~ C~RVC.:J
+
+,-""
+
+r'o~
+
+~
+
+A~
+
+1<0
+
+~ pYJp
+
+P'
+
+V
+
+/
+
+1
+/
+
+~r"'NDAAD
+
+f--
+
+J Nc!'
+
+I
+~
+'LC
+
+~'-
+
+"""''''
+"
+
+<JR.
+
+.....
+
+and that an angle of incidence of 0° con-esponds to a speed of 74
+miles per hour, which is about the usual performance of this type of
+machine. Points on the curve of drag against speed are secured by
+'dividing the weight of the machine by the L/D at any given angle of
+incidence, and laying off the resultant at the speed appropriate to
+the angle of incidence in question. The minimum reSIstance is 230
+pounds at 47 miles per hour, and indicates a best gliding angle of 1
+in 7.8. The minimum horsepower required is 28, at 45 miles per
+hour. With an engine developing slightly over 90 horsepower, such
+as was used in this machine, and a propeller efficiency of 80 per cent,
+a speed of 74 miles per hour should be secured. The angle of incidence at the maximum speed 'will then be 0°. Dr. J . O. Hunsaker
+found 1 a maximum speed of 73 miles per hour for this machine, using
+a different model, with wooden wings.
+I E""pcrimcntal Analysis of Inherent Longitudinal Stability for a Typical Biplane; First Annual Rcport
+ofthe National Advisory Committee for AcronuULies, p, 33.
+
+o
+PA T
+
+7.
+
+II.
+
+S ATICAL AN LYSIS.
+By
+
+ALEXANDER KLEMIl>
+
+and
+
+EDWARD
+
+P.
+
+WARXER
+
+and
+
+GEORGE
+
+M.
+
+DENKnmlm.
+
+LIFT AND DRAG CONTRIBUTED BY BODY AND CHASSIS, TESTED WITHOUT WINGS.
+
+•
+
+This series of e:\:periments comprised tests of each of the three
+bodies alone, of the medium tail alone, of the medium body with
+chnssis attached, and of the medium body with chassis and medium
+t'lil.
+'
+A comparison of the tests of the three bodies indicates nothing
+except that such changes as were made in length of body affect
+neither lift nor drag to an extent affecting n.erodynamic efficiency
+in design. The curves drawn for tl e three cross and recross in a
+highly lrregular fashion, the difference between them always lying
+well within the limits of probable experimental error, which error is,
+of ('ourse, a relatively large percentage of the force involved when
+that force is very small.
+In figure 8 is plotted the lift of the body and the lift due to chassis
+alone when in combination with body (obtained by subtracting the
+lift of the body alone from the lift of body and chassis together) .
+In figure 9 are given the corresponding curves for resistance. The
+points marked on the body curves are those obtained for the medium
+body.
+The lift due to the body is zero at + to (all angles referred to the
+line of the top longerons as datum) . It is nearly directly proportional
+to n.ngle at all angles from - 8° to + 30° (i. e., the lift curve is virtunlly a straight line) . It shows a tendency, however, to increase
+ruther more rapidly at large angles than at small. It should never
+be forgotten that these values for lift, as well as those for resistance
+due to the body, will be materially modified by the addition of the
+wing:->, the do",-uwash from which members will decrease the lift.
+The quantitative values of this effect ,\ill be discussed later.
+The lift due to the chnssis is always positive and is virtually
+constant. Although no test was made on the chassis alone, the
+natural assumption is that the apparent chassis lift is the result of
+the formation of eddies and screening of the rear portion of the body,
+and that there is no dynamic lift on the chassis itself. This efJect
+is hardly worth considering on the full-scale machine, the lift from
+this source being always less than 5 pounds.
+285
+
+!7
+]I
+
+n
+ill
+17
+
+nz
+IB
+
+286
+
+REPORT TATIOKAL ADVISORY CO:\DlITTEE FOR AERONAUTICS.
+
+The resistance of the body is, as would be expected, :1 minimum
+at 0° and increases rapidly lLnd almost symmetrically with any
+change of angle in either direction. The resistance due to the
+chassis, on the other hand, is lea<;t at a large negative a.ngle, where
+the chassis is screened by the forward portion of the body, and
+
+1
+
+I
+
+In .....
+
+<:)
+
+~
+
+I
+
+I.no
+
+I
+
+I~.
+
+I
+
+1m
+1!l6
+L,":-r:s
+
+PA ;'? r~ A L.
+
+I-aL-
+
+)L
+
+~
+
+-'-,,.,,.,.
+
+0 '"
+
+/""'O ""'~A $~
+
+77J
+
+I
+
+t::!J o~ y
+
+,_
+
+.,t..,,,r
+
+,e
+ll""./:
+
+I
+
+GAlA S$, S
+
+I
+
+0'
+
+I
+
+Ill~
+
+,-
+
+--I
+
+L'ol
+
+---1--!----"
+-
+
+0 /
+
+I
+
+..---[:::::::--
+
+...-
+
+f...--' k---'
+
+1..-/V
+
+V
+
+V
+
+I
+
+~
+
+I
+
+I
+
+0"
+
+I
+
+I
+
+1
+
+,~
+
+I
+
+r.
+
+'n.;"
+
+I"",
+
+I
+I
+
+,,..
+
+.
+
+~.
+
+-b'
+
+A N Le:.
+,.
+1o·
+
+Iw'r~
+....
+
+1
+,0'",,"
+
+L;.0fV
+
+'O",;"<:t.
+
+L
+
+I&. ..
+
+18
+
+.
+
+La.·
+
+FIG. S.
+
+increases at :1 decreasing rate up to an angle (referred to the top
+longerons) of about 2°. After this it is virtua.lly constant until a.n
+angle of ~6° is reached, where it begins to fall off again. The maximum r eSIstance due t o the chassis is practically identical with the
+minimum resistance of the body.
+.
+
+REPORT NATIO~AL ADVISORY CO:.'lDI ITTEE FOR .4..ERON
+AUT.rCS .
+
+LIFT AJ.'lD DRAG
+
+CO~TRIBUTED
+
+287
+
+BY TAIL, TESTED WITHO UT WL'l"GS .
+
+In figure 10 are plotted the lift and drag of the mediu m tail
+and of the mediu m tail when in combination with the bodyalone
+chassis . The latter fi~ures wore obtain ed by a metho d of differen and
+ces]
+nnlogous to that usca for finding the lift nd drag due to the chassis
+.
+
+...
+\,
+
+0"'-
+
+,,.
+. ~
+
+:;
+
+,
+
+I,,~o
+
+P.dRTI,'/~~:S
+,~~
+
+x
+A
+
+L!!3o.tOY
+
+/
+
+C HAS:f/$,..
+
+I"""",
+
+I
+
+'4
+
+j '
+
+I I/V
+V
+
+1"-,,
+
+I
+
+.~
+
+•
+
+,.
+
+...........
+
+~
+
+,~
+
+....---'
+
+,....V
+
+........ "'--.; ,...-/.
+
+_
+.....
+
+;
+
+",-
+
+I
+
+/
+
+.
+~o,
+
+~
+
+Y
+
+V
+
+!7
+
+IB
+I
+
+I
+
+No....
+
+°
+
+I
+I
+
+I
+
+~
+
+"
+'",.
+
+J
+
+.
+
+. z·
+
+AN
+
+o·
+
+•
+
+..
+
+,LS
+
+.'
+
+w/7'
+
+k<-
+
+.
+
+7<:> ~ ,-0 NG'::
+
+,o ·
+
+.-.
+
+f.<>,y
+,.:z'
+
+I, ...•
+
+1£'
+
+let'
+
+.. 0 '
+
+FIG. 9.
+
+Tho lift of the tail alone follows a straigh t-line equatio n very
+closely, and is, of course] symme tricnl about a zero angle of incidence, the surface itsolf being symme trical in rcspec t of the upper
+and lower surfaces. Dividi ng the lift at all angle of 6 0 by the area
+
+AUTICS .
+ImpORT NATION AL ADVISORY CO)L\II TTEE FOR AEROX
+
+288
+
+in
+of the surf co, the square of the speed, and the angle of incidencethe
+Ky = O.00013!:li, which is tho equivu lent 4 of
+degrees, we find that
+The
+lift coefficient on the rectan gular fl!1t pl!1te of aspect ratio 3.approhowever, are somew hat hiaher than those
+drag coefficients,
+is
+priate to this aspect ratio, with the net resclt that tho LID rn.tio
+
+v
+
+/
+
+v
+
+7
+/
+
+I~
+
+)It
+
+/ ,..,
+
+CCUvt~/_ATI ON
+
+eJcaY6
+
+v
+
+/ 1
+/ I
+
+W";rH
+
+CN..,ps~,/:!>
+
+/
+
+\
+
+/
+
+/
+
+:1
+
+~
+
+~
+
+II
+
+/
+
+/
+
+/
+[7
+
+-~
+
+~
+
+~
+
+/
+/
+II
+
+I
+
+IYV
+
+AN'(.i.L!! :
+
+~
+
+/
+/
+
+I'L
+
+v
+I
+
+I
+L
+/
+
+1/
+
+v II
+77 I
+
+\
+
+\~
+
+7
+7 !
+/
+
+/ v
+
+i\
+
+OF
+
+~
+
+Tc
+
+TAU...
+
+FlO. 10.
+
+1
+
+/
+
+v
+~
+
+I
+/
+
+/
+
+\
+
+10.'
+
+~
+
+v
+
+onl
+
+v
+
+-
+
+J-///'
+
+C::>
+
+~
+
+plate of
+about 13 :per cent lower than it should be for a rectan gular that the
+aspect r atIO 3. The much improv ed lift, in view of the factum span,
+maxim um chord of the tail is nearly as great as its maxim
+as
+may be assigned to the raked extrem ities and rounde d corner~, the
+the thickness was greate r in propor tion to
+well as to the fact that
+
+;5.
+
+.,' ill
+. tho
+
+71 e
+,'wo.
+:0 s
+
+1
+
+1
+
+REPORT :NATIONAL ADVISORY CO~BnTTEE FOR AERONAUTICS.
+
+289
+
+area than for the plates tested by Eiffel, and that the edges were
+roundod off moothly .
+The lift due to the tail in the presonce of tho body is also nearly
+proportional to tho anglo (measurod from the angle of zero lift ~ a
+aat~m point), but shows a tendency to increase somowhat l?or~
+raplcUy at large anglos than at small. The curve ~uts tho aXIS of
+zero lift at an anO"le of 3°, and the slope of the curvels about 0.75 of
+tho slope of tho lift curve for the tnil alone. This chauge in slope
+may be attributed to three causes . The most obvious is that a consieler, ble part of the tail (about 7 per cont) is actually resting on top
+of tho body, and is virtually 110nexistem, in so far as aerodynamical
+effects aro concerned. r he secol d is tho decrease in speed of the air
+which hus passed over tho body, and the third is that, as observed
+hy Eiffel,t the angle of downw 1sh increases less rapidly than the
+angle of incidence. (NOTE.-'rhis phenomenon is prob bly less
+marked than Eiffel's experiments would indicate, as he hiled to
+t'lke account of the second of the causes which we nave mentioned).
+Tho causo for the downwash when the wings are not presont is not
+apparent, as an upcuuent would seem more probable from the shape
+of tbo body and position of tho tail.
+The drag due to the tail, becauso of the downwush noted abovo,
+has its minimum at un angle of 2°. It is not symmetrica.l about this
+anglo, increasing much more rnpicUy at negative than at positiv'e
+11 ngles. The m.lllimum draO" due to tho tail is very small, being
+b:11·01y half the minimum vi'ilue for the tail alono and less than 20
+per cent of the minimum for the body, but it incroases more rapidly
+than any other component, so that at :wo it is materially larger thun
+that for oither body or chassis. The dr g curve for the tail in combination with body and chassis is less regubr thau for tail alone, the
+values increasing less rapidly at small, and much more rapidly at
+largo, angles.
+It should bo noted that great caution must be exercised in drawing
+conclusions from tests of the tai-, since the elevator po"ition is neutral
+throughout, as is the custom in practicdly nll wind tunnel tests, and
+tho lift ancI drag ar e therefore considerably different from those
+which would arise in actual :flight.
+THE EFFECT ON UFT AND DRIFT OF 11 TTERFERENCE BETWEEN THE
+WINGS OF A BIPLANE CO:v.IBINATION.
+
+In nwrre 11 arc givcn tho lift and drag curves fo a single wing plane
+of tho Curti s IN-2 (with all values doubled to mako them comparable
+with the total lift and drag for the two wings and for the complete
+llsS mbly), for a biplane combination mado up with the same stagger
+and gn.p as in the actual machine, f01" the complete machine with
+the tail set, as in practice, at - 3} ° to tho chord of the wings, and for
+the complete muchino with the tail removed. To avoid confusion
+Ilmong so many curves the obsen"ed points have been omitted from
+the drawing. Evory point lies within 0.005 pound of the curve to
+which it portains.
+The drag curves for the various arrangements do not, of course,
+permit of any deductions as to the biplane effect on Kx and LID,
+'ince the ell'ect of the struts is unknown. It may fairly be assumed,
+, Nouvcllos Recherches sur I Resistance do l'Airc! l' Aviation, by O. EiITo!.
+
+2!Jl65°-S. Doc. 123, 65- 2--19
+
+17
+
+ill
+17
+]Z
+
+:8
+c
+
+290
+
+REPORT NATIONAL AD\,JSORY CO::-.n.nTTEE FOR AEnO~AUTICS .
+
+hO"'eve1', that these struts have no important euect on the lift,
+and interesting data may be obt:lined us to the cfTect wh'ch thc
+biplane arrangcmnnt without overhang has on the lift of an actual
+machine. It is easily conceivable that tho biplane correction for n,
+renl winrr, with raked tips and ·wit.h ailerons cut" on tho bias" :mcI
+rounded ofl." at the corners, mn.y be materially di{i'C'rC'nt frorn that
+for wings with square ends. It :1150 permits of a comparison of tho
+biplu.n.e lift corrections for the Eiffel 36 mn~ with those for other
+wings 'Which have been tested l1.'3,biphne combino.tiol1s, and notably
+for the R. A. F , 6 section tested oy Dr. J. C. Hunso.ker.l 2
+The b'plane lift correctlOl s at the prac.tical nnglcs of flight rangc
+from 0.820 to 0,937, the large values correspondin~ to the large
+ang~cs of incidence" and thc corre~t~on ratio ~rowing lOSS. with ani).e
+untll, at about 8°, It reaches a mllumum and thereafter mcreuscs m
+magnitude as the ano-Ie becomes smaller. This is strictly in accordance with the resuYts of previous experiments. The maximum.
+values of the lift coefficient, to be used in computing thc landing
+speed, are in ther:1tio 0.937, as against 0.955] obtained byJ)1'. HUllSakcl'
+for both the R. A. F . 6 and Curtiss wings. The bttcr tests differed
+from the present ones, in addition to the/oints already mentioneJ,
+in that there was no stagger, the gap/chor ra.tio was 1.2 instead of 1,
+and the aspect ratio was less. Tests made by Dr. Hunsaker at the
+Massachusetts Institute of Technology, and by the staff of the
+N tional Physical Laboratory,s indicate thn.t there is a loss of about
+5 pcr cent consequent on "'he redu ction of the gap/chord ru.tio from
+1.2 to 1, and a gam of about 2 per cent from the use of a 20 per cent
+stagger. The exact result of changing aspect ratio in a biplane is
+uncertain, but it is probable that a decl'ense in this ratio increases
+the biplane lift factor sli~htly. Takin~ all these modifications into
+account, the lift correctlOll obtained by us may be reganled as
+coinciding very closely with Dr. Hunsaker's results, that from the
+present experiments being; a trifle the higher, and we therefore draw
+the conclusion that the biplane coefficients may be considered as
+virtually independent of the plan form of the wings. The effect of
+changes in section, and especially the gain from mn,king up the two
+wings of different sections, remains to be further mvestigatccl.
+There is, of course, some loss in lift, especially at l:1rge angles, due
+to turbulence about the struts, although this should be slight enough
+not to affect the validity of the conclusions which we have based on
+the a sumption that the strut effect was nil. Any such effect would
+be relatively more pronounced on the model than on the full-scale
+n,jrplane with stren,m-line struts. Taking account of all such disturbing hctors] a correction coefficient of 0.95 may be used in finding
+the maximum lift for a biplane combination with a gap/chord r<1tio
+of approximn,tely 1, and a stagger of from 10 to 25 per cent. The
+effect of chassis, body, and tail on the landing speed will be discussed
+in the next section.
+It was previously remarked that little can be deduced from a
+cornpari on of the drift CUl'\'e for the biplane with that for the monoplane, since the effect of the struts can not be readily determined.
+Q
+
+e.
+
+St:lblo Bipl3no AmlD!!,ements, bv J .
+IIunsaker; Enginecrin)!, Jan. 7, 1916.
+Aerodynamic Properties of the 'l'riplano, by J. C. Hunsaker and '1'. H.llu!!; Engineering, Jnly 21, lOW.
+Determination of the EfTeet on Lift and Drift of n Variation of tbe Spacins in n. Oiplaoo; Report of tile
+llritisb .... dvisory Committee tor Aeronautics, 1911-12, p. 73.
+l
+
+2
+
+S
+
+I
+
+/
+
+-I~
+
+291
+
+J:T::POHT ~ATIONAL ADVISORY CO:\DIITTEE FOR AERONAUTICS.
+
+,
+I
+
+1\, 9
+
+I
+
+"
+~~
+
+50
+
+....
+"-
+
+/
+I
+
+/
+
+/./,
+~
+
+I
+r-
+
+~
+
+l·
+
+I
+
+I
+/
+
+I
+
+1/
+
+I.
+
+/
+
+'
+
+i
+,
+
+.j
+
+n.
+
+'\ "
+'\
+
+V
+
+iI!
+(-f
+
+/
+
+1.0
+/
+
+II
+
+n.
+
+I
+
+///
+
+~j "
+If/
+,
+
+1 /V
+/ ,
+
+.
+'>C
+
+I
+
+/1
+//
+
+;.,..
+
+f----
+
+___ •
+
+,.nr....c.vr";",
+
+v
+---'-
+
+.---
+
+/
+()
+
+.e
+
+-1
+RN(; .. e:.
+
+6
+
+./
+
+~,---
+
+~
+
+--
+
+-
+
+d"
+
+W
+
+7
+
+.u..
+no
+
+"
+
+[,//
+'/
+
+/
+
+""'
+
+/
+
+,
+/
+
+~,/
+
+/
+
+,/
+
+o.
+
+10
+
+.
+
+~""",,""G c-Gl~Q . 7'0 W',.."O
+
+FIG. II.
+
+II
+
+ill
+
+/'/
+
+MON~NC.
+
+MAC~"'.'L!
+
+£:::::"::i~~.c
+
+/-'-;
+
+-
+
+-
+
+--- - - - . -- -- .LjI,...,.N..:
+
+~
+
+. 71--
+
+I
+
+!/;!/
+,I,
+
+0" MOOCL : ,.:,
+.31'"'< • .q 0'- """"'O,JO _~n
+
+--
+
+o·
+
+,
+
+- -
+
+,~
+
+, 0<
+
+,
+
+I
+
+I
+
+.s::...'c
+
+/;
+
+/
+
+J
+
+Lur r A /".IoDR'A O /0""
+vNJ! MNO C~""NArl""" ~
+
+// V
+/Il/
+/ .
+
+""
+
+I,'
+
+h
+
+/1
+
+I
+
+,
+
+V; /,
+
+r )f!
+
+/
+
+', n
+
+17
+
+--
+
+'\
+
+I
+
+/("
+
+I
+I
+
+c
+
+~',\"
+'>
+
+// i
+
+I"
+
+"
+
+V"~
+
+/'
+
+/
+
+I I
+
+.,
+
+"-
+
+/
+
+.
+
+n:
+
+I~
+
+Ie.
+
+...,,'
+
+r
+
+292
+
+REPORT KATIOKAL ADVISORY COM:vIITTEE FOR AERONAUTIC.
+(
+
+It will be noted, however, that the distance between the two CU1'YCS
+constantly grows smaller as the angle increases, and thn.t theyfimdly actually cross each othor at all angle of 14~·0 . It is thu.
+evi(lont that tho ratio of biplane to mono[>Jane drift gro,,'s con,
+stantly less, and that, at angles of incidence lu.rgo r than r.bout 12°_
+tho dmO" 1?or milt area is actually less for tho 1)lplil.no combiu!lliOI
+than fof. tho monoplane. This is \yl at might be expocted, in view
+of the screoning of the upper plano by the lower, and is in a.cco!'cianco
+with the indications of othor experIments of a similn.r n:1tUl"o, but
+i t is a striking bct that the relative decrease in the drag of he bipl· no
+combiuation should be so marked: s to give it, at large an O"les , an
+L/ D superior to that for tho monoplane, and the possibility of <'ieCl'Cll->ing the :1ngle :1t which this change occurs perh ps opens a field for
+fuLuro investigation.
+LIFT ·AND DRAG CONTRIBUTED BY THE ADDITION OF BODY CHASSIS
+AND TAIL TO A EIPLANE COMBIKATION.
+
+I
+
+/
+
+At very small angles tbe lift curves for the biplane combination
+and for the machine without tail 1'e })ractically coincidont, showing
+t,hat the lifting effect of the body and chassis is nil, or, in other words,
+that tho downwash from tho wings, acting on the rear of the hody,
+is roughly sufficient to balfince tho lift ansing from direct dynamic
+pressure on the lower surface 01 the body. As the angle of incidenco
+increases, however, the two curves divergo, the se.Rara.tion first
+becoming noticeable at about _1°, and the lifting eilect thus indi.cated
+increases in magnitude until, at 10°, the lift due to the body and
+chassis is about 0.015 pound. This :fi~urc is, of course, in excess
+of the lift which must be furnished hy tl10 body to repl ce that lost
+because of the containing of the part of the lower wing (:1bout 5
+per cent of its total area) within tho body. 'l'ho two curves cross at
+ahout 15°, indicating that the body xerts an effect oppo ed to the
+lift of tho wings from thore on, but the flow about the 'wings is so
+unst,on.dy at these large a.ngles that the measurement of the forcos is
+comparatively inaccurate, and it would be highly unsafe to generalize
+on conclusions 'd rawn from such small ditferences between large
+quantities as those with which we are dea.ling, and based on ono or
+two points from a single tost..
+The manner in which lift is affected by tho addition of a tail will
+be discussed more extensi'\·cly at 11 somewhat 1l1ter point, in connection with other tests uncler varying conditions with respect to
+tho tail. It is sufficient to note h ero that t.he tail has a considerul11e
+effective negative lift at negil.tive angles, that this decreases steadily
+until, at about 11 0, the efi'c('.t becomes zero, and that at larger a.ngles
+it gives rise to au increasing positive lift.
+The additional drag c:1used by tho addition of body and chassis
+raml1ins I1lmost consta~t, incroasing very slowly, except at vory
+largo anglos, where the mcrcase becomes more r!1pid. It has, at 0°,
+a value of 0.015 pound, as against a minimum drag of 0.080 pound '01'
+tho biplane combination,nd 0.105 pound for the complete machine.
+At n angle of 12° this resistance ha.s increa.sed from 0.015 pound to
+0.025. , It will be noted that the drclg caused on the com-olete ma.chine
+by the addition of body and chassis is ma.terially less than tIll ~r
+parasite resistance when tested separately- about 60 per cent of that
+
+(.
+(
+
+t
+
+s
+t
+
+REPORT XATIO~AL ADVISORY
+
+293
+
+' u;\Ii\flTTEB :FOB AERO~AUT.ICS .
+
+",(,~
+
+).1'\'
+
+Lt':,
+
+'( n,
+
+{JllnTItitv under conditions of minimum resistance, to spenk stntisti/dl\'. )rhis reduction, which is of considerable 'mport:mce in the
+(~' : l,~rmin:1tion of probable per£~l'l~lUnCe for a machine, may be n.ttri}?ul< rl chiefly to decreased skill fnctlOn bectl.use of the decreased l'Cll1tn-e
+n;Jocj!,y of the turbulent air along tho surface of tho body. Tho
+,.:,mo pnenomenon will later be noted in connection with the cl ag of
+tho tail.
+
+I
+
+!nO
+
+07
+
+:1 -
+
+/
+
+~
+t)
+
+/
+
+1)
+
+~
+.C6
+
+/
+/
+
+~
+~
+
+~
+
+,
+r~~
+'<.
+
+I
+
+~
+,
+\')
+
+"-£~
+~
+
+~.r:~ .s 7
+U
+ANC£.
+
+NOT I I'IC LUC>ING
+I,/'-./T£' R~LAN~
+aRAC~I"VG
+
+In., ....
+
+~
+.;()
+
+~
+
+.S
+
+~
+
+.O?
+
+~
+
+)
+
+/
+
+V
+
+/"1" R ...,:3 IT'&'
+
+,'i
+
+'(l
+
+/
+
+/
+
+/
+
+1
+/
+
+/
+
+V
+
+/ '
+
+Ii
+
+ill
+J7
+
+1I!
+
+18
+
+1, -
+
+il
+.n.
+I
+
+Il
+
+ANjo.<....:.
+
+10
+
+~.
+
+-,co
+
+o·
+
+1+2"
+
+~o
+
+OP
+
+I.
+
+6°
+
+b
+
+C'O.<! NCJ::..
+
+•
+
+10·
+
+-,e"
+
+14·
+
+ItS"
+
+1<'3"
+
+Fro. 12.
+
+r
+
+TOTAL PARASITE RESIST NeE.
+
+In figure 12 is shown a curve of the total parasite resistance with
+C'xccptioll of that due to the intcrpbne bracing. The coefficient
+(If l'L'sistance due t o body, chassis, and t:il is constant within 20 per
+('('nG nt nll angles from 0° to go. Beyond the latter point the codJi('ient begins to increase very rapidly, but this increase would be
+pu.rLly countcrbalanccd, in nn orthogonnl biplane, by the dccrcasing
+t I.e
+
+I
+
+.t8~.l::
+
+REPORT XATIO:::\.\'L .\O'·ISORY CO:lDIITTEE FOR AEnO~-AUTICS.
+
+resistn.nce of the struts and ,,-ires with increasing· ngle. In stl1gg01'od
+biplane such as tl e J -2, this counterbalancing dTect would not appear, as the struts are more nearly normal to the wind for a brge
+ancrle of incidence than for a small.
+1'he parasite resistance coefficient for the entire mn.chine, exclusi\'c
+of the interplane bracing, at 4° the units being pounds pe squu'c
+
+foot per mile per hour, is O,020X ~;6~: = O.0128. Tho parasite re sistance coefficient for 8 struts, 5 feet long ~nd 1} inches wide, having
+a finencss T:1tio 3, together wi th 4 si.milar struts 2} fect long, is
+0.0028/ and the coefficient for the interpbne wires roughly 0.0040,~
+making a total of about 0.02. No low nee has been made for the
+resistance of fittings.
+
+I
+
+/
+
+EFFECT OF ANGULAR SETTING OF THE TAIL ON LJ1i''T AND DRIFT AT
+VARIOUS 'WING INCIDENCES.
+
+For the tests reported in this l1nd the following section tho medium
+body was used with the tltils inclincd to the wing chord successive y
+as follows : Ln.rge tail, _ I", _ 2°, _ 3}0; medium tail, _ 2°, _ 3·}O,
+_5 0; smaU tail, - 3tO, _5°, _7°. Different ranges of angles were
+adopted so that, as far as could be estimated in advance, the static
+longitudinal stability would not be excessive, nor would the instability be very great, in any test.
+The result3 a.re O'iven by four sets of curves, figures 13 to 16, inc usive Each of thet'st three gives the L andD curves for the three settings of some one tail. Fi;rure 16 is a collection of the Land D curvC's
+for the three tails at - 3}~ to the wings, and is designed particularly
+to show the results of vnrying the size of tail. An averaging of
+results for the three sets of gruphs shows, what would be expected,
+that the lift increases ste::.dily as the negative angle of the tail with
+r espect to the wings decreases. The amount of this increase, fo!' a.
+given variation in tail setting:, docs not vary appreciably with angle
+of incidence, except at very large l1.l1gles, and r nges from 0.010 to
+0 .015 pound per dewee of tail angle, the larger values occurring
+on the smaU tail. Tne variations in effect are so small, however, that
+little significance should be attllched to the latter fact. At angle;:;
+dose to and beyond the bm'ble point, the curves spread out somewhat,
+the apparent effect of the change in setting becoming greater, and
+this has the effect of causin,~ the burble point to occur at a larger
+angle of incidence as the tail and wing chords become more nearly
+parnllel. As a concrete example, we may consider the landing speed,
+which was found to be 41 miles per hour for the standard machine.
+With the tail set at - 1° insteaa of at - 3,z°, this value would be
+decreased by i mile an hour- a gain hardly worth taking into consideration.
+At small angles the change in total drag is almost too small to
+determine, although a decrease in relative tail angle has a tendencv
+to decrease the drag. At intermediate angles (the exact range dIffering for the till'ee tails) the three curves merge together. At some
+1 Research on Struts of Varying Fineness R:ltio; Report of tho British .\dvisory Committoo for ).c~o­
+nau tics, 1912-13, p. Ill.
+' Experiments on the R esistance oC WiNs; Report oC the British Advisory Committee Cor Aeronautics,
+l~l:/'-lJ,
+
+p, 126, .
+
+I~SPORT ~ATIONAL ADVISORY CO::\I:i\IlTTEE FOR AERONAUTICS.
+
+';-;.
+
+295
+
+r:n"']o between 6° and 12° they sepnr ato, and the dnlg is theronftcr
+grt:!ltest for the least angle of setting, just as is always the case with
+
+I .. l!·e
+
+'0-
+
+c.: .
+
+,r- •• J
+..
+
+..:0,"
+
+r
+
+1.-;
+
+~il(;
+
+I
+
+i
+I
+
+I
+
+~
+
+I
+
+I
+
+I
+!
+
+I
+
+I
+
+(·h
+'.: ,
+(.1'::
+
+'d7
+
+.-
+
+l:: t'
+t:.-
+
+!dI·t ":
+
+I
+
+0
+
+W
+
+!
+
+(;r
+
+!H:
+1"
+
+r
+I
+
+.... r.,
+
+II
+~I
+
+1(1
+
+i
+
+.
+
+j
+
+"
+)(.
+
+I
+
+jf
+
+,,
+()
+
+X'$" -
+
+D - 7'"
+
+I
+
+I
+
+II
+
+ill
+
+1
+
+I
+
+17
+,,'
+,
+
+W
+
+.'
+
+ffF
+'&
+
+VI.'7<
+~I
+
+l
+
+----
+
+V
+
+I
+
+I
+
+z'
+
+G~~
+
+",'
+
+~,
+
+10
+
+~S'
+
+I
+
+A/.
+
+·z
+
+I
+
+!:?
+gl
+
+j'
+
+I
+
+~.
+
+r
+
+I
+
+§
+
+fi
+
+t...
+
+;r.:.,,,,,-
+
+O-!Jj '"
+
+I
+
+,. ,r.
+
+t)
+
+s,."..,LL.
+
+I I
+
+/l
+
+.~
+
+ji
+
+~AO
+
+c1
+
+M..:..::::"./J"",, CODY
+
+<'
+
+~L.
+
+".
+
+L ~" r
+
+),/tl
+
+"
+
+~
+
+.~
+
+/,1
+
+/I .
+
+I
+
+fr.l
+! '/ ~~
+
+j)'
+~I
+
+." .
+L
+
+/(.
+
+1
+
+,
+
+I
+
+r!
+
+I
+
+~/I
+
+I
+
+).('.";
+
+.• h
+,a
+
+I
+
+, ~I
+
+,
+
+L
+r
+
+~'--=-"~~
+Idf / I - f-~~"-
+
+i:~
+'V
+
+"
+
+f
+
+• J .~
+
+~
+
+14t
+
+I
+I
+
+11m
+
+I
+
+I
+
+,
+
+AT
+
+I
+
+,
+
+//'lC/
+
+PQyI
+1<)"
+
+t,t:!'
+
+H '
+
+"'"
+
+,,,'
+
+.e,, '
+
+Fro. 13.
+
+t11 lift-this is explainable by the fact that as the angle of settinO'
+ot" the tail increases its zero incidence occurs at greater angles of
+th\} wing chord.
+
+K
+
+296
+
+REPORT XATIOXAL ADVISORY CO:'\DHTTEE FOR AERONAUTICS.
+
+Since the angle of maximum speed '"ith a 90 horsepower C'ngine
+for the machine under investigation corresponds very closely to the
+angle of minimum drag, nd hence to the point where the slope of
+
+I
+
+I
+
+WId I
+I;')v
+W I
+
+,....- - r--=:::
+
+"
+
+'"
+
+.
+
+'5
+
+.:!.
+
+I
+
+I
+
+Q
+
+t
+
+I
+
+-l
+14
+
+I
+
+I. '
+
+I
+
+"
+
+j
+
+I
+
+V'
+
+I
+
+19
+
+....... ~j
+
+f
+
+I
+
+Il~
+
+5..
+
+/;'
+
+.c
+5<
+
+.2,
+
+<.
+
+- ,3£G> - - -
+
+- 5""" - -
+
+I
+
+,:J.
+
+.2
+
+V
+
+L
+
+V
+
+/
+
+0,
+
+}1
+
+-J!! - ,A - -
+
+~
+
+L<
+
+I-- I//Z
+
+~ODY
+
+~~QIV"" ""'''''''-
+
+~f"'
+
+.70
+
+II
+
+L lr"T& DRAO
+
+II
+Il
+
+()
+
+I
+
+_L
+
+M.::alV"'"
+
+If
+
+-~
+,
+
+V
+
+If
+1 ..-
+
+<
+
+.;(
+
+l
+
+If I
+
+I
+
+:::f-"
+
+I
+
+I
+
+i!
+
+10
+
+r--..::::i- ':-+-",
+
+I
+
+~
+
+I
+
+...... -
+
+I
+
+.Jj
+
+I
+
+1
+
+.1-
+
+-
+
+I
+
+I
+
+71
+
+"
+0
+
+..
+
+"';CL~
+
+.-
+
+r-
+
+0 '-
+
+~
+
+0
+
+INcl=-~c
+I
+
+,.
+
+05
+
+"
+
+I
+
+J
+
+",,-
+
+Fro. H .
+
+th e drag curve is zero, the maximum speed is unchanged by what
+is in effect a shifting of the lift curve t o the left. What change there
+is will be due t o the change in cho but this is so slight that no varing,
+
+I
+
+/
+
+297
+
+REPORT XATIOXAL ADVISORY CO::lDIITTEE FOR AERONAUTICS.
+
+!l.tion in tail setting within the bounds of reason is likely to alter the
+m:lximum sp'ccd by more than 1 milo per hour. The effect on climbin~ peed ,nil be somewhat greater, as the angle of incidence for best
+climb corresponds to the rising portion of the drag curve, but even
+
+I
+
+"
+
+J
+
+I
+
+16
+
+j?
+
+/11
+
+,
+
+j
+
+~
+~
+~
+
+"
+//~
+
+'/
+11
+
+Vll
+
+if
+
+"
+
+'-
+
+t
+
+,
+
+~
+
+!J,
+
+//
+
+V
+
+I
+
+if
+
+,,,,,-
+
+/£
+
+=10,
+
+;f
+
+"'
+
+I
+
+.L.AHc:(IC
+
+o
+
+If
+
+.f..
+
+!,I/
+I
+
+I
+
+I ~V
+
+,II
+
+//
+
+-,.
+
+~f
+
+:1
+
+::::: ~
+
+.~J; '
+
+I
+-
+
+~
+
+~
+
+~
+
+!
+04
+
+II
+
+tf
+
+'JAIL
+
+" -...
+
+//
+
+~
+
+~Oy
+
+Joe
+
+i
+
+I
+
+I
+MCOlv~
+
+a6
+
+If
+
+I
+
+~~
+
+IJQ
+
+,~
+
+I
+
+'1
+
+iL.-:
+e
+1
+
+I
+
+VI I
+
+I
+"
+
+-~--.~
+
+1rr-Tl ~
+~
+
+/
+
+III
+17
+.~
+
+/.'1
+
+)!
+
+!B
+
+f'
+"'.
+
+,9
+
+J
+
+.,?
+
+I
+
+-
+
+"'':'''''''"
+
+0..-
+
+.
+
+/'"
+
+I~.a~
+
+I.
+
+:::
+
+I~ ·
+
+0
+
+FIG. 15.
+
+1 ere it is not considerable (probably never enou~h to chan~e the
+1 or:epower required at any point by more than 3 horsepOwer) .
+
+In rcsume, it is apparent £hat the effect of tail setting on the effieil'ncy of such a machine as the Curtiss J::\2 is quite negligible, and
+tll. 1,. ~he tail angle should be chosen purely from considerations of
+st: bility.
+
+298
+
+REPORT XATIO_-. L .'l.DYISORY CO:\'DIITTEE FOR AERO XA"GTICS.
+
+~
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+,
+
+I I I I I
+I I I
+I
+1 I I I
+--1
+I
+/~ - ~-c=..::: ~ I
+I
+I I I I l/~ I l-- ~-I
+I I
+I f-r
+I 1 I
+;#/ I I I I I
+I I I
+,
+,
+j/
+I
+I
+1/1.1
+,
+I .
+'V I
+/(1
+I
+I I
+JI -,z!
+~ I
+Illi.)
+I
+/I
+
+L..
+
+II?
+
+,.."
+
+I
+
+I
+
+I
+
+I
+I
+
+1
+
+1
+
+I
+
+I' -
+
+/
+J
+
+,
+
+,
+
+"'-
+
+.;
+
+,~
+
+r
+
+l
+
+I
+
+I:
+
+~l
+
+~
+
+/il
+
+1/1
+I
+o
+
+I,f!.,
+
+t....A~o .=
+
+' I
+
+~/
+
+-
+
+-
+
+I I
+
+I
+I
+
+I
+
+I
+
+I
+
+1--+-1
+I
+
+L t~G_-=
+.
+
+,
+
+A
+/1
+
+I
+I
+
+,
+
+1
+
+D'
+
+,JF~~~t:
+1 .,,
+
+FIG. 16.
+
+10·
+
+I
+
+I
+
+,c>-
+
+,...
+
+,,,,"
+
+!
+I
+
+I
+
+I
+
+I ~I
+
+I
+
+.."
+
+,
+
+I
+
+<r
+
+I I
+,
+
+J!
+I ;jf' I
+I
+I ~I I
+!
+Lr
+
+I
+G
+
+I
+
+#1
+III I
+I!I
+
+~/
+
+,
+
+I I
+
+I
+
+...
+
+"
+
+·
+
+/
+
+I
+I
+
+Ii
+>
+
+I'
+
+_1IIf~ ~'_
+
+•
+
+~;' I
+
+<
+
+..:::
+
+ME-"""M = cw
+" M rA'~ _ _
+A.,
+-
+
+11
+
+I
+
+'lI
+~
+
+[I
+
+;'/
+
+r
+
+I
+
+L IF'r "" D R-<C
+
+"
+
+I
+I
+
+,
+
+I
+
+I
+
+'
+
+.
+
+I
+
+."
+~
+
+JtE:PORT ~ATIONAL ADVISORY CO~DIITTEE Fon AERO~AUTICS.
+
+299
+
+EFFECT OF VARYING SIZE OF T!.IL, I"EE ING A.1\;"GLE OF SETTY. 'G
+CO~S,!',
+
+i'T,
+
+The curves for the machine wi 1 the thl'ec tails alI'cndy described.
+tho tail bing set n.t - 3~· ° to tho I';ing chorl in every case, are plotted
+in figuro ) 6. These cun'es show th;t th" lift for tlle whole machine
+throughout ranks inver ely as the izcs of the tails-tl at is, it is greatest for the small tail and least for the large tail. The sp.-wing betwcnn
+the three cur,es is nearly constant, The :lrrn.ng mont of the CUlTes
+in this order is what would be expected ;'l,t S H\ll angles, where tho
+total force duo to the tnil is dOWl.linlrd and the negative e1ect is
+naturally least for it tail of small area, bu t the renson for such behn,vior
+at hrge ' nglcs is less obvious, While it ,vould be impos ible to ch'<1w
+definite cOllclu ions without makillg an exhaustive investig< tion of
+the pressure distribution over the surfn,ce of the tail, the most probable hypothesis to account for the phenomenon is that the do"'llwash from the wings is less f It 11c:1r the body than out in the open
+and that tho farther away from the bouy one $ets the greater the
+downwitsh angle becomes. The mean dO\\Ilwasn angle will then be
+larger for the large tail than for the small, t nd the lift (ta.king account
+of , ign) will n,lways be less for a hrge tail than for !1 small OD ".
+The ch'ag, too, is largest for the smull tail at angles equal to and
+greater than 2°. From _ 2° to +2° the CUl'ves merge together,
+and at nega.tive angles greater than - 2° the drag for tlie small tail
+is least. This, too, may be accounted for by the hypothesis st:1ted
+bovc in conjunction with the bet that at the points of maximum
+downwash (i . e., the parts farthest a;way from the body) there is
+proha.bly an actual negative dra.g on the tail, due to eddying nd the
+existence of pressure on the top of the tuil. This is analogous to
+the force which when a pair of plates are exposed in tandem tends
+to dr:1W the rel1rmost forward into the wind.
+EFFBCT OF VARYING LENGTH OF BODY A..."l"D SIZE OF TAIL AT THE SAME
+
+TI:VrE, KEEPING CONSTANT MOMENT OF
+'ENTER OF GRAVITY.
+
+r
+
+r:
+ill
+!7
+
+1r
+
+AIL SURF CE ABOUT THE
+
+The renson for adopting this method of testing relates especially
+to tho pitching moments, but the results can be used to show the
+'\'rr)' in which lift and drag are affected by the variation of the distance
+heLwecn tail and wings.
+Figure 17 represents the lift and drag for the machine with the
+medium and short bodies, each cllrrying the large tnil at an angle
+of - 3 to to the wing chord, while figure 18 gives similar data for
+(he medium and long bodies in conjunction with the smull tail. In
+(he cllse of the first, the lift for tho t,\'O bodies is virtually identical
+n t allgles less than 5°. At this point the two lift curves diverge,
+(he lift for the short body being the greater, and the divergence
+1>(,(;0111eS steadily ~rcater as the an~le of incidence increases until
+n L 16° there is a difference in lift 01 over 0 .03 of a pound, so that
+1 he lllnding s]?eed would be somewhat reduced by shortening the
+hody, quite aSIde from the fact that the weight of the machine would
+he' 11l:11'kedly decr eased by a reduction of 10 per cent in the length of
+the body.
+
+...
+19
+
+300
+
+REPORT NA.TIOXAL ADVISORY CO?DII'ITEE FOR AERO..l~AUTICS.
+
+The drag for the two is identical within the experimental error up
+to an angle of 10°, beyond which angle the curves separate in the
+same ,,'ay as for the lift, the drag being ~reater for the small body.
+In the case of the small tail, the lift is about 0.01 pound more with
+the medium body than with the long one at all angles from - 4 ° to
+
+I
+
+/1---
+
+I
+
+I
+
+IS
+
+'4
+
+I
+
+I
+
+~
+""'
+
+...
+
+Ii
+
+I
+
+I
+
+I
+
+-::t~
+
+V
+
+,f
+
+Ii
+/1
+
+I,
+
+~
+
+"
+
+;1
+
+i\
+
+l
+
+/
+
+I
+L.'~T
+
+a.
+TA'4
+
+1/
+/
+
+~
+
+.............
+,L-
+
+-
+
+I
+
+#0
+
+o
+
+''
+
+M.~'v_~~
+3~,.
+
+Do,g ..
+
+I
+
+/
+I
+
+/
+,..-----V
+
+o~
+
+I
+
+D,II?AG
+
+I /'
+//
+
+,/
+
+/
+
+0
+
+.~
+
+1/
+
+o~
+
+~
+
+-..::..
+
+L
+
+0'
+
+A""
+
+""
+
+4
+
+I
+
+j
+I
+
+0'"
+
+!
+
+jll
+L. .. "...:.
+
+/
+
+/
+
+.r
+
+1/
+
+DO
+
+~
+
+~
+
+Q
+
+f
+
+I
+
+,
+
+I
+
+.('
+
+"
+
+I-~
+
+0'
+
+~.
+
+/-c./OC
+
+C£
+
+0'
+
+,,c'
+
+1<, '
+
+,,,'
+
+/D ,
+
+"",'
+
+FIG. 17.
+
+12°. The two curves them come to!$ether, being virtuully coincident
+at angles beyond 14°. The drag ror the medium body is greater
+than for the long at all angles, the difference being very small at
+small angles, and increa 'ing steadily to over 0.01 pound at 18°.
+These results, like those of the last section, at first sight seem
+quite unreasonable, and their fair interpretation requires an examina-
+
+301
+
+REPORT XATIOXAL ADVISOI:Y CO:1lDIITTEE FOR AEIlOXAUTICS.
+
+tion into the actual conditions of fio,,- n.bout, and in tho rear of, a
+Wil!(f.
+
+Photographic investigations of tho flow about a wing section in a
+water channel, carried out at the Xu.tional Physical Laboratory 1
+show t.hat the fluid behind the wing, especially at large ::mgles of
+L",'r
+
+LZ
+
+16
+
+I
+
+I I
+I
+I
+
+I
+
+-=
+
+~!.
+~
+
+l/
+
+:----..
+
+I/i
+
+IS
+
+,j~
+
+~""G
+
+14
+
+II
+
+I~
+
+u.
+
+I
+
+I
+
+I
+
+.9
+
+I
+
+,,?
+
+If
+
+I
+
+'.
+
+I
+
+,
+.:
+
+o'
+
+SMALJ...
+
+'li
+
+;I(
+
+MeOluI'W
+
+aLONe
+
+If
+
+.a:,.ol'"
+
+)
+
+.::J~.,.
+
+/1
+,J'I
+~V
+
+- =<P- ~
+
+I
+
+"TAIL ~.!J,J;.
+
+I
+
+I
+
+ac,
+
+1
+
+If I
+I
+
+~
+
+I
+
+I
+
+1
+
+;';1
+
+~
+
+Q~-
+
+,r
+
+I
+
+II
+
+10
+
+06
+
+/
+
+I
+
+If
+
+tl<"
+
+I
+".
+
+"
+
+1
+8
+
+#
+~
+
+a~ _
+
+/
+
+1.1
+al
+
+j
+
+\.
+
+-
+
+.'
+
+-
+
+",'
+
+.
+
+ANGL, '0"," I"
+
+-'
+
+<t>-
+
+FIG. 18.
+
+;;;:"~"C:;
+
+1"-
+
+I .. "
+
+L .,,"
+
+inciclence, forms marked eddies, and, on tho dissipation of these,
+tnkt's up a wave motion extending backward for a considerable
+di:-;tnnce. It is, therefore, probn.ble th:::.t there is some point or
+points where the dovmwash angle is a maximum, and a motion in
+I
+
+Ii
+
+"rr
+
+Photos:rnphic Investigation of tho Flow Round a Model Aerofoil, by E. ReI!; Report of tho British
+
+At! \-i50ry Committee for Acron utics, 1912-13, p . 133.
+
+cO
+
+302
+
+nEPORT _~A'ITO_-.\L ADYISORY CO",DII'ITEE FOR AERO.l:~AUTICS.
+
+either direction from vhcse l?oints will result in a decreased dO'lmwash and increased lift o.;ld or;1.g. It appears that this is what h: s
+happened in the :rrescnt cn~c, and it would uncloubt dly be found
+thflt, if the body should be shortened up still farther than was done
+in the tests with the hrge tllil, the lift would be ::t m:1ximum for some
+length, beyond which 11l .y furth er shortening wonl(t diminish it.
+The gains in efficiency cOlbequent on shortening the body depend
+chiefly on the reduction in Vi'" ight, permitting abo a further reduction in area. The direct ga'u in lift is smail, us it was for chtmges in
+the angle of tail setting, although it is by no IDel ns negligible. The
+applic, t.ion to other airpla.nes of he results obtained from this
+pn.rticular set of tests is not to be recommended, howevor, sil eo the
+effect of ChMging the body length might be quite different when a
+dillerent mn.chine, using a different wing section, was afIected.
+A QUA.'1TITAT!VE DISGCSSIO~ OF THE FORCES ON THE TAIL AKD THE
+EFFECTS OF DOWN WASH.
+
+Although we have now examined the char[lcteristic curves for the
+complete machine in a con iderable number of cases (11 in all), as
+well as for the machine without the tail, we have not yet made any
+attempt t o correlo.te the figures for tail effect, or to secure any
+measure of the downwash angle, and this subject will bo treated next.
+~nough has been done to make it evident tha.t no single figure
+or formula can express the degree of downwllsh, which varies with
+distance from wings, angle of incidence, type of body, and is not even
+the same on all parts of the tail at a given time. Any formulre tha,t
+are given, therefore, must be accepted with due reserva.tion, s representnw n. " mean effective" downwash which, if it actually COlTesponde~ t o the conditions of flow, would give rise to the S!1me ta.il
+effects as those observed. It is further obvious that the figures
+thus secured will not apply to the effects of the tail on tho drag curve,
+as tho eddying flow above and behind the tail actually results in its
+having a negative drag at times.
+In figure 19 are plotted the lifts due to each of the three tails when
+attached to the medium body at an angle at - 3 ~ 0 to the wing chord.
+The wavy curves, drawn in full lines, pass till:ough all the points vith
+tho exception of one or two which were obviously very far orr.
+Although the peculiar shape of these curves may be due in some part
+t o observational orrors, which would show forth very IDuch exaggerated on such a plot as this, it will bo noted that the curves roughly
+parallel each other, u,nd it is probable that the irre~ula.rities represent
+approximately a condition actually present. t:3uch irregularities
+may be accounted for on the hypothesis sta.ted in connection with
+the tests of different body lengths, the lift due to the tu,il varying
+in an irregular manner with the angle of incidence, since the length
+flnd amplitude of the fluid wa,ves back of the wing change with the
+angle, and the position of the tail with respect to the wave form is
+consequently altered. As a measure of simplificu,tion, however, and
+for possible u se in the framing of empirical rules, ideal curves have
+been drawn with all irregularities removed, and these lie within
+0.005 pound of the more exu,ct curves at all points. These fai ·ed
+plots curve slightly upward, the curvature being greatest l.co,r the
+middle of the curve.
+
+REPORT ::\ATIO: :\AL ADVISO RY CO~DnTTEE FOR AERO::\
+AUTICS .
+
+303
+
+The curves for the other SL'C cases in which the mediu m body ,yo.s
+were plotted in a simibr In,mnc r, and led to the same
+conclu::,ions, but lack of space ho.s preven ted their inclusi on herewi
+th.
+cmplo~'cd
+
+I
+(t>4
+
+I
+
+I
+
+I
+t,,<
+I
+
+I
+
+L I F"TS
+
+To TAILS~
+Boay, A LL
+
+T.,,;a. s
+
+I..
+
+.~
+
+- ..3.f0
+
+A T
+.6.
+
+SMAI-t.
+
+X
+
+M e:C>/vtv1
+L 4R'c:;e
+
+o
+
+~
+
+I
+
+-:0 1
+
+~
+~
+
+j
+.~/
+
+oz
+
+I
+
+~ / L-
+
+/
+
+nq
+
+I
+
+./14
+
+~
+
+v- /
+
+";/
+
+./1,
+
+... V
+.~
+
+~
+
+.0"
+
+y
+
+/
+
+i""
+
+:!
+
+1/
+
+I
+
+~
+
+/
+
+.......1
+
+1
+/
+
+/
+
+1
+/
+
+j
+v'
+/
+
+/
+
+---
+
+I
+
+II'
+
+/j
+
+I /,/
+V I
+
+I
+
+"
+
+'j
+
+)'
+
+/ ./&
+
+I
+
+/
+
+/
+
+)
+
+1/ /
+~
+
+/ /
+
+V '
+
+¥
+
+Jr
+/V
+
+I
+I
+
+1/ A
+
+/ V //
+
+Due:
+
+Me:CH U M
+
+Jr
+
+/-v
+
+! I I
+
+Ij.,~
+
+/
+
+!
+
+I
+
+~1
+
+I f)
+
+f
+
+/
+
+/1
+V
+
+,
+
+I
+
+I/~ /
+
+I t/
+
+/
+
+:(
+
+/ 17
+
+i="'/
+
+/
+
+/
+
+./0
+
+- ...J.
+
+V
+
+/
+
+I
+
+I
+
+V
+
+I
+
+'II.
+
+"
+
+. 11
+
+A
+'·
+
+L.
+
+-;
+
+.
+
+",I-
+
+.....;
+
+.A""".
+4
+
+t:!
+
+0'-
+
+/,.."c / l=- e.N'~ e:.
+
+G
+
+<5
+
+-
+
+10
+
+0
+
+l,z
+
+.
+
+I~
+
+.
+
+-'6 "
+
+/)
+
+F lo . 19.
+
+An incomp lete investign.tion of the effective downw ash angle
+of inciden ce a t which the to.il, tested alone, would give
+the sn.me lift n.s thn.t which it actuall y contrib utes to t he machin
+e)
+
+(i . c., the difference between t he angle of the t:lil to the wind
+and
+tho angle
+
+REPORT KATIO_~ AL ADVISORY COMMITTEE FOR AERO~:,UTICS.
+
+304
+
+indica-tes tha-t, as was also shown by Emel,l the graph of do",'nwi'::'~l
+angle against angle of incidence, can be at least app1'OXllYl:ltdy
+represented by ;1 st;',light IiI e. (In the present experiments, a brok..:.
+line, its two portiolls meeting at an angle of inciclellce somewlC're
+between 6° and 10°, gave greater accuracy, though < t GH) sacrifice
+of simplicity.) EiiIol's formcia ex = 1 + }i, does llut, ho\""evo1', suit
+
+I
+
+\
+
+lo.·,~
+
+0
+
+:,
+
+I
+
+·Ol e,
+
+~
+,O/~
+
+'\
+
+1o-'2..
+
+/
+
+1/
+
+\
+
+~
+
+~\
+
+~
+
+010
+
+1.0?8 \
+
+I
+I
+
+\
+
+,
+
+'\
+
+~.
+
+V
+
+o
+
+S"".4L.L. 7A1.!-.
+X M.:::.t:::UUM
+o'
+
+L1> LAr.o.e;
+
+)<
+
+~.
+
+AL. L.
+
+"
+
+7A1J-~
+
+W~/'VG
+
+AT
+
+j
+- .8i
+
+7'0
+
+0
+
+CHORC"J
+
+I ~ K~
+1~ ~
+
+~
+rOO?
+
+I..,
+
+."'"
+
+' 00,;'
+
+I.oo.~
+
+I
+
+V
+
+.-JV /
+
+I
+
+"-'--
+
+~
+-
+
+I
+
+'
+
+I
+
+I
+
+I
+
+.1,/
+
+~
+
+:
+
+VV
+~
+
+'"
+
+/v
+
+JV
+
+~~
+
+~
+,oo.,~
+
+-"~
+
+I
+
+/
+
+if
+
+D RAO £Jue: ToO TAIL...
+ON COMPL.~ Te. MACI'!.
+
+i!,
+
+,11",,",1'>
+
+,.;;
+
+II
+
+/'
+
+V I
+
+~
+"
+
+I I
+
+·006
+
+I
+I
+
+T
+
+.QQ8.
+
+-'!
+
+',c_
+
+t'
+
+.J
+
+A,.,
+
+10<..<::
+
+-4
+
+45
+
+0'"
+
+//VCI
+
+/'l
+
+io.<:'N p..::..
+
+Ie; •
+
+1,('
+
+1'1 "
+
+/ ife "
+
+/d
+
+Fro. 20.
+
+I
+
+"J
+
+our results so weil as one with a larger constant te ... , the discrepancy
+doubtless being due to the presence of the body und to the usc 0: the
+fiat tail, in place of two 'wings in tmdom. The equation of the straight
+linoplotior them dium tail set at _ 3~·o, for example, is: cc =3} +~ 'i ,
+and this is a fair average of the results obtained. They are not given
+in extenso, as they were not sufficiently consistent for comparison
+to be useful.
+1
+
+Xouyclles Recherces sur la Resistance do l' ,"ir ot l' AViation, by G. EiITul.
+
+REPORT XAT!OXAL ADVISORY CO::l-::IIITTEE FOR .\EROXAUTICS.
+
+305
+
+In Figures 20 n.nd 21 hl1 ve been plotted the effect w1 ich the presence
+of the t.ail has on tne total drag of tl e airplane. The first shows this
+efrC'C·t for. the ~hree tails in connection wiLh the medium body, er.en
+of the t:u]s bemg set at 3} 0, and the sccond relates to the mediulllsizrd t: il set at its three different angles.
+The fir. t set of curves manile ts more clearly a point to which we
+h:1.\"e already cn.lled attcntion, thnt the dr: g is lenst for the hrgest
+tail, cle:1rly inclicn.ting a region of neg:ltive drao·. The draO" due to
+the mC'GiuIn tail falls very nearly to zCero , und that for the l~r(Ye tail
+cLUally becomes negative Over 11 considerable r:lllrre of anrrles.'" The
+dr: g increa 'os rapidly as the anale 0 . minimum resGtance i~ departed
+from in either direction .
+{J
+
+/
+
+v
+
+L
+
+/. / V
+LI
+17
+
+ill
+.006
+
+17
+
+N
+
+.00.,<
+
+IB
+
+. CO<!
+
+FIG. 21.
+
+/
+
+In the case of the curves showing the effect of varied angle, it is
+evidC'nt thnt, us might be foreseen , the three curvC's are very nearly
+I par: Hel, simply bein rr displaced horizontally with respect to each other
+hy an amount rou~hfy corresponding to tho chan$e in angle of setting.
+The minimum valUes all lie between 0.001 < n<1 0.0024 pounds, the
+di-ITerenco being well within the probable e. 'p crimell tal error in view
+of the indirect method by which the figures were obtained. Taking
+!Ul averago value, wo find that the drag due to the tail is a minimum
+at or ncar that angle of incidence at which the angle of the tail to the
+path of tho flight is + 4°. In other words, the angle of minimum
+drag and the angle of zero lift due t o a symmetrical tail tested in the
+presence of the wings are very far from coinciding, the latter being
+the greater by several degrees.
+29105°- S. Doc. 123, 65-2- -20
+
+,
+...
+
+9
+,;-
+
+,
+I -
+
+306
+
+REPORT XATIOXAL .ill :ISORY CO)BHTTEE FOR AEr..O~AU'l'ICS.
+
+EFFECT OF SIZE AND SETTING OF TAIL ON STATICAL LONGI':'uDINAL
+STAnILITY.
+
+Weare now able to consider the stability of the nirplane [Illd the
+manner in which it is affected by varlntions in tho de'sign. This
+stability is be~t. inv ~tiO"ated w~t?- reference to the mom(' 1ts all.out the
+center of granty of tJ\e macume, as the populni" vector dl, '6"' ....m ,
+while it possesses tho mC'rit of simpli~ity, does not. giv.e :1: true c;r~te:'io
+of stability except at the ungle where the machine 1S III eqUlhb~'lunl
+with the elevator neutral. 'in order to insure stl~tic.1.l sti1bilitv "t
+all angles the pitchino moment must lJW[l,YS decrcase (the po:,,: ive
+sign being gi\~en to stalling moments) uS the ang e of . eic:tmco
+increases, or, in other words, the slope of the moment C1U'VO n:ust bc
+neO'ative throughout the range of normal flight angles. On t"ll1 otl (~r
+hfl~d, it is obyious from a moment's consideratioll, as well us de uciblo
+from Bairstow's solution of the general stability equations, t~mt tl 0
+slope of the curve should not be excessive, as too much staticul stn,hility r esults in n. very short pitching period, which is uncomfortahlo ~'or
+the pilot. U1tra-st. ble mach.ines !lre also subject to the di",,,dvnntage that they require large elevators, moved through ['.. consi,ler ,blc
+r ange of ang1e', to b lance them at angles of incidence far removed
+from the normal.
+The complete machine was tested cmder 11 different cond:'Lo~lS,
+as already dc~cribed in detail in connection with liit and dr~'g. The
+moments about the spindle were measured with !1 cali~rated torsion
+wire, according to the usual procedul'e. Since so much depended
+on the flow of air from the wings to the tail and since it WaS cared
+that the straight spindle generally employed might unduly intorfere
+with this flow, it was discarded and an offsot spllldle, bent through
+right angles at three points and passing into the bottom ir--stoad of
+the side of the body, was substituted. The positioll chosen 'or the
+spindle gave a centor of rotation, about which the moments were
+measured, just above the trailing edge of the lower wing. The
+moments I1bout the center of gravity were computed by a process
+explained in detail by Dr. Hunsaker's pape / and which need not bo
+gone into here. The conteI' of gravity has been chosen, in every case,
+ill such a position that the machine was in equilibrium at un angle
+of incidence of 2°. This necessitl1ted using a different position for
+the center of gravity III each case, the extreme movement being about
+one-fourth inch on the model, corresponding to 6 inches on tho
+m achine.
+The r esulting curves are plotted in figures 22 to 25, the moments
+bein~ reduced to foot-po.unds ,Per unit mass (slug) . The muss of t 10
+Cur t1ss JN2, ready for fl1ght, 1S 55 .9 slugs. It Will be seen that they
+are very similar in general shape, ana that there are no abruf)t
+decreases in slope except in the case of the medium tail at _ 2°.
+n
+this case the discrepancy with the other curves is vory probably due
+t o an error. The stability, represented by the slope of the moment
+curve, is always least at or near an angle of incidence of 3°.
+The curves speak for themselves, and it is difficult to draw any
+specific criteria for stability, especially since the degree of st:1tic,"!.l
+1 Experimrntal A alysis of Inherent Lon¢tudin~l Stability (or a Typic~l J3iplano, by J. U. liUll!:::l:cr:
+First Annual Report o( tho" -aLlonal Advisory Committee (or Aeronautics, p. 30,
+
+307
+
+REP ORT XATIOXAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+stnhiliL~T
+
+to be; wished for is not definitely ImO'Yll. All of the cuses
+tested giye satisfactory stability. It is apparent that a decrease of
+] 0 per cen t in the size of the tail has an ei'ect equal to that of a docren. '0 of 2° in the angle of setting, and a consiclomtion of all factors
+o ::.tability, control, oLe., would soem to point to the use of a tail of
+
+i\
+
+",
+
+"- ",\
+l,a.
+IP"'' ' "In
+
+In -:;
+
+'" ~ ~\
+
+~
+
+lin
+
+"
+'<
+~
+
+/
+
+Izo ~
+
+I I
+I
+~~
+~
+'\ ~
+I
+/
+1
+\
+
+~;
+
+"
+
+'~~
+
+""\
+1
+\
+
+'\
+
+[\
+
+I,a
+~
+
+Mo/'>4~""'T'~
+ABOu T
+C C . .,:j""'AL.L 7A , ~
+
+70
+
+Ar VAR'O<J3
+~
+
+/
+
+/
+
+~
+
+'"""/\ \
+!\
+"" \1 \l
+I\.
+
+1'-
+
+i\.
+
+A,..cL.oC3
+
+\
+
+0 - 7 '·
+
+\
+
+."
+"
+
+1
+
+mn
+
+':!tL:1.
+
+W6 '
+
+1 1\
+\
+
+\ \1'
+\J, \
+
+1
+
+' '''0
+
+-
+
+'"
+
++,a '
+
+-,t:'
+
+.
+
+r AN< 1..& f.~ /,
+
+4:
+
+~z '
+
+",I
+
+4
+
+~
+
+...,'
+
+/\
+
+N •
+
+ANtE
+6
+
+N'C.
+
+CIO
+
+/2 •
+
+,., -
+
+P"- /'
+
+I
+
+17
+
+JZ
+
+I~ '{ \
+
+utJ
+
+1-,,-,
+
+/
+
+\
+
+- .JJ,J. 0
+
+X -.f"
+
+"0
+
+/
+
+I
+
+"" "'"
+
+~
+
+"
+
+90
+
+I
+
+"\ ~\
+
+A~ '
+
+7CH/
+
+19
+/
+
+1
+
+J~
+1\
+
+I
+
+FIG. 22.
+
+large size set at a small anO'le relative to the wings . This recommendation is fortified by the decroused drag from such an arrangement,
+t.his factor alone beinz enough to balance the slight increase in weiO'ht.
+Even wi th a tail of tne present size the angle might be decreased to
+_ 2° without prejudicial results, and the euse of motion would proba-
+
+I
+
+310
+
+REPORT :!'IATIO)I"AL ADVISORY COMMITTEE FOR. .\.ERO ...TAUTICS .
+
+moved back nearer the 14 0 vector. A bn.ch.-ward movement of the
+center of gravity, too , has the effect of decreasing the sta.bility, since
+the change in moment arm is the sn.me for every vector, and the moments are consequently most increased where the force is greatest;
+
+IAni
+1M
+
+"Ir\
+~
+
+Pn"'In
+
+0~
+
+"~I
+~
+
+'-."
+
+l\
+
+~
+
+In ~
+
+~
+
+I
+
+t
+
+'/n
+
+\
+
+I""
+
+I
+
+~
+
+I~ t'--,
+~'
+~
+
+oJ
+
+'-
+
+....
+
+I'i'>
+
+t
+
+I
+
+I
+
+"'"
+~
+
+""
+1\\
+
+'\~ ~
+
+.".,
+
+I
+
+~
+
+I
+
+1=
+"?n
+NlO"""E:~r~
+
+I......
+I ~n
+
+rA,J-...:5
+X
+
+e
+..a
+
+\,""
+\
+
+A e:;ou-r C.G
+
+M~CJIUM
+
+A Ll-
+
+L3<:;.0y
+
+L.A~o~
+S;o.'fA'- L..
+
+I~
+
+I
+
+~
+
+I
+
+\
+\""" \ .\
+\ <
+
+TA,l7:1/.L-
+
+7A/~
+
+'00
+
+\..
+
+I
+
+'20
+
+I
+
+'')0
+
+\
+
+'''n
+1,0
+
+,,"
+
+•..e 0
+
+10"
+
+~
+
+I
+
+\ \ \ \1
+
+I
+
+110
+
+1
+
+""\ \ \ 1\\
+
+AT_..!j ~ o
+
+/l4I!!DllJ~
+
+I
+
+.
+
+A'Y(
+
+",.
+
+6 '
+
+FIN
+
+L&
+
+b-
+
+/0·
+
+,.o~ J c..c
+I.e '"'
+I~Q
+
+I<!J "
+
+I<!J
+
+/
+
+\
+
+'\ I
+o
+
+ta
+
+I
+
+FIG. 25.
+
+i. e., at l arge angles of incidence. The result is to flatten the momen t
+curve.
+For the sake of completeness, and to facilitate comparison with
+other machines, the vectors for the IN-2 have been superposed on the
+
+REPORT X.\TIOXAL ADVISORY C01'lDIIT'I'EE FOR AEROXAuncs.
+
+311
+
+side view in figure I,. and a vector diagram for the biplane combination 1 as been drawn III figuro 26.
+EFFECTS OF LENGTH OF BODY
+
+O~
+
+ST,\BILITY.
+
+Figure 27 shows the moments for the J~2 equipped with the standnrd body and with the long· nd short bodies, the ta.ils used being such
+i1 at the prod ct of their area by their distance from the center of
+WayiLY of tho machine was the same in the till'eo cases . It would
+then nppear that, if the anglo 0 ~OWllWl sh .were.the s.,tme in the t~~e
+cases, the moment curves should be s nSlbly Identlc:tl, and t IS IS
+actually t1 e case. Tl..1e short nd medium bodios gave moments so
+
+n
+ill
+17
+
+.:r
+V£CTVR DIAC/f'AM
+FOR L3IP.t..AN.!!:
+
+COMBINATION
+
+1
+8
+1':3
+
+I
+Fro. 2G.
+
+11rn1'ly Ole same at all angles that one curve represented both sets of
+pain ( , whilo the stability of tho long body combination with the
+smnll tnil was slightly less. In a previous sec tion we h[~\'"e discussed the
+ll11g10 of downwash, and deduced th:1.t it v:1r1es somewhat with the
+length of body, and that the effectiveness of the tail surface also
+Yaries with its distance away from the body. 'These and other similar
+cfrcds are all small, however, and it appears that they virtually ball nco each other in r espect of moments.
+In figure 28 aro plotted the moment curves for the long and medium bodies in combination with tue small L il at:1n ancrle of - 3-t°
+to tho wing chord . The stability is greatest for the 10~0" body, as
+would obviously be the case, but the effect of changing le~gth i,,; less
+
+19
+IT
+
+20
+
+312
+
+RF.P ORT N ATIOXAL ADVISORY CO:\DIITTEE FOR AEIlOXAUTICS.
+
+than might be expected, !lnd the inevitable conclusion is thnt , so L _
+'
+ns stnticallongitudinal st.ability is c6ncerned, a considerablc dccrcu s-!
+in the length o '-he body over present pra.cticc i::; permissiblc, and mlLy
+t
+
+40
+
+.,. 10
+
+.~
+MOMENTS
+
+"'BOUT C.G
+
+SI%t!! 0 ' r,fn_
+/NI"'CI<"3'::J-Y
+~I'\:'O""ON rION,.q ,'TO c:n:;.'TAN~
+
+F RO"...,
+
+C.G.
+
+C!J
+
+L.o/VG
+
+es.:;,c;,y
+
+x
+
+/tI1e CHLN"''''
+.0 .:SN..JtC" r
+
+i\
+IQQ
+
+L
+
+..
+..
+
+l\
+
+~\
+
+100
+
+LIIl)
+
+\1
+
+ho
+1/40
+
+FIG. 27.
+
+be strongly desirnble. Of this, too, we can speak with more certainty
+in connection with the determination of damring coefficients and the
+study of the periodicity and damping of the general longitudinal
+motion.
+
+313
+
+ItEPORT X ATIOX AL ADVISORY CO)DIJTTEE FOR AEROXAUTICS.
+
+/
+
+/
+
+THE EFFECTS OF THE VAr:IOUS ELE:'IIENTS OF AN AIRPLA. TE ON
+LO);GITUDI~AL STABILITY j . "D THE PLACI);G OF THE FOA CE
+YECTORS .
+
+•\1tJ ough the abo,o subject WAS not extensively investigated, tests
+mude for the single wing, for the bipI!U1e combination, and for
+
+\\"(')'0
+
+~n
+
+f
+
+,
+
+1 I
+
+I
+I
+
+'0 '\.
+
+?n~
+
+"" ~
+
+f"D
+fa
+" /0
+
+I
+
+I
+
+~
+~
+
+;;
+
+I
+
+I
+
+I
+
+1
+
+"
+
+~I~
+
+<-
+
+,I
+I:
+
+20 Ie..
+
+~I
+l-fo ~I
+
+~
+
+~
+
+1
+
+I
+
+1 ""'- ~
+
+f50
+
+"" ~ ~~
+~
+
+iso
+
+~,
+\
+
+60
+
+\
+
+"
+
+I
+
+(10
+
+MON/l!:NT::>
+S/"4At..L
+
+90
+
+)I.
+
+Q
+
+l/oCi
+
+17
+
+\\
+
+1
+
+\\
+
+A BOUT C .G
+
+TA li -
+
+1.oNG
+
+\
+
+-.3; '"
+
+18
+
+\\
+\ 1\
+
+TA /~
+
+N~ c"v/V1 7"""",,1-
+
+/10
+
+If
+
+19
+,.
+
+[\\
+
+l.2tJ
+
+IJO
+
+I
+-I
+
+t·
+
+I
+
+o' • 12'
+
+l'
+
+RNa .<:! "
+ID'
+e:J'
+
+/HG =~"
+
+10'
+
+12 '
+
+cc-I
+
+140;
+
+ItE°
+
+'" .
+
+zo·
+
+.0
+
+FIG. 28.
+.)
+
+the mo.cbinc complete except that the tail was lacking. The results
+of these experiments have been plotted in two dillerent ways. In
+figure 20 we h ave plotted the travel of the center of pressure of the
+single wing and of the biplane combination, tl e latter being deflned
+fiS the poin t of intersection of the force vector and a line para.l1(,l to
+the chord of the wings and midway between them. The chm..... of
+
+314
+
+REPORT XATIOX.\L .\D\"ISORY CO:YDfITTEE FOR AEROXAUTICS.
+
+the biplane combinntion is limited by the lines connecting the 1(';1(1ing llnd trailing edges, l"ospcclinly, of the upper and lower v:ings.
+Secondly, figure 30 slows the moments of the bipl: ne combination
+and of the machine with tail removed, the moments being reforred to
+the point located as the center of gravity of the stand rd m:~('hjnc,
+with medium tail sot nt - 3),°. The dillerence bch"'oen th :. i,ovo
+two quantities is also plotted, this representing the eliect o' boJy
+and chassis.
+,
+The travel of the center of pressure is closely similar for the single
+win,a and for the biphne combination (with struts, of COUl 'e, included) is very simi! r, but the biplane center of pressure is sl'ghtly
+farther back tlu-ough the greater part of the range, the ml1:"imum
+sepilration in this portion being about It per cent of the cl ord.
+
+I I I
+
+LGoo
+
+NC
+
+po..:
+
+"-
+
+I
+
+I
+
+e
+~
+\)
+L'>
+
+I
+
+~
+~
+
+I~ ~
+
+~
+
+~
+.4
+
+,'"
+,~
+
+I I
+I
+~N
+
+I
+
+0
+
+II
+
+I
+/
+
+I
+
+I
+
+......... V-
+
+V
+
+I
+
+I
+
+i
+
+~
+1"'7
+
+C P. TRAveL .c:.irF"£:L .36
+
+IA
+
+o
+
+SiNGLI!!:.
+
+x
+
+eUPLAN~
+
+WING
+
+I
+
+I
+
+COM.!!JINATIOAI
+
+',.~
+
+I
+
+'~G ~O~J
+
+ci -:--=- tN=
+
+>-R4'
+
+10·
+
+L.
+
+IAN<Yk F. yr;
+
+I... •
+
+.6
+
+"'.
+
+a
+
+a
+
+/0
+
+.-
+
+To
+
+/2-
+
+/09 -
+
+16'
+
+/<1]'
+
+~o "
+
+FIG. 29 .
+
+The biplane curVe turns less l1bruptly n.s tile angle increasos, so that
+n.t In.rge angles the center of pressure is farther back for the single
+wing. The dotted line in this figure represented theJ)osition of the
+center of gravity of the machine under standn.rd con ' itions.
+From figure 30 we see, us is equn.LIy obvious from a cursory inspection 01 the vector diagram for the complete machine, thn.t the
+biplane combination e.-erts n. diving moment about the center of
+gmvity at ali angles of incidence. The machine without the tail exerts an even gren.ter diving moment n.t ali points, indicating that the
+sign of the moments due to the body n.nd chn.ssis is alwn.ys negn.tive.
+T1 is is due chiefly to the resistance of the chassis, centered far below
+the center of gravity. The moment due to the addition of the tail
+is zero at between 10° andll 0 . This angle of zero pitching moment
+
+315
+
+REPORT XATIOXAL ADVISORY eO:\L\IITTEE FOR AEROXAUT es.
+
+cllN'k - with n fair degree of accurllCY with the angle of zero tail lift,
+!rc:~dy determined. .Although the slope of the pitching moment
+cury(':; for the biplane combination aIld for the machine without the
+bil is e\'crywhere neqative, it must nol, be inferred that this indi(·ates. t. hility. The SlOpo of tho curvo is n satisfactory criterion only
+WllCI tI e moments are related to a point nt which the system is in
+equilibrium at some normal angle of incidence, and this is not the
+·:lSC hc·re, as the moments are everywhere neg"tive.
+If a moment
+:lxis be chosen such tl u.t the moment about it is zero anywhere
+between _2° [!nd +20°, it will be found that the curve has a positive
+!SioJle througl at least a part of its range.
+in order to define the position of t11e cente of gravity of the
+mu.chine, and to furnish a guide to designers in choosing u. position
+for thnt point which will give equilibrium at the desired u.ngle of
+(.0
+
+0
+1
+
+I
+
+-;::;-,
+
+-
+
+-:-,
+
+-.
+
+-/0
+
+I
+~
+
+~I'
+
+-::-.
+
+fZOr" ~
+~
+
+~
+
+30~
+J.:
+
+I
+
+~
+.........,
+
+140,,·
+
+r--- "----., "----- ~
+
+t-=t:-,r-- r-- I
+-r---.,
+
+~I
+
+<l
+'l
+'0 ,-
+
+MOM~NTS
+
+<1
+;;0-
+
+o
+A
+
+e;r~EcT
+CHA:::J.:!J/~
+
+A",
+-,e
+
+o·
+
+'" ""
+
+0"- .liZSOD')"" AND
+
+70
+
+~J
+
+.......,
+
+1
+
+ABOUT
+
+SrANOA"'I:O C .G
+X MACHINE W"rrfOuT rAIL.
+i3(PL-ANE: CoIv1e/r¥ATIOr-l
+
++ •
+
+.of
+
+G
+
+.t..&
+
+'
+
+c
+
+I
+
+O~
+
+I
+
+I
+
+~rC/= ~c~
+
+/0
+
+12 •
+
+141
+-
+
+I.;r
+
+~
+
+.l!...
+
+"-
+
+,'"\~
+
+J.
+
+-.
+
+17
+
+r
+
+19
+
+FIG. 30.
+
+ill idence, a line has been drawn connecting the center of pressure
+of the two wings at 2° . The horizontal distance between the middle
+of this line and the 2° force vector was thrl1 measured and multiplied
+hy a proper scale ratio to convert it to full size, thus giving the
+distance, in a horizontal line, from the mean center of pressure of
+the wings to the. center of gravity, assuming that the airplane flies
+at :2 0 incidence with the ele,'ator neutru.1. The same process was
+carried through for each of the cases, both for 2° and for 4°, and the
+eli ·tnnccs are tabulated herewith. The center of gravity was assumed to lie on the line of thrust, but the vectors for the angles in
+question are so nearly vertical that any reasonable raising or lowering
+of the. center of gravitv relative to the wings will air 'ct its fore-and-aft
+Joeation only n. very slight degree. The center of the line connecting
+the individual centers of pressure of the wings was used to locate
+
+cO
+
+316
+
+REPORT XATIOKAL ADYISORY CO?r:MITTEE FOr:. AERO_-AUTICS.
+
+the datum plane in preference to the center of pressure of tho biplane
+combination, as it is much oil.sicr to seCUTe information on tl 0 C(~l er
+of pressure travel for a sil gle wing of a gi\cn section than to seClL'e
+similar information for a eombill:1tion of two wings.
+T>Jst..onco rcom
+B ody.
+
+Tcil.
+
+_
+\n\!loo!
+ta,l to
+win~
+
+chord.
+
+C\..'ll!. ...'r O:l/:',·s·
+seT..) • () C.'~ntcr
+
+\"ity.
+
+- - - -2".
+
+Med inm.... . .. .... .... .. . ............... .. ....................... 8m3]!. .. ..
+Do ..... .. .. . .. . ............... .. ........ . ............... . ... . ... do .... ..
+Do . . . . . . ...... . . . . . .. ... . ......... . .. ... ....... ...... . ......... . do •.. . . •
+Do .. ......... . ... . ........................................... Medinm .. .
+Do .. ... . .. . ......... .. .............. .... .. .... .. .. .... .. ....... . d0 .... ..
+
+Do . ....... .. .. . ............. .......... ..... ..... ............. . .. do ..... .
+
+~~::::::::::::: : ::::::::::: :::::::: :::::: ::::: : :: : : ::::::: ::: .~:;rg~:: : ::
+
+Do .. ........ .. . ......... .. ......... ..... ...... . .. . .............. do ..... .
+Short •.• . . ............... .. ................................. . . ..... . do .. . .. .
+Long: .... .. ... ....... . ... . . . .................................... -. Small . _.. .
+
+3i
+5
+7
+:l
+
+3}
+
+5
+
+1
+2
+3'
+
+3£
+3h
+
+I- ...
+-
+
+Ir.(;ha. Inches.
+S
+13
+~
+H
+12
+IS
+5
+10
+S
+13
+0
+1.1
+S
+"
+5
+10
+1-1
+s
+Il
+13
+6
+12
+
+This table shows that the J.>osition of the center of gravity to give
+equilibrium at any given pomt small angle is nearly independent,
+WIthin reasonable limits, of the length of the body and the size of
+the tail. It is, however, materially affected by tho angle at which
+the tail is set. As the angle of equilibrium increases, the required
+position of the center oi gra.vity approaches the centor of pressure
+of the wings alone with great a.pidity .
+
+..
+
+o. 7.
+PART III.
+
+DY~AMIC.
+Dy ALExA~DEn
+
+KLElrl:-<
+
+and
+
+EDWARD
+
+L A. TAL S S.
+P.
+
+i\"ARXER
+
+and
+
+GEORGE
+
+~L
+
+DENE:IXGER.
+
+FUNDAMENTAL I'llIKCIPLES 0:' D':NAMIC;'.L STABILITY.
+
+Before takin~ up in detail the dynamical stn,bility of the Curtiss
+JN3, we shall briefly tabulate, for purposes of r ference, the wellknown principles on which the treatmt'llt of dynamical stability
+depends, and shall discuss the methods of npplying tl ose principles.
+It has been found by Bryan 1 and oiher im-estigators that the
+general equations of motion of an airplano, 'with symmetry taken
+il to account, re(Iuce to two sets of equations of the fourth degree
+in A, A being the logarithmic increment or dec'l'ement of the oscillation, one of which equations corresponds cO symmetric, or longitudinnl, the other to asymmetric, or litter: 1, oscill tions. The second of
+these equations does not enter into the present itl-vestign.tion in any
+form, III d we shall not discu s it. Before proceeding to an examination of the first, it is necessary to describe the notation adopted.
+The origin is located at the center 0 grn.vity of the airphne.
+The three mutually perpendicular n.xes of reference Ilre fL'.:ed lU the
+mn.chine in such aJ)osition that they are parallel and perpendicular
+to the relative win when the machine is in steady horizontal flie>ht.
+They therefore change their position with respect to the earth s
+the n.irplane oscillates. When there is !1 change in speed of flight,
+however, and consequently in n.ngle of incidence, the axes change
+their position in the machine. These axes arc denominated the
+x, ?f, and z n.xcs, and the forces pllrallel to them, respectively, re
+c:111ed X, Y, and Z. The x axis is parallel to the rehtive win 1,
+the ?J axis is parallel to a line connecting the wil g tips, and the
+z axis is -vertical. The moments about these axes are denominated,
+l'rspecti-vdy, L, M, and J.V. The components oi v-elocity parallyl to
+the x, ?I, and z axes are called u, v, and w, and jJ, q, and r, similarly,
+nrc the components of angular velocity · bout these axes, Rnd co1'1'esponcliug to the moments L , 31, and 1\ .
+It has heen sho:\'n that the longitudinal motion may be considered
+s entirely independent of the side slipping velocity v and of tho
+nngular yelocities of r oll and yaw-p m d T . This is not stl'icthr
+correct ill every case, a side slip having :1 distinct influence on the
+dr:lg, nd n. roll affecting both lift and drag, for example, but it is
+necessary to make the approxin1l1,tion in order that the equations
+of motion may simplify as described above. En.ch of the five coefficients in the biqun.dr atic may then be written as a function of one
+1
+
+Stability in Aviation, by G. H . Dryan.
+
+317
+
+17
+
+17
+
+.1.
+
+,
+
+T
+9
+
+318
+
+REPORT :SATIO:SAL ADVISORY CO)nHTTEE FOR AERO:::\AUTICS.
+
+or more of 11 quantities-the speed u (negn.ti'\e when the ma!'hil e
+is moving forward in the normal manner), the radius of ~.\'l'u..ti(lll
+about the u axis J{JJ2, and the nine resistance derivatives -Y.'U' Z,,,
+:u X w, Zw, 1.1w, X q, Zq, and Mq , X", representing
+It is
+w
+found that Xq ancl Zq nrc so small as to be nep:ligible, anJ. J1'U is
+zero, since the moment about the center of grn.yity of the u..irpl· 1 0
+due to u..ir forces i~ zero in horizontu..l flight and therefore will not be
+affected by variu..tiol s in speed.
+Our eleven original quantities are thus reduced to eight, and he
+coefficients in the equation A},,4+B}.,3 + 0}.,2+D}"+E=O may then be
+written in the following form :
+
+0:;;'.
+
+A = Kn 2
+B
+
+= -
+
+0=
+
+(M q +X'UKl/+ ZwKnZ)
+
+1t:lI +X",Mq+Kn2 Ji: "i:=.Mq(Zw+Xu) - UMw+
+q
+
+x
+
+J{n 2 (X'UZw - Z ... X w)
+
+u
+
+D= - 7u.
+
+o
+
+E= - g Mw Z ..
+COMPUTATIONS OF RESISTANCE DERIVATIVES.
+
+The flrst sLep in comput,ing the resistance derivu..tives for a specific
+airplane is to determine X, Z, and}.f for each angle of incidence a.t
+which the model was tested, and to plot these against the a.ngle of
+pitch away from tho position of equilibrium.. To avoid the appearance of mass in the stl1bility equations, all forces are reduced to
+pounds per unit mass. The transformation is made or X and Z
+by the application of the equations :
+'
+X =D cos 8- L sin 8
+Z =L cos 8+D sin 8
+8 being the anglo of pitch. The method of obtaininG' M has alreiLdy
+. been described in the first part of this report, and ~as been carried
+through for all the cases under examination for an angle of incidence
+of 2° and I1ngles of pitch extending from _6° to + 18°.
+Xu. and Z ... may be readily calcul ted from the fact that2 11 the
+air forces on a machine vary as u 2 • X therefore equals Ou and Z
+equaJs (JI.I} . Differentiating the first of tl esc, we have
+
+oX
+2Xo
+Tu =2 0 1u=-U ' and Zu., similarly, equals 2Z ·
+-U:
+o
+
+To determine X w , Z,o, and Mw. it is necessary to consider their physical mea.ning. A vertical velocity w, compounded with 11 horizontal
+flight-velocity U, results in a flight path inclined to the horizontu..l
+- lTW
+
+at the angle : -tau -'0' If the angle of the airplane with respect
+to the earth remains unchanged, in accordance with our assumptions,
+the angle of incidence will be increased by tn.n-
+
+1
+
+15·
+
+Since
+
+I~EPORT
+
+XATIOX.\.L ADVISORY CO:!\E\IITTEE FOR AERO_-A"GTICS.
+
+1
+
+~} = °b; . ~~ , and e= G+ tan- ~, ~-~ = °ii ·
+1
+
+V W2 = ~/f-
+
+1 + -t]2
+
+319
+
+. U2 Z
+
+w2 '
+
+w is alwnys small in comparison with V, and wo may, therefore,
+.
+.}
+oe
+aX
+.
+'
+wrIte, WIt lOU t ·
+serIOUS error, ow 1 Be may ,b e 0 b tame d grap h 1-
+
+=Do .
+
+cally, being equal to 57.3 times the slope of the X -curve in l111its of
+foree per degree. Zw and J.llw, simil rly, are given by the expressions
+!i?l . b.Z and 57.3 . !1.~1.
+Vo b.8
+Vo
+b.8
+The only remaining resitance derivative is Jlq , the damping
+coefficient of pitching. This is secured by oscm ting the model in
+n. current of air, measuring the time required for the amplitude of
+the oscillations to be damped to a certain predote ·mined degree.
+The method has been fully described elsewhere,l and will not be gone
+in to hero.
+The solution of the equation of motion for the oscillator reduces to:
+
+log. ~ =~, where t is the time required to damp the angle of swing
+from 00 to e and I is the moment of inertia of the entire oscillating
+mn s, calculated by timing the periods of oscillation with the oscillator
+counterweights in two different positions, and eliminating the effect
+of the springs between the two equations thus secured . The maximum amplitUde of oscillation is about 3° each side of the equilibrium
+position.
+Bairstow has shown 2 that fJ" the damping coefficient, is a function
+of pl'v where I is any linear dimension of the machine, tlus deduction
+being bused on a strict proportionality between the air forces and
+the square of the speed. The above relation, in so far as it states
+that the damping coefficient varies as the first power of the speed,
+is in close accord with the results obtained by oscilb,ting experiments at different speeds for the complete model of :m airplane; but
+the dampin(; coefTieIent for the apparatus alone varies with the speed
+in a highly IrreguInr manner, being nearly constant at speeds of from
+20 to 35 miles per hour, beyond which points it changes rapidly.
+This behavior is in accordance with that indicated by previous tests
+wiLh the same apparatus, as is shown by the positions of the observed
+points with respect to their curves, although it has always been
+le'sumed that the discrepancies from a straight line were caused by
+oxperimental errors, and such a line was drawn through an average
+of Lho points . In the present experiments, since fJ, for the complete
+mou lIS considered to be directly proportional to the speed, a mechanical method of fairing the curve and obtaining Jfq has been substituted for tho devico of plotting all the points and drawing the line
+by eye, as has formerly been the custom. fJ, \vas found for each
+enso at seven diiIerent speeds, ranging from 12 to 39 miles an hour,
+nnd was divided by the speed of test, thus giving the damping coeflicil'IlL at 1 mile an hour. An average of the seven values obtained
+for the even different speeds was then taken to be the true value
+I E'p('rilllrnbl .\ n,lysis o( Inhorent Lon/titudinal Stability for:1 Typicul Biplano, by J. C. RunS<lker:
+FIr ~ AII Il l: ,I It pon o( L X"Lion:>l Advisory (ommittee for Aeronautics, pp. 41-4 .).
+!:o
+''1"110 J;'p<'ri "\ent1! netrnnination o( Rot.ary CoellicicnLs, by Leonard Baustow: Rcport of iho British
+Au\' Lwry CO\ulIliLteo (or Aerouautics, 1~1z..13, J). 176.
+
+17
+]I
+
+19
+
+I
+'9
+
+2
+
+320
+
+REPORT KATIOXAL ADVISORY CO~DU'ITEE FOR AERO_-AU'IICS.
+
+for 1 mile an hour] except where one or t,,;o of tl e values ,Yore so far
+from the rest as to be obviously wrong] in which case these abcrr;mt
+values were omitted from consideration in making up the avcr~lge .
+This method also has t 1C advantage that the mean deviation of the
+individu:11 values from the average gives an excellent quantitative
+measure of the accuracy of the run. This deviation \\'t s almost
+alwa.ys found to be less than 4 per cent. Ha.ving found this unit
+damping coefficient] Jlf,! is found by multiplying by the fourth power
+of the scale of the model and by the speed] di\-iding by the m ss of
+the airplane and changing tl e sign] since Mq acts so as to resist
+pitching.
+SOLUTIO~
+
+O· THE STABIL TY EQUATIO~.
+
+Since the motion is oscillatory] the roots of the biquadratic stability equation will be complex] and will occur in pairs. The substitution of any root in the expression y=e·/.t gives the product of an
+exponential] the exponent corresponding to the real part of the
+root, and a trigonometric expression invOiving both sine and cosine,
+and therefore having the period 2.. ] the magnitude of the angles (in
+radians) corresponding to the imaginary p:1rt of tho root. In order
+that tho motion may be a. damped ono, the real parts of a.ll the roots
+must be negative, and tl:e condition for this is, as clemonstr!1.ted by
+Routh \ that all the coefficients in the equation: A}..'+B;V+0}..2+
+D}..+E=O] must be positive] and that the expression BOD-ADzB2 E] known as Routh's discriminant] must also be positive. The
+magnitude of Routh]s discriminant is frequently taken as :1 criterion
+of the degTee of stability, but it is not entirely satisfactory for this
+purpose, as will be shown later.
+Bairstow has shown 2 that tl is equation can be so bctored us to
+give approximately correct roots] since the values of the cocfticients
+do not vary widely in modern airplanes of standard type. The
+solution is as follows:
+
+(}..Z+~}..+~) (}..z+[g_ ~!~}+~)=O
+The first factor corresponds to a short and heavily dumped oscillation] the second to one of much longer period. If there is any
+instability, it appears in the latter motion. It is evident that] if
+the second motion is to be stable, ~ -~~ must be positive, and OD
+must therefore be greater than BE. This is a somewhat simpler,
+although less absolutely correct, criterion than is the use of Routh]s
+discriminan t.
+The above product multiplied by A is: AM+(B+ Afj _ Ag::}3+
+
+.
+. ( 0+ AE+ BD - BZE)';I.z+D}..+E=O . In order that this may be
+0"
+0
+0
+identical with the original equation, the conditions : OD=BE and
+AE + BD = B~E must be satisfied. These conditions are incompatible
+unless AE= O] which is manifestly impossible in a statically stable
+1 Advanced Rigid DynamiCS, by E. J. Routh.
+2lnvsotigation into tho tablli,y of an Aoropl no; Report of tho British Advisory Committeo for .\ero·
+nau tlcs, p . 160.
+
+-------
+
+32
+
+Tli:PORT ~ATION"AL ADVISORY COl\DUTTEE FOR AEROXAUTICS.
+
+mnchine, as neither :Afw nor Zu can be zero in such an airplane.
+Bair"t.ow's solution is therefore never perfecdy correct, but it is close
+ellourrh nt all times to be of great value, which is all that has ever
+he('n 0 claimed for it.
+It hns already been stated that Routh's discriminant is not a.
+sati fnctory measure of stability. A better quantity for this pm-posa
+cnn he obtained in the following manner.
+The most satisfactory basis for a . ingle e. 'pression defining tho
+degree of stability, is the percentage of <1; mping dm-ing one complete
+o. ('illation . A large value for this cxpres iOll 1S to be desired, as it
+inyol ~es heavy damping in combination with a long period, both of
+which make for comfort and safety. The damping in one oscillation
+depends on the ratio of the period to the time l'equired to damp the
+nmplitude 50 per cent, both of which quantities ha.ve been determined
+for every case investigated. If we write Our quadratic in the form
+A1+aA+b=O, the period equals
+
+half equals
+
+2 100' 2
+oe
+
+a
+
+P
+Then t
+
+f2 ~7i'
+
+and tl1e time to damp onea..j4b _ a" ' where F is a constant, and,
+
+"''f o Fa
+
+?
+
+D BE'
+
+substituting their true values for
+
+7::
+
+and a,
+
+Fi( (/ - 0 2
+
+'!!.t
+
+,0-
+
+)
+
+BE)2
+(/ - (j2
+
+'
+
+and
+
+4E (D
+
+/
+h
+COD0 E
+- BE)2 IS a maXlmum.
+.
+.
+t us expreSSIOn IS a maXImum w en
+3
+J.
+
+'.
+
+•
+
+CODc,:%E)2 will therefore serve as the
+
+des~red
+
+measm-e of stability.
+A word of caution is necessary to the effect that this does not furnish a
+means of distinguishing degrees of instability, and that, of two machines
+gi\-ing negative values, the one for which the value is algebruically
+lItrg st (nearest to zero), may be the more unstable of the two. Only
+po iLive values, therefore, should be taken into account. To minImize the efIect of instability it is desirable th t the product of the
+reri ~d and the time to double in amplitude, not their ratio, be a
+lllfiXlmum.
+
+17
+
+l\Z
+
+18
+1
+9
+
+DYNAMICAL STABILITY OF THE CURTISS JN2.
+
+The resistance derivatives were computed and the stability disCllS rcl for Meh of the 11 difl'erent combinations of body and tail
+which \\'e1'e made up. The machine was also placed on the oscillator
+without a tail, in order to determine the amount of damping, or the
+proportion of 1\I Q' due to the winO's, body, and chassis. It would,
+however, have been useless to mD,1;::e complete stability calculations
+in this condition, as it is obvious that a machine which is unstable
+in a statical sense can not possess dynamical stability. The calculations have all been made, as in the case of tho statical 'Work and
+tho reduct.ion of the center of gravity, for an angle of incidence of
+2°, corresponding to a speed of slightly over 60 miles per hour.
+Investigations by Dr. J . C. Hunsaker 1 have sho'wn that the degree
+of stability of any given machine falls off rapidly as the speed deI Expcrim~nt"1 Analvsis ot Inherent Longitudinal Stability tor 3 TYJ?iC I Uinlano by J . C. HllllS:lker:
+First A nnunl Heporl of tho National Advisory COmmitteo tor Aeronautics, p. 56.
+'
+
+2!l1G5°-S. Doc. 123,65-2- -21
+
+I
+19
+]I
+
+cO
+21
+
+322
+
+REPORT ~ATION AL ADVISORY COMMITTEE FOR AERO:NAUTICS.
+
+creases, and that all typical machines investigated became unstable
+in respect of he long oscillation at some spee greater than the roiniZ-
+
+,t)
+
+I
+
+;=' 1)
+
+e:; ,...,
+
+"'"
+
+I
+
+1
+--- -
+
+----===+.. -
+
+I
+
+;z::.
+
+-!
+
+~
+
+. ~
+
+"'-.
+.........
+
+"-
+
+,
+
+",r,
+
+~: ~
+
+I z:...
+
+14<;
+
+~
+
+~
+
+)( d
+
+140
+
+--
+
+N e . D / V"",,
+
+.~
+
+800V'
+
+sr-,.... L..L.
+
+TAIL
+
+-.,J,"---:5": - - -
+
+1."1'5
+!,~
+
+/
+
+.:;>#;
+
+.;/
+
+PO
+
+A
+
+,""
+~
+
+Jr'
+
+."
+
+/
+
+£7
+
+/
+
+k1
+
+2"
+
+(/
+
+s'
+
+~y
+
+V
+
+I
+
+/' ~ ~
+
+A
+
+,~\
+
+'Z"
+'\
+
+L~
+
+.'1
+
+~
+
+~:
+
+~
+
+~
+
+,2.
+
+'\
+
+~
+
+~,
+3-
+
+f
+
+~
+
+./
+
+4
+
+r..
+
+~(
+
+J
+
+"'-
+
+< /
+
+1\
+
+-..
+
+A
+0"
+
+'-lGL-E
+
+.. ,"
+
+2..
+
+)F
+
+NC/C
+
+E!,o
+
+4"
+
+e N
+
+5·
+
+J
+
+e:..
+6"
+
+7"
+
+5"
+
+ANGLo!:!
+
+- 2:
+
+O·
+FIG. 31.
+
+mum att~ina~le in ili".ht. An intermediate angle, corresponding to
+a good climbmg speed, was therefore chosen for the present experiments.
+
+- 3,.
+
+Case 1. Medium body, small tail at
+Case II. Medium body, small tail at _ 5°,
+Case III. Medium body, small tail at -7°,
+Case IV. Medium body, medium tail at _ 2°.
+Case V , Medium body, medium tail at - 3~0 .
+Case VI. Medium body, medium tail at _ 5° .
+Case VII. 1I1edium body, large tail at _1°.
+Case VIII. Medium body, large tail at - 2° .
+Case IX . Medium body, l:J.rge tail at - 31°.
+Case X . Short body, large tail at - 3;1,° ,
+Case XI. Long body, small tail at -3~0 .
+
+323
+
+nEPORT NATIONAL ADVISORY CO::Vl:MITTEE FOR AERONAUTICS.
+
+The curves of X and Z are plotted in figures 31 to 34.
+TAULE
+
+I.- Tabulation
+
+ofresi~tancc
+
+denvati1'cs.
+
+_ _ __ r _c· ____ I_ _ u·_ ~I _=__I~__=_I~I~
+_
+-
+
+I .. ... ... .. ....... .. ... . . .. ... ..
+11. ..... .. ......... .. .. . ... .. •· •
+llf . . .... ... ...... ... . .. .... ....
+1'.' ." . . . . . . ... .. .. .. .. . . . ... - . -
+
+v .... .......... .... .... . .. .. ...
+
+VT . . ... .. .... ...... . . . . . ... ....
+
+V Tl .. . ......... .. ..............
+Vfll. . .. ......... .. ...... .... ..
+
+90.8
+92. 3
+01.5
+90.9
+91. 7
+02.3
+01.5
+
+-
+
+-
+
+-
+
+-
+
+- O~ . l
+
+IX .. . . .... ....... . . . ...... .. ...
+X ...... .. . .. .. ... . .. .. ..... .. . .
+
+- 9\.0
+- 03. 9
+- 02. 0
+
+XI. . . .... .......... .. . .... . .. ..
+
+- 0. iO~
++0.21S
+- • G~S I + .m
+· 6~1
++ . 210
++ . 212
+· 79~ ,.. .23·\
+· ; 02
+. 227
+. GOS
+. 70:1
++ . 216
+. 602
++ . 212
+. 6f-5
++ . 2~O
+• GSS
++ . 226
+. 700
++ . 226
+
+- 0. lOS
+
+-
+
+.1 0~
+
+-
+
+.114
+. l OS
+. 100
+. III
+. 106
+. 105
+. 110
+. 110
+. 107
+
+-2.76
+
++2. :n
++2.02
++3. 85
++1.97
++3.30
++ 3. 96
++2.63
++2.72
++4. 22
++3.36
++2. 78
+
+- 2.SS
+-2. 0·1
+-2. S3
+
+-2.1'0
+- 2. i9
+
+-
+
+- 2 . ~2
+
+- 2.S3
+-2. 03
+- 2.99
+- 2.66
+
+-
+
+130
+133
+138
+135
+J.l3
+151
+
+-
+
+107
+175
+136
+156
+
+- 100
+
+Z-
+
+ho
+
+Icb5
+1=
+[55
+
+150
+
+I
+
+I
+
+'----
+
+I
+
+~ :--.........
+
+:,...
+
+-~
+
+4"
+
+_ ,2 0
+
+/
+
+25
+
+L
+
+<'0
+
+J
+
+I"
+/J
+/J ~
+
+110
+
+Is
+
+~
+~
+16
+
+.3°
+
+---
+
+A"
+
+I
+
+~-
+
+-
+
+V
+
+~
+
+~
+
+#
+
+17
+
+V
+
+V ~
+
+.4-
+
+./ ~X
+
+'\
+
+1'1
+
+~
+
+4"
+
+-
+
+.
+
+AI' GLI::!
+
+- la·
+
+~""'G~
+
+I
+0-
+
+'\
+OF
+
+12."
+
+h"
+
+• ..1
+
+\~
+
+,
+
+~
+
+Co
+
+o·
+
+FIo. 32.
+
+//"JC
+
+..9°
+
+<: F
+
+D~ /' C ~
+0
+
+p
+
+-"
+
+",,"
+
+TvH
+
+...
+
+~.
+
+.TIl
+
+18
+
+,\
+,'\,
+
+V
+
+2.°
+
+I"
+
+"\
+
+___
+
+- j-':
+
+:.'\5
+
+~
+
+V
+
+;::r
+
+1'.""- / .
+--"- K"
+
+Meo~u/'V1 $ oc>y
+M~&>ILJM T A IL.
+
+'- 3.,f1J -
+
+LL
+
+~
+'- ~~ ~
+
+x. a.z:::
+
+:"'10
+
+Ic_
+
+><-
+
+14"
+
+I~ "
+
+2.
+
+~\
+lAo
+6"
+
+19
+
+Ie.
+20
+21
+
+324
+
+AUT CS.
+REPORT NATIOX -AL ADVISOTIY COl\DII TTEE FOR AERON
+
+All the values above were obi.tin ed by direct calcula tion from the
+of
+observ ed forces, momen ts, and dampin g times, with the except ionll.Y
+a few of those origint
+those for M q . These are hired values,
+secure d being slightl y incons istent with tho rost. In no case dld this
+fairing alter the value by more than 3t per cent.
+
+.z
+
+I
+
+7'"
+
+I
+
+7Q
+
+c."
+r-.n
+
+I
+
+/
+
+I-
+
+loS:'>
+1.'50
+
+~ :---......
+
+~-r--
+
+r-~_"
+
+~
+
+~.~,
+
+1'-.
+
+""~,~!"'-. V
+K~
+/V ~
+
+k#
+
+IX
+l4
+
+I
+
+k
+
+~
+
+145
+x&ZLARO!!: .
+
+·-40
+
+A r
+
+/AI/....
+i;'ARIQvS ANOLc::;,
+
+,0
+_ ___ __
+
+- ..e. - - - - - - - -
+
+-JC
+
+3'>
+
+1'.!,\
+
+/
+
+I'll>
+
+~
+
+e'5
+
+4-
+
+/ 1
+
+~~
+
+.3
+
+"~
+
+~~
+
+\:\
+
+R V'
+
+ip..D
+
+A
+
+,,>
+
+,~
+...-A
+" :;: ~ I-z-
+
+\\1
+,
+
+?
+
+,
+
+Ir;
+
+roO
+
+- -1'
+
+I.:>
+
+AN
+
+'0·
+_..eo
+
+,1-'"
+
+o~
+
+/,
+
+CIO£'.
+
+.4". Ol-e::
+
+0""
+
+o·
+
+Nc4
+;. I
+
+4"
+
+'Z"
+R/rC
+
+£.'
+
+A"
+
+,.
+
+G'
+
+/. '
+
+FIG. 33.
+
+DISCUSSION OF THE RESISTANCE DERIVATIVES.
+
+the
+X U v n.ries only slightly. It increases with the angle betwee nIt is
+slightl y with size of tail.
+wings and the tn.il, and increas es very
+st
+grm·.ter for the short b6dy than for the long. The largest and smalle
+by less than 5 per cent.
+v alues among the 11 are separa ted
+Z", is inverse ly propor tional to U, and calls for no special comme nt.
+The maxim um variati on here is less than 4 per cont.
+X ,., Zw, and Mw are determ ined much less accura tely than Xu
+of
+and Zu, as they depend on the lope or the curve, not on the value
+te. Xw varies in a highly irregul ar manne r thr ugh a range
+its ordina
+
+REPORT XATIOX A.L ADVISO RY CO)DII TTEE FOR AEROZA
+.UTICS.
+
+325
+
+of about 12 per cent. Errors in the determ ination of this quanti
+ty
+may accoun t for a large part of the variati on .
+.2'0 also varies irregularly, but not so bucUy, showing a
+tenden cy to increns e with the absolu te ,-alue of the tail an;rlc.genera l
+The behn.vior of the mome nt curves and the ,ariati on of
+have lllreudy be n discussed. .Mw increas es rapidly withtheir slopes
+increas mg
+tail angle and with incr easing size of tail. The only serious discrep
+z.
+
+lin
+
+I
+
+I
+
+~"
+
+X
+
+It;{)
+.')5
+
+V
+
+:z:
+
+:..t.
+
+V -
+
+~
+r-- .......
+
+I",r">
+
+/
+
+v/ '
+
+~ .......
+, ""-
+
+"- ~
+
+W;
+
+"."-k
+
+Xd;z :.
+
+ko
+
+.
+
+I, Y
+
+#
+
+';:> 0;\
+
+1;:>0
+
+,v
+
+/1
+
+V
+
+/'
+
+V
+
+/
+
+4
+
+V I~~
+
+1\\
+\
+
+;"'-'X
+
+.
+•
+
+~, )
+
+~
+
+:;( , ~ "
+
+L~v~ (,t
+~ " V/
+
+'j/,
+
+(5"
+
+I t)
+
+o· .
+.
+
+~
+~-
+
+L3'
+
+12'
+
+1\
+
+-,.
+
+2.
+
+.,L)r,. G-.L..
+
+10'
+-2-
+
+.. I,·
+
+Ie:
+2 '·
+
+<: F
+
+L"?-
+
+VNCI
+
+14"
+
+I
+
+I~·
+
+I
+19
+
+p.e..... c=
+1)0
+
+8
+19
+
+~
+
+.
+
+Y~ t~/
+
+17
+
+.IE
+
+1\\
+
+\)
+
+/{~
+r' V
+
+..-
+
+3
+
+~.
+
+V/{~\
+
+''''
+
+A?
+
+S
+
+')
+
+"S
+~!)
+
+V
+
+7·
+
+k,·
+
+o·
+
+T'-
+
+20
+
+FIo. 34.
+
+aney h('re is in the values for the large tail, where the change
+slope of the mome nt curve due to a change in t,lil angle fromin the
+_ 10
+to - 2 0 is almost negligible, compa red with that arising from a change
+from - 2°to _ 3~0.
+The most interes ting of the derivat ives, howev er, is the
+coefficient, Mg . The dampin g action on the tail is genera lly dampinoassume
+to rise from the fact tha t wh en the airplan e is in pitch the tail d
+has
+
+21
+
+326
+
+REPORT NATIO~A.L ADVISORY COMMITTEE FOR AERO!\". UTICS.
+
+angle of incidence due to the pitch. If the truth of this hypothesis
+be admitted, the damping moments should vary as the square of the
+distance from the tail to the center of gravity, and should also he
+proportional to the area of the tail. In geometrically similar mitchines, therefore, the damping coefficient should vary as the fourt:'"
+power of a linear dimension, a. bet which has a.lready been ·em. rked.
+In varying the length of the body and the size of the tail simultaneously in accordance with the convention which we adopted, the clamping coefficient should be directly proportion::u to the length of the
+body, and it will be seen that this represents the actual condition
+within the limits 0 . e.·perirocntal elTor if allowance is ma, e fo . the f· et
+that the damping docs not all arise from the ta,il. A quantitative
+discussion of this pO.i nt (t~le distribution of damping between the
+elements of the m chme) will be entered on at another place. When
+the tail area alone is changed the damping increases with area, i11deed, but the increase in damping, especially when the brge t!1il is
+substituted for the medium one, appears to be consider' b1y more
+r apid than that in area. The changing of body length alone also
+causes a variation in damping mom en t more rapid thl1u would be indicated by a strict adherence to proportion·lity to the square of the
+leno-th.
+l'7he most striking feature of the damping coefficients, however,
+is their variation with angle of tail settmg. In every ese, even
+before any fairing was attempted, the value of 1.1q increased w'ith the
+angle between the ta.il and the wings, a result whIch is in direct COl travention of the damping hypothesis which we have alre.:1dy described. It has never been conclusively demonstrated however,
+that the for ce on a plate at a fi.....:ed angle of incidence is t h same s
+e
+the instan taneous force when the angle of incidence is constantly varying,' and i t may be that there is an inherent dumping force arising
+directly from a change in the type of field of :/low. Such a force
+would U1J.doubtedly ,\, ry ,,-ith the magnitude of the direct force on
+the t ail, and would ;:here:~)!'e gi'\e the obser'\eu result.
+CO~.IPUTATION
+
+OF KB'.
+
+The r adius of gyration under each case was computed on the following assumptions :
+( 1) Changes in tail :1ngle have no effect.
+(2) 111e weight of the tuil is proportional to the area.
+(3) The weight of the body is propor tional to its length (for small
+v ariations) .
+(-1) The radius of gyration of the part of the body behind the center
+of o-ravity is proportional to its length.
+(5) The difference between the moments of inertia of the various
+tails about their own respective centers of gravity is negligible.
+T he r adius of gyration for the J~2 in its standard arrangement has
+been very carefully calculated, and the computation has been checked
+by swinging the complete machine/ the result being very nearly
+5.S feet.
+A tabulation of the other cases, as calculated from the standard
+radius of gyration and the assumptions above, follows :
+Dynamica l Stability of .\orophnes, by J. C. HunS3ker.
+2 ElIot oxorc..l sur un :lile p run '"ont r;1piul\Dlont, by Com. LJ.p:lY : L:l T~C'bnique 'Modllrne, lIny 1, 1914. .
+
+1
+
+• Experimontal .\ nalysis of Inhorcnt LongiLUdinnl Stability for 1\ TrpiC:ll Dipl:wo, by J . C. H=ker;
+• First Annual R eport of tho KIILioDal AdvIsory Co=itteo for Aoronautlcs, p. 40.
+
+REPORT NATIONAL ADVISORY CO::VIMITTEE FOR AERONAUTICS .
+
+ED'
+
+327
+ED
+
+33. 3
+3-1.0
+3.1.~
+
+5.77
+5.83
+5. 00
+
+3U.3
+
+6.02
+
+32. 3
+
+5.
+
+G~
+
+FORMATION AND SOLUTION OF STABILITY EQUATIONS.
+
+Each case has been treated separately, the coefficients of the
+biquadratic being computed from the resistance derivatives and other
+quantities previously glven, and the period (p ), time required to damp
+to SO per cent of the ori~inal amplitude (t), and percentage of damping in one complete osciuation (d), being computed for both the long
+and the short oscillations in accordance with Bairstow's approximate
+solution, already described.
+Case I. Medium body, small tail at -3!0 :
+A=33
+
+B=226
+0=S98
+D=82
+E=S3
+BOD-AD2 _ 'B2E=82X lOS
+
+Short oscillation : )..2+6.78 )..+17 .96=0
+-3.39± "';4S.9 -71.8
+2
+2.46 secs.
+t = 0.20S sec.
+=
+
+p=
+
+=
+
+-3. 30±2.SSi
+
+d = 99 .98 per cent.
+It is evident that the period of this oscillation is so short and the
+damping is so heavy and so complete that its existence would be
+hardly perceptible to the aviator.
+
+Long oscillation : )..2+0.103)..+0.0885=0
+Whence
+)..= - 0.OSlS±0.293i
+p=21.4secs.
+
+t=13 .Ssecs.
+
+d=66.6percent.
+
+The stability here, while much less than for the short oscillation,
+is still amply sufficient for safety and comfort.
+Case II. Medium body, small tail at -So :
+A=33
+B=233
+0=684
+D=92
+E=66
+BOD-AD2 _ F-E= 107x105
+Short oscillation : p=2 .18 sees.
+per cent.
+Long oscillation: p=20.4 secs.
+per cent.
+
+17
+
+rz
+18
+19
+1
+19
+J[
+
+20
+21
+t=0.199 secs.
+
+d=99.75
+
+t=13.6 secs.
+
+d=64.7
+
+328
+
+I
+
+... -
+
+/
+
+REPORT ~A'IIOXAL ADVlSORY COMMITTEE FOR AERONA.UTICS.
+
+Case III. 'Medium body, small tail at - 7° ;
+A= 33
+B=240
+0= 02
+D=1l0
+E= 84
+BOD - AD2_B2E= 160 x 105 •
+Short oscillation: p=l.S9 sees .
+t=0 .193 sees .
+percent.
+Long oscillation : p=19.65 sees.
+t=13 .1 sees.
+percent.
+Case IV. Medium body, medium tail at - 2°;
+A= 34
+B=235
+0=591
+D= 72
+E= 45
+BOD-AD2_B2E=70 X 105 •
+Short oscillation: p=2.7 sees.
+t=0.201 sees.
+per cent.
+L-ong oscillation: p=23 .1 secs.
+t=15 .1 secs.
+per cent.
+Case V. Medium body, medium tail at - 3-t° :
+A= 34
+B=242
+0=735
+D=100
+E= 74
+BOD - AD2_B2E= 131 X 105 •
+Short oscillation: p=2.10 secs.
+t=0 .195 sees.
+percent.
+t=13.5 secs.
+Long oscillation : p=20.1 secs.
+per cent.
+Case VI : Medium body, medium tail at - So ;
+A= 34
+B=250
+0=81 9
+D=1l2
+E= 89
+BOD-AD2_B2E= 169 X 105 •
+Short oscillation: p=1.93 secs.
+t=0.189 sees.
+per cent.
+t = 13,4 sees.
+Long oscillation: p=19 .3 sees.
+per cent.
+Case VII. Medium body, large tail at - 1° :
+A= 35
+B=262
+0=725
+D= 97
+E= 59
+BOD-AD2_B2E= 141 X 105 •
+Short oscillation: p=2.43 sees.
+t=0 .185 secs.
+per cent
+L ong oscillation: p = 22.1 sees.
+t = 13 .25 sees.
+per cent
+
+d=99 .89
+d=64.7
+
+d=99.9
+d=65.3
+
+d=99.9
+d=64,4
+
+d=99 .92
+d=63 .1
+
+d=99 .99
+d = 68.S
+
+REPORT XATIOXAL ADVISORY CO:lDfITTEE FOR AERO)rAUTICS.'
+
+Case VIII: :Medium body, hrge tail at _ 2 0
+A= 35
+B=270
+0=758
+D=101
+E= 60 .5
+BOD-AD2_B2E= 159 X 105 •
+Short oscillation : p=2.42 secs.
+t=0.179 secs.
+per cent.
+Long oscillation : p=22.7 secs.
+t=13 .25 secs.
+J)er cent.
+Case IX. Medium body, large tail at - 3~0:
+A= 35
+B=281
+0=946
+D=128
+E= 93
+BOD-AD2 - B2E=261 X 105
+Short oscillation: p= 1.90 secs. t= 0.173 sees.
+per cent.
+Long oscillation : p=20.3 secs. t=13.1 sees.
+. per cent.
+Case X . Short body, large tail at _ 3~ 0:
+A= 32
+B=236
+0=752
+D=101
+E= 74
+BOD-AD2 _ B2E= 135 X 105
+Short oscillation : p= 1.99secs.
+t= 0.191 sees.
+per cent.
+Long oscillation : p=20.3 secs.
+i= 13.5 secs.
+_J)er cent.
+Case Xl. Long body, smull tail at - 3~0:
+A= 36
+B=264
+0=737
+D= 99
+E= 63
+BOD-AD2_B2E= 14.4 X 105
+Short o:;cilbtion : p= 2.36 sees.
+t= 0.1 91 secs.
+per cent.
+Long oscillation: p=21.8 secs. t=13.5 secs.
+per cent.
+
+329
+
+d=99 .99
+d=69 .5
+
+d=99.95
+d=65. -.,
+
+d=99.93
+d=64 .8
+
+18
+/9
+T
+
+d=99 .98
+cZ=67 .3
+
+On revie,,;ng tho above cases it is seen that from tl e point of ,iew
+of dynnmicallOl1gitudinnl stability, it is evident that all these slight
+I"ltrj;1{iolls from the normal ~ive entirely satisfactory results at the
+mediulll speed for which analyses "'ere mr.de. The short oscillation
+II nr gi\-es ny trouble, and, indeed, the pilot would hardly be u.ble
+to perceive its existence as an oscillation . .Although there are distill('t vll.riations in the period and strength of dampmg for the long
+os("illll.tion, these viLriatl ns arc small in magnitude.
+'Vo shall, somewhat later, treat the eifects of variations of certain
+dtyutives on dynamical longitudinal stability, but in reviewing
+/
+
+J7
+
+N
+
+19
+
+:t.
+
+20
+21
+
+..
+
+33 0 • REPORT
+
+KATIOKAL ADYISORY COl\DlITTEE FOR AERO~AUTICS.
+
+these 11 cases, where everythin~ changes at once, it is only possible
+to draw the most gener!).! conclusions. In increasin~ the ::mgle of
+tail setting, passing from Case I to III, IV to VI, and VII to IX, there
+is manifested a ~eneru.l tendency to shorten tho period of the long
+oscillo.tion :lltd decrenso the time required to damp one-half. The
+percentage of damping in Olle osci1lation decreases somewhat, so
+that the net effect of such changes may be considered to be unf VOl'able. An increase in tail angle bring'S about a considen ble increase in
+},flO' the static righting moment, and a slight increase in jJ1", the
+damping moment. It is evi lent at once thn.t the first of these changes
+will decrease the period and that the second will decrease the time
+r e9uired for dn.mpil1g.
+rhe effect of tail area "Was less than might have been ::mticipt ted.
+There wo.s a gener!11 tendency to decrease both period and damping
+t ime with a larger tail, the angle bein a kept constant.
+A comparison of Cases V, X, and XI ~ows tho.t tho period increases
+as the length of the body is increased, the tail nren. being correspondingly decreased . The damping time, on the other hand, is o.bsolutely identico.l for all three cnses. When the body length in increo.sed
+withou t changing the tail area there is, again, surprisingly little
+change. Such as there is is a general improvement, through a ler gthen in g of period, a decrease 0 damping time, or both .
+In short, it appears that considerable modifications can be made
+in the size, placing, nd an ngement of the tail surf ces without
+serious adverse effect on dynamical longitudinal tability at moderato
+and high speeds, and that these details may be chosen primarily
+from the standpoints of weight, aerodynamic efficiency, maneuverability, an d the possession of a sufficient degree of sta.tic stability
+to insure 0. moderately r apid recovery from a nose-dive or other
+abnormal attitu de. The needs of lateral stability, too, must be kept
+in mind when changing the length of body.
+P HYSICAL CONCEPTIOJ. S OF THE RESISTANCE DERIVATIVES.
+
+By appropriate alterations in design, almost all the derivatives
+can be slightly varied one at a time and without substantial change
+in the others . To determine what these alterations should be, the
+most straightforward method is to assume variations in en.ch of the
+derivatives singly, and to calculate the effects of such deviations on
+the long oscillation . At the same time, it is of the highest inlportance
+to h ave a physical conception of the nature of the derivatives, as a
+check on the conclusions derived from a purely mathematical tre!1tment . The basis for such physical conceptions has been e:A--pounded
+with particular clearness by Dr. J . C. Hunsaker.l
+(a) 1.I w , the statical moment derivative, represents the change in
+pitching moment with vertical velocity. If the airplane rises, the
+r elative wind ha.s a downward component, and the angle of incidence
+is diminished. If J.1w is positive, it will tend to head the airplane
+up . Conversely, if the airplane drops the relative wind has an
+upwar d slope, the angle of incidence is decreased, and since w is now
+n egative, N w will tend to head the machine down. The effect of a
+p ositive Mw is ther efore to maintain the airplane always at the same
+angle to the wind. If Mw is v ery large, it tends to pro uce v iolen t
+oscillations with a shor t period, the condition being analogous t o
+1
+
+D ynamical Stability 01 Aoroplanes, by J. C. Hunsaker.
+
+REPORT KATIO~AL ADVISORY COl\DIITTEE FOR AEROKAUTICS.
+
+331
+
+that of a ship with excessive metacentric height, or, to choose a more
+homely illustration, to that of a weight vibrating at the end of a
+Y
+y strOller spring. If lJi,o were very mall, the motion would be
+gentle, with a long period, but, on tho other hand, the recovery
+fLer n, eli. turbanco would bo insufficiemly prompt.
+In the culculn.tions submitted 11Iw varies through a wide range, as
+Wt1S pointed out in connection with tho staticlll section. T ble I
+S.1OWS that lar!?e changes can be made in J1w hy changing the angle
+of the tn,il, and tha.t such changes have no commensurate effect on
+the other derivatives.
+Taking the standard case (medium body, medium tail at - 3tO) as
+a hasis and carrying through the customary compu tations for vu,rious
+values of .1110 , all the other derivatives and the speed being assumed
+unchanged, we have the following results:
+Change
+in AI ...
+
+jjI ...
+
+Poriod .
+
+Timo to
+
+a
+
+mp
+
+ono-h' If.
+
+--------Per cent.
+
+o (Std.)
++20
+- 20
++50
+- 50
+
+/
+
+/
+
+- SO
+
+3. 30
+3.~6
+
+2.64
+4.9.5
+1.6,;
+
+0.66
+
+20. 1
+19.0
+21.5
+
+17. i;5
+25.6
+39.0
+
+J3 ..S
+13.$
+13.1
+I·J.5
+12.0
+10.3
+
+Damping
+in ono
+oscil"'·
+tion.
+
+Per cent.
+(;\..,
+
+Ill. 5
+C7.S
+57.4
+77.2
+92.7
+
+It is evident that the effect of increusing ..:1110 is wholly unfavorable,
+the period being shortened and the damping decreased. The third
+and. fifth of the above combinations appea.r most sa.tisfactoryhthe
+period being long and the damping considerable, and still wit out
+acrificing a dangerously large amount of static righting moment.
+y- .1[10 be sufficiently decreased the solution of Bairstow's second
+" ctOr becomes a real number, and the motion ceases to be oscillatory, hecomin~ a dead-beat subsidence. In the case under discussion,1[10 would have to be decreased to 0.11 to arrive at this condition, and so small a value would not be safe from other standpoints.
+A reduction of ]110 to approximately 2.00 withot. much effect on
+any other derivative could be secured by the use 0 a tail half way
+bel-ween the medium and large ones in size, and set parallel to the
+wi.ng chord. This is in accordance wiih our provisional recommendation, made in the fu'st part of the report, that larger tails set at
+smaller angles should be used.
+(b) J1J q represents the r ate of change of pitching moment due to
+angular velocity of pitch, or the coefficient of inherent dampin& of
+pitch. The effect of this quantity on longitudinal stability nas
+upparemly been very m uch overestimated. Varying Mq alone as we
+ha" e just done for 11w , we have :
+Cha7,0
+of .J g.
+
+.JIg.
+
+p.
+
+t.
+
+17
+ill
+
+18
+19
+
+I
+19
+
+Ji
+
+20
+21
+
+d.
+
+- - - - - - - - - - -- - -PCT
+
+cent.
+0
+
++ 10
+- 10
++ 50
+
+- 50
+
+-100
+
+- 143
+- 157
+
+20. 1
+20.7
+
+- 72
+0
+
+19.45
+22.85
+16. 85
+13.05
+
+- 129
+- 214
+
+13.5
+
+&1.4
+
+13.0
+H.05
+12.1
+16.95
+44.0
+
+61l. 8
+61.6
+73.0
+49. S
+I S. 6
+
+J.
+
+--..
+
+_
+..
+
+332
+
+REPORT :SATIOXAL ADvISORY COl\DfITTEE FOR AERO:SAUTICS.
+
+Increases in the damping coefficient have exactly the opposite effect
+to sinular c11a.nO"('s in ..:liw , uecreasing the damping time :1.Tlcllengtl ening the period. 0 Con iclcrable alterations can, however, be made without senously altering the nature of the motion . E,en when the
+dampiJ1g co ffi.elent is reduced to hnlf its normnl value, a change
+which would hardly 1e brought about by any modifica.tion short or
+the complete removal of the tail, the motion is still not uncomfortt"bly
+nolent, although the stability is much deCl·eased, and the critical
+speed for instability would be considerably higher th~ n that for the
+standard machine. When M q is still further reduced to zero the
+machine is still stable, althou~h now only slightly so. Since damping
+depends more on size of tail tll:1D. on angle, :Alq can be increased without changing Mw by increasinl$ the size of the tail, and, "hat is even
+more important, the length ot the body, while decreasing the, ngle
+of the tail to the wings. A broad, flat-bottomed body a.lso contributes
+to damping.
+(c) Xu represents the change in X with changing forward velocity.
+It is evident from a physical standpoint that this should be negative
+and as lar&e as possible, so that any tendency to change speed will be
+immediatelY counteracted. Xu depends solely on the drag at 0° of
+pitch, and a high ~ ratio is therefore unfavorable to stability. M~ king
+a quantitative study, we find that an increase of 10 per cent in Xv.
+has no effect on the period, and decreases the damping time from
+13.5 seconds to 12.4. A decrease of 50 per cent, corresponding to
+doubling the ~ ratio, still leaves the period virtually una.ffected, but
+increases the damping time to a trifle under 20 seconds, so that the
+damping in one oscillation is lowered from 64 per cent to barely 50.
+Among the five coefficients of the biquadratic, Xu enters into 13, 0,
+and D, but its efect on B is too small to be perceptible, and it influences the value of D much more than that of O.
+(d) Xw should be hrge and~ositive for stability, as is evident
+from physical considerations. When the machine, in the course of
+its oscillation, starts to rise, it is desirahle that a force be set up which
+will oppose the forward motion, thus decreasing the speed and checking the rise. The result of changing this derivative has been examined in the same manner as for the others already treated.
+X w +l0%
+X,. = + .257
+p=20 .1 sees.
+t=13.1 secs.
+cZ= 65 .5
+Xw=O
+p=I.G .8 sees.
+t=10 .3 sees
+X w - l00%
+d=50.0
+Here, too, as in the case of Xu, the effect is shown mainly by il.
+lengthening of the damping time when the derivil,tive deere! ses.
+The change is rebtively smail, but ma.y be of some importance when
+the degl·ee of change is very large, as it is apt to be. "When tho angle
+of incidence deCl'eases and the speed decreases Xw drops oil' \yith
+great rapidity, actually becoming negative as the criticnl speed is
+approached, and it is to the rapid change of this derivative that at
+least a part of the instability a.t large angles of incidenco ma.y be
+ascribed.
+The means of controlling the behavior of .Xw may best be shown
+by a brief ma.thematical investigation. We have already shown that
+
+m:rORr XATIONAL ADVISORY CO:\DIITTEE FOR AEROXAUTICS.
+is'''"
+
+Xw is equal to the product of 5~ by
+X
+
+=
+
+·
+D cos 0 - L sm 8 .
+
+333
+
+negative constant, and tnat
+
+D'ffercntlatmg, we 1
+. .
+1
+1iWe: 5X = 58 cos 8 - D
+58 5D
+
+.
+' 0 oX 58
+\
+sm G - L cos 8 - BL sm 8 . S'
+88 .
+mee 8 I S , 18 = 5D - L . At smaII
+angles of incidence, the drag curve is neurl)"" horizontal, and ~X0 is
+0 -
+
+consequently neg'1.tive. As the angle inCl'ea es, the slope of the
+drag curve tuns up faster than the t1.bsohltc value of the lift, especially
+as tllC hurble point is neared, and the vallie of
+
+55~'
+
+and consequently
+X w, approaches zero and finally changes sign. To minimize the
+decrease of Xw at low speeds, the slope of the drift curve should be
+small an 1 the lift should be lar;re in proportion. In Fio·. 35 is shown a
+diagramatic representation of. two extrc ne types of drag curves,
+of which the one marked A will ob\'"iously correspond to much the
+higber value of Xw at low speeds. Other features of design which
+arc favorn.ble to a maintenn.nce of stahility from this standpoint
+arc : A wing section having the burble point t a small angle, the use
+oi a Vt riahle an&le of incidence, the setting of the wings at a large
+ngle to the top lOngeron of the body.
+
+I
+
+J7
+
+/
+
+ill
+
+I
+
+18
+19
+
+I
+19
+]I
+
+20
+21
+L
+FIG. 35.
+
+(e) In tho case of
+
+Zw, also, it is apparent that a brge value is
+
+desi rable, but in this case it should be negative, since the force Z
+ncts ill direct line with th e velocity w, and any change in the magni-
+
+I
+
+334
+
+REPORT N"ATIO:XAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+tude of Z must be in the opposite direction to w (i. e., must be negat·ve in sign) in order to damp the motion.
+Z w+ 10 %
+Z w- 100 %
+
+Zw= -3.08
+Zw=O
+
+p=20.6 sees.
+p=13 .2 sees.
+
+t=13 . .5 sees.
+d=65.3
+t=10.S secs.
+d=37.0
+
+It will be noticed that an increase in Z70 lengthens the period and
+decreases the damping time, thus markedly improving the stability.
+Zw, like X w , drops off rapidly as the angle of incidence is increase ,
+and this is another of the elements contributing to instability at
+low speeds. Ex mining Zw in the same manner previously employed,
+we see that it is proportional to :~ + D, the first term being by far
+the more important. Z70 will then maintain its original high value
+best for machines in which the burble point is "sharp," the lift
+curve running up on a constant slope to within a fraction of a degree
+of the critical angle and then breaking suddenly. This behavior is
+characteristic of thick win~ sections, such as are used for propener
+blade elements. A sharp ourble point, however, has certain disadvantages, such III chines being subject to stalling and exceedingly
+sensitive at angles of incidence near the critical ang1e.
+We have now examined, one by one, the effect of each of the
+resistance derivatives, with the exception of ZU. It is quite usC'less
+to treat this one, as it is a function of the speed alone and nothing
+can be done to modify its value. The next step, therefore, is to
+investigate the influence of the radius of gyration on stability.
+K 132+10%
+K13 2- 50%
+
+K 132=37
+K132 = 17
+
+p=20.1 sees.
+P = 20 .0 sees.
+
+t=13.6 sees.
+t = 12.5 sees.
+d=67 .0
+
+The effect is surprisingly small, especially in respect of period of
+oscillation, which might be expected to vary largely with K/.
+TAT e can say without hesitation that no variation of the radius of
+gyration which will arise in practice will have a perceptible effect on
+the stability of
+machine, and that the only importance of this
+quantity appears in connection with maneuverability and quickness
+of response to controls.
+The only important quantity remaining to be investigated is the
+speed. For treating this we have adopted the assumptlOn that the
+wei~ht of the machine, and consequently the loading, is chan~ed
+witnout changing the aerodynamic properties in any way and that
+the radius of gyration also remains unaltered~ .the effect being the
+same as if the weight of every part of the machine were to be scaled
+down in the same proportion. The mass of the machine will then
+be proportional to the square of the speed the flight attitude being
+the same in each case.
+Each of the si..x derivatives, under these conditions, varies inversely
+as U. Thus, for example:
+j1.l'U l·IU 1
+1l1q !X--;m:-Z U2 !X u
+The five coefficients in the stability equation then vary as follows:
+
+/
+
+I
+
+EEPOP.T NATIOXAL ADVISORY CO:\1l\fITTEE FOR AERONAUTICS.
+
+335
+
+A docs not vary
+
+Bex: 1
+
+7J
+
+1
+Occ-f]2
+
+D ,aries in an irregular manner, one term depending on 1 and
+
+U
+
+1
+
+two terms on V 3
+1
+Eex: V2
+
+Proceeding to examine the effect of altcrations, we have:
+U+IO%
+U= -100 .9
+p=20 .1 sees.
+t-14 .5 sees.
+d=61.8
+U= -129.8
+a=
+55.3
+
+U+41.4% (loading doubled)
+p=19.D5secs. t=17.15 sees.
+
+U-29 .3%Cloading halved)
+p=20 .3 sees.
+t=lO.l sees.
+
+iJ.= - 64.9
+d=
+
+75.2
+
+It is evident that, for a given flight, attitude, stability is improved
+1)y light loading and low speed,' and that this improvement ap-
+
+mainly in the form of increased damping, the pe iod being
+but little affected. This can be very simply explained on purely
+physie:ll grounds. The lower the speed of the airplane the (5reater,
+n·l:1.tively, is the restoring effect of any derivative dependent on
+W, v, or q.
+The period of the long oscillation is approximately given by 2
+JI('llrs
+
+the expression : p =
+
+211".J!i: and
+
+since both 0 and
+
+E are
+
+proportional
+
+17
+to -[; it would not be expected that the period would change materially. We have seen that this is indeed the case. The criterion
+·
+d' D 0 '
+I
+of cl Ilmpmg, on t h e oth er h an, IS: 0 - BR an dSID co B ex: I ' 0 ex: U2,
+
+U
+
+2
+
+bz,
+
+{p
+
+Rex:
+and Dex:
+(approximately), this expression will decrease in
+Y!lIue with increase in U. It is evident that pursuit machines, due
+to their high speed, will be peculiarly liable to mstability, and special
+iLcniion should be paid to their probable behavior in this respect
+when laying out the design of such airplanes.
+ELEMENTS CONTRIBUTING TO DAMPING.
+
+In order to make an analysis of this topic the model was tested on
+the oscillator with the tail removed, usino- both the medium and
+short bodies. The damping coefficient for the wings and short body
+WIlS found to be 0.000067, and that for the wings and medium body
+0.000070, as against a value of 0.000385 for the complete machine
+wilh medium body and medium tail at - 3~o. The tail thus furnishes 82 per cent of the damping for the standard arrangement and
+~ 1 per cent of that for the combination of short body and i arge
+t lil. It is quite possible that the use of certain types of wings having
+1
+
+Seo also id ., p. 44.
+
+2
+
+Id., p. 42.
+
+.IlZ
+
+18
+1
+9
+I
+
+!9
+
+:;r
+
+20
+21
+/.
+
+T
+
+336
+
+r
+
+/
+
+REPORT NATIO::SAL ADVISORY COMMITTEE FOR AERO:::<AUTICS.
+
+a stable center of pressure motion would greatly increase the dumping
+due to the ,,-ings.
+The damping due to the tail was cnlculn.ted for the aU'cPlune itself
+at ~ speed corresponding to an angle of incidence of 2 , and W: S
+found to be 117 units for tho medium tail in combination with the
+medium body, and 111 for the 1m'go tail in combination with tho
+short body. An indcpende11t. computation of damping due to the
+tail, based on the cllstomary assumption that the t!l.il ac.ts as a flat
+plate at nn angle of incidence derived from i s resultant p~th, has also
+been made. The en ch,e n pect ratio of the t:1il \\':1S n-Sl med to be
+3, as indicated bv tLe tests of the tail alone described in the fl.rst part
+of the report, and. due allowance was made for the portion of the t<1.il
+in contact with the body.
+The values obt incd by such computations were 79 and 72, ]'0spectively. These, are very Dearly t,\'o-thirds of the valnes found hy
+experiment, and the remaining third of the dl1.moing must be derived
+from some other s urce. The discrepancy is, in fact, considern.bly
+more than a third, as wo hU\Te already found that, due to dccreased
+air-speed and the extreme complexity of flow behind the wings, the
+forces on a tail 0.1'0 much smaller than those obtained by compntatio 1
+from the flat-phte formula. The additional moment m y well be
+accounted for by the hypothesis, mentioned l. bove, of a dissipation
+of energy in modifying the field of flow abont :1 pIn.to at :1 constantly
+chan~.ing angle of inCIdence. Tl1e damping computed from the size
+and cUstance of tho tail can be used as a basis for a stability estimate,
+proceedin~ on the assumption that the computed value forms 55
+per cent or the whole 11q .
+AN INVESTIGAT 0
+
+T
+
+OF LOW-SPEED CONDITIONS.
+
+Since, as has alrcady heon noted, typical machines become unstable at low speeds, an investigation of theso conditions hilS been
+added. The angle of incidence chosen for this study w' s 12°, at
+which the investigation of Dr. J. C. Hunsaker showed the Curtiss
+IN-2 to be slightly unstable. As there was not sufficient; time to
+carry out experiments on the oscillator at this angle, jJlq was assumed
+to be du'ectly proportionul to the speed of the machine, an assumption which. br. Hunsaker's experiments indicate to represent the
+facts fairly closely, but to be rather less favorablo to stability than
+the true conditions, . s jJIq actually diminishes somewhat less rapidly
+than does the speed.
+Thc resistanco deriv:1tives have been computed as before and aro
+tabulated below, followed by the coefficients of the stability equation
+and the period and time to damp 50 per cent for the long oscillator,
+the motion being .stable Ul every case.
+V
+
+Case. (M.P.H.)
+
+I
+
+II
+
+III
+
+IV
+V
+VI
+VII
+
+VIII
+
+IX
+X
+XI
+
+42.0
+·12.3
+42. 7
+
+·n.8
+
+42.2
+42. 2
+42. 3
+42.4
+42.6
+42.1
+42. 1
+
+U
+
+-
+
+61.7
+62.0
+62.6
+01 .4
+61.9
+61.9
+62.0
+62. 2
+62. 5
+61.8
+61.8
+
+]('0
+
+33.3
+33.3
+33.3
+34.0
+34 . 0
+34.0
+34.S
+3·1.8
+34.8
+32.3
+36.3
+
+~I-=- 0.151
+- .153
+- . 1.;0
+- .15<1
+- . 153
+- . 153
+- .15·\
+- .152
+- .152
+- .153
+- .151
+
+-1. 0-1
+- 1.04
+- 1.03
+-1. 05
+- 1.0-:
+- 1.0-:
+- 1.0-:
+- 1.03
+- 1.03
+-1. 04
+-1. 0-1
+
+x ..
+
+Z ..
+
+,)1..
+
++0.138
++ .112
++ . 102
++ .126
++ .116
++ . 008
++ .079
++ . OS9
++ . 069
++ .106
++ .124
+
+- 1.025
+- 1.00
+
++UH
+2.50
+3.41
+1.94
+2.44
+2.82
+
+- 1.00
+
+- 1.08
+- 1.07
+- 1.05
+- 1.10
+- 1.18
+- 1.21
+- 1.12
+-1.07
+
+2 ..15
+
+2.71
+3.19
+2.10
+2.60
+
+.Vq
+
+ss
+90
+92
+
+n
+
+96
+101
+lOS
+111
+116
+GO
+105
+
+x"Zw
+
+XwZ"
+
+0.158 - 0. HI
+.162
+.116
+. 163
+.105
+. 166
+. 132
+.164
+. 121
+. 161
+.102
+.169
+. 0'2
+. 179
+.on
+. Is.!
+. Oil
+.171
+.110
+.129
+.162
+
+I
+
+REPORT ~ATIO~AL ADVISORY CO:\DIITTEE FOR AERONAUTICS.
+Ca.sc
+
+- I
+II
+HI
+
+IV
+V
+n
+
+VII
+\"TTl
+
+IX
+
+X
+XI
+
+B
+
+C
+
+D
+
+I-
+
+E
+
+--127
+130
+133
+
+m
+H~
+
+152
+157
+16:l
+131
+1-19
+
+2:j·1
+
+273
+337
+2U
+278
+30.5
+302
+316
+3GG
+2.5.3
+300
+
+45
+49
+57
+45
+50
+54
+51
+
+56
+60
+45
+55
+
+6.5
+"-3
+113
+65
+81
+01
+
+85
+
+00
+105
+70
+87
+
+p
+
+I
+
+337
+
+--t
+
+Ii
+
+- --- - - - 11. 0';
+11.35
+10.9
+12. 05
+11.6
+11.3
+11 . • 5
+
+11.8
+11. 7
+11.9
+11.7
+
+3.3.0
+-11.0
+39.0
+38.0
+40.0
+
+-U . O
+
+~S.O
+
+40. 0
+39.0
+~O.O
+
+36.0
+
+22. 0
+
+17.5
+
+18. 0
+16. 0
+18.0
+17.0
+14.5
+IS.5
+10.0
+19.0
+19.0
+
+The results at low speed are less accur~te than at high, and the
+yalues of X w, which depends on the difference of two nearly equ
+quantities, can not be depended on within 15 or 20 per cent.
+The fact that the machine ,vas found to be stable (although only
+sliahtly so), whereas Dr. Hunsaker found the same machine under
+th~ same conditions to be slightly unstable, is accounted for by the
+braer values of Xw and ZlO obtained in the present experiments,
+and the e, in tum, were probably due to slight differences in wings of
+the model employed . A comparison of the characteristic curves of
+fi"urc 6 with Dr. Hunsaker's curves will show that the former approximOates much more nearly than the latter to the form (A), in firure 35,
+which was stated to be conducive to stability, and that the lift curve
+in the present report has the "sharper" burble point.
+The difference between the cases is slight, and there is nothing
+to invalidate the conclusions and recommendations drawn from the
+high-speed and statical analyses . The stability with the large tail
+is somewhat poorer than with the other two, due to a lower value of
+X w , which counterbalances the larger ]'/lq . This slight disadvantage
+cnll readily be overcome, however, by a modification of the form of
+wings and body ..
+An increase in tail an~le shor tens the period, exactly as at high
+speeds . Changes in the length of body, within the limits adopted,
+have no harmful effects .
+There seems no reason to doul;>t the possibility of developing,
+without radical changes from the present designs, an airplane which
+will possess a satisfactory degree of longitudmlll dynamic stability
+at all speeds within the range of possibilIty, and to do this without
+sacrificing, to a serious ex tent, aerodynamic efficiency or any other
+desirable quality.
+ZllG5°- S. Doc. 123. 65-2- -22
+
+J7
+.ITZ
+
+IB
+19
+
+I
+19
+
+Jl
+
+20
+21
+L2
+
+r
+
+,.
+...
+IT
+
+REPO T Jo. 7.
+PART 4.
+
+SUMMARIES.
+By
+
+ALEXAl<"DER
+
+KLElDN, and EDWAlU) P .
+
+WAR."1ER,
+
+and
+
+GEORGE
+
+M.
+
+DENKINGER.
+
+SUMMARY O' RESULTS OF STATICAL INVESTIGATION.
+
+1. The Eifl'el 36 wing, with raked tips and aspect ratio 7.2, gave a
+maximum LID of 21 and a maximum ~, of 0 .00315 .
+2. The aerodynamic forces on the body are not perceptibly changed
+by considerable changes in the length and abruptness of the run, or
+portion of the body in back of the largest cross section.
+3. At the ano-Ie of minimum resist::mce, the drag of body and chassis
+together is slig~tly less than double that due to the body alone.
+4 . The mean biplane lift cOlTection recommended for finding
+minimum flight-spced is 0 .95 . At small angles and high speeds
+correction factors of from 0.82 to 0.86 were found .
+5. The lift contributed by body chassis, and tail at large angles is
+negligible. At angles below 10° these elements exert a considerable
+neg: tive lift.
+6. The coefficient of parasite resistance varies less than 20 per cent
+bet\\·ccn 0° and gO . Its minimum value for the Curtiss IN- 2, including
+interpbno bracing, is 0.02 pounds per mile per hour.
+7. The drag contributed by body lllld chassis, in the presence of
+thc wings, is roughly three-fifths of that indicated by a test of these
+clemcn ts alone.
+8. The gain in efficiency from a decrease of the angle between tail
+and wings is exceedingly small, a change of 2tO in the tail angle
+increasing the maximum speed by only 1 mile per hour, and decrcasiug tho landing speed by one-half mile per hour.
+9. Ordinary cnanges in tail area do not fl'ect the landing speed
+perceptibly. The h1gh speed is somewhat improved by increasing
+tail Ill" 11. .
+10. Shortening the body of the IN-2 reduces the landing speed
+without affectino- the wah speed .
+11. The draa ~ue to the tail is very small except at large angles,
+and actually d;:ops to a negative value under some conditions .
+12 . The fi.n~le of tail setting can be much dccreased without serious
+loss of statica.L stability.
+13 . The center of gravity of the airplane is placed, for equilibrium,
+from 4 to 18 inches forward of the mean center of pressure of tho
+wi.ngs. This distance is greatest when the angle of equilibrium is
+smUll and the angle of tail setting is large
+339
+
+17
+
+ill
+
+18
+19
+
+I
+19
+
+IT
+
+20
+21
+
+340
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+SUMMARY OF RESULTS FOR DYNAMIC STABILITY.
+
+I
+
+"
+
+/
+
+1 . M q , the dampinO' coefficient in pitch, increases very rapidly
+with the size of the tait and with the length of the body. It increases
+slightly with tho angle of tail setting.
+2 . An increaso in tail angle decreases the period of oscillation and
+the damping in one period.
+3. Increased tail area shortens the period and increases the
+dampinO'.
+4 . In~reasing the length of body increases the stability slightly.
+5. To secure a maxin1Um of dynamical stability at high speed, all
+the resistance erivatives except ],fw shoul be larO'o in ab:-,olu io
+value. ]'1.0 should be as small as is consistent with a sufficient
+degree of statical righting moment.
+6. To secure these conditions, it is recommended that the angle
+between tail and wings be much decreased. A considerable shortening, of the body is permissible if accompanied by an increase in the
+tau area which will keep the moment of area about the center of
+gravi!y of the machine constant.
+7. ~ighty-two per cent of the damping moment is contributed by
+the tail. The damping moment computed for the tail in accordance
+with the usu al theory is about two-thirds of that found by exp ·iment. It is recommended, forjreliminary estimates, that the damping due to the tail be compute and assumed to be 55 per cent of the
+correct value for the whole machine .
+

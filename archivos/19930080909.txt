@@ -1,0 +1,849 @@
+t·
+
+FILE COpy
+. 0 I-W
+
+TEC:ilECAL r· QT:::;S
+;
+
+L
+No . 45
+
+By
+
+Capt . Toussaint and. Lt . Hayer',
+Aerotecnnical l~stit~te of Saint 8yr .
+
+Translated. from ti:e Frenc!'_,
+
+"
+
+"'0y
+
+Paris Office , N. A. C.A .
+
+:"iarcn , 192::' .
+
+To be returned to
+the files of the National
+Reproduced by the
+CLEARINGHOUSE
+for Federal Scientific & Technical
+Information Springfield Va. 22151
+
+Advisory Committee
+for Aeronautics
+
+Washington, O. C,
+
+,
+
+,
+
+-,
+
+.JATIONAL ADVJ:80RY COMMITTEE F OR. AERONa UT IC S .
+TECHNICAL N' OTE HO . 45 .
+
+8~IALIJ
+
+DIllli..ETER --I N AN AIRSTREA:dI OF H:::GH VELCCITY .
+.
+"
+By
+
+Capt . T oussaint a~1ci L ieut . Hayer ,
+Inst itut e of Sain t -Cyr .
+
+Aer~te chn ic al
+
+Translated froI:1 tile :s'renc:!.l.,
+by
+Paris Of:~i c e , N. A. C . A .
+
+. TD TL'NNEL - FoI' cur exper :"men-: s we u sed an
+'!l.
+~ _~_,'fe'l
+•
+_
+
+tJ-!T~A
+.
+. lJ _
+
+...t..'\..L. .
+' nne' c Orin"'r :
+• 1:-'
+U
+
+~
+
+Sl''Y'Ig,
+. _.
+
+.l.,
+
+...
+
+1
+\
+,
+
+SA e ... : 0 •
+.1.. 0'
+....
+
+.1.'
+
+-l.. ) .
+.
+, .
+
+A ccne, conve:.ging at an angle of aoou~ 40° .
+A ':vorking se c tiG::J., c yli::dri c al , 0 . 3C
+an~ J . SS m. :"n ~9~gt~ .
+
+'{t o
+
+:'n di2.meter
+
+A cone , ~~ve~g~ng at an ang: e of 7-1/2 ~egr ees .
+.A ~uc t :'or: fan , ac-c"..lated by aT:. electric motor .y ~e8XlS
+o~ a iJe lt .
+
+0:
+
+T~:.'3 var i ous 'part s
+
+>;eldir~g 2;.11c.. a::~
+
+:"7i vb. au'c ogel10U8
+~i t ~
+
+bolts anG
+'
+To
+
+j 'Jined -cogether -by :: l ange s
+
+~oinGE .
+
+v ro" '~p,
+....,Cv,,- __
+
+: "Y' ....
+.L __
+
+t~e flue are made of s:1eet metal
+
++-'0 eT'-;".;cl e .. l'.... Y
+· ,l,.1
+;,J_ ... ......
+
+....
+
+__
+
+J.
+O ·C'
+
+)'hi=>
+LJ __ '-'
+
+f-.T,
+
+__ 0.__
+
+(Y,,'P~T·:O·u. i::':"o...L. -J
+',.. , J
+\ ~.4
+~ .l.
+......
+
+'uO'e"
+
+C'J.....L
+
+as a blower ) , .. ol es 'i,8::e bored rouj,1d. i'cn ca.s:!.ng in o::c der to
+faci1ita~e
+
+t he e v acu<:.tion of 'uhe ex:t8.;ust air .
+
+Tt.e veloc i-cy
+
+0::
+
+L.:.' E"jrs-:ream in tbe \;o:c:ring section
+
+,
+
+-,,-
+
+- 2 tions .
+
+It reaches 90 m. per second for 585 revolutions
+po~r
+
+anj
+
+for a total
+
+of the ele c tric ffiotor of ab out 20
+
+F~,
+
+which corresponds to a coefficient of utilization of
+
+G. lo including the efficiency of the engine) of its belt
+t ransmission and of the fan .
+Inst ead of having a work i ng section with a diame t er
+of 0 .30 m., we can have one of 0 . 20 or Cl . 40 m.
+
+This is
+
+managed by having junc tion flanges of c onvenient d i runeter
+on t he conver 6 ing and. diverg i ng cones.
+With a working
+
+sect~on
+
+of 0 . 20 n. the velocitie s ob-
+
+tained a re smal l er for the same number of fan
+than with a
+
+sec~ion
+
+of 0 . 30 m.
+
+of 0 . 20 m. is much too small to
+fluence of the
+
+\~l ls
+
+revolut i o~s
+
+Furthermore, the diar,leter
+allo~
+
+of neglecting the in-
+
+on the bodies being tested .
+
+The steadine ss of the airst ream is not ve ry good , and
+th i s makes i t necessary to repeat the experiwents .
+serve variations of 2 to 3
+
+%at
+
+We
+
+o~ ­
+
+speed.s of 80 to 90 m/ sec .
+
+St eadiness may be i mproved by giving the c ol lector at the
+ent rance a
+
+sui ~ able
+
+form and by p l aCing a honeycomo at
+
+the ent rance of the working section .
+2 . - BALANCE - We used the balance previously used
+by M. Laurain in his experiment s on spheres (see Bulletin
+of the St Cyr I . A.T . - No. II) .
+
+It consists of a vertical
+
+frame of steel "!;uting, oscillating on two knife-ed6 es fixed
+t a a wooden stand. .
+
+T ~'JO horizontal tube s fixed to the ve r-
+
+tical frame
+
+the scale - pan mounted on a knife-edge,
+
+s~pport
+
+a~d
+
+j
+
+- 3 -
+
+tohe reguluting
+
+counterj~ight.
+
+The whol e device is very light and very sensitive (sensitiveness 0 . 5 gramme) .
+
+The spheres to be t este d are weld-
+
+ed to a steel wire 1 rr.m . in diameter whicf can be hooked
+on the
+
+fra~e
+
+of the balance .
+
+A tur nbuc kle is use d for giv-
+
+ing the required rigidity to the supporting wire .
+
+The wire
+
+enters and leaves the experimental cL-.lamber by two longitudinal slots 2
+
+~n .
+
+Wide and 30 mn . long .
+
+These slots allow
+
+the wire to oscillate freely, but :;11ey also let in air .
+The resulJ.j j,ng perturbat ion is taken into o.ccount, as stated
+be l o\7) by ga uging the resistance of the supporting wire by
+direct measuremer.t .
+REMARK -
+
+The advisabil i ty of construoting an enclo sed
+
+space t o include that part of the t',mnel containine?; the
+working
+
+sectio~,
+
+has been considered.
+
+If
+
+tha~
+
+were done ,
+
+the outside pressu.re w'ould be in equiliorium with the pressure inside the
+
+t~nnel ,
+
+and thus the inlet of air through
+
+the slots would be avoided.
+nlliASURING THE VELOCITY OF THE AIRSTREAM
+of the airstream in the
+means of a
+
+~orking
+
+r.'i icromanome te~
+
+perpenciiculE"rly
+
+~hroug h
+
+-
+
+Th~
+
+ve l ocity
+
+section is measured by
+
+connecte :1 with a small hole bOl'ed
+
+the . .vall of the section at a cer-
+
+tain distanoe in front of the sphere being tested .
+
+The
+
+hole being thus placeci, tOle mic::'omg,nometer registers the
+static pressure of the stream .
+
+,
+
+We hare checked the indications given by the microoan-
+
+-- 4: -
+
+ometer
+
+co~nected
+
+with the hole \rith those given by another
+
+microreanoffie ter connected with a STANDARD P ITOT TUBE, and
+foun d them to a gree .
+
+ques t io~
+
+The Pi tot tu.be in
+
+is of the
+
+Brabbee type and gives indications of the fo rm:
+
+h
+
+being the quantity of water (in mill . ) read on the micJL'o manometer,
+
+d
+
+the density of the air ,
+
+g
+
+the acceleration of gra'!ity .
+For J
+ehe Stanuard :;:' itot tube used,
+
+Vie
+
+assumed
+
+K
+
+=1.
+
+The ve::.ocity 01 the airstream is then given by the rel a tion :
+
+At 150 and 760 mm . we have
+
+d
+
+=
+
+1. 225
+
+v15 °, 760 = 4J
+
+an«il.
+
+Fo~ any conditions whatever of tempera~ure and pres-
+
+sure) .ve shall have :
+Vt,H
+
+=
+
+/ l . 225
+V ~5b,760 J
+dt,H
+
+Frori comparisons made betrieen the indications
+by t~e Standard Pitot tube and the indi cat ions
+
+H
+
+h
+
+given
+
+given
+
+by the static pressure opening , we have the relation:
+H
+
+=
+
+1.06 h.
+
+This rela·~ion holds good even when the spheres being
+tested are interposed in the airstream .
+
+- 5 REN~RK
+
+I. - In our early experiments we measured the
+
+velocity of the airstream direct with the Pitot tube, but
+we had to give up this method because the perturbation
+caused in tl:e stream, especially at high velocities, by the
+Pitot tube placed forward of the sphere reacted on it and
+distorted the measurements.
+REMARK II. - For calculating the velocity by the rela-tion:
+
+the pressure
+
+H must be taken equal to the actual pressure
+
+of the airs'bre am in movement.
+
+For a surrounding barometri-
+
+cal pressure equal to Ho ' the pressure
+H
+
+=
+
+H
+
+will be given by:
+
+Ho -
+
+At low speeds, (below 40 m/sec.),
+
+d V2
+
+is less than
+2g
+100 mm . of water, that ' is, 7 . 4 mm. of mercury. Now, Ho is
+of the order of 750 mm.
+d V2
+2g
+
+does not exceed 1% .
+
+The error in
+
+H by neglecting
+
+The error in the speed will not
+
+exceed 0.5%.
+At high speeds, the error in
+neglected.
+
+For instance, for V
+
+=
+
+H and in
+
+V
+
+cannot be
+
+80 m. , we have d
+
+V =
+
+2g
+
+400 mm.
+
+of water, that is, 29.5 mm. of mercury.
+The error in
+the order of
+
+,
+
+them.
+
+2%.
+
+H
+
+is 4% and the error in
+
+V
+
+Will be of
+
+It is, therefore, necessary to allow for
+
+-- 6 -
+
+We have thus calculated the speeds, taking into acGount the actua __ pressure
+
+H.
+
+F.EM: . \HK 11 1 . - T11e values of the total resistance
+
+R have
+
+been brouGht to the normal cO:"lditions 15° a,nd 760 mUl.
+a measure
+
+If
+
+RtH [-..as been found in any conditions whatever of
+
+tempera.ture
+
+t
+
+and pressure
+
+H,
+
+we have first calculated:
+
+we then calculated:
+=R
+
+R
+
+t ,H
+
+15°,760
+
+with
+
+d
+
+x
+
+determined as stated above, and we made R15 0 , 760
+
+correspond to the speed
+4. -
+
+V
+
+t ,H.
+
+PREVIOUS lEASUREMEIT OF: rHE RF2IST!NCE . OF THE
+
+SUPPORTING WIRE - We have measured for different speeds
+the resistance of the supporting wire placed, without sphere,
+in the experimental chamber .
+The coefficient
+ments varies slightly.
+
+K = s~
+
+calculated by these measure-
+
+Its mean value is
+
+K = 0.063, a
+
+figure near to those fcund by .:1. Eiffel for the resistance
+of wires.
+To deduce t:l e re sista:ace of the sphere it self from the
+measurement made ivi t~ the sphere and it s support ing wire,
+we have taken into account that part of the wire subjected
+
+,
+
+to the action of the airstream outside of the sphere .
+
+- 7 If
+
+D
+
+is the
+
+d~ameter
+
+o~
+
+the sphere in mm., the cor-
+
+recticn to be applied to the total measul'ement
+aer to find the
+
+_
+res~stance
+
+Rs
+
+0f
+
+R.llJ
+
+in O!'-
+
+th.e sp 1:.e r3 l' t S3 lf ,Wl:
+'1
+
+be given by the relation:
+300 - D
+300
+Th-3 spheres tested were of polished. steel.
+ameters ,vere respe ot ively:
+
+Thetr di-
+
+19 ..8 mm.; 28.5 mID.; 39.5 rom.;
+
+50.5 mm.; 59.8 mm.; 69.8 mm .
+5. - COMPARISON WITH PREVIOUS RESULTS . - On the graph
+given in Fig . 2 we have laid off the values of
+
+K found
+
+in our experiments as a function of the product VR (V,
+speed in m/sec.j
+
+R, diameter in m. )
+
+On the same graph we have reproduoed :
+a) The results found by M. Eiffel on spheres of 160,
+244, and 330 mm . in diameter, respeotively, in a tunnel
+with a diame ter of 2.00
+b)
+
+ID .
+
+The results found by Captain Costanzi on a sphere
+
+44 . 4 rom . in diameter in a tunnel 0 .3 6 m. in diameter .
+c)
+
+The results fO"G.nd by 11. Mau:ra i n on spheres of var-
+
+ious diameters in a W
+IND TUNNEL.
+d)
+
+Tl1e results found by M. Loukiannof on sph~ es hav -
+
+ing respective diareeters of 56 mm ., 168 mm. , 118
+
+mrrJt
+
+and
+
+240 mm . in the tunnel of the Imperial Technical Sc hool at
+lloscow .
+
+..
+
+w
+- 8 -
+
+It will be not iced that there is a notable disagree m'3nt be-c ',vee;). our e::per i1.18nt s ar..d prev i ous expe, r iment s, on
+the following point s :
+1st .
+
+The coefficient
+
+K before the critical speed is
+
+reached has been found notably higher in our experiments .
+T~e prod~ct
+
+2nd .
+
+VR for
+
+variation of the coefficient
+
+whic~
+
+K
+
+is produced the rapid
+
+is a l so r£luch l arger in our
+
+experiments .
+3r d .
+
+The value of the coefficient
+
+K after the crit -
+
+i c al speed is greater in our experiments than in those of
+M. Ej,ffel and :1. M
+.aurain , but smaller than in Loukiannof's
+experiment s .
+
+Only Captain C03tanz i' s
+
+e~~peri;nent s
+
+on the
+
+44 . 4 mm . sphere are in partial agreement with outs, at least
+so far as regards the high value of the coefficient
+
+K be -
+
+fore the critical speed .
+DISCUSSION. - On the w~ole, we see that the different
+experimenters are far frol1l agreeing \1ith each other .
+
+Only
+
+the experiments of ~. Maurain and M. Eiffel give results
+fairly analogous both as to the absolute value of
+the course of the variations of
+lL
+
+K with
+
+K and
+
+VR .
+
+Eifiel's experiments were made in a tunne l with a
+
+diameter of 2. 00 m. with an airstream not bounded by mater ial walls .
+:~ .
+
+Maurain I s experiment s were ;'t.ade i n a wind tunnel
+
+with a SUCTION fl~e .
+
+,
+
+The air dravm in escapes into the sur-
+
+rounding atnosphere, and
+
+~t
+
+the place imere the spheres are
+
+.. 9 -
+
+being tested it is :lot limited by material walls.
+Is the a.greement be t ween the se two experimenters due
+to this cil'cumstance of the absence of material vtralls?
+M. Loukiannof opera".:;ed in a tunnel 1.00 m. in diameter w7th material walls, but it is to be feared that , for
+the sphere of 240 rom ., the walls
+fluence.
+
+exercisec~
+
+a notable i:l-
+
+On the other hand, for the spheres of 56 mm. and
+
+118 mm. he worked under the same conditions as M. Eiffel
+for his spheres of 160 and 240 mm.
+
+There is, however, a
+
+notable discrepancy between the r esul ts of M. Loukiarillof
+and those of Eiffel and Maurain, especialJy after -che critical speed.
+As regards our own results, we consider that the sole
+objection of the action of the walls is not sufficient to
+account altogether for the disagreement with the results of
+other experimenters.
+
+For the spheres of 19.8, 28.5, and
+
+39 . 2 rom. the dimension of the tunnel (300 rom.) is in the
+same ratio as that of the Eiffel tunnel with the s:pheres of
+160 and
+
+24~
+
+mm.; even the sphere of 50.5 mm. is admissible
+
+by the same right as the sphere of 330 mm. in the Eiffel
+tunnel.
+We are thus unable to explain, for the moment, the cause
+of these discrepancies.
+
+We con s ider that the question should
+
+be taken up again v ery methodically, defining clearly all the
+experimental conditions and utilizing various dimensions of
+tunnel for the same spheres .
+
+..
+
+[)£.sIGN~
+
+.g;;:;;;:;,,- 1'3- ,IA
+
+DRAWN
+CHECKED
+,qPPROY£.D
+

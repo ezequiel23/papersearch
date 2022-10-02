@@ -1,0 +1,1172 @@
+~
+
+---=
+
+..
+
++
+
+-).
+
+.
+
+~
+
+-,”
+‘..
+,. -.. .
+..”.
+.“--. .
+..
+.
+,,
+
+..*.,
+
+.:
+.
+. .
+
+.
+
+:
+
+..
+
+q
+
+...!
+,—.
+
+\,
+
+.,.
+.
+
+aaE!$&&
+
+-
+
+..
+
+..
+
+.
+.
+
+\,
+,,
+
+:.
+.’& --, : :, -.
+..
+.
+
+.
+
+\
+
+NATIONAL MIYIS(IRYCOMMITTEE FOR AERONAUT1(!S.
+
+2.
+CAL MEMGRIE4DUM.
+
+TECEiNI
+
+7’
+
+.
+
+J-, ,/B
+/
+
+FLEXIBILITY OF BEARING SURFACES:AND STRESS ON FAi3i+I(OS.
+By
+A. ProIl.
+
+Translated from
+Flugtechnik und Mot O rhfk
+VOX’: -.X, N?sX22#12,s-
+
+uzeit~chrift:f&
+
+Sch iffahrt
+
+~
+
+.
+
+.,
+
+June;’1921.
+
+,., .,,,.
+,, J@jij .:,.,
+
+——
+
+._.
+
+;
+
+.
+
+J
+
+‘;,
+
+..—.
+
+— .— .-,
+
+,
+
+.-
+
+Q
+
+FLEXIBILITY OF BEARING SURFACES AND STRESS ON FABRICS.*
+By
+A. Pxoll.
+Ezperience ha~roved
+
+that the strength of airplane win~s
+
+is in no slight degre& dependent on the,tension due to the cowering of &e
+
+bearing surfaces, which counteracts the deflection
+
+l
+of the spars and ribs. This .infuence is particularly noticesble in the so-called ‘C loading,’.
+which occurs when an airplane
+makes an almost perpendicular nose-dive. The air forces on the
+wings axe then jiincipal.lyreduced to the frontal resistanm and
+to a couple in a plane perpendicular to .the bearing surfaces,
+which causes strong torsion.of the wings, so that one spar is
+deflected upwards and the other downwards.
+
+It may therefore.
+be
+
+expected that there is great stress on the fabric in such cases.
+@
+
+account of the direct air forces, however, the load?.s exi
+
+tremely unsymmetrical.
+even in case
+
+C,
+
+and the English measure-
+
+ments* previously publi~ ed show that it is parti~l=ly
+
+heavy
+
+on the leading edge of the pressure ,=d suction sides. Even un–
+der the simplified conditions of righting the airplane during
+steep gliding flight (Case A) both stresse,s
+may be added.
+
+In
+
+order to obtain a general sm?vey; at”least of the probable order of the values of the increase of tension, due to deflection,
+it is assumed in Fig. 1 that the deflection takes place in an
+upward direction (frent SPaX in case A), =d the top tension is
+ribution of Pressure on Bearing
+* See MUNKSS article on the llDist
+Surfaces .Accordingto English Measurements,~ “Zeitqchrif% fur
+Flugtechnik .und Motorluflischif
+fhhrt,W Vol. VII, 1916, p.133.
+4
+
+La-..
+
+:----
+
+----
+
+‘
+
+---~ -------
+
+“’: =
+
+thereby efiende~.~also In ‘cxmseqy.ence the great depression
+.of
+which ought % o take pkce
+
+according to the measurements.’
+,“
+radius of t~~ elast”i~
+“linesof the w=s = P%
+
+~rve
+
+Rib spacing =
+
+I~,
+
+“
+
+Spacing between the fabric covering and the neutral axis of
+of the spar = e,
+Initial camber of the fabric (curve radius
+camber f ~~).
+
+p
+‘o
+
+depth of.
+
+(o =’Negative in direction j?)
+is enlarged to AIB1 = 11 through
+
+The distance A B = Z~
+the bending:
+
+UL_k&l=l
+
+l’=
+1
+
++-sit”..
+
+~~~-ph
+
+The air load p
+
+. ..*..*
+
+.1
+
+(1)
+
+(kg/m’ simultaneously causes the origi)
+
+nally negative camber of the fabric f lo to be transformediinto
+the positive f~, the value of which is estimated in the present
+instante by the diametrical measurements of the camber,* but
+which my
+
+general~Y be obtained bY f~dament ~
+
+fo~ula~” **
+
+The original length of the fabric (Fig. la) is in accordance
+with a we n-known approximate formula:
+e
+
+with the requisite tension S lo
+
+(p~liminary stretching).
+
+The new length is (Fig lb)
+q
+
+2
+21
+
+1
+
++
+
+J&
+
+.
+
+dl
+
+:&”)
+
+(3)***
+
+. . . . . .
+
+1
+
++“$
+
+‘“
+
+*
+
+See Proll1s.It
+Fabric on Bearing Surfaces,‘r
+“TechnischeBerichte,
+vol. III,,
+P.234L
+** See Prollts ~lFabricon Bearing Surfaces,
+InVol.111, P.243.
+*** The factor 1 + ~ may.be lef% out in the nominator of the second
+term.
+- ‘h
+*
+
+iii
+
+—
+
+—
+
+..
+
+.
+
+,-4aad the accompanying tension
+
+S1.
+
+The fabric is therefore stre-tched
+to.the following extent
+
+:,
+.
+
+and it is
+fla - f~ 2
+i.2
+
+. . . . . . . . . - (4)
+
+A
+
+The deflection of the spars will evidently cause ,a diminution
+of the depth of ember
+mined values.
+
+as compared to its previously deter-
+
+f
+
+Wor the first calculation, however, the value
+
+known by former tests may be taken.
+
+From the fundamental equation
+
+for the doubly curved fabric surface (tensi
+on
+
+S ~ and Sa
+
+in warP
+
+and woof), we get
+..
+
+,ss2
+
+P=#+
+
+1
+
+~.””*.*”
+
+(5)
+
+.“”-. .
+
+2
+
+ly fonnedl
+the resuit, as shQwn elsewhere* ‘ assuming parabolicsl
+curves, is
+“ptlz
+
+s,
+
+sl=—
+
+(1
+
+8 fl
+and after inserting
+
+*
+
+f~
+
+-
+
+.
+
+I&’’”’”w”o.
+g
+
+(6) “
+
+from (4)
+
+S2
+,2 :
+=P22 2 (- -—........(7)
+P2 “’
+24
+See A. Prollts~llQuest
+ion of the Strength of Bearing ~rf ace Tensions,f’Zeitschr. f. Flugtechnik und Motorluftschiffahrt,
+1915, NOS. 3, 4, 5 and S*
+
+.
+
+.
+
+.
+
+. . . .
+
+—
+
+.?
+.5
+
+-”’
+
+in which
+8fl 2
+c; ‘+h-31
+z’”””’”-*
+1
+
+(8)
+
+‘-”””””
+
+was inserted.
+Equation (7), in conjunction with the so-called standard
+characteristic (Normal-Charakterist
+ik) ‘*N.-~’* renders it posC
+sible to form a calculation of the condition of the fabric by inC.~, ihe
+serting, p~int fotipoint, in the diagram of the lrN.
+S1
+
++(
+
+tion.
+
+5,-
+
+‘
+C;~) curve (C curve, Fig. 2) derived from that equa-
+
+(Attehti~ must be paid to the simultaneous alteration of
+
+S2 [Note ]4) If there were no extension through the surface
+.
+fIexion, this curve wouZd be THE GEOMETRICAL LOCUS FOR ALL THE
+POINTS UNDER THE GIVEN CONDITIONS. As t~e actual extension is
+greater, the real condition curve (C’ curve) is higher by
+
+Cl’
+
+at every point (Fig. 3).
+* The best representation of the somewhat complicated conditions
+in the two-dimensional deformation of the covering fabric is given
+by the ‘ttandard Characterist
+S
+its,11that is, two groups of cu~es
+showing, on occasion, extension and contraction in terms of the ~
+tension while taking into account the mutual influence of warp and
+Woof. In the general case of any fabric whatever, the strength
+characteristics in the direction of warp or woof?differ. Two
+standard characteristics are therefore necessary, one with S1
+as abs“cisac,.,
+s
+and ~1 as ordihates (with constant Sa) as ~own in
+Fig. 2; the other with Sz as abscissae and the correspending
+tensions Ce as ordinates ad with curve grmps of const~t
+Sr
+In the case of IMPREGNATED fabrics, however, the tests have.sh~
+that not only is the capacity for resistance c~siderably higher
+then in non-impregnated fabrics, but that the materi~ ~ above ~1>
+becomes far more a3ike in BOTH directions, and the two standard
+ch=act eristics are consequently but slightly different. Such
+impregnated”
+fabrics being now almost exclusively used, it will
+su.f
+fice to apply only ONIZ
+normal standard in the first instance
+for the following -side rations.
+..
+
+In Fig. 3, for inst&noe, the ftil curves (Sz = constant) represent the extensions ( ~Z) 1 = ~ ~,. which oc~r in the WARP direc-
+
+-6-.
+
+In order to determine the condition point, the extension in
+direction 2 (~)
+
+must first be &lculated.
+
+According to Fig~ 4, we find that the extensim required in
+this case is
+
+(g
+
+-f20) = (f~ +flo)
+
+. .“.
+
+q
+
+. . . . .(10)*
+
+-.
+
+“(f,0 being a negative caniber)
+.
+On the C curve, the potnt must be found for which the extension ~z
+
+occurs correctly, and in,which the same tension
+
+S2
+
+is-$hewn.;in>bbt~
+ourve sheafs, at two points perpendicularly above
+One another.
+(Continued from p.5)
+tion with variable tension Sl, while the unalterable tensicm
+S2 takes effect simultaneously. The dotted curves further show
+the ex%ensicms that ocour simultaneously in the direction of the
+WOOF;
+
+Any condition of the fabric is”then characterized by the TWO
+QONDITION POINTS P and Pi respectively (Fig. 2). P is lQcated on the extended curve ‘s= = 100 kg/m., but the corresponding values are SI = 115 kg/m. and CZ = 0.76$. P* lies on the
+saxieordinate line (S again = 3-00; P’. then gives :“Sl= 11!5
+kg/m.
+and ~ = 100 kg]m. with the value c = 0.13%. r% ad :,.
+1’2 ate the curves th@ correspond to the EQfiAL$enaons Si~d S .
+2
+* In this case, the length Za is assumed to be always equal to
+the depth of the surface. This is only the c“ase,
+h“bwever,
+when
+the rear surface connecting organ (wire) is not deflected
+In
+case of its being deflected, however~ the extension ‘~zis diminished, and with it also the tend on S2 (and SA). These conditions must therefore @ways be taken into consz eration~ a= thqr
+axe of great ,importance particularly in influencing tension S2.
+Z
+
+..
+
+EXAMPIE.
+
+Assuming that
+
+P! = 4rn.,* p
+
+may b~ then
+
+tl= 0.33 m.,
+
+L2 = 1.63 m.,
+
+a“s150kg/rn.2 THE DEFLECTION OF THE
+.
+
+SPARS BEING,LEFT OUT OF CONSIDERATION, according to equati~n (‘7),
+with
+
+c ~’
+
+negative
+S12 62
+
+o
+
+2
+
+=100
+
+I-A
+
+.
+
+q
+
+.
+
+.
+
+-
+
+.
+
+.
+
+q
+
+(.7a)
+
+>
+
+600
+For the point by point drawing, we assume that
+
+SI = .0,100,
+.,
+
+and we get the following curves each time
+
+200,
+
+s,’
+
+c1
+
+=100.
+
+.
+
+1-
+
+‘% 2
+600
+
+Their point of intersection with the corresponding ~
+
+lines
+
+are then the desired points of the C curve.
+,According to tests,it may now be assumed that
+fl = i-7mm.,
+
+fzo = 60 mme,
+
+f~ = 72 mm=, also that
+
+f10 = -5 mm.,
+~
+
+=
+
+0.2$
+
+(when-the fabric does not contract towards the rear). Fig. 3 ndw:.
+shows how the condition point is found by means of tests.
+point
+
+A
+
+(~ =
+
+100),
+
+the corresponding extension (measured at
+
+point At) is too small (0.17%) When
+.
+large (O.66$)
+
+D!,
+
+B S2 = 200, “it is”far too
+
+(at point B’).’
+
+The correct condition point
+them, with
+
+At
+
+D{&=
+
+108)
+
+lies between
+
+the characteristic data of which are:
+
+Cz = 0.2$,
+
+= 0.24$,
+s~ = 167 Q/m.**
+cl
+* In consequence of the camber of the fabric, there is a fairly
+considerable alteration in Pa, whereby
+
+1-
+
+‘s=
+
+, P P2
+
+“
+
+and also SI are diminished. It is therefore advisable to insert
+the ap~roximately determined curve radius & beforehmd, NOT
+4.8 m. in the
+that of the fundamental camber. (The latter is
+present instance;}
+“**It can be seen fr~ tfieextremely steep course of the C curve
+~
+that the tension SI remains ALMOST CONSTANT between 167 and 170,
+whereas S2 and Cl are extremely variable?
+
+I
+
+.
+
+-8-
+
+It is now evident that
+
+Cl’ <
+
+El
+
+therefore
+
+S1
+
+is great-
+
+er than betire~,and in this respect it differs from the fabric
+tension due to the deflection of the spars. The following must
+also be observed in this case: With a bending moment
+
+M
+
+of the
+
+spar in the space between two ribs, we get
+
+.x
+EJ
+where E
+
+and
+
+J
+
+.
+
+q
+
+.6..
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+(11)
+
+.
+
+relate to spar material and cross-sect
+ion.
+
+The actual bend ing moment M
+
+is, however, diminished in itself
+
+by the tension of the fabric as regards the moment
+
+M:
+
+without
+
+these; it is, namely.
+d . . . . . . . . . . (12)
+.
+A designates that part of the depth of the ribs which
+M=M’
+
+in which
+
+- Sle
+
+comes into consideration for the loading of the spax in ques-
+
+q
+
+
+
+,..
+
+(13)”.
+
+
+
+i..
+
+-
+
+(34)
+
+T
+
+~ The de%e~ination of A differs according to the loading conditionY corre”ppondipg the extremely’vaxiable value of the air
+to
+forces per > meter siquarq(p),
+/
+In this respect, it will”suff.ice
+to aswme. that in the “A.
+ZQ@ingn, A“ iq”@culated
+from a point midway between the spars,
+tpwards th~ fr@n% ?r”to the tipq of the wings, for frontand resx
+s@ars,’Wd that,a me- v&luq is added for p (Fig. 5).
+,.
+
+b—--------
+
+-9-
+
+It must be observed that ~ also changes in cdhsequence of
+the deflection of the RIBS, also on aco unt of the alteration of
+f%
+
+to ~“. As it would be to no purpose to establish an ex-
+
+tremely complicated ratio between
+
+Sl, Sa and c~
+
+considering
+
+the simplifications that have been attained, illwill be found
+preferable to calculate with successive approximations and to insert MT = M
+
+in the first place.
+
+This will now be proved by c.omplet the example previousin~
+ly
+
+givenJ
+
+ertia
+
+If the cross-section of the spar has a moment of in-
+
+J = 100 cm.4, and E = 105 kg.cm.2, the greatest moment
+
+would be
+
+MI =
+
+9500
+
+kg, cm.* without taking into considerate
+ion
+
+the influence of the fabric. If it be calculated that
+s~ = 250
+
+kg.a. and h = 60 cm., the fabric is responsible for a
+
+moment of
+A 8$
+
+Of
+
+e = 5 M. ,
+
+~,
+
+250 x 0.06 x 0.05 = ‘7.5kg.m. = 750 kg.cm., that is
+and therefore M = 8750 kg.cm.
+
+According to equa-
+
+tion (14) we now get:
+I
+
+c1
+
+5* 8’750. 8 0.5 2
+=
+= loo
+~os- ; ~
+q
+
+0.00435
+
+-
+
+0.0004
+
+0.004:
+
+By so much - that is, 0.4% (C1 curve) the C curve is thus
+pushed upwards in a parallel direction.
+fore, the new condition point
+
+G (Gr)
+
+In the same way as be-
+
+is found by assuming that
+
+* The greatest stress on the spars is thus
+
+witbout taking any eventual axial forces into ccmsideration.
+
+—.
+
+d“
+
+-1o-
+
+there is the same extensicm as before in direotion Z; Cz = 0.002
+--
+
+-(0-.-2%)-+-is then found that: “’ “
+It
+S1 =
+
+283 kg.m.
+
+c1 = 0.43$
+
+“‘
+
+.- ““
+
+& = 153 kg.ti. i’ = 0.2$.
+
+The warp threads are arranged in direction I (parallel to the
+spars) in this example.
+The stress on the fabric is considerably increased through
+the deflection of the spars, especially in direction 1.
+The above cal.cula.tim
+may be corrected by taking the vslue
+S1 =
+
+283 kg.m.
+
+instead of the assumed value
+
+S1 = 250 kg.m.,
+
+though there would be but little difference in the result (Sl would
+be somewhat“
+less) and the value of A on the other hand, cannot be
+so precisely estimated that the calculation would thereby be made
+more accurate.
+The fact that the tension predominates so strongly in the direction parallel to the spars is partly due to the fact of the
+peculiarity of the characteristic standard curves, and particularly to the extensibility in the direction of the woof.
+If, on the ,
+contrary, the fabric were STRETCHED AT AN ANGLE
+DIFFERING BY %3° (woof - spar, warp - ribs), the standard characteristic according. Fig. 6* is obtained, and an entirely simito
+lar rendering of the calculation again leads to a curve
+the conditicm point
+
+G
+
+with’ SI =.MO
+
+kg-m.
+
+Ct
+
+and
+
+c1 = 0.002 (presuma-
+
+bly), % = 165 kg.m. c= = 0.0047.
+* All the indexes .1 and 2 must natur~y be altered in this case,
+In the secmd standard characteristic for this instance, the downward (cent
+raction) curves SI = constant are now curved lines;
+this corresponds to the dissimilar s~acing between the extension
+risti~.(Fig.
+curves Sz = constant, in the first standard characte
+3). SI (tension in the direction parallel to the ribs) is now
+warp, while the woof direction is laid parallel with.the spars
+and undergoes tension S2.
+
+-11*
+,.
+
+The same temporary supposition that
+
+Sz = 250 kg-m-
+
+was es-
+
+tablished in this case with regard to the “tensioncaused by the
+flexion of the fabric. As it proves to be far too large in this
+case, a corrective calculation must be made.
+
+Sz = 170 kg.m.,
+and C2’ =
+
+0.0041,
+
+Assuming that
+
+& e h= 510 kg.cm. in that qase, M = 9000 kg-cm.,
+which~woauldscarcely prge..any
+&
+
+appreciable
+
+alteration.
+For the fabri~ utilized in this case, AN INTERCHANGE OF WOOF
+
+‘
+
+AND WARP WOULD NOT ONLY LEAD TO GREATER UNIFORMITY OF TENSION, BUT
+ALSO TO A CONSIDERABLE DIMINUTION OF THE TENSION OF THE FABRIC.
+This is due tb the fact that the fabric hasgreater extensibility
+in the DIRECTION OF THE WOOF, and ii has been admitted that it is
+advisable to LAY THE DIRECTION IN WHICH THERE IS THE GREATER ExtenSibility pARALLEL WITH THE SPARS.*
+* Without flexibility of the bearing surface (Fig= 6) lo~~er
+curve;
+Sz = 130 kg.m.,
+
+C2= 0.36$,
+
+S1 = 145 kg.m.
+
+c1 = 0.2$.
+
+Translated by the Paris Office, N.A.C.A.
+
+A
+
+-——
+
+. -—
+
+.—.—.-—e--.–.––
+
+--
+
+-.-. —--------
+
+—
+
+.—..
+.—.
+
+-———
+——.
+
+—..
+
+-
+
+.
+_-.
+
+.
+
+. ..
+—..
+
+—
+.
+
+.J
+.
+
+.
+
+.
+
+\
+
+.
+
+D
+
+/5
+
+1-
+
+FIG. i b
+“
+
+1-
+
+. ...-L
+
+F
+,/
+”
+,..
+
+.-
+
+u
+<‘%0
+
+r
+[j
+
+.,O
+‘ ‘?OO
+
+‘“%. ,
+,.y--+’:
+g,%%~’
+. -J*.
+,,
+
+d
+
+,..
+
+/
+
+,//
+
+,
+
+‘/”
+
+“ +.
+
+p
+
+./
+
+,,
+,Z
+
+“H
+/“
+
+/
+/
+
+:.$’
+/
+
+c’
+
+,/’”’
+
+.,
+
+\
+
+—.
+
+———.
+
+.,
+
+SURFACEfAND STRESS
+Cm!l FAE3RK2S
+I
+
+G2
+
+-.
+
+—
+
+—-.
+

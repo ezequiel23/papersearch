@@ -1,0 +1,1522 @@
+FILE C
+
+0$ -
+
+'----
+
+REPORT No. 44
+
+THE ALTITUDE LABORATORY FOR THE TESTING
+OF AIRCRAFT ENGINES
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+IS DOCUMt'.NT ON LO
+
+~
+
+FROM TItE fiLES
+
+r
+
+NATION LArN "ony CO~IMmEE FOR AERONAUTI .3
+LAI"
+~ RO:-Ih ;T CAL U.SO AHlfty
+LAN ~C'r f I t t I I' r I • \ 11l .. 11 ... \
+
+n~Qll
+
+.AS (ll'
+
+:; ,
+... ,
+
+17'
+tlO,
+
+tl.l..i ..,d
+
+I
+
+5T~
+
+. ' Vi.
+
+l , ... ·
+
+r; ""'.
+
+IOLLi> DE ADDRESSED
+
+PREPRINT FROM FOURTH ANNUAL REPORT
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+
+1920
+
+.
+
+REPORT No. 44
+
+THE ALTITUDE LABORATORY FOR THE TESTING
+OF AIRCRAFT ENGINES
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FOURTH ANNUAL REPORT
+
+WASWNGTON
+GOVERNMENT PRINTING OFFICE
+1920
+
+•
+
+•
+
+REPORT No. 44
+THE ALTITUDE LABORATORY FOR THE TESTING
+OF AIRCRAFT ENGINES
+BY
+
+H. C. DICKINSON and H. G. BOUTELL
+
+159629-20-No.44--1
+
+3
+
+REPORT No. 44.
+THE ALTITUDE LABORATORY FOR THE TESTING OF AIRCRAFT ENGINES.
+By
+
+H. C.
+
+DICKINSON
+
+and H. G.
+
+BOUTELL.
+
+INTRODUCTION.
+
+A brief description of the altitude laboratory constructed at the Bureau of Standards for
+the National Advisory Committee for Aeronautics was published in the third annual report of
+this committee. This description was prepared shortly after the equipment had been completed
+and before a sufficient number of observations had been made to much more than demonstrate
+the practicability of operating airplane engines in a test chamber at any desired air pressure
+and analyzing their performance. Since the preparation of that report the laboratory has
+been in continuous service for more than a year, except for the occasional delays incident to
+the usual minor revisions of apparatus and perfecting of means and methods of observation
+to be expected in any new research work. It may be stated, without reservation, that the
+laboratory has fully justified the most sanguine expectations as to its practicability and has
+already yielded results of much importance.
+FACTORS IN ENGINE PERFORMANCE STUDIES IN THE ALTITUDE LABORATORY.
+
+The principal factors in engine performance, aside from general reliability and useful life,
+which can be determined only from statistics of performance of a large number of engines, are
+as follows:
+(1) Horsepower and brake mean effective pressure at full throttle for(a) All air pressures down to the lowest to be encountered in flight.
+(b) All air temperatures to be expected.
+(c) All operating speeds.
+(d) Different grades of fuel.
+(e) Various gasoline-air proportions.
+(f) Various f ark settings.
+(g) Various
+~ket water temperatures.
+(h) Various J!1 temperatures.
+(i) Various back pressures on the exhaust.
+(2) Horsepower and brake mean effective pressure at part throttle, under the same conditions as (1).
+(3) Mechanical losses :
+(a) Total mechanical losses at operating speeds under any condition mentioned
+in (1) and (2) with full and part throttle.
+(b) Elements of mechanical loss, including friction of bearings, friction of piston
+on cylinder walls, pumping losses, and variation of these losses with oil
+temperature or viscosity.
+(4) Heat distribution, including the following:
+(a) To tal heat of fuel.
+(b) Heat equivalent of brake horsepower.
+(c) Heat loss in jacket.
+(d) Heat loss in exhaust.
+(e) Heat loss in direct radiation.
+(f) Heat gain in combustion of lubricating oil.
+(g) Heat lost through mechanical friction.
+
+6
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+The dependence of these quantities on1. Air density and temperature.
+2. Engine speed.
+3. Mixture ratio (fuel to air).
+4. Atomization of fuel.
+5. Composition of fuel.
+6. Throttle opening.
+(5) Fuel consumption, depending upon(a) Air density.
+(b) Air temperature.
+(c) Engine speed.
+(d) Throttle opening or power output.
+(e) Carburetor adjustments for maximum power, or for maximum economy .
+(f) Miscellaneous operating conditions.
+(6) Exhaust gas analysis:
+(a) Quality of exhaust for the different operating conditions listed in (5).
+(7) Pressure distribution in power stroke(a) As affected by engine operating conditions at various air densities and with
+fuels of different compositions and with various timings of the ignition.
+(8) Oil consumption.
+(9) Oil deterioration.
+(10) Carbureto; performance:
+(a) Compensation for variations in atmospheric pressure.
+(b) Compensation for throttle changes.
+(c) Compensation for varying air temperatures.
+(d) Idling and acceleration characteristics.
+(11) Supercharging devices as applied to engines.
+(12) Low air pressures and temperatures as affecting general performance of engines and
+miscell aneous accessories.
+The altitude laboratory has been designed and equipped to supply data concerning most
+of the foregoing factors.
+PROVISIONS FOR CONTROLLING OPERATING CONDITIONS.
+
+The conditions of air pressure and temperature, as well as humidity if necessary, can be
+varied and controlled at will to simulate conditions at altitudes as high as 30,000 feet; the
+pressure being independently controlled at the intake and exhaust of the engine, as well as in
+the test chamber.
+Temperature of the jacket water is controlled either automatically or by hand; and oil
+temperatures can be regulated by means of special arrangements adapted to the particular
+engine under test.
+Engine speed and load are controlled by means of an electric dynamometer, combined with
+a water brake to care for excess load. Mixture ratio, spark setting, etc., are adjusted in the
+usual manner from outside the chamber.
+PROVISIONS FOR MEASUREMENT.
+
+Torque and speed are measured by direct methods, while fuel consumption is determined
+by direct weighing, with a rate of flow meter for convenience. Separate weighing tanks are
+provided in order to compare different fuels.
+Rates of water flow are measured at the following points by means of calibrated Venturi
+meters:
+(a) In the water jacket line, measuring water circulation through the cylinder
+jackets.
+(b) In the line supplying cooling water to the exhaust, permitting measurement of
+the heat in the exhaust.
+(c) In the line supplying cooling water to the oil cooler, permitting measurement of
+the heat in the oil.
+
+ALTITU DE LABORATORY FOR TESTING AIRCRAFT ENGINES.
+
+7
+
+R ate of air flow to the carburetor is measured by means of a large venturi tube, which has
+been compared with a Thomas meter, the latter also having been used for metering the intake
+air. Where the carburetor design permits of it, measurements of air flow may be made by
+previous calibration of the carburet or choke in the carburetor test plant at different air densities.
+This is a newly developed method which offers promise of excellent results.
+The rate of oil flow is t o be measured in special cases by oil Venturis, but these h ave not
+yet been completed .
+Pressure measurements are m ade at numerous points, depending upon the special problem
+in hand. For this purpose, there are provided an adequate number of copper tube connections
+running from the chamber to a gauge board on the outside, which is fitted with glass U tubes
+for use with mercury or water as may be required. This gauge board is described in detail in
+a subsequent paragraph.
+Measurements of maximum compression pressure and maximum explosive pressure are
+made by two different types of pre sure indicators, which give very satisfactory check results.
+No satisfactory measurements of cylinder pressures, other than maximum pressures have yet
+been made. Much time has been devoted to the perfecting of a satisfactory pressure indicator.
+This device has now reached the stage of trial observations and promises good results. None
+of the several pressure indicators on the market can be readily adapted to use on an engine in a
+closed test chamber, where the indicator can not be reached by the operator. The design under
+construction is adapted to this condition .
+Temperature measurements are all made by means of calibrated thermo-electric couples,
+which in the hands of a skillful observer can be relied upon to an accuracy of 0.10 F., or much
+better than this if occasion requires.
+Exhaust gas samples can be withdrawn from any one of the cylinders of a twelve-cylinder
+engine by means of copper tub es connected to the independent exhaust manifold of each cylinder .
+Comparatively few exhaust gas analyses have been made up to the present time. Apparatus
+has been perfected and is under construction which will permit of continuous indication of all
+the important constituents of the exhaust gases, but the apparatus is not yet complete.
+GENERAL DESCRIPTION OF THE ALTITUDE LABORATORY.
+
+Briefly, the lab oratory consists of a concrete chamber, within which the engine is mounted,
+and from which the air may be exhausted to any pressure as low as one-third of an atmosphere,
+by means of a Nash centrifugal exhauster. At the same time the air is cooled to a temperature
+corresponcling as nearly as possible to that encountered at the altitude of the test, by passing it
+over refrigerating coils. In the interior of the chamber electrically driven fans are mounted
+which circulate the air over the coils and about the engine. As before mentioned the power
+of the engine is absorbed and measured by an electric dynamometer and a water brake mounted
+outside the chamber and connected to the engine through a flexible coupling. The general
+arrangement of the laboratory is shown in figure 1.
+I t will thus be seen that the conditions encountered in actual flight can be closely duplicated,
+while at the same t ime all the necessary data may be taken and easily recorded under the most
+favorable conditions for observation. A detailed description of the laboratory follows:
+BUILDING.
+
+The altitude laboratory is housed at present in a temporary building of frame and stucco,
+having a rectangular flo or plan, measuring about 24 by 50 feet. In the near future the present
+equipment, together with a duplicate set of apparatus, will be set up in a permanent brick and
+concrete structure, which is being built especially for this purpose. There are no features of
+the present building to call for special comment.
+THE ALTITUDE OHAMBER.
+
+Early in the preliminary work it was decided that in order to obtain satisfactory results
+th e engine under t est would have to be surrounded by the conditions obtained during an actual
+flight . This necessitated the design of a test chamber of sufficient size to accommodate the
+
+ri[j:i1:tdh
+
+l ~i .~
+
+Ji'Jllil*lllilj~~
+
+F=
+......... '-Fl-
+
+.....
+
+.
+.r
+..
+
+~ ~t, _
+
+-, r - -
+
+00
+
+,. ----------------.... ,--+--.-----~
+
+:
+
+<l o (:" c(:~: ()~co<.C>o l: 1
+
+I
+
+i ~Eg igt.§~ggggi§~ il
+i S~g~ ~gg~~~~ ~~g~t~
+:2~~~~£~~t~~~~~rj 1
+i ~3~~2~g~ ~gg~~~~ l,t1
+····I·h. c c. n r.::.t,c. o.,;,r.tI('I(H:f.il
+.)~'1"('l ;:o o:- ~ ~41
+--. onoo<l
+
+~
+
+t>
+
+~
+~
+
+q
+
+...
+
+;;,L~:~~;~:;;~;.:,:.:;;,~t
+
+b
+
+~
+~
+
+I¥t
+
+_
+_
+~
+
+I-d
+
+o
+
+~
+
+~
+~
+
+~
+
+II
+
+'--····1. ··· ] 'fl~+
+·
+
+I
+
+L2
+
+I
+
+..
+
+:~~
+
+« . ..-
+
+D
+
+f" ,j~
+jrw
+
+.. . , "
+
+Y
+or
+
+~"",o",a (O lll P'E hdf
+
+~
+
+Irrn
+
+UJ:j- __
+
+I "I I
+
+".....- - - - - l
+
+U.
+
+:liftilif!j"" "'-
+
+.: :i.~j: Wi~
+
+"):ili:li!11~i:i!1!i !
+
+.
+
+.
+
+I III I
+
+IJIII I
+
+o
+
+7 '. t/
+
+~~~illl! ili\~
+
+lhilil
+
+_ _ _...JIi-mm
+
+7 3 'H
+
+-
+
+...
+
+-.~
+
+--
+
+f~
+
+.1n'~
+
+= .. _~ .....
+
+l
+
+:
+
+.~
+
+I
+
+-~
+
+~fj h
+
+•
+:
+u
+
+Ul
+
+o
+
+~
+
+o
+o
+
+:
+·\t\
+
+~
+~
+
+.
+
+~
+
+~
+
+t;:J
+
+F·'· · -T
+
+s;;~il~....
+'
+
+- .-+
+
+1
+1
+
+~
+
+1
+
+,A .. -
+
+O
+Jf :::-=-'F:.: :.;:~;;:«:':':;·:~~! ··
+1
+
+~
+
+.
+
+J
+
+. I r;.;~;~;,.,:""= ·····1
+I.~~.p=\j"'l ';':
+t' F~ :: ~ '
+
+iI! i _ '
+..
+
+~
+
+bj
+
+o
+
+o
+
+'!,
+
+~
+
+g,;
+~
+
+o
+
+. ~. ~
+
+~
+
+d
+..,
+....
+
+,---
+
+§r
+-~o:
+
+I
+
+...
+
+'t
+
+'<
+
+... 0"" ', , '
+
+II
+
+,
+
+'.
+". r~
+
+e. ... '"
+
+I
+
+,,"1:0 ...........
+
+l
+
+~'.o.
+
+... ~./
+
+F·~,=
+
+. l'
+
+o
+
+!
+~\~jo
+,,,,...
+
+.,',0 ---""-~~"':__77L...----.-....~----
+
+"
+
+V'
+
+1'\1. Bu"."" "' 8TAH~ O If
+WAB IftHGY CI"
+
+D . C.
+
+ALmt1DE LABORATORY
+
+~ "0;:",;,;;.;-
+
+... . ... -.
+
+'::"'-I"'-MD ••_ • •• _ . _
+"': .• _ .••. _ ";le
+:!:: ~
+~~,(~
+
+FIG,!.
+
+General arrangement 01 the present Altitude Laboratory showing relative pOSition o[ altitude chamber and auxiliary apparatus.
+
+ALTITUDE LABORATORY FOR TESTING AIRCRAFT ENGINES.
+
+9
+
+largest engine with the necessary auxiliary apparatus, such as cooling coils and fans, and with
+sufficient space to work around the engine for adjustments and repair. To meet these requirements a concrete chamber, 6 feet 2 inch es wide by 15 feet long by 6 feet 6 inches high, inside
+measurements, was constructed. The walls of the chamber are 1 foot thick, heavily reinforced
+with ~ -inch steel bars to withstand the pressure of the atmosphere outside the chamber.
+There are two doors opening on opposite sides of the chamber, 4 feet by 6 feet 6 inches in size.
+The doors swing on hinges and close against heavy rubber gaskets. They are built up of 2 by 7inch oak beams, 4Y2 feet long an d spaced 7 inches b etween centers, the outside being covered
+with Y2-inch soft wood loosely held with headless nails, and covered over with air-proof roofing
+paper. This con truction was adop ted to safeguard against possible explosions inside the
+chamber, in which C(1se the light covering of the doors might be blown off without injury to the
+concrete walls. Each door contains three small glass windows through which a view of the
+engine may be obtained during a t est. The interior of the ch amber is lined with cork fo r
+insulation, and to guard against excessive air leaks; the outside is covered with a very heavy
+coating of asphalt paint.
+.
+The chamber may be con idered as divided into two parts, the first con taining the engine
+and the second the cooling coils. The engine is mounted on a special stan d at the right end
+of the chamber as shown in figures 1 and 9. . In order to control the engine during a t est, cables
+are led from the spark and throttle levers, etc., through holes in the walls . The walls are also
+pierced for the necessary pipes and wiring, each hole being closed by a flange and gasket , through
+which the connections are m ade. A per pective view of the chamber with these openings
+numbered is given in figure 2, while an elevation is given in figure '3, both being diagrammat ic.
+The uses of these openings vary somewhat with the particular type of engine being tested, but
+the following may be taken as typical :
+(1) Air inlet to chamber. Controlled by a valve .
+(2) Exhaust outlet from engine. (One side of " V " motor.)
+(3) Ammonia t o cooling coils in chamber.
+(4) Exhaust outlet from engine. (One side of " V" motor.)
+(5) Thermocouple leads.
+(6) Oil inlet, connecting o.:il pressure tank outside chamber to engine sump.
+(7) Bleeder valve to admit air to chamber.
+(8) Gasoline inlet to carburetor.
+(9) Shaft connecting engine to dynamometer.
+(10) Oil cooling water pipes.
+(11) Electric light and ignition wires.
+(12) Air pipe conn ecting chamber to exhauster.
+(13) Exhaust gas sampling tub es.
+(14) Exhaust cooling water inlet.
+(15) Jacket water inlet.
+(16) Jacket water outlet.
+(17) Pressure t ub es to manometer board .
+(18) Carburetor air inlet .
+(19) Pressure tubes to manometer board and engine controls.
+THE ENGINE SUPPORT.
+
+The engine suppor t was designed for the purpose of duplicating as nearly as possible the
+flexibility and the inertia of the typical fuselage mounting. The design developed makes
+possible an accurate adj ustmen t of stiffness as r egards transverse and vertical vibration and
+rotation about each of the thr ee principal axes of the engine. Since no data were at hand as
+to the corresponding characteristics of any fuselage mountings, the support was constructed
+on the basi of estimates of the e constants, and appears to possess nearly the desired chara.cteristics for the engines moun ted on it up to the present time.
+159629-20-No. 44-2
+
+10
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+The design of this support is illustrated in figure 4. Two oak beams, A, in this case 2 by 6
+inches by 6 feet 3 inches long, are supported at the ends to form the basis of the mounting.
+The engine is mounted directly on two supplementary beams, B, of 2 by 4 inch section and of
+the length required for the particular engine under test. These supplementary beams are
+free from the main beams except at two points where they are bolted together through a thin
+separating block, C. Two yokes, E, are provided to prevent torsion of the individual beams,
+but have no other effect, as they are free from contact with any other part of the structure.
+Selection of the dimensions of the main beams and adjustment of the spacing between
+the points of support of the secondary beams permits of adjustment of vertical and lateral
+stiffness and approximate adjustment of resistance about vertical and horizontal axes at right
+angles to the axis of the crank shaft. Stiffness as regards rotation about the latter axis can
+be adjusted by a third beam of proper dimensions rigidly connected at the ends and to the
+yoke rods F, although the addition of this member has not been found necessary.
+THE AIR OOOLING SYSTEMS.
+
+The air cooling system may be divided into three parts, the refrigerating plant, the cooling
+system for the carburetor air, and the cooling system for the interior of the altitude chamber.
+The refrigerating plant is installed in the left-hand portion of the building, as seen in
+figure 1. The ammonia compressor is a 9 by 9 inch, double cylinder, vertical, inclosed machine,
+with a refrigerating capacity of 25 tons in 24 hours, and was built by the York Manufacturing Co., York, Pa. It is belt driven from a 50-horsepower electric motor. The plant
+operates on the direct-expa;nsion system, the ammonia condenser being placed against the
+outside of the west wall of the building, with the ammonia receiver along the north wall, back
+of the compressor.
+The cooling system for the carburetor air consists of a bank of ammonia coils mounted
+on top of the altitude chamber. The coils are made up of 2,000 feet of l)4'-inch pipe, inclosed
+in a box and insulated with 4 inches of sawdust. The air is made to pass through this box
+in a tortuous path, and is then led through an insulated pipe provided with a set of electric
+heating grids and a regulating valve to the test chamber through opening 18. From this inlet
+it passes through the air meter to the carburetor. In this way warm or cold air may be supplied to the intake as required.
+The system for cooling the air within the chamber is made up of a bank of 800 feet of 1)4'inch ammonia coils, placed in the left-hand portion of the altitude chamber, as shown in figures
+1 and 3. Four motor-driven fans are provided to force the air over these coils, while another
+fan is installed to circulate the air past the engine itself when desired.
+By means of the refrigerating plant and cooling system just described it is possible to
+reduce the temperature of the air admitted to the carburetor and that within the test chamber
+to a point approximating the temperature at any altitude up to about 30,000 to 40,000 feet,
+depending upon the size of the engine. Owing to the fact that the temperature can not be
+readily controlled by means of the refrigerating plant the air, after cooling and before admission
+to the carburetor, is passed over a series of electric grids, by means of which the temperature
+may be raised again and kept at any desired point. The current flowing through these grids
+is controlled by conveniently placed switches. Some difficulty has been experienced due to
+the condensation of moisture which occasionally causes a "snowstorm" in the air passage to
+the carburetor. It is hoped that this difficulty will be entirely overcome in the new laboratory,
+through the elimination of leaks into the refrigerating chamber and the use of what may be
+termed a "settling chamber," through which the air will pass after being cooled, and in which
+the air flow will be so sluggish that the snow will be deposited.
+THE JACKET CIRCULATING WATER COOLING SYSTEM.
+
+The jacket water cooling system is shown in figure 5 and is arranged as follows: Above the
+altitude chamber is placed a cylindrical iron tank connected to the inlet and outlet pipes of the
+engine's circulating system, and with another pipe from the city mains, while an overflow leads to
+the sewer. A thermostat is placed within the tank, the brass rod of this device controlling a pilot
+\Talve which admits or discharges city water ftom a bellows, which in turn controls themain valve
+
+11
+
+ALTITUDE L AB ORATORY FOR TESTING AIRCRAFT E NGINES.
+
+0"
+
+:0
+
+O'
+
+04
+
+o·
+
+... _--- ....... . . .. ..
+
+-~- --- -
+
+-----_ .. _-- -- --- ----- _..... ...
+
+i
+!
+
+,'
+
+... ....
+
+:
+
+iP
+
+\
+
+/
+
+... - - -- -- - __ _ __ .1 .
+
+0+
+
+o.
+F IG. 3.
+F IG. 2.
+
+Diagrammatic section of chamber showing relative location o( refrigeration
+
+Diagrammatic perspective of altitude chamber.
+
+coils and exhaust connections.
+
+~ ,/D
+
+I
+
+""
+
+o
+
+0
+
+c
+
+0
+
+<>
+
+~
+0
+0
+
+0
+
+c
+..
+
+~ ~.."..
+0
+0
+
+{3
+
+<>
+
+<>
+
+~
+
+•
+
+0
+
+<>
+
+0
+0
+
+~ o
+
+0
+
+~
+
+~
+
+0
+
+I
+
+I
+
+,/ D
+
+I
+
+<>
+<>
+<>
+0
+
+1!:1.
+
+0
+
+0
+
+••
+
+<>
+
+0
+
+~
+
+I
+
+0 0 0
+
+o
+
+--;;-C
+
+r:
+
+0
+0
+
+I
+0
+
+£~I
+D
+
+<>
+
+f''-- ~ ,/0
+
+£:
+
+t:
+
+<>
+
+0
+
+<>
+0
+
+"- r -
+
+~
+
+~
+
+FIG . 4.
+
+Perspective of engine stand, showing auxiliary engine beds.
+/ _.I.C,.. .. ~.. ' ..
+
+--c::=::!Wt:::==:J-"':~ 'VI.•
+
+..- c.. ....,:o~
+• •• • >
+
+::.",,~
+
+....----=..:..-...
+
+.., .... h· ........ ...... ,.. .... yh .-.n
+
+. :!J.,.~:.;:'.• r;~r~ ,'::'~ :: ~~..~~ ~::~
+
+:::-,-::~e.'"~ =:::7 ~~~fb~~. ~5!~c;;-
+
+-.~~:.:.-
+
+W... rTg,,, k
+
+' 1. ..... .. . . .. ,.,.t ~ ... .
+
+1~!. B V R [A V ., SI AM OAHU,,"
+
+~"'''''' l '''OT'Ot<
+
+W"' f L'" ~ 1 l> "i.. ""
+
+0 C
+r"tI ..
+
+Al. " rIJOt.. l"'eo ........ o.co
+
+FIG. 5.
+
+Diagrammatic arrangement of circulating water piping and thermostat temperature control arrangement.
+
+12
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+on the city supply pipe. In case the temperature of the water in the tank rises above a certain
+point, the expansion of the thermostat rod causes the pilot valve to open, admitting water
+to the bellows, and thus allowing cold water from the city supply mains to flow into the tank.
+When the temperature has again fallen the contraction of the thermostat rod closes the pilot
+valve and allows the water to escape slowly from the bellows. Two coil springs then close
+the main valve, cutting off the supply.
+The thermostat is mounted in' the fitting through which the water enters the tank from
+the engine jackets and also from the city mains. It is therefore very sensitive to slight changes
+in temperature; a very important matter in a laboratory of this sort, since even a comparatively slight variation in the temperature of the circulating water affects the heat distribution
+in the entire engine. In practice it has been found possible to hold the temperature of thl'
+jacket water to a variation of about 2° C.
+THE EXHAUST COOLING SYSTEM.
+
+The exhaust cooling system is shown diagrammatically in figures 3 and 5. The exhaust
+pipes connected to the engine are water jacketed, the inner pipe extending down about 3 feet
+from the exhaust port, while the outer pipe or jacket is continued from the exhaust port to
+the main exhaust manifoI'd in the form of a flexible tube. In this way the whole connection
+is flexible. This arrangement is clearly shown in figure 9. The water from the annular space
+mixes with the exhaust gases only at a point a considerable distance from the engine. The
+water enters the altitude chamber through opening 14 and is distribu~ed to the different
+exhaust pipes as shown.
+The mixture of exhaust gases and water passes through two 5-inch pipes to the auxiliary
+exhaust tanks, placed just outside the chamber, as shown in figures 1, 3, and 11. Here the
+water is drained off while the gases pass to the exhauster. The drain pipe has a drop of about
+25 feet, with a seal at its lower end, which effectually prevents the breaking of the vacuum in
+the exhaust tanks.
+THE EXHAUSTING SYSTEM.
+
+The auxiliary exhaust tanks are both connected to a 6-inch main which leads to the
+centrifugal exhauster. Another 3-inch pipe is led from the main directly to the altitude chamber
+and serves to withdraw the air from the latter, thus maintaining the barometric pressures on
+the exhaust and within the chamber approximately equal. By means of a valve communicating with the outside air, placed near the exhauster, the pressures maintained may be easily
+regulated irrespective of the speed of the pump.
+The exhauster is of the Nash "hydroturbine" type, size No. 7, made by the Nash Engineering Co., South Norwalk, Conn., and has a rated capacity of 1,500 cubic feet per minute
+at a 12-inch vacuum, at 300 r. p. m. (fig. 11). It is belt-driven from a 75-horsepower, directcurrent motor, and discharges to a point outside the building.
+THE DYNAMOMETER.
+
+The connection from the engine to the dynamometer is made through the flexible coupling
+shown in figure 6.
+The electric dynamometer is mounted on a concrete foundation at the right of the altitude chamber, as shown in figure 1. It was built by the Sprague Works of the General
+Electric Co., and has a rated capacity of 300 horsepower, though it is capable of caring for
+considerable overloads. The dynamometer consists essentially of a direct-current generator,
+the field ring of which is free to rotate with the armature, except as this rotation is opposed
+by a connection to a scale beam, which therefore measures the torque delivered to the machine.
+An au,'(iliary spring balance is also used, interposed between the torque arm of the dynamometer and the scale beam, which serves as a handy means for measuring the approximate
+torque. Current from the dynamometer is controlled from a switchboard placed nearby and
+may eithe~ be dissipated in grids placed outside the building or may be returned to the regular
+power lines of the bureau. The dynamometer, with its scale beam, is shown in figure 10.
+As the plant was originally laid out for the "Liberty 8" aeronautic engine, before the
+"Liberty 12" was decided upon, the 300-horsepower dynamometer selected for the purpose is
+
+rI
+
+FIG. g.-VIEW THROUGH DOOR OF ALTITUDE CHAMBER, SHOWING LlBERTY -12 ENGINE MOUNTED THEREIN .
+
+12-1
+
+~
+
+FIG . 10.-SPRAGUE 300 HORSEPOWER ELECTRIC DYNAMOMETER.
+
+FIG . B . -GAUGE BOARDS, SHOWING MANOMETERS, ENGINE CONTROLS , TACHOMETERS , AND OTHER MISCELLANEOUS INSTRUMENTS.
+
+FIG. 11.- EXHAUST-GAS RECEIVING CHAMBERS AND NASH EXHAUSTER WHICH MAINTAINS THE REDUCED
+PRESSURE IN THE ALTITUDE CHAMBER.
+
+FIG. 12.- ELECTRICAL INSTRUMENT TABLE , SHOWING APPAR,ATUS
+MEASUREMENTS .
+12-3
+
+USED FOR TAKING TEMPERATURE
+
+13
+
+ALTITUDE LABORATORY FOR TESTING AIRCRAFT ENGINES.
+
+FIG. 6.
+
+Flexible coupling connecting engine and dynamometer, showing arrangement of packing in altitude chamber wall.
+
+~~ _~~:C. Aft~
+
+__
+
+f~·"""·"
+
+············_·········-r· Tr
+
+'T
+
+i
+
+._........... _·_··-;-··,..h-.J.....:..=--'tI11-*.-'
+I
+
+i
+
+,
+I
+
+.. ....... J
+
+'-
+
+._ _ .~~~~~~~~~-tOo. . . .
+
+I
+
+I
+I
+
+.,. . . . ."y_.
+..
+....... iJ"'~t:lc: .
+
+,0
+FIG. 7.
+
+Auxiliary water brake as mounted on dynamometer shalt.
+
+.............. ';:..•,r,....
+::::'
+
+14
+
+ANNUAL R.EPOR.T NATIONAL ADVISOR.Y COMMITTEE FOR. AER.ONAUTICS.
+
+not capable of carrying continuously the full power of the latter engine. Hence, it was necessary to increase the capacity, which was done by the addition of a specially 'designed water
+brake. This brake consists of alternate fixed and rotating perforated steel plates. It is illustrated in figure 7.
+The rotor is mounted on the shaft of the electric dynamometer and the stator is mounted
+on the dynamometer field, so that the two always operate together; yet the water brake, when
+empty, does not interfere with the operation of the electric dynamometer. The water brake
+alone can absorb about 400 horsepower at 1,800 r. p. m.
+An unique feature of this brake, made possible by the fact that it is integral with the
+electric dynamometer, which cares for the adjustments of load, is that it can be operated at
+anyone of four fixed water levels corresponding to four oblong outlets in the casing. When
+anyone of these outlets is opened and the rate of water flow is approximately adjusted, a
+constant water level is maintained, which is reasonably independent of small variations in
+supply pressure. Operated in this way, the water brake is quite satisfactory, being free from
+the tendency to "drift" toward higher or lower loads with small changes in water pressure.
+THE GAUGE BOARDS AND ENGINE CONTR.OLS.
+
+The copper tubes for the manometers and the engine control cables are all carried to two
+boards, mounted at the front right-hand corner of the altitude chamber as shown in figure 13,
+and so arranged that one man can control the entire plant and at the same time conveniently
+see all the measuring instruments. In this way the whole plant is under the observation and
+direction of the chief operator at all times.
+The spark and throttle levers work in graduated quadrants, which indicate the exact
+positions of the levers on the engine. The number of these control levers may be varied to
+suit the number of attachments provided with any particular engine.
+The instruments mounted on the gauge board are as follows;
+(1) Venturi gauge for carburetor inlet air.
+(2) Barometer and thermometer.
+(3) Manometer for carburetor float chamber pressure.
+(4) Manometer for exhaust back pressure.
+(5) Auxiliary barometer.
+(6) Manometer showing average pressure in exhaust manifold.
+(7) Manometer showing the pressure difference between the entrance to the carburetor air Venturi and chamber.
+(8) Venturi gauge for jacket water.
+(9) Venturi gauge for exhaust cooling water.
+(10) Venturi gauge for oil cooling water.
+(11) Indicator showing fluctuations of chamber pressure from that desired.
+(12) Manometer showing average pressure in inlet manifold above carburetor choke.
+(13) Manometer showing difference in pressure between entrance to carburetor and
+chamber.
+(14) Manometer showing carburetor choke pressure.
+(15) Manometer indicating the pressure difference between the exhaust port and
+the chamber.
+(16) Venturi gauge on gasoline supply line.
+Besides the above, there are the regular gauges and indicators supplied with the particular
+type of engine under test, which in the case of the "Liberty 12" include:
+1. Vapor thermometer giving jacket inlet water temperature.
+2. Vapor thermometer giving jacket outlet water temperature.
+3. Vapor thermometer giving oil inlet temperature.
+4. Vapor thermometer giving oil outlet temperature.
+5. Oil pressure gauge.
+6. Combined starting switch and ammeter for Delco ignition system.
+A revolution counter, provided with a magnetic, as well as a hand clutch, is attached to
+the dynamometer shaft.
+
+ALTITUDE LABORATORY FOR TESTING AIRCRAFT ENGINES.
+
+15
+
+MEASUREMENT OF AIR FLOW TO CARBURETOR.
+
+Two means have been used to measure the amount of air flowing to the carburetor; a Thomas
+meter and a Venturi tube.
+The Thomas meter used was specially built for the altitude laboratory and consisted of a
+wooden box 6 inches square on the inside and 16 inches long which contained a heating grid
+between two sets of thermocouples. The principle of operation was simply that a given energy
+put into the heating grid would cause a rise in temperature (measured by the thermocouples)
+inversely proportional to the mass flow of air.
+The heating unit was merely a length of resistance wire strung back and forth across the
+middle of the box. In practice an E. M. F. of 60 volts was impressed on it, giving current of
+2.9 amperes. The thermal element consisted of 20 copper-constantan couples in series, four
+junctions being incased in each of five stream-lined struts placed in each end of the box. The
+four couples were equally spaced down the length of the strut so that the result of all the couples
+gave an average for the temperature rise over the whole cross section.
+'
+This meter was eventually destroyed in a small fire in the altitude chamber and was then
+replaced by a large 6-inch Venturi with a 3-inch throat. The Venturi, however, was calibrated
+against a second Thomas meter specially supplied by the Cutler-Hammer Co. This meter
+used resistance thermometers in place of the thermocouples and measured the watts input for a
+constant temperature rise. The connections from 't he Venturi meter are carried to the manometer board.
+TEMPERATURE MEASUREMENTS.
+
+The following temperature measurements are made by means of thermocouples:
+(1) Temperature rise of oil cooling water.
+(2) Carburetor air at entrance to Venturi meter.
+(3) Rise in jacket water temperature.
+(4) Jacket water outlet.
+(5) Exhaust cooling water inlet.
+(6) Rise in exhaust water temperature.
+(7) Chamber temperature.
+(8) Oil temperature at engine inlet.
+(9) Oil temperature at engine outlet.
+(10) Carburetor air, taken at the air horn.
+(llv Inlet manifold temperature.
+(12) : Gasoline temperature.
+The leads from the thermocouples pass through opening 5 (see fig. 2) in the side wall of
+the altitude chamber to a table on which are mounted the necessary switches and potentiometer
+as shown in figure 12. The galvanometer is swung in a special cradle mounted on a solid concrete
+pier to eliminate so far as pos ible the effects of vibration. Considerable difficulty was experienced in the early operation of the plant owing to the lack of a proper support for the galvanometer. The vibrations from the engine are transmitted through the ground, so that even the
+concrete pier was not sufficiently steady, but the present arrangement has done away with this
+trouble to a large extent.
+The thermocouples are all copper-constantan couples, the junctions being made by twisting
+the ends of the wires together and soldering with silver solder. The set of couples at present is
+made up as follows: an ice junction common to three junctions placed in the oil pipes, an ice junction common to seven junctions used about the carburetor and as spares, an ice junction and a
+junction suspended in the chamber to measure the room temperature, an ice junction and one
+junction inserted in the carburetor air line above the Venturi, an ice junction and two junctions
+placed in the outlet and inlet jacket water pipes, and outside the chamber a circuit of three
+junctions, one in the water main and two in the exhaust tanks.
+All couple wires are wrapped with tape for insulation and to prevent rubbing and to give
+them body. They are connected with rosin-soldered joints to copper leads passing through the
+
+16
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+wall of the chamber and brought out to a dial switch with all copper contacts. Before being
+fastened to the switch, each couple has a small coil of manganin wire connected in series and
+adjusted to give it an equal resistance to all other couples. The switch has a rotating arm which
+carries two copper spring contacts which bear in turn upon the copper contacts to which the
+couples are attached.
+From the arm the circuit is completed through a carefully made manganin resistance of
+0.029 ohms, a manganin dial resistance box adjustable in steps of 0.1 ohm to 1,000 ohms, a galvanometer and a key. The 0.029 ohm resistance forms part of a potentiometer circuit consisting
+of a dry cell, a milliammeter, a double throw switch and a slide wire rheostat. Another branch
+circuit is controlled by the closing of a double-pole switch, which serves to connect a carefully
+balanced pair of resistance coils of approximately 85 ohms each, and these together with the
+dry cell, galvanometer, resistance box, and thermal element, form a Wheatstone bridge.
+The potentiometer affords a means of measuring the sensitivity of the galvanometer as
+follows : Across two terminals of the dial switch a coil is connected having the same resistance
+as the thermal elements but without their thermoelectric property. The arm is placed on
+these terminals, and the sensitivity is then found by establishing a definite current through the
+potentiometer (50 mil amps) and observing the galvanometer deflection. This has been found
+subject to variation on account of the heavy machinery in its neighborhood, but can always be
+brought back to its original value by an adjustment of the resistance box.
+The Wheatstone bridge serves to compare the resistance of the different couples up to the
+point of attachment to the dial switch and is sensitive to 0.1 ohm, this being amply sensitive
+for the purpose.
+Thus, from this set up, the E. M. F. of any thermocouple may be measured by the current
+it establishes through the galvanometer; and with the bridge and potentiometer the conditions
+of measurement can be made equal for all couples and held constant at all times.
+FUEL WEIGHING DEVICE.
+
+The fuel used by the engine may be measured in either of two ways; by means of an accurately calibrated tank, or by two tanks mounted on platform scales. The:first method gives
+the volume and the second the weight of fuel used. When using the weighing tanks a test may
+be run continuously, one tank being filled while the other is emptying, or two fuels may be compared, as follows: One tank if filled with the fuel to be tested and the second with a standard
+comparison fuel. The engine is run first on the standard fuel and is then changed over the
+test fuel, after which a third run is made on the standard fuel. In this way the least possible
+variation in engine condition is involved.
+Storage of fuel is provided in underground tanks, while the measUl·ing tanks are mounted
+on a platform placed above and in front of the altitude chamber. The fuel is pumped to these
+and then flows by gravity to the carburetor. Fuel in the engines tested is kept at the pressure
+of the chamber by connection through flexible copper tubes.
+MISCELLANEOUS EQUIPMENT.
+
+Suitable pipe connections are provided for obtaining samples of the exhaust gases from the
+engine, these samples then being analyzed in an Orsat apparatus.
+A compressed air system for feeding oil to the engine sump and a means for cooling the oil
+during a test have been installed.
+The laboratory is well supplied with tools and the necessary work benches, so that all ordinary small repairs to both the engines and plant may be made without outside assistance.
+A device for damping out fluctuation in the city water pressure supplied to the plant forms
+part of the auxiliary equipment.
+GENERAL LOG OF OPERATION
+
+Work on the altitude laboratory, as previously stated, was begun in August, 1917, and
+the plant was ready for the preliminary installation of an engine for test purposes in November
+
+ALTITUDE LABORATORY FOR TESTING AIRCRAFT ENGINES.
+
+17
+
+of that year. The first engine to be mounted in the chamber was a "Liberty 8," one of the
+first series of five engines built for experimental purposes. Although this engine was set up
+in the test chamber in November, there remained many minor items of experimental equipment to be completed and "tuned up" before tests could be begun.
+Among these were the development of flexible water-cooled exhaust connections, the
+completion of air and water piping, the adjustment of the jacket water thermostat and Venturi
+meter, the installation of pressure manometers, gasoline weighing attachments, and temperature measuring devices. The securing of air-tightness of the doors and other connections to
+the chamber, and a multitude of other minor matters, too numerous to mention, all took considerable time.
+On December 26, 1917, the first test run was made with the" Liberty 8" engine for the
+comparison of two grades of fuel, and for data on the contamination and deterioration of
+lubricating oil.
+On January 4, 1918, the first test at reduced pressure was made, the lowest pressure
+obtained being 44 em. below atmosphere, corresponding to an altitude of about 25,000 feet.
+In all, seven tests were run with this first experimental engine, representing about 15 hours
+actual running time. The records of these first tests show many stops for various causes,
+most of which were chargeable to difficulties with the engine. This was to be expected, since
+the 8-cylinder model had not at that time reached a stage of perfection to warrant its use for
+research purposes. In fact at that time this model had been temporarily abandoned in favor
+of the 12-cylinder engine, which was then being perfected.
+On January 19, a connecting rod gave way during test No.8, and it was decided to abandon
+the "Liberty 8," then obsolete, and continue work with an Hispano-Suiza engine until the
+"Liberty 12" was in shape for research on altitude effects.
+On January 25, the first experimental run was made with the Hispano-Suiza engine.
+This test included the first complete set of observations under conditions corresponding to a.
+series of altitudes up to 30,000 feet.
+In the interval between January 25, 1918, and January 31, 1919, about 150 complete
+altitude" flights" were made, comprising only a little less than 1,000 hours of actual engine
+operation.
+Observations have been made with the following models of aircraft engines:
+"Liberty 8."
+Hispano-Suiza, l50-horsepower.
+Hispano-Suiza, l80-horsepower.
+Hispano-Suiza,300-horsepower.
+"Liberty 12," 400-horsepower.
+Of these models several different engines of the 150-horsepower Hispano-Suiza, 180horsepower Hispano-Suiza, and" Liberty 12" types have been included.
+As mentioned previously, the operation of the "Liberty 12" required the addition of a
+water brake to the dynamometer, and a number of other modifications in the equipment.
+These changes were made, and the fu'st series of runs with the" Liberty 12" was begun on
+October 10, 1918.
+GENERAL NATURE OF RESEARCH UNDERTAKEN.
+
+The problem first presented by the National Advisory Committee for solution by the use
+of the altitude laboratory, was that of the performance of different grades of gasoline at high
+altitudes in typical aircraft engines. The lubrication division of the Signal Corps requested
+also the preservation of samples of the lubricating oil to detetrine the effect of fuel composition and of altitude, on the deterioration of such oils. A staff of two or three men was detailed
+by the lubrication division to assist in securing the desired data.
+As different grades of fuel affect engine power and performance only to a very slight
+extent, the satisfactory solution of this problem required the highest possible accuracy in
+obtaining complete data on engine performance, as previously outlined. Thus, a practice was
+established by which all the measurements of power, speed, fuel consumption, barometric
+
+18
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+pressure, air and water flow, temperature, and pressure, provided for by the apparatus, are
+customarily made, no matter what is the immediate purpose of the test in hand. The result
+is, in addition to the data directly desired, an accumulation of valuable supplementary data
+on engine performance, much of which has not yet been analyzed.
+Observations have been made to determine specifically the following relations:
+(1) Horsepower-altitude relation for engines at normal speed.
+(2) Horsepower-speed relation at a range of altitudes up to 30,000 feet.
+(3) Horsepower-compression ratio for normal speed, using compression ratios of
+4.7, 5.3, and 6.2 to 1 at a range of altitudes up to 30,000 feet.
+(4) Horsepower-inlet air temperature at a range of speeds and altitudes.
+(5) Effect of variation of intake pressure on horsepower at a range of altitudes, to
+simulate the effect of supercharging equipment.
+(6) Effect of exhaust back pressure on horsepower, over a limited range of pressures.
+(7) Mechanical losses at various speeds, altitudes, and engine temperatures.
+(8) Metering characteristics of a number of different types of carburetors, with
+and without altitude compensation or control, for the full range of speeds
+and altitudes.
+(9) Optimum mixture ratios for maximum power Over the range of speeds and
+altitudes, with several different carburetors.
+(10) The performance of a number of automatic and hand operated altitude compensation devices for different carburetors.
+(11) The total heat distribution for all speeds and air densities at full throttle.
+(12) The performance of special fuels: "Hector," a combination of cyclo-hexane
+and benzol; "Alco-gas," a combination of alcohol, benzol, gasoline, and
+ether, at a compression ratio of 7.2 to l.
+Other relations have been investigated from time to time. Moreover, the detailed records
+taken for each test include much information bearing on other characteristics of engine performance, such as for instance, the behavior of spark plugs and ignition systems under conditions of low air pressure and temperature.
+APPENDIX
+THE NEW DYNAMOMETER AND ALTITUDE LABORATORY
+
+As previously stated, the altitude laboratory will soon be housed in a permanent building,
+which is being erected near the present temporary structure. A floor plan and side elevation
+of this building are given in figure 8. As will be seen from these drawings the building has a
+rectangular floor plan meaSuring 50 by 150 feet, and is constructed of brick and concrete in a
+thoroughly substantial manner.
+The altitude chambers, of which there are two, are built at the west end of the building.
+A central passageway connects the two chambers, with separate doors into the chambers and
+into the main laboratory. The chambers are identical as to their interior alTangements. The
+cooling coils are mounted in the upper portion of the chambers, and the exhaust is carried to
+settling tanks in a pit alongside the west wall of the building. The vacuum pumps with their
+electric motors are placed near these tanks, as shown. In testing a single large engine at high
+alttiudes the doors between the two chambers may be left open, which permits the use of the
+two vacuum pumps and banks of cooling coils, thus greatly increasing the capacity of the plant.
+In connection with one of the chambers, two 300-horsepower electric dynamometers and
+with the other one 400-horsepower dynamometer will be used. The necessary switchboards
+and the grids for dissipating the electrical energy are clearly shown in the elevation. The
+foundations of the dynamometers are provided with extension bedplates at the ends opposite
+the chambers, on which to mount engines for test purposes when it is not necessary to conduct
+the tests at other than ground conditions. When running in this way the coupling between
+the altitude chambers and the dynamometers can be easily disconnected.
+
+F\f1
+
+L§Y
+
+~I~I
+
+_~If_~
+
+... ..
+
+S"T'OA¢Gt;
+
+,
+
+~
+tj
+...,
+
+-·t~~-"-·,---~~"",,~.>h·=.r·..,...,.-·-,,,·. .V".r-~...---·.,..,.-....,.=;:·=.:-==--=-_.-J
+
+q
+
+~
+
+5
+o
+~
+
+o
+
+~
+
+1-<1
+"l
+
+o
+
+~
+
+_.
+
+)\
+
+b
+
+.....
+
+~
+
+~
+Ul
+
+...,
+
+I
+
+~
+o
+
+f,\l
+
+e:;
+
+I~II;I I .II,I,II.!
+L------.-l
+mtl
+
+~
+
+I
+
+~~~n~~-~~'l'
+u.:::'
+
+,!
+
+~
+
+~ ._,:'
+
+;1'
+'
+
+I
+
+.:
+,
+
+. ,
+
+:-
+
+I
+
+_
+
+~
+il
+ii
+U
+
+C:=
+
+In ~-
+
+~
+
+i
+
+,
+
+'
+
+~.~
+
+.. i l
+
+L(-::o."*-7~~-= =: :.== ~= =::-:..-_ -:.. -:.~~J~:~-:: ~::.::Y= ~ =.,._
+I
+
+::
+
+FIG. 8.
+
+'m
+
+1,
+
+==-,T
+
+~~G
+l~r-
+
+'
+8]
+.~
+
+5l!CU
+
+r-
+
+tJJ
+0
+
+i i: co
+
+~~1.
+•t
+, ..
+!~~
+~
+
+~
+
+lh~ll
+
+E
+
+...,
+t;:J
+
+!2l
+
+o
+......
+
+!2l
+
+~
+
+I•
+~ Q
+
+i
+
+t
+
+General arrangement 01 new Laboratory. showing the two interconnected altitude chambers with their auxiliary apparatus together with specially arranged dynamometer apparatus (or the In'Vestigation o( automotive
+vehicles.
+
+.....
+<:0
+
+20
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+A space is provided in the center of the floor plan for the installation of either a drum or
+tractor type dynamometer, on which to test motor vehicles and transmission assemblies. The
+power delivered to the drums or caterpillars may be transmitted by chains to the two electric
+dynamometers shown in the drawings. Like the ones for the altitude laboratory, th ey are
+arranged with extension bedplates so that they may be used to test separate engines when
+r equired.
+A third dynamometer with a capacity of 50 horsepower is arranged for coupling to any
+type of small engine or to the drive shaft of a r ear axle assembly for test purposes.
+The exhaust gases from the different engines, except those in the altitude chambers, will
+pass to an underground duct, from which they will be withdrawn by an exhaust fan discharging
+through a pipe to the roof.
+For about one-third of its length at the east end the building is divided into a basement,
+main, and mezzanine floors. In the basement is placed the refrigerating plant for the altitude
+laboratory, with space left for other machinery. The north side of this portion of the main
+floor is occupied by the machine shop, designed to care for all the ordinary repairs to the plant
+and engines. On the south side are located the office, toilet and wash room, and the tool and
+storeroom. The mezzanine floor is divided into two laboratory rooms, which may be used
+for any of the lighter testing apparatus.
+The pla:nt will be equipped with traveling chain hoists for the convenient handling of
+engines and other apparatus, and with the necessary work benches, etc.
+
+o
+
+..
+

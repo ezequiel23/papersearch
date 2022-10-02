@@ -1,0 +1,618 @@
+I
+REPORT No. 32
+
+THE AIRPLANE TENSIOMETER
+
+NA.TIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+I
+
+I
+
+PREPRINT FROM FOURTH ANNUAL REPOH'1
+
+WASHINGTON
+PRINTING OFFICE
+
+~OVERNMENT
+
+lU9
+
+I
+
+/
+
+•
+
+REPORT No. 32
+
+THE AIRPLANE TENSIOMETER
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FOURTH ANNUAL REPORT
+
+W AS1J.JN G'l'ON
+GOVE RNM E T PRINTING OI'FICE
+
+1919
+
+REPORT No. 32.
+THE AIRPLANE TENSIOMETER.
+By
+
+L.
+
+J.
+
+LARSON .
+
+Light, weight is an essential factor in the design of modern airplanes, especially those for
+military purposes, for which speed and maneuvering ability are of great importance. With the
+best grade of materials and careful designing the light weight desired can be obtained, but only
+by not using an excessive factor of safety. Under sueh conditions accidental or careless overloading of the airplane member must be avoided .
+Certain part of an airplane are subjected not only to the stresses imposed by the aerodynamic or flying load, but also to the initial stresses, caused by the tension in the stay and drift
+wires. An appreciable initial stress in these wires is nec essary to maintain th e alignment of th e
+machine. In many cases the initial stresses have been found to form too large a proportion of
+the total load. Failure of th e structure in service has resul ted from an improper adjustment of
+the turnbuckles in the stay and drift wires and cables .
+It has been customary to depend upon the judgment of the mechanic assembling an airplane for securing the correct initial tension through adjustment of the turnbucldes . They
+secured what they consid ered the proper uniform tension by the" feel " of the wire or by listening
+to its vibrant sound when plucked with the finger. Either of these methods is obviously erude
+and inaccurate, owing, among other things, to the widely varying diameter and length of the
+wires . Some experiment have shown that wires thus adjusted for equal tension have really
+varied by several hundred per cent. A dangerous condition may thus b e developed by causing
+overloading of airplane members through adjustment of initial tension. This emphasizes th e
+need of an apparatus to determine accurately the load in a flexible t ensile member .
+Several instruments for this purpose have been devised, but most of them are inaccurate,
+cumbersome, or require the services of an experienced person for their successful use. The
+Tensiometer, on the other hand, is simple in construction, accurate, and easily and quickly
+operated even by inexperienced persons .
+(,,'" III
+
+WT,cf¥
+
+L
+
+lI/r 'ES
+
+J
+
+.~
+
+;:
+~
+
+~
+~
+
+T
+~
+
+"
+
+,-
+
+~'N
+
+0
+
+1'LU
+
+" ~.
+
+V
+- -.
+
+-t-
+
+1-----
+
+~
+
+-b?
+
+/
+
+/
+
+/1
+
+/
+
+/
+
+/
+
+/
+
+~j."fI'
+
+1"(;
+
+."
+1#;
+
+• .,
+
+V
+
+/
+
+/
+
+/' ~/ ~/
+lA" /,-<'
+.-/
+I
+
+y"
+
+;~."f/'''~
+
+~
+
+/ / V
+-:;;ol~L+ 1"iY , ,v,
+,. [;7
+
+Ole
+
+V
+
+/ / lL V -
+
+/V
+
+t
+
+V
+
+/
+
+«~--* 7.v
+i
+VlY I / L L
+!/btV V- ~7V ,
+/'/1
+.-
+
+V
+
+....
+
+R.1II. ~
+
+/
+
+I
+=- -1-
+
+'-J
+
+""
+~
+
+I".~n.
+
+.",
+
+~ I""
+
+I~
+
+I
+
+I--I-
+
+/ i7 ~u"lfs
+
+-
+
+~
+
+t---
+
+JdL ~ I-Ct7b
+
+, '"
+
+-
+
+=:=
+n,
+
+~,
+
+'[?of;",
+-
+
+(L
+
+'Y""
+
+.%.c
+k!,.
+
+"''''' "
+/
+
+Two sizes of thein trument are shown in figure 1. One i sui table for wires up to one-fourth
+inch in diameter and the other for wires from one-fourth to three-eighths inch in dia.meter.
+J3203J- J9
+
+5
+
+r-~+---II~~I--+-~-+~--~~-~~--LI.-'~+--~~-4-i
+
+r---l·T_r--t_t-++_t_0+fizl._'8+/'w._T~~(4Y~ '£s-1-~l-1_-L_L_r-_}-__~-~_--j
+",,-+k_luR-l-
+
+r-~.--~---t-i--t-i--¥/~,~ql~~~5~O.Y~I~~,~~r~R~-+-J
+OJ
+
+NOIV - FL£.(t 'i. &-' ilBU'
+
+--'----"--- --
+
+l
+
+_I
+
+6
+
+ANNUAL REPORT NATIO :rAL ADVl ORY COMMITTEE FOR AERONAUTICS .
+
+The instrument consists essentially of a frame with supports spaced 10 inches apart,
+between which a section of the wire or cable is adjusted. Midway between these supports, and
+operated by hand grips, is a plunger which deflects the wire 0.1 inch from it normal position.
+The operation of deflecting the wire compresses a calibrated spring. A dial indicator measure
+the deformation of the spring and thu the load on the wire. One revolution of the indicator
+pointer corresponds to a load of 1,000 pounds, and tbe , malle~t dial division , to a 10-pounrlload.
+The Tensiometer is marle direct reading by graduating the indicator dial upon the loading
+spring so as to read tension in the wire instead of load upon the spring. A second dial indicator
+allows the simultaneous determination of the deflection to the neare t 0.001 inch. The use of
+these two sensitive indicators for accurately determining the position and load upon the wire is,
+in a great measure, the reason why accurate result are obtained with the Ten iometer.
+The theory upon which the instrument is based is very simple. If a wire, under tensile
+stress, is supported at two points and loaded at the middle of the span thus formed a system
+of three forces in equilibrium is e tablished. If the span and deflection are kept con tant, as in
+this instrument, the deflecting force is a constant fraction of tbe tension in the wire.
+In use it is never desirable' to attach the Tensiometer to the wire. It is simply put into
+place as shown in figure 2 and the grips brought together until the proper deflection is obtained.
+The tension in the wire is then read from the other dial, which give the value directly in pound, .
+
+n
+
+I
+
+.+-i<L;.....i-4.--l--+--+-+-+-+-+-+--1---1
+--f---b.6-/+I-+-,--..,,+V-f--+--I
+l_>t_ ,,,,,
+
+,~
+1 -.)
+
+I
+
+~
+
+\\
+
+I
+
+!
+
+/
+
+V
+
+I
+
+I
+
+/
+
+V
+
+•
+
+X
+
+/.
+
+v
+
+I nl< ' / , /
+" .'/ 1 . 1 ' /..
+
+i
+In any instrument of this type there are two po sible sources of error. On account of the
+inherent stiffne of the larger wires a force is necessary to deflect them even if they are under
+no tensile load. If the wire is short and held in a rigid frame\: ork the ten, ion in it i increased,
+in the development of the required deflection. This is evident when one con iders that there
+is a slight increase of length of the deflected cable over its original length.
+
+The correction for both of these errors may be found by calculation or preferably by
+calibration of the in trument. Fortunately,' the corrections for both are of uch a nature
+thfl,t they are easily made when a constant deflection of the wire is used.
+The error caused by the actual lengthening of the wire i usually mall. The resulting
+increase in t,be total load depend upon the sectional area of the wire and its total length. It
+60000A
+may be cxpre sed by the formula p = '-y;- ill which P is the increase in the total load
+
+t.
+
+I I
+
+r-!IU·
+I
+r
+
+I
+
+r
+
+C, ZIg,/<
+
+I
+
+I
+
+I
+
+>T"'ev
+
+..
+
+r
+
+....
+
+!
+
+f
+
+i
+
+ct.jHvu
+
+,
+
+I
+
+T
+
+I
+
+I
+
+j
+
+J-
+
+I
+
+l"ih.
+
+•
+
+-,
+
+0£..-
+
+7
+
+THE AIRPLANE TENSIOMETER.
+
+in pounds due to the deflection of the wire: A, the sectional area of the wire in square inches;
+ftnd L, the total length of the wire in inche. If the error is computed by means of this formula
+for the conditions met in practice, it will be found to be man. It hould also be remembered
+that the formula assumes that the wire are held rigidly at their ends wben the insLrument
+is applied. Any yielding of the trueture to which the wire is attached ,,;ill furthe.r reduce the
+error, so that it appears reasonable to neglect this error for airplane work.
+The error due to the tiffness or beam action of the wire i more seriou ' . Although it is
+negligible for wire of mall diameter, a correction i required for large cables and wires. Any
+theoretical di cu sion of the magnitude of this error involve the section modulu ' of Lhe wire
+and tbe amount of end constraint acting at the supports.
+•
+Aside from the unknown ection modulus of the cables it is evident that, the amount of end
+1'e train t varie' with the amount of tensile load on tbe cable. With no load tbe cable probably
+acts as a simple beam and approaches a fixed ended condition with the increase in tensile loading .
+.\. calculation of the beam action i therefore impracticable and the only satisfaetory method
+of finding the ('ol'l'cetion to be applied i ~o 'alibrate the instrument for the various sizes of
+'wires and cabJes upon which it is to be used. Calibration Clli'ves have been obtained for InO t
+of the size oj 'o lid airplane wires of both r.ircular and streamline section.
+imilar curves are
+available for all ~izes of cable in use on airplanes.
+I
+
+I
+
+-C:'
+
+I--
+
+f . ~A'c
+
+W
+
+!--
+
+Ct FVcS
+
+/..1. HR 'ON
+
+=.
+ON
+
+Sol,
+
+WI ""
+
+/
+
+1/
+
+~
+
+,;,.,
+
+.~
+
+L.
+
+1
+
+'i
+
+~
+
+v:
+
+.//
+/
+~ ~ /"
+I
+
+I
+
+/
+
+J)f//
+
+/
+/
+
+l./!a:t/
+
+/ V /
+/. t:( v/
+
+/
+
+I
+
+,.;/ ~
+
+i';. ~
+
+.
+
+/
+
+....---V
+
+/
+.--"
+
+/
+/'
+
+L
+
+if
+
+V
+
+././
+./
+
+V'
+/
+
+/
+
+V ,9'
+
+.y
+
+;;Y J'
+
+~ i;j
+~,
+
+/ / ./
+
+- 1014 'tilh dll7~ in i"",v,,~s
+
+1
+
+./
+
+V
+
+,Y'JYY ./
+
+I
+
+'I"",
+
+v:
+
+VV
+
+/
+
+V
+V
+
+V
+I--
+
+~QI.
+/llt#/~.
+
+R, 'An ,1.<·
+
+.lJ.C
+~ ~s:~ !pI..... ,JI• . '-""1#
+
+-ll'h.-t;
+
+T o obtain the e curves the cable or wire wa suspended from a beam and the desired
+amount of load applied by the use of dead weights, thus insuring a constant load on the wire
+and the elimination of all sounes of error except that of the beam action of the wire or cable.
+Various incroments of load were used depending upon the ultimate strength of the wire, hut in
+all ca es a sufficient numher of reading were taken to determine the curve. The calibration
+curves fol' all the wires and cable te ted are ·hoWIl on the accompanying curve ~heets. 'rho
+actualloclds tlre plotted as ordinates and the indicated loads or the dial reading::; as ahscissae.
+Since the same scale have been u ed for ordinates and abscissae, the curves should be ::ltraighi
+line having a slope of 45 degrees to the vertical if tbe indicated load equals the actual load.
+An examination of the curves shows that the beam action causes less error for the low tensile
+loads than for the higher loads. Also the curves for the small cables practically coincide with
+a 45-degree line, but those for the larger cables and for all solid wires show thaL the indicated
+
+ANNUAL REPORT NATIONAL ADVI ORY COMMITTEE FOR AERONAUTICS.
+
+load exceeds the actual load. However, in most ca 'es the slope of the curves is approximately
+45 degrees for loads of over 200 pounds. It i thus possible to make a constant correction equal
+to the horizontal distance from the curve to a 45-degree line passing through the origin. On
+a curve which does not have a 45-degree slope, a conatant may still be used without serious error
+provided it i taken from the curve at the working load of the cable. In case this working load
+exceeds 1,000 pounds, the maximum load applied, the constant should be the correction for
+1,000 pounds.
+This instrument can therefore be adju ·ted to road correctly for a perfectly flexible wire of
+great length or for any particular wire of given length and diameter.
+1 The correction conatants obtained experimentally vary for nonflexible cables from
+20
+pounds for h inch to about 550 pound for t inch cables; from 20 pounds for J o. 12 (0.08081
+inch ) to 130 pounds for o. 8 (0. 1285 inch solid wire ot circular section, and from 40 pounds for
+ft inch streamline wire to 575 pounds for i inch streamline wire.
+Experimental work upon the larger cable show that a considerable variation in the
+indicated reading at any load may be expected on cables over t inch in diameter. In tho case
+of i inch nonflexible cables this variation may be as much as 100 pounds, but when it i considered that such a cable has a breaking strength of 15,000 pound the error is seen to be le ·s
+than 1 per cent.
+
+o
+
+l
+
+FIG. 1.
+
+l •
+
+FIG. 2.
+

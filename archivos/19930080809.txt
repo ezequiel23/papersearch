@@ -1,0 +1,254 @@
+!
+/
+TEC~~ICAL
+
+NOTES .
+
+NA'J'!UlnL .AJ)VI 30RY CO~£V1I TrIEE I'OR AEHC'NA
+UTICS .
+
+NAtA -T,v'-;,,/
+
+Nc. 27
+
+By
+
+S. W. Sparr ow,
+.A'.ltom0ii ve Power Plan ts Secti o n,
+BUREAU OF STA-Wt..RDS .
+
+December,
+
+1920.
+
+PROOUCI Of :
+
+NATIONAL TECHNICAL
+INFORMATION SERVICE
+u.s. DEPART M
+ENT
+
+Of CO MM ERCE
+SPRINGf iEl D VA. 11161
+.
+
+~~
+
+NOTIe E
+THIS DOCUMENT
+
+HAS BEEN REPRODUCED
+
+FROM THE BEST
+
+COpy FURNISHED
+
+THE
+
+SPONSORING AGENCY.
+
+IS RECOGNIZED THAT
+ARE ILLEGIBLE,
+IN THE INTEREST
+
+US BY
+
+ALTHOUGH IT
+
+CERTAIN PORTIONS
+
+IT IS BEING RELEASED
+OF MAKING AVAILABLE
+
+AS MUCH INFORMATION AS POSSIBLE.
+
+-~---
+
+- . ~ .~
+
+--.-- - - . ~
+
+NATIONAL AbVfSORY COMMJTTEE FOR AERONAUTICS
+TECHNICAL
+
+NOTE NO. 27.
+
+INSTRTJvlEN'f FOR M
+EASURING ENGINE CLEARANCE VOLUMES.
+
+By
+S, W. Spa.rrow
+Automotive Power Plants Section,
+BURE.AU OF STAND.ARDS.
+
+The following Technical Note on an Instrument for Weasu~ing
+Engine Clearance Volumes was designed and constructed Ullder the
+direction of the Automotive Power Plants Section of the Bureau of
+Standards, ~~d submitted for publication through the Subcmrunittee
+on Powor Plants for Aix-craft of the Na·tional Adviso;;:-y Ccmmi ttee for
+Aeronautics.
+A few years ago, when the gasoline engine with v8~tical cylinders was the well-nigh universal type, a description of appaA'atu6
+to measure clearance volume would have aroused little interest.
+In
+the highest part of such cylinders there was usually located either
+a valve or a spark plug through the opening for which liqu5.d could
+be poured.. The volume of liquid l'cquired to fill completely the combustion space wi th the piston at uppel' dead center served a.s the
+clearance measurement. To be sure, it was a rather messy procedure
+requir:i.ng conside:t'able t5.me to remove the liqUid when check read.ings
+were desired, but otherwise was fairly satisfactor.y. With the advent of tee v type enginG, th~ problem ceased to be simple, Frequently it was almost impossibJ.e to make this me asu.~ement with the engine
+mounted for test', as all openings were then below the highest point
+in the cylinder.
+In the summer of 1919, Major Norman of the English Royal Aircraft Establishment ~t Farnborough suggested making this measurement
+by a process which consi sted essentially of simu.1 taneously cha.nging
+both a known and an unknown volume of gas by a known amouu.t and then
+calculating the magnit.ude of the unknown from the resulting difference in pressure between the two, To Dr.. Dickinson, who was in Europe
+stud.ying aviation development, the idea mad.e 5.pstant appel:l.l and on
+his return to the Bureau of Standards he started the construction of
+an instrument based on this principl e. In the first instrument, Fig.
+1, no I:I.ttempt was made at refinement in constructional details as it
+was belieVed that, onCe the instrument was proved practical, its use
+would suggest such changes as would make for greater accuracy and
+convenience of operatton. In the development of the present design,
+Fig. 2, Mr. C. W. Elliot bas incorporated many such change~ but in
+all major features the instrument is the same as the original built
+by w~. A. R. Long, to whom much of the credit for its success is due.
+
+- 2 -
+
+'\
+
+The principle of tLe apparatus i~ showa in Fig. ~ . If the volUlDes A and B a.r.a each decr&aaed the same amount by the mov's ent of
+the pistons, there wil) be a pressure increase in each cylinder,
+the greater increase oG~urring in the smaller volume. The pres~ure
+difference will be indicated by the difference in liq~~d level 1n the
+U tube cOIDlect5.ng the two cylinders. In practice, VO).l.l1.le a, the
+clea.-:-ance 701UID6, is alwa.ys un"k'.aown, while ,the oths).', Volume b,
+can be alter.ed by moviug piston c, Fig. 5, in or out of the med8Ul'ing ~llnder ~d its magoi tude read frem the scala on the pistOD stOOl.
+Th:l.s calibrated vol-UIlle is cha.ng'3d uotil the mov6llle:a.t of the two comp~~on pistons produces the sama ~~eSSt~e inc~eese
+in bvth oylinders as indicated by the Hquid in the U t,ubs !'ema:l.ning level. Both
+volwes axe then equQl. Tbe above sta.tements hold. true only if both
+cylilldere are air-tight or if both lea~ at the same rate. Since the
+eugine cylinder is never strictly tight, an adjustabJ.e opemoe is
+provided to permit an equal X'ate of leakage from the COt:lpS):ison cylinder. For clearness, the simultaueous volume changes are described
+as taktng place in the cloarauce aud measut'5.11g volumes, wherea.s actually there a1:'6 a1lJi:iliary VOJ.umSB d 1 and d 2 • connected wHih these in
+whioh the actual change js ads, so that it is (clearance volume +
+auxiliary volume d 1 ) and (meas'uring volume + a.uxiliary volume d 2 ) that
+are cbanged. T'lle addi tion of these auxiliary volumes s5.mplifies the
+appara.tus for making the volume changes and inasmuch as both a.re equal,
+does not al tel' the relations described above.
+The actual instrument is shown in diagram in Fig. 6, in section
+in Fig. 3, and in the photograph, Fig. 2. For' produ.dng the coovges
+in volumes the pistons, shown in the schematic drawing, have been
+replaced by the cylindrical copper bellows, A. Changes in the comparison volune are produced by tUl:'ning hand wheeJ. C, the mot:i.on be5.ng
+transmitted to the piston B through a gear and rack. A vernier &nd
+graduated scale on the piston stem penoi t the direct read:tng of volumes up to 48 cubic inches in steps of one-tenth of e, cubic inch.
+Should it ever be necessary to measure lal:'ger volumee, an ~uxil~~y
+cylinder can be cOtlIlected to Tee, D, now closed by a pipe plug. The
+measur9lDen~ would then be made as before except that to the reading
+o~ the piston stem should be added the volume of the auxili~~y cylinder,. Tank E is a check vo.11.106 of 7 cubic inches, used only for calibra.t~on purposes. When the tubing is renewed, fitting F is screwed
+into the tank, screw G loosened, and verni~ H adjusted to read exactly 7.
+I
+
+Me a. sur ing clear ancs volumes consi sts of three dis tinct steps:
+L
+
+Measuring tUe rate of leakage from the engi~e cylinder.
+
+2.
+
+l'iaking the rate of leakage from the comp~·;.son vol1me eq'ual
+to that from the engine cylinder.
+
+3.
+
+Eq~lizing the comparison vol~e with tee clear.ance volume.
+
+In measuring the rate cf leakage from the engine cylinder, after
+baving latched cove~ plate N, needle valve J is opened, leaving the
+
+/
+
+,.,
+
+- 3 right side of the U tube open to the atmosphere. Lever K is t hen
+pulled back until a conside-rable pressure difference j.s producod.
+The leakage rate is estimated by noting the approxima~e time required
+for the pressl~e to deer.ease a definite amount. Val~e L iB next
+opened and J closed, one side of the U tube now being open to the atmosphere and the other connected to the comparison ~o)\we. Valve M
+is then adjnsted 1..ln-r.U the leakage rate is appi~ox.;.ma ·l;ely t,he same as
+that f:('c:o:l the e:ng:i.ne cylind.er.
+In equaJ.izing the volumes, valves J and L .:ue both closed, the
+left leg of the U tube then being conne cted to the engine r:yHnde~
+and the right leg to the measuring cylinder. When chang;; ng the volumes by means of lever K, it is most convenient to watch but one leg
+of the tub~. If the left leg be the one chosen and the initial
+movement of the liquid is downward, i t indi0a'te~ the pr"3ssure in the
+engine cylinder to be the greater and its volume to he the smaller.
+After relieving the p~essure on both sides by raising cover plate N,
+the volume in the measuring cylinder should be decreased. The cover
+plate is again lowered and secured tightly with latCh 0 and the process repeated. The correGt vol1.IDle is that wi th which there is no
+change in liqui~ level noted at the fil'St appHcation of the pressure.
+It will frequently be found that with the volumes well equalized,
+after the pressure has been maintained for a second or two, the defle cti on of the liquid in the U tube will J.nc:'C'ease, showing that the
+leakage rates have not been perfectly bala!lced. A few trials w:U.l
+readily c onvince the operator that i t is the initial movement that
+should be considered in adjusting the ccrnpari son volune and that extreme care in balancing leakage is unnecessary. The explanatioll
+will be evident from a conSideration of the effect of a dHference as
+large as 10% in the leakage rate from the two volumes. For this pm'pose, let the rate be assUDed as .03 cubic inches per second, a rather
+hIgh value for the small pressure increase produced wi 'j;h this instrument. With the above as s'llIlpti on , a measurement taken at t~he end of
+one secon~ will be in error by the difference in the amounts that
+have leaked from the two volumes, namely, .03 - .9 (.03) ~ .003 cubic
+inChes. The sensitivj. ty of the instrument, however, is about 1%, a
+diff er ence be tween the ccmpar i son volume and the measu'ced volume of .
+this amount being required to produce a readable deflection on the
+manometer. The. C03 cub:i.c inch
+error will therefore be too sma,ll
+to be noticed in measuring volumes of the ma.gnitude of engine clearance spaces. The initial manometer deflection observed can therefore
+be attributed entirely to the difference in the magni tude of the two
+volumes.
+In using this apparatus, care must be taken to prevent temperature changes in ei ther volume as a change of 3 degrees C will change
+the deflection a noticeable amount and hence vitiate the result. ObViously, such measurements should never be attempted in:roediately aftexoperating the engine, before it has cU61ed to normal temperature.
+
+- 4 -
+
+To attempt precise measuremeuts of a clearance volume without
+nrst carefully setting the pistCJu a.t dead center would be utter folly.
+Mark:Lngs on flywheel. or propeller hub make this a matter of comparB.t5.ve ease in the maj ori ty of cases. In the absenc8 of s1.1ch ma1.'k:i.ngs,
+the clearance measuring apparatus may be connected as wae. done f o~
+measuring leakage with v:11ve J opeu and L closed.. Thf.s merely e115.bles
+the U tube on t h e inst~~waut to be used to measure the d~ff~rencp- between the pressu:t'e :i.n the cyliT.lder and the atmos.p here. Moving the
+p1.ston toward upper dood center produces p!'essure; moving j.t awa.y,
+suction. In the Liberty 1112" oue deg..'ee mo',; ion o£ the c;rar.k irorl ddad
+center can be detected wHh this ius ti."1..1meDt .
+
+In every branch of internal combustion engineer~.ng there is an
+insistent danand for grea.ter economy in ope~~a;i;i on and t here i~ at
+present a decided trend toward increased ccmp:r.ess~. on ra~ios a s a mean.s
+of meeting this demand, With the higher compression ratio the wergin
+betv
+veen normal ope:r:-ation ami preigni tion is reciuc·ed and the m8J:.'luff'.cturer must exercise greater care in maintaining clea.r.a nce volumes
+within close limits. To acc.cmpJish this, 81.1.i table measuz'ing appa ra.tus will be required and it is in accorda.nce wi th a. policy of a.ntic~.­
+pating the needs of the industry that the instrument describeQ atove has
+been p!'epared.
+
+•
+
+-s--
+
+Ji --
+
+//6URE
+
+/.
+
+_
+
+_
+
+___
+
+__
+
+__J_
+
+_ _ _ -'
+

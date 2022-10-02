@@ -1,0 +1,2614 @@
+—
+
+REPORT’
+
+STATICAL
+
+~0.
+
+96
+
+LONGITUDINAL
+
+STABILITY
+
+OF
+
+AIRPLANES
+
+EDWARD
+Langley
+
+Nfemorial
+
+Aeronautical
+
+P.
+
+Laboratory,
+
+for Aeronautics,
+
+Langley
+
+hTatimal Advisory
+Field, Va.
+
+373
+
+REPORT’ NO. 96.
+STATICAL
+
+LONGH’LUXNAL
+
+STABILITY
+
+OF AIRPLANE.
+
+By EDWARD WARXER.
+P.
+LangIey Memorial AeronauticzdLaboratory.
+
+This report is essentially a continuation
+and extension of Report No. 70 of the National
+.Mtisory
+Committee for Aeronautics,
+entitled ‘( Preliminary
+Report on Free-Flight
+Testing,”
+the last part of -which -wzLscie-roted to an elementary discussion of the statical stability characteristics of the JhT4H and the DH4.
+Since the completion of Report NTO.70 a large amount
+[if experimental
+work has been clone OR the JX4H by the committee’s staff at Langley Field,
+in acldition to a little on several other types, and the resuIts are presented here, together with
+a detailed theoretical
+analysis of statical stability,
+of the factors whieb affect it, and of the
+methods -which can be employecl for its modification.
+Some of the results obtained have been
+discussed in technical X?ote No. 1 of the N’ational .idtiso~
+Committee for Aeronautics,
+“ h~otes
+on Longitudinal
+Stability
+and Balance;)) portions of wluch are reprinted in this report.
+.1s in the earIier report, stability will be considered under the two entirely distinct heads
+of stability with locked controls ancl stability with free controls.
+The first depe~ck solely on
+the control position, and k much simpler to analyze and easier to secure than is the second,
+which depends on the forces or, more accurately,
+the moments acting on the movable portion
+of the control surface.
+THEORY OF STABILITY WITH LOCKED CONTROLS.
+
+An airplane which is stable with the elevator locked in position so that it forms in effect
+a part of the fised tail-plane will tend to return to its ori=gjmd attitude if the longitudinal
+The pitching
+ec\uiIibrium is disturbed by a change of the angle of attack in either direction.
+moment xbout the center of gravity, which is manifestly zero for the equilibrium condition>
+will therefore be positive for all angles of attack smaller than the equilibrium angle and negative
+The stability with locked ele-raters is the only true
+fw ail angles in excess of that value.
+inherent, stabilit~, the airplane acting absolutely as a rigid body with no mo-ri.ng parts.
+if a stable au-plane is in equilibrium at a given angle of attack and it is desired to change
+the equdibrium condition to a larger angle a stalling moment must be imposed to balance the
+negati-re pitching momenh which -would arise from any increase of the angle of attack.
+This
+stalling moment is secured by puking up the trailing edge of the elevator: so that. the algebraic
+value of the angle at which it meets the air is decreased, and then locking it in this new position.
+Sifilarly,
+~ order that the equilibrium angIe may be decreased, the angle at -which the eIe-rater
+is fLxecI mush be increased.
+The direct criterion b~ which the degre~ of stabdity or instabiIit.y
+with locked controls can be judged from free-flight tests is then that the a@e
+aL -which the
+elewtor is set, relati~e to some Line fied in the airplane, shaH diminish as the equilibrium
+A cur~e of eIeTator angle against
+angle of attack increases and the speed of flight decreases.
+speed will therefore have a positive slope for a stable airplane, and the magnitude of the slope
+of such a cur-t-e is at once indicati~e of the degree of stability.
+Tt has been pointed out that stability under any particular concIition is assured if the curve
+of pitching moments crosses the horizontal axis once and only once, the moments being negative for all angles larger than that of ecpilibrium,
+positi~e for all angIes smaller.
+If the angle of
+ele-rater setting be changed, e~erything else remaining as before, the curve of pitching moments
+is little changed in form, but is shd -vertically, remaining
+approximately
+paralIeI to itself,
+since a change of elevator setting modiiles the angle of attack of the tail m a w-hole and
+375
+
+376
+
+AATNUAL
+REPORT STATIONALAD171SORY
+COMMITTEE FOR AEROxAU~I~s.
+
+aIters the lift coefficient by very nearly the same amount at all angles.
+lf the curve did not”
+change its form at all and remained exactly paraIleI to itself throughout it is evident that an
+airpIane stable at all speeds would have a moment curve the slope of which would be negfitive
+at all points, since stability demands that the slope be negative where the curve crosses the
+horizontal axis and the curve can be so shifted, by adjustment of the ele~ator, as to cross the
+axis at any point of its length.
+The curve of pitching moments would always move paraIlel to itself, and the criterion
+just mentioned wouId be perfect, if the tail as a whole always maintained the same form and
+if its lift coefficient curve were a straight line, so that z given change of angIc would have the
+same absoIute effect on the lift coefficient of the tail, whate~er may have been the initial nngle
+of attack.
+The second condition is very closely observed with all types of tail except when the
+tail is presented to the relative wind at fin abnormally lmge angle, either positive or negative,
+and the first holds true when there is no fixed tail-plane, a change in the setting of the elevator
+therefore ,meaning a change in the angle of setting of the whole tail.
+In the much more uswd
+design in which the tail is di~ided into fixed and movabIe portions, any change in cIcvator
+angle changes the sectional form of the tail, the effective camber becoming deeper as the eIevator
+is turned in either direction away from the prolongation
+of the chord of the fixed portion.
+Since the slope of the lift curve is greater for a deeply-cambered
+tail thtin for one nearly flat,
+and since, as will be mathematically
+demonstrate ed a little later, the efficiency of the t ail in
+producing stability depends primariIy on the sIope of the Iift curve, it is clear that the skbilizing
+effect of a tail wiIl be greatest when the angle beiween the tail-plane and elevator is considerable,
+or, in other words, when the Lzil-plane is set at such an angle that the machine is very nosehea~~ or tail-heavy and that the elevator has to be held hard up or down in order to maintt]in
+equdlbrium.
+While this has a good effect on stability with the controk Iocked, it makes the
+airplane very unpleasant
+to fly with free controls, and also decreases the efllcimcy of flight
+and the speed, the drag of the tail being much augmented for a given liftl bysetting
+the elevator
+at a, considerable an,gIe to the tail-p lane.. However, even though an airplane ma~ be perfectly
+bdanccd under normal conditions, there is but one speed at which the ele~ator ~~ill lie exactIy
+in line with the tail-plane, and at which as a result, the taiI as a whole will have the designed
+The angle between the fixed and movabIe surfaces is greatest a,t very high and very Iow
+section.
+speeds, and the airphme is consequently
+liable to possess, under these extreme conditions, a
+higher degree of stabiIity then would be prophesied from a wind tunnel t.es~ carried out, as
+such tests practically always are, with the elevator fixed parallel to the tail-plane for dl angles
+of attack.
+This is especially true on those airplanes which have the gap between the tail-plane
+Another factor tending to give greater stability than that
+and eIevator closed in some way.
+shown by model test is that, at extreme angles of attack, the fixed flat t,aiI surfaces employed
+on wind-tunneI modek meet the air at an angle approaching
+that of maximum lift., and CYThe slope of
+ceeding that at which the lift curve begins to fall away from a straight line.
+the lift curve for the taiI is therefore less than in steady free flight of the fulI-sized airplane, as
+the adjustment
+of the elevator with changing angle of attack is such, for a stable nirplane,
+that the angle of the relative wind to the line connecting
+the leading edge of the tail-plane
+with the traiIing edge of” the elevator changes less rapidly as the angle of attack is varied
+than it would if the elevator remained fixed in one position relative to the airplane..
+Since
+both of these favorabIe effects (the effect of the elevator setting on camber of the horizontal
+tzil surface as a whole and its effect on the true angle of attack of that, surfuce) are most
+marliecl when the elevator angle varies most with changing speecl and angle of attack} or, in
+other words, when the airplane is most stable with locked controls, it. is evident that stabi]i ty
+begets stability,
+and that the stability characteristics
+at high, low, and intermediate
+speeds
+The very act of increasing, by any means whatever,
+,me, to some extent, interdependent.
+the degree of stability
+under normal conditions increases the stabilizing efficiency of the tail.
+The pitching moment curve for any particular elevator setting’ can be studied and mml~zed
+mathematically.
+If itbe assumed, as a first approximation,
+that. a. negative slope of the plt[ching moment cur~e at all points is a sufficient condition of stability, the analysis can he confined
+to a single elevator setting.
+
+.
+
+.
+
+STATICAL LONGITUDINAL STABILITY OF AIRPLANES.
+
+3’77
+
+The pitching moment under any conditions is equal to the sum of the moments due to the
+wings and tail (the effect of the bod~ and chassis is smaII enough so that it can safeIy be
+negIected), and may be written:
+x=1:
+Developing
+
++ 3,
+
+each of the components,
+
+P
+L/cxA,x
+xL=x
+A2xr’
+.lf2=–(z’–a)
+w-here r = distance from Iead..@ echge of wingg to C. P.
+a = distance from Ieacling edge of wingg to C. G.
+LC, and La= Iift coefficients of -wings and t fiil, respectively.
+.41 and A,= areas of wings and tail, respecti~ely.
+z’= distance from leading edge of wings to C. P. of tail surfaces.
+1-= speed of flight.
+3-,=
+
+–(z–a)x
+
+Ml distances are expressed, for convenience
+choril.
+The totaI moment is then:
+
+Differentiating,
+
+and uniformity,
+
+in terrm of fractions
+
+of the w~ng
+
+.
+
+.
+flM
+—=–
+(ia)x A,xd#+.
+cl
+!i5 x .4, ~d#\+@
+–a) x A, x~~+p,,
+x .42: g]
+x T“’
+da
+The variation of T’ with regard to a cam be negIected, as it would never resu.l; iu changing
+the sign of the slope of the curve ~t its intersection
+with the horizontal asis.
+Since it is the sign of the slope of the moment cur-re which is of primary interest, the fzctor
+dx
+172can be disregarded for the present.
+Jm order that. the airplane may be stable, ~; must be
+q
+
+[L
+
+negative under all conditions,
+and the expression inside the brackets in the equation must
+With wings and tail of ordinary section, the C. P. meting forward as
+therefore be pmiti~e.
+the angle of attack is increased, the third of the four terms within the brackets is positive, -while
+The sign of the first term clepends on the Iocation of the
+the second and fourth are negativeC. G. It is always positive at rery small angles of attfick, and some machines have the
+C. G. far enough forward so that. the fit
+term is positive under all conditions.
+If the Iift curve
+he assumed to be a straight line, so that. the ~alue of LC at any point is equal to the product of
+dL.cl
+d-l
+by a (measured from the angle of zero lift) the factors ~
+and A, can be taken out
+~
+of the equation
+
+d 31
+just. gi~en for ~,
+and the expre~~ion i~~ide the brackets
+
+with all constant
+
+factors
+
+mn then be written,
+
+ignored:
+
+(ixLA,
+dLm
+(ix’
+‘Z–a)+a(ia’
+~lxdL:x
+‘z’–a)+a’X~a
+–[
+where a’ is the angle of att acli measured from the angle at. -which the lift of the tail is zero.
+
+1
+
+Manchester has giren a construction’
+for the deternimatio~
+of a sufficient condition of stability,
+based on this assumption that the lift curre is a straight line ancl taking into consideration only
+It is, therefore, the construction for the conthe first two terms of the expression just given.
+dition under -which the portion of the moment curve due to the wings alone has a negative
+f
+anEngineering
+Stmdpoint, F. W’.Lmehester,
+by
+N.Y., 1915.
+1The FlyingMwhinerom
+
+,
+
+.-
+
+378
+
+.4NNU”AL.
+REPORT NATIONAL ADVISORYCONiMIT~EE l?OR AERONAUTIU5.
+
+lt is obvious that the expression inside the brackets
+sign, and is decidedly on the safe side,
+must be positive, since x’ is very large, and stability is therefore certain if the smn of the finit
+Lwo terms is positive.
+lf the tail had the swne section,
+
+aspect
+
+ratio , and general
+
+efficiency
+
+as the wings $~~
+J, i
+..
+at which the tail meets the air
+this is about 0.4 as great M the
+of fact, however, the efficiency
+is alwut half that of tho Wings)
+
+would be approximately
+0.6 ~ as the rate of change of the angIe
+is diminished by the rate of change of the downwash angle, arid
+rate of change of the angle of attack of the wings. As a matter
+of the tail, as measured by the slope of the curve of lift coefficients,
+,7.
+a*
+is more likely to be O.3 than 0.6-.2
+anti ‘]~e ‘211UC‘f (ZLc,
+Since for any equilibrium condition the total pitching moment
+
+is zero,
+
+(x–a.)xzc,
+x.4, =–(z’–a)x
+Lc2x A2.
+It can then readi~y be shown that, still mnking the assumption ihat the Iift curve is a straight
+line,
+(mc, ..A ,
+
+a’‘dLC1 ‘.G=-
+
+a +2$
+
+Substituting
+the second of these -ralues for the. first in the fourth terin of the equation
+of the moment curve, the variable part of that equation becomes:
+
+for slope
+(1)
+
+13xamining each term of this ;quation in turn~it appear~_that the first term is aIways positi-r-e at smaIl angIm, when the center of pressure is fm b~cli, and maybe either positive or [~cgativo
+Its aJgebraic value can be increased to any desired extcknt by moving ;he ccnLcr
+at large angles,
+of gmvity Imward.
+The expression inside the brackets is always negative except ill thow raro
+cases where the wing cell itself has a [(stable’~ center of pressure travel.
+The negative value can
+he reduced by moving &he center of gravity forward, by shortening the fuselage, by using a wing
+secbion with a more stable center of pressure traveI, or by using a tail surface with a more stable
+C. P. traveI if the C. G. is back of the C. P. of the wings, so that ~;-~~ is negative.
+is positi~e i~ is disadwmtageous
+of the C. P. of the tail).
+
+to stabiIity
+
+to hme -~~~ positive
+da
+
+Since ~>>~ is usually positive
+
+(i. e., to have a stable
+
+at some angles of attack
+
+If
+
+~, ~-~
+motion
+
+and negative
+
+at others it is rather difficult to tell what properties should be sought in a tail-piano to give the
+best stability.
+In any case, however, the effect of the second term inside the brackets is small as
+I —a.
+—
+1s almost always less than O.05} and the tail section may be chosen from considerations
+d-a
+Finally, the Ia~t term in (1) is always large and positive, and
+quite unconnected with stability.
+can be increased by increasing the length of the body, the area of the tail, or its efficiency as
+defined by the slope of the cur-re of lift cmfficients.
+The, virtues, as a stabilizing agent, of a tai~-plane set at a negative angIo to the wings huve
+been understood for many years, such a disposition of surfaces having been used by Penaud on
+It is not so universally comprehended, however, thaL
+his rubber propelled models about 1870.
+the inherent direct, ad~antages of a ncg%tive tail-plane setting, are slight, arising only from the
+greater efficiency of the tail under those conditions, with the elevator held at a considerable
+angle to the tail-plane to gi-re equilibrium,
+ancl that the great merit of such a seiting is tJ..M it
+permits the center of gravity to be placed very far forwrd
+without throwing the airplane
+The really crucial points i~; connection with stability with locked controls
+badly ou~ of balance.
+are the position of the center of gravity, the size and efficiency of the tail-plane, and the length
+of body, and that the first of these is by far the most important.
+—
+~lt has been found at the Royal Aircraft Establishment that the tailetiiciency for a B. E. 2E ranges from 0.5at high speeds to 0.75 at low. (Full
+with R. A.F. 15.wing
+section: . &M.(New
+R
+Series) o.M: 1917.
+N
+scale stabihty experiments M a B. E. 2J3
+
+.
+
+379
+
+STATICAL LONGITUDINAL STABILITY OF AIRPLANES.
+
+bmchester’s
+construction has been carried. through for a number of representati-re
+aerofoil
+sections, and it. has been found that the C. G. must lie [taking the average redi
+for the se-reral
+wings, which ~~
+only sIightIy among themselves) not more than 0.23 of the way back on the
+mean wing chord if stability is to be secured without. any assist ante from the t aiI.
+A wing ha-ri~w a “ st zble” center of pressure trawI does not necessarily give an airpIane
+compIete stability, as shown by the cum-e of pitching moments.
+For example, an airplane -with
+flat plate wings and no taiI, and, with the C. G. anywhere between the leading edge and the
+middle of the chord, -w-ouIdbe stable at. some definite angle of attack, so far as smalI disturbances
+and smalI excursions from that a@e -were concerned.
+It ‘mouId: however, be subject. to 6’catastrophic instabilit.~” in the e~ent of large disturbances,
+the curve of pitching moments cutting
+the horizout al a.ms-at. three points within the range of possible &rht. angles, two of these points
+corresponding to stable conditions of flight ~ the third to an unstable conc&ion.
+To completely
+insure against such instability
+it would be necessary to pro-ricle a tail a~d to move the C. G.
+for-ward at least. to the Ieading edge of the wing, farther forward thank required with” unstable”
+wings of cambered section.
+In the case of an airpIane in which the center of pressure of the
+wina~ approaches the leading edge as the angle approaches zero, as in the fiat. plate, the danger
+of getting into the in~erted equilibrium position is greatest. when the C. G. is far fmward (but
+stiII back of the leading e~~e), as the angles of attack for normal flight and ste~dy upsideC1OW}flight are then very close together.
+.&n airplane which flies normaKy at SO, for example,
+and -which has another point of equilibrium. at – SO, is much Iess likeIy to be thrown into the
+inverted position by atmospheric disturbance or by an inadvertence on the part of the piIot than
+it wouId be if the angles were + 2° a~d —2°.
+In a certain sense, all airplanes are c.a~astrophically unstabIe, since the cur-w of pitchi~g moments,
+being continuous thro~ohout
+360°,
+must. cut the horizontal axis at IeasL twice if it cuts it, ai aL1. For a flat plate alone, with the C. G.
+an-y-where along the chord, the curve cuts the axis four times during the complete circIe.
+For a
+typical cambered wirg, the cum-e cuts the axis Wice if the C. G. lies in the fit
+3(I per cent of
+the chord, four times if it lies between 0.3 and 0.5 of the way back.
+Ml wirigs, both flat md
+cambered, hai-e a point of stable equilibrium at, a small negatiw angle of attack, and it is the
+function of the tail to shift this point of equilibrium to an angle of positi~e lift.
+The other
+point of intersection, for a wing with the center of pressure far forward or for a complete airpIane,
+is one of unstable equilibrium, and occurs at. an angle of approximately
+1S3°} corresponding to
+Catastrophic
+instability
+need then occasion no difficult~
+the conditions during a tail-sIide.
+if the C. G. is located far eno~~h for-ward, as it. is easy to secure a moment curve -which til ha-re
+a negative slope at all angles from – 40° to + 40°.
+0.13 for ~}-, and 3.75 for (z’ – a), these values correFt
+1
+spending rou@ly to the average dimens;om usecl at ~he present time, and if it be assumed that
+the motion of the C. P. of the tail is in the same direction and half as ~meat as that for the wings,
+the formuIa becomes:
+If, in (1) 0.3 be substituted
+
+for ~,
+
+“-a)+
+ax~x[’-=l+146
+
+(2)
+
+The factor inside the brackets
+is so nearly equal to 1 that it can safely be disregarded for
+purposes of approximation.
+The mean values of the second term zn;l of r determined by wind tunnel tests for a number
+of commonly-used wing sections are:
+a
+
+(ix
+
+akzz
+2
+
+go
+
+3°
+
+4°
+
+5“
+
+fjo
+
+–0.333
+
+–0.181
+
+–0.142
+
+–0.137
+
+–().l~g
+
+.53
+
+.46
+
+.43
+
+.40
+
+.3s
+
+It should be borne in mind that these figures and the results deduced from them are only
+iIIustrati-re, relati~e to a-rerages of wind tunnel tests and that they are subject to verification
+
+‘
+
+380
+
+ANNUAL REPORT NATIONAL ADVISORY CO
+MIIITTEE FOR .4ER0.NAU’TICW
+
+Substituting
+these mean vaIues iu (2), the value which a must not exceed
+by free flight tests.
+in order that the moment curve may have a negative slope can atmnce be found.
+This value is
+In other words, the center of gravity of ihe
+smallest for the smallest angle, where it is 0.35.
+airplane must lie not more than 35 per cent of the way back on the mean wing chord if stabiliLy
+is to be secured.
+If the tail area were decreased 50 per cent, the angle of set~ing being cllmged
+St the same time but the section and plan form remaining fixed, the C. G. would have LObe
+If, Ori the other hancl, the tail etlicicncy, w
+moved forward until a became less than 0.2S.
+
+dL ,2
+
+— be increased 50 per cent without change of area (a feat which shoul(l not be
+‘easured
+by dLC1
+very difficult to accomplish in some present-day airplanes), the C. G. could be moved bwk to a
+point about. 40 per cent of tile chord from the leading edge without causing the airplane to
+become unstable.
+This backward movemen~ of the C. G. decreases the loud on the tail surfaces
+and improves the’ general efficiency of flight.
+SLIP-STREAM EFFECTS.
+
+The analysis so far has proceeded on the assumption that all parts have the same speed
+This assumption is correct in the case of gIiding
+reiative to the air through which they pass.
+flight, but it is ver~T far from the truth with the throttle open, the mean fiir-speed at the tail
+being much higher than that over the wings, since nearly the whole taiI Iies in the slip-stream {)n
+most airplanes.
+If the sIip-stream velocity varied in the same manner and proportion as the
+speed of the airplane relative to the undisturbed air the higher veIocity WOUM operate only to
+UnforLunfitely, however,
+make the tail more effective and so to make the airpIane more stable.
+Ifi has been shown by them-y and by experiment S 4 t,htit the
+this condition does not prevail.
+ratio of slip-stream velocity to air-speed increases as the air-speed decrcasesj and, in fact, that
+the speed in the slip-stream is almost independent of the air-speed.
+The pitching moment equation with allowance for the slip-stream, if it ‘be assurne(l tl~at
+the whole of the tail, but no part of the wings, lie in the slip-stream, is:
+
+In this case the effect of a change in elevator setting is,
+where l’s is the slip-stream velocity.
+as before, to slide the moment curve vertically, but it slides the cur~7e parallel to itself only if
+lt will be recalled that this same condition was
+the velocity across the tail does not change.
+laid down in the case where slip-stream effec~ was ignored, and that the analytical work vim
+accordingly carried through on the assumption that the velocity remained constaut,
+~imihwly
+in the present instance it will be necessary to assume that the slip-stream Yelocity passing o wer
+Differentiating
+M with rqwc L to
+the tail remains constant while the speed of f-light varies.
+the angle of attack, treating V as a variable:
+
+d
+——M . dLC, X(z–a)X
+~=
+da [
+
++‘–;’
+[
+
+Strictly
+
+speaking,
+
+x ($’ – u) +d;;
+
+T’r
+~$~ instead
+
+~2+$~XLC,X
+
+x L,z
+
+172+2 Vj;XLCl
+
+X(X-a)
+
+1
+
+X.+
+
+1
+
+X <42X V,’
+
+of 1“, should be taken
+
+as an independent
+
+-ra.riablej but, as has
+
+already been pointed out, P. varies so little with airspeed in normal flight with wide-o~etl
+thrott~e that i; can be considered in an approximate tre~tment as actuWy ;ernaining const&t.
+.—
+o
+sPreliminaryeport n Fre*lWght Testing, by E. P. Warner and F. H. ~~orton: Report No. 70, National Advisory Committee for AoroR
+nautw, ‘Washington, 192).
+~Slip.. Stream.
+Cwreetlons in Performance Comportations, by E. P. Warner: Report h’o. 71, National Advisory Committ ee for Acronau tics,
+WeArington, 1920.
+Numerous reports of the British ,4dvisory Committee for Aeronautics also deal with this subject.
+
+.—
+-..
+
+——
+
+381
+
+STATICAL LOKGITUDIA:AL ST-ABILITY OF AIRPLANES.
+In order that the airplane
+
+must hold true.
+that
+
+the equation
+
+If, as before,
+
+may be in equilibrium,
+
+the condition
+
+be assumed
+
+the lift
+
+to be straight
+
+lines, so
+
+of equi~ibrium becomes:
+
+Substituting
+the expression on the right-hand
+expression for the slope of the moment curw,
+
+side of this equation
+so as to eliminate a’,
+
+for that on the left. in the
+
+r
+
+_——
+j;=
+
+[
+
+(X–a)xl’’+gxc’x
+
+TV2r~$&?. x.(x-a)
+
+dLm
+I ~x(z’–(z)xii,
+[
+
+~
+
+Taking
+
+-4,, ~~
+
+x~’.’ – ~x
+1
+
+arid 1“$ OULas factors,
+
+:<.41
+
+the condition
+
+<AIxa&
+
+1
+
+x v’:=
+
+dLfl ,,
+
+of statical
+
+>.dX’
+A cz,.. d;
+
+stabiIit.y
+
+becomes:
+
+[’;-a’;’(EYl+[&xax(~iYl+P
+&yY’”x@-”Jl+
+dLG A,
+~x-p(z’-a)
+–
+c1
+1 [:=’K7X”4%”
+1
+[
+If tthe airplane is in le-wl or appro.ximately
+as is usualIy the case when the throttIe is open,
+
+Ti’=Lclx Aix
+neglecting
+
+Substituting
+
+the lift on the t aiI, where
+
+this ~alue f or’~
+
+leveI flight
+
+(lL
+
+r~=a~ -&x.41x
+
+(inclination
+
+equation,
+
+of 2 0“],
+
+P
+
+W is the total weight of the machine.
+
+in the stability
+
+not in excess
+
+Then
+
+the third term exactly
+
+cancels
+
+the tit,
+
+and:
+
+must be positive for stability.
+lt. tilI be rioted that the term depending directly on the relation
+between the position of the C’. G. and that of the C!.P. of the wings does not appear in this
+equation, and that ~. ~. position has only a very slight effect on stability.
+In fact, the stability
+
+.
+
+382
+
+ANNUAL REPORT LTATLOA’AL
+ADW30RY (lOMM1~TEK FOR AEROhTAUTIW.
+
+can only be inc.re.ased, if the velocity of flow over the. tail be constant,, by increming the area
+or efficiency of the taiI surfaces or the-length of the body.
+It is evident that it is much more difficult to sewe stability when the velocity across the
+tail is constant than when it varies in the same man~er .as that across the wings.
+The ~ctual
+condition always lies somewhere between these two” e~tremes, and the stability is improrct I as
+the tail is brought OUL of the slip-stream in whole or in part, thus approaching more nearly
+the second limiting condition.
+lt can be seen from physical reasoning that, if the slip-stream wlocity is kept constant.
+while the air-speed varies in such a manner as to keep the lift. constant, the stabiIity must bc
+nearly independent, of C. G. position, as the form of a curve of moments clue to a series of parallel
+forces is independent
+of the position of the moment tixis if the sum of the upwarcl forces be
+equal to the weight of the machine at every angle of attack , and R shift of the C’, G. tJwcfore changes the wing moment by the same amouni_f6r dl tingles.
+It has been shown that it is always advantageous
+Lo
+increase as much as possible the efficiency of the tail surfares
+as measured by the sIope of the curve of lift mefficiwts.
+If a
+section flat on one side and cambered on the othw be tvstcd
+at both positive and negitive angles (measuring angIes from
+the zero lift position and defining their signfi on the wst~nlption that the cambered surface is uppermost), it is !ound that
+the. curve of lift coefficient agtiil~st tingle of tittack hos the
+general form shown in figure 1, and that the slope o! IJ~c ‘
+curve at the point corresponding to any given positive lift
+coefikient (except a very smaIl one) is materially greater than
+L, of the same
+that at the point where there is a neg;tive
+absolute magnitude.
+The tail-plane should therefore lN so
+set, for best efficiency, as normally to work at a positive nngle.
+Since the C. P. of the wings is behind the C. G. at all times on
+some airplanes, and at all escept ~ery low speeds on all, t.hc
+load on the tail-plane is normally downward.
+In or!ler thtit
+there may bc a downward force while the tail is set. at a
+positive angle of att~ck, using. the term positive ang]c to
+F/g./.
+denote the condition in which the flat surface of the itiil
+experiences a larger normal pressure (algebraic ~alue) than the camberyd surface, & tail musL
+It appears from the analysis that this disposition,
+be inverted, with the flat surface on top.
+which has been employed in the Pfalz and numerous other m~chines} possesses distiw t
+advantages.
+The increase in stability by inversion of the tail should be greatest
+at high
+speeds, w it is at high speeds that the normally placed tail-pIane meets tbc air at a large
+negative angIe where the slope of the lift curve is small, ancl there is consequently
+more room
+for improvement
+under those conditions than und~r any others.
+fit intermediate
+speeds,
+where the load on the tail is small and where there B little difference in the form and +lpe (If
+the lift curve for equal positive and negative coefficients, it shndd make little difference whcLher
+the upper or lower surface is the cambered one. The position of the C. G. and thti tail area can
+therefore be modified to change the stability .of the airplane at all speeds, while the relation
+between stability at high speeds and at low can be controlled to some cxtmt by altering the
+sectional form,
+EXPERIMENTS ON STABILITY WITH LOCKED CONTROLS.
+
+The experiments made to verify the above theory and to determine the degree of stability
+In the first the airp~ane was flown under the controI of the pilot, the
+fall into two classes.
+elevator angles were determined
+for se~eral air-speeds and a constant-throttle
+setting, and the
+In the second series of experiments the
+angles thus measured were plotted against air-speed.
+airplane -was actually flown with the elevator locked in several different positions and the uatmre
+
+_
+
+STATICAL
+
+LI)NGITUDIIIAL
+
+STABILITY
+
+OF MRF’LANFX.
+
+383
+
+lrL order that the expertients
+might noti be complicated by any
+of its motion was obser~ed.
+interaction of longitudinal and IateraI stabiIity the locking device w-as so arranged as to permit
+the stick to be moved from side to side whiIe keeping it in the same fore-and-aft position.
+The ‘
+pilot was thus able at all times to make use of the rudder and ailerons to keep the airplane on
+The measurement
+of elevator angles and the curves based on those
+an even keel laterally.
+measurements
+admittedly
+are not very accurate in form, as the constant fluctuations
+in
+position due to minute air d.istubances
+are large in comparison with the changes of angIe as
+the speed ehangys, the stabiIi@ being wry near to neutral in most instances.
+HoweYer, whale
+the accurac~ is not. great enough to permit of the making of cIeIicate determinations
+of the
+point at wkuch the instability
+appears or of refined analysis of the effect of changes in the
+airplane, it is still sufiicierk to show any large variations in stability and to check the analysis
+approximately.
+The variables which were changed in these experiments were:
+(aj Horizontal position, or .37-coor&inate, of the Cl. G.
+llj) Stagger.
+(cl A.ngIe of setting of the tail-plane.
+(d,) SectionaI form of t.aiI-plane.
+I’eI ~~atical position, or Z-coordinate,
+of the C. G.
+.kssembIy drawings of this airplane were given
+.i tJN4H was used in all these experiments.
+experiin Report No. 70. The DH.4 is the only other type of airplane on which any ffl-scale
+ments on stability with locked co~trols or on e~e-rater positions have been carr~ed on in berica.
+(b) has the same effect as (a) in that it mows the C. G. relatire to the -w@,
+but changing the
+st~oer
+also has a direct effectl as it mofi~es the tra~el of the center of pressure of the wings.
+IL is necessary to reduce the stagger b.dow normal if the C. G. is to be brought very far forward
+on the mean chord, as the attac~ent
+of enough weight at the nose to move the C. G. to a
+distance of less than one-third of the chord from the leading edge of the mean chord would
+The tailbring the C. G. so close beMnd the de = to entd seriousdanger of nosing over.
+plane angle was moditied by pIacing blocks under the leading or trailing edge, the h being cut
+The sectional forms tested were three in number.
+away at the bottom to provide clearance.
+The standard tail was tested bow in norm~ petition and imertedj
+and the third arrangement
+was a tail of symmetrical
+section made by attac~m
+convex fairings on the flat lower surfaces
+of the ribs of the standard td.
+OIIIYa Shgle alteration was made in the vertical position of
+the C. G., a -w-eight being attached to the ade during one test.
+The data permitting chrect study of the efiect of C?. G. position without the introduction
+.% already noted, the C. G’
+of any other complicattig
+factors are unfortunately
+rather sparse.
+can not be mo~ed far for-ward of its norm~ position tithout
+danger of nos% over} and mo-rement to the rear through more th~ 3 or 4 per cent of the chord kngth makes the airpIane tailhea~
+and tiresome, if not dangerous, to fly. Tests with the C. G. position coeflicien~ (the
+ratio of the clistance between the le~~ng edge of the mean chord and a line through the C. G.
+perpendicular
+to the thrusi hle to the ~ord length) at 0.365 and 0.335, the stagger being 13
+iuches in both cases, show an improvement
+of stability with the throttle closed as the C. G. is
+mo-r-ed forward.
+With the throttle open, the difference between the two cases is negligible.
+This is strict~y in accordance
+with theoretical
+deduction.
+& in. the cases detailed in
+Report No. 70, the airplane is stabIe at Iarge angles of attack and unstabIe at alI speeds beyond a
+certain point.
+Insfiabilitty with the throttle closed appeam afi a mean speed of 78 m. p. h. with a
+C. G. coefficient of 0.365, at S2 m. p. h.mhen the coefficient is 0.335.
+This difference, -while
+It is probabIe that one reason for
+distinct, is much smaller than tight
+have been predicted.
+the smalI apparenh effect of the C. G. position k that the tail-plane in this series of tests was
+blocked up to a negative angle (2.9° tO the top longerorO, that the elevators had to be pulled
+down to maintain eqdibfinm,
+and that they were pfied down farther -when the C. G. was hack
+aud the machine was tail-heavy than when it was forward.
+The combination of tail-plane and
+elevator then acts roughly as a cmbered
+stiace,
+and the c~ber
+~ deepes~ and the eflecti~eness of the surface in producing lift is highest when Lhe C. G. is farthest back.
+This increased
+54SS9—-21-25
+
+.==-
+
+—
+
+384
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+C~~MITTEE
+
+I?OR AERONAUTICS.
+
+effectiveness of the tail unit partially counterbalances
+tl~~less stalde form of the curve of moments
+due to the wings.
+KTO even with a C!. G. coefficient of 0.2g, this being the farthest forward
+t
+position that was tried, was there complete stability at high speeds.
+The prediction from the
+model test that stability at all speeds” would be obtained with a C. G. coefficient of 0.35 is thus
+shown to be incorrect for this machine, and it is evident either that the travc] of the (.!. 1’. of
+the wings in free-flight is dii?erent from that found from a model test or thai tJLo efficiency of
+the tail k. less than was estimated.
+The latter is ~-ery probable, as the aspc,ct ratio of iho tail
+is Iow and the section thin.
+Changes in stagger, like those in C. G. position, had very little direct effect.
+lL is mxessary
+to use a positive stagger of at least 50 per cent of the chord if any improvement in stability is
+to be secured b-y modification of ihe nature of the center of pressure travel, and the maximum
+stagger used in any of these tests on the ,JNT4H was the normal amount, 27 per cent.
+The effect of modification in the taiI-plane angle wm much larger than had bwm anticipated,
+h a concrete instance, three tests mad~ with different tail-plane settings ma~ be compared.
+Wibh the taiI plane set flat on the top longerons, the airplane became unstable at 57 rg. p, h,
+with throttle open and at 62 m, p, h. when gliding.
+With the tail-pIane se~ at – 1.4° to the top
+longerons the corresponding figures were 67 and 72 m. p. h ., and when the anglo of settiug ~vas
+increased to —2.9° the critical speed was 75 m. p. h.~buth with open and with closed tktr ttle.
+lt can not be claimed that these speeds are correct to any high order of accurficy, buf, they
+are probably good to within a maximum error of 6 m. p. h. and a probabIe error of 3 m. p. h.
+The apparent change of stabilit~ with change of tail-plane setting is large enough so that,
+despite the considerable errors wluch maybe present, the general trend of the, variation, at least.,
+is fairly certain.
+It wfil be seen that the range of speed in which the airplane is staldc constantly
+increases as the rem of the tail-plane
+is raised,
+This point& to a. considerable
+indirect
+ad>-antage i~ moving the C. G. forward, as the elevator angle for zero force on the stick (a condition always to be sought for whe~ in equilibrium at normal speeds, even if stability must be
+sacrificed to obtain it) probably is nearIy indepenc?eut of the tail-plane setting, and the angle
+between tail-plane and elevator when properly balanced is therefore greatest whe~ the C. G. is
+far forward and when the tail-pIane has to be set at a large negative angle to keep the nom up.
+It has already been pointed out that se~ting the two portions of the surface at a large angle to
+each other improves the tail efficiency.
+Study of the results of wind tunnel tests on wings with
+hinged rear portions set at various angIes does not inclicate a change in sIope of the lift coefficient
+curve sufficient to ac~ount for the magnitude of the effects observed in the present e.speriments,
+and it is probable that the direct effect of tail-plane setting would be much loss if tho tall were
+of reasonably thick and efkcient section than it was in the present case where the section of
+the tail approximated to that of a fiat plate.
+The effect of taiI-plane setting on stability was
+much less marked in the DH4 tlian in the JNT (see Report hTc. 70).
+The effect of sectional form is to change the reIatiYe stability at different speeds, as was
+The building up of the tail-pIane to a symmetrical
+predicted from the theoretical analysis.
+form increases the stability at high speeds whiIe decreasing it at 10W, and the inversion of the
+The inversion of the ~ail-plane
+tail-plane has the same effect in a still more marked degree.
+raised the speed at which instability appeared by 5 m. p. h., and made the instability much less
+marked when it” did appear, the elevator angle with tkwot ile closed, with 6 inches stagger, and
+with the tail-plane at – 10, varying through a totaI range of less than ~0 at all speeds from 60
+LU91 m. p. h.
+!l?he next experiments dealt with the effect of lomering the C. G., the object being to reduce
+the difference between the balance with throttle open and with throttle closed by bringing the
+~. G. below the thrust line and so causing the thrust to produce a diving moment counterbalancing the stalliug moment due to the action of the slipstream on the controls.
+The C. G. was
+lowered about 1~ inches’ in the only experime~t of this series so far conducted, and no cflw~ was
+apparent, presumably
+because ~he change R-as not large enough.
+CaIcuIations of a ~ecw.
+smily very approximate nature indicate tlmt the C. G. would have to be lowered about a foot
+to bring the curves for all throttle settings into coincidence.
+
+385
+
+L03-GITUDIN”AL STABILITY OF AIRPLANES’.
+
+STATICAL
+
+Summarizing
+the results of these experiments,
+it may be said that they cheek extremely
+weIl with the theory except that the effect of C. G. position is less, that of tail-plane’ setting
+more, than was expected.
+.% an index ;f the magnitudes of the totaI effects of these modifications,
+the curws for
+the JN with the standard rigging are pIotted in figure 2 together with those for the most stable
+arrangement tried (6 inches stagger, coefficient of C. G. position 0.290} tad-plane inverted and
+set with chord at — 10 to top longerms).
+
+ELLV?TDR
+
+AWGL5S
+
+ON dV4H
+
+*4
+
+_
+—
+
+~
+
+—.—
+
+——
+
+———
+
+_
+
+-
+
+~
+f
+
+~
+
++
+k
+~–~..
+~
+
+/
+
+q
+:~-~.
+
+/
+
+— .
+
+___
+
+/
+
+4
+p
+Y
+
+/
+
+~
+
+.S/andurdr/ggmg.
+~Sfogge~
+fo#-p/one mverfedondsefaf
+C.G. coeff =.290..
+Numbers
+kd%afe
+zp.m. af 60 m.p.h.
+
+-/,-
+
+1
+- 6“
+I
+-8”
+#
+
+50
+
+F/g..Z.
+ExPERIMIWI’S
+
+60
+
+70
+A/?-speed-
+
+80
+
+90
+
+,
+
+/00
+
+m.p.h.
+
+ON ACTUAL FLIGHT WITH LOCKED C027HtOLS.
+
+To secure the most direct possible check on alI of this theoretical and experimental work,
+z Dumber of attempts to fly the airplane -&h the ele~ator controls locked were made.
+It vms
+found that, as indicated by the angIe curms, the standard JN was quite unstable except at very
+low- speeds.
+When the stagger was decreased to 13 inches and the taiI-pIane set at – 2° to t!he
+top Iongeron the airpIane was stable with locked controls throughout the range of normal fiigght
+speeds -when the throttIe was closed and at speeds up to 65 m. p. h. with open throMe.
+The
+“peak” of the cur~e of ele~ator angIes, supposed to represent the point where instabdit y begins,
+is at approximately
+72 m. p. h., but the curve is so flat between this point and 6.5 m. p. h. that
+a “bump” or other disturbance is likely to throw the airplane over the “ peak,” to an angle
+correspond~o
+w%h a speed greater than 72 m. p. h. When this happens, the speed continues
+to increase, and the machine w-ouId presumably ultimately go owr on its back if the pilot did
+not resume cont,ro~. ‘Ms smakes-s of the reserYe of statical stability for the purpose of resisting
+atmospheric
+or other disiurbiug factors is an objectionable
+feature of aIl arrangements
+in
+which the sfiabiLit~ cuwe is very nearly horizontal for a considerable distance (as, for example,
+in the case of the reverted tafi-plane, aheady discussed).
+The aii-pIane could be sek osdlating,
+-with the controk locked, by quickIy opening and
+cIosing the throttle.
+When this -was done anywhere within the stable r~~e of speeds the airplane started oscillating with a period of about 20 seconds, the motion be~m -weL1 damped
+In normal weather the I&ht with locked elevator, aside from such artiand dying out quickly.
+ficially-produced irregularities,
+is very steady, comparing favorably in that respect with fullycontroIIed ~~ht by the average piIot.
+
+.
+
+386
+
+ANNUAL REPORT NATIONAL ADVISORY CQ.~MITTEE I?OR AERONAUTICS.
+
+The conclusions to be drawn from all this exper–fient~
+work are that the C. G. should be .
+far forward, certainly not over 30 per cent of the mean chord b~ck of the leadiw edge of that
+chord, that the taiI-plane should be at a nega~i~e angIe such that the machine balances without
+any force on the stick at the best climbing speed, that the C’. G. should be as Iow relative to the
+thrust line as is possible without disarranging
+the essentials of ihe design or dec.reming its
+usefulness in any way, and that the t aiI should be of_thicker section than is the common practice at present, with at least a part of the convex camber on the lower surface.
+It is impossible
+to be sure until more data on numerous different types of airplanes have become available, bu~
+it is not believed that it will ordinarily be advisable to go to the extreme of using a flat upper
+surf ace with a convex lower.
+STABILITY WITH FREE CONTROLS.
+
+Stability with free controls is much more difficult to treat theoretically
+Lhan is that ~iith
+controls fixed, but it is easier to secure accurate experimental data for the first condition than
+for the second.
+As pointed out in Report h’o. 70, it is impossible to predict accurately the behavior of an
+airplane with free controls except after an exhaustive series of tests on the pressure d-ist,rilmtion over the ttiil, as the moment about the hinge is go-rerned by the position of the ccntxr of
+pressure of the ehwator and the motion of the center of pressue OD a surface hinged LO the
+rear of anothe~ surface is a very uncertain quantity, especially when the elevator is set at m tingle
+close to that of zero lift, as is usually the case with a properly balanced airplane.
+An approach
+to the theory of stability with free controls can best-be made by considering separa~ely several
+simplified cases.
+The simplest possible case is that in which, as on the oh_ Grade and Wright modeI B, the
+Salmson, and some of the. Halberstadts
+and Moranes, there is no tail-plane, the whole horizontal tail-surf~ce moving as one piece (or, in the Wright and Grade, flexing).
+The air load
+on such an elevator must be downwardj thus acting with the weight of the ele-ratxmj whenever
+ihe center of pressure of the wings is behind the C. G. With the C. G. located in accordance
+with the. present practice, the total moment about the hinge is Likely to be such as to rcquim
+a pull on the stick at all times, the airplane not being truly balanced at any speed unless a spring
+or elastic is attached to the stick to hold it back am.reduce
+the effort required from the pilot.
+ObviQusly, since the center of pressure mows
+This expedient is employed on the Sahnson.
+farther to the rear of the C. G. as the angle of attack decreases, the dowrdoad carried by the
+Ori the ~Lher hand, since, as shown in Report No.
+elevator increases as the speed increases.
+70, the criterion of stability with free controk is that-the pull on the stick must decrease, and
+ultimately become a push, as the speed increases, the moment about the hinge must decrease
+If the moment is to_decrease -iyhile the force increases, it is eviden~ t.lla~
+with increasing speed.
+the center of pressure on the elevator must move forward as the speed rises.
+At this point in the analysis three cases must be recognized and treated sepmately,
+W-O
+relating to gliding conditions and one to flight with the throttle open. It has just hem sem thrtt
+La A, T72,where La is, as before, the lift coefficient for the tail, increases with increasing spwxl.
+The rate of change of the force on the tail, or the amount of cha~~e lor a given allegation in
+speed, is independent of the position of the C. G.) but the relative change, the ratio of the forces
+for any given pair of speeds, is go-rerned entirely by that factor.
+‘iTriti~@ the complete equation
+for force on the elevator, the symbols having the same significance m in the part of tke report
+dealing with locked controls:
+
+.
+
+STATICAL
+
+Differentiating
+
+.kmruing
+
+LOA’GITUDIhTAL
+STABILITY OF AIRPLANES.
+
+this with respect
+
+(iL
+
+La = a x ~,as
+
+to the angle of attack,
+
+neglecting
+
+387
+
+-radiations in Zf:
+
+before:
+
+dLa
+AI.
+1
+dLa
+riz
+- (h =–~2xzr_ax [ (z–a)+ax~
+dax
+1
+If the expression imide the brackets is positive, the Lift coefficient of the elevator must decrease
+in absolute due
+as the angle of attack decreases and the speed of tlight increases, while the
+change is in the re-wrse direction if the sum of the bracketed terms is negative.
+It is therefore necessary for stability with free controls that the center of pressure of the taiI move forward m the lift coeflcienfi decreases if the C. G. is for-ward of a certain critical point, the location
+of which depends on the characteristics
+of the whg, and must move forward with an increasing
+LC if the C. G. is behind that point. In other -words, the C. P. t.ra-reI on the ele-rater must be
+in the second.
+ln wings of normal form for which the
+$‘stabIe’* in the fimt easel (‘unstabIe”
+calculation has been made, the farthest forwwd location of the point just aIluded to ranged
+
+.
+
+from 20 per cent to 25 per cent of the way back on the mean chord (assuming the strict applicability of wind tunnel results).
+M low- speeds the point Iies about 30 per cent of the chord
+lewt.h from the leading edge. If the C. G. were exactly coincident with the critical point at
+any- inst tint, the angle between the ele~ator and the relat i-w wind mould not change at all as
+the speed cha~~ed s~mhtly. The cent~~ of pressure on the tail therefore could not move, and it
+wouId be utterly impossible to secure stability with free controls as shown by the curve of stick
+forces (see Report No. 70).
+There remains to be considered the case of flight with open throttle.
+This, as for locked
+c(ontroIs, wilI be treated on the extreme assumption of a constant velocity in the slip-stream.
+S~ce the load on the tail increases -with increasing speed of flight, it. is etident that the lift
+coefficient for the tail must increase if the speed in the ~dip-stream remains constant.
+The
+
+—
+‘
+
+reasoning is then the same as for the case with throttle c.Iosed and C. G. back$ and the travel of
+II the C. G. is forward of the critical point, then,
+the center of pressure must be ‘ ‘unstabIe.”
+the requirements
+for stability with open and with cIosed LhrottIe are diametrically
+opposed
+In this t-ype of machine (one with no fixed taiI-phme) the stability
+and absolutely hcomp atible.
+with free controls is actually injuriously affected by moving the C. G. forward beyond a certain
+point.
+Iti -will be shown Iat er that other arrangements are not subject to this disadvantage, or
+at least not in the same degree, and the use of an elevator without a tail-plane is therefore to be
+avoided if stability is desired, &ntirely apart from its disadvantages in respect of ease of control,
+other things being equal.
+The next illustrati~e
+case to be analyzed is that in which there are a separate tail-plane
+and ele-rater -working entirely independently
+of each other, being placed side by side, as in the
+Bleriok N his, instead of in tandem, as is the present practice.
+In this case the tail-plane
+carries a down load at high speeds and an up load at low. Jl the tail-plane be made large enough,
+
+,
+
+~
+
+and be set at a large eno~~h. negative angle; to give statical stability by the locked-control
+criterion and to bakmce the airplane at. some angle irt the Rormal flying range -without any assist ante
+from the elevators (that is, if a mind tunnel test of a model with tihe elevators removed gives a
+curve of pitching moments which has a negative slope everywhere and which cuts the axis of
+zero moment somewhere between 00 and 120)1 it is evident that,, if the elevator section be
+assumed to be symmetrical
+about its center Line and K the effect of the elevator’s weight be
+negIected or be assumed balanced by a spr~~ or counterweight,
+the airplane W fly with no
+force on the stick at the same a~~le and speed at which it was found to be in equilibrium -with
+the elevators removed.
+Furthermore,
+the maintenance
+of equi!-ibrium at an-y I@her speed will
+require that the elevator furnish a ~tig
+moment tO co~teract
+the st~~g
+moment due to tie
+inherent stability without the elevators, and there wiIl therefore be an upward load on the ele-
+
+.
+
+388
+
+ANhTUAL
+
+REPORT
+
+h~ATIOITAL
+
+ADVISORY
+
+C031M12YEE
+
+FOR “AEROKTAUTICS.
+
+At all speeds lower than the rtormal trimming speed, similarly,
+vators and a push on the stick.
+It is then certain that the airplane wiIl be completely stable
+thin-e must be a pull on the stick.
+with free controls at the normaI trimming speed, but it does not foIlow that the slope of the
+stick force curve is everywhere negative} as would be necessary if there were to be s Wili ty nt.
+all speeds. If the elevator section is not symmetrical, but is of aerofoil form, the clevat.ors will
+take up a position for which the moment about the binge is zero. There will then be a downward force if the upper surface of the elevator is convex and the lower one flat or at least less
+convex, as the lift coefficient for an aerofoil section is always negative when the moment about
+the leading edge is zero. The eIevdor will therefore give a stxdhng moment, and the nirplane
+will fly in equilibrium with free controls at a larger angIe of atkack thrm that at which the
+moment is zero with &he ele~ators removed.
+If the weight of the elevators be taken into account it is clear thah they wiIl hang down
+at such an angIe that the moment about the hinge due to the air forces is equal to tha~ duo to
+the weight.
+In generaI, this means that there wiII be a smalI upward force on the elevators
+
+The effect of elevator weight on
+and that a diving moment wilI zct on the airplane as a result.
+stability and on the form of the stick force curves cam best be shown. with the aicl of a ~~~pl].
+The curves of lift coefficient and of moment coefllcient (moment about the leading edge) for
+a symmetrical section are diagrammatically
+shown in figure 3, and those for a rcprcsentatiw
+aerof oil section are similarly shown in figure 4. All of these curves me straight lines, to a first
+order of approximation,
+in the neighborhood of the zero lift angle,
+Let it be supposecl that
+on an airplane with an elevator of symmetrical
+section the elevators hang at the angle represented by the Iine AA’ when flying at the speed Izl, and that, at the higher speed IT3,t,hcy would
+hang freeIy at the angIe indicated by BB’ (of c~urse there can actually be only one trimming
+speed for steady flight with free elevators),
+the moment coeffkients at the two angles being
+inversely proportional to the squares of the corresponding speeds since the total moment must,
+Since the cur~e~ of LC arid .31Care both
+be constant and equaI to the moment of weight.
+straight lines passing through the origin, the ratio of Lfie two is the same at dl angles of attack.
+Then, since M. is inversely proportional
+to P2 the total lift on the elevators, or product-The lift is the same at BB’ m at .M’, the diving moments in the
+of L. and ~72,is constant.
+two cases are therefore the same, and the analysis carried through for tho weightkss ehmat or
+It is stiIl true that an increase of speed requires a diving moment,
+holds good without change.
+from the elevator, that this in turn exacts an”increw
+in the up load on ihe surface, and that,
+an increasing up load means an increasing moment about the hinge and a pull cm tbc stick, so
+that there is stability with free controls fit least at the trimming speed.
+lt is now, however,
+apparent, since each successive increase of lift entails a further increase of moment about the
+
+STATICAL
+
+LGNGITUDIN”AL
+
+hinge, thmt the cum-e of stick forces has a
+
+ST&BHXCY
+
+positive
+
+OF
+
+389
+
+AIRPLANES.
+
+sIope and a stabIe
+
+form
+
+throughout
+
+the
+
+whoIe range of flight speeds.
+Passing now to the ease of the aerofoil section, -where the curves of L. and MC DO longer
+intersect ah the origin, it is etident thafi it is no Ionger true that f.otaI lift and total moment
+are in a fixed ratio to each other.
+In passing from .ti’
+to BB’ in figure 4, choosing BB’ so that
+changes sign.
+Jf= P fi
+be constant, L= actu@y
+For an aerofoiJ. section right side up, as the
+speed increases and tic decreases the aIgebraic -raIue of ~ gro~s less and the diving moment due to
+.ll.f
+the free-hanging eIe~alor decreases and becomes at Yery high speeds a stalling moment..
+This
+is de&able from the standpoint of stability,
+as the free ele-rater works -with the tail-plane to
+return the machine to its original attitude, and the force which must be exerted on the stick
+If the
+to fly the airplane ak any speed other than its tr imming speed is thereby increased.
+e~evators -were flat above and cambered below the condition wouId be reversed, and the lift
+for constant h@e
+moment would change in a manner clisadwmt ageous for st abdit y.
+In the case of an airp13ne where the ele-rater is hinged to the rear of a tail-plane it is only
+possible to reason by analogy from the simpIer type of tail surface just discussed.
+The relationship between the moment and lift cciefEh@nts is now dependent in a rather indeterminate
+manner on the angle of attack.
+In gerwraI, however, it is sufficient for stability” that the curve
+of pitching moments should have a negati~e slope at W points when tested tithoufi the elevators and that a curve of coefilcients of moment about the elevator hinge pIott ed against
+lift coef6cient shouId ha-re a negative sIope at all points for aIl angles of the tail-pIane.
+If the
+tirst of these conditions is observed both with throttIe open and with throttle closed, the airThese
+plane wilI be stabIe with free controIs under both of these conditions of oper~t.ion.
+spetications
+are not absolutely rigorous, as the force on the tail-pIane and its effect on stabiIity are somew-hak affected by the presence of the eLeYator, especially if Lhe elevator is a
+Lea-i-y o~e. The etliciency of the taiI is, as aLready noted, greatest when the ele~ator is set
+A heavy eIevator, which hangs down beIow the
+at a com~iderable angle to the tail-p~ane.
+line of the relati~e wind and -which require-s tha~ the taiI-pIane be set at a larger negative angle
+to maintain eciuilibrium at any gi-ren speed than would be necessary with a lighter control
+Other things being equal, and neglecting the
+member, offers some advantage in this respect.
+direct eff eci of C. G. position on stabi~it y, a tail-heavy airplane would ha~e a more “stable”
+curve of stick forces than would one properIy bahmced, as the elevator has to be pulled down
+to preser~e equilibrium on the tail-heavy machine and this increases the efficiency of the tailPlane.
+To secure a true meas~e of the effect of a change in C. G. position the tail-pla~e should
+be adjusted, after the change, to such an angle that the airplane will trim with free controls
+at the same speed as before, and it should be found, if tfi~ is doner that there nearIy always is an
+improwmen~ of stability by moving the C’. G. forward: the exceptions
+being machines with
+-iery small tail-planes.
+.<nother reason, in addition to that just mentioned, for the increasingly stable form of the
+stick force cur-re as the negative angle of taiI-pIane setting is increased; is that a gi-ien change
+of setting means a change of lift coefficient for the tail-plane -which is approximately
+the same
+for alI angles of’ attack.
+The total staIling moment due to the change is then proportional to
+the square of the speed, and the additional up-ward force on the e~evator and decrease (algebraic ] of stick force necessary to produce a diving moment to balance this st aIIing moment is
+accordingly greater at high speed than at low. The effect therefore is to mo-re the stick force
+cum-e dovmward, as a -whole, but also to tilt it so tha~ negati~e slopes are increased, positi~e
+This phenomenon was dkcussed in Report N’o. 70, aIready refeired to on
+slopes decreased.
+se-reral occasiom~, in connection with the testing of a ~H-4 with several different settings of the
+The condition connecting
+.LCand .MCfor the eIe-rater is observed on the
+adjustable tail-plane.
+B&~L+~. BK–~C@, .~~~ the ~’–~~, the o~y macb~e~ for ~~ch ~ge
+moment tests are ~~~i~able.
+~ Report Of Brit&h .%d}-iwry Committee forAerOnwlic5,
+191%13, Rep. No. 74, p. 123.
+J F1.diScale Experiment ORthe Moment about the Hinge of the Air Forces on an Elevstol; British Advisory Committee for -Aeromniics,
+R. & M. No. 2S.?,1916.
+I Bulietin of the Airplane Engineering Department, U. S. A.: Dec., 1918.
+
+——
+
+.
+
+390
+
+ANNU.4L
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+AERONAUTICS.
+
+In f act~any elevator which did not have a lift-moment curve with a negative slopo d all points
+would be o~erbalanced.
+The chief deduction to be drawn from this analysis is that models
+should be tested for stabiIity in the wind tunnel with the elevators removed, and thd, if
+stability with free controls is desired, the t.aiI-phme should be large enough so that the cur-ve
+of pitching moments from such a test will have a negative sIope at alI points, both with and
+This points directly to the advantage to be gained by the use
+without the slipstream eflect.
+If possible, the tail-pl~ne and elevator should be
+of a large tail-plane and small elevators.
+of such sectional form that there is a downward force on the ele~ator when the moment about
+the hinge is zero.
+1-Iezvy elevators me to be avoided for several reasom, cpief among -which is the eflcc~
+To give a concrete instance, tho pull on the shick
+of accelerations
+on the stick force required.
+required to baIance the weight of the elevators in a JN is 8+ pounds.
+In pulling out of a hop
+with an acceleration of 3g, the stick force would be 25 pounds, even if there wme no air lord
+In the ~7E-7 the pull under the same conditions would be only tihout
+at all on the elevator.
+s pounds.
+A heavy elevator increases both the natmal period of oscillation of the airplane
+with free controls and the damping of the motion, as the accelerations of the elevator turn it
+down during the lower part of an oscillation, up during the upper part, always moving so as
+to oppose the existing pitching motion of the airplane.
+Before passing on to the discussion of experiments
+on stick forces something should be
+Overbalance may be defined as the condition in which
+said with regard to balanced controls.
+the curve of coefficient of hinge moment against lift coefficient for the elevator has a positive
+slope at some points for some tail-pIane settings, and it is quite possible that some types of
+elevator may be ove~balanced when hinged at the leading edge, although such a state of affairs
+If an elevator is much overbalanced the airplane is usually unpleasant, although
+would be rare.
+not necessarily dangerous, to fry. Curiously enough, the best stability with free controls if the
+elevator hinges are too far back is obtained if the airplane is extrenleIy deficient in stability
+with locked controls,
+If the machine is statically unstalde when tested without ~he elevators
+there must be an up-ward force on those members at speeds beIow, a downward force at those
+The elevator being overbalanced
+at alI speeds, this gives a
+above, the equilibrium speed.
+push on the stick at high speeds and a pull at Iow. Actual flight with free controls would
+hardly be possible, however, as the stick has no equilibrium position when the controls are.
+overbalanced)- but moves quickly to one or the other of its extreme limits of travel as soon as
+FIight with free controls would be possibIe only if the elevators were fitted with
+released.
+stops confining their oscillations between very narrow. limits.
+Intentional and extreme overbalancing forms the basis of the” automatic rudders” inventcxl
+The “ automatic rudder” consists of a tail plane hinged at the rem and with
+by Col. Ckocco.
+the leading edge frea to move vertically but restrained by springs.
+If the aircraft noses down
+the top load on the tail plane is increased and the leading edge moves downward, stiIl further
+increasing the downward force on the tail plane and the righting moment derived therefrom.
+The efficiency of the tail plane as a stabilizing factor can be trebled or quadrupled ii] this way.
+This device has been successfully empIoyed on some ItaIian airships, and it theoretically
+is
+cqualIy applicable to airplanes, but it would probabIy be rendered unsatisfactory
+in service
+by excessive vibration of the tail plane. and because of the relatively short natural periods of
+overbalanced
+surfaces of any sort should in general bc avoided at.
+oscillation of an airpIane.
+all costs.
+EXPERIMENTS ON STABILITY WITH FREE CONTROLS.
+
+The methods of conducting these experiments
+were explained in report No. 70.
+The
+resuIts obtained with free controls are relatively more accurate than those. with locked controls,
+largely because no communication
+between pilot and observer is required and because the
+personal equation of only one individual enters into-the result.
+AIso, more data have bwm
+obtained with free controk. because stick-force
+measurements
+can be made on any machine
+without making the slightest change or inst aIIing any special equipmcnt~and
+such measurements were therefore made on several airpIanes on which there -was no opportunity to install
+In aIl the tests on the JN the machine was piloted by Mr. R, G. Miller.
+an angle indicator.
+
+,
+
+STATICAL
+
+LONGITUDINAL
+
+STABILITY
+
+OF AIRPLKNES,
+
+391
+
+The tests m~de on the JNIH incIuded a series dealing systematically
+with the effects of
+C. G. position and tail-pIane settingg. The curves for three different C. G. positions and E tailplane angIe of – 2-.4° to the top Iongerons are plotted, both for open and for closed throttle,
+in figure 5. It will be observed that, as prophesied from the theory, the machine is most stable
+with the C. G. back -when the throttle is open.
+The position of the C. G. with the throttle
+closed seems to have very little effect, much less than would be expected.
+t
+
+I
+
+EFFECT
+
+I
+
+I
+
+c?F C. G. POS/T/ON
+
+/3 ‘rsfagge~
+
+fa/7-p/ffne
+
+I
+I
+O/V STA&fL/TK
+of -2 ?4
+i
+
+~
+Numbers
+
+.nd;cofe Kp.L! af &?nzp.h,
+F
+= 320
+C. G. CO~ff
+—. —-_
+,,.
+———_
+,,,,
+
++/0
+
+\,
++8.
+
+.+6
+~
+*
+~
+++4
+Q
+g
+Q
+y+2
+e
+*u
+
+\
+‘lx
+~~,y..
+
+-2
+
+-4
+
+—
+
+—
+
+—
+
+50
+
+fJg:.5.
+
+eo
+
+60
+
+A+:speed-
+
+90
+
+m7?p.h.
+
+The effect of tail-plane setting is shown in figure 6, where the curves for three different
+settings with a constant C. G. position are given.
+The curves show that the stability is much
+better with the tail plane at – 2.4” to the top longerom than with it- set at – 1.4°, and that a
+further increase of angle of setting to – 2.9” produced SW further improvement when gliding,
+bu~ had comparatively
+little effect when the throttle was more than half opened.
+.$.pparently
+the most efficient camber for the t~ as a whoIe is nearly if not quite reached when. the tail plane
+is sea at – 2.~” and the elevators are pulled down eDough to balance the machine with the C. G.
+3.5 per cent of the -way back on the meaD chord.
+The next group of tests deaIt, as in the case of Jocked controls, -with the effect of sectional
+form of the tail.
+It is rather difficult entirely to separate the effect of sectionaI form from.
+It is obtious that data for taik. of different
+such complicating
+factors as angle of setting.
+types can not be made directly comparab~e b-y simply setting the taiI pIanes in alI cases with
+The best- means of obtaining a comparison appears
+their chords at the same m.gIe to the wings.
+
+392
+
+ANNTUAL REPORT
+
+hTATIONAL ADWSORT
+
+COMMITTEE
+
+FOR AERONAUTICS.
+
+to be to set the several tails at such angles that the force on the stick at economical speed will
+be the same in all cases.
+This has been done approximately
+for the standard, the invcrfd,
+and the symmetrical
+tails in figure 7. The curves show, as was deduced from theory, that
+the cambering of the lower surface of the tail increases the stability at high speed while decreasing that at low. The range of stability is not increased, but the curve is flatbencd,
+13xpe.riments on the effect of the verticaI coordinate of the C. G. were not carried fm enough
+Theoretically,
+Iowering the C?. G. reIfitive to the thrust line should decrease
+to be conclusive.
+the effect of opening the throttle m-NIshouhl increase the stabiIity, since the thrust is largest at
+Iwv speeds and a lowe~:irig of the C. G. prochlces the largest additional diving moment und rcf
+
+t
+
+I
+I
+1
+I
+I
+1
+f
+f
+I
+[
+EFFECT (7F’ TA/’L-PLANE SETTING ON1
+ST~B/L/TY
+TutV-,o/one d -2 ?9
+,< -2;4
+—.—,,
+.,
+.,
+‘,
+“ -/?_4—
+———
+13w%ggec
+C G. coefL =. 350
+Numbers hdicofe
+<p.m. of 60m.p.h.
+
+I
+
+I
+
+I
+
+\
+
++8
+A
+
+\
+
+/
+
+yl
++6
+
+.
+\ .’+..
+
+x
+
+/’
+
+,/
+/
+
+/
+‘
+
+K
+
+>+
+
+~;~--
+
+-H
+
+--~>’
+
+,,/”
+
+‘
+
+[_/]
+‘+4
+q
+1
+
+/
+
+/
+
+/
+
+1
+
+---
+
+. ‘N
+
+“
+
+/
+1
+
+>0’ ‘
+
+“
+/
+
+-’L.
+-+
+
++.
+‘-.
+
+-4
+
+‘6 40
+
+F;g. 6.
+
+-—-—
+
+so
+
+70
+
+60
+Air- speed-
+
+.— -—. .—-—
+
+60
+
+90
+
+h.p.h.
+
+quires the largest additional pull on the stick under those conditions.
+Actually,
+howe-mr,
+neither of these effects appearecl w!~en the C. Q. was lowered about an inch by the attachment
+The propeller thrust on a JN4H at 60 m. p. h. is 470 pounds
+of 50 pounck of lead to the axle.
+A lowering of the C. G. by 1 foot then
+(calculated from a wincl-tunneI test of the propeller).
+Then, assuming the center of pressure of the
+produces % diTing moment of 4?0 pounds-feet.
+tail to be distant 18 feet from the C. G., the down load on the tail is increased by 26 pmmds.
+Part of this additional load comes on the tail-plane, as the pulling up of the elevator “banks up
+&suming
+that the additional force
+the air” on the t lil-plane and increases its lift coefficient.
+is equally distributed between the fixed and moTable portions of &he surface, and tha~ the center
+{of pressure of the elevator alone lies at 32 per cent of its chord behind its leading edge, this
+being the value determined in wind-tunnel tests on the pressure distribution on a JN tai1,8 the
+change in moment about the elevator hinge due to lowering the C. G. by 1 foot WOUM be 139
+B
+fl ulk%in of the Airpl?.ne Engineering Department, U. S. A., December, 1918,p. 38.
+
+STATICAL
+
+IX)~’GITUDI~T.KL
+
+STABILITY”
+
+393
+
+OF AIW’L4N?.S.
+
+pounds-inches, corresponding to a chzqe in stick force of 5.7 pounds.
+Since the mefin separation between the curves for open and closed throttIe at. 60 m. p. h. is S.1 pounds it would theoretically be necessary to lower the C. G. by 1.4 feet in order to bring the cur-i-es to coincidence.
+This -would mmifestly be impossible withoutt a co~plete change in the te~e of the airplane.
+.&nother possible method, suggested by Mr. F. H. ~orton, for reduc~~ sIip-stream effect
+on the controIs is to tip the e~tie
+dcm-n at the front so that, the slip-stream makes a smaller
+ar@e with the tail-plane than does the relati~~ wind when there is no slip-stream.
+This WaS
+tr{ed out by placing tapered blocks between the en.ggne and its bearers so as to incLine the hrust
+line at 2° to the top Iongerons.
+Some improvement
+resdted from this change, bu~ the gain
+
+II
+[
+
+I
+
+t
+
+I /200
+
+-4)
+@
+
+F/q. 7.
+
+I
+
+r
+50
+
+15ZFECT OF TA/L-SECT@V
+ON STAB/L/TY
+Normulfai~
+–/.=4
+Symme frkc7/ s~cflffo, 0?0 —–—–
+~ /overfed fui/-p/unsj +2?0 ————
+
+T
+
+I
+
+1
+
+I
+60
+
+I
+
+I
+
+A/i-speed-
+
+.1--
+
++
+
+t
+
+70
+m-p. /7.
+
+I
+
+2
+[
+
+..-Y
+
+I
+
+80
+
+I
+
+/
+
+I
+
+I
+
+Jo
+
+was not marked enough to justify the recommendation
+of such an inclination of the engine as a
+reguIar feature of desigg.
+.%n inclination large enough to be of much use in neutralizi~~ the
+slip-stream
+effect on the controIs would be distinct~y detrimental
+to efficiency a~ maximum
+speed.
+The best -way that has yet appeared to reduce slip-stream
+tiect
+on a s&Ie-en@ed
+machine is to use a t;il of Iarge aspect ratio so that a com~iderable portion of it w-N lie outside
+of the sfip-stream.
+In closing the tre~tment of the experiments on the J1l’, as an indication of the nek improvement of stability which has resulted from all this work, there are plotted in figure S th~ curms
+for the standard JN and for the best arrangement finalIy arri-red at (6 inches stagger, tail-plane
+lt till be obser~ed that there is a great impro~ein-rerted and at —2° to the top Iongerons)meDt in stability,
+especially at high speeds? and that, the danger of the stick force in a di-re
+increasing to a point where it would be impossible to pull the machine out has entirely disappeared.
+
+.
+
+.—
+
+394
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+FOR
+
+AERONAUTICS.
+
+TESTS ON OTHER AIRPLANES.
+
+In addition to the DH4, the results for which were discussed in report NTO.70, siick-form
+determinations
+have been made., through the courtesy of the &rphme Engineering Department
+at McCook Field and particularity of Col. T. H. Bane lnd Lieut. Col. JT. E. Clark, on the W37
+(~Tought), U. S. ~. Cll (Lepere Biplane), and Martin Transport.
+The assembly drawings of
+these three airplanes are reproduced in figures 9, 10, and 11. Ml three of these airplanes -were
+flown during the tests by Lieut. H. R. Harris.
+The stick-force curves for the three machines
+t
+~EFFECT OF CHANGES /+4
+R/GGl!G Off STAB/L/TY Of JN414
+/#ormu/r@gin
+6“sfoggrr, fat?-pkme .&verfeu’
+ondsefd
+—/; — — — —
+C.G. coeff =. 290
+Numbers fnd[cofe <p.m. o/60 m.p.h.
+\
+
+\
+
+\
+
+/
+
+/
+
+/
+
+_ 600
+
+—
+
+_
+
+—
+
+==+---—
+
++
+<
+
+/
+
+——
+
+——
+
+/200
+__
+
+——..
+
+__
+
+--
+
+.—
+
+-=4=
+
+-1-
+
+Al,
+
+1
+
+.
+
+7
+Fig. 8.
+
+./-
+
+50
+
+/400
+—---
+
+60
+
+__
+
+/
+—
+
+70
+AIF- speed - m.p.h.
+
+/
+
+---
+
+80
+
+*
+
+90
+
+/00
+
+are given in figures 12, 13, and 14. The curves for the Martin must be regarded with some
+suspicion, as the friction in. the control system (of the column type) was so great as to malie it
+impossible to be sure of the forces within 2 or 3 pouncls.
+The stability of the TTE7 is -virtually ideal.
+This machine had the C. G. 30 per cent of the
+way back on the mean chord and one-half inch below the thrust line.
+The tail-plane is convex
+on both surfoces, the upper camber being about twice the lower.
+Comparisons between different
+machines show a remarkable clivergency in the location of the point of maximum stability, and
+that location seems to be largely controlled by the section of the taiI. The DH4 and Lepere
+have taik of virtual]y symmetrical section md are much more stable at high speeds than at low,
+The JN has all its camber on the upper surface and is much more stabl~ at low speeds than at
+
+STATICAL
+
+LONGITUDINAL
+
+STABILITY
+
+OF MRE’LANES.
+
+—
+1,-.
+
+/* ‘.3:*
+i
+
+I
+
+Pi i“’”1
+
+‘—6’-7:”—’
+I
+
+i-’-
+
+l-i
+
+..=—-~
+
+!
+1
+\
+
+I
+
+. . . ..-.
+
+I
+
+!
+
+,P.jy
+/
+
+~+
+\
+‘.
+
+/=//g. 9
+
+L--
+
+.---—.—
+
+———.-—-—————-
+
+.
+
+/i
+
+N.4TIONLL ADVISORY
+
+CO.M~WITTEE
+
+FOR
+
+AERONAUTICS.
+
+I
+
+I
+
+/“
+
+v
+\
+
+1
+
+!.
+
+t
+
+/’-9~”
+A“
+(\
+_____________________________________
+
+1
+Jmj
+1
+
+I
+~_-—--—
+
+f
+-_-----
+
+. /’
+
+—— __________________
+—
+
+I
+
+(1
+
+q
+
+LONGITUDINAL
+~—----
+
+STABILITY OF AIRPLANES.
+
+fs’-f.$” —-----
+
+397
+
+.
+
+398
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADITISORY
+
+(IONMIT!TEE
+
+FOR- AERONAUTICS.
+
+high, while the VE7, which has twice as much camber on the upper surface as on the lower is
+That the section should exercise m influence in the general direcequally stable at all speeds.
+tion that ifi does is of course predictable from theory, but the magnitude of the effect found in
+comparing those four machines is much greater than would be expected either from theory or
+from the experiments on the effect of sectional form of the tail in the JN.
+At leas~ it is possible
+Ml experiments and thwmies
+to say definitely tha~ the tail should not have a flat lower surface.
+agree on that point.
+The control surfaces both in the VE–7 and in the Lepere are much lighter than in the J&T,
+a pull of only 2+ pounds on the stick being required to hold up the elevator on the VE-7 when
+at rest.
+In a loop or a tight spiral the pull required on the stick would then be about 18 pounds
+Iess on the Vought than on the JN, from this cause alone, and this factor contributes in no
+small degree to the remarkable controllability of the former machine.
+The slip-stream effect on the controls still appears in the Martin, notwithstanding
+the fact
+that it is a twin-engined machine with the thrust line high reIative to the C. G. It is probabIo,
+aIthough direct experiments on the point have not yet been made, that the slip-streams on a
+twin-engined machine tend to approach each other and to draw along by viscous drag the air
+which lies between them, and that the portion of the taiI which lies in the slip-streams is therefore
+act ua]ly larger than is usualIy assumed.
+Two possible methods of reducing slip-stream effect
+in a twin-engined airplane are to ‘[ toe in” the engines, setting them at an angIc to the plfine
+of symmetry so that the slip-streams wilI diverge and miss the taiI, and to turn tho propclIcrs
+in opposite directions, the upper blade of each propelle: mowing away from the center line of
+the machine so that there is an upward component of race rotation in that portion of the slipstream which strikes the tailj thus reducing or annuIling the additional downward force due to
+the sIip-stream.
+The experiments on the Vought, Martin, and Lepere have been discussed at much greztw
+length in Technical Note No. 1 of the National Advisory Committee for ,Ieronautics.
+Certain
+interesting points in connection with the balancing of the Lepere tail surfaces have been treated
+in that note and need not be repeated here.
+FLIGHT TESTS WITH CONTROLS FREE.
+
+Needless to say, the final test of stability with free controls is to release them whiIe in flight
+and observe the subsequent motion, and this has been tried with two of the five mwhines for
+which stick force measurements
+were made.
+ln order that lateral and longitudinal motions
+might be kcpi entireIy separate, as in the case of locked controls, a short vertical stick wm
+mounted directly on fihe longitudinal
+tube to which the regular control-stick
+is pivoted and
+which carries ai its ends the sectors to which the aileron cables are attached.
+This secondary
+stick then permits the pilot to operate the ailerons without auy possibility of affecting [he
+elevator.
+With 13 inches stagger and with the tail-plane set at from – 2°”to – 3° to the top longcrons
+the JN airplane would fly indefinitely with eleyator control free for a small range of cngino
+speeds.
+The factor biting
+the range of r. p. m. was not the appearance of instability but the
+large separation of the force curves for different throttle settings.
+With the throttle closed
+there is a pull on the stick for all speeds at which it was considered safe to dive, and the airplane
+would therefore go into an approximately
+vertical dive, if not actually over on its b~ck, if the
+
+STATICAL
+
+LONGITUDINAL
+
+399
+
+STABLGITY OF AMPLANES.
+
+controls were reIeased and left free for a lorg enough time with the throttle closed.
+From
+zbout 1~000 to 1,300 r. p. m., however, the flight was more steady than with locked controIs and
+more steady than it could be heId by the use of the controIs by an-y pilots except those of the
+In fairly smooth air (not ideaI, but not unduly bumpy) the eIevator
+most exceptional skill.
+moved continuously through a total angular range of about 0.5°.
+ldost of the triaIs were started
+by reIeasing the stick while the airplane was diving steadiIy at about SO m. p. h. ~lth the
+throttIe wide open the nose began to come up at once and continued to rise until the longitudinal
+The machine stall had plenty of
+axis -was vertical, at which time the piIot resumed control.
+speed and it is possible that ~if Ief t to itself> it would complete a loop with free controIs.
+With
+the throttle partly opened the nose rose to a definite poin~ and then began to drop again, comt
+Ill
+CW7?CZ F~CE.S
+
+1
+
+1
+
+ON 140&’ZWT YE-7 [
+
++-4
+
++3
+
+q +2
+$
+$+(
+$
+QJ
+b ~.
+k
+k
+-/
+
+-2
+
+50
+F/g.
+
+/2.
+
+60
+
+70
+A/?.speed
+
+80
+
+90
+
+/00
+
+//’0
+
+//5
+
+- m.p.h.
+
+ing to an equilibrium position after two or three osdlations.
+The airphme was aIso flown in a
+circuIar path with angIes of bank up to 15° and with the ele-rater control entirely free.
+The
+steadiness of flight when circling, although sticient,
+was inferior to that with free controIs.
+The subject of dynamical stability will be treated at Ien@h in a subsequent report, but a
+few observations wiIl be noted here.
+The dynamical stability of the JN proved to be excellent,
+the oscillations being head-y damped except in a few instances.
+The periods measured ranged
+from 25 to 2S seconds, and the oscil~ations were by no means simple harmonic in form, the
+nose rising much more slowly than it dropped, and seeming to creep gradually up to the most
+stalled position, hang there for two or three seconds, and then drop abruptly.
+The JT13-7 was also flown with free controls and was also found to be very steady, although
+not quite so good as the .J2J in this respect.
+The periocl of oscfiation was from 14 to 17 seconds.
+being shorter than orI the JN &iefly because of the smfilIer moment of inertia.
+54~C-21-26
+
+400
+
+ANNUAL
+
++5
+
+REPORT
+
+hTATIONAL
+
+ADVISORY
+
+CONMI~EE
+
+FOR .413Rok’AuTIcS.
+
+I
+
+/
+
++4
+
+‘+ ~~
+
+—
+
+—
+
+—
+
+–
+
++3
+/250cp.m. of 9om.p. h.
++2
+
+$+/
+I
+
+4
+.b
+
+I
+CONTROL
+
+FORCfS’
+
+Ofl L/ S. A.- C-/L
+
+Q
+50
+$
+QI
+?-/
+t!
+
+-2
+
+-3
+
+/
+
+-4
+
+-5-
+
+60
+
+70
+
+80
+
+/%J./3.
+
+CONTROL
+
+/00
+
+90
+Air-speed-
+
+FORCES
+
+m.p.h.
+
+ON /WARTW
+
+TRAA
+
++
+—
+
+700 <p.m.
+
+A.?-speed
+
+fff 90
+
+,m.p.~,
+
+- m.p.h.
+
+-
+
+//0
+
+. /20
+

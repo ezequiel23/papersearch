@@ -1,0 +1,3675 @@
+REPORT No. 13
+
+METEOROLOGY
+============and============
+
+AERONAUTICS
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+I ~
+
+U'
+
+, .. , .... :::~,
+
+nem!su
+
+, re.:', 111TE rem AERONAlJT
+I.",
+
+r:;y
+
+'. v hl. NI.\
+
+.'
+
+, ..
+
+. r COMM I. r~ ~I)" A[o("j UTI'iS
+I
+
+¥.,
+
+,.
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1917
+
+.
+"
+
+",
+
+REPORT No. 13
+
+METEOROLOGY
+=========and=========
+
+AERONAUTICS
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1917
+
+REPORT No. 13
+(IN THREE PARTS)
+
+METEOROLOGY AND AERONAUTICS
+A handbook In which are discussed properties and ge neral phenomena of the at mosphere which aeronauts and aviators should understand.
+
+PART I.-Physicial Properties and Dynamics of the Atmosphere.
+PART n.-Topographic and Climatic Factors in Relation to
+Aeronautics.
+PART m.-Current Meteorology and Its Use.
+Submitted by the Subcommittee on the RelatIon of the Atmosphere to Aeronautics of
+the National Advisory Committee for Aeronautics; CHARLES F. MARVIN, Chairman.
+Prepared by WILLIAM R. BLAIR, member of Subcommittee on Relation of the Atmosphere to Aeronautics, in charge Aerological Investigations, U. S. Weather Bureau; laler
+commissioned Major, Signal Corps, U. S. R.
+
+3
+
+,
+
+CONTENTS OF REPORT No. 13.
+Page.
+INTRODUCTION .•.• .. .• • • •••. •• • ••. .. ••.•.•.•....•..•. ..• .•..• .•. ••••.•••..•
+P ART 1. PHYSICAL PROPERTIES AND DYNAMICS OF THE ATMO PRERE •. . .•.••
+
+Atmospheric constituents ..... ... . .. .. . ....... . ....................... .
+Distribution of constituent gases in the atmosphere . .. . .................. .
+Nucleation and condensation ... . ............ ............ ........ ...... .
+Pressure and units of measurement ................... ... ...... . ... ..... .
+Air temperature and vertical motion ...................... . ............. .
+Local heating . .. ...... ... .. .......................................... .
+Sources of atmospheric heat ............................. ... ........... .
+Conduction and convection of heat ... ... . .... . ......................... .
+Radiation and absorption of heat . .. . ... . ..... ... ................... . .. .
+Air movement ... . ... . . . ... .... ..... .. . ... . ... ... .. .................... .
+Convective systems . ... . ... ......... . . ....... ......................... . .
+Ascending air ..........•....•..••....... .. ... .... .. ............. .... ...
+Descending aD: ...... ..•••••••• • • • •. •••....................... . ........
+Extent and rate of air movement ... ............................ . ...... . .
+Atn:osphel~c equilibriuI? .... ; .......... ..... ........................... .
+VanationslD atmosphenc equillbnum ....................... . ........... .
+Types of convective systems .................. ............. ... ......... .
+Degree of reversibility of atmospheric processes ... .... . ...... .. .... .. ... .
+Influence of the earth's rotation ............ . . .... . . .. ............ .. ... .
+Pressure distribution .. ... ..... ... . ...... . . . .. ..... .. ................. .
+The propagation of atmospheric disturbances . ..... ...................... .
+PART II. TOPOGRAPIDC AND CLIMATIC FACTORS IN R ELATION TO AERONAUTICS.
+Location and use of base stations ........ ............................... .
+Disturbances caused by buildings ....... .. . ........................... .
+Gustiness caused by topography .. ......... . .......................... . .
+Vertical motion in gusts .............. ...... ... ....... . ... .......... . .. .
+The extent of disturbances caused by topography ....................... .
+Disturbances caused by local heating .. ................................ .
+Climatic factors .................. . ...... ..................... ........ . .
+Use of climatic data . .. ..... .. ............ . ............. . .......... ... .
+
+•
+
+iJ~~~. ~~~.~ .~~. ~~~~~.o~ ....... :: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : ::
+Wind direction and gustiness .......................................... .
+Air temperature and " roughness" .............. ....... .. . ............. .
+Precipitation ....... .. ............ ................ ...... ... .. .......... .
+F og .. . ...... ...... .. .. . .. . . ......................................... .
+Humidity .......... .. ........... .... . . .. .. ... ... ... ..... .. ......... . . .
+Cloudiness ...................... ..... . ............................... .
+Frost and i ce formations on aircraft ............ . .......... .. .. . . .... ... . .
+The air pressure ... . .. .... ...... .. ...... . ........... . .................. .
+Traveling disturbances considered .... . ................................ .
+Thunderstorms, hurricanes, and tornadoes ..... _. _.. .... .............. _.. _
+Frequency of thunderstorms, etc ... .. . .. .. .. . ............. _... _... _... .
+A thunderstorm described ........... ........... . _... . ........ ......... .
+Explanation of the records ............. _. _.... _. . _..................... .
+Warning of thunderstorm's approach .. _. _... __ .... _... _......... . ...... _.
+Thunderstorm frequency . _.. . . . .. . .. _... _... _. __ ..... __ ... _.... .. _..... .
+Turbulent conditions indicated by thunderstorms ... _. ...... .... .... .. . .
+Cyclonic thunderstorms and tornadoes .................... _. .. ......... .
+Tropical cyclones or h unicanes . .. _.. . ... . ...... ........... _..... . ..... .
+Direction of travel of disturbed condition ............... ............. _. _.
+PART III. CURRENT METEOROLOGY AND ITs U E .• _ .... __ . _ ... . .•......••.
+Current meteorological observations ...... _..... _.......... _........... .
+Weather reports and forecasts .......... ............... _... _. _.. _.. .. ... .
+I
+5
+
+8
+9
+9
+9
+9
+]0
+
+10
+11
+11
+
+12
+12
+12
+13
+13
+
+14
+14
+14
+
+]5
+16
+16
+17
+18
+18
+21
+21
+21
+21
+22
+23
+23
+24
+
+25
+25
+25
+25
+26
+26
+26
+26
+26
+28
+28
+28
+28
+28
+28
+30
+30
+30
+
+31
+31
+31
+31
+33
+
+33
+33
+
+6
+
+COKTENTS.
+
+Page.
+PART III. CuRRENT METEOROLOGY A.ND ITs USE-Continued.
+The simultaneous synoptic weather map ......... ...... .. . ............. .
+33
+Distribution of air temperature and density ..... ..... . .. .. . ....... . . ... . .
+34
+The rain area of the low ........... .. .... . ....... . ... ... . . ..... .. . . .... .
+35
+Other rain areas ........... ...... . .. .. . ........... . ..... . ...... . ..... . .
+35
+Motion of low and hi~h pressure areas . ... .. .. .. .......... .. . .... ... .. . .
+35
+Character and intenslty of highs and lows .. . .. . .. ... . ... . .. .. . .. . ...... .
+36
+Seasonal changes in the highs and lows ......... . .. ... . .... ... . . . .. . . . .. .
+36
+The thunderstorm region ...................... ... . .. .. .. . . ..... ..... . .
+36
+ltensity of disturbances and direction of motion ....... . .... . . . . . . .. . . . . .
+36
+The value of upper air observations ............. ..... . . . . . . . ..... ...... .
+37
+Pressure distribution and height . .... . .. .. .... .. .... ...... . . . . .. . ...... .
+37
+Winds and pressure distribution ... . . . . . . ... .... . ...... . .. ............. .
+37
+Wind change with height in lows ... .. ... .. . . . ............ ...... . ...... .
+37
+Wind change with height in hi~hs .. ... . . . . ............ ..... . . . . . . ..... . .
+44
+General. laws of wind change WIth h eight .. ..... . . . .. . ... ...... . ........ .
+44
+Wind speed and height ...... . . . ........ . .. . .. .. . .. .... . . . .. .. . ... .... .
+45
+Effect of obstructions on wind .. . .. . . . .. . ... . ... ..... . ......... . .. .... . .
+46
+Turbulence due to insolation ..... . . . .......... .. . .. . .... . .. . ... . ..... .
+46
+Flying levels and turbulence ... . . .. .. . ..... . .... . .. .. .. . . .. . . . . . . .... . .
+46
+Temperature change with height . . .. . . .... .. .. .. . .. . .. . ... . ............ .
+49
+
+.r
+
+•
+
+LIST OF ILLUSTRATIONS OF REPORT No. 13.
+Page.
+liIGURE
+
+•
+
+1. Disturbance caused to leeward of a small round tower during a
+high wind .... .. ... ..... ........... ..... ..... . ........... ....
+2. Record of wind speed by pressure tube anemometer..............
+3. Free air conditions at Drexel Aerological Station during thunderstorm on June 21, 1916 .... " ........... .... .. _. . .. .. . . . .. . . .
+4. Surface-preBBure changes (inches) at Drexel Aerological Station
+during thunderstorm on June 21,1916. . ... . . . .. ...... ........
+5. Surface temperature changes (F.) at Drexel Aerological Station
+during thunderstorm on June 21, 1916 . .. ........ _. . . . . . . . . . . .
+6. Surfac~ relatiye humidity changes (per cent) at Drexel Aerological
+StatlOn durmg thunderstorm on june 21 , 1916...... . ..... .... ..
+7. Daily weather map, November 28,1911............. . . . . ... ..... .
+8. Mean of wind observations in " Highs" at 526 meters above sea
+level, 1907-1912 ....... _.................. . ... . ....... . ... . ...
+9. Mean of wind observations in "Lows" at 526 meters above sea
+level, 1907-1912. ...... .. .......... . ............... . ....... ...
+10. Mean of wind observations in "Highs" at 1,000 meters above Bea
+level, 1907-1912.............. . ............... . . . . .. . . . . . . . . . .
+11. Mean of wind observations in " Lows " at 1,000 meters above sea
+level , 1907-1912.......... . ............... .. ... ......... . .. . ..
+12. Mean of wind observations in " Highs" at 2,000 meters above Bea
+level, 1907-1912. . . ... . .. . ........ ... ......... . ... ..... . . .. ...
+13. Mean of wind observations in "Lows" at 2,000 meters above sea
+level, 1907-1912. ... .. .............. ... ........ .. ..... . ..... ..
+14. Mean of wind observations in " Highs" at 3,000 meters above Bea
+level, 1907-1912.... .. ... . .... ... . . .... ... .... .... .. ..... ... ..
+15. Mean of wind observations in " Lows " at 3,000 meters above sea
+level, 1907-1912....... .. ..... ..... ... ... .... .. . ..... . ... ... ..
+16. Mean of wind observations in " Highs " at 4,000 meters above Bea
+level, 1907-1912.................... . . . . . . . . . . . . . . . . . . . . . . . . . .
+17. Mean of wind observations in "Lows" at 4,000 meters above sea
+level, 1907-1912...... .. . .. . . ..... . . . .. .... . ........... . ......
+18. Mean of wind observations in " Highs" at 5,000 meters above sea
+level, 1907-1912.. . . . ...... .... .... ... .. . .... .. ....... ........
+19. Mean of wind observations in " Lows" at 5,000 meters above sea
+level , 1907-1912.. ..... .... .......... .. ..... . ... . .... ......... ..
+20. Diurnal distribution of temperature for the summer half of the
+year at different levels above Mount Weather. . . .. .. ..........
+21. Diumal distribution of temperature for the winter half of the year
+at different levels above Mount Weather....... . . . . . . . . . . . . . . . .
+22. Mean free air temperatures above Mount Weather, Va. . . . .. ... ..
+23. Temperaturedistnbutionin "Highs"observedat MountWeather.
+24. Temperature distribution in "Lows" observed at Mount Weather .
+7
+
+21
+22
+27
+29
+29
+30
+34
+38
+38
+39
+39
+40
+
+40
+41
+41
+42
+42
+43
+43
+47
+48
+49
+49
+50
+
+INTRODUCTION.
+Present weather conditions and those immediately in prospect,
+especially those relating to air movement, have always been matters
+of concern with navigators. In the days of sailing vessels weather
+con ditions were of prune importance, and in the present age, when
+steam and other engines are used in driving vessels, navigators are
+still greatly dependent upon weather conditlOns, and the t ime is far
+off, if indeed it eVer comes, when the navigation of the oceans will
+be entirely independent of weather conditions, or when a knowledge
+of them will not be of advantage to the navigator. In addition to
+those weather conditions whicli interest the sailor, the aviator is
+dependent upon and benefited by a lmowledge of the detailed structure of the medium which sustams his craft; and while he may to a
+degree disregard atmospheric conditions, it is not likely that the time
+will ever come when a knowledge of the air can not be used by him
+to advantage. Just what information will be most useful to the
+aviator is a question that experience and possible development of
+aircraft must determine. More data than those now being obtained
+will doubtless be required. The purpose of these brief notes is to
+show the sort of atmospheric data available and to put the subject
+in such shape as may make it bear directly on the problems which
+are met in aviation.
+The author desires to acknowledge the assistance of Mr. W. R.
+Gregg, who has reduced the data on which these conclusions are based
+and read the proof; also that of Profs. C. F . Marvin and J . F . Hayford,
+who have kindly read and criticized the copy, making helpful suggestions thereon.
+WILLIAM R. BLAIR.
+8
+
+•
+
+REPORT No. 13.
+PART 1.
+
+By
+
+WILLIAM
+
+R. BLAllt.
+
+PHYSICAL PROPERTIES AND DYNAMICS OF THE
+ATMOSPHERE.
+
+•
+
+Atmosphe1'ic constituents.-Approximately 78 per cent, by volume,
+of the air near the earth's surface is nitrogen and 21 per cent oxygen.
+Another diatomic gas, hydrogen, is found uniformly distributed,
+but in very small quantity. The monatomic gases, argon, neon,
+helium, krypton, and xenon, are present, their volumes being in
+the order given. Other gases and vapors of more complex molecular
+structure and less uniformly distributed are water vapor, carbon
+dioxide, ammonia, and sulphur dioxide. The last three gases named
+are hygroscopic and seem to exi t in the atmosphere in association
+with more or less water, depending on the amount of atmospheric
+moisture available. Other gases, as well as dust of both terrestrial
+and meteoric origin, are present in varying quantities, depending
+on the time or location in which observations are made.
+Dist1'ibution of constituent gases in the atmosphel'e.-In order of
+their atomio weights the first eight of the gases mentioned are hydrogen, helium, nitrogen, oxygen, neon, argon, krypton, and xenon.
+When molecular weights are considered, neon is third in the list, and
+nitrogen and oxygen fourth and fifth, respectively. It is probable
+that these gases are sorted by gravity and that, as the distance from
+the earth's surface increases, the proportion of the lighter gases increases until at some height, 150 kilometers or more above sea level,
+the chief constituent of the air is hydrogen. Convective mixing of
+the air interferes with this sorting to some extent, especially in the
+lower 10 kilometers of the atmosphere.
+Nucleation and condensation.-Recent observations and experiments indicate that the hygroscopic gases, rather than dust or IOns,
+furnish the nuclei upon which the water vapor of the air condenses,
+forming haze and fog or cloud. Strata of air that are hazy are
+found to be rich in these hygroscopic nuclei and usually a disturbance that elevates such strata either in whole or in part results in
+cloud formation. It may happen that the temperature of the air
+in the haze layer is lowered without accompanying change of level,
+with the result that a stratum of cloud replaces the stratum of haze.
+When air of the haze layer is forced up in places by a relatively
+strong vertical component in its motion, the resulting type of cloud
+formation is cumulus; when it is cooled, either by bemg elevated
+as a whole or by other means, the type of cloud resulting is stratus.
+9
+
+10
+
+AERONAUTICS.
+
+The formation of cumulus clouds therefore accompanies turbulent
+atmospheric conditions, andis in turn an indication of the e conditions.
+Pressure and units of measurements.-Atmospherio pressur are
+most familiarly measured in inches or millimeters of tlle height of a
+column that will just balance the static pressure of the air at a
+given place. Thus, the standard pressure commonly designated one
+atmosphere is a column of mercury 760 millimeters high having
+a temperature of 0° C. under gravity at sea level and latitude
+45° . The pressure of the atmosphere and local differences in these
+pressures are forces capable of causing flow and motions of the air.
+In order to be able readily to compare these forces with other forces
+with which we are familiar it is most convenient in all aerological
+studies to express the atmospheric pressure in dynes per square
+centimeter, which is the unit commonly employed for the measurement of pressure. Meteorologists generally have agreed upon the
+distinctive name "bar" for the unit for measurement of air and
+similar gaseous pressures when exprossed in absolute units. A pressure of one bar is a force of 1,000,000 dynes per square centimeter
+of area. It is exactly equivalent to the pressure of a mercury column
+of 750.016 millimeters at 0° C. and reduced to standard gravity at
+sea level and latitude 45°. The familiar standard atmosphere of
+760 millimeters equals 1.0133 bars.l The millibar (mb.), i. e., 1,000
+dynes per square centimeter, is the cu tomary subdivision of the
+absolute unit , and in a barometric measurement is about threefour ths as large as the familiar unit "one millimeter of mercury."
+Accordingly, pressures will hereafter be expressed in millibars. Sea
+level pressure win range roughly between 995 and 1,060 millibars.
+Air temperature and vertical motion.-The ratio of their specific
+
+0.
+71/
+.
+
+heats at constant pressure, Op, and at constant volume, Ov, "I =
+varies for the different constituent ga es of the atmosphere, being
+about 1.3 for the group in which the molecules are triatomic or more
+complex, 1.41 for the diatomic group and 1.66 for the monatomic
+group . For dry air 'Y is approximately 1.41. In the well-known
+equations for adiabatic changes, in which V, T, and P stand for
+volume of unit mass, absolute temperature and pressure respectively,
+T
+P
+and
+suppose the subscripts and 1, respectively, represent the con~tions, at two stations in the free air on
+the same vertical line, of an air mass tha t moves from the lower to
+the upper station without appreciable loss or gain of heat from outside sources. If we put "1=1.41 , v o=1,To=273,Po=1000 mb., and
+Tl = 272, and solve for Pl in millibars, we get
+
+17:)7-1
+( V: =i
+
+(17:)7 =-!,
+V:
+
+°
+
+1
+
+PI = 1000 ( .41/273
+'\1272
+
+•
+
+)1.41
+=987.5.
+
+Substituting these values of Po and Pl in the standard equation for
+difference in height, z=k log (~) it is found that the vertical
+1
+
+For derivation of t hese
+
+r~lations
+
+aud
+
+tsb l~s
+
+see Mouthly Weather Review, April,
+
+1 1 p. 230.
+91 ,
+
+AEROX AUTICS.
+
+11
+
+distance betwoen the stations i 100.5 meter. An air mass cool
+1 0 C., therefore, in ascending approximately 100 meters, and of
+course warms up 1 0 C. in descending the same distance. This statement is true only if no exchange of heat occurs either to or from the
+air mass with the outside and if no latent heat of condensation or
+evaporation enters into consideration.
+Local heating.-In passing through the atmos£:~e to the earth's
+surface the sun's radiant energy is considerably . 'nished by reflection from the upper surfaces of clouds and from other boundary surfaces that may exist between strata of dillerent densities or constitution. There is somo diminution of this energy becauso of direct
+absorption by the ~ases of the atmosphere, but the amount thus
+absorbed is relatively small. In general, the sun's rays are somewhat refracted by the atmosphere, and the amount of heat reaching
+the earth by means of them is thus somewhat increased. Locally,
+the amount of heat received from the sun by the earth's surface may
+be increased considerably by reflection from the sides of clouds, and
+it may, of course, be diminished in the cloud's shadow. Insolation,
+the heating effect of the sun's rays measured at the earth's surface, i
+considerably greater in the spaces between cumulus clouds, for
+example, than under" normal" conditions, when there are no clouds
+present. The air itself when dry absorbs but little of the sun's
+energy, and i therefore but little heated by the direct rays of the sun.
+The earth's surface reflects more or less of the solar radiation reaching it,
+deJ)ending on the nature of the material forming it. Snow, ice, water,
+and white sand, clay, or rock surfaces reflect more of the sun's radiation than do black, brown, or vegetation-covered fields. The color
+of the surface is determined by the wave lengths it reflects mosta white surface reflects all wave lengths equally, while a black surface
+absorbs all wave lengths and reflects none. Surfaces that are good
+absorbers are good radiators, i. e., lose their heat readily by radiation
+Surfaces that absorb less readily "hold their h eat," i. e., are not good
+radiators. There is, however, less difference in the rapidity with
+which these different surfaces communicate their heat to the air by
+conduction.
+Sources of atmospheric heat.-Altogether, cloudine s and other
+factors considered, less than half the radiant heat from the sun
+entering the outer portion of the earth's atmosphere succeeds in
+penetrating to the lithosphere, where it becomes effective in heating
+the earth's surface and the air near it. Notwithstanding this absorption, however, the atmosphere as a whole is but little heated by the
+dircct rays of the sun. It is the earth's surface that is the chief
+source of atmospheric heat, and, as has been shown, this surface
+locally and in point of time receives varying amounts of heat from
+the sun. This means that locally and in point of time the temperature of the earth's surface varies. The surface temperature in a
+field of black earth is somewhat higher at 4 p. m. of a clear day than
+is that of a green pasture adjoining it and deCIdedly higher than that of
+a field of white wheat or wheat stubble in the same vicinity. At 4
+a. m . these relations of temperature are reversed. Similar but more
+marked differences of temperature are found between land and
+water smfaces. To these must be added the temperature variations
+accompanying elevation and latitude of the surface considered.
+
+12
+
+AERONAUTICS.
+
+Oonduction and convection oj heat.-The earth's surface heats or
+cools the air in contact with it largely by conduction. It follows
+that air temperatures at lowest levels will vary in the same sense as
+do the temperatures of the earth's surface, but not necessarily to the
+same extent. Convection processes in the air will then distribute
+the heat. During insolation the air lying on the earth's surface is
+likely to be receiving some heat from the earth by conduction; at
+night it is likely to be giving up heat to the earth. As water is
+evaporated from lakes, etc., the heat of evaporation is furnished by
+the earth's sUlface; and this heat is supplied to the air at higher
+levels as heat of condensation when the moisture condenses; e. g.,
+wherever fog or cloud forms or wherever condensation of 'Vapor
+yields any form of precipitation.
+Radiation and absorption oj heat.-The proportions of the constituent gases in the atmosphere at any pornt exert some influence
+on the air temperature at that point. If a given level in the atmosphere is considered, the inflow through it of energy from the sun
+and the outflow through it of ener~y from the earth's surface and
+from that part of the atmosphere t>elow the level in question are,
+in the long run, equal. This energy is either transmitted through
+the atmosphere without heating it or is, to a greater or less degree,
+passed along by the process of absorption and re-radiation. In the
+latter case the air is neated to such a temperature that equilibrium is
+established between the rates of absorptIOn and re-radiation. This
+temperature is different for the different atmospheric constituents,
+being proportional to their abilities to absorb solar and terrestrial
+radiation. While the amount of solar radiation absorbed in its
+passage down through a clear atmosphere to the earth's surface is
+relatively small, about two-thirds of this amount is absorbed by the
+water vapor of the air. On the other hand, a large percentage of terrestrial radiation is absorbed as it flows out through the atmosphere
+and most of this absorption again is by the water vapor of the air.
+The earth's surface is therefore to be thought of as by far the most
+important source of atmospheric heat. When temperature distribution in the atmosphere is thought of from this point of view,
+the earth's surface temperatul'e, i. e., the earth's potential as a
+radiator, must be taken into account.
+Air movement.-The density of adjacent portions of stationary
+free air in equilibrium under the attraction of gravity varies in a
+definite way from one surface or stratum to the next higher or lower
+one, but the density tends to be uniform throughout one and the
+same surface, which may therefore be called an equigravic surface.
+An equigravic surface as applied to atmospheric conditions passes
+through portions of the air having the same gravitational potential.
+Arrangements of air densities not in conformity with the foregoing
+requirements are accompanied by motions. The denser portions or
+air, being pulled down by gravity, spread out, pa.rtially mingle and
+replace the less dense portions, which are pushed up, but are commonly said to ascend, and may also intermingle and spread out until
+equilibrium is established. Both vertical and horizontal components
+of motion are necessary in restoring equilibrium. If the composition of the air moistOl'e contents, etc., were exactly the same over a
+considerable extent, then equigravic surfaces for a state of equilibrium
+would be horizontal surfaces.
+
+-'
+
+AERONAUTICS.
+
+•
+
+13
+
+The density of air at constant pressure depends largely on its
+temperature, but to an extent also on its constitution. In the lower
+strata of the atmos1?here moisture is the only constituent whose
+quantity varies suffiCIently to affect air density appreciably. It has
+been shown above not only that air temperature varies from point
+to point in the atmosphere but that the moisture content also varies.
+Usually temperature and moisture content affect air density in the
+same sense, 1. e., an increase in either makes the density less. Near
+the earth's surface, where the moisture content and the temperature of the air are rather directly controlled by the nature of that
+surface, maxima and minima of air density may be found within a
+few meters, or even a few centimeters, distance. Farther away from
+the earth's surface these maxima and minima of density are farther
+apart. Whatever the dimensions of the air mass considered, therefore, it is likely to contain one or more complete circulatory systems
+in process of adjusting the differences in density of its parts; and
+it itself is likely to be movin~) in conformity with the need for similar
+adjustment on a larger scale.
+Oonvective systems.-In the process of adjusting these differences
+in atmospheric density still another factor in the distribution of
+temperature is introduced. Air masses, with their heat content, are
+earned bodily from place to j)lace without change of level and consequently with comparatively little change in temperature, volume and
+pressure. Air masses also change level which entails change of
+pressure and volume. Work is done when the volume of a given
+mass of air is changed. When its volume increases, the energy for
+this work must be furnished either by outside sources or by the gas
+itself; when the volume decreases, energy is given to outside objects
+or to the gas itself. When the energy is all supplied by or to the air
+mass itself, the temperature change ill the air mass is 1 0 C. per 100
+meters, as has been shown above (p. 11). It is clear that the total
+heat content of the atmosphere can not be changed by these motions
+of the air, for under the conditions of our atmosphere as much air
+must go up as comes down and, if air moves from the point A to the
+point B, air from B, or air displaced by air from B, etc., moves to
+the point A. Because quantities of heat are carried about in these
+circulatory systems and also because temperature differences are the
+prime causes of the differences in density giving rise to them, they
+are often called convective systems.
+Ascending air.-An ascending air mass may have the energy required for its expansion furnished in part by absorbing radiant heat
+and by the heat of condensation of water vapor that may take place
+within it. It will lose some heat by conduction to adjacent air
+masses, by mixture of air near its boundaries with air of these masses,
+and by radiation. The percentage of the required energy which
+may be furnished by absorption (conduction and radiation also
+included) depends on the rate of expansion or of ascent of the air
+mass. It is always small and probably not considerable, except for
+rates of ascent well below 1 meter per hour. The percentage of
+required energy furnished by heat of condensation of water vapor
+may be as high as 60 or more after condensation begins, depending
+on the amount of water vapor present. When precipitation occurs,
+the net result, so far as air temperature is concerned, is the transfer
+to the air, in the condensation level, of energy originally derived from
+
+14
+
+AERONAUTICS.
+
+the earth's surface when the water forming the precipitation was
+evaporated.
+Descending air.-A descending air mass may furnish heat to adjacent air masses by conduction, to objects or air at a distance by
+radiation, or it may supply heat of evaporation to water suspended
+in it as mist or cloud. Some radiant heat may be absorbed by the
+air mass as it descends. The conduction effect is small. The absorption and radiation effects are smaller than in the case of an ascending
+air mass, because of the relative dryness of the descending air mass.
+The amount of heat of condensatlOn supplied to ascending air is,
+of course, far in excess of the heat of evaporation given up by descending air. It follows that the adiabatic rate of decrease in temperature with height, i. e., 1 0 C. per 100 meters, is more nearly realized
+ill descending than in ascending air currents.
+Extent and rate of air movement.-When any convective system is
+considered, the extent of horizontal motion in the air affected is
+determined by the horizontal distance apart of the maximum and
+minimum air densities of the system and on the direction of the
+motion between these two points. The extent of the vertical motion
+in any system depends on the condition of equilibrium 1 of the air
+mass involved and on the magnitude in any equigravic surface, of
+the difference between the maximum and minimum of air density.
+The rate of motion either horizontal or vertical depends on the rate
+of change of density in any equigravic surface of the system. Compared with the rates of horizontal air movement observed, vertical
+motion is very slow. Horizontal movement of 25 meters per second
+is frequently recorded, especially at some distance above the earth's
+surface, and rates of three times this have been observed. It is
+estimated that over the thermal equat~r the air is rising at the rate
+of about one meter per hour. Rates of vertical motion as high as
+4 or 5 meters per second may occur locally; e. g., in the deeper
+cumulus clouds.2
+Atmospheric equilibrium.-The condition of equilibrium of the
+atmosphere or any part of it depends on the vertical distribution
+of its density. Since density depends largely on temperature, the
+vertical distribution of temperature is the best direct indication of
+the equilibrium. If potential temperature (defined below) rather
+than actual temperature is considered, the relation of temperature
+to equilibrium becomes more direct and apparent. The potential
+temperature at any point in the atmosphere is the temperature,
+expressed on the absolute scale, which would be assumed by the air
+about that point, if this air were changed adiabatically to standard
+pressure. The potential temperature of a gas, like its entropy,
+remains constant throughout a reversi"Qle or strictly adiabatic cycle
+of changes and increases for an irreversible process. When in any
+I The condition of equilibrium of any system under the influence of any force whatever is stable if, when
+slightly disturbed from Its position of equlJjbrlum, its 'potential energy is increased, neutral if its potential
+energy remains unchanged, and unstable if its potential energy is decreased . An air mass in equlhbrium
+undor the action of ll'"avity is in stable equilibrium il, when an}' part of it is slightly disturbed in a vertical
+direction, its potential energy is increased, neutral if Its potential energy remains unchanged, and unstable
+it its potential energy is decreased, i. e., in addition to overcoming the inertia of the disturbed part of the
+air mass, the disturbing force must do work on this part of tho air mass, in order to effect its change of level,
+if the air mass be in stable equilibrium, no work is done, either by the disturbing force or by the part of
+the air mass changing level if the air mass be in neutral equilibrium, and work is done by the part of the
+air mass disturbed if the condition of equilibrium of tbe air mass be unstable. In otber wordS, the atmosphere, in its average condition of equilibrium (see par. 15, following), more or less strongly resists vertical
+motion, depending on the degree 0/ its stability.
+2 c. F. Brooks states (M. W. R., July, 1917, p. 363) he measured 7 mfsec. at Blue Hill, Mass.
+
+•
+
+AERO~AU'IICS.
+
+15
+
+region of the atmosphere the rate of fall of temperature with altitude
+is 1 0 C. per 100 meters, i. e., the adiabatic rate, the potential temperature is constant throughout the region and the state of equilibrium
+is neutral. If now, in the upper part of this region, the aIr density
+increases by an amount such that the additional pull of gravity on
+account of this increase in density is sufficient to overcome friction,
+downward motion will result. On the other hand, if air in the lower
+part of this region decreases in density by a sufficient amount, upward
+motion will result. In either case a state of lIDstable equilibrium is
+brought about. Since in the free air density varies quite directly
+with temperature, this unstable state is accompanied by a temperature-altitude relation of more than 1 0 C. per 100 meters or by a
+decrease of potential temperature with height. When the potential
+temperature increases with height, i. e. , when the temperaturealtitude relation- is less than the adiabatic rate for dry air, the state
+of equilibrium is stable, and the degree of stability is indicated by
+the rate of increase of potential temperature with height. In a region
+of neutral equilibrium, air in low levels, which becomes warmer, that
+is, less dense than its environment, will, barring friction, ascend
+indefinitely to the top of the region in question or until its excess
+of heat is lost by radiation or exchange with its surrounding air.
+,Similarly, in the higher levels any portion of such air which becomes
+caoler or denser than surrounding portions will descend to the bottom
+layeIS unless st~ed by loss of its excess density due to heating
+from wi,thout. When the equilibrium is stable warm light air can
+rise bll :t a limited amount and then come to rest, because it soon
+enters strata having the same temperature and density as its own.
+SimilarlYr cold heavy air in the higher levels of a stable system can
+descend but, a limited distance before it comes to rest in a stratum
+of its own temperature and density.1
+Variations irc:"atmospheric eg.uilibrium.-As a whole, and on the
+average for any particular re~on, the atmosphere is in stable equilibrium. It is only I. for limitea times and regions that neutral or unstable states of equ.ilJ.;.nrium exist. The neutral and unstable states are
+found most frequently U!urin~ insolation and near the earth's surface. They may extend to t,ne 2-kilometer level and in some cases
+higher. In general, stability i'mcreases with latitude. The air is in
+more stable equilibrium in wirl\ter than in summer and at nighttime than during insolation. Tli~s is especially true of the stratum
+in which turbulence is most likely 'Ilia occur. On a clear, quiet summer
+day it is often possible to observ~ the process of conversion from
+st able to neutral and unstable eq ilibrium of the air in the lower
+stratum. As insolation heats the arth's surface, the air in contact
+with that surface becomes heated 8J.lJ.d to such an extent that its pot ential temperature is higher than tb',t of the air immediately above
+it. The result is the descent and sp~ading out of the air of lower
+potential temperature and the ascent and spreading out of the air
+of higher potential temperature. Th , vertical extent of this circulation is but a meter or two at the S'.t.art and gradually increases
+with the increase in the temperature 0\( the earth's surface. It
+often happens that the air within the neutial or unstable region is
+I It is h ighly important that the foregoing basic principles governing mOWlt)ns of portions of the 9 t-~l".ho ~
+and its equilibrium be thoroughly comprehended and mastered by the stuUIa.. t Fl1rf"d" u.IOre ill co ~·
+..
+siderlng circulatlon in the free Il:ir~ constant a ttention must be given to tile existtflLgg an-e 8 etu8 l free.rur
+.
+gradient 01 temperature and its innuenee on verticaJ motions under gravitationallo!fes'
+. F . M•
+
+16
+
+AERON AUTICS.
+
+hazy compared with the air above it. To one on a hill or mountain
+top this haze level is distinctly visible by the time it has risen well
+above the tree and house tops and its upward progress can be noted.
+The term "haze level" is a natural one because, to the observer, the
+boundary between the air in stable and that in unstable equilibrium
+is clearly defined and appears to be very approximately level. The
+rate of rise of the haze level for given conditions of the earth's surface seems to vary inversely with the stability of the air above it,
+i. e., inversely with the rate of increase of potential temperature
+with height. Consequently, the height to which turbulence of this
+sort can attain in a given region, by the time the earth's surface
+has reached its maximum temperature for the day, varies inversely
+with the stability of air over this region when insolation began.
+This height has been found to be about 1 kilometer above the earth's
+surface for a clear winter day and 1.5 kilometers for a clear summer
+day, at an inland. location and over open farmed land in which are
+occasional patches of timber.
+Types Of convective systems.-The type of convective system thus
+far considered is one which has its origin in a difference of air density
+over a given equigravic surface. Illust.rations of this type of convective system are the planetary system of convection, the diurnal
+system, and those currents set up because of differences in the nature
+or elevation of the earth's surface, such as land and water systemS'>:
+mountain and valley systems, also of combinations of these. Th-ese
+systems are essentially local, either in point of time or location on
+the earth's surface. In addition to these, there are traveling convective systems, such as those attending maxima and mirluna of
+pressure as they pass from west to east, hurricanes, thundrarstorms,
+and tornadoes, the origin of which can not be so direct\y or completely ascribed to a difference in density over an eqlli:gravic surface.
+Degree of reversibility of atmospheric processes.-j!:rreversibility in
+atmospheric processes may result largely from chan:ge in the constitution of the air concerned in the processes, but aJ..~0 ill some measure
+to the absorption and radiation of heat by thifb air. So far as the
+atmosphere has been explored, the constitJaent most concerned in
+this change, as well as the one responsiMe for a large percentage of
+the absorption and radiation of hefltG by the air, is water vapor.
+Great changes in water vapor cont(~nt occur, as a rule, only in the
+first 3 or 4 kilometers of the atub.osphere. In this region, therefore, processes are least nearly rJeversible.
+Complete reversibility of atmosipheric processes seems to. be more
+'
+closely approximated, as distan~from the earth's surface illcreases.
+If the changes taking place wit lin a convective unit are rev~rsible,
+the unit is self-contained and J ' dere~dent ?f adjacent urut~ .. If
+these changes are irreversible, tZh~ urut IS not illdependen~ of slIDllar
+adjacent units and their airs JilllX .to an extent depending on the
+degrees of irreversibility in 1Ihe uruts concerned. If tJ:1e proce.sses
+in the convective unit repres4mted by the trade and antItrade WInds
+were reversible the air of t we antitrades would all have returned to
+the trades by the time it b la.d reached the no~thern limit of the trades
+(confining t he illustratio"4 to the. northern SIde of the t~ermal equator). The air of the a-dttItrades IS not able to return directly to t!?-e
+'"iad.eb 1... -rgely bee~lu;;:;e i.ts constitution differs from that of the air ill
+the trades. ~luch of It therefore moves on to the north on the
+
+AERO N AUTICS.
+
+17
+
+earth's surface and either returns to the trades from higher latitudes
+or replaces air of another convective unit which in turn must supply
+some air to the trades. This condition results in the passing of
+more or less oppositely directed air currents on the earth's surface,
+the air in these passing CUlTents being as a rule quite differently constituted. There are many ways in which thelassing of
+differently constituted airs in nearly oppositely directe currents
+is brought about. In the Tropics, for example, where insolation is
+high, a local land. and water convective system may create air currents counter to the prevailing trades.
+Influence of the earth's rotatwn.-Because of the earth's rotation,
+air (or other matter) in horizontal motion over the earth's surface is
+acted on by a deflecting force, to the right in the northern hemisphere,
+to the left in the southern hemisphere. This force is 2w m V sin }.;
+where w is the angular velocity of the earth's rotation (i.e . . 86;~4)'
+m is the mass of the body acted on, V is the speed of motion of the
+body, and A is the latitude. It is important to note that this force
+is zero at the Equator, but increases to 2wm V as the poles are
+approached.
+If, then, a current of air is flowing along a straight line on the
+earth's surface (i.e. along a great circle) in a frictionless manner at a
+uniform speed, this deflective influence due to the earth's rotation
+must be balanced by an equal and opposite force. This last is due to
+the pressure gradient in the atmosphere, which is by definition lerpendicular to the isobars. It follows, then, that the current 0 air
+must be along a path exactly at right angles to the gradient, that
+is, parallel to the isobars. It is seen without difficulty that this
+
+•
+
+pressure gradient ~p = 2pw V sin A, where p is the density of the air.
+Taking A 45°, the pressure gradient across an air current moving
+at 11 m.p.s. is Ii millibars, or 1 rom. of mercury, per 100
+kilometers, or approximately 0.1 inch of mercury per 158 miles.
+Eleven m.p.s. is the mean wind speed for the year, observed about
+300 meters above the surface at Mount Weather, Va. Actual speeds
+may depart far from this mean in either sense. Summer windS are,
+as a rule, slower and winter winds faster than this mean.
+If the current of air has a constant speed V in a circle of radius T,
+there must be a force acting on each particle of the air in toward the
+center of curvature equal to m P/r; the deflective force due to the
+earth's rotation acts in this direction in an anticyclonic system
+(i. e., a "high") in the northern hemisphere and opposite to this
+direction in a cyclonic system (1.. e., a "low"). It follows at once that
+the force due to the pressUl'e gradient must be radially out in a high,
+and radially in in a low, and that therefore the lines of flow of the current are parallel to the isobars. It is obvious, then, that in order
+to have a uniform flow at speed V, friction being assumed negligible,
+in a curve of radius T, V must satisfy the following condition:
+p v2 = ± (pressure gradient - 2 pw V sin A),
+T
+
+where the plus sign applies to a cyclonic and the minus sign to an
+anticyclonic system. The V which satisfies this equation IS called
+the" gradient velocity."
+22417°-17- 2
+
+•
+
+18
+
+•
+
+AERON AUTICS .
+
+Frictio n is never absent, however, in the movem ent of air;
+conseq uently the force due to this should be taken into accounand
+t in
+the above equatio ns. The line of flow will never be quite paralle
+l
+to the isobars ; and the angle of inclina tion will be such that the force
+due to the pressu l'e-gra dient-w hich is perpen dicular to the isobar
+will have a compo nent along the line of flow sufficient to overco sme
+the force of friction.
+Pressure distribution.-A nothe r descrip tion of the conditi on existing owing to the earth's rotatio n is to say that there is a region
+of
+low pressur e on the left sides of two oppo itely directe d passing
+curren ts of air, and one of high pressu re on their right
+i. e.,
+two opposi tely directe d passing curren ts of air will ha'Ve sides,preslow
+sure betwee n them if each passes on the other's left, but high pressure betwee n them if each. passes on the other's right. The airs
+in
+these curren ts are usually differently constit uted, especially in respec
+to water 'Vapor, and of different temper ature. The pressu re gradie t
+nt
+is therefo re in such a directi on as to cause them to mix on
+left
+sides, where the cold, denser air keeps to the earth's surfacetheir cing
+, for
+the warm and less dense air to rise. This "line type" of convec
+tive
+unit, in which the airs of different densities are mecha nically placed
+,
+is domin ant to a greater or less degree in cyclones, anticyclones,
+tropical hurrica nes, thunde r torms, and tornad oes. It is on
+the
+bound ary lines betwee n these two opposi tely movin g air masses
+,
+differe ntll' constit uted and having differe nt temper atures, that
+the
+centers 0 cyclones, tropica l hurrica nes, and anticyclones
+It is in the vicinit y of these bound ary line, especially to are found.
+the
+of the cyclone center, that thunde rstorm s and tornadoes south
+most
+freque ntly occur.
+The propagation oj atmospheric disturb ances. -An air mass that is
+relativ ely dense for the level it occupies, may not be able to sink
+directl y to a level approp riate to its density, becaus e of its high
+adiaba tic rate of heatm g compa red with the slower rate
+of air, latent heat of conden sation considered, at a lower of cooling
+level that
+must rise to take its place. Such an air mass may, of course,
+resting on the earth's surface . This air mas in motion over be
+the
+earth's surface , or over an "aeria l bottom ,' will tend to confor
+m
+with the "bottom" over which it flows.
+If the bottom or suppor ting surface be of irregul ar contou r, like
+the earth's surface , this tenden cy to conform with it will result
+aperiod ically alterna ting expans ion and contra ction of the air in
+in
+question, with attend ant changes in t empera ture, pressur e, and motion
+.
+Conve ctive units of tilis type are called gu ts and the wind in which
+they occur calTies them 101' some dist ance b eyond the irre~ul arity
+in the bottom which caused them. If this bottom be the solid earth,
+there is no response by the rigid earth to the traveli ng gust, which
+ceases to exist as originally formed . Either equilib rium will
+be
+restore d in unintel Tupted flow over level surface or other iITegularities in the bottom will superp ose n ew gusts.
+If the bottom or suppor ting surface be aerial and the irregul arities
+in its contou r be in the nature of pressu re variati ons origina ting
+the lower stratum , there will be r eaction in the lower stratum to in
+the
+gust initiall y caused by it in the l1pper stratum . This interac tion,
+while probab ly not of sufficient magnit ude continu ally to re-crea
+te
+the pressur e variati on in questio n in the lower stratum , does seem
+
+•
+
+./
+
+AERO£ AU TICS.
+
+19
+
+to be sufficient continually to realign the passing air currents of the
+lower stratum, which in turn are responsible for the pressure variation. This realignment keeps up with the movement of the air in
+the upper of the two strata and results in a moving disturbance in
+the lower of these strata. This mechanism, more or less modified
+by atmospheric conditions, such as temperature distribution and
+humidity, in the lower stratum, seems in general to control the motion
+of trave'iillg disturbances in the surface stratum of the atmosphere
+and explains the fail-Iy well established fact of observation, viz, that
+all traveling disturbances in the surface stratum have, in general,
+the speed and direction of the air movement in the stratum immediately above. Tropical hurricanes, for example, seem to move with
+the antitrades, the high and low pressure areas of the middle latitudes with the up~er westerlies. The same mechanism is operati'Ve
+in the "separation' of lows from a semipermanent low and of highs
+from a semipermanent high. The semipermanent high or low is
+a surface stratum phenomenon and has Its position fiXed by local
+conditions and must itself r6main in place, but it does create the
+disturbance or gust in the moving air of the stratum immediately
+above, which is carried forward !1Ud in its turn interacts with the
+air of the lower stratum. The result is that a traveling high or low,
+as the case may be, seems to "separate" from the semipermanent
+high or low and continue in the general direction of the upper current. .A traveling disturbance is likely to decrease in intensity when
+there is a southward component in Its motion as a whole and to
+increase in intensity, when there is a northward componont in its
+motion, in accord with the value, 2wp V sin h, which increases with
+latitude.
+
+•
+
+REPORT No. 13.
+•
+
+PART
+
+n.
+
+By WILLIAM R. BLAIR.
+
+TOPOGRAPHIC AND CLIMATIC FACTORS IN RELATION
+TO AERONAUTICS.
+
+Location and use oj base statior!.8.-A knowledge of climatic conditions is of advantage in the selection of locations for aeronautic base
+stations and in the placing of the fields and buildings. If the region
+in which a station is located is mountainous or forested or in the
+vicinity of very high buildings, an exploration of the air to such
+heights as will include all the peculiarities of circulation introduced
+by these obstructions to the normal flow of the air is also of decided
+advantage in this connection. Even when the location of a base
+station is completely determined by strategic or other considerations
+aside from climate, the climatic and aerological surveys are of
+decided value in the plan and use of the station. These meteorological factors have to do with behavior of the engine, with the methods
+and material used in the construction of the craft, and especially with
+the ease and frequency of accessibility of the station by aerial routes
+to aircraft of all kinds.
+Disturbances caused by buildings.-From a meteorological point of
+view places only a few miles apart may vary greatly in theIr desirability as locatIOns for base stations. Peculiarities of topography,
+isolated trees, forests, or tall buildings may produce troublesome and
+often dangerous disturbances in winds that otherwise would be
+fairly steady. Figure 1 illustrates a disturbance caused in a 22
+m. p . s. (50 mi. p. h.) wind by a small round tower. The tower is 5!
+meters (18 feet) in diameter at the base, tapers slightly to the eaves,
+and has a height to the point of the roof of about 6 meters (20 feet)
+above the ground level. The ground was kept bare of snow for a
+width of about 3 meters (10 feet) and a distance of 160 meters (525
+feet) to the leeward of the building, at which point the surface took
+a decided downward sl()pe. As the air current passed the tower two
+helices were formed. To one standing in the tower the rotation of
+the air in the helix on his right was counterclockwise; in the helix on
+his left clockwise, as shown by the suspended snow. The air descending in the middle of the path swept the snow outward and
+forward to both sides.
+Gustiness caused by topography.-Figure 2 illustrates the changes
+in the horizontal rate of movement of the air as they occur in the
+average westerly wind near the earth's surface. On the average,
+the acceleration in the horizontal component of the wind speed
+shown is about 7.5 centimeters per second. Accelerations of three
+or four times this amount are frequently observed. It would
+21
+
+22
+
+AEROK A UTICS.
+
+require a positive horizontal acceler ation of 17 to 20 times this
+amount to sustain a bird or well-constructed airplane in soaring
+flight. In other words, 5 per cent of the force required to sustain the
+plane is furnished by the average acceleration in the horizontal component of the wind illustrated. An airplane in flight through the
+wind would experience now this 5 per cent increase and in a few
+seconds or less time a decrease of equal amount, or a total change of
+one-tenth the force required to sustain it. Going into the wind the
+plane would rise in the increasing and fall in the decreasing wind.
+Going with the wind, the OpposIte would be true. The effect on
+the airplane of the variations in air pressure accompanying these
+changes in the horizontal speed of the aIr movement is comparatively
+inconsiderable. Observations of air pressure made near the earth's
+
+3°ho----r-r---;---r-------r-------~----~
+
+20
+
+10
+
+FIG. 2.-Record of wind speed by pressure tube anemometer.
+
+surface indicate that a pressure variation of one-half of 1 per cent of
+the total air pressure within a horizontal distance of 30 meters (100
+feet) would be an extremely large variation, found only in such severe
+disturbances as thunderstorms or tornadoes. Air den ity varies
+diredly as the air pressure, and the support given an airplane in a
+given air mass vanes with the air density. It follows that in this
+extreme case the e:£l'ect of density variation would hardly be noticeable to the pilot of an airplane compared with the effects of the
+variations in wind speed illustrated.
+Vertical rrwtion in gusts. -These changes in the horizontal component of the air movement must necessarily be accompanied b y
+similar changes in the vertical component. The vertical changes
+are relatively small in amount, being, in a surface wind of this sort,
+merely the vertical motion incident to the expansion and contraction
+of the air as it adapts itself to the contour of the bottom over which it
+flows. Depending of course on the position of the planes this vertical component of motion is much more effective in proportion to its
+speed in sustaining an airplane in the air or in forcmg it down. I n
+general, however, it is likely that the aviator attaches undue importance to the effects of vertical motion in comparison with the
+
+"
+
+•
+
+\;\
+j
+FIG. l.-DI STURBANCE CAUSED TO LEEWARD OF A S MALL R OUND TOWER
+DURING A HIGH WIND.
+
+--~
+
+•
+
+~-~~---------~
+
+AERO TAUTICS.
+
+•
+
+23
+
+effects of changes in the horizontal speed of air movement. (See
+part 1, p. 14.)
+The extent of di turbances caused by topography.-Depending on
+the contour of the earth's surface and on the speed of the wind,
+gusts of this sort may extend to a hei~ht of 40 or 50 meters (130 to
+160 feet) or ~gher . That part of the Blue Ridge Mountains on
+which Mount Weather is located rises fully 300 meters (1,000 feet)
+above the valley floors on either side of the ridge. The disturbing
+effect of this ridge on a wind at or nearly at right angles to the ridge
+has been observed to extend from 700 to 900 meters (2,250 to 3,000
+feet) above the mountain top. The greater heights were observed
+in the winds of higher speeds. It is probable tliat disturbances in
+the lower air brought about mechanically by such obstacles in the
+path of the wind as trees, buildings, hills, and mountains seldom
+extend higher than four times the height of obstacles above the
+general level of the earth's surface in the vicinity of the obstacles.
+The nature of the disturbance caused depends on the contour of the
+obstacle and wind speed. Figure 1 illustrates one type. Another
+and a more common type has frequently been observed on a large
+scale at Mount Weather. In the cases above mentioned, where the
+disturbance extended to a height of 700 to 900 meters (2,250 to 3,000
+feet) above the top of the ridge, the effect of the ridge was to deflect
+the air upward at all levels above the top of the ridge and for some
+distance to the leeward. The air in the lower part of this deflected
+current, soon after passing the top of the ridge, had a downward
+component of motion which brought it to the valley floor at a distance away from the foot of the mountain, depending on the wind
+speed. The horizontal component of the motion of this air decreased so that at a distance of sometimes as much as ten times the
+height of the ridge above the valley floor, the air was descending
+vertically on the valley floor, part of it returning toward the foot
+of the mountain and part of it going on out into the valley. That
+part of the air returrung toward the ridge continued up the side of
+the mountain to near the top, turning here again 10 join the general
+current. In one instance a wind of 27 meters per second (60 miles
+per hour) carried away a kite that was flying at a height of less than
+1,000 meters (3,300 feet) above the mountain top. The falling
+kite was followed by means of a theodolite in order to determine
+accurately its landing place. After it 1?assed below the level of the
+mountain top it seemed to descend rapIdly into a well-known patch
+of woods about 3 kilometers (2 miles) from the station; but before
+reaching the woods it was caught in a fairly strong wind blowing
+toward the mountain and carried back to within about 2 kilometers
+(Ii miles) of the station before it finally settled to the earth's surface.
+Disturbances caused by local heating.-The earth's surface varies
+considerably with regard to its power to absorb radiation and thus
+becomes more or less heated locally. (See part 1, pp. 10 and 11.)
+Abrupt and frequent variations of this sort in the vicinity of an
+aviation field n eed close attention. They intensify considerably the
+condition of "roughness" or "bumpiness" of the air that prevails at
+certain times and places, sometimes to the height of It kilometers
+(about 1 mile) above the earth's surface. Assume that the air overlying a certain area is in stable equilibrium at the time insolation begins on any clear day. A part of the sun's heat incident on the outer
+atmosphere reaches 'the earth's surface but without affecting to any
+
+24
+
+AERONAUTICS.
+
+considerable extent the condition of equilibrium of the air through
+which it passes. A large part of the sun's heat incident on the earth's
+surface is absorbed and tlie surface thereby heated. The air in contact with the earth's surface is heated by conduction, decreases in density somewhat and changes places with relatively denser air immediately above it. Thus, the process of transformation from a condition
+of stable to a condition of neutral or of unstable equilibrium is initiated.
+It has been shown (see part 1, p. 14) that the rate at which this transformation proceeds upward depends on the rate of heating of the
+earth's surlace and on the initial stability of the atmosphere immediately above it. Over a plowed field, therefore, which absorbs a certain amount of the sun's heat, the transformation will proceed upward
+at a given rate. Over a neighborin~ field of, say, wheat stubble, the
+surface of which reflects more and absorbs less of the sun's heat than
+does the surface of the plowed field, the transformation will proceed
+at a slower rate. At some equigravic surface, below the transformation level over the plowed field, but above this level over the stubble
+field, the density of the air over the plowed field will be less than that
+over the stubble field, and, as indicated in paragraph 9, chapter 1, a
+local con'Vective system the dimensions of which depend on the areas
+of the fields in question will be set up by way of distributing the heating effects of the two fields. It is clear that small local convective
+systems of this sort must occur in such a way as to either increase or
+decrease the general air movement over this part of the earth's surface
+and that vertical components of air movement will also be added, thus
+increasing the" roughness" or "bumpiness" of this air to an airplane
+passing through it.
+Climatic jactoTs.-When a larger territory is considered, climatic
+conditions are found to vary greatly from place to place. These
+climatic conditions determine in a general way what aeronautic work
+can best be done in any part of the country and the desirability of any
+particular place as a location for an aeronautic field and base station.
+Data are now in the Weather Bureau files sufficient for the purpose of
+comparing different 'places throughout the country with respect to their
+accessibility by aerIal routes for different types of aircraft, i. e., the
+sort of aerial harbor, ease of entrance and exit, and other things considered which aircraft would find at these places. These data for any
+place and the inferences based on them can be made available on short
+notice. The climatic factors that most need consideration in this
+connection are outlined as follows:
+1. Wind:
+(a) Direction.
+(b) Speed.
+2. Temperature:
+(a) Normal.
+(b) Maximum and minimum.
+3. Precipitation :
+(a) Normal.
+(b) Excessive.
+4. Fog.
+5. Relative humidity.
+6. Cloudiness.
+7. Air pressure.
+8. Thunderstorms, tornadoes, and hurricanes.
+
+•
+
+AERONAUTICS.
+
+25
+
+Use of Climatic data.-Some discussion of the separate topics in
+the above outline may serve to indicate the reason for theIT consideration, the form in which the data can be found, and the way
+in which they can best be used. In general data should be considered
+by months and the suitability of any location as an aerial harbor
+determined in this way. A place may be an excellent one for aeronautic operations during certain months of the year but less suitable
+during other months. This distribution of suitability throughout
+the year is of J>rime importance and the study of the data by months
+enables it to be determined with sufficient closeness.
+Wind speed and direction.-The prevailing direction of the wind
+and the mean speed of the wind from each direction at a place selected
+for the establishment of an aeronautic station should largely determine the layout of the grounds and the orientation of the buildings.
+All aircraft, but specially those of the lighter-than-air types, can leave
+or enter a hangar with greater ease and with less likelihood of damage
+to the craft when going into the wind than when the wind or a considerable component of it blows across the entrance of the hangar.
+For heavier-than-air machines it is specially important that the
+field be so laid out as to furnish plenty of clear way for launching
+and landing parallel to the prevailing wind directions. Prevailing
+wind directIOn by months and also by hours for the 24-hour period,
+together with the mean speed of the wind from each direction, can
+be furnished by the Weather Bureau for a large number of places
+well distributed throughout the country.
+GaZes.-Winds of high speed render the launching and landing of
+aircraft difficult. The limit of wind speed above which it is inadvisable to attempt launching aircraft varies with the type of machine.
+Pertinent information on this point is found in the Weather Bureau
+records of the number of days with gales at its different stations.
+Wind direction and gustiness.-It is much more difficult to handle aircraft in a gusty than in a smoothly flowing wind. Gustiness is
+usually measured and expressed as the rate of change from second
+to second in the horizontal speed of the wind'. Change of speed in the
+horizontal direction is, as a rule, accompanied by more or less change
+of speed in a vertical direction, and may be taken as a fair indication
+of the turbulence of the air current from the aviator's point of view.
+As a rule west winds are gustier and therefore "bumpier" than
+east winds. This difference in the nature of the winds is not based
+on the wind direction at all but follows largely from the relative
+densities of the air flowing in these currents. The air in a west wind,
+because it is moving in the same direction as the surface of the
+rotating earth, exerts a very slightly greater downward rressure,
+depending on its rate of movement, than does air of equa density
+moving from the east. If two such currents met, the tendency
+would be for the west wind to keep to the earth's surface, forcing
+the east wind to a higher level. It is also true that the air of westerly
+winds in this country is usually drier and colder and therefore denser
+than the air of easterly winds. As a result of this difference in density
+the westerly wind lies close to the bottom over which it is flowing.
+If this bottom be a topographically rough part of the earth's surface
+much local expansion and contraction, or gustiness, will occur in the
+westerly air current as it adapts itself to the topography. Such
+gustiness would not occur in a wind that did not lie so close to the
+bottom over which it is flowing. A sea breeze, for example, regardless
+
+26
+
+AERONAUTICS.
+
+of its direction, is likely to be much freer from gusts and consequently
+smoother than the land breeze over the same point. The air of the
+Sea breeze flows over a comparatively smooth, unifdrm surface, while
+that of the land breeze flows over a comparatively rough solid surface
+the nature of which may also vary greatly from place to place.
+Air temperature and "roughness."-The normal air temperature at
+a place used as an aeronautic base, also the minimum temperatures
+likely to be experienced, is of interest in connection with the operation of the engine and the comfort of the pilot and others handling
+the machinery. The maxima of temperature likely to be experienced are of interest from this and also from an entirely different
+point of view. It is likely that all days with temperatures 320 C.
+(90 0 F.) or above will be days on which the surface air is quite rough
+because of considerable convectional action. The depth of the rough
+or bumpy air increases during insolation until well into the afternoon.
+Depending on the length of the diurnal period of insolation the maximum depth of this condition on a clear day is likely to be 1 to 1!
+kilometers (! to 11' miles). It is turbulence of this type that is
+specially likely to be increased by sharp variations in the nature of
+the earth's surface with respect to its ability to absorb or reflect
+solar radiation.
+Precipitation.-Precipitation, whatever its form, is not necessarily a hindrance to fl;v..ng, but the added weight on the aircraft, as
+well as the poor visibllity, are great handicaps, and excessive precipitation of any form may render flight impossible. The added
+weight of rain or snow on the craft may be considerable. A snow
+cover, especially when the snow h as freshly fallen, so changes the
+appearance of the earth's surface and covers up roads and other
+lines that the aviator has difficulty in keeping his course.
+Fog.-Fog is a serious hindrance to aerial navigation. It is practically impossible to keep a course in a given horizontal plane or
+indeed to know in what plane the craft lies.
+Humidity .-Whether the relative humidity is high or low is not
+an imyortant consideration unless the air is so extremely dry that
+specia care is required in seasoning the wood used in the propellers
+and other parts of the craft, as well as in the construction of these
+parts and in the glues and varnishes used. The amount of moisture
+ill the air affects the operation of the gasoline engine, but this is a
+point of secondary consideration.
+Oloudiness.- While in military operations the aeronaut may use
+a cloud cover to advantage, the average pilot in times of peace prefers a clear sky when he flies. The presence in the sky of certain
+types of clouds." viz, clouds which form because there is an upward
+component in tne movement of the air below them, indicates a more
+or l~ss turbulent condition of the air from the earth's surface up to
+the cloud base as well as within the cloud itself. Such clouds may
+be scattered cumuli or in the form of a fairly solid cover, In every
+case the bases of the seI>aI'ate clouds or of the cover appear sharply
+defined and uniform in height. The disturbed condition of the air
+within the cloud may well be thought of separately from that below
+the cloud base since in the cloud other causes of turbulence are in
+operation owing to the presence of the cloud particles. These
+causes produce turbulence within clouds of other types as well as
+in those which form in air having a vertical component in its motion.
+While the pilot may expect "rough" air within any cloud, the pres-
+
+27
+
+AERONAUTICS.
+DEGREES
+
+C~TI GRADE
+
+'-r
+
+~~:, 6 ·_-,-_S, - _ , - _, - - ,__ 2_-.._ _' 4r--.._..:'.;:6_
+.
+IO
+:.-....,.._.:.;8;:--j' ·ALT.
+'
+r
+km.
+
+\
+
+3 .5
+
+W. 19.2 m.p.s.
+II:l l a.m.
+I
+
+\
+1----1f--"!'r--+--+-+-~
+.~
+
+ASCENT
+
+~ DESCENT
+
+- +-4--+--1 35
+
+~ sw 194 m.p.~.
+
+3
+
+~-+~+-~~~~f--+-+--+-+--+-+---:f--~
+SW 16 .5
+
+j".S.• "'" \
+
+5W,
+
+!
+
+1\
+
+16.5 m•••
+
+~ sw 16.5Lp,s'''~
+/::±_''i=~_·-i
+
+\.0
+
+2 .5
+
+m';' '+-_ I---l_-+_-+_-I
+':';'''_
+:
+
+.5 ' .:.; =t
+.:.; 16::.3
+
+5 f 7 0 m.p.s.
+
+!--+-+--+--+~4,\+--1~-+-+--+-+--l-+~
+' \ SSW 15.3
+
+11'1 .
+
+:s.
+
+f\\
+
+2 1--+~+--I~~~\rt~~4-+-+~
+t \.
+
+2
+
+THUNDERSTORM
+
+\
+
+CENTRAL OVER
+
+\
+
+STATION AT 12:40 P "'"'
+'\
+
+BASE OF Sl 'Cu [ \
+
+f - - I - - - I - - I - - - I - - +-AT 10:30 • .m.
+
+2 .5
+
+V
+
+WNW 13 8 m.p.s .
+
+\
+
+.,//
+
+' .5
+
+1--+-I--+---:f-/---1f-/--:>IrL-+---1f--+---1~\---1-+-l ' 5
+WNW IS.3 m.p.I, ~
+
+~
+
+~DlsE oJ Sf.CU;~\~+_+-_+-_I---l__ E._ '_ .2+:m7·"·''1~"'-+-l
+S+ 4_ · '·
+AT. 11 :4Qa,m.
+
+V
+
+\
+
+\
+\
+
+~E.
+
+18 .2 m.p."
+
+'"
+
+\\
+
+~
+
+5 ~-+-+--4-+~~~-~-+-~~~~~-~ .5
+II. 1.2 m.,.'.
+12:50p,m-
+
+I
+
+~ESE., 15.6
+
+\
+
+\
+
+I '- I
+
+T
+""
+
+.3966L--L._..Ie - L - -'l.O-..L...-,.,12:-...I.41....
+,L4-..I...-'.I.6-4o-1--.J,S-....J ·396
+DEGR EES C..kNT1GRADE
+
+B
+
+FIG. 3.-Free air conditions at Drexel AerologiCQI Station during tbundersLorm on June 21, 1916.
+
+28
+
+AERON AU'IICS.
+
+ence of the convectional cloud forms, specially of scattered cumulus
+clouds, leads him to expect "rough" air below the cloud level as
+well. (See part 1, pp. 9 and 10.)
+Frost and ice jormations on aircrajt.-Aircraft remaining for
+some time in a fog or cloud layer, when the latter is at low temperatures, are likely to collect a considerable weight of moisture in
+one form or another. This is specially true of the lighter-than-air
+craft. Cloud and fog particles maintain themselves in liquid form
+at temperatures far below freezing. If this be because of the sur.:
+face tension of the particle, any influence that breaks down this
+tension would permit the freezing in one form or another of the
+water of the particle. Assuming that aircraft within a fog or cloud
+layer at temperatures well below freezing is electrically charged,
+surface tension of fog or cloud particles approaching it will be broken
+dO\Vll and, dependirig on the size of the particle and the temperature, freeze on the cold surface of the aircraft in crystalline or
+amorphous form. Similar conditions, but with higher temperatures, may result in the collection of liquid moisture on the surface
+of the craft.
+The air pressure.-The air pressure, or the height above sea level
+of an aeronautic base station, affects chiefly the operation of the
+gasoline engines.
+Traveling disturbances considered.-While this chapter concerns
+itself chiefly with the sort of aerial harbor that can be had in any
+particular location and not with the laying or pursuit of a course
+between two points, it is thought best not to divide the consideration of the next tOllic-thunderstorms, tornadoes, and hurricanesalthough it h~ to do with courses pursued between two stations as
+well as with the accessibility of either station by aerial routes .
+Thunderstorms, hurricanes, and t01'1wdoes.-These are disturbances in the lower atmos:phere of relatively small area and may
+often be seen aJ>proaching ill good time for the pilot, if he be in the
+air, either to fly around them or to land until the disturbance has
+pa..c;sed. The aeronaut would benefit greatly by some knowledge of
+the nature and extent of these disturbances.
+Frequency of thunderst01"m8, etc.-The frequency of occurrence
+of disturbances of these sorts in a given region may be taken as an
+indication of the turbulence of the air in that region. Consequently
+data on thunderstorm frequency, for exam:ple, would be of value in
+the consideration of a locatIOn for a base statIOn. Such data are in the
+Weather Bureau records and are readily available.
+A thundersto1"/n described.-During a kite flight of June 21, 1916,
+at the Drexel Aerological Station, 32 kilometers (20 miles) west of
+Omaha, there occurred a typical thunderstorm. Figure 3 shows the
+temperature gradient observed in both ascent and descent. Wind
+directions and speeds, cloud base heights, and other notes are made
+on the curves showing the temperature-altitude relation. Figures
+4, 5, and 6 are the barogram, thermogram, and hygrogram, respectively, recorded during the 'passing of the storm. The observer of
+surface meteorological conditions makes the following notes :
+Thunder to the west was heard at 12.15 p. m. A threatening, dark, purple-tinted
+cloud was observed to the north and west of the station at 12.30 p. m. Lightning
+fla.shes were seen in this cloud at about the same time. The wind changed from
+ESE . to WNW. at 12.40 p. m . The loudest thunder was heard at 12.46 p. m . Light
+rain began at 12.47 p. m. and heavy rain a minute later. Last thunder was heard to
+the northeast at 1.05 p. m. Rain ended at 1.54 p. m.
+
+29
+
+AER.ONAUTICS.
+
+The observer at the kite station makes the additional observations :
+Reeling in at high speed th e kites passed directly over the reel house when the
+wind changed abruptly from ESE . to WNW., i . e., the wind did not swing in a semicircle but changed by directly reversing its direction. There was evidence of an
+upward component in the air's motion when the wind change at the surface took
+place. The surface ESE. wind, which gradually turned to S. and SW. as the altitude
+mcreased, gained considerably in speed as the storm approached.
+
+_____ rr-- - - -
+
+,
+
+A
+
+I
+
+A _ _
+
+_ _ _.....,
+
+10 M 2 4 6 8 10 XII 2 4 6 8 10 111 2 4 6 8 10 XII 2 4 6 8 '10 M
+
+"
+
+~-
+
+21
+
+20
+
+f--I --f -,±
+--j.
+
+:L
+-±--f -+-f--t--"- -'--~f-:f- -f-:L-±-±-:L--f-±:L-:L-±-:L-
+
+- - -- -- -- --t--
+
+-- -- -- -- --t-- -- -- --
+
+--
+
+--
+
+-- -- -- - -
+
+-- -- -- - -- --
+
+29
+
+29
+-
+
+-~.
+
+-
+
+--
+
+--
+
+--
+
+-..
+
+-- -_ ..
+
+28
+- -- -- -- -- -- -- -- -- -- -- - -- -- -- -- --
+
+--
+
+-- -- --
+
+--
+
+--
+
+-_..
+
+-
+
+28
+--1-- -- -- -- -- -- --
+
+FIG. 4.- Surface pressure changes (inches) at Drexel Aerological Station during
+thunderstorm on June 21, 1916.
+
+FIG. 5.- Surface temperature changes (F) at Drexel Aerological Station during thunderstorm on June 21, 1916.
+
+30
+
+AERONAUTICS.
+10 12 2 4 6 8 10 12 2 4 6 8 10 12 2 4 6 8 10 12 2 4 6 8 10 (
+
+I~l
+
+!
+
+FIG. 6.-Surface relative humidity changes (% ) at Drexel AerologlcaJ Station
+during thunderstorm on June 21, 1916.
+
+Explanation of the records.-The rise in pressUTe shown by the
+barolP'aID. and the fall in temperatUTe shown by the thermo~ram are
+simultaneous and occur at the time of the wind change above described, or, in the case of this storm, seven or eight minutes before
+the first precipitation. 'l'he rise in humidity begins when the rain
+begins. The height of the cloud base indicated in Figure 3 is about
+1 kilometer (0.6 mile) above the earth's sUTface, that of the upper
+sUlface of the cloud 1.5 to 2 kilometers (0.9 to 1.2 miles) higher.
+At the time of the sudden change in pressure and temperature it
+appears that the relatively cool and therefore dense WNW. wind
+forced the warmer ESE. wind up from the earth's surface. Assuming that the surface air of this latter wind reached the cloud base
+level by the time precipitation began, it would have an upward
+component of 2 m. p. s. (4.5 mi. p. h.). The horizontal component
+of the speed of this CUlTent of air as indicated in FigUTe 3 is about
+eight times the supposed vertical component. These are ideal conditions for soaring flight, but a too near approach to the boundary
+planes between the different currents in action here would be dangerous because of the great differences in wind speed and direction
+that obtain.
+Warning of thunderstorm's approach.-The aviator has in the case
+of the storm just described a warning of from 20 to 25 minutes. It
+would be unwise for him to get into the region of the abrupt wind
+change. In this time he should either effect a landing or change his
+course so as to go around the storm either to the right or left of it
+or above it. The direction and rate of motion of storms of this type
+are fairly well indicated by the winds in front of them and by the
+appearance of the cloud.
+Thunderstorm frequency . -While data on thunderstorm frequency
+indicate that these storms occur more freqllently in certain regions of
+the country than in others, it may be well to consider variations in
+this frequency at a particular location. It has been shown above
+that thunderstorms occur when a denser, usually colder, air mass
+flows under and forces up a less dense, usually warmer, air mass.
+In other words thunderstorms are most likely to occur at the boundary between a warm and a relatively cool air mass or at the breaking
+up of a hot spell. In a followin~ chapter, in which the weather map
+is discussed, it will be shown that the region of greatest thunderstorm frequency for a given location is to the south of a low-pressure
+area. Thunderstorms are occasionally found to occur to the south
+
+AERONAU'IICS.
+
+•
+
+31
+
+of high-pressure areas and less frequently in regions aside from these
+two, where the topography or nature of the surface in combination
+with local conditions gives rise to them, e. g., where the earth's surface is much broken by hills or mountains. On land, thunderstorms of the type above described have a diurnal maximum of
+frequency. This maximum occurs just after the hottest part of the
+day, or following 3 or 4 p. m. Thunderstorms are decidedly more
+frequent in the summer than in the winter months .
+Turbulent conditions indicated by thunderstorms .-Thunderstorms
+may be occuning over a considerable area, thouo-h at the same time
+no ono storm is of ve~-y great area and may possilJlY be avoided by a
+
+.
+
+pilot who has got well into the air. It is the turbulence of the air,
+mdicated by the OCCUl'Tence of thunderstorms in the region, that is of
+especial interest when the accessibility of a given field by aerial
+routes is being considered.
+Oyclonic thunderstorms and tornadoes.-There is another type of
+thunderstorm which usually occurs within a heavily clouded or
+rain area. In this type it is thought that the origin of the disturbance is in the cloud layer. There is a sharp drop in the surface pressure while this storm passes and an almost unmediate return to
+pre-storm conditions. This type of storm is not nearly so cominon
+and does not seem to have been so fully investigated as the type
+ubove described. The wind action seems to be cyclonic, and the two
+kinds of storms may well be designated "line" and "cyclonic."
+It is quite concei,able that a thunderstorm of the cyclonic type
+could also originate as a result of e..-.::cessive local heating, the area
+heated being relatively small when the excess of heat is considered.
+This origin is all the more probable when the heated area is near
+the boundaries of passing aIr cmrents. Extremely severe cyclonio
+thunder torms may develop very hi~h wind velocities and do great
+damage specially on the right half 01 the storm's path. When they
+have so developed, these storms are called tornadoes.
+Tropical cyclones or hU1'ricanes.-These are, as a rule, storms of
+larger aI'ea tban either thunderstorms or tornadoes. They seem to
+have a similar origin, i. e., they occur on the boundary between air
+masses of different densities and moving in opposite, or nearly opposite, directions. These storms are of a more permanent type than
+either thunderstorms or tornadoes. They can, therefore, be foretold for a greater len~th of time (sometimes for several days) ahead
+of their occurrence than can the shorter lived thunderstorms and
+tornadoes.
+Direction of tmveZ of distu1,bed condition.-Thundorstorms of the
+line type seem to travel approximately at right angles to the line
+between the two air masses of different density in which they originate and into the warmer air mass. Those of the cyclone type including tornadoes appear to travel with the general drift of the air
+in the upper part of the stratum in which they occm. HUl'Ticanes
+originate in the trade wind belt in the summer half of the year and
+extend up into the anti trades. The anti trades seem largely to control the direction and rate of travel of these storms. Where the
+direction and spoed of travel of storms is largely determined by the
+direction and speed of an upper wind cUl'Tent, systematic observations
+of this CUlTent by means of kites or free balloons aid greatly in predicting future positions of the storm at given times.
+
+•
+
+r
+
+REPORT No. 13.
+PART
+
+By WILLIAM
+
+m.
+R.
+
+BLAIR.
+
+CURRENT METEOROLOGY AND ITS USE.
+
+Ourrent meteorological observations.-While the selection of a site
+for an aeronautio base station or training camp, in .0 far as it depends on meteorological conditions, can best bebased on the meteorological records of many stations for a period of 10 year , or longer if
+possible, the best current use of the station must depend to a great
+extent on the making and proper interpretation of current meteorological observations at and in the vicinity of the station. Free air
+as well as surface observations are needed.
+SURFACE OBSERVATIONS.
+
+Weather reports andjorecasts.-Surface observations of air pressure,
+temperature, humidity, movement, 'precipitation, cloudiness, sunshine, etc., are made by the Weather Bureau twice daily, and oftener
+when found necessary, at more than 200 regular stations. These are
+collected at the forecast centers by telegraph, mapped, and, together
+with weather predictions based on them, are ready for distribution
+within about two hours after observation time. It would be to the
+advantage of every aeronautio station to receive these weather
+reports and to make its own weather maps. The more the aviator
+can see and understand of the weather map the better.
+The simultaneous synoptic weather map is a convenient arrangement, on an outline map of the country, of the data observed at the
+200 or more Weather Bureau stations. Figure 7 shows such a map.
+The weather conditions portrayed on this map are sharpll defined,
+boundaries of the characteristic weather regions b eing easIly distinO'uished. The most striking feature of the map is the system of solid
+fines which become closed curves about the centor of the low-presstu:e
+area in lower Michigan and about the center of high-pressure area in
+northern Wyoming. These lines are called isobaJ.'S, because the
+pressure, reckoned from the indications of mercurial barometers at
+the different station , is the same at all points through which any
+one line passes. The observing stations reporting are indicated by
+small oircles. An arrow head attached to each circle indicates the
+direction in which the wind is blowing. After allowing for local
+peculiarities in wind direction, owing to topography or to the proximity of land and wat or sUl1accs, it appears that a northerly wind
+prevails between the trough of low pressure to the east and the ridge
+of high pressure to the west, and that a southerly wind prevails between the ridge of high pressure to the east ancI the trough of low
+22417 0 --17----3
+
+33
+
+34
+
+AERONAUTICS.
+
+pr~sme to the west. Passing air c~Tents of ~his
+~aDled. by 10Y!J>ressure on therr left sldes and high
+
+type are accompressure on their
+TIght SIdes. ·When the troughs of low prossul'e or the ridges of hio-h
+pressme thus formed are undistmbed by topographic or other varia-
+
+\.
+
+EXPlAN ATORY WOTtS..
+
+0Wr"'_ .."" ..... 1Il...~~
+Mp""
+() PIo"", OoIudr: • o-tY: ~ AiW'I.
+8 ReJIO"Mie.tIac. • "'""I'l, ......
+...lId w...
+poiIIu IIIlequ.l.u P""s.....
+
+__
+
+......
+
+~.""lr:nl
+
+o Onr,
+(S) s.o..;
+1~
+
+Ihc'.;M.
+
+pu$111I'~h
+
+t1c\ht.,.,...,.4-oI>1'ln."","~~ ~
+
+tqooulHllJlCn·
+
+IUf'I,.odO",.mWll ibl'rr-.".,;IIC ",duroOl$lr .
+f'j~.ft& .."",
+
+1n.:0IC 10..-1
+
+_pct1UIt't
+
+K'COIId,24. hourrwttipklllMlO ... IIm
+ulocil~"'hcn
+
+dlltt.c ' - Il !'Iou... ;
+
+.Ollftehor~;d\lN.
+
+.....4
+
+IO ..........ksptr"-.
+
+tions in the nature of the earth's surface, the pressure difference
+between them increases with latitude. This map iUustrates well
+p~ge~ 16.to 18 of Part 1, which deal with winds and related pressure
+distl'1butlOn.
+Dist1vibution oj air temperature and density.-The dotted lines on
+the map are isotherms. -Note that one of these lines, the one indicating the location of freezing temperatme, as it passes from the
+southerly to the northerly cmrent, i. e., through the minimum of air
+pressme, tmns sharply to the south. It begins to move toward
+higher latitudes as it approaches the maximum of air pressme. The
+indications of the temperatme ob ervations are that the air of the
+southerly cmrent is warm for the season, while that of the northerly
+current IS cold. There is a tendency in these cml'ents to move down
+the pressure slopes, i . e., to flow from regions of higher to regions of
+lower pre sme, and thus to meet more or less directJy on their left
+sides. At this meeting the colder air, being the denser, continues on
+the earth's surface and forces the warmer air to rise over it. Another
+condition contributing to the rising of tho warm air in the southerly
+current i that part of it, in approaching the center of low pressure
+on its front, converges somewhat. This convergence tends to force
+the asoent of some of the air in that part of the current. In these
+larger disturbances the rates of vertical motion are very slow compared with those which occm in thunderstorms. By observation; in
+an extreme case, the area of the base of an air column was founa. to
+decrease to about three-fomths of itself in about four hours. Assuming this convergence to occur to a depth of 1 mile, the greate t
+
+AERONAUTICS.
+
+.I
+
+35
+
+Rscensional rate that could OCCUl' ill, any part of the air mass on
+account of this convergence would be less than 2.25 meters per minute
+(7~ feet per minute) .
+The rain area of the Zow.-A oareful study of the air circulation in
+the vicinity of an area of low press me indicates that the air of the
+southerly omrent is deflected most toward the pressme minimum
+and converges most in front and to the north of the center of low
+pre sme, and that the air of the northerly cmrent is deflected most
+and spreads out over the earth's surface to the south of this line.
+Since precipitation results cfu'ectly from the ascent of the relatively
+warm moist air of the southerly cmrent, these two factors operate
+to place the center of the precipitation area in the front, possibly a
+little to the south, of the center of low pressme. Almost any weather
+map in which a well-formed low is illustrated will show the rain
+area centered jn the front half of the low.
+Other rain areas.-There i , as a rule, but little mixing of the
+northerly and southerly cmrents across the ridge of hi&h pressmo.
+Mixing may occm here, because of the deflecting action ot the earth's
+rotation and in spite of the opposing pressure gradients. When it
+does, small precipitation areas may be found to the northeast or to
+the south of the center of high preSSUl'e, where the warmer moister
+air of the southerly wind has risen over the colder air of the northerly.
+Motion of low and high pressure areas.-Those low and high pressme areas travel from west to east across the country with about the
+speed and direction of the wind at a height of 3 to 5 kilometers
+(2 to 3 miles). A suggested explanation of the way in which this
+movement is brought about is given in Part 1, pp. 18 and 19.
+The winds which seem to control the storm movement have a wide
+range of speeds, averaging about 11 meters per second (25 miles per
+hom). Most 10w-pressUl'e areas enter om country from the northwest, a few come from the southwest, and others enter at some
+point along the coast of the Gulf of Mexico. Practically all lows
+leave the country at the northeast. TIus exit is appIOached by many
+routes, but ill, general by way of the Great Lakes and St. Lawrence,
+by way of the Ohio River Valley, or by way of the Gulf and Atlantic
+coasts. The motion of the area across the country brings to the
+places traversed the different types of weather indicated for each
+area. H one had a typical low-pressme area and a typical high:r>reSSUl'e urea charted on transpa.r ent paper, One could, by moving
+them over the map from west to ea t, follow the wind and weather
+changes ocomri~ at any particular city or place for the path taken
+by the low or high. 1 An easterly wind, cirrus clouds followed by
+lower clouds, precipitation, and, as the wind ohanges to northwest
+by way of north, clearing and cooler weather, are in general the
+order of wind and weather change one would experience if the center
+of the low-pressme area passed to the south of him. Similarly these
+changes may be followed for any position with reference to the
+oenter of either a pa ing high or low :r>ressme area. The rules
+printed on tho daily weather map are as follows:
+When the wind sets in from points between south and southeast and the barometer
+falls steadily a storm is approaching from the west or northwest, and i ts center will
+1 The same result is shown by a set of weather maps representing the actual weather conditions ill
+sequence for a typical storm, and published by the Weather Bureau under the title '''1'he Weather l>!ap,
+with E)" plnnation."
+-
+
+36
+
+AEROKAUTICS.
+
+pass near or north of the observer within 12 to 24 hours, with wind shifting to northwest by way of southwest and west. When the wind sets in from points between
+the east and northeast and the barometer falls steadily a storm is approaching from
+the BOuth or southwest, and its center will pass near or to the BOuth or east of the
+observer within 12 to 24 hours, with wind shifting to northwest by way of north. The
+rapidity of the storm's approach and its intensity will be indicated by the rate and
+the amount of the fall in the barometer.
+
+Oharacter and intensity of highs and Zows.-These areas may vary
+in character and in intensity during their journey across the country.
+It is clear that this must be the case. In the case of a low-pressure
+area, for example, the temperature and moistl.U·e content of the
+southerly wind entering the low on its front is to a large extent
+determined by topography and other characteristics of the surface
+over which it blows. The difference in temperature between the
+southerly wind in front and the northerly wind ill the rear of the lowpressure area is to some extent a measure of the activity about the
+center of low pressure, while the size and position of the precipitation
+area, as well as the amount of precipitatIOn in any part of the area.,
+depend largely on the moisture content of the southerly wind. One
+who would predict the weather conditions for a given place needs to
+consider these variations in character and intensity, as well as the
+direction and speed of travel of the high or low pressure area.
+Seasonal changes in the highs and lows.-The weather conditions
+accompanyinO' high and low pressure areas vary with the seasons as
+well as with the varying nature and topography of the earth's surface
+over which they tmv~l, but all these phenomena are dependent on
+the fact that the centers of these areas are located on the boundary
+between a warmer and a colder northerly current of air.
+The thunderstorm region.-A north and south line through the
+center of a low-pressure area lies approximately in the boundary
+between the warm air mass to the east and the cooler air mass to the
+west of it. It is in such a region that thunderstorms and tornadoes
+are most likely to occur in the summer months. Temperature and
+other conditions most suitable for the development of these local
+storms are found to the south of the center of the low-pressure area.
+There is much more likelihood of the cold and warm air mixing, and
+therefore of thunderstorms, in the south half of the trough of low
+pressure than in the corresponding region of the ridge of high pressure. This is because the air tends to flow in the direction of decreasing pressure. CertainlaJ:ts of the country are seldom traversed
+by low-pressl.U·e areas an seldom, therefore, exp~ence thunderstorms or tornadoes while in other regions these more local storms
+are quite frequent. Bad flying conditions are likely to be experienced
+in tile region of turbulence to the south of a low-pressure area, especially in the summer half of the year.
+Intensity of disturbances and direction of motion.-It may be readily
+inferred from the foregoing discussion that, independent of the
+nature and topography of the surface over which it travels, the intensity of a distmbance, whether about a center of high or of low pressure,
+varies with the direction of its travel. When the center of the area
+moves south in the Northern Hemisphere the action about it is
+likely to decrease in intensity, because 2pw V sin ).. and consequently
+2pw V sin).. decreases with latitude and vice versa. (See Part 1,
+g
+p. 17.)
+
+\.
+
+AERONAUTICS.
+
+37
+
+UPPER. AIR OBSERVATION.
+
+J
+
+The value of upper-air observations.-The aviator is concerned as
+well with laying his course between two points as with the location
+and current use of his station. This involves a knowled~ of what
+is going on above as well as near the earth's surface. While in a
+general way it is possible to predict upper-air conditions from the
+surface data as shown on the weather map, observations of these
+conditions can be so conveniently and so quickly made that every
+aeronautic base station should be equipped WIth apparatus and
+personnel for making them. Some consideration of the relations
+existin~)etween upper and lower atmospheric conditions within the
+first 5 .lrilometers will be of value in this connection.
+Pressure distribution and height.-Referring again to Figure 7, it
+is probable that at a height of about 3 kilometers in the atmosphere
+above that map the isobars are no longer closed as they are about
+the centers of high and of low pressure at sea level. The transition
+with height from the closed isobars to the a'pproximately parallel
+and east-west lines is a gradual one, the closed lsobars opening on the
+left, usually north, side of the low pressure area and on the right side
+of the high. The best indication of this change in the character of
+pressure distribution with height is found in the observations of air
+movement.
+Winds and pressure distribution.-When free to do so, the air moves
+approximately at right angles to the direction in which the pressure
+gradient acts- that IS, in equilibrium with the force of gravity which
+tends to make this flow directly down along the pressure gradient and
+the deflective force of the earth's rotation. The friction between the
+air and the earth's surface or between two or more strata of air tends
+to decrease its rate of movement, V, and to that extent determines
+the value of 2pw V sin A. As a result of the decrease in this value the
+gravitational flow of the air in the lower part of the larger current
+(down the pressure slope established by the influence of the earth's
+rotation on this larger current) becomes relatively prominent.
+Wind change with height in lows.-With these relations in mind a
+study of Figures 8 to 19 will indicate in a general way what wind
+direction may be expected at any height above a given configuration
+of the sea-level isobars. In each figure the large arrow shows the
+sea-level direction of travel of the disturbance; the small arrows show
+wind direction. These figures are based on means of five years'
+obseI"Vations of the winds at different heights above Mount Weather)
+Va. In Figure 8, the mean angle between the small arrows and the
+tangents of the circular isobars is 44°. In Figure 9 this mean angle
+is 33°. The radial component of wind directIOn outward from the
+center of the high pressure is, relative to the component along the
+isobars, greater than the radial component of wind inward toward
+the center of the low. The sense in which the wind changes direction
+with height and the extent of the change may be followed by examining the wind directions at the different levels. As a rule the red
+arrows in octants 1, 2, 7, 8 of the low-pressure areas swing about their
+points in a clockwise direction as one ascends vertically to higher
+levels; i. e., the wind in these octants veers with height. In octants
+3,4,5,6 tho arrows of the low-pressure area for the most part swing in
+a cOtmtcrclockwise direction with altitude: i. e., the wind in these
+
+FIG. S.-Mean of wind observations in "highs" at 526 meters abovo sea level,
+J907- 1R12.
+
+FIG. 9.-Mean of wind observations in "lows" at 526 meters above sea level,
+1907- 1912.
+
+r-
+
+FIG. lO.-Mean of wind observations in "highs" at 1,000 meters above sea level,
+1907-1912.
+
+FIG. ll.-Mean of wind observations in "lows" at 1,000 meters above sea level,
+1907-1912.
+
+FIG. 12.-Mean of wind observations in "highs" at 2,000 meters above sea level,
+1907- 1912.
+
+"
+
+FIG. 13.-Mean of wind observations in" lows" at 2,000 meters above sea level,
+1907-1912.
+
+,.
+
+FIG. H.-Mean of wind observations in "bighs " lit 3,000 meters a bove sea level,
+1907-1912.
+
+......
+
+FIG. 15.-Mean of wind observations in "lows " at 3,000 met ers above Sea level,
+1007-1912.
+
+FIG. 16.-Mean o( wind observations in " hi.e:hs" at 4,000 meters above sea level,
+1907-191f.
+
+...
+
+l~IG.
+
+17.-Mean o( wind observations in " lows " at 4,000 meters above sea level,
+1907-1912.
+
+......
+
+'...,..
+
+FIG. IS.-Mean o( wind observations in "highS" at 5,000 meters above sea level,
+1907-1912.
+
+FIG. 19.-Mean of wind observations in "lows" at 5,000 meters above sea level,
+1907-1912.
+
+44
+
+AERON AUTICS.
+
+octants backs with height. The extent of this veering or backing
+with height seems to depend largely on how far the surface wind
+differs from a west wind, since this is the prevailing direction at the
+5-kilometer level and above. The dividing line, to one side of which
+the wind veers with height and to the other side of which the wind
+backs with height, is the line from the center of the low out along which
+the isobars open with height. Whether or not this line is the exact
+boundary between the second and third octants depends on the prevailing wind at the higher levels and also on other conditions which it
+has been shown influence to some extent the direction of travel of the
+low-pressure area.
+Wind change with height in highs.-A similar change in wind direction with height occurs in the high-press me area, except that in the
+high the isobars open with height on the right side or on a line roughly
+comcident with the boundary between the sixth and seventh octants.
+The backing with height occurs in octants 7, 8, 1, and 2, and the veering with height occurs in octants 3, 4, 5, and 6.
+General laws of wind change with height.-Considering the turning of
+the wind with height independently of the pressme distribution, the
+relations shown in Table I are found to obtain. Table II shows that
+at 1.5 kilometers (1 mile) above sea level practically all winds are
+from directions to the west of north or south. At twice this height
+west winds begin to prevail decidedly.
+TABLE
+
+I.- Turning of wind with height.
+Number
+of obser·
+vations.
+
+Direction at earth's surface.
+
+I Cl9ck ,
+W1SC.
+
+Counter·
+clock.
+wise.
+
+None.
+
+-------------------------------- 1
+------ ---------N. to ENE . ... ................ .... ........ .. ..... ..
+E. toESE ...................... .......... .. ... ..... . ........ . .
+SE. toSW ......................... ....................... .... .
+
+wsw ............. ... ............ .. ..... .......... ..... ...... . .
+
+W .. ............... .. . . ................ .......... . ...... ...... .
+WNW ... .... . ...................... . .......... . .............. .
+NW ... .................. . .. .... .... .... .. .. .... .. ............ .
+NNW ....... .................................... .............. .
+
+TABLE
+
+31
+50
+474
+46
+
+Per cent. Per cent. Per cent.
+
+109
+298
+337
+34
+
+n.- Relative freq!wncy (per cent) of winds from the
+at each level.
+
+45
+76
+94
+76
+51
+41
+29
+35
+
+d~f!erent
+
+35
+12
+2
+7
+
+12
+29
+40
+38
+
+20
+12
+4
+17
+37
+30
+31
+27
+
+dil'ections observed
+
+Altitude of each leyel (moters) .
+
+1 ---;----,------;----.-,---;-.-----;-.---;~-.---.---_._-_._­
+1
+_ _ _ _ _1_°_"26_ _750_ _1 ,000 1,250 1,500 2,000 2,500 3,000 3,500 4,000 4,500 5,000
+_ __
+1
+Wind direction.
+
+11
+
+N.. .. .. .........
+
+0.2
+
+NE......... ....
+ENE.... .. . ....
+E......... .. ....
+ESE............
+SE .......... ....
+SSE .... ........
+S.... .. ...... ...
+SSW............
+SW .... .. .... .. .
+WSW...........
+W..... .... .....
+WNW ...... ....
+NW .... . .......
+NNW .. .........
+
+0.4
+0.4
+3. 5
+2.6
+14.1
+9.6
+7.5
+0.7
+2.1
+3. 5
+8.9
+
+2.5
+
+NNE... .... . ... ...... . .......
+
+26.4
+
+17.0
+3.3
+
+0.2
+1. 6
+2.0
+3.2
+10. 6
+12. 4
+6.5
+3. 4
+3.4
+7.4
+20.1
+19.4
+7.2
+
+2.2
+1.1
+0.4
+0.2
+0.9
+2.2
+2.4
+6.2
+12.4
+7.6
+5. 6
+4.9
+7.6
+19.5
+19.3
+7.6
+
+1.7
+2.0
+2.8
+2. 2
+1.9
+1.8 ... .... .... ..... ... .
+1.2
+1. 8
+1.6
+2.2
+1.9
+1. 2
+1.9
+1.7 .... ..
+0.4
+0.2 ........................ .. ................ .... ..
+0.4 ........... ... ...... . .... ............................ ..
+0. 8
+0.8
+0.5 ...... . ...... ..... ..................... ..
+1.0
+0.8 .... .. ... .... .................................. .
+2. 1
+0.8
+0.2
+0. 3 ................................ ..
+3.7
+2.0
+0.9 . .. .................................... ..
+9.0
+6. 4
+2. 5
+O. 8
+O. 7
+11.5
+10.4
+8.8
+7.8
+5. 6 '''3:i;'
+8.0
+10.0
+12.5
+14. 1
+13.0
+13. 6
+9. 4
+6.9
+12.5
+5.6
+6. 8
+7. 6
+7.2
+13. 0
+15. 4
+16.0
+8. 6
+4. 1
+8.7
+10. 2
+18. 1
+23. 0
+22. 7
+21. 9
+28.3
+36. 2
+50.
+18.8
+19.0
+19. 7
+18. 8
+21. 3
+25.4
+31. 1
+29. 3
+12. 5
+13. 6
+8. 5
+12. 1
+8.3
+19.5
+19. 2
+17.8
+18. 3
+14. 5
+7.5
+9. 4
+6.9
+5. 3
+5.6
+3.6
+3.8
+5. 2
+12. 5
+
+'''i:o' ::::::: ::::::
+
+°
+
+"
+
+r.....--
+
+~
+
+Wind speed and height.-A general idea of how the wind speed increases with hci~ht is given by Table Ill. In
+most cases the increase in wind speed is fairly rapid up to the 1 or 1i kilometer (1 Illile) level. Above the 1.5 kilometer (1 mile) level the increase in wind speed is more gradual.
+IlI.-Mean velocity o/winds/rom each 0/ the 16 points at each level, year.
+
+TABLE
+
+1526 (surface).
+
+750
+
+1,000
+
+1,250
+
+2,000
+
+1,500
+
+2,500
+
+3,000
+
+3,500
+
+4,000
+
+4,500
+
+5,000
+
+----Wind
+INum- ~Iean Nnm- Mean Num- Mean Nnm- Mean Num- Mean Num- Mean
+ber
+ber
+direction.
+ber
+ber
+ber
+,-re_ ber
+YCvevcve\'eolob- locity, olob- locity, olob- locity, olob- locity, olob- locity, olob- Jocity,
+servo.- m.p. s . serva- m . p. s. serva- m.p.s. serva- m.p.s. serva- m.p.s. servo.- m.p.s.
+tions.
+tions.
+tions.
+tions.
+tions.
+tions.
+
+Num- Mean Num- Mean
+ber
+ber
+vcveolob- locity. olob- Jocity,
+ser vs,- m.p.s. serva- m.p.s.
+tions.
+tions.
+
+Num- Mean Num- Mean N~~- Mean
+ber
+ber
+veolob- ve- olob- locity, olob- v.eserva.- locity. servo.- m.p.s. serva- loctty,
+m.p.s.
+tions. m. p . s .
+tions.
+tiens.
+
+Number Mean
+olob- vescrya- locity,
+m.p.s.
+tions.
+
+- - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -
+
+N-··----···· 1 1
+NNE _ . . .... _.....
+NE_._......
+2
+ENE __ ' __ '_ I
+2
+E_._ .. _. . _..
+20
+ESE_ .......
+15
+SE .... _... _ Bl
+SSE __ . . _.. _ 55
+S __._ .. _. .. . .
+43
+SSW_ . . __ ..
+4
+SW .. _. . _.. _ 12
+WSW __ .....
+20
+W_ . _._ ..... .
+51
+WNW ...... 152
+NW .. _..... .
+98
+NNW __ .... .
+19
+
+2.B
+
+3.6
+4.7
+6.6
+6.5
+8.0
+7.7
+6.5
+5.7
+5.9
+6.6
+8. 0
+10.7
+10.0
+6.8
+
+14
+1
+9
+11
+IB
+59
+69
+36
+19
+19
+41
+112
+lOB
+40
+
+9.2
+
+.. -il:5"
+8.7
+7.4
+9.3
+10.9
+12.0
+11.5
+10.9
+10.0
+12.0
+13. 1
+13.3
+10.9
+
+12
+6
+2
+1
+5
+12
+13
+34
+
+68
+
+42
+31
+27
+42
+
+107
+106
+42
+
+11. 9
+12.8
+7.2
+10.2
+
+10.4
+
+9. 3
+9.1
+11.7
+1O.B
+14.0
+13.5
+15. 3
+14.6
+13.8
+12.4
+12.9
+
+9
+6
+2
+2
+4
+5
+11
+19
+47
+60
+42
+29
+45
+98
+102
+39
+
+11.3
+10
+10.7
+9
+1
+7.9
+10.4 . . __
+4
+8.1
+4
+9.B
+4
+9.3
+9.4
+10
+32
+13.4
+52
+14.4
+14.8
+50
+34
+15. 8
+51
+17. 3
+16.3
+95
+96
+15.4
+47
+13.5
+
+.-
+
+12
+10.4
+10. 5
+14.5
+13.2 ...... ....... . ..... . ...... . ..... . .....
+8
+5
+3
+7
+10.1
+10.3
+13.9
+2
+14.4
+17.2
+8
+5
+2
+1
+24.5 ...... ......
+... ,_ . . ... -.. ...... ....... ...... . . . .... -.... . . ...... ...... . .. ....
+. . . .... . .....
+.... _-. .... ,. . ... ... . .... . . ...... . ..... . ... . .. ...... . ...... ...... . ...... ...... . ...... . .. .. . ..-'" .
+. ....
+8.0
+2
+15.0 .. ... . .. .. ... . ..... .... ... ...... . ...... . ..... . ... .. . . ..... . . . .. . . . ..... . .....
+10.1 ...... ... ... . . ... .. . ... .. . . ..... . ...... ..... - . ... -.. ...... ..--.,.
+.. ..... ... . .. . .....
+1
+9.0
+18.3 .. .... ....... . ..... . ...... . _ .... . ...... ..... . . ... ... . ..... . .. ...
+9.9
+1
+7. 2
+4
+10.4 ...... -.. _ ... . _
+.... . ...... ...... ....... . _ .... . .. . .. . ...... . .. .... . ..... . .....
+12.8 ...... ....... ...... . . ..... ...... . . ..... . ..... . .....
+14.0
+11
+12.5
+12.5
+2
+3
+16. 2
+28
+17.4
+14.9
+38
+15
+19.1
+22.8
+6
+1
+2-1.6 ...... ....... . ..... . ... . .
+9.6
+9.4
+7.1
+
+,,0."
+
+"'-"
+
+15. 9
+15.3
+18.9
+16.9
+16.4
+12. 9
+
+54
+33
+78
+85
+77
+30
+
+15.6
+16. 0
+19.9
+17.1
+18. 1
+13.8
+
+51
+26
+
+83
+68
+66
+19
+
+16. 8
+18.1
+21. 4
+17.6
+19. 3
+14.5
+
+35
+36
+61
+5B
+39
+15
+
+18. 3
+21.2
+21. 7
+19.4
+20.1
+17.5
+
+23
+26
+37
+43
+23
+6
+
+20.3
+21. 7
+22.2
+20.7
+21.1
+22.2
+
+10
+
+17
+
+30
+33
+9
+4
+
+22.2
+22.6
+22.4
+24.3
+19.7
+21.6
+
+4
+5
+21
+17
+7
+3
+
+19.4
+25.5
+24.2
+23.7
+24.6
+22.3
+
+3
+1
+12
+3
+2
+3
+
+22.7
+18.0
+26.2
+27.8
+23.7
+25.7
+
+;,.l'j
+~
+
+0
+~
+
+;,.-
+
+cj
+H
+.....
+0
+~
+
+~
+
+en
+
+46
+
+AERONAUTICS.
+
+TURBULENCE, ETC.
+
+Effect oj obstructions on wind.-The character of the wind with
+respect to gustiness also varies with height. The height to which
+~ustiness, arising from variations in level of the earth's surface, trees,
+buildings, and such obstructions, occurs, depends on the abruptnes
+and extent of the change in level and on the wind speed and direction.
+Over a plain where the changes in level are owing largely to buildings
+and trees, this kind of gustiness has probably largely disappeared
+at a height of 50 to 75 met{'rs. Over rolling country, over more
+broken hilly surface, and over mountainous re~ions , the atmospheric
+disturbances caused by the irregularities of the earth's surface extend to greater and greater heights. Limited experience in the exploration of these topographic effects in the atmosJ>here indicates
+that they may extend above the general ground level to more than
+three times the height of the hill or mountain causing them.
+TU1'bulence due to insolation.-Turbulence of the lower air resulting
+from insolation and the variation from place to place of the nature
+of the earth's surface, its ability to absorb or reHect solar radiation
+being considered, extends to heights varying with the hour of the
+day and with the season. On a clear summer day this turbulence
+may reach a height of 2 kilometers (1 t miles); on a clear winter day
+1.5 kilometers, or a little less than 1 mile. The temperature distribution in clear weather and at different hei
+throughout the
+24 hours, Figures 20 and 21, indicates these TI. 'ts ~uite clearly.
+The afternoon maximum. of temperature, which owes Its existence
+to the heating of the earth's surface and the accompanying atmospheric turbulence in the lower strata at this time, disappears between
+the 1.5 and 2 kilometer levels in the summer monthS, and between
+the 1 and 1.5 kilometer levels in the winter months. Figures 20
+and 21 are based on data obtained in one year's observations at
+Mount Weather. These data are more fully discussed in the Bulletin of the MOWlt Weather Ob ervatory volwne 6, part 5.
+Flying levels and tU1'bulence.-It is probable that an airplane flying
+at the heights indicated above would not encounter turbulence or
+"roughness" of air of the types under consideration. It may be
+added that many storms, such as thunderstorms, tornadoes, hurricanes, and cyclones of the temperate r egions may be safely passed
+o,er at a height of 3 kilometers (2 miles). Most of these storms
+occur entirely below the 5 kilometer (3 mile) level.
+
+=
+
+(
+
+,
+
+I
+
+47
+
+AERONAUTICS.
+
+P. M.
+
+A.t:I\.
+12
+
+I
+
+~
+
+.2' 3
+
+5
+
+6
+
+7
+
+9 " 01112 ,.
+
+8
+
+f
+
+3
+
+~
+
+5
+
+6
+
+7
+
+8
+
+9 '0 I' 12
+
+TEMP
+
+TEMP
+
+·c
+
+·c
+
+30PO M.
+
+4
+
+i'r-.,
+
+i.--'~
+
+..........
+
+i'.~ ~~
+
+i-.
+
+V
+
+1""
+
+2
+
+2500 M.
+
+7
+
+t\
+
+-I-
+
+[I .....
+6"",
+
+l'
+
+r-
+
+s
+:1<
+
+1/
+'13
+
+100 ",. .
+I.--+- joo... ",,"V
+
+' 10
+
+"'r--, r-...
+
+'"""
+
+V1: 00
+
+I' I-'
+
+V
+
+V
+
+I"'"" ~l.-- .....
+
+V .....
+
+V
+
+i!
+
+l-
+
+1---;""
+
+I'r-. 1-l--'
+
+12
+11
+
+.... ,.....
+V'
+
+i'
+
+r-.I'-,
+
+1/
+"pO M.
+
+'21
+
+I---
+
+1/
+1/
+
+19
+
+-i
+
+".... [\ 26
+
+~C
+
+'6
+
+, 1\
+
+,4
+
+16
+
+1.S
+I~
+
+13
+
+I'
+
+~
+~i'
+
+V
+
+,
+
+15-
+
+1'"r\
+
+17
+
+\
+
+J
+
+M.
+
+e
+
+\
+
+i
+S ' R
+
+9
+
+I'--i'
+
+l- I--- r--r\
+I/ I--"
+
+20
+
+'8
+
+r....
+
+j...;V
+
+I' l- V
+
+.....
+
+vV'
+
+V
+j
+
+r--l--'
+
+.
+
+,
+
+O'B.
+
+FIG. 20.-DiUInal distribution of temperatUIe for the summer hal! of the year at difierent
+levels above Mount Weather.
+
+48
+
+AERONAUTICS.
+
+A . M.
+12 I
+
+2
+
+J
+
+•
+
+5
+
+G
+
+P. M.
+
+7
+
+8
+
+9
+
+10 II
+
+12 I
+
+2
+
+3
+
+•
+
+5
+
+6
+
+7
+
+8
+
+9 10 · "
+
+IZ
+
+,EMP.
+
+TEMP.
+
+·c
+
+·c
+
+3
+
+V
+
+3Po
+
+~
+
+Ml/
+
+I--'V
+
+1\
+
+5C 0
+
+-2
+
+V
+
+_) I
+
+r-..
+
+"
+
+V
+
+5
+
+tI
+
+....-1--' '-
+
+r\
+]\..
+
+20PO M .
+V-
+
+I '1- l-
+
+"I'-
+
+V
+
+~'"
+
+1\1--' V
+
+1
+"1\
+
+-4
+' -5
+
+J
+
+\
+
+1
+-1
+
+l'-..
+
+V
+
+I'-~
+
+1
+/
+
+I'
+0
+
+~ l"""- t....
+
+15PO M . j...-
+
+l- I-
+
+-I
+
+1'\
+I"
+
+"-
+
+r"-.r---
+
+-2
+
+r-- ~V
+
+V
+
+1'- ~V
+t-- r--
+
+I..-- r-
+
+1/
+
+1000 M .
+
+t-..
+
+V
+
+t- ~
+
+7
+
+1/
+
+Ii
+
+6
+
+J
+V
+
+5
+
+4
+
+!/
+
+3
+5
+
+2
+1
+
+RI AC
+
+26 M .
+
+"t--."
+
+j
+l/V
+
+j/
+2
+
+-~
+
+V
+
+4
+
+VJ
+
+I\.
+
+2
+
+f\.
+I'
+
+I--' 1'\
+
+V
+
+1....-
+
+1'- l'-. l- I-
+
+I)
+
+V
+
+V
+
+1/
+
+1"-
+
+V
+
+8['.
+
+I
+
+1"-1-V
+
+t--.)'..
+
+1
+
+r"-. t-...
+
+r\
+
+0
+
+1
+\
+
+1\
+
+1\
+\
+
+1\
+
+1'1-
+
+0
+
+0'8.
+F IG. 21.-Diurnal distribution of temperature for the winter half of the year at diil'erent
+levels above Mount Weather.
+
+49
+
+AERON AUTICS.
+
+Temperature change with height.I-Figures 22, 23, and 24 are based
+on temperature observations at different heights above Mount
+Weather. Figure 22 shows the variations in temperature at the
+earth's surlace and at higher levels, which may be expected during
+
+FIG. 22.-Mean free air temperatures above Mount Weatber, Va. (Heigbts in meters.)
+"
+~
+
+~
+
+",'
+
+r.; :1\
+
+~ ::;
+
+'.'
+
+..
+
+'.
+
+\
+
+\
+....
+
+\ \ \
+\
+··\\.:-1~r-1'\~~1."- ,,
+I.
+.. n:.,
+:~~
+
+.. !~
+
+• •
+
+"
+
+..
+,.
+
+..
+
+..
+..
+
+..
+
+..
+
+\
+
+.. -~;F,;.i'f\.
+"
+
+'.
+
+\
+~~
+
+II .
+
+1\
+
+'\
+
+i\ \
+\
+
+1\
+
+'\
+
+..
+
+1\
+
+\
+
+\
+
+... .. I~
+:.;;
+Ji'.t
+
+\
+
+\
+
+'"
+
+'
+
+.
+
+OJ
+
+1-- '
+
+l~
+
+'.'
+
+.. .
+. :{. I~; f-;- ' ..
+)
+
+1
+\
+
+\
+:::'r- l~ r::-!!,'~"t--;:- l1A ...
+.. ... .. ...
+
+,.
+
+. ..
+
+\
+
+[\
+
+..
+
+..
+
+1\
+
+\
+
+~
+
+\
+
+..
+
+\
+
+,..
+
+J~~~:l=~~~~lL
+
+."
+
+~111
+
+'\
+
+..
+..
+
+J'
+
+\
+
+\
+
+\
+
+\
+
+\
+
+\
+
+;{~~
+
+~
+
+\ .
+
+"
+"
+
+..
+
+'"
+l~ ~t~ 11;~ r;;-'
+:~
+
+FIG. 23.-Temperature distribution in "hiJ(bs" observed at Mount Weather.
+(Heights in :tan.)
+
+the year. Figures 23 and 24 are a more detailed study of the vertical temperature distribution in different quadrants of the high and of
+the low pressure areas, respectively. They indicate that, even in
+1 The data used in paragraphs 15 to 18, inclusive, and in paragrapb 22 are based on five years' observa·
+tions at Mount Weather, Va. See Bulletin of the Mount Weather Observatory, vol. 6, pt. 4.
+
+22417°-17--4
+
+50
+
+AERONAUTICS.
+
+the mean, the temferature does not always decrease with height.
+Strong inversions 0 temperature below the 2-kilometer level are to
+be expected during the wmter half of the year, especially in the highpressure area. As has been shown in Part 1, pp. 14 and 15, this
+type of vertical temperature distribution indicates very stable atmospheric equilibrium. In the summer half of the year the temperature
+
+--
+
+r.; ~
+~~
+
+n
+
+1\
+
+..
+
+r\ \
+I
+
+"\
+
+i\
+
+ICr--TUI'SCAlCClItT
+
+.
+
+~\ \
+
+..
+..
+
+..
+.. ~ ':;-Mi'v.- ~!~ ..
+..
+
+,u
+
+1\
+\
+
+:.
+
+..
+\
+
+1\
+
+1\
+
+f\
+
+'\
+
+1\
+
+\
+
+)
+
+-OA
+
+'"
+
+1\
+.
+
+\
+
+t-;;- .•
+
+\
+
+\
+-
+
+UII,t.,Af\lRCOtS1'1U"o
+1 1,1110l0I,'' 1.0 .. ,
+
+1\
+
+.\-
+
+:II
+
+..
+
+i
+
+\
+
+. . I~
+
+1\
+
+\
+
+\
+
+1\ \
+
+r.;-- .
+.. l!~.. .
+
+\
+
+\
+
+1\ -
+
+.:~
+';J~ :1'.< !:;- ~
+'.'
+
+FIG. 24.-Temperature distribution in "Lows" observed at Mount Weather. (Heights in kIn:)
+
+1
+
+change with height is more rapid in this region of the atmosphere,
+espeCially in the first few hundred meters than in the winter. Inversions of temperature are infrequent and of more or less accidental
+types. The condition of equilibrium is therefore less stable in the
+summer than in the winter months, and turbulence is more likely to
+occur.
+
+o
+

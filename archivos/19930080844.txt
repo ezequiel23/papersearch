@@ -1,0 +1,340 @@
+N 52 52038
+TECHNICAL !COTES.
+NATIONAL ADVISORY COMM
+ITTEE
+
+~OR
+
+AERONAUTICS.
+
+c
+No. 36
+
+N.A.C.A. LANGLEY FIELD WIND TUNNEL APPARATUS.
+THE TILTING MANOMETER.
+
+By
+
+F. H. Norton and D. L. Bacon,
+Aerodynamical Laborat ory ~ N. A. C. A.,
+La!lgley Field, -ITa.
+
+January, 1921
+
+•
+
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+TECHNI CAL NOTE NO . 36.
+N.A.C.A . LANGLEY FIELD WIND TUNNE L APPARATUS.
+
+THE TILTING MAN OMETER .
+By
+
+F. H. Norton and D. L. Bacon,
+Aerodynamical Laboratory, N.A.C.A.,
+Langley Field, Va.
+
+The following is a description of a tilti ng manometer
+designe d by the technical staff of the National Advisory
+Committee for Aeronautics to mee t the requir e ments of a
+manometer for use in the Wind Tunne l of the Langley Memorial Aeronautical Laboratory.
+T· ... . 8 gauge wa s designe d to me et the requir eme nts of a
+manollieter for use in connection with a static pressure
+plate, to indic ate the wi nd spee d in the tunnel.
+requirements are:
+
+These
+
+first, that the sensitivity of the
+
+gauge may b e made inversely proportional to the pressure
+to b e measuredj second, that the gauge may be accurately
+and quic kly set for any desired pressure; and third,
+that When set at the desired pressure the extent of variation between th e existing and the de sired pressures
+may be readily estimated.
+
+As the pressure measured be-
+
+tween the statiC plate in the tunnel wall, and the air
+
+2
+
+-
+
+in the tun.ne l building is not
+
+simple function of the air
+
+C::I.
+
+speed, it is uoua1 to ca1ibra'te the reedings of such pressure gaubes
+readings
+
+agai~st
+
+~rom
+
+air streaulo
+
+actual air speed or impact pressure
+
+a fitot tube placed in the center of the
+Because
+
+0 f
+
+thi 8 c.et il0d of <.1r'.) i t:r . . . ry cali bra-
+
+t ion , it is ::lot essent ial
+be adapted to
+
+read~ng
+
+this can be easily
+
+th'1.-~
+
+the pre sS. . lre gauge should
+
+absolute pressure values, although
+
+co~puted fro~ t~e
+
+angles in the present
+
+ga"l.1ge.
+The
+
+•
+
+mech~ni~al
+
+constru ction of the
+
+see n fro!!. the c_ru\ving.
+
+The cyl indr i cal
+
+g~ug e
+
+is yeadily
+
+alco~ol
+
+re servo ir
+
+A is machined in one extremity of the aluminium Gl.rm B
+a~ich
+
+is arranged to
+
+graduated sector D.
+of
+
+~Le
+
+passing
+
+s~ing abo~t
+
+the center C over the
+
+A glass tube leads from the center
+
+reservoir to the opposite extremity of the arm,
+~hrough
+
+the axis of
+
+~otation.
+
+The sector is grad-
+
+uated in de6rees, the zero graduation corresponding to a
+
+3-:/2 0 inclination of the tube from the horizontal,
+Nhich is found to be the
+meniscus of the alcohol.
+is connected to
+
+lo~est
+
+angle to give a good
+
+The upper end of the
+
+t~e st~tic ~ressure
+
+gl~ss
+
+tube
+
+plate on tL8 tunnel
+
+Ra lJ. ovhile the uir in ~he reservoir is subjected 'to the
+
+pressure outside of the tunnel.
+
+The reservoir is fitted
+
+fiith filling plugs and zero adjustment sereno
+up the gauge alcohol is poured in
+un'til 'the
+
+~eniscus
+
+~ith
+
+In setting
+
+the scale at zero
+
+rises to a referenca line
+
+~t
+
+C, the
+
+- 3 -
+
+center o f
+
+ro~~t io ~ .
+
+determined
+
+f=o~
+a~ r
+
+the desired
+~t u
+
+speed
+
+t he
+
+In use
+
+a r~
+
+is
+
+c_1ibr~tion ~hurt,
+
+speed.
+
+3~ch
+
+~ha
+
+SE t
+
+at
+
+~n
+
+angle ,
+
+correclponding to
+
+The propeller is then oper uted
+
+that t he &lcohol
+
+ag~ in
+
+rises to the ref-
+
+erence mark .
+It ;'1 i11
+
+seen by a mO!:lent I s consiciera t ion that "the
+
+;,)6
+
+absolute head may
+
+be
+
+repr esented. by:
+
+~s
+
+fihere h is he _ of ,""l co no l:..t.
+.I,d
+cen~er
+
+o f reservoir
+
+"t o
+
+ce~ter
+
+"the distc..nce fro nl the
+
+of rotation} and hI
+
+is t he
+
+vertical distance from the center of the reservoir to
+th e surface of the contained liquid (h1 = -t
+stant) ; und
+
+sin 3t
+
+O
+
+= con-
+
+the sensitivity, conside ring a vertical
+
+th~t
+
+1
+
+thus sat issin cc
+factcrily approaching the sensitivity require me nts except
+tube a s having unit sensitivity, i s
+
+for the very lO ive st p ressures.
+In order that the gauge
+
+IDa.y
+
+be set quickly to o,ny
+
+given s?eed a fter cQlibration a number of adjustable stops
+dye placea along "the scale a t every ten
+so that the nrm
+
+c ~n
+
+~ iles
+
+per hour
+
+be easily snupped in"to the correct
+
+posi tlon .
+Thl S manometer is qui0k to adjust , is easy "to re ad ,
+
+alwa.ys has t:3e meniscus in the same position, and a CC'.lra"tely
+
+indi~ates
+
+tively compact
+
+a
+
+1~r6e
+
+ran6e
+
+ins t ru~e ~t.
+
+of t ~i r
+
+speeds in a compara -
+
+•
+

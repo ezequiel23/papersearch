@@ -1,0 +1,1069 @@
+~-
+
+.
+,.. .:
+
+—.. .:. :.-.:....
+,.
+.“.
+
+.;
+
+.-
+
+”,
+
+...... . .
+
+.. . . -
+
+q?giy
+
+.
+
+“...
+:
+
+., .-.
+
+““.
+
+.,. ‘
+
+.-..,
+F.J<
+,,
+
+:,” .:-”
+
+-.
+.. .;.
+.
+
+.
+
+. ..”-1
+
+-,*..’:.
+
+,.
+
+!.
+
+.
+
+.
+
+.
+
+P.
+
+----
+
+---- .. .. . . ... .
+
+
+q
+
+..
+
+. ----
+
+,.-.
+
+*.
+
+~.;
+. .
+
+. . . .. .--
+
+.,
+
+.
+
+.-,:’
+
+...
+
+;.”’’”-””
+
+..-
+
+... ... .... .-
+
+.
+. .
+
+
+
+.
+
+REPORT No. 54
+
+EFFECT OF TEMPERATURE AND PRESSURE
+THE SPARKING VOLTAGE
+v
+.
+
+.
+
+.
+
+‘NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+.
+PREPIUNT FROM FIFTH ANNiML REPORT
+
+/-.
+.“5.,
+.
+
+.
+
+..-.
+.
+
+,. . ..
+. .
+
+.,
+‘
+
+,. “.
+,.
+.
+
+WASHINGTON
+‘
+.
+
+GOVERNMENT
+
+PRINTING
+
+OFFKX
+
+1920
+
+.
+
+.
+
+T....-
+
+,“
+
+.
+
+.,, ,,.,_>,~,,.””,
+,.
+
+..iii@gv[@ii-”r-
+
+.>:..7=.
+
+.
+
+—..
+
+—
+1
+
+REPORT No. 54
+q
+
+EFFECT OF TEMPERATURE
+THE SPARKING
+
+AND PRESSURE ON
+VOLTAGE”
+
+v
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+—- —.
+
+.— z
+
+r
+
+7
+-.
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+F’
+
+.-—-
+
+q.
+
+.
+
+,*
+
+-,
+
+‘\
+,
+
+.;’+
+
+-“
+
+-\.
+
+.
+
+1.-.
+—..
+
+“
+
+..
+
+.*
+
+GOVERNMENT
+
+._3
+
+PBINTING
+1920
+
+/..
+----- -.
+c.
+
+,
+
+OFFICE
+
+.
+
+.
+
+,
+
+--==- -.
+
+GE- -
+
+—
+
+. ....
+
+. . . ..... . ... . . . ..
+
+.
+
+.. ..
+
+. .: ------- :..
+- ---- .-
+
+REPORT No. 54
+.
+
+_#--—
+
+-J
+EFFECT OF TEMPERATURE
+___
+
+AND PRESSURE ON
+
+THE SPARKING VOLTAGE
+,
+,*--
+
+BY
+,
+
+—
+
+-- .
+
+.-
+
+L. B. LOEB and F. B. SILSBEE
+
+. .......:, ,.
+
+,..
+169631-&l
+
+3
+
+I
+
+‘“>
+
+..—
+
+r.
+
+.. ._
+
+‘.
+
+-- —--—-.
+
+.
+
+-—
+
+c
+
+‘-
+
+—
+
+REPORT No. 54.
+.—
+
+EFFECf! OF TEMPERATURE AND PRESSURE ON THE” SPARKING VOLTAGE>
+By L. B’. LOEB
+
+and
+
+F. B. SIL8BEE.
+
+RIkXJM~.
+
+The investigation described in -this report was’ conducted at the Bureau of Standards for
+the National Advisory Committee for Aeronautics,
+The spark discharge used. to fire an internal combustion engine””
+must pass through the
+compressed and heated mixture which occupies the engine cylindir near tie” “end of the compression stroke. The object of the experiments described in this report was to determine
+how the voltage necessary to produce such a spark discharge varies with the pressure and
+temperature of the gas. The results are of value in showing what voltage an ignition system
+is required to deliver in order to produce a spark and in enabling one to set up in the laboratory
+a convenient experiments [ gap electrically “equivalent to that in the engine cylinder.
+Measurements were made”on”spark plugs scriyred into. a bomb containing compressed ah,
+and inserted in. an electric furnace so that both pressure and temperature could be varied m
+desired. The sparking voltages were measured on fow plugs, having different electrodes, at
+pressuies up to 100 pounds per square inch and temperatures up to 500° C. Both 60-cycle
+alternating current and current obtained from a magneto were used. The observed Voltagm
+are plotted again:! yressure in plots 2, 3, 4, and 7, and against density in plot 5.
+The results show that the sparking voltage isa linear function of the density of the gag and
+depends upon pressge and temperature only as they affect the detiity, i. e.,”hiating a gas at
+ccmstant volume ddes not ,affect the sparking voltage. For q typical spark plug gap set at
+0.5 mm. (0.020=imch)__theparking voltage was found to be 2,800 volts at atmospheric density
+s
+and 9,4oo volts at a density five times as great,
+The data given in this report were obtained on air only, The Ies~lts.of measu;emente made
+elsewhere indicate that the sparking voltage in.an explosive mixture of gasoline and air is about
+10 per cent loss than in.pure air, and that the change in voltage is proportional to the amount
+of gasoline present.
+
+c
+
+--
+
+-..-..: ...-
+
+:.. .—
+
+INTRODUCTION.
+
+This report describes some experiments made to determin~ the change of spark potential
+with pressure and temperature, in order to determine the necessary minimum potential for
+causing sparks to pass in a gasoline engine whose compression ratio was known and in which
+the temperature of the gases before ignition could be estimated.
+.
+According to the simple theory (J. J. Thomson, Conduction of Electricity through Gases;
+Townsend, Electricity in Gases; and Peek, Transactions of the herican Institute of Electrical
+Enginegrs, 1910–1916) the sparking potential depends solely on the density of the gas between
+the ele~rodes for a given fixed pair of electrodes, i, e,, on the total number of molecules between
+the electrodes, This has been investigated over a considerable range of pressures, spark distances, and forms of electrodes by numerous observers, but only three investigators have
+studied the effect of temperature, and themonly over a limited range. They all found tlia$ the
+sparking potential depended soleiy on the density of the gas over the range studied.
+In the study of airplane spark plugs it seemed advisable to determine whether this law held
+fo~ pr~ures and temperatures which might occur in the cylinders of a high compression engine
+...
+1This
+
+Rsport was confidentially circulat ed durtng the war es Bureau of Standards Asrormutio Pii8r
+
+159 fj31-20-No,
+
+54—2
+
+Pl&s
+
+..
+... -—
+
+.
+——
+...
+
+L-- . =
+_ . ..”-..-=.
+.
+
+Report No. 14.”
+
+.5
+
+—
+
+6
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+A.DVISOIW
+
+COMMITTEE
+
+FOR ~RONA~mCs.
+
+just before the ignition of the Charg+ In airplane engines t.b mammurn compression
+pressures undel normal conditions range from 90 to 130 pounds per squaro inch with tcmpmnt.urm
+up to 300’c.
+APPARATUS. ““”-””
+
+The experiments were conductad .a.sfollows: b.. or&nary &inch Titan A. C. porcelain
+plug was screwed i~to a steel bomb about 25 cm. (10 inches) long, having the dmign
+indicated in figure 1. T~lerewas a thick gk+.ss
+window opposite the sparking tcrrnintilswhen
+the plug was screwed in position. A high-pressure air tank cmmected to the bomb through
+suitable valves served to regulate the air pressure to any d@red value. Tmnpmatu~es wero
+measured by a Pt, ??t-Rh thmmocoupie, 13,S. W5, which was inserted in n steel tul.wscaled at
+one end with walls ~ mm. (0.020 inch) thick. This was screwed into the bomb so that its
+inner end was within 1 cm. of the sparking termina~sof the plug. The bomb wns placed in
+a cylindrical electric resistance furnace and packed with asbestos woo~, so that only the porceh in
+insulato~was exposed at one end, while the window projected out tibout 5 cm. (2 inches) beyond
+the other end.
+Sixty-cycle voltage was supplied through a step-up transformer having a ratio of 200:1
+and applied between the central electrode and the bomb, A resistance of z20,000 ohms was
+put in se] ies with the plug to avoid an excessive-current and conaequcn t burning of the terminals
+when tho spark passed. The voltage was read on a voltmeter connected to the low-tension side
+of an auxiliary step-down trm.sformet. The passnga of the spark was made cviclent both by
+the kick of the voltmeter and by the appearance of the spark in the bomb, Ionization was
+provided for by the uso of a half milligram sample of radium in most of the eipcrimcnts, while
+in some a .50-mgg. sample, placed j ust below the electric ful nace, was also used, This ionization
+served to eliminate the complicatirug effect of spark “ lag” and mado the readings much more
+consistent and reliable, No sti iking difference in the readings could be no tired wit~hthe two
+diffel ent samples.
+The tests weIe run on three Titan plu~: No. 1 had the regukw terminals-of Ni-bfn wire
+1.3 mm. (0.05] inch) in diameter set at. right angles.qnd separ~ted by 1$ mm. (0.071 ..@h);
+No. 2 was a Titan plug with simiIar terminals 3.13 mm. (0.123 inch) in diameter rounded at the
+ends, separated by 1.2 mm. (0.047 inch); No. 3 was a plug like No. 1 but with a distanco of 2.2
+mm. (0.086 inch) betweqn the wires, In each case the spark passed between the cylindrical
+surfaces of the wires near the point of closest proximity.
+PROCEDURE.
+
+The readings were taken as follows: The. temperature -was run up to the desired valuo
+and held constant from 15 minutw to half an hour. There were. fluctuations at the higher
+temperatures of as much as 10 degrees eitk.way
+so that a mean tempcrat,ure was chosen
+as represemti.ng
+the hue conditions. The breakdown voltage of the gap was then detmnincd
+by at least 10 trials for each pressure. The pressure.. as increased in steps of 10 pounds per
+w
+square inch. The pressures were re~d by two small pressure grwgcs whose ranges were from
+O to 100 pounds per square inch. The spark potentials were read to as high a pressure as it.
+\\ras
+possible to obtain without the sparks passing over the outside of the insul~tor. Then the
+pressure was reduced in steps of 20 pounds and readings again rnnde. As a whole thg return
+readings chacked the first readings well. This can be seen from the plots where miwimum
+sparking voltage is plotted against the pressure for each temperature. As tho volts@%’hich
+could be used without sparking over the outside of the porcelain was about 19,000 volts, !}o
+voltages were measured above this. The pressure range over which the memuremcmta could
+be carried out starte~ from 60 pounds nt room temperature and increased until at 200° C., or
+thereabouts, pressures of 100 pounds could be used.
+From then on the pressures-wereIi&ted with increasing temperatures by n l~ewphcrpnrnon
+which may have been caused by electron emission from the hot terminals at high i-oltagr.
+Under these conditions the spark was replaced by a sort of purple brush dischmge ($gona]
+WN lh came m gradually as the voltage was increased.
+—.
+
+.
+
+,,
+
+a
+
+ls\v’’’’’’’’’~\\v
+
+I
+
+1
+
+Window
+
+Q\\\\\\\
+\\\\\ . . ..\\\4v . . . ..\ . . . . ..4v
+\.
+.
+
+‘J) .WUG ‘“*
+
+‘n *‘n c.
+
+up*
+
+(.++pl..
+—
+
+mwre
+
+Tonk.
+
+SPARK PLUG BOW”.
+
+Fig No. /
+m
+
+I
+
+1
+
+1./
+
+/
+
+k-
+
+I
+
+1
+
+1
+
+I
+
+I
+
+Vo/foge
+
+toberneosured.
++++3’+++
+
+i
+
+i
+
+.i
+
+I
+
+1
+
+I
+
+Tmnsforn7er W
+heuf%g f/YomenA
+
+KENOTRO#V SETP/of No. 5
+
+Densiigreferredfoof>of /ofm.
+
+and
+
+273”AAs.
+
+fig
+
+Uf?
+
+No. 6
+.
+
+Y
+
+.ps.
+
+13$
+
+,..
+
+I
+
+I
+
+q
+
+PLUG NO. I
+1 wires i3mm. cliff
+L8mm. qup.
+
+,
+
+;,
+
+I
+
+I
+
+I
+.
+
+PLUG NL22
+L rods 313mm.dfu.
+f.2mm.gOp.
+
+/
+
+x
+37r .44s.
+
+/
+
+/f
+
+.<
+
+“’
+
+.900= m
+A
+
+x
+/y
+
+Y/
+
+P
+{
+
+.
+
+o
+
+/
+
+/
+/
+
+/
+
+/
+
+1
+1
+
+/
+
+x
+
+0“
+
+/
+<
+
+/
+
+J.--”
+~,
+
+/
+e
+
+/
+
+n
+
+/
+
+/
+
+/
+
+/.
+
+9 //
+/“
+
+637 Abs.
+
+/
+
+~
+
+‘
+
+9 -+
+
+#l..
+
+2
+PlotNo.Z
+
+J
+4
+S“6
+Ab+ fiessure Afmosphcres.
+
+2
+
+7
+
+,
+
+1
+
+20
+
+I
+
+I I II AA:
+
+I
+
+I
+
+I
+
+I
+#
+
+170?’Aa4.
+
+II
+
+I
+
+I
+
+II ‘ I I
+
+?2mm”@=f” II
+
+,
+
+1
+
+2
+
+J
+
+AAT./%ss-
+
+I
+
+1
+
+>
+
+4
+
+Ahspheres.
+
+,.
+
+.I
+
+1
+
+I
+
+i
+
+t
+
+I
+7
+
+3
+
+4
+
+J
+
+Abs FhessursAtmospheres :
+
+1
+
+h
+
+7
+
+.
+. ..
+
+EFFECT
+
+OF TEMPERATURE
+
+AND PRESSURE
+
+ON THE
+
+SPARKING
+
+9
+
+VOLTAGE.
+
+It was at first thought that this glow discharge might be an important factor in causing
+ignition trouble, Further measurements were therefore made in the. same apparatus but
+with a B“osch D–6 magneto as a source of voltage. With this arrangement no ~rush discharge
+could be detected although the observations were carried to 760° C: Above f300° C. the electrical conductivity of the porcelain insulator was great enough to prevent the magneto from
+sparking at the higher pressures, but there was no sign of brush discharge under any conditions,
+It is probable that a certain time is required for such a discharge to form and that the very
+sudden application of voltage produced. by the magneto does not admit of this.
+/.
+
+-“”: ----
+
+“
+—
+
+.-
+
+RESULTS.
+
+The curves plotted between maximum sparking potentials in kilovolts and pressure in”
+atmospheres may be seen in plots 2, 3, and 4. The results represented by all these curves,
+except the one for low temperature measurement with the larger terminals could be repeated
+consistently, It is possible that a stronger source of ionization should have been provided,
+and the voltage increased still more s@wly in this case. The slight curvatures ~f the li.n~ may
+be due in part to the gauges, since no calibration corrections were applied. The direction of the
+.curvature is the same as that noted by other observers.
+The data given in the curves were analyzed by first reading from each of the curves the
+pressure corresponding to a given voltage, say 10,000 volts. Fiom this pressure “and the tern- .
+perature pertaining to the curve, the relative density of the gas is thin computed by the formula:
+
+..
+
+where & is the density at I atmosphere ~d 2730 absolute} P is the pressure in atmospheres,
+‘
+and T the absolute temperature in degrees centigrade. This was done for six diflerent voltand 8,000 volts, and is
+ages on each plug. Table I gives the results on plug No. 1 at 10,OOO
+“”
+typical of the other data. It is evident that the densities thus obtained are constant within
+a few per cent. over the enttie range and show no systematic change with- temperature- or “pressures.
+TABLE I.
+Density at
+Temperature Abs.
+
+10,000volts.
+;OO:. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+..
+. . . . . ...’.. . . . . . . . . . . . . . . . . . . . . . . . .
+
+-.. .
+
+8,0CH3olts,
+v
+
+4J$ . . . . . . ... . . . . . . . . . . . . . . . . . . . . . . . . . .
+-.
+
+- --
+
+‘.-.. . . ..
+-.
+
+-=
+
+---u
+
+%27
+
+2.51
+2.46
+
+1.83
+L 80
+1.80
+
+2.33
+
+f:
+
+700”::::::::::::::::::::::::::::::::::
+
+2.59
+
+.
+
+hiean . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.5:
+..
+
+G
+
+. .
+Z“
+
+.,,
+. .. . ... .. . . .. .... ... . .. .. .
+
+Itiliity therefore be concluded that the breakdown voltage is a function of the gas density
+only:” To determine the form of this function the average values of density obtained as
+described above are plotted against the corresponding voltage in plot .5. The curves thus
+show that the breakdown voltage is a linear function of the density but is not proobtai
+portion to it. The data can be represented by the follotig
+equations:
+3.
+E=2.2+3.1 P
+Plug No. 1
+E=l.8+4.O P
+Plug No, 2
+E=2.4+3.4 P
+Plug No. 3
+Where E is the sparking voltage in kilovolts and P is the density relative to air at atmospheric pressure and 0° C. The constants in these equations are of course dependent upon the
+shape an~ spacing of the electrodes, and would be si.na”ileror the case of the shorter 0.5mm
+f
+(0.020i~~ch) gaps used in spark plugs.
+2
+
+.
+
+..-
+
+.
+
+~
+
+10
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+OQ.MMITTEE
+
+I?OR AERONAUTICS.
+
+In addition to the memurements with alternating current d~cribed gmrg, a scco.ndscrigs
+of tests was made, using a Bosch II-6 magneto U the soticti of e, m. f. and a spccid crwt voltmeter equipmgnt? .to measure the breakdown voltage.
+This equifiment consisted of an Albrecht-electrostatic voltmetm cmmwtcd in series with
+a G. E. kenotron (ielect~ valve) as shown in fig~g 6. T~ v~ve. pcrmi h current to flow
+ic
+when the heated fi.IamentF is negative with respect to the relatively cold anode A ~but allows
+no current to flow in the reverse direction, Conseqiently, a negativo charge accundatcs on
+the insulated conduc”tm, formed by,the anode and the case of the electromet.w, of such amount
+that when the sparking electrode and voltmeter neecl~eare at- their greatest positive potcntial
+the filament and anode are at thg samg potential and_th~e & no tendency for furt.hw charging,
+During the io.it of the ~ime the needle of the voltmeter is near ground potential, but the rectifying effect of the kenotron prevents the charge from leaking off. Consequently the meter comes
+to a steady deflection which measures the maximurg positive voltage applied.
+Runs were made with this apparatus at temperature of 460° C. and 5’20° C. up to prcssuros of 150 pounds per square inch, using a Champion (Toledo) plug No. 4 with X-bend CICCtrodes set with the usual spacing of 0.5 mm. (0.020 tich). The results as ob.t~incd arc plot-ted
+in plofi--7 and the combined data from these curves are plotted against- rclntivc dcmity in
+plot 5, giving a line whose equation is
+E=l.l+
+1.7p.
+
+“r
+
+These measurements with the magneto and crest voltmeter showed the pI cmnce of a further complication due to the fact that the heat of the spark raised the temperature of tho elcctlodes very materially. This in turn heated the gw _gear them so thafi the discharge occurred
+through gas -which was decidedly lass dense than the surrounding at.mosphc~
+~. This was
+indicated by the fact that at fiat starting the maa~eto the voltme k showed a rchi ti-rely high
+voltage (in one case 4,100 volts), which decreased graduaUy for nearly a minute, after which
+it remained constant at a much lower value (2,350 volts). The time rcquirecl for the chango
+implies very strongly that it is a purely thermal effect rather than tiny ionization duo t{) tho
+preceding sparks, since the latter effect would be almost-instantaneous. In tho cas~ of a spark
+plug in an engine cylinder, the central electrode, being insulated thermally as well as electrically by the core, is much hotter than the incoming charge and comequen tly this effect may
+be preeent to some extent.
+As a check upon the laboratory data measurements wel o also made in a Hall%cott A-5
+inttiko
+aviation engine having a Cornplegsion ratio of 4.2:1. Ow&@ to the lnte dosing of t.lm
+valve and the advance of the spark, the actual ratio of cylinder volume at intake to that at
+ignition was only 3.2:1. If it can be assumed that the charge in the cylinder & at utmosphcric
+pressure and temp~ature at the closhqg of the intake valve, then tho rolativqlonsity at ignition wiU be 3.2. Plug No. 4 was run in this engine firing from a Dixie=!’ Sg” magnetu. The
+‘crest voltage as measured by the kenotron was found tube 5,95o volti. ‘-3feasurements with a
+calibrated spark gap having 1 cm. spheres indicated 4,500 volts. The vo~tigc predicted for
+this density from @re 5 is 6,400 volts.
+———
+=
+In comparing these results it must be borne in mind that the crest voltmeter l&s its
+charge very slowly, so that it Ieally indicata the highest peak occurring during two or three
+minutes preceding the readixg. The parallel spark gap, on the other hand, is adjusted to flm
+about half the time and probably givm more nearly the average crest voltago. ItiFa~poms,
+therefore, that the results obtained in the laboratory are in substantial agreement }%th those
+found on the engine, and that the linear relation between voltage and density mtiy be safely
+—.
+—
+applied to ignition circuits.
+It will be noted thatithe results shown in plot 5 can be represented roughly by a straight
+line through the origin, such as is shown dotted, and which indicates a direct proportionalit.y
+between the sparking voltage and density. This relation wiIl be found useful in cases where
+the voltage is known at some one density and it is desired to ~timate it for anotl.wr den..ity
+O.H.,
+1SharP, ElectricalWorld,
+
+69, P. 656, 1917.
+
+—
+
+– --
+
+‘--
+
+—.
+
+.
+
+.-:.
+
+EFFECT
+
+OF. TEMPERATU~
+
+AND
+
+PRESS~E
+
+ON
+
+THE
+
+SPARKING
+
+VOLTAGE.
+
+11
+
+not too widely differimt. It is unsafe, however, to use this law of direct proportionality to
+extrapolate over a long range from the sparking voltage at riormal atmospheric density to that
+at a very high density.
+CONCLUSIONS.
+
+These experiments confirm the relation that the breakdown voltage of a spark gap depends
+only upon the density of the end
+varies with pressure and temperature o“nly as they affect
++
+the density. This re a Ion 18 found to be valid up to 800° “C. and 8 atmospheres pressure.
+Both the pressure and temperature of the charge in a gasoline eng~e increase very greatly
+during the. compression stroke, but the sparking voltage can be computed ~om the Iiriear
+relations shown in plot 5 without a knowledge of these variabl~ separately, since the density
+is determined solely by the original density and the comprewion ratio-. For small changes in
+density, as between engines of different compression ratios, the assumption that the voltage is
+proportional to the density may be made.
+With the sudden discharge from an ignition coil or maagueto a disruptive spark is produced even at temperatures where a 60-cycle voltage would produce a brush discharge.
+The voltage required for a spark plug set at 0.5 mm. (0,020 inch) in an aviation engine of
+moderate compression is of the order of magnitude of 6,000 volts.
+
+0
+
+,.
+
+------
+
+P..
+
+.
+
+..-.-. . _. .:.
+-.
+.-..
+
+——.—
+.-
+

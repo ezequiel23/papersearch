@@ -1,0 +1,1288 @@
+,
+
+REPORT No. 76
+. .
+.
+.-
+
+ANALYSIS OF FUSELAGE STRESSES
+
+v.
+.
+
+.,
+
+NATION&i ADVISORY COMMITiEE
+FOR :-ONAUTICS
+
+.. .
+. .
+
+..
+,,
+
+. .-
+
+.
+
+..
+.“
+
+PREPRINT FROM FIFFH ANNUALBEPOBT
+
+‘
+
+.
+
+q
+
+WASBINCW’ON
+
+GOVEBNMBNT
+PRINTING01920
+
+‘
+
+“
+
+,
+
+..
+
+.“
+
+
+
+.
+
+IIII!IIiMNiR!IIIiIIIII
+‘-””
+.
+
+3 i 176014165568
+
+—.
+
+REPORT
+
+~Oc
+
+76
+
+ANALYSIS OF FUSELAGE STRESSES -
+
+v
+
+NATIONAL ADVISORY COWTTEE
+FOit AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUALREPORT
+
+.
+
+v
+
+WA9EINGTON
+GOVERNMENT
+PRINTING OFFICE
+1920
+
+*
+-.
+
+REPORT No. 76
+FUSELAGE STRESS ANALYSIS
+BY
+
+EDWARD P. WARNER and ROY G. MILLER
+Aerodynamical
+
+Laboratory,
+
+National
+
+Advisory
+
+Committee
+
+for Aeronautics
+
+Langley Field, Va.
+
+.-
+
+3
+
+REPORT No. 76.
+FUSELAGE STRESS ANALYSIS.
+BY EDWMiD P. Vi’AJWER AND ROY G. MILLER
+—
+
+.
+
+INTRODUCTION.
+
+There,is, at the present time, ~ wide diversity in the methods employed by designers for
+analyzing the stmmes in a fuselage of the built-up type in which the shear is taken by diagonal
+bracing mires, and there is a simibr diversity of opinion as to the best type of armlysismanifested
+in the standards and spectications issued by various governmental agencies.
+In a specification for pursuit machines (No. 1003) issued by the Signal Corps just after the
+United Stat* entered the war, the requirement is that the fuselage be designed to stand a dynamic load factor of 5 and a tail load of 27 pounds per square foot f or macl@es having a maximum
+horizontal speed of 100 miles per hour, 38 pounds per square foot where the maximum horizontal
+speed was 120 milw per hour, and so on for higher or lower speeds, the load per unit of area mu-ying as the square of the speed. For machines malcirg 100 miles per hour this corresponded to a
+tail load of 5.4 pounds per squsxe foot for each unit of dynamic load. This is very nearly equal
+to the relation between thwe two Ioads now Iaid down in the Air Servicds specifications for fuselage sand load tests, where it is prescribed that the td load shall be 5 pounds per square foot
+for each unit of dynamic load. A fuselage shouId, with this type of loading, stand a dynamic
+load of at least 4, with 20 po~ds per square foot on the tail. The general specifications of the
+Bureau of Construction and Repair, United States Navy, b the required tail load at 20 pounds
+per square foot, but combine with this onIy the weight of &e machine without a dynamic factor.
+These specifications relate primarily to flying loads. In studying the di@ribution of load
+on landing, also, there is some difference of opinion as to the best method of procedure, although
+the vexed question of tail loading is avoided in this case. Obviously there are many different
+ways in which a landing may be effected, and the distribution of the landing loads, as well as
+their magnitude, will vary with the speed of the machine, its attitude at the instant of touching
+the ground, the position of the controls, the nature of the groud, and a n~ber of othex factom.
+a
+The method adopted in this report is, in the main, the straightforward one of cho~g
+standard type of machine, analyzing it by nymy diihw.nt methods, and comparing the results
+The loadings for aIl of the seven cases studied are illustrated in figures 1 and 2, and the strw.ses
+in the members for all the loadingg tried are i%bulated at the end of the report.
+In the tabulation, the Iargest stress occurring in each member has been printed in italics.
+Where the same member may take tension or compression under different loadings, the maximum stress of each sort is printed in italics. In picking out the maxima, Case VII was ignored for reasons which will be apparent later. In some c.a%s it has been possible to make
+results clearer by analytical discussion, but the graphical analysis has been carlied through in
+every case. The dynamic factor used is 5 in all cases, this being considered to allow for very
+heayy landings and also for the worst loads experienced in flying. If the sizes of members
+were being selected, a further ‘; material factor” or true factor of safety of about 1~ should be
+allowed over the tabulated stresses (i. e., the ultimate strength of each member should be at
+least 13 times the largest stress set down against that member in the table).
+If a really thorough and accurate analysis of the stress= in an airplane were to be made
+it would be necessary to treat the whole structure as a unit instead of separating wings and
+5
+
+-
+
+-J
+
+—
+
+.—.
+
+.
+
+_
+
+;__
+
+-
+
+—
+.—
+.-. . ..
+
+6
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMMI!L?lW?i FOR AERONAUIHOS.
+
+fuselage as is the invariable custom. The drag wires and other members so inter-connect-the
+parts of the machine.that no single part can be treated independently with strict accuracy.
+So many uncertainties arise, however, chidly due to the presence of redundant membem, the
+stress in which is determined by the.rigidity of their end connections and by the initial tension
+with which they are mt up, that it is usually beat-to cogsider these redundant inter-connecting
+members as additional safe=wards, and not to take them into consideration in figuring stresses.
+There are some conditions, however, as will be seen in cuection
+witi Case VI, where it would
+be manifestly absurd to ignore entirely the effect of the ..dernal drag wires on the fuselage
+Straxles.
+The fuselage adopted is.similar to that of &e JN4H~ “-fie layout of the center lines of tie
+members is identical with that in the 3N+lH, but the load distribution difFersin some particula~
+from that adopted in the Curtis. design, and the stressw given in the report therefore should not
+be taken as represe@@g those actually exkthg in the ~.
+LANDING
+
+LOADS.
+
+The “landing streamshave been examined on four different sets of assumptions, three relating to landings with the tail high, the fourth to those With the tafl 10W.(thee-po~nt). The lift
+of the wings has been neglectid in all cases. Da inclusion”or omission has little effect on my
+stresses except those in the chassis struts and in the vertical members directly ,over them. If
+the weight of the airplane be broken up intr-loads applied at the panel poin~ in the usual manner, and if the sum of these loa.ds.be. opposed by a v621ical force acting at the axle, which is
+manifestly the ordy place that it can act untfl the tail skid touches the ground, the resultant of
+the loads at the panel pointi will pass through the center of gravity, while the verticrd tkough
+the axle will pass well forward d this point. ~eref ore, although the two resultant forces aro
+equal in magnitude and opposite in direction they are not directly opposed, and their resultant
+is a turning moment which, if a landing were actually made under these conditions, would whip
+the tail of the machine violently downward. Actually, .howe.ver,.the force applied tit the axle
+is not vertical, but is inclined backwards by the frictional resistance to forward motion. This
+frictional resistance vark widely with the nature of the ground, but it is common to arbitrarily
+assume, in order to simplify the analysis, that it is just .sufiicient to iucline the line representing
+the resultant ground reaction until it passes though the centm of gravity. If this assumption
+be made the two resultant forces (ground reactions agd resultant of loads at panel points) no
+longer give a moment, as they both pass through the center of gravity, but they are no longer
+directly opposed, and there k an unbalanced horizontal. force Whch must be taken care of in
+order that complete statical e.quilibrnumof the structure may be secured. The securing of
+statical equilibrium is, of course, an essentiaI condition for the closure of any stress diagram.
+The horizontal component of the groundyeaction has been treated in two different ways (Cases I
+and III). In the first, it is assumed that this force is not balanced by any external force, and
+that the machine is therefore decelerating. The deceleration of the several weights applied at
+the panel pointe tends to throw them fonwmd, ~d the rwtitan~. of tie weight and the ~ertia
+force lies in a line parallel to the resultant~round reaction. Since the vertical component of
+each force remaimsunchanged, the load at each panel point should be multiplied by the secant
+of the angle through which its line of action is turneib y the inertia force. This method of
+applying landing loads was first suggested and applied by J. A. Roch6.1 The distribution
+between the upper and lower panel points of the par~ of a load is inversely proportional to
+the distances from the load to the panel pointe (just like the supporting reactions for a simple
+beam). This is rigorously correct for the horizontal component, but not for the vertical once,
+since the end fixtures of fuselage struts usually will not transmit tension, and vertical loads
+applied between the ends of the strut are transmitted .ti the longeron entirely at the lower end
+Roch#s article ~at tie rnaxim~ s~e=~ are not changed
+of the strut. It was shown in-W.
+in any member if the vertical and horizontal loads am both divided between. the upper and
+—.
+.1Methrd.eUeadin Ffndfng FuselageStresee$by J. A. Roch&.M’iel Ago, July 23, 1917,vol. 5, p. 642.
+
+.-
+
+. ..... ... .=.
+
+ANALYSIS
+
+.
+
+OF FUSELAGE
+
+STRESSES.
+
+7
+
+lower panel points in the proportion correct for the horizontal ones, and such an mrangement
+of loads, making the lines of action of all the forces parallel to each other, greatly simpliiiee the
+work. The second method is to baIance the horizontal component of ground reaction directly
+by a thrust load. This is the condition in taxi-ii~, and is illustrated in Case III. The assumption that the thrust is lmge enough to balance completely the horizontal component while the
+dynamic load is a maximum is rather severe, M the thrust -would have to be about equal to the
+weight of the machine when the dynamic load was 5. The figures obtained on this assumption,
+however, at least serve to show in which members the stress is increased by a thrust load.
+Case II is intended to relate to the same condition as Case I, but in a simplified form making
+it unnecessary to deal with inclined loads. Instead of taking the reactions at the points of
+attachment of the chassis strust as passing along the strute, so that their resultant might pass
+through the axle, the resultant of the panel-point loads is opposed, in Case II, by a vertical
+force passing through the center of gravity. The forces in tbe chassis struts are then arbitrarily r&placedby two vertical forces acting at the same poinis and so proportioned that their
+resultant is the line just spoken of. All external forces are then vertical, there me no inertia”
+forces, and the resultants of the upward and downward forces both pass through the center
+of gravity and there is complete equilibrium. This is manifestly an easy case to deal with,
+and the stress diagram in Case II is much simpler than that in Case I, “*here the extermd forces
+can not all be represented on a single straight line. The simplified method h= been used by
+the aiqdane engineering department of the Air Sertice.
+It is evident that the entire omission of the horizontal components of the chassis shut
+forces will have a considerable eikt= on the strwses in the longerons in the bays between the
+points of attachment of the two strut8. This is particularly noticeable in a machine like the TN,
+where the upper ends of the chassis struts are widely separated and their slope is small. An
+inspection of the tabulation of the results of the analyses shows that the stresses in the tap
+longeron near the rear of the body are greater for Case II, those in the bottim longeron for Case I.
+This is natural, as the inertia components of the loads, acting from the free end taward the
+supporting reaotiops, tend to increase the compression ~ tie IOWW
+low-n
+and.co~terb~~ce
+the tension in the upper one. The stresses in the struts and wires are nearly the same for the two
+cases ~xcept in the bays between the points of attachment of the chassis strute. This, again, is
+what might be expected, as, the longerons being nearly parelel and horizontal, the primary
+duty of the wires is to carry the shear due to vertical loads, while the strut compressions are
+almost exactly equal to the vertical components of the stresses in the adjacent wirw. Strut
+and wire stresses are therefore substantially unaffected by horizontal components of load at the
+panel points. IU no case, except in the bays between the chassis struti ~d ~ a few other bays
+of the top longeron, is the diilerenca of stress in a mamber for the. two casas as much<as 5 per
+cent. The percentage difference is large in some of these cases, but only where the magnitude
+of the stresses is small and where the factor of safety would be. sure to be very large. The simp~ed method of Case II leads to an overestimation of the top longeron stresees, as compared
+with C=e I, by about 100 pounds in one bay. The important differences come in the bays between chassis struts. The type of loading used in Case II is manifestly wrong for these bays, and
+the inclusion of the horizontal components of the strut reactions changw the magnitude of the
+stresses very radically. In the case of the lower longeron, the effect of these components is to
+change the stress from a large compraseion ta a tension. The difference betwean the two cases
+in the upper longeron is much smalkr but the simplified method is not on the safe side. In
+the struts, the stress given by the simplified method is too high in the member directly over
+the rear chassis strut, and too low in all others. The only pair of wires much affected is that
+in the rear bay, where diilerent wires me in tension in the two qms.
+Summing up, it is evident that the method of Case II is satisfactory for the rear of the body,
+but that it gives rw.lts very badly in error for some of the members in the neighborhood of the
+chassis attachment. The simplified loading can well be used for a preliminary analysis to assist
+in estimating the sizes of members, but it shouId not be considered as satisfactorily covering
+the kuyling loads by itself. When it is employed there should be added to the stresses in the
+
+—
+
+,—
+
+.-
+
+-.
+
+-A
+
+-
+
+..-.
+—
+
+—.
+
+8
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADTISORY
+
+COMMITTEE
+
+FOR AERONAUTICS.
+
+bays of the lower longeron between the chassis struts an amount ecpd to the horizontal component which -would exist in the adjacent chassis strut if the loading of Case I were used. This
+horizontal component can be found by drawing a triangle of forces, (The addition is algebraic,
+comprwsions being taken as negative, and the effect usuzl.lyis to change the sign of the stress=.)
+Case III (ground friction balanced by thrust) gives results identical with thoso of Cam II
+for all membem behind the rear chassis strut. The effed of. thrust cambe satkfachrfiy flowed
+for by adding, (algebraically) one-sixth of the weight of the machine to the stress in every bay of
+each longeron from the nose to the front chassis strut, and one-tenth the “weight to the stre.isei
+in the longerons between the chssis struts. If the engine is carried in such a way that the thrust
+can only be transmitted to the fuselage at the rear of the bearem the addition to allow for thrust
+load can, of course, be omitted forward of this point.
+Case Iv relates to a three-point landing. The larg=t dynamic loads usually occur in this
+type of landing, as a pilot having a forced landing”on rcngh ground will land at as low a speed as
+possible, and the tail-skid will therefore come into contact with the ground before the shock
+absorbers.on the wheels have had time to extend frilly. The only case in which a large dynamic
+load is likely to occur cm a high-spwd landigg (1 and II) & that in which the pilot is umddled or
+landing in the dark and fails to flatten out early enough. In gmsidering the landing with
+tail low aIl the loads have been taken perpendictiar to the top longeron. The effect of friction
+and of inertia loads is thus allowed for, as the perpendicular to the top longeron makes an angle
+of about 10° with the true vertical when the machine isresting on the ground. To be strictly
+accurate, the reactions should be drawn with difTerentinclinations, as the coeilicient of friction
+of the tail-skid is much greater than that of the wheels, but the effect of allowing for this d@rence would be too small to warrant the additional complication. Since the point of contact of the
+taiI-skid is some distance.bsbind its point of attachment, the reaction of the tail-skid has a moment
+about its hinge. ThiEis allowed for in the way in which it is actually taken through the hinge
+an. shock-absorber cord in the machine, by putting on equal and opposite horizontal forces at
+the top and bottom of the strut where the tail-skid is attached. Site the pull in the ahcckabsorber cord has a vertical component, there should be added another pair of vertical forces,
+equal and opposite. These haveb~en omitted from the diagram, as their only eiTectis to increase
+the compression in the strut over the tail-skid.
+The tad-skid load reverses the streasm in the loD&o~ b&&d-&e rear ch&k” s&t and
+changesthe d~~onal which takes tensicinin several cases, as compared with the loadhg arra~~ements which have. already be& considered. The stress in th front chasafi strut and b“ the fuselage strut directly opposed to it are also somewhat greater in a three-point- than in a two-point
+landing, because of the backward ,inclination of the reaction causing the front strut to carry a
+smaller share of the tatal load in the lattm case than ii.th.e former,
+The conclusion is that landing streasei should be analyzed for thr~e-point lan&gs (Case
+IV) and for two-point hmdings. with inclined ground reaction and inertia loads (Case I) and
+that allowance should be made for the effect of tb.nmt.OQthe stresses b tLe forward bays of
+the longerons, wpgcially the upper one. If only one stress diagram is to be drawn for landing
+loads it should be, for the case with tail-skid reaction, as the analysis for flying conditions is
+very similar in most particulars to that for a two-point landing, and gives stresses of tho same
+order in the rear of the body, whereas there is no otl.iei type. of loading which rcaemhles that
+encountered when landing with tail down closely enough to be substituted for it,
+FLYING LOADS.
+
+It is customary, in analyzing the fuselage streasesmnder flying conditions, to consider only
+the rear portion of the structure, and to treat this as a cantilever loaded in accordance with
+some set of assumptions and supported either at. the rear”wing spars or the lower spin”, The
+first assumption as to, the support is the more Cmnmori,but the Unitwd Stats Navy spociflcations call for an analysis with the reactions taken at the lower wing hingas, which appears to be
+more logical.
+
+‘‘
+
+‘-~~
+
+,
+
+.—
+.—.,
+
+.
+
+.
+
+..-
+
+..—
+
+.- .._ ____
+““
+.–
+
+ANALYSIS
+
+OF FUSELAGE
+
+9
+
+STRESSES.
+
+It ia very dwirable that the analysis under flying conditions be extended to cover the whole
+structure, from nose to tail. While this is not possible by an extension of the ordimxry method
+with an arbitrarily fixed tail load, the stress diagram failing to close if it is cwried on past the
+wing hing= to the nose of the airplane, a closed diagram can always be secured if full account is
+aken of all the forces acting on the airplane and of its motions under those forces,
+The downward loads on an airplane fuselage i+ flight maybe divided into dynamic loads
+and tail loads. The dynamic. loads are due to the acceleration of the center of gravity of the
+machine (usually an acceleration paralki to the normal axis of the machine, arising in flattening
+out after a dive or in some similar sudden change of course). Since the lines of action of the
+dynamic loads on all parts of the machine at a given instant are parallel so long as there ia no
+angular acceleration of the airplane about ita C. G., and since the dynamic loads at the panel
+points are proportional to the weights concentrated at those panel points the remdtant of these
+loads always passw through the C. G. of the machine.
+The taiI load, in turn, may be divided into three partq. First is the load, usually CIOVTJI.
+ward, required ta give static equilibrium about the C. G. This part of the load usualIy has, for
+any particular machine, a maximum value of about 4 per cent,of the wing loading, its exact magnitude depending-on the position of the center of pressure ,of the wings with relation to the center
+of gravity. For tail surfaces of normal size, this gives a unit loading of about onequartar of
+the unit W%Oloading. The second part of the tail load goes to overcome the damping moment
+(M,) due to the body, wings, and chassis. This moment is about 18 per cent’of the total damping moment due to the action of the air against the pitching airplane.1 The manner of ik &tribution is uncertain, and in these illustrative examples it was arbitrady distributed among
+the various panel points in such a way that the applied forces would sum up to zero, that the sum
+of their moments about the C. G. would be equal to 18 per cent of the qomputed total damping
+moment, and that the loads would be approximately proportional to the distancea of their
+pointe of application from the C. G. The tad load due to damping appears only when the airplane is rotating about its C. G. (with respect to axes fixed relative to the emth). Finally, there
+may be an excess of tail load above the sum of these two component, and this excess acts to
+impart an angular acceleration to the airplane.
+In considering tail load, the component of damping due to the tail (82 per cent of the total)
+must be subtracted from the apparent load to get the true value of the total force acting. The
+total tail load in any machine at a g@en instant is then a function of elevator setting, angle of
+attack, speed, and angular velocity.
+It was just demonstrated that two of the three portions of the tail load can be so balanced
+as to give static equilibrium, the fit by the wing load acting at a certain distance from the
+center of gravity, the second by properly distributed damping loads at the panel points. To
+balance the third component, the excess producing angular acceleration, inertia loads must be
+applied much as in the case of the deceleration when landing, the difference being that in this
+case the structure is treated for the moment M tho~~h it had no motions except one of rotation
+about the C. G., and the inertia load at each panel point therefore acts perpendicular to the line
+connecting that panel point with the C. G. The ratio of the inertia load to the static load at
+any panel point is directly proportional to the distance from the C. G. Since the dynamic
+loads and each component of the tail load taken separately can be balanced by properly aUowing for the accelerations, it is evident that lmy combination of loads can be so balanced, and
+that it is possible to draw, for any set of fuselage loa~ which can occur, a closed stress diagram taking in every member of the fuselage and with the wing reactions applied as they actually axe in practice.
+The dynamic loads can only attain their maximum value when the angle of attack .ja
+large, and’it therefore requires a perceptible interval, after the elevator is pulled up to flatten
+out from a dive, for the lift on the wings to reach ita l@hest point. The total down load on
+the tail, on the other hand, reach= its maximum instantIy, as the download k largest when the
+
+-t-
+
+,,— .
+-
+
+.
+—-.
+—..
+——.,
+
+—..
+—
+
+..-
+
+..—
+Report of the N8ticmrd
+Advisory OomrnItt@eorAermanties, p. M&
+f
+z‘rhMAnnuaI
+
+W@Jngtau, Ms.
+
+10
+
+.
+
+“
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+CO-TTEE
+
+FOR KERON+UTICL%
+
+--
+
+angle of attack is small, when the speed is high, and when the angtdar velocity and damping
+mument are small, and all of them conditions are bwt fulfil.lclwhen th6 airplaneis diving and the
+elevator has just been pulled up, It is then eyident that the tail loads find dynamic loads
+can not reach their maxima at the same. tiye, and any analysis based on the assumption of
+hrge loads of both types simultaneously apphed is unduly severe.
+Furthermore, any analysis in which a maximum down load is applied on the tail and balanced only by reactions at the wing hinges is unduly severe. When there is a large tail load
+there always exists an angular acceleration, and this produces inertia loads which act upwardly
+on the rear part of the body, directly bakuicing the tail load. Itican not be too strongly emphasized that--the structure as a whole -will always be in statical equilibrium if the inertia and
+damping loads are properly applied, and that there is something wrong with any set of loading
+assumptions which permits of the existenca of an unbalanced moment about tho center of
+gravity.
+In connection with the present repoft the typi cd” fuselage has”been analyzed for tbrco
+different types of flying loads. Cases V“and VI were carried through in accordance with tlm
+methods just discussed, all inertia loads being included. Case V relaies to the maximum
+dynamic load, Case VI to the maximum tail load. In Case VII an analysis was mm-k for the
+rear position of the body in accordance with the cmnrnon.assumptions of a dynamic factor of 5,
+a tail load of 25 p’ounds per square foot, and the rear of the body acting as a cantilever supported at the rear tving spars.
+The fundamental data for Cases V and VI were &&i on an analysis of the behavior of u
+JN in a dive and loop, an analysis the most important results of m’hich were published in tho
+Bi.lletin of the Airplane Engineering Department, Uriited States Army. In connection }Yjfh
+the discussion there printed the effect of inertia loads arising from angular accekration was
+taken up, but no attempt was made to carry through a complete analysis of the stmsaes under
+flying conditions. The aemmptions on which that analysis was based were rather too severe,
+wbems.
+it lMS lmm
+s~lOwn_ by
+as the maximum dynamic factor by computation w&8.14,
+accelerometer
+tests that the dynamic factor seldom.rises above 4 and apparently never rcmchcs
+4.5, A dynamic factor of 5 was taken as the standard in these illustrative probloms, just as
+for the landing loads, and the computed lifts, tail loads, accelerations, etc., were therefore
+
+.,
+
+..
+
+.—
+
+..-.
+
+-..
+
+reduced in the ratio ~~4S This procedure .is not entirely justhiable, but–it gives as good
+----
+
+1
+
+resulte as can be attained without another complete analysis of a dive.
+Case V relates, not to the exact instant of maximw dynamic load, but to the time, 0,42
+second after pulling up the elevator, and .0.1 second before the peak” of” the dynamic load
+curve is reached, when the angular acceleration k zero... This very much simplifies t.ho analysis
+by eliminating the’ ‘rotative inertia” loads in th~ case, and has little effect on the total stresses,
+as the dynamic load at the instant when the angular acceleration disappears is only 4 per cent
+below ite maximum value. The angle of attack of the wings, in this cam, was about 12°,
+and the resultant force on the winga was therefore very nearly perpendicular to the chord.
+The total lift was divided among the four wing hinges on each side, the lower hinges taking
+about 85 per conk of the total lift because of the transmieaionof lift.from the upper wing through
+the inner lift cables. b the lovmzh@es.
+The distribution between the front and rear hinges
+depends on the position of the center of pressure. The tail load vector was arbitrarily ch-awn
+parallel to that for wing load, although the L/D for the tail is less than that for the wings, The
+stresses in the fuselage would be very fittle affected. b.y changing the slope of the-tail vector.
+The normal tail load for the speed, angle of attack and elevator angle exkting at th
+instant- to which Case .V. relates would be 10 pounds per square foot if there were no angulrw”
+velocity. The attribution of 82 per cent of the damping moment to the tail and the deduction
+of the appropriate amount-from the tad load reduces this by about 70 per cent, so thtit the
+actual tail load corresponding to a dynamic factor of 5 is 2.5 pounds per square foot. This figure would be larger in a machine where the center of gravity was farther forward relatiye to
+the wings, but it would never exceed 10 pounds per square foot, No attempt was mado to
+
+—
+-
+
+—
+—.
+
+AiVALYSIS
+
+OF FUSELAGE
+
+STRESSES.
+
+11
+
+distribute the drag of the body, the whole amount being combined with the wing drag gnd
+applied at the hinges, There, again, the procedure is not rigorously correct, as most of the
+fuselage drag should act at the nose, but the difference between the exact and approximate
+distribution of fuselage drag would be negligible.
+Thrust and tor@e loads do not appear in any of the analyses under flying loads, as the
+peed in a limiting dive is so high that there could not be any thrust or very much torque, the
+propeller tending to operate as a windmill rather than m a propeller. The thrust and torque
+loads appear in normal flight, and maybe important enough to require special analysis in highpowered airplanes with engines having a very low -weight per horsepower. There is a gyroscopic torque when flattening out from a dive, and this modiiies the stresses in the fuselage
+members lying in horizontal planes, iricluding the longerops, but it will not be considered in
+this report.
+The adysis in Case VI is very complex, M the loads act in every conceivable direction.
+They divide, in general, into three groups. First are a set of loads due to translational accelerations. These all act along parallel lines, and, since the Iift at the instant after the elevator
+is ptied up is insignificant, their lines of action are very nearly paralkl ta the ftight path, the
+onIy acceleration which amounts to anything being the negative acceleration along the path,
+due to the excess of total drag over the component of gravity along the path. me second
+group is made up of the inertia loade due to angular accelerations. Since the lima of action of
+these loads are perpendicular to the lines connecting their respective panel pointe with the
+center of gravity, no two of them act in the same direction, and the drawing of a load diagram
+becomw a rather complicated and tedious operation. Lastly, there are the external loads, due
+to air pressure, which balance all these inertia loads. The total load on the tail is roughly 31
+pounds per square foot, and its component perpendicular to the flight path is approtiately
+equal to the corresponding component of the force on the wings, so that the resultant is, as
+already noted, parallel to the flight path. The vector of force on the wings at the very small
+angle of attack existing during the dive (– 33° for this particular machine) is inclined at
+about 45° to the perpendicular to the chord, and there is therefore a large component of this
+force which must be taken by the drag bracing. This bracing system has several redundancies,
+as there are three external drag wires on each side of the fuselage, and there is also a possibility
+that the drag may be carried through the stagger wires to the lower wing and thence directly.to
+the fuselage at the lower wing hinges. The distribution of the drag between these four alternative routes is necessarily uncertain, depending largely on the initial tension in the several
+members, but it is absolutely certain that a large share of tie dr% ~ ~tit~d
+through the
+external bracing to the nose of the fuselage in a machine which,. like the JN, h= no stagger
+-wiresin the center section. In Case YI it w= assumed that 90 per cent of the drag w= taken
+through the external brac~~ and 10 per cent at the wing hinges, and that the drag ~ken by the
+extermd bracing was divided equally betvveen the upper and lower wires. From the structural
+standpoint it is desirable to take as much drag as possible through the upper drag wires, as th~e
+ties also carry some lift directly to the nose of the fuselage, greatly reducing the streaws in the
+forward portion and also reducing the stresses in the inner bay of the wing truss.
+There is no damping load ti be deducted from the tail load in Case VT, as the machine
+can not acquire an angular velocity instantaneously when the tail is pulIed up.
+A comparison of the stresses in Cases VI and VII shows that the ordinary method, neglecting all inertia loads, gives stress= far higher than those which can actually prevail, the overestimation in some cases being as much as 200 per cent.
+Examination of the tabulated strfor the fit six cask shows that the maximum
+stress in most iustances occurs in Case IV, V, or VI. The maximum comes in Case I in a few
+instances, but the stress in Case I never exceeds by more than 20 per cent the maximum among
+IV, V, or VI. As aIready noted, a dynamic load factor of 5 in a tail-high landing would be a
+very rare occurrence. Case III also shows a few maxima, but ody in the forward three bays,
+and these bays can be taken care of by adding in a correction for thrust in the manner explained
+in the first part of this paper. Cases lY, V, and W, then, maybe considered w furnishing a
+
+_ ~“ -”
+
+.
+
+_
+
+.
+.
+
+“
+
+.-
+
+12
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMhEi3!EE
+
+FOR AERONAUTICS.
+
+complete and satisfactory analysis. Furthermore, since the maximum stresses occur in Case
+VI only in the three rear bays of the fuselage it is sufficient, if the work is to be reduced b a
+minimum, to start the stress diagram for the candition of maxinmnQail load at the tail post
+and carry it through the three or four rearmost bays.
+Since the complete analysis of a dive has been carried through for only one machine, it is
+necessary to make certain assumptions as to the magnitude of the damping momenta in order to
+determine the load distribution analogous to Case V for a~ew machine. The angle of attack for
+a dynamic load f actor of 5 maybe taken as 12°, and the $ailload required to balance the moment
+of the wing load about the C. G. can then be. computed. Two pounds per square foot, of tail
+surface should be added ta this to allow for &mping, and static equilibrium restored by modifying the dynamic loads in the manner already dmcribed.
+Cases analogous to VI require fewer assumptions, &Ither~ ii no damping. The total tail
+load can be determined from a wind tunnel test of a model with the eleyatora turned up or
+approximated from the results of such a test on a similar machine. The tail load required to
+balanca the wing mommt can be computed as before, the angle of attack being computed for a
+M“ dive at limiting speed. All the rest of the tail load goes to. produce angular acceleration,
+and is balanced by inertia loads applied in the manner already described. The distribution of
+the drag yin differ in ditlerent types of machines, and no definite rules can be laid down, but
+caution should be exercised not to make the pull in the upper drag wires too large, as the apparent
+stressesare reduced by so doing. It is better to keep on the safe side and take an excessive
+proportion of the drag in the lower wires and at Me wing hinges.
+These notes on loading also furnish some anggeatio~r for. the mal&~ of sand load test.son
+fuselages. Itis evident that a load of 20 pounds per scp.uyefoot on the tail, whether or notit is
+accompanied by a dyrramic load, produces larger stresses than would be expmienced in practice,
+and a sand load for maximum tail load would correspond more nearly to actual conditions if
+upward loads were applied by ropes passing over pulleys and attached atihe panel points, to
+represent the effect of (‘rotative inertia.” If a single-sand ~oad test is to be made, hovwrmr, it
+would be better to have the loading correspond to the conditions of Cam V, with somo incrcwso
+in the tail load to bring the stressw in the rear bays nearer to the maxima found in Caso VI.
+The specifications would then be:
+Tail load of 12 pounds per square fcmt corresponding to a dynamic load of 5, them loads
+being increased in .thtis.ame proportion until failure. (’These loads are for a training machine.
+For airplanes having a normal wing loading of over 6 po@is pm square foot, the tail load corresponding to a dynamic factor of 5.should.be increased, reaching a maximm of 18.pounds ycr
+square foot when the normal wing loading is 10 pounds per square foot.)
+The loads at panel points not to be exactly equal to. the product of the dynamic factor by “
+the weight concentrated at the panel point, but to be increased for-ward of the center of gravity
+and reduced behind the C. G. to allow for damping effect on the body and appendages (not
+, including the tail unit). The percentage of increa~? or reduction should be proportional to tlm
+horizontal distance from the C. G. to the point of application of the load, and the total moment about the C. G. .of these changea of load should be such that, when the fuseIage is supported
+at the lower wing hinges, the supporting reactions will be h inverse proportion to thQdistances
+from the hingea to the center of “prewum of the wings a{ an angl&of attack of 12°. This will
+do away with the difEcziky now experienced when a large tail load is applied in a sand load test
+without any allowance for damping or inertia loads. The fuselage tmds to pivot about the
+rear support, and it is necessary arbitrarily tn add a large concentrated load at the ext.remo
+nose in order to prevent local failure at the rear support. ”
+
+—
+
+—
+
+18
+
+OF I?USFJLAQ13 STRESSES.
+
+ANALYSIS
+
+.
+
+Tableof Stresses.
+
+—
+C%sell
+
+c#911L
+
+Oa?av.
+
+Ck9e
+Iv.
+
+CW9VL
+
+Ca8e
+VT2
+
+—..—
+
+I
+
+1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . I
+2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . I
+
+$1%
++141N
++1797
++1420
++1070
++ 837
+
+:“”---------. . . . . . . . . . . . . . . . . . . .
+”----”-”---””------”-”....................................
+5. . . . . . . . . . . . . . .
+6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . ......... ............. ...........
+
+“L.... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+..............................
+11 . . .
+. ..................................
+% . ................................
+.
+14. . . . ..--. - . . . . . . . . . . . . . ..- . . . . . . ...1
+
++ 691
++ 324
++
+94
+–28
+– ,549
+–1540
++ 524
+
++
+
+58:
+
++1195
+“+1305
++1435
++m74
++ 839
++606
++ .%58
++ 1%
+
+– 64
+–1513
+–1500
+. ..................................
++1177
+-1930
+%.... . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+–Z76fi
+-2343
+. . .................................
+–1688
+–1540
+–jy~
+–1086
+19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+– 991
+-849
+20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . --– 714
+– 611
+21. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+– 431
+– %34
+22. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+– 166
+– 134
+– 467
+-450
+:“”-.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+”-”-”--”””--=”””--”.-”-”-.”-”
+.
+–1.2ea
+–1088
+26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+–9089
+–2043
+26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.–1089
+- 4!?0
+27. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+-17.S6
+–2363
+- 28. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ~ – 566
+– 511
+– so9
+– 273
+. :-””””. . . . . . . . . . . . . . . . . --------. . . . . . . . . .
+. . -”-. ------” -”-” . . . . . . ”--”---”
+– 297
+-206
+~ MO
+– 196
+99-”” ---””-””-”-””-”-””-”-”.””-””-”-. . ..................................
+– l?f?o
+– 194
+. ..................................
+– 160
+– 141
+3 . .............................
+–.77
+-70
+35. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
++ 9i54
++ 820
++1717
++1456
+%---------- -- ” ---- ”----””--”---””””’-”-””””--”-”-------------”
+“------ o-+lG{
+:
+$“--- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . ””””-”””””””-””----”-------””-”
+0
+40. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+o
+0
+41. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+0
+42
+:
+0
+43”” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . -”--- ””--” --”-- ”-”--- ”-”-” ---”--0
+44. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+0
+;
+45
+o
+46-” --”--.--””-”----”-””-.-”””----””” . . . . . . .
+. ...........................
+:
+0
+
+K.....
+..........................
+
+47 . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .
+48 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+49 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+50. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+51. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+62. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+63. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+54. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+%--”” . . . . . . . . . . . . . . . ”--”. . . . . . . . . . . . . .
+. . . -”-. --”-- ””-”-” . . . ----” --”--”
+. ..................................
+K . .. . .. .. .. . . ... . .. .. . .. . .. . .. .. . .
+.
+
++1s92
++18.fO
++2200
++2123
++1425
++1074
++ 839
+
++5J
++ 605
+– 712
+:g
+
+$%!
++ 133
+
+:=
+– 488
+– 188
+
++ w:
+– 774
++ 880
+~gg
+
+–-6;
+–1513
++446
++11.33
+
+–1540
+–1086
+– 849
+– 611
+– 364
+– 134
+55
+–2268
+—2740
+-944
+–1573
+– 511
+– !273
+
+T
++
++
++
++
+
+M;
+5.$8
+493
+.980
+
+146
+-134
+
+-450
+–10S!3
+–s200
+–1430
+–1278
+–ml
+– 43
+– 23
+
+:%!
+– 194
+– 341
+– 70
++ 468
++1655
+
+:1:
+-862
+– 70
++ MO
++1456
+
+:
+0
+0
+
+:
+0
+0
+
+:
+0
+0
+
++4
++ 145
++ 89s
+o
+0
+
+:
+
++ 17
++ 59a
++1653
++2194
++1519
++1189
++ 946
++ 709
++ 446
++ 189
++5
+– 661
+–1531
+–2976
+–.2841
+–2430
+
+-1653
+–1191
+– 966
+– 728
+: y46
+-447
+–109!!
+–1564
+–.Z587
+–1064
+–503
+–260
+– 212
+–206
+– 216
+– 177
+– 122
++ 827
+$;;:;
+:
+0
+0
+0
+0
+0
+0
+:
+
++ 54
++ 377
++1%?2
++ 542
++ S60
+~ ;:
+
++
+
+68;
+
++ 297
++17;
+
++0
++U34
++ 475
++ 319
++ 303
++ 303
++ 273
++I:y
+
+–46%’
+
+Ind:
+
++119:
++288
++1134
++ 475
++ 319
++ m
++303
++ 273
++ 158
+–3900
+-4105
+
+.........
+.........
++ 206 . . . . . . . . .
++ 431 . . . . . . . . .
+
+7$
+
++ 757
++4330
++ 792
++3620
++ 763
++3068
++ 707
++2470
++ 606
++1745
++ 918
++@
++88
+0
+– 209 . . . . . . . . .
+– 313 . . . . . . . . .
+
+.........
+
+.. .. .....
+=;
+– 760
+–5793
+-4355
+-760
+-3650
+-746
+– 709
+–3098
+– 648
+–2498
+-543
+–1763
+- S56
+-928
+.........
+: :;:
+-132
+-265
+– 136
+~ J
+– 38
+–64
+– 100
+– 380
+-294
++ 100
++ 194
++ 252
++ !337
++ S6
+o
+0
+
+0
+0
+
+;
+o
+0
+
++186:
+
++1065
++ 656
++ 130
++8
+o
+:
++ 183
+-4545
+–2070
+
++ 79:
+:
++1109
++ 478
++
++ sol
++ 46
++ 3@5
++ 75
++ 127
++ 324
++ 811
++ 220
++ 234,
++W
+. . . . . . . . .. . . . . . . .
+. . . . . . . . .. . . . . . . .
+
+1:
+
+—
+
+.........
+. . . . . ..- .
+.........
+.........
+
+– 843
+– 550
+-495
+– 533
+-34)8
+
+–643a
+– 696
+
+.. . .. . .. .
+... . . .. . .
+.. .. . .. ..
+... .. . .. .
+.. . . . . . . .
+.. . . . . . . .
+.. . . . . . . .
+.. . . . . . . . .
+.. . . . . . . .
+.. . . . . . . .
+.. . . ...”..
+.. . . . . . . .
+.. . . . . . . .
+.. . . . . . . .
+.. . . . . . . .
++1825
++ 950
++ 740
++ 753
++ 893
++1003
++1093
+
+-.
+.
+.. . .
+
+.. . . . . . . .
+.. . . . . . . .
+--
+
+14.
+
+ANNUAL
+
+REPORT
+
+NATIONAL
+
+ADVISORY
+
+COMMITTEE
+
+1
+
+(he I.
+
+Ca9eII.
+
+Ck?%m.
+
+C%6e .
+w
+nw-ri
+
+1.
+
+FOR AERONAUTICS.
+
+A2WALYSIS
+
+OF FUSELAGE
+
+STRESSES.
+
+15
+
+We V.
+.
+
+03seWI.
+EIQum 2.
+a
+
+.
+
+.
+
+/
+
+.
+

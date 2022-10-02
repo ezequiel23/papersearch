@@ -1,0 +1,2333 @@
+.-
+
+.-’
+
+.... .
+
+,... .,.
+,.*
+i:, <fr!
+
+“k ,
+
+“
+.
+
+-., ,
+.,.. ... f“-’
+
+-~L_.
+
+...&.
+
+..””
+*“
+
+h’.:
+
+,-, ...
+. . . . ..?. !(. %l
+
+REPORT No.58
+.,.
+
+:“,l’:,.
+,
+
+““”
+
+(
+
+.
+
+CHARACTERISTICSOF HIGH-TENSION
+MAGNETOS
+*
+
+v-
+
+.
+
+,.
+
+NA!I!IONALADWSORY COiIMI’ITEE
+FOR AERONAUTICS
+f
+
+.-
+
+,..
+
+.
+
+.
+
+.
+
+.. .
+
+. .
+. .
+
+..
+,.
+..
+PREPH
+
+FROM I?EE”l?H
+ANNU~
+
+REPORT
+
+. .
+.
+
+.
+
+.
+,.
+
+.
+
+.
+
+REPORT No.58
+
+CHARACTERISTICSOF HIGH-TENSION
+MAGNETOS
+,
+v
+
+NATIONAL ADVISORY COMMJ!M7EE
+FOR AERONAUTICS
+
+.
+
+PREPRINT
+
+FROM l?~
+
+ANNUAL REPORT
+
+,V
+
+WASHINGTON
+PBINTiNG
+Omxclt
+GwnmmNT
+
+1929
+
+.
+
+,
+.
+.
+
+..-.
+
+.
+
+.
+
+..
+
+.-
+
+.-.
+
+----
+
+—
+.
+
+REPORT ~Oo 58
+CHARACTERISTICS HIGH-TENSION
+OF
+MAGNETOS
+Part L4YYCLK OF OPqRAmON OF --SPARK
+IGNITION SYSTEMS
+Part IL—TRANSFORMATION
+RATIO AND COUPLING IN HIGH-TENSION MAGNETOS
+
+F. B. SILSBEE
+
+.—
+...— . .
+
+,
+
+?
+
+REFORT No.58.
+PART L
+
+CICLE OF OPERATION OF JUMP-SPARK IGNITION SYSTEMS.’
+By F, B. SILSBEE.
+.
+
+REM.IM12.
+The purpose of this report is to outie
+briefly the succession of operations which occur in
+high+nsion
+ignition systmns in order to show the m~ection
+between the various phenomena
+concerned and their relative importance on a basis of the energy transformed.
+It is hoped in
+later reports to give in detail the results of measurements of various individual parts of this cycle
+of operations, and the present report is issued as a bask for interrelating these latm discussions.
+Throughout
+the report numerical values ar,e given for the different electrical quantities
+of various magnetos
+These values have been obtained by actual meuwements
+involved.
+They may be considered as typical of this class of
+recently testwl at the Bureau of Standards.
+apparatus.
+Figures 4 to 17, inclusive, give reproductions of osciUograms taken on magnetos
+while operating under various conditions.
+The cycle of operation of the jump-spark system can be split Up into a number of periods.
+During each period the electrical phenomena proceed under fairly definite conditions, each
+period in turn being separaiwd from the one preceding and the one following it by an abrupt
+change of conditions.
+~eriod No. 1 includes the building up of current in the primary winding as a result of
+either the impressed voltage from a battery or the vo~jage g~erat-ed by the rotation of a magneto
+The resq.h of this period is the esta~khent
+of a current (lb) in the inductive
+armature.
+winding.
+~etid
+iVo, ~ covers the short interval between the instat
+of the interruption
+of the primary current by the circuit breaker and the brealdng down of the spark gap in the engine
+cylinder. During this period the magnetic energy of the coil is in part transformed into electrostatic energy and charges the condenser smd Capacity of the secondary leads.
+~Ad
+iVo. 3 is a second very short ini%val (0.00005 second) beginn@g at the instant at
+which the spark gap breaks down and lasting until a steady arc is established in the gap.
+Period No. .4 extends from the establishment of the secondary current in a steady arc
+across the spark gap to the extinction of the spark.. Ik durationisquite appreciable and may
+be severtil thousandths of a second. It is during this period that most of the spark energy is
+dissipated.
+Period No. 6 covers the short intarval during which the spark is being extinguished b; the
+closing of the contact breaker.
+Period No. 6 covers the remainder of tie g@e during which the circuits are practically
+free from current previous to the beginning of pri~d No. 1 of the following cycle.
+The above division into periods applies with slight Eotications
+b both battery and
+It is believed that a clear recognition of the very difIerent condimagneto ignition systems.
+tions which exist during the various periods MU rssult in a bettor comprehension of the extremely
+complicated phenomena which occur in these forms of electrk al apparatus.
+WE
+StaR@d9&n 1MQPowvW@ %prt ??o,”
+“
+??,
+!m Repoti WM COrdddidl$’drodateddurins wara9EWWU-O1
+9
+
+-—
+—- -.”
+
+..
+-.——
+.“-—
+.
+
+------
+
+. .
+,..—
+
+. ..
+
+.--A
+ANNUAL REPORTNA!HONALADVISORY
+CO--TEE
+
+4
+
+FOR AERONAUTICS.
+
+INTRODUCTION.
+
+The purpose of this report is to outline briefly the salient features of operation of the hightension magneto, and of the simik battery ignition systems, and to trace the various traneforrnationa of energy which take place. The resulte of numerous measurements on such systmna
+as have been studied at the Bureau of E%andards will “be quoted in illustration of these properties. These phenomena are doubtless .underetiod by magneto designens, but with the exception
+of the excellent papera by Armagnat and Young referred b“ below, the literature of the subject,
+is very meager and consiste chiefly in elementary expositions for the instruction of’ the amateur
+automobilist.
+Thti cycle of operations of a jump-spark system can be divided into a number of periods.
+During each period the electrical phenomena proceed under fairly definite and constant conditions, each period being separated from the one preceding and the one following it by an
+It is hoped in later reports to discuss in greater detail and in a
+abrupt change of conditions.
+more quantitative
+manner the phenomena of certain of the p&iods; and the present report is
+issued as a basis for interrelating these later discussions.
+The operation of the usual forms of battery ignition systems is quite similar in many respects
+ta that of the magneto, and the greater part of the following discussion is applicable to both,
+The principal points of difference
+with suitable changes in the values of the various constants.
+in the two types of apparatus are discussed later under “Battery Eiystems.”
+Throughout this report frequent reference will he made to numerical values of the various
+quantities which may be expected in a typical case. For this purpose a magneto having the
+constants in the following Table I has been chosen, These constante do not precisely fit any
+individual magneto but are representative o f values measured on a number of different types
+recently tested.
+TA~~EL-t%mtanta OJ!&@al Magneto.
+--
+
+..
+—
+.
+_.
+
+*
+
+—
+
+. ..:-
+
+(NJ.......................................................... 100.
+
+SewndWtim
+(N.). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..8.m.
+&tiooftum (n). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50:1.
+0.6 ohm.
+Primary radstance (Rl). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+&won@ resistance(RJ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..2.m"oti.
+Pti~hdu&nce
+(Ll). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0.015henry,
+0.74hc.nry,
+Mutwlbdu*ce
+@) ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . .
+&mn@hdu@m
+(L.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88henrys.
+primary condenser(Q) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+0.2 ticrofamd.
+Secondary(distrib.) capacity (CJ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50 micro-micmfarad~,
+..............................................i..2jWOr.
+p.m.
+Normalepeed of operation .:
+*c~tatb~k
+(I.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4amperea.
+Maximumcurrent in spark. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+0.075ampere,
+.
+BreakdownVO@S of I@p . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .MOOiol’ki
+sustaining Vokge of gap. . . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 800voIts.
+
+.
+.—
+.-
+
+—.
+
+....
+
+L
+
+OUTLINE OF OPERATION.
+
+.
+
+The high tension magneto combines in a single machine the functions of an electric generator
+and of an induction coil, and these two functions are to a considerable extent independent of
+one another.
+The circuite of a high-tension magneta are substantia~y as shown in figure 1, Fbei@ the
+primary winding which has a few turns of coarse wire and consequently a low resistance, whiIe
+the secondary winding S has several thousand turns of fine tire.
+The two coils are wound one
+over the other on a common iron core, which (in the ordinary or shuttle type) has the form
+shown in figure 3. Condenser Cl is connected across the terminals of F primarily to reduce
+capacity between the secondary
+the sparking at the contact breaker B, The electrostatic
+winding or high tendon leada and the grounded frame of the machine is sufEciently large to
+have a mat&al effect on the operation,
+This capacity is in part distributed along the windings
+and various portions are consequently subject to different voltages.
+The effect of this capacity
+may, however, be approximately
+re~rwented by an e~uivale~t condenser connected as shown
+dotted in 0?, figure 1,
+
+.
+
+—
+
+.
+
+CHARACTERISTICS HIGH-TENSION MAGNETOS.
+OF
+
+a
+
+.,
+.
+.
+,,
+
+“-
+
+*
+
+L
+
+—
+
+by a cam.
+
+The current
+
+decre&ms rapidly,
+
+producing
+
+a high voltage
+
+M ~
+
+in the
+
+secondary.
+This is led through a distributor
+(riot shown) to the spark gap G in the proper
+This gap breaks down at usually much less than the maximum availcylinder of the engine.
+able voltage and the magnetic energy originally stored in the primary is transferred to the
+secondary and dissipabd in the gap.
+Magnetos may be classified as ‘(two-spark, “ “four-spark,”
+etc., according to the number
+of sparks produced per revolution of the rotor. The shuttle core type gives two sparka while
+alike
+most inductor type machines give four. As a rule all the alternations are substantially
+except for the polarity of the fiduced voltage, tho~h lack of symmetry in a four-spark machine
+Special magnetos designed to fire V-type motors such as the
+may cause slight diilerences.
+“Liberty 12,” where the angle between the blocks is not a simple submultiple of the angle
+between the cranks, may have successive alternations of materially diflerent wave form.
+(See
+figure 4, which shows the primary and secondary c~enh
+of such a magneti.)
+The discussion
+below, however, will appl~ to any one alternation in any case.
+DI!WAILS OF OPERATING
+
+Period.
+I
+
+B@m.
+
+I
+
+Ends.
+
+—
+.._
+
+—
+
+—
+.-. —
+--. —
+
+PERIODS.
+
+The time occupied by one alternation of the magneti may be subdivided into six periods
+during each of which the circuit conditions are substantially
+constant, but between which
+there is a more or less abru~t change in these conditions.
+These periods are listed in the
+following table and discussed in more detail below.
+(See figure 12.)
+1.
+
+——
+
+OunditIons
+duringperiod.
+
+——
+.
+
+PER1OD 1.
+
+.
+
+—
+
+The rotation of the armature in the field of the permanent magnets N ~, figure 3, generates
+current in P which flows through contacts B. VFhen a spark is desired, breaker B is sudddhly
+
+opened
+
+,-
+
+. 5
+
+During Period 1, the breaker is closed and the armature rotates from the position of
+maximum flux to the firing position where the C- causes. the breaker to open. This period
+corresponds to about 100° rotation in 0~ typic~ =ample
+and hence lasts 0.008 seconds.
+During this time the reduction in flux btids Up a cwent
+(in our example 4 amperes) which
+tends to maintain the original flu afhr the rotor has passed the neutral position.
+If there -were absolutely no resistance ~ the primary winding” or breaker contacte the
+flux would be maintained
+constant
+current would- build Up b such a value that the armature
+when rotated h a position at right angles to or_even opposing the magnetomotive force of the
+This maintenance of the & is shown quit~ clearly in @ure 20, which
+permanent magnets.
+shows the total flux through the armature core plotted against ,angular position (or time) for
+Here curve I shows \he flux through the core on open circuit and
+three diilerent conditions.
+is due .to the permanent magnek O~Y; CmVW_~ and III give the total flux during normal
+operation of the magneto at low and %h sp~drwpecti~ely,
+and curve N shows the flux if
+the primary is left short circuited throughout a mmplete cycle. The action of the primary
+circuit in thus closing about the flux produced by the permanent magnets and permitting it
+tm be moved unaltered to a new position is in a sense analogous to the action of an electrophorous in which the charge produced by induction from the exciting charge on the dielectric
+slab is insulated and moved out of the field ~f the permanent charge.
+In either case, the
+energy is obtained from the motion of the sys~—~d
+the permanent magnets or tied charge
+The closing of the bTeaker corr=ponds
+ta the op’ening of the ground
+suffer no depletio~.
+connection to the electrophorow
+plate at tke beg
+of iti motion, and the opening of the
+breaker corresponds to the discharge of the plati aftir its removal from the slab,
+w-i–
+
+..—..-
+
+—
+
+6.
+
+ANNUAL REPORTNATIONALADWSORY
+COMMITTEEFOR M31tONAUTlCS.
+
+-..
+
+I
+I
+
+I
+I
+
+I
+I
+I
+I
+I
+
+0!
+
+I
+.+=c.
+
+fxd
+
+I
+I
+I
+
+‘=+-q
+I
+I
+I
+
+-+
+—
+,.
+
+9
+
+%
+
+P
+
+~
++
+
+I
+I
+
+I
+I
+
+I
+
+fig. z
+
+(f=J
+:
+
+v
+
+/?
+
+& &econd
+
+mg. 3
+
+0
+
+.
+
+i %-”=
+
+,
+
+.
+
+wApAwlw.sTIcS
+
+OF H.tQH-TENSION MAGNETOS.
+
+,
+
+——
+--
+
+Z;’’’’,%,
+
+I
+
+.
+.
+
+&o 5econcL
+
+8
+
+I
+.
+
+“9A.
+
+Secondary
+
+I
+
+. . -
+
+.
+1’
+
+t
+
+primary
+
+I .
+
+I
+
+& .5econ A
+4
+
+15975%2C&No.5%2
+
+.
+
+.
+
+8
+
+ANNUAL EEPORT
+
+‘NATIONAL
+
+ADVISORY
+
+CCIMMITTEE
+I?ORAERONAUTICS.
+
+.
+
+I
+
+Pri. I
+
+4A.
+L
+
+I
+
+1
+
+J
+
+1
+‘
+\
+
+y
+
+1
+
+.
+
+‘
+Y
+
+&O Second.
+Fi%: 13,
+
+.
+
+A
+
+l\
+
+c
+Secondary
+
+1.
++
+
+v
+
+.050A.
+
+i
+{
+
+.
+
+F:g.
+
+15.
+
+6L~
+second
+
+cH.MmTElnsTIcs
+
+.
+
+OF HIGH-TENS1ON MAGNETOS.
+
+9
+
+In the actual ma=meto the primary resistance materhilly reduces the generated curi-ent
+and the actual flux at break is (ss shown in plot 20) considerably less than the maximum
+open circuit flux.
+It should be noted that there is a very considerable difference in the operation of a magmeto
+at low and at high speeds. In the former case, the primary current is limited chiefly by the
+r=istance of the windinga and has approximately
+the same wave form as the generated voltage.
+The maximum current reached ia proportional to the speed and is small so that the total energy
+stored magnetically is also small. Consequently at “break” nearly all of this energy must be
+tranefemed to the electrostatic capacity of the windings and condenser before the voltage is
+su.fticiently high to jump a normal spark plug gap. At high speeda on the other hand the
+current is limited by the inductance of the circuit and is nearly independent of speed. The
+current and magnetic energy we very much greater and ogly a negligible part of ~
+energy
+ia expended at “break” in charging the capacities to the breakdown voltage.
+Tlgs effect is
+shown in plot 2 I in which the current generated in the shorhcircuitid
+primary at various
+value
+speeds ia plotted against speed. The lower curve shows the effective (root-mem-square)
+as observed with a hot wire ammeter, and the upper curve the maximum value of the current
+It is evident that above 400 revolutions per minute the current is
+wave from oscilIograms.
+large and independent of the speed wbde at low speeds the current is smaller and of more peaked
+wave form. This is also shown by a comparison of figures 6 and 6 which show the di@renca
+in the wave form of the primary current on short, circuit at low and high speeds.
+The primary current finally attained at break, rBj is of the greatest importance in dei%rIt can be determined directly by an oscillograph by
+mining the performance of the apparatus.
+inserting a shunt of about 0.025 ohm in series with the primary and connecting the oscillograph
+vibrator across this shunt.
+This method has the disadvantage” oi introduci~m resistance into
+At high speeds this disturbance is entirely
+the circuit and thereby disturbing conditions:
+negligible, for the current @ then limited ‘by tie inductance rather than the resistance of the
+At low speeda, hcwever, the resistance ptidominates
+and %e error might amount to
+circuit.
+The current waves in figuras 4 to 19 were obtained
+5 per cent or 10 per cent at very low speeds.
+in this manner.
+Other methods for de~
+the primary current wave are based on first obtaining the
+open-circuit vdtsge wave or the flux wave md hen mmputing the current by a step-by4ep
+process.
+&nmgnat I and Young 2 have developed tie fouo%~
+equations for this purpose frcm the
+fund amental equation
+.,.
+-.
+
+f-+%
+
+which applies to any inductive
+they obtain
+
+LettingA.=
+
+J
+
+circuit.
+
+By integrating
+
+m
+
+this over a short interval
+
+i can be taken lss cha~mi~w lhearly
+
+tie voltage-time
+
+wave between&
+
+over the short time interval
+
+and t,,and assuming
+
+considered
+
+..
+.-L
+
+-.
+
+-—- ..—
+.
+
+.-
+
+.
+
+At =4 – ~
+
+s?
+’~’=Rst’dt+L(i’2-~1)
+
+~ ~ dt = mea ~der
+
+—... -
+
+(2)
+
+that
+
+we get
+(3)
+
+or
+
+~h=9A+i~1(2L–RAi!)
+~L +B&
+TI& gives
+
+the
+
+worbg
+
+(4)
+
+equation for the current i~, when the current at the preceding time itl
+.-
+
+is kno-ml.
+E
+E
+KIM.
+1Amm~t, H. R6P. Iectri@e 23,i WI*, 191S. lectkhn ;I$p.S65499,
+J
+i YOUW
+A.P. Aerrmautfcal our.,PP.W26? 1917.Automob~ Engineer,Msmh,1916.
+
+-—.
+
+.._-
+
+L
+
+WITH POSITION.
+BERL/NG 08/MA
+GNE70.
+Curve
+#,
+88
+
+ii
+
+tt
+
+A = Onet7 C+cuif.
+/9 = O~emf%g
+S00 R. RM
+c.
+4(
+Zcvo
+“
+.
+/@W
+m .
+f)
+= S/7orfCircu@.
+
+.
+
+P/&/va
+
+23
+
+1
+
+I
+I
+
+II,!
+
+‘
+
+AngulurA#it7bn of.S%atY
+(Deqm)
+
+.,
+
+/
+
+.
+‘,,
+\
+
+I
+
+q
+
+‘\,
+
+I
+
+1~
+&A7-Poy SPMK
+
+.
+M
+n Jz
++
+Qa
+8
+.
+.
+
+BOSCH MAGNETO
+
+(c.ptidin Plane.)
+- ~pQ Z/f6-.W58tW3 6 Cy/.
+AdVonced
+Z Sporhprt’f?m
+
+“
+
+)
+
+ANNUAL REPORTNAl!lONALmwORY
+
+12
+
+Since e in the above equation
+magnets only, we may write
+
+COm—lfifiE-Fti
+
+is the E. M. F. genmated
+
+—_
+.
+..”.-.
+
+A.EROtiiUTIC~;
+
+by the flUXfrom the permanent
+.
+
+e=
+
+–~d~m
+
+.=:
+
+tit
+
+and
+
+_
+
+.7. .
+.. .
+
+..
+..
+.
+
+.
+.
+
+.-”~”--”
+(6)
+
+-
+
+-:
+
+.
+
+—
+
+----.
+:
+
+A= N (w,– $%)
+and hence may compute i from the open-circuit flux wa~e by equation (4).
+The volkoe wave (figures 8, 9, and ] 0) may be observed directly with the oscillograph by
+connecting the-tibrator. i.; series with a resist~ce of semral hundred ohms across th~ b~e~er
+This connection does not appreciably interfere
+points (the latter being permanently insulated).
+An alternative method is to observe the primmy flux wave
+with the conditions of operation.
+with the ballistic galvanometers and obtain the voltage wave from this by the quafion
+
+—
+
+~
+.
+
+—
+!. .
+‘ .. . . . ..
+
+q ;
+.-
+
+PERIOD 2.
+
+Period 2 is of extremely short duration (about, 0.00002 second) and extends flom the
+instant of opeti
+of the breaker to the time of breakdon
+of the spark gap.
+During-this ~eriod both the breaker and spark ga~-are open, ~nd t~e-system c&sista of
+two inductance coils ~ery closely coupled magnetically and each shunted by capacity.
+Since
+it is impossible without the expenditure of itite
+power to abruptly change the current in an
+inductive circuit, the primary current now flows into the condenser rapidly chargi~o it. The
+charge in the condenser offers a continually increasing electromotive force in opposition to the
+primary current, which therefore decreasw at a constantly increasing rate.
+The decrease of
+flux resulting from this decrease of primary current generates an E. ~. F. in the secondary winding
+which in turn sends a charging current into the dktribu.ted capacity of the secondary windi~~
+and leads. The net effect is, therefore, a partial transfer of current from the primary to the
+If the spark gap were not present this process would continue until. the
+secondary windings.
+magnetic energy had been entirely converted into ~ectrostatic energy in the charge capacities,
+at which time the currents would have been brought to zero and the flux would have the value
+determined by the permanent magrmts alone. The mammmn voltzge which would be reached
+at this time, if energy losses am neglected, is given approximately by the equation,
+‘
+
+=
+<
+
+.___
+.... ,---A
+——
+—
+—..
+——
+-.—
+9s=
+
+,=
+
+-——
+-.
+..
+—
+4--=
+
+.- —
+——
+
+.
+
+_.-
+
+.
+
+where L iEthe incluctanca of the primary winding and C the capacity which is equivalent to the
+combined effect of both the prigary con.demer and secondary distributed capacity.
+For our
+typical example this would reach 70,000 volts. Actually there is throughout this time a steady
+drain of energy due to the resistance of the windings, @ dielectric loss in the condenser, and
+especially the eddy currents in the iron core and pole pieces. These losses are sufficient to
+1-..
+reduw the maximum voltage to about 40)000 volts.
+The curves in plot 22 show the rise of voltage and decrease of flux as computed for our
+typical example after making certain simplifying aammptions.
+If account is taken of the magnetic leakage flux be$>veen the two coils, the voltage wave
+will be found to be a combination of that shown with a second oscillation of higher frequency
+The theory of this effect has been worked out by Prof. E. Taylor
+and smaller amplitude.
+Jones (Phil. Msg., August, 1918).
+The curves marked “open circuit” are computad for the case when there is no energy loss
+The second pair of curves computed for a shunt
+except thatin the resistanw of the windings.
+~f 5601000 oti
+connect~ across the high tensiou terminals comesporid to a drain of energy
+
+.
+
+_-—
+-. .._.
+—
+
+.
+
+\
+
+QH&LAa~HTIos
+
+OF HIGH-TENSION MAGNETOS?
+
+13
+—
+
+*
+
+q
+
+approximately
+equal to hat to ,be expected from eddy CUIT~~.
+The t~d
+PRir Of CUrVeS
+correspond to a shunting resistance of 110,000 ohms, which might occur with a partially fouled
+spark pIug.
+The assumption upon which all these cui%es have been constructed is that tie spark
+gg? does not break down. In normal operation, however, the spark gap breaks down at about
+-6,000 volts, and consequently new circuit conditions are introduced before the resultant flux
+‘- has decreased materially from its value at break.
+In the above discussion it is assumed that the breaker succeeds in opening the cir@t
+If an arc occurs at break, some of the energy is dissipated
+without sparking at the contacts.
+then, and the rate of decrease of primary c~ent,
+and consequently the induced secondary,
+volt age, is much less. Figures 14 and 15 show the excessive arcing at the breaker which occurred
+when a special cam -was used giving a very slow rate of separation of the breaker points.
+The
+contacts separate at a, but the arc mainta~s
+We cw~t
+~tfi ~~ when it fia~y break and a
+considerably reduced spark results.
+
+.
+-.—
+
+PERIOD 3.
+
+iI
+
+When the gap has broken down it affords a conduct~@- path, and the charged secondary
+capacity and leads immediately
+discharge through it. The exact conditions existing in the
+spark, pmticularly immediately after breakdown,
+are stiU ob~cnre, and it is possible that this
+first discharge may be oscillatory and of high frequency.
+Tests made by loosely coupling a sensitive wa~e meter to the secondary circuit of a magneto have shown no indication of resonance with any oscillations within the range betwean 30,000
+and 1,000,000 cycles, although the apparatm used was suiliciently sensitive to have detected a
+steady oscillation of 0.2 milliampere throughout the range.
+A circuit formed by connecting a
+loop from one point of the distributor to ground was found to absorb oscillations of frequencies
+from 3,000,000 to 10,000,000 cycles per second for various configurations of the loop, but no
+such absorption vw detected at frequmcies from 2,0~— to 3“0,000 cycles per second.
+Any
+oscillations which may have been present must therefore have been very feeble or very highly
+damped.
+In addition to this discharge of the leads, the current increases rapidly in the secondary,
+since it is now practically short-circuited
+by the gap; and the primary current simultanemdy
+decreases at such a rate that the total ampere turns linking the main flux are maintained with
+little loss. The charged primary condenser hastens the decrease of primary current and uItimatdy reve~es it for a short we while the condenser energy is-being shifted to the secondary
+side. The dissipation of energy in the gap, however, is probably euflicient to damp out any
+oscillations from this condenser.
+The net results of the three simultaneous processes during this period are, therefore, (a) the
+discharge into the gap of the energy stored in the capacity of the leads; (b) the complete stipping of the primary current and the formation of a secondary current giving approximately
+the same ampere turns; and (c) the tilpation
+in the windings and gap of the energy in the
+primary condenser.. The duration of the period is of the order of one cycle of an oscillation,
+detaznined by the primary condenser and the leakage inductance of the windings (approximately 0.00005 second).
+The energy discharged into the gap d&ng this time is about 0.002
+joties, which recent measurements indicate js just about sufficient to ignite am explosive mixture.
+It is therefore probable that this period 3 is the one fundamental to ignition,
+PERIOD 4.
+Period 4 extends from the establishment of the secondary current in a steady arc across the
+spark gap to the extinction of the spark.
+During this time there exists across the gap a steady
+discharge which lasts for a considerable time (0.003 second in the case of a 5-mm. spark gap in
+air). It has been found experimentally
+that the voltage drop in the gap iE roughly constant
+during this entire period, as is shown by oscilIograma such as figure 16. The capacities therefore
+remain with a small charge and have little effect on the phenomena.
+The energy dissipated in
+the gap is supplied by the decay of the secondary current in the coil, and since the voltage. is
+approximately
+constant and
+.
+
+“
+
+~z
+—-4
+‘--
+
+—
+.—
+
+-
+
+—
+
+q
+
+.
+
+. ... ..—
+. .
+
+.-
+
+14
+
+ANNUALlUU?OR~
+NATIONALADVISORY
+COM-E
+
+Foi AERONAUTICS.
+
+.
+E=-&
+
+.
+
+h-r
+(7
+is thus seen to increase rapidly from about 8,000 olmM it the begi.ntig
+of period 4 to a very
+high value at the end. It is during this period that the major part of the energy of the spark
+----------is liberated in the gap.
+In the case of the fnduction coil of a battery eysti.the
+magnetic field is the only source
+of energy and the heat dissipated in the gap may be computed with a fair degree of accuracy
+In a
+from the stored energy ~ L IE’ by correcting for the PR loss in the secondary winding.
+magneto, however, particularly
+when operati% at full advance, the voltage generated by the
+rotation of the secondary winding in the magnetic field is comparable with the sustaining voltage
+across the gap; and a very considerable amount of energy is thus forced into the secondary
+by the rotation of the armature:This may cause a v~y marked “hump” in the secondary
+current wave, such as appears at c in figure 15. The E. M. F.’s in the circuit satisfy the equation:
+.
+the current
+
+drops off linearly with time.
+
+The instantaneous
+
+resistance
+
+of the spark
+
+.—. -.
+-. >.
+--
+
+t
+
+‘
+
+,
+
+s
+
+E, – L~ ‘~= E, +&ia
+where & is the voltage generated by the rotation of the armature in the maagqetic fieId and
+E, is the voltage drop required to sustain the arc between the gap terminals.
+The corresponding
+energy equation may be Writ@:
+h
+Energy derivedfrom rotation+mergy releaseilby lmakingwimary= heat eprk + loss in secondarycopper,
+The following fmble gives typical values of these quantities compu@d from oscillograme
+together with the-spark heats observed with a calorimeter in three particular cases:
+.
+.. . .. ..
+t
+
+......
+a
+Megneto.
+
+~’~z’
+
+=x=xi
+
+Magnetio
+energg
+
+Total. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Htithapark
+
+(@odmeter) . . . . . . . . . . . . . . . .
+
+Hefbtinepark
+09Ci110g8@I
+. .. . .............
+Smndarycaperloss. . . . . . . . . . . . . . . . . . . . . .
+
+1
+
+!_
+
+0:~9
+
+. %“
+
+.15
+
+.16
+
+.0s
+
+.019
+.016
+- :%4
+
+.15
+
+.al
+
+.11
+
+..
+
+.04
+.06
+
+.0s
+.(3I
+
+Total. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+“.s4
+
+.16
+
+Straykm= ( E difhrence), . . . . . -..!.-...
+y
+
+--”.
+-.
+—.
+
+2%”
+
+0.16
+
+0:$
+
+RotaUonelmrSY.... . . . . . . . . . . . . . . . . . . . . .
+.
+
+‘
+
+.(04
+
+.010
+
+In the case of iron-clad oircuits such as are here considered the. term “inductance”
+is
+It ewklently varies with the angular posisomewhat vague and is di.flicult to define precisely.
+tion of the rotor, with the current flowing, and (because of eddy cuments) with the rate of change
+It K possible, however, with the armature clamped in any given position, to deterof current.
+mine by the ballistic galvanometers the ohange in flux turns’ corresponding .to any given change
+in current, and the equiv~ent inductance can then be computed.
+Plot 23 shows hystereds
+loops determined in this way. This illustrates the i,elation between the secondary flux turns
+and the primary current” for a shuttle-type magneto when the armature is clamped in the positions of zero flux and maximum flux, respectively,
+In the first position, the permanent magnets send no flux through the armature core, and the loop was obtained in the usual manner
+with currents in both directions.
+In the second position the magnets alone would produce
+the flux indicated by the apex of the loop. The curve was obtained by applying currents
+opposing the ma~gets and noting the corresponding changes in flux. From curves of this kind
+i t is possible to astablish approxim-atdy the equivalent inductance corresponding to any givm
+conditions.
+A much simpler method is to measure the effective inductance of the windings while
+clamped in any position with alternating current, using either a bridge or a voltmeter-ammeterwattmeter method.
+A typical curve obtained in this way is shown in plot 24, This method
+ww used in obtaining the values given in the preceding table,
+~~
+
+_..
+““ ‘~
+
+““””l
+e
+=.
+
+.
+
+—
+
+CHARACTERISTICS HIGH-TENSION MAGNETOS.
+OF
+
+“- -’1
+1
+
+t
+
+15
+
+The stopping of the steady arc and consequently the end of period 4 maybe due to one or
+the other of two causes.
+These are (a) the exhaustion of the energy supply which results in
+the gradual reduction of the current to zero and the cessation of the arc, as is shown in &ures
+11 and 14, or (b) the closing of the primary breaker which has the effect of quickly =tinguishing
+the spark, ae is shown at a in figure 13. In the former case there is at very small currents a
+rather rapid increase of the sustaining voltage (as &t a, @e
+16) to a value which at the instant
+of cessation of the spark may be double its normal value.
+The secondary current consequently
+drops to zero at a somewhat more rapid rate than during the major portion of period 4. The
+“ natured” or uninterrupted
+dying out of the spark usualIy occurs in magnetos operating at
+moderate speeds and with reasonably long spark gaps, and almost in-ra.riably occurs in battery
+systems... It may be considered as the normal mode of operation of the syhmi.
+Owing to the large number of variables (such as current at break, rotational energy, and
+extinction of the spark by the closing breaker) which affect the total heat liberated in the gap: it
+is impracticable
+to accuratdy
+predetermine
+the heat per spark for any particular condition.
+Plot 25 shows how this heat (observed calorimetrically)
+varies with magneto speed for a
+particular German Bosch ZK6 magneto.
+PiRIOD
+
+6.
+
+the magneta is operating at very high speed or on a very short spark gap, the primary
+contact breaker may close before the spark has died out. In this case the circui$ conditions.
+are again changed and an additional transition period 5 must be considered.
+The sequence
+of events during this period is quite closely the inverse of that occurring during peiiod 3. The
+decreasing flux caused by the decreasing secondary current induces an E. M. l?. in the primary
+turns -which rapidly buiIds up current in the now short-circuited
+primary winding.
+This
+increase of current in turn, by its mutual induction on the secondary turns, rapidly decreases
+The net effect is that the remaining ampere turns linking the main
+the secondary current.
+flux are transferred from the secondary back to the primary and the spark is extinguished.
+-At
+the same time the primary condenser which had been charged to the small voltage given by
+the quotient of E, divided by the ratio of turns, discharges through, the contact, and later the
+The entire duration of the period is extremely
+second?ry capacity is sinddy
+discharged.
+short and is of the order of 0.00005 second.
+If
+
+.—
+
+—
+
+-.
+
+PERIOD 6.
+
+Period 6 m“ay be defined as lasting from the end of period 5 until the armature has rotated
+to the position where it receives maximum flux from the magnets.
+During this time the primary
+current continues to decay approximat~y
+according to the exponential law
+1= IOe-$*
+where R and L are the resistance
+at the end of period 5.
+
+and inductance
+
+The value of ~ for ~
+
+of the primary
+
+circuit and 10 is the current
+
+cticuit is much smaller than for the circuit
+
+formed of the secondary winding and spark, so that the rate of decrease of current is quite
+slow, and an appreciable current maybe flowing, when the position of maximum flux is reached,
+and period 1 of the next alternation begins.
+In some cases this interference may be so great as to cause the succeeding spark to miss
+fire as shown in figure 17. In cases where the spark dies out before the closing of the breaker,
+period 6 follows immediately after period 4 and the circuit k practically free from current
+throughout the period.
+During the interval after the dying out of the spark and before the closing of the breaker
+there may remain a small amount of local eddy currents in the iron core and pole pieces. &
+these decay exponentially they induce in the winding an appreciable E. 31. F. such as is shown
+at 6 in figure 16. After the closing of the breaker, this E. M. l?. reestablishes a small primary
+current in the original direction, as shown at a in figure 12. These minor effects afford possible
+but rather inaccurate means of estimating the magnitude of the eddy curreda and hence their
+much more serious effect during period 2,
+
+-.—
+
+.
+
+16
+
+I
+
+ANNUALREPORTNAmONAL &OVISORY
+COMM1~EE FOR AERONAU~OS,
+
+Fi9.18.
+BATTERY
+
+In the case of the usual arrangements of
+are shown in figure 2, period 1 may be defied
+to ita opening, and is quite closely analogous
+builds up during this period approximately
+
+SYSTEMS.
+
+battery system, the typical connections of which
+aS l~sting:fmm the closing Of the primary contact
+to period 1 for a magneto.
+The primary current
+according ta the equation
+
+=
+—.
+
+.gt
+
+~=ig(l-e
+)
+but may depart somewhat from this because of the va@ng permeability of the iron core and
+the heating and consequent change in resistance of part” of the circuit.
+This rise of current is
+shown in figures 18 and 19. In the so~alled ‘‘closed: circuit” t~e of system, period 1 l~sts
+during a constant angular motion of the engine shaft and its duration is consequently shorter
+the higher the speed. In the “open circuit” systems the circuit is closed for a constant time
+interval at all speeds and this interval is usually much less than required for the current to
+approach
+
+the constant
+
+-.
+.
+-.
+.=
+—. --—
+—__ ._>
+—
+-=—
+—._.
+~.
+-~
+—.
+.
+
+value ~.
+
+The energy which can be stored in the magnetic field during this period is usually decidedly
+less than that obtained with a magnet? at normal spee~>ecause of the lower voltage available.
+The battery system usually operates on 6 or 12”volts,-’whtie a magneto may give a primary
+peak voltage from 50 to 100 volts at b.igh speed. The battery, however, maintains ite voltage
+at all speeds while the magneto may give only 4 or 5 volts peak at 100 revolutions per minute.
+Periods 2,3, and 4 are practically the same in both battery and magneto systems-except
+that the effect of the rotational energy is absent in the. battery system, and the spark heat for
+Owing to this small energy content,
+the same inductive eneigy is correspondingly reduced.
+the spark almost invariably dies out before the closing of the contact for the next spark, as
+shown in figuree 18 and 19. Consequently, pernod 5 is absent and the circuit is entirely dead
+during period 6.
+CONCLUSIONS.It appears from the above analysis that periods 1, 4, and 6 are of comparatively
+long
+duration and the phenomena occurring therein are relatively slow and well understood.
+Periods
+2 and 3, on the other hand, are extremely short, arid very little experimental data are available
+b con.fhm or disprove the theoretical speculatioris as “G what takes place. These two periods
+are, however, in a sense the most important of the entbe cycle sbcg” it “h-the rise of vohage in
+period 2 which determines whether or not a spark pa&”es at all, and the actual ignition of the
+mixture probably occurs during period, 3. The usual forms of oscillograph are entirely uable
+
+-m
+.—_
+
+..
+
+.
+
+---
+
+.-~
+-.
+.——
+J ..
+
+CHARACTERISTICS
+
+---
+
+*
+
+-
+
+OB HIGH-TENSION
+
+MAGNETOS.
+
+17
+
+to analyze processes of such short duration, but the Braun tube (or cathode ray oscillograph)
+seems to @oral a promising tioI for studti
+th~e phenom~a.
+It @ems etident that the distributed capacity of the secondary winding and high tension
+leads k of great moment in determining the maximum voltage attained in period 2. Also the
+.&y currents cause a very serious drain of energy, particularly in mignetos with solid pole
+.. --= pieces, though the~ effect is probably quite small in battery systems in which the magnetic
+circuit can be thoroughly laminated.
+Convenient methods of measuring these two effects are
+./
+Preliminary measurwnenta of the apparent resistance-and
+inductance of the
+greatiy needed.
+-,-—
+windings with an alternating current bridge at frequencies up to 3,000 cycks throw some light
+on this problem, and if a convenient way of interprethig
+the results can be vvorked out, this
+method may prove useful.
+The requirements of an ignition system are quite different from almost any other form of
+electric generating system and me in some respects conflicting in character.
+A high voltage is
+required to jump the spark gap through the cqmprwsed gas in the engine cylinder.
+Ti’bile
+this is usually only 6,000 to 6,000 volts, it maybe very materially increased by oil fllma on the
+electrodes and a cold and consequently dense charge when starting an engine.
+Such a high
+voltage, of course, requires a large number of secondary turns.
+On the other hand, the spark
+plugs frequently become coated with a conducting film of carboq, vrh!ch drains the energy
+during period 2 in much the same manner as the eddy currents.
+It then becomes necessary to
+supply such a large current that the IR drop in the carbon deposit is equal ta the sparking
+voltage of the gap in order to produce a spark.
+Siice the secondary current during periods
+3 and 4 is limited b the value which produces the same ampere turns around the armature
+core as did the primary current before “break,” this second condition requirw a small number of
+secondary turns.
+Recent measurements at the British National Physical Laboratory indicate that the actual
+energy required for ignition is very small compared to that furnished by any commercial form
+of ignition system, and any excessive amount of power is slightly detrimental in that it increases
+burning of the spark plug and contact breaker termids.
+The paradoxical requirement
+is
+therefore for a system furnishing large current and voltage but small power.
+A possible solution to this problem lies in the use of a suitable subsidiary spark gap and
+condenser as used in the lkdge arrangement
+and similar high frequency systeins, in which
+the voltage is made as great as possible and the large current required by a fouled plug is
+obtained by the sudden discharge of a condenser through the auxiliary gap. The presence of
+the condenser, however, tends to reduce tie maximum voltage att@nable and-to some extent
+defeats its own purpose.
+Report No, 57 gives the results of preliminary “work on th~ type of
+device.
+
+... —-.
+
+.
+_.—
+
+. .—
+
+.—
+*
+
+-—_
+.-. —
+=
+
+:-:
+
+.
+
+—
+
+.
+
+REPORT No.58.
+PART IL
+
+TRANSFORMATION RATIO AND COUPLING IN HIGH TENSION MAGNETOS.’
+By
+
+F. B.
+
+SIISBEE.
+
+RIWJMM.
+This report describm a convenient method for measuring the ratio of turns of high tension
+magnetos or induction coils. Two resistanoas are connected betwe~ the high tension terminals and ground, and a galvanometers is connected between the junction of the resistances
+and the junction of the primary aad secondary windings.
+The resistances are then adjusted
+until no kick of the galvanometers occurs when the magnetic flux through the coils is suddenly
+varied.
+This variation in flux maybe made by moving the rotor of the magneto or by interrupting a current in either windhg.
+From measurements by both methods an estimate of the
+ma=guetid leakage and coupling coefficient is obtained.
+ResuIts obtained on various mapetos
+by this method are given. The ratios are usually between 40:1 and 70:1, and the magnetic
+leakage flux is only 2 to 4 per cent of the flux common to both windings.
+
+.. ..
+
+. .. .._
+
+INTRODUCTION.
+
+A knowledge of the ratio of turns or more strictly the ratio of magnetic linkages between
+the primary and secondary windinga of ma=wetos or spark coils is frequently neaded, both in
+predicting the performance to be expected from a given coil and in an~yzing the results of
+. oscillographic tests, etc. The method which is described in this report is similar to the alternating current methods used in obtaining the ratio of transformers and no claim is made for
+novelty in respect to it. It has, however, bean found very useful in connection with the investigation of ignition probkcs
+and is capable of all the accuracy needed in such work.
+
+.-. ..-—
+.:_
+—
+
+.----
+
+PROCEDURE.
+
+For simply obtainhg an approximate v~ue for the ratio of turns the connections shown
+in iigure la are used. H-we S and ~ are the secondary and primarj w“indinga of the rna==eto
+or induction coil, respectively.
+resistances, one of which should
+& and R, are noninductive
+be adjustable.
+G is preferably a ballistic galvanomet.m of fairly long period, but almost any
+type of galvanometers can be used. In obtaining the results which are given in the later sections of this report a small Paul unipivot galvanometers of about seven ohms resistance was used.
+In case only moderate accuracy is needed, any low range direct current ndliammeter
+or millivoltmetar is suitable.
+With the connections as shown the magnetic flux through the windings
+is suddenly varied, as by rotating the armature 180 electrical degrees, and the remlting throw
+of the gahwnometer noted.
+The resistance l?, (or R,) is then varied until this throw is reduced
+to zero. When this condition is attained the ratio of flux turns is given by the formula
+(1)
+
+.
+
+.----
+
+.--—
+..
+
+,
+
+and secondary turns, respecti~ely, and Av, and APP are the
+Eiere N, and NP are the primaw~
+respective changes in the flux linking the two coils, and are of course nearly equal in value.
+Care must be taken that the
+S, ~, R, and R, are the values of the co~esponding resistances.
+I ‘PhlE
+.RePoti confIdaMally ch’ctdatedalar@
+WU9
+
+the W=
+
+ES
+
+BLUeaU
+ofStaudsti Aermmtlo
+Power lonkR*
+P
+
+No.16.
+19
+
+. .
+
+.“
+
+20
+
+ANNUAL
+
+REPORTNATIONALADVISORY
+COMMITTEEFOR AERONAUTICS,
+
+resistances of the circuit remain constant-when
+tha flux is varied, and to secure this condition
+the carbon brushes which are usuaIIy used in magnetos must be replaced with metal brushes
+or flexible wire conrmctions.
+MATHEMATICAL
+
+The E. Af. F, induced in the primary
+
+THEORY OF MlH’HOD.
+
+by the changing flux is
+
+Ep= - Npd~-
+
+(2)
+
+&= – &&_
+
+and the secondary
+
+—.
+
+(3)
+
+E. M’. F. is similarly
+*
+
+Applying Kirchhoff’s laws to the two circuits shown in figure 1, we obtain the equation
+1
+
+dp,
++i,(iS
++l?l)+
+– N,=
+
+(i,– ip)l?o O
+=
+
+dp
+– Np# +ipw’ +R,) + (ip–ma
+where lla is the resi@ance of the. .@vanometer
+}
+in the two circuits.
+,
+Integiit”ing these with respect to tfi~~from
+-
+
+Nub,+ (S’ RJ
++
+
+–
+
+N#pp+ (P+R,)
+
+(4)
+
+=o
+
+(5)
+
+and. iP and is are the instantaneous
+-.
+t,to t2gives .
+
+[iJ’+JB’’-iJd’=”
+u?p(’-’=o=o
+
+—
+
+currents
+
+(6)
+(7)
+
+where Ap, and AipPare the changes in flux between t~ initial and final conditions,
+S.hme BQ
+is constant, it can be taken outside of the integral and the third term in each equation becomes
+
+R,
+
+h.
+h (i,–ip)dt =Rg @
+s t,
+tl
+
+J
+
+(8)
+
+Now, if the time interval during which the chaage oggurs is short compamd with the natural
+period of the galvanometers, the deflectiori will be proportional
+ances were adjusted to give zero deflection we have
+:
+
+to fi#, and since the resist-
+
+s‘~t=o,orf’$;=odto
+h
+
+;*
+
+Dividing equation
+
+(6) by equation
+
+““)
+
+(7) gives
+~&P,
+
+‘p
+
+(S ;R,)f;,dt
+
+“ (P +R,)
+Tt
+
+““””
+
+“~
+
+‘ “0’
+
+or by equatiorL(9)
+(11)
+MEASUREMENTS
+
+WiTH CURRENT IN COILS.
+
+The validity of the method as just described does not depend upon the manner in which
+the change of flux AP is produced, and this can; if desired, bs obtained by passing a ciirrent
+through one of the cQils and interrupting or ch~ging the value of this current,
+In this case,
+however, while the current is flowing there will be an lli drop due to the resistance of the coil
+which will tend to cause a permanent deflection of the galvanometers and will thus interfere with
+the measurements.
+This can ba eliminated by using a WheatStone bridge arrangement,
+as
+
+-——
+
+.
+
+.
+
+.
+
+,
+q
+
+(0]
+(b)
+
+m
+0
+
+s
+
+SCHEMA T/C D/AGRAM Of RATIO TEST
+
+RR
+
+s
+
+P
+
+G
+
+(u)
+
+S
+
+(bJ
+
+LEAKAGE fLUX/N
+MAGNETO
+
+P
+
+(c)
+CONNECTIONS FOR /WT/OTEST
+Fi@. Z,
+
+,,
+
+92
+
+ANNUAL
+
+REPORT NATIONAL
+
+AD~ORY
+
+CO”~Efi
+
+&OR AEhONAU!CId&
+
+qhown in figure lb. Here R8 and l?, are auxiliary resistances which, together with P and &,
+The procedure is to first Adjust l?, ao that iibis bridge is balanced
+form a Whetstone
+bridge.
+The resistance l?, is then adjusted until
+while a steady current is flowing through the primary.
+the galvanometers gives no throw when this current is interrupted.
+When a balance has been
+obtained under both conditions, it can be shown by reasoning similar to that in Section 111
+that
+
+““
+
+-”
+
+.-
+
+A similar arrangement
+can, of course, be used to send current through the secon~ary
+windings, as is shown in figure 10. Since the value of the resistances S and P are involved in
+the final formula, these bridge circ~its serve very conveniently, if the values of R8 and R, are
+known, to measure the resistances of the windings.
+Owing to the fact-that the windings are of copper, which rises in temperature considerably
+when carrying the working current, it is usually convenient to insert a manganin rceistance of
+This serves to reduce the temperature
+about one ohm in series with the primary winding.
+coefficient of the circuit and greatly reduces the drift of the galvanometers due to the heating,.
+In the simple arrangement shown in figure 1. the presence of a condenser shunted around
+the primary has no effect upon the mewurements
+skice it is uncharged both at the beg~~g
+When sending current through the windings from a battery, however,
+and end’ of the operation.
+the condenser is charged initialIy to a voltage equal to the IKdrop in the winding, and this
+energy adds to the ba~istic throw when the circuit is broken,
+In actual practice, however,
+F~ure 2 shows the circuits as actually used at the Bureau
+this effect is entirely negligible.
+of Standards in which the double throw switches marked S—P serve to connect the audiary
+bridge arms for use in sending current through the secondary or primary coil, respectively,
+and the simple arrangement- in figure 1. is obtained when all the switches are opened.
+The
+values of resistances used are given in the following table:
+
+R, =dial box, 1000’s to 10’s.
+R, =100 ohms fixed.
+R, =5 ohms fixed.
+l?:= 1000 ohms fixed.
+2?4 = dial box, 1000’s to 1’s.
+R, =1 ohm tied.
+
+‘-
+
+““--<
+J
+
+“-—
+
+.
+
+.
+
+This circuit is supplied from 8 volts when using the primary
+using the secondary.
+DISCUSSION OF MAGNETIC
+
+.
+
+winding and 80 volts when
+
+CIBCUI?I!.
+
+It will be observed that this method gives, strictlppeaking,
+the ratio of flux turns m the
+two coils and not the ratio of turns themdves
+and a consideration of the magnetic circuit, as
+indicated in figure 3, shows the values of this ratio to be expected in the various cases.. For
+the circuite shown in figure 1~, in which only the field of the permanent magnet is used, it is
+evident-from figure 3, that some of the flux will pass through the secondary coil without linking
+the primary,
+
+The ratio n. thus obeerved will therefore
+
+be greater
+
+than $..
+
+If the measure-
+
+.- of the
+primary flux will not link the secondary, and the observed ratio nP will be 1sss than ~.
+On
+.
+the other hand, if the measurement is made with current through the secondary, then som”of the
+~secondary flux wilI not link the primary, and the observed ratio no will be greater than ~~”
+
+ment is made by sending current
+
+through
+
+the primary,
+
+then, as shown in &ure
+
+3b, d
+
+either of the last two cases, the departure from the ratio of turns will be greater whe-n the
+m-agnetomotive force of the ocd aids that due to the permanent magnets than when it-opposes
+it, as the iron is then more nearly saturated and less permeable.
+Typical results on a magneto
+of the shuttle core type which shows these variations in apparent ratio is given-in Table I.
+
+—
+.—
+
+.
+
+23
+
+CHARAOTERISTIOS HIGH-TENSION MAGNETOS.
+Ol?
+TABLE L-Ob.!emdJiuAum
+
+ratia in Berlinq 8-18,
+magmto shuttle core type.
+
+—.. .—
+Ratio measuredby–
+Position of ermaturew-k.
+
+.
+
+‘
+
+Onrrentin
+Prin#Y
+
+~~n:
+
+cm-&~
+
+na.
+-==”
+
+;%%!%%’%%%%%!:::::::::::::::::::
+
+‘%:
+
+<=56.9
+
+K=
+
+H the windings are regarded as independent
+mutual inductance ~, then we may write
+k:
+
+‘d
+
+The coefficient of oohpling k, defied
+
+as
+
+F
+
+67.8
+
+67.1
+
+67.9
+
+&=
+
+.984.
+
+coils having
+
+?=X
+
+d–
+
+67.1
+
+...... ......
+
+66.0
+
+wan . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+
+fi~
+
+-.
+
+69.4
+67.4
+
+66.9
+
+PeralleIto Euxoppu3fm3 w@s. . . . . . . . . . . . . . . .
+m
+
+r
+
+...... ......
+
+La
+
+..
+
+inductances
+
+Z1 and La, and a
+..
+
+.
+
+is therefore
+
+given by
+
+1
+
+J
+
+‘ ~0
+
+‘l’he ratio
+
+s
+
+of the inductances is similarly given by nP n,.
+b will be seen b yreferenoa to the data given in Table II, the value of ii is very nearly unity,
+which means that the energy is very easily transferred from primary to the secondary circuit
+at the instant of break.
+The effect of the few per cent by which k departs from unity upon
+the operation of the magneto is very oomplex, but the energy involved in the leaksge flux is
+obviously small oompared with the total amount of energy stored. ‘
+
+-
+
+.
+
+RESULTS ON VARIOUSBIAGNE71’OS.
+The following table gives the result of measurements made by the method outlined above
+The values of” the observed ratio with all
+on a number of magneto and ignition coil systems.
+three connections are giva, *O the ~ficient
+Of coup~g
+~d the square rOOt Of the ratio.
+This latter figure is probably the best estimate available e
+of secondary to primary inductance.
+of the true ratio of turns for each winding.
+
+Am!m~;wEh
+
+48.9
+. . . . . . . . . . . . . . . ..44.2
+67.2
+Bertie
+R; H~~~::::::::::::::::
+67.8 .
+. ...............
+B. T. E..NO. 63769.
+.
+63.3
+S.E.,\T. No.2 . . . . . . . . . . ------67.8
+ngD.81
+BerUI --- . . . . . . . . . . . . . . . . . . . . .
+67.1
+Berlfwu. M... .. . . . . . . . . . . . . . . . . .
+36.6
+... . . . . . . . . . . . . . . . . . . . . . . . . .
+67.0
+s
+Dixie We.. . . . . . . . . . . . . . . . . . . . . . . .
+43.8
+&rmenBosch... . . . . . . . . . . . . . . . .
+63.0
+Difie83 . . . . . . . . . . . . . . . . . . . . . . . ..DeIeo(LiMrty) .: . . . . . . . . . ------- 1 ....-------+
+I
+I
+
+0
+
+49.7
+45.8
+69.1
+6757:
+
+35.6
+
+53.2
+42.6
+62.2
+88.6
+
+48.6
+44.4
+67.3
+ea:
+67:2
+67.1
+~~
+
+.980
+.9s3
+.086
+.980
+.936
+.Lwa
+.963
+
+.970
+:;g
+
+ai 4
+E:
+1
+
+..
+
+o:9&7
+
+68.3
+68.2
+36.7
+~:
+
+47.4
+42.9
+66.6
+66.3
+55.
+I
+66.1
+m o
+
+——
+
+‘L
+1
+
+w
+I
+
+..
+
+—
+.. .
+
+... ..
+—.—
+.- -
+
+1
+
+q
+
+..-
+

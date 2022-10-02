@@ -1,0 +1,668 @@
+TECHNICAL NOTES.
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+No. 28
+
+..
+
+.
+
+LOADS AND CALCULATIONS CF ARMY AIEPLANE&
+——
+*
+‘ “By
+Ing. Stelmacilowski.
+
+,.
+
+#
+
+Translated from
+Technische Berichte, Vol. 111, Sectioq 6,
+By
+Office of Naval Intelligence, U.S.N.
+.
+
+February, 2921.
+
+NATIONAL ADVISORY CH3WITTEE FOR AERONAUTICS.
+TECHNICAL NOTE NO. 28.
+LOADS AND CALCULATIONS OF ARMY AIRPLANES.
+*
+By
+Ing. Stelmachowski.
+‘Translatedfrom
+Technische Berichte, Vol. 111, Section 6,
+by
+Office of Naval Intelligence, U.S.N.
+-.
+
+A military airplane must fulfill two conditions:
+1.
+
+It Must be aerodynamically capable of good perfor~ance.
+
+2.
+
+It must also be structurally strong enough to
+-euver
+without risk of faiiure.
+
+be over–
+emphasized-that an airplane of good flyirlgqualities is
+useless if it is not sufficiently strong and fails at the
+~ritica~ moment. A justified lack of confidence on the
+part of the pilot in the strength of his ai~plane will pre–
+vent him from taking oomplete advantage of its possible
+merits. Therefoze a constm-ctor should not be criticised
+for carefully investigating the strength characteristics of
+his designs.
+F7hatthen, must be the requirements for strength so
+that a pilot fill have at his disposal a powerful but not
+too heavy airplane. The answer depends on the magnitude
+of the air forces or accelerations to Which the moving air–
+plane is subjected. Investigations of these forces have
+not been carried far enough so that they can always be estimated, and, where there is apparently a clear understand–
+ing of the effect of the air forces, mathematical methods
+for expressing these effects in useful form are lacking.
+It is not even possible to cover all possible cases by full
+flight investigations of these phenomena, since such maneu–
+vers as an airplane pilot ventures or instinctively carries
+out in moments of great danger can not be imitated inten‘:checked by D. L. Bacon, Assistant Physicist, Aeronautical
+Laboratory, N.A.C.A,
+
+-2tionally. It is in just szch “cases that the machine is
+subjected to the most dangerous loads,
+Because of these difficulties it is useful and necessary to be governed by experience. That is, if one
+airplane of known strength has resisted all.the usual and
+even the extrene air loads to which it cem be subjected
+and if a second airplane having less strengt-h
+than the
+first was found, under.like conditions to be insufficiently strong, it is obvious that the strength required is
+greater than that of the second airplane but not greater
+than that of the first. If, as is now actually the case,
+strength factors of different airplanes of the ssxaeclass
+do not differ to any great extent, then the permissible
+values are fairly well tiefined.
+Gn the basis of such experience, aided.
+by scientific
+investigate
+ions> standards have keen developed which are
+satisfactory foz the calculation of airplane structures.
+1. Loads on the Wing Truss.
+Loads cn the wing tm.ussare expressed as multiples of
+the weight of the airplane, the air forces which keep the
+airplane in equilibrium bein~ pro~orti.onal
+to its nei~ht,
+If, furthermore, the admissi;l~ &d sim~lifying assum~tion
+is made that the aiz forces which counteract zke forces of
+acceleration on the wings of the moving airplane are equally distributed along the wirgs, then the air forces on the
+~?ings
+may be considered as being proportional to the quantity: Total wei~ht minus weiqht of wings.
+Hence the weight of the wings themselves is not to be
+included when calculating the stresses in the wing truss.
+The wings are supported by the sustaining air pressure; and
+that portion of the air forces that balances the farces of
+acceleration on the wings, being equal and opposite arid
+acting at the same points, can not give rise to any mcments
+in the structure.
+The numbers by vhich the quantity Total weight weight of win~s are to be multiplied in order to obtain the
+a~plied load are called liLoadi%ctors.l! These vary accordin~ to the conditions of flight and have, fcr cor.v&ence,
+been grouped under four representative conditions or ‘load
+cases.“
+1.
+2.
+3.
+4.
+
+Case
+Case
+Case
+Case
+
+A
+B
+C
+D
+
+–
+—
+–
+
+Taking off (OZ large angle of incidence).
+Gliding at 30° to the horizontal.
+Nearly veztical dive.
+Upside dorm flying.
+
+-3Homve r, it would not be justifiable to use the same
+1oad factors for a2.1types of airplanes even under the s=e
+flight conditions. As already stated, the air forces on
+the wings correspond to the acceleration forces on the moving airplane. Since the acceleration forces depend on the
+rate of change of velocity they are therefore greater the
+more rapid and maneuverable an airplane is. Since usually
+the speed and maneuvering ability depend on the xeight or
+useful load it is evident that types of airplanes can be
+divided according tc weight or effective load into differ–
+ent ‘calculation groups.tr Acoording to present practice,
+ai~planes may M divided into five such groups:
+Calculation grou231. Airplanes of any type of cmstrmtion having a flying weight greater than five tons;
+i.e. , giant pianes that are required to cover great distances with the maxinnm possible useful load, abundant fuel
+and bombs, but without great speed.
+Calculation group II. Airplanes of two and one-half
+to five tons flying weight and one to two tons useful load;
+this includes small and short range bombers.
+Calculation group III. Airplanes of two and one-half
+to four tons flying weight and 1700 to 3300 lbs. useffi
+ioad. This includes those larger flying machines which are
+distinguished from those of groups I and 11 by greater
+fighting value and consequently greater speed and mobility.
+Calculation group IV. Airplanes of 2600 to 5500 13s.
+flying weight and 900 to 1800 lbs. useful load. These include two-seaters for phonographic, reconnaissance, ~ttle
+and scouting purposes.
+Calculation grou~ V. All airplanes of less than 260J
+lbs . (up to 900 lbs. useful load), hence single seaters and
+light two-seaters of any kind.
+0? course no sticfi.division
+into classes can.be.carrect
+in all details if it is intended to be general. In order
+that the classification be pliable and afford room for new
+types it has been decided that the Imperial Airplane Department be authorized to decide in which-group a new type should
+be placed.
+The load factors zequired can thus be originally determined from the fright conditions and calculation groups.
+The accuracy of calculated factors depends on the exactnsss
+with which the distribution of loads among the structural
+members can be determined.
+It is obvious that stress analysis may be avoided and
+
+-4.,
+
+the strength of the finished airplam demonstrated by s.md
+loading. This was customary in fiLeearly days o~ airp?ane
+ccm.straction;
+new types were developed hy trial, the mac-n~ne~~.sc~p~etely
+b~~lt
+and
+Sub;ecfied
+to the
+SZL.fl.d
+l~ad.
+This method no longer suffices, for umsoid~ble er~ors in
+construction caused great losses in tifie,labor> a~d ra~
+materials. TotiJ science gives tlieconstrw%cz mesas to
+ca~.~Jlatethe required ~i~ensi~ns Of the s%i~~~”~urel
+uzbers
+from the beginning of the d=sign- Jhctkeraore, t~~~ it
+also furnishes methods by which the best for~ -and rmst suitable coustruction consistent with lead w.ig-nt
+~flaye &b
+termirmi. In spite of this progress it is not possible,
+owing to the lack of trained workers afiddeper.da’bl.
+e s-:ruc–
+tursl materials to entirely do away with sand loading.
+.
+
+Althmgh the strength of a flying r,achir~e
+may have been
+carefuliy calculated, it should still be required that its
+structurallstrength be deruczmtated by a sa~d load.
+r
+The mathenatical calcul~tions of the strength of individual members of the wing truss do not exactly ccincide
+with the resuits of the actual load tests. In the wthematical analysis the truss is considered as a s~ructure
+built of separate and individually considered .aed!er~. ).Ctually, however, the wings do not act as me~e jointed fr=eworks of spars and compression struts, but, because of the
+tided stiffness of ribs and fabric, act sofie~hat
+like sep–
+arate rigid bodies.
+
+q
+
+In the case of test lotiing these.influences ha~e an
+effect whereas in calculation they are negle~ted. Acccrdingiy two require~ents
+must w
+satisfied
+uncle condiiicus
+r
+A, B, and D, one for purposes of calculatio~, llsing10W
+load factors, sad the other for sand testing with high load
+factors. In case C a double require.meut not necassarY
+is
+for a high head zesistuce is indicated even by calculation,and because the relatire stiffness of the wings is
+smaller in proportion to the tsrsional mw~ent while diving.
+Tables I and II give the load factors compiled according to the above consideraticas, for stress ahalysis and
+for s~d testing. The loads specified are breaking loads;
+i.e.> under these loads t% members skould be s~ressed near–
+ly to their ultimate strength. This does not mean that the
+air forces eneo-mtered are actually &s great as the sand
+loads specified. These factors include a cer~ain factor of
+safety to allow for the nature of the load.and for the characte~istics of the st~mctural materials.
+The followlng effects Lave been considered in ttiisconnection:
+
+–51. The loading during flight is not constant but
+changes suddenl. in such a nanner that the strength chary
+acteristics of the materia.1~,
+especisZ3.y
+their 6tLtfIiCSS,
+y
+can not be fully developed. This includes hoth sud3enl
+changing air loads and the effecl of mGto= v ikzaiiczls.
+2. Some members are unduly stressed due to high and
+indeterminate initial tensions in the stays.
+3. Wooden members, such as spars, ribs, and struts
+deteriorate through the action of-time and ‘Rather.
+4. Experience shows that airplanes in quantity production generally are somewhat heavier than the original
+model machine, due to subsequent changes and additions.
+The foregoing affords a basis for the statement that
+the values given in the table are for ultimate static loads.
+It ~uld therefore be incorrect to assume a factor of safety when an-ystructural member appears to be loaded in ex–
+cess of the safe limit of the material.
+The increases in magnitude of the load factors in Table
+11 over those in Table I are the result of experience. A
+comparison between calculated strength and actual breaking
+strengths has ShOm nC differences amounting to as much as
+30$. These differences however decrease as the size cf airplane increases, and a corresponding allowance has been made
+.
+in the tables.
+it seems superfluous to discuss in detail the prescribed
+loads indicated in Fig. 1.
+
+-5a-
+
+Table I.
+
+No. :FIying
+.
+.
+I
+11
+
+Loa~ Factors for use i.nStress Analysis.
+
+Vi@.
+
+:over
+
+lbs~Useful load Ibs:take:glid-:
+div-:upside
+.
+.
+: off: ing : ing? down
+.5.5 : 2.5 : 1.2: -––q
+
+11,000:
+
+:5,500 -“ 11,000:2,200 -
+
+4,400:4.0 : 2.5 : 1.5: ----
+
+111
+
+:5,500 -
+
+9,000:1,800
+
+-
+
+3,300:4.5 : 3.0 :1.75: 2.5
+
+IV
+
+:2,500 -
+
+5,500:
+
+–
+
+1,800:4.5 : 3.0 : 2.0:
+
+2.5
+
+800:5.0 : 3.5 : 2.0:
+
+3.0
+
+v
+
+:less
+
+%30
+
+than 2,500:less than
+
+Table II.
+
+Load Factors Required in Sand Testing.
+
+.
+
+Group;
+.
+
+~Casej ~
+:A
+:
+
+Type
+
+j ~
+.
+
+~
+:
+
+~
+
+No. :Flying wgt.lbs.:Useful load,lbs:take:glid-:div-:upside
+.
+.
+.
+.
+: off: ing :in@ : down
+I :aver
+11 :5,500 -
+
+11,000:
+
+:4.0 : 2.5 : 1.2: ---–
+
+11,000:2,200 -
+
+4,400:4.8 : 2.6 : 1.5: ----
+
+111 :5,500 -
+
+9,000:1,890
+
+-
+
+3,300:5.5 : 3.2 :1,75: “2.8
+
+IV :2,500 –
+
+5,500: 900
+
+-
+
+1,800:5.7 : 3.3 : 2.0:
+
+2.8
+
+900:6.5 : 4.0 : 2.0:
+
+3.5
+
+V :less than 2,500:less than
+
+* The factors for Case C apply to drag forces ‘butnot to
+diving moments. -
+
+-6As long
+as no new developnents prove the insufficiency of these assumed loads we niay consider them TO represent the facts. An explanation is needed ho-sever,for
+the increase in the divi~g moments iriCase C (Vertical Dive).
+During a dive the air forces act so that the front part of
+the wing experiences a pressure ftom above and the afte~
+part a pressure from below. Thus a couple is set up, producing a moment about an axis pa~allel to the spars. According to recent tests in the Gottingen wind tunnel and
+according to theoretical aerodynamic investigations the
+moments formerly assumed have been too small. If the moment about a wing be expressed 3Y
+Constant x Chord x (Drag Load) where
+Drag on upper wing + Drag on lower wing $=
+Total weight – ‘~.ightof wings,
+then the constant must he so chosen that when multi~lied
+by the chord it will give the proper moment arm.
+From a numberof
+values wsre fetid:
+
+experiments the following aiver~~e
+—
+
+M upper wing = 1.75 R&per
+
+cnord, instead of
+~I&
+chord.
+3 upper ‘-:----
+
+M lower wing = 1.75 #
+
+lower
+
+chord, instead of
+~ Rx
+chord.
+3 lom3r
+
+Experience shows that we have enough ~easurements ‘tith
+the hitherto existing moments and load factors – except for
+internal stresses in the Io=r wing -.LSOthat ~ would not
+be justified in increasing the lever arm two and a half
+times to increase the moments proportionately.
+Returning, then, to known moments, load factoxs for
+the moments in Case C are omitted. In order, however,
+thl%ttoo small internal stresses shall not be obtairied,
+the
+partial forces acting as drag on the wing surfaces are multiplied by the corresponding load factors.
+This requirement is not contradictory. It takes account of the fact 2hat the spars must be strong enough to
+suit other loading conditions, ~ile the ints~al stresses
+should be particularly investigated for diving conditions.
+
+-7It should also be realized that in diving a large portion
+of the air force is taken up UPOL the body and its appendages, which is not taken account of either in the calculations or in sand testing, thus, after experience with
+the old requirements, the new ones ”must also suffice to
+guard against insufficient dimensions.
+
+L
+
+Proportions of the Load Assumed by Upper and Lower Wings.
+Lackir.gmore complete information on the subject all airplanes are calculated on the basis of a 11 : 9 ratio of load
+distzi.bution
+between upper and lower wings. Although this
+is doubtless a good average value, it is not to be overlooked that a closer approximation to actual values would
+be desirable. The division of load betmen upper and lower
+wings depends on both gap and stagger, accordingly diagrams
+are given in the 1918 edition Neuauflage Qer Bau - und Liefervorschriften showing’
+this relation in terms of gap and
+stagger. In Case C (Vertical dive).the division of load is
+independent o: stagger,
+Distribution of Air Forces Along the Span. Ve have
+hitherto assumed the air pressure to be evenly distributed
+along the wing span. Thi; is not entirely correct as the
+pressure diminishes near the wing tips and withia the area
+of slip stream. For purposes of calculation the ;>ressure
+per unit length ~ is assumed to decrease from P
+t a
+B
+point one chord length distant from the wing tip to ~ at
+the extreme tip. For calculating the span itself th~ full
+pressure P is assumed to extend to the wing tip.
+~nsynznetricalLoading. All previous considerations
+have reference to a load symmetrically distributed on both
+sides of the central axis.- In curved-flight however the
+load is no longer symmetrical. Nevertheless, no special
+load case has been introduced for unsymmetrical loads because.the cabar.eand the body longerons supporting it are
+the only parts unusually stressed.
+11. Loads on Control Surfaces.
+In determining the loads on control surfaces the same
+difficulties are encouiitered
+as with the main supporting
+surfaces. As far as the contrcl surfaces ther.selvesare
+concerned the loading is unimportant as they are so small
+that a high factor m&ht easily be obtained with negligi–
+ble increase in weight. ‘The control surface loadings are
+important ho”%vsr i~ proportioning the ~embers of the body
+which support them. Because of its rigid construction the
+body is usually to be considered as a sing~e unit, and
+changes in the position of the center of pressure on the
+tail cause only a slight variation in the moments on the
+
+-8–
+body, so that only the magnitude of these forces is of importancea The task is thus essentially simplified, it cnly xemains to discover what are the msximum possible loads
+on the tail surfaces.
+The tail surface load may be expressed by
+2g
+and is principally influenced by the speed and the constant.
+The maximum speeds for any type of machine are knom ap–
+proximately or are specified. The maximum value of q de- .
+pends on the angle of incidence of the fin and the dis~lacement of th~ rudder. As these are limited by the constriction of the machine it will suffice to conside$ the
+least favorable case. The Research Laboratory at Gottingen
+has carried out a great many investigations of control surfaces* tiich have furnished reliable data for calculation.
+The following loads are specified for the various type
+classifications, which furnish a basis of comparison regardless of speed.
+Table III Specified Tail Plane Loads.
+.
+.
+
+:V:,
+I
+: II. : 111 : ~
+.
+.
+.
+.
+.
+.
+Average Load lbs/sq.ft. ~ 24.6 ~ 24.6 i 30.’?; 36.9 ; 41 i
+Group Number
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Average Load
+
+.
+
+The values givsn in this table agree closely with recent
+practice. Because of possible damage to surfaces during
+shipment and handling, fins on airplanes of Group I are calculated on a basis of 200 Kg/~ and of Groups 11 to V inclusive on a basis f 300 Kg/m . Rudders are likewise calculated at 200 IQ/m2 . Experience has shown that rudders so
+designed are sufficiently stiff and strong.
+111 Loads on Wing Ribs.
+The nature of rib loads has been previously considered
+in Technische Berichte, Vol. 1, No.3, p. 81. The sane load
+factors are used as for the wing truss in Cases A, B, and
+D. In Case C the moment specified for the truss should be
+increased 50~. The strength of wing ribs must always be
+deuonstratecl
+by trial loading for, because of the minute di* Technische Berichte, Vol. I, NO.~, p.168.
+
+“
+
+-9mensions of the component parts, mere calculation is inq@ficient.
+IV Loads on Landing Gear.
+:
+
+Fig. 2.
+Three conditions of loading are to be considered (see
+Fig. 2). A load directly under one wheel (force A), a retarding foroe (force B) and a side load (force C).
+Forces A and B or A and G act simultaneously and smount
+at least to the following multiples of the static loads per
+wheel (one half to%al weight for two wlneeled
+airplanes).
+.
+.
+
+Force : Multiple
+.
+.
+A:6
+.
+.
+
+B:4
+C
+
+.
+.
+
+:
+
+0.6
+
+V Calmlation.
+
+,
+
+Static investigations are carried out according to es–
+tablished methods. For load distribution betmen members
+of the wing truss it is immaterial what loading is used, for
+the stresses are proportional to the load and can subsequently be found for any load factor. In contrast to this are the
+fiber stresses in members, such as wing beams, under compression and bending loads where the stres~~g are not directly proportional to the load faotor but to an exponential function
+thereof.
+
+-1oFor what load factor, should the calculations then be
+carried out? The static analysis would be m~st exact ‘nider
+loads which do not stress the members above their elastic
+limits. This procedure is, however, subject to ohjectior.s.
+1. For wood, the most common structural material, the
+elastic 1imit is d:fficult or impossible to deftae, aad varies so much under different conditicjnsthat Zt does not furnish a good basis for calculation. The ultimate strength, haever, for any cross section and type of lGading may be determi~~ed~t~ sufficier~t
+accuracy.
+2. As already stated, the specified load factors do
+not represent the actually experienced air 1oads but also
+include effects of vibration, deterioration of material, etc.
+It is iupcrtant however that the constructor know the behavior of the members under breaking 1oad. As no simple relation bet‘seenload and strain exist he would be unable to
+tell, tien cal~ulating with light loads, whether the deflections for ultimate load exceeded the limits of safety.
+Therefore, if it is not practicable to carry through
+calculations for several different 1oad values, it is advisable to make the static armlysis for the ulti~ats load.
+In calculating wing spars the application of loads rcust
+be considered with especial care. Euler’s formula does not
+apply to short struts and the strength of these should be
+found by experiment as Tetrnajer’sformuia does not hold for
+struts of hollow section.
+VI Rigidity of Materials.
+The accuracy of static analysis depends on the use of
+correct value3 for the elasticity of the structural parts.
+For both wGod and duralumin, the maierials most used, t-he
+coefficients of elasticity and elastic limits are so de~~end–
+ent on the size and skape of the member that in some circumstances large errors would be introduced by the use of their
+average values. This is also true for steel cables. It is
+therefore essential that the elasticity be measured in each
+individual case on specimens ‘which
+check exactly wit?l
+the required dimensions, and which are subjected as nearly as possible to the desired load. The elastic curve of cables is
+therefore to be obtained by the use of actual lengths and
+cross sections, and with due regard to splices and thimbles,
+in at least three tests.
+The determination of elasticity in spars under exact
+flight conditions, i.e., under compression end bending loads,
+
+-11-
+
+i.snot usually convenient -becauseof the lack of time and of”
+laboratory facilities. However, it is considered satisfactory to obtain the elasticity of a beam eccentrically loaded as shown in Fig. 3.
+.
+
+..,.
+.
+
+The length of the specimen must be equal to the distsm’cebetween panel points on the wing, and the ~@XntricitY &
+must be so chosen that the maxitim bending moment produced
+will be equal to that on the aotual sPar.
+In order to estinate the distance ~ a.fikst approximation ET iS assumed, and & is calctiated from
+..a
+
+= Maximum bending,load on spar.
+.*-S---~{”
+*
+.,
+
+A
+
+C08[;
+
+The ‘testcan then be carried out by gradually increasing S
+to tbe breakir.gload, measuring the deflection in the center S after eaoh increase in load. The value of Sma. imme~
+diately before rupture is of the greatest importance, therefOXe especial care is nacessary at this point oz the experiment wizl be worthless. Using Sm= the correct coefficient
+of elasticity E, for use in calcu,lati’ng
+breaking 10S& is.
+obtained from
+.
+
+-----
+
+-
+
+a
+.. . .
+

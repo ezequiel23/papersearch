@@ -1,0 +1,3099 @@
+c
+
+N02 5 0 0 I
+
+c
+
+EPO T
+
+o.
+
+18.
+
+AEROFOILS AND AERO FOIL STRUCTUR L COMBIN
+By EDGAR S.
+
+GORRELL
+
+and H. S.
+
+ONS.
+
+MARTIN.
+
+INTRODUCTION.
+
+FORMUL1E NOTATION.
+
+(Pounds, square feet, miles per hour units.)
+A.=Area of aerofoil in square feet . The brass model aerofoils were 18 by 3 inches.
+C. P.=Center of pressure; i. e., the point of intersection of the resultant vector of
+forces with the plane of the aerofoil's chord.
+D=Drag of tho aero[oi] as given by D-KxA V>=D.-Do-D •.
+Dcnsity=Density of standard air; i. e., O.0760S1bs./cu. ft.
+Do=Drag of the aorofoil when V-O.
+D1=Drag of tho aorofoi1 at the correct Vior the test.
+D,=Dra<> of the spindle used as a spindle correction.
+l=Angle of incidence; i. e., angle of wing chord to the wind.
+Kx=Drag coefficient used in the standard formula D=KxA V>.
+Kv=Drag coefficient used in the standard formula L=KyA V>.
+L=Lift of the aero foil as given by L=KyA V>=L1=Lo.
+L/D=l1atio of lift to drag.
+Lo=Lift of the aerofoil when V=O.
+Ll =Lift of the aerofoil at the correct V for the test
+M=Moment of resultant vector= M3~:ro for M. I. T. balance .
+.l[o=Moment of resultant vector when V= O.
+~~=Moment of resultant vector at the con'eet Vfor the test.
+v= Velocity of the wind; i. e., 30 miles per hour for these tests.
+
+·.
+
+18
+
+Mathematical theory has not, as yet, been applied to the discontinuous motion past a cambered surface, using the term cambered
+as g~nerully und~rstood in aeronautics. For this rea on, we are
+able'to desJgn aOl'ofoils only by consideration of those forms which
+have hern succcssful, by applying general rules lenrned hy experience,
+and by then wsting the aerofoils III a reliable wind tunnel. A great
+milny Ilerofoils have from time to time been tested and from them
+wo know gencrul rules which must be observed concerning camber
+~md tho variations of camber on the upper and lower surfaces, if we
+are to expect i.o attain even fair results. Results. better than the
+ordinary are only attained when these general rules are observed,
+and patience aud good for tunc are combllled. There are equations
+of curves which aro very much like some aerofoils but they are not
+deduced from mathematical knowledge of the flow past an aerofoil
+but rather from the knowledge of the shape of these curves, and a
+good idoa of the shape of a satisfactory nerofoil. It seems possible
+that eventually "we shall know mathematicalll the best form for
+speed and climb, but the practicalapplieation 0 this knowledge may
+be more difficult than the present method of designing.
+343
+
+IS
+I
+19
+
+JI.
+
+20
+21
+
+·'
+
+344
+
+,
+REPORT NATION AL ADVISORY COMMI TTEE FOR AERON
+AUTICS .
+
+OBJEC T OF THE TEST.
+
+Althou gh a great many aerofoi]s have been tested, many
+less from a practic al point of view. It seems safe to assert are usethat
+this countr y nearly every aorofoil used is eithor one of tho best in
+fivo
+or six tested by M. Eiftel near Paris or by the Nation al Physic
+al
+Labora tory at Teddin gton, En~]ftnd, or based upon them, with
+some slight modifications. As ,nIl be seen from the results of theso
+tests appare ntly slight variati ons may make considerable differen
+ces.
+We are thus limited to a few aerofoils, and some of these lack
+certain desirable charac teristi cs as to the depth of wing
+bined with a.erodynamical efficiency. It woUld seem of spars comadvant age
+to have the following results of the tests made upon the
+turally excelle nt and h retofor e aerody namica lly unkno wnSL,{ strucaerofoils
+designed by the Aviati on Section, Signal Corps, United States Army.
+This constIt utes the largest singlo group of aorofoils, except ing those
+of the N. P. L . and M. Riffel, which. has been tested and publish ed.
+DESIGN OF THE AEROFOILS.
+
+-
+
+--
+
+U . S. A . 1 is a modification of tho Clark aerofoil to receive a deeper
+rear spar. It was designed to be a good high-sp eed wing, with a good
+~, having at the same time sufficient rear spar depth.
+Depth of front spar = 0.0584 chord.
+Depth of rear spar = 0.0497 chord.
+U. S. A. 2 is a combin ation of the good charac teristic s
+R. A. F . 3 and R. A. F . 6. It is an aorofoil desicyned for use of both
+in a
+plane combin ation as follows: The depth of the front spar measu bialong a line makin g an angle of 10° 45 ' (angle of stagge r) with red
+the
+vertica l is 0.875 that of R. A. F . 6. The depth of the rear spar
+is
+0.88 that of the front spar of U. S. A. 2. The center of the front spar
+is 0.12 of the chord, and the center of the rear spar is 0.70 of the chord,
+from the leading edge. The curve of the upper surface is R. A. F.
+and that of the lower surface is R. A. F . 3 lowered and modified 3
+to
+take the deeper spars.
+U. S. A. 3 has the same structu ral feature s of U. S. A. 2.
+nose is moved forward t inch and the ordina tes are measu red and The
+calculated as a ratio of a 30J-inc h chord. These ordina tes are then
+transpo sed to a 30-inch chord. The rear 0.8 of U. S. A. 3 is identic
+with the rear 0.8 of U. S. A. 2 and the change s necess itated occur al
+in
+the leading 0.2 of the aerofoi1.
+U. S. A. 4 was designed as indicat ed for U. S. A. 3 except
+the
+nose was moved J inch bac/c'IJlard instead of forwar d as in U. S.that3.
+A.
+U. S. A. 5 is nQt bused upon any particu lar wing section
+upon
+a genera l consid eration of the factors necessary to result inbut aeroan
+dynam ically and structu ally efficient areofoi1.
+U. S. A. 6 is designed from the basic principles of a certain foreign
+aerofoil that has render ed particu larly good results in the Europe
+an
+conflict .
+
+.,
+
+"'
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+345
+
+19
+I
+19
+
+:rr.
+20
+21
+
+346
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS •
+
+.
+00
+
+f-<>~
+
+·~·---"--'·-ofo-'·- ~·-;-"-I-·"r"-to--,
+s·
+.,. :
+
+l
+
+gEE
+
+~
+
+V
+
+~
+
+•
+
+I-
+
+V
+~
+q
+
+-1--___....
+~
+
+~
+
+"""TWH
+
+~
+
+.'~L.
+
+~
+
+R. A. r. S .
+
+,
+
+,
+
+L
+
+..- ,
+
+~
+
+~
+
+~
+
+i
+
+A.... 01"""".10.......fle f"f«A.",IItc:_
+.... p"",..,,,, ....... c..
+
+. p~
+
+.
+
+REPORT NATIOKAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+347
+
+19
+
+I
+1
+9
+
+IT.
+
+20
+21
+
+348
+
+REP ORT NAT ION AL ADVISOR
+Y COM MIT TEE FOR AER ONA
+UTI CS.
+
+CONSTRUCTIO
+
+OF THE U. S. A.. AEROFOILS.
+
+The bra ss aerofoils were con stru
+ing Co. of Camden, .r . J., whi ch cted by the Ind ustr ial Ma nuf actu rof its work. The met hod used isfirm is well kno wn for the acc ura cy
+The drawings to a scale based onbriefly ind icat ed as follows:
+the com pan y. The com pan y turn a 30-inch cho rd were furn ishe d to
+designer wit h inst ruc tion s to him ed the drawings over to its tool
+the "or k. These inst ruc tion s resuto get out the necessary tools for
+millinCT arb or to tak e a two -piece lted in his hn.ving mad e a hea vy
+fly
+piece IIy cut ter being because of the clltter, the reas on for this two wid th of the cut and the thin nes s
+of the models.
+The tool designer nex t secured a plat
+inches, which was mac hin ed aU ove e aho ut 1- inch thic k by 5 by 24
+r wit h tongs inse rted on one side,
+
+\'
+
+for the purpose of locating it cen tral
+low stop s were inserted at the end ly on the milling machine. Fou r
+of this pla te to tak e the thru st of
+the cut.
+The pat tern s and cas ting s were mad
+was tak en from the castings, and e in the usu al way. The scale the y were the n relieved of all
+stra ins by a hea t trea tme nt.
+.
+The y were the n turn ed in stri ps
+model and the pla te trea ted in the 1 inc h wide across the wid th of the
+sam
+rea dy to be swe ated tog ethe r. .Alt e man ner , and the y were the n
+er this the y were rea dy for the
+millin~ ope rati on of the firs
+or und ersi de of the aerofoil . t side, which, of course, was the concave
+It was decided tha t the use of
+qui cke st and mo st acc ura te met sin~le-edge fly cut ters would be the
+hOd for the milling ope rati ons ,
+tha t met hod was ado pte d.
+so
+
+-- - ----
+
+REP ORT NAT ION AL ADVISOR
+Y COM MIT TEE FOR AER ONA
+UTI CS.
+
+349
+
+In ord er to plo t the cur ves to
+nec essa ry. To this end , a face mod el ize, a m aste r lay out was
+hea d was mad o and the lay out pla te, fitti ng a uni ver sal div idin g
+A picce of zinc was util ized for was sec ure d in the following man ner :
+the
+clea ned and polished. It was coa tem pla te, whi ch was tho rou ghl y
+solu tion of cop per sulp hat e and ted wit h a mix ture of a satu rate d
+pre sen ted a fino jet- blac k surf hyd roc hlo ric acid. The zinc the n
+bee pla te on the uni ver sal divace , whi ch was then fast ene d to the
+on a per fect ly finished surf ace idin g hea d, the sam e being mo unt ed
+plat
+lines of inte rsec tion s were the n e. The dat um. line s and all the
+single-edge fly cut ters were mad dra wn wit h a h eigh t gau ge. The
+e -to har mo nize wit h the cur ves
+the ma ster lay out and the
+of
+0.01 of the finished size from aerofoils wer e the n min ed to wit hin
+the
+left on the mac hin ed side of the dat um line. Swe atin g pad s wer e
+aerofoil, and wer e full len gth
+castin~. The se wer e tinn
+ed and swe ated ont o plat e, as in of the
+the firs t
+operatlOn.
+The und ersi de of the aerofoil was
+filled wit h pla ster of Par is nnd
+allowed to har den , afte r whi
+wit hin the sam e lim its as the ch the sec ond side was mac hin ed to
+firs t.
+The finishing was, of course, don
+and hei ght gau ge bein g use d to detee on the ben ch, the surf ace pla te
+rmi ne the poi nts of mea sure men t,
+and the mea sure men ts tak en
+mad e for this pur pos e. In this wit h mic rom eter s wit h spe cial poi nts
+mea sure men ts by han d, whi chway the y wer e finished to the ulti mat e
+was a tedi ous , but ver y inte rest
+ope rati on, owing to the precision
+ing
+req
+All upp er surf ace s are cor rect to uire d.
+0.001 and all lower surf ace s are
+cor rec t to 0.002.
+MET HOD OF CONDUCTING TES
+TS.
+
+The mod el aerofoils were held
+tun nel by a ver tica l spin dle atta in the ord ina ry pos itio n in the win d
+inci den ce was var ied and obs ervche d to the bal ance. The angle of
+com pon ents of force dire cted dowatio ns wer e mad e to dete rmi ne the
+as well as the twi stin g mo men t n the strea,m and across the stre am,
+the sup por ting spin dle. For cesabo ut a ver tica l axis pas sing thro ugh
+are
+mo men ts in inch-~ounds on the mea sure d dire ctly in pou nds and
+miles per hou r. 'Ihe den sity of mod el for a win d velo city of 30
+the air is 0.07608 pou nds per cub
+foo t.
+ic
+The resu lts obt aine d in pou nds for
+the forces were sub stit ute d in
+the stan dar d formulre L = Xu A
+the des ired valu es of the lift andP and D = Kx A V2, the reb y giv ing
+Tho mo men ts abo ut the ver ticadrif t coefficients.
+mea sure d on a tors ion wire. Lik l axis thro ugh the spin dle M were
+com pon ents of the resu ltan t win ewise, the lon gitu din al and late ral
+d force wer e obs erve d, i. e. Rx and
+R II • The tota l resu ltan t force is the
+n R = ...JR 2d +R1/ . The dire ctio n
+of this force is at the angle = tan
+= 1 : " mea sure d from the axis of
+x,
+the tun nel. The resu ltan t force
+M
+has an arm . Thu s, A =J. [' The
+force R is the n dete rmi ned in
+mag
+inte rsec tion wit h the plan e of the nitu de, dire ctio n, and poi nt of
+min ed the cen ter of pre ssu re cur aerofoil's cho rd. Thu s IS det erve.
+
+19
+
+1
+1
+9
+Jt
+
+20
+21
+
+350
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+DISCUSSION OF THE RESULTS.
+
+The results in no way contradict any of the known general principles
+regarclinO' the effects of changing variations in the camber of aerofoils. There are rules for determining the relative value of differen.t
+wing sections. The lift-drift ratio, which is a measure of the efficiency of an aerofoil, gives information flS to the value of the wing.
+The qualities desired in a good aerofoil n.re high speed, or low resistance, great climbing ability, and excellent weIght carrying capacity.
+lllY one of these characteristics may be secured, but only at the
+expense of the other two to a certain extent. In a pursuit machine,
+where compromises are made to secure both hi~h speed and excellent
+climbing ability, weight carrying is sacrificed. In a bombing machine
+weight carrying ability is desired to the partial sacrifice of speed and
+climb. In a training machine all three characteristics are desired,
+but in moderation. A machine designed for high speed alone has
+only n.limited practical application.
+It is generally conceded that there is no "best" aerofoil, for all
+have different characteristics and perform different functions. The
+selection of a desirable section depends on the performance required
+of the airplane desired.
+AU of the U. S. A. aerofoils have the fundamental quality of being
+structurally sound, permitting the use of sufficiently deep wing spars.
+As su~gested in Mr. Alexander Klemin's "Course in AeronautIcs,"
+the U . b . A. aerofoils are considered under the following headings:
+(a) The maximum value of ~, the angle at which it occurs, and
+the corresponding K;,.-The reason for this comparison is that an airplane in normal horizontal flight win generally be navigated at the
+angle giving the best ~ ratio, which is therefore important. from an
+efficiency point of view. The value of the lift coefficient at the best
+~ ratio is important because the greater the lift at this ratio the
+smaller the area of the wing surface required for the load. With
+a heavy machine a big lift coefficient is desirable. With a pursuit
+or racing machine a good ~ at small angles is desirable, so that with
+a sufficiently powerful motor a grel1t speed may be obtained.
+(b) The maximum 14, the angle at which it occurs, and the
+
+corresponding ~ ratio. -The maximum I4 is a very important
+charn.cteristic. The greater the maximum K;, the slower is the
+speed at which a machine may fly and land. If large values of K1I
+are accompanied by good ~ ratios, then the machine will be efficient
+in climbing, though the best angle of climb is by no means at that
+of the maximum K 1I • If the maximum K;, occurs at a high angle,
+then there are possibilities of good speed range.
+(c) The shape of the burble point.-If the lift past the burble
+point falls off very rapidly, t he airplane can be quickly stalled. On
+the other hand, a wing WIth a flat lift curve at the burble point will
+avoid quick stalling. I n all the U. S. A. aerofoils the shape of the
+curves at th e burble points is sufficiently flat t o be satisfactory.
+
+I.
+
+,
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+351
+
+Cd) The ~ ratio at small angles of incidence and small values of
+Kv determine whether or not the aerofoil is reany suitable for high
+speeds. We conform to Mr. Klemin's comparison value of lIy =
+0.00086.
+(Il) Movement of enter of prossure n.t low Rngl s.-Tho importn.nce
+of this fact is readily apparent from consideration of stability. In
+all the U . S. A. aerofoils the movement of the center of pressure is
+not prohibitive or unsatisfactory.
+(b) Structural considerations are satisfactory in such aerofoils.
+(g) Subheads Ca), (b), and (d) are tabulated herewith for convenience of reference.
+Maximum L
+
+LVchord of
+wing in
+
+Wing.
+
+An~le
+
+feet X
+relative
+
+wind in
+C tce
+seconds.
+
+U.S. A.I. ...... ... ...
+U.S.A.2 .......... ...
+U. S. A.3 .............
+U. S. A. 4 .............
+U. S . A. 5 .............
+U. S. A. 6 ............ .
+
+11
+11
+11
+11
+11
+11
+
+in de·
+grees.
+
+Xv·
+
+Xv - O
+.OOO86•
+
+Maximum Xv.
+
+]5'
+
+L
+]5
+
+An!!le
+in de-
+
+grees.
+
+Xv·
+
+L
+
+15
+
+Angle
+
+in de·
+grecs.
+
+L
+
+15
+
+- - --- - - - - - -- - - - - - 12.9
+3.0
+4.0
+4.0
+4.0
+3.0
+3.0
+
+O. 00133
+00169
+001701
+00177
+001565
+001455
+
+'1 7.8
+16.3
+16.4
+15. 88
+16.21
+17.4
+
+15.0
+15.0
+13.6
+15. 0
+14.0
+14.0
+
+0.00318
+. 00337
+.003243
+. 00364
+.003285
+.00298
+
+9.6
+9. 3
+9.8
+9.1
+9.25
+7.37
+
+0.62
+.0
+.3
+.35
+.18
+.1
+
+9.9
+10.4
+9.1
+11.8
+13.3
+
+1
+
+U. S. A. I, its maximum of 17.8, the highest of any U . S. A.. aerofoils, occurs at 3.0°, at which point its center of pressure motion is
+fairly rapid but not so rapid as to make the am'ofoil undesirable.
+This aerofoil would be undesirable as the wings of a very heavy machino, but it is very desirable as the wings of a fast pUl'Suit machine.
+Its maximum Xy is sufficiently large to warrant a reasonable landing
+L
+speed. Its D at small values of lIy is excellent and usually better
+than any of the other U . S. A. aerofoils. Because .of its slow-landing
+speed and its great high speed and its burble point occurring at 15°,
+U. S. A. 1 would make the most satisfactory pursuit machine wing of
+all U. S. A. aorofoil with the gTeatest speed range of any U. S. A. aerofoils. Structurally it is excellent.
+U. S. A. 4, with its large lIy of 0.00364, would be suitable and very
+desirable for heavy machines and for machines in which the designer
+is attempting to obtain a very slow landing speed. It is unsuitable
+
+19
+
+I
+19
+
+:IT.
+
+20
+
+L
+
+for high speeds because of its low D values at small values of lIy.
+Structurally it is excellent.
+
+U. S. A. 6 has a maximum ~ of 17.4, being second in this particu-
+
+lar only to U. S. A. I, of which the maximum ~ is 17.8. On both U. S.
+L
+A. 6 and U. S. A. 1 the maximum IJ occurs at 3°. In each the maxi-
+
+t
+
+p
+
+:=
+
+21
+
+352
+
+.! .
+I
+
+J
+1
+~
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS •
+
+mum K" is only fair. The maximum K" of U. S. A. 1 is better than
+that of U . S. A. 6, so pursuit machines u ing U. S. A. 1 could be designed to have a slower bnding speed than those using U. S. A. 6.
+It would appear , judging from the tabulation U. S. A. aerofoils just
+
+t
+
+rriv(1ll, thn.t U. . A. 6 1\n8 hoLt()J' vrtlu nR t,hILll l1rtS U. S. A. 1 for RmrtIl
+VII!tI<lH of JIll '
+llowovol', wll! 1\ WO oXttmil\o this ChltritC'Lori::;tic for
+
+f5
+
+many points, it is found that U. S. A. 1 has usually better values for
+small values of Kv than has U . S. A. 6. Thus it seems that U. S. A. 1
+is better than U. S . A. 6 for 11 pursuit machine. However, U. S. A. 6
+could be used on a hi~h-speed machine that is only a trifle slowcr than
+the machines using u . S. A. 1, but the machine using U . S. A. 6 would
+land much faster than the one using U. S. A. 1. At 3°, the I1ngle of
+mn.ximum ~ fo r both U . S. A. 1 and U. S. A. 6, the center of pressure
+movcment of U. S. A. 6 is better than that of U . S. A. 1. U. S. A. 6 is
+undesirable for use on a heavy airplane. Structurally it is satisfac~~.
+
+.
+
+U. S. A. 2 is next best to U . S. A. 4 for heavy machines or machines
+designed for slow speeds . It is unsatisfactory for a pursuit airplane.
+Structurally it is satisfactory.
+U. S. A. 3 and U . S. A. 5 are above the average of aerofoils.
+An off-hand estima te of the U. S. A. aerofoils would arrange them in
+order of merit as follows, but actual calculation might change this
+order.
+U . S. A . aerofoils an:anged in order of preferonee.
+
+Dost .. . ........... . ................ . . . . . ........... . . .................. .
+Second best ....... .. ..... . .. . ... . ....... . .•...... . .. . ... . . . ..•. .. .. . ....
+Third best. ........... .. ................... . .......................... ..
+Fourth best ... ... .... . .... . .............. . ........ . ............ . ....... .
+Filth bcst ............. . ...................... . ................ . ....... . .
+Sixth bost (worst) . ............................... . .... . ................ .
+
+For carrying
+hoavy loads
+or for slow
+landing speeds.
+
+U.S.A.4 .... .
+U .S.A . 2 .. . ..
+U. S. A . 5 . .. ..
+U . S.A . 3 ... ..
+U . S.A.I. .. ..
+U. S. A. 6 .... .
+
+For pursuit
+airplanes.
+
+U. S. A.I.
+U. S.A.6.
+U . S. A.5.
+U. S. A . 3.
+U. S.A.2.
+U. S. A. 4.
+
+The general rules we have do not permit us to choose between
+two aerofoils of nearly the same characteristics, so a designer should
+actually go through the necessary computations, using each of the
+several possible aerofoils in order to ascertain which aerofoil is the
+best for the purposes of his design. As a matter of interest rough
+calculations are here given for a pursuit machine, and designers can
+follow the general method used herein for any type of airplane they
+may happen to be designing.
+Among the U. S. A. aerofoils, it seems apparent that U. S. A. 1
+or U . S. A. 6 is best for a pursuit machine. For reasonable comparisons, the weight, horsepower available, and the parasite resistance
+should be the same for both machines. The weigIit will be assumed
+as 1,200 pounds, the parasite resistance as bemg represented by
+0.025 P in pounds per square foot per mile per hour units, and the
+propeller efficiency as given by the following table, though such a
+propeller might be difficult t o obtain in practice:
+lIinrnpt ....... .. .... 50 60 70 80 90 100 110 120
+Efficiency.. .. .. .. .... 50 55 60 65 70 75 70 60
+
+..)-
+
+- ..
+
+-- -~ --..,. --
+
+---
+
+ImpORT KATION AL ADVISORY CO.MM ITTEE FOR AERON
+AUTICS .
+
+' 1-
+
+I"
+
+-
+
+I
+
+353
+
+T h 0 horsepower ava:ilab e curve and the parasit e rcsista nce curve
+can then be plotted , the brake horsep ower of the motor being assume
+as 150. We mn.y either ass urne a consta nt wing area and ascerta d
+-which wing section givcs the best perform ances or we may prescri in
+be
+certain perform ances and see which aerofoil section will come closer
+to or better tho perform anc es. This will result in variati ons
+wing area and minor change s in weight which can be n~~lected in
+. A
+low speed will be taken as 55 miles per hour. This will determ ine
+.. the area. The high speed an d climb are to be the best obtain
+able
+under the assume d conditi ons.
+Using the equati on W = Ky A VZ we have 1200= - Ky A 2 • The
+5S
+highes t Ky of U. S. A. 1 is .00318 and of U . S. A . 6 is .00298, giving
+as areas require d if U . S. A . 1 is used 124.5 square feet; if U . S . A
+.
+6 is used 133.5 square feet.
+1200 = (Ky) (124 .5) (VZ) or
+1200
+Ky= (124.5) (V2)
+u. S. A. 1 whero A-I 24.5
+square fcet.
+
+_v
+55
+60
+70
+80
+90
+100
+
+IlO
+
+120
+
+I~~~
+0.00318
+.002675
+.001965
+.001503
+.001188
+.000964
+.oooi96
+.000670
+
+~lo
+
+U. S. A. 6 whero A-133.6
+square feet.
+
+of
+
+V
+
+denco.
+
+15.0
+10.6
+6. 5
+4.0
+2.3
+1.2
+0.4
+- 0.2
+
+55
+60
+70
+80
+90
+100
+110
+120
+
+Xv
+
+Anl(le of
+incidenco.
+
+0. 00297
+. 002·19
+. 001833
+. 00140·1
+. 001109
+. 000Sl)
+.000742
+. 000024
+
+14. 0
+8. 6
+5.0
+2.8
+1.3
+0.2
+- 0.4
+- 0.8
+
+Parasi to resistance
+-0.025 V'.
+
+P arasito
+V miles
+resistper bour. :mco in
+pounds.
+
+,
+
+55
+60
+70
+
+~
+
+SO
+
+90
+100
+110
+
+120
+
+,
+
+75.6
+90.0
+
+122.5
+160.0
+202.0
+250.0
+302. 0
+360.0
+
+19
+
+I
+19
+
+li
+
+20
+
+29165°--S.I>oc. 123,65-2----23
+
+21
+
+I
+
+I
+
+,
+
+•
+
+-
+
+354
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERO.r AUTICS.
+
+r
+
+Drag.
+U . S. A.1.
+
+Y milos
+PQrllQuf.
+
+U.S. A.6.
+
+Pounds
+<1rl\U.
+
+Kx.
+
+Ymilcs I
+Xx .
+lU'r hour.
+
+Pounds
+dIM.
+
+- -- - - - - - - - - - - - - - - 55
+60
+70
+80
+90
+100
+1I0
+120
+
+0. 00033
+. 000.33
+. 000125
+. 000085
+.000070
+. 000065
+
+. OOOOG5
+. 000065
+
+124.5
+98. 6
+76.4
+87.7
+70.6
+81
+OS
+116.5
+
+55
+60
+70
+80
+90
+100
+110
+120
+
+0.000·105
+
+163.5
+
+.00007
+. 000064
+
+75
+68.4
+75. 8
+85.4
+lOG
+129
+
+.00018
+• DODllS
+.00008
+
+. OOOOG5
+.000067
+
+U.S.A .l.
+
+86.6
+
+U . S. A. 6.
+
+Total
+Total
+Ymlies Pnrasite WinIl'R .
+Ymiles Parasite WingR .
+Rin
+Rin
+R.
+R.
+perbollI.
+pounds. perbour.
+pounds.
+
+--- - - - - - - - - - - - - - - - - - - - -55
+
+131.5
+93. 6
+78.4
+67.7
+70.6
+81
+98
+116. 5
+
+75. 6
+90
+122. 5
+160
+203
+250
+303
+360
+
+00
+70
+80
+90
+100
+110
+120
+
+55
+
+ZOO. 1
+188.6
+198.9
+227. 7
+272.8
+331
+400
+476.5
+
+GO
+70
+80
+90
+100
+
+HO
+
+120
+
+75. 6
+90
+122. 6
+160
+302
+250
+30.1
+360
+
+163. 5
+86.6
+75
+66. 4
+75. 5
+85.4
+100
+129
+
+239.1
+176. 6
+197.5
+228.4
+377. 6
+355. 4
+
+408
+469
+
+Horsopower required.
+U . S. A.l.
+
+U . S. A . 6.
+
+Ymj)es Hors<>Ym;lcs Horsepow~r
+power
+perbollI. requkcd. per bOIlI. required .
+
+....
+
+- -- - - - - - - - - 55
+60
+70
+80
+90
+100
+110
+120
+
+Ymlies P ropoller
+per bollI. effiCIency.
+
+29.3
+30.7
+37.2
+48. 5
+65.3
+
+55
+60
+70
+80
+90
+100
+110
+120
+
+88.0
+
+117.0
+1052.0
+
+35.0
+28.6
+36.8
+4 .7
+66.4
+89. 3
+119. S
+
+156. 0
+
+HorsopowcrHorse- Climb per Horse- Climb per
+power
+power
+boiler
+minute
+minuto
+horse- for climb U.S.A . 1. for climb U. S.A. 6.
+U. S. A . S.
+powcrX U. S. A.I.
+efficiency.
+
+- - - - - - - - -- - - - -- - - - --Feel..
+
+F ..t.
+
+55
+GO
+70
+80
+90
+100
+110
+120
+
+52. 5
+55.0
+60.0
+65.0
+70. 0
+75.0
+70.0
+60.0
+
+78.8
+82.4
+90. 0
+97.5
+105.0
+H2. S
+105. 0
+90. 0
+
+49.5
+51. 7
+52.8
+49. 0
+39.7
+24.5
+
+1,3GO
+1,420
+1,450
+1,345
+1, 090
+673
+
+43. 8
+53.8
+53.2
+48.8
+38.6
+
+1,205
+1.480
+1,4GO
+1,340
+1,052
+
+. . ~:~··l· . -·~~~· ·
+
+. . ... . .... . ... . .. . . .
+
+----.--.~"--..~.~~----
+
+-
+
+-
+
+------~---------
+
+355
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Thus we see that actual calculations demonstrate that U. S. A. 1
+is better than U. S. A. 6 for a pursuit machine, considering speed
+above, for it has a greater high speed.
+The best climb of U. S. A. 1 is 1,450 feet per minute at 70 miles per
+hour and for U. S. A. 6 it is 1,480 feet per minute at 60 miles per
+hour. Although U. S. A. 6 can climb 30 feet per minute faster than
+U. S. A. 1, yet the speed of U. S. A. 6 at which best climb occurs is
+10 miles per hour less than the speed for the best climb of U. S. A 1.
+We believe that the climbing ability of U. S. A. 1 is better for a
+pursuit machine than is that of U. S. A. 6. Hence U. S. A. 1 excels
+U. S. A. 6 in both speed and climb characteristics.
+The above process should be pursued whenever there is any doubt
+between the relative desirability of two or more wing sectIOns for
+specmc purposes.
+It would seem that Dr. Hunsaker is a trifle low in his estimate
+wherein he states that an increase in camber above 0.08 for the upper
+surface is disadvantageous, since four good U. S. A. aerofoils are
+cambered as follows:
+U. S. A. 2 has a camber of 0.088 per cent of the chord.
+U. S. A. 3 has .a camber of 0.0868 per cent of the chord.
+U. S. A. 4 has a camber of 0.089 per cent of the chord.
+U. S. A. 5 has a camber of 0.085 per cent of the chord.
+It is generally conceded that the angle of no lift has no connection
+with the characteristics of an aerofoil. As a matter of interest the
+angle of no lift occurs in the U. S. A. aerofoil as follows :
+
+..
+
+Anglno!
+no Jilt.
+
+Aerofoil.
+
+U.S .A. I. . .. .... .. .... ... ....... . ..... . . .. . .. . .... . . .... .. ....................... .. ......... .
+
+-2. 5
+
+U. S. A. 2... .................. ..... ...... . .................. ... ..... .... ... ............... ... .
+U. S. A. 3.. ..... . ....... .. ... .... . ......•....... .. .. ..... . ...... .... ...... .. . .. ..... . . .. .. ... .
+
+-3.2.S
+-2.9
+
+U . S. A. 5... . ..... ... ... ..... . . .. .. . . .. .. . .. .. . .... . . ...... . .. . . ... . ... ..... .. ... .. .. . .. • .....
+
+-3.0.>
+
+U.S.A .4 . ................... . . .... . . . . ...... ... .. .. . .... . . ........... . ............ ...... . . ...
+U.S.A. G.... ........... .. .. ..... ..... .. . ... ....... .. ... . .. ........ ... ..... .. .... .... .. . .. ....
+
+Aerofolls arranged in order of maximum negative angle of no lift.
+
+U. S. A. 4. . ..... .... . ..• .. .... .• . ..... . .. . ... . . .. ••..................•...•..............
+U.S.A . 2 ............. .... .. . .. ..... . . .. ... ... . .. .. .................................. . ..
+U. S. A. 5 •.......... . ......... .••. .. . .. .. .. . ... . .. •...•........ . .•..•.•....•.. ••••.. .. •.
+U. S. A. 3 and U. S. A. 6 ....•.• .. . •••.. ••. .. ...• .... ..• •. •. .. ...... .. .....•. ..... . . ... . .
+
+- 3.6
+
+-2.9
+
+Aorofoils nr·
+ranged in order
+of preference as
+weight cnrriers
+or Slow·speed
+qunlities.
+
+19
+
+I
+
+U. S. A. 4.
+U.S. A.2.
+
+U. S. A. 5.
+U. S. A . 3.
+U. S. A.1. .................. .. ... . . ........ .. ...•.... .. .. . ..... ... . .... ... . ..... . . .. . ... U. S. A.!.
+
+U. S.A.6.
+
+From the above table it appears that perhaps at some future date
+it might be desirable to investigate whether or not the aerofoil with
+the greatest negative angle of no lift is also the best aerofoil for heavy
+aeroplanes or aeroplanes designed for slow speeds.
+.
+
+2
+
+r
+
+I
+
+...
+
+I
+
+356
+
+REPORT NATIONAL ADVJSOny COMMITTEE FOR AERONAUTICS.
+
+Since the iowest value of Kx in the U. S. A. aerofoils occurs in U. S.
+A. 6, a designer designing for high speed only with no thought of
+
+other considerations, could probably obtain a hi~her speed Wlth U.
+S. A. 6 than with any of the other U . S: A. aerofoils.
+In order to chock the vo.lves that wo ho.vo obto.ined in the tests of
+the U. S. A. aerofoils, as R . A . F. 6 section made of wood was tested
+and found to conform to former tests which are known to be satisfactory.
+An examination of all the published
+
+t curves of the R. A. F. sec-
+
+tions tested at the M. 1. T . tunnel show the maximum ~ obtained
+varied between a little less than 16 to a trifle above 17. Our maxi-
+
+mum ~ is equal to 16.78. On page 41 of "Reports on Wind Tunnel
+Experiments in Aerodynamics," Dr. Hunsaker says "It appears
+tho.t undeteoted differences in workmanship and finish between two
+models may cause a change in coefficients of not more than 3 ~r cent."
+Let us assume for all R. A. F. sections tested at the M. 1. T. tunnel
+Land D are correct within 3 per cent.
+'bl
+. L L+ .03L
+P OSSI e error ill JJ - D _ .03D
+=
+
+Le1.03)
+.97)
+
+DC
+
+L
+
+J5
+
+(1.06)
+
+or if the error be at the other extreme
+'bl
+
+P OSS1 e error
+
+. L
+
+III J)
+
+L - .03L
+
+.97L
+
+= D + .03D = 1.03D
+L
+
+=J) (0 .94)
+
+It is thus seen that all published results of the M. 1. T . on tests
+of R . A. F. 6 are correct WIthin the limits of workmanship and finish
+and that our test gives a result about the mean of all such tests.
+It is suggested that it might be well if the United States Government owned standard brass aerofoils of the R. A. F . and Eiffel types
+constructed with absolute accuracy and which could be available for
+use on wind tunnels like the one at the M. 1. T . for checking the
+accuracy of the tunnel whenever desirable. The Government has
+standard weights and measurements. Why not apply this same idea
+to aeronautics ~
+In British Reports, 1912- 13, No. 72, :figure 14, the National Advisory Committee for aeronautics in England has suggested a method
+of corrections for LV. U . S. A. aerofoils were tested at an LV
+of 11 while R. A. F . 3, 4, 5, and 6 were tested at an L V of 6.3.
+Making the proper LV correction for the English tests of the R. A. F.
+6, we find the N. P . L . results and our results for tests on the R. A. F. 6
+
+give the same maximum{ thus checking the accuracy of our series
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+357
+
+. of tests. Reducing the R. A. F. and the U. S. A. aerofoils to the same
+LV and tabulating the results we obtain the following:
+Aerofoils nrrBllgod In order of morit for mrodmum
+
+fj.
+
+Maximum
+
+~rOdUOOd
+
+tosnme LV.
+
+U.S.A. I. ................ ... ..... . ...... .. .. . .... ... . . ... . .................................
+U.S.A.o.............. . ...... . ... .. ..... ...... . . ...... . . .. ....... . .. . ... . ......... .. .......
+
+R.A.F.3........... . ............... .. ........ .. .................... . .................. ... ..
+U.S.A.3 ... .. ...... ........ ..... .... ...... . .. .. .. ... .... :,......... .. .... ... ....... ........
+U. S. A. 2... ........... ... ....... ........... ...... ... . .... ... . ............. . ................
+U. S. A. 5......... . ......... . . .. .. ...... .... ............... . . ........................... . ...
+U.S.A.4 . ........ ........... .. . ... ...... . .. .. .... . .. .. .....................................
+
+17.6
+17.4
+16. 78
+16.44
+16.4
+16.3
+16.21
+15.86
+
+R. A. F. 0...................... . ... ... ... . ... . .. · . .. · · ..... · .. ·· ... · .. · ...... . ... . .. · · .. · · · .
+
+15. 8
+
+R. A. F. 6 ............... ........... . ... . ........... .. .... . ................... . ...... · .. . . . ..
+
+R. A. F. 4....... . ........ . ........ .......... ..... .. . .... ....................................
+
+15.86
+
+19
+
+I
+19
+J[
+
+20
+
+2
+
+T
+
+358
+
+1-
+
+REPORT NA.TIONAL ADVISORY COMMITTEB FOR AERONAUTICS • .
+
+-.--
+
+---~~--.-
+
+REPORT NATION AL ADVISO RY COMMI TTEE FOR AERClN
+A"VTICS.
+
+359
+
+19
+
+I
+19
+
+li
+....
+
+20
+21
+
+----------------· ---------~r
+
+360
+
+I·
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+___-___
+
+REPORT NATION AL ADVISORY COMMI TTEE F OR AERON
+AUTICS .
+
+361
+
+19
+
+I
+19
+]I
+
+20
+21
+
+-- -
+
+--_·-"c~~-~-_ ·~ ·_
+
+362
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+...-
+
+'f
+
+,'i
+I.
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+363
+
+19
+I
+19
+
+:n:.
+
+20
+21
+
+364
+
+REPORT NATIONAL ADVJSORY COMMITTEE FOR AERONAUTICS.
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+365
+
+F.llil·U@
+~Ylld
+
+i:'~lm
+
+:
+
+r£~g; ~
+
+.
+
+w.f~!;:~:~ ~.~1=g~1#:ilit;ME III
+·
+
+~t.!gj
+
+•
+
+t:;.;r·
+I
+
+:;'Fi:' £:ii.
+
+fj;~;g
+
+§;~~':!
+
+19
+
+~;~:,;gi!!
+
+i":
+
+I
+
+. i"
+
+:;~~;"
+
+19
+
+: ~g:~:j;
+
+::,if:J
+
+:IT.
+....
+
+I!;
+
+i
+I
+.
+
+~
+
+366
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+REPORT NATION AL ADVISORY COMMI TTEE FOR AER.ON
+AUTICS.
+
+367
+
+I
+
+19
+
+I
+19
+]I
+
+20
+21
+
+368
+
+REPORT NATIONAL ADVISORY OOMMITTEE FOR AERONAUTICS.
+
+I
+
+I
+
+f-
+
+..
+
+REPORT NATION AL ADVISORY COMMI TTEE FOR AERON
+AUTICS .
+
+369
+
+fi:i::
+E:;'
+
+[;::t
+
+:.:d
+
+[g~1
+
+:;Iij
+
+iJ::: :
+
+~m~$r:; .
+19
+
+::.::~
+
+~;~ruffi
+J;"
+
+Effiiir=;
+
+I
+
+I
+19
+
+JI
+...
+
+20
+21
+
+29165°--S. I>oc. 123, 65-2---- 24
+
+370
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+I'
+
+I.
+
+I
+
+I
+-.-
+
+...
+
+19
+
+I
+19
+
+li
+
+20
+
+2
+
+,
+
+I
+
++
+I
+
+, .
+
+-.4'
+
+29J65°-S. Doc. 123,65-2. (TO face pago 370.)
+
+~ -- ---- --~-~-
+
+EEl±!
+
+:;:j:
+r
+t-
+
+/ Doc. 123, GS-2. (To f co paso 370.)
+
+tt:
+
+RE PO RT
+
+:NATIO~A
+
+L
+
+m
+
+~"I'l.INA'Tr:::
+
+@
+.
+
+UPP f!1t
+
+-
+
+~O.
+
+~
+
+lo.......eS\
+
+5cf
+
+:J
+
+,RC
+
+.0
+
+u. S . A .
+
+~
+
+®
+
+Ol'!
+
+.0'2 '
+
+®
+oS
+
+.Ol"l .":l. o'"'.t
+
+0
+
+371
+
+U. . A t OF IL.S
+
+eE~IOM
+
+....VI ...Tlo N
+
+o
+
+ADVI SORY CO
+M M IT TE E FO R
+AE RO NA UT IC S.
+
+60 ,44 0 .. "
+ftO ."0 0 o"J'Z
+.
+
+,'7'..A
+
+L ~)I
+
+1'2:5
+
+oS l
+
+0
+
+Stc:::,:.., ..... \..
+
+~
+
+®
+
+.01 5
+
+.1
+
+0'5'5 8 . 0 ' "
+\6'
+I.& ,}
+
+~
+.'2
+
+.o' ·U~
+1.18 4
+
+00" t. 00 ... •
+. 0'"" "
+
+0'5 5
+
+II i
+
+c::. OR P3.
+
+@ ® 8
+
+.~
+
+0'"
+
+A.
+
+.L6 0 .66 1
+
+® ® D
+
+.5
+
+.6
+
+0''5 5 0_111
+'2. :Z(, S'
+I
+
+, :1&.,
+o'M, ' on
+
+"
+
+,0' "77.
+
+f'.6 4 .51c ;
+
+01••,,-
+
+1.'tO b
+
+9
+
+@
+
+.1
+.6
+,It}
+1. 0
+'?-'.} ": 0,1) 0
+0"2 .41. 006
+15~ 6 1.11 0
+.,"', .'l4 .,
+
+010 4 ,00' $ 41
+
+31'2.. .\o" t
+
+000
+
+0
+
+00 4'
+oo,, !) .I~I
+
+o
+
+,..h~,..q ~%_
+OI't.SJ~:4·"1' 0(., 60
+~f-__ __~~T
+o.,~ ,II ,e; ·\'2.'1.1
+-·__ __F ~5~1
+1 4~ 1Q 15.5 9 \50 1
+.'~'
+.~'~2~'~~~~~2~
+14'Z. I'll ' tO~
+~~'4~,~ ~4~
+~ 080 ) ~~
+.~~& ' ~~F4.~~~.
+low.~~';;~·~.--~~~S~'~4.~~= 8~'~
+-+-=-+---+---~~~
+~+>~
+=+~~I~~~Z~4~1~,.~
+4~~~~ 5-;
+-;---;---+
+~
+
+~-+---r---r---r-
+
+-;---+---+-~
+
+19
+I
+19
+
+IL
+
+20
+2\
+
+/
+
+372
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS .
+
+,
+
+.,j
+L
+
+0
+
+i
+'tr
+
+,
+0
+
+;:
+v
+
+.•
+L
+
+L l%od ' '1Q t:dq D.
+
+0
+
+1
+
+,/'"
+
+4-
+
+....--
+
+--.... "-
+
+0--
+
+/
+
+s
+
+i
+
+.6
+
+c haraciel"'i";\c: C""r'Y4
+
+fo r
+
+1
+
+7
+
+R.A. F. 6.
+Trovel qf Gc:...,te" of PrC:S$ ... rc
+
+Vc:loc,.;,r.'
+
+-'Of"OlP.t+
+
+~n61 "j of (1;" LJ7608 IbsfC)j.ft
+Mode: I: le"w,:
+er a~".
+
+1.6
+
+M .... $ $-'tCtiV)CTTS bU,YI NT ':,. QF'T,,,"f'iOI.-oO-Y
+
+Apr.l . ':> .19 17.
+
+I
+
+.0
+
+Approved:
+
+Ma" .. lnet.Tech.
+
+(Api-. S .C.
+
+to
+fn:iIICn9 t:<tq«•
+
+.
+~
+
+-2."
+
+0
+
+1:"
+
+40
+
+6'
+
+8·
+
+Id
+
+~ ~o
+
+-:. :::
+
+,
+
+,6"
+
+'II'
+
+zoo
+
+REPORT NATION AL ADVI SORY COMM ITTEE FOR AER
+ON AUTICS .
+
+6:
+
+373 '
+
+I
+
+r
+
+,.. '-
+
+C'hOf"'oc:t € r, s t ic
+
+:( ""-
+
+~
+.£
+
+Cur..,~s ,
+
+f or
+R . A .f'..6 .
+K;i l \\x., .J....
+D
+Veloc. ii y )0 MP.H.
+
+"'"
+
+.0 0;) 2,
+
+R,,,nd'/ "l.ft/M.P un .t • .
+.t1.
+Oen'~ of Q, r : _07~ 08 IbS/c":ft:.
+
+0030
+
+Mode:
+
+'8-.3:
+
+Ap p"ov4Z' d~
+
+u
+
+~ "'0
+
+/V
+
+Bra....,.
+
+M A,,s 3AC,HVSe: TTS ~T\TvTc...
+
+,00 :2 ,0
+
+TCC'KNO'-OGY.
+
+MQr c h. !>oth 1<;111-
+
+/
+
+.002<;
+
+""
+
+MQ'~ I .....t. T", c.~1
+
+Cop"t. s .c..
+OO ~ <l
+
+-:;:-
+
+!
+
+D C :;"
+
+L
+
+' c ~o I
+
+D
+
+t
+
+100 ,8
+
+100, "
+· 001 .q
+
+~
+
+j
+
+'0
+
+.ooo.!
+
+0
+
+'0....
+
+0
+
+0002-
+
+."",,-'
+
+,j
+
+/ 1J
+7
+
+""-
+
+~
+
+!
+I
+
+L
+
+r{
+
+jI
+
+.......... ~
+
+r
+
+-
+
+.~q
+
+.";".,,
+
+~
+\K~
+
+V
+
+.000 (,
+
+J
+
+=oS
+
+J
+
+"\
+/'-~
+
+.ooo,!
+
+. 000)
+
+'"
+
+.oooz
+
+............ --0
+
+.000'
+
+1
+9
+0
+
+. I
+!
+
+I
+
+/
+
+"'" ~ "-
+
+V
+
+L
+
+.
+
+I
+
+I~
+
+/;
+
+"
+?
+
+~
+
+;; ,
+
+If
+
+"
+
+. OOO ?
+
+~)
+
+T7
+
+Po
+
+. 0 00 6
+
+.0004
+
+f
+
+'4
+
+.O OI Z
+
+.0010
+
+Ir-
+
+, 6
+
+r
+
+'~~ .
+
+-zo
+
+0
+
+z· -
+
+..
+
+I
+1
+9
+
+.
+
+8
+
+.
+
+c:/'
+
+IZ
+
+. . .
+
+]I
+18
+
+20
+
+20
+21
+
+374
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+AEnODYN AMIO LABORATORY TEST.
+MASSACHUSETTS INSTITUTE OF TECTINOLOGY.
+
+U. S. A. 1.
+
+L of i.
+
+Ky.
+
+Distance of
+C. P. from
+leading
+edge, in
+fractional
+part of
+chord.
+
+L(D.
+
+Kx.
+
+I
+0
+
+-4
+-2
+-1
+0
+1
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+
+-0.000399
+. 000156 .
+.000432
+.000721
+. 000936
+
+.001146
+.001510
+.001878
+.002230
+. 002580
+.002910
+. 003165
+.003165
+. 003080
+.002882
+
+0.0001515
+.0000905
+.0000700
+.0000653
+.0000670
+. 0000688
+.0000860
+. 0001158
+.0001558
+.0002055
+.0002595
+.0003040
+.0003710
+.0005520
+.0008500
+
+L of i- Anglo of winE; chord to wind.
+Ky- LifL coofficient ill l bs./sq. ft.{MPH.
+Kx-Drift coefficient in lbs./sq. ft .{MPH.
+L/D- RnLio of lift to drift.
+Modol: Size, 18 by 3 inches (54 sq. in.); materinl, brass.
+Volooityofwind: 30 MPH.
+Donsity of standard air: 0.07608 Ibs./cu. ft.
+
+2.64
+1. 72
+6.15
+11. 00
+14.00
+16.60
+17.50
+16.20
+14.30
+12.60
+11.20
+10. 4.0
+8.50
+5.60
+3. 40
+
+a
+
+•
+
+••••••••••
+
+...... - .....
+
+0.620
+.530
+.463
+.415
+.340
+.316
+. 303
+.290
+.283
+.274
+.276
+. 310
+.360
+
+REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+375
+
+AERODYNAMIC LABORATORY TEST . .
+
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY.
+
+U. S. A. 2.
+
+L of i.
+,
+
+Ky.
+
+Kx.
+
+LfD·
+
+Distance of
+C. P. from
+leading
+edge, in
+fractional
+part of
+chord.
+
+- 1.55
+3.37
+6.64
+9. 88
+13.26
+15.22
+16. 34
+15. 80
+13.88
+11. 75
+8.20
+4.41
+3.18
+
+.............
+0.733
+.522
+.445
+. 388
+. 352
+. 317
+. 292
+.276
+.255
+.247
+.228
+.230
+
+<
+
+0
+
+-4
+-2
+-1
+0
+1
+2
+4
+6
+8
+12
+16
+18
+20
+
+-0.000228
+.000363
+. 000625
+. 000862
+. 001075
+.001292
+. 001678
+.002090
+. 002432
+.003179
+. 003362
+. 003100
+.002770
+
+0.000147
+.000108
+.0000943
+. 0000872
+.0000816
+.0000848
+. 0001027
+. 0001320
+. 000175
+. 000270
+.000410
+. 000701
+. 000871
+
+L of l- Anglo of winS chorcl to wincl.
+Ky- Llft cooJlicicnt 10 lbs./sq. ft .{MPH.
+Kx- Drift coofficicnt in lbs/sq. ft.{MPH.
+L/D- R ntio of lift to clrift.
+Modcl: Size, 18 by 3 inches (54 sq. in.); material, brass.
+Volocity of wincl: 30 MPH.
+Density o[stllJldard air: 0,07608lbs'/cu. ft.
+
+1
+9
+
+I
+19
+J[
+
+20
+21
+
+-376
+
+REPORT NATIONAL ADVISORY COMj\IITTEE FOR AERONAUTICS.
+AERODYNA.l.'1:IO LABORATORY TEST .
+
+MASSACHUSETTS INSTIT'GTE OF TECHNOLOGY.
+
+U. S. A. 3.
+
+I.
+
+Ky.
+
+L of i.
+
+Dist..'\nce of
+C. P . from
+leading
+edge, in
+fractional
+part of
+chord .
+
+Kx.
+
+LID .
+
+-0. 000506
+.000420
+.000GV2
+. OOO!J28
+. 001123
+
+0.0001589
+.0001052
+.0000845
+. 0000835
+.0000 56
+
+-3.19
+3.09
+8.20
+11. 10
+13. 10
+
+............
+
+.001310
+.001508
+.001704
+. 001910
+.002520
+.002905
+.003160
+.003235
+.003240
+. 003215
+. 003155
+.003125
+.002889
+
+.00008 9
+.0000893
+.0001073
+.000ll 0
+.000'1823
+
+J4.75
+16.16
+15.88
+16.18
+13.82
+12.70
+11.15
+10. 30
+9.50
+8.50
+7.02
+4.73
+3.37
+
+. 323
+.295
+. 280
+.260
+.230
+.220
+.208
+.204
+.197
+.197
+
+0
+
+- 4
+- 2
+- 1
+0
+1
+2
+3
+
+4
+
+,
+
+,
+
+5
+8
+10
+12
+13
+14
+]5
+16
+18
+20
+
+.00022DO
+.0002830
+.0003142
+.0003410
+.0003780
+.00044G
+O
+.0006620
+.0008570
+
+L of i- Anglo of wins chrod to wind.
+Ky- Lift cocnicient 1II1bs./sq . ft.f,.\{PH.
+Kx- Drift cooJncient in Ibs./sq. ft .f,.\fPH.
+J,/D- Ratio of lift to drift.
+Velocity of wind : 30 MPH.
+Density of standard ai r: 0.07608 lbs./ca. ft .
+Modol: Size, 18 by 3 inches (54 sq. in.); matorial, brass .
+
+.
+
+\
+
+0. 676
+.482
+.403
+.353
+
+.lD7
+.236
+.266
+
+REPORT NATION AL ADVISORY COM MITTEE FOR AERON
+AUTICS .
+
+377
+
+AEROD YNAMI C LABOR ATORY TEST.
+MASSA CHUSET TS INSTIT UTE OF TECHNO LOGY.
+
+U. S.A.4.
+
+L of i.
+
+Ky.
+
+Kx.
+
+LID.
+
+Distance of
+C. P. from
+leading
+edge, in
+fractiona l
+part of
+chord.
+
+a
+
+- 4
+- 2
+- 1
+0
+1
+2
+
+I
+
+4
+5
+8
+10
+12
+14
+
+16
+18
+20
+
+-0. 0001231
+. 0005200
+.0007650
+.0009750
+.0011840
+.0013820
+.0017700 t
+
+.0019800
+.0025600
+.0029900
+.0033100
+. 0036000
+.0036150
+.0034700
+.0031000
+
+L of 1- AD~le of wiog chord to wind.
+Ky.- Lift coefficient in lbs./sq. ft./MPIT.
+Kx.- Drift cocfficient in lbs./sq.lt. /MPH.
+14D.- Ratio of lift to drift.
+Velocity of wind, 30 MPH.
+Dcn:it,· of standard nir: 0.076081bs./cl1. ft.
+
+0.0001640
+. 0001150
+. 0001078
+.0001032
+.0001002
+.00009!J5
+.0001115
+.0001340
+.0001900
+. 0002555
+.0003100
+. 0003545
+.0004430
+.0005580
+.0007640
+
+Uodcl':'Si zc: 18 by 3 inches (54 sq. in .). Material: Brass.
+
+- 0.75
+4.52
+7.11
+9.44
+11. 80
+13.90
+15. 88
+14. 80
+13.50
+11. 70
+10.67
+10.15
+8.15
+6.22
+4.06
+
+... ..
+
+0.670
+.525
+.461
+.416
+.388
+.347
+.330
+.298
+. 273
+.276
+.276
+.276
+.303
+.335
+
+19
+
+I
+19
+
+:It
+
+20
+21
+
+378
+
+REPORT NAT IONAL ADVISORY COMMITl'EE FOR AERONAUTICS.
+A ERODYNAMIC LABORATORY TEST.
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY.
+
+u. S. A.5 .
+
+L of i.
+
+Ky.
+
+Kx.
+
+L fD ·
+
+Distance of
+C. P. from
+leading
+edge, in
+fractional
+part of
+chord.
+
+0
+
+- 4
+- 2
+- 1
+0
+1
+
+I
+,. .
+
+2
+3
+4
+5
+8
+10
+12
+13
+14
+15
+16
+18
+20
+
+- 0. 000326
+. 000346
+. 000636
+. 000910
+. 001145
+. 001355
+. 001565
+. 001740
+. 001950
+. 002470
+. 002870
+. 003130
+.003240
+. 003285
+. 003235
+. 003205
+.003150
+. 002790
+
+0. 0001500
+.0000948
+.0000830
+. 0000741
+. 0000803
+.0000863
+. 0000966
+. 0001092
+.0001290
+.0001830
+. 0002380
+. 0002890
+. 0003290
+. 0003545
+. 0003910
+. 0004210
+. 0006900
+. 0008200
+
+L of L- Anglo of wing chord to wind .
+Ky.- Liftcoefficicnt in lbs./sq . ft./MPH .
+Kx.- Drift coefficient in lbs./sq. ft./MPH.
+LJD.- Ratio of lift to drift .
+Velocity of wind: 30 MPH .
+Density of standard air: 0.07608 lbs ./cu. ft .
+Model-Site: 18 by 3 in¢hcs (54 sq . in.). Material: Brass.
+
+- 1.58
+3. 64
+7. 67
+12. 28
+14.28
+15. 72
+16. 21
+15.98
+15. 35
+13.52
+12.08
+10. 84
+9. 84
+9.25
+8. 28
+7. 63
+4. 57
+3.41
+
+... . ..
+
+0. 753
+. 566
+. 498
+.444
+.415
+.377
+. 348
+. 337
+. 315
+. 303
+.300
+. 298
+. 288
+.292
+. 298
+. 330
+. 368
+
+I
+
+\
+
+REPORT NATION AL ADVISORY COMMI TTEE FOR AERON
+AUTICS .
+
+379
+
+AERODYNAMIC LABORATORY TEST.
+MAS~ACHUSETTS
+
+INSTIT UTE OF TECHNO LOGY.
+
+U. S.A. 6.
+
+L ofi.
+
+Ky.
+
+K.:".
+
+LfD ·
+
+Distance of
+C. P. from
+leading
+edge, in
+fractiona l
+part of
+chord .
+
+0
+
+- 4
+-
+
+'J'
+t
+
+-0.000276
+. 000272
+.000567
+.000845
+. 001057
+.001255
+.001455
+.001662
+.001846
+.002415
+.002650
+.002861
+. 002910
+.002980
+. 002960
+.002900
+. 002790
+.002585
+
+2
+
+- 1
+0
+1
+2
+3
+4
+5
+8
+10
+12
+13
+14
+15
+16
+18
+20
+
+0. 0001395
+.0000793
+.0000671
+. 0000650
+. 0000668
+.0000733
+. 0000858
+. 0000976
+. 0001121
+.0001665
+;0002160
+.0002820
+. 0003260
+. 0004050
+. 0005300
+.0006380
+.0007900
+.0009000
+
+L of i.- Angle of wing chord to wind .
+1(y.- Lift coofficient Ibs./sq. ft ./MPH.
+Kx.- Drilt coofficient in Ibs./sq. ft ./MPH.
+LJD.- Ratio of lift to drift.
+Velocity of wind: 30 MPH.
+Density of standard air: 0.07608 lbs./cu. Ct.
+Model-Si ze: 18 by 3 inches (51 sq. in.). Material: Brass.
+
+,0
+
+-
+
+1. 98
+3.43
+8.46
+13.00
+15.88
+17.15
+16.98
+17.05
+16.48
+14.50
+12.27
+10.15
+8. 94
+7. 37
+5.58
+4. 55
+3.53
+2. 88
+
+......
+
+0.910
+. 600
+. 498
+. 458
+.4.39
+.402
+. 388
+.365
+.322
+. 306
+.310
+. 310
+.310
+.328
+. 346
+. 365
+.388
+
+/9
+
+I
+19
+
+IL
+
+20
+21
+

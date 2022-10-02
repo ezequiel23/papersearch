@@ -1,0 +1,2411 @@
+,.
+
+. .
+
+.
+
+.,
+
+TTYXNICAL NOTES.
+
+.
+
+No. 29.
+
+--
+
+@OJOJRESSM/U@ 3’MTHE CONSTlUJCTI(X70%
+GIANT AIRPMNE S II?
+,=
+
+GERMANY DURING THE WM.
+Bj?
+A.
+
+Bmmtzm.
+
+.
+
+translata.ifrom tha Germin
+P.i.ris
+office,If,
+A.C.A.
+.
+
+~Cf3111b8r 1920.
+,
+
+. .
+
+NA.’l!IONAL
+ADVISORY COMMITTEE FOR AERONA-J!?ICS
+——
+‘IECHNICAL
+NOTE NO. 29
+.
+~m~s
+
+!~E
+
+IN THE CONSTRUCTION OF GIANT AIIU?LANESIN
+GERMANY DURING TEE WAR.
+
+A. Baumamn.
+
+The Paris Clfficeof the National Advisory Coumittee for Aeronautics
+prepared the following Resune’of Dr. A. Ilaunam~s paper on the “Pro~ess
+Made in the Construction of Giant Mrplan=s in Germa~ dur:~rgthe War.n
+Dr. Bamannts paper appmred in ‘Zeitsohrift des Vereines Deutscher
+Ingenieure.
+II
+RESUMti
+
+The construction of giant airplanes was begmin Germsqr in August,
+1914. Zeppelin placed it in the hands of Mr. Baumnn, who first had
+Mr. HIRTE, Engineer and pilot, as Technical Advisory. The Manager of
+the Bosch magnetos Cunpany, Mr. Klein, also tocikan interest in the
+affair, and the construction was begun in the Gotha Wagon Factory, afterwards being tr~sferred to the ~eppel~~ Works at Staake12
+near Berlin.
+The annexed Tables give the characteristics of the ~ohines desoribed by the author, to which are added the LIKE-HOFFMAN airplanes,
+not mentioned in the article.
+The Tables show that a large nunber of airplanes, weighing w to
+15,5 tons were constructed and tested tn Germany during the War, and
+it is certain that no other country ~ned
+out airpleaes of this weight,
+nor in such large nunbers.
+It would appear, however, that only the Zeppelin Works at Stasken
+turned out practical airplanes which rendered service during the War.
+An e-?.nation of the Tables shows that by the end of the War all
+the manufacturnxs had arrived at a wall-defined type, namely, an airplsne of about 12 tons with 4 engines of 260 horsepower, that is, a
+total of KMO HP,
+As regarde the arrangement of engines and propellers, the ZeppeJ.in
+Works had adopted the system of 4 engines placed in tandem between the
+wings and controlli% the propellers direotly; this system was adopted
+
+-2both fcr their airpknes a,niseap~anes built at Staeken, and for their
+seaplanes built at Lindau. The other manufacturers preferred to place
+the engines in the fuselage, and to have the propellers controlled by
+the shaft and gear.
+If we examine the questioraof useful weight, we see that tie ratio
+of useful weight (fuel included) to the total weight of the airplane
+does not excesd30f, which is a very low figure considering that these
+airplanes carried ab~t 21 kgs. per horsepower, and which, at the present time, constitutes the limit of the load per horsepower realizable
+by an~rplane 10aded at 45 and 50 kg/sq.m, snd having its ceiliw at
+about 3,W0 m. This low value is eqlained by the very heavy construoti.onof the structure and by the great weight per hp. of the engiae
+set, whioh is, on an average, 2.5 kg/h.p.
+On the other hand, the speed of all these airplanes does not exceed 130 kn+%r. Under these conditions,
+we may well ask whether the
+results obtained correspond to the enorinousoutput of work and money entailed by the construotion of these machines, and whether better results might not have been obtained with smaller maohines.
+The author himself now appears to hold this opinion, for in a recent lecture on ~TEE DEVELOOF GIANT AIRPLANES AND THE= IMPORTANCE
+IEU)?dHE FOINT OF VIEW Cl!?
+T
+AERIAL WSFOET”
+(Zei.tsohrift
+fk Flugtechnik
+und Motorluftsohiffahrt, No.3, 1920) he stated that he did not think that
+an increase in the size of airpl~es wcruldlead to an incaease of their
+useful weight or of their radius of flight, and that inorease of speed
+should rather be sought by the adoption of thiqk wtngs doing aw~v with
+the need of braoing wire6.
+As regards the aerodynamic qyalities of giant airplanes, we m~ remark that all these machines exoept the Staaken No. 6 and the Siemens
+No. 3, carry very heavy loads per square meter and per hca?sepower:
+frcm
+45 to 50 kgs/sq.m. sad frcm 10 to 22 kg/h.p. Now, their tailing is, on
+tation shows that, under these
+an average, at 3,500 meters and c
+v
+2/Kx, measuring the climbing apticonditions, the maximum value of Ky
+tude of the maohine,
+is very high: about 2.2, greatly in exoess of this
+same value for small maohines, where it is about 1.7.
+On the other hand, frcm the point of view of structural resistance,
+giant airplanes are not good. As smatter of faot, the value o* ~~.m,
+horizontal flight near the ground varies between 0.003 ami 0.0066
+m:see. , while for mall airpknes it is 0.0025 and reaches 0.0019 for
+the “Goliath” (Farman).
+On this point we may r-k
+that the best value of Kx is realized
+by the Staaken No. 6, which is also the machine having the smallest load
+per sqyare meter, and which has given the best results. on this subjeot we *
+ask whether, contrary to the belief of certain authors, it
+is not advantageous to adopt small loads per square meter, both for giant
+airplanes and small machines.
+
+-3WORKS AT STAAKEN NEAR BERLIN
+Constructor and Type:
+:
+ENGINES
+:
+Constructor and Type:
+Description
+Bore x Strdse
+H.P.
+r.p.m. ;r.
+p.in.
+em)
+(Pro)
+
+No.1
+1914/15
+Maytaoh
+
+i
+
+MS&oh
+
+:
+:
+
+NO.3
+1915
+
+:
+:
+
+NO.2
+1915/16
+
+6
+Daimler
+
+:
+
+:
+:
+.
+~6 x160
+.
+.
+
+:
+.
+:
+:
+:
+
+:
+:
+:
+.
+.
+.
+.
+
+:
+
+:
+.
+.
+.
+; 3x250
+.
+.
+
+:
+
+:
+.
+:
+q
+
+=?50:
+
+DIMENSIONS (inm. ) :
+.
+Spsa
+Length Aspect R. :
+:
+Height
+Surface (in sq.m.):
+
+5x250=1250
+
+q
+
+q
+
+.
+*
+
+WEIGHT, ~Otd
+
+:
+:
+.
+
+mpty
+
+:
+
+,
+.
+
+Glider
+
+:
+
+:
+
+.
+.
+.
+.
+
+Set
+
+:
+
+:
+
+.
+,.
+
+Useful Load
+
+:
+
+:
+
+:
+
+:
+:
+
+:
+:
+
+:
+
+:
+
+:
+.
+.
+
+= 960
+
+:
+
+n
+
+Ehghe
+
+How
+
+S
+
+Fuel
+of night
+
+Maximum 3peed=in
+horizontal flight
+Climb
+
+:
+:
+
+3,000
+
+:
+:
+.
+,
+
+3,500
+
+:
+4,503
+
+:
+
+Kg/sq:m.
+
+:
+
+:
+.
+
+K@P
+
+:
+
+.
+
+Kx in horizontal
+:
+flight near @?OUlld
+
+:’
+
+3,000
+
+:
+
+:
+
+.
+.
+
+Ceiling (in m.)
+
+:
+
+3,0Q0
+
+——
+
+:
+
+q
+
+q
+
+:
+:
+.
+.
+
+.:
+
+q
+
+
+
+
+&
+
+K. maximum
+
+:
+.
+.
+
+.
+.
+.
+.
+
+Remarks.
+
+:
+
+: Smashed before :
+aooeptaace
+
+source of informs- :
+.
+tion
+.
+
+:
+:
+
+!lZe3ts&ift des V.D.Ing. of Mayf31st and
+OCtob3r 28th, 1919;
+b
+
+“ZEPPELIN WORKS A.’l?
+STAAKEN N&W
+NO.4
+1915
+
+:
+:
+
+BERLIN.
+
+:
+No.&
+:
+19i6/17/i8
+.
+:
+.
+Biplma
+:
+.
+.
+:CentraI fv.selage:
+:
+:1 engine in fus.:
+:
+Biplane
+:4 engines in
+:
+Biplane
+Description
+:Central I%ekge:tankm
+in @.Cgs :Central fuselage
+:
+:1 Central.trao- :4 engines in
+:
+: tor propel~er :tandem inwiag~
+:
+:2 laterai pvo- :
+.
+.
+:pulsive mo~cIle$i3
+4
+4 Benz
+:
+ENGINES
+:
+El
+:
+Constructor an~m~:
+2 Ilaizi!.er:
+Daimler
+Maybach
+:
+.
+:
+Description
+:
+.
+.
+Bore x Stroke
+:
+.
+:
+.
+H.P.
+:
+~ 4x220)1200
+s 5x25!2=1250
+; _4x
+260 = 1040
+r.p.m.;r.p.m.
+1400; 700
+: ——
+(end; (pro)
+~ 2 x ‘m)
+:
+——
+DIMENSIONS (inm.)
+:
+.
+:
+span
+:
+:
+: 42.2
+Lringth Asruct R. :
+8.5
+:
+:
+.
+Hsight
+:
+.
+.
+Surface {in sQ.m.):
+:
+: 132
+.
+WEIGRT, Tot&l
+:
+:
+11.SK
+.
+n-~tv
+.
+:
+:
+8:300
+.
+Glider
+:
+:
+.
+5,mo/o.61
+.
+.
+.
+l@zin=Set
+.
+.
+:
+2,400
+.
+Useful Load
+:
+:
+.
+.
+Fuel
+:
+-4,500
+4,500
+:
+3,200
+.
+.
+Hours Of might
+;
+.
+.
+—.
+MaximlxoSpeed in
+:
+:
+:
+.
+.
+horizontal flight :
+.
+335
+4,030
+;
+Climb
+:
+4,000
+: 3,000 in sol
+Cemf.ng (inm)
+:
+:
+:
+3,800
+.
+“
+~E/SQ .m
+.
+.
+:
+35
+‘-”
+—.—
+.
+Kg/HP
+:
+:
+.. 11.5
+..
+..
+:
+KX in.horiqptal.
+:.
+.
+.
+flitit near grmnid:
+.
+.
+0. iikii’
+3/2 = -.
+:
+.
+.
+.
+.
+Ky”/*
+2.2
+,
+Kyma@J?im
+:
+.
+Constructor and Type:
+:
+—
+
+?iO.5
+~9~6
+
+q
+
+q
+
+.
+
+q
+
+-
+
+—
+.
+
+q
+
+q
+
+Remarks
+
+:
+:
+.
+.
+.
+.
+:
+.
+
+SOUXCO
+
+:
+:
+.
+.
+.
+.
+:
+
+of Itiormatioi: Z. des V.D.Ing: Of May33
+
+:Bestknown t~e;
+:built in-guantity
+:wQdllCtion by the
+:Staakea Works, by
+:“Aviatikn, Sc?i&tte
+:Lanz am “fibs’~oslr
+and OCt. ~, 1919.
+
+.
+
+-!5ZEPRILIN WORKS A? 8’l%AXEN
+NEAR 31RLIN
+..
+
+.
+.
+
+Seagkm
+:
+sua.~lala
+:
+NO.9
+1{0
+.e
+NO*7
+and &’pa :
+.
+1918
+.
+1917/18
+1917/L8
+:
+.
+.
+Bi@ane
+:
+.
+Biplane
+:
+2 f~o~ts
+:
+:Cenwal fuseiage:
+Biplane
+: 1 eng$ne in fue.
+:1 9ngiae in fus. :
+:Central fusekge
+2 floats
+:4 Ong. i2 tandem:
+Description
+:Ceutral fuselage: 4 engines in
+:
+in wings
+: 1 central prop.:4 ‘ang. in tendsm:tandem in Kings
+.
+n :
+.
+: 4 lat9r81
+5
+:
+:
+5
+ENGINES
+:
+Constructor anl Type:
+l&.ybach
+:
+lila~*~h
+:
+:
+:
+Description
+:
+t
+:
+Bore x Stroke
+:
+.
+b
+i
+E.P.
+= MOO
+4 x 250=2000 ; 5X3(M
+r.p.m. ;r.
+g.m.
+: 5X250
+=E5434
+.
+.
+:
+.
+sng)
+(Pro)
+.
+:
+DIMENSIONS(in m)
+:
+.
+span
+“
+:
+t
+:
+Length As~eot R :
+:
+:
+.
+Height
+:
+.
+:
+.
+.
+.
+.
+Su&aoe (in so.m) :
+.
+.
+:
+WEIGHT, Total
+:
+.
+n
+:
+Ei31p:y
+.
+.
+Glider
+:
+:
+:
+.
+:
+:
+EWine Set,
+:
+:
+:
+useful Load
+:
+~:
+5,030
+4,500
+:
+4,500
+.
+.
+HCUYS af might
+:
+:
+—
+.
+:
+.
+Maximm Speed in
+:
+.
+:
+.
+HOI!IZCX?T!AL
+YLX+HT
+:
+:
+:
+Cllmb .
+:
+:
+
+co?lstrutor
+
+q
+
+q
+
+Ceiling (in m)
+Kg/sq.m.
+
+Kf3m
+~
+
+:
+.
+.
+
+:
+
+in horizontal
+:
+flidlt near Wo und:
+Ky3/2/KX max..
+:
+Kymaximn
+
+‘
+
+:
+
+4,5CX2
+
+:
+
+:
+
+:
+
+:
+
+:
+
+.
+.
+
+:
+
+:
+
+q
+
+.
+
+:
+
+.
+q
+
+.
+.
+
+q
+
+.
+
+This is A.irpkna: ‘l%isis Airplane
+.
+: 6 on floats. :
+? on floats
+:
+:hilt
+by !lAvia-: Built by “AviFL:
+:t&l~ ‘Works
+: tik works
+of Itiormation: “Zeitschrift des ‘Teraines
+Deutscher IqpieUrQ1l
+of May 31st and Oct. 2ath, 1919,
+q
+
+
+
+Remarks
+
+Souros
+
+2,500
+
+q
+
+&
+
+.
+
+-6SIWENS-SCHUCKERT
+Constructor and
+
+Type~
+
+besoktption
+
+No.ll
+
+:
+
+:
+1915
+.
+.
+Biplane
+:
+:Central fuselage:
+: 4 engines in :
+line
+:
+:
+:4 trac$i~ yo:
+.
+.
+:
+w
+m
+
+No.
+
+12
+
+1915
+
+No .21
+:
+1915
+:
+Biplane
+:
+:Central fu~elege
+:2 eng. in fuselage
+:wmkirag 2 lateral
+:tractor propellers
+.
+,’
+.
+
+4
+a &?guEl
+:
+:
+:
+ENGINES ,
+:
+Com?trWtor &, ‘&m :
+2 Mercedes
+:
+J!XRUS
+Desdz%pticm
+: 4 vertiod CYL.:Meroed@, 8 ~er-:
+Bore x Stroke
+: Water-cooled
+: tical cylind@rs :
+*
+H.P.
+“~2X310)6@
+~
+; 4X11O=44O*
+*4pim.
+;r.
+p.mt
+:2X220)
+:
+(*)
+(E@b) . :,
+DIMENSIONS (in m)
+:
+.
+span
+.
+Length Aspect R :
+Height
+Surface (in sq.m.)1
+:
+:
+.
+.
+
+WEIGET, To=
+n
+Rnpty
+Glider
+33@ne Set
+Useful Load
+
+24
+
+114
+3,500
+
+:
+:
+24:
+.
+.
+*
+.
+.
+.
+114
+.
+.
+5,200
+:
+4,000
+:2,200/0.42
+
+2
+Bsnz
+
+2x350
+1800;
+
+=?O0
+900
+
+26
+:
+:
+:
+::
+:
+:
+
+:
+:
+
+:
+:
+
+3,800
+
+:
+.
+.
+
+Hours of Flight
+
+:
+:
+
+:
+:
+
+1,200
+
+:
+:
+
+bbinnm Speed in
+horizonta2 fMzht
+climb
+
+:
+:
+.
+.
+
+.
+.
+:
+: 2,000 in 29*
+
+Ceiling (in m)
+
+:
+
+:
+
+Kg/sq.m
+
+:
+
+:
+
+45.6
+
+:
+
+31g/HP
+
+:
+
+7.6
+
+‘:
+
+5,2(M
+4,(X)O
+
+mel
+
+Ky3i2/KX max.
+
+:
+
+:
+*
+.
+:
+:
+
+ICy-~~
+
+~
+
+:
+
+Remarks
+
+:
+:
+:
+:
+
+KX in horizontal
+:
+fliat near ~ound :
+
+:
+:
+: 3,3CK)inasf
+.
+.
+
+‘
+
+:
+:
+:
+:
+
+.
+
+source of
+
+Information:
+
+The construo- : The Army does :
+tors have taken: no% rso~&
+:
+some ideas from: the development:
+the SZkorskytir~:of this type. :
+‘Ze3tsdf3rif*
+des Vere4es Deutao.herIngen%eureN
+of Janmry Z%th, 1920.
+
+-7,
+
+S13XENS-SCE!JCKZCRT
+Constructor and Type:
+:
+
+No.22
+191!5
+
+:
+.
+.
+
+N0.23
+1915
+
+:
+:
+
+Biplane
+:
+:Central f‘meLags:
+:3 eng. in fus. :
+:2 lateral tract+:
+:or.propellers :
+
+:
+B5plane
+:Central fueelage
+:6 eng. in fus.
+:.4
+p~~. in tandem
+:between wings.
+
+q
+
+
+
+Dewxciption
+
+,—
+
+:
+ENGINES
+Comtmctor
+and !Qpe:
+Description
+mo~~ x g~~-~ke
+H.P._
+r.p.m. ;r.
+p.m.
+(e-)
+(We)
+
+,
+
+.
+.
+:
+
+3
+Benz
+
+:
+:
+:
+: 3x220
+,
+
+=660
+
+.
+.
+:
+.
+.
+.
+.
+
+3
+Mercedes
+
+:
+.
+.
+.
+;3x260=7S0
+:
+
+DMENSIWS
+(in m)
+span
+Length As- ct R
+Height
+Surface (in sq.
+m)
+
+~
+.
+.
+:
+
+:
+:
+:
+.
+.
+:
+
+V!IUGHW Total
+,
+
+:
+
+:
+
+:
+
+:
+
+Hider
+
+:
+
+Engine Set
+Useful Load
+Fuel
+.—
+——Hours of F~ight
+—
+.—
+M%mimtz Speed in
+hor~zontal flight
+
+:
+:
+.
+~
+
+:
+:
+
+:
+:
+
+:
+:
+
+:
+climb
+Ceiling (in m)
+:
+iKg/sq.m
+:
+:
+K@?
+—.
+KX in horizontal
+:
+fllght near Rrmlnd:
+:
+
+:
+.
+.
+:
+.
+.
+:
+:
+.
+.
+
+:
+
+:
+
+.
+.
+.
+.
+
+.
+.
+:
+
+:6x300
+=18~
+: 1700; 900 Fore
+?n~ Af&.
+.
+45
+:
+.
+.
+22
+.
+.
+7-5
+.
+.
+512
+
+:
+.
+.
+.
+.
+
+II
+
+Eknpty
+
+~3i2/~
+max.
+.
+KV rn=mum
+
+:
+.
+
+33
+
+No ,3
+191?
+
+38
+
+:
+.
+.
+.
+.
+
+?,600
+5;WYI
+
+15.500
+11;000
+
+:
+.
+1,909
+
+:
+.
+
+4,500
+
+:
+:
+.
+.
+3,300
+
+:
+:
+:
+:
+4
+
+4,5CQ
+50.3
+8.6
+
+q
+
+.
+.
+
+1.6
+
+:
+
+A
+
+Remarks
+
+:: Only flew after
+. the Armistice
+
+Source of Information: ‘Zeitsthrift des Verd.nes Ibutscher Ingenieure”
+of January 24th, 1$20.
+
+LEIPZIG
+
+:
+Biplane
+.
+Central fuselage
+.
+:4 engines in fuselage
+:2 lateral tractors pro:pellers on Wer
+wing
+:2 lateral propulsive pro:pellers on lower wing.
+
+Description
+
+:
+ENGnms
+Constructor and Type:
+Description
+Bore x Stroke
+
+4
+Mercedes
+
+:
+:
+
+Dimensions (inm)
+span
+Length @rect R.
+Height
+Surface (in sq.m)
+—.
+WEIGHT, Total
+n
+mpty
+‘
+Glider
+
+4 x 220 = 880
+
+:
+:
+:
+:
+:
+
+~~,
+
+Flight
+
+Speed in
+horizontal fli&t
+
+Maximum
+
+CHmb
+Ceiling (i.nm)
+sq,m.
+Kg/HP
+~
+
+142
+9,4m
+6;800
+4,3C0/O.46
+
+:
+:
+
+2,5W
+
+:
+Of
+
+:
+:
+:
+:
+.
+.
+:
+:
+,.
+.
+
+:
+:
+
+.
+.
+:
+:
+.
+:
+.
+.
+.
+.
+q
+
+:
+:
+.
+.
+
+Et@ne Set
+Useful Load
+
+:
+:
+4
+Mercedes
+
+.
+.
+
+:
+
+r.p.m.;r.p.m.
+(pro)
+(eQ3)
+
+.
+.
+:
+:
+:
+:
+
+:
+.
+.
+
+:
+:
+
+H-~.
+
+Hews
+
+No.2
+191?
+
+:
+.
+.
+
+Constructor
+
+2,600
+
+120
+moo in lot
+20’)0in25T
+3,500
+5?.7
+10.7
+
+*
+.
+.
+.
+:
+:
+:
+.
+.
+:
+:
+.
+.
+:
+.
+.
+.
+.
+.
+.
+
+4
+
+260 = 1040
+1450
+
+X
+
+—
+
+35.3
+21
+6.5
+265
+12,000
+8;600
+6,~/O.5
+2,600
+3,400
+
+132
+
+J
+
+:
+
+MS:
+11.5
+0.00417
+
+in horizontal
+:
+flitit neas ground:
+
+0.00685
+
+.
+.
+
+I#@/l&ax.
+
+2.2
+
+:
+
+Ky maximum
+
+:
+:
+
+q
+
+‘
+
+:
+
+:Was used 023the Oriental : 6 machines were ordered by
+:fron% until 2937.
+: the Amy,
+1~ now being
+: transformed for carrying
+:
+.
+: 24 passengers.
+Source of Information: IrZeits&rift des Vereines Deutscher Ingenieure”
+of January 31st 1920.
+Remarks
+
+q
+
+.g*
+.
+....
+
+q
+
+:
+
+A.31.
+
+G.
+
+&&
+
+..
+..
+..
+..
+
+Constructor and Ms:
+
+BRESLAU
+LINKE~HOI’FMAY;
+.
+Type3
+
+~
+
+2
+
+Type
+
+Biplane
+Biplane
+:
+Eiplsme
+“o
+:
+:Centr&
+fuselage;;~entral fueelage:Oeatral fuselage
+:4 eng, in fusm ::4 eng. in fus.
+.‘“~latsral tract-:: 2 tractors
+:ors of /5.1
+n.
+::
+
+Description
+
+:4 eng. in fue.
+:working 1 tractor
+:of 6.5 m.
+
+:
+:’
+:
+: 4 x 260 =1040
+: ~Q=.(-J
+;?~
+
+::
+4’:
+:: Mercedes
+..
+..
+..
+..
+::
+::4x26O=1O4O1
+:: 1450;50
+7
+
+:
+:
+.
+
+DIMENSIONS (inm)
+span
+Length Asnect R
+Height
+S&-face {in sq.m)
+
+:
+.
+~
+:
+:
+
+::
+..
+;:
+::
+::
+
+:
+.
+~
+:
+.
+
+wEIGH!2,Total
+n
+mpty
+Glider
+Ihgine Set
+Useful Load
+Fuel
+Hours of Flight
+
+:
+:
+b
+.
+:
+:
+:
+:
+
+Maximum @eed in
+horizontal fli~t
+Cumb
+Ceiling (in rd.
+Kg/sq.m
+Kg/HP
+
+:
+:
+:
+:
+:
+:
+
+K= i~-~s~%~c?t.el-
+
+;.,.
+
+4
+Meroedes
+
+ENGINES
+:
+Constructor and Type:
+Description
+Bore x Stroke
+H.P.
+r.p.m.;r.p.m.
+(eng) (@o)
+
+‘;~%g=-~”~’: .
+K= maximzn
+R_ks
+
+36
+9.5
+260
+12,700
+9,020
+
+3,703
+
+49
+12.2
+
+::
+::
+::
+::
+::
+::
+..
+..
+
+11,200
+8,000
+
+::
+..
+..
+::
+::
+::
+
+129
+
+::
+
+3,200
+
+3,000
+42.3
+10.8
+. .. ,
+
+4
+Meroedeta
+
+4x2EC)=104O
+: 1450;750
+
+q
+
+42
+20.3
+7.1
+320
+
+:
+:
+:
+:
+:
+:
+:
+
+12,090
+8,003
+
+:
+:
+:
+:
+:
+
+329
+
+:“
+:
+:
+
+4,Om
+z’?
+,“8
+,-—
+—
+13.2
+
+.
+:
+
+..
+..
+
+:
+:
+
+:: Both airplanes met with accidents
+:: before conclusive results wero
+:: obtained
+
+Source of ImforOation: Z des V.ll.ng::
+I
+.
+.
+7/1/1920
+::
+
+——
+
+:
+.
+.
+
+—
+
+4,000
+
+, ;:
+..
+..
+..
+..
+
+:
+
+‘
+
+33.2
+15.6
+6.7
+265
+
+:
+
+8:..
+!l.i)r&64 .“
+—.
+2.3
+
+“Flight” 2nd DOC. 1919.
+
+“
+
+-
+
+-1oZEPPELIN ?klRKSAT LINDAU
+DfEumR
+Constructor and me
+
+~
+q
+
+W.mMNEs
+
+Rs.1
+1915
+
+:
+:
+
+Rs,II
+1915/1916
+
+“
+
+:
+3iNlane with W sha~d : MonoFlane with mall
+,
+mas$e
+: wings on the hull.
+Desor5Ftion
+~
+Hull fuselages
+: Central hull with fus: 3 engines and 3 Waotors
+alage not fab~ic,
+: covered. First 3 eng.
+in line.
+:
+: in hull and 3 propul:
+: sive propellers in line;
+.
+.
+: then 4 engines in tandan
+#
+.
+:I
+between+.
+upper wing and
+:
+:
+hull .
+ENGINES
+.
+3
+:
+Constructor and %e
+:
+:
+Maybach
+Ms@aoh
+——
+.
+Description
+.
+;
+,
+Bore x Stroke
+:
+:
+.
+E.P.
+.
+3x240=720
+:
+4s 240=960
+:
+x“
+; ?::?”
+:
+.—
+DIMENSIONS (in m)
+:
+:
+.
+.
+Span
+:
+43.5
+33
+Length Aspect R
+:
+29
+:
+24
+Height
+G
+7.2
+7.6
+,
+Surface (in sq,m) :
+329
+.
+25?’
+.
+WEIG3T, ‘Total
+:
+.
+9,100
+II
+EirlPtT
+:
+:
+7*100
+.
+Glider
+:
+.
+.
+EzxzineSet
+:
+.
+Useful.Load
+:
+*
+Fuel
+:
+:
+2;m
+Hours of,F13fit
+:
+:
+Maximum Speed in
+:
+horizontal flight
+:
+:
+—.
+Climb
+:
+:
+Ceilin.g (in m)
+:
+:
+.
+Kg/sq.m.
+z
+.
+37.?
+KE/HII
+:
+:
+9.75
+:
+‘%
+‘%:%t%.md
+:
+r
+.
+.
+*
+‘~~ max
+:
+.
+.
+.
+.
+Ky maximun
+.
+.
+——
+Remarks
+: Metallic constrwtion.
+Steel and duraluninm.
+——
+Souroe of Information: Z des V.D.Ing.
+7/n
+1920.
+q
+
+=
+
+q
+
+q
+
+q
+
+q
+
+q
+
+.
+
+-11-
+
+ZEIY?EIJN
+WORKS AT LINDAU
+DORXIE8 SEAPLANES
+
+Description.
+
+:
+:
+:
+. :
+:
+.
+.
+.
+
+:
+ENGINES
+Construetor and T&&e :
+Des&-iption
+:
+Bore x Stroke
+:
+:
+E. P.
+:
+r.p.m. ;r.
+p.m.
+(d
+(We)
+:
+DIMENSIONS (in m)
+Spm
+Length Aspect R.
+Height
+Surface (in sq.m)
+
+:
+.
+.
+:
+:
+:
+:
+:
+
+Monoplane hnll
+l%adage at height
+of ‘tirga
+.
+4 engines in tandem
+St@@l longerons
+Duraluminun ribs
+n
+hull .
+
+4 x 260 = 1040
+
+Maximum Speed in
+horizontal fli~t
+Climb
+Ceiling (in m)
+
+Kg/w
+~ in horizontal
+flight near ground
+
+:
+
+.
+.
+:
+:
+
+Ky3i2/~ max.
+
+/0, 670
+!7,200
+
+‘“
+
+:
+.
+.
+
+10,500
+?,000
+
+~ 3,470
+t
+
+:
+:
+:
+.
+.
+:
+
+47.1
+10.2
+
+:
+
+maxima
+
+Remsrks
+
+:
+:
+. Monoplane htil
+,
+: Fnselage at height of wings
+: 4 propellers in tsndem.
+:
+:
+.
+4
+.
+.
+.
+Maybach
+:
+:
+.
+4 X 260 = 1040
+~
+:
+3?
+22
+8.6
+226
+
+:
+
+~
+
+xv
+
+1918
+
+:
+:
+.
+.
+.
+.
+:
+
+:
+.:
+:
+:
+
+Kgjsq.ut
+
+ml.
+
+37
+26
+8
+226
+
+:
+:
+:
+:
+:
+
+WEZGHT, Total
+11
+Ell@ty
+Glider
+Engine Set
+Useful Load
+Fuel
+Hours of F2Qht
+
+:
+:
+
+“Rs. 111
+191?
+
+Constructor and Type ~
+.
+
+3,500
+
+:
+:
+.
+.
+.
+.
+:
+.
+.
+.
+.
+.
+.
+.
+.
+
+46.5
+9.?
+
+.
+q
+
+—.
+
+: Is still.
+need in the : Intended for oarrying 20
+.
+.
+Navy
+:
+passenger
+
+Source of Information: z. des v. R. IZlg.
+
+?/n
+
+1920
+
+.-
+

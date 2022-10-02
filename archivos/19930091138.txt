@@ -1,0 +1,6436 @@
+REPORT No. 77
+
+SE
+
+.IL
+
+COP Y
+THE PARKER VARIABLE CAMBER WING
+
+NATIONAL ADVISORY COMMITTEE
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH ANNUAL REPORT
+
+THIS DOClJ laH ON LOAN FROM THE FIL£S Of
+NATIONAL AQV'SORY COMMITIEE FOR AERONAUTICS
+LANClH AEIUJ'-/ UT CAL LABORATORY
+LANCLEY ntLD. 1/ I:P,ON. VIRGIMA
+
+RETURli TO TfoiE A C [A
+
+IlrQun,s
+
+~
+
+S,
+
+I)R pt, • JAT Orc~ .IOVU) Bt ADDRESSED
+
+FO ..LC ..... :
+rAT 01 ~ flOJiSO'l'r CO~{\MlmE FOr. v''''
+17~~ 1 3TR~ET.
+
+\ A : GTOl;
+
+t .Y/.,
+
+~:.s,
+
+D.C.
+
+U'
+
+I"
+
+WASHINGTON
+
+GOVERNMENT PRINTING OFFICE
+1920
+
+REPORT No. 77
+
+THE PARKER VARIABLE CAMBER WING
+
+NATIONAL ADVISORY COMMITTEE
+
+FOR AERONAUTICS
+
+PREPRINT FROM FIFTH AN UAL REPORT
+
+WASHINGT ON
+GOVERNMENT PRINTING OFFICE
+1920
+
+By TraIlBfer
+
+Navy Dept.
+~ClV 17 1930
+
+REPORT No. 77
+THE PARKER VARIAiiL~' 'CAMBER WING
+BY H. F. PARKER.
+
+3
+
+REPORT No. 77.
+THE PARKER VARIABLE CAMBER WING.!
+By H. F.
+
+PARKER.
+
+(Introduction-Rib structure-Rib tests; Conditions or test; Results or tests-Aerodynamical tests-Discussion ot Wind tunnel results; Mono·
+planes biplanes; triplanes-Summary.)
+
+INTRODUCTION.
+
+The most important single problem in aeronautics awaiting solution is that of increasing
+the speed range of airplanes. In recent years maximum speeds have been increased very
+greatly, and will no doubt be still further increased, but each addition has been accompanied
+by an increase in the landing speed. The landing speed has always been about half the maximum
+and could not be reduced below that amount without entailing the expenditure of additional
+power. This is due primarily to the properties of the type of wing which has been used.
+In flying, the method utilized to change the speed is to alter the angle of attack of the
+planes. This must also be accompanied by an alteration in the power output of the engine if
+the machine is to be kept flying level. Manipulation of the engine throttle without alteration
+of the angle of the planes will not cause a change in speed; the machine will ascend or decend at
+its former speed. The speed is therefore dependent on the angle of attack. If this could be
+efficiently varied from a very small to a very large angle, a wide range of speeds could be obtained.
+Two things prevent this: First, the lift does not increase directly with the angle of incidence for
+all angles. It does do so up to about 15° but for greater angles, instead of increasing, the lift
+actually falls off. This falling off occurs in all types of wings though in some cases it is only
+slight and in others very considerable. It is well shovm in the lift curves in figure 14, and is
+also apparent in all the other lift curves shown in this report--in figures 8, 17, and 20. Consequently no increase in speed range can be obtained by increasing the angle of incidence beyond
+15°. Second, the efficiency of the plane is not maintained at low angles. As the incidence is
+reduced from the maximum of 15°, both the lift and the drag decrease, the drag at first falling
+off more rapidly than the lift. At about 3° a point is reached where the ratio of lift to drag is
+a maximum. This is the most efficient flying angle for the plane. As the incidence is further
+decreased, the lift continues to fall off rapidly. The drag, however, decreases more slowly,
+being a minimum at zero incidence. For negative angles it again increases.
+This means that the ratio of lift to drag falls off very rapidly, and the wings of a machine
+flying at a smaller angle of incidence than 3° offer more resistance than they do at that angle.
+The line from which these angles are measured is the chord of the aerofoil, i. e., the common
+tangent to the lower surface. It wjli be noticed that this is not necessarily the position in which
+the wing gives no lift. Most wings give a considerable lift when their chord line is parallel to
+the direction of the air flow, and this lift only becomes zero when the nose of the wing is about
+3° below the trailing edge. In fact, fast machines frequently fly with their planes set at negative
+angles.
+If a maximum speed of double the minimum is to be obtained, the machine must fly under
+the inefficient conditions existing at these small positive or even small negative angles of incidence. If it is to be more than double, as it mu t be in order to obtain a reasonable landing
+IAt the time this wing was designed it was Mr. Parker's belief that the wing would be automatic in operation. Subsequent examination
+indIcates that this is not true, at least [or the rib as now designed . Means [or flexing the wing mechanically are not discussed .-Ed.
+
+5
+
+ANNUAL REPORT NATIO:NAl, ADVISORY COMM1TTEE FOR AERONAUTICS.
+
+speed in machines flying at over 100 miles an hoUT, the small lift necessary at high speeds IS
+accompanied by a prohibitive drag.
+The problem of increasino- the speed range may be approached in a number of ways, but
+confining oUTselves to devic s applicable to the present type of airplane, wh.ich eliminates the
+helicopter and similar machines, there are three way by which a solution might be achieved.
+These are:
+Variable angle of incidence.
+Variable surface.
+Variable camber.
+Each of these presents great mechanical difficulties, but the first is the easiest of attack and
+has consequently approached nearer a solution than either of the other two. It offers two advantages: First, the axis of the fuselage can be kept parallel to the path of flight at all speeds, thus
+ecming a minimum drag over the entire speed range. In the present machine, having the
+wings fixed in relation to the fuselage, the fu elage is at a con iderable angle to the flight path
+over a portion of the speed range. Under these conditions the variable incidence machine is
+more efficient than the present type . Over that portion of the speed range where the fuselaO'e
+of the standard machine lies along the flight path, or only a few degrees from it, the variable
+incidence machine offers little or no advantage. Second, the wings of the variable incidence
+machine can be tilted to a much greatcr anble than is possible in the present machine. This
+permits the machine to be brought to rest more rapidly. It does not, however, reduce its minimum flying speed. Thus the advantages of variable incidence, though well worth attainment,
+do not provide a sufficiently complete solution of the problem.
+The next for consideration is variable surface. Theoretically, this give'S a perfect solution.
+If the wings of the airplane could be increased in area during flight, the speed could be reduced 0
+as to land as slowly as desired. Conversely, given sufficient surface to insure a lo\ov enough
+landing speed, if the surface could be reduced in flight the planes could always be made to
+operate at the angle of incidence giving the b est lift/drag ratio, thus securing the least possible
+drag at maximum speeds. Unfortunately, mechanical difficulties prevent the realization of
+this method. 'rhese difficulties are so serious that there does not seem any prospect of Lheir
+beillg overcome in the near future.
+Finally, there is variable camber. This offers advantages very much greater than variable
+incidence, but is more difficult of solution mechanically. On the ' other hand, as compared
+with variable surface, it is mechanically possible, but its aerodynauuc advantages are not quite
+so great . Yet they are, however, great enough to provide l1 satisfactory solution of the problem
+and the only one, apparently, which is practicable.
+So much for the accepted methods of increasing speed range. The method under discussion
+in this paper can not be properly classified under any of these headings. In conception, however,
+it is derived from variable surface, though the mechanical device utilized is distinctly variable
+camber.
+Let us retUl'n to the conception of variable surface. A machine so equipped would have a
+comparatively small amount of fixed surface, together with a larger amount of removable surface .
+While landing, both fixed and removable SUl'face would be in operation, but at high speed
+the fixed surface alone would support the machine. Assuming that a mechanical device to
+operate such a system is possible, it is obvio us that the mechanism would entail a considerable
+increase in weight, and probably also in head resistance. This may be expressed in terms of the
+resistance of the wings that have been removed. For example, 100 units of drag may have
+been elimin ated by removing a portion of the wings, but the equivalent of 20 added by the extra
+weight and increased resistance. This, then, would leave us a net saving of 80 units.
+Suppose, now, that instead of removing the wings we leave them in place, but when they
+are not required for lifting we change them to a shape offering only a fraction of their former
+drag. If this fraction is approximately the same as that required for variable surface we will
+have all the advantages of variable surface, and the problem will become one of changing the
+wing from an efficient lifting shape to a shape offering the least possible resistance; for example,
+
+PARKER VARIABLE CAMBER WING.
+
+7
+
+pure stream line. Experimental results show that such a saving can be effected; the drag can
+be reduced from 100 units to 25, giving us a net saving of 75 units. In a biplane the upper plane
+will be of fixed construction and the lower one variable, or vice versa; while in a triplane a suitable
+arrangement is obtained by using a fixed wing for the center plane and placing variable wings
+above and below it. At high speeds the variable planes are to carry no load and are to be
+stream line in shape. At low speeds they are to bear their share of the weight of the machine
+and are to be deeply cambered. For a stream-line wing to give no lift it must lie parallel to
+the direction of the air flow, and then the forces on its upper and lower surfaces are equal. It
+is necessary, therefore, to set the stream-line planes at zero angle of attack when the fixed planes
+are at their angle of maximum lift/drag, usually about 3°.
+For slower speeds the angle of attack of the fixed plane must be increased, let us say,
+from 3° to go, a change in angle of 6°. The stream-line plane is carried through the same angle
+and now has unbalanced forces acting on it, tending to deform it upward. These forces are the
+greatest near the leading edge, and decrease rapidly as the trailing edge is approached. If we
+place one wing spar at the leading edge and another about two-thirds of the chord back from
+it, we divide the wing into two parts, with the force on the front part very much greater than
+that on the rear p art. If, now, we make the part between the spars of flexible construction
+and the part behind the rear spar rigid, and allow the ribs to slide over the rear spar, we provide for a change of shape under load. The portion between the spars is carried upward, while
+the rear portion, being rigid and fixed to it, moves downward. The result is a cambered wing.
+The rib should be just rigid enough to deform a certain desired amount under the maximum
+load it should carry normally, and the deformation should be proportional to the load upon the
+rib up to full load. The load at any time will depend on the ratio of the lift coefficient of the
+variable plane at its angle of attack to the lift coefficient of the fixed plane at its angle. Thus,
+at maximum speed when the variable plane is stream line in shape the proportion is zero to the
+lift coefficient of the fixed plane, and the load is zero. At landing speed the lift coefficients of
+the two planes are approximately equal-the variable plane is carrying half the load and its load
+and deflection are a maximum. In an intermediate case, when the planes are at 6° and go,
+respectively, the lift coefficients are, let us say, 1: 3. The variable plane is now carrying a
+quarter of the load, or one-half its maximum load, and its shape will be halfway between the
+extremes. It is now a lifting aerofoil, but a lightly cambered one. As lightly cambered aerofoils
+are most efficient at small angles, and heavily cambered ones at large angles, the variable wing
+possesses the most suitable shape throughout its range.
+If the decalage remained unchanged, i. e., if the setting of the variable plane relative to
+the fixed plane remained the same for all angles of attack, when the fixed plane was at its
+angle of maximum lift the variable plane would be 3° short of it, and would not be operating
+under the best conditions. This is not the case, however. In changing the shape of the wing
+the trailing edge was depressed and the angle of attack in consequence was increased. This
+change in decalage is dependent on the position of the rear spar and on the amount of maximum camber. In the aerofoil used it is 3°, so that when the maximum lifting effort is required
+both fixed and variable planes are operating most efficiently.
+It is obvious that under certain conditions-gusts, for example, or flattening out after a
+steep dive-the wing will be subject to a load greater than its normal maximum. This would
+be liable to cause further deflection, which would be undesirable. The wing under discussion
+ceases to deflect after the application of its normal maximum load. This is accomplished by
+means of an internal bracing system which only comes into operation when the maximum
+deflection has been reached.
+RIB STRUCTURE.
+
+In designing a wing possessing these variable camber features the following considerations
+had to be kept in mind:
+It had to deform regularly with the load up to unit flying load, then remain rigid under
+further applications of load, and be strong enough to bear several times its normal load without
+failure. It had also to be capable of easy manufacture, to be simple and foolproof in operation,
+
+8
+
+ANN AL REPORT NATIOiTAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+and light in weight. Metal constru tion wa practically a nece sity, and to avoid new features
+which might be doubtful engineering practice, tandard construction was adhered to where,er
+not essential to t,he fu nctioning of the device. '1'be ribs wore thus the only parts of the wing
+requiring alteration, leaving spars, bracing wires, struts, aLe., sub tantiallyas at pro ent. Figure
+1 shows the general construction adopLed. The essential parts are:
+1. Channel-shaped strips A, B , forming the upper and lower surfaces of the rib beLween the
+pars.
+2. Compres ion links at 0, D, E, F, and a. The. e are aloof channel . e Lion and are fixed
+to the outer channels by pins, thu allowing the necessary angular motion between lin1 and
+strips.
+3. Tension links H , J, X , L, M, and
+The~e are 11at strips of steel attached to the same
+pins which carry the compression links. In the tream-line po ition they carry no load and bow
+as shown, but in the lifting position they straighten out and make a tru s of the rib, preventing
+further deformation uncl er overload. The links in the first two and lao1, two panel are slotted
+to allow the in ertion of reverse bnk .
+4. Revel 'e tension links 0, P, Q, and R. The only function of the e is to pre,ent the rih
+being deformed beyond its tream-line po~ ition when uhject to loads on the upper urface.
+5. A tailpiece, fixed in hape, ri,eted to the upper strip at and constructed to slide o,er
+the rear spar .
+6. A spring placed between the rear spar and the tailpiece. Provided the channel A
+and B are made of sufficient size, a rib can be made which will function properly without this
+spring, but its use effects a con iderable saving in the total weight of the rib. '1'he spring u ed
+is a helical tension spring attached to the real' spar and to the front compression memher of the
+tailpiece.
+The upper and lower surfa ces are fixed Lo the front pal', which i ' pl:1ced pr3ct,ically at Llle
+leading edge. A light 'wooden nose piece runnlng the lengLh of the wing and aLtached Lo the
+spar gives a lair shape Lo the leading edge. The rigidity of the rib, due Lo the stiD'ne s of the
+channels and the spring, mu t be such that it attains its full lifting form under normal Hying
+load. The lengths of the tension links determine the final contour of the wing.
+The fabric is continuous over the wings except where th lower flexible channel i connected to the tailpiece. Here it i discontinuous to permit the sliding forward of the fixed tail
+portion over the end of the hannel forming the flexible portion of the lower sW'faco. The
+amount of this liding motion is approximately] inch, and it may be provided for eith I' by
+allowing the SUTTace to overlap or simply by leaving a gap of thi amount. In the formor case
+the sUlfaces would just meet when in the stream-line po ition and would overlap 1. inch in the
+lifting position. In the latter case they would meet when in the lifting position but in the
+stream-line position would leave open a strip 1 inch wide running the length of the wing. It i
+not believed that tlli would be a objectionable a might appeal' at first ight, for the aerodynamic properties of the wing would not b e appreciably a ected. Present method may be
+used for its attachment to the ribs. It will probably be preferable to titch the fabric to each
+sUIface separately, though there i no objection to the stitching going o,er the top and under
+the bottom, except at the rear spar, as the distances between the surfaces do not a1 tel'. 1 t " ras
+nece sary to determine whether any excessive strct h in the fabric would be ca used by the
+functioning of the rib. The lower urface changes from a convex to a concave shape of approximately equal curvature. There will, therefore, be no stretc.h in the fabric. In the upper surbee,
+however, where an increase of convex curvatW'e occurs, there will be a stretch cau ed in the
+fabric. Calculation shows that this is not erious. In a wing of 60-inch chord, with a maximum
+increase of camber of 2 _ inches, the maximum tretch of the fabric is only 1/100 inch in the 15
+inches in which the greatest change oCCW'S, or 0.067 per cent. As th stretch at rupture is 15
+per cent, the fabric is only strained 1/225 of trus amount. It is reasonable to suppose that this
+could be repeated indefinitely.
+
+9
+
+PARKER VARIABLE CAMBER WING.
+
+o
+
+...
+
+~ ~
+
+~
+~
+
+~
+
+~
+
+~
+
+~
+
+~
+
+.
+
+]
+
+~
+~
+~
+
+~
+G
+
+.~
+
+~
+
+~
+
+~
+
+~
+~
+
+~
+
+144543-20--2
+
+10
+
+ANNUAL REPORT NATIONAL ADVISORY COMM ITTEE FOR AERONAUTICS.
+
+Rill TESTS.
+CONDITIONS OF TEST.
+
+The construction and testing of the variable camber rib were carried out in the Engineering Materials L aboratory of the Bureau of Standards. A special method of testing the rib had
+to be devised, permitting the appropriate load to be applied to each surface independently. A
+du'ect system of loading was adopted, the method being clear from figures 2 and 3. Stirrups
+were placed over the rib at the desu'ed points and platforms to carry the weights suspended
+therefrom. The loads applied were calculated from pressure distribu tion tables for the R. A. F.
+14 wing, obtained from experiments made at the Royal AU'craft Factory, England.
+The chord of the variable rib was 60 inches. The rib spacing was taken as 14 inches and the
+wing loading as 5i pounds per square foot. This gives the total load per rib as 33! pounds,
+which was assumed to be distributed as follows:
+UPPE R SURFACE .
+
+Distance from leading edge, in inches ............... . .....
+Load, in pounds . ... . ................. . ... . . ... ..... .. ....
+
+4!
+
+10~
+
+4
+
+4
+
+17! 24 30 36 42 48 54
+
+-
+
+4!
+
+3
+
+2}
+
+2
+
+2
+
+1
+
+1
+
+LOWER SUR F ACE .
+
+Distance from leading edge, in inches............ . .............................
+
+I! 7! 20! 33
+
+Load, in pounds........................................... .. ...................
+
+3! 3!
+
+I!
+
+1
+
+'1'he applied loads were correct to the nearest half pound and the points of application were
+correct to the nearest half inch. Within these limits the loading checked the pressure distribution figures on which it was based.
+RESULTS OF TESTS.
+
+Ounces.
+
+Weight of rib, bare . .. .. ......... .. ......... . ... . ....... .. ......... . . .. .................... II}
+Weight of helical spring.......................... ... .. . ....... . .. .. ........ .... ...........
+t
+
+The total weight of the rib is thus 12t ounces, which compares very favorably with standard
+wood construction. It is actually lighter than the Curtis J - 4 rib (13~ ounces), which was
+taken as a basis for chord length, rib spacing, and loading. More modern ribs, however, are
+•
+somewhat lighter.
+Material used, chrome vanadium alloy steel.
+Thickness, 0.018 inch.
+E lastic limit, 90,000 pounds per square inch.
+Ultimate strength, 102,000 pounds per square in ch.
+
+The steel as fabricated was in the annealed state. In some earlier tests heat treatment
+was resorted to, and, as might be expected, gave even greater strength, two such ribs having
+sustained a loading of 16 times the flying load without signs of failure. Heat treatment was
+omitted in the final test in order to demonstrate that the process was not essential to success.
+The experimental rib was placed in an i.nverted position in a supporting frame and the
+loads applied as previously described. Deflection readings were taken by means of dials giving
+r eadings correct to 1/ 1000 of an inch. Up to unit load, the increments were one-quarter of the
+flying load. The deflection of the rib under these conditions was as follows:
+Load.
+
+Deflection.
+At distances from leading edge of-
+
+Portion
+of normal fl v- Pounds.
+ing load.
+
+1
+}
+
+t
+
+1
+
+st
+
+16t
+25!
+33}
+
+1}-inches
+39 inches 60 inches
+(front
+12 inches. 21 inches. 30 inches.
+(rear
+(trailing
+spar).
+spar).
+edge).
+Inch.
+0
+0
+0
+0
+
+Inches.
+0. 54
+1.00
+1.37
+1.S3
+
+In ches.
+0. 60
+1. 06
+1.47
+2. 03
+
+Inches.
+0.39
+.69
+.94
+1.39
+
+Inch.
+0
+0
+0
+0
+
+Inches.
+-0.90
+-1.46
+-1.94
+-2.53
+
+I
+J
+
+)
+II
+
+I.
+
+Fig. 2.
+
+Fig. 3.
+
+11
+
+PARKER VARIABLE CAMBER WING.
+
+Weights were then applied up to six times the flying load. After this the loading was
+removed , with the exception of the one-quarter load , to determine the ability of the rib to
+return to its original shape after eyere overload. A permanent s t amounting to a maximum
+of h inch occurred in the fir t and second panel. Throughout the re t of its length the rib
+returned to the po ition occ upied under tbe initial one-quarter load.
+Finally the rib was loaded to destruction. Failure occurred after the application of a load
+('orre pond ing to 11 times the flying load by buckling of the flanges of the lower surface in the
+DEFLECTIONS
+
+D n..t:.
+VR)
+8
+
+r.
+
+~flB
+J.
+
+T i o. lIS
+
+r
+
+eC ~MBiF-~
+
+f 113
+~Y
+
+U St. ~~T. ~) ":)F'
+UR
+vcrA :RD::
+
+7
+
+I
+l
+~
+
+I
+
+I
+/ 1
+/"
+
+o
+
+~
+
+•
+
+,/"
+
+.
+
+/-
+
+,//
+
+/
+
+~
+
+7.
+
+"'-.....
+
+-
+
+- ~~
+
+- -f --
+
+_ J""----L___...
+
+~
+
+B
+
+I
+
+first and second panels. Deflection are plotted in figure 4 and tabulated in the appendix. The
+maximum deflection from normal flying load to 10 time that load was 0.437 inch , which compares favorably with that of wooden rib under similar load. While subject to the normal
+flying load , the shape of the rib wa traced upon a board placed behind it. It form agreed
+(within t inch) with the designed nerofoil (V. C. L. , fiO'. 6).
+The rib which ga\Te these result wa the la t of a erie of ix. It i not claimed that it
+represents the best po ible form for uch a rib, but marks a point in the development where the
+many onflicting requirement are all ati fied.
+
+12
+
+AN
+
+UAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+The first two ribs of the series were made from steel 0.032 inch in thickness and were heat
+treated. The lifting shape aimed at was the Eiffel 36-wing curve. The spars were placed in
+the same positions as in the Curtiss IN-4 and the nose was designed to rotate about the front
+spar. The variable portion was divided into four panels, of which three only were provided
+with tension-hracing members. The weight was 16 ounces. A change of shape approximately
+proportional to the load was obtained, but the tail failed to deflect its full amount and the rotary
+motion at the nose was found unsatisfactory. The functioning of the rib is shown by the
+following deflection readings:
+Load.
+Fraction
+of normal
+tJ ying
+
+load.
+
+Deflection.
+
+Mid-point
+between
+spars.
+
+Inches
+0.35
+.80
+
+1.14
+1. 40
+
+Training
+edge.
+
+Inches.
+0.40
+.95
+1. 48
+
+1.90
+
+The strength was excessive, the ribs sustaining a loading of 16 times the flying load, the
+limiting capacity of the supporting frame, without signs of failure.
+The third rib was of 0.018-inch heat-treated steel and weighed 11 ounces. The front
+spar was placed at the leading edge and the rotary motion thus eliminated. The upper surface
+was designed to have the shape of the U. S. A. 4 aerofoil, while the lower was determined by
+the thickness of the stream line. The nose had to be blunt to accommodate the spar. The
+flexible portion was divided into six panels, all of which were bmced, thus making a complete
+truss of the rib. The desired change of shape was attained and was proportional to the load.
+When tested to destruction the rib showed a factor of safety of 11, failure occurring in the
+fixed tailpiece.
+The fourth rib was similar in all respects to the third, except that it was not heat treated.
+It withstood a loading of eight times the normal flying load before buckling over sideways.
+Although the desired change of shape was obtained with these two ribs, the lifting shape
+was not sati factory from an aerodynamic point of view. Consequently a special lifting aerofoil
+was designed, and an attempt made to con truct a rib to this shape. 0.018-inch steel was
+again used and the construction was in general similar to that adopted in the third and fourth
+ribs. The amount of motion, however, was considerably greater, and additional tension links
+were provided to prevent any change of shape beyond the stream-line position should the wing
+be subject to loads on the upper surface. A tenslOn spring was used, attached to the rear spar
+and to the compression member of the tailpiece forward of it, instead of a compression spring
+behind the rear spar, as was used in the first four ribs.
+The functioning of the rib was excellent, the desired lifting shape being assumed with an
+error of less than t inch, but the factor of safety when the rib was loaded to de truction was
+only 7. Failure was due to buckling in the channel forming the lower surface in the first and
+second panels. The weight was 12 ounces.
+
+13
+
+PARKER VARIABLE CAMBER WING.
+
+The behavior of this rib under fractional loads was as follows:
+Load.
+
+Portion
+of normal
+flying
+load .
+
+1.
+
+•
+t
+
+t
+1
+
+Deflection.
+At distance from leading edge of-
+
+Pounds.
+
+It inch es
+(front
+spar).
+
+8i
+
+16t
+25t
+33;
+
+12 inches. 21 inches. 30 inches.
+
+39 inches 60 inches
+
+(rear
+spar).
+
+(trailing
+edge).
+
+Inches.
+
+Inches.
+
+Inches.
+
+Inches.
+
+Inches.
+
+Inches.
+
+0
+0
+0
+0
+
+0.45
+.99
+1.44
+1. 82
+
+0.42
+1.02
+1.55
+1.98
+
+0.20
+.57
+. 95
+1.25
+
+0
+0
+0
+0
+
+-0.45
+-1. 20
+-1.82
+-2.42
+
+The final rib differed only in minor details, particularly the use of a heavier flange at the
+point of failure. This raised the factor of safety from 7 to 11 at an increase of only t ounce in
+weight.
+AERODYNAMICAL TESTS.
+
+A series of tests were carried out by the Bureau of Standards wind tunnel staff to determine the following points:
+1. The properties of four new aerofoils, being the stream-line and full-lifting shapes of the
+variable camber wing, and two intermediate shapes under one-third load and two-thirds load,
+respectively.
+2. The aerodynamic efficiency of these aerofoils when used together with a standard
+aerofoil in biplane and triplane combinations.
+3. The stability of these biplane and triplane combinations.
+Models of the necessary aerofoils were made of bakelite and were correct to within five
+one-thousandths of an inch. The model of R. A. F. 6, which was used as the standard section,
+was of wood, and though accurate when made did not retain its accuracy as well as the bakelite
+models.
+The stream-line and full-lifting aerofoils were designed in accordance with certain limitations
+imposed by the rib structure. The chief of these were:
+1. The necessity for a blunt nose to permit the front spar being placed at the leading edge.
+2. In the lifting model a lower surface concave toward the trailing edge could not be used
+because the portion of the rib behind the rear spar does not change shape and the stream line
+is slightly convex.
+3. The camber of the lower surface between the spars was limited by the necessity of
+allowing for internal bracing wires.
+4. The maximum camber on the upper surface was determined by the camber of the lower
+and by the thickness of the aerofoil, which, in turn, was determined by the fineness desired
+in the stream line.
+The two extreme shapes were carefully designed in the light of these and of aerodynamical
+considerations. The intermediate shapes were obtained on the a sumption that the rib
+deflected throughout its length directly as the load up to normal full load. Control can be
+exercised over the design of the e intermediate shap by varying the depth of the flanges of
+the rib channels, but as the distribution of pressure is also a factor and as it is not known how
+much the distribution assumed (R. A. F. 14) differs from the actual, the shapes used Were
+arrived at somewhat arbitrarily.
+The wind tunnel used at the Bureau of Standards is of 54-inch octagonal section, the air
+being drawn through by a lOO-horsepower motor. The balance is of the N. P. L. type and the
+
+14
+
+ANNUAL RE P ORT KATIONAL ADVISORY COMMI TTEE
+
+~'OR
+
+ABRONAUTICS .
+
+models were mounted ver tically in the tunnel. I n the biplane and triplane combinations
+the mod els were space d relatively by brass stru ts screwed into the ends. Provision was made
+for a fine adjustment of the cl ecaIag!' by t he arrangement illustr ated in figu re 7. The points
+of attachment of the stru t to the variable planes corresponded approximately wi th the positions
+of the spars in the full-size wing. The leading edge was thus fi.\:ed in position , so no adjustment
+for gap was necessary. The ch ord of the fixed middle aerofoil \vas used a a reference plane,
+and the decal age measured by the difference in gap at the trailing edge.
+Lift, drag, and t orque determinations were carried out on the following aerofoils and
+combinations:
+Aerofoil V. C. stream line (a) used afterwards in biplane a nd triplanc tests; V. C. stream
+line (b) used in triplane tests onl y.
+Aerofoil V. C. one-third lifting (a) used in biplanes and triplanes; V. C. one-third lift ing
+(b) used in triplanes only .
+Aerofoil V. C. two-thir ds lifting, u cd in biplane tests.
+Aerofoil V. C. lifting ((L) used in triplanes and biplane. ; (6) used in triplanes only.
+Aerofoil R. A. F. 6, used in biplanes and triplanes.
+Biplanes.
+No.
+
+Lower plane.
+
+Upper plane.
+
+tagger.
+
+Decalage.
+
+].
+2
+3
+4
+5
+6
+7
+8
+
+R. A. F . 6.. ...... .. ....................... .. ....
+R . A . F . 6...... .. .. ........ .. .. .. .. ...... .. .. ...
+R . A. 1". 6 .. .. .. .. .. .. .. .........................
+R . A. F . 6. ..... .... . ..... . . .......... . . .. ..... . .
+V. C. S..... .............. .. ..... .. .. ..... ......
+V. C. ! L .... .. . ........ .... .. .... .. .. .. .. .. ....
+V. C. ~ L .... . .. . . .......... . . . . .. .............
+V . C. L.... ...... .. ........ ...... . .. .. . . ........
+
+V. C. S .. ............... .. .......... .
+V. c. ! L .... . .............. .... .. .
+V. C. ~ L ................... . ..... ..
+V. C. L ....... . ...... . ............ .
+R. A. F. 6 .... .. ................... .
+R. A. F. 6 ........................ ..
+R. A. F. 6 . .. . ................ .. ... .
+R. A . F . 6.. ................ .. .... ..
+
+Per cent.
+-20
+-20
+-20
+-20
++20
++20
++20
++20
+
+Degrees.
+
+Stagger.
+
+DccaJagc .
+
+2~
+
+n
+~
+
+-1
+2~
+J~
+
+7
+-t
+
+Triplal1es.
+No.
+
+Top plane.
+
+]
+2
+
+V. . S .... .. .. .. .. .. .... ........
+V. C. :7 L ...... ........ ..... ...
+Test-not rwl. . . .... .. ..... . ... .
+V. . L .... ... .. .. ..... . .. .. ...
+
+3
+4
+
+Midd le pJane.
+
+Bottom pl ane.
+
+Per cent. Degrees.
+R. A. F. 6......... . V. C. S........ ..................
+20
+2~
+R. A. F . 6 .... .. .... V. C. ! L ............ .. ... .. ...
+20
+It
+.. .. ........ ... .......... . ..... . ....................................... .
+R A. F . 6.... . .. ... V. C. L.... .. ............ .... ..
+20
+- ~
+
+The term decalage here r efers to the incidence of the planes of the vari ahle eries to the
+chord line of the standard plane.
+Detailed r esults will be found tab ula te d in the appendix at the end of the r eport.
+DISCUSSION OF WI ND-TUNNEL RESULTS.
+SI NGL E AEROFOILS .
+
+The curves fo r the vari able wing as a mon oplane (fig. ) were ob tained from figure 14, 15,
+and 16. At low angles (- 3°, - 2°, - 1°, 0°), when the variable wing was stream line, the point
+for the variable cur ves were ob tained fl' om the cur ves for V. C. S. At high angles (12°, 14°,
+16°, 17°, 18°), when it wa' in i ts full lifting shape, the poin ts from V. C. L. were used. Two intermediate sets of points were obtained-one from the curve for V. C. -?r L . at 4° nnd the other
+from the V. C. ~ L . curves at 8°.
+
+r---
+
+i
+
+Fig. i.
+
+PARKER VARIABLE CAMBER WING.
+
+15
+
+The travel of the center of pre sure is noteworthy, being as nearly as possible stationarythe amount of travel within the range of flying angles being 0.035 chord in the stable direction.
+Aerofoils of the fixed type are unstable. Thu, if the center of pressure coincides with the
+center of gravity at any angle within the flying range, the plane will be in equilibrium. If,
+however, it is then displaced from this angle, the position of the center of pre sure will change
+and will introduce an upsetting moment which will move the plane still fUl'ther from its position
+of equilibrium. This unstable effect is very marked at small angles of incidence. This is apparent from figure 16, the curves for V. C. t L., V. C. ~ L. , and V. C. L. being typical of all ordinary aerofoils. In figure 8 the motion of the center of pressure is such that if the plane be displaced from its angle of equilibrium the re ulting moment will tend to bring it back to that
+position. At 17° a marked change OCCUl'S, but this is evidently due to the breakdown in the
+air flow which takes place at that angle, and which is also noticeable in the lift and drag
+curves. The individual curve (figs. 14, 15, and 16) are characteristic for the particular types
+of aerofoil , though the intermediate hape are somewhat inefficient when compared with
+other aerofoils of similar camber.
+The ch'ag curve (fig. 15) shows that the minimum re istance of the stream-line plane is less
+than one-third that of the lifting plane. These are the figures for the models at the tunnel
+speed of 50 miles per how'. In a full-size machine, traveling at 150 miles per hoUl', the minimum dJ'ag would be about one-quarter. Thi improvement at high speed is due to the fact
+that the drag of an aerofoil is made up of two part -the direct head re istance, which increases
+as the square of the speed, and the skin friction, which increase at a lesser rate. The drag of a
+stream-line body is mostly skin friction, while that of a heavily-cambered aerofoil is nearly all ;
+direct head resistance. Variable camber, therefore, give us a wing having the high lift coefficient of . C. L. with the objectionable high minimum ch'ag of such a wing cut down by 75
+per cent.
+BIPLANES.
+
+The first biplane series, with the variable wing for the upper plane and with the negative
+stagger, shows excessive stability. The vector diagram (fig. 11) was obtained by assuming a
+center of pressure travel by plotting a curve through the appropriate points in figure 19. Up
+to 2,° the variable plane is tream line, at 4~0 it is assumed to be one-third lifting, at 8° to be
+two-thirds lifting, and 12° to be full lifting.
+If the planes were attached to the machine so that the center of gravity was situated at a
+point on the ,ector for 2°, and lightly above the lower plane, the arrangement would be stable
+under all conditions. Thus, if the incidence wa increased to 1 0, a moment would come into
+play tending to reduce the incidence, while if it was reduced to 0°, the re ulting moment would
+cause it to be increased. Even in the abnormal po ition represented by the vector for -1 °
+there would still be a correcting moment to bring the machine back to its po ition of equilibrium.
+The stability in the case of this biplane is exce sive by reason of the correcting moment being
+too great. There eems no reason why a more atisfactory arrangement should not bo obtained
+with a stagger of 10 or 15 per cent. Forward tagger with this combination, however, would
+cause very serious instability, a would back tagger in the second biplane arrangement.
+This second series, with the lower plane the variable one, and the top plane staggered 20
+per cent forward, is very satisfactory. The vector diagram (fig. 12) shows sufficient but not
+excessive stability, with all the vectors pas ing practically through a point midway between
+the planes. The lift curve (fig. 20) are regular, and show no serious falling off at the burble
+point. No.8, which is the landing- peed combination, is particularly atisfactory in this
+respect, having a flat top for 6°. Even after 20°, where the flow doe not break down, there
+is a complete absence of the abrupt change which is apparent in the curve for the variable
+wing as a monoplane. The lift/drag curves (fig. 21) bring out very clearly the advantages of
+
+16
+
+ANNUAL REPORT
+
+KATIO~AL
+
+ADVISORY COMM£TTEE FOn
+
+A~RONAUTIUS.
+
+the variation in camber. Thus the combination with the str eam -line plane is most efficient
+at the small values of the lift coefficient appropriate to very high speeds. Maximum lift/d.rag
+is obtained at high but not top speeds, with the variable plane one-third lifting, while for climbing speeds the combinat ion containing the two-thirds aerofoil is most efficient. For landing,
+as would be expected, the curve for the co mbination with the full lifting wing surpa es all the
+oth ers . The inefficieney of this high lift comhination, should it be used at high speeds, i very
+apparent.
+Figure 9 i derived from the lift/drag again t Cy 'ur,es in figur e 1 and 21. The ba e u ed in
+
+ICy maximum . Ii Cy maximum is 0.56, it is obviou. that when Cy is
+Cy
+0.14 the speed will have to be double that at Cy maximum, in order for the machine to remain
+in level flight. The curves show actual biplane figures for the variable biplanes. For the
+R . A. F. 6 biplane, howeyer, a correction wa applied to the monoplane figures found for the
+particular model used in all the tests. The biplane corrections used were those given by Dr.
+Hunsaker. The figures for lift/drag 'fol' all the cunes 11a,e been corrected for sc ale effect.
+The assumptions were made on a basis of a maximum speed of 150 miles an hour and a total
+area of 400 square feet. A figure fo r the skin fri ction of the model was obtained from Zahm's
+equation:
+F = 0.00000 2 AO.Qi'i 1.86
+this case is speecZ, or
+
+-V
+
+This wa su btracted from the corrected balance reading for the dl'ag on the model, and a
+coefficient derived for direct head resistance. The square law was applied to this portion of
+the drag, and the total drag was obtained by adding to it the skin friction for the full-size planes,
+again using Zahm's formula. In the light of some recent full-scale experiments thi correction
+is conservative, but the curve ' nevertheless show a very marked advantage in favor of the
+suggested arrangement.
+l'RIPLANE.
+
+The tJ'iplane curves show the same general char acteristics as the biplane. The arrangement is stable-r ather too much so. A 15 per cent setback of the top and bottom planes
+sho uld give all that is needed in this r e pect and at the arne time would be slightly better
+structurally.
+SUMMARY.
+
+l. The variable camber wing h as a maximum lift coefficient of 0.76 (ab olute) and a minimum drag of 0.0.070. It h as a stable travel of the center of pre me of 0.035 of the chord (fig. 8).
+2. At the wind tunnel speed of 30 miles an hom, its minimum ch'ag is les than one-th:u'd
+the minimum ch'ag it would have if the full lifting shape wer e to be used at small angles of incidence (fig. 15). Under full- ize conditi'ons thi would be about a quarter.
+3. When used in a biplane, the lift/ ch'ag is doubled at peeds in excess of 2.1 times the
+l anding speed, and trebled at three times the landing peed. Similar re ults were obtained
+in a triplane (figs. 9 and 10) .
+4. A biplane with 20 per cent forward stagger shows satisfactory stability in the planes
+themselves . A biplane with 20 per cent back stagger, and a tJ'iplane combination, show somewhat excessive stability (figs. 11, 12, and 13) .
+5. The device involves change::; in the ribs only.
+6. A rib tested at the Bureau of Standards of the same chord length as the Curtiss IN-4,
+weighed 10 p er cent less th~n that type of rib and showed a factor of safety of 11.
+
+P ARKER VARIABLE CAMBER WING.
+
+ves.
+
+Aerojoil
+
+Length of ordi.
+nate.
+Distance from
+leading edge.
+Above
+chord.
+O. 00
+.05
+.10
+.20
+. 30
+.40
+.50
+.60
+.70
+.80
+.90
+1.00
+
+0.0000
+.02 3
+: 0358
+.0405
+.0405
+.0377
+.0333
+.0295
+.0236
+.0180
+.0108
+.0035
+
+A erojoil
+
+Distance
+from
+leading
+edge.
+0. 000
+.025
+.050
+.075
+.100
+.200
+.300
+.400
+.500
+.600
+.700
+.800
+.900
+1.000
+144543-20--3
+
+Below
+chord.
+
+velL.
+Ordinates.
+
+Upper
+surface.
+0.0205
+.0456
+.0540
+.0600
+.0660
+.0770
+.0773
+.0693
+.0630
+.0546
+.0440
+.0330
+.0304
+.0070
+FIG. 5
+
+Lower aurface.
+0. 0205
+.0000
+.0013
+.0027
+.0037
+.0060
+.0063
+.0056
+.0050
+.0043
+. 0037
+.0027
+.0013
+.0000
+
+17
+
+18
+
+ANNUAL REPORT NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Aer%il
+
+VC~L .
+
+Ordinates.
+
+Distance
+from
+leading
+edge.
+
+Upper
+surface.
+
+O. 000
+.025
+.0'0
+. ]00
+.200
+.300
+.400
+.500
+.600
+. 700
+.800
+.900
+1.000
+
+0.0205
+. 0483
+.0613
+. 0773
+.0915
+.0945
+.0897
+. 0803
+. 0680
+. 0543
+.0396
+. 0233
+. 0070
+
+Lower SUIface .
+O. 0205
+.0000
+.0021
+.0053
+.0106
+.0153
+.0145
+.0133
+. 0096
+.0066
+. 0038
+. 0019
+.0000
+
+A er%il VCL .
+
+Ordinates.
+
+Distance
+from
+leading
+edge.
+
+Upper
+surface.
+
+0.000
+.125
+. 025
+.050
+.100
+.200
+.300
+.4 00
+.500
+.600
+.700
+00
+.900
+1.000
+
+0.0205
+.0430
+. 0543
+. 0695
+. 0 88
+.1068
+. 1114
+. 1080
+. 0966
+. 0816
+. 0646
+. 0466
+. 0268
+. 0070
+Flo. G.
+
+Lower surface.
+0.0205
+.0017
+.0000
+.0058
+.0152
+.0255
+.0301
+. 0316
+.0300
+.0242
+.0173
+. 0108
+.0054
+.0000
+
+19
+
+PARKER VARIABLE CAMBER WING.
+
+fiq. 8
+
+J
+
+20
+
+ANNUAL REPORT NATIONAL ADVISORY COMMI T TEE FOR AERONAUTICS.
+
+I
+
+L IF-r;;DRI'?G R~RIMST SPEED
+Por/rer B/plane. "'" SrAo99",.... Gop. ChQ,od
+Pork er B'P/OO'>B, -S~7~r. Oo'P.Choro'
+fQ:?"c:-e Blpk,ne, O,.rho9onal, GOIp=12Cho,..a
+
+18
+I
+
+--
+
+,/
+IS
+
+fi
+
+I.e
+
+.~
+
+/
+...-
+
+'"
+
+~/
+
+""
+
+"""" ~..!.
+
+~-
+
+...
+
+VI
+7'
+~.
+
+'"
+
+J
+
+ftl+
+
+'"
+
+·0
+
+'-..
+
+I
+"-, ' .......
+
+""
+
+,
+....... ....
+
+"'" ""'-
+
+................
+
+~
+
+"-
+
+'-..
+
+""'-.
+
+I
+/.$0
+
+1. 75
+
+e.25
+
+2 .00
+
+...
+
+Rerooy...o,.,/ca/ Lo.6orohv-y. US&..v-.eav 01" S,b~
+
+l'u..... .
+
+f.i!S
+
+~
+
+Co,..,...cl-cd ;0 FU// SCO/f#
+Spe e d • ...,,oressqo' /1'7 t'vrvns ott' /C7...,a?~7 ~pe*-""t:i'./
+
+f'....-...,
+
+o
+
+. - ...-
+
+--'fIt--.....-
+
+.?.SO
+
+....
+
+l'.........
+
+, ....
+'-.
+
+"-
+
+i'-.....
+
+-r-...._
+4:!.75"
+
+';;.00
+
+""'-
+
+r--.
+
+.00
+
+.:tZC
+
+~
+
+2I
+L/,.-?liJRRQ R6RINST .sPEEO
+
+Pc,.ker Trtp/~. eO~ _".~. Gop #I" Chorocl---.....
+f?RF6 7r~., . O,.H>CJ90nQl G'op:IIi!ChoI-d ~~
+18
+
+Co,.,.ec+..cI II:> /VII Sea;'"
+""Peea' liI",p"'.~d '" ~~ oF' /a1'?'O'~"~' /
+
+Reroo'yncHn/c-a/ Lahor-ooro,..,Y
+U.s. Bvreav or Sl-andor>ds
+lIT
+
+",.
+
+(J
+
+/"
+
+V/ 1
+/
+I
+I
+
+r-- r--
+
+/ ' r-....... ~ V
+,
+/"
+
+7'
+
+1'.,
+
+--r---r---.
+
+",,1"',,b,
+
+.,
+
+/.O(J
+
+r--- r-......
+
+"
+
+r-- r-.
+
+i'-..,
+
+...........
+
+...........
+"a. .......
+
+o
+
+.........
+
+/.J!S
+
+A50
+
+1.7.5"
+
+z.()o
+
+A:.=
+
+CEO
+
+."r-__
+
+-.-.-
+
+... 75
+
+I-
+
+02,,,,
+
+3.26
+
+.:lao
+
+Ag.IO
+
+BE R W IN G .
+RIABLE C AM
+PA R K ER VA
+
+-,-
+
+~\
+
+1i
+
+/11 11/:
+
+il'
+
+\
+
+,
+
+Il t) ,/ I ,
+
+II
+
+1 /I IJ iI I
+
+I:
+
+l:
+\ ~ id{Ill,1,
+1 1
+, II,
+
+\H I, 1 'I,
+/' A / I f f ! /1 I
+1 I 1 I
+I
+
+/
+
+/
+
+,
+
+II
+
+I
+
+/ I I I
+/ I I f
+
+/
+/
+
+/
+
+I 1f
+
+/
+
+/
+
+"
+
+,e e
+
+/
+
+I ,
+I
+
+o·
+
+/"
+
+,
+F ". H ._ Voo,"
+
+'I
+I I
+
+Ii l:I
+
+f\{
+
+/
+
+"
+
+I I,
+
+(I
+
+I
+
+",
+
+II
+
+II
+Ilr II'I:
+
+\
+
+,,
+
+/'
+
+/1111/1 I I I
+III' /lr I I I
+
+\\
+
+21
+
+I !
+I 03'"~e &0 a- ;eo "'fl.- 4S 'o/ 8-
+
+""'Om ,,, ""'k"
+
+-4
+144543-2D----
+
+b;,,~.
+
+0
+
+.. .. " .
+U PI "' " ,. , ,
+
+cent negative.
+
+"""bo,.
+
+G ap -c bo rd .
+
+Lo w " "' "
+
+RAF<
+
+S."",,, P"
+
+ANNUAL R I~P ORT K A'rTOK AL ADV1 S0RY
+
+22
+
+/
+
+/
+
+/
+
+'O llf.MIT T E I'; l" 01~ ABRON A" TT CS.
+
+/
+
+/
+
+C·
+FIG . 12.- Ycctor d iagro m for P urker biplan e. Up per p lan e: RA F6. Lowe r plane: Var iable camber.
+per cen t positive. Gap= chord .
+
+S tag g~r :l
+
+PARKER VARIABLE CAMBER WING.
+
+/
+
+/
+/
+
+/
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+\
+
+\
+
+\
+
+\
+
+\
+
+\
+\
+
+\
+\
+
+\
+\
+\
+\
+
+1,-
+
+FIG. 13.- Vector diagram for Parker lriplane.
+
+23
+
+24
+
+ANNUAL REPOR T NATIONiU. ADVISORY COMMITTEE FOR AERONAUTICS .
+
+~ to
+
+•
+
+r-~~--+-~~--4--+--~~--+--+-~~--+--+t,~'~~.--+-~~~4--+~~
+
+j
+
+._ ._
+....... -
+
+..
+
+_ - .-
+
+-.
+
+---/
+/
+
+,
+
+.
+
+' " "', ...."
+~
+
+HI
+
+I
+j y
+
+/
+
+1', ~.,
+
+"" "
+,
+
+" , " ",
+,
+"
+1'-.
+
+1""'"
+
+oJ . oJ
+
+t ~
+
+r--, -...,
+
+"
+
+~
+
+~
+
+~~
+
+t
+t
+
+.~~
+
+i
+
+~"b
+~
+
+:
+
+1~
+
+rl ~~
+
+c---
+
+1
+1
+t
+
+~
+
+~
+
+~
+
+OJ
+:::>
+
+·
+
+f---
+
+c---
+
+·
+
+·
+"-
+
+~
+
+...., ' ..... 1"., r, ~r-..
+, ",
+
+"' .",
+
+,.
+
+", ....
+
+,
+
+,
+"
+
+.... "- .".
+
+~
+., .........
+
+"
+
+·
+
+"- r": ,
+.............
+
+..........
+"-~.
+
+,.,
+
+~
+
+............
+
+"
+
+i'
+
+,.
+
+'0. .
+
+.....
+~
+
+~l
+
+I
+
+"> '''> "1/.,
+§!~§!:>.
+
+tf
+
+~
+
+I
+I
+y
+
+t
+
+()~!t:
+
+.r
+
+l
+
+r""
+
+i
+
+~t ~
+
+J
+
+/
+
+.,,/ I"
+
+,
+
+i
+I
+
+/
+
+r", '
+
+"- ~,
+
+J
+I
+
+~
+
+,.
+
+Q
+
+(g..Ln70S"8b1) -LN.l?l::J/~:gOO ..L:.I17
+
+"
+
+"",.
+
+·
+
+25
+
+PARKER VARIABLE CAMBER WING.
+"
+
+..
+
+1/ ll/
+
+/1
+
+W/ /
+
+DRI1G COEFFTCIENTS
+FOR
+
+.l:l6
+
+jV
+
+PflRKEIi' fiER'orotL.-S
+
+,
+
+,
+
+vcs
+
+~~f
+vc
+
+-"",,- . -. ~-
+
+.-
+
+•.. . ...q- ~ -
+
+,q,)-> SPf'lId .jt()M..P.H.
+
+/
+
+....
+
+",."
+" 1-....,
+
+//
+,
+
+"-
+
+:::::::-
+
+--.. --
+
+' ,-
+
+""
+
+.....
+
+......
+
+..,
+
+-.
+-..,
+
+........
+
+-
+
+..... ~ .. f-"-
+
+-.
+
+0
+
+(-'"'
+
+....
+
+v · /'
+
+- '"
+
+;>-.
+
+--
+
+-- .
+
+,.-!""
+
+....--
+
+/
+
+?
+
+V
+
+V
+
+.//
+
+./'
+",'/
+
+vI
+
+/
+
+,/" /~
+
+/~f
+
+>--//
+
+./
+
+.., . /
+
+v ./ v/
+./
+V
+
+//
+
+'---
+
+.
+
+/'
+
+./
+
+,
+"
+
+~/
+
+L~
+
+./
+
+V
+
+'.
+
+"
+
+.. /
+'
+
+Rg-ll"yno~lJiohorof-or'y
+u . ~ or I't>nob-....d.s .,
+
+I
+
+./
+
+·1 V/ '
+
+--e----~ _
+
+-
+
+// II
+
+V
+
+.
+.
+
+o0
+,e
+....
+t5'
+/tN GLE OF V11NG' CHORD TV /MNO
+
+,.
+
+11
+
+,2 .
+...
+fig. 15.
+/<
+
+)
+
+I
+
+-
+
+Itl°
+
+,
+.~
+
+;-...
+
+--
+
+0
+
+r--
+
+~ :--
+
+~
+
+.
+
+....../
+
+--- -..
+
+.
+
+-f--....
+
+""
+
+/
+
+I!'/
+
+.... "
+
+j/
+Ii
+
+_
+...-.
+
+. ...-,
+
+\
+
+r--...
+
+0
+
+.-
+
+.- .f--.-
+
+-'
+- .... ....-'" f- '"
+- ----- -- _ f- '"
+
+~
+
+..
+
+.~
+~ -.
+
+---
+
+k
+
+-"'"
+
+>- .... 1-....
+
+~
+
+1"-_ ....
+
+...........,
+
+'-.- :-:..::-. ~
+
+"
+
+'
+
+r"' ....
+
+7RRVE~
+
+or CENTER
+
+OF PRESSURE
+
+IN
+PI"IRHE'P. · REROFOlL03
+
+/
+
+VCS
+VC;tL
+VC;fL
+VCL
+
+1/
+/
+/
+
+~--
+
+,.....-_ ..
+
+! I
+I
+
+Rtr Speed
+
+,
+
+.-..-.-. ..-.-
+
+_---0- _._.....
+
+..:JOMPH
+
+Rer-o'/i.".,,,,,kalLo~
+Us. 1./"'/901./ oF' .s~d$
+
+.
+
+o
+
+.
+
+(5"
+11
+J!"
+4
+/11'1/&E OF V'0NG CHORD TO VIAND
+
+,0'
+
+-r.
+
+~'
+
+m
+
+fig. /6'.
+
+..
+
+~
+
+0">
+
+II
+
+~
+
+Itt
+
+, "
+
+14
+
+. "
+r
+
+,.
+
+i
+
+f
+
+...........
+
+l
+
+i/
+I
+
+"
+
+~ '''"",' ~
+-
+
+1\. \
+
+\
+
+I
+
+f
+
+;
+
+~.1
+
+\ \
+I
+
+..t
+!-
+
+I
+
+t.
+
+•
+
+\
+
+i
+
+...I
+
+I
+
+h.
+
+~
+--J o
+
+L1J".GAINSr Cy
+~
+
+i}'
+
+P nRKER BIPL ~£S
+
+N ar.
+N a3
+N o,4
+
+/..4
+
+- -- .- .
+
+-.I
+
+/ Y- ,,' , " r--"
+
+.
+
+1---.
+
+I
+
+LIrT C¥:rncIENT
+
+-
+
+I
+
+/
+
+o
+
+~
+
+~
+
+----- - --.- -_ -- . ._
+.J_
+
+,/v~::{/
+
+I
+
+Na7 R/fF"6't.VCJq
+Dge0hge i· J
+
+Ot9Co/CI9I'!I'?J
+
+Na 8:~~:t-)
+SI0<J7er
+
+I
+
+I-
+
+l-
+
+~
+
+- ,--"-_.!c.--.l----.o·
+
+--
+
+I1
+NGLE o,c-
+
+I
+
+~
+
+I#/VG" c - D
+
+';:0 ·
+
+'2,
+.....
+
+71:7
+
+J.11ND
+
+Fic:? eO
+
+~
+~
+
+~
+
+t>
+q
+
+~
+......
+
+(')
+
+[Il
+
+.--eOper cenl-
+
+,4,.""c/yno,.,.,K;OI Lcb:Y"'Oror
+y
+US.Bvreov
+
+~
+~
+......
+
+o
+
+0-
+
+I ---,G' . <fS~
+
+o
+
+~
+
+_ . .._ _
+..
+
+19 Speed SO,." p h .
+"..
+
+~
+
+(')
+
+i;l:l
+
+a
+
+~ - ..--
+
+.... - -
+
+o
+
+i;l:l
+
+_
+
+Dec~. 2:£1 1\h 6:RRR5' 4 K"J4
+
+Ul
+
+o
+
+5 -8
+
+_ _
+
+§
+
+t:l
+t:l
+'-'J
+
+L/~r C~I'CICNTlS
+
+,
+
+fig- lB.
+
+~
+
+~
+......
+
+·L.. -t At-r-+-+----+--+--+--+--+-f---+-l---l
+l?~
+
+~
+{;
+
+~
+
+---l---l-+--l--+-+--+-'-I-
+
+lz
+'
+
+.-
+
+$
+
+'T,j
+
+o
+
+- -+-+-f-
+
+.
+( l /1 _
+--.~./ti V
+
+I
+
+-3
+
+t:l
+
+i--
+
+I
+I
+
+-_
+._-- ~ - --
+
+U.:5.BvrFOV oFSIr>-.d.,
+
+~
+
+i;l:l
+
+. . // \-. ' ," '.
+/'
+/' ,/ //~" '- .
+/1. / ' / /V
+VYV/T'--'
+
+NO
+.5:R/lFfS-t IICSI
+
+l1erod.r-'*=IL ohoro~
+
+J
+
+~
+
+\
+
+P RR'I<E:R BIPLANES
+
+S~9"!.r - c0t,w-cenf
+,Air S",,,ed 03 MPH.
+
+D
+
+Q
+
+:tf. fJ
+=p
+1
+
+N o.1
+
+W
+
+L
+
+[ I-
+
+U ·' r -
+
+r
+
+ij,1
+
+i-
+
+~
+~
+
+q
+
+- ! i .>. ·7
+__ t, I --+---+---+---+---+--+--+--+--+---1
+f,
+'.
+Ii>o./j
+~
+~.e
+G
+
+:,....- .../
+
+l1'/
+
+,
+~
+
+~
+
+\
+
+Ir
+
+I
+!
+
+!
+
+f.
+i
+
+:'" .\ '"'"
+
+,
+
+\
+
+I
+
+Ifl ':
+
+I.
+
+/"._
+..
+.
+
+t>
+
+1'-.
+
+'
+
+' M
+·
+
+~ . ~~ ,
+'\
+"~
+
+/
+
+rl
+
+Ii
+-+-1
+~ I
+
+5
+
+g P/
+II//Ii
+. :
+
+.
+o
+
+/
+
+I
+
+~
+
+1
+
+~_L~1=
+I
+I
+
+I
+
+fi
+.
+
+I
+"c:k
+...
+~
+
+I
+
+I
+
+~
+
+IJ
+
+"-
+
+..,.--<> ~
+
+// /
+
+10
+
+.6
+
+~ __ ~ I -t-,---t---+--+--+--+--+--+--+--+---l
+I
+
+I
+
+I
+..e1J0
+
+27
+
+PARKER VARIABLE CAMBER WI NG.
+I
+
+1
+\
+
+\
+
+~
+
+---
+
+\
+
+:\
+
+.-
+
+", ' /
+
+I
+/
+
+;-. -
+
+,... ...
+
+'- .
+
+-
+
+-- -- '--...
+
+- . ~
+
+"
+
+-'- ''-
+
+"
+
+-- .... ...... ....
+
+/
+
+........
+
+r- _"-...
+
+-'-- ... ,.....
+
+-
+
+'-
+
+'
+
+,- .
+
+;::-
+
+"" ....-
+
+.... V"'
+
+7RRycL. o.r CENrER
+
+Ii
+
+IN
+
+-
+
+....
+
+-
+
+.. /
+
+.../
+
+OF PIfES"SIIRE
+
+I=R~ER B,P'LRNE.:J
+
+"
+
+~ .-
+
+- -:::.
+
+".
+
+/'
+
+---
+
+/
+
+I .
+
+'-
+
+-- ....- .....--- -- _ :--...
+.... .... ....
+-_ _
+~-
+
+./
+/
+
+_._.
+
+-.- .-
+
+SifT LOWER PLIfNEj
+
+S~ -,e perce"'"
+Na!.·Mro4VCS o.cak.~ef"
+
+rl
+
+Nai?:I?Rro~vcjLo.cok.~ Ii '
+No..j:RfiN;4VCJJ..~9~ Z'
+NO."1-.I?HF54- K'L CHco~'i '
+
+40
+
+.
+
+#f
+
+.
+
+tI
+
+.
+
+10
+
+II!.
+
+_.•.
+11>'-
+
+a.6oI-oro-y u.s. Bvr. oFS~$
+
+/lv"~C>nfico/L
+
+o·
+
+_.-.-
+
+........ _ _
+--e _
+..........
+
+,
+
+0
+
+ffNGLE OF J.11NG CHORO TO t.11ND
+
+I
+\
+
+\\
+
+'"
+
+r--....
+
+_+
+--:,....--rI -
+
+/ -
+
+-.~.
+
+--- ,...-- .- - _
+'" V
+1 _ -<>-
+
+V·
+."
+
+\
+
+r-- i\'- "
+
+I
+·· -
+
+f- .
+
+.~
+
+' -r-'
+
+-- i- -~
+
+r -
+
+I'
+
+..-;:;
+
+.:.::::-."- .
+
+-:=t.-- --_,!- -~-- IS ~~ ~ --..
+,....- .... .... ;- .... ..
+...
+
+.... - ... .
+
+~-
+
+1-.... ,:::..".
+
+lr"'..... '
+, j /
+
+.
+
+U
+- ~? j /
+I
+I!
+
+nrRVEL OFCENTlfR OF PRI!i'S03UR6
+IN
+/=hRKER B/Pl..RNer3(m-i..O~PtJINE)
+
+/
+
+/1
+
+S tr::>;;yer +CO,..,.,..... ce,",
+D.coloy• .el!'
+
+I
+
+M5
+:RHro " l~
+
+/Vo6. RfiF5 4- VCJt-o..co~ Ii'
+
+/
+
+M71!'''''~4VClL-o.colo'l.
+
+J1A:;.8 .R RF64I'C'L DBc%~
+
+t9D"O~~/ L.obororo,...r
+
+0
+
+Q0
+
+z
+
+.
+
+.,..
+RNeLE
+
+B'
+
+or
+
+",
+
+10 '
+
+4 '
+
+IMNG CHORD TO /I11NO
+
+- - -. - -
+
+J" ..., ___ 0 -i o - - _ .. -
+
+us S ir.' of: S ,-b." """",
+
+14'
+
+I.'
+
+/(I'
+
+~
+
+-
+
+r
+
+I
+
+16
+
+,
+
+,
+
+.c
+
+,
+
+.7
+
+14
+
+00
+
+J
+
+,.&
+:
+
+1/
+
+"
+P- K<\ , '
+.j
+
+e--rT
+
+,
+
+...
+
+'"\ \ ", , ..
+'\
+I
+
+I I
+
+/
+I,· I !
+
+k/
+
+0.::
+
+~
+
+!
+
+V
+'
+
+~
+
+1/
+
+! /
+!
+I
+
+-iJ'-3
+
+~
+
+b
+
+I
+
+I
+i
+
+~ ..e
+
+.~
+
+i
+
+/
+
+~
+
+U
+
+\... 0
+
+~
+
+Dec~2£
+
+6
+
+1./
+/
+
+_.
+.,
+
+/.
+
+/
+
+r---~
+7
+
+/
+
+/
+
+l/v +
+
+/ /j
+
+I
+I
+
+tzl
+tzl
+
+~
+
+COEm~.~
+~
+rOI?
+
+I
+
+PI9RKCR mIPL..RNCS
+,NO./-MAS4-VCS }
+t::J&cQh",.ei· ~
+Nac·R I'?F6-t'V(;:l"j
+Dec%9'9 Ii Oeca/Ofltl
+
+___
+
+.s~r
+
+~.
+
+.. --..
+
+BocIr
+
+.2.
+
+.3
+
+.
+
+.4
+
+~
+~
+8
+8
+toJ
+toJ
+H
+
+~
+
+g
+tzl
+
+JO /'. 1 PH
+
+f1-oo/~/ Lcbora"""
+
+d
+8
+o
+
+H
+
++cOpercl7.
+peedJOM.P.H
+
+LlrT COEFFICIENT
+
+o
+
+Us. Bureau of'"Sro""*-ds-
+
+-~.
+
+- 11 1
+
+><:
+
+o
+
+~
+
+-i- _ .,,-
+
+rn
+
+us. CJureov at' Sto~
+J
+
+~
+
+b:J
+
+fle r-ody"","""",,/ L..oJ,o,..,fory-
+
+o
+
+C/l
+
+o
+
+o
+
+~ .........
+
+cO ;oe~ cent"
+
+RI;'-3pl9~
+
+~
+~
+
+~
+
+III
+
+;/
+
+>;:j
+
+e3
+
+I
+L,rr
+
+toJ
+
+o
+
+o
+
+I
+
+/
+
+~
+
+~
+
+!
+
+/ V
+/
+
+r--
+
+'"
+
+I
+
+H
+
+V
+
+.s~
+
+fflr
+
+~
+
+V
+
+No.8:RI?r54 vel.. }
+~
+
+V
+
+/v
+.
+
+//
+
+'
+
+tzl
+tzl
+q
+
+)/v
+
+/
+
+J
+
+I ,/
+
+l/
+
+/
+
+>
+
+""""\
+
+.-r-.'
+
+- .1
+
+Decal",?" Ii
+NO.7:R.4""6-1VC~ L}
+
+....
+
+Na4.p.flF04-VCl.. }
+
+I?I?F04-VCi L} _ _
+
+Deco/aye
+
+r--
+
+~
+
+/
+
+"/O.5 :RRFG4-VCS } _
+No
+
+I
+
+(, j
+
+I
+
+FRRKER B'PLI'?NES!5-t.
+
+II
+
+f:i_f=
+tfj
+
+'<
+;.J
+
+FOI'f
+
+I},;/
+
+/ /
+
+..
+
+I
+
+!...
+
+t,
+
+I
+
+./
+
+L"b I'IGRINST Cy
+
+/f/
+
+o
+
+\
+
+if
+
+~
+..J4
+
+z
+
+..
+
+[! / V
+
+~
+
+..
+
+4
+
+' :...
+",-' ' ,.
+
+I
+
+Ii
+
+,
+
+(... ....
+
+I
+
+./
+
+'\ '-.
+
+II
+II t /
+Il / I
+
+~
+
+-
+
+.6
+
+~, ' '. ,,- 1..,
+
+"
+
+t I
+I
+
+B
+
+!
+
+/" i~~ r---~:-.
+
+1
+
+~.
+
+,
+
+r--
+
+I
+
+,-
+
+.$
+
+nQ-EI
+
+.6'
+
+_4
+
+o·
+
+4'
+
+8"
+
+/;f!'
+
+IC '
+
+RNGLE OF WNG' CHORD TO vt1ND
+
+co·
+
+A9. L?3.
+
+Z4'
+
+29
+
+PAR K ER YAR IABLE CAMBER WING.
+
+IZ
+
+x--"- 10<....
+
+I
+If
+
+10
+
+~
+
+J.{
+
+(/
+
+I/!
+
+/
+
+/
+
+., ,
+
+~ ~ -.........
+
+1 ~ ~"
+/
+
+...
+
+'\ 1."
+\
+
+"- ·' 1
+I"·
+
+~
+
+;
+
+\
+I
+
+1
+L,/o
+
+Cy
+
+fi6flINS T
+/""OR
+
+~I
+
+PRRKER mIPI-RNES
+
+No./. RRr54 veSt
+
+Occol0f'~ ~f ~
+
+f
+
+Na i::RRr6 of.VC;iL
+
+Ii ,,*----*-
+
+o.cQ/~
+
+N 4:~::;~;:~t
+o.
+
+_ . ._
+
+Set B ack .eOp9r~nt
+Iftr Spged.30 MPH.
+fl9rody~ Lo6oralory
+
+U S. f3~OI/cf S tan dards
+
+o
+
+./
+
+i.
+
+f
+
+l
+II !
+
+ff /
+
+~
+
+1
+
+f ./
+!
+
+U/
+
+..
+
+"-..
+
+\.
+
+.J!
+
+..s
+
+0FT COI!:FF"ICIGNT
+
+i
+
+,
+
+/
+
+/
+./
+
+./'.
+
+.-- ".
+
+30
+
+ANNUAL REPORT NATIO NAL ADVISORY CO MMITTEE FOR AERONAUTICS .
+
+-
+
+'\
+,
+
+..---
+
+.~ -/'
+
+/'
+
+/
+
+,
+
+,
+
+/
+
+.'
+
+..
+
+/
+
+,/
+
+I
+
+I
+
+~-
+
+--
+
+--......- ..... -- - '
+.
+
+..
+
+-
+
+'~
+....~
+....
+.. .... .•..
+
+- -- _
+
+~
+
+\
+--
+
+/
+
+/
+mRVeLOFCENTER OFPRE~URE
+
+IN
+
+P~RKER 7RIPLRNES (CENTER PlJINc.
+
+/
+
+Nal
+
+"
+
+J
+
+No.Z
+
+-0-----0-
+
+N04
+
+-.-..- - . -
+
+Se"'~ of'top and boffon.? ph~s.cO af.
+
+I
+
+i
+
+.
+
+...- .... - ....
+
+....
+
+....
+
+.I
+,eo
+
+.-.-
+
+/
+
+/
+:
+
+-.,
+
+--- -- -- -- ~ :-::--...
+
+f--
+
+Reroa'ynarnlool LahOl"afOrY US.Bvr: Standards
+
+o·
+
+.t:.'
+
+~
+
+6'
+
+(J'
+
+10'
+
+Ie.
+
+/4-'
+
+16'
+
+IB'
+
+APPENDIX.
+Aer%il, variab le cam ber, stream-line, model (a).
+
+Angle of
+attack
+(d egrees) .
+
+Dra<> coefficient
+(absolute).
+
+Lift cofficien1
+(absolute).
+
+Lift/drag.
+
+-6.4
+-5.4
+-4.4
+-3.4
+- 2.4
+-1. 4
+- .4
+.6
+1. 6
+2. 6
+3. 6
+4.. 6
+5. 6
+
+0.0152
+. 0129
+.0104
+.0088
+.0078
+. 0065
+. 0060
+. 0066
+.0075
+.0091
+. 0104
+.0127
+.0150
+
+- 0. 2510
+- . 2] 24
+- . 1759
+- . l398
+- .1039
+- .0637
+- .0] 83
+.0290
+. 0724.
+. 1090
+.1436
+.1810
+.2178
+
+-16. 58
+-16.61
+-16. 84
+-15.96
+-13. 23
+- 9. 85
+- 3. 06
+4. 39
+9. 74
+12. 06
+13. 80
+14.20
+14. 50
+
+Model :
+Chord.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+Span .... .. ............. .. ........... .. .....
+Material.. ................... . . ... . .... .. ...
+Air speed .... . ............ .. ........... .......
+Center of pressure coefficient ...... . . . .. . .. . . ... .
+
+Center of
+pressure
+co-efficient.
+O 224
+.
+. 226
+. 225
+. 234
+. 244
+. 272
+.242
+. 269
+.255
+.238
+.225
+.225
+.225
+
+3 inch es.
+18 inch es.
+Bakelite, p aper base.
+40 miles p er hour.
+Distance of center of pressure from leading edge,
+in fr actional part of chord .
+Reference line ........ .... ..... .... ... · ... . · .. · Angle of no lift.
+(Not plotted.)
+
+i!O
+
+31
+
+PARKER VARIABLE CAMBER WING.
+Aerojoil, rariable camber, stream-line model (b).
+
+,\nglc of
+attack
+(de:,'l"ees) .
+-
+
+3
+2
+- 1
+0
+1
+2
+3
+4
+6
+10
+12
+
+,
+
+1
+.4
+
+I
+
+L6
+18
+20
+
+Drag coeOicient
+(absolute).
+
+Lift coeffil'i lit
+(,tbsolute).
+
+0. 0099
+.004
+.0074
+.0070
+.0074
+.0087
+.0100
+.0114
+0165
+02-18
+. 0456
+.07GO
+.09. 0
+.1]60
+. ] 330
+.1·J90
+
+-0. 123G
+
+- .088(;
+- .0-133
+
+-
+
+.0025
+.0352
+.0 22
+.n 3
+. J540
+.2230
+.2920
+. 3420
+.3630
+.3580
+.3550
+3530
+.3550
+
+Lift/drag.
+
+Center of
+presame
+co-e ni cien t.
+
+-12.48
+-lO.55
+- 5.85
+- .36
+4. 76
+9.45
+11. 0
+13.50
+13.50
+11. 80
+7.50
+4. 78
+3.66
+3.0G
+2.66
+2. 38
+
+0.286
+.261
+.269
+.3]6
+.224.
+.252
+.244
+.232
+.228
+.225
+.243
+.307
+. :34 .1
+
+.356
+.363
+.366
+
+Model:
+Chord . .................... . ..... .. ... .. ... . ............... 3 inches.
+Span ......... ..... . ......... ..... .. ... ..... .... ........ .. ]8 inches.
+MateriaL . ................................................ Bakelite, cloth base.
+Air speed . . . . ......... ........ ..... .. ........... .... ... . ...... 30 mile per h Ollr.
+Center of prebsure coefficient. ... ... . ... " . '" ................ . .. Distance of center of pres.~ure from
+leading edge, in fractional part
+of chord.
+Reference line ................ ' ........... .. ................... Center line of section of aerofoil.
+_lcrqfoil, mriable camber, one-third lifling model (a).
+
+. nale of
+attack
+(d gre 1I).
+
+Drag C(1efiicien t
+(,lb olute).
+
+Lift coeflicient
+(ab ..)lute).
+
+4
+
+3
+2
+1
+0
+1
+
+2
+4(j
+
+0.0111
+.0091
+.009L
+.00 7
+.00.4
+.0096
+.0113
+.01li1
+.021
+
+.030;3
+.0-112
+. 071i2
+.1033
+.1255
+. 1461
+
+.1670
+
+LiitjUrag.
+
+('enter of
+pre lire
+coefficient.
+
+- --0.0,66
+.0-12-!
+.0002
+.0150
+.09J6
+.]311
+. 1721
+.2- 60
+. 81 2
+.3 9
+.45-10
+.452.
+.4266
+. -HIO
+
+. 4120
+. 4]34
+
+6.74
+4.37
+.25
+5.20
+10.91
+14.00
+]5.1
+L5.26
+14.56
+12. 7
+11. 01
+5.94
+4. 13
+3. 27
+2. 2
+2.47
+
+-0.050
+- .076
+-4.
+
+9~0
+
+.575
+.4 ] 7
+.829
+.294
+.2 0
+.273
+.270
+.30,
+.347
+.36
+
+. aii
+
+.3 3
+
+)lodel:
+hord . .... . .... . ... .. ............ .. . . ............. .. .. . ... 3 inche~ .
+, pan ................................................... . . 18 inche .
+MaterL'\1. ........................ . ....... . ... .. ........... Bakelite, pap~r babo.
+Air ~peed .......... . ................................ ..... .... .40 mile per hour.
+Referen ce linc .... . ...... .... . .... .. .... . ..... .. . ............. . Tan ent to lower ~urfa c at trailin" edge.
+(:\ot plotted.)
+
+32
+
+AN:NUAL REPORT NATIONAL AD,rISORY COMMITTEE FOR AERONAUTICS.
+
+Aerojoil, variable camber, one-third l'ifting model (a)
+
+Angle of
+attack
+(degrees).
+
+-
+
+-
+
+5
+4
+2
+1
+0
+1
+2
+3
+4
+6
+8
+10
+12
+14
+16
+18
+20
+
+Drag coefliClent
+(absolute) .
+
+Lift coeflicient
+(absolute) .
+
+O. 0\56
+.0126
+.0]02
+.0096
+. 0099
+.01n
+.0129
+.0153
+.0173
+. 0243
+.0330
+.0456
+.0829
+.1069
+.1290
+.14 7
+. 1680
+
+- 0 1103
+- .0737
+- .0034
+.0412
+.0925
+. 1378
+. 1752
+.2140
+. 247<1
+.3218
+, 3932
+.4556
+. 446
+.4140
+. 4080
+.4090
+.4100
+
+Lift/drag.
+
+-
+
+7. 09
+5. 85
+- . 34
+4. 30
+9.32
+12 44
+13. 54
+13. 97
+14.30
+13. 25
+11. 91
+9.99
+5. 39
+3. 87
+3. 16
+2. 75
+2.44
+
+Model :
+Chord .. __ . ____. _. .. _. - - . - .. . _. .... - .... - - - . - - . - .. - - - _. .. - - - - _. _. . . - .. __ .. - . - - .3 inches.
+Span __. ___ ___ . _____ .. __ . - _. -. _. _.. _. . __ - - _..... _.. _. - ___ . - _. - __ . _. _. . __ . - ___ -- _18 inches.
+MateriaL. _. ____ . _. _. _______ . _____ . . . ____ __ . .. __ . .. .. __ . ____ .. __ . __ .... . __ . ___ Bakelite, paper base.
+Air speed. __ ___ .... __. _... _. _.... __ . _. - _- _.. _. . - . _. _. . __ . ... _. - . - . . . . _. __. _..... . 30 miles p er hour.
+R eference line. _... __ _. _.. ___ .. _.... - - .. - . . -- .. _. - - .. - - . _- . - . - .. __ . - - ..... -- - _. Datum line of template.
+Aerojoil, variable camber, one-third lifting model (b).
+
+Angle of
+attack
+(degrees) .
+
+Drag oefliClent
+(absolute) .
+
+- 6
+- 4
+
+0.0187
+.0127
+.0102
+.0107
+.0145
+.0]65
+.0190
+.0268
+.0356
+. 04 ]
+.0874
+.1094
+.1324
+.1509
+. ]715
+
+-
+
+2
+0
+2
+3
+4
+6
+8
+10
+12
+14
+16
+18
+20
+
+Lift coeillcient
+(absolute) .
+- 0. U59
+- .0463
+.0278
+.1246
+.2018
+.2366
+.2740
+. 3510
+.4] 98
+.4 10
+.4582
+.4290
+.4] 5
+.4122
+.4108
+
+Lift/drag.
+
+-
+
+6. 20
+3. 64
+2. 73
+]1.67
+13.90
+14. 35
+14. 40
+13.08
+n . 76
+10.00
+5. 24
+3. 92
+3. 14
+273
+2.39
+
+Model:
+hord- _. _. _.. _.. _.... _" ____ ... __ . . . .. . _.. _. - _.. _. . _. _.. _.. _. - _.. 3 inches.
+Span .... ....... _". ___ . _. . ____ . . __ . _... _. - -. _.. _. __ " __ - -- - - _- -- __ 18 inches.
+MateriaL .. _...... ________ . _____ . _. ___ . __ . _. __. ___ . -- _____ . _. ___ __ . Bakelite, cloth base_
+Air speed ___ ___ . ___ . __ . _. _. .. _.. _.. _- . - - __ .. - - . - . - . - . - - -.. - - . .. - . . - - . - .30 miles per hour.
+R eference line . . _. _. __ . _.. _. _.. __ . .. __ .. .. . _. - ______ . - _.. _. . _.. -Tangent to lower surface at traililJg edge.
+ot plotted .)
+
+33
+
+PARKER VARIABLE CAMBER WING.
+
+Aeroj oil, variable camber, two-thi1'ds lifting.
+Angle of
+attack
+(degrees).
+
+Dra<> coefficien t
+(absolu te).
+
+Li ft coefficient
+(absolute).
+
+Lift/drag.
+
+-6
+- 5
+-4
+-3
+-2
+- 1
+0
+1
+2
+3
+4
+6
+8
+10
+12
+14
+16
+18
+20
+
+0. 0362
+. 0295
+. 0248
+. 0202
+. 0168
+. 0160
+.0157
+. 0158
+. 0169
+. 0190
+. 0220
+. 02 2
+. 0364
+. 0448
+. 0571
+. 0978
+.'1254
+.1420
+.1619
+
+- 0.1243
+- . 0850
+- .0352
+. 0206
+. 0701
+.1177
+. 1544
+.1925
+. 2282
+.2684
+.3041
+.3792
+.4505
+.5110
+.5610
+. 4975
+. 4455
+. 4270
+. 4185
+
+-3.44
+-2.88
+-1.42
+1. 02
+4. 18
+7. 35
+9.84
+12. 19
+13. 52
+14.21
+13.82
+13.43
+12.38
+11.40
+9. 82
+5. 09
+3. 56
+3. 01
+2. 58
+
+Center of
+pressure
+coeflicien t.
++ 0. 174
+.061
+- .377
++1. 661
+.689
+.509
+.435
+.393
+.366
+. 344
+.330
+.309
+.297
+. 289
+.281
+.324
+.360
+.377
+. 382
+
+Model :
+hord . ...... . _.............. . ...... . ............... .. ...... . . 3 inch es.
+Span ...... . .. . ................... .. ...... . ...... . .......... . 18 inches.
+MateriaL .... . ..................... .. ... . ............... . .... Bakelite, cloth base.
+Air speed .... .. .......... .. .... . ................... .. ..... . ...... 30 miles per hour.
+R eference line .. . .......... . .. . . . ... . . . ..... . ...... . ... . .. . .. .. .. . Common tangent to lower surface.
+
+Ae1"ojoil, variable camber, lifting model (a).
+Dra~
+
+.\ ngle of
+attack
+(degrees).
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+6
+8
+10
+12
+14
+16
+17
+18
+20
+
+0.0425
+.0373
+.0321
+.02 5
+.0251
+.0236
+.0229
+.0228
+.0232
+.0240
+. 0262
+.0284
+. 0349
+.0430
+.052
+.0636
+.076
+.0901
+.1363
+.1467
+.1665
+
+Lift coefricient
+(absoIu te) .
+
+co·
+C'fficlent
+(absolute).
+
+-0.1114
+
+- .0706
+
+-
+
+I
+
+.0212
+.02
+.0740
+. 1194
+.1637
+.2028
+. 2432
+.2826
+.3200
+. 35 8
+.4324
+.5100
+.5780
+.6415
+.6965
+. 7325
+.4985
+.4765
+.4650
+
+Lift/drag.
+
+-2.62
+- 1.89
+- .66
+1.01
+2. 95
+5. 07
+7.16
+8. 92
+10.48
+11.77
+12.20
+12.62
+12.40
+11.
+10.95
+10. 10
+9. 07
+.13
+3. 66
+3.25
+2. 79
+
+Center of
+pressure
+coeffi cion t.
+0.240
+.071
+- .782
+] . 497
+.790
+.599
+.511
+. 460
+.429
+.398
+.381
+.367
+.345
+.331
+. 324
+.3]7
+.314
+.311
+......
+
+.386
+.392
+
+Model:
+Chord .. . . .. . ... . ........... . ............. . ......... . . . .... 3 inches.
+Span . .. ..... ' .. . ........ . .............. .. ..... . .......... 18 inches.
+MateriaL ...... .. ........... . ..... '"'''' . .. , ... . .... . .... Bakelite, cloth base.
+Air speed . ......... . ..... . ........... . ...... . ............ . .... 30 miles per hour.
+R eference line .. . ....... . .. . ........ . .. .. ......... . .... . ... .. .. Common tangent to lower surface.
+(Not plotted. )
+
+34
+
+ANNUAL REPORT NATIO.l.,TAL ADVI
+
+'ony COl\fl\UTTEE FOR AERONAUTICS.
+
+Aerofoil, variable camber , llj'ting model (b).
+J)ra~
+
+Angle of
+attack
+(degrees).
+
+coeffiC t
+len
+(absolute).
+0.0511
+.04.00
+.0305
+.0251
+. 0225
+.022
+. 0251
+.0275
+.03·a
+. 0421
+.05l4
+.0645
+.0770
+.0927
+.1371
+.14 6
+
+-8
+-6
+-4.
+-2
+0
+2
+3
+4
+6
+8
+10
+12
+14
+16
+17
+18
+
+Lift coefficient
+(absol ute).
+-0.1275
+- .0729
+.0300
+.1263
+. 2] 35
+. 2930
+. 3330
+.37 8
+.4525
+.5265
+.5945
+.6690
+.7190
+.7610
+.5190
+.5QOO
+
+Lift/drag.
+
+-2.4.9
+-1. 2
+.98
+5.04
+9.48
+12.84
+13.25
+13. 59
+13. 2
+12.50
+11.57
+10.37
+9.34
+8.21
+3. 78
+3.36
+
+Model :
+Chord . .... , .. ... .... . . ..... . .. .................... . ....... 3 inches.
+Span . ... .... . ............. .. ..... . . . ... ........ .. .... . ... 1 inches.
+Material . . ................... . ...... . ....... ... . .. .. ... . . . Bakelite, cloth base.
+Air peed ....... . .................. . ...... ......... ..... ... . .. 30 miles per hour.
+Reference line....... . . .. . ..... .. .. ... . . . . . .. . . .. . .. ... . . . .. . .. ommon tangent to lower urface.
+Aerofoil l? A . F . 6.
+Dra~
+
+Angle of
+attack
+(degrees).
+
+coelliClent
+(absol te).
+
+-4
+-3
+- 2
+- 1
+0
+1
+
+2
+3
+4
+6
+8
+10
+12
+]4
+16
+18
+20
+22
+24
+
+I
+
+0. 0266
+. 0220
+. 01 1
+. 0159
+. 0148
+.0138
+. 0141
+. 0158
+. 0178
+. 0241
+. 0326
+. 0421
+.0534
+. 084
+. 1080
+. ] 297
+.1457
+.1656
+.1 6
+
+Lilt coeftlcient
+(absolute) .
+-0.0865
+- .0'155
+- .0016
+.0·lO7
+.0900
+.1453
+.1927
+.2316
+.2656
+. 3316
+.4042
+.4650
+. 5220
+.49]0
+.4360
+.4242
+.4 274
+.4258
+.4232
+
+Lilt/drag.
+
+-3.25
+-2.07
+- 7
+2.56
+6.10
+10.51
+13.66
+14. 67
+14.9]
+13. 73
+12.41
+11.05
+9.78
+5. 79
+4. 04.
+3.27
+2. 94
+2.57
+2.24
+
+Model :
+Chord ......... .... .... .. ... .. . . . ... . ......... . .. ..... ..... 3 inches.
+Span . .. ..... . ..... ... ... . .. .. ................ . ........... 18 inches.
+Material .. , . . ......... . ........ .. _..... _.. .... ... ..... . . . . \Vood.
+Air speed ......... . ... ..................... .. .... . ............ 30 miles per hou r.
+Reference line ......... .. . . . . .. ...... .. . ... ... ... . . ... . . . .. .. .. Common tangent to lower surface.
+(Not plotted .l
+
+35
+
+PARKER VARIABLE CAMBER WING.
+
+Par7cer biplane No.1.
+
+Angle of
+at,taf'k
+(degrees).
+
+Dra'" coemrient
+(ab olute).
+
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+8
+10
+12
+
+0. 0146
+.01.32
+.OU8
+.01.09
+.OJ07
+.0116
+.OJ25
+.O l49
+.0170
+.0226
+.0305
+.0395
+.05-16
+.0840
+. 1100
+.1272
+
+14
+16
+]8
+20
+
+Lift coefficient
+(absolute).
+-0.0587
+
+- .0253
+.0122
+. 0-!90
+.0 37
+· ]174
+.14 5
+. 1788
+.2056
+.2596
+.3130
+.3615
+.3965
+.3875
+.3710
+. 3615
+
+Lift/drag.
+
+-4.02
+-1. 92
+1. 03
+4.50
+7. 82
+10.12
+11. 89
+]2. 00
+12.09
+11. 50
+10.27
+9.]4
+7.26
+4.61
+3.37
+2.84
+
+Center of
+preSSllre
+coefficient.
+0.325
+.392
+.165
+.290
+.309
+. 320
+. 329
+.327
+. 32
+.329
+.337
+.341.
+.346
+.396
+.399
+.405
+
+Upper plane _ .. __ . . . __ ..... . .... __ ............ _.... . .... V. C. S.
+Lower plane .. .. .. .. . .................................... R. A. F. 6.
+Chord .. . . _. . ...... .. ........... .. . . .......... . . . ........ 3 inches.
+Span ............ .. ....... __ .......... __ ................ 1 inches.
+Gap .... . .. . ........ . ................. . .................. 3 inches.
+Stagger .. .... ....................................... . .... 20 per cent negative.
+Decalage........... . .... . ............ . .................. pper plane set at 21° less in('idence tl1an lower.
+Air speed . .. .. . .. . ..................... . .......... . ..... 30 miles per hour.
+Reference line ........... . ............................... Chord of R. A. F. 6, lower plane.
+Center of pressure ... . ........ . . . .................. .. .... A t chord of lower plane.
+Parker biplane No. 2 .
+
+_'-ngle of
+attack
+(degre ~) .
+
+Drag roeli irient
+(absolute).
+
+Lift coefficient
+(absolute).
+
+Lift/drag.
+
+-2
+-1
+0
+
+0.015
+.0136
+.0126
+.01]5
+.0109
+.01]5
+.0125
+.0179
+. 0~34
+.0304
+.0395
+. WiG
+.08G5
+. ]061
+.1259
+
+-0.0334
+- .0010
+.0344
+.0705
+· 1051
+· H2.'l
+.1720
+.2295
+.2800
+.3380
+.3 10
+.4200
+.-10 0
+.3 60
+.3670
+
+-2.12
+- .07
+2. 73
+6. 13
+9.65
+12. 37
+13.7
+12. 2
+12.00
+11. 11
+9.65
+7.55
+4.77
+3.64
+2. 92
+
+]
+
+2
+3
+4
+6
+10
+
+12
+14
+
+16
+18
+20
+
+Center of
+pressure
+coefficient.
+0. 052
+-6.300
+.536
+.435
+.412
+.403
+.393
+.378
+.375
+.381
+.3 5
+.405
+. 428
+.427
+.424
+
+Upp I' plane ................... . ......... . ........... . . . . C. one-th.ird lifting.
+Lowe r plane ..................................... .. ...... n. A. F. 6.
+Chord .......................... . ........................ 3 inches.
+Span ..... . .. . .......................... . . . ............. 18 inche .
+Gap ... .. ..... . . _....... _..... _...... _......... .. ........ 3 inche ..
+Stagger ......... . ........ . . . .. _.......................... 20 per cent negative.
+Decalage . . ................. . _. . . . . . . . . . . . . . . . . . . . . . . . . .. pper p lane set at l~o less incidence than lower.
+Air speed ................. _................... _......... 30 miles per hour.
+Reference line .... _....... .. ............................. hord of lower plane R. A. F. 6.
+Cen ter of pressure . . . ......... _. .. ... . ........ .. .. . ...... At chord of lower plane.
+
+36
+
+ANNUAL REPORT NATIONAL ADVISORY
+
+OMMITTEE FOR AERONAUTICS .
+
+Parker biplane No.3.
+
+Angle of
+attack
+(degTees).
+
+Drag coeflicient
+(absolute).
+
+-4
+- 3
+-2
+-1
+0
+1
+2
+3
+4
+
+0.0251
+.0212
+. 0186
+.0169
+. 0165
+.0158
+.0160
+.0173
+.0194
+.0248
+.0321
+.0415
+.0520
+.0709
+. L005
+.1226
+. 1412
+
+6
+
+8
+10
+12
+14
+
+16
+18
+20
+
+Lift coefficiont
+(ab oill te).
+- 0.0495
+
+- .0090
+
+Centol' of
+pres;'ure
+(;ucfii cien t.
+
+Lif t,drag.
+
+- 1.97
+
++0.107
+- 1. 276
++ .990
+.653
+.555
+.512
+.481
+.463
+.452
+.437
+.432
+.430
+. 433
+. 458
+.460
+.457
+.453
+
+- . 42
+
+.0312
+.0686
+· L075
+. 1427
+. 1764
+.2073
+.2380
+.2944
+. 3530
+.4090
+· ..615
+.445
+.4485
+.4230
+. 4025
+
+1. 68
+4.05
+6.52
+9.06
+11.01
+12. 01
+12.29
+11.85
+10. 90 .
+9.86
+8.88
+6.84
+4.46
+3.45
+2. 5
+
+pper plane . . . . ......... . . ... ............ .. ........ .... V. C. two-trurdR lifting.
+Lower p lane ...... . ...... ... .... _. ... . .... _'_'_""" _" .R. A. F. 6.
+hord .. _"" . ... . . _.......... ' . . ......... _... . .......... 3 inches.
+Span ..... .. ..... . . . .......... ... ... .... ....... . ....... . J inc-heR.
+Gap .... .... _........ . ............... __ ............ . .. . .. 3 inc-hos.
+Stagger ...... ....... .. . ... . .... .. .. .. .... .......... . . .... 20 per cen t- negative.
+Deralage . .. . .. ...... ..... . .. ............... . . . . . . . . . _... Uppc r plane set at ~o less inddence (han lowe r.
+Air speed .. ..... . .. __ .... _.... .. ..... _.. ... . . .. .... . _... 30 miles per hour.
+Reference line ........... .... .. .. . ... . . . ...... .. ......... Chord of lowe r plane, R. A. F. 6.
+Cen ter of p ressuro ... .... ......... ... . .... . . ... ...... _... At chonl of lowor plane.
+ParleeI' biplane No . ·1.
+
+Angle of
+attack
+(degrees).
+
+--
+
+- :)
+
+-4
+-:~
+
+-2
+-1
+0
+1
+2
+3
+4
+
+6
+10
+1.2
+14
+
+15
+16
+18
+~O
+
+22
+
+Dra~
+
+Lift coefficient
+(absolute).
+
+coeffi.<'lent
+(absolute).
+0.033l
+. 02 4
+. 0247
+. 0221
+. 0205
+. 0198
+.OJ97
+.0200
+. 0206
+.0224
+. 0278
+.0350
+. 0440
+. 0547
+. 0722
+.0823
+.0 98
+.1051
+. 13!)1
+.157
+
+I
+
+- 0. 0052
+- .0275
+· OJ LG
+.0472
+.0820
+.1163
+.1531
+.1003
+.2234
+· 25%
+.3136
+· :-\720
+.4275
+.4820
+. 5180
+.5205 I
+. 5275
+. 5:-\05
+.4255
+. 4120
+
+Center of
+pre '~ ll re
+roelllrjent.
+
+Lift/drag.
+
+-1. 97
+- .97
+.J?
+2. l4
+4.00
+5. 7
+7.76
+9.52
+10. 84
+11.35
+l1. 27
+10.63
+9. 73
+8. Sl
+7. J9
+
+-
+
+. G14
+
+. 5tH
+. 5:3-1
+.511
+.498
+. -1l1l
+. 472
+. 4tH
+.463
+.4 9
+
+li.32
+
+5.87
+5.1-+
+:3. 06
+2.61
+
+0.159
+. 360
+2. ' 2..
+.952
+.7l2
+
+I
+
+.517
+.534
+.557
+. 498
+.491
+
+Upper plane . . ... _.... ........ _.. .. .. __._ . .. . . . . _. _.... . \'. C. L.
+Lower plane . . .. __ . ...... . . ...... . ....... _.... .. .... . .... R. A. F . 6.
+Ohord ....... .... . .. . . ... .... ..... .... . ....... . ..... _. .. . 3 inches.
+Span ...... . _.... .. . . __ ... . .. _.... .. . ................... 18 inches.
+Gap .. . . .. . .. _...... . . . _.. ..... .. .... . .... ... . .. . _.. _.... indle ..
+taggeI' .. . ............. . .......... .... . __ . . .. .. . . ...... . . 20 per cell t negatiw .
+Decalage . . .............. ___ ... ___ . .. . . ..... .... ... . _. . .. Upper plane set at ~o gr a1.e1' incide nce than lower.
+Air speed . . ......... .... .. _......... ... ..... . .. .. .... .. . 30 mile per llOUr.
+Reference li ne .... _... .. . ... . .. .. _.. .. . . _..... . . _. ... .. . . Chord of lower plane, R. A. F . G.
+Center of pressure. _.. , . .. ............ . ....... ... ....... _At chorel of lower plane.
+
+37
+
+PARKER VARIABLE CAMBER WING.
+
+Parker biplane No.5.
+--~--------~------~--------~------~
+
+}\ ngle of
+at.tac·k
+(degrc H).
+
+Drag coefiicicn t
+(absolute).
+
+Lift, cocm(,lcnt,
+(absol ute).
+
+1 Cc utCI' of
+
+LifL/drag.
+
+prcssure
+coeflki nt.
+
+- -- --;,-- - - I - - - - 1 - - - - ,1
+- 2
+- 1
+
+o
+
+1 ,
+2
+3
+
+4.
+5
+6
+8
+lO
+]2
+]4
+16
+
+18
+20
+
+0.0124
+.0109
+. 0094
+. 00 9
+.009
+.0101
+. 0118
+.013
+. 0163
+. 0223
+.0294
+.0388
+.0564
+. 0 86
+. 1127
+. ) 32
+
+- 0.0601
+- .0274
+. 0097
+. 047
+.040
+.1133
+.1442
+.1735
+.2014
+. 2580
+.3080
+.3580
+.4110
+. 3900
+.3870
+. 3860
+
+-4.85
+-2.50
+1. 04 1
+5. 36
+9.41
+n . 27
+12.21
+l2.60
+12.33
+n. 58 I
+10.48
+9.23
+7. 29
+4. 40
+3.44
+2. 91
+
+I
+
+O ]64
+.
+.231
+- .039
+. 127
+. 1.53
+.14.5
+.144
+. 150
+.151
+.158
+.164
+.175
+.1 9
+.2]4
+. 233
+.250
+
+Upper plane .... .. ......... . . .... . ... ......... .. R. A. F. G
+.
+Lower plane ..................................... V . . ,.
+Chord . ..... . . .. . ............. . .... .. ............ 3 inches.
+Span .... . ....................... .. ............. 18 inches.
+Gap ............... ... . ..... .. ............ . ...... 3 inche~.
+Stagger ......................... . ...... .. .... . ... 20 per cent positive.
+Decalage .................................... ·.... Lower plane set at 2~0 less in cidence tbaJl upper.
+Air speed ..... . . .. . , ............... . ..... .. ..... 30 miles per hour.
+Reference liue ................................... (,bord of R. A. F. 6.
+Center of pres8ur ............................... Ai chord of lower plane.
+
+przrker biplane No.6 .
+•ing-Ic of
+attack
+(d('gre('~) .
+
+-3
+- 2
+
+-1.
+0
+1
+2
+3
+4
+5
+6
+]0
+12
+
+14
+
+]6
+J8
+20
+
+Drag co·
+etticient
+(ab~o lllte) .
+
+0.01G1
+.013
+.0124
+. 0]0
+.0106
+.0107
+.0121
+.0140
+.0160
+. 019·)
+.0264
+.0340
+.0437
+.055
+.0 7
+.1150
+.1333
+
+Lift co·
+efficient
+(,l!Jtioluie).
+-0. 0197
+- .019
+. 0107
+.04 1
+. 0 4.l
+.1]53
+. ] 530
+.1 5
+. 2130
+.2420
+.2964
+.3510
+.395.4355
+.4230
+.4]05
+.39 0
+
+I,i ft/dj·ag.
+
+-3.10
+-1.44
+.86
+4.4.5
+7.96
+11. 10
+l2. 67
+]3.22
+13.34
+]2.41
+1].24
+10.33
+9.05
+7.81
+4. 77
+3.57
+2. 99
+
+Center of
+pressure
+oefticient.
+- 0. 021
+- .207
+.725
+.275
+.219
+.206
+.19
+.192
+.J -1
+.179
+.176
+.179
+.1 0
+.182
+. 19l
+.223
+. 242
+
+'C'pper plane .................................... R. A. F. 6.
+Lower plane ............................. . ....... Y. C. one· third lifting.
+Chord .... .. ... . . ................................ 3 inches.
+Span ........... . . . . ........... ...... ... .. ...... 1 inche.
+Gap .... .... . .............. .. ................ . .. . 3 inche .
+, tagge r .......................................... 20 per cent po. itive.
+Decala"e ..... ................ ... ..... .... ... ... . Lower plane et at, 1,0 Ie s incid nee lhan upper .
+Air speed ................... ... ................. 30 miles per hOllr.
+Reference line ... .. ........................... . .. hord of R. A. F. 6.
+Cent.er of pressUl'e ..... ..... .... ......... .. . . .... At ch ord of lower plane.
+
+38
+
+ANNUAL REP ORT NATIO :TAL ADVISORY COMMITTEE FOR AERONAUTICS.
+
+Parker biplane
+
+Angle of
+attack
+(degrees).
+-4
+
+-3
+
+-2
+-1
+0
+1
+2
+3
+4
+6
+8
+10
+12
+14
+15
+16
+18
+20
+
+Dra& coefficient
+(abS'l1ute).
+0.0242
+.0207
+. 0182
+.0160
+.0149
+.0141
+.0147
+.0164
+. 0185
+.0241
+.0314
+.0393
+.049
+.0620
+.0726
+.0872
+.1142
+.1455
+
+Lift coefficient
+(absolute).
+
+o. 7.
+
+Lift/drag.
+
+-0.0391
+- . 0035
+.0310
+. 0662
+.1022
+. 1385
+.1711
+.2041
+.2330
+.2912
+.3464
+.4005
+.4520
+.490
+.5160
+.4910
+.4610
+.4400
+
+-1.61
+- .17
+1.70
+4. 13
+6.85
+9.81
+11. 61
+12.41
+12.55
+12. 11
+11. 03
+10. 19
+9.08
+8.04
+7.11
+5.63
+4.04
+3.04
+
+Center of
+pressure
+coeflicien t.
+-0.277
+-4.070
+.757
+.437
+. 333
+.283
+.260
+.241
+.226
+. 211
+.211
+.217
+. 218
+.224
+.224
+.222
+. 239
+.256
+
+Upper plane .......... ... .................. . . . .. R. A. F. 6.
+Lower plane .......... . ................... ....... V. C. two·thirds lifting.
+Chord . . ...... . ...... . .. . .. ... . . ............. .... 3 inches.
+Span ....... . ... . ............................... 18 inches.
+Gap . ..... , .. . ..... . ..... . .... . ... . .. . .... ..... .. 3 inches.
+Stagger .. . .... . . . ............. .. ... . . . . _. . . . ..... 20 per cent positive .
+Decalage . . . ..... . .. . ........... . ..... . ..... . . . . . Lower plane set at ~o Ie
+Air speed ............ . .... . . . ....... . . .... ...... 30 miles per hour.
+Reference line ... . ............. .. ..... . ...... . .. . Chord of R. A. F. 6.
+Center of pressure ................ . .. . ........... At chord of lower plane.
+
+incidence than upper.
+
+Parker biplane No.8.
+
+Angle of
+attack
+(degrees) .
+-5
+- 4
+-3
+-2
+- 1
+0
+1
+2
+3
+4
+6
+8
+10
+12
+14
+15
+16
+18
+20
+22
+24
+
+Drag coefficient
+(absolute).
+0.0293
+.0258
+.0231
+.0210
+.0193
+. 0186
+.0189
+.0193
+.0209
+.0233
+.0290
+. 0371
+.0458
+.0562
+.06 4
+.0747
+. 0914
+.1100
+. 12 0
+.1880
+.1915
+
+Lift coefIicieut
+(absolute).
+
+Lift/drag.
+
+-0. 0385
+- .0046
+.0305
+.0640
+.0983
+.1347
+.1730
+.2063
+.2409
+.2701
+.3290
+.3880
+.4410
+.4930
+.5420
+.5660
+.5510
+.5390
+.5450
+.4780
+.4500
+
+- 1.32
+- . 18
+1.32
+3.04
+5. 10
+7.23
+9. 14
+10.70
+11. 54
+11. 60
+11.33
+10.46
+9.64
+8.80
+7.94
+7. 57
+6.03
+4. 91
+4. 26
+2.83
+2.35
+
+Center of
+pressure
+coefficient.
+-0.407
+-3.820
+1. 070
+.579
+.425
+.350
+.309
+.285
+.265
+.250
+.237
+.230
+.231
+.233
+.237
+.242
+. 240
+.239
+.238
+.276
+.280
+
+Upper plane .. ... ........... . .. . .... ...... ...... R. A. F. 6.
+Lower plane ... . .. .. ... . .............. . .......... ' -. C. L.
+Chord . . . .. .............. . ..... . . , ...... .... . .. . . 3 inch es.
+pan ........ . .. .... . ........... . .... . . _.. .. .... ] inches.
+Gap ... . ................. . .... . . . . . , .. ..... ..... . 3 inches.
+Staggor .... .. .......... . _. ........ . .. ....... ..... 20 per COlli positive.
+Decalage ........... _................... : .... ... . Lower plane et aq·o greaterincidence than upper.
+Air speed . . ......... . ....... . ......... ..... .... . 30 miles per hour.
+Reference line .. . .. _..... . ........... _.. . .. ..... Chord of R. A. F. 6.
+Center of pressure ........................ ... .... At chord of lower plane.
+
+39
+
+PARKER VARIABLE CAMBER WING.
+
+ParTeer triplane No.1.
+
+Angle of
+I (degrees).
+attack
+
+Drag co·
+efficient
+(absolute).
+
+t
+
+I
+
+I
+\
+
+0.0099
+.0091
+. 0090
+. 0100
+.0113
+.0129
+.0154
+.0209
+.0275
+.0361
+.0504
+.0824
+.10 2
+. ]265
+
+0
+
+1
+2
+
+I
+
+:~
+
+4
+5
+
+6
+
+I
+
+10
+12
+
+I
+
+-
+
+14
+Hi
+18
+20
+
+-
+
+I
+
+Lift co·
+efficient
+(absolute).
+
+Lift/drag.
+
+-0.0163
+.0162
+.0506
+.0796
+.1080
+.1392
+.1660
+.2172
+.2656
+.3]15
+.3600
+.3785
+.3675
+.3630
+
+-1.64
+1. 78
+5.59
+7.97
+9.58
+10.70
+10.78
+10.38
+9.67
+8.64
+7. 14
+4.60
+3. 39
+2.87
+
+Center of
+pressure co·
+efficient.
+0.469
+.281
+.352
+.358
+.359
+.361
+.356
+.351
+.347
+.348
+.360
+. '105
+.435
+.445
+
+I
+
+-
+
+Top plane ............ . ...... ... ......... ... .. .. ........ V. C. S.
+Middle planp ............................................ R. A. F. 6.
+Bottom plane> . .. ................. ... .................... V. O. S.
+Chord .............................. .. .. .. .. . .. .. ..... ... 3 inches.
+Span . . . ... . . ...................................... . .... 1 inches.
+Gap . .. .. ....... . ........................................ 3 inches.
+Stagger . . .. . .................................... . . . ...... Top and bottom planes set 20 per cent of chord
+behinrl middle planp .
+Decalage .. . ....................... . .... .. ............... Top and bottom planes set at 2~0 less incidence
+than middle plane.
+Ajr speed ..... ....... .. .......... . ........... .. ......... 30 miles per hour.
+Reference line .............. ... .. ........................ Chord of R. A. F. 6.
+Cen ter of pressure ......... ....... . ..... ... .............. At chord of middle plane.
+ParTeer trip lane No.2.
+
+Angle of
+attack
+(degree ).
+-2
+0
+2
+4
+
+5
+6
+8
+]0
+12
+
+14
+]6
+I
+
+20
+
+I
+
+Drag co·
+I (absolute).
+efficient
+0.0146
+.011
+.0110
+.0140
+.016]
+.01 6
+.0246
+.0325
+.0413
+. 051
+.077
+.1l0
+. ]323
+
+Lift co·
+efficient
+(absolu te).
+-0.0353
+.0243
+.0 5
+.1553
+.1 29
+.2076
+.2620
+.3160
+.3656
+.4102
+.4290
+.412
+.4010
+
+Lift/drag.
+
+Center of
+pre ure co·
+efficient.
+
+-2.42
+2.05
+.09
+11. 10
+11.34
+11. 19
+10.63
+9. 72
+.86
+7.92
+').52
+3. 73
+3.03
+
+Top plane ....... '" .......... . .......... . .............. V. C. one·third liiting.
+)Iidd le plane .. . ......... . ............................... R. A. F . 6.
+Bottom plane .. .. . . ..................................... V. ('. one· third lifting.
+Char I . .................................................. 3 inches.
+, pan . . ........... ..... ............................ ... .. 1 incheB.
+Gap ........................................... . ......... 3 inches.
+Stagger. ....... ........... . . . ............ . ...... ... .... .. 'rop and bottom plane ~et 20 pe>r cent of chord
+behind midd le plane.
+l'ecalage .... .................... .. ...................... 'rop and bottom planeti SElL at J, o less indde nce
+than middle plane .
+. \ir ~ l)(>ed ............................................... 30 miles per hour.
+Reference line .... .............. . ........................ hard of R. A. F. 6.
+Center 01 pressure ............................... . ....... At chord of midd le plane.
+
+40
+
+A NUAL REPORT NATIONAL ADVIS ORY COMMITTEE FOR AERON AUTICS.
+
+P rker trip lane No. 4-.
+Angle of
+attack
+(degrees).
+
+. -5
+
+-4
+-2
+0
+2
+3
+4
+
+6
+8
+10
+12
+14
+
+15
+16
+17
+1
+19
+20
+22
+24
+
+Drag coefficient
+(absolu te)
+
+0.0310
+.0275
+. 0227
+. 0212
+. 0220
+. 0228
+. 0255
+. 0312
+,0385
+. 0483
+.05 7
+. 0716
+.0781
+.0 93
+.09 8
+. 1064
+. n42
+.1332
+.1640
+. 1 70
+
+Lift coefficient
+(absolute).
+
+Lift/d rag.
+
+- 0. 0218
+.0129
+. 0779
+.1414
+.2048
+.2324
+,2652
+. 3205
+,3755
+.4330
+. 4 -5
+.5345
+. 5540
+. 5695
+.5755
+. 5 25
+. 5910
+. 5275
+. 4565
+. 4465
+
+- 0.70
+. 47
+3.43
+6.6
+9.32
+10. 27
+10. 39
+10. 30
+9. 77
+8.96
+8.26
+7.47
+7. 10
+6. 3
+5. 82
+5.48
+5.17
+3.96
+2. 78
+2. 39
+
+Center of
+pressUl'e coefficient .
+-1. 191
+
+4. 208
+. 927
+. 670
+.566
+. 536
+,510
+,482
+. 462
+. 450
+.440
+. 434
+.437
+. 456
+.470
+.473
+. 404
+.441
+. 478
+.4 7
+
+Top plane . ... . . . . ... . . . ..... . . . . . ... . . . ... . ..... . . .. ... V. C. L .
+Midd le plane ........ . .. . .. ........... .... . . .. .. ....... . . R. A. F. 6.
+Bottom plane ..... . .. .. ... ... . . ... .. .. . ......... . .. .. ... V. C. L.
+Chord . . .. ....... ... .... . . . .... . . . . .... . ... ... . .. . . . . . . .. 3 inches.
+Span . . .... .. ... .. . ...... .. . . .. . . . .. . . . . ..... .. .. . ..... . 18 inches.
+Gap ... .... .. .. . . . . .. .. .. . ....... . ... .. .. .. . .. .. . . . .... .. 3 inches.
+Stagger. .. . ... .. ....... ... ... . ..... . . . . ... . .... ... ... .. .. Top and b ottom planes set 20 per cen t of chord
+behind midd le plane .
+Decalage ..... . .. .... .... ...... . . . .. .. . . ... .. ... . ..... . .. Top and bottom planes set at ~o greater incidence
+than middle plane.
+Air speed ... ......... . .. . . ... .. . . . .. .. .... ... ... .. .. ... . 30 miles per hour.
+Referen ce line . . . .... . .. .. . .. ... .. .. ... .. ... .. . . . ... . . .. . Chord of R. A. F. 6.
+Cen ter of pressure . .. . . ... . . . ... . .... .. . .. .. .. . . . ...... .. At chord of middle plane.
+L ift/drag against speed.
+Parker biplane
+back stagger.
+
+Parker biplane
+forward stagger .
+
+Speed . Lift/drag. Sp ed . Lift/drag.
+
+3.32
+2.54
+2. 25
+1. 95
+'I.. 77
+1.35
+1. 24
+1. 15
+1. 06
+1. 02
+1. 00
+. . .
+
+5. 55
+9. 75
+12. 33
+15. 13
+16. 51
+13. 00
+11. 0
+10. 40
+8. 50
+7. 40
+5.24
+
+_- _." - - - .. .
+
+- .. . -
+
+3. 440
+2. 600
+2. 240
+1.920
+1. 750
+1.630
+1. 390
+1. 280
+1.190
+1.070
+1.025
+1. 000
+
+7. 05
+12.38
+14. 24
+15. 40
+15. 60
+15. 40
+13. 20
+n . 84
+10. 80
+9.13
+8.18
+7.80
+
+R. A. F. 6 biplane.
+
+P arker tnplane.
+
+R. A. F. 6 triplane.
+
+peed . Lift/drag. Speed . Lift/ drag . Speed . Lift/ drag.
+
+3. 58
+2.42
+1. 90
+1. 65
+1. 50
+1.40
+1. 26
+1. 14
+1.06
+1. 00
+
+2. 30
+5. 22
+9. 20
+12.00
+13.20
+13.90
+12. 80
+10.90
+10. 35
+9. 70
+
+. . . . . -- _ . .. _-- -.--
+
+- . -. _-- - - --- - - _. --
+
+3. 42
+2. 73
+2.34
+1. 95
+1. 80
+1. 69
+1. 25
+1. 17
+1. 10
+1, 05
+1.02
+1.00
+
+7.30
+lO.10
+11. 80
+13. 15
+13. 10
+12.60
+10.28
+9.35
+8. 60
+7. 70
+6. 55
+5.26
+
+2.10
+5. 05
+8.80
+11. 25
+12.40
+12. 90
+11.70
+10. 70
+9. 90
+9.10
+
+3.58
+2.42
+1. 90
+1. 65
+1. 50
+1.50
+1. 26
+1.14
+1. 06
+1. 00
+- - .. . _- --
+
+--. - - _. _.
+
+.-. -- --_ .
+
+-- -- - -- - -
+
+41
+
+PARKER VARIABLE CAMBER WING.
+
+Deflection of rib under, overloads.
+Load.
+
+Deflection.
+
+In inches, at distance from leading edge ofNumber
+Total
+oftlying
+load
+loads. (pounds).
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+33.5
+67.0
+100. 5
+134.0
+167.5
+201.0
+234.5
+268. 0
+301.5
+335.0
+368.5
+
+Iv inches
+(front
+spar).
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+12 inches 21 inches 30 inches 39 inches 60 inches
+(trailing
+(A).
+(B).
+(0).
+(rear spar). edge) (D).
+0
+0
+0
+0
+.081
+.066
+.061
+0
+.130
+.111
+.092
+0
+.178
+.137
+.164
+0
+.228
+. 199
+.186
+0
+.260
+.208
+. 229
+0
+.303
+.244
+.266
+0
+.349
+.306
+. 324
+0
+.385
+.342
+.354
+0
+.437
+.400
+.393
+0
+Rib failed by buckling of cha=el tlanges.
+
+o
+
+0
+-.020
+- . 050
+- . 103
+-.105
+- .089
+- .095
+- .090
+- .093
+- .092
+

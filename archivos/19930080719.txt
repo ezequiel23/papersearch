@@ -1,0 +1,1700 @@
+General Disclaimer
+One or more of the Following Statements may affect this Document
+
+This document has been reproduced from the best copy furnished by the
+organizational source. It is being released in the interest of making available as
+much information as possible.
+
+This document may contain data, which exceeds the sheet parameters. It was
+furnished in this condition by the organizational source and is the best copy
+available.
+
+This document may contain tone-on-tone or color graphs, charts and/or pictures,
+which have been reproduced in black and white.
+
+This document is paginated as submitted by the original source.
+
+Portions of this document are not fully legible due to the historical nature of some
+of the material. However, it is the best reproduction available from the original
+submission.
+
+Produced by the NASA Scientific and Technical Information Program
+
+—
+
+.——
+
+0
+
+.
+
+.
+
+-4-.=hit=%-“
+,-
+
+..-
+
+.
+
+NATIONAL ADVISORY COMMITTEE FOE AJ3RONAU’JNCS.
+
+ON THE ELEMENTARY RELATION BETW3EN PITCH, SLIP, AND
+PROPUL9TION EFFICIENCY.
+w
+
+W.Fro@e.
+
+Resunt$prepared by
+Paris Office, N.A.C.A.
+.
+
+4
+
+.
+
+.
+
+. ..
+
+—
+
+-.
+
+—
+
+—- -. —-l
+
+—
+
+--.7
+
+Illllllllllllmmflllllllllllllll
+~ 3_l176014399654 – _K‘
+ON THE ELEMENTARY RELATIoNIEw
+PITCH,
+PROPUSIVE I!XVICXEIWT.
+
+J
+
+$-
+
+=.ZP,
+
+-
+
+By W. Roude .
+,..
+
+,
+
+RESUME
+
+*
+
+The author remarks that the opinions on the theory of the propellor prevailing at the time he read h2s Paper, consisted in aesumtng that the waste of motive power used tn working a propeller
+iB proportional to the relative slip, and that, t&reforebt::s::P
+should be diminished, as Iiwge a measure as possible.
+in
+to determine a propeller by ta~ng the resists
+of the SUP ~
+its speed, two method& may be empUYed:
+1st. ‘loincrease the ar~a of the propeller and especially
+its dimeter.
+2nd.
+
+TO zeduce &he pitoh of a pPopeller of given diameter.
+
+In this connection there are definita iimit@g considerations.
+AeIregards the dismete~ of the propellar, We are liaited by the
+amount of space available, and as regards the reduction of pitch,
+by the ~fi~ of rotation convenient or safe to give twthe engines.
+Uixierthese cozxiitons the author asks: “Would an unlimited
+i
+area of propeller be theoretically valuable?” Wow much do we lose
+by the Imitation of area $mposed by mere practical convenience?”
+adding that he considers
+that a very exaggerated importance 18 =~tached to slip.
+In fact, considering that the reduction of slip i. obtained
+either by increasing the area of the propeller,or by increasing the
+number of revolutions, we see that both these methods lead to an
+increase
+of fr$ction which oannot be neelected.
+“But however confidently ma the strength of known data we
+might assure ourselves of the great 10ss of power Involved in surface friction, we cotid not thereby arrive at any def%nite data
+as to the pattern
+arxi dimensions of the ccrew wMch would on the
+unless
+we could bring also into
+whole minimize the waste of power,
+the co-related propulsive action.
+*W
+the pressure
+~ha caloulatiou
+or reactiora
+of b flui& on an area moving obliqpely’through it, has
+not t$l~ lately been reduced to a true theoretical solution; and
+though St had come to be understood that the old Zawwhlch made the
+of the she of the obliquity was exMreQresswe
+very as the SW@
+ly in error,
+s+ that in reaii$y the reakstarace
+was pretty certainly inproportioa to the ftis% power of the sirn, i% is only quite
+recently that the question has receive& a sound theore%ieal solution.
+* The passages in quotetion
+As in all our R&urds, w
+.
+.
+
+,...--,
+
+marks
+are
+extsacts
+from the or%ginal.
+the notation of the authos.
+have retained
+(w-w )
+
+——
+.
+
+4
+—.–
+——
+
+— —
+
+-3,L
+
+I
+
+..=
+
+‘An emtnent mathemat hian of the day, Lord Rayleigh, has deter&rnd the law on stremnlins Srinoiples,
+rigorously
+so far as pressure
+on the advancing surfaoe i$ conoerned,
+for a plane relatively narroW
+lzathe line of motion. Aceordibg to his solution, $f
+n@
+p?,
+normal pressure acting on the f aoe of the plain P =
+4+n
+8in6
+—
+where Pt ia the pressure of a head du to the speed, sating on the
+Plans, ti
+@
+iS the angle between the plane and the line of motion.
+b~t appe=s pretty conclusively, “however,
+by Beaufoy’s experiments that, when the plane %s moving normally tihrou@ the water, so
+that @ = 90°, the reetstance aotuelly experienced exceede P in
+the ratio of 112 to 96, and it is not improbable that a proportionate
+excess, beyond P as given ~ Lord Rayleigh’s formula, will be experienced also when the ~tion is obliqus; and in the calctiations I
+have made I have assumed this to be the case.
+‘As regards surfxe friction, the experiments I have conduoted
+for the Admiralty show that it varies about as the power 1.85 or 1.9
+of the speed; but for cozwenience
+we m~ adhere to the usual expression that it varies as the sqvare of the speed. The coefficient or
+frictional force per square foot at unit speed, varies greatly with
+the length of the-pl~- in the line of mot~oa &d with the qpality of
+the surfaoe.
+‘“W pressure and the friction may be respectively expressed by
+the eguations P = p A v2 sin
+@
+,and F= f A V2, where p
+f are respectively the pressure and the friction
+per unit of
+surface, A the-area of-the piane, v the speed in the-line of motion,
+and @
+the angle between the plane and the line of motion; and if
+we take the forces in pounds, the area in square feet, end the speed
+in feet per second, the available data suggest 1.? (1) as the value
+of p, and 0.008 as tile value of f. bearing in mind, as regards
+that the
+the latter figure, that it provides for the circumete,aace
+the area of a screw blade has a double surfaoe, the baok and the front;
+and that it is appropriate to a fairly smooth surface, measuring 3
+feet in the Mne of motion. 1 must, hchrever,add that although tt is
+very important
+to be pretty
+correctly informed as to the true measure both of surfaoa friction and of normal pressure, so as to be
+assured that w are dealing with real and tangible mounts ani not
+‘with shadowy tendencies, the investigation, even when carried out with
+the mere abstract coefficients,
+proves In the highest degree interesting and instructive.
+“A TRUE CONCEPTION CM’T= RELATION BETWEEN T= MODUS OPERANDI
+OF THE 0BLIQUELTMOVIIW3 PLANE, AND T~ BLADE OF A SCREW PROPELLER,
+MAY EE FOUND BY IMAGINING THE PLANE TO BE CARRIED ROUND T~ SCREW AXIS,
+~=
+SET 0BL1QUEL% TO TEE PLANE OF ROTATION, AS IF IT WERE A tfNITOF
+AREA IN AN EXTENDED TRUZ SPIBAL SURFACE.
+W
+(1)
+
+See N(Y3!EI, p. 10.
+
+-1
+
+,
+
+m. --
+
+— —
+....——
+
+-.
+
+__-—
+
+—k
+
+,---
+
+-4-
+
+can
+
+u’
+
+AB=v,
+—,
+
+Bc=v,
+
+AC= VT,
+
+CD=S
+
+Fig.
+
+the element of a
+
+1
+
+wzil!EiE.
+
+the speed of totation of this element.
+the speed of the forwsrd motion of the
+ship .
+is therefore the reeulting 6peed of the
+element 5ZIthe water.
+is the speed of the slip . .
+eqpal to the difference bstween the forw*d motion per
+revolution and the speed
+Of the Ship.
+
+A~,
+
+‘e
+
+/) ‘\,
+G ‘\)\
+\!’”\A
+Y
+‘v
+s
+44
+!3
+—
+
+The angle BAC = CZ
+
+, the virtual pitch angle (the qle.
+of the forward motion per revolution.)
+
+The angle CAD = @
+
+, the slip angle.
+
+The angleRAD=ff
+
++
+
+The slip ratio is then equal to ~
+p Avi2
+
+p
+
+Sin @
+
+the actual pitch angle.
+
+es
+=
+
+~
+V+s
+
+is the cmponent of the restitant of
+the normal pressure of the air on the
+plene.
+
+is the coefficient of lift equal to 1.7 lbs/sq.ft/ft.;s8c.
+for the water.
+
+A, the area of the element.
+F = f A v~2
+
+is the componsnt of the resultant
+due to
+friction;
+it is directed PARAL3XLT0
+!PHEPATHAC of the ebment. (2)
+
+(1) The calculations which follow are contained in aMathsmatioal
+Appemi.ix
+placedat the endof the original Paper. For convenience of seeding we have preferred to insert them among the concaueions which, in the Paper itself, precede the calculations.
+(W.M.)
+“It might at first sight be assumed that this component should be
+(2)
+taken account of tzathe direction of the plane, not of t-he
+motion
+of the plane; but it appear. on consideration that all the pxttclea to whioh the plane frictionally
+imparts motion along its
+own plane, must aocept at the same time the normal conponent of
+the planets motion, and thus its complete resultant path; the
+force should therefore be estimated as aGting in the direction
+of the resultant motion of whioh it ie the counterpart. (Sinoe
+the above matter was in type, X have been led to doubt the
+correctness of this assmpt~on, and to lean to what was my orig(Cent‘d on next page.)
+—!
+
+.
+
+-5*
+t being the coeffic~ent of friction
+multiplied by 2;
+0.00S lbs/sq.ft/ft.; sSC.
+f =2%0.004=
+for the water.
+K=
+
+f/p = 0.008/1.7 = 0.0047.
+
+Li3tus project these two c~onents on the axis of the motion
+and perpendicular to it. Multiply$zg the sun of the projections
+on the axisI,that is, the thrust of the propeller, by the speed v
+of the ship, we obtain the expression of the useful power Ue; multiplyi~ the sum of the projeotions normal to the axis by the tsngential speed of rotation, we.obtsin the motive power
+‘1” ‘e
+thus have:
+cosec2 a
+
+Ue = pAY3
+%
+
+=
+
+P
+
+A
+
+V3
+
+co f3ec2
+
+a
+
+(la)
+Co8(m + fg )sin tg - k sin a
+1
+{
+OOt a fm(a
++ @ )sin @ + k COOtZj
+..... (2a)
+{
+
+whence the elexnentefficiency E is:
+(4)
+
+considering that the value of @
+
+sin (g
+
+= tan @
+
+= @
+
+is mall, we may take
+
+and ..6 @
+
+=1;
+
+we then have:
+(4a)
+
+Differentiating this.expression for ~
+and 6’ , and neglecting
+the terms lower than @
+, w obtain the two conditions of ms#simum
+efficiency:
+
+6’
+
+tan2cz=
+
+(6)
+
+@+k
+
+r
+
+If we introduoe into e~uation (6) the value of @ =
+k
+given
+by expression (5), we obtain the condition of highest maximum efficiency:
+ten(a*#)=l
+
+((2)
+
+or
+
+tZ
+
++@
+
+= 450
+
+~
+
+(7a)
+
+Cent ‘d )
+iti bpe SBiOA, tb% the Ccmponent ahofld bS tabn in the d3rection of the plain itself; but the assu@ ion simplifies the solutioxa,end the principal results
+arrived at are not materially
+affected by the sl%ght error It invoZvas, as the Whole work of skin
+friction is included under-e%therhypothesis. X had xra~d the
+impression
+to know that the
+solution far enough under my original
+lete solut%on hioh I r %ain as alread y in type IS
+more c
+praotic ly adm$setble.
+~“ (W.F.f
+%!
+_\ –
+
+----
+
+r
+
+..
+
+— -——— .=.
+
+-—. —
+
+[1
+
+-.
+
+–=.- .
+
+——
+
+—
+
+-..
+
+‘1
+
+‘1
+/
+
+-6Eqpatioza(5) shcwa that wHATEVER BE TEE PITCH, MkKiMW 1!KFI0IEM%
+WILL I@ OBTAINED X& ACOP!NNG A CONSTANT SLIP ANGIZ [OR A CONSTANT
+~LE
+03’ATTA@ .
+The zpreasion (7a) enables us to conclude that IF WE AIWT THE
+lMUM SLIP ~LE , THE HIGHEST MAXIMUM OF EFFICIEI?OYWILL BE OBTAI~
+F~
+A PITCH ANGLE OF 45°.
+On the other hazxi,subst
+itutlng in equation (6) the value of the
+k for the value of k, and the expression
+opttmm angle @
+=
+f
+
+(9’=
+(g
+
+- (8
+
+-.d~
+
+which gives the value
+for the value of @ , we obtain the relation
+of the pitoh giving maximun efficiency for a slip angle (or u angle
+of attack) cliff
+ering 1ittle from the optima angle; we have:
+a+~
+
+=450’t
+
+(@-
+
+(g’
+
+)
+
+which showe that ‘any mgderate alt erat ion of slip angle would demand
+that to give maximun efficiency, the pitch angle should receive
+an increment or decrement in effect equal to that of the slip angle8.
+The approximate expression of the complete memimum efficiency,
+say E‘, is obtained by introducing into the sqyation (4a) the values
+Of tw a
+and @
+g iven by eqpations (5) and (6). We have:
+Et=l
+
+- 4~k+8k-8k~k
+
+(8a)
+
+The author poi~ts out that the complete efficienoy of a propeller cannot reach this value, since only one sectioa of the blade
+oarb have the most effeczive pitch and that this efficiency tends
+towards unity if the frZotion is null (k = f/n = O) whatever be the
+pitch, provided that the area be large &cugh- ;O admit of the slip
+tending towards O.
+The equation conmcti.ng the resistance, R, of the ship and its
+speed , v, with the area, A, of the propeller, is obtained by eubstituting in equation (1) Rv for We i we thus get the eqre ssion:
+
+A=~ V2
+
+X
+
+p[Cos((Z+~
+
+Sin2 (X
+)Sin~-k
+
+(9)*
+
+Sin~]
+
+In this relation, by putting 45° - @for~
+and ~kfor(?
+,we
+have the cond&ttons connecting the resistance, the speed, and the
+area (A’) of the most efficient propeller.
+
+.
+
+,
+
+* In the publlshed Paper there is a printer’s error in equations
+(9) and (9a): the coefficient p is missing.
+Zn eqpation (9b) the nunerical coefficient is 7.9 &nstead of 8.9,
+as given in the Paper. (W.M.)
+
+-7-
+
+- k’
+J-)
+/
+
+-1-2
+
+where for k = 0.0047
+
+p=
+
+and
+
+At =7.9x~
+
+{9a)*
+
+J:?”
+.,.
+(9b)*
+
+~2
+
+From this relation the author concludes:
+lst, That at the low speeds for which the resistance of the ship
+is PROPORTIONAL TO THE SQUARE OF THE -D,
+THE SLIP RATIOmZ~
+CONSTANT*
+
+2nd. THAT GEONETRIGALLY SIMI~PnPEmS
+HAVIN3~SPRO~TIONXEE TO THE SQUABES OF TEE DIMENSIONS OF TWO SIMILAR SHIPS, WILL
+GIVE C)NTHESE SHIPS THE SAME SLIP RATIO. (1)
+3rd. As the area giving maximm efficiency (equation 9a) iS
+nearly inverse3y as the slip, and as efficiency deereases but slowly
+when the sltp is greater than the optimam sl$p, AGHEATLY~DU~DJ
+AREA, WITEIREF!EREN~TO THE AREA A*, WOULDEE ADMISSIBLE WIT30UT MUCH
+LOSS 03’EFFICIENCY. (2)
+NUMERICAL APPLICATION.
+The optimum angle
+
+6’=
+
+The optimum slip ratio for~
+rt =
+
+1
+an
+taA+a@
+
+r ‘=
++
+
+‘“0047 =3056’
+
+@ = 45° a
+
+‘3°
+
+56’ 30”
+
+tan(450- 30 56’ 30”)
+tan 45°
+
+1
+)
+
+@
+
+30”
+
+=
+
+is
+
+= 12 3/4$
+
+(1) See N@LE II, p.:11.
+(2) _riments,
+which have been in progress since this Paper has been
+in type, show conclusively that the decrease of efficiency Corasequent on increased slip, with screws of ordinary proportion, is
+scarcely perceptible even when the sl$p ratio is as large as 30
+per cent. , with the screw wbrldng tnunlieturbed water. The results so shaped themselves as to po$nt to the conclusion that,
+for some reasonor other, the coefficient of surfacefziction
+began to diminish when the slip ratio became as much as 15 per
+cent., and was about halved when the 61ip ratio WSXJ30 per cent.;
+as At appeered not improbable that with increasing slip a
+more or less pronounced eddy might become established at the back
+of the blade, so as more Or lese completely to neutralize ths
+frlctionof that surface, aro~
+experiment was tried bymovirg a
+plans oblique..ly
+through the water with various angles of slip,
+@
+in a position where the effect could la observed; ani in
+point of faot it appeared that when the angle bstweeza
+the plain
+was about 10 degrees, th9 water at ita
+and its line ofmotioza
+back bad assmed
+the form of anaddy, h~ving marly the speed of
+the pl~,
+and that it tnfact overran the plum when the angle
+was inareased to 15°.n
+* Sea foot note p. 6 of this report.
+—
+
+k.-
+
+—
+
+—-..
+
+.-.-A”
+
+.-
+
+-.
+
+The highest max5mum efficiency by e~pation (8a) and for k = 0.0047
+SS 0.77.
+A mate forming a Supplement to the Paper* contains two figures
+(5 and St) relative tb the fo130wing example:
+f
+
+=t).tlo85,
+
+k = fig = 0.005;
+
+P = 1*7
+
+v = 24.2 ft:sec.
+
+li=20000
+
+lbs.
+
+In Fig. 5 the author has drawn the curves of effacienoy and of
+the areaof the propeller in f~ction of the slip ratio for constant
+angle of pitch: (X + @ = 45°.
+e
+These curves are draw
+asswning@=450A-cX
+
+naccording the relations (4a) and (9)
+to
+andr=l-tan~.
+
+We see that THE EFFICIENCY pASSESTBROIJGH AMAXIMUMFORA
+SLIP
+OF 131 00RRESPONDXNG TO AN ANGLE OF ATTACK OF ABOUT 4° AND TEAT TEE
+RECREASE OF EFFICIENCY IS MORE APPRECIABLE WHEN THE SLXP IS LESS TE&N
+THE OPTIMUM SLIP TH&N WHEN IT IS GREATER. As regards the curve of
+THE AREA, THIS CURVE 1S PRACTICALLY IN INVERSE PROPORTION TCITHE SLIP,
+so that the theory is confirmed by the practice which led to an. increaseof area in order to lessen the slip ratio.
+.
+(,
+
+The author decomposes the propu@ive power exerted on a propeller
+shaft *nta four terms, viz.:
+lst. The useful power equal to the product of t’hrust and speed.
+and. The power lost on account of Slip.
+3rd.
+!he power corresponding to the work of the component of
+friotion following &he axis of the propeller.
+4th. The power correspondingto the work of the oomponent of
+friction, following the perpendicular to the axis.
+The sum of these four terms constitute the propulsive power. (1)
+
+On Fig. S, the values of these four terms, the useful p~wer beconstant and equal to 20000 x 24.2 = 482bs/ft/sec., have
+been laid off in curves in function of the slip.
+i~
+
+These curves enable us to note that the power due to slip deof
+oreases as slip decreases, but that the powers dm to components
+friction inorease as slip decreases, so that the gross propulsive
+power passes through aminimun.
+Fig. 5’gives the same val~s of the efficiency, the area, and
+the various elements can-posing
+the propulsive power, injunction of
+the angle of pitch ( CZ + ~ ) for a constant angle of slip and equal
+to the optimum angle @ =
+**
+We see on the figure:
+* See Plate B.4.
+(1) See NOTE 111, p. 12.
+
+— ...—
+
+-9-
+
+lclt.
+
+2 nd.
+
+-t
+
+efficiency passes through a maxlmnxnfor an am@e
+of pitch of 450.
+the area (that is,
+the pitch increases.
+
+mat
+
+.
+
+the diameter) izlcreases
+when
+
+3rci. ‘f!bathe power dw to slip passes through a minimum bet
+tween CX + ~ = 45 and 500.
+4th. That
+tion
+1
+5th. That
+tion
+
+the power due to the
+increase~ Wath ptt~
+
+longitudinal canponent of fric-
+
+the power due to the transversal component of f~icdecreases when the pitch increases.
+
+,
+
+fiIt
+may be useful to observe Sn conclusion. tha% whatever me#”
+be the effebt & the d&fficultAee ju~t referred-to as a$ta~ng to
+the extension of t&e solution from the action of the obliquely propelling plane to that of an actual screw, there are two assertione
+which may be conf%deatly made in reference to the invest
+%gation and
+it8 reSuits:
+“lst. That the conclusions which have been dram as regarti
+the plane are in saibstance
+incontestable, so far as concerns their
+character and general tearSngs; though it is probable that quantitatively they may need some correction on the scor..e the incomof
+plete exactness of the coefficients of pressure aridof friction,
+which have been psovisioneJly suggested; end
+‘2nd. That no theoret$ca~ treatment of the action of an actual
+screw can be sound which does not i~o~orate and mainly rest on
+the principles embodied in the treatment
+of the problem of the PIEUX,
+and indeed that the character of the results muet, in their most
+essential features, be the sin both cases.”
+
+—.
+
+—
+
+.
+
+:.
+
+.
+
+A
+
+-1oV
+NOTES
+1. - It is interesting to translate the expression given by Froude
+for the elements of the reeultsnt of the action of the pter on a
+plane into”
+the notation eqloyed in aviation and especially into the
+notation of the Eiffel Laboratory, by assuning that the forces are
+proportionate to the specific weight of the fluid, that is, that they
+are ia the ratio of 800 to 1.
+Froude?s formulas are:
+p=p
+
+AV2
+
+Sin@
+
+F = fAV2
+where P is the component normal to the plane and F the component
+directed either tangentially to the plans or along the trajectory;
+p and f are the coefficients the value of which, for the water is:
+P = 1.7, (l), f = 0.008, the units being the powd, foot, and
+sscond.
+A is the area of the plane, i9B the angle of attack, and
+V the speed.
+The factor for transforming the coefficients (lbs/sq.ft/ft/sec.
+into the coefficients (Kg/sq.m/m.sec.)i.s52.5 for the water and
+52.5/8@ = 0.0656 for the air. Thus for the W?@ERwe have:
+P = 89AV2Wn@s
+‘F=
+
+0.21 AV2
+
+-
+
+and for the AIR
+P = 0.111 AV2
+
+Sin @
+
+F = 0.000524 A V2
+If me wish to determine the values of
+pressions, we find:
+
+~
+
+and ~
+
+by these ex-
+
+(1) Neglecting the term 7T Sin @ in the formulaof Rayleigh,
+27TSin@~~V2A
+P
+where ~ is the specific weight and
+=
+(4+~Sin#)2g
+n
+d’ Stn 6’ = ~.53
+g
+the acceleration of gravity, we have P = ~
+2g
+,$in @ . Now, as the author remarks onp. 3 in Beaufoyis experiments
+the resistance at 90° is 112/96, or 17% greater than that given by
+Rayleights formula. Multiplying 1.53 by 1.17, we obtain l.79; the
+author has adopted the slightly lower figure of 1.7~’
+
+r -‘---q
+
+-11=
+‘4
+
+&=
+
+omooo5z.4GrJ8&? +0.111
+
+sin2e.
+
+)
+
+] 3’ ParWel
+~
+.
+.
+
+= 0.111 Sin 0
+
+~
+
+= 0.0Q0524 +-0.111 Sin2 @
+
+K = 0.111 Sin @
+Y
+
+(Cos @
+
+to the plane
+
+-0.0047
+)
+
+)F
+>
+
+Cos @
+
+par~lel
+
+to the trajectory.
+
+We thus see at once that for small values of @ , the only ones,
+moreover, which are of interest, the formulas differ very little in
+the two cases.
+These formulas also indiate results little different from those
+lately obtaned in the aerodynamic laboratories.
+Thus the coefficient of frictioneq~
+to 0.000524/2 =0.000262
+Kg/sq.m/:sec. is of the order of the values now admitted.
+The polar diagr~ of the plane traced by the above formulas differs little from the polar of the sq=e pl~e obt~ned at the Eiffel
+Laboratory. See ‘Resistance of the Air and Aviation” p. 231).
+The above formdas may be written as follows, assuning COS (9 =1
+and introducing the coefficients p and f.
+~
+
+= 0.000524 + 0.111 Sin2 @
+
+‘Y =0.111
+
+Sin
+
+@
+
+=
+
+The minimum of lL&
+
+1=
+
+m=
+
+p
+
+= f
+
++
+
+p
+
+Sin2@
+
+Sin@
+
+is obtained with
+
+F= ’o’’’ a””
+
+and
+~
+
+minimun = 2
+
+%
+
+g
+P
+r
+
+= 2
+
+We thus see that the term k
+1/4 ( ~
+%
+
+i = 0.136
+
+entering
+
+into the formulas
+
+equal to
+
+is
+
+minimum)2.
+
+11. - Hera we see appe~ the notion of the constancy of the characteristic coefficient of the propeller R/v21@ for a givez slip.
+.
+P
+
+?
+
+1
+
+We know that R. E. Froude (1) was the first to represent test reof a f~ily 01 propellers geo~tric~~y similar but differingby
+(1) The determinant of the most suitable dimensions for screw propelion
+lers.
+‘Trmsactions of the Institution of Naval Arohitects,N 1886.
+
+sults
+
+I
+
+——
+
+.-
+
+— --
+
+—-
+
+—
+
+11] Ill---- -
+
+-12-
+
+dianeter, by a single R/v2$
+tion of the slip ratio.
+
+curve stiwing ~so
+
+the
+
+efficiency h
+
+flUlC-
+
+For representing the tests of aerial nropellera, XL Rialouchinski
+was the firit to utiiize the curves of the-&acteristic
+coefficients
+Fm/n3D5 andR/$D4
+in functitm of V/rid. (See aLa Technique Aeronautique,~ 1910.
+111. - The decompositionof the motive power into four terms corresponding to the useful power, the power due to slip, and the powers
+due to the components of friction, seems to us very suggestive and
+little known. We will therefore give the demonst~a$ionof it.
+We will call (see Fig. 1, p.4) Pl, Pt and Fl, F% the longitudinal
+and transversal components of pressure normal to the plane P, d
+of the force of friction F. We have:
+v =Vtan~
+
+tan
+tan (a+:)
+
+r = 1-
+
+and
+
+The useful power
+
+Ue = (Pl - Fl) V
+
+The motive power
+
+%
+
+I
+
+Pltan(~+@)+Ft
+=(
+
+p~tan(a+o)
+
+V=
+)
+.V+F
+
+~
++*
+
+tan
+
+?
+
+w
+
+a
+
+or, introduo%zg the slip:
+,Ug=
+
+‘l*V+F
+1 -r
+31*V
+l-r
+
+= Ue+ug.r
+
+t“v=
++F.
+t
+
+V+F1.V
+1 -r
+
++F1,v+FtV(l-r)
+
+(A)
+
+me see that the tem due to the work of the transversal componsnt
+of the force of friction co~prisee the faotor (1 - r) which is not
+mentioned by the authox.
+
+We would,also point out that the force of friction, F, may be
+replaceci fanzula (A) by any component of the resultant of the
+in
+forces of the air on the plans, provided that the other cempment be
+normal to the plane; otherwise stated: ‘1 “ v+FtV(l-r)isaoon8tant, whatever be the value of l?.
+w. k
+i
+
+I
+
+—
+
+—..
+
+>jy,l,’~
+
+.
+
+.. .
+
+.
+
+‘----
+
+.—. —-
+
+a-=.
+
+.
+
+.==,
+
+-,/..
+
+.
+
+.-
+
++4--%
+
+---
+
+.-
+
+-
+
+-
+
+.
+
+;
+
+.
+
+-,
+
+-
+
+‘,/
+
+/
+
+..
+.
+
+eww44@?’wh.’wJ
+* tqpkcwud
+pk.i.e,
+
+04%q4A-G? po@ti24A3
+
+C%.*5l@’u?d
+
+ofactu.at
+
+cqte
+
+of
+
+QW&Zfiq
+
+-ycd
+
+e.ofzqew@.g
+
+d&vLwJ
+
+of 513@
+
+2f;2 ft. p%
+of
+
+~a
+
+pil%
+
+Ib4vam 2s
+a. s-$+
+(
+
+2%3
+
+4cycL
+
+d“fk?ucq
+
+0rdina7..rom Are
+F
+.1
+
+bbb
+
+9*
+
+CCC
+
+5)
+
+dh-nadb,
+
+Wuazuf?
+
+d
+
+WCL
+
+OftL@Z
+
+of
+
+of’
+
+(3%j
+
+d?+
+
+anxxz of #z41.a
+
+aaa
+
+= Useful Cnergy. -
+
+}0
+
+ccc
+
+= ~nsr”
+
+ddd
+
+=
+
+/%
+
+FUG.5
+
+i%.
+
+-J7
+
+--
+
+.
+
+fig.-AmjAo~i@@6}vmghg
+5
+“
+
+OF uctuu/pl%h
+
+(bwb) constant=45°
+.
+.
+
+Note. The Iat}er condition gives
+maximum
+
+e Fficiency
+
+—..
+
+I
+
+s
+
+>~ .–..-
+
+&._–_2~
+
+3ca/e
+
+TRANS.
+
+INST.
+
+NAVAL
+1
+
+ARCHITECTS
+
+-
+
+#
+
+. ..._. ;5
+
+sh>
+
+VO1-.XIX
+
+p~r ceni
+
+1878
+
+(%wmzCL
+
+&dinu)e
+
+eacpend~d
+
+3’
+
+5‘)
+
+bi.a45sax&5a
+
+to
+
+Jti. .. . ..&
+
+tmagg
+
+cow3&uA-b
+
++vM
+
+tk$.%, 20.000
+
+(%5%3~
+
+-
+
+qaaea
+
+Cot-wbnt
+
+-vcwjq
+
+tie
+
+a$d.a
+
+from a,
+
+in uwercomim~
+.
+.
+q3
+
+/%
+L
+
+.
+\
+,)
+
+F%E-LATION
+
+EL.EIVH+ARY
+
+BETWEEN
+.
+
+PITCH.
+
+SLIP.
+
+AND
+
+EFFICIENCY
+
+PI?O-ULSIVE
+
+/%A?7i2NAL’ADW5t7RY
+COMMITTEE
+A&?t?!Au?7c”_ PARISown
+/%Y?
+
+.
+
+0.
+
+la 10
+
+bbb= ~neqy
+
+expendeo in s+
+
+y/./u”nancomponenen/ opsurface frichon
+a.
+v
+**
+wmwerse
+*’
+1
+
+h
+
+FIG.5’
+
+‘
+-i
+
+.
+
+-
+
+fig.’ ~ngk oFac/uo/pi}ch(orci
+5
++6
+Vo’rying
+
+I
+
+Angie
+
+i
+
+a
+
+.
+
+oFshp (or @)~ons-ont=
+
+~
+
+I
+
+I
+
+!::!
+;-
+
+i
+
+1,
+
+f
+---i-__+~A._
+
+--—
+
++———
+
+fflr~’o
+
+:
+— —.—
+
+11/
+
+; 259
+
+I
+
+JO*
+
+3.5”
+
+4-00
+
+.i
+
+..
+
+... . . :_
+
+~
+
+N o}e -
+
+The letter
+condition
+
+gives ITIux;mu I
+
+efficiency all values oF(4+ <
+for
+
+___ +./.
+
+..--l ._ ____ .- !.-.. L,.
+.L
+
+4f5”
+
+5Cti’/t? O/_&X
+
+.
+
+j
+
+50”
+
+60 “
+
+55”
+
+65°
+
+70”
+
++8)
+
+.
+
+,
+
+,’
+
+4
+
+/
+,
+/
+,.
+
+-.
+
+“.
+
+.
+
+-.
+,.‘
+
+b
+
+,“
+
+. .. . . . .
+-.,
+... .,
+
+.,
+
+,.
+.
+-. =.
+..
+
+,’
+
+,.
+....-.
+
+.:.
+i
+
+.2
+
+.
+
+i
+
+..-’
+.-
+
+..
+
++.
+
+,.- ,
+
+..
+“.
+b
+
+7
+
+,.
+
+.
+.
+.
+.
+
+.
+..
+
+.
+:..64.
+
+.
+
+,’
+
+. .
+.
+
+.
+
+,.,
+
+.
+
+. .
+
+.-
+
+.
+,.
+
+,: .-..
+.
+.
+
+{,
+
+. .
+
+.
+
+.
+
+.
+
+,~”
+.-
+
+. . ..
+..-.:
+
+.-.
+
+. -&i\j:
+“.
+
+.
+
+!
+
+-.
+
+.
+
+.
+
+.
+
